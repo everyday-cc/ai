@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-20-innovations-in-training-using-artificial-intelligence-and-machine-learning.md",
+      "title": "Innovations in training using artificial intelligence and machine learning",
+      "excerpt": "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES",
+      "sourceUrl": null,
+      "webUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
+      "originalUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eventbrite.com.au",
+        "domain": "eventbrite.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-hearing-loss-researcher-and-other-experts-say-ai-can-transform-hearing-healthcare-and-research.md",
+      "title": "Hearing-loss researcher and other experts say AI can transform hearing healthcare and research",
+      "excerpt": "In a paper published online in the journal Nature Machine Intelligence, experts from the U.K. and U.S. call for artificial intelligence to be applied to advancing research and developing new therapies to meet the growing global demand for hearing care.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-hearing.jpg",
+          "width": 2880,
+          "height": 1744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp",
+      "publishedDateTime": "2021-10-18T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics.md",
       "title": "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics",
       "excerpt": "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,",
@@ -1256,101 +1343,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence.md",
-      "title": "Acclarent Launches First ENT Navigation Technology Powered by Artificial Intelligence",
-      "excerpt": "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies,* and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html",
-      "originalUrl": "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/eedition/d/8e/d8e91b09-60a0-56b9-9039-7f2f620bb378/61676e748eb38.preview-300.jpg?resize=300%2C600",
-          "width": 300,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finger Lakes Times",
-        "domain": "fltimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-cardinal-healths-cah-unit-to-aid-canadian-healthcare-system.md",
-      "title": "Cardinal Health's (CAH) Unit to Aid Canadian Healthcare System",
-      "excerpt": "Cardinal Health's (CAH) subsidiary to support the Canadian Healthcare system against COVID-19 with vaccination policy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/388628",
-      "originalUrl": "https://www.entrepreneur.com/article/388628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388628.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

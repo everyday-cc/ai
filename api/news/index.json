@@ -2,6 +2,163 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-12-monitor-operational-metrics-for-your-amazon-lex-chatbot.md",
+      "title": "Monitor operational metrics for your Amazon Lex chatbot",
+      "excerpt": "Chatbots are increasingly becoming an important channel for companies to interact with their customers, employees, and partners. Amazon Lex allows you to build&nbsp;conversational interfaces into any application using voice and text. Amazon Lex V2 console and APIs make it easier to build, deploy, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/monitor-operational-metrics-for-your-amazon-lex-chatbot/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/monitor-operational-metrics-for-your-amazon-lex-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-5649-image001.jpg",
+          "width": 2052,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T10:19:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera.md",
+      "title": "AWS and NVIDIA launch “Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs” on Coursera",
+      "excerpt": "AWS and NVIDIA are excited to announce the new&nbsp;Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs course. The course has four parts, and is designed to help machine learning (ML) enthusiasts quickly learn how to perform modern ML in the AWS Cloud. Sign up for the course today on&nbsp;Coursera.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T09:09:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-when-doctors-become-too-reliant-on-artificial-intelligence.md",
+      "title": "When Doctors Become Too Reliant on Artificial Intelligence",
+      "excerpt": "Human error can confound algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "originalUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-434048/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "publishedDateTime": "2021-11-12T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-13-the-ethics-of-digital-technology-in-the-food-sector.md",
       "title": "The ethics of digital technology in the food sector",
       "excerpt": "Imagine a world in which smart packaging for supermarket-ready meals updates you in real-time to tell you about carbon footprints, gives live warnings on product recalls and instant safety alerts because allergens were detected unexpectedly in the factory.",
@@ -347,7 +504,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -791,7 +948,7 @@
       "originalUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -938,7 +1095,7 @@
       "originalUrl": "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1076,154 +1233,6 @@
         "AI in Finance",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool.md",
-      "title": "Interactive Voice Response Becomes Multifamily’s Latest Go-To AI Tool",
-      "excerpt": "Voice-recognition AI is the next big thing in artificial intelligence. Commercial real estate companies are starting to experiment with it as a way to improve operations. Consumers are gradually becoming more exposed to this technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globest.com/2021/11/11/interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool/",
-      "originalUrl": "https://www.globest.com/2021/11/11/interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.globest.com/contrib/content/uploads/sites/304/2021/11/Machine-Learning-AI-Hornibrook-OpTech-resize.jpg",
-          "width": 613,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globest.com/2021/11/11/interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool/?amp=1",
-      "cdnAmpWebUrl": "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/11/11/interactive-voice-response-becomes-multifamilys-latest-go-to-ai-tool/?amp=1",
-      "publishedDateTime": "2021-11-11T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeSt.com",
-        "domain": "globest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets.md",
-      "title": "Why AI Teams Need A Unified Data Format For Machine Learning Datasets",
-      "excerpt": "Data is the most important commodity today, yet we are still processing data in primitive ways. We need to break free of conventional tools and techniques for data processing. The Rise Of Unstructured Data: The Main Difference Between Structured And Unstructured data Structured data represented in rows and columns while unstructured data includes images,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618bcb2c313ebe533783e35f%2F0x0.jpg%3FcropX1%3D438%26cropX2%3D3217%26cropY1%3D0%26cropY2%3D1563",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/amp/",
-      "publishedDateTime": "2021-11-11T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-how-fintech-companies-are-changing-the-idea-of-credit-in-india.md",
-      "title": "How Fintech Companies Are Changing the Idea Of Credit In India",
-      "excerpt": "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/396710",
-      "originalUrl": "https://www.entrepreneur.com/article/396710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1636627414-towfiqu-barbhuiya-jpqyfK7GB4w-unsplash1.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

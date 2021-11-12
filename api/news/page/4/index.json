@@ -2,6 +2,254 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-09-pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter.md",
+      "title": "Peloton's $495 Guide Camera Uses AI to Help You Strength Train Smarter",
+      "excerpt": "The Peloton Guide uses machine learning and smart camera technology to track your movements, assess your form, and recommend classes focused on muscle groups you need to work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
+      "originalUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/07F3bNYyH001RVJQnJLO1dl-1.1636390379.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
+      "publishedDateTime": "2021-11-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-new-world-population-problems-are-literally-letting-ai-enemies-win-the-game.md",
+      "title": "'New World' Population Problems Are Literally Letting AI Enemies Win The Game",
+      "excerpt": "New World has 2,000 players on a server, which was supposed to be enough to sustain a healthy, large-scale PvE and PvP endgame of faction wars and defenses against demon hordes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a76f1c59faea5c3bab64a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/amp/",
+      "publishedDateTime": "2021-11-09T04:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-machine-learning-builds-customer-advocacy-beyond-black-friday-spike.md",
+      "title": "Machine Learning Builds Customer Advocacy Beyond Black Friday Spike",
+      "excerpt": "Savvy CPG leaders this holiday season are firing up customer advocacy with an online referral marketing platform that rewards high-value shoppers and their trusted circles for growth long after Black Friday sales peak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182cd6cfb85e417104d17a2%2F0x0.jpg",
+          "width": 971,
+          "height": 647,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/amp/",
+      "publishedDateTime": "2021-11-09T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering.md",
+      "title": "Lemonade buys US data science firm to boost car insurance offering",
+      "excerpt": "Israeli-founded, NY-based company makes first acquisition with MetroMile, a San Francisco outfit that leverages AI for personalized insurance policies",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/",
+      "originalUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/11/DanielShai2019-1-640x400.jpeg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/amp/",
+      "publishedDateTime": "2021-11-09T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-the-evolution-of-voice-in-elevating-the-user-experience.md",
+      "title": "The Evolution Of Voice In Elevating The User Experience",
+      "excerpt": "Voice biometric technology and voice recognition will continue to become more ingrained within the modern digital user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61892951ad641ca64a264904%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/amp/",
+      "publishedDateTime": "2021-11-09T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai.md",
       "title": "Why HR Should Pay Attention To The Emergence Of People Analytics And AI",
       "excerpt": "A key differentiator for successful organizations is how well they manage their talent. As the value of data continues to increase, the opportunity for HR to leverage this data will become more prominent.",
@@ -198,7 +446,7 @@
       "originalUrl": "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -250,7 +498,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -459,7 +707,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -606,7 +854,7 @@
       "originalUrl": "https://mainichi.jp/english/articles/20211109/p2g/00m/0sc/030000c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -947,7 +1195,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -987,251 +1235,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-ai-chipmaker-hailo-raises-136-million.md",
-      "title": "AI Chipmaker Hailo Raises $136 Million",
-      "excerpt": "AI chipmaker Hailo raised $136 million in its latest funds round, representing one of the largest investments ever in the AI chip space. It comes amid the ongoing global chip shortage, and a surge in demand for the company's technology,",
-      "sourceUrl": null,
-      "webUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million",
-      "originalUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.chdrstatic.com/media/e275f4bd-3682-4dbc-9167-97e654817f8f.jpg?width=1200&source=backend&auto=webp",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million.amp",
-      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/ai-chipmaker-hailo-raises-136-million.amp",
-      "publishedDateTime": "2021-11-08T14:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cheddar",
-        "domain": "cheddar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data.md",
-      "title": "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data",
-      "excerpt": "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/",
-      "originalUrl": "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/",
-      "publishedDateTime": "2021-11-08T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science.md",
-      "title": "AI Weekly: Corporate AI labs’ turn toward commercial research highlights need for investment in basic science",
-      "excerpt": "Corporate-backed AI labs are increasingly targeting commercial applications and domains, unsurprisingly. Where does that leave basic science?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/08/ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science/",
-      "originalUrl": "https://venturebeat.com/2021/11/08/ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/08/ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/ai-weekly-corporate-ai-labs-turn-toward-commercial-research-highlights-need-for-investment-in-basic-science/amp/",
-      "publishedDateTime": "2021-11-08T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-use-autogluon-tabular-in-aws-marketplace.md",
-      "title": "Use AutoGluon-Tabular in AWS Marketplace",
-      "excerpt": "AutoGluon-Tabular is an open-source AutoML framework that requires only a single line of Python to train highly accurate machine learning (ML) models on an unprocessed tabular dataset. In this post, we walk you through a way of using AutoGluon-Tabular as a code-free AWS Marketplace product. We use this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T11:42:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra.md",
-      "title": "Augment search with metadata by chaining Amazon Textract, Amazon Comprehend, and Amazon Kendra",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T10:56:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

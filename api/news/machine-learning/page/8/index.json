@@ -2,6 +2,94 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-16-what-ai-and-machine-learning-mean-for-auto-lending-technology.md",
+      "title": "What AI and machine learning mean for auto lending technology",
+      "excerpt": "Many industries, including automotive finance, are turning to artificial intelligence (AI) and machine learning (ML) for these efficiencies. The technologies can deliver a competitive edge to lenders looking to not just survive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/",
+      "originalUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autofinancenews.net/wp-content/uploads/2021/09/canstockphoto52285847-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/amp/",
+      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/amp/",
+      "publishedDateTime": "2021-09-15T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto Finance News",
+        "domain": "autofinancenews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-the-machine-learning-imperative-empowering-businesses-to-innovate-faster.md",
+      "title": "The Machine Learning Imperative: Empowering Businesses to Innovate Faster",
+      "excerpt": "Machine Learning (ML) took centre stage at AWS reInvent from being a key focus in the opening keynote by CEO Andy Jassy, to the entire focus of the inaugural ML keynote by Swami Sivasubramanian, VP of",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
+      "originalUrl": "https://www.bbntimes.com/companies/the-machine-learning-imperative-empowering-businesses-to-innovate-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Machine_Learning_Imperative-_Empowering_Businesses_to_Innovate_Faster.jpeg",
+          "width": 1282,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-dive-deep-into-machine-learning-with-over-75-hours-of-expert-led-training.md",
       "title": "Dive Deep Into Machine Learning With Over 75 Hours Of Expert Led Training",
       "excerpt": "One way to dive deep into these pivotal technologies is to take advantage of this deal on The Premium Machine Learning Artificial Intelligence Super Bundle, which is on sale for $36.99 (reg. $2,388).",
@@ -1233,105 +1321,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-facebook-developing-machine-learning-chip-the-information.md",
-      "title": "Facebook developing machine learning chip - The Information",
-      "excerpt": "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/d0h2VGieUoa8rWcphU5zvwQoS_s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2JN4NFPXBJGPJNAA2A7ECHILE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-aws-startup-webinar-recap-applying-ai-and-ml-to-healthcare-data.md",
-      "title": "AWS StartUP Webinar Recap - Applying AI and ML to Healthcare data",
-      "excerpt": "The mid-layer is Amazon SageMaker, which provides developers and data scientists with the ability to build, train and deploy ML models at scale. The bottom layer – of ML frameworks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp",
-      "originalUrl": "https://yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagezbqr-1631180683490.jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/09/aws-startup-webinar-recap-applying-ai-ml-healthcare-data/amp",
-      "publishedDateTime": "2021-09-09T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

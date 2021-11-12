@@ -57,6 +57,15 @@ related:
         width: 376
         height: 250
         isCached: true
+  - title: "NEC champions co-creation partnerships with SMBC at Singapore Fintech Festival 2021"
+    excerpt: "NEC Corporation (NEC; TSE: 6701) and NEC Asia Pacific advocated the need to co-create with collaborative partnerships in the banking and finance service during today's workshop at the Singapore FinTech Festival (SFF) from Nov."
+    publishedDateTime: 2021-11-09T06:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nec-champions-co-creation-partnerships-with-smbc-singapore-/2021/11/09/9487002.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "Syfe's Dhruv Arora and Samantha Horton Wins Top Accolades at the 2021 Singapore FinTech Festival Global FinTech Awards"
     excerpt: "Founder and CEO of Syfe, Dhruv Arora, and Samantha Horton, VP of Business Development, secured the awards for Top 10 FinTech Leaders and Women in FinTech respectively Organised by the Singapore FinTech Association in collaboration with the MAS,"
     publishedDateTime: 2021-11-12T15:07:00Z

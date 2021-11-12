@@ -25,103 +25,106 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker"
-    excerpt: "Machine learning (ML) and deep learning (DL) are becoming effective tools for solving diverse computing problems, from image classification in medical diagnosis, conversational AI in chatbots, to recommender systems in ecommerce. However, ML models that have specific latency or high throughput requirements"
-    publishedDateTime: 2021-11-10T01:56:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-fast-and-scalable-ai-with-nvidia-triton-inference-server-in-amazon-sagemaker/"
+  - title: "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump"
+    excerpt: "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles."
+    publishedDateTime: 2021-11-10T11:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+    ampWebUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/05/ML-6284-image001-1120x630.png"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Bring your own data to classify news with Amazon SageMaker and Hugging Face"
-    excerpt: "The fields of natural language processing (NLP), natural language understanding (NLU), and related branches of machine learning (ML) for text analysis have rapidly evolved to address use cases involving text classification, summarization, translation, and more. State-of-the art, general-purpose architectures"
-    publishedDateTime: 2021-11-09T17:53:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-to-classify-news-with-amazon-sagemaker-and-hugging-face/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 65
+  - title: "Luminar skyrockets as much as 44% after striking deal with Nvidia for self-driving car technology"
+    excerpt: "Nvidia headquarters in Santa Clara, California Justin Sullivan/Getty Images Luminar stock shot up as much as 44% after a new self-driving car"
+    publishedDateTime: 2021-11-09T16:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11"
+    ampWebUrl: "https://www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4161-image003.png"
-        width: 452
-        height: 476
+      - url: "https://i.insider.com/618a941723745d001825a76c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Nvidia: AI Can Boost Simulation in VR, Quantum Compute"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
+  - title: "Luminar To Supply Laser Sensors For Nvidia’s Self-Driving Car Platform"
+    excerpt: "The lidar upstart will supply the sensors for the DRIVE Hyperion system Nvidia is developing for use in personal self-driving vehicles starting in 2024."
+    publishedDateTime: 2021-11-09T08:30:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/11/09/luminar-to-supply-laser-sensors-for-nvidias-self-driving-car-platform/"
     type: article
     provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 54
     images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189d750f0d6cffe961b3daf%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Nvidia: AI Can Power Simulation Performance"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
+  - title: "Luminar Wins Nvidia Business in Self Driving Deal. It’s a Big Win for the Lidar Maker."
+    excerpt: "Lidar maker Luminar Technologies and tech-giant Nvidia are pairing up to put self driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate. Luminar (ticker ..."
+    publishedDateTime: 2021-11-09T09:32:00Z
+    webUrl: "https://www.barrons.com/articles/luminar-wins-nvidia-business-in-self-driving-deal-its-a-big-win-for-the-lidar-maker-51636418195"
+    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-wins-nvidia-business-in-self-driving-deal-its-a-big-win-for-the-lidar-maker-51636418195"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-wins-nvidia-business-in-self-driving-deal-its-a-big-win-for-the-lidar-maker-51636418195"
     type: article
     provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
+      name: Barron's
+      domain: barrons.com
+    quality: 51
     images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
+      - url: "https://images.barrons.com/im-356249/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Data Scientists Can Now Use RStudio With Amazon SageMaker"
-    excerpt: "Data scientists can choose between programming languages and coding interfaces to switch between RStudio and Amazon SageMaker Studio notebook."
-    publishedDateTime: 2021-11-08T06:15:00Z
-    webUrl: "https://analyticsindiamag.com/data-scientists-can-now-use-rstudio-with-amazon-sagemaker/"
+  - title: "Luminar Wins Nvidia Business in Self-Driving Deal. It’s a Big Moment for the Lidar Maker."
+    excerpt: "Lidar maker Luminar Technologies and tech giant Nvidia are pairing up to put self-driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate."
+    publishedDateTime: 2021-11-09T17:22:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Barron's
+      domain: barrons.com
+    quality: 35
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS-RStudio-Announces-General-Availability.jpg"
-        width: 1600
-        height: 1200
+      - url: "https://images.barrons.com/im-356249/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
-    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
-        width: 1100
-        height: 508
-        isCached: true
-  - title: "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference"
-    excerpt: "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,"
-    publishedDateTime: 2021-11-09T09:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
+  - title: "Inspur Information Announces Full Support for the NVIDIA AI Platform for Inference Processing"
+    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced at NVIDIA GTC that its AI and Edge inference servers will support NVIDIA A100, A30, and the newly announced A2 Tensor Core GPU s throughout its entire inference server portfolio."
+    publishedDateTime: 2021-11-09T09:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ae9ac0f26e074e2b8be9e526383c5520"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 17
+    quality: 28
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Luminar Wins Nvidia Business in Self-Driving Deal"
+    excerpt: "Text measurement Dreamstime Lidar maker Luminar Technologies and tech-giant Nvidia are pairing as much as put self-driving {hardware} into automobiles. It’s an enormous deal for Luminar and reveals traders the event of autonomous driving know-how goes to speed up."
+    publishedDateTime: 2021-11-09T12:09:00Z
+    webUrl: "https://www.tidewaternews.com/business/luminar-wins-nvidia-business-in-self-driving-deal/"
+    type: article
+    provider:
+      name: Tidewater News
+      domain: tidewaternews.com
+    quality: 24
+    images:
+      - url: "https://www.tidewaternews.com/wp-content/uploads/2021/11/1636459777_social.jpeg"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "tA54eyKzVomqrwOGPRDLWwSW+gH8rRGQT2yhiSXANCASqEmebmI1hieDd0xqU7XzU+ZJ9eL3dBQ5vEaUDrbxqsvvS8ef9FYzfDBST4CN+TluQvM8JF7M9p7cRhjfFKQwEHmKm18GfgS9t6y5HJ3JIIr9L+HhlzdoW8CxRBO3VN45rcbgz1Iifpot8IlvvyeGI1eMU9KEVIHiC699uYha10DBAWDnnsl0zjG7FK+mc/op88IiRPNCA223nVs3uW3eHrMbVNsJFwbnL7vrPxPYp27BrikwnRlu013Uzxv3PfYnXuOT0xOh3Klm1WrNG26lieiJ9d+U9y98a0mhu0YKfld85javSr5K+nNxDZ8RBazt51UHskcQQT6AKH08FF60I+l1w8IkZyvLp0fvyYuKimkaz04loSLCdPVRP88VPAQGWwBdDGaGbPd2Hb5fQBbKHjAz3eMgkp9GcoePzXlDXSCQ5hv1iy6xQLjXMJYiqiNiD9HYVx//3VG8Zr2VQIjzO26bEnJfPggo/4hZabRTMg==;TYRgqz8am2i9jafVnmnFtQ=="

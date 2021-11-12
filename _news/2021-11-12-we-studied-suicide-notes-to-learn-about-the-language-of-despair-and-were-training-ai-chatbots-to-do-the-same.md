@@ -27,81 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Improved AI Gives Chatbots a Second Life in the Digital Ecosystem"
-    excerpt: "Chatbots could be set to make a comeback, as improved artificial intelligence has some eCommerce leaders looking to use messaging platforms to make sales."
-    publishedDateTime: 2021-11-08T16:00:00Z
-    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/"
-    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/amp/"
+  - title: "Monitor operational metrics for your Amazon Lex chatbot"
+    excerpt: "Chatbots are increasingly becoming an important channel for companies to interact with their customers, employees, and partners. Amazon Lex allows you to build&nbsp;conversational interfaces into any application using voice and text. Amazon Lex V2 console and APIs make it easier to build, deploy, and"
+    publishedDateTime: 2021-11-12T18:19:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-operational-metrics-for-your-amazon-lex-chatbot/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/ecommerce-chatbot-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-5649-image001.jpg"
+        width: 2052
+        height: 707
         isCached: true
-  - title: "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart"
-    excerpt: "Flowers.com, a conversational AI tool integrated with Messenger, and explain what you want. You don’t even need to enter card details if you use Apple, Samsung or Google Pay. Or maybe like me you are a die-hard coffee lover."
-    publishedDateTime: 2021-11-10T13:49:00Z
-    webUrl: "https://theconversation.com/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart-171522"
-    ampWebUrl: "https://theconversation.com/amp/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart-171522"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart-171522"
+  - title: "Want to Throw off Your Chatbot? Use Figurative Language"
+    excerpt: "When chatbots are faced with human interaction containing similes and idioms, their performance falls to between 10 to 20%."
+    publishedDateTime: 2021-11-09T00:06:00Z
+    webUrl: "https://neurosciencenews.com/chatbot-figurative-language-19613/"
+    ampWebUrl: "https://neurosciencenews.com/chatbot-figurative-language-19613/amp/"
+    cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/chatbot-figurative-language-19613/amp/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 50
-    images:
-      - url: "https://images.theconversation.com/files/431068/original/file-20211109-15-ll83na.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "How figurative language confuses chatbots"
-    excerpt: "Computer scientists recently examined the performance of dialog systems, such as personal assistants and chatbots designed to interact with humans. The team found that when these systems are confronted with dialog that includes idioms or similes,"
-    publishedDateTime: 2021-11-08T15:39:00Z
-    webUrl: "https://techxplore.com/news/2021-11-figurative-language-chatbots.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-figurative-language-chatbots.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-figurative-language-chatbots.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
+      name: Neuroscience News
+      domain: neurosciencenews.com
     quality: 44
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/want-to-throw-off-your.jpg"
-        width: 960
-        height: 540
+      - url: "https://neurosciencenews.com/files/2021/11/chat-bot-figurative-language-neurosicess.jpg"
+        width: 770
+        height: 513
         isCached: true
-  - title: "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart"
-    excerpt: "I regularly fly with KLM from Minneapolis to New Delhi, and always stop over in Amsterdam. I am frequently in Minneapolis for research and this is my route to go home to take a break from work. I have done the journey so many times that I know almost all the shops at Schiphol inside"
-    publishedDateTime: 2021-11-11T10:38:00Z
-    webUrl: "https://capx.co/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart/"
+  - title: "Chatbots Are Confused by Figurative Language and Metaphors"
+    excerpt: "Many companies are increasingly relying on artificial intelligence-driven (AI) chatbots to help handle routine customer inquiries. These chatbots can answer common questions - 'Are you closed on Sundays?"
+    publishedDateTime: 2021-11-12T18:43:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/articles/450635-chatbots-confused-figurative-language-metaphors.htm"
     type: article
     provider:
-      name: CapX
-      domain: capx.co
-    quality: 30
-    images:
-      - url: "https://capx.co/wp-content/uploads/2021/11/shop_bot-scaled.jpg"
-        width: 2560
-        height: 1371
-        isCached: true
-  - title: "Chatbots Can Fill Gaps in Mental Health Care for Children—To a Point"
-    excerpt: "Chatbots have the potential to help millions. How can we use them to improve mental health in children? While many people may remember childhood as a carefree time, kids today face countless sources of stress: academic pressure,"
-    publishedDateTime: 2021-11-09T17:00:00Z
-    webUrl: "https://www.psychiatrictimes.com/view/chatbots-can-fill-gaps-in-mental-health-care-for-children-to-a-point"
-    type: article
-    provider:
-      name: Psychiatric Times
-      domain: psychiatrictimes.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 24
     images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/psychtimes/972990255d4a55fab15b6cc6ddc7a18b0fdffa6e-1000x422.jpg?fit=crop&auto=format"
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-nov/2468517359-AdobeStock_213094456_chatbot_message_SUPERSIZE.jpg"
         width: 1000
-        height: 422
+        height: 600
         isCached: true
 
 secured: "pTMLqq8ZCafGVtBNO76Yuq2nXnuheDGS3/ithGk/h6zKP+3bs5zm1v5IMNTuziXZvGzzDqaIrVqZqzCSobUVJwOWn/+8lKjZxpEyrN1LQ+RKd8xg7fOGVWHyKx6ufFctrYOLgPnWMSbPREcwG6gKdzEfmorwB/9JCUUHTLCB+jqybk7jn/6idnPM5iivyGxlg4uYo+xt5gZP8IqmKQtPS49gV95eImc4wl63KI7vJhh2e7yyu8TDg5RTSTS0i8ZVVrZideniCF/LDGYGbXLLk0nDfj/VEL6Jul/EGTD2gd6NZcxiW1uLMyTnpnggSgpcaX4boNKr97poPtC3EAVbUtsNoaZ9yLaFkv+8xYVa3js=;dlzwE8jpjDiqms0DWeWw9A=="

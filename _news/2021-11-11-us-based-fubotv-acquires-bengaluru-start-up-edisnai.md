@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/companies/us-based-fubotv-acqui
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/us-based-fubotv-acquires-bengaluru-start-up-edisnai/article37435495.ece/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Line
@@ -42,6 +42,15 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "FuboTV acquires computer vision startup Edisin.ai"
+    excerpt: "Sports streaming service FuboTV will use player and sponsor tracking AI to boost digital portfolio as it diversifies revenue streams."
+    publishedDateTime: 2021-11-12T17:14:00Z
+    webUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=betting"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 34
 
 secured: "uKGoY9ApmikLIpV9ijU1JasoonVtVg/Ld0kxuKdpmo3NYaNB95OSUqvR8FkeGtM2Nt0sldXV60HTAX0JtsXhZx85770JNtttUK4JTDQt73+sV4ijKXIjb+iwIsWFpdnreqsHU7fAgXeeH6MBSIf0+wgzQ3inA8iDwEALptRK4DODGrGxB2t9P3gdNYUVkFF35+8nysrK+VLkrxpOTj80CMgFKZmUPv/nbQSQgw4S4lGP7yeSHh3de46Y3eSOTUG1blI5vxVifC6tyyVJx2mT3K+xp8cWX6mJsAbC+TS5Ztspxz+gRO9HMUxvknbYAqeaDWaVhWRoLjq0ethEdR0wC3Ce5Oqsq+l3L3fbriAdvNY=;5QORjCGQlQmVs+F3K5xyYA=="
 ---

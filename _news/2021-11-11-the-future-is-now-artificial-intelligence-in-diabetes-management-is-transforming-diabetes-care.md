@@ -28,73 +28,50 @@ images:
     isCached: true
 
 related:
-  - title: "Human in the Loop for AI in Healthcare"
-    excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
-    publishedDateTime: 2021-11-08T10:43:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+  - title: "How Enterprise AI Architecture Is Transforming Every Industry From Commerce To Wealth Management, And Beyond"
+    excerpt: "Artificial intelligence (AI) has big promise to solve problems in almost every industry. AI-supported, AI-fueled, AI-based technologies are now present and capable of automating tasks in retail businesses and wealth management,"
+    publishedDateTime: 2021-11-09T00:01:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
-        width: 1200
-        height: 628
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189c74dde35cc6195fc7a9d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D627%26cropY1%3D72%26cropY2%3D425"
+        width: 627
+        height: 353
         isCached: true
-  - title: "AI and Healthcare: A timely partnership"
-    excerpt: "Today, almost every field is leveraging AI irrespective of the sectors or industries. Every day, AI is getting increasingly sophisticated at doing what we can do."
-    publishedDateTime: 2021-11-10T06:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-timely-partnership-raju-kumar"
+  - title: "Turing.com Experts Explain: How Artificial Intelligence is Transforming the Recruitment Space"
+    excerpt: "Technology has transformed the way we think and work and has become an inseparable part of our life. Industries all around the world are embracing AI/ML-based technology to improve their present systems and processes,"
+    publishedDateTime: 2021-11-10T08:12:00Z
+    webUrl: "https://www.linkedin.com/pulse/turingcom-experts-explain-how-artificial-intelligence-choudhury"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 54
+    quality: 43
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFLbpBjEvhD-w/article-cover_image-shrink_600_2000/0/1636524697847?e=1642032000&v=beta&t=GGKDExtDKUhls3heeV1JVvZOsVruKQwCYrrdBhoyfQc"
-        width: 1024
-        height: 512
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEkEJiOOECe9A/article-cover_image-shrink_600_2000/0/1636531688295?e=1642032000&v=beta&t=QjQ4HbRSxWMw2vi0_4W2nhlbYSyhbA6oeEyCkMM-KBs"
+        width: 870
+        height: 580
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2030"
-    excerpt: "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Nov 10, 2021, 23:02 /Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $ ..."
-    publishedDateTime: 2021-11-11T05:40:00Z
-    webUrl: "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030"
+  - title: "AI-Driven ITSM is Transforming IT Management"
+    excerpt: "Companies that have adopted the ITSM model are finding that AI assists to close tickets faster & empowers customers with rapid self-service."
+    publishedDateTime: 2021-11-08T18:11:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/management/ai-driven-itsm-is-transforming-it-management/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232578"
-        width: 261
-        height: 250
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/11/AI-Driven-ITSM-is-Transforming-IT-Management.jpeg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "The (in)human touch: AI and fairness in insurance"
-    excerpt: "AI could revolutionise how insurers process claims. It could even improve insurance's image. But can AI insurance be fairer? People don’t trust insurers. We’ve probably all had to contact an insurer about a problem only to find it’s not covered in the small print."
-    publishedDateTime: 2021-11-11T05:49:00Z
-    webUrl: "https://www.retail-insight-network.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 39
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/09/shutterstock_1043017390.jpg"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "AI Journey discusses digital healthcare"
-    excerpt: "Digital healthcare technology evolved fast before the pandemic: the industry would use many designs like smart watches, disinfection robots in clinics, and bioprinting robots, AI for drug development and repurposing,"
-    publishedDateTime: 2021-11-11T09:37:00Z
-    webUrl: "https://www.publicnow.com/view/CA68965C403711CD86D00517A95D90BE612565C0"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
   - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
     excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
     publishedDateTime: 2021-11-11T22:43:00Z

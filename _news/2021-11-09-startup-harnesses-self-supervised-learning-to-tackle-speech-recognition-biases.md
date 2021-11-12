@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google’s self-supervised AI model can help improve neural networks in medical research"
+    excerpt: "The key postulate of self supervised machine learning models is that they are trained on unlabelled data, thereby enabling application of AI in niche areas where collection of clearly defined data sets may be difficult,"
+    publishedDateTime: 2021-11-12T08:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research-11636706824623.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research/amp-11636706824623.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research/amp-11636706824623.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 66
+    images:
+      - url: "https://images.livemint.com/img/2021/11/12/600x338/6829affde82f48e5b57be0ef8b730720-c93d3f78e87f4e7da936d62d7e48ef21-0_1623317195889_1636707284807.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "RumTLMpienhQegzqcjMXcriD9OSK2FwApJdPSmwFvvH4lfDPAh0JDSBhKEAilvh5UfcfEZZGw9bVBV4x2Nh82hzDSgXeNOQtQ9WeqrQqhU8Id6jwfOfdhLUihqy0RAH+VfZ3rJF8pBndyeLdIY/rzM8YeXnKXG9u8r1Z/BHG3m35CZZaieHcxAwp0W5Sg4YntdNDQ/NfKl7RrcMAe6TeId+JfuYFqaa5zBWWQ3MT2PO1wQis3A0cINutn7mPc5/7n4Wq2fPp9DmAWxTzjcRWyP2SooIkV2/Kl8CAYVKA7iuRFcRTgfU1f7yZ1Q+/LJAeIKzXR3p5p8zbPaYJgi4g88+V+8nTJGBBRTnpqjqKw8kAyJ8nG0TjALLMTnVTNICBdVNOsPxGvVJox2fFGIN2SYCgrP2e5DsHncbFSTq4fK1IpmZT4sVEjxVpwbtUqPxgDhwrBo6/tdpETnl31Pwas7iaO39CTUmDZMHHSjARtrKUc1dBmLWcO/tXjJNUCbqAPniDKNFwa6bTrh6Ti92KaA==;THRsvqu9H9qTfaANwbHAjQ=="
 ---

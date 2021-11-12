@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore to Boost AI Research Funds; Start Bank Partnerships"
-    excerpt: "Singapore will introduce two artificial-intelligence programs in finance and government, and allocate an additional S$180 million ($133 million) for research into the technology, according to Deputy Prime Minister Heng Swee Keat."
-    publishedDateTime: 2021-11-08T01:05:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGtzxPrVHurM/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Singapore wants AI startups to think about healthcare"
     excerpt: "SingHealth inks three-year partnership with SGInnovate to provide resources and opportunities that deep tech startups need to develop artificial intelligence tools for the healthcare sector."
     publishedDateTime: 2021-11-09T16:51:00Z
@@ -52,6 +38,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/d0624aa4285fa985c80aad93f7165b8b4ef681d3/2014/11/28/e02b1e39-76b6-11e4-b569-d4ae52e95e57/no-deaths-from-buggy-health-software-qld-health-minister.jpg?width=770&height=578&fit=crop&auto=webp"
         width: 770
         height: 578
+        isCached: true
+  - title: "Human in the Loop for AI in Healthcare"
+    excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
+    publishedDateTime: 2021-11-08T10:43:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Singapore launches national AI schemes, adds $133M investment to research"
     excerpt: "Two programmes will look to drive the adoption of artificial intelligence in the government and financial services sectors, with another SG$180 million to be invested in the national research plan to tap the technology in key areas,"
@@ -108,35 +110,19 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "S’pore sets aside S$180M on AI research; launches e-GIRO to shorten processing times: DPM Heng"
-    excerpt: "Singapore is setting aside an additional S$180 million dollars to accelerate artificial intelligence (AI) research. It also announced the launch of two national AI programmes, and e-GIRO. Singapore’s Deputy Prime Minister Heng Swee Keat made these announcements at the opening address for the Singapore FinTech Festival x Singapore Week of Innovation & Technology (SWITCH) on Monday (Nov 8)."
-    publishedDateTime: 2021-11-08T01:26:00Z
-    webUrl: "https://vulcanpost.com/768316/ai-research-egiro-singapore-fintech-festival-heng-swee-keat/"
-    ampWebUrl: "https://vulcanpost.com/768316/ai-research-egiro-singapore-fintech-festival-heng-swee-keat/amp/"
-    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/768316/ai-research-egiro-singapore-fintech-festival-heng-swee-keat/amp/"
+  - title: "How Companies Are Using Artificial Intelligence to Tell if You’re Lying"
+    excerpt: "But when the upstart insurer earlier this year said on Twitter that artificial intelligence analyzes these videos for “non-verbal cues” that may suggest fraud, the company received a barrage of angry messages on social media. “There’s a wide range ..."
+    publishedDateTime: 2021-11-09T17:23:00Z
+    webUrl: "https://www.consumerreports.org/artificial-intelligence/how-companies-use-artificial-intelligence-to-detect-lying-a4041224738/"
     type: article
     provider:
-      name: Vulcan Post
-      domain: vulcanpost.com
-    quality: 47
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 37
     images:
-      - url: "https://cdn01.vulcanpost.com/wp-uploads/2021/11/SFF-2-HSK.jpg"
-        width: 1950
-        height: 1003
-        isCached: true
-  - title: "Singapore Rolls Out 2 New AI Programmes, Sets Aside S$180 Million More for Research"
-    excerpt: "Singapore sets aside an additional S$180 million to accelerate fundamental and translational AI research on top of the S$500 million."
-    publishedDateTime: 2021-11-08T02:10:00Z
-    webUrl: "https://fintechnews.sg/57016/singapore-fintech-festival-2021/singapore-rolls-out-2-new-ai-programmes-sets-aside-s180-million-more-for-research/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 33
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/Singapore-Rolls-Out-2-New-AI-Programmes-Sets-Aside-S180-Million-More-for-Research.png?x61066"
-        width: 1024
-        height: 567
+      - url: "https://article.images.consumerreports.org/image/upload/v1636396298/prod/content/dam/CRO-Images-2021/Electronics/11Nov/CR-TEch-Inlinehero-lie-detection-tech-1121"
+        width: 1199
+        height: 674
         isCached: true
   - title: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services"
     excerpt: "Singapore Launches National Programme To Deepen AI Capabilities In Financial Services. November 8th, 2021 \\| 12:08 PM \\| 34 views. SIN"
@@ -191,20 +177,6 @@ related:
         width: 2048
         height: 1136
         isCached: true
-  - title: "Singapore Fintech Festival 2021: What to Expect and Top Sessions to Attend"
-    excerpt: "The world’s largest fintech festival is coming back from November 08 to 12, 2021 to explore some of the hottest trends in the fintech space."
-    publishedDateTime: 2021-11-08T01:24:00Z
-    webUrl: "https://fintechnews.sg/57000/events/singapore-fintech-festival-2021-what-to-expect-and-top-sessions-to-attend/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 22
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/Singapore-Fintech-Festival-2021-What-to-Expect-and-Top-Sessions-to-Attend.jpg?x61066"
-        width: 2048
-        height: 1136
-        isCached: true
   - title: "RadLink, Singapore's Leading Imaging Center, Adapts Lunit AI to Analyze Chest X-rays and Mammograms"
     excerpt: "Lunit today announced a Reference Site Agreement with RadLink, a subsidiary of the Fullerton Health Group, Singapore's leading private diagnostic and molecular imaging service provider. As a leading medical AI company,"
     publishedDateTime: 2021-11-08T06:41:00Z
@@ -214,15 +186,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 3
-  - title: "NEC champions co-creation partnerships with SMBC at Singapore Fintech Festival 2021"
-    excerpt: "NEC Corporation (NEC; TSE: 6701) and NEC Asia Pacific advocated the need to co-create with collaborative partnerships in the banking and finance service during today's workshop at the Singapore FinTech Festival (SFF) from Nov."
-    publishedDateTime: 2021-11-09T06:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nec-champions-co-creation-partnerships-with-smbc-singapore-/2021/11/09/9487002.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "KiUB09wk3lNh3DkWR09xMjBTQqmnirp124s0kUFq2ihVLZciPoq0anMr26W5AhvcLCv/xwJV2vDUYjJiGQm54xcYu7VTEno1K3F+5HIddJYFp+GROIct7+Z2cXCV62fKN5pbBxNhQ9LMw7d0v/9TCMaRO2e4TWWR2rUBKZ2ZK4OWLkJBdoiWxarJgdQ/aAPo/8hW5zSA28ChtRIa0HcTfrZ5AdwVDoUtqihhGieDufz4fFA2JHTdSsA7ESZnJZZYCNHKBsQ7g5TCOVojSRIFQV3P3F35BsCNKlN+7cdHfcRSSqhULqj7ebYhdWuB8PNPzTHT/fCa9eq3i2RsjF4LSCJavaP7QOuLl01FYhVsXok5J4mnw0VOMbbpJfavFzbS2AOVEpZYMvR1DKGMRvJ1gwWPsj/jhclDC1SuKyD3opmWEpSrvfZ4FHvHKkcdr9LK6y1Tb5b3alxmGoZF6B8AckjjmMYv+pOECOKQn1F2Z5V6q86jMxPqH0WpI5RLerMYsqfS9fnJ0Sj1KFeGfB81AA==;axfCdefYlD5eIAvESiU6EA=="
 ---

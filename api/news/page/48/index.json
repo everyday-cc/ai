@@ -2,6 +2,245 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-10-06-marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea.md",
+      "title": "Marc Lore-backed ‘conversational commerce’ startup Wizard raises $50M Series A from NEA",
+      "excerpt": "Marc Lore, who earlier this year stepped down from his role as Walmart’s head of U.S. e-commerce, is now backing a new startup in the e-commerce space called Wizard. Lore has taken on the roles of co-founder,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/",
+      "originalUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/02/shutterstock_373885852.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/amp/",
+      "publishedDateTime": "2021-10-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-neural-magic-announces-30-million-series-a-funding-led-by-nea.md",
+      "title": "Neural Magic Announces $30 Million Series A Funding Led by NEA",
+      "excerpt": "Neural Magic, the AI company building a software platform for deep learning inference, today announced a $30 million Series A funding round led",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-google-sets-up-50m-fund-to-invest-in-african-startups.md",
+      "title": "Google sets up $50M fund to invest in African startups",
+      "excerpt": "Google plans to invest up to $50 million in African early- and growth-stage startups via its Africa Investment Fund, ramping up efforts ... will make its first set of investments, Gajria said ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/",
+      "originalUrl": "https://techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/D53E291C-8FF2-4B82-ACAC-07B55633EF10.jpeg?w=680",
+          "width": 680,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/amp/",
+      "publishedDateTime": "2021-10-06T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-how-to-identify-ai-opportunities.md",
+      "title": "How To Identify AI Opportunities",
+      "excerpt": "Businesses might throw more money to new AI in the near future, but that doesn’t guarantee they’ll get a significant return on investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/amp/",
+      "publishedDateTime": "2021-10-06T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-psa-announces-the-addition-of-viisights-to-their-approved-technology-partners-during-isc-east.md",
+      "title": "PSA announces the addition of viisights to their approved technology partners during ISC East",
+      "excerpt": "“We go further than simple object recognition by analysing full-motion video for objects and their behaviour in the context that they operate in. Our real-time behavioural analytics transform video streams into actionable insights by autonomously ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/psa-announces-addition-viisights-approved-technology-co-3292-ga-co-1565673901-ga.1633515621.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/psa-announces-addition-viisights-approved-technology-co-3292-ga-co-1565673901-ga.1633515621.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/psa-allen-riggs-chief-financial-officer-aggressive-financial-targets-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/psa-announces-addition-viisights-approved-technology-co-3292-ga-co-1565673901-ga.1633515621.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/psa-announces-addition-viisights-approved-technology-co-3292-ga-co-1565673901-ga.1633515621.html",
+      "publishedDateTime": "2021-10-06T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase.md",
       "title": "'Are we willing to pull the plug?' Tech projects are under scrutiny as digital ethics concerns increase",
       "excerpt": "Tech analysis firm anticipates a shift towards privacy that might mean some tough decisions ahead. By Daphne Leprince-Ringuet | October 6, 2021 | Topic: Artificial Intelligence For now, instead of architecting ethics directly into the product to avoid future harms,",
@@ -965,238 +1204,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-when-do-babies-play-peekaboo.md",
-      "title": "When Do Babies Play Peekaboo?",
-      "excerpt": "Is there a perfect peekaboo age? Not necessarily. Object recognition develops around month 3, and babies start to better understand the concept of object permanence by month 8. By months 9 to 12, your baby will likely be able to play peekaboo on her own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.whattoexpect.com/first-year/peek-a-boo/",
-      "originalUrl": "https://www.whattoexpect.com/first-year/peek-a-boo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.agoramedia.com/wte3.0/gcms/When-Do-Babies-Play-Peek-a-Boo-722x406.jpg?width=574",
-          "width": 574,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "What To Expect",
-        "domain": "whattoexpect.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google.md",
-      "title": "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google",
-      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/218f40d7d6678c04a643c4160e6ade1c30ea2878-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-mlops-platform-domino-data-lab-nabs-100m.md",
-      "title": "MLOps platform Domino Data Lab nabs $100M",
-      "excerpt": "Domino Data Lab, an MLOps platform aimed at enterprise customers, has raised $100 million in a funding round, with participation from Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
-      "originalUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
-      "publishedDateTime": "2021-10-05T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-onfido-named-to-2021-cb-insights-fintech-250-list-of-top-fintech-startups-for-fourth-year-running.md",
-      "title": "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running",
-      "excerpt": "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private companies working on groundbreaking financial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-22a08396da0a4a55b9da5282107d6de8",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-22a08396da0a4a55b9da5282107d6de8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-neutons-blair-newman-on-machine-learning-for-edge-computing.md",
-      "title": "Neuton’s Blair Newman on Machine Learning for Edge Computing",
-      "excerpt": "Blair Newman, CTO at Neuton, explains how “TinyML” is used to deploy machine learning on tiny microcontrollers at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/networking/neutons-blair-newman-machine-learning-for-edge-computing/",
-      "originalUrl": "https://www.eweek.com/networking/neutons-blair-newman-machine-learning-for-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-3.21.07-PM.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

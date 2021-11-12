@@ -84,6 +84,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "GTC Keynote NVIDIA Intros NVIDIA DRIVE Concierge and DRIVE Chauffer AI"
+    excerpt: "These trends are coinciding with the rapid progress of autonomous vehicle technology, meaning more drivers on the road doesn’t have to translate ... conversational AI. Omniverse Avatar connects speech AI, computer vision, natural language understanding ..."
+    publishedDateTime: 2021-11-10T02:15:00Z
+    webUrl: "https://www.autoconnectedcar.com/2021/11/gtc-keynote-nvidia-intros-nvidia-drive-concierge-and-drive-chauffer-ai/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 39
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2021/11/NVIDIADRIVEChauf-1024x533.jpg"
+        width: 1024
+        height: 533
+        isCached: true
   - title: "Inspur Information Announces Full Support for the NVIDIA AI Platform for Inference Processing"
     excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced at NVIDIA GTC that its AI and Edge inference servers will support NVIDIA A100, A30, and the newly announced A2 Tensor Core GPU s throughout its entire inference server portfolio."
     publishedDateTime: 2021-11-09T09:32:00Z

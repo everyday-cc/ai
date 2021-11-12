@@ -44,6 +44,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook’s recent announcement that it is investing heavily in the so-called metaverse – a virtual environment where people can meet,"
+    publishedDateTime: 2021-11-12T17:38:00Z
+    webUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse"
+    ampWebUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/wcm/523efdd8-c030-4e9e-be1d-134ad7ca4aed/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/wcm/523efdd8-c030-4e9e-be1d-134ad7ca4aed/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 39
   - title: "Artificial intelligence faces the real world"
     excerpt: "Nation states and big tech firms the size of states are in an artificial intelligence land-grab. What does it mean for the future of the industry?"
     publishedDateTime: 2021-11-12T12:46:00Z

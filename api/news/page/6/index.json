@@ -2,6 +2,195 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-08-symblai-provider-of-conversational-intelligence-apis-and-tools-gets-17m.md",
+      "title": "Symbl.ai, provider of conversational intelligence APIs and tools, gets $17M",
+      "excerpt": "Communication platform-as-a-service startup Symbl.ai raised $17 million in series A funding to develop its conversational AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/",
+      "originalUrl": "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/amp/",
+      "publishedDateTime": "2021-11-07T21:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-omron-invests-in-taiwans-collaborative-robot-company-techman-robot-inc.md",
+      "title": "OMRON Invests in Taiwan's Collaborative Robot Company Techman Robot Inc.",
+      "excerpt": "OMRON & Techman Robot will together deliver a highly flexible and scalable ... By adopting a wide range of control devices and artificial intelligence (AI), machines can learn through experience and maintain themselves in optimal condition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc",
+      "originalUrl": "https://www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_763.jpg?itok=3PkWL07Z",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc?amp",
+      "publishedDateTime": "2021-11-07T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-ai-system-that-lets-robots-manipulate-2000-objects-created-mit.md",
+      "title": "AI system that lets robots manipulate 2,000 objects created: MIT",
+      "excerpt": "MIT scientists have created an artificial intelligence-based algorithm that allows robots to learn how to manipulate and reorient more than 2,000 geometrically different objects, with both the hand facing upwards and downwards.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "originalUrl": "https://inshorts.com/en/news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/7_sun/img_1636297058079_596.jpg?",
+          "width": 1080,
+          "height": 1748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "publishedDateTime": "2021-11-07T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-singapore-to-boost-ai-research-funds-start-bank-partnerships.md",
+      "title": "Singapore to Boost AI Research Funds; Start Bank Partnerships",
+      "excerpt": "Singapore will introduce two artificial-intelligence programs in finance and government, and allocate an additional S$180 million ($133 million) for research into the technology, according to Deputy Prime Minister Heng Swee Keat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGtzxPrVHurM/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-07T17:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-indian-ai-market-to-reach-soaring-heights-by-2025.md",
       "title": "Indian AI market to reach soaring heights by 2025",
       "excerpt": "CIOs looking to keep pace with their competitors will need to up their spending on AI in the coming years. IDC forecasts that businesses will adopt it to address organizational needs such as real-time analysis,",
@@ -483,6 +672,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-07-sber-to-open-rd-centre-in-berlin-to-expand-horizons-in-machine-learning.md",
+      "title": "Sber to open R&D centre in Berlin “to expand horizons in machine learning”",
+      "excerpt": "Sber, the Russian financial and digital giant, is preparing to open an R&D centre in Berlin — its first one in Western Europe. These plans were",
+      "sourceUrl": null,
+      "webUrl": "https://intellinews.com/index.php/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/",
+      "originalUrl": "https://intellinews.com/index.php/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/Screenshot_2021-11-07_at_13.41.59_Cropped.png",
+          "width": 900,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-07T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business New Europe",
+        "domain": "intellinews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-a-robot-imitates-the-rolling-stonesand-other-small-business-tech-news-this-week.md",
       "title": "A Robot Imitates The Rolling Stones…And Other Small Business Tech News This Week",
       "excerpt": "1 —Boston Dynamics robots imitated the Rolling Stones performing ‘Start Me Up’. Boston Dynamics recently shared ... 81 percent of online retailers are increasing their AI budget to automate AP processes. The 2021 eCommerce Outlook Report from ...",
@@ -946,247 +1179,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-alphabets-isomorphic-labs-says-it-will-use-ai-to-discover-new-drugs.md",
-      "title": "Alphabet's Isomorphic Labs Says It Will Use AI to Discover New Drugs",
-      "excerpt": "The company will build off of breakthroughs in protein prediction from DeepMind and inches Big Tech one step further into the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449",
-      "originalUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ff798528b11ef62b1fe1def5a6099780.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp",
-      "publishedDateTime": "2021-11-05T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results.md",
-      "title": "Clickedin Founder Franco Ieraci Creates AI Software That Delivers Results",
-      "excerpt": "TORONTO, ON / ACCESSWIRE / November 5, 2021 / It's the same story. Companies pay lots of money only to get burned by marketing companies who can't deliver",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results",
-      "originalUrl": "https://www.digitaljournal.com/pr/clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/COP26-climate-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-bloomberg-news.md",
-      "title": "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News",
-      "excerpt": "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
-      "publishedDateTime": "2021-11-05T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-run-alphafold-v20-on-amazon-ec2.md",
-      "title": "Run AlphaFold v2.0 on Amazon EC2",
-      "excerpt": "After the article in Nature about the open-source of AlphaFold v2.0 on GitHub by DeepMind, many in the scientific and research community have wanted to try out DeepMind’s AlphaFold implementation firsthand. With compute resources through Amazon Elastic Compute Cloud (Amazon EC2) with Nvidia GPU, you",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML_5671_feature.png",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T12:59:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-how-ai-will-make-your-doctor-smarter.md",
-      "title": "How AI Will Make Your Doctor Smarter",
-      "excerpt": "From suicide prevention to infection tracking, the U.S. military is applying the latest technology to a host of medical challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
-      "originalUrl": "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-429385/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
-      "publishedDateTime": "2021-11-05T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

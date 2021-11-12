@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
 type: article
 quality: 68
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s self-supervised AI model can help improve neural networks in medical research"
+    excerpt: "The key postulate of self supervised machine learning models is that they are trained on unlabelled data, thereby enabling application of AI in niche areas where collection of clearly defined data sets may be difficult,"
+    publishedDateTime: 2021-11-12T08:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research-11636706824623.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research/amp-11636706824623.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research/amp-11636706824623.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 66
+    images:
+      - url: "https://images.livemint.com/img/2021/11/12/600x338/6829affde82f48e5b57be0ef8b730720-c93d3f78e87f4e7da936d62d7e48ef21-0_1623317195889_1636707284807.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Startup harnesses self-supervised learning to tackle speech recognition biases"
     excerpt: "Speechmatics self-supervised learning made its speech recognition software better at recognizing a range of voices."
     publishedDateTime: 2021-11-08T18:24:00Z
@@ -46,6 +62,6 @@ related:
         height: 640
         isCached: true
 
-secured: "OtlXXe/S9CcBHETgLFLqEA4wo0qqydBq8FnQ9qY3HrUQ1EZxqrAULojJvfzecV92MZccVRFqys0Z0DOv4+HdvrKgI+D3YaUwsnpPREUoyJhSXNx+dPm3iCkmVSXq4QqMXUGWaa+yXSKZRh0qSy5xRclJL1rTDdmuDqov61T+TfDZsQHNvxIq2tm0X4dJY0wpbxytD5FtJG8wufVfDr9U2amEA4Exsw+zUH+PZqNdGPVer3Yp7C+1WOxmE+yaSF6X+Dwzf8bz37DTUDDNa6xWMzkCAG1sNRtLPEiuY1CQUlx5GKVfix2y2GErCF9Cu0+irUUfUADOdyopGNFLPk24+bzEh8nmu2loeYBLU08lFgI=;DwGeXIgd3E9+gkgoHOOU2Q=="
+secured: "XIgGRp1tplsQ4Kjkf5AST6NDGp5xTk4cFyaAP4wleISKf0qcM7s5qGU8k0p0d+Ukf88tf+JU53+uLaNVEFRzH5uf+0gRzpsUYGvp2cSA3uSjwI9qS7Tu1nykl0N8IJKlw5ObqrY9HExp/U3B2M+fSIj8urLppRcqiaBcyiVvKq/jjyPI07p8MYRWm0UJ93rJ0QJSupzTLsWDcMJ+3KrgE6lwtM1gbyUADhiINGUt2f3gksAYM15SzAY7tze38kzTrhh6RSgUfS+LPNTga2eNKIwpIqxG1m6n/nQ1FBISk7uzVlWyOESDdMxDxLRCEwSX2j26s9JXZxFFpID40sHCLoRu91ygErwMmjEcZQb4jVyrqP/mMGSdUwy29Euk/AqF45jZwPA5ZBImWlo7RVKLzTiphxpZM/UxLqsREz+DW1vCcxdVONVAAee5jYoJopJlKOa12v5zyRwj+fxreQLIvVzYRD3EEQjHJVYWh7nP/lUCpLY26v6hPkcS/suyuij7q5IwLyzH3Eh4k20kZUsziw==;rWsQ+EwhEOHAcNQ2EA+uWA=="
 ---
 

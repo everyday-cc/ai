@@ -42,6 +42,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "FuboTV acquires computer vision startup Edisin.ai"
+    excerpt: "Sports streaming service FuboTV will use player and sponsor tracking AI to boost digital portfolio as it diversifies revenue streams."
+    publishedDateTime: 2021-11-12T17:14:00Z
+    webUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=betting"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 34
 
 secured: "yY1O7Lp9r2/nmPTFg40YCAa8wi02ISx5DDWLbWHIBbI5ih7SdlTHD2gsuuvboHIFIPJnsgQgFRzgYtcwjnvivafocHNFUb06optKsEpZ4Ac4Ss9dp+Nbj7qxT/FyBErwOHneVxBKAFJmTCUBhI/Fjuitvbz8jLZTaCHL5/BzA8X8e+aDpt5VgGgdIP57stYGZXHqYJXXmXvJ0zi0ds6ZOXrhbghOTJro2Y0Jw9ZrW3OJmY6sI3ineW/LOtHTw+6Pt/MYMfhmlQnfLwDME7kB32EtLkIQnO4kmgAm0xSfwwiBgxt2+Fa8O93kTTvOYXb/5J1Us48IFuicRcfCkdhBDZXtlTzEb5iG/fT+2k4tH0qETb3SpWJu/riCt0fLFgUyC9HMqTX3d9cnyj9Ym8k4IbmxVjFblTEbnvF1reqf9g9T6aAYN/0AlgkXXZWle1XnMXhIPGX55mGE7sbxqFOTVRBdsCQWXoYvnm9dSON1NyLpeSnn+QZbrnuyqI7Dg85lHRFN6pGnYSCUPkj1FETfXA==;lqBdS/8FZOfOdDp08mmhRg=="
 ---

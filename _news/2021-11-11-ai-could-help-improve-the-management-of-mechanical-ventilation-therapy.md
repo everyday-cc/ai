@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "How AI fights fraud in the telecom industry"
+    excerpt: "Americans lost $29.8 billion in phone fraud over the past year. Can AI fraud detection change this? In 2021, over 59 million Americans said they lost money as a result of phone scams, with an average reported loss of $502."
+    publishedDateTime: 2021-11-12T17:10:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-fights-fraud-in-the-telecom-industry/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/11/12/8fd559d3-583c-4749-a481-c64fd1c451b8/resize/1200x/cb959c0d1ff5d8f4c3b6e9f00d07ee11/shutterstock-1908709960.jpg"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "This New AI Can Change Your Accent Mid-Conversation"
     excerpt: "Advertisement In today’s multicultural society, language is the biggest barrier between the employer and the employee. And now as more opportunities for remote jobs are open, employees’ biggest fear is the language barrier or the different accents that might put them in a tough spot with the company they are applying for."
     publishedDateTime: 2021-11-08T18:55:00Z

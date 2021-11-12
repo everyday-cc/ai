@@ -141,6 +141,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Beware of These 2 Popular but Overvalued Fintech Stocks"
+    excerpt: "There remains uncertainty regarding whether the COVID-19 pandemic-fueled growth of fintech will continue. Furthermore, banks have been easing restrictions and ramping up technology spending, and by so doing posing a competitive threat to the fintech industry."
+    publishedDateTime: 2021-11-12T17:55:00Z
+    webUrl: "https://stocknews.com/news/upst-sofi-beware-of-these-2-popular-but-overvalued-fintech-stocks/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
   - title: "The Key Mobile App Features to Consider for your Fintech App"
     excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
     publishedDateTime: 2021-11-10T03:16:00Z

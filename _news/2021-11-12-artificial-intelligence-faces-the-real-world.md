@@ -54,6 +54,17 @@ related:
         width: 326
         height: 400
         isCached: true
+  - title: "AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook’s recent announcement that it is investing heavily in the so-called metaverse – a virtual environment where people can meet,"
+    publishedDateTime: 2021-11-12T17:38:00Z
+    webUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse"
+    ampWebUrl: "https://nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/wcm/523efdd8-c030-4e9e-be1d-134ad7ca4aed/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/wcm/523efdd8-c030-4e9e-be1d-134ad7ca4aed/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 39
   - title: "UAE-Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
     excerpt: "C3 AI (NYSE:AI) and Shell (NYSE:RDS) today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
     publishedDateTime: 2021-11-10T09:43:00Z

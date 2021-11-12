@@ -73,6 +73,20 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
+    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
+        width: 1100
+        height: 508
+        isCached: true
 
 secured: "eIAiMttMnDdYGAzRhhxjSsPWWZVc6P/a3jtsAThlljjmbsLmakP4lOtkHM3rXMsnqOdhS71549gaED+AZ9kz0PbH7xvzU5oOn+tm/3zJ886AOl1fLcOeMf8VhrzLerIGMAHUyp0MfX4LZ4v92jt7lnoEIcuRtsx1AUmptN4bsFinirfBuNRrh3Im8AeVILj5yGS4I+oA46M52j9QrFaBtEJNuB5BPt4XyWCBWNI75VY7rHEBkbLebh65dJMKnTlGkFH/SLMk0bM0Y6MbTB2AFhwLhOicXWX3XIiB5PlGWcCefmRg4zJLTO7SB/wah02dgjE1TIIpdyAYw9i68chY0wLyepPGAPMSlyMY7hST2f0=;sM02O+Sl0BmqTHizZZtIng=="
 ---

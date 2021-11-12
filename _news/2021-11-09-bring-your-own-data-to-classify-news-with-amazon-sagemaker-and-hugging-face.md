@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS and NVIDIA launch “Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs” on Coursera"
+    excerpt: "AWS and NVIDIA are excited to announce the new&nbsp;Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs course. The course has four parts, and is designed to help machine learning (ML) enthusiasts quickly learn how to perform modern ML in the AWS Cloud. Sign up for the course today on&nbsp;Coursera."
+    publishedDateTime: 2021-11-12T17:09:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 107
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
   - title: "Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker"
     excerpt: "Machine learning (ML) and deep learning (DL) are becoming effective tools for solving diverse computing problems, from image classification in medical diagnosis, conversational AI in chatbots, to recommender systems in ecommerce. However, ML models that have specific latency or high throughput requirements"
     publishedDateTime: 2021-11-10T01:56:10Z
@@ -43,89 +57,19 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Nvidia: AI Can Boost Simulation in VR, Quantum Compute"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
+  - title: "Automatically detect sports highlights in video with Amazon SageMaker"
+    excerpt: "Extracting highlights from a video is a time-consuming and complex process. In this post, we provide a new take on instant replay for sporting events using a machine learning (ML) solution for automatically creating video highlights from original video content. Video highlights are then available for"
+    publishedDateTime: 2021-11-12T18:57:26Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-detect-sports-highlights-in-video-with-amazon-sagemaker/"
     type: article
     provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
     images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
-        isCached: true
-  - title: "Nvidia: AI Can Power Simulation Performance"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
-        isCached: true
-  - title: "Data Scientists Can Now Use RStudio With Amazon SageMaker"
-    excerpt: "Data scientists can choose between programming languages and coding interfaces to switch between RStudio and Amazon SageMaker Studio notebook."
-    publishedDateTime: 2021-11-08T06:15:00Z
-    webUrl: "https://analyticsindiamag.com/data-scientists-can-now-use-rstudio-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS-RStudio-Announces-General-Availability.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "GTC Keynote NVIDIA Intros NVIDIA DRIVE Concierge and DRIVE Chauffer AI"
-    excerpt: "These trends are coinciding with the rapid progress of autonomous vehicle technology, meaning more drivers on the road doesn’t have to translate ... conversational AI. Omniverse Avatar connects speech AI, computer vision, natural language understanding ..."
-    publishedDateTime: 2021-11-10T02:15:00Z
-    webUrl: "https://www.autoconnectedcar.com/2021/11/gtc-keynote-nvidia-intros-nvidia-drive-concierge-and-drive-chauffer-ai/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 39
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2021/11/NVIDIADRIVEChauf-1024x533.jpg"
-        width: 1024
-        height: 533
-        isCached: true
-  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
-    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
-        width: 1100
-        height: 508
-        isCached: true
-  - title: "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference"
-    excerpt: "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,"
-    publishedDateTime: 2021-11-09T09:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/02/ML-488-image001-356x630.png"
+        width: 356
+        height: 630
         isCached: true
 
 secured: "mK7RSUY3GGWkthEGF2kT/TwaZOoTDV2Eh5ITdLgYbvcsBHhwQ8GdIjUVoBkQzWUEx6Oreem8fHyvGIYFnGjfuolRgPqP+o6Y64diQckCHBh+nmzxtbFPplBgBpuZ4Beg9bUR84qz98XtS+sLwAa4J8lyH9GsqJ39dQ9vA22jiFDT/dLnHjHPbe1taZ3BCTCR/Egwdnp35NHMgeU297M7wGjPdmRglJHw/LR3nibB2AjB1NF1W6zLEPtN9Ojxnod4oI70quXvwwHgfS59CnMKI4KDpotv6vpGocxjMMtwu5V2vJTJ9Jm2IZ8HvJ8CPVEfSrxGYazMp2CT+1p+jdGKm4yV8RN2wNhVUQkdA4SSyuo=;JRBXaW0n6GBVShXuNP8qpQ=="

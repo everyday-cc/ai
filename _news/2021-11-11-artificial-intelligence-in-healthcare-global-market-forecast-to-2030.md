@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Human in the Loop for AI in Healthcare"
-    excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
-    publishedDateTime: 2021-11-08T10:43:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI and Healthcare: A timely partnership"
     excerpt: "Today, almost every field is leveraging AI irrespective of the sectors or industries. Every day, AI is getting increasingly sophisticated at doing what we can do."
     publishedDateTime: 2021-11-10T06:11:00Z
@@ -55,20 +39,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "The (in)human touch: AI and fairness in insurance"
-    excerpt: "AI could revolutionise how insurers process claims. It could even improve insurance's image. But can AI insurance be fairer? People don’t trust insurers. We’ve probably all had to contact an insurer about a problem only to find it’s not covered in the small print."
-    publishedDateTime: 2021-11-11T05:49:00Z
-    webUrl: "https://www.retail-insight-network.com/features/the-inhuman-touch-ai-and-fairness-in-insurance/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 39
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/09/shutterstock_1043017390.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "AI Journey discusses digital healthcare"
     excerpt: "Digital healthcare technology evolved fast before the pandemic: the industry would use many designs like smart watches, disinfection robots in clinics, and bioprinting robots, AI for drug development and repurposing,"
     publishedDateTime: 2021-11-11T09:37:00Z
@@ -78,34 +48,6 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 34
-  - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
-    excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
-    publishedDateTime: 2021-11-10T22:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-now-artificial-intelligence-diabetes-management-pooja-m"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGSFmHNp2wD8w/article-cover_image-shrink_720_1280/0/1636581666832?e=1642032000&v=beta&t=dzrKyxUa3n4gGzDZFoL7cBVaF78iIxZVIhnDgJaayZk"
-        width: 1079
-        height: 720
-        isCached: true
-  - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
-    excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
-    publishedDateTime: 2021-11-11T22:43:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-now-artificial-intelligence-diabetes-care-pooja-mahajan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFJF7dOiEEvyQ/article-cover_image-shrink_720_1280/0/1636670600616?e=1642032000&v=beta&t=vlbhONLo_ujOnXG_7VQF2MM9VpWxZrrhibGcY_l5qeY"
-        width: 1079
-        height: 720
-        isCached: true
 
 secured: "dMgFXNsQTnXmlA04jeAsUkluNFf0R63EvwX7PSB9sGCmvBGTQaeQUQpWzi413NgGkqbr42p+Llb2rh6MeebAag8GPc5s89tQF5xOqkAysRTrC8v/poFqy924ajr1PJHIaLK27gfNO/S65x1yuK1ExCJKYNNeL8MQiauynXLAa1YeuIG1IeSNbzuSNPCJg5ny17Xm4MTYweDrFbWeIDJtk4Uqfw0LtF7s8SVpaLmzoX8+4IaHodBSG3az9NWVadJHJlUanJV0xxQ8Padez5xyyHW6xrCTat+Vf5rfw98T7u3I/qEQT9Ij8YAEseeUzJVFI5RNRtSeB6P67dFvRFa4ONtrCmzSmh+M4Qa/2SJ7sxU=;kG7SpfMJQafOVWSBK4AOyA=="
 ---

@@ -54,6 +54,34 @@ related:
         width: 870
         height: 580
         isCached: true
+  - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
+    excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
+    publishedDateTime: 2021-11-10T22:01:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-now-artificial-intelligence-diabetes-management-pooja-m"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGSFmHNp2wD8w/article-cover_image-shrink_720_1280/0/1636581666832?e=1642032000&v=beta&t=dzrKyxUa3n4gGzDZFoL7cBVaF78iIxZVIhnDgJaayZk"
+        width: 1079
+        height: 720
+        isCached: true
+  - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
+    excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
+    publishedDateTime: 2021-11-11T22:43:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-now-artificial-intelligence-diabetes-care-pooja-mahajan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFJF7dOiEEvyQ/article-cover_image-shrink_720_1280/0/1636670600616?e=1642032000&v=beta&t=vlbhONLo_ujOnXG_7VQF2MM9VpWxZrrhibGcY_l5qeY"
+        width: 1079
+        height: 720
+        isCached: true
 
 secured: "JmOnga/l5tNLSirQY+LcHQwtPclDQw0IYbWQ0QBHMznWp/U2VMNJFsPPZSwddah9IW9Mx9i2yQkYZ4YTo2WiKtJpRzKUO1kejurvymuHvA4p46mSt5Vb5PZ/f+KKOnEKoDqJnSdxrhU9tauNnfx35oIidwUzUuuf2iR10oxmw774KPiTxu5wcK9Xss7GJDDpl626sLynePeXuOHfCkHravqdtZWTtS700suxxrmcZwRUlBccQhSH5nA4MV9Oo/BPfXOiNQzXjb7smcjcqMfUPqQZkUqN4kVf2+t43jv6+kXabgHYLTGMOG1if+xRQm3qZg5uTudaq19JrkX+S5Sec4SgmcUqLmS/0n6NdtExUtWvvNBiiOFDJM+g1fWA54mXNQxxifjUI0SVm3dd6oN6MO7QIpbo+JfqnHEdaDwpAZ82DeKy2d95sw8oHqnRxXsMjNI3fWQW0YSAd1gnEYJOa00OcvVztqxkSzf0+zfjKg7gytp7HGHyjtlikCkFXe3RaazCvFFKtif8Y1lgAJ9/6A==;xcLCL+4aKUdmnFK84+CnTA=="
 ---

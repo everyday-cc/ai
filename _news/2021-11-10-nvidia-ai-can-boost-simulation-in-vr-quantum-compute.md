@@ -27,104 +27,59 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker"
-    excerpt: "Machine learning (ML) and deep learning (DL) are becoming effective tools for solving diverse computing problems, from image classification in medical diagnosis, conversational AI in chatbots, to recommender systems in ecommerce. However, ML models that have specific latency or high throughput requirements"
-    publishedDateTime: 2021-11-10T01:56:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-fast-and-scalable-ai-with-nvidia-triton-inference-server-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/05/ML-6284-image001-1120x630.png"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Bring your own data to classify news with Amazon SageMaker and Hugging Face"
-    excerpt: "The fields of natural language processing (NLP), natural language understanding (NLU), and related branches of machine learning (ML) for text analysis have rapidly evolved to address use cases involving text classification, summarization, translation, and more. State-of-the art, general-purpose architectures"
-    publishedDateTime: 2021-11-09T17:53:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-to-classify-news-with-amazon-sagemaker-and-hugging-face/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4161-image003.png"
-        width: 452
-        height: 476
-        isCached: true
-  - title: "Nvidia: AI Can Power Simulation Performance"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
-        isCached: true
-  - title: "Data Scientists Can Now Use RStudio With Amazon SageMaker"
-    excerpt: "Data scientists can choose between programming languages and coding interfaces to switch between RStudio and Amazon SageMaker Studio notebook."
-    publishedDateTime: 2021-11-08T06:15:00Z
-    webUrl: "https://analyticsindiamag.com/data-scientists-can-now-use-rstudio-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS-RStudio-Announces-General-Availability.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "GTC Keynote NVIDIA Intros NVIDIA DRIVE Concierge and DRIVE Chauffer AI"
-    excerpt: "These trends are coinciding with the rapid progress of autonomous vehicle technology, meaning more drivers on the road doesn’t have to translate ... conversational AI. Omniverse Avatar connects speech AI, computer vision, natural language understanding ..."
-    publishedDateTime: 2021-11-10T02:15:00Z
-    webUrl: "https://www.autoconnectedcar.com/2021/11/gtc-keynote-nvidia-intros-nvidia-drive-concierge-and-drive-chauffer-ai/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 39
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2021/11/NVIDIADRIVEChauf-1024x533.jpg"
-        width: 1024
-        height: 533
-        isCached: true
-  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
-    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
+  - title: "Everything announced at Nvidia's Fall GTC 2021: Omniverse Avatar, CuQuantum, Clara Holoscan and more"
+    excerpt: "During the GTC keynote, Nvidia CEO Jensen Huang showcased a range of new Nvidia products and initiatives, spanning virtual reality, enterprise AI, cybersecurity, quantum computing, advances in automotive and healthcare and more."
     publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
+    webUrl: "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
+      name: ZDNet
+      domain: zdnet.com
+    quality: 59
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
-        width: 1100
-        height: 508
+      - url: "https://www.zdnet.com/a/img/resize/f3093f55db1b12000c82b7534e35491a88175dbc/2021/11/09/2859cd08-d3cd-48bc-a1b6-ee39f3b82f30/doca-zero-trust-image.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 756
         isCached: true
-  - title: "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference"
-    excerpt: "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,"
-    publishedDateTime: 2021-11-09T09:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
+  - title: "Nvidia GTC Fall 2021: 8 Big Announcements For AI, Security And More"
+    excerpt: "A roundup of eight big announcements at Nvidia’s fall GTC 2021 conference that cover areas like AI, security, networking, 3-D design and more."
+    publishedDateTime: 2021-11-11T22:54:00Z
+    webUrl: "https://www.crn.com/slide-shows/components-peripherals/nvidia-gtc-fall-2021-8-big-announcements-for-ai-security-and-more"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
+      name: CRN
+      domain: crn.com
+    quality: 56
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.crn.com/resources/026f-13b321c1b659-57c5206111f9-1000/slide1.jpg"
+        width: 610
+        height: 344
         isCached: true
+  - title: "Nvidia announces deeper push into healthcare industry at GTC 2021"
+    excerpt: "Nvidia is diving deeper into the healthcare industry. During its GTC 2021 conference, the company rolled out artificial intelligence and cloud capabilities meant to do everything"
+    publishedDateTime: 2021-11-09T08:30:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-announces-deeper-push-healthcare-093030243.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/TMoXXvptdfK3BdabthDiag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mzg-/https://s.yimg.com/uu/api/res/1.2/IbicQk__gOxYepdMl8eL.w--~B/aD02ODA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_finance_433/ac55e8369c2010fa148d1246f4dc8c99"
+        width: 1200
+        height: 638
+        isCached: true
+  - title: "NVIDIA GTC: Networking, Healthcare AI, Modeling and Simulation﻿"
+    excerpt: "Jensen Huang’s kitchen—the site of the past several NVIDIA GTC Keynotes—deconstructed itself today in a slick simulated introduction as Huang, NVIDIA’s CEO, delivered his keynote highlighting the latest in AI and accelerated computing at NVIDIA."
+    publishedDateTime: 2021-11-09T22:50:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/11/09/nvidia-gtc-networking-healthcare-ai-modeling-and-simulation"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 38
 
 secured: "bD3cJQZ0MGQ8euEKLVgScQ9uZZtqufnV/ztTU/nRkE1VrCRaCSCSc/GaNDE+7pqwzY2ibROi4ro/LQoOEvInQL5AFRlxFqW6bFWEg0NBpsYGx+AIiZZdPHwRTv0QmEcOY1r2iRMZttxVZKG/ZsOBqVgaaLYOU7C00Gh8Q9JLb1075e5BsrOb2bxFTxUx8GWHHnQx/lRjw82ESY5vfjq7u+/whdPaNUstRwLkPUlwWzYaHEQDIJiPFMhfua/Zh0/dWGMo/NHwi7LbQO3u8x3wA7EWFri+JGaV10Yf12QBPfkc5OGlDAR+xxfwnyl85n2iCAGSZEdY+L1qrIIzsoCXQww+TJ1mRP5F+WiubBWujzWQRxIKCix4XSLKU91+Wve4O+Gh6TJJQ9ANKWgW0GiofK/WRXVBgccoR/1ZLF1CAZ/W1X9v0QiihHK1qSJnWWY85Cdc41t25Dl0g3jkuJdFFBIZ/PxxNFVGGNU6teDscggT/IMFG8J8Dxv6bO8ihnzXhn8WzA/+gzxEMIDmbTsHdQ==;aqm4T9HFu0IB79AIQcTvgw=="
 ---

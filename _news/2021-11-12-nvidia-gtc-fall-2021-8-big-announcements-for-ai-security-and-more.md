@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 756
         isCached: true
+  - title: "Nvidia: AI Can Boost Simulation in VR, Quantum Compute"
+    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
+    publishedDateTime: 2021-11-09T17:51:00Z
+    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 43
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
+        width: 648
+        height: 392
+        isCached: true
   - title: "Nvidia announces deeper push into healthcare industry at GTC 2021"
     excerpt: "Nvidia is diving deeper into the healthcare industry. During its GTC 2021 conference, the company rolled out artificial intelligence and cloud capabilities meant to do everything"
     publishedDateTime: 2021-11-09T08:30:00Z

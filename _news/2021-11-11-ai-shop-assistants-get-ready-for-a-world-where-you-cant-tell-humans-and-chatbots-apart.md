@@ -73,22 +73,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "We studied suicide notes to learn about the language of despair, and we're training AI chatbots to do the same"
-    excerpt: "While the art of conversation in machines is limited, there are improvements with every iteration. As machines are developed to navigate complex conversations, there will be technical and ethical challenges in how they detect and respond to sensitive human issues."
-    publishedDateTime: 2021-11-12T14:10:00Z
-    webUrl: "https://medicalxpress.com/news/2021-11-suicide-language-despair-ai-chatbots.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-11-suicide-language-despair-ai-chatbots.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-suicide-language-despair-ai-chatbots.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/we-studied-suicide-not.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Chatbots Can Fill Gaps in Mental Health Care for Children—To a Point"
     excerpt: "Chatbots have the potential to help millions. How can we use them to improve mental health in children? While many people may remember childhood as a carefree time, kids today face countless sources of stress: academic pressure,"
     publishedDateTime: 2021-11-09T17:00:00Z

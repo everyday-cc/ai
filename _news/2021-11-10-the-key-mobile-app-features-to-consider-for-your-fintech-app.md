@@ -132,6 +132,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Beware of These 2 Popular but Overvalued Fintech Stocks"
+    excerpt: "There remains uncertainty regarding whether the COVID-19 pandemic-fueled growth of fintech will continue. Furthermore, banks have been easing restrictions and ramping up technology spending, and by so doing posing a competitive threat to the fintech industry."
+    publishedDateTime: 2021-11-12T17:55:00Z
+    webUrl: "https://stocknews.com/news/upst-sofi-beware-of-these-2-popular-but-overvalued-fintech-stocks/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
   - title: "The dawn of a founder-led startup ecosystem in India"
     excerpt: "Early and successful Indian serial entrepreneurs are giving back to the community through investments and supports. Over the years, a wide array of factors have accounted for the growth of India’s startup ecosystem."
     publishedDateTime: 2021-11-08T07:02:00Z

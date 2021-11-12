@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-12-aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera.md",
+      "title": "AWS and NVIDIA launch “Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs” on Coursera",
+      "excerpt": "AWS and NVIDIA are excited to announce the new&nbsp;Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs course. The course has four parts, and is designed to help machine learning (ML) enthusiasts quickly learn how to perform modern ML in the AWS Cloud. Sign up for the course today on&nbsp;Coursera.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T09:09:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-how-deep-learning-turns-contextual-targeting-into-a-cutting-edge-tool.md",
       "title": "How Deep Learning Turns Contextual Targeting Into a Cutting-Edge Tool",
       "excerpt": "RTB House, a market leader in deep learning-powered marketing technologies, are proud to announce the release of its globally available industry-leading Context AI solution. The solution will play a key role in helping advertisers navigate the cookieless landscape.",
@@ -53,7 +106,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -210,7 +263,7 @@
       "originalUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -676,7 +729,7 @@
       "originalUrl": "https://www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -762,6 +815,50 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-07-sber-to-open-rd-centre-in-berlin-to-expand-horizons-in-machine-learning.md",
+      "title": "Sber to open R&D centre in Berlin “to expand horizons in machine learning”",
+      "excerpt": "Sber, the Russian financial and digital giant, is preparing to open an R&D centre in Berlin — its first one in Western Europe. These plans were",
+      "sourceUrl": null,
+      "webUrl": "https://intellinews.com/index.php/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/",
+      "originalUrl": "https://intellinews.com/index.php/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/Screenshot_2021-11-07_at_13.41.59_Cropped.png",
+          "width": 900,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-07T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business New Europe",
+        "domain": "intellinews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1348,110 +1445,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-machine-learning-deployment-platform-octoml-raises-85m.md",
-      "title": "Machine learning deployment platform OctoML raises $85M",
-      "excerpt": "OctoML, which helps companies deploy their machine models into production, has raised $85 million in a series C round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/",
-      "originalUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/octo-ml.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/01/machine-learning-deployment-platform-octoml-raises-85m/amp/",
-      "publishedDateTime": "2021-11-01T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform.md",
-      "title": "OctoML raises $85M for it for its machine learning acceleration platform",
-      "excerpt": "OctoML, a Seattle-based startup that helps enterprises optimize and deploy their machine learning models, today announced that it has raised a $85 million Series C round led by Tiger Global Management.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/",
-      "originalUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 258,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gpO4y1mPMWA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/01/octoml-raises-85m-for-it-for-its-machine-learning-acceleration-platform/amp/",
-      "publishedDateTime": "2021-11-01T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

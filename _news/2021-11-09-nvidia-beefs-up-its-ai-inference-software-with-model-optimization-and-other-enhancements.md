@@ -27,99 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker"
-    excerpt: "Machine learning (ML) and deep learning (DL) are becoming effective tools for solving diverse computing problems, from image classification in medical diagnosis, conversational AI in chatbots, to recommender systems in ecommerce. However, ML models that have specific latency or high throughput requirements"
-    publishedDateTime: 2021-11-10T01:56:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-fast-and-scalable-ai-with-nvidia-triton-inference-server-in-amazon-sagemaker/"
+  - title: "Nvidia debuts ReOpt to optimize supply chain routing with AI"
+    excerpt: "Nvidia's new ReOpt service employs AI to help shippers optimize the routing of packages bound for customers' doorsteps."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/05/ML-6284-image001-1120x630.png"
-        width: 1120
+      - url: "https://venturebeat.com/wp-content/uploads/2015/11/Delivery-Truck.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia and Lockheed Martin plan to fight forest fires with AI. Here's how"
+    excerpt: "The companies have teamed up with state and federal firefighting services and are creating a dedicated lab to predict the path of fires to help stop them in their tracks."
+    publishedDateTime: 2021-11-09T14:35:00Z
+    webUrl: "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/G6G2x6gQsRtkGqciyOhYYdHfo7I=/1200x630/2021/11/09/7a97c262-f936-4251-9ddf-195eb78471f4/gettyimages-1234819592.jpg"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Bring your own data to classify news with Amazon SageMaker and Hugging Face"
-    excerpt: "The fields of natural language processing (NLP), natural language understanding (NLU), and related branches of machine learning (ML) for text analysis have rapidly evolved to address use cases involving text classification, summarization, translation, and more. State-of-the art, general-purpose architectures"
-    publishedDateTime: 2021-11-09T17:53:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-to-classify-news-with-amazon-sagemaker-and-hugging-face/"
+  - title: "NVIDIA Unveils AI Tech To Make Autonomous Cars And Robots More Accommodating And Intuitive"
+    excerpt: "NVIDIA is much more than a consumer graphics card company, it's also heavily involved with AI, robotics and autonomous vehicles, which are at the heart of its GTC '21 unveil."
+    publishedDateTime: 2021-11-09T08:30:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ai-tech-autonomous-cars-robots-accommodating-intuitive"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-tech-autonomous-cars-robots-accommodating-intuitive"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-tech-autonomous-cars-robots-accommodating-intuitive"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
+      name: HotHardware
+      domain: hothardware.com
+    quality: 66
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4161-image003.png"
-        width: 452
-        height: 476
+      - url: "https://images.hothardware.com/contentimages/newsitem/56740/content/small_nvidia_jetson_agx_orin.jpg"
+        width: 708
+        height: 398
         isCached: true
-  - title: "Nvidia: AI Can Boost Simulation in VR, Quantum Compute"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
-        isCached: true
-  - title: "Nvidia: AI Can Power Simulation Performance"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
-        isCached: true
-  - title: "Data Scientists Can Now Use RStudio With Amazon SageMaker"
-    excerpt: "Data scientists can choose between programming languages and coding interfaces to switch between RStudio and Amazon SageMaker Studio notebook."
-    publishedDateTime: 2021-11-08T06:15:00Z
-    webUrl: "https://analyticsindiamag.com/data-scientists-can-now-use-rstudio-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS-RStudio-Announces-General-Availability.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "GTC Keynote NVIDIA Intros NVIDIA DRIVE Concierge and DRIVE Chauffer AI"
-    excerpt: "These trends are coinciding with the rapid progress of autonomous vehicle technology, meaning more drivers on the road doesn’t have to translate ... conversational AI. Omniverse Avatar connects speech AI, computer vision, natural language understanding ..."
-    publishedDateTime: 2021-11-10T02:15:00Z
-    webUrl: "https://www.autoconnectedcar.com/2021/11/gtc-keynote-nvidia-intros-nvidia-drive-concierge-and-drive-chauffer-ai/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 39
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2021/11/NVIDIADRIVEChauf-1024x533.jpg"
-        width: 1024
-        height: 533
-        isCached: true
-  - title: "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference"
-    excerpt: "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,"
-    publishedDateTime: 2021-11-09T09:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
+  - title: "NVIDIA Brings Large Language AI Models to Enterprises Worldwide"
+    excerpt: "NVIDIA today opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants and other AI applications that understand language with unprecedented levels of subtlety and nuance."
+    publishedDateTime: 2021-11-09T08:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-9c1edef4a29ea071baa60df72dc17dda"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 17
+    quality: 39
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

@@ -25,103 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker"
-    excerpt: "Machine learning (ML) and deep learning (DL) are becoming effective tools for solving diverse computing problems, from image classification in medical diagnosis, conversational AI in chatbots, to recommender systems in ecommerce. However, ML models that have specific latency or high throughput requirements"
-    publishedDateTime: 2021-11-10T01:56:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-fast-and-scalable-ai-with-nvidia-triton-inference-server-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/05/ML-6284-image001-1120x630.png"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Bring your own data to classify news with Amazon SageMaker and Hugging Face"
-    excerpt: "The fields of natural language processing (NLP), natural language understanding (NLU), and related branches of machine learning (ML) for text analysis have rapidly evolved to address use cases involving text classification, summarization, translation, and more. State-of-the art, general-purpose architectures"
-    publishedDateTime: 2021-11-09T17:53:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-to-classify-news-with-amazon-sagemaker-and-hugging-face/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4161-image003.png"
-        width: 452
-        height: 476
-        isCached: true
-  - title: "Nvidia: AI Can Boost Simulation in VR, Quantum Compute"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
-        isCached: true
-  - title: "Nvidia: AI Can Power Simulation Performance"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
-        isCached: true
-  - title: "Data Scientists Can Now Use RStudio With Amazon SageMaker"
-    excerpt: "Data scientists can choose between programming languages and coding interfaces to switch between RStudio and Amazon SageMaker Studio notebook."
-    publishedDateTime: 2021-11-08T06:15:00Z
-    webUrl: "https://analyticsindiamag.com/data-scientists-can-now-use-rstudio-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS-RStudio-Announces-General-Availability.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "GTC Keynote NVIDIA Intros NVIDIA DRIVE Concierge and DRIVE Chauffer AI"
-    excerpt: "These trends are coinciding with the rapid progress of autonomous vehicle technology, meaning more drivers on the road doesn’t have to translate ... conversational AI. Omniverse Avatar connects speech AI, computer vision, natural language understanding ..."
-    publishedDateTime: 2021-11-10T02:15:00Z
-    webUrl: "https://www.autoconnectedcar.com/2021/11/gtc-keynote-nvidia-intros-nvidia-drive-concierge-and-drive-chauffer-ai/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 39
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2021/11/NVIDIADRIVEChauf-1024x533.jpg"
-        width: 1024
-        height: 533
-        isCached: true
-  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
-    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
+  - title: "Nvidia’s Riva Custom Voice lets companies create custom voices powered by AI"
+    excerpt: "GTC conference, Nvidia unveiled Riva Custom Voice, a service designed to let customers create AI-powered custom voices."
     publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
+    webUrl: "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
-        width: 1100
-        height: 508
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "WXxadkLH7Sa/q6tjKqw28sJRouUGxlzP3GPBCDwiuR91xGqbgDMceOTX1vNAEDt8mPdeq2uwqG/nIpOVWiHzd/iC/ADjVY+dyWw5atO8O4rqhyDfQn2PmddB2GNoNhAzIRFIUHTXCPFdKNuo35t03M3OzDugwmXN1fjsLihrh2jmGe0u7UeUHheG4C8XC/AesvpLZ59yzxDT+W0XfYp+GFlQQDdy3bWxfWq1HasVSN2c9Kf7Sjn7TdUlkJzXSIyakUC0oPR4w8KEyIzkSr23kATVdNPk/J95Wu+5gt5SZDwEJqrzp7jMmNoRSZd8bDe6nuPN5JvJH61VtSjbdpv83ynmr9p3I+7SpmtKnjLpEiA=;RFdm2BUOZONdVeMA+2OtDQ=="

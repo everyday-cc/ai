@@ -2,6 +2,247 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-06-alphabets-isomorphic-labs-says-it-will-use-ai-to-discover-new-drugs.md",
+      "title": "Alphabet's Isomorphic Labs Says It Will Use AI to Discover New Drugs",
+      "excerpt": "The company will build off of breakthroughs in protein prediction from DeepMind and inches Big Tech one step further into the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449",
+      "originalUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ff798528b11ef62b1fe1def5a6099780.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp",
+      "publishedDateTime": "2021-11-05T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results.md",
+      "title": "Clickedin Founder Franco Ieraci Creates AI Software That Delivers Results",
+      "excerpt": "TORONTO, ON / ACCESSWIRE / November 5, 2021 / It's the same story. Companies pay lots of money only to get burned by marketing companies who can't deliver",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results",
+      "originalUrl": "https://www.digitaljournal.com/pr/clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/COP26-climate-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-bloomberg-news.md",
+      "title": "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News",
+      "excerpt": "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
+      "publishedDateTime": "2021-11-05T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-run-alphafold-v20-on-amazon-ec2.md",
+      "title": "Run AlphaFold v2.0 on Amazon EC2",
+      "excerpt": "After the article in Nature about the open-source of AlphaFold v2.0 on GitHub by DeepMind, many in the scientific and research community have wanted to try out DeepMind’s AlphaFold implementation firsthand. With compute resources through Amazon Elastic Compute Cloud (Amazon EC2) with Nvidia GPU, you",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML_5671_feature.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T12:59:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-how-ai-will-make-your-doctor-smarter.md",
+      "title": "How AI Will Make Your Doctor Smarter",
+      "excerpt": "From suicide prevention to infection tracking, the U.S. military is applying the latest technology to a host of medical challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "originalUrl": "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-429385/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "publishedDateTime": "2021-11-05T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits.md",
       "title": "Artificial Intelligence Bot Has Turned Racist And Homophobic After Copying Human Traits",
       "excerpt": "As technology advances, many of us have wondered what life might be like if major decisions were made by AI robots rather than by flawed, easy influenced human beings. Surely the cold synthetic mind would cut through problems with far greater ease than we emotional mortals,",
@@ -984,237 +1225,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers.md",
-      "title": "How Artificial Intelligence Is Helping Veterans Become First Time Homebuyers",
-      "excerpt": "Recent statistics show that veteran homelessness increased by about 4% in 2020, aggravating an already bad situation. The US government and the VA have created very accommodating measures to enable Veterans to become homeowners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6184985bca6403c5698595c7%2F0x0.jpg",
-          "width": 1200,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/amp/",
-      "publishedDateTime": "2021-11-04T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-disruption-in-action-ai-accelerated.md",
-      "title": "Disruption In Action: AI Accelerated",
-      "excerpt": "Global spending on artificial intelligence systems has nearly tripled since 2019, and it's set to more than double again by the end of 2025, according to IDC. Hear from a pair of disruptors driving the accelerated adoption of AI's many promising applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106964175-5ED1-REQ-102121-DISRUPTIONINACTIONAIACCELERATED.jpg?v=1635776688",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T19:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-opensource-gui-tool-for-opencv-and-deeplearning.md",
-      "title": "OpenSource GUI Tool For OpenCV And DeepLearning",
-      "excerpt": "AI and Deep Learning for computer vision projects has come to the masses. This can be attributed partly to the community projects that help ease the pain for newbies. [Abhishek] contributes one ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
-      "originalUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/02/monkai_feat.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage.md",
-      "title": "SUNY Polytechnic leaders explain causes, solutions behind chip shortage",
-      "excerpt": "Computer chips are a hard find in pandemic times, but it’s not the materials in short supply — it’s the manpower. “Silicon is one of the most abundant elements",
-      "sourceUrl": null,
-      "webUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
-      "originalUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news10.com/wp-content/uploads/sites/64/2021/11/SUNY-POLY-STILL.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
-      "publishedDateTime": "2021-11-04T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTEN",
-        "domain": "news10.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-self-driving-company-aurora-makes-nasdaq-debut.md",
-      "title": "Self driving company Aurora makes Nasdaq debut",
-      "excerpt": "In another highly-anticipated IPO, self-driving technology company Aurora Innovation (AUR) made it’s Nasdaq debut today. The company merged in October with Reinvent Technology Partners Y (RTPY), a special purpose acquisition company (SPAC) led by LinkedIn co-founder Reid Hoffman and Zynga founder Mark Pincus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/self-driving-company-aurora-makes-nasdaq-debut/",
-      "originalUrl": "https://www.therobotreport.com/self-driving-company-aurora-makes-nasdaq-debut/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/11/aurora-nasdaq-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

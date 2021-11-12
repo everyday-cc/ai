@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -57,6 +57,34 @@ related:
       - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/11/AI-Driven-ITSM-is-Transforming-IT-Management.jpeg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
+    excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
+    publishedDateTime: 2021-11-10T22:01:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-now-artificial-intelligence-diabetes-management-pooja-m"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGSFmHNp2wD8w/article-cover_image-shrink_720_1280/0/1636581666832?e=1642032000&v=beta&t=dzrKyxUa3n4gGzDZFoL7cBVaF78iIxZVIhnDgJaayZk"
+        width: 1079
+        height: 720
+        isCached: true
+  - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
+    excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
+    publishedDateTime: 2021-11-11T22:43:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-now-artificial-intelligence-diabetes-care-pooja-mahajan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFJF7dOiEEvyQ/article-cover_image-shrink_720_1280/0/1636670600616?e=1642032000&v=beta&t=vlbhONLo_ujOnXG_7VQF2MM9VpWxZrrhibGcY_l5qeY"
+        width: 1079
+        height: 720
         isCached: true
 
 secured: "7s9fcJ1JWurVkGGdX1DsR21Q96SMgFP+xaFJNKWOPOkwgyeNwbeTLCM9QGZ0iRIa+FdG8jg5hh0UCeDz/ouUqGyrndw2wZKVUwZfR4sLcSYTG4cit/5GojgB8Zn8QjmyjJNq1GCvfcpiUYK5/TxW7ble6S4k0RS6bUoaRB3oEGtwz6Uc5rbPB7RL2dw2hbSpZ3+9o2fFHrILKVqtLFbZ21KocRpmPslwkMhdbGcyLxsGa9KpoIukkSnQkj6V4OH1oLy5RcQT1Fy23wxp+9TDrv+1LsYlemobrZvPWsWD3zTD/S2Uq+TcMWZanNjqyTzZydMnHDqzbgy8AkVDBCC3137RmgL9fRHR55wbAqud3SRn+P9tzMgDvl9wzrExIRvM6ceYGLsO3HYanVI4KFzH57u0vsfs3S7wW7ozqCWJPHmVYw2tx61poyXrCFFcip79plLg3yRT4uXMwcJgeChs3eZ5Lb1Yzn0x18wEiHgL6H7Z8nLR9ji9v1mf3iAUZYoeBIQjge2qYXhdU8nV6lB18w==;B77hKlgeRzh8s2Dh6oLqYw=="

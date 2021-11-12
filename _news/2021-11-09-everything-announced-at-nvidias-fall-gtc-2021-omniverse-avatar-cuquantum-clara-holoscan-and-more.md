@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-announced-at-nvi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.crn.com/resources/026f-13b321c1b659-57c5206111f9-1000/slide1.jpg"
         width: 610
         height: 344
+        isCached: true
+  - title: "Nvidia: AI Can Boost Simulation in VR, Quantum Compute"
+    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
+    publishedDateTime: 2021-11-09T17:51:00Z
+    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 43
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
+        width: 648
+        height: 392
         isCached: true
   - title: "Nvidia announces deeper push into healthcare industry at GTC 2021"
     excerpt: "Nvidia is diving deeper into the healthcare industry. During its GTC 2021 conference, the company rolled out artificial intelligence and cloud capabilities meant to do everything"

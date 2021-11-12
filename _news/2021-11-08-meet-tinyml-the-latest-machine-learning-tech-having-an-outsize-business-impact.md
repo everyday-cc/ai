@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact/amp/"
 type: article
 quality: 100
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 688
     isCached: true
+
+related:
+  - title: "TinyML: Bringing Machine Learning to the Edge"
+    excerpt: "TinyML is bringing machine learning to the edge using devices with tiny, low-power microcontrollers. Here's how."
+    publishedDateTime: 2021-11-12T18:47:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/tinyml-edge/"
+    type: article
+    provider:
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 56
+    images:
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/11/TinyML_Bringing-Machine-Learning-to-the-Edge.png"
+        width: 900
+        height: 565
+        isCached: true
 
 secured: "Cx6ViIEFNe9rKi2+3am1cksehhWuFaZVufdkvvi5A9GLgmJOJvM3W7iKid5sxyo7iLVGLZjJWA/bZ2SYm8GWwnYDSj7peq4EQHpZoOEn56vkE4uIDl/BYlLKKF4wWO2nRKsNPVkppD9furCjC0VPPxJZkFseZiJgxd1YT/rl6t1zpNYAJS+/0PKg9ZA2MBphTZRal+DcvjlGfzdmBv3oEFq4cjXre9tc+vN2zyTxV0fKMMIeiftSSXJTJSNyizXheXUYDqqriwg9P9hLj9hgCeBcBHLutTRcyr8TRxUdZTAVztF/lBicbxiaZuRarQc6rQvxKzPDHMxTGLYtYKphxu3anDO0UTHlm1E3b+LvCdvvhiPyju9c4sp436Rpm1M9Oo9ZRDWotbnBIzrvtgU0YiTV+Z3G8M9+26+vcRwKmN5zMuvFDdTGZY7Ej0mg/44pN7Z/yRwGiFxkesXXrQooPpLo6LXNioxa40dwjJ+lEZLRhefF9Ioy8GdmnHsplEBT5n3lRBa9SO/q+1VlTRQzkg==;6J9q6BTVEbi1mzQZhtjfzw=="
 ---
