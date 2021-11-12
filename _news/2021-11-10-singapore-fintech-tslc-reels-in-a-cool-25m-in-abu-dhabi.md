@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/markets/singapore-fintech-tslc-ree
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/singapore-fintech-tslc-reels-in-a-cool-25m-in-abu-dhabi-1.83587594"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,33 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Radiologist-founded firm using artificial intelligence to alleviate burnout raises $25M"
-    excerpt: "Rad AI, a radiologist-founded firm using artificial intelligence to alleviate burnout, has raised $25 million, officials announced Wednesday. San Francisco-based Artis Ventures investment firm led the Series A financing with additional contributions from existing backers such as Gradient Ventures,"
-    publishedDateTime: 2021-11-10T22:29:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/radiologist-rad-ai-artificial-intelligence-burnout"
+  - title: "TruEra, Demyst Celebrate Award Win at Singapore Fintech Festival, Finish in Top 3"
+    excerpt: "Artificial intelligence solutions company TruEra this week announced that it, along with its data partner Demyst, is one of the three winners of the Global Veritas Challenge 2021 at the Singapore Fintech Festival."
+    publishedDateTime: 2021-11-11T02:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182780-truera-demyst-celebrate-award-win-at-singapore-fintech-festival-finish-in-top-3/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182780-truera-demyst-celebrate-award-win-at-singapore-fintech-festival-finish-in-top-3/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182780-truera-demyst-celebrate-award-win-at-singapore-fintech-festival-finish-in-top-3/amp/"
     type: article
     provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 46
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
     images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-05/money-1604921_1280.jpg?h=1c9b88c9&itok=ICPkIM9o"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Singapore-City-Sail-Boat.jpeg"
+        width: 1280
+        height: 943
         isCached: true
-  - title: "Rad AI Closes $25 Million Series A to Transform Radiology Workflow by Harnessing the Power of Artificial Intelligence"
-    excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS Ventures with participation by several existing investors, including OCV Partners,"
-    publishedDateTime: 2021-11-10T14:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-berkeley-health-artificial-intelligence-ce3668e390d42e956dd2c71e594b6232"
+  - title: "TruEra and Demyst Win “Codifying Responsible AI” Competition at Singapore Fintech Festival 2021"
+    excerpt: "TruEra , a provider of purpose-built Artificial Intelligence (AI) Quality solutions, today announced that, along with its data partner Demyst , it has emerged as one of the three winners of the Global Veritas Challenge 2021 at the Singapore Fintech Festival,"
+    publishedDateTime: 2021-11-09T14:45:00Z
+    webUrl: "https://menafn.com/1103130130/TruEra-and-Demyst-Win-Codifying-Responsible-AI-Competition-at-Singapore-Fintech-Festival-2021"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?539080"
+        width: 376
+        height: 250
         isCached: true
 
 secured: "y0Qj7AW/CZTiYYiozE/YHmoQ6sPazsQKRhrgP1uts1usUJVYkzfbFjVsGMCYdlXCcY3HsrWiNhsnv6AqM+jYawBVQpS7bt2EUM8Eq/afIf6cJ87YXXjP5enXNecykbbz6Dfn+xY7cw+R0ccToNVAHI3auMwjSh3eI9tLaWyHTU8STjuwA/AQnCTdVjfO7XpJn9bKKHWdrCeno1q2DyRd8wccnxcTve+ATmM9bHba53l0FR8ZGQDvojJhIwXKHZ5OBM6orDy9l0MfFiIMwNH0O/t0Ue+tlTRvk7mnEBUC4kWzZ+ScanaKePuZj0JYRdOxEB4q/mpw97w+YgsOTBqm68EozNfRtoSWltqrzBQ77fI=;NBtVMR1IbAAjzwYyEV6RXQ=="

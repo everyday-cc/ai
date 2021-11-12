@@ -3,8 +3,8 @@ category: news
 title: "Introducing AMP43, An Investor-Targeted Automation-Focused & Machine Learning Service"
 excerpt: "Marketing technology firm NAV43 today announced the launch of AMP43, its visionary new Service that uses machine learning to curate an audience of potential investors. Aimed primarily at IPO-ready brands and newly-launched stocks looking to grow their shareholder base,"
 publishedDateTime: 2021-11-11T20:29:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-canada-17c06cbaa2294b318c318c39e73ecd98"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-canada-17c06cbaa2294b318c318c39e73ecd98"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-toronto-canada-17c06cbaa2294b318c318c39e73ecd98"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-toronto-canada-17c06cbaa2294b318c318c39e73ecd98"
 type: article
 quality: 32
 heat: 32
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "YoKv4AKIFH7sM7zscpbA3zcM/F9lsoEMPrEVc5faZXbQ7dlXvlBUaKSelwcc7W4oahI3SeSaF6Iv0NRmpassu8uo/cWv1O4hwGOUH4kjrrWyEwPoiopeKruuAot6VMMn9srUdva+ri6a0t+0K2auxXG9uVaaJWscKE7LEgfrJLiplwHH4IX3v20KbGijrLUgC2IPLH3LkfCdeqiJtjNsNTTFyNzKnZKD9K7e76v+qnj8Sk17xxtIxGdt/Un1+qy/WUCXuiB95PJIa57HRqoziMDz6yc6ahOJKx3MVz9pBYBmImhKkcQYWMPcPo2Z20VE9rU0tHNm20zx0W3//fr40gsXtUntOWOiGoWw205c53A=;pL/IkxnA0uZECVbL6/nLmg=="
+secured: "0qoNN3I1/VNmPoQSensOoMBlZjSz9f/0+gabt3Jr2jHTQ8jcMaRehlLFDU/LSo79tn8uty4hL0othRRFVppjR86++X0uYMLQnfa2nlV5p0EF1Mw5DoMN7K2StDQPkCBr7VQxJhiHBvPMmMgdsXICQxg52IIE0Z5BpyN8PuKiJO9dS0HScN7OwOxL5n/cYQjJGFNztQz0Ou1Y2flaTmA5IEFA8DbmAcE4Nrw3OrRU7Fw+Rf5XOyangw4/BsiT5E/6s49qsvvSPoR1nWhmT0yBuKE7cy5vXVxUNxr9bgbTnhOVl1eWFY2byJjHfYepwpynnWvm5KQd3VlF9mAAb2ZqX+/aSslZr9kq5nizSoXWtUU=;GDUoqOcpygXSfQt5TlqSlA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182780-truera-demyst-celebr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182780-truera-demyst-celebrate-award-win-at-singapore-fintech-festival-finish-in-top-3/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore fintech TSLC reels in a cool $25m in Abu Dhabi"
+    excerpt: "TSLC will ramp up operations and AI capabilities with capital raised Dubai: (TSLC), a Singapore-based fintech, pulled $25 million in a funding round from an investor consortium led by ADGM-domiciled ARV Investments."
+    publishedDateTime: 2021-11-10T09:56:00Z
+    webUrl: "https://gulfnews.com/business/markets/singapore-fintech-tslc-reels-in-a-cool-25m-in-abu-dhabi-1.83587594"
+    ampWebUrl: "https://gulfnews.com/amp/business/markets/singapore-fintech-tslc-reels-in-a-cool-25m-in-abu-dhabi-1.83587594"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/singapore-fintech-tslc-reels-in-a-cool-25m-in-abu-dhabi-1.83587594"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 44
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/11/10/Stock---TSLC-_17d09469bd9_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "TruEra and Demyst Win “Codifying Responsible AI” Competition at Singapore Fintech Festival 2021"
     excerpt: "TruEra , a provider of purpose-built Artificial Intelligence (AI) Quality solutions, today announced that, along with its data partner Demyst , it has emerged as one of the three winners of the Global Veritas Challenge 2021 at the Singapore Fintech Festival,"
     publishedDateTime: 2021-11-09T14:45:00Z
@@ -41,15 +57,6 @@ related:
         width: 376
         height: 250
         isCached: true
-  - title: "Atlanta-Based LendingPoint Named Best Financial Planning Software by Benzinga in 2021 Global Fintech Awards"
-    excerpt: "LendingPoint, an AI-driven CreditTech platform, today announced that it won Best Financial Planning Software from Benzinga in the seventh annual Global Fintech Awards. The award recognizes LendingPoint's ability to adapt and innovate to serve its customers at all experience touchpoints to provide fair access to credit for those that need it most."
-    publishedDateTime: 2021-11-11T14:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-atlanta-based-lendingpoint-named-best-financial-planning-software-/2021/11/11/9490333.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "uHGCFJ9V3wWh9Pco6GMsAWfB62kiDa+c3pMCSt9OCHY7wsWxtuSEnNOs85ZYgyYx3+ac2v+wAgh/MMHEzVE+wEE3KGzCmy2jMpbn3nFDSLXE7D3cs4FQdoV7uB2mjez73MixrHmoq644Zd0AABO5mIyW+lRIv8TeS0sbsc7Osjx0CxyQMgnMXVlfyH4FvRK9ARTiUaz5jTk8wvmuTTOKhtAy8FkSelbDr5x2+tf8JH9mOT/LY3bd/Nw+oMZKj8VzDZ5r4BOfLTdsqtFKiCC9d7KD9WNmAu5lZJQTwd/vOMfCu13/mov4y7U9JGUibDu4eBgZ7skbjOykC9nHasUVHVuI9QU1vvjnCYsNcUBymfNWjFofu8fWSC9+JifgdMd5Oqa5S2VBsqgfNAHOZTXBsque2mmLZL+IvkNVi0zMVJzbYOklBwNWjoijrReGMNTzWHLFQHhjycejLx/u14drs3w6RKt3iaBFxSgEKju62U+NZ5D2dCfCxfel3l8DpFCwcCw3Gf20RTO4qoRxVblImQ==;6Jq6Qks9T9r4tygqeSHk6A=="
 ---

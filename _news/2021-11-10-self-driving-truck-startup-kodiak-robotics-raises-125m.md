@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/Kodiak_Robotics_Self_Driving_Truck.jpg?fit=800%2C450&ssl=1"
         width: 800
         height: 450
+        isCached: true
+  - title: "Self-driving truck startup raises $125 million"
+    excerpt: "Kodiak Robotics, a self-driving truck startup, has raised $125 million in funding to continue development of autonomous systems for the future of first-mile logistics. Kodiak has to date raised $165 million with this round being led by SIP Global Partners,"
+    publishedDateTime: 2021-11-12T13:30:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17411/self-driving-truck-startup-raises-125-million"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/411/17411/Kodiak_Robotics_Self_Driving_Truck.jpg"
+        width: 752
+        height: 423
         isCached: true
 
 secured: "EESDzHawXVH/2WsJhilK4chLiDQsZWx2H0jPq3KOGuiiJEfVWyqDgpT2k74jnr+hzA/qD4PiMVJbOTqIQ2+n08U5TSzMgsdUpVLaBc4lAes8uEYscjnMj8a4zTmf5njmmizlY9D3giWzeE8IVL63CwCZTRUaBMnv+TDDCV/W7MbBP1XoH5s29sXANQAN0KJBVGdL9LKdeVpSOhEr5EEx8n77yyfV+sKpRvdKc+Z5xduPgeSa63aQqVcFqznNnFlxbpJBbIu+oPWIffQcG+kvx3AJtqj6fIpITwPYM07lDjIjXl0tJpQ59H7KAkdYTd2cimEMcLmJJ3YZW+f6fKBaLbsPirFo3ko5wijQsAIQtlafoTldvvQ8ERfc/PGFlnn7ZzVJXJ/BchWOeAtjpQ8rLJwzw+kNW3SQvYfe+6iaADqf5frLL9y7ZWbVYfhQWHOnWrJcU+0t40myVZLBkKUMYvgxy3H657JksEyyI9vOv24cO656G3wJ8+hI5QQbyQWJUXLY5X3sV9nVFBOwmgwT4Q==;GrWW1mhS8DM/ECuoDR4TFQ=="

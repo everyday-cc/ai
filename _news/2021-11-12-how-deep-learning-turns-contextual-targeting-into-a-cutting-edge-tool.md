@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextua
 cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Using Machine Learning To Make Better Medical Decisions"
+    excerpt: "While artificial intelligence has become essential in advancing medical research, scientists have yet to work out all the technology’s flaws. A University of Texas at Arlington computer scientist has received a three-year,"
+    publishedDateTime: 2021-11-12T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-make-better-medical-decisions"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "How machine learning and new data sources can better target aid"
     excerpt: "The Center for Effective Global Action featured its work in, and learnings from Togo, in a recent event on reimagining development aid, which focused on how to leverage emerging technology to improve targeting."
     publishedDateTime: 2021-11-08T10:43:00Z
@@ -62,6 +76,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "Fig20xXghIlrCHhWOKy/QtH1oze5SOPFb3OD3GcAVJEiV+yheYBhRc185pJirBf1yceRS+5urK/vHHQ+Hn8ufQ5XLfdHU4lUzB4zrW6q1qw9z/kdFm3ifR8n6iRR0jj9aGlmhSMibgOZPNHmyJujXn9Lwc+TnHB+5LdTqHnPgV/KY3Z3qJHbTsxBHYwhKm2qSsW0nAIAd7lngKe3Poi0XOScHXVrxz3GmYYCrRqIy2ngL/FQJYYF/S2rDbMq1TPBO2KdOWdoO37eJZzCDVQgpmI6LJT+sPYX3enXreq1Mx6AsyZCy+KhhDaLsTOxxKAgDZU+LCgmIGA5zNgLHpwX2DogEquuGrexsbkZSndq9XY=;+BfZGkQLIg1ZPVWSxhqpug=="
+secured: "309dsLZGzkSvby1DSkktnZeBknim7EKbjUIyhYS5QJFC+NjurwnxmQWlydIoDOm1EyKFVNJiJIRF+c0IXkIva6QQWYJ8dY9L3O+yAPYb0niiM+JDw9nOsMJUv2xeerE2lJijt1lOWQgOeHkHC7Ey5n026mSOTk1zQg9E5RSYEsKf1Yw7SpEIRS3KNzXaWIwRfJDgpMDC7Ad0kR8w+B0n0oEHTDyqhodGnDFy3cvWIHWrbO4XgfyP3yewXHrnC0Ft6j0Jc7Pm6/xYi6P24grJPyNc8TcDaRseQRY2JIsMrkm9Si9mpIvRFzAamB1GuF17oOJf+cXAEfYb4Vjfe0cHynsWzxXh3YyXt9l4zRtsw8l7Ft92hdYHx9WhPJKhtOmWED09m9UMKDavdA/J3XB5zP1qYPWVbtHrHDoauovc7YDl1ZzliLTh0OScqgx0yrW7q67/a3tceGS/iJhJyAkibvzROnOgmy+9utJyfnBs2YfuVkU0Y0uvGf25DKpoCzr96wt6LTGj4BlkImE2KKOX0w==;oPMykRBHhXpS9lEaTj2MjQ=="
 ---
 

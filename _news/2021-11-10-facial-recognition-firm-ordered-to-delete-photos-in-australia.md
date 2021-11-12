@@ -43,15 +43,6 @@ related:
         width: 631
         height: 450
         isCached: true
-  - title: "Australia's CBA Partners With Silicon Valley Artificial Intelligence Firm H2O.ai"
-    excerpt: "Commonwealth Bank of Australia said on Monday it acquired a minority stake in a Silicon Valley-based artificial intelligence (AI) firm, H2O.ai Inc, in a bid to provide smarter and personalised products to its customer base."
-    publishedDateTime: 2021-11-07T21:20:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-07/australias-cba-partners-with-silicon-valley-artificial-intelligence-firm-h2oai"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 57
   - title: "H2O.ai Closes $100 Million in Funding Led by Customer Commonwealth Bank of Australia"
     excerpt: "H2O.ai, the AI Cloud leader, today announced it has closed $100 million in Series E funding led by Australia’s largest bank, customer Commonwealth Bank of Australia (CBA). H2O.ai has now raised over $250 million and is valued at $1.7 billion. Pivot ..."
     publishedDateTime: 2021-11-08T13:06:00Z

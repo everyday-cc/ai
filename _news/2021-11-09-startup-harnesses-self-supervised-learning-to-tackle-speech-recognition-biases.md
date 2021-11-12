@@ -31,10 +31,10 @@ images:
 related:
   - title: "Google Research changes the game for medical imaging with self-supervised learning"
     excerpt: "Medical training data has a great cost, which makes it difficult to use deep learning for many apps. Google Research suggests a new solution."
-    publishedDateTime: 2021-11-11T22:20:00Z
-    webUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/"
-    ampWebUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
+    publishedDateTime: 2021-11-12T05:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/?via=indexdotco"
+    ampWebUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/?via=indexdotco&amp"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/?via=indexdotco&amp"
     type: article
     provider:
       name: VentureBeat

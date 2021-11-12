@@ -2,14 +2,14 @@
 category: news
 title: "Google Research changes the game for medical imaging with self-supervised learning"
 excerpt: "Medical training data has a great cost, which makes it difficult to use deep learning for many apps. Google Research suggests a new solution."
-publishedDateTime: 2021-11-11T22:20:00Z
-originalUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/"
-webUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/"
-ampWebUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
+publishedDateTime: 2021-11-12T05:20:00Z
+originalUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/?via=indexdotco"
+webUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/?via=indexdotco"
+ampWebUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/?via=indexdotco&amp"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/?via=indexdotco&amp"
 type: article
 quality: 68
-heat: 80
+heat: 78
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 640
         isCached: true
 
-secured: "T2rntqklNwlLqXilb1ygC05l9sKPj9qtfXQ1NlanvQDBU9bkFrekSMZxFHdUoPXIrjR6BJeOSJvNyAUx4zyyZ14W5buu8I9HQ/omaTOU4kPtjxxwm4t8hdcnL+C785sq3dTrqzvMlLpYzbqToQVQJaA67BW/XpdTsR7kq7A8Wzpol3h66PhGTQ7fLMGx/LmHUBcVixDodc5eYKTDunlwB97tkPrJQaqmc85tLAgbtZhDcS3zj2ITju2XkF9jMTSm2zJs8/F4JOLhc85ygYhW07Zkrog4qt/UVi1lrx9A0QZiGwlOgvXxmig2a8ZK8XBU2/F5UosG4bl8JoJg2IonpRY2R7/nwCiBLeqE06E++7ezUvkVNqXamaMLFTUtZHChGYGmkDFtHljVGvRbKttU9gqMuqjhJ39m5GWULP70qos9TzdCpa2gxsjQIWKg36OIrvO6NYPxDM7uHaLdLQ/o4mo3NPgzHKIHb8UlAkd0WEcxD/vhPLDF+AOyafCsIpzl9e2wZd+Yb5Sq9Xmlwlh2vA==;vvXgm1NwyvJ06njKS4nU/A=="
+secured: "ETaYmqyobwCvlOaiTuNImZXsBEPNAiM0YxziIq/iFhsNOgZbo+m+Am1EQBaZuIxCwXaUKdRo9muErytGfgQYfx7ZwgiVmsg6gCL9/GYHgRDwNoBuVaz+D5FhF3Mamgr1wQVERyB45MAkbsfp91Whs6Cq35YeR4irpnE5rK66/G+oEQlpDAO4WmbuoBZR8i1UG9Ph58/riuuPYTw4NGFWNvbh77lhjJbEf10u4yaMefWn9Z2MCexW5IKRW/9EIf7lPtUdbraw6uRVFp96FwEjo2NiCpuJebdMt+ZKVeeXgUdN3FwmlZSXigpH/keQA8EKLC9aScSgz5lcrRqIEqZ/6Ukl0PnNP7ACu/7Ma73MuBs=;5XDIuQtxR9P10K/zi/tgzw=="
 ---
 

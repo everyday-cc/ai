@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI pioneer Andrew Ng’s Landing AI raises $57M in funding"
-    excerpt: "Landing AI Inc., a startup led by artificial intelligence pioneer Andrew Ng, has raised $57 million in funding from a group of investors that included the venture capital arms of Intel Corp. and Samsung Electronics Co."
-    publishedDateTime: 2021-11-08T20:42:00Z
-    webUrl: "https://siliconangle.com/2021/11/08/ai-pioneer-andrew-ngs-landing-ai-raises-57m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Andrew-Ng.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Discovering exoplanets using artificial intelligence"
     excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
     publishedDateTime: 2021-11-11T08:45:00Z
@@ -88,20 +74,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
         width: 300
         height: 226
-        isCached: true
-  - title: "AI Pioneer Andrew Ng’s Startup Raises $57 Million In Series A"
-    excerpt: "AI pioneer Andrew Ng's startup provides tools that make building and deploying AI systems in manufacturing faster and easier."
-    publishedDateTime: 2021-11-09T04:23:00Z
-    webUrl: "https://analyticsindiamag.com/ai-pioneer-andrew-ngs-startup-raises-57-million-in-series-a/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Landing-AI-raises-Series-A-funding.jpg"
-        width: 2048
-        height: 1152
         isCached: true
   - title: "Clone-advisor: recommending code tokens and clone methods with deep learning and information retrieval"
     excerpt: "The proposed approach has already led to promising results. The performance metrics in the training (learning rate approaching 0, minimized loss) and validation (perplexity of 2.145) phases indicate a fine-tuned model. The series of perplexity scores ..."

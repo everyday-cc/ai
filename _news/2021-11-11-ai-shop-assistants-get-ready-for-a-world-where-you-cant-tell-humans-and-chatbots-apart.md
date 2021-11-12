@@ -73,21 +73,21 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "We studied suicide notes to learn about the language of despair – and we’re training AI chatbots to do the same"
-    excerpt: "Individuals who experience suicidal thoughts can show signs of this in the language they use. We analysed more than 100 suicide notes to find these language patterns."
-    publishedDateTime: 2021-11-11T18:57:00Z
-    webUrl: "https://theconversation.com/we-studied-suicide-notes-to-learn-about-the-language-of-despair-and-were-training-ai-chatbots-to-do-the-same-169828"
-    ampWebUrl: "https://theconversation.com/amp/we-studied-suicide-notes-to-learn-about-the-language-of-despair-and-were-training-ai-chatbots-to-do-the-same-169828"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-studied-suicide-notes-to-learn-about-the-language-of-despair-and-were-training-ai-chatbots-to-do-the-same-169828"
+  - title: "We studied suicide notes to learn about the language of despair, and we're training AI chatbots to do the same"
+    excerpt: "While the art of conversation in machines is limited, there are improvements with every iteration. As machines are developed to navigate complex conversations, there will be technical and ethical challenges in how they detect and respond to sensitive human issues."
+    publishedDateTime: 2021-11-12T14:10:00Z
+    webUrl: "https://medicalxpress.com/news/2021-11-suicide-language-despair-ai-chatbots.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-11-suicide-language-despair-ai-chatbots.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-suicide-language-despair-ai-chatbots.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 39
     images:
-      - url: "https://images.theconversation.com/files/431426/original/file-20211111-21-cbuohc.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=214&fit=crop"
-        width: 320
-        height: 214
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/we-studied-suicide-not.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Chatbots Can Fill Gaps in Mental Health Care for Children—To a Point"
     excerpt: "Chatbots have the potential to help millions. How can we use them to improve mental health in children? While many people may remember childhood as a carefree time, kids today face countless sources of stress: academic pressure,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-gia
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -108,6 +108,38 @@ related:
       - url: "https://www.pinkvilla.com/files/styles/large/public/cbcgfb.jpg?itok=SKTxpe-H"
         width: 600
         height: 338
+        isCached: true
+  - title: "Early predictions for Nvidia and AMD's next-gen cards set up a titan GPU battle"
+    excerpt: "Rumours about the potential next generation of GPUs—namely Nvidia's GeForce RTX 4090 and AMD's Radeon RX 7900 XT—have already begun to surface across the web. Among them, known Twitter leaker Greymon55 now airs their predictions where core count,"
+    publishedDateTime: 2021-11-12T13:19:00Z
+    webUrl: "https://www.pcgamer.com/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
+    ampWebUrl: "https://www.pcgamer.com/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 55
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/W4DB35GbTtA5TdPRRi8CWN-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Early predictions for Nvidia and AMD's next-gen cards set up a titanic GPU battle"
+    excerpt: "Rumours about the potential next generation of GPUs—namely Nvidia's GeForce RTX 4090 and AMD's Radeon RX 7900 XT—have already begun to surface across the web. Among them, known Twitter leaker Greymon55 now airs their predictions where core count,"
+    publishedDateTime: 2021-11-12T13:19:00Z
+    webUrl: "https://www.pcgamer.com/uk/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
+    ampWebUrl: "https://www.pcgamer.com/uk/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/W4DB35GbTtA5TdPRRi8CWN-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "QCraft announces self-driving chip deal with Nvidia, setting course for mass production"
     excerpt: "Nvidia’s Drive Orin chipsets will underpin the hardware suite that will be fitted in QCraft’s next-generation self-driving car fleet."

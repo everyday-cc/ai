@@ -79,6 +79,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Self-driving truck startup raises $125 million"
+    excerpt: "Kodiak Robotics, a self-driving truck startup, has raised $125 million in funding to continue development of autonomous systems for the future of first-mile logistics. Kodiak has to date raised $165 million with this round being led by SIP Global Partners,"
+    publishedDateTime: 2021-11-12T13:30:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17411/self-driving-truck-startup-raises-125-million"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/411/17411/Kodiak_Robotics_Self_Driving_Truck.jpg"
+        width: 752
+        height: 423
+        isCached: true
 
 secured: "17dD9eywxFpDsDqEbfOVJmxvfzX1kCjSgInwyyiCs/EYyrTw6bYjnYhZOly4EA8BjpiTFR4pOfTOZJjipuwLxL0yG3Gcc4SyQyCZRCsG2XVclKs02b7FIEoiurcs9E4Rb+4BBDpMxzLU7hMRXIIT0oxJqE/q30YT6QJPB4sIQ7JozbWrMltVB8Sw1MhQ+RE3o5yCFtc8ZHwXb5BkVr3NPt9PwFsjo6lA8VcFTGQSn5xPZ0NF2d1IW/iEP4phUvj3/DNmaFl11SXci41gQfrw+uGPL6L46Odoq65pId1Dkx2wM/SzmCdCdaGVpbDsRzB0ERrTSlhD00rl7250pKS2c6lGSM/AhFZXF/mze29uyP0vSCQlbABl71STBQOJQ6EIzmcLlbwIgPeLAy0mVx46GtUbwdgMfMsmqtqmc3U1aELAtyIqKPT8hOllkiwilacFuvAi5DEd1UvYzYyzLJU27h8NRzLZt/Nqtqwy5asw0wq3yiNIGQzrcitwVNOCWONSoKDHKMR1c71cfm7LTSZOqw==;WmS/K+zc6tGrq/TtxxjcOw=="
 ---

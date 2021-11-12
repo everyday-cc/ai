@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-future-career-development-dan-sc
 webUrl: "https://www.linkedin.com/pulse/ai-future-career-development-dan-schawbel"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -29,29 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Inside CMU’s new AI Maker Space, a hub for collaborative software development"
-    excerpt: "Funded by JPMorgan Chase, the new space will give students from all schools at the university a chance to innovate robotics applications: \"It’s for everybody.”"
-    publishedDateTime: 2021-11-10T22:02:00Z
-    webUrl: "https://technical.ly/pittsburgh/2021/11/10/cmu-ai-maker-space/"
+  - title: "Baby, You Can Drive My Job? Cars, Careers And The Future Of AI"
+    excerpt: "AI might replace the data-compiling aspects of journalism, for example, but journalists will continue to exist."
+    publishedDateTime: 2021-11-12T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/amp/"
     type: article
     provider:
-      name: Technical
-      domain: technical.ly
-    quality: 36
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://technical.ly/pittsburgh/wp-content/uploads/sites/7/2021/11/robot-playground-UA-211110A-JPMorgan-Chase-AI-Maker-Space575.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 943
         isCached: true
-  - title: "AI development platform adds starter projects"
-    excerpt: "AI development platform update makes it easier and faster to build tinyML applications for edge devices. Imagimob has updated its AI development platform to make it easier and faster to build tinyML applications for edge devices."
-    publishedDateTime: 2021-11-08T18:01:00Z
-    webUrl: "https://www.edn.com/ai-development-platform-adds-starter-projects/"
-    type: article
-    provider:
-      name: EDN
-      domain: edn.com
-    quality: 19
 
 secured: "888gHkiC6DKMNs6ouToqsBRSqEoY/UQAeW+uvSKP+2v37SDgpTABV+w1JjXr+tmC3Pv8FUuXy0SsFVhzO3DMSx7Bh34qVgDKHpbvej+1PIfDtfG+2LFmj1u0DbNztg54KDeOMJzi51O1W0wrOc7lTAey1h/FY/Ngda3tUW+uMHMCOxikQK+yeHnT/eG3tZ2VR4zJGEMgKSR7WCrPU3t6g5eDfEbgwJ51PC06jLnWWhihlHz8yqYXiNkII8txHUdqGf6Lg9khB4of+KD8AcpAqa5HFES4juUcbmHvC/Q/uZ1bLNYU2iB9HyUEMwFXaO/fjg1xPWt2WgQQO23QGQgBdCKj3RUOPiPDNS6etuMOEigPUxlj0r+/9aGMUqnsqgFHub9f/dRziREcrFLv71sLiGDRKNkTe0KQ10Rrcb7RIzJFhcgK6jAtHK25ux/ca0PMaKZItkTU32gvUL1nw1fJPS+Qi4QyknpL7LjrawA2NLDEHpgHGFrjGh0T8mMZpmZGiEdYu4uegLRUEmXIwS20IQ==;Y2KcARw3Oc494boLgxNR+w=="
 ---

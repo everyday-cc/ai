@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103129317/LegalTech-Artificial-Intelligence-Ma
 webUrl: "https://menafn.com/1103129317/LegalTech-Artificial-Intelligence-Market-2021-by-Key-Countries-Companies-Type-and-Application-Market-2030"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,117 @@ images:
     isCached: true
 
 related:
-  - title: "LegalTech Artificial Intelligence Market Next Big Thing | Major Giants Open Text, Legalmation, LexisNexis"
-    excerpt: "The article cited HTF’s \"Global LegalTech Artificial Intelligence Market Study\" explored CAGR of %. According to the report, Introduction of Blockchain Technology in the Law Sector is one of the primary growth factors for the market."
-    publishedDateTime: 2021-11-09T11:45:00Z
-    webUrl: "https://www.linkedin.com/pulse/legaltech-artificial-intelligence-market-next-big-thing-nilesh-musale"
+  - title: "Global Artificial Intelligence (AI) in Education Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
+    excerpt: "Nov 07, 2021 (CDN Newswire via Comtex) -- MarketsandResearch.biz has recently published a report titled Global Artificial Intelligence (AI) in Education Market 2021-2027 which assesses dynamic factors, growth determinants as well as information on segment ..."
+    publishedDateTime: 2021-11-08T09:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-education-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-11-07"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 20
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEtD3gflhdVbQ/article-cover_image-shrink_600_2000/0/1636457989520?e=1642032000&v=beta&t=2Dg97gm28-CeJwXzHGLrbV3vl0mwv06wh2R9IpBS60k"
-        width: 900
-        height: 330
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial intelligence (AI) Chips Market Size 2021: CAGR Value, Top Manufacturers, Industry Share, Growth, Supply Demand and Forecast till 2026"
+    excerpt: "Global “Artificial intelligence (AI) Chips Market” research report provides strategies for company to deal with the"
+    publishedDateTime: 2021-11-09T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI for Speech Recognition Market 2021 – Industry Development Scenario, Data Synthesis, Growth Analysis and Regional Overview by 2027"
+    excerpt: "Global AI for Speech Recognition Market 2021-2027 published by MarketsandResearch.biz carries out research and analysis of the market which includes the investigation into customer tendency. A number of producers will benefit from this research in identifying and expanding their market."
+    publishedDateTime: 2021-11-09T00:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-for-speech-recognition-market-2021-industry-development-scenario-data-synthesis-growth-analysis-and-regional-overview-by-2027-2021-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Smart Robot Market Research Report 2021 | Share, Trends, Growth, Outlook and Forecast 2026"
+    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, the global smart robot market reached a value of US$ XX Billion in 2020."
+    publishedDateTime: 2021-11-10T11:43:00Z
+    webUrl: "https://ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/"
+    ampWebUrl: "https://ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 49
+    images:
+      - url: "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Smart%20Robot%20Market1.jpg?1636539321479"
+        width: 563
+        height: 743
+        isCached: true
+  - title: "Computer Vision Market 2021 by Segmentation includes Type, Applications, Channel and Forecast to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for  Computer Vision Market  for 2021 till 2030. Report"
+    publishedDateTime: 2021-11-09T06:42:00Z
+    webUrl: "https://menafn.com/1103126142/Computer-Vision-Market-2021-by-Segmentation-includes-Type-Applications-Channel-and-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?55638"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Global Artificial Intelligence in Agriculture Market Report – Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026"
+    excerpt: "United States OR Poland Big Market Research recently published a report on Global Artificial Intelligence in Agriculture Market to its research database This Global Artificial Intelligence in Agriculture Market report analyzes the comprehensive overview of the market comprising an executive"
+    publishedDateTime: 2021-11-12T03:08:00Z
+    webUrl: "https://www.openpr.com/news/2459500/global-artificial-intelligence-in-agriculture-market-report"
+    ampWebUrl: "https://www.openpr.com/amp/2459500/global-artificial-intelligence-in-agriculture-market-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2459500/global-artificial-intelligence-in-agriculture-market-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub12513989_g.jpg"
+        width: 800
+        height: 374
+        isCached: true
+  - title: "Worldwide Payment Processing Solutions Industry to 2025 - Rising Financial Inclusion Across the Globe Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The “Global Payment Processing Solutions Market (2020-2025) by Payment Mode, Vertical, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-11-08T14:52:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-48a70fd80c7c482f8f99238f0583b347"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Artificial Intelligence Market 2021 CAGR Value, Top Manufacturers, Competitive Landscape, Growth, Industry Share, Size, and Forecast till 2026"
+    excerpt: "Artificial Intelligence Market report 2021 presents the development status, growth opportunities, future prospects, technologies, including top leading players are IBM Watson Health,"
+    publishedDateTime: 2021-11-11T11:15:00Z
+    webUrl: "https://www.wboc.com/story/45172538/artificial-intelligence-market-2021-cagr-value-top-manufacturers-competitive-landscape-growth-industry-share-size-and-forecast-till-2026"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
 
 secured: "TMb41kDd8LJrXo0d2rd6dGIVN0XKEJhv1OEYWyVaNKFE5kiY+GZ0VtspdMM0M6FEgV6nfAQ98wrE3FjwvYuX0idliYwWfL2WIVJrxZEDs3U4Y2UCCcpbZFScAjAz7+TngBMfzrYLR0C5VM8miJybqOVFvojfDxHGs/7qhfyTsMDfxjg9i6LbFguGGNSeKNjiXb/IWwMYxVFqIj975SEjPQXblNmLSP6aqnHX+lFwBfZZPwILWWt8lye0Qlc/HYyNGXaEu2CFjgtkoSYy/R6dcCLfYhEz3dSFNe9nECZ5Psyt+XsiyUnlV8Kg+r8M1VVKZG1s5OilK8b9ztP4GhPalsjJbgNSw02jK3ymr0/04W0HEEF2tEOsp4bE+aXRUbbsrceosNJQzpr+N6G29bI/Q9QaiQUhBT8T71jR7/BJSVGnQpp0IPwToMg8hQ2+A3yuOyVbyONz5IB+88Y8bG1FbgI2KZPa7cqj/250SV2xtgzrKucrgJBLs5MrPWogp3r2m/bwFwzQPgwdo0pk5y0w8Q==;e4buMh3I5cwKeaq7Ter27Q=="
 ---

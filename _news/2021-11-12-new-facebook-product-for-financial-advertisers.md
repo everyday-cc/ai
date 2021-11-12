@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lawmakers come for Facebook algorithm with 'filter bubble' bill"
+    excerpt: "Facebook's algorithm sucks, and Congress wants to do something about it. A bipartisan group of lawmakers is pushing forward what it's titled the \"Filter Bubble ... the bill is aimed at the heart ..."
+    publishedDateTime: 2021-11-09T23:51:00Z
+    webUrl: "https://mashable.com/article/filter-bubble-transparency-act-threatens-facebook-news-feed"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 152
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/02zPzzQTuSRukpzxcBQv9DD/hero-image.fill.size_1200x675.v1636502109.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facial Recognition Marches Forward, No Matter What Facebook Says"
     excerpt: "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore —and facial recognition has become an increasingly toxic concept in many circles."
     publishedDateTime: 2021-11-11T09:00:00Z
@@ -39,68 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
-    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
-    publishedDateTime: 2021-11-08T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 61
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
-  - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
-    excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
-    publishedDateTime: 2021-11-09T20:05:00Z
-    webUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/"
-    ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 59
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Facebook shutting down automatic facial recognition in photos"
-    excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
-    publishedDateTime: 2021-11-11T18:00:00Z
-    webUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521"
-    ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/11/faceb.jpg?itok=QLjSS1xF"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "Facebook, the metaverse and the monetisation of higher education"
-    excerpt: "The metaverse is a virtual world in which users represented by an avatar can shop socialise take part in leisure activities ndash and learn Its de"
-    publishedDateTime: 2021-11-09T13:12:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271690241/facebook-the-metaverse-and-the-monetisation-of-higher-education"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cvr1636461579.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Facebook Ends Recognition Software"
     excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."
     publishedDateTime: 2021-11-09T08:20:00Z
@@ -114,34 +66,6 @@ related:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(75).png"
         width: 796
         height: 900
-        isCached: true
-  - title: "Facebook is now revealing how often users see bullying or harassing posts"
-    excerpt: "The parent company of Facebook and Instagram has released data for the first time showing how often people see bullying or harassing posts on its apps, amid scrutiny over how its social networks may be harming users and society at large."
-    publishedDateTime: 2021-11-09T18:11:00Z
-    webUrl: "https://kuow.org/stories/facebook-is-now-revealing-how-often-users-see-bullying-or-harassing-posts"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 23
-    images:
-      - url: "https://kuow-prod.imgix.net/store/cfdac8b72741ad70d4441331bd867d2f.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 837
-        height: 628
-        isCached: true
-  - title: "Facebook whistleblower says Digital Services Act can rein in social media giant"
-    excerpt: "Haugen: ‘Facebooks’s profit optimisation machine is generating self-harm and self-hate especially for vulnerable groups like teenage girls’"
-    publishedDateTime: 2021-11-09T17:03:00Z
-    webUrl: "https://www.maltatoday.com.mt/news/ewropej/113187/facebook_whistleblower_says_digital_services_act_can_rein_in_social_media_giant"
-    type: article
-    provider:
-      name: Malta Today
-      domain: maltatoday.com.mt
-    quality: 20
-    images:
-      - url: "http://cdn.maltatoday.com.mt/ui_frontend/thumbnail/684/400/frances_haugen_facebook.jpg"
-        width: 684
-        height: 400
         isCached: true
 
 secured: "l3VfSc5qVOCcMHVDd3ntyEEibsRb5oby+6xekwQGTT4QPBZts5MHzhyYlo7kR85lL40PGtN7glYVj7ihixDvKkcpbrenrG6csaK1Pupt7CYqO3i7fllcOlnyX5ep+1zDqfqkd/GhOTflGldJ/iXcbd8dYxVyqAXKgO6X5tM7UtdYB0gA+gIzpCzjY3M8pEEYwQFG/bqT1C2vwhlKZiOLbQnv7D2zqwXMexwGYmk1Fr7kWtw3FtXMIGMD7FJvTLhZw63l9mJYwUwPFIa7D1bwztxCbGf+7y7pxTahmCHPZB6ZKS2k+UgGG3S7A1R07LON4jNGSpRey+Y6lE8Dd9Kz+p07dMn6rKheiE+6GGzdGAc=;nUN123W0qFvnGSm16fPj4Q=="

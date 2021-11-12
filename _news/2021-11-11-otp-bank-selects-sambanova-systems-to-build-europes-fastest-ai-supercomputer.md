@@ -29,11 +29,27 @@ related:
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/ab_business_building.jpg"
         width: 1300
         height: 500
+        isCached: true
+  - title: "European Banking Authority Releases Machine Learning Discussion Paper"
+    excerpt: "The European Banking Authority (EBA) has released its discussion paper on machine learning 'used in the context of internal ratings-based (IRB) models to calculate regulatory capital for credit risk.' As noted in the announcement,"
+    publishedDateTime: 2021-11-12T12:32:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look.jpeg"
+        width: 1400
+        height: 1867
         isCached: true
 
 secured: "lNVXXocsICP7xLwuyZhA6T6X5+45oktv+tqswFaAYPhFXaa28TNzwJ3Wmg374UIRawi44GGf4kFNVId2rqfgnTkAHr+GumQ/2s9fXw8yapgm89uN9X3BdHgPkBul/FxffE7n637k25joTD0JVbfrtkT5Aoz1D6S9Lw8IMKa0KmULBgvz1BEA9SVTBsDpR7V0CtQ+vx8rSMJgM0wa2J8knty6KsSkxxOXYHsPSIwQ4UvyS4a+V+4cqCrIvQgFHSMmr2i3scX3zSgKrFcF4G90SaaeDfomzBg7eLT8fSZhRHcVgeuVHiaRmvoVjMmyvKeQ02zVhFWqsWvEgkgwRqJWj474kSyW6T7OuFCs2MOndIE=;oG6aJSXkcCk15hwhtXe/Ag=="

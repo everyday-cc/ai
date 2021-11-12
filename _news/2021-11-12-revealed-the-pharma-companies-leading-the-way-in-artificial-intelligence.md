@@ -2,23 +2,23 @@
 category: news
 title: "Revealed: the pharma companies leading the way in artificial intelligence"
 excerpt: "Novartis and Johnson & Johnson are among the companies best positioned to take advantage of future artificial intelligence disruption in the pharmaceuticals industry, our analysis shows. The assessment comes from GlobalData’s Thematic Research ecosystem,"
-publishedDateTime: 2021-11-12T09:00:00Z
-originalUrl: "https://www.pharmaceutical-technology.com/features/revealed-the-pharma-companies-leading-the-way-in-artificial-intelligence/"
-webUrl: "https://www.pharmaceutical-technology.com/features/revealed-the-pharma-companies-leading-the-way-in-artificial-intelligence/"
+publishedDateTime: 2021-11-12T13:00:00Z
+originalUrl: "https://www.clinicaltrialsarena.com/analysis/revealed-the-pharma-companies-leading-the-way-in-artificial-intelligence/"
+webUrl: "https://www.clinicaltrialsarena.com/analysis/revealed-the-pharma-companies-leading-the-way-in-artificial-intelligence/"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Pharmaceutical Technology
-  domain: pharmaceutical-technology.com
+  name: Clinical Trials Arena
+  domain: clinicaltrialsarena.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/11/shutterstock_2055997766.jpg"
+  - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/11/shutterstock_2055997766.jpg"
     width: 1000
     height: 667
     isCached: true
@@ -53,6 +53,6 @@ related:
         height: 334
         isCached: true
 
-secured: "oKSnTn+ij0D+6PZlkuBu9qPHfQT6o5y9ckT8SvnGp8YMX5wCUEv7df7TfEOFZ3nBdrDLMmiWqHAoWuRVmXHI0e8Xkx0ZwY2l6ZObDwJyHGMkvcaJVFjKBoLkhMW4Dj5LoMbR3OnTbIGHIh5rqS+s1x3p31q0Mve9gekj3aCcbIlPX1/8Z9RqejT8NPlOCH1NXO7jTHXxo0zeTsLbJVx7d64Oz06q9BfhPZx4YYwP9bk3ql3KhtF5GbLIpxiFLcQxmGeh7GJ44Fhr3oOufMQVf/Kz34Rze+Vww3m3gsQdKJAf/SW56Etit/eY6eAH8zNI1P7JZ3eislJhCBhg87+D4G5A107yLdT4/u+e4AzQtw4=;J3zgzKStIHsU1uUFV/VWIQ=="
+secured: "Jq6yh/d/TNWuU7/O/QwFcj2PSKL6YX54NmSBNr8z0h8Hwz9mS1Iv5W2IIu6v4kQMuQrzMDcdhELMT35G7fsIH7Dxi09ePtTrDHhjxC+TChdrOGnKDvylAVHYFykWROzk14IecPCOlC6w+YU8ZKvbtRqRnRHcyVrl8Y67iqg8MXxIOysLUg3P07bM6tf2WQH12tRz2WoA2VKsQo9NPOeIr9b8DHMWFvJGCopT+ldQ1PlHapUdcK6UztqETK7KJBZ1+xxgVQeVf7TchQRb0Nfbq6uLbOgD+4Su/bXfcBcb0lmv1RVM48VvE12Jok28EPPU2vj1x+1Lqd4rbTz3oZBWQweDIUQBNxi7IfFkVZJKnO8=;im4HvxKd1Jmdqa4u04wgWw=="
 ---
 

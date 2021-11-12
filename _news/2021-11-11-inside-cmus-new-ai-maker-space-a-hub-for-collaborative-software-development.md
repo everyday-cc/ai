@@ -7,7 +7,7 @@ originalUrl: "https://technical.ly/pittsburgh/2021/11/10/cmu-ai-maker-space/"
 webUrl: "https://technical.ly/pittsburgh/2021/11/10/cmu-ai-maker-space/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Is AI the Future of Career Development?"
-    excerpt: "The following is an excerpt from my FREE Workplace Intelligence Insider Newsletter. Subscribe now and get the full article delivered straight to your inbox! And I’d love to hear your perspective on my new study with Oracle — let me know what you think in the comments below!"
-    publishedDateTime: 2021-11-08T12:45:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-future-career-development-dan-schawbel"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGgDvboLqSBWA/article-cover_image-shrink_720_1280/0/1636326954168?e=1642032000&v=beta&t=fF3qvlWA0b4v8i6_RDYnlSdoxrqfxXcx9oXn75NNmh0"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "AI development platform adds starter projects"
-    excerpt: "AI development platform update makes it easier and faster to build tinyML applications for edge devices. Imagimob has updated its AI development platform to make it easier and faster to build tinyML applications for edge devices."
-    publishedDateTime: 2021-11-08T18:01:00Z
-    webUrl: "https://www.edn.com/ai-development-platform-adds-starter-projects/"
-    type: article
-    provider:
-      name: EDN
-      domain: edn.com
-    quality: 19
 
 secured: "IJvsOMRrZdzn0LYtyOVh7yE1Cf6biYt8a3yRS8dZQ0clkTUFosghfm1l/LTr6owhDTx+BZNad56ywJfhM4ZAMdMXQulZeCMBibyTIRn50p7oMeCrsH+cizt0RjChLjBJuegJ+nfIWnPSh+a/jA3C4FvvOpxVxt/IF1nZi1q8QqmsycSQ3qj8umZfgsNAdnk2M+pzoB+/seBQR4htLPDLHBA1aj/dnW4+gnSq2w5MrVKVXVepmGFProaASDK7HLeSEyLPPITJWhuO/CkG3BefpnMhCnxDmTi+fi+7nnaKUbhy2A+T/Jt4DqG0kBtJyqpsarHc0/LrSMWjvIetQ/T4WsUrDunGC6jkllVrhxvCW2M=;5lQ3qKox9f9wSozkvw849Q=="
 ---

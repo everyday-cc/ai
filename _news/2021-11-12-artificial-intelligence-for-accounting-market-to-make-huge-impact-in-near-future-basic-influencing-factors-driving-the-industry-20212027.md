@@ -36,6 +36,20 @@ related:
         width: 900
         height: 471
         isCached: true
+  - title: "Using Machine Learning To Make Better Medical Decisions"
+    excerpt: "While artificial intelligence has become essential in advancing medical research, scientists have yet to work out all the technology’s flaws. A University of Texas at Arlington computer scientist has received a three-year,"
+    publishedDateTime: 2021-11-12T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-make-better-medical-decisions"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "How machine learning and new data sources can better target aid"
     excerpt: "The Center for Effective Global Action featured its work in, and learnings from Togo, in a recent event on reimagining development aid, which focused on how to leverage emerging technology to improve targeting."
     publishedDateTime: 2021-11-08T10:43:00Z
