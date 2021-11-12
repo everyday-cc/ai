@@ -53,7 +53,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -178,6 +178,49 @@
       "provider": {
         "name": "The Hindu",
         "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool.md",
+      "title": "It’s time to address facial recognition, the most troubling law enforcement AI tool",
+      "excerpt": "AI algorithms are now employed to identify individuals by face, fingerprint, and DNA, with varying degrees of success. Among these AI technologies, facial recognition technology is arguably the most troubling.",
+      "sourceUrl": null,
+      "webUrl": "https://thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/",
+      "originalUrl": "https://thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebulletin.org/wp-content/uploads/2021/11/police-surveillance.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/amp/",
+      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/amp/",
+      "publishedDateTime": "2021-11-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bulletin of the Atomic Scientists",
+        "domain": "thebulletin.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1034,6 +1077,41 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players.md",
+      "title": "Global Deep Learning in Computer Vision Market Trends Analysis and Future Projections with Top key Players",
+      "excerpt": "this market research report draws attention to key market dynamics of the sector. Deep learning in computer vision market will grow at a rate of 55.65% for the forecast period of 2020 to 2027. Data Bridge Market Research report deep learning in computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://chipdesignmag.com/global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players/",
+      "originalUrl": "https://chipdesignmag.com/global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chip Design",
+        "domain": "chipdesignmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-31-tech-time-delta-air-lines-launches-new-facial-recognition-software.md",
       "title": "Tech Time: Delta Air Lines launches new facial recognition software",
       "excerpt": "To streamline the check-in process at the airport, Delta Air Lines is introducing new facial recognition technology to airport security.",
@@ -1288,102 +1366,6 @@
       "provider": {
         "name": "CBS Detroit",
         "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
-      "title": "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
-      "excerpt": "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
-      "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
-      "excerpt": "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

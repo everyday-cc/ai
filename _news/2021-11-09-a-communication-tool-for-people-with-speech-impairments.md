@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/accessibility/project-relat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-relate/amp/"
 type: article
 quality: 109
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_in/news/g/googles-pr/googles-project-relate-aims-to-help-people-with-atypical-spe_5rm9.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google introduces Project Relate, a voice recognition app for people with speech impairments"
+    excerpt: "Google has announced Project Relate, an Android app that will help people with speech impairment communicate more easily with Google Assistant and"
+    publishedDateTime: 2021-11-12T07:36:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/google-introduces-project-relate-a-voice-recognition-app-for-people-with-speech-impairments-939196"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/google-introduces-project-relate-a-voice-recognition-app-for-people-with-speech-impairments-939196?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/google-introduces-project-relate-a-voice-recognition-app-for-people-with-speech-impairments-939196?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 48
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/large/public/project_relate_0.jpg?itok=0E8sNV-9"
+        width: 600
+        height: 338
         isCached: true
   - title: "Google introduces ‘Project Relate’ for people with speech impairments"
     excerpt: "Google has recently introduced its “Project Relate” that aims at helping people having speech impairments communicate more effectively."

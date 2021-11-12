@@ -2,6 +2,134 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-10-22-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript.md",
+      "title": "International Business Machines Corporation (IBM) Q3 2021 Results - Earning Call Transcript",
+      "excerpt": "This is led by global business services in cloud and cognitive software ... the continued investments we are making in our Red Hat, Microsoft, and AWS practices. As Arvind said, we added over ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4460953-international-business-machines-corporation-ibm-q3-2021-results-earning-call-transcript",
+      "publishedDateTime": "2021-10-21T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai.md",
+      "title": "Lawmakers introduce bill to increase oversight of federal contractors’ use of AI",
+      "excerpt": "Ohio, have introduced legislation intended to protect information handled by federal contractors that use artificial intelligence technology. If enacted, the new bill would require the director of the Office of Management and Budget to establish and consult with an AI hygiene working group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai/",
+      "originalUrl": "https://www.fedscoop.com/lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-robot-artist-ai-da-released-by-egyptian-border-guards.md",
+      "title": "Robot artist Ai-Da released by Egyptian border guards",
+      "excerpt": "A British-built robot that uses cameras and a robotic arm to create abstract art has been released after Egyptian authorities detained it at customs. Ai-Da, named for the mathematician Ada Lovelace, was seized by border agents last week who feared her robotics may have been hiding covert spy tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/CB3B/production/_121172025_gettyimages-1318598041.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "publishedDateTime": "2021-10-21T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-give-it-one-year-3-lessons-learned-from-my-azure-cloud-journey.md",
       "title": "Give It One Year: 3 Lessons Learned From My Azure Cloud Journey",
       "excerpt": "I received a Facebook memory that one year ago I passed my Azure Data Fundamentals exam. If you’d been following me you would know that it was an adventure to say the least (You can watch my proctored exam ‘experience’ video right here!",
@@ -955,144 +1083,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-machine-learning-can-be-fair-and-accurate.md",
-      "title": "Machine learning can be fair and accurate",
-      "excerpt": "A CMU team aims to dispel that assumption in a new study, recently published in Nature Machine Intelligence. Rayid Ghani, a professor in the School of Computer Science's Machine Learning Department (MLD) and the Heinz College of Information Systems and Public Policy;",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/932216",
-      "originalUrl": "https://www.eurekalert.org/news-releases/932216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-egypt-detains-artist-robot-ai-da-before-historic-pyramid-show.md",
-      "title": "Egypt detains artist robot Ai-Da before historic pyramid show",
-      "excerpt": "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "originalUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ba9e0913ba3b1f81fb67f2afed82643fb05f4429/0_261_6448_3869/master/6448.jpg?width=620&quality=85&auto=format&fit=max&s=daf32ce56cd4dc914d3f6e73e61adb54",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
-      "publishedDateTime": "2021-10-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-3m-names-americas-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health.md",
-      "title": "3M Names America's Top Young Scientist of 2021: 14-Year-Old Sarah Park, for Music Therapy Treatment to Improve Mental Health",
-      "excerpt": "ST. PAUL, Minn. and SILVER SPRING, Md., Oct. 20, 2021 /PRNewswire/ -- 3M (@3M) and Discovery Education (@DiscoveryEd) have named 14-year-old",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3m-names-america-s-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health-1030882271",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3m-names-america-s-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health-1030882271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1665091/2021_3M_Young_Scientist_Winner_Sarah_Park.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

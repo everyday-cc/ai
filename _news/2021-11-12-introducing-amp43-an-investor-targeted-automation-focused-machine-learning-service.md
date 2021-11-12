@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Introducing AMP43, An Investor-Targeted Automation-Focused & Machine Learning Service"
-excerpt: "Marketing technology firm NAV43 today announced the launch of AMP43, its visionary new Service that uses machine learning to curate an audience of pot"
-publishedDateTime: 2021-11-12T00:29:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211111006046/en/Introducing-AMP43-An-Investor-Targeted-Automation-Focused-Machine-Learning-Service"
-webUrl: "https://www.businesswire.com/news/home/20211111006046/en/Introducing-AMP43-An-Investor-Targeted-Automation-Focused-Machine-Learning-Service"
+excerpt: "Marketing technology firm NAV43 today announced the launch of AMP43, its visionary new Service that uses machine learning to curate an audience of potential investors. Aimed primarily at IPO-ready brands and newly-launched stocks looking to grow their shareholder base,"
+publishedDateTime: 2021-11-11T20:29:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-canada-17c06cbaa2294b318c318c39e73ecd98"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-canada-17c06cbaa2294b318c318c39e73ecd98"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "84KtOgJhnTHJcqXHFbdmh2D09w48h50L1+H+sbj44dbWBL7w3JLX+hAnrQMFA2USTymXh0IkqyjvQ3G5rhheZHCKw07NS0D73bt/cCQ7jKfSZfWtMXZPE0qlI8/rDvc0AsZ/Xj1o52FQLciz/TLU33FZUK6dfNCNdcPtm3GDm4JPG06rv7dV9aL5oRYwWycxcr4OhCCWhgGIDlMxIeYcAN4X2nyhwFwe4hlgyZfrj7me/5NDNHW7b/HZSFm6VUwpaMZib4IV1v/PparXzaQci8zghA5IAv2cmaXJHa3ZTxJlIwNHzVaVsVTgDEd7Mo5Nqwis7it03sh83nr3gK5URvZbWrFW/zzSDV58Fv3aN9U=;qHKnmEdzcKmmOxQiwdkbKg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "jM12h7iou0gh7ZCTzDKYcPs8fhAJsIuFRLue4RCzRYrc8/w8HzNsY8ja3/zn5uEi8QV6FvILWMwLnksigA+XdKXlWg4Y1gXgo3LM1Owjp9moO3p2ULUxbbvpSRRaOY7aFx44Agn/ui/D9Zcj87nGU1VrEkxkvj2Z5m54B6Wu+ERvi4oUkQt0MGzbVWAub9gqA3Z1khc5XA8e771sXjY5RZpkzZv4F20w9na/4wP26uLmyE8JT4EmyCkAcitFBPm/5/n8k6hGwiBlu+YZpE2nKRhjkLjRjYBXzrq4DdRPXENzNzL6E4ud38Yjc/GXv149FWbWjUCUVtRJKSh8S8hvw+JUsRcNzXQogRk/9C0m9ow=;omb4aDNSbfxL4Xazwj6JJg=="
 ---
 

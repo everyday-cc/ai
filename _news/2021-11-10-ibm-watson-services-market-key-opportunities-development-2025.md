@@ -53,6 +53,20 @@ related:
         width: 728
         height: 410
         isCached: true
+  - title: "IBM Enhances The Natural Language Processing Capabilities Of Watson Discovery"
+    excerpt: "IBM has announced upgrades to Watson Discovery's natural language processing capabilities. These advances in NLP can teach Watson Discovery."
+    publishedDateTime: 2021-11-12T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-enhances-nlp/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 53
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/IBM-Enhances-The-Natural-Language-Processing-Capabilities-Of-Watson-Discovery.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "n2CQVCyT6n6dnFPS+7mvQUv2InrOMVYylwVQoQ0kSSk67YgCJwOG9SLD5+HFevomnek02aDeQS2KDPk7thDpEwNqldy11sputaBHJ1mdzcpc2el7tPlNl95FyQGxaTbKbKR1q1adLKrj+h2r9RQuDTfoQyYjfIVvemni5ewECQsQWdLWMRPGkQYbcvuVZ32dDV1nMDAH7ndoV31Z3TalEYhN7QBwfOiDvHoyfJ8VUyWEk1smOFYiknfOwadBkNGlg4kzu5tTJsNzlyoxpcTMJgaNsZHAOHBa2IjLL2X3IQLWlX9W/DPHEgF6o4fRgyjn5+X1cizfr+K1YfMj4HD0UQM2KRoZFgXMzNqNGvIb+xw=;diqi86vmFkaLbA6yo0RWFg=="
 ---

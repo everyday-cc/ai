@@ -56,6 +56,22 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Toch.ai Launches INR 100 Cr Startup Fund To Back Audio And Video Tech Startups"
+    excerpt: "Toch.ai’s SaaS platform leverages artificial intelligence to understand context and key moments in videos to auto-create short-form video. The fund will be used to invest in disruptive early ..."
+    publishedDateTime: 2021-11-12T07:34:00Z
+    webUrl: "https://inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/"
+    ampWebUrl: "https://inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 53
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-feature.jpg"
+        width: 1360
+        height: 1020
+        isCached: true
 
 secured: "i++gWHTs1e0pQtB4yRbOeMmjxGiQAchbrYxpG3Ub6NzxMSLGHbw9oJ3TOxqISEtfp8gmPeyPHAnnY5BWWFj+0OzSaBFJnMc/Whx6mxTraIpbAWbsAHvZsqFRz7H6sMFnSMGpIqbYcnHwPOhpYqoDrPzHISQXORsqJUNRvJy5PGS3NeWgNZ3jcSwN80WqpSkXb9mXxsJ6qgeOqB/dLeo3XAdY7bxOhlG/cDFjZ67xWNm71BxL/pVRLmroB5jUAkAX2xXoE5MY+s9p7bhnewNBjrMIwcKZmBYom+ntMHNfwkhv8mfPEtt/sbiwSg9rfNF8JwnOwnJVEekAmilFU1LI6GsDY6KjYK645QR9epVzf+I=;MPGtEe4FzYqzgTokGgWXeA=="
 ---

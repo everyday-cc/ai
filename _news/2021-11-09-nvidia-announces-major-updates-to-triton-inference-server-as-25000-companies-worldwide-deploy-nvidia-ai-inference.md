@@ -2,23 +2,27 @@
 category: news
 title: "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference"
 excerpt: "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,"
-publishedDateTime: 2021-11-09T07:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi"
-ampWebUrl: "https://www.benzinga.com/amp/content/23974757"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23974757"
+publishedDateTime: 2021-11-09T09:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker"
@@ -120,6 +124,6 @@ related:
         height: 508
         isCached: true
 
-secured: "rs5HV/C94majC0lhmq1tjWq7uFysVDbpx0J6RdF0CfInDYv8NZSnGsEU38io/sNWl4KzPQFBZgXtuf/pynSjm51ELuMGoc6KCo6tt7zSSrTAZaQkEyPDEi69sRS4l5Ui7FWkCD8H10Ns7JsuTnuqXVnwasTI6T3H9EK9C1BUnEFi75JfZWMUk/2FWjsa4ruHNe5Fo1pRZnjEmxEqVL2Z9ef8IAj6B6rZqp5pJM7C+Z5KF0fvm5Gx55yAMcHOmc222aPKVe5BD8dLBOM82mgMhYN+ev9y1OThxIIS2FMy/PSHEx5nxRSs+P0jN5Zf8MJ3wUzRLGPhVu65pfEAiTrbKcWwqqjLpM7aQf9yqhhCb/0=;ZMPusOlvza7sYUZ5OSopWQ=="
+secured: "WXxadkLH7Sa/q6tjKqw28sJRouUGxlzP3GPBCDwiuR91xGqbgDMceOTX1vNAEDt8mPdeq2uwqG/nIpOVWiHzd/iC/ADjVY+dyWw5atO8O4rqhyDfQn2PmddB2GNoNhAzIRFIUHTXCPFdKNuo35t03M3OzDugwmXN1fjsLihrh2jmGe0u7UeUHheG4C8XC/AesvpLZ59yzxDT+W0XfYp+GFlQQDdy3bWxfWq1HasVSN2c9Kf7Sjn7TdUlkJzXSIyakUC0oPR4w8KEyIzkSr23kATVdNPk/J95Wu+5gt5SZDwEJqrzp7jMmNoRSZd8bDe6nuPN5JvJH61VtSjbdpv83ynmr9p3I+7SpmtKnjLpEiA=;RFdm2BUOZONdVeMA+2OtDQ=="
 ---
 

@@ -40,6 +40,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM Enhances The Natural Language Processing Capabilities Of Watson Discovery"
+    excerpt: "IBM has announced upgrades to Watson Discovery's natural language processing capabilities. These advances in NLP can teach Watson Discovery."
+    publishedDateTime: 2021-11-12T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-enhances-nlp/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 53
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/IBM-Enhances-The-Natural-Language-Processing-Capabilities-Of-Watson-Discovery.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "IBM Watson Services Market– Key Opportunities & Development 2025"
     excerpt: "\"IBM Watson is considered to be the first-ever commercialized cognitive computing platform, designed specifically for underpinning the development of various enterprise solutions. IBM Watson services continue to tap immense opportunity in the rapidly evolving cognitive computing field,"
     publishedDateTime: 2021-11-09T19:20:00Z

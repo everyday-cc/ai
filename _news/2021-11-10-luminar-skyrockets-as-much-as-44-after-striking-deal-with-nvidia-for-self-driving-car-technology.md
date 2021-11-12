@@ -42,6 +42,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 65
+  - title: "Luminar To Supply Laser Sensors For Nvidia’s Self-Driving Car Platform"
+    excerpt: "The lidar upstart will supply the sensors for the DRIVE Hyperion system Nvidia is developing for use in personal self-driving vehicles starting in 2024."
+    publishedDateTime: 2021-11-09T08:30:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/11/09/luminar-to-supply-laser-sensors-for-nvidias-self-driving-car-platform/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189d750f0d6cffe961b3daf%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Luminar Wins Nvidia Business in Self Driving Deal. It’s a Big Win for the Lidar Maker."
     excerpt: "Lidar maker Luminar Technologies and tech-giant Nvidia are pairing up to put self driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate. Luminar (ticker ..."
     publishedDateTime: 2021-11-09T09:32:00Z

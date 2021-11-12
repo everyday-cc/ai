@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-23-cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies.md",
+      "title": "Cellino is using AI and machine learning to scale production of stem cell therapies",
+      "excerpt": "Cellino, a company developing a platform to automate stem cell production, presented today at TechCrunch Disrupt 2021 to detail how its system, which combines A.I. technology, machine learning, hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/",
+      "originalUrl": "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1133641491.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies/amp/",
+      "publishedDateTime": "2021-09-22T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-correcting-and-replacing-ionq-and-fidelity-center-for-applied-technology-demonstrate-quantum-machine-learning-for-finance-on-ionq-quantum-computers.md",
       "title": "CORRECTING and REPLACING IonQ and Fidelity Center for Applied Technology Demonstrate Quantum Machine Learning for Finance on IonQ Quantum Computers",
       "excerpt": "IONQ AND FIDELITY CENTER FOR APPLIED TECHNOLOGY DEMONSTRATE QUANTUM MACHINE LEARNING FOR FINANCE ON IONQ QUANTUM COMPUTERS. New paper describes how quantum machine learning algori",
@@ -1364,49 +1416,6 @@
       "provider": {
         "name": "IGN",
         "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-alteryx-incs-ayx-ceo-mark-anderson-presents-at-citi-2021-global-technology-virtual-conference-transcript.md",
-      "title": "Alteryx, Inc.'s (AYX) CEO Mark Anderson Presents at Citi 2021 Global Technology Virtual Conference (Transcript)",
-      "excerpt": "Citi 2021 Global Technology Virtual Conference September 15, 2021, 1:00 pm ET Executives Mark Anderson - Chief Executive Officer Kevin Rubin - Chief",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
-      "originalUrl": "https://seekingalpha.com/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4455445-alteryx-inc-s-ayx-ceo-mark-anderson-presents-citi-2021-global-technology-virtual-conference",
-      "publishedDateTime": "2021-09-15T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

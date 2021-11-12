@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google introduces Project Relate, a voice recognition app for people with speech impairments"
+    excerpt: "Google has announced Project Relate, an Android app that will help people with speech impairment communicate more easily with Google Assistant and"
+    publishedDateTime: 2021-11-12T07:36:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/google-introduces-project-relate-a-voice-recognition-app-for-people-with-speech-impairments-939196"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/google-introduces-project-relate-a-voice-recognition-app-for-people-with-speech-impairments-939196?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/google-introduces-project-relate-a-voice-recognition-app-for-people-with-speech-impairments-939196?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 48
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/large/public/project_relate_0.jpg?itok=0E8sNV-9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Google’s Project Relate aims to help people with speech impairments communicate more easily"
     excerpt: "Google LLC is asking for help in developing and testing a new app that it says will be able to help people with speech impairments communicate with others more easily. The app is called Project Relate,"
     publishedDateTime: 2021-11-10T00:39:00Z

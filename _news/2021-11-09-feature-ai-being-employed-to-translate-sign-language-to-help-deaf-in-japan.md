@@ -42,7 +42,7 @@ related:
   - title: "AI being used to translate sign language to assist hearing disabled people in Japan"
     excerpt: "Local governments in Japan are turning to artificial intelligence to improve communication with people who are deaf or hard of hearing at their counters for the public. A system jointly developed by the University of Electro-Communications in Tokyo and SoftBank Corp converts sign-language gestures into written text."
     publishedDateTime: 2021-11-11T21:44:00Z
-    webUrl: "https://japantoday.com/category/tech/feature-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan"
+    webUrl: "https://japantoday.com/category/tech/feature-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan?comment-order=popular"
     type: article
     provider:
       name: Japan Today

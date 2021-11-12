@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-28-global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
+      "title": "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
+      "excerpt": "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-abacusai-raises-a-50m-series-c-and-releases-computer-vision-as-a-service.md",
+      "title": "Abacus.AI Raises a $50M Series C and releases Computer Vision as a Service",
+      "excerpt": "Abacus.AI is announcing $50M in Series C funding from Tiger Global, Coatue, Index Ventures, and Alkeon. As part of this release, the company is announcing support for Computer Vision use-cases. The round was led by Tiger Global with participation from Coatue,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-san-francisco-e8cfce187ef983b50bfb18c5bebeafe2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-abacusai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases.md",
       "title": "Abacus.ai snags $50M Series C as it expands into computer vision use cases",
       "excerpt": "Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time,",
@@ -552,6 +648,58 @@
         "name": "Morningstar%2c Inc.",
         "domain": "morningstar.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-qualcomm-develops-eyes-free-smartphone-for-the-blind-and-visually-impaired-calls-it-ray.md",
+      "title": "Qualcomm develops eyes-free smartphone for the blind and visually impaired, calls it Ray",
+      "excerpt": "Qualcomm and Project Ray, however, are aiming to consolidate phone calls, text messaging with voice read-out, navigation, object recognition, audio book reading and more for the visually impaired ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2012-10-23-qualcomm-ray-smartphone-eyes-free-blind-visually-impaired.html",
+      "originalUrl": "https://www.engadget.com/2012-10-23-qualcomm-ray-smartphone-eyes-free-blind-visually-impaired.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/DHoHJGG4a.E06Km02pVGTw--~B/aD00MDA7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/10/project-ray.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1274,153 +1422,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-galvin-widjaja-consultants-vs-founders-computer-vision-ai-digital-privacy.md",
-      "title": "Galvin Widjaja: Consultants vs. Founders, Computer Vision AI & Digital Privacy",
-      "excerpt": "Check out this great listen on Audible.com. Galvin is the CEO and Co-founder of Lauretta.io, a profitable Techstars company that builds bleeding edge military grade computer vision technologies that are now available to commerical buyers with no AI capability of them own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/Galvin-Widjaja-Consultants-vs-Founders-Computer-Vision-AI-Digital-Privacy-Podcast/B09JNCSXSW",
-      "originalUrl": "https://www.audible.com/pd/Galvin-Widjaja-Consultants-vs-Founders-Computer-Vision-AI-Digital-Privacy-Podcast/B09JNCSXSW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/51Xznq5hwFL._SL10_UR1600,800_CR200,50,1200,630_CLa%7C1200,630%7C51Xznq5hwFL.jpg%7C0,0,1200,630+107,79,402,402_PJAdblSocialShare-Gradientoverlay-smallasin-0to70,TopLeft,0,0_PJAdblSocialShare-AudibleLogo-Large,TopLeft,576,270_OU01_ZBLISTENING%20ON,593,216,52,500,AudibleSansMd,30,255,255,255_PJAdblSocialShare-PodcastIcon-Small,TopLeft,1094,50_ZBGalvin%20Widjaja%3A%20Consult...,106,519,48,404,AudibleSansMd,24,255,255,255.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027.md",
-      "title": "Global Airport Facial Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027",
-      "excerpt": "The latest research study titled Global Airport Facial Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2027 from MarketsandResearch.biz provides readers with details on strategic planning and tactical business decisions that influence and stabilize growth prognosis in the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-2021-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-2021-10-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-you-can-now-pay-for-ride-fares-in-the-moscow-subway-with-your-face.md",
-      "title": "You Can Now Pay for Ride Fares in the Moscow Subway With Your Face",
-      "excerpt": "As of this week, you can even pay for subway fares with your face. Before you ask where you can sign up, this new facial recognition payment system has debuted in Russia, sparking concerns that it will be used by authorities as a surveillance tool.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989",
-      "originalUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/578fa339d916724cb77388670d5ea274.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp",
-      "publishedDateTime": "2021-10-17T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

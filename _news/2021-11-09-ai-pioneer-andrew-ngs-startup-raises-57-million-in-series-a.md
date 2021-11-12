@@ -98,6 +98,20 @@ related:
         width: 300
         height: 226
         isCached: true
+  - title: "Clone-advisor: recommending code tokens and clone methods with deep learning and information retrieval"
+    excerpt: "The proposed approach has already led to promising results. The performance metrics in the training (learning rate approaching 0, minimized loss) and validation (perplexity of 2.145) phases indicate a fine-tuned model. The series of perplexity scores ..."
+    publishedDateTime: 2021-11-09T00:00:00Z
+    webUrl: "https://peerj.com/articles/cs-737/"
+    type: article
+    provider:
+      name: PeerJ
+      domain: peerj.com
+    quality: 23
+    images:
+      - url: "https://dfzljdn9uc3pi.cloudfront.net/2021/cs-737/1/fig-2-1x.jpg"
+        width: 600
+        height: 236
+        isCached: true
 
 secured: "lo6cn+OQHs/nY0LH6wLoBrmd3Z6qQzRLMB4LsDp24iHSeNi6qrTxE0cGPzEBWvKsBA9Bhw4q2VGX88VRLrtXDTqQ+63I4qE/6On//SOH+AzJXpyXWTG9YSf24b5HYd8+6tD98GFfhmMaDw8lnTERHZ7CLJAegp3+A8iTJyGmPCntKsARH++/mSEY0F0um7w7glWr0cn0odVskhxJOQt2qT++QBZkritWrgm4KIU/Km1kWuWeMEbD+S2naIxQvOU/ZYwszTpW/CcK6cIJv+R7vuXID0QF1337Qb6+vhMzsn6nBQG+WKCv3cvBa87KN86Hnz2K9G4u3kHd5XBDmvTZ1vSrZ9vk0qxh2Yt7wsPe5LloI/wYE8cDZlCPMA2/2Y7qMdxogMLQndStwBxi78uuDoM1KLrReE9j0TqaQXoQd/QM1U2wU8OvbL7Qr4XTKxqGvSbvMl1P5XMvNpbFXUP3ng1FCT96d6BvS19bODjnDL0yvX+aPKyWh9R9qQZI9Bpn5DAgVjSIzCgeqe5CPoCriw==;004PprWujHrC6nd/yJZdSQ=="
 ---

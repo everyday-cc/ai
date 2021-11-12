@@ -2,6 +2,135 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-09-17-googles-new-deep-learning-system-can-give-a-boost-to-radiologists.md",
+      "title": "Google’s new deep learning system can give a boost to radiologists",
+      "excerpt": "The deep learning system can help radiologists prioritize chest x-rays, and it can serve as a first response tool in emergency settings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
+      "originalUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Deep-learning-chest-radiography1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/16/googles-new-deep-learning-system-can-give-a-boost-to-radiologists/amp/",
+      "publishedDateTime": "2021-09-16T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-naver-bolsters-ai-rd-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing.md",
+      "title": "NAVER Bolsters AI R&D Capability, Appoints Global leading AI Professionals in Search Quality and Natural Language Processing",
+      "excerpt": "Dr. Young-Bum Kim and Professor Tetsuya Sakai seasoned researchers in search quality evaluation and natural language processing joined NAVER",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/naver-bolsters-ai-r-d-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing-1030805988",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/naver-bolsters-ai-r-d-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing-1030805988",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future.md",
+      "title": "AI in Fintech Market Is Likely to Experience a Tremendous Growth in Near Future",
+      "excerpt": "Get free access to sample report @  AI in Fintech Market Overview: The study provides comprehensive outlook vital to keep market knowledge up to date segmented by Chatbots, Credit Scoring, Quantitative & Asset Management,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
+      "originalUrl": "https://manometcurrent.com/ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future/?amp=1",
+      "publishedDateTime": "2021-09-16T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-taking-lessons-from-a-sea-slug-study-points-to-better-hardware-for-artificial-intelligence.md",
       "title": "Taking lessons from a sea slug, study points to better hardware for artificial intelligence",
       "excerpt": "The sea slug has taught neuroscientists the most basic intelligence features that any creature in the animal kingdom needs to survive. Now, researchers have mimicked these strategies in a quantum material,",
@@ -1002,126 +1131,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-speech-recognition-market-is-all-set-to-break-2928-billion-barrier-by-2026.md",
-      "title": "Speech Recognition Market is All Set to Break $29.28 Billion Barrier by 2026",
-      "excerpt": "As per the latest report published by Allied Market Research, titled, “Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End Use (Consumer Electronics, Healthcare, Enterprise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/speech-recognition-market-is-all-set-to-break-29-28-billion-barrier-by-2026%EF%BF%BC/",
-      "originalUrl": "https://www.globalbankingandfinance.com/speech-recognition-market-is-all-set-to-break-29-28-billion-barrier-by-2026%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/speech-recognition-market-is-all-set-to-break-29-28-billion-barrier-by-2026%EF%BF%BC/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/speech-recognition-market-is-all-set-to-break-29-28-billion-barrier-by-2026%EF%BF%BC/",
-      "publishedDateTime": "2021-09-15T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-wells-fargo-to-use-google-microsoft-azure-cloud-services-to-support-new-digital-strategy.md",
-      "title": "Wells Fargo to Use Google, Microsoft Azure Cloud Services to Support New Digital Strategy",
-      "excerpt": "Wells Fargo has debuted a digital infrastructure strategy, which will use a multicloud method with third-party data centers to drive speed, agility and scalability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/",
-      "originalUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Wells-Fargo-Google-Cloud-Microsoft-Azure-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/",
-      "publishedDateTime": "2021-09-15T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-ai-in-cardiology-a-marriage-made-in-heaven-or-hell.md",
-      "title": "AI in cardiology: a marriage made in heaven – or hell?",
-      "excerpt": "The role of Artificial Intelligence (AI) – one of the most divisive issues in cardiology – was debated during a session of the European Society of Cardiology annual congress. Two leading experts argued the pros and cons of its use,",
-      "sourceUrl": null,
-      "webUrl": "https://healthcare-in-europe.com/en/news/ai-in-cardiology-a-marriage-made-in-heaven-or-hell.html",
-      "originalUrl": "https://healthcare-in-europe.com/en/news/ai-in-cardiology-a-marriage-made-in-heaven-or-hell.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthcare-in-europe.com/media/story/25869/rect-01-heven-hell-heart-wide.jpg",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthcare-in-europe.com",
-        "domain": "healthcare-in-europe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

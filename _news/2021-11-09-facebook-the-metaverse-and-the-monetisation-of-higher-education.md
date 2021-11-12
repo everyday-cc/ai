@@ -40,6 +40,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook Puts an End To Facial Recognition, Pledges To Delete All Data"
+    excerpt: "Facebook's opt-in facial recognition system will no longer be available in a matter of weeks, and the templates it relied on to function will be deleted. The decision comes as the social media giant rebrands as \"Meta\" and looks to keep ahead of regulations."
+    publishedDateTime: 2021-11-08T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 61
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/facebook-puts-an-end-to-facial-recognition-pledges-to-delete-all-data_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
+  - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
+    excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
+    publishedDateTime: 2021-11-09T20:05:00Z
+    webUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/"
+    ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 59
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Facebook shutting down automatic facial recognition in photos"
     excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
     publishedDateTime: 2021-11-11T18:00:00Z

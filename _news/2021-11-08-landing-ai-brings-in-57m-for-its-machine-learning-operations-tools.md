@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Landing-AI-raises-Series-A-funding.jpg"
         width: 2048
         height: 1152
+        isCached: true
+  - title: "Clone-advisor: recommending code tokens and clone methods with deep learning and information retrieval"
+    excerpt: "The proposed approach has already led to promising results. The performance metrics in the training (learning rate approaching 0, minimized loss) and validation (perplexity of 2.145) phases indicate a fine-tuned model. The series of perplexity scores ..."
+    publishedDateTime: 2021-11-09T00:00:00Z
+    webUrl: "https://peerj.com/articles/cs-737/"
+    type: article
+    provider:
+      name: PeerJ
+      domain: peerj.com
+    quality: 23
+    images:
+      - url: "https://dfzljdn9uc3pi.cloudfront.net/2021/cs-737/1/fig-2-1x.jpg"
+        width: 600
+        height: 236
         isCached: true
 
 secured: "Hv6JxLua3a30wLceSkjapzAx5ELYWmlOqBXJPi+XgIMIGVO3vKnPRV9okY6/nr8XSjIqcT4lgwDrUcZp7JHLWD984fLDzub2x2P1+G9TN054rKW0czt3TgeCbc6aU6+wovWqlqU6ZObQw4tXEOSgDcYB/fL7F0oFtvUS4WBjcuoAZL4sMY6eG38f2dr9ZyYjF0G+SDU/kHmKHUpBQWyNq7vLpBe4qFjIjLQDoBgiTLXjfR01JTIwwN65NxPQ4YExgaKUqZ26bpPbu/5nug593mL1b0R/sFcFNKTt2bL+W5YuIHYl63x7dE+OZ2MSgYTo18d6OM+h5rBNd0/Cdygx1pEsMdVhutAlDNV+2r2fLQKH+ByprA0gX7TsOW8xNumeTdvIIaXzDAvmVGnD8Ovs5w2lHyC0QRItFR5MS/W2r1jp8/i2NRCjzR3dH5WE9UJ8K9GIMm0pCL8nlOAeaTslfUura7394O5VUzPsGdwXY3toBBsYBq+znmmLiQuXTew8y8jvkbocWZjnR/XGjfQd4A==;j1L9iiMLXPG3ksh6Wfoibw=="

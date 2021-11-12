@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-09-expanding-our-ml-based-flood-forecasting.md",
+      "title": "Expanding our ML-based flood forecasting",
+      "excerpt": "In 2018 we began our flood forecasting initiative to help combat the catastrophic damage from floods each year by equipping those in harm’s way with accurate and detailed alerts. This work is a part of Google’s broader Crisis Response program which provides people access to trusted information and resources",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
+      "originalUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/inundation_modeling.max-1000x1000.png",
+          "width": 1000,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
+      "publishedDateTime": "2021-11-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-kai-fu-lee-and-yoky-matsuoka-imagine-ais-potential-for-good.md",
       "title": "Kai-Fu Lee and Yoky Matsuoka Imagine AI's Potential for Good",
       "excerpt": "The investor and entrepreneur discuss \"human-in-the-loop\" technology, and how artificial intelligence might be used for health and caregiving.",
@@ -1186,57 +1239,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-daniel-eks-fund-puts-100m-into-defence-startup-helsingai-to-support-democracies.md",
-      "title": "Daniel Ek’s fund puts €100M into defence startup Helsing.ai, to support democracies",
-      "excerpt": "Spotify co-founder Daniel Ek pledged 1 billion euros ($1.2 billion) of his personal fortune towards funding deeptech “moonshot projects”, spread across the next 10 years. In particular, he was most interested in boosting European tech and European entrepreneurs as he said",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
-      "originalUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/03/daniel-ek.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
-      "publishedDateTime": "2021-11-09T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

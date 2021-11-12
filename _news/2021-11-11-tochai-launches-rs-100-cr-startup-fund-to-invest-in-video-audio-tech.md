@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/tochai-launches-rs-100-
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Artificial-intelligence-is-of-the-fastest-growing-fields?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/da23abea-6d35-580a-97a8-f036b3a1e667&operation=CROP&offset=0x5&resize=700x394"
         width: 650
         height: 366
+        isCached: true
+  - title: "Toch.ai Launches INR 100 Cr Startup Fund To Back Audio And Video Tech Startups"
+    excerpt: "Toch.ai’s SaaS platform leverages artificial intelligence to understand context and key moments in videos to auto-create short-form video. The fund will be used to invest in disruptive early ..."
+    publishedDateTime: 2021-11-12T07:34:00Z
+    webUrl: "https://inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/"
+    ampWebUrl: "https://inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 53
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-feature.jpg"
+        width: 1360
+        height: 1020
         isCached: true
   - title: "Toch.ai Launches INR 100 Cr Startup Fund To Invest In Video And Audio Tech Start-Ups"
     excerpt: "The company announced that they'll provide advisory and networking opportunities to the most promising start-ups along with capital infusion."

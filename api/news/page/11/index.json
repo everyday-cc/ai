@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-02-west-lafayette-facial-recognition-ban-remains-in-ordinance.md",
+      "title": "West Lafayette facial recognition ban remains in ordinance",
+      "excerpt": "A civil and constructive debate over West Lafayette's ban on facial recognition software occurred Monday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
+      "originalUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.field59.com/WLFI/825fb5f80dfde4cbffab5cb33e3ee0564f984088.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.wlfi.com/templates/AMP?contentID=575660031",
+      "cdnAmpWebUrl": "https://www-wlfi-com.cdn.ampproject.org/c/www.wlfi.com/templates/AMP?contentID=575660031",
+      "publishedDateTime": "2021-11-02T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLFI",
+        "domain": "wlfi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers.md",
       "title": "Microsoft’s new Azure OpenAI Service brings GPT-3 to (a few) more developers",
       "excerpt": "Microsoft today announced the launch of the Azure OpenAI Service, which, as the name implies, makes OpenAI’s machine learning models available on the Azure platform. Specifically, that means GPT-3, OpenAI’s groundbreaking language model that can,",
@@ -1164,58 +1207,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-ford-taps-non-it-professionals-to-broaden-its-ai-expertise.md",
-      "title": "Ford Taps Non-IT Professionals to Broaden Its AI Expertise",
-      "excerpt": "The auto maker has trained more than 1,000 employees on a platform it developed to put AI tools in the hands of people across the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
-      "originalUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-427127/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
-      "publishedDateTime": "2021-11-01T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-09-daniel-eks-fund-puts-100m-into-defence-startup-helsingai-to-support-democracies.md",
+      "title": "Daniel Ek’s fund puts €100M into defence startup Helsing.ai, to support democracies",
+      "excerpt": "Spotify co-founder Daniel Ek pledged 1 billion euros ($1.2 billion) of his personal fortune towards funding deeptech “moonshot projects”, spread across the next 10 years. In particular, he was most interested in boosting European tech and European entrepreneurs as he said",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
+      "originalUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/03/daniel-ek.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
+      "publishedDateTime": "2021-11-09T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-soekarno-hatta-airport-readies-facial-recognition-system.md",
       "title": "Soekarno-Hatta Airport readies facial recognition system",
       "excerpt": "State-owned airport operator PT Angkasa Pura (AP) II (Persero) is creating a facial recognition system with biometric technology for aircraft passengers to process departures at Soekarno-Hatta Airport.",
@@ -961,7 +1012,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1147,57 +1198,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail.md",
-      "title": "Like It Or Not, Artificial Intelligence Is Coming To Every Part Of Retail",
-      "excerpt": "When I talk to retailers about artificial intelligence, their eyes glaze over, like I’m speaking a foreign language and very few people want to talk about it. But it’s coming, it’s unavoidable. AI is going to pervade almost every aspect of retail,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2021/11/08/like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail/",
-      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2021/11/08/like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617c1f30e375ba25ab543092%2F0x0.jpg",
-          "width": 1200,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2021/11/08/like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2021/11/08/like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail/amp/",
-      "publishedDateTime": "2021-11-08T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
