@@ -350,7 +350,7 @@
       "originalUrl": "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -725,49 +725,6 @@
         "Microsoft AI",
         "AI in Autos",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now.md",
-      "title": "For robots all roads lead to Walmart, for now",
-      "excerpt": "Cruise, the autonomous driving arm of General Motors, won approval in September to start carrying cargo without a driver and ... Nuro and Waymo and recently enlisted a fifth player, Argo AI, to test last-mile deliveries in Miami later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/",
-      "originalUrl": "https://www.businesslive.co.za/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/_rtaYMh4OZvoQjDfnvzruj7QWYtBwlt5T9qV1aP0Ioppo-zVWVdmI7cAnGqiXrBBVjGBqh66RGO8xqBmCeNvRKKNTKxAWV-QUuThrO4PcTdrOWw=s750",
-          "width": 750,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/",
-      "publishedDateTime": "2021-11-08T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1409,6 +1366,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-giving-robots-social-skills.md",
+      "title": "Giving robots social skills",
+      "excerpt": "MIT researchers have developed a control framework that enables robots to understand what it means to help or hinder one another and incorporate social reasoning into the tasks they are accomplishing.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/robots-social-skills-1105",
+      "originalUrl": "https://news.mit.edu/2021/robots-social-skills-1105",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202111/MIT-Social-Interaction-01.jpg",
+          "width": 3477,
+          "height": 2318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

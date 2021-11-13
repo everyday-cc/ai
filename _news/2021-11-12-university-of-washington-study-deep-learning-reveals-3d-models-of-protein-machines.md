@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/university-washington-study-deep-learn
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 96
 published: true
 
 provider:

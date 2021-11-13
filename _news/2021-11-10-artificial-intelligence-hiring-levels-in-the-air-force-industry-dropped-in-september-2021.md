@@ -23,22 +23,6 @@ images:
     height: 570
     isCached: true
 
-related:
-  - title: "Artificial intelligence hiring levels in the food industry rose to year-high in September"
-    excerpt: "GlobalData digs into its jobs database to present the latest trends in the food industry for posts linked to artificial intelligence."
-    publishedDateTime: 2021-11-08T08:41:00Z
-    webUrl: "https://www.just-food.com/features/artificial-intelligence-hiring-levels-in-the-food-industry-rose-to-year-high-in-september/"
-    type: article
-    provider:
-      name: Just-Food
-      domain: just-food.com
-    quality: 28
-    images:
-      - url: "https://www.just-food.com/wp-content/uploads/sites/35/2021/10/web-g2c2f13934_1920-e1633617194829.jpg"
-        width: 1555
-        height: 1012
-        isCached: true
-
 secured: "LCnO3GFI5KA84aDJrcpfoi/QcrD56thqUiNm/eFjTMTnjn6iCC2gx1duMiWjsoiHNRAh8UousS6wZCJoGE3atrMYlmjlITU/CypO5946wgTcGgJB2p/v5FcGn5vu3hrBm3pHd2rtUZV0ZPiHuhYEu05kxVXangBm/dXsZWMevh/FoTTy6re8ryT8W2Rn/yI4+CoqZAhK8pwrTVevhmDXlinj5Yz3c3kuz4g1lh97F4WCyKjXyn4B7adIjKvEqIIBhwKLgnxet74WkzB8wb/bwzkEFDxHmw/nfBPZHG6Y2NANUltVZ6LTiy4wsr/XKQXa3UKk5iHVKZire9Yg8b7nRRg7FExu298iaytoFW+OL6I2CMP/5ikvyJ5qDAu1yRnxb7b2LA6hFOShLseyVvEu7TXv6xPgsWAT75BaZ91WtC+bLwBTtR2v6bPyprAFlv7/GuarzimnpHEjh0mCg3xLP+i1/oc0Z2oXVOmZJ+hFK8C7pLBY3P4mTZtCVygMG3Z4wSzQFgUiv/KdO/1iq/BqMg==;fpA9L69jbl070SgAQtPmbw=="
 ---
 

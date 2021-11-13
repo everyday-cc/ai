@@ -2,17 +2,17 @@
 category: news
 title: "The 7 new business values in the era of Artificial Intelligence"
 excerpt: "Although Artificial Intelligence (AI) is a technology that has existed for more than sixty years, today, thanks to greater computing power, the applications of this field of information technology have had a direct impact on the spine of companies."
-publishedDateTime: 2021-11-10T21:42:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/The-7-new-business-values-in-the-era-of-16609935.php"
-webUrl: "https://www.stamfordadvocate.com/business/article/The-7-new-business-values-in-the-era-of-16609935.php"
+publishedDateTime: 2021-11-11T01:42:00Z
+originalUrl: "https://www.timesunion.com/business/article/The-7-new-business-values-in-the-era-of-16609935.php"
+webUrl: "https://www.timesunion.com/business/article/The-7-new-business-values-in-the-era-of-16609935.php"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
@@ -53,6 +53,6 @@ related:
         height: 737
         isCached: true
 
-secured: "r+iJvePJENJJUkVhfCPD4mc4xWGHJ/Fc+KQPZ+CZ51AIe4shE5b5GEW4pQVESFJxZAtqUTxknYDml7Cv9dLWC+dMWAjtdIOJB9VC0/Fqa94uStWBhQsxkbYnppJtBC2huLzE3vxoqz0NZISYXrCOxMVyRIDOsIaUNmN7W79DwB6bljjOOuK+nVBdXneZCM0dOx4xS8JXkBmMV9jcHzb16m9ae3jcC0/pIPg+lFxadzJJ0yM+3YPiTOZR0ltFuIVEeAm7xBRqpz3wjFFXNj0ReWL3LKoNOpy7wv7G8+fYxXcegIa2Zl9jPgLZOVi0TCorOPKYPSUejWD8QH8TECZI66/CjfADJJQNgMc2uwHdUo1gLmtvrjm7YhL4K1fp0Bn7F+CAO70OoCABU9G/yyt3zJSPH/btttwMQ6PCpaUtB1qmPZJUcQ3ogdj7iIXWqRS24+U4R58i12aq4CSny6a9vT2/7ed4d739FsmA3hxP2bwvtVaEQHrnSWRX6eP/7hHLMGxzPH0wMtrflfwjZF6Bbw==;Hbc7R+09K+RBdqPJjZMn0Q=="
+secured: "jdtdMJwnKq/skU9lp09JwFtjZ1xBsKKb/yB/lrk9H6N+GelvUbb+C9FaNqsxcG5lCaxOd+T3IRpVf40VwFrfT/HfbYVzOPVKGXXfhbK1fkDp4qlYJKGRu3rrTf2XScWDt7M06z64vtjNSyZos23HukIqILb69dprzYX3/r/aa0GDuKOvl2dhJ7ShZLFPd/yfIaVNI5a629J1iMIG2E9IugSFIOpQrYgM10gD/aml3r7g0ZJcV2ob7ehW0GMgNUJVjUW/zs1OYqlRa70AoBBBpWrlqKSkMMhldFJ3C4OcloCOKgD0i/m2wEmXL1ZdXkhb+C1TSyT0rkeb++r4l+9/ZyiUMt45/u5d5/6+g1/8WhM=;8icUImAvPF3B9vF8Ykn7ug=="
 ---
 

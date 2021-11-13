@@ -42,12 +42,12 @@ related:
         isCached: true
   - title: "The 7 new business values in the era of Artificial Intelligence"
     excerpt: "Although Artificial Intelligence (AI) is a technology that has existed for more than sixty years, today, thanks to greater computing power, the applications of this field of information technology have had a direct impact on the spine of companies."
-    publishedDateTime: 2021-11-10T21:42:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/The-7-new-business-values-in-the-era-of-16609935.php"
+    publishedDateTime: 2021-11-11T01:42:00Z
+    webUrl: "https://www.timesunion.com/business/article/The-7-new-business-values-in-the-era-of-16609935.php"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: Times Union
+      domain: timesunion.com
     quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/22/61/30/21698077/3/rawImage.jpg"

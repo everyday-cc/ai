@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fidelity, Visa and Kingsway back South African fintech JUMO in $120M round"
-    excerpt: "JUMO, a South Africa- and London-based company that offers financial services to entrepreneurs and businesses in emerging markets, has raised $120 million in a new round of funding led by Fidelity Management & Research Company."
-    publishedDateTime: 2021-11-08T08:46:00Z
-    webUrl: "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/"
-    ampWebUrl: "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/09/Andrew-Watkins-Ball-JUMO2.jpg?w=900"
-        width: 900
-        height: 600
-        isCached: true
   - title: "FinTech JUMO Raises $120M to Support Emerging Market Entrepreneurs"
     excerpt: "FinTech JUMO raised $120 million to help the startup further support emerging market entrepreneurs with next-generation financial services."
     publishedDateTime: 2021-11-08T16:11:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1902368425-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Seven technologies shaping the future of fintech"
+    excerpt: "In the next 10 years, seven key technologies will drive business model reinventions while shaping the competitive landscape of the financial industry."
+    publishedDateTime: 2021-11-09T10:02:00Z
+    webUrl: "https://www.mckinsey.com/cn/our-insights/our-insights/seven-technologies-shaping-the-future-of-fintech"
+    type: article
+    provider:
+      name: McKinsey & Company
+      domain: mckinsey.com
+    quality: 24
+    images:
+      - url: "https://www.mckinsey.com/~/media/mckinsey/locations/asia/greater%20china/our%20insights/seven%20technologies%20shaping%20the%20future%20of%20fintech/seven-fintech_trends.jpg"
+        width: 1536
+        height: 864
         isCached: true
 
 secured: "j1vs7+qc6Bg7YApK5Xz6ByE6hSYeL68aZCtPsAUVvR5wtVOZBVbVB38k/T8ZvXuiZ9DchzwffO8x6+AjO+MDBB5DVnTluVVwDJ08EQBZkBRKpJyYOFHAomnIGDUDHaQhQskOP7pb1vocmrLbGELGRdwaXFEFeUTx4ZI1sfFBvWMxaeahvUBejY0Lvdj8frsATLzYMLmPi2rJ7us2/IyP5wC7FzgptLeRoEzXvl4deaMEsusU8+tXjUL8d5Voi1brJq9tonrfhVNKNiQk2jmTv+7/ZUGy8iv3TK1SZumw+ihUmBjLe/NxNSskN86vv0pd/n9D++ij+st+F12hiCnqRHE0fqOXN3OSJzlc0btQYpK5aiRbin60t2ckLbm4O0o/TYo9GDpUrg92zNRZPz/RbwaHBcUVx+KJhderA3BuiCD/TWqkzgPkEtm3c1eoyhaC1K8LgG/sz3z+QQKpNUbZmz5qOkRQFO8FZhApzZPRbQGDhZ5dsSmSQ0pLzVxIy4D4lY8Hma4uV5N4gMtaFD33eg==;CwOKW19TFSpb9sAVf+HYMg=="

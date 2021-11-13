@@ -56,17 +56,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Singapore launches national AI schemes, adds $133M investment to research"
-    excerpt: "Two programmes will look to drive the adoption of artificial intelligence in the government and financial services sectors, with another SG$180 million to be invested in the national research plan to tap the technology in key areas,"
-    publishedDateTime: 2021-11-08T08:51:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-launches-national-ai-schemes-adds-133m-investment-to-research/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-launches-national-ai-schemes-adds-133m-investment-to-research/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-launches-national-ai-schemes-adds-133m-investment-to-research/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
   - title: "Singapore launches national AI programme in finance"
     excerpt: "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,"
     publishedDateTime: 2021-11-10T02:37:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "FuboTV acquires computer vision startup Edisin.ai"
-excerpt: "Sports streaming service FuboTV will use player and sponsor tracking AI to boost digital portfolio as it diversifies revenue streams."
+excerpt: "startup Edisn.ai to strengthen attempts to generate non-subscription revenues and deepen engagement with its viewers. The New York-based firm pitches itself as a “cable TV replacement service”, providing subscribers who want to ‘cut the cord’ with ..."
 publishedDateTime: 2021-11-12T17:14:00Z
-originalUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=sportspro_blog"
-webUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=sportspro_blog"
+originalUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=ott-and-digital"
+webUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=ott-and-digital"
 type: article
 quality: 34
 heat: -1
@@ -52,6 +52,6 @@ related:
         height: 431
         isCached: true
 
-secured: "QreJhnzuBK/dZ281UJPUGVNivvBO42DvoP+GFie4GH/O5uJKTK0+DXZQy9lgIpvK+Gr9lJ6FQwh+X+1l2rn+Roc2a+hklM0ditSFsTVE8d7Qqvmdm0YHrBA3R02FM0jiusJykWcPLt/5qiRAtCfS6+J3yflEB4zKAtyXwP5256DOOe9vQiELrkWik4Rq2i/m/obDjGOI9qIFTmwZGMi9QH5xSqVzLjUhr1k6vHVuKscSL0bz7EEkjUvVHId3f5Ek3kNl4Do47fxVAtCjYfFTaAjy7HlLC5Wo1NllhLnsBRvrDu1iHtKGrtELYm81NGqvyZuA1Y3bwgdWLB1I8NNqFPU686xi4YXzbtRUDhjMAcnaP2l/a2AmOw87QsgqSicIATnCeOywfky5H+CnkMxLKziEBpBm3U5wB6vqGPdkLUUEbHuMu1keh120TzTzIJ5SVVOhGG9lrU7tYvfqy+skjVX194ApwQQCA4h7L/8Xm92b5tmZl5I54LW93K4vRj8bFgQsZNCSNsitMRdWKun5Dw==;PHOqQPaGI0JN43oUeKgnIA=="
+secured: "CjJU1IGxyuhsXmEGs69B3MSZsQHnMPmbccrIg01DfExwqs2O0P8KtspZi/Kx/tuXFl0uKGxc+9/PcavBIoHASQPJzZ45+CK+7M3GRqLuIvakYYNZo0Es19SyuvAaZRYmeWZYPN9ZyG7/5yNwPMYrjwqrz4aClwNy37DjYGmS+V7V3FOJ/s8FnG+g71XFBc0gAkXQxWYRtM4kpEF1DWprin+FqWTzMWBy4SFTBMS3IczoOxJd+GT5o/uiq0OoQKzf9rWCsSrMi0W7g66fwybtg4UtoUCwGGsOLssina1Wos7D9tzWr2e5et6s4vN3FLyT45gNzC4YWZpOfreApGcuc8UJTMb23jEliyZLXIMucAUAwD4L17Y1/ySn5ZqsdVQjN1llWG0Vns9midULcBe/lA7Kg8O8TvmGPQiI1KddvpOEuQHjPdjnyVepAuPij8iHbvfofWwQDOjgPcj0GiMNec5RJZep/L9Zj3Wzf8ZzZ3kcTSYFTOi5us7Mtly3VY7427miEcRTBy9flkQxsEyh+Q==;APvUWOfdiJs8ZDOBLcd4bw=="
 ---
 

@@ -78,20 +78,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 24
-  - title: "Seven technologies shaping the future of fintech"
-    excerpt: "In the next 10 years, seven key technologies will drive business model reinventions while shaping the competitive landscape of the financial industry."
-    publishedDateTime: 2021-11-09T10:02:00Z
-    webUrl: "https://www.mckinsey.com/cn/our-insights/our-insights/seven-technologies-shaping-the-future-of-fintech"
-    type: article
-    provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 24
-    images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/locations/asia/greater%20china/our%20insights/seven%20technologies%20shaping%20the%20future%20of%20fintech/seven-fintech_trends.jpg"
-        width: 1536
-        height: 864
-        isCached: true
   - title: "Global Payments to Participate in Citi's 2021 FinTech Conference"
     excerpt: "Global Payments Inc. , a leading worldwide provider of payment technology and software solutions, announced today that Cameron Bready, President and Chief Operating Officer, will present virtually at Citi's 2021 FinTech Conference at 12:45 p."
     publishedDateTime: 2021-11-10T16:01:00Z
@@ -134,20 +120,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The dawn of a founder-led startup ecosystem in India"
-    excerpt: "Early and successful Indian serial entrepreneurs are giving back to the community through investments and supports. Over the years, a wide array of factors have accounted for the growth of India’s startup ecosystem."
-    publishedDateTime: 2021-11-08T07:02:00Z
-    webUrl: "https://www.linkedin.com/pulse/dawn-founder-led-startup-ecosystem-india-krasia"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 22
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFUCCbytg3iSA/article-cover_image-shrink_720_1280/0/1636354806696?e=1642032000&v=beta&t=lDksi_MsJegECyDcazi-RiTnmdJa0w5vKaMhlhSN0_U"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "The Key Mobile App Features to Consider for your Fintech App"
     excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
     publishedDateTime: 2021-11-10T03:16:00Z
@@ -158,6 +130,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "TIN2rRVSwZ5BMbKhADEai1kYDszjZ32ljB+in2UScFXRMOjxA0NuiFIOw7FtWtxauy/bcu3mg5VmWouYSiewPmOyvAdSCohRQcP8G61l2rjQOxf5iiNxqSenX5C4mvERYo0K9vSyJWjCcUUUvD/tkfuRKPTq497vh78PTdF94ZtmvQRVcCF8hwRjxeTcjhSJkS0/M/lxNbqfJCxRWJrwIZJ5mxxwNPcoyDJmL69GeUFAu0J2YBSWiz4GR7ynhvZyDcaQSzOpby3ms+bqC88Br2fDL3S8gw9NNKy7uUuFXNggfIMwZUX2+ZJULLi1K1qyJQjouqefSS9VjyPI55r2/KuMrvxnKkGAxFg2kBJAd/8=;lCj+o2bZ1tg2USjU37lEjA=="
+secured: "T6BUZC5Vo0KIWva+ckv+NPLig/MqmgH1AROzoW6Hg10EneO1MT8f5gTfa0zQtBQhjzNC9kYApEYw0ZXz8oCVwdBne8h/ja4j6eixOdrJ4ZawKb2CFZTtAiPXItpPaEgLc4qkab9L3rOzrviXIyytiDg+xcF8kMW7qRZhMkQeHxze8D+XQGknhtw0yHO9UayC8/deTUsldrYs8hzhDMAj3Yxm3TKi1i5DqSZ8uZHCoaSNmxlPzOtTy3+Bh+KVQZELM6I/wgwgrtPi2jJH9G02JdNOyayOVfsaDbJSQvrsfer9XAVJJ6bHbJnIMcULIlOECYEpHnZDEmdzl3B8c6gvEnpRfIi8BLut6pw9MzBlUQIIcghJC/eyykPnCPkkwiONfeNQM6OxWIBcHjTd4whOsTnS/NqxTcNLNvwXqSeLqQD5q+gvUqzlB4ip2v12df8drIC+8IP0Nr9xVIjqrDPg5hcdnqUcxhedDnm6Qp87dKrCpc+wNMuHOC56KjcQxsKJY0zXFtCqseHfN4z3Whdcyw==;DTM/tmsdfjK4ACHtlHmZiA=="
 ---
 

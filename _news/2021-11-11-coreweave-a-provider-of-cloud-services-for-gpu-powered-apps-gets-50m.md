@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-ser
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:
