@@ -1,92 +1,46 @@
 ---
 category: news
 title: "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare"
-excerpt: "SMi Group reports the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the opportunities of machine learning and AI in drug development SMi Group is delighted to announce"
-publishedDateTime: 2021-11-12T18:47:00Z
-originalUrl: "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial"
-webUrl: "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial"
-ampWebUrl: "https://www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial"
+excerpt: "SMi Reports: 3rd Annual AI in Drug Discovery returns to London, March 2022 with a key focus on the opportunities of machine learning and"
+publishedDateTime: 2021-11-13T03:46:00Z
+originalUrl: "https://menafn.com/1103159220/Exploring-the-Impact-of-Machine-Learning-and-Artificial-Intelligence-in-Drug-Development-from-Discovery-to-Healthcare"
+webUrl: "https://menafn.com/1103159220/Exploring-the-Impact-of-Machine-Learning-and-Artificial-Intelligence-in-Drug-Development-from-Discovery-to-Healthcare"
 type: article
-quality: 68
-heat: -1
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Healthcare
+  - AI
+  - Machine Learning
 
 images:
-  - url: "https://cdn.openpr.com/U/b/Ub12584002_g.jpg"
+  - url: "https://menafn.com/updates/pr/2021-11/12/EP_c8a7cimage_story.jpeg"
     width: 650
     height: 650
     isCached: true
 
 related:
-  - title: "How Enterprise AI Architecture Is Transforming Every Industry From Commerce To Wealth Management, And Beyond"
-    excerpt: "Artificial intelligence (AI) has big promise to solve problems in almost every industry. AI-supported, AI-fueled, AI-based technologies are now present and capable of automating tasks in retail businesses and wealth management,"
-    publishedDateTime: 2021-11-09T00:01:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/amp/"
+  - title: "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Dev from Discovery"
+    excerpt: "SMi Group reports: the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the o"
+    publishedDateTime: 2021-11-13T05:40:00Z
+    webUrl: "https://menafn.com/1103160545/Exploring-the-Impact-of-Machine-Learning-and-Artificial-Intelligence-in-Drug-Dev-from-Discovery"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 42
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189c74dde35cc6195fc7a9d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D627%26cropY1%3D72%26cropY2%3D425"
-        width: 627
-        height: 353
-        isCached: true
-  - title: "Turing.com Experts Explain: How Artificial Intelligence is Transforming the Recruitment Space"
-    excerpt: "Technology has transformed the way we think and work and has become an inseparable part of our life. Industries all around the world are embracing AI/ML-based technology to improve their present systems and processes,"
-    publishedDateTime: 2021-11-10T08:12:00Z
-    webUrl: "https://www.linkedin.com/pulse/turingcom-experts-explain-how-artificial-intelligence-choudhury"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 43
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEkEJiOOECe9A/article-cover_image-shrink_600_2000/0/1636531688295?e=1642032000&v=beta&t=QjQ4HbRSxWMw2vi0_4W2nhlbYSyhbA6oeEyCkMM-KBs"
-        width: 870
-        height: 580
-        isCached: true
-  - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
-    excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
-    publishedDateTime: 2021-11-10T22:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-now-artificial-intelligence-diabetes-management-pooja-m"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGSFmHNp2wD8w/article-cover_image-shrink_720_1280/0/1636581666832?e=1642032000&v=beta&t=dzrKyxUa3n4gGzDZFoL7cBVaF78iIxZVIhnDgJaayZk"
-        width: 1079
-        height: 720
-        isCached: true
-  - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
-    excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."
-    publishedDateTime: 2021-11-11T22:43:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-now-artificial-intelligence-diabetes-care-pooja-mahajan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFJF7dOiEEvyQ/article-cover_image-shrink_720_1280/0/1636670600616?e=1642032000&v=beta&t=vlbhONLo_ujOnXG_7VQF2MM9VpWxZrrhibGcY_l5qeY"
-        width: 1079
-        height: 720
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?840821"
+        width: 375
+        height: 250
         isCached: true
 
-secured: "k4JlSS7OtUNi6kVhod8x8isj7XEn6KR4Dgkl7xOR75binLzBe9T/M0ffQknmQFIHjcM6WqoPcHfxzIciJ7bYdsFXikNfA+YLJ2SVeD9pOARMHyHGIsYMzTG38FrLaDesRlOGvZuhU4TiepN31/SLy1wnsrbLeyhSBbcoaf/haW8PpKBl7Y7vJLWqVj2zCraHATj6bKdW0OPOvMxAgjutY+QqvhU/EMeYODwJUU0m24chBIXen5VMqLQ1MzX8kP6ixfpvZOuAOhRycwMJoNOhITrcj/2ajE5RcjgSu5kDXM+jeCgSYCyxl9JcPfdzGu0exIpnjfJA4c6K4frXWeYN3eEw4guYbaBjOnrNracuf/Q=;6a2JHA1JGtPEq1LLN5o1AA=="
+secured: "0477AYi6r/W3mroIvAA+O4+6iOYP9wAfdmg5hilmk47rwsZU49VECnUbqb7U+9+x4dam8gH0TYzhllhlgqJEa4PU9PpaKTpr24zP3PL+JMkrbsLyaBkNL+sQrNwK9QRR3Iqn8nlWga/yEKY3kB5DmnTFSRw0w7LjipT6Hb3XtielyEt7/0kQ3owQh2Dv96M18tVooJ2sI/K/QS2QYLL3XUgC2a3sM6bouSQtcU+q/zvGi0iWFdfe0hVqdRoAxb9EjtbhlLgF3tNqeqz+O6QPtSzER63Jf1VHvV9DBShDpSZHCWV1NhUeVc4Tb8dtCmj5i6sk+eTfPGTWGfuO8OSJn0NNzAAno3Je6Lpcy0q1UTE=;I3QbopZolCRzbsoIMGKypQ=="
 ---
 

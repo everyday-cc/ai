@@ -153,6 +153,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla driver beta testing \"full self-driving\" feature says SUV went in wrong lane and hit vehicle"
+    excerpt: "The crash has prompted an investigation by U.S. auto safety regulators. “The car went into the wrong lane and I was hit by another driver in the lane next to my lane,” the driver wrote."
+    publishedDateTime: 2021-11-13T14:48:00Z
+    webUrl: "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle"
+    ampWebUrl: "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 46
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/07/932/470/GettyImages-187005526_1555969552377_7141953_ver1.0.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
 
 secured: "UHQHmLj0RJLeP1yYnbXQH0z15/SfYQh7ssxZg8qYbgbR8rQGVLdFvCWvm4rGPkv2fr+NGHyTaq8xPAXMnroAIrjW10JFT6t0D/U66YG2bFd9ZMzsR7rxG+ngVaI7POyXxNRydv5CQgOxRzlEs+ub0NeOt7aJP4+WdZEqP6zazYKcicxR7a7F9l9RsdMB92r7eRcDZwLK9SvHoK+h1YX+wC8koGLoULSIz00CnyOnRbXl84vcCRIrEmv6SoWHzhFVVv+pjJrJ6Ou1rWi3ynOOHHyxUnq5mP8NA6yI+UtGpb68l81vqhhJT5AHJdDr+nR67uQHNp38UQgJfgLfkxp0RfO6qF4ljwPz/7wZrPJnXLI=;yx8k8aQzU6J9H+WzO7F7YA=="
 ---

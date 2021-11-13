@@ -75,20 +75,6 @@ related:
         width: 1700
         height: 1133
         isCached: true
-  - title: "How Artificial Intelligence is Transforming the Healthcare Industry?"
-    excerpt: "Artificial intelligence and related technologies are widely used in business and society, and they are rapidly entering the healthcare sector."
-    publishedDateTime: 2021-11-09T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-transforming-the-healthcare-industry-nid-8690.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 56
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/rw2rnai450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "How test automation, machine learning, and AI will change test coverage forever"
     excerpt: "Did you know the biggest challenge IT leaders face in achieving test automation is the lack of platform coverage? With test automation key to the future of test coverage, its as important as ever to learn what testing strategies promote reliability of apps,"
     publishedDateTime: 2021-11-11T09:43:00Z
@@ -103,15 +89,6 @@ related:
         width: 315
         height: 237
         isCached: true
-  - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
-    excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
-    publishedDateTime: 2021-11-08T23:57:00Z
-    webUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 25
 
 secured: "SssFMHIkmMyjSEF7RvqvTybnSp/aJO+iYEX+0Ctdc6wDRvEbjY0DAL0iR6bvMJYoo5ZoK4eK9goHRIo8hZneqAnbop+SKbnJFoflzrp32mIrpS/G+Faqgggm7xfWWSGJ4SvhwMYievEgmkRlOkF85s5+YwfiYYxd6CKV35Al7JIMa0uUTVMTajRITGxF+S3FA6SwTa4dZpOSzUbtlJBvR0sVEyMPzd7nnTYux7bRNl1pq58V8PkFjeNusYF6gVoWHAkV3doZcOmab71rkCFZGCslRvp7e4gMEUcyFoL5XfFueiyEUaaWa/15YMi7JIp4xW698hgRHl7TELdNuTdeoPlh+GNPcULnJrOWopfI8ba9ul3xratHA59oJDXiGOC7hejfdI2vf9JHtyjXPCTyT/+Yg125F8c04mu1Uwuaheu9dLzSgpTESdDtwSsQeYZfvnQgG2YVouLeUnC/6cEgUVnm/YWfW2K9jagYy77jFq5iInC3i+unwyO5avuH6bwOA874J8zrMEo9ajH5yMoIkQ==;erS+pDXBU3uJra7zA4yS7Q=="
 ---

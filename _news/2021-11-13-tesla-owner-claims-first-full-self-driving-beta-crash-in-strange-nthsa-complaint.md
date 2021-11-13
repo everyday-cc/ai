@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-dr
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
 type: article
 quality: 99
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
       - url: "https://wp-assets.futurism.com/2021/11/tesla-full-self-driving-severely-damaged-crash-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Tesla driver beta testing \"full self-driving\" feature says SUV went in wrong lane and hit vehicle"
+    excerpt: "The crash has prompted an investigation by U.S. auto safety regulators. “The car went into the wrong lane and I was hit by another driver in the lane next to my lane,” the driver wrote."
+    publishedDateTime: 2021-11-13T14:48:00Z
+    webUrl: "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle"
+    ampWebUrl: "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 46
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/07/932/470/GettyImages-187005526_1555969552377_7141953_ver1.0.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
 
 secured: "XMmB+LR7gZq3njosenH4vMCFllYlaAXZHk+egvhDwCDQ4tVtfCky+NolEgP2Q0Q0gA9xZa5V+gMpvFe0DRYiuksSXtdP2/dpZzo5+z1i7R89MoqPb+aGAMXDwyY8mPAYumtWh+lul2yytIyPHJdu2nTN02ESPrrUkDuj47HHE6LzoMpS6w8fOKZOYepRlX2gWFwb91hhewFcx0yYn8C8pcvTktVB1z9ydUWyey+kVjGhB04q3r6qIGsoUb/cQO/nZdncp7kOXZMbv7PdwLF5o/o8ojgpfpIMz1W5tLJvp386YZ4TrkDNYV3Er58XFoxImp8kPAjR24aW44W+bxFgi7PoQE4daYHMnOajq48+SypUZ4eqc9/E0b5ub6/1MZeE4vw6zf5qYeitOS/9ats8oldIxhzVG3m4yMO7u5ZboJAxOxhYImopiNa9mXiLMsMrj7tCKPgTajWdBkcXqYmEy0C4U2CAUfKa4qWB5HeEaHDp0aFULQWyhnOBKhi9PdhCu2WV3LtBii/hXiHRbnUi0g==;KFCIyVHZpWOhcwUdYbrWTw=="

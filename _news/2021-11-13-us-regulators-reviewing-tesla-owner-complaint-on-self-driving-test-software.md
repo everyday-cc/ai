@@ -153,7 +153,23 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla driver beta testing \"full self-driving\" feature says SUV went in wrong lane and hit vehicle"
+    excerpt: "The crash has prompted an investigation by U.S. auto safety regulators. “The car went into the wrong lane and I was hit by another driver in the lane next to my lane,” the driver wrote."
+    publishedDateTime: 2021-11-13T14:48:00Z
+    webUrl: "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle"
+    ampWebUrl: "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 46
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/07/932/470/GettyImages-187005526_1555969552377_7141953_ver1.0.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
 
-secured: "k9kJnnZhq7ddH+WfnCZ0wkm4Lhcr+JPvLEguDBxcX8y/LWGK3OJ7NXwMX4NcbGK5fDGHzv5gEnuA+4V35M/fDRDDxglqOWs/6XYdWcl7uDOyMCZCDSV4VWuBxnzqdxRcg8drVT4OryHs3fx/R766cvJcMx3Ipimo4BcHuvCl6OYB5B2MTiUOM3QVeJMGxwkxCq+B9WW+l0qlV4RAg0/01Q8UMQMr901xhoRRjjCxGjamyWRKPYq5jGGyrfCf4N+5DwBK2XeZGr9xYmGJ8goaugpUF73/ls+l1o+Z7jdwrFSCgaFC0DYGBHMdWBpg7UJYkmvhm3RIMXwgsHSLhXkF/g0cdQtt9IwvuU4W9xUIkwE=;09kE4FY4CThOIN4NouRX7g=="
+secured: "RsXFJuBz5LnZTE3HmxbDSscw87+2/FQRe79EiM7KyqIgAQ67aRM/6fA4C9d+8T4HTuHol7U802w/sDMkPZC4x6gMSOId3h7iMGRXM/hLy3YChei+c5Qa5RpetsKLQhU2sz8NgvzotS3pTjWNNlUAR1F95op5HusAzZtbT3WSjYsNkgMwkOF1x99IzMTLmJm71h8HDOSWcIFILcRYtZxQm/yybcvgCZjw+m3nWtCVvtDkRP38+QouiVm8iByQt1QKJDIn7UEuJtOtw/acG3eqXmOGFedw7TIKX4ZNioMf09VtCPqgFsYRnirHP1eokzceQy7ExI3Uco/EgHUu86VrvVMDtPOWJteHN8+LPWJTZJZd8tCaJjv/vKPHHXrFJaw8vWKsbuJ1VGZxN7xdhdcWdpYuEggytURKbVfW5EL+hQ1uZ/3j7mcjmzcBtJToXp6P4+KsxIENW13lAWzmMt7gIxKvXjoOuV1RanW+RcCaHgqzONVY3RuVPPrx+0hzmebVAOd0teP82ERP9wEM2fNUDA==;5nCqagE4cx6aE1Twf1h9aQ=="
 ---
 

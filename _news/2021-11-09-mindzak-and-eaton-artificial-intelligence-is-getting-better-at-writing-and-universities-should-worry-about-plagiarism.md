@@ -7,7 +7,7 @@ originalUrl: "https://brocku.ca/brock-news/2021/11/mindzak-and-eaton-artificial-
 webUrl: "https://brocku.ca/brock-news/2021/11/mindzak-and-eaton-artificial-intelligence-is-getting-better-at-writing-and-universities-should-worry-about-plagiarism/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 300
     height: 225
     isCached: true
-
-related:
-  - title: "Paging the plagiarism police — AI is getting better at writing students’ essays"
-    excerpt: "Cheating during the pandemic has been rampid and concerns are growing in a climate where automation writing continue to improve."
-    publishedDateTime: 2021-11-09T15:03:00Z
-    webUrl: "https://thenextweb.com/news/plagiarism-improving-writing-students-essays-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FRobot-typing-hed.jpg&signature=16c5fbe850f2ab359134736037a6901d"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "ZRh30vkIj2jol05JkP4PHWB+8g9CrzfVIAdYURFyoAt+2852tKka6g6PvRlhPeunPAY5Kq7j8B3Y9W5nUKNHJTCyGWX37WwHRVDNiSVXpcZSJmHxXXI8awojX3heRTo5ZHLmX7G8anIVkC+dfr6mcCTQhF05XWZaJgDSe9HhnEJmuwt8eV83zFAcn9SqYqgwPoLVBoECZRzDLbeHDBiPG3NKrV2nEk2p9P7eDGMsf6+Q6/F7VIm7MbzOkNDdWruy3L67E953qodMKMbVULpZ+O27ekzLeZkqXkpAhv77aucASSEqTkyRvLfmKBblLIkOlXcX9h7B63xSfouHB3FOICXrZ+m/5eNMfBE/YOEb144=;iAOWGoowTzx0T1C5RzstHg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/ai-shop-assistants-get-ready-for-a-w
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart-171522"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/202111116d9044bac6597760d_th_1024x0.jpeg"
         width: 496
         height: 331
+        isCached: true
+  - title: "The rise of chatbots: More people than ever are talking to robots instead of humans for basic services"
+    excerpt: "Tim Warren, chief executive of Ambit, puts up a birth certificate for each AI his company creates. But demand for the technology has been so high he is running out of space."
+    publishedDateTime: 2021-11-13T16:00:00Z
+    webUrl: "https://www.stuff.co.nz/business/126792173/the-rise-of-chatbots-more-people-than-ever-are-talking-to-robots-instead-of-humans-for-basic-services"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 23
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/v/q/i/i/image.related.StuffLandscapeSixteenByNine.1420x800.23hlgt.png/1636680199721.jpg"
+        width: 1420
+        height: 799
         isCached: true
 
 secured: "fw/JG3JPeVrkEa8L37xwjJ0AmZ8gW/gB3V0FYnBtPNu45+3z6jpGCLaWxh95uYqPliVh8m5DRbCeKcJEQRDUP7QsqZcNvek98uJ23LcVYdgKXzcHPMswtqtqcb1syD/GPGP6CAxYSPuOSRN9otCGLL8RZsJESSBE6WypwvWCRfDHIIVIcwog5VkrDGcn5GoiPQ8mcrHgk/uq+/L03TLPqIDh21y4Pp5LF/QpaAYCIiQ20pRoEfBbjK6kQfRhi75slxJ5NTnLKniQd0J3FMM/Jkzh8M6sUxkSpxrbm15dghQBa1nTMo6bK4OC0BsO4AEeYdHpVe4ctmcFP7IlcXYtcyFfBIdgfHOaG6fpJUn8e357LFIm9coPhllkYXqG8mBdMgrkLmrV3us1hLKCzYyO6dN98hOhM4ddL2PRzlb1QlFs/UzT2Ncm3uOWalACgJGRQaIqqaIQK062iamSEGSoJj3uLgm9Eh6r2QNpiOzeGvw7IoZOrLCz32iVp1Kfo/peDQjGstTB4Wtaf6GLhJnYIg==;zYBlKwgAYekr37i3tpF3dA=="

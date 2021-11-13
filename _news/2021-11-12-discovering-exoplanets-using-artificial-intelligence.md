@@ -25,21 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Culver’s may start using AI to operate drive-thru lanes"
-    excerpt: "The CEO of Culver’s says they may start to use AI instead of human workers to operate drive-thru's in the coming years."
-    publishedDateTime: 2021-11-11T11:12:00Z
-    webUrl: "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes"
-    ampWebUrl: "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true"
+  - title: "Unis are using AI to keep students from cheating and it’s a bit creepy"
+    excerpt: "Some programs simply enable a person to supervise students remotely. More sophisticated, automated proctoring software hijacks the student’s computer to block and monitor suspicious activity. These programs often use artificial intelligence (AI) to scrutinise exam conduct."
+    publishedDateTime: 2021-11-10T16:37:00Z
+    webUrl: "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 57
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/463fda0/2147483647/strip/true/crop/640x360+0+59/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.tmj4.com%2Fphoto%2F2017%2F06%2F27%2Fculvers%20logo_1498600163664_61889194_ver1.0_640_480.JPG"
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-3.jpg&signature=487768bc4975bf0afe78f27dfbc5d074"
+        width: 796
+        height: 398
+        isCached: true
+  - title: "Paging the plagiarism police — AI is getting better at writing students’ essays"
+    excerpt: "Cheating during the pandemic has been rampid and concerns are growing in a climate where automation writing continue to improve."
+    publishedDateTime: 2021-11-09T15:03:00Z
+    webUrl: "https://thenextweb.com/news/plagiarism-improving-writing-students-essays-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FRobot-typing-hed.jpg&signature=16c5fbe850f2ab359134736037a6901d"
         width: 1280
-        height: 720
+        height: 640
+        isCached: true
+  - title: "Unis are using artificial intelligence to keep students sitting exams honest. But this creates its own problems"
+    excerpt: "The pandemic has driven the rapid uptake of programs that use artificial intelligence to monitor students sitting exams remotely. New research highlights the need for caution in its use."
+    publishedDateTime: 2021-11-09T18:21:00Z
+    webUrl: "https://theconversation.com/unis-are-using-artificial-intelligence-to-keep-students-sitting-exams-honest-but-this-creates-its-own-problems-170708"
+    ampWebUrl: "https://theconversation.com/amp/unis-are-using-artificial-intelligence-to-keep-students-sitting-exams-honest-but-this-creates-its-own-problems-170708"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/unis-are-using-artificial-intelligence-to-keep-students-sitting-exams-honest-but-this-creates-its-own-problems-170708"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 39
+    images:
+      - url: "https://images.theconversation.com/files/430657/original/file-20211107-23-jmgtfe.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
   - title: "Discovering exoplanets using artificial intelligence"
     excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."

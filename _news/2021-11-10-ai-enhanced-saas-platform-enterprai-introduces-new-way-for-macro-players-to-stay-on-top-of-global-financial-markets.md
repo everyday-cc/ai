@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Explore the top ten enterprise AI platforms for better intelligent enterprises"
+    excerpt: "This article features the top ten enterprise AI platforms available in 2021 with the integration of artificial intelligence (AI). Click here to know about multiple AI platforms with enterprise AI."
+    publishedDateTime: 2021-11-09T12:47:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-amazing-enterprise-ai-platforms-available-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Top-10-Amazing-Enterprise-AI-Platforms-Available-in-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "DDN Advances Powerful Enterprise AI Breakthroughs with Its Latest AI Storage Platform"
     excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced the latest addition to its powerful A 3 I ® solutions, the AI400X2, which delivers twice the performance of the previous generation appliance in the same footprint,"
     publishedDateTime: 2021-11-09T14:05:00Z

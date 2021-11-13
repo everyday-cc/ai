@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI for Speech Recognition Market 2021 – Industry Development Scenario, Data Synthesis, Growth Analysis and Regional Overview by 2027"
-    excerpt: "Global AI for Speech Recognition Market 2021-2027 published by MarketsandResearch.biz carries out research and analysis of the market which includes the investigation into customer tendency. A number of producers will benefit from this research in identifying and expanding their market."
-    publishedDateTime: 2021-11-09T00:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-for-speech-recognition-market-2021-industry-development-scenario-data-synthesis-growth-analysis-and-regional-overview-by-2027-2021-11-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Voice Recognition for Smartphones Market 2021 Product Type, Applications, Market Share and Forecast by 2027"
     excerpt: "The latest research study titled Global Voice Recognition for Smartphones Market 2021-2027 from MarketsandResearch.biz provides readers with details on strategic planning and tactical business decisions that influence and stabilize growth prognosis in the market."
     publishedDateTime: 2021-11-09T18:05:00Z

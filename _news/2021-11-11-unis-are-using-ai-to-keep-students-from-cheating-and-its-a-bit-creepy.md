@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-cr
 webUrl: "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: The Next Web
@@ -29,35 +29,63 @@ images:
     isCached: true
 
 related:
-  - title: "How enterprises can keep fear, uncertainty, and doubt from impeding AI"
-    excerpt: "Resistance to new processes is nothing new, but it could become a crucial factor for AI and the radical shift it brings to data environments."
-    publishedDateTime: 2021-11-09T00:40:00Z
-    webUrl: "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/"
+  - title: "Paging the plagiarism police — AI is getting better at writing students’ essays"
+    excerpt: "Cheating during the pandemic has been rampid and concerns are growing in a climate where automation writing continue to improve."
+    publishedDateTime: 2021-11-09T15:03:00Z
+    webUrl: "https://thenextweb.com/news/plagiarism-improving-writing-students-essays-syndication"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1300108018-e1636131773896.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FRobot-typing-hed.jpg&signature=16c5fbe850f2ab359134736037a6901d"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Explore the top ten enterprise AI platforms for better intelligent enterprises"
-    excerpt: "This article features the top ten enterprise AI platforms available in 2021 with the integration of artificial intelligence (AI). Click here to know about multiple AI platforms with enterprise AI."
-    publishedDateTime: 2021-11-09T12:47:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-amazing-enterprise-ai-platforms-available-in-2021/"
+  - title: "Unis are using artificial intelligence to keep students sitting exams honest. But this creates its own problems"
+    excerpt: "The pandemic has driven the rapid uptake of programs that use artificial intelligence to monitor students sitting exams remotely. New research highlights the need for caution in its use."
+    publishedDateTime: 2021-11-09T18:21:00Z
+    webUrl: "https://theconversation.com/unis-are-using-artificial-intelligence-to-keep-students-sitting-exams-honest-but-this-creates-its-own-problems-170708"
+    ampWebUrl: "https://theconversation.com/amp/unis-are-using-artificial-intelligence-to-keep-students-sitting-exams-honest-but-this-creates-its-own-problems-170708"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/unis-are-using-artificial-intelligence-to-keep-students-sitting-exams-honest-but-this-creates-its-own-problems-170708"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
+      name: The Conversation
+      domain: theconversation.com
+    quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/11/Top-10-Amazing-Enterprise-AI-Platforms-Available-in-2021.jpg"
-        width: 900
-        height: 500
+      - url: "https://images.theconversation.com/files/430657/original/file-20211107-23-jmgtfe.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Discovering exoplanets using artificial intelligence"
+    excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
+    publishedDateTime: 2021-11-11T08:45:00Z
+    webUrl: "https://www.nanowerk.com/news2/space/newsid=59109.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 39
+    images:
+      - url: "https://www.nanowerk.com/news2/space/id59109_1.png"
+        width: 450
+        height: 338
+        isCached: true
+  - title: "Discovering exoplanets using artificial intelligence"
+    excerpt: "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in luminosity observed makes it possible to deduce the existence of a planet and to estimate its diameter,"
+    publishedDateTime: 2021-11-11T17:45:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/934587"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 226
         isCached: true
 
 secured: "zGJGD7hW+8y3ApX5C3XJXbn1LCzboSWuYX5w0e+xHfzY21zgC8ljPmgpGHJkKBzDE7M49IBK6SF7Z//UZM4d+vbSXzHQIJxSL37Qm76smQvZkSBQQwPKxbjZMlUdKWDiMYOrOtu+6IM76lZI0NW9MSaSzcL/RXCByupUzVw862RSnkl5jfmwiVFpa9tiZGW+fpdbsMELP/JnFtrcd6ObqxJosR7+HvpzucZCaIh0Ze5ZgkNWD7A/kjfLjQ10hFIdm/Mj9aPjxNX6XZmFlxl3X3SsCid39izDNETWVmuy0e8fhoMORFLIW8Rn7Bx6++1V1FBBrGMZyj6tMfAMcycI9ES7eOh/K/NYrjffh8PEpK8L4/ETyNKpa8o3gqKiOCF0WRHLIqa+jJ45PAPDb9bLxn9MldU5k+/fRcORjadY4VFbpKoFhOQIgQl5uVPTPTSfQUpKaclwk0mwM7jodefw9fQNpBImFelDyljcieESSLA8A2bkdbOS/vP6T0ODJBoeyLLHMmzobpKaedaUoAhscQ==;t6Kn2YxHe2WV2ARAEkwcJA=="

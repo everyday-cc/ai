@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-11-ethics-digital-technology-food-s
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp"
 type: article
 quality: 59
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: techxplore.com

@@ -41,22 +41,6 @@ related:
         width: 2052
         height: 707
         isCached: true
-  - title: "Want to Throw off Your Chatbot? Use Figurative Language"
-    excerpt: "When chatbots are faced with human interaction containing similes and idioms, their performance falls to between 10 to 20%."
-    publishedDateTime: 2021-11-09T00:06:00Z
-    webUrl: "https://neurosciencenews.com/chatbot-figurative-language-19613/"
-    ampWebUrl: "https://neurosciencenews.com/chatbot-figurative-language-19613/amp/"
-    cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/chatbot-figurative-language-19613/amp/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 44
-    images:
-      - url: "https://neurosciencenews.com/files/2021/11/chat-bot-figurative-language-neurosicess.jpg"
-        width: 770
-        height: 513
-        isCached: true
   - title: "Chatbots Are Confused by Figurative Language and Metaphors"
     excerpt: "Many companies are increasingly relying on artificial intelligence-driven (AI) chatbots to help handle routine customer inquiries. These chatbots can answer common questions - 'Are you closed on Sundays?"
     publishedDateTime: 2021-11-12T18:43:00Z
