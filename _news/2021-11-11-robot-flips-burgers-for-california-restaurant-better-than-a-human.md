@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/sponsored/robot-flips-burgers-california-
 webUrl: "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

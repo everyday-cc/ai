@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Startup harnesses self-supervised learning to tackle speech recognition biases"
-    excerpt: "Speechmatics self-supervised learning made its speech recognition software better at recognizing a range of voices."
-    publishedDateTime: 2021-11-08T18:24:00Z
-    webUrl: "https://thenextweb.com/news/speechmatics-uses-self-supervised-learning-tackle-speech-recognition-biases"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-1-1.jpg&signature=587da272dbef7a2cd17d14cfd2b04ecf"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "uil/iXE/K2dT5839Fr0M60N6rnr6EKwFlDxsLp162/YFxRm7Stu2FuJuRj9jY3S6vXsJsa2kkmUF6H5yMbG2BVJ5K8uI9R+KqvpdayWvXHvRnEosknf4NAUiwNte4kihgXTRL6exXrGlWEneJk7XbWZ7kqW/nGU4AeIRmEn0xtsi7C1ld0DbdzlluwwiAPdmehw2Q9SvT/iAUh/agCnPzxordgf15JXXl3GchZJ0SlnuQ4+4g4KGsf8tw6q2xm5oU+PZSLkqdBntR7olGyN+t1OyKJNdsFSinyCfMEk+h9LReRkYHy6CTz+DF0Zxpqt2/CwoTQHD0gyVSNLdEu9oL/no/reg9cEvXPdy9us0MoY=;g4Kmvq+YuYrvuRCPt30WTg=="
 ---

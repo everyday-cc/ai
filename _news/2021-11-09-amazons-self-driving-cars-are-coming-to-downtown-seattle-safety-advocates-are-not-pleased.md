@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "CNBC Says \"Self-Driving Cars Are Here\" Despite Self-Driving Cars Not Really Being Here"
+    excerpt: "If you don't believe me, get in the back seat of an empty Tesla and tell it to take you somewhere and see how that works out for you"
+    publishedDateTime: 2021-11-12T18:05:00Z
+    webUrl: "https://jalopnik.com/cnbc-says-self-driving-cars-are-here-despite-self-dri-1848047915"
+    ampWebUrl: "https://jalopnik.com/cnbc-says-self-driving-cars-are-here-despite-self-dri-1848047915/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/cnbc-says-self-driving-cars-are-here-despite-self-dri-1848047915/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 36
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0cbe2af14042a847727ce2dd8bc1e739.png"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Joe Phillips: Self-driving cars"
     excerpt: "A few cars not only can drive themselves around but can park themselves as well and parallel at that. While this is just a man musing along with nowhere special to go, the subject does bring up some questions somebody ought to ask Hmmmm."
     publishedDateTime: 2021-11-09T15:00:00Z

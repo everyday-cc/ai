@@ -85,20 +85,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "‘Blue Wolf’: Israel Employs Massive Facial Recognition Program in Hebron"
-    excerpt: "The Israeli army is using a massive facial recognition program in the occupied West Bank city of Hebron (Al-Khalil), a Washington Post report revealed on Monday."
-    publishedDateTime: 2021-11-08T18:21:00Z
-    webUrl: "https://www.palestinechronicle.com/blue-wolf-israel-employs-massive-facial-recognition-program-in-hebron/"
-    type: article
-    provider:
-      name: Palestine Chronicle
-      domain: palestinechronicle.com
-    quality: 38
-    images:
-      - url: "https://www.palestinechronicle.com/wp-content/uploads/2021/11/Hebron-Checkpoint.png"
-        width: 678
-        height: 455
-        isCached: true
 
 secured: "xbSeaGShsfatdW5mVCCfrinZ7AYs7UnUUnB/3dcWCFNumgYZdJOcXJJIAOeA6zFJOlqKUtShI+FalWEnjyGsLefyF7DI5ry9m67Fn7Yc9n8IqusTpcTGyUlXGOuLzf6cMZBVeJWlCO47LS6Sm8u7E7unJiLiduZ/RY6jakOA1r36SaMvTffSWTshAAQ+AZRCcn22hKbyXZCR8B2yVcLpB0Z9O9UE+Jk+tM4iNY1yr8SYjW20sMoquBGW6Vf2phfBuQq2ZWuHdFHzzmwVcFTFjNGmDbbZIkClEhkpsJ/vnODwdTMjrhkDSnxfwaSm4fgZRGVstbQ4Ftmmfk9k+haweNggJIa9OjN6EDJfmSrEsfw=;Y++wIK7SdrinG0SNv1VNrQ=="
 ---

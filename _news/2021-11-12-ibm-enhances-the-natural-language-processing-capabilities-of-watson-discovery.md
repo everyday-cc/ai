@@ -40,6 +40,17 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Forrester Total Economic Impact report of IBM Watson Assistant"
+    excerpt: "Forrester TEI study finds Watson Assistant customers saw $24 million in benefits over three years. IBM recently commissioned Forrester"
+    publishedDateTime: 2021-11-09T21:28:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/forrester-total-economic-impact-report-of-ibm-watson-assistant/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/forrester-total-economic-impact-report-of-ibm-watson-assistant/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/forrester-total-economic-impact-report-of-ibm-watson-assistant/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
   - title: "IBM adds new natural language processing enhancements to Watson Discovery"
     excerpt: "IBM has announced a new set of natural language processing enhancements to Watson Discovery. IBM is targeting financial services, insurance and legal"
     publishedDateTime: 2021-11-11T09:11:00Z

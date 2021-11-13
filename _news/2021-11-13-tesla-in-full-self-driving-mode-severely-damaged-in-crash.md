@@ -121,33 +121,21 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Tesla in ‘Full Self-Driving’ mode damaged after crash in US"
-    excerpt: "The crash was reported to the National Highway Traffic Safety Administration (NHTSA), which has multiple, overlapping investigations into Tesla's Autopilot system, reports The Verge."
-    publishedDateTime: 2021-11-13T06:15:00Z
-    webUrl: "https://telanganatoday.com/tesla-in-full-self-driving-mode-damaged-after-crash-in-us"
+  - title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
+    excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
+    publishedDateTime: 2021-11-13T10:40:00Z
+    webUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    ampWebUrl: "https://www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 39
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/11/Tesla-in-Full-Self-Driving-mode-damaged-after-crash-in-US.jpg"
-        width: 1200
-        height: 650
-        isCached: true
-  - title: "Tesla’s recent Full Self-Driving update made cars go haywire. It may be the excuse regulators needed."
-    excerpt: "The National Highway Traffic Safety Administration previously asked Tesla for increased transparency around updates."
-    publishedDateTime: 2021-11-08T18:22:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/11/08/tesla-regulation-elon-musk/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PPJ4XR32AI6ZPLP3I3W6RZQJY.jpg&w=1440"
-        width: 1440
-        height: 890
+      - url: "https://assets.thehansindia.com/h-upload/2021/11/13/1121601-tesla-car.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "bzFnkd6Q24Wp9AUkiDkAkzv82tQsDJY3eWjyNkBlj8XVFtmXl5S7SybX1Os5bNP38d6gwKzeU8wAZD2I2W9JdGaNaK9lLo4+YteWaadaRdN9ojpvCSLZ+x0UiatbmvZGIcXTLAEoIXGOAqLsq/9yIbCu8mI/+nLImD09C3ardTr8KGSm8pxsaOuP47eaLNkuXF422M1Qq/smiiHQczeeS5aPGemT73oPjPhxnZ2gezw8vCzTXhOblrC1lbPTYGAn3gEIdJnOHQzHICCwFJI48HhBVcwYofyRLV+cTocyq29Gju+3P6ojwQoSVi+cl/eIhTq9z0xHWt7Jc/XpBEV2if90pxda+nK92rruVde+5cFV9ptuL8jIvDfYX9zphG3nTy8Brq/7+AdSYGINheg3jT2beLDnYGboXKMhEVpK8Q+/xygluJMDb2YIP/dy21UYgi2C4EO90ClBe+vgl+7C774DIrnAd6ftDxNNDUtqoPm3R4TnmNo+yk8ujc4XQVraXK/ijE1KimHRXQrmO9FFSw==;T40dkdG76ICJFMIOTh591Q=="

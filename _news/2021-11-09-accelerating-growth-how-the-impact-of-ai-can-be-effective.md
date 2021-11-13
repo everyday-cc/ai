@@ -28,22 +28,6 @@ images:
     height: 387
     isCached: true
 
-related:
-  - title: "The Impact of Artificial Intelligence Is the Subject of White House Inquiry"
-    excerpt: "This article reviews a recent initiative by the White House Office of Science and Technology to gather information and public opinion on the deployment of artificial intelligence."
-    publishedDateTime: 2021-11-08T17:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2021/11/08/the-impact-of-artificial-intelligence-is-the-subject-of-white-house-inquiry/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 35
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2021/08/Artificial-Intelligence-Technology-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-
 secured: "X+9z1CkpHv+qiHGURUIHEaA8xTnrbFcQY4uBbTcrqhQ4tU99h949oyFvisYFz590RjZhwMiNY7bbWCZOb9sKcehgHxllKS7COJLNGwAW8rMMypVh0brRy/6Bypr5+K6fMYmd8fuYYkQNdmvvYOQkQdkmDpvLI9xUHaXegCv//Lkbn49tHtqijT5gGGXlJSTQv8R93rDYjQA8R5tIrwHMF9/nZYGk17sZX4tgCcDWfHED+Xy+6d2NdfvWq73dVwe6sOJsUk6KgCEM0gK+ZQmD7cIYsBmCzBnfmPMOQU6H7kizsjwwTfU60isZSfUDfdHM8R2TSLMZu/RAaWgXU3Gt2utGJG6xT11P0iT2siSjAcw=;/7gnXZoPpots5Cymji0cbQ=="
 ---
 

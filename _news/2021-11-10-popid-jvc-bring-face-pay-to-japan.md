@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/popid-jvc-bring-face-pay
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/popid-jvc-bring-face-pay-to-japan/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -37,7 +37,12 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 36
+    quality: 56
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "New partnerships, face and iris biometric payment systems for PopID and PayEye"
     excerpt: "PopID partners with SoftBank subsidiary Japan Computer Vision and Wendy's First Kitchen in Japan, as PayEye presents new tech in Dubai ahead of a pilot."
     publishedDateTime: 2021-11-11T19:05:00Z

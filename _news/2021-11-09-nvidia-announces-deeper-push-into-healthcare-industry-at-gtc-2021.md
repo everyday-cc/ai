@@ -78,6 +78,20 @@ related:
       name: Bio IT World
       domain: bio-itworld.com
     quality: 38
+  - title: "Nvidia launches new products to plug cars, factories into its Omniverse"
+    excerpt: "It uses Nvidia hardware and artificial intelligence software to provide a variety of services, including an autonomous driving function that allows a human-driven vehicle to park itself."
+    publishedDateTime: 2021-11-09T09:42:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/09/nvidia-launches-new-products-to-plug-cars-factories-into-its-omniverse"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/09/1361800.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "bMAoWHMUAIQsZSpjoccx/QCHrSneNE6+p3/k2ZQ1NQpbLAR2gZ0OO+F68f5FJUdPiI/RXqaLwLZvMh/S0nUZg32dNS0VJ0pF3e2rvXVKf6a1EHOOJRnfJqBDbSJSeY941XlWlCEE2lGqVXcN94w2ZAGEgGxZok2Czo6wemuK0HTIZ9syxOzjoOUW5mHZTmnp2oMzkxADbmPgxWyuOJSP47oFxZXId7DRuWysMFQu5tkqZNQGfA7Nil8l3ws9KIWgKDI8aG4CpDVDJI0hx/aruTn2VPnv4BOF1Q6LuxAokmqZKcjeAWBdIlfUbmW5LxBX04jMjXbapKSvHneS3ffyAor5sDGMwVBJurffY+xWdk5Ta37UV5r0pLFRbe9JpfVPZ+IK5pxQifJUeHtydBPdPsITNgYp//ZnbYR4HAKD0LTmRzfre82d7ThviKa9iPn5IdOU1fTkEOQMZunGmNeq6SJsip5itABrtLAs6E1eZzG70TqlQoqzgMR2AexcJgv8wJWCat3nlnQ//X7oXVf7tg==;BBTmXiW8C8M3UCu8slec3A=="
 ---

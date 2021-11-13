@@ -85,6 +85,22 @@ related:
         width: 837
         height: 628
         isCached: true
+  - title: "Artificial General Intelligence (AGI) Market to See Major Growth by 2026 | General Vision, Facebook, Digital Genius"
+    excerpt: "The Latest Released Artificial General Intelligence AGI market study has evaluated the future growth potential of Artificial General Intelligence AGI market and provides information and useful stats on market structure and size The report is intended to provide market intelligence"
+    publishedDateTime: 2021-11-13T09:01:00Z
+    webUrl: "https://www.openpr.com/news/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    ampWebUrl: "https://www.openpr.com/amp/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub13251976_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "ztF4lWbF0Ir2RlmzgD4Cprkn1EU8Ng+QERgkTtMibpbrpROzbDpj149+egBcNpxou7zsNN3jNzhgqyMcZt+2sLc7rc1Dp92pPtuRP/uEAbhhCCuxp59saaWDT8zbzkz+wWn17VMA9J2YWZfB12EV0gdt8+94SI9fGmk6gb4Fh8SIzxmKAjHEUhhULfgOPv0qKTiEaIPtWce0/gG0i2nsCCjvtPSX8Uzr6i6ravh/l7fYE+iIszMKVwCZ7SK1fENEFtpBQEnWoJRf8j3WVsySfxpcvx58+ljs5CmgFKS3aHJstyeWJIPxsxpUSDXSkQYo/6rD72/GfcH9aUgZ1M8E6HdS/UqhQnJ4j1MvfM024jaX2L0lZMiTJ9rmIXpibVg2cM0mJa9v6ONtP9ud8vWw/RgF90V/8NbykWNQqrdR477l11owU5cZzbLm+QHkxHgO8/bm3DvY5XcIPplwh0nKwCPXDlWwmz07CKyTuK6z3B3ulTIQLFLlLsCHq9xwj8Y60vNoq08ACaYSbmOUP8IpFA==;2Yvyr3MS249Q7H9e7LXzzA=="
 ---

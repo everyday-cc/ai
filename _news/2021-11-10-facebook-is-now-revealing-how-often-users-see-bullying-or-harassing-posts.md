@@ -71,6 +71,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Artificial General Intelligence (AGI) Market to See Major Growth by 2026 | General Vision, Facebook, Digital Genius"
+    excerpt: "The Latest Released Artificial General Intelligence AGI market study has evaluated the future growth potential of Artificial General Intelligence AGI market and provides information and useful stats on market structure and size The report is intended to provide market intelligence"
+    publishedDateTime: 2021-11-13T09:01:00Z
+    webUrl: "https://www.openpr.com/news/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    ampWebUrl: "https://www.openpr.com/amp/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub13251976_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
     excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"
     publishedDateTime: 2021-11-12T14:57:00Z

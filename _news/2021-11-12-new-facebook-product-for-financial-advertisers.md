@@ -40,18 +40,18 @@ related:
         height: 675
         isCached: true
   - title: "Facial Recognition Marches Forward, No Matter What Facebook Says"
-    excerpt: "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore —and facial recognition has become an increasingly toxic concept in many circles."
+    excerpt: "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore—and facial recognition has become an increasingly toxic concept in many circles."
     publishedDateTime: 2021-11-11T09:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system"
+    webUrl: "https://news.bloomberglaw.com/private-equity/facial-recognition-marches-forward-no-matter-what-facebook-says"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 39
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iasNo_27kiKU/v0/1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/4d481d4/2147483647/crop/3986x1532%2B9%2B299/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F94%2F00%2Fe444ed8b4a88a3a7698556a9bfed%2Ffacebook.jpg"
+        width: 960
+        height: 369
         isCached: true
   - title: "Facebook Ends Recognition Software"
     excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."

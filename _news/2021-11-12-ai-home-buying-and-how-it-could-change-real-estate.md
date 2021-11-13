@@ -75,22 +75,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "This New AI Can Change Your Accent Mid-Conversation"
-    excerpt: "Advertisement In today’s multicultural society, language is the biggest barrier between the employer and the employee. And now as more opportunities for remote jobs are open, employees’ biggest fear is the language barrier or the different accents that might put them in a tough spot with the company they are applying for."
-    publishedDateTime: 2021-11-08T18:55:00Z
-    webUrl: "https://wonderfulengineering.com/this-new-ai-can-change-your-accent-mid-conversation/"
-    ampWebUrl: "https://wonderfulengineering.com/this-new-ai-can-change-your-accent-mid-conversation/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-can-change-your-accent-mid-conversation/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 59
-    images:
-      - url: "https://www.futuroprossimo.it/wp-content/uploads/2021/11/CAEB8251-43CD-4533-BCEC-B831789808CB.jpeg"
-        width: 639
-        height: 639
-        isCached: true
   - title: "How Artificial Intelligence is Transforming the Healthcare Industry?"
     excerpt: "Artificial intelligence and related technologies are widely used in business and society, and they are rapidly entering the healthcare sector."
     publishedDateTime: 2021-11-09T00:00:00Z

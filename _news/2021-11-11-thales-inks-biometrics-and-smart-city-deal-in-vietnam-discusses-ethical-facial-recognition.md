@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dutch festival promoters split on face biometrics for event entry"
-    excerpt: "Dutch regulators and at least some event organizers feel biometric facial authentication is a \"drastic\" step to take for authenticating festivalgoers."
-    publishedDateTime: 2021-11-08T17:35:00Z
-    webUrl: "https://www.biometricupdate.com/202111/dutch-festival-promoters-split-on-face-biometrics-for-event-entry"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/02124358/biometrics-awards.jpg"
-        width: 1536
-        height: 1025
-        isCached: true
   - title: "Take the shine and target off face biometrics, say researchers"
     excerpt: "If held to the same standards as every other identification tool, use of face biometrics can add to the number of solved crimes with minimal collateral harms."
     publishedDateTime: 2021-11-12T16:13:00Z

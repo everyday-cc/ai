@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/amp/"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,16 +31,18 @@ images:
 
 related:
   - title: "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare"
-    excerpt: "SMi Reports: 3rd Annual AI in Drug Discovery returns to London, March 2022 with a key focus on the opportunities of machine learning and"
-    publishedDateTime: 2021-11-13T03:46:00Z
-    webUrl: "https://menafn.com/1103159220/Exploring-the-Impact-of-Machine-Learning-and-Artificial-Intelligence-in-Drug-Development-from-Discovery-to-Healthcare"
+    excerpt: "SMi Group reports the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the opportunities of machine learning and AI in drug development SMi Group is delighted to announce"
+    publishedDateTime: 2021-11-12T18:47:00Z
+    webUrl: "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial"
+    ampWebUrl: "https://www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 48
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
     images:
-      - url: "https://menafn.com/updates/pr/2021-11/12/EP_c8a7cimage_story.jpeg"
+      - url: "https://cdn.openpr.com/U/b/Ub12584002_g.jpg"
         width: 650
         height: 650
         isCached: true
@@ -57,20 +59,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQEkEJiOOECe9A/article-cover_image-shrink_600_2000/0/1636531688295?e=1642032000&v=beta&t=QjQ4HbRSxWMw2vi0_4W2nhlbYSyhbA6oeEyCkMM-KBs"
         width: 870
         height: 580
-        isCached: true
-  - title: "AI-Driven ITSM is Transforming IT Management"
-    excerpt: "Companies that have adopted the ITSM model are finding that AI assists to close tickets faster & empowers customers with rapid self-service."
-    publishedDateTime: 2021-11-08T18:11:00Z
-    webUrl: "https://www.enterprisenetworkingplanet.com/management/ai-driven-itsm-is-transforming-it-management/"
-    type: article
-    provider:
-      name: Enterprise Networking Planet
-      domain: enterprisenetworkingplanet.com
-    quality: 37
-    images:
-      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/11/AI-Driven-ITSM-is-Transforming-IT-Management.jpeg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "The Future is Now - Artificial Intelligence in Diabetes Management is Transforming Diabetes Care"
     excerpt: "\"Diabetes Management Care Using Artificial Intelligence to Improve Patient Outcomes\" Download the most up-to-date research study and application @  The worldwide artificial intelligence in diabetes management industry is expected to grow significantly between 2017 and 2024."

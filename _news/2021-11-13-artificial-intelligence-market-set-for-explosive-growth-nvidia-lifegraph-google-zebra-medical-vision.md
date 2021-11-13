@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-13T07:38:00Z
 originalUrl: "https://menafn.com/1103160737/Artificial-Intelligence-Market-Set-for-Explosive-Growth-NVIDIA-Lifegraph-Google-Zebra-Medical-Vision"
 webUrl: "https://menafn.com/1103160737/Artificial-Intelligence-Market-Set-for-Explosive-Growth-NVIDIA-Lifegraph-Google-Zebra-Medical-Vision"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - IBM AI
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?840821"

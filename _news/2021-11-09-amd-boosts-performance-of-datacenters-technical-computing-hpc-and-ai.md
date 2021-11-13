@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/11/08/amd-boosts-performance-of-datac
 webUrl: "https://venturebeat.com/2021/11/08/amd-boosts-performance-of-datacenters-technical-computing-hpc-and-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "New AMD Instincttm MI200 Series Accelerators Bring Leadership HPC and AI Performance to Power Exascale Systems and More"
-    excerpt: "With new AMD CDNAtm 2 architecture, AMD Instinct MI200 series accelerators deliver ground-breaking 4.9x advantage in HPC performance 1 compared to competing data center accelerators, expediting science and discovery ?"
-    publishedDateTime: 2021-11-08T17:04:00Z
-    webUrl: "https://www.lelezard.com/en/news-20090082.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 15
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "xvRh8ernDsCUg5D/2kbggfAWQZIN1foc2WK3QVNS/ezeKCSR27Eo7droMFlfxROeXc40s2OjHs01gRlOLd9xWZNZaRqn8dtWT4NHF0lg9ox6Ecqym2F1NZe8EG3dedXkpD3vjON8fy9dhuMPG/KWKTDK9YEq9AB0g/SAXvhT95vCeIgrzcm0Mi78PUOkt8aVllx+AK2Bn2fLtBrtjg8PIJyS4oui2u2u7Ryp73Saug0S9N0hec//o6TSoiRhd4YoLoYruDnDvAeZcPuKrkyX39DiJj432Ji2UuQkhp7c/FHQesw85q1L8xx5OwyMEE3dbQEbRA1D2zbyA54DHtoar/qlqnIoNZ7jopa0Lx3neEsrhPZtVy+2b4IAzsb47Y1Qz9t44J61T1dHJrRfuzz1VgUKc9nXstAz7Ocim76lh2EJ02hN0DEc2JcCgCLX54hsNpb1mvEUt/o2z5QiVHffPGXNJS52Q2TC8Zr8eFEQTNXOHPKwRcm4unE0gQ47Y+xAHfPe2+46iLoa40wX0lB9HA==;WT2GEvLhe/YzbKKpfOFpng=="
 ---

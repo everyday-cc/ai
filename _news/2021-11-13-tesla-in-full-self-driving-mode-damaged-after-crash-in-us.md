@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tesla in ‘Full Self-Driving’ mode damaged after crash in US"
-excerpt: "The crash was reported to the National Highway Traffic Safety Administration (NHTSA), which has multiple, overlapping investigations into Tesla's Autopilot system, reports The Verge."
-publishedDateTime: 2021-11-13T06:15:00Z
-originalUrl: "https://telanganatoday.com/tesla-in-full-self-driving-mode-damaged-after-crash-in-us"
-webUrl: "https://telanganatoday.com/tesla-in-full-self-driving-mode-damaged-after-crash-in-us"
+title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
+excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
+publishedDateTime: 2021-11-13T10:40:00Z
+originalUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+webUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+ampWebUrl: "https://www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/11/Tesla-in-Full-Self-Driving-mode-damaged-after-crash-in-US.jpg"
-    width: 1200
-    height: 650
+  - url: "https://assets.thehansindia.com/h-upload/2021/11/13/1121601-tesla-car.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -135,21 +137,7 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Tesla’s recent Full Self-Driving update made cars go haywire. It may be the excuse regulators needed."
-    excerpt: "The National Highway Traffic Safety Administration previously asked Tesla for increased transparency around updates."
-    publishedDateTime: 2021-11-08T18:22:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/11/08/tesla-regulation-elon-musk/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PPJ4XR32AI6ZPLP3I3W6RZQJY.jpg&w=1440"
-        width: 1440
-        height: 890
-        isCached: true
 
-secured: "OXnb4O2sg0rIex0Ya/NUY2KC9mIeeFPEhJ9BFg7iI4wT0qHDp28GItSsWa7NkM1skk+LG5Ehbpcb9Apu4tHnvi/DEbMiECSZRqonUWm/1cbYO8lGnHdhQGSX0sTCMKzxRxthrMVIjZf9QsqzripsJ0WqruzqNeY97jxKLODNf98caunaTotBCyK4Y7VaGWMV7zVlScpB7XBYzwdopQ+lEqzet8uRIYWKtU4HlhpgZ7bYidasic4kOpFJn22o0OOGUEyExmLZpGfxnJOoUEvVWX2Iyxd4IWia7wF/S9q8j3AWAnj9an44A+wsB9sXm/+FRa3b714KIL+oxA3xKgd1OiEFT/4CglZEQqFp+01z7o0=;vAFKPsNP/Ps9rYWMnrIJ8g=="
+secured: "wHo23AL4KB9jPsb7nW4iYNBRJGyIR8WzS3ETtwIUFZeQglkehBa1ryGrK5f3ZQGg18E7OY/XnDhWbEc4vFsPsGk9fD4hAiaEryNNjo/nx+eNSfO/K0r/5zbYE1BNS/vV1HQWga1od6Mz10PuecbIflkqhlb9TMEBBq+RibpfbfnINf/AWIQixOquhp2fiDQ01yPollqZboPYM8l8SzXhbpagx5CGWKn6thLZEORO4vTpJ5+7xR3Y/R3jZDJEDpRCiZJ16OZv2M2iei8+18VzPhWEArgvSibttnxhHKwPRpeIkIq2KrotW5I4tH0by89kcIM3Q7znDVZom8gSfN8uPK+10LHQh7P9aqDXTBCPwr0=;XpwgcaXm89opo8iQ/RyCjg=="
 ---
 

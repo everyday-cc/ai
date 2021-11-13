@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvid
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
 type: article
 quality: 65
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://www.tidewaternews.com/wp-content/uploads/2021/11/1636459777_social.jpeg"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Nvidia selects Luminar lidar for its Drive sensor suite"
+    excerpt: "Luminar Technologies Inc. has been selected by Nvidia Corp. to be part of the sensor suite for Nvidia’s Drive Hyperion autonomous reference platform. The move is a big one as Nvidia is one of the leading companies developing autonomous systems that are designed to be integrated into vehicles."
+    publishedDateTime: 2021-11-12T13:55:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17412/nvidia-selects-luminar-lidar-for-its-drive-sensor-suite"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/412/17412/Iris_for_Series_Production__1_.jpg"
+        width: 752
+        height: 501
         isCached: true
 
 secured: "GMwccc0p/AvBsYaRY4wsI6yVNRqYrO6GUGZBav6ABmP5NtVPAuhLv/nqrpjGu19jvHDWiB3j1iw/mavs5f6YB4WV8vT4T4iOE6GMsvnwTQyG0t+ZosYFBTPnSrHfK3SYYB4DYNHhDY/XLJNUTN0DJ4wL7hfH9bhc1PLNh+VVO/+ji+PsKwMEurmHwHrlYRSAqsLVnWbYyf3IUL2NVK6WMYA62/YZ+34P4j07B7fxjgCP48qkaKbfbVLY5eucX2PIplva79tI92UBaiXscXXIZLEFkTopW32/6H+iqoeAJiqFhpbiLeBDsNatSlZFafI0+2Lrm7dsyUUnuRw7gVDcucGuHmubgn8Wr+nwztjFuHs=;RTR+Hs/05mRPwKCtVbHJxw=="

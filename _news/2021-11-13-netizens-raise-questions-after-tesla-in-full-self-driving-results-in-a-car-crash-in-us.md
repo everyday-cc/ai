@@ -105,6 +105,22 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
+    excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
+    publishedDateTime: 2021-11-13T10:40:00Z
+    webUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    ampWebUrl: "https://www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/11/13/1121601-tesla-car.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla in “Full Self-Driving” Mode “Severely Damaged” in Crash"
     excerpt: "A Tesla Model Y was “severely damaged” after crashing into an oncoming vehicle while reportedly operating with the controversial Full Self-Driving (FSD) Beta active, The Verge reports. The crash could likely be the first serious incident involving FSD,"
     publishedDateTime: 2021-11-12T17:09:00Z
@@ -120,34 +136,6 @@ related:
       - url: "https://wp-assets.futurism.com/2021/11/tesla-full-self-driving-severely-damaged-crash-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Tesla in ‘Full Self-Driving’ mode damaged after crash in US"
-    excerpt: "The crash was reported to the National Highway Traffic Safety Administration (NHTSA), which has multiple, overlapping investigations into Tesla's Autopilot system, reports The Verge."
-    publishedDateTime: 2021-11-13T06:15:00Z
-    webUrl: "https://telanganatoday.com/tesla-in-full-self-driving-mode-damaged-after-crash-in-us"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 39
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/11/Tesla-in-Full-Self-Driving-mode-damaged-after-crash-in-US.jpg"
-        width: 1200
-        height: 650
-        isCached: true
-  - title: "Tesla’s recent Full Self-Driving update made cars go haywire. It may be the excuse regulators needed."
-    excerpt: "The National Highway Traffic Safety Administration previously asked Tesla for increased transparency around updates."
-    publishedDateTime: 2021-11-08T18:22:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/11/08/tesla-regulation-elon-musk/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PPJ4XR32AI6ZPLP3I3W6RZQJY.jpg&w=1440"
-        width: 1440
-        height: 890
         isCached: true
 
 secured: "4ftLQ0QTlZnaGIEJeS2IZt2wqqK9gZ/EbBB2Z6emAH05c6mPIAA6Aw4Y0M9Wj5lnhTadO1ROU6Yjgnl8xn0p1gH3QcOgrCMAzv0kzZCCaCchRrNbppCUtpKMbxGQMjZovUGIfW7iq6+X92jI2jlP3vKmUAgybYulxO0MkN56ZbGUrTehUp0HKLswuzq34uU1L0GNDxsqGqW/x28bpekHp4hrrRW1eXtZwT3mhEyX4UFNkBaN8ktLl9gdpoqEbKC0KvBSpRLMkuttUpneEJv5S6sJvcbbt7JHliQYPYDoHbhQQS10SmLZxZaNnepP996tf++T1yFdRSO3OD1tSIwq/hSiL6Inh13AppUADJsqr1c=;VaVR+7kV+2XfmN7lk9k41w=="

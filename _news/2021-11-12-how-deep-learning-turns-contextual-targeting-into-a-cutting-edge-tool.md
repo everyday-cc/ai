@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextua
 cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp"
 type: article
 quality: 59
-heat: 99
+heat: 100
 published: true
 
 provider:

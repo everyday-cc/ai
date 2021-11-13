@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driver
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart rolls out driverless trucks for deliveries of online orders"
-    excerpt: "Walmart and autonomous vehicle startup Gatik have deployed fully autonomous trucks without a safety driver for a daily, seven-mile delivery route between a \"dark store\", or fulfillment center, and a Neighborhood Market retail store in Bentonville,"
-    publishedDateTime: 2021-11-08T18:29:00Z
-    webUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks"
-    ampWebUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/Walmart-Gatick-autonomous-trucks-2.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Walmart now using fully driverless trucks as automation speeds up in wake of pandemic"
     excerpt: "In a first for the autonomous vehicle industry, Walmart and Silicon Valley startup Gatik announced Monday that their self-driving trucks are now operating without a safety driver."
     publishedDateTime: 2021-11-11T21:03:00Z

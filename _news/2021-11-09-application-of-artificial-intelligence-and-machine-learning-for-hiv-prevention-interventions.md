@@ -68,22 +68,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "This New AI Can Change Your Accent Mid-Conversation"
-    excerpt: "Advertisement In today’s multicultural society, language is the biggest barrier between the employer and the employee. And now as more opportunities for remote jobs are open, employees’ biggest fear is the language barrier or the different accents that might put them in a tough spot with the company they are applying for."
-    publishedDateTime: 2021-11-08T18:55:00Z
-    webUrl: "https://wonderfulengineering.com/this-new-ai-can-change-your-accent-mid-conversation/"
-    ampWebUrl: "https://wonderfulengineering.com/this-new-ai-can-change-your-accent-mid-conversation/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-new-ai-can-change-your-accent-mid-conversation/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 59
-    images:
-      - url: "https://www.futuroprossimo.it/wp-content/uploads/2021/11/CAEB8251-43CD-4533-BCEC-B831789808CB.jpeg"
-        width: 639
-        height: 639
-        isCached: true
   - title: "AI home-buying and how it could change real estate"
     excerpt: "Zillow went on an algorithmic home-buying spree. It didn't work. But what is algorithmic home-buying? We learn the impact AI home-buying could have on the housing market."
     publishedDateTime: 2021-11-12T05:19:00Z

@@ -126,6 +126,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia selects Luminar lidar for its Drive sensor suite"
+    excerpt: "Luminar Technologies Inc. has been selected by Nvidia Corp. to be part of the sensor suite for Nvidia’s Drive Hyperion autonomous reference platform. The move is a big one as Nvidia is one of the leading companies developing autonomous systems that are designed to be integrated into vehicles."
+    publishedDateTime: 2021-11-12T13:55:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17412/nvidia-selects-luminar-lidar-for-its-drive-sensor-suite"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/412/17412/Iris_for_Series_Production__1_.jpg"
+        width: 752
+        height: 501
+        isCached: true
 
 secured: "jCbcotlCdOSSi/1VOO3VGWHz1h6bfcCuEKWfvpIhDRqDKKrm6jBp9AXaQWUJNs86PzetxA2XpfZzi68EISr2lEtTAKw/vG4Ukn/rcJok7VfZ8S9DlsApYDTmtBRzlY64twPpJjAJjv490uzXQ8LMi3l10dXtulhftqEUAkNa5emhl/QzvN/Za/zlzZYcmILoE3+F7Iy4IHO38bFHaWAr53ti/T7eX9MeR4Ei+9WMHixtWayT1mrK7vK8pyIIx+K3zdPAeR9k8NibLVOD2VqZnobX3Ec1p8WGXPXsdSiT2lQBV+6Zg62wFJjFrTk9Lvwl0w5rDwm90X5b5V6sYAu6nVoB54PE8tAZeOyTsUdg6OA=;cqZ0DWepzBpILpodXNA/vg=="
 ---

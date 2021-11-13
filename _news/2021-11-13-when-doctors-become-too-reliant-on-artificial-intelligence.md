@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-artificial-intelligence-doctors-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

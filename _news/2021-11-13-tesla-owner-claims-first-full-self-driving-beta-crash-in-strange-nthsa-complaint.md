@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-dr
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
 type: article
 quality: 99
-heat: 179
+heat: 170
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
+    excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
+    publishedDateTime: 2021-11-13T10:40:00Z
+    webUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    ampWebUrl: "https://www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/11/13/1121601-tesla-car.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla in “Full Self-Driving” Mode “Severely Damaged” in Crash"
     excerpt: "A Tesla Model Y was “severely damaged” after crashing into an oncoming vehicle while reportedly operating with the controversial Full Self-Driving (FSD) Beta active, The Verge reports. The crash could likely be the first serious incident involving FSD,"
     publishedDateTime: 2021-11-12T17:09:00Z
@@ -124,34 +140,6 @@ related:
       - url: "https://wp-assets.futurism.com/2021/11/tesla-full-self-driving-severely-damaged-crash-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Tesla in ‘Full Self-Driving’ mode damaged after crash in US"
-    excerpt: "The crash was reported to the National Highway Traffic Safety Administration (NHTSA), which has multiple, overlapping investigations into Tesla's Autopilot system, reports The Verge."
-    publishedDateTime: 2021-11-13T06:15:00Z
-    webUrl: "https://telanganatoday.com/tesla-in-full-self-driving-mode-damaged-after-crash-in-us"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 39
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/11/Tesla-in-Full-Self-Driving-mode-damaged-after-crash-in-US.jpg"
-        width: 1200
-        height: 650
-        isCached: true
-  - title: "Tesla’s recent Full Self-Driving update made cars go haywire. It may be the excuse regulators needed."
-    excerpt: "The National Highway Traffic Safety Administration previously asked Tesla for increased transparency around updates."
-    publishedDateTime: 2021-11-08T18:22:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/11/08/tesla-regulation-elon-musk/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4PPJ4XR32AI6ZPLP3I3W6RZQJY.jpg&w=1440"
-        width: 1440
-        height: 890
         isCached: true
 
 secured: "XMmB+LR7gZq3njosenH4vMCFllYlaAXZHk+egvhDwCDQ4tVtfCky+NolEgP2Q0Q0gA9xZa5V+gMpvFe0DRYiuksSXtdP2/dpZzo5+z1i7R89MoqPb+aGAMXDwyY8mPAYumtWh+lul2yytIyPHJdu2nTN02ESPrrUkDuj47HHE6LzoMpS6w8fOKZOYepRlX2gWFwb91hhewFcx0yYn8C8pcvTktVB1z9ydUWyey+kVjGhB04q3r6qIGsoUb/cQO/nZdncp7kOXZMbv7PdwLF5o/o8ojgpfpIMz1W5tLJvp386YZ4TrkDNYV3Er58XFoxImp8kPAjR24aW44W+bxFgi7PoQE4daYHMnOajq48+SypUZ4eqc9/E0b5ub6/1MZeE4vw6zf5qYeitOS/9ats8oldIxhzVG3m4yMO7u5ZboJAxOxhYImopiNa9mXiLMsMrj7tCKPgTajWdBkcXqYmEy0C4U2CAUfKa4qWB5HeEaHDp0aFULQWyhnOBKhi9PdhCu2WV3LtBii/hXiHRbnUi0g==;KFCIyVHZpWOhcwUdYbrWTw=="

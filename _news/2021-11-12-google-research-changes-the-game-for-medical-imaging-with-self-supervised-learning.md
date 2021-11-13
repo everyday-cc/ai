@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
 type: article
 quality: 68
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.livemint.com/img/2021/11/12/600x338/6829affde82f48e5b57be0ef8b730720-c93d3f78e87f4e7da936d62d7e48ef21-0_1623317195889_1636707284807.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Startup harnesses self-supervised learning to tackle speech recognition biases"
-    excerpt: "Speechmatics self-supervised learning made its speech recognition software better at recognizing a range of voices."
-    publishedDateTime: 2021-11-08T18:24:00Z
-    webUrl: "https://thenextweb.com/news/speechmatics-uses-self-supervised-learning-tackle-speech-recognition-biases"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-1-1.jpg&signature=587da272dbef7a2cd17d14cfd2b04ecf"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "XIgGRp1tplsQ4Kjkf5AST6NDGp5xTk4cFyaAP4wleISKf0qcM7s5qGU8k0p0d+Ukf88tf+JU53+uLaNVEFRzH5uf+0gRzpsUYGvp2cSA3uSjwI9qS7Tu1nykl0N8IJKlw5ObqrY9HExp/U3B2M+fSIj8urLppRcqiaBcyiVvKq/jjyPI07p8MYRWm0UJ93rJ0QJSupzTLsWDcMJ+3KrgE6lwtM1gbyUADhiINGUt2f3gksAYM15SzAY7tze38kzTrhh6RSgUfS+LPNTga2eNKIwpIqxG1m6n/nQ1FBISk7uzVlWyOESDdMxDxLRCEwSX2j26s9JXZxFFpID40sHCLoRu91ygErwMmjEcZQb4jVyrqP/mMGSdUwy29Euk/AqF45jZwPA5ZBImWlo7RVKLzTiphxpZM/UxLqsREz+DW1vCcxdVONVAAee5jYoJopJlKOa12v5zyRwj+fxreQLIvVzYRD3EEQjHJVYWh7nP/lUCpLY26v6hPkcS/suyuij7q5IwLyzH3Eh4k20kZUsziw==;rWsQ+EwhEOHAcNQ2EA+uWA=="

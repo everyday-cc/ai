@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "PopID and SoftBank's Japan Computer Vision Partner to Launch PopPay In Japan"
+    excerpt: "Wendy's First Kitchen is First QSR Chain in Japan to Accept Face Pay PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the ..."
+    publishedDateTime: 2021-11-09T04:26:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23972605"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "PopID, JVC Bring Face Pay to Japan"
     excerpt: "PopID is partnering with Softbank subsidiary Japan Computer Vision to launch PopID’s facial recognition ordering and payment system PopPay."
     publishedDateTime: 2021-11-09T17:59:00Z
@@ -41,17 +57,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "PopID and SoftBank's Japan Computer Vision Partner to Launch PopPay In Japan"
-    excerpt: "Wendy's First Kitchen is First QSR Chain in Japan to Accept Face Pay PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the ..."
-    publishedDateTime: 2021-11-09T04:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23972605"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
 
 secured: "EB6aQv/k6JqnG/GSOk//n/mm+kA/aE7DyvAtwl6MdXp7KO5yTIuDRQBjFjEusC+do9AwF820S2kKrurMlVfFLyPA4TCL18ba9OnE5ChIcGjlB4qQHOGZhzzRdnAcRvSaWHyhRZaK1GfXRMzRsHTPQAwsLwLcOD/bxnj1G0XdKob55P4hPlpCm+U0+l9nKBulXhf6/XXzYuSK8vVASqfERs+nvlGPQcjM6jvOsiqboxcImwObzu404qRZi/MxmK47MPblKNtt4KRYI7XW+w2bQAylFIfa+GRnnMWwizccF9KoYwlANLha18Q6FtedonM75o2NxW7DMDjwpPfzSOzIjJcJ+Tgqod8bzJeE0P6/Qz4=;KPoX35ST3wkYLIOK3jLLBw=="
 ---

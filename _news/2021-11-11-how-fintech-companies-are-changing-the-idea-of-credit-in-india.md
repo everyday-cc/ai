@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/396710"
 webUrl: "https://www.entrepreneur.com/article/396710"
 type: article
 quality: 54
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Compliance: AI's New Role in Combating Corruption"
+    excerpt: "Discover how AI has started to be used as a tool for fighting corruption, what these technologies are, and why they are so important"
+    publishedDateTime: 2021-11-13T09:00:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-compliance-ais-new-role-combating-corruption"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hiring to scaling: 3 fintech unicorn CEOs share what it takes to build a successful company"
     excerpt: "As part of Singapore Fintech Festival 2021, three CEOs of fintech unicorns in Asia — Linklogis, VNLIFE and Advance Intelligence Group — came together as panellists to discuss the key ingredients for success that help to shape and grow a unicorn."
     publishedDateTime: 2021-11-10T09:29:00Z

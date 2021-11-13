@@ -41,6 +41,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Fintech Compliance: AI's New Role in Combating Corruption"
+    excerpt: "Discover how AI has started to be used as a tool for fighting corruption, what these technologies are, and why they are so important"
+    publishedDateTime: 2021-11-13T09:00:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-compliance-ais-new-role-combating-corruption"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Indian SaaS companies has to buckle up on the back of increased demand"
     excerpt: "The use of artificial intelligence, adoption of cloud computing, and remote work has been the key for the growth of the Indian SaaS industry Software as a service (SaaS) is a model of delivery in ..."
     publishedDateTime: 2021-11-09T08:01:00Z

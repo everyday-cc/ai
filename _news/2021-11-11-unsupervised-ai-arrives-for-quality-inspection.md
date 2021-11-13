@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/unsupervised-ai-arrives-for
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsupervised-ai-arrives-for-quality-inspection/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

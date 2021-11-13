@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-announced-at-nvi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       name: Bio IT World
       domain: bio-itworld.com
     quality: 38
+  - title: "Nvidia launches new products to plug cars, factories into its Omniverse"
+    excerpt: "It uses Nvidia hardware and artificial intelligence software to provide a variety of services, including an autonomous driving function that allows a human-driven vehicle to park itself."
+    publishedDateTime: 2021-11-09T09:42:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/09/nvidia-launches-new-products-to-plug-cars-factories-into-its-omniverse"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/09/1361800.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "MSEnh8LINh39HRzpxt0yjn/ut3opJAo/fI72L8mTtboruzV4G0S5Sj+8Bs0yh1vNnAqqo8o+5UZrGwRNpJIlmp6BXWp0f/g05dts/7lmp715V5E5QKO0S1OAgWCcY2SeDS7AR/uwS0fILZfbGVcqr/AbGP1VRljssPMIsjMTrDGsgUWdZx601P6ZiyNzM+lXQAUvpe9pSLtbC/5HdRJgK5qEaXPh5AMY+kC5O1R+Bb4UhIhB538B8jeTYvkOnnefhV22KeVa0EtG8iYYadJ79uX9FYOFZWt20IRfAHInxPuueGa96cjYP1cqcPU8KzPYiDDZnAEX9P0wzMlYRNMce09dgMiSEi0kITCvRVkL+SEXL8xdNSziCYDyGzg0S7e8dCENEiB5VxlvQg0vYR39tX20EjRr9aXCWAEgKnP6X1TPmSBB8oAxUA1IKTUAPQ8HcHSDoROVn0Djp7s/VDV4F81jl9SGLequaUTwD7cbjr1PJKFW4gUiax5HcvfbPsDGEHZwxCCQyLA/Fjd00dRe5g==;iF/tuooX5Sc5QU3M+LUj9A=="
 ---

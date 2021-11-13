@@ -43,22 +43,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Walmart rolls out driverless trucks for deliveries of online orders"
-    excerpt: "Walmart and autonomous vehicle startup Gatik have deployed fully autonomous trucks without a safety driver for a daily, seven-mile delivery route between a \"dark store\", or fulfillment center, and a Neighborhood Market retail store in Bentonville,"
-    publishedDateTime: 2021-11-08T18:29:00Z
-    webUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks"
-    ampWebUrl: "https://www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/walmart-delivery-driverless-trucks.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/Walmart-Gatick-autonomous-trucks-2.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Walmart is Using Self-Driving Trucks in a 7 Mile Delivery Loop"
     excerpt: "It's the first time ever that an autonomous vehicle company has removed drivers from a delivery route's middle mile."
     publishedDateTime: 2021-11-09T13:04:00Z

@@ -8,9 +8,9 @@ webUrl: "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softba
 ampWebUrl: "https://www.benzinga.com/amp/content/23972605"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
   name: Benzinga.com
@@ -19,6 +19,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "PopID, JVC Bring Face Pay to Japan"
@@ -52,6 +58,6 @@ related:
         height: 1032
         isCached: true
 
-secured: "ZAaXXR5s6RYZ59XdXG6L+dYxWuQ2g9+aFw1rPdHli2OvC2Kgx1gtuhNUxrots9t1BtJUW2j6VddbPW9RLWrehzfF/sjrHXyl18ygq7OgZiaWSgfOA2xncwlkc6FoMvBh25INhg2/cm5XpvZ2LVNvWnIDy8tclqggiDyL7uutO/VzBFDTqWVWGEmetjdVE++O2j5ic8h9W8GYYfD9wg4lV8LLz+w3+qqMfcR8/0O+j+QCENcbXH/QDFTp58/oPFmlOngV+9BgrJHOcWDSoYPpJTL4AtrpPt/e2a7g7vLzL7/dMHtYuinvND+c8pRjjcsyiPsOHSWhBmhrs48EX6xeSjPoKqhBY7CRksdEiU+q/84=;KEG3+61z0mKpawDjjI1pjQ=="
+secured: "aSmj7Jb8LPhdPqn8kjnLE/cmZYmjvRlnzvjulNTxhKtzSJNttUdv8xRlJ31+O/zE2M0CHqOTzBpEcShmq4ba3nRTGB8eLRWbLQljtCRVFLkfxUn7vpwg9YMtYE4CPbqVF0rJQheS9R2phY7RzayAg8Q47usS1fPrcPW8D7NMMZQOBwqBf3fRqU0nJoljTlnwSs9nOgEZcKoLYKTNxTIC4A8w7xnl4BQE5wwLSXsiPOnxuTc1oJw7t/sD5L7WaHuwnQAxYFh/k7+97xWB2CFEngSOUdqpbJIehQbpHpeJUK9E0zTam1mKHxSd48SX1ByBe0EQV42hrWrr5v+GAnLhb3mVJ/GoGD4abPoQ9Syycz4=;OZ0ZK9CY6nTHQemcDbhGuQ=="
 ---
 
