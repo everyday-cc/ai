@@ -39,21 +39,19 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Team 8 Takes Refreshing Approach to Driving Business Development, Fintech"
-    excerpt: "Team 8, an Israeli venture group, has a unique recipe for success, its vice president for business development and Fintech Galia Beer Gabel said. A lawyer by training, Beer Gabel moved into a business"
-    publishedDateTime: 2021-11-08T11:01:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182543-team-8-takes-refreshing-approach-to-driving-business-development-fintech/amp/"
+  - title: "How credit unions use AI to compete with fintech lenders"
+    excerpt: "Northern Hills Federal Credit Union in South Dakota is one of several institutions testing tools that can deliver faster loan decisions, an edge they need against digital upstarts."
+    publishedDateTime: 2021-11-08T16:32:00Z
+    webUrl: "https://www.americanbanker.com/creditunions/news/how-credit-unions-use-ai-to-compete-with-fintech-lenders"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 43
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/11/Galia-Beer-Gabel-smalll.jpeg"
-        width: 1600
-        height: 1608
+      - url: "https://arizent.brightspotcdn.com/dims4/default/c4ecfae/2147483647/strip/true/crop/2946x1547+0+209/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F12%2Fdb%2F1da3cf1a45d3b1207114913d77ba%2Fadobestock-180950831.jpeg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Hiring to scaling: 3 fintech unicorn CEOs share what it takes to build a successful company"
     excerpt: "As part of Singapore Fintech Festival 2021, three CEOs of fintech unicorns in Asia — Linklogis, VNLIFE and Advance Intelligence Group — came together as panellists to discuss the key ingredients for success that help to shape and grow a unicorn."
@@ -70,6 +68,20 @@ related:
       - url: "https://cdn01.vulcanpost.com/wp-uploads/2021/11/fintech-f2.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "5 FinTech companies disrupting the financial sector in Boston"
+    excerpt: "FinTech is the cross-culmination of traditional methods often associated with accounting, banking, finance industries, and of innovative tech"
+    publishedDateTime: 2021-11-08T12:37:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-disrupting-the-financial-sector-in-boston/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Indian SaaS companies has to buckle up on the back of increased demand"
     excerpt: "The use of artificial intelligence, adoption of cloud computing, and remote work has been the key for the growth of the Indian SaaS industry Software as a service (SaaS) is a model of delivery in ..."
@@ -130,6 +142,20 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
+  - title: "Blockchain technology Market size to increase by USD 6.25 Bn | Technavio's Research Insights highlight Increase in FinTech Spending as a Key Trend"
+    excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth"
+    publishedDateTime: 2021-11-12T00:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/blockchain-technology-market-size-to-increase-by-usd-6-25-bn-technavios-research-insights-highlight/article_c7481f17-8858-5212-a4a7-8db672fafc75.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 1
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/6a/b6a73f4e-64ff-5ab3-87a3-40242f211002/618dc50fe4fe3.image.jpg?resize=800%2C450"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "skE08uJmZGFsBJdzM3QGAK/hDWn34vTczE7epSMvFFRSKw0SegnwzXbf3EY2fti2nC9DbSFqhmHOwCqjsk8klYF5nN1ka7x7R+/HcztYZqNhNTb7GW3vtA+hTKtCQFKS9MkVzOPuHXwd+z8Ioa1RN2I5xx0sSGSo74AgKQPUuNJoel/Kq3SSZNTcVKhIjXtr99H9ieF9QJHgQxHNpML+W2Io0rhI+D950464CfB7Xc0bEsD83WJJ8GpOcjfE4zh/d0mgWFXsssi1bUTXtDk6LMVLH2YOjhhkL8TKIbYh+CiwgqylJ+Sp07MDJGZ8CHUamRVHJcBItT3B2jFE9bfgEO14k2cdpXod6+OH/oDDF1s=;OZ0lsxdquEhuiBAMbe6HkQ=="
 ---

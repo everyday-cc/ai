@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's 'Full Self-Driving' Beta Appears to Have Caused Its First Major Crash"
+    excerpt: "An NHTSA complaint alleges a Telsa Model Y with FSD engaged was \"severely damaged\" after mistakenly turning into the wrong lane and colliding with another car."
+    publishedDateTime: 2021-11-13T02:13:00Z
+    webUrl: "https://gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965"
+    ampWebUrl: "https://gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 86
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6decb14dfa7b5942403227b547acf989.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Tesla starts retrofit program for cameras on older vehicles with ‘Full Self-Driving’"
     excerpt: "Tesla has launched a retrofit program for Autopilot cameras on older vehicles with the “Full Self-Driving” package. Starting with the introduction of its Autopilot 2.0 suite of sensors in 2016, Tesla started selling all of its cars with the promise that they have all the hardware necessary to achieve full self-driving capability with future software"
     publishedDateTime: 2021-11-09T15:10:00Z

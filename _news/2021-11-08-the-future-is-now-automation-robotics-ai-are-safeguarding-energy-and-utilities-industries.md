@@ -161,6 +161,15 @@ related:
         width: 500
         height: 282
         isCached: true
+  - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
+    excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
+    publishedDateTime: 2021-11-08T23:57:00Z
+    webUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 25
 
 secured: "52uf9cxaEylQWlUaBEKTOROOxVKdpJcYW2QKNR7b2Fh7fQMgYcsTG9XRvsM0DgglKqo615OSv2aYCb4ccpM9yIXA3a6w153sqyVlKzuQaP8YWwRYLGnWetzO3xsosanNPJs6J3iZ+CN4QtZnhmZVoMOqoao33zkoIQFsH+f0ABrcEfIQRnXbWfwhN9oWHek1lkB4akc2pia2D20hJtCbEzcTlrB7SZGAIWMM2mYKZTCsgX8pFqgrvFcyKkx6uHg3E1lm5kzWWSCALpabX7oiDsvka0bxVZpsPwpQml0riYO56X+D0DQDAGFBHn958gw/4kGJUbWgZGkHm2YSEu4ZE2zU5nEu2SBmQkE8DML3O2Tm8aU6CJVR1IKqODy1u6YQ/IYwZoQiKvgh1TeAY6mI3b/fCURTeXInFqhxVVsAa2h9okwm0xqsXbn2vBwRVF9eweIoFN6N5kkji3aJKJAfQmJyG4A8osbM44H8jaHaDXCCgsjyVIRmZf2g//BEN6TENidtdx+NT2K6e8VqQZGCAQ==;1NUd7e68p96wlJm6Zb8v6Q=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "CBA’s $132 million play with California artificial intelligence leader H20 to make the bank ‘an AI superpower’"
-    excerpt: "Australia's biggest bank has invested $134 million in California AI market leader H2O.ai, for a minority stake."
-    publishedDateTime: 2021-11-08T09:51:00Z
-    webUrl: "https://www.startupdaily.net/2021/11/cbas-132-million-play-with-california-artificial-intelligence-leader-h20-to-make-the-bank-an-ai-superpower/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 49
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2021/11/h20.ai_Sri_Ambati.jpg"
-        width: 765
-        height: 522
-        isCached: true
 
 secured: "4SyBx38W7N4EvFU4mJejX3elvMGkI8lYYQER+NM0+CvCwP2CXjrjCGsl+TB7+Oc8hKmdNRuFSlCAUVpOlJICXrrPbuC5+uGloMq4N/doB6/FWo+Hol3+HrSEvuRDyei9Ryd08rhU0WAxwCI3xnXQCABUldeGPcpKup4WM2jEIM/FqtXZt0k1m1ZnuXxP7MwjX7ZHLATSthW7lXpalMJCqym8TCUf1jy2JfnOrrzetW9ADOi0cvJJRci/kAYer9Nnoz71Fal6hdaBGgdWGaNjQqA/y1YVXkJ4LQH37tDFA37DTaL5zD3BwsrOFTTpNE7CiqE5zMldTbeshwCU0GtUlnADotqwZiUTDKqQJx5zGEM=;rVDROaMTUM1sLao3oQxVGA=="
 ---

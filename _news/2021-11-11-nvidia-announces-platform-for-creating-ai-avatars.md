@@ -195,6 +195,20 @@ related:
         width: 540
         height: 315
         isCached: true
+  - title: "Nvidia Turns Its Focus to AI Inference"
+    excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
+    publishedDateTime: 2021-11-13T00:53:00Z
+    webUrl: "https://www.internetnews.com/enterprise/nvidia-turns-its-focus-to-ai-inference/"
+    type: article
+    provider:
+      name: Internetnews
+      domain: internetnews.com
+    quality: 39
+    images:
+      - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
+        width: 900
+        height: 371
+        isCached: true
   - title: "The top five product announcements from Nvidia’s GPU Technology Conference"
     excerpt: "Nvidia Corp.’s GPU Technology Conference, being held this week in digital format, has evolved over the years from a hard-core tech event for pure propellerheads to more of an industry event where the latest and greatest innovations in accelerated computing are highlighted."
     publishedDateTime: 2021-11-09T11:00:00Z

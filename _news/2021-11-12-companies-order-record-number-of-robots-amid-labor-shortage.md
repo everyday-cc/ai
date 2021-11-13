@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/companies-order-record-number-of-ro
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766"
 type: article
 quality: 89
-heat: 101
+heat: 102
 published: true
 
 provider:

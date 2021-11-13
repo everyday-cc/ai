@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-12-the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance.md",
+      "title": "The Intersection of AI and DeFi and Why It’s the Future of Finance",
+      "excerpt": "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
+      "originalUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
+      "publishedDateTime": "2021-11-11T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-sourceless-blockchain-board-at-larnaca-conferences-2021-the-reality-of-tomorrows-ai-robotics.md",
       "title": "Sourceless Blockchain Board at Larnaca Conferences 2021 – The reality of tomorrow’s AI & Robotics",
       "excerpt": "Sourceles Blockchain Board will be present at Larnaca Conferences, where various topics on AI & Robotics will be discussed ... founder of Sourceless Blockchain, Ccoin Network Fintech and Wisp Communication. - Iulian Bondari, graphic and web designer ...",
@@ -205,7 +239,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/396710",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -344,7 +378,7 @@
       "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1362,58 +1396,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-why-financial-services-can-benefit-from-digital-transformation.md",
-      "title": "Why Financial Services Can Benefit From Digital Transformation",
-      "excerpt": "Today's digital growth creates significant challenges for businesses, and one of many industries that need to digitize their business process is the financial industry. As a result, companies have had to rethink how they do business for the past few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/why-financial-services-can-benefit-from-digital-muhammad-ajie-santika",
-      "originalUrl": "https://www.linkedin.com/pulse/why-financial-services-can-benefit-from-digital-muhammad-ajie-santika",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFLO5bAMFP9jQ/article-cover_image-shrink_720_1280/0/1635163585804?e=1641427200&v=beta&t=TIMXer39MoY8B5qOr95GCGF2YhW4UQMcjGSKgrElxVg",
-          "width": 1280,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

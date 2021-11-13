@@ -209,6 +209,20 @@ related:
         width: 540
         height: 315
         isCached: true
+  - title: "Nvidia Turns Its Focus to AI Inference"
+    excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
+    publishedDateTime: 2021-11-13T00:53:00Z
+    webUrl: "https://www.internetnews.com/enterprise/nvidia-turns-its-focus-to-ai-inference/"
+    type: article
+    provider:
+      name: Internetnews
+      domain: internetnews.com
+    quality: 39
+    images:
+      - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
+        width: 900
+        height: 371
+        isCached: true
   - title: "Run:AI releases dynamic scheduling for NVIDIA Multi-Instance GPU technology"
     excerpt: "AI, a leader in compute orchestration for AI workloads, today announced dynamic scheduling support for customers using the"
     publishedDateTime: 2021-11-09T23:00:00Z

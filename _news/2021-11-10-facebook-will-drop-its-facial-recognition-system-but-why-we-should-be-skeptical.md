@@ -76,6 +76,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "TS cops draw flak for random use of facial recognition scans on unsuspecting citizens"
+    excerpt: "Two days after Amnesty International, Internet Freedom Foundation and Article 19 launched #BantheScan campaign, asking the Central and Telangana governments to stop the use of facial recognition system as it can potentially be used to target minority and disadvantaged communities,"
+    publishedDateTime: 2021-11-13T02:35:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 52
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/11/13/w600X390/pri.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Facebook is shutting down its facial recognition software"
     excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
     publishedDateTime: 2021-11-08T21:55:00Z

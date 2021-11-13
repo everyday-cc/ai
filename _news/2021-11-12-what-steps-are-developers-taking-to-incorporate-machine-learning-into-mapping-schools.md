@@ -59,15 +59,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "How machine learning and new data sources can better target aid"
-    excerpt: "The Center for Effective Global Action featured its work in, and learnings from Togo, in a recent event on reimagining development aid, which focused on how to leverage emerging technology to improve targeting."
-    publishedDateTime: 2021-11-08T10:43:00Z
-    webUrl: "https://www.devex.com/news/how-machine-learning-and-new-data-sources-can-better-target-aid-102029"
-    type: article
-    provider:
-      name: Devex
-      domain: devex.com
-    quality: 34
   - title: "Artificial Intelligence for Accounting Market To Make Huge Impact In Near Future Basic Influencing Factors Driving The Industry 2021–2027"
     excerpt: "Combining AI with other technologies such as robotic process automation can allow accountants to redirect the time that they used to spend on mundane tasks toward performing high value high impact tasks Adding AI to accounting operations can also increase"
     publishedDateTime: 2021-11-12T09:58:00Z

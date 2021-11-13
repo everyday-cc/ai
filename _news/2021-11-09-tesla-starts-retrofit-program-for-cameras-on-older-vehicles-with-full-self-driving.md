@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's 'Full Self-Driving' Beta Appears to Have Caused Its First Major Crash"
+    excerpt: "An NHTSA complaint alleges a Telsa Model Y with FSD engaged was \"severely damaged\" after mistakenly turning into the wrong lane and colliding with another car."
+    publishedDateTime: 2021-11-13T02:13:00Z
+    webUrl: "https://gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965"
+    ampWebUrl: "https://gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 86
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6decb14dfa7b5942403227b547acf989.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Tesla Self-Driving Update Caused Cars to Behave Dangerously"
     excerpt: "It’s not every day that Tesla decides to contact regulators about a serious issue with its self-driving software. Late last month, Tesla reported an issue with its Full Self-Driving software to the National Highway Traffic Safety Administration (NHTSA),"
     publishedDateTime: 2021-11-08T16:09:00Z

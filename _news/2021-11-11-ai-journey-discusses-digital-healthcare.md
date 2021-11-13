@@ -47,6 +47,22 @@ related:
         width: 261
         height: 250
         isCached: true
+  - title: "Today in Healthcare: Peloton Gets Into Connected Strength, Improving the Patient Experience, GoodRx’s Growth"
+    excerpt: "Today in healthcare, Peloton joins the connected strength market with its AI-enabled Peloton Guide, GoodRx shares its prescription for growth, and more."
+    publishedDateTime: 2021-11-11T23:10:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/peloton-gets-into-connected-strength-improving-patient-experience-goodrx-growth/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/peloton-gets-into-connected-strength-improving-patient-experience-goodrx-growth/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/peloton-gets-into-connected-strength-improving-patient-experience-goodrx-growth/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 40
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/today-healthcare-peloton-goodrx-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "uMyxi07KaMSEufEnIhhKMvjSpOC43T1Nu5CwwrcGmlRC5W7QCCVt4KmpWda6BwtjE254pnGTozIlEcG2NGFVTtvfpwqYT8PxDaoNsWj97/2suGUYxKP0ZgA1bGXwRaIQixAdpbE+KoOrZZKTzSx2+7RJpKrZ5QYXAHHfeSn3HVi9zbEYSnQFn3yDFOnYLmf1eqRxRUbYEUEODhjBymcle9If4mo9qdOe9nuWokS1nUiiiWDzyOsC01yXQyRCL3lZLHD6tuU6eWldwDRQ5SQ+CS7+GPsc0KLMJbrPnQPa+IvmVasU66Ukenr/YyEc22kA3bRwxvDCqUEjz+CgD+3cn6pmGIkTUMaYU8BGHR8r6LQ=;wMu0ugqg7Ap3D1JxF0aO4g=="
 ---

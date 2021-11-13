@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-rai
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.mckinsey.com/~/media/mckinsey/locations/asia/greater%20china/our%20insights/seven%20technologies%20shaping%20the%20future%20of%20fintech/seven-fintech_trends.jpg"
         width: 1536
         height: 864
+        isCached: true
+  - title: "Three leading fintech trends to watch in 2022"
+    excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"
+    publishedDateTime: 2021-11-11T12:45:00Z
+    webUrl: "https://fintechmagazine.com/digital-payments/three-leading-fintech-trends-watch-2022"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1322656065.jpg.png?itok=a1iWWzTF"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gHVX1wnyKRZBa2ZB8MJC9CIhOKVo2APte5/Izd8VeZXvn7wr7SLVHST0CTeyFZWWwzrBoC9yaLmxOKeF0IbaDd2DeKz41iCc7AN9808cWKNx3/4PUcxg7tvlMx2/Rz+QoupatBenkQi+VnRAMvVwDOKF5Zl7fFYZGy5gSGAOuscd6a84ZGfB3o4hA7SfvTvojD0C3obCLwEbH75jnsh6iRKpaB89kbvCRuhe4IPBN8+YKWnTdqJ8U6AB8XC0UVtWr/R8evyj4pJtPmqTuV+Y4TWGSxFedBBvIhy55z3hqu0Lgi/DoU7mDAeEOdmXSh9u9tZnAD8E5YvOTXrOZxJKA14+rglrKuzDxCwBSfBZtp07gi0c53fxzZkXLc3JPD4plmyXBXLHm1ls5F7zbYvknBJbKA32mFMACNp65rUH4TirnB6s+iS3hqEx2DUcTvyTQegLJUexSn41Z+GB3rtyrK2c7JfyRcHXXB+yvD90NuCieR3n67Wlz1f+Kf4AigFMVQTIKFTJuzc9XO92jAObjw==;508Bu59vImKAtS8O00LP7g=="

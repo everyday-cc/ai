@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1134097_next-bmw-7-series-to-f
 webUrl: "https://www.motorauthority.com/news/1134097_next-bmw-7-series-to-feature-level-3-self-driving-system"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BMW 7 Series set to get Level 3 self-driving capabilities next year: Report"
-    excerpt: "BMW also plans to introduce the Level 3 autonomous capabilities in its newly released iX crossover..A car with Level 3 automated driving can speed up, decelerate and stop itself when the user engages the system."
-    publishedDateTime: 2021-11-08T09:01:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/bmw-7-series-set-to-get-level-3-self-driving-capabilities-next-year-report-41636345661944.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/bmw-7-series-set-to-get-level-3-self-driving-capabilities-next-year-report/amp-41636345661944.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/bmw-7-series-set-to-get-level-3-self-driving-capabilities-next-year-report/amp-41636345661944.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 42
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/11/08/600x338/3-Ba-BMW_1626449662688_1636361375610.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Porsche 911 hybrid, self-driving BMW 7-Series, Kia EV9: Today's Car News"
     excerpt: "Comment Now! The Porsche 911 is about to undergo its biggest change since the introduction of water-cooled engines. A hybrid 911 is currentl"
     publishedDateTime: 2021-11-08T16:00:00Z

@@ -89,6 +89,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "TS cops draw flak for random use of facial recognition scans on unsuspecting citizens"
+    excerpt: "Two days after Amnesty International, Internet Freedom Foundation and Article 19 launched #BantheScan campaign, asking the Central and Telangana governments to stop the use of facial recognition system as it can potentially be used to target minority and disadvantaged communities,"
+    publishedDateTime: 2021-11-13T02:35:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 52
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/11/13/w600X390/pri.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Facebook to End Use of Its Facial Recognition System"
     excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"
     publishedDateTime: 2021-11-08T22:33:00Z

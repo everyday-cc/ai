@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/sponsored/robot-flips-burgers-california-
 webUrl: "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human"
 type: article
 quality: 69
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "CBA’s $132 million play with California artificial intelligence leader H20 to make the bank ‘an AI superpower’"
-    excerpt: "Australia's biggest bank has invested $134 million in California AI market leader H2O.ai, for a minority stake."
-    publishedDateTime: 2021-11-08T09:51:00Z
-    webUrl: "https://www.startupdaily.net/2021/11/cbas-132-million-play-with-california-artificial-intelligence-leader-h20-to-make-the-bank-an-ai-superpower/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 49
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2021/11/h20.ai_Sri_Ambati.jpg"
-        width: 765
-        height: 522
-        isCached: true
   - title: "California women veterans fighting for recognition with license plate"
     excerpt: "California is on the verge of having a license plate dedicated specifically to female veterans. Advocates say it would be more than just symbolism."
     publishedDateTime: 2021-11-12T20:09:00Z

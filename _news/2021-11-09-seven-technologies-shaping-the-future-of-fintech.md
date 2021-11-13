@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Three leading fintech trends to watch in 2022"
+    excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"
+    publishedDateTime: 2021-11-11T12:45:00Z
+    webUrl: "https://fintechmagazine.com/digital-payments/three-leading-fintech-trends-watch-2022"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1322656065.jpg.png?itok=a1iWWzTF"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8vR4EysvLDBTdeNUWQMGzVIgcOAR4L7dFf0ee1LuhD28d+SeltcTGalPxZQn6h7nb0D5ized6oewm9lqwlqEa99bdo3aQV3JSVzlDYMbNMOHJKNh/y74lbrst7smDWHhlPl+EBuhYnjRfRGZQFglfoo7wnwcArTFsdql4Nu18+eQLb+Ilz2QaQ5th1h24lw9jkUEzXR52W8BkpymD/1YeNED3Wa/mibIpC6ErocVnXw7gitYqOO8gFm9cuzM9aemPjfwd0tJ6mwcULa/cTuyYkpHNgrMM2Yp8jkmjPR6jox5AJQ2jT3dWsaZ2Al6NLjDqzj3o4WMamdH7W3gUyA0QRcRejrsMFRYI9RYs9VE104quSQqy1wcRDPAvmidWNL/WaWIlOCm8GENtf2LET6ve7Xh2aFGipNNQ9qicLANc/LFXjo+jPa0A3+TPixBHPv3l0hbTjiALksYNP7d/nLLOOwvMo5dFXf1P90Xjp29X7Cjb0+sPfKmkcScD4Ht0fWHsh9poV4e/2a9srvmNnERSw==;pBmWxNWwHEB/6WFAHhP23w=="
 ---

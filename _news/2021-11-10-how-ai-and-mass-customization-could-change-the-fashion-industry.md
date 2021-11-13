@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -164,6 +164,15 @@ related:
         width: 500
         height: 282
         isCached: true
+  - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
+    excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
+    publishedDateTime: 2021-11-08T23:57:00Z
+    webUrl: "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00247-2/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 25
 
 secured: "Zn03CGomjrew64DWvwwSBFxsN0+/+dr61EvxyVDFnkduVRz0bssrTK/OC4cok+14WR4GMYhkA57d6RIsMKNGPeZV9AZFZbmFg6TVrL8Swq4HU/IsQBwLq4NWUnsE7HGWZFojmR+JgPtxr+CEXR6SF1vWEbJaTGTCbPm7cjIh4yzzwV5fWkLQMFE+IThKWaLCEHVR9kxR+QSQYXJ5ddZ3g28MhcXhGGJaLSo9E9Yi9/+PYJ0rm5snMPObNp0Xduy0zUgZLUgi5qQ5p7QQsGqk7ivUD3owcrGBlfHrldkpMbCqHZ83odq5cjUh7o6jyJnJJiFONq0gyk2QN8wRdr0RQPzJzLERskpKZCDKC/6WoWAGt4jsAJlNZanyVnJgAVLxHKZo5RrFJyjBSBfcwUcv/XrwWnVSbOfPKW4YSXXQK43XRH97Fp25rQvJCODysT4ywJVWJ/mnn3KV8sa50YndsFmx0ybi3xBdwNoJJC4LUAnf1002An2ILRMlQuNKk0alnoASyylcacAm6Oxm0H0riQ==;veLnUL+1F6NiCs/MLulTog=="
 ---

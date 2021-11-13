@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart is using fully driverless trucks to ramp up its online grocery business"
-    excerpt: "\"Taking the driver out is the holy grail of this technology,\" Gatik CEO Gautam Narang, who founded the autonomous trucking company in 2017, told CNBC."
-    publishedDateTime: 2021-11-08T10:00:01Z
-    webUrl: "https://www.cnbc.com/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html"
-    type: article
-    provider:
-      name: com/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html
-      domain: com/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html
-    quality: 155
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106971628-1636137435152WALMART1.jpg?v=1636153072"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Gatik’s self-driving trucks are now making driverless deliveries for Walmart in Arkansas"
     excerpt: "Autonomous vehicle startup Gatik has reached a new milestone in its partnership with Walmart and within the industry. Gatik said Monday it has pulled the safety operator from behind the wheel of two self-driving box trucks that operate in Walmart’s home turf of Bentonville,"
     publishedDateTime: 2021-11-08T14:33:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/11/Gatik-Fully-Driverless_1.jpg?w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "For robots all roads lead to Walmart, for now"
+    excerpt: "Cruise, the autonomous driving arm of General Motors, won approval in September to start carrying cargo without a driver and ... Nuro and Waymo and recently enlisted a fifth player, Argo AI, to test last-mile deliveries in Miami later this year."
+    publishedDateTime: 2021-11-08T14:57:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2021-11-08-for-robots-all-roads-lead-to-walmart-for-now/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/_rtaYMh4OZvoQjDfnvzruj7QWYtBwlt5T9qV1aP0Ioppo-zVWVdmI7cAnGqiXrBBVjGBqh66RGO8xqBmCeNvRKKNTKxAWV-QUuThrO4PcTdrOWw=s750"
+        width: 750
+        height: 510
         isCached: true
   - title: "Walmart rolls out driverless trucks for deliveries of online orders"
     excerpt: "Walmart and autonomous vehicle startup Gatik have deployed fully autonomous trucks without a safety driver for a daily, seven-mile delivery route between a \"dark store\", or fulfillment center, and a Neighborhood Market retail store in Bentonville,"
@@ -75,19 +75,19 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Walmart Stomps the Pedal on Self-Driving Delivery"
-    excerpt: "The giant retailer has thrown its weight behind five startups and just let the Gatik robots take the wheel in Arkansas."
-    publishedDateTime: 2021-11-08T11:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-08/walmart-stomps-the-pedal-on-self-driving-delivery"
+  - title: "Self-Driving Trucks Are Shipping Cargo to Walmart Stores In Arkansas"
+    excerpt: "Walmart has been relying on self-driving trucks with no human driver on board to ferry shipments from warehouses to retail stores in Bentonville, Arkansas. The self-driving trucks come from a Silicon Valley firm called Gatik,"
+    publishedDateTime: 2021-11-08T16:28:00Z
+    webUrl: "https://in.pcmag.com/cars-auto/146024/self-driving-trucks-are-shipping-cargo-to-walmart-stores-in-arkansas"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: PC Magazine
+      domain: pcmag.com
     quality: 54
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRou81bN2qpU/v1/1200x646.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/s/self-drivi/self-driving-trucks-are-shipping-cargo-to-walmart-stores-in_6nty.1200.jpg"
         width: 1200
-        height: 646
+        height: 675
         isCached: true
   - title: "Walmart now using fully driverless trucks as automation speeds up in wake of pandemic"
     excerpt: "In a first for the autonomous vehicle industry, Walmart and Silicon Valley startup Gatik announced Monday that their self-driving trucks are now operating without a safety driver."
@@ -104,20 +104,6 @@ related:
       - url: "https://cdn.christianpost.com/files/cache/image/14/38/143842_w_450_249.png"
         width: 450
         height: 249
-        isCached: true
-  - title: "UAE will become first in ME to test driverless cars on its roads, says Mohammed"
-    excerpt: "\"We are awaiting the report of the Ministry of Interior, in coordination with the Office of Artificial Intelligence, for the results of the tests, to take the appropriate decision\""
-    publishedDateTime: 2021-11-09T13:14:00Z
-    webUrl: "https://www.gulftoday.ae/news/2021/11/09/uae-will-become-first-in-me-to-test-driverless-cars-on-its-roads-says-mohammed"
-    type: article
-    provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
-    quality: 35
-    images:
-      - url: "https://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2021/11/9/screen-shot-20211109-at-42027-pm.ashx?la=en&hash=9E218E50420C21C02C35A46D3F815CBA"
-        width: 604
-        height: 454
         isCached: true
   - title: "Walmart Accelerates Self-Driving Delivery"
     excerpt: "At the moment, the future of transportation is at the Walmart on Regional Airport Boulevard in Bentonville, Ark."

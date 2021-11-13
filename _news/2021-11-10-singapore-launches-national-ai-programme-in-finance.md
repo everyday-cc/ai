@@ -40,36 +40,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Human in the Loop for AI in Healthcare"
-    excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
-    publishedDateTime: 2021-11-08T10:43:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Singapore Launches National Programme for AI in Finance"
-    excerpt: "Singapore has committed an additional $180 million to boost AI research as part of its plan to apply the technology to improve financial services"
-    publishedDateTime: 2021-11-08T09:15:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/singapore-launches-national-programme-ai-finance"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 56
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/singapore-city-centre.jpg.png?itok=hxuSX9w_"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Companies Are Using Artificial Intelligence to Tell if You’re Lying"
     excerpt: "But when the upstart insurer earlier this year said on Twitter that artificial intelligence analyzes these videos for “non-verbal cues” that may suggest fraud, the company received a barrage of angry messages on social media. “There’s a wide range ..."
     publishedDateTime: 2021-11-09T17:23:00Z

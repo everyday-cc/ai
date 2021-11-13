@@ -57,22 +57,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Harnessing the Potential of Voice AI in BFSI and Contact Centres"
-    excerpt: "Voice-enabled AI CX delivery platforms can merge the best of AI and human capabilities resulting in seamless CX that reaches the hinterlands."
-    publishedDateTime: 2021-11-08T10:15:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/harnessing-the-potential-of-voice-ai-in-bfsi-and-contact-centres/articleshow/87584704.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/harnessing-the-potential-of-voice-ai-in-bfsi-and-contact-centres/amp_articleshow/87584704.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/harnessing-the-potential-of-voice-ai-in-bfsi-and-contact-centres/amp_articleshow/87584704.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/msid-87584701,width-640,height-480,resizemode-7/raghu-ravinutala.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities industries"
     excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
     publishedDateTime: 2021-11-11T14:01:00Z

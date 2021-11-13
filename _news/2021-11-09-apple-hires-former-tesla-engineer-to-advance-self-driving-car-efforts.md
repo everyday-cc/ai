@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/apple/2021/apple-hires-former-tesla-engineer-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2021/apple-hires-former-tesla-engineer-to-advance-self-driving-car-efforts/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: pymnts.com
@@ -43,15 +43,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Apple hires former Tesla executive to work on self-driving software - report"
-    excerpt: "Apple has hired Christopher Moore, a former engineer at Tesla, to join its self-driving car operations, Bloomberg reported, citing sources with knowledge of the matter. Apple declined to comment on the matter. Moore will work on software and report to ..."
-    publishedDateTime: 2021-11-08T10:38:00Z
-    webUrl: "https://www.telecompaper.com/news/apple-hires-former-tesla-executive-to-work-on-self-driving-software-report--1403363"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 16
 
 secured: "Fgfe7lMa9GYUI5SRcn0DEB8Zkg6zY2FQ+46uDvmRPV0yNGhLiQ+z2XguGbN1uRtArMv/br8gQ04oR8ygHHojS/ks6uD6dvPVyhVZgE9MT1VnRXGMXD9VN2S+kqT8OM8As+j7l5rk+o8ZoMO1zViomShM1eWeP9pKfope8eOgrtYIfLhHylsK+rD94oFeFYK2Eppx+Hvk9wlBlqUhddVHI1Lsof4UQXpujapiy7gyXW+eYPPi4i6s0xhCmHN1kukjfq3ebtQkX1boVToCJmYPQE71/YsBIsMbi9YzzqQBinMZv6JMOlviNcvDCJhR5+rUH6vICFvnNXalwUt5u2cLXoWLtcVZnjIQ2H+lVIwhc6ULo+U8rhcH5qRFlCZbeR8qWQtELUVxNZv4l95edNJEKh8n5Cb1w+3Qx8xMNFwZ8MnHzw0kHWnGixqBZ8BglysSpZKa1oEmSD8RlI60iTLPmuGOJUwqz5TLAhhENOUm97C6dmGHgexEiGekHzf8na/vZtCaHZdEboK6H8Gfgx6zig==;61p0QWK+zeHMcTnM5O5uzw=="
 ---

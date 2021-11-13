@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/legaltech-artificial-intelligence-m
 webUrl: "https://www.linkedin.com/pulse/legaltech-artificial-intelligence-market-next-big-thing-nilesh-musale"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 900
     height: 330
     isCached: true
+
+related:
+  - title: "LegalTech Artificial Intelligence Market 2021 by Key Countries, Companies, Type and Application Market 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for LegalTech Artificial Intelligence Marketfor 2021 till 2030. Report f"
+    publishedDateTime: 2021-11-09T12:46:00Z
+    webUrl: "https://menafn.com/1103129317/LegalTech-Artificial-Intelligence-Market-2021-by-Key-Countries-Companies-Type-and-Application-Market-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?539080"
+        width: 376
+        height: 250
+        isCached: true
 
 secured: "yM1+JqRSyMHaiN3ENTA6IYMbgzVpE3bwBZ7Cw72+UvYILZzDJf/g5TvaTGfR0K1yAgNpmAYUwSSQzRjPI76KKCs8Rbe1gmx7LAPvbZxDY88ZpJ1iLcc7HpA/FpKQkI7qtIAxEkIB4L22K5pmhyT7Icy2pyvVWc8TlnBjjq9W1WlxsbQf5PawekpXqL2rxwfWbmSWG+mUbD0cof0w+AstN+rdYY7NZfoCewLzHtXZ9CXKWLQ35JOG3aWuE+AVa0HR789p22ednH2yrUI1XaLd0apKnWg0h0X9Uincie53ezYHUyZ7cRXjPH+GqX/pgBK0invCS56ok2gzZb4tpu0fGziy4YTxGtCSu3T+IWPhnAf0j3J1us08UCCPBiP7P+YdRcWIXsizDfD4hRl6TIgrPKOU1+NdPdIiWnJMW3S452y6f6zkXGNeAmjJO3ouYduBdM5QnKnnfXPyv8gwiDv9pnXt5+tmN/9yCo6Mv/MMqbPq5cWlHCgl6GL7iQh1QnSphhxydN0VvLi0cnYk2mtQBw==;kqdVr/+iAzfIumgsLZ7Psg=="
 ---

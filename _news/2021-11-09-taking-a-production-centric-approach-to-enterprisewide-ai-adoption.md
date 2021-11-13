@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Harnessing the Potential of Voice AI in BFSI and Contact Centres"
-    excerpt: "Voice-enabled AI CX delivery platforms can merge the best of AI and human capabilities resulting in seamless CX that reaches the hinterlands."
-    publishedDateTime: 2021-11-08T10:15:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/harnessing-the-potential-of-voice-ai-in-bfsi-and-contact-centres/articleshow/87584704.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/harnessing-the-potential-of-voice-ai-in-bfsi-and-contact-centres/amp_articleshow/87584704.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/harnessing-the-potential-of-voice-ai-in-bfsi-and-contact-centres/amp_articleshow/87584704.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/msid-87584701,width-640,height-480,resizemode-7/raghu-ravinutala.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Scaling enterprise-grade AI: A study in cloud-based AI for automation"
     excerpt: "From cloud chaos to cloud clarity.” We hope you enjoy this article. In the next several years, the cloud will move the needle for AI from being experimental to becoming an enterprise-wide presence. The two technologies will complement each other."
     publishedDateTime: 2021-11-11T20:44:00Z

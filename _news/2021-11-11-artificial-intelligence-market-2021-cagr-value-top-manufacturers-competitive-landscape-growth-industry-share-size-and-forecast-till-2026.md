@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Education Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027"
-    excerpt: "Nov 07, 2021 (CDN Newswire via Comtex) -- MarketsandResearch.biz has recently published a report titled Global Artificial Intelligence (AI) in Education Market 2021-2027 which assesses dynamic factors, growth determinants as well as information on segment ..."
-    publishedDateTime: 2021-11-08T09:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-education-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-11-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence (AI) Chips Market Size 2021: CAGR Value, Top Manufacturers, Industry Share, Growth, Supply Demand and Forecast till 2026"
     excerpt: "Global “Artificial intelligence (AI) Chips Market” research report provides strategies for company to deal with the"
     publishedDateTime: 2021-11-09T10:15:00Z
@@ -77,20 +63,6 @@ related:
         width: 563
         height: 743
         isCached: true
-  - title: "Computer Vision Market 2021 by Segmentation includes Type, Applications, Channel and Forecast to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for  Computer Vision Market  for 2021 till 2030. Report"
-    publishedDateTime: 2021-11-09T06:42:00Z
-    webUrl: "https://menafn.com/1103126142/Computer-Vision-Market-2021-by-Segmentation-includes-Type-Applications-Channel-and-Forecast-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?55638"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Global Artificial Intelligence in Agriculture Market Report – Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026"
     excerpt: "United States OR Poland Big Market Research recently published a report on Global Artificial Intelligence in Agriculture Market to its research database This Global Artificial Intelligence in Agriculture Market report analyzes the comprehensive overview of the market comprising an executive"
     publishedDateTime: 2021-11-12T03:08:00Z
@@ -107,33 +79,19 @@ related:
         width: 800
         height: 374
         isCached: true
-  - title: "LegalTech Artificial Intelligence Market 2021 by Key Countries, Companies, Type and Application Market 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for LegalTech Artificial Intelligence Marketfor 2021 till 2030. Report f"
-    publishedDateTime: 2021-11-09T12:46:00Z
-    webUrl: "https://menafn.com/1103129317/LegalTech-Artificial-Intelligence-Market-2021-by-Key-Countries-Companies-Type-and-Application-Market-2030"
+  - title: "Artificial Intelligence In Diagnostics Market - Global Forecast to 2028: Growing Strategic Alliances Amongst the Healthcare and Technology Giants - Re"
+    excerpt: "The \"Global Artificial Intelligence In Diagnostics Market Size By Component, By Technology, By Diagnosis Type, By Geographic Scope And Forecast\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-11-09T11:04:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=562293"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?539080"
-        width: 376
-        height: 250
-        isCached: true
-  - title: "Worldwide Payment Processing Solutions Industry to 2025 - Rising Financial Inclusion Across the Globe Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The “Global Payment Processing Solutions Market (2020-2025) by Payment Mode, Vertical, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-11-08T14:52:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-48a70fd80c7c482f8f99238f0583b347"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "N3yxm+K05k2G5l3dSrSjyWpcQtDX7WygefRX1pShRjyK0xcuA3JOE4gpaOeRe4YGgNPqqyTkGMtA8oTTYBKHhNd1mDoXJnkpJQo4zguhoxNOXYp/pOe8ca5oyV/hdUQG/+mfSFRYavZudzEKOpwokTulRaVrCGVRldZVBZ1+8q3xRPXEieReF0PObFVR7pe7rLvhqI9lHNojKpbdMSW61DE/AFUbgbZme1aE+ShBy2ur4uLMbMeqWij5E1vxyA93Uv13O3vd/XYOhk8gYrJoB9jyJ7umU1NY+A7Mg4r/aiKD8Y0QPjmVxeV1PkIdqssbMXCuEjL0NjW/yUKcu4lX+DIUICa214ODkdMRetqHyV4=;O02dLDzQ4egaWHmW6q0l8A=="

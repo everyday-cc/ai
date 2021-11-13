@@ -39,36 +39,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Human in the Loop for AI in Healthcare"
-    excerpt: "The future of AI technologies in the healthcare sector in India seems bright, as there is a strong need for volume, scale, and accuracy, along with lo.."
-    publishedDateTime: 2021-11-08T10:43:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/human-in-the-loop-for-ai-in-healthcare/87585233"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87585233,imgsize-1131636,width-1200,height-628,overlay-ethealthworld/human-in-the-loop-for-ai-in-healthcare.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Singapore Launches National Programme for AI in Finance"
-    excerpt: "Singapore has committed an additional $180 million to boost AI research as part of its plan to apply the technology to improve financial services"
-    publishedDateTime: 2021-11-08T09:15:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/singapore-launches-national-programme-ai-finance"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 56
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/singapore-city-centre.jpg.png?itok=hxuSX9w_"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Singapore launches national AI programme in finance"
     excerpt: "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,"
     publishedDateTime: 2021-11-10T02:37:00Z

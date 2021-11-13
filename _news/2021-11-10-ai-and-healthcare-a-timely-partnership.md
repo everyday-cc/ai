@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-healthcare-timely-partnership-ra
 webUrl: "https://www.linkedin.com/pulse/ai-healthcare-timely-partnership-raju-kumar"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232578"
         width: 261
         height: 250
+        isCached: true
+  - title: "Today in Healthcare: Peloton Gets Into Connected Strength, Improving the Patient Experience, GoodRx’s Growth"
+    excerpt: "Today in healthcare, Peloton joins the connected strength market with its AI-enabled Peloton Guide, GoodRx shares its prescription for growth, and more."
+    publishedDateTime: 2021-11-11T23:10:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/peloton-gets-into-connected-strength-improving-patient-experience-goodrx-growth/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/peloton-gets-into-connected-strength-improving-patient-experience-goodrx-growth/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/peloton-gets-into-connected-strength-improving-patient-experience-goodrx-growth/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 40
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/today-healthcare-peloton-goodrx-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "AI Journey discusses digital healthcare"
     excerpt: "Digital healthcare technology evolved fast before the pandemic: the industry would use many designs like smart watches, disinfection robots in clinics, and bioprinting robots, AI for drug development and repurposing,"
