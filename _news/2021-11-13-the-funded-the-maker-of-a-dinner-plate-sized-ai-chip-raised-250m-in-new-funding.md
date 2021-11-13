@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI pioneer Andrew Ng’s Landing AI raises $57M in funding"
-    excerpt: "Landing AI Inc., a startup led by artificial intelligence pioneer Andrew Ng, has raised $57 million in funding from a group of investors that included the venture capital arms of Intel Corp. and Samsung Electronics Co."
-    publishedDateTime: 2021-11-08T20:42:00Z
-    webUrl: "https://siliconangle.com/2021/11/08/ai-pioneer-andrew-ngs-landing-ai-raises-57m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Andrew-Ng.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "rct AI Closed Series A-3 Funding"
     excerpt: "Nov 9, 2021--rct AI, the provider of AI solutions for the video game industry based off LA, has announced completion of $10M+ Series A-3 funding led"
     publishedDateTime: 2021-11-09T15:03:00Z

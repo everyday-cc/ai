@@ -1,46 +1,36 @@
 ---
 category: news
-title: "The metaverse is Big Brother in disguise: Freedom meted out by technological tyrants"
-excerpt: "Welcome to the Matrix (i.e. the metaverse), where reality is virtual, freedom is only as free as one’s technological overlords allow."
-publishedDateTime: 2021-11-12T04:05:00Z
-originalUrl: "https://augustafreepress.com/the-metaverse-is-big-brother-in-disguise-freedom-meted-out-by-technological-tyrants/"
-webUrl: "https://augustafreepress.com/the-metaverse-is-big-brother-in-disguise-freedom-meted-out-by-technological-tyrants/"
+title: "Why Facebook’s Metaverse Is A Privacy Nightmare"
+excerpt: "A metaverse largely run by Facebook—sorry, Meta —doesn’t sound like fun to me. With Facebook’s ambitions to create hardware and other technology for the so-called metaverse, it means more sensors in people’s homes,"
+publishedDateTime: 2021-11-13T10:30:00Z
+originalUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/"
+webUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/"
+ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/amp/"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 74
+heat: 134
+published: true
 
 provider:
-  name: Augusta Free Press
-  domain: augustafreepress.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://augustafreepress.com/wp-content/uploads/2021/10/smart-home-technology-phone.jpg"
-    width: 400
-    height: 267
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618d3c8ceb86a5dd23bd96b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3542%26cropY1%3D179%26cropY2%3D2172"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "Why Facebook’s Metaverse Is A Privacy Nightmare"
-    excerpt: "A metaverse largely run by Facebook—sorry, Meta —doesn’t sound like fun to me. With Facebook’s ambitions to create hardware and other technology for the so-called metaverse, it means more sensors in people’s homes,"
-    publishedDateTime: 2021-11-13T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/"
-    ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618d3c8ceb86a5dd23bd96b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3542%26cropY1%3D179%26cropY2%3D2172"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
     excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
     publishedDateTime: 2021-11-09T20:05:00Z
@@ -115,7 +105,21 @@ related:
         width: 1200
         height: 552
         isCached: true
+  - title: "The metaverse is Big Brother in disguise: Freedom meted out by technological tyrants"
+    excerpt: "Welcome to the Matrix (i.e. the metaverse), where reality is virtual, freedom is only as free as one’s technological overlords allow."
+    publishedDateTime: 2021-11-12T04:05:00Z
+    webUrl: "https://augustafreepress.com/the-metaverse-is-big-brother-in-disguise-freedom-meted-out-by-technological-tyrants/"
+    type: article
+    provider:
+      name: Augusta Free Press
+      domain: augustafreepress.com
+    quality: 17
+    images:
+      - url: "https://augustafreepress.com/wp-content/uploads/2021/10/smart-home-technology-phone.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
-secured: "ekQM2deykqlhmbvHICZQRGBDbRa/7Q1yr8G6/+QculD9B/gD18R6IpoE0/PNKsf+N2T+5Q5BsAW6W73HKmBBbTNlxINkljwVpNX7yHOthdieXVuG+g7sOM3Z/rocxcbjajcgBw1UhZNUgyAbgwLYxLx4LqKeBRzF24ipEw2QvK+zmBwPWC/6Ll9Ndl5oi5kYhoibh/nzs9HUND2E2uh+UDRBLlBG53ypB4hquRXTMB/IhqDF1PBVVoIdIov4vKuL39ICWfutqDMGG2GZkc4hU+dXpEv3CRLB3sIEIBbI9a5wbdGSOBkA21H0dA3asWo7X60UEtpXIK4LGYeR2k5NpTkaTf74PuMcfs32gEOKWUMSJTNXAFQ4TvfKnpVLMWwRszVzyNMJX5nIjb7dGlDJZpAeVKTmrYVIXV/ClHifsPPhTAg/Y9UFfpmer4lm5ldU1V9lHQpBnRiq4eQhLSkQ64Gq/UU7MEXUOOS3LoCTjng7uU0a+QSggXGKRzsloCST8Y9v4Y/wY/sxupW+MYaeng==;qgeXEQHY2DmtflV99Tgu8g=="
+secured: "oJFmtj2pdV5ihZC+AUCQe9KFTUk2247hr/OOyqg9uTAVxKPo5Hlg5K1U8VB5zsCrIhf5oYmThizmZEaMv94wpUg2TFMHwYRsEghbYCGCwPwxk1I4IKsyWgjTFMixjIMuhZn/ZtLPWutXTOElT7X4cFPQOho+2LukrfJO8tFJ7bi+ee1Oif+2FPo7tO7u94X5eEYs0hB+MM8+JFs/RSXQC6zhPoJjuxa3AD/nsUy2+FBOE10DZ8SJadm/sxIFCN7r+cvYK3T9n0i2axMFEaglJDlZVUGgatNbvlaychY2aOXsYjGphp7sHcjNJFIBr6sRb5HSqeg3yZXjWDP1zC3Qij7AGV+zJCeVM9ZbpU/U0wg=;BCgQOt9YxIbtBo46xSqDOw=="
 ---
 

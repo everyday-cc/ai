@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Facial Recognition Marches Forward, No Matter What Facebook Says"
-excerpt: "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore—and facial recognition has become an increasingly toxic concept in many circles."
+excerpt: "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore —and facial recognition has become an increasingly toxic concept in many circles."
 publishedDateTime: 2021-11-11T09:00:00Z
-originalUrl: "https://news.bloomberglaw.com/private-equity/facial-recognition-marches-forward-no-matter-what-facebook-says"
-webUrl: "https://news.bloomberglaw.com/private-equity/facial-recognition-marches-forward-no-matter-what-facebook-says"
+originalUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system"
+webUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg Law
-  domain: bloomberglaw.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/4d481d4/2147483647/crop/3986x1532%2B9%2B299/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F94%2F00%2Fe444ed8b4a88a3a7698556a9bfed%2Ffacebook.jpg"
-    width: 960
-    height: 369
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iasNo_27kiKU/v0/1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -68,6 +72,6 @@ related:
         height: 800
         isCached: true
 
-secured: "/2MUS+rgUhAE63Dldf7uCYejOaJ2TaaES6zGWTLetC90+WSnaAOnJ4CEbw1Vrpw2I4eOSwajIPHAIf+/B7DI1XIH6kwz+8sQ8MqwwbKQrFiK/EOuPtBAP9GHf9PJeHWp+uNlcfn3yDnxOzP23LDrEuGM6gzL/FxV4i+/jVERDXHLVYXEApl70XPl2Lc8MAgcLJFbeJqX2W6531Sn2lXp97CdB8pvSa6yHhO84wtFhQ65Sf+REHY1n9PrFNZJRDzoMCkgrvvAcZkPEsPB8e/L8AADB/ocyD9tc50JDj5jPI4glYbEYjXnkXCAGaUFakxCZpFL2iE7ocZs9KUkhbd6v3/rprsJt09EwS+3uU/hGGY=;EQsnM4al3irUBRhvL89wbA=="
+secured: "qEf3F7qjYCGGpcapsbtfB43nvS+TF+rGrSR1bfn2zESW9RPYHKcnIsszr928ZvNnGhgI9CxZt4Y69Kyx0C/5/zAkazROIKyrpPeZrEE7H7LkEMgiOH9Y5vkA8Xy9lTD9VTB71QDWy44Nc+/B8doJBmaBMsyrFufmNrh+b3wjstVhz4Zf4CyxSObbtYhL9INksIcw4TxDyVHs6ixoXONhIo8RetrGJkus/EjgkTLnK0ESVr/BiNHdU+vf/bZjsdZ3rn0PBGvPnTUcC1M6VtE6vK+aKGnUDd2J3LAjulPGsKInKkBqIpOPqFCbut3l5EuSjO6KEZpaFNEXJbiDcRdZynjdKtEBH+c9yZuN125wGok=;j//qzLE4hEEOFNnDyA9PvQ=="
 ---
 

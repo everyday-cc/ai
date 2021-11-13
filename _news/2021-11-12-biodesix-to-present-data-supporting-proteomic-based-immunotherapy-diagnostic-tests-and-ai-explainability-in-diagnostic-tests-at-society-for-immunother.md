@@ -34,6 +34,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
+  - title: "Biodesix to Present Data Supporting Proteomic-Based Immunotherapy Diagnostic Tests and AI Explainability in Diagnostic Tests at Society for Immunotherapy of Cancer Annual Meeting"
+    excerpt: "Biodesix, Inc. (Nasdaq: BDSX), a leading data-driven diagnostic solutions company with a focus in lung disease, today announced that the company will"
+    publishedDateTime: 2021-11-12T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211112005419/en/Biodesix-to-Present-Data-Supporting-Proteomic-Based-Immunotherapy-Diagnostic-Tests-and-AI-Explainability-in-Diagnostic-Tests-at-Society-for-Immunotherapy-of-Cancer-Annual-Meeting"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "BVIhsSZgm50jWKek6NtVzu1eTQJIc7bbvhOl5R7/5fAJVz7F1QwQEBghxvDX3Ajq0H99VrnEO8FRqqYP/I8Bbu5uy5Iu80zqqw0Fb0okBRjDhi9+vXIB6ew6+QTWe+hD1vhq3toEd/+DRX7bX23xQZ82zrkkqD19SoTuQr+xDWvi6xzHQNYRIWp9QrV2u7bgtYrMEu/VGUUO5RsFJX8HeHHYPFg/dPi7e4LiOkKHYRjneS8Jf4KonqU2LY/cA4OTuzZ8/gN8BrRS/xfTZnZyKrIizr59g8K3U4y4QoQyabTKLevYzgMcoiteK1KfLZmBbywwFogvq9fAUXOj2gXkiMAqwVrm1/GWPiTtnFIsGsY=;R3sD/nfnPB/tAQ7opGb57A=="
 ---
