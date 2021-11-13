@@ -8,7 +8,7 @@ heat: 78
 twitter:
   username: jeanliuqing
   url: https://twitter.com/jeanliuqing
-  followers: 1404
+  followers: 1405
 
 weibo:
   url: https://www.weibo.com/u/2209030102
