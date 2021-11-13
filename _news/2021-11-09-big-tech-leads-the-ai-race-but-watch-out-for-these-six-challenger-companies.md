@@ -7,7 +7,7 @@ originalUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the
 webUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -27,39 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Stocks: The 10 Best AI Companies"
-    excerpt: "AI stocks may be excellent long-term investments. The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. From machine learning to"
-    publishedDateTime: 2021-11-08T16:00:00Z
-    webUrl: "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/"
-    ampWebUrl: "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/amp/"
+  - title: "Revealed: The food companies leading the way in artificial intelligence"
+    excerpt: "Food companies are keen to show off their AI prowess but which are driving their industries forward through the use of this technology?"
+    publishedDateTime: 2021-11-11T17:13:00Z
+    webUrl: "https://www.just-food.com/features/revealed-the-food-companies-leading-the-way-in-artificial-intelligence/"
     type: article
     provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 64
-  - title: "3 Best AI Stocks to Buy Now for 2022 and Beyond"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) stocks continue to gain traction among growth"
-    publishedDateTime: 2021-11-11T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-ai-stocks-to-buy-now-for-2022-and-beyond-1030964474"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "In this tech-driven world, investing in AI stocks is considered a smart choice for long term profit"
-    excerpt: "In this modern world, the rise of artificial intelligence (AI), robotics, and automation are disrupting virtually every significant industry and business. Here are the top 10 AI stocks to buy this November."
-    publishedDateTime: 2021-11-12T09:14:00Z
-    webUrl: "https://www.analyticsinsight.net/profit-alert-top-ten-ai-stocks-to-buy-this-november-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 25
+      name: Just-Food
+      domain: just-food.com
+    quality: 37
     images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Top-10-AI-Stocks-to-Buy-This-November.jpg"
-        width: 900
-        height: 500
+      - url: "https://www.just-food.com/wp-content/uploads/sites/35/2021/10/shutterstock_1952331001-scaled-e1634642677805.jpg"
+        width: 2000
+        height: 1334
         isCached: true
 
 secured: "pY/zPtl356irrjisgIzCllB7RLeLP7yT3SceUWZPSHkU6RbPcwLkfh9L01faApk/9CpdH71Ijy0u8rW1hqwWlydqsvNK5z/h5XfpQjYDKKMNo4V91UxtKmOvyAIU0mKs3DMG3EvWpha6pjLIrOHzS2ZPih1+cID4Z9UT8m8v1+Gcs1BKL3zkJgPbLAqzRf2yTEkzTf8vQXF75YnPm5zGoCn5+gKPXWlgasKz8JBFJk8tn0Pd7x5EdU58BlsPjriMKcJ0rV6hDoKCv2YYzRub5pfEvSjJZODBuGnuS7ipAQcCKcMLIdOiADxoWkzqicQKRft4UuLe55KsiRQQH0B4HsnjhnMjN4+97O8bLsBirA73wNXQ8kWCE5+ff+ib3CvpeapkegSqKSdvoq7f96jym0AJofWHTtM8ZMM/ecXMCXtzuVHg5C3PgQuv+HRmExpMwOwleg9XQyWrPb0XWvjfOXmYJLJiASNYb5sf1wfthROL7hbKJ4xerZHZjqaTjxKGG+UAkJ3DZvk6m+rUYS9KCw==;DAScqLfaPolpPqj7cLCZYQ=="

@@ -32,7 +32,7 @@ related:
   - title: "The Impact of Artificial Intelligence Is the Subject of White House Inquiry"
     excerpt: "This article reviews a recent initiative by the White House Office of Science and Technology to gather information and public opinion on the deployment of artificial intelligence."
     publishedDateTime: 2021-11-08T17:30:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2021/11/08/the-impact-of-artificial-intelligence-is-the-subject-of-white-house-inquiry/"
+    webUrl: "https://www.law.com/legaltechnews/2021/11/08/the-impact-of-artificial-intelligence-is-the-subject-of-white-house-inquiry/"
     type: article
     provider:
       name: Law

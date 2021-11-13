@@ -71,6 +71,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "We studied suicide notes to learn about the language of despair – and we're training AI chatbots to do the same"
+    excerpt: "While the art of conversation in machines is limited, there are improvements with every iteration. As machines are developed to navigate complex conversations, there will be technical and ethical challenges in how"
+    publishedDateTime: 2021-11-13T07:34:00Z
+    webUrl: "https://www.econotimes.com/We-studied-suicide-notes-to-learn-about-the-language-of-despair--and-were-training-AI-chatbots-to-do-the-same-1621218"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 19
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20211112a090b30038bed07ef_th_1024x0.jpeg"
+        width: 496
+        height: 329
+        isCached: true
 
 secured: "d9IJ/suMc9vJnS+EaoJo4XvFjjYdYL2Zk/Ixa+tw02zQuekQjbvlWGyHGFLDgaxgYU7/mnMD+/DRFJg9ptj43+gwUpeQENkSdEzXy8jOfqYVnhFphCtzv+itLoajcbb8+hsdIuDks5tgR0uTe5rQ4KbncK+/mZ2u55wjuzkHqHJIVs/yjNBiI6Xu3RlTok15WWD17EqNtn7choCCCCczTOybQWPv9REgkUn4ZYS5wp+HPgrqZ/9ipHst7zmCWrJ0Q+4h80uHRSm/2jcJOix50o45wVI23D8ZuiOryeO451MHomBTcFmcwS7iDiQss+jurw2yv2o6KLlLL+INUbVat9WbCimkR/EVoI61JIrGEEeVNa7AuRebz71f8CRcmGifNWLaKjRM0EP6uFI+vwSS7cKK8t7nCH/Hnd4E/VNeIil+yL16aAYLZbwYCgyiz+7r6Duif8HgTz/5zEUgPoTTpTNJK6JyssFWjh42LNFlO12ji53MaopjhtQZRWs/AyothYhcy4pyOmJFOp8UQ4AOog==;xfgfaKwgJbkWSSrUqJaOtQ=="
 ---

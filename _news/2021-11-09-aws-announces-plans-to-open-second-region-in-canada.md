@@ -6,9 +6,6 @@ publishedDateTime: 2021-11-08T16:54:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-plans-to-open-second-region-in-canada/article_3e90a1cf-25c0-5307-bb52-1d31149706c2.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-plans-to-open-second-region-in-canada/article_3e90a1cf-25c0-5307-bb52-1d31149706c2.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Joplin Globe
@@ -24,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ujXsZR4tl66qSyKyhgJpkvv3WxmcGEHOx89lUBLmYoQeKHhwcE27dOikt1fQQPf6rSr9KcHOQIE4iuTp3mv3Tr7kogWzraY6Pjrnm4v8/+QeQ6bNyV5hzblMMJWGBTrM2QlBmOYWXgILTyFWcU7g6xmqzKyuLaYcwj1XZARkbEcL2LceB6QWz+UZv+01J1UOqBQTvnBOxSTfCeQtTE0SLbiaNwJZwY6OVsNGlQiatHL4oiZ1IGzIcWBwf8cU1CE5/+9MmNKYZ+gIGssA5CCHzjPF28HV1otYW2zRZfuyU87o1ruyO5FBNrVm/yC8N7CPMGsaXreUiQQ0zxY3BbLDlmyCgUiDnl2ifkPpR7kA+Fk=;JbfO9DigmBbbJ0Uybu19qw=="
+secured: "b14UX8Z9yMyu6F7T9LQYRk9DenMQhSSKcDR5gBjqmMg2TUqS7laLsNfo6khh3ddpyXzlFa5V29GQDNSUadh/5mKSQ/SuTFnjdhwroYWC9G/8sopvpGU/zD2gYHkoYEhG2WlloNaWlhnUEAm91wfmEjfYgIJ1RDhuAMMlNtisF34Q0vmdNvQ15W1gI6h3RbvmlV0CI0JBLAGaYhkGTbtG2FWqYycd6SiykdJuEcjHs3RELq3UwPf6tCB4vUrYEIRHjWAK/05Th+3dwhGOFQR84lLhuQFRhE9Hhrn1NujhrjAM6vwoJ+d5cLgAx/sGM/YFb52PCSVm+WB7tA/kn3MrC+ZjWeJBUQEfygxIrNegVy8=;jIZy96aaKlFo3YuZx1hh2A=="
 ---
 

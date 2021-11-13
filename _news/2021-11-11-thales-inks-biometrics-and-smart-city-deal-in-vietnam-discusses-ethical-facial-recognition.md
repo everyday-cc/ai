@@ -54,20 +54,6 @@ related:
         width: 1640
         height: 800
         isCached: true
-  - title: "Apple patents: mask fix for face biometrics, gestures in video conferencing"
-    excerpt: "The document describes an automated ‘switch’ between a full-face facial recognition authentication process and partial face facial recognition authentication."
-    publishedDateTime: 2021-11-08T15:53:00Z
-    webUrl: "https://www.biometricupdate.com/202111/apple-patents-mask-fix-for-face-biometrics-gestures-in-video-conferencing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/11/19160900/face-mask-iris-recognition-scaled.jpeg"
-        width: 2048
-        height: 1280
-        isCached: true
 
 secured: "zm5wLkqtAAY6idStF+6L1vZYNgrNllKSBNZ6OgNpG2e341IXVxjsqVYtgHp9YPYX/7xEnsXJzwpbaEQar6T87wRPwaKvKzY+gRFMXKa9GRmqBatUMUliye/kGcssjEkzLVqPCm3sNVqtssxqiBItHbDZYDcY1uF/FAj35t/KmKz7ky7bRDEFZA2kb5IToDz5ZAsnFSvzz6GCHm/1p8ZIHQJO3MVUfk5gnUXBzXWPyS4Wqry1GD1I6/KT7GQ4HqqjiOzEZMvARhyuzJhlEiON1Bferudj2KKiwTJPXAk5bdX3M4eIf+Z1OF+BZdWEEPIvWTYpk53sj3zAFtdd19lebMmnpJ+egRJDuswXIc2/mRCsDP6Nx66go0H3GbBl/cz7KwXmEdJDwkeaNhxcPyy/mGNxdB2TW0QWLQuY2le/R8N6SPECjBwpR49h50CpvaUicdfFhQJbtvXp/22gENLnqe1/8elvE4WFRlf7/dwynUeGS6mTH41qsg4HybssPxGXAW0lDggS4dGmLDBC3lUWnA==;xIUFAh2eN6i+IeJ8MPMc8A=="
 ---

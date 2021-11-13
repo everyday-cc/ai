@@ -2,6 +2,41 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-13-roadblocks-to-autonomous-security-robots.md",
+      "title": "Roadblocks to Autonomous Security Robots",
+      "excerpt": "There are concerns regarding the use of fully autonomous security robots which may get in the way of bringing them to market. Whether those concerns are legitimate or not may impact how quickly robotics will be adopted for security purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/story/2021/09/roadblocks-to-autonomous-security-robots/17437/",
+      "originalUrl": "https://www.roboticstomorrow.com/story/2021/09/roadblocks-to-autonomous-security-robots/17437/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-attabotics-appoints-cyra-richardson-former-microsoft-and-amazon-executive-and-leader-as-cto-and-cpo-adds-former-softbank-robotics-vp-julien.md",
       "title": "Attabotics Appoints Cyra Richardson, Former Microsoft and Amazon Executive and Leader, as CTO and CPO; Adds Former SoftBank Robotics VP Julien Seret to Lead Network Supply ...",
       "excerpt": "She incubated Microsoft’s initial AI offerings, including Azure Cognitive Services and Azure Bot Services, to market into SaaS offerings. Cyra also played a significant role in many of Microsoft ...",

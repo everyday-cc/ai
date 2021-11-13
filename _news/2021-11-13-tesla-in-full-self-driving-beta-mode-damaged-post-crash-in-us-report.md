@@ -105,38 +105,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Tesla Self-Driving Update Caused Cars to Behave Dangerously"
-    excerpt: "It’s not every day that Tesla decides to contact regulators about a serious issue with its self-driving software. Late last month, Tesla reported an issue with its Full Self-Driving software to the National Highway Traffic Safety Administration (NHTSA),"
-    publishedDateTime: 2021-11-08T16:09:00Z
-    webUrl: "https://futurism.com/tesla-update-cars-dangerous"
-    ampWebUrl: "https://futurism.com/tesla-update-cars-dangerous/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-update-cars-dangerous/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2021/11/tesla-update-cars-dangerous-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
-    excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
-    publishedDateTime: 2021-11-13T05:10:00Z
-    webUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
-    ampWebUrl: "https://www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/11/13/1121601-tesla-car.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Tesla in “Full Self-Driving” Mode “Severely Damaged” in Crash"
     excerpt: "A Tesla Model Y was “severely damaged” after crashing into an oncoming vehicle while reportedly operating with the controversial Full Self-Driving (FSD) Beta active, The Verge reports. The crash could likely be the first serious incident involving FSD,"
     publishedDateTime: 2021-11-12T17:09:00Z
@@ -153,6 +121,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla in ‘Full Self-Driving’ mode damaged after crash in US"
+    excerpt: "The crash was reported to the National Highway Traffic Safety Administration (NHTSA), which has multiple, overlapping investigations into Tesla's Autopilot system, reports The Verge."
+    publishedDateTime: 2021-11-13T06:15:00Z
+    webUrl: "https://telanganatoday.com/tesla-in-full-self-driving-mode-damaged-after-crash-in-us"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 39
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/11/Tesla-in-Full-Self-Driving-mode-damaged-after-crash-in-US.jpg"
+        width: 1200
+        height: 650
+        isCached: true
   - title: "Tesla’s recent Full Self-Driving update made cars go haywire. It may be the excuse regulators needed."
     excerpt: "The National Highway Traffic Safety Administration previously asked Tesla for increased transparency around updates."
     publishedDateTime: 2021-11-08T18:22:00Z
@@ -167,15 +149,6 @@ related:
         width: 1440
         height: 890
         isCached: true
-  - title: "Tesla's Full Self-Driving update made cars go haywire. Here's the impact"
-    excerpt: "The EV maker appears to be adjusting to scrutiny from federal safety regulators and negative publicity about some of its practices."
-    publishedDateTime: 2021-11-08T15:18:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2021/11/08/teslas-full-self-driving-update-made-cars-go-crazy-impact-tdn/6337764001/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 18
 
 secured: "UHQHmLj0RJLeP1yYnbXQH0z15/SfYQh7ssxZg8qYbgbR8rQGVLdFvCWvm4rGPkv2fr+NGHyTaq8xPAXMnroAIrjW10JFT6t0D/U66YG2bFd9ZMzsR7rxG+ngVaI7POyXxNRydv5CQgOxRzlEs+ub0NeOt7aJP4+WdZEqP6zazYKcicxR7a7F9l9RsdMB92r7eRcDZwLK9SvHoK+h1YX+wC8koGLoULSIz00CnyOnRbXl84vcCRIrEmv6SoWHzhFVVv+pjJrJ6Ou1rWi3ynOOHHyxUnq5mP8NA6yI+UtGpb68l81vqhhJT5AHJdDr+nR67uQHNp38UQgJfgLfkxp0RfO6qF4ljwPz/7wZrPJnXLI=;yx8k8aQzU6J9H+WzO7F7YA=="
 ---

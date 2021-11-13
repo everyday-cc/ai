@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/amp/"
 type: article
 quality: 90
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 474
     height: 319
     isCached: true
-
-related:
-  - title: "Materials advancement accelerates the realization of AI technology"
-    excerpt: "Researchers in Korea succeeded in developing a core material for the next-generation neuromorphic (neural network imitation) semiconductor for the first time in the country. This is a result of a research team led by Dr."
-    publishedDateTime: 2021-11-08T17:02:00Z
-    webUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.html"
-    ampWebUrl: "https://phys.org/news/2021-11-materials-advancement-ai-technology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-materials-advancement-ai-technology.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/materials-advancement.jpg"
-        width: 505
-        height: 662
-        isCached: true
 
 secured: "oBqOUdrx4pDv+iFhWztF1/0Mot9mqmfGd6hf8cMMXhDRiBhCAdnLr6d8ijUv4orJ9tKWNcn9wLUHlVqaF5SLZ2ChQB0qFaTqF7Qj/C+AKuhPTS8uGpX48C5SusJd9/vh94auOkSzFrTVpTxQB2SeCicVxIz1/DodSgDWLEIeTA2IDrROA8CnNrrVdKg8gqcLZ2chcgOOcmrVmk2g3ADbEzhwnyKB5ctaef+mDz9hTulorKK7eSw7Pml2tpaX7UfXiF2/8oxK6yDQNh9dCcdJ+OowrXoYEelcTNkfoPvMbDYNZ3xvrSwwyI8NHmLvvErk38e2Xj+abAc3p9E97IsqcIVta4BkuM+vvOooGqY46ZFGxxYXlLm52OZjavlP++rh9dUaC2JZn3dHYYZxlepdE7K0W6Hd/LCFea1MUYAxhJZKgevYP4P42bd5i8wd2JZCY657ZIrwKTI42h3yv0c0pWhtS6MQFNTeFhLYgS6aRKIrDcQ2LPiJ1Ae16gB/KFay/lOLro4ff65j/gWfqItk5Q==;VjwAcNlH/WIH0cVtvSV6nQ=="
 ---

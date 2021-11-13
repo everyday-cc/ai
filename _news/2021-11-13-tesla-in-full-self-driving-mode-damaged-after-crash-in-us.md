@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
-excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
-publishedDateTime: 2021-11-13T05:10:00Z
-originalUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
-webUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
-ampWebUrl: "https://www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
-cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+title: "Tesla in ‘Full Self-Driving’ mode damaged after crash in US"
+excerpt: "The crash was reported to the National Highway Traffic Safety Administration (NHTSA), which has multiple, overlapping investigations into Tesla's Autopilot system, reports The Verge."
+publishedDateTime: 2021-11-13T06:15:00Z
+originalUrl: "https://telanganatoday.com/tesla-in-full-self-driving-mode-damaged-after-crash-in-us"
+webUrl: "https://telanganatoday.com/tesla-in-full-self-driving-mode-damaged-after-crash-in-us"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Hans India
-  domain: thehansindia.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.thehansindia.com/h-upload/2021/11/13/1121601-tesla-car.jpg"
-    width: 1000
-    height: 600
+  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2021/11/Tesla-in-Full-Self-Driving-mode-damaged-after-crash-in-US.jpg"
+    width: 1200
+    height: 650
     isCached: true
 
 related:
@@ -105,22 +103,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Tesla Self-Driving Update Caused Cars to Behave Dangerously"
-    excerpt: "It’s not every day that Tesla decides to contact regulators about a serious issue with its self-driving software. Late last month, Tesla reported an issue with its Full Self-Driving software to the National Highway Traffic Safety Administration (NHTSA),"
-    publishedDateTime: 2021-11-08T16:09:00Z
-    webUrl: "https://futurism.com/tesla-update-cars-dangerous"
-    ampWebUrl: "https://futurism.com/tesla-update-cars-dangerous/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-update-cars-dangerous/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2021/11/tesla-update-cars-dangerous-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tesla in Full Self-Driving beta mode damaged post crash in US: Report"
     excerpt: "A Tesla Model Y reportedly in Full Self-Driving beta mode crashed on November 3 in California and got \"severely damaged\". The owner reported the vehicle went into the wrong lane while taking a left turn."
     publishedDateTime: 2021-11-13T04:20:00Z
@@ -167,16 +149,7 @@ related:
         width: 1440
         height: 890
         isCached: true
-  - title: "Tesla's Full Self-Driving update made cars go haywire. Here's the impact"
-    excerpt: "The EV maker appears to be adjusting to scrutiny from federal safety regulators and negative publicity about some of its practices."
-    publishedDateTime: 2021-11-08T15:18:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2021/11/08/teslas-full-self-driving-update-made-cars-go-crazy-impact-tdn/6337764001/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 18
 
-secured: "0qtrrQsdZOCWf3ausQl2h9Jb1OwxfyTTrEjaDyE3FCn4m7xfM89Gv1HEJwZgAUpqg88NVAvcSvq7DiGAnjIf/jfNO0RwYMHsuoWkFXVg3V2gTWgVqm+/9NnDpRWz7W5h468lJbjTw6UwDqHsWZoBIkRaMXvqUyHdz4emI7k+gBVPbvjmXCx7BFuLEdTTxNms4xtxYOY0BeOCrdHwP79cN6tJJOL/tR1dDosDHg5t+DDC1WlTL+9i5Vo8VEJXlVT0k70jK1Wc/sQeptvZMe1xofNYUrsDNK4KuJ77PRwqPgcHuL1FcmJZ33p7t6k6dDSfq3u9OipXUZvOLMilY5bSwjSXFX/OuTMR8ZuA6SnphR8=;eHP65hIAF81jCpCLcKUoSA=="
+secured: "OXnb4O2sg0rIex0Ya/NUY2KC9mIeeFPEhJ9BFg7iI4wT0qHDp28GItSsWa7NkM1skk+LG5Ehbpcb9Apu4tHnvi/DEbMiECSZRqonUWm/1cbYO8lGnHdhQGSX0sTCMKzxRxthrMVIjZf9QsqzripsJ0WqruzqNeY97jxKLODNf98caunaTotBCyK4Y7VaGWMV7zVlScpB7XBYzwdopQ+lEqzet8uRIYWKtU4HlhpgZ7bYidasic4kOpFJn22o0OOGUEyExmLZpGfxnJOoUEvVWX2Iyxd4IWia7wF/S9q8j3AWAnj9an44A+wsB9sXm/+FRa3b714KIL+oxA3xKgd1OiEFT/4CglZEQqFp+01z7o0=;vAFKPsNP/Ps9rYWMnrIJ8g=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "How credit unions use AI to compete with fintech lenders"
-    excerpt: "Northern Hills Federal Credit Union in South Dakota is one of several institutions testing tools that can deliver faster loan decisions, an edge they need against digital upstarts."
-    publishedDateTime: 2021-11-08T16:32:00Z
-    webUrl: "https://www.americanbanker.com/creditunions/news/how-credit-unions-use-ai-to-compete-with-fintech-lenders"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/c4ecfae/2147483647/strip/true/crop/2946x1547+0+209/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F12%2Fdb%2F1da3cf1a45d3b1207114913d77ba%2Fadobestock-180950831.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hiring to scaling: 3 fintech unicorn CEOs share what it takes to build a successful company"
     excerpt: "As part of Singapore Fintech Festival 2021, three CEOs of fintech unicorns in Asia — Linklogis, VNLIFE and Advance Intelligence Group — came together as panellists to discuss the key ingredients for success that help to shape and grow a unicorn."
     publishedDateTime: 2021-11-10T09:29:00Z
@@ -80,6 +66,20 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 24
+  - title: "Seven technologies shaping the future of fintech"
+    excerpt: "In the next 10 years, seven key technologies will drive business model reinventions while shaping the competitive landscape of the financial industry."
+    publishedDateTime: 2021-11-09T10:02:00Z
+    webUrl: "https://www.mckinsey.com/cn/our-insights/our-insights/seven-technologies-shaping-the-future-of-fintech"
+    type: article
+    provider:
+      name: McKinsey & Company
+      domain: mckinsey.com
+    quality: 24
+    images:
+      - url: "https://www.mckinsey.com/~/media/mckinsey/locations/asia/greater%20china/our%20insights/seven%20technologies%20shaping%20the%20future%20of%20fintech/seven-fintech_trends.jpg"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "Meet The Winners Of The 2021 Benzinga Global Fintech Awards"
     excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
     publishedDateTime: 2021-11-10T19:28:00Z
@@ -105,6 +105,20 @@ related:
     quality: 24
     images:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/green-forest-with-technological-twist.jpg.png?itok=hnz8TRum"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Three leading fintech trends to watch in 2022"
+    excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"
+    publishedDateTime: 2021-11-11T12:45:00Z
+    webUrl: "https://fintechmagazine.com/digital-payments/three-leading-fintech-trends-watch-2022"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1322656065.jpg.png?itok=a1iWWzTF"
         width: 1200
         height: 630
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "The Impact of Artificial Intelligence Is the Subject of White House Inquiry"
 excerpt: "This article reviews a recent initiative by the White House Office of Science and Technology to gather information and public opinion on the deployment of artificial intelligence."
 publishedDateTime: 2021-11-08T17:30:00Z
-originalUrl: "https://www.law.com/newyorklawjournal/2021/11/08/the-impact-of-artificial-intelligence-is-the-subject-of-white-house-inquiry/"
-webUrl: "https://www.law.com/newyorklawjournal/2021/11/08/the-impact-of-artificial-intelligence-is-the-subject-of-white-house-inquiry/"
+originalUrl: "https://www.law.com/legaltechnews/2021/11/08/the-impact-of-artificial-intelligence-is-the-subject-of-white-house-inquiry/"
+webUrl: "https://www.law.com/legaltechnews/2021/11/08/the-impact-of-artificial-intelligence-is-the-subject-of-white-house-inquiry/"
 type: article
 quality: 35
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 387
         isCached: true
 
-secured: "irIY1uI2F4OscbBfu26MwyiOKz555zlsvjtdneFaMOlorNZrHOKAspgIapznrIiQoIZwBK8LbMvUeOAXtlv/4gdJ/A5LG6MBSt4e4CbgWMyzmLrfVkomImORwD4+Q9UrHBhfeQ/+H2gzVLELbGKoXDfu9AFgJK+xeCycsMC7SvPFmgXoWmCm2pNuEVzkVcWRGigDzVh+r3Vdl6sdn3D06m1kQqzofbzcZzLsb89HxtrOh/gKjrSOrCeO+oHjeTkmYSEJX31Z1loxp5TKEHHdSrgu/fYcrxscYDISFkgRs04xPRT0JjafFeck4mjbxolxgGXfP9VlGxnuLMz/vQfYmncUR4ZQgaJ/6YFrMtRf0mUhp9ZWwGU6RQmkc+UVOFdYU5trEDSi4yEAEjXH6hUScEGADPacC/vMN7hFdyf8OuszbI5j4+2R3S7ERpBn8XsE6vb9eYixOB4t3Lvp+0hdhqDVMXK1bKyez3X3NTbkOhg9QIHE3Gy+S+RdJILLcDxE6Uds6emaC7EWyD/6+Ke9Fg==;9ShB/UWthXu9qLq8Mb/Rmw=="
+secured: "SaeCeo7s0NjSmGE1pmW4r9d6eNNGOUUQOALIINUg1bnC3EUcrTZd5G4o/r/vDsB7Jeh7g/+bjWQYrvT7/WR87ekVh3iu0zu/Tkbw5U8OOLPgTJUARuvZkAjBhoj9QkD4CHJb99yTukbnoM0sv/qAOzQItHpcp/ASl9SPYJajZCdcDwzxdBtnCFNW5jGPSTzfNJC5x2zLrcH55Eijw8VqFVD0Ecz9JcLOuQpW0NMiY7DSbaQEtl7LnORkRMFY6BNG/fzF+W+6nBzeHTGvAlx9S7/PZQYX3HlArU+iHeaWMD7NHJCSDc0tuNYcSIpa02aXgCYpB/s6Xh8VWyRYt+HvT8lb2dTxzbtdWeHhudG1+TE=;J2aG1OA1s4ievwfnO7RGLw=="
 ---
 

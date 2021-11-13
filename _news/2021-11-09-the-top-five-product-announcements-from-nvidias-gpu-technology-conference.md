@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AMD Launches New GPU And EPYC CPU Right Across NVIDIA’s Bow"
-    excerpt: "The new Instinct MI200 is groundbreaking, a multi-die chip for AI and HPC About a year ago I comp[lained that the AMD MI100 was great for HPC, but inadequate for most AI workloads."
-    publishedDateTime: 2021-11-08T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/11/08/amd-launches-new-gpu-and-epyc-cpu-right-across-nvidias-bow/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/11/08/amd-launches-new-gpu-and-epyc-cpu-right-across-nvidias-bow/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/08/amd-launches-new-gpu-and-epyc-cpu-right-across-nvidias-bow/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182de6e3d11d7b53fe42480%2F0x0.jpg"
-        width: 1200
-        height: 511
-        isCached: true
   - title: "NVIDIA Is Not A Chip Company. It’s A Platform Company."
     excerpt: "NVIDIA seems impervious to competitive threats that arise from dozens of startups and large companies like Intel and Google. Its the platform."
     publishedDateTime: 2021-11-09T08:30:00Z

@@ -122,20 +122,6 @@ related:
         width: 315
         height: 237
         isCached: true
-  - title: "How is AI impacting the automotive industry?"
-    excerpt: "AI or artificial intelligence – as an abstract concept – conjures up multiple images, in part because it has been...Read"
-    publishedDateTime: 2021-11-08T16:59:00Z
-    webUrl: "https://www.just-auto.com/features/how-is-ai-impacting-the-automotive-industry/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/shutterstock_1698736867.jpg"
-        width: 500
-        height: 282
-        isCached: true
   - title: "Application of artificial intelligence and machine learning for HIV prevention interventions"
     excerpt: "In 2019, the US Government announced its goal to end the HIV epidemic within 10 years, mirroring the initiatives set forth by UNAIDS. Public health prevention interventions are a crucial part of this ambitious goal."
     publishedDateTime: 2021-11-08T23:57:00Z

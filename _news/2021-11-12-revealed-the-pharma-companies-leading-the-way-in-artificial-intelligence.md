@@ -7,7 +7,7 @@ originalUrl: "https://www.clinicaltrialsarena.com/analysis/revealed-the-pharma-c
 webUrl: "https://www.clinicaltrialsarena.com/analysis/revealed-the-pharma-companies-leading-the-way-in-artificial-intelligence/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Revealed: The food companies leading the way in artificial intelligence"
-    excerpt: "Food companies are keen to show off their AI prowess but which are driving their industries forward through the use of this technology?"
-    publishedDateTime: 2021-11-11T17:13:00Z
-    webUrl: "https://www.just-food.com/features/revealed-the-food-companies-leading-the-way-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: Just-Food
-      domain: just-food.com
-    quality: 37
-    images:
-      - url: "https://www.just-food.com/wp-content/uploads/sites/35/2021/10/shutterstock_1952331001-scaled-e1634642677805.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
   - title: "Revealed: The apparel companies leading the way in artificial intelligence"
     excerpt: "LVMH and GlaxoSmithKline are among the apparel companies best positioned to take advantage of future artificial intelligence disruption."
     publishedDateTime: 2021-11-12T11:11:00Z

@@ -63,6 +63,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "NVIDIA’s Large Language AI Models Are Now Available To Businesses Worldwide"
+    excerpt: "Nvidia doubles down on AI language models and inference as a platform for the Metaverse, in data centres, the cloud, and at the edge."
+    publishedDateTime: 2021-11-13T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/large-language-ai-models/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/NVIDIAs-Large-Language-AI-Models-Are-Now-Available-To-Businesses-Worldwide.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "JSTriQa4hYgvV43V0A1MLvs0lf3K67r7XwnnsTWIjOiziEELngmNwUtdVIA5KEGSXU3kSFqPHXTciHFbbI9rXcIsZ12K55FEjypclsUIoSCdjnn59x2prTbn3S4AmHO/NDMPaVLJ5otEXEcbgK+FH0wC9u+W6qWtq7xo86sT4tM3nwO6FhtCdd4+0KT/UFrQ4U8cXZpucZTn7eoycs2JKS6U9WEn5NIcGJRj2ZrNf2a4S3aikNoTkekQu6O+byQZiNV+dORQFMASTKlXYAQuYLEW9roN0eAbW0/jVX257WVzfsFX35tMksd9dF7Z6mBlpSWmr+5kEVgduSMs3IY1lDecXair6ee0BErYaTKxlLlMDmMI+PyAE1NyPgdmmsueXqTTT+nouaX6xCvDFFz6yK/9VEh5VKvJOWDsfumS7kBaREoH+qPV3WDf4KlkdMjM/jst5Qg3K3o4z4+k/q2p9ABi8lRALG7GVhuAhBr9+HN2yGcQ7Va1rYvJfQB1MHz6aKWnU35rGQwLc6oeo3aYug==;I/NvIZ4/ay1LPUpsHPbsVw=="
 ---

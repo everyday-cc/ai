@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AMD Launches New GPU And EPYC CPU Right Across NVIDIA’s Bow"
-    excerpt: "The new Instinct MI200 is groundbreaking, a multi-die chip for AI and HPC About a year ago I comp[lained that the AMD MI100 was great for HPC, but inadequate for most AI workloads."
-    publishedDateTime: 2021-11-08T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/11/08/amd-launches-new-gpu-and-epyc-cpu-right-across-nvidias-bow/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/11/08/amd-launches-new-gpu-and-epyc-cpu-right-across-nvidias-bow/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/08/amd-launches-new-gpu-and-epyc-cpu-right-across-nvidias-bow/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182de6e3d11d7b53fe42480%2F0x0.jpg"
-        width: 1200
-        height: 511
-        isCached: true
   - title: "NVIDIA's new AI brain for robots is six times more powerful than its predecessor"
     excerpt: "NVIDIA has launched the Jetson AGX Orin, its new AI brain for robots with six times the processing power of its predecessor.."
     publishedDateTime: 2021-11-09T10:02:00Z

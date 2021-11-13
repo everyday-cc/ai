@@ -23,44 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Stocks: The 10 Best AI Companies"
-    excerpt: "AI stocks may be excellent long-term investments. The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. From machine learning to"
-    publishedDateTime: 2021-11-08T16:00:00Z
-    webUrl: "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/"
-    ampWebUrl: "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/amp/"
+  - title: "Artificial intelligence and deep learning to get the best banana"
+    excerpt: "Artificial intelligence has reached the banana sector. The Tekniker technology center, a member of the Basque Research and Technology Alliance (BRTA) that has extensive knowledge in the"
+    publishedDateTime: 2021-11-12T13:37:00Z
+    webUrl: "https://www.freshplaza.com/article/9373037/artificial-intelligence-and-deep-learning-to-get-the-best-banana/"
     type: article
     provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 64
-  - title: "Big Tech leads the AI race – but watch out for these six challenger companies"
-    excerpt: "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
-    publishedDateTime: 2021-11-09T01:15:00Z
-    webUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 40
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 54
     images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg"
-        width: 1400
-        height: 934
-        isCached: true
-  - title: "In this tech-driven world, investing in AI stocks is considered a smart choice for long term profit"
-    excerpt: "In this modern world, the rise of artificial intelligence (AI), robotics, and automation are disrupting virtually every significant industry and business. Here are the top 10 AI stocks to buy this November."
-    publishedDateTime: 2021-11-12T09:14:00Z
-    webUrl: "https://www.analyticsinsight.net/profit-alert-top-ten-ai-stocks-to-buy-this-november-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 25
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Top-10-AI-Stocks-to-Buy-This-November.jpg"
-        width: 900
-        height: 500
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/Stock_photos/Banana/Alexander_Bogdanovich.jpg?preset=OgImage"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Hk6HCkVJUWmC6119FFkhWsLj2HtQf+Kg4WOp42Hc9UWDHWjQyHj6+LAQ3Pzd9nLmubg6MndSOb8CbdNEPsemvhYPeGcTrVXVI8Ne71pjnFH3VRuRTsjJqzmizOLN0nb2GejspqZ0PckJG8IJUUyXfGbBRwpA0OsGBCR75+spdmPZaGhO76KakAlPI0x5IJ2GxeNdiKqkQWmHDouj8UQUjHuJeh6v66wwpTMV/94zj+zKMIvz08wpNhDoWicHY3faTIszFqu21Jv4Xver52phUYkvmk8MBxFNRaly9Zo+/sP+sHgkZj9aPEkAIcQJkp5NIA9wP/VygoxVA8tNT7dQxe0ITSq+ogRvfgYgSu/dBtz5x8kfAbSu9iWDQQkrktaALj1D3T4KeFJOG+CR0zbvjjItXQWi5cirjGa7m1RVLbMRrMSEyAN1imCgiC1y7hwgl7ZDJGOnPnpnJg+C1LOogbesoUTRW4VABR75L21o9aKMh0I5zv+xpNVqbfQuSRV11kpSjnpirompC6ewVmJmLw==;Z/ECPOcMD2Dqu68gQ2AaoA=="
