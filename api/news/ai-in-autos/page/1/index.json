@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-09-today-in-retail-walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool.md",
+      "title": "Today in Retail: Walmart Manages Fully Driverless Deliveries; Lowe’s to Launch Room-Scanning Tool",
+      "excerpt": "Walmart has achieved daily deliveries without a safety driver, and Amazon is promoting the use of its payment service on other merchants’ sites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/Lowes_Companies_Inc_Room_Measurements-457x274.jpeg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/",
+      "publishedDateTime": "2021-11-08T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-its-go-time-for-self-driving-cars-north-of-the-arctic-circle.md",
       "title": "It’s ‘Go Time’ For Self-Driving Cars – North Of The Arctic Circle",
       "excerpt": "Northern Norway will be a closely watched, wintry testing ground for self-driving cars. If they can make it there, autonomous vehicle industry members say, driverless cars can make it anywhere.",
@@ -167,7 +210,7 @@
       "originalUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1407,58 +1450,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars.md",
-      "title": "Dump Truck Accident Pours Liquid Asphalt From Overpass Onto Vehicles Below, Providing Lessons For AI Self-Driving Cars",
-      "excerpt": "The recent news report about a dump truck that inadvertently spewed hot asphalt from an overpass onto a freeway is closely examined, and lessons for AI-based self-driving cars are gleaned from the harrowing event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d133c17070cc69341f362d%2F0x0.jpg%3FcropX1%3D344%26cropX2%3D1919%26cropY1%3D21%26cropY2%3D1203",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-11-01T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Autos"
       ]

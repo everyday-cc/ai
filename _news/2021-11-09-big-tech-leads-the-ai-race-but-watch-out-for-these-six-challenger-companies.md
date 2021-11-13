@@ -38,22 +38,6 @@ related:
       name: WTOP News
       domain: wtop.com
     quality: 64
-  - title: "ASX Tech Stocks: Douugh almost doubles US customers and BrainChip demonstrates AI chip functionality"
-    excerpt: "Douugh US customer base grows 42%, BrainChip improves performance and power consumption of Akida chip, and SenSen raises $4.2 million for R&D."
-    publishedDateTime: 2021-11-08T13:42:00Z
-    webUrl: "https://stockhead.com.au/tech/asx-tech-stocks-douugh-almost-doubles-us-customers-and-brainchip-demonstrates-ai-chip-functionality/"
-    ampWebUrl: "https://stockhead.com.au/tech/asx-tech-stocks-douugh-almost-doubles-us-customers-and-brainchip-demonstrates-ai-chip-functionality/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-douugh-almost-doubles-us-customers-and-brainchip-demonstrates-ai-chip-functionality/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 59
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2021/11/ezgif.com-crop-3.gif"
-        width: 336
-        height: 229
-        isCached: true
   - title: "3 Best AI Stocks to Buy Now for 2022 and Beyond"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) stocks continue to gain traction among growth"
     publishedDateTime: 2021-11-11T11:00:00Z

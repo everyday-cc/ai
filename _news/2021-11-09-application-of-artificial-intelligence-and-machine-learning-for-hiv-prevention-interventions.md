@@ -100,20 +100,6 @@ related:
         width: 1700
         height: 1133
         isCached: true
-  - title: "The Future is Now: Automation, Robotics & AI are Safeguarding Energy and Utilities Industries"
-    excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
-    publishedDateTime: 2021-11-08T14:14:00Z
-    webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
-    type: article
-    provider:
-      name: Energy Live News
-      domain: energylivenews.com
-    quality: 58
-    images:
-      - url: "https://www.energylivenews.com/wp-content/uploads/2018/05/robotic-arm.jpg"
-        width: 720
-        height: 412
-        isCached: true
   - title: "How Artificial Intelligence is Transforming the Healthcare Industry?"
     excerpt: "Artificial intelligence and related technologies are widely used in business and society, and they are rapidly entering the healthcare sector."
     publishedDateTime: 2021-11-09T00:00:00Z

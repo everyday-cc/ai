@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-10-honesty-and-ethics-not-well-explained-by-managers-in-new-zealand.md",
+      "title": "Honesty and ethics not well explained by managers in New Zealand",
+      "excerpt": "The majority of employees in New Zealand are confident their organizations are honest and there is no misconduct at work, but their line managers don't always explain the importance of honesty and ethics in the work they are leading.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.html",
+      "originalUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/workplace-2.jpg",
+          "width": 2880,
+          "height": 1922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-honesty-ethics-zealand.amp",
+      "publishedDateTime": "2021-11-10T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-enterprise-process-automation-startup-workato-nabs-200m.md",
+      "title": "Enterprise process automation startup Workato nabs $200M",
+      "excerpt": "Workato, a workplace automation tool, has raised $200 million in venture capital to expand its set of enterprise offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/",
+      "originalUrl": "https://venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/amp/",
+      "publishedDateTime": "2021-11-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos.md",
+      "title": "BofA Finds Nvidia \"Uniquely Ready\" For AI, Robotics, Metaverse, Autos",
+      "excerpt": "He believes Nvidia is \"uniquely ready\" with its combo of hardware, software, and developer ecosystem to address new technologies across AI, robotics, metaverse, and autos as well as \"any new markets that materialize.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2498.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery.md",
       "title": "IBM to Add New Natural Language Processing Enhancements to Watson Discovery",
       "excerpt": "IBM (NYSE: IBM) today announced new natural language processing (NLP) enhancements planned for IBM Watson Discovery. These planned upda",
@@ -289,7 +435,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -624,7 +770,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1070,161 +1216,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-kai-fu-lee-and-yoky-matsuoka-imagine-ais-potential-for-good.md",
-      "title": "Kai-Fu Lee and Yoky Matsuoka Imagine AI's Potential for Good",
-      "excerpt": "The investor and entrepreneur discuss \"human-in-the-loop\" technology, and how artificial intelligence might be used for health and caregiving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rewired-2021-kai-fu-lee-yoky-matysuoka-gideon-lichfield/",
-      "originalUrl": "https://www.wired.com/story/rewired-2021-kai-fu-lee-yoky-matysuoka-gideon-lichfield/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6189cab61667c44ded0704e0/master/pass/Kai-Fu-Lee_Yoky-Matysuoka.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/rewired-2021-kai-fu-lee-yoky-matysuoka-gideon-lichfield/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rewired-2021-kai-fu-lee-yoky-matysuoka-gideon-lichfield/amp",
-      "publishedDateTime": "2021-11-09T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers.md",
-      "title": "Breaking Out Of The Content Clutter: Machine Learning And Artificial Intelligence Offer A Vital Tool For Broadcasters And Streamers",
-      "excerpt": "For streamers and broadcasters looking to break out of the clutter, machine learning models can ... [+] offer a new way to promote or offer additional content.  Wi",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/",
-      "originalUrl": "https://www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a85beb852c065881b3db1%2F0x0.jpg",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/amp/",
-      "publishedDateTime": "2021-11-09T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-paging-the-plagiarism-police-ai-is-getting-better-at-writing-students-essays.md",
-      "title": "Paging the plagiarism police — AI is getting better at writing students’ essays",
-      "excerpt": "Cheating during the pandemic has been rampid and concerns are growing in a climate where automation writing continue to improve.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/plagiarism-improving-writing-students-essays-syndication",
-      "originalUrl": "https://thenextweb.com/news/plagiarism-improving-writing-students-essays-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FRobot-typing-hed.jpg&signature=16c5fbe850f2ab359134736037a6901d",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

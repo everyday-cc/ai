@@ -70,6 +70,20 @@ related:
         width: 563
         height: 743
         isCached: true
+  - title: "Global Voice Recognition for Smartphones Market 2021 Product Type, Applications, Market Share and Forecast by 2027"
+    excerpt: "The latest research study titled Global Voice Recognition for Smartphones Market 2021-2027 from MarketsandResearch.biz provides readers with details on strategic planning and tactical business decisions that influence and stabilize growth prognosis in the market."
+    publishedDateTime: 2021-11-09T18:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-smartphones-market-2021-product-type-applications-market-share-and-forecast-by-2027-2021-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Diagnostics Market - Global Forecast to 2028: Growing Strategic Alliances Amongst the Healthcare and Technology Giants - Re"
     excerpt: "The \"Global Artificial Intelligence In Diagnostics Market Size By Component, By Technology, By Diagnosis Type, By Geographic Scope And Forecast\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2021-11-09T11:04:00Z

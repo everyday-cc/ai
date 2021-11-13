@@ -24,22 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Israel’s Carmel Future Combat Vehicle Concept Uses Artificial Intelligence to Locate Enemy"
-    excerpt: "The experimental Carmel tank, an autonomous armored vehicle. Photo: Israeli Ministry of Defense. JNS.org – The arrival of artificial intelligence-powered"
-    publishedDateTime: 2021-11-08T14:35:00Z
-    webUrl: "https://www.algemeiner.com/2021/11/08/israels-carmel-future-combat-vehicle-concept-uses-artificial-intelligence-to-locate-enemy/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 27
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2019/08/3_l.jpg"
-        width: 720
-        height: 360
-        isCached: true
-
 secured: "6JuR7XRd2AeLqeGiNYsH+8A7qQv3E9/6V3FR7naBGNi0MbMOGNm9hnUSCrfkJ5oZCH/HCncDJVTrJQql0Blcm+MMDW8AFn3lkbu0WB0UA3Jml7r9StUbifKe6jwnXBnIM/6yl/TgtdVZ5IE8sIHp/JPAFrAQRRgiCWmVY0S1ckADGw8Ht/RXjdtNrN8mtcNk/p++Rlhq1M5yiWzpxSns7GP2pU2UMXxqT8PAPBVUHe3bPGHnDJ57Q73ocBWbHUycoJkWhyg2HD7XJQDgDRLlf1bGbFpYCf2Psy6k7daWfOmnDNDHhK+UA8jJVJmeGLM/rPj7j8yqzRBSEZeiFGTPJBp2vU1LuqFsn2w5GywrEC9OEiGbG+RbFF5l56pYq6hzZ4wjTpN0F7eLiXGxkX50b7jE/xtrYUdG89R9TuV16qsE2t0L9t8K9Bv06b6Rz9ewi4flN5+QuB4Jo5P40fBel3ihfqiHHmJawfSyQnrFQ5Yl5sA4cCMgmbogzUg0l+BqbGWytZgXobp0w4awi8G+gg==;uJX+sUdOiWW2su2e4+iBpg=="
 ---
 

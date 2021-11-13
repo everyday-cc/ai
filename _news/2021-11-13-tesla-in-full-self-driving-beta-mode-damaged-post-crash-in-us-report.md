@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Netizens raise questions after Tesla in 'Full Self-Driving' results in a car crash in US"
+    excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist feature. No one was injured in the crash,"
+    publishedDateTime: 2021-11-13T05:45:00Z
+    webUrl: "https://www.freepressjournal.in/viral/netizens-raise-questions-after-tesla-in-full-self-driving-results-in-a-car-crash-in-us"
+    ampWebUrl: "https://www.freepressjournal.in/amp/viral/netizens-raise-questions-after-tesla-in-full-self-driving-results-in-a-car-crash-in-us"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/netizens-raise-questions-after-tesla-in-full-self-driving-results-in-a-car-crash-in-us"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 65
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-11/fd557d02-000a-4848-b182-1942f0b8ff23/images.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Tesla Self-Driving Update Caused Cars to Behave Dangerously"
     excerpt: "It’s not every day that Tesla decides to contact regulators about a serious issue with its self-driving software. Late last month, Tesla reported an issue with its Full Self-Driving software to the National Highway Traffic Safety Administration (NHTSA),"
     publishedDateTime: 2021-11-08T16:09:00Z
@@ -104,6 +120,22 @@ related:
       - url: "https://wp-assets.futurism.com/2021/11/tesla-update-cars-dangerous-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
+    excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
+    publishedDateTime: 2021-11-13T05:10:00Z
+    webUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    ampWebUrl: "https://www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/11/13/1121601-tesla-car.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Tesla in “Full Self-Driving” Mode “Severely Damaged” in Crash"
     excerpt: "A Tesla Model Y was “severely damaged” after crashing into an oncoming vehicle while reportedly operating with the controversial Full Self-Driving (FSD) Beta active, The Verge reports. The crash could likely be the first serious incident involving FSD,"

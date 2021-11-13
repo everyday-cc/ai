@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-n
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
 type: article
 quality: 196
-heat: 276
+heat: 266
 published: true
 
 provider:
@@ -125,20 +125,6 @@ related:
       - url: "https://assets.vccircle.com/uploads/2021/09/fundingrfxl.jpeg"
         width: 810
         height: 506
-        isCached: true
-  - title: "Options AI Closes $4.1 Million Seed Funding Round to Bring Smarter Options to Retail Investors"
-    excerpt: "Options AI, a unique brokerage platform putting option spreads in the toolkit of retail investors, today announced it has closed an oversubscribed $4.1 million seed round. The funding round was led by Akuna Capital,"
-    publishedDateTime: 2021-11-08T14:45:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-miami-5c1a76582ae3734841d3cc0844c9560f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "bOZZtVqZgpzgEqfOqNDYL7p/7KOIbCizA2LrC2XTyNoll4qQlZFpdnm7WYw2Oo4V9tpqw+fBwK5Wmr4coRtTzcezkIlhzpvPcEmjl+zNjm/3LS9mOuXYj5CBzpXcZxMFC9K01Xr6NzY+y1qlVFg/vA3lFXYUySL0AG+TYXCKkwvyEER6xJ7Y87pdWcH1/Zdyserm0+I+5/prsr2dBkHtAcl/JtS0q2Bysci4cOuw0Nb6MP7qGkEsxvYt05C1dMDX8YM56v7bUlEX5ETMqqA4Vll80KZKjYKve47RHLO8lbD6rxrqgYkNx6+iXZfoGhLtifJS+4mTJ0Ny6TRxXYEP9SnABVORzXWwNf9wKDjmXbdgN/pww8RDkZ+n15o5WgZl2PFmPmXnVuGEoWOdZoARGwlhZ9e+c9ZD8GkBKH2hfjbpk6IsGvP5boN3nIShrOqWMfdS3pKQUoXI1Bo8cDuKrvPyhRl4NgDGp45+Dfskh0yELCcbxTVUwqVQEkND2JPZoCwbHvxfIKWdeOooAOQP2iyImZ2l2ytwDUk0P/GKcVs=;4vPf+jBdAWgvJDlg7dkyZw=="

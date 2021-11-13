@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/395953"
 webUrl: "https://www.entrepreneur.com/article/395953"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Entrepreneur
@@ -27,19 +27,6 @@ images:
     width: 2560
     height: 1209
     isCached: true
-
-related:
-  - title: "After Beating Q3 Earnings Estimates, is Ontrak a Good Healthcare Stock to Buy?"
-    excerpt: "AI-powered healthcare company Ontrak Inc. (OTRK) recently released its third-quarter earnings, which beat the consensus estimate. However, a lawsuit against the company and severe business headwinds may hinder its growth prospects."
-    publishedDateTime: 2021-11-08T14:22:00Z
-    webUrl: "https://stocknews.com/news/otrk-mck-cern-cpsi-after-beating-q3-earnings-estimates-is-ontrak-a-good-healthcare/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 35
 
 secured: "BubER1MIQ6tqznuq8oM0b03PlALGjVeGR5WY+E67yL623VNsWQSsvTGuGy2+8uT6vSrVd0oOOVNe6voM6MA8jJov4UGiWIj/5a1vwZfQzmo1YT8LAjP++P4dPGrS13IkOqMV416iScwsLAeSFzfHMiMS2fBbhadSCWeiWrBpEkFgRg+XdcV2JrIRRuRcfjbJP9EAJTWYJKefzOGbz3aeqvIYNKhb3WE6F9bSLZKj1brFYBJ0obu7R3BBFS9UYaf8PTgW1XgrZlJoJ85ZD/HO/C2qPaYCpLavk+2zWRHsrwGEIFK0RPi2UhQaVpFH/PhCxMIzXSbiM278AAPMI5ax3g3ait4xVU51FNucYYckfHs974sfa8IrYCCVN3cY0SwUznflC2pV5p/e5Q/4gTWIFPH6QhcREF86j2u/83DEaJN6Iqb0SEgomvZ2B+gE7Q+04RiKq3WMbWOLq/fdAbCAwZ1QhIQ4xatlEKfDbp6mk/6Oflq3ZYF7latvHGw+lVkSIuCZv1kAmkQODjMs1CsMLw==;tKUNABcCFPupsag4gWI1Ow=="
 ---

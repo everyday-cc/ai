@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-12T18:16:00Z
 originalUrl: "https://wallstreetrebel.com/wsr/articles/ai_the_most_powerful_technology_force_the_world_has_known/2021-11-12-14-16-45.html"
 webUrl: "https://wallstreetrebel.com/wsr/articles/ai_the_most_powerful_technology_force_the_world_has_known/2021-11-12-14-16-45.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://wallstreetrebel.com/wsr/images/design3/wallstreetrebel.png"

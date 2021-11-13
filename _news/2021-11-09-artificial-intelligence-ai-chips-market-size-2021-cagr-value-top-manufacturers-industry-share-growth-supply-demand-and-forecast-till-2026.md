@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09"
 type: article
 quality: 62
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Smart%20Robot%20Market1.jpg?1636539321479"
         width: 563
         height: 743
+        isCached: true
+  - title: "Global Voice Recognition for Smartphones Market 2021 Product Type, Applications, Market Share and Forecast by 2027"
+    excerpt: "The latest research study titled Global Voice Recognition for Smartphones Market 2021-2027 from MarketsandResearch.biz provides readers with details on strategic planning and tactical business decisions that influence and stabilize growth prognosis in the market."
+    publishedDateTime: 2021-11-09T18:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-smartphones-market-2021-product-type-applications-market-share-and-forecast-by-2027-2021-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Artificial Intelligence in Agriculture Market Report – Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026"
     excerpt: "United States OR Poland Big Market Research recently published a report on Global Artificial Intelligence in Agriculture Market to its research database This Global Artificial Intelligence in Agriculture Market report analyzes the comprehensive overview of the market comprising an executive"

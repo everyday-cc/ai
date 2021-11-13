@@ -7,7 +7,7 @@ originalUrl: "https://peerj.com/articles/cs-737/"
 webUrl: "https://peerj.com/articles/cs-737/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -25,66 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Landing AI brings in $57M for its machine learning operations tools"
-    excerpt: "CEO Andrew Ng says industries should adopt a data-centric approach to building AI, which provides a more efficient way for manufacturers to teach an AI model what to do."
-    publishedDateTime: 2021-11-08T13:31:00Z
-    webUrl: "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/"
-    ampWebUrl: "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/"
+  - title: "Signal Processing and Machine Learning on Time Series of Remotely Sensed Data"
+    excerpt: "Earth observation is a key tool for understanding the Earth’s processes and their interaction with human activity. In recent years, the amount of freshly generated satellite data about the Earth’s surface has boomed thanks to the increasing number of spaceborne remote sensing missions."
+    publishedDateTime: 2021-11-10T07:22:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/28929/signal-processing-and-machine-learning-on-time-series-of-remotely-sensed-data"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/image001.jpeg?w=680"
-        width: 680
-        height: 453
-        isCached: true
-  - title: "MLOps platform Landing AI raises $57M to help manufacturers adopt computer vision"
-    excerpt: "Landing AI, a startup founded by data scientist and entrepreneur Andrew Ng, has raised $57 million in venture capital."
-    publishedDateTime: 2021-11-08T13:36:00Z
-    webUrl: "https://venturebeat.com/2021/11/08/mlops-platform-landing-ai-raises-57m-to-help-manufacturers-adopt-computer-vision/"
-    ampWebUrl: "https://venturebeat.com/2021/11/08/mlops-platform-landing-ai-raises-57m-to-help-manufacturers-adopt-computer-vision/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/mlops-platform-landing-ai-raises-57m-to-help-manufacturers-adopt-computer-vision/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/07/Landing-AI-Dongyan-Wang.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Discovering exoplanets using artificial intelligence"
-    excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
-    publishedDateTime: 2021-11-11T08:45:00Z
-    webUrl: "https://www.nanowerk.com/news2/space/newsid=59109.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/news2/space/id59109_1.png"
-        width: 450
-        height: 338
-        isCached: true
-  - title: "Discovering exoplanets using artificial intelligence"
-    excerpt: "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in luminosity observed makes it possible to deduce the existence of a planet and to estimate its diameter,"
-    publishedDateTime: 2021-11-11T17:45:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/934587"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 226
-        isCached: true
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 16
 
 secured: "43jJkNjcdR7VH1XS/aIv/TSXkcHi00d9r4UiiUsTtCa6lIm5eAUEK9modT2Fq00xYrYzmc4ZftMbYnSGE6mja/s2GacnnY8Nd2kpD8Vw7b9ORcfonpn36p82v27lhAI0lx9xQWx32eouY75bFNMseaPUfv200mNVaxvJB74pnKGV3LYkUoFECpJDKGPbH84RdPJT+kkEsZK3XRjiH4FWzoJRkU6e41aa0dVJr41k19pVm8yeI1IbwaGLCyMrqle4pE6wtJaPHeqIvxWi3LBfL7mySSvT9QBu8PKvzkJihjuDOzxxK92konhwhZKNAjjBEQY25RSQJrYSzPhaOZMJ/FOPGgQERHO5UFH7bE7vjYg=;te22Vh6r5ZiWF6brHTl3gw=="
 ---

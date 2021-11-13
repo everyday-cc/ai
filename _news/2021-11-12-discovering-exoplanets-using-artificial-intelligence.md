@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Landing AI brings in $57M for its machine learning operations tools"
-    excerpt: "CEO Andrew Ng says industries should adopt a data-centric approach to building AI, which provides a more efficient way for manufacturers to teach an AI model what to do."
-    publishedDateTime: 2021-11-08T13:31:00Z
-    webUrl: "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/"
-    ampWebUrl: "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/"
+  - title: "Culver’s may start using AI to operate drive-thru lanes"
+    excerpt: "The CEO of Culver’s says they may start to use AI instead of human workers to operate drive-thru's in the coming years."
+    publishedDateTime: 2021-11-11T11:12:00Z
+    webUrl: "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes"
+    ampWebUrl: "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: TMJ4
+      domain: tmj4.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/image001.jpeg?w=680"
-        width: 680
-        height: 453
-        isCached: true
-  - title: "MLOps platform Landing AI raises $57M to help manufacturers adopt computer vision"
-    excerpt: "Landing AI, a startup founded by data scientist and entrepreneur Andrew Ng, has raised $57 million in venture capital."
-    publishedDateTime: 2021-11-08T13:36:00Z
-    webUrl: "https://venturebeat.com/2021/11/08/mlops-platform-landing-ai-raises-57m-to-help-manufacturers-adopt-computer-vision/"
-    ampWebUrl: "https://venturebeat.com/2021/11/08/mlops-platform-landing-ai-raises-57m-to-help-manufacturers-adopt-computer-vision/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/mlops-platform-landing-ai-raises-57m-to-help-manufacturers-adopt-computer-vision/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/07/Landing-AI-Dongyan-Wang.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/463fda0/2147483647/strip/true/crop/640x360+0+59/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.tmj4.com%2Fphoto%2F2017%2F06%2F27%2Fculvers%20logo_1498600163664_61889194_ver1.0_640_480.JPG"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Discovering exoplanets using artificial intelligence"
     excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
@@ -70,20 +54,6 @@ related:
       - url: "https://www.nanowerk.com/news2/space/id59109_1.png"
         width: 450
         height: 338
-        isCached: true
-  - title: "Clone-advisor: recommending code tokens and clone methods with deep learning and information retrieval"
-    excerpt: "The proposed approach has already led to promising results. The performance metrics in the training (learning rate approaching 0, minimized loss) and validation (perplexity of 2.145) phases indicate a fine-tuned model. The series of perplexity scores ..."
-    publishedDateTime: 2021-11-09T00:00:00Z
-    webUrl: "https://peerj.com/articles/cs-737/"
-    type: article
-    provider:
-      name: PeerJ
-      domain: peerj.com
-    quality: 23
-    images:
-      - url: "https://dfzljdn9uc3pi.cloudfront.net/2021/cs-737/1/fig-2-1x.jpg"
-        width: 600
-        height: 236
         isCached: true
 
 secured: "Cl2tRwTVjEWUC+FQOSrRq/2/NCxpb29U5FZdC/JAW3jCRw3rkZLDaifNtjvibdlPMTOEgO0+dTg4x4Bp976Pe1iUaaCDIDklIWjS9ZFoWp93lSI9xKJoV+TK8LEc2PMdEl/Ewg1YhSEOrY+JaoexzLW6Ila8c1mP4qdVO828MkP+04/26qXNCHMFS7M0NQrWvXG/Tt2ic80KBMEov6vP9VW0UU3gYKqC51lAmkN7vHyVPb5u9gj7iyqZEJExvFFxsOkzYAAkiszpf7a6424rTrTbTNfTSm4KcSplXr8rFtUEOgJMQ+vbl1LRiIlNvEGve/NUk22201QnL6hyAO33wIlzt+ZoiEBbgUu3sRWRfeKfpCRM7FcoV3PEzXdI4pcRlmerZjWLlTotf0XI/RgovXbgAjZCp9JakA4m1SqgHT6YdLiTXu8tN0DsTv9p5konZygu7WB+aTytbBaxKFg8IrFa+DcO7eqIbPmtuO6dESK/1qEL0ePujd5TJxbTE9OIbJQ/QH3Wh9HkwQnS/2uJtQ==;2Tw7uJWEpn5ES+RMOgQexg=="

@@ -41,20 +41,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Robots hit the streets as demand for food delivery grows"
-    excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
-    publishedDateTime: 2021-11-08T13:07:00Z
-    webUrl: "https://www.columbian.com/news/2021/nov/08/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862.jpg-3acea.jpg"
-        width: 899
-        height: 599
-        isCached: true
 
 secured: "JohCqhagsrtm5DUo3xfJY6frHtWFQRH0bpT8FccZm6GwIdb55dAnleQJSdj93f7qraO2xDtWdtRWa/xrfxpIV4q36JMPlh6frDkOaP6lSOyrOwpnwDDDkWETdGJ/jyg2+EAwZyDOnC6ogz/KGXjJ2FNLGg6uU+S19wcXi9rd8NajtYYZ5u2RJu9jhuoxQIuZOhmFArVCkP8Ga8sXjuVZVlqQG9e3/8tv7sGWjRytC7R+TJJe6CWDQ9H5wKyU5ZKLHcF5JhndaaU+eWG4J9tc2+qMMpV47NT0vd0Qv/jBtIeqyvszUFCgV5wAFNdSqiEq3peT84yqnFLX8MIuAtpzrKZ3+I0ItzimXdjsw4Ew07oprpu0T0vGGGdsV9z8iv8GyR6B3fIBALlS8lMoPV42lq+Gb4HQc+HrzW2PdD50vmtK8SXVDMf10bqa1NjE9MeQ5JcDEahZNXfEkS9uwvTibr1c1OyaGBTgEZQnvU4fE7VLxfFAdrRGGUXZ3gtDHF0rcuthxNLy7Akgeps6pbqwXg==;hZ2N3hcWRiypGRdzVfZe0g=="
 ---

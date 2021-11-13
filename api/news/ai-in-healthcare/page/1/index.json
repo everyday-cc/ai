@@ -308,58 +308,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-09-after-beating-q3-earnings-estimates-is-ontrak-a-good-healthcare-stock-to-buy.md",
-      "title": "After Beating Q3 Earnings Estimates, is Ontrak a Good Healthcare Stock to Buy?",
-      "excerpt": "AI-powered healthcare company Ontrak Inc. (OTRK) recently released its third-quarter earnings, which beat the consensus estimate. However, a lawsuit against the company and severe business headwinds may hinder its",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/395953",
-      "originalUrl": "https://www.entrepreneur.com/article/395953",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-395953.jpeg",
-          "width": 2560,
-          "height": 1209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "AI stocks may be excellent long-term investments. The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. From machine learning to",
@@ -368,7 +316,7 @@
       "originalUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1391,6 +1339,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-medical-device-leader-medtronic-joins-race-to-bring-ai-to-health-care.md",
+      "title": "Medical device leader Medtronic joins race to bring AI to health care",
+      "excerpt": "Medtronic has tightened its focus on health care technology with research and development of artificial-intelligence-based medical devices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/",
+      "originalUrl": "https://venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/image2-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/amp/",
+      "publishedDateTime": "2021-10-22T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "AI in Healthcare"
       ]

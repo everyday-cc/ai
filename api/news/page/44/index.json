@@ -2,6 +2,93 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-10-09-researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare.md",
+      "title": "Researchers, UW educators see a bright future for AI in healthcare",
+      "excerpt": "The three speakers shared how companies, including Wisconsin’s postsecondary institutions, are using technology to improve human health.",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/ct/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.html",
+      "originalUrl": "https://madison.com/ct/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/4/34/434fa0a6-a033-58ed-b6ed-576a955cf1b5/61536cc229786.image.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html",
+      "publishedDateTime": "2021-10-08T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-09-realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip.md",
+      "title": "Realme GT Neo 2T is coming with Dimensity 1200 AI customized chip",
+      "excerpt": "The Realme GT Neo 2 premiered last month and is set to hit the global market next week. It is predicted that outside of China,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/",
+      "originalUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/10/realme-neo-1024x683.jpeg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/",
+      "publishedDateTime": "2021-10-08T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-artificial-intelligence-suggests-a-new-narrative-for-the-out-of-africa-process.md",
       "title": "Artificial intelligence suggests a new narrative for the Out of Africa process",
       "excerpt": "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the \"Out of Africa\" scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought.",
@@ -1072,100 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-ai-incubator-makes-understanding-practical-applications-as-easy-as-p-ai.md",
-      "title": "AI incubator makes understanding practical applications as easy as P-ai",
-      "excerpt": "The only artificial intelligence club at the 5Cs, P-ai helps students of all computer science levels understand and work with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://tsl.news/p-ai-incubator/",
-      "originalUrl": "https://tsl.news/p-ai-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tsl.news/wp-content/uploads/2021/10/Brynne-Barnard-Bahn_-P-ai.jpeg",
-          "width": 3177,
-          "height": 2037,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tsl.news/p-ai-incubator/amp/",
-      "cdnAmpWebUrl": "https://tsl-news.cdn.ampproject.org/c/s/tsl.news/p-ai-incubator/amp/",
-      "publishedDateTime": "2021-10-08T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tsl.news",
-        "domain": "tsl.news",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-10-leading-artificial-intelligence-ai-chipsets-producers-in-the-world-by-2021-by-fortune-business-insights.md",
-      "title": "10 Leading Artificial Intelligence (AI) Chipsets Producers in the World by 2021 By Fortune Business Insights",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/10-leading-artificial-intelligence-ai-chipsets-producers-in-the-world-by-2021-by-fortune-business-insights-2021-10-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/10-leading-artificial-intelligence-ai-chipsets-producers-in-the-world-by-2021-by-fortune-business-insights-2021-10-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

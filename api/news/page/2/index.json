@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-12-european-bank-sees-path-to-fastest-ai-supercomputer.md",
+      "title": "European Bank Sees Path to Fastest AI Supercomputer",
+      "excerpt": "While Hungarian banks with collective names like OTP Group might not have household recognition here in the U.S., they do represent a notable portion of",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/",
+      "originalUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/ab_business_building.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/",
+      "publishedDateTime": "2021-11-11T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-report-ai-startup-funding-hits-record-high-of-179b-in-q3.md",
       "title": "Report: AI startup funding hits record high of $17.9B in Q3",
       "excerpt": "A new report from CB Insights has revealed that global funding in AI startups has seen a surge of 8% to $17.9 billion during Q3 2021.",
@@ -50,6 +94,57 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-search-abandonment-costs-retailers-heres-how-ai-can-help.md",
+      "title": "Search Abandonment Costs Retailers. Here’s How AI Can Help.",
+      "excerpt": "Brands like Macy’s and IKEA Retail are leveraging Retail Search and Recommendations AI to help consumers find what they want first and fast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618cba92d8e95b1aa757f14a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1089%26cropY1%3D51%26cropY2%3D664",
+          "width": 1089,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/amp/",
+      "publishedDateTime": "2021-11-11T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -346,6 +441,48 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-culvers-may-start-using-ai-to-operate-drive-thru-lanes.md",
+      "title": "Culver’s may start using AI to operate drive-thru lanes",
+      "excerpt": "The CEO of Culver’s says they may start to use AI instead of human workers to operate drive-thru's in the coming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes",
+      "originalUrl": "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/463fda0/2147483647/strip/true/crop/640x360+0+59/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.tmj4.com%2Fphoto%2F2017%2F06%2F27%2Fculvers%20logo_1498600163664_61889194_ver1.0_640_480.JPG",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true",
+      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true",
+      "publishedDateTime": "2021-11-11T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMJ4",
+        "domain": "tmj4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -909,7 +1046,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 276,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -1088,152 +1225,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-honesty-and-ethics-not-well-explained-by-managers-in-new-zealand.md",
-      "title": "Honesty and ethics not well explained by managers in New Zealand",
-      "excerpt": "The majority of employees in New Zealand are confident their organizations are honest and there is no misconduct at work, but their line managers don't always explain the importance of honesty and ethics in the work they are leading.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.html",
-      "originalUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/workplace-2.jpg",
-          "width": 2880,
-          "height": 1922,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-honesty-ethics-zealand.amp",
-      "publishedDateTime": "2021-11-10T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-enterprise-process-automation-startup-workato-nabs-200m.md",
-      "title": "Enterprise process automation startup Workato nabs $200M",
-      "excerpt": "Workato, a workplace automation tool, has raised $200 million in venture capital to expand its set of enterprise offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/",
-      "originalUrl": "https://venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/amp/",
-      "publishedDateTime": "2021-11-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos.md",
-      "title": "BofA Finds Nvidia \"Uniquely Ready\" For AI, Robotics, Metaverse, Autos",
-      "excerpt": "He believes Nvidia is \"uniquely ready\" with its combo of hardware, software, and developer ecosystem to address new technologies across AI, robotics, metaverse, and autos as well as \"any new markets that materialize.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2498.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
