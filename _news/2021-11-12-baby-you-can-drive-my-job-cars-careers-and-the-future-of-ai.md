@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 943
     isCached: true
-
-related:
-  - title: "Is AI the Future of Career Development?"
-    excerpt: "The following is an excerpt from my FREE Workplace Intelligence Insider Newsletter. Subscribe now and get the full article delivered straight to your inbox! And I’d love to hear your perspective on my new study with Oracle — let me know what you think in the comments below!"
-    publishedDateTime: 2021-11-08T12:45:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-future-career-development-dan-schawbel"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGgDvboLqSBWA/article-cover_image-shrink_720_1280/0/1636326954168?e=1642032000&v=beta&t=fF3qvlWA0b4v8i6_RDYnlSdoxrqfxXcx9oXn75NNmh0"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "X5HuD7BScuMNQswfdvDhJnyzXfm/wmMN+C7qkOKRWExUga2lfbDerCEZBbHpEMXMSJXivbNI2BUSHjzrJV+wRmcx75211BJVshUFja6Hq9X3A1tR5Xrc3AD+3SXBq2arhYVA3IbcU7dDv/SPWJYeRNHR3i7G5pqEpevNqbEskoU8Z7v6oNYpraOkCRIoVJibhGfiK0UkZm3HjIGHxhaszglvnag0veK1Xwtp/aLPFwoajyu3XSVhmKvCxLvZmHKVlW9RGxkF6vZuYra0S6E/ZX1wclmm6/j2tb67Dr6Pf9OjWAByaeNmMMgx2GzPORKYR57+lYwY8Y8MqZyw/P8GKtcYry/CDGYuJ8yOsMFZhRaKUm8wHUS9FqtjgmbgWO4kPwyJPMUfxPFrAvor7GRwbFJYTG9gwodbwTdeBjJ+8mXlj7cwxQQbqAjwmY4Mu3CDyPAtQzIj/cIvFd4w093UJ7r1d9vO3z9hU2S72pJtDzJmAJzLIhW9lnosgmu9cBK4RJWvvRIiejYnLIMda1QInA==;YTt9OpRc2Gsdh5GN1OSvKg=="
 ---

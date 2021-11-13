@@ -75,6 +75,36 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "U.S. regulator reviewing Tesla owner complaint on self-driving test software"
+    excerpt: "The U.S. National Highway Traffic Safety Administration (NHTSA) said it is looking into a consumer report that a Tesla Model Y was involved in an accident while using the company's Full Self-Driving (FSD) Beta software."
+    publishedDateTime: 2021-11-13T01:45:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/us-safety-regulator-says-aware-tesla-owner-complaint-self-driving-test-software-2021-11-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 81
+    images:
+      - url: "https://www.reuters.com/resizer/LmLK9_BUSwhgIdkMy09mUROBc-s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DAI3EOCMDBICXCN7OJU566M3SE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla in Full Self-Driving beta mode damaged post crash in US: Report"
+    excerpt: "A Tesla Model Y reportedly in Full Self-Driving beta mode crashed on November 3 in California and got \"severely damaged\". The owner reported the vehicle went into the wrong lane while taking a left turn."
+    publishedDateTime: 2021-11-13T04:20:00Z
+    webUrl: "https://inshorts.com/en/news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/13_sat/img_1636774206941_862.jpg?"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Tesla in “Full Self-Driving” Mode “Severely Damaged” in Crash"
     excerpt: "A Tesla Model Y was “severely damaged” after crashing into an oncoming vehicle while reportedly operating with the controversial Full Self-Driving (FSD) Beta active, The Verge reports. The crash could likely be the first serious incident involving FSD,"
     publishedDateTime: 2021-11-12T17:09:00Z

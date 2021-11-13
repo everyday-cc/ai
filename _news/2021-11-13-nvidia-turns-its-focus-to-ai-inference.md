@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-13T00:53:00Z
 originalUrl: "https://www.internetnews.com/enterprise/nvidia-turns-its-focus-to-ai-inference/"
 webUrl: "https://www.internetnews.com/enterprise/nvidia-turns-its-focus-to-ai-inference/"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
@@ -251,6 +253,6 @@ related:
       domain: netindia123.com
     quality: 19
 
-secured: "Qhs8woBQ6U+fRoFc3sDN+Yv6AvbSANr6LAuRw3hupvntUAAp0zT6AtZHCOj+Qcql6GGMXMUwFwezA1U/0pl8NX3ar3wA5C5f2H4PpM41DEx7MoBu7NQd4OK74boYvBG3KVepsb7OwoizfSQSyf9uh22TLbD/RtV2yZGGNb1FqvtQwCx3brTs0pnhxP/S3/ABXiTgkf1yxx5GpGU/IdZW54+cJgC17PkZ2t245VBIo9PPoQlZ02o8yU87M7iAhdskQjDdf40zDTNOpjRXMQAchCDa7iJzevYr9aGrmXUwuk8BT2DuyPVKNSVaY5RqmguwB/cvVfX4Ox5QrTYP1yCbJsgZBZwMjAkSfm0P+rk1mio=;DvCJItw8GGNaY7KWryutwQ=="
+secured: "PyQgFsap3TOkf4Cv64dJDn5gc0VT8XSHlw0Sz7MD9FhxAdX549i+GTuHjG343YSmjYo0oWXtZZGcQL2ncpzSxXyBQXOa53CJnI01POiXF0WmXkqA1G8ex0H6qQecZ37LcRPdVxis7cMfvszkL46O4jXSY+jW3sVuWKzPzUBxgZa+qBWi6sTJHZFwG35kaYSYnvNz/uiuxh9NN8X+FCple0UFfsuv4gjT4hLOCCWmA8NVJd0wql3OePJxVN8xhcaR560px49dijvYAsUY8aReLRmjCCc8C5j2VPAExWSHEJMXx3LdTQEws4b3zwvGNXXal1GBv49dbLbDWIfbHwXPgEv8E6lGydY1dq/Dh7oS7TToROjPsNxg0xCrDvaK4WQcIRMWVIvzCMRcwa0BkGcfYlXqmboRHWkTpziS6VFQnbMcqf/G06DZYLnOTyUmkEn/+iNx0a5gYG98pxsxRAousEwzzCWbZKeHKStTJMkT4olHHA1yRuHyCYzGakFKnQJgZUwGD9RhKLtERoRNZ/enbQ==;raQx+zg4PlcqA9MylnMB7g=="
 ---
 

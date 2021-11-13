@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/396710"
 webUrl: "https://www.entrepreneur.com/article/396710"
 type: article
 quality: 54
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://cdn01.vulcanpost.com/wp-uploads/2021/11/fintech-f2.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "5 FinTech companies disrupting the financial sector in Boston"
-    excerpt: "FinTech is the cross-culmination of traditional methods often associated with accounting, banking, finance industries, and of innovative tech"
-    publishedDateTime: 2021-11-08T12:37:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-companies-disrupting-the-financial-sector-in-boston/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Indian SaaS companies has to buckle up on the back of increased demand"
     excerpt: "The use of artificial intelligence, adoption of cloud computing, and remote work has been the key for the growth of the Indian SaaS industry Software as a service (SaaS) is a model of delivery in ..."

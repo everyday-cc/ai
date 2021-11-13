@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Commonwealth Bank of Australia announces Artificial Intelligence partnership"
-    excerpt: "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track"
-    publishedDateTime: 2021-11-08T12:32:00Z
-    webUrl: "https://english.newstracklive.com/news/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 71
-    images:
-      - url: "https://media.newstrack.in/uploads/latest-news/world-news/Nov/08/big_thumb/commonWealth_618918bf8cac0.jpg"
-        width: 631
-        height: 450
-        isCached: true
   - title: "Facial recognition firm ordered to delete photos in Australia"
     excerpt: "Facial recognition company Clearview AI contravened privacy laws in Australia, according to the Office of the Australian Information Commissioner (OAIC) following a joint investigation with the UK Information Commissioner’s Office (ICO)."
     publishedDateTime: 2021-11-10T11:53:00Z

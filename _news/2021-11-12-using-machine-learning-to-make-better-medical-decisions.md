@@ -41,6 +41,20 @@ related:
         width: 900
         height: 471
         isCached: true
+  - title: "TinyML: Bringing Machine Learning to the Edge"
+    excerpt: "TinyML is bringing machine learning to the edge using devices with tiny, low-power microcontrollers. Here's how."
+    publishedDateTime: 2021-11-12T18:47:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/tinyml-edge/"
+    type: article
+    provider:
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 56
+    images:
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/11/TinyML_Bringing-Machine-Learning-to-the-Edge.png"
+        width: 900
+        height: 565
+        isCached: true
   - title: "What steps are developers taking to incorporate machine learning into mapping schools?"
     excerpt: "In 2019, the International Telecommunication Union (ITU) and UNICEF launched Project Connect, which aims to connect every school infrastructure to the internet by 2030. The primary goal of this project is to provide students with an infinite amount of information and opportunities."
     publishedDateTime: 2021-11-12T07:47:00Z

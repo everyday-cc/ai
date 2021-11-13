@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextua
 cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "TinyML: Bringing Machine Learning to the Edge"
+    excerpt: "TinyML is bringing machine learning to the edge using devices with tiny, low-power microcontrollers. Here's how."
+    publishedDateTime: 2021-11-12T18:47:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/tinyml-edge/"
+    type: article
+    provider:
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 56
+    images:
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/11/TinyML_Bringing-Machine-Learning-to-the-Edge.png"
+        width: 900
+        height: 565
+        isCached: true
   - title: "Using Machine Learning To Make Better Medical Decisions"
     excerpt: "While artificial intelligence has become essential in advancing medical research, scientists have yet to work out all the technology’s flaws. A University of Texas at Arlington computer scientist has received a three-year,"
     publishedDateTime: 2021-11-12T13:30:00Z

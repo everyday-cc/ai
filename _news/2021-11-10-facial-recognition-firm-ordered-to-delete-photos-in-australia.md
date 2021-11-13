@@ -9,7 +9,7 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5091952&name=facial-r
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5091952&name=facial-recognition-firm-ordered-to-delete-photos-in-australia"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Commonwealth Bank of Australia announces Artificial Intelligence partnership"
-    excerpt: "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track"
-    publishedDateTime: 2021-11-08T12:32:00Z
-    webUrl: "https://english.newstracklive.com/news/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 71
-    images:
-      - url: "https://media.newstrack.in/uploads/latest-news/world-news/Nov/08/big_thumb/commonWealth_618918bf8cac0.jpg"
-        width: 631
-        height: 450
-        isCached: true
   - title: "H2O.ai Closes $100 Million in Funding Led by Customer Commonwealth Bank of Australia"
     excerpt: "H2O.ai, the AI Cloud leader, today announced it has closed $100 million in Series E funding led by Australia’s largest bank, customer Commonwealth Bank of Australia (CBA). H2O.ai has now raised over $250 million and is valued at $1.7 billion. Pivot ..."
     publishedDateTime: 2021-11-08T13:06:00Z

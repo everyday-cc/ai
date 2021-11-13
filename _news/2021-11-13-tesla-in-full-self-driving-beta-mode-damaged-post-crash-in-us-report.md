@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Tesla starts retrofit program for cameras on older vehicles with ‘Full Self-Driving’"
-excerpt: "Tesla has launched a retrofit program for Autopilot cameras on older vehicles with the “Full Self-Driving” package. Starting with the introduction of its Autopilot 2.0 suite of sensors in 2016, Tesla started selling all of its cars with the promise that they have all the hardware necessary to achieve full self-driving capability with future software"
-publishedDateTime: 2021-11-09T15:10:00Z
-originalUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/"
-webUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/"
-ampWebUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
+title: "Tesla in Full Self-Driving beta mode damaged post crash in US: Report"
+excerpt: "A Tesla Model Y reportedly in Full Self-Driving beta mode crashed on November 3 in California and got \"severely damaged\". The owner reported the vehicle went into the wrong lane while taking a left turn."
+publishedDateTime: 2021-11-13T04:20:00Z
+originalUrl: "https://inshorts.com/en/news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
+webUrl: "https://inshorts.com/en/news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
+ampWebUrl: "https://inshorts.com/m/en/amp_news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
+cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
 type: article
-quality: 82
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
-      width: 50
-      height: 50
+  name: Inshorts
+  domain: inshorts.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    width: 1200
-    height: 628
+  - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/13_sat/img_1636774206941_862.jpg?"
+    width: 960
+    height: 640
     isCached: true
 
 related:
@@ -63,6 +59,22 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Tesla starts retrofit program for cameras on older vehicles with ‘Full Self-Driving’"
+    excerpt: "Tesla has launched a retrofit program for Autopilot cameras on older vehicles with the “Full Self-Driving” package. Starting with the introduction of its Autopilot 2.0 suite of sensors in 2016, Tesla started selling all of its cars with the promise that they have all the hardware necessary to achieve full self-driving capability with future software"
+    publishedDateTime: 2021-11-09T15:10:00Z
+    webUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/"
+    ampWebUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 82
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "U.S. regulator reviewing Tesla owner complaint on self-driving test software"
     excerpt: "The U.S. National Highway Traffic Safety Administration (NHTSA) said it is looking into a consumer report that a Tesla Model Y was involved in an accident while using the company's Full Self-Driving (FSD) Beta software."
     publishedDateTime: 2021-11-13T01:45:00Z
@@ -92,22 +104,6 @@ related:
       - url: "https://wp-assets.futurism.com/2021/11/tesla-update-cars-dangerous-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Tesla in Full Self-Driving beta mode damaged post crash in US: Report"
-    excerpt: "A Tesla Model Y reportedly in Full Self-Driving beta mode crashed on November 3 in California and got \"severely damaged\". The owner reported the vehicle went into the wrong lane while taking a left turn."
-    publishedDateTime: 2021-11-13T04:20:00Z
-    webUrl: "https://inshorts.com/en/news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/13_sat/img_1636774206941_862.jpg?"
-        width: 960
-        height: 640
         isCached: true
   - title: "Tesla in “Full Self-Driving” Mode “Severely Damaged” in Crash"
     excerpt: "A Tesla Model Y was “severely damaged” after crashing into an oncoming vehicle while reportedly operating with the controversial Full Self-Driving (FSD) Beta active, The Verge reports. The crash could likely be the first serious incident involving FSD,"
@@ -149,6 +145,6 @@ related:
       domain: detroitnews.com
     quality: 18
 
-secured: "c3yjhHNU89iHs3IMhMzzmdvaRD/RH8FPTJnidxFQyfHSLy1NY4vryy/kiM/W5uio1Rhx34ct5+KQXghK0xac98gYTM2YQu+ugUtffvwZFHtWIBCSFG/lUWde3UxBgYu1/N9ifB86W692OLl/LVRqaHw1xOI944P0objatNjb4cGEgdlqit9nLTgiXW/aVBKMumzNE3FBfpX1YC0mnTYTyWRspi68RI0wknSaIbTOVLsCJjyJgMx2o8LvYiWde2iHDVfWbAhpEVGwFMV+pBERPz4MtYM49SwGQD6IDaMC5J6Q0c8O+q9Q+eGAKI0n3ywTTVZRIeuvkh+1UkieIqemmtBq97yHkdOoSLavL92GG8E8Eyjt/0beM3zqd7A/NAnL1BtEKZgsNa/IytWvUsiQXLhD4H1vkW9y5dGzXp6C6bsavYatsAeQejDTPz1ORXu//Zeqqyuf41cYQkUZLfbgtNdUvxhrHI3Wy3QEXgWBpwI+OqpIrIc90ueb77e/onkenPD3FGdQQyw2PI52kU3zNQ==;OycdxHOZ+7FKbLlP/Pic9g=="
+secured: "UHQHmLj0RJLeP1yYnbXQH0z15/SfYQh7ssxZg8qYbgbR8rQGVLdFvCWvm4rGPkv2fr+NGHyTaq8xPAXMnroAIrjW10JFT6t0D/U66YG2bFd9ZMzsR7rxG+ngVaI7POyXxNRydv5CQgOxRzlEs+ub0NeOt7aJP4+WdZEqP6zazYKcicxR7a7F9l9RsdMB92r7eRcDZwLK9SvHoK+h1YX+wC8koGLoULSIz00CnyOnRbXl84vcCRIrEmv6SoWHzhFVVv+pjJrJ6Ou1rWi3ynOOHHyxUnq5mP8NA6yI+UtGpb68l81vqhhJT5AHJdDr+nR67uQHNp38UQgJfgLfkxp0RfO6qF4ljwPz/7wZrPJnXLI=;yx8k8aQzU6J9H+WzO7F7YA=="
 ---
 

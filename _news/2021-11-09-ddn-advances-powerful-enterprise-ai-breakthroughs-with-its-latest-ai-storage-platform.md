@@ -40,15 +40,6 @@ related:
         width: 1280
         height: 731
         isCached: true
-  - title: "Enterprai Launches New Way for Global Macro Players to Stay on Top of Financial Markets"
-    excerpt: "Enterprai - the AI-powered SaaS workstation for global macro professionals, pioneering predictive analytics for FX and fixed income markets - today launched a set of products offering global macro portfolio managers,"
-    publishedDateTime: 2021-11-08T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-enterprai-launches-new-way-global-macro-players-stay-/2021/11/08/9486221.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "thAKZj+zeFj4epZGeh3R1Jd/YMLOLC34aLm6Ip5ObLFlCXte+62Grf3iYbOnegvuVm+4IsC+OJMSPDPK2goTn1hQDNT1/HzuRuqIADlCDxydhEPIINat3iWc/ylF3yBnM3GeCf7ByOpu9yqLEKpUvwoqbuqsT0oNbIO2F+I1WIwAez0GA5Q726C9tdZOgDtNN+E6Qjm44w2JLJECO8X3266cLEJez6YvqgqeVjtvD3q49MuWVhET6tNbBcm5h/RicA82BCsUSJN4RgO0PBis1KIR20uxaj+ZmxbwUo6oHZsNZ8BfuZtr6HpyEooM3Iipc/N3OLZAw+0TyHBXG5WCbEFAm0fLRx3axytHCa9b74/UQniBABUINeGULvK8XLyx9MSS7YFU+jxFbpgxCZxFIf3rlUal6gSIvjPgyu0rOP8tC3kCxqkPAGpumcL8EGkY/J3kJUT60kOD7E5ceb0FN/WACXsMmaY/u5wg4MaRfjWTYLW4XZvoibET0JzV0q/exJHEuQwtL65NKCxACrwyHA==;ZANd5/zmM4XjDViVOg2cmA=="
 ---
