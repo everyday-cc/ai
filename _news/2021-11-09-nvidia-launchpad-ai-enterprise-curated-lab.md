@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Nvidia debuts ReOpt to optimize supply chain routing with AI"
-excerpt: "Nvidia's new ReOpt service employs AI to help shippers optimize the routing of packages bound for customers' doorsteps."
+title: "NVIDIA LaunchPad – AI Enterprise Curated Lab"
+excerpt: "NVIDIA LaunchPad is a hands-on environment where customers can use NVIDIA AI Enterprise servers in a vSphere managed by Equinix free of charge"
 publishedDateTime: 2021-11-09T09:30:00Z
-originalUrl: "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/"
-webUrl: "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/"
-ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/"
+originalUrl: "https://www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab"
+webUrl: "https://www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab"
+ampWebUrl: "https://www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab?amp"
+cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab?amp"
 type: article
-quality: 89
-heat: 139
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StorageReview
+  domain: storagereview.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2015/11/Delivery-Truck.jpg?w=1200&strip=all"
-    width: 1200
-    height: 800
+  - url: "https://www.storagereview.com/wp-content/uploads/2021/11/storagereview-nvidia-launchpad-feature-image-2.png"
+    width: 1582
+    height: 1070
     isCached: true
 
 related:
+  - title: "Nvidia debuts ReOpt to optimize supply chain routing with AI"
+    excerpt: "Nvidia's new ReOpt service employs AI to help shippers optimize the routing of packages bound for customers' doorsteps."
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2015/11/Delivery-Truck.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia and Lockheed Martin plan to fight forest fires with AI. Here's how"
     excerpt: "The companies have teamed up with state and federal firefighting services and are creating a dedicated lab to predict the path of fires to help stop them in their tracks."
     publishedDateTime: 2021-11-09T14:35:00Z
@@ -63,22 +75,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "NVIDIA LaunchPad – AI Enterprise Curated Lab"
-    excerpt: "NVIDIA LaunchPad is a hands-on environment where customers can use NVIDIA AI Enterprise servers in a vSphere managed by Equinix free of charge"
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab"
-    ampWebUrl: "https://www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab?amp"
-    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab?amp"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 59
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2021/11/storagereview-nvidia-launchpad-feature-image-2.png"
-        width: 1582
-        height: 1070
-        isCached: true
   - title: "NVIDIA Brings Large Language AI Models to Enterprises Worldwide"
     excerpt: "NVIDIA today opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants and other AI applications that understand language with unprecedented levels of subtlety and nuance."
     publishedDateTime: 2021-11-09T08:52:00Z
@@ -108,6 +104,6 @@ related:
         height: 508
         isCached: true
 
-secured: "obEGPB4xN4EcG0gORoHW+fH3xCf+Ttq2nnBwg4JH4EOhHX+KvLx2t7Wj8y4C1Xfkl07Rl9jgoG6ulNg+/+oIdGFI/6wX3bMYdzh1BMlUntddptQWqroD1vo076qjoHPFq7iPojRRAOGkNyiVVlHOEy+ul5vBtcpDV+6lzQRHKFAas3cQ7cvMY9LhOSXARP1JmmIG+GxFn2rJISCa+onrhXTe+QqGRwMp1yyPtS/RLv1SCi6KZ8XXKPMfVrHoU4nMWoUfgqw2/4x8SpeIkhrRpLJY7APqQRmGonNwsK8/yijSTh0sHuv2AsOaJyVdZJ97h5FyMecaxm5ETI6V/K+lC8TI5BXnZExd27F27FklAeZ4SXojyMwfEI+C6G4SwXGu5iRUW9MzLSHL7GyJZA3Jc5krIFjfGWL9C2qNPO3W2aj8n23PNhoeCCl4+z3NCvVSq5SPeUMMsEkz7MrKwQdAyKV3ZbLuyWkNTKJHKhDFYgptRBQJLiBa6taw6XCW/SlodlcpsqsTcxd3RngjIT6XDg==;CFlUlNrttTHBkYjCRpYWrg=="
+secured: "nSdhAZ6Bl11XEJCpLDl7FHMJykp3HByc0hNB6WpxqX2EaiJ2XrTHZbX7jN0byYb4Iicxhig12wA6kq2qBxsdXqamipcHziyW1KxxgYcaLRnhWNhaKZHtvLRrYlAYlDHS84S4AfmrhN+EP/PzsRPMA/ql3Vwbz+Rr1SPtEviSZe0/cwhxM9AlrVbSqfUbjx6zv0RDArf+kJXDWRPtEVk/TRSRP8ldNFfhigaKEjDGj9LM6tygfhKy63JdfJQziBP9/4kTDGvD7B7vaJ0ri9pWww5oRJW4yrCtqvSOAcQlBEw4O9fg+QOjnURSrr5M/TYkWrGH7ya/Vq6DuivhJ2sDGSbYQZrVJjZWIrD+ntOfm/s=;V6796Fql48NJJmrlqwc4dw=="
 ---
 

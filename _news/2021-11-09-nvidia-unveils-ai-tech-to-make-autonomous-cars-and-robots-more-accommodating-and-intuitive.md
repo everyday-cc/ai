@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA LaunchPad – AI Enterprise Curated Lab"
+    excerpt: "NVIDIA LaunchPad is a hands-on environment where customers can use NVIDIA AI Enterprise servers in a vSphere managed by Equinix free of charge"
+    publishedDateTime: 2021-11-09T09:30:00Z
+    webUrl: "https://www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab"
+    ampWebUrl: "https://www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab?amp"
+    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab?amp"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 59
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/11/storagereview-nvidia-launchpad-feature-image-2.png"
+        width: 1582
+        height: 1070
+        isCached: true
   - title: "NVIDIA Brings Large Language AI Models to Enterprises Worldwide"
     excerpt: "NVIDIA today opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants and other AI applications that understand language with unprecedented levels of subtlety and nuance."
     publishedDateTime: 2021-11-09T08:52:00Z

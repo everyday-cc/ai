@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Johnson Electric & Cortica Establish New Joint Venture Lean AI to Bring Revolutionary Quality Inspection to Manufacturing"
-excerpt: "Automating quality assurance in manufacturing through Autonomous AI will drive flawless quality and production while enabling simple and fast setup on the production line"
-publishedDateTime: 2021-11-11T13:59:00Z
-originalUrl: "https://www.manufacturingtomorrow.com/news/2021/11/11/johnson-electric-cortica-establish-new-joint-venture-lean-ai-to-bring-revolutionary-quality-inspection-to-manufacturing/17878/"
-webUrl: "https://www.manufacturingtomorrow.com/news/2021/11/11/johnson-electric-cortica-establish-new-joint-venture-lean-ai-to-bring-revolutionary-quality-inspection-to-manufacturing/17878/"
+excerpt: "Johnson Electric Group and Cortica Group have established a joint venture to build an Autonomous Inspection System set to revolutionize the Quality Inspection Market. Lean AI is a game-changing startup that will leverage Johnson Electric’s vast knowledge and experience in manufacturing processes and Cortica’s unique Autonomous AI Technology in order to revolutionize the visual inspection market."
+publishedDateTime: 2021-11-13T22:24:00Z
+originalUrl: "https://www.macaubusiness.com/johnson-electric-cortica-establish-new-joint-venture-lean-ai-to-bring-revolutionary-quality-inspection-to-manufacturing/"
+webUrl: "https://www.macaubusiness.com/johnson-electric-cortica-establish-new-joint-venture-lean-ai-to-bring-revolutionary-quality-inspection-to-manufacturing/"
 type: article
-quality: 0
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Manufacturing
-  domain: manufacturingtomorrow.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - AI
+
+images:
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/11/JE-Logo-qdOo6y.jpeg"
+    width: 1210
+    height: 680
+    isCached: true
 
 related:
   - title: "Unsupervised AI arrives for quality inspection"
@@ -51,20 +57,15 @@ related:
         height: 1410
         isCached: true
   - title: "Johnson Electric & Cortica Establish New Joint Venture Lean AI to Bring Revolutionary Quality Inspection to Manufacturing"
-    excerpt: "Johnson Electric Group and Cortica Group have established a joint venture to build an Autonomous Inspection System set to revolutionize the Quality Inspection Market. Lean AI is a game-changing startup that will leverage Johnson Electric’s vast knowledge and experience in manufacturing processes and Cortica’s unique Autonomous AI Technology in order to revolutionize the visual inspection market."
-    publishedDateTime: 2021-11-13T22:24:00Z
-    webUrl: "https://www.macaubusiness.com/johnson-electric-cortica-establish-new-joint-venture-lean-ai-to-bring-revolutionary-quality-inspection-to-manufacturing/"
+    excerpt: "Automating quality assurance in manufacturing through Autonomous AI will drive flawless quality and production while enabling simple and fast setup on the production line"
+    publishedDateTime: 2021-11-11T13:59:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/news/2021/11/11/johnson-electric-cortica-establish-new-joint-venture-lean-ai-to-bring-revolutionary-quality-inspection-to-manufacturing/17878/"
     type: article
     provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 12
-    images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/11/JE-Logo-qdOo6y.jpeg"
-        width: 1210
-        height: 680
-        isCached: true
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 0
 
-secured: "0D/pefpZXAEa77g9ZHtEfObL8wTC97EQlkeh34YbjBx5pRw5aa9oPM+/Y6WtZ1q+DQy3q4Cka4WQkff+kDubmN5t54KeGdVmVCEESo5SW3UuGieIenauEAmg0oMXqdug+Y/UhfZCb49cjChsViQ50v8i8YpUFP8HTO5IHaI039g3/Pn1AqSQBSl6ZlIZnWJ8PBtyl9FSFpStTvQW6mYgA+uWKePI4+zgiq7PL9fBOGQRiX9aYhi1hkw/NStKuIaC1vZAqeRBvIRrJziBjgrmEp1iZHiVeIFK/JWqq77bG2JPpkUyDOgnbGTPcbhAr1Jwy/iO03cfVXEtbYzkDuUomgFJN2pt73OHkOXhHZZWRo0=;Y5QmUUWLqBdXejgxKKvI1A=="
+secured: "tUIUu8Io1X4p90EzgUkFh3W98N7VIxU+6N8IZCnX72WKrLRRF3NQm2XttajWPnhMcTtj+tsoj88O7z6WM1aEIlJBLB7Xh/JnFh3q7SuaxDodtip9teKKqN03Ujq8y/KYBo5qgFIi2LuBU9+bjUK4nodZVaIfxvhrcgFm7/WfN/x8qSU0pnd6eSYzcGHvQ7Dcst+RFVpV1mGwcMNzPkPNj5qZNsNyYtexU6o9G0pB1t/e8PO7A1digahInvmne6hRxD2NhS4++ANlbn9T9ESjafWvltxJK2h1AknOFCTUstBY40ylUA69icPMasHqBWRefIAvG/H7xjnfZ3GdHkvUkMgkJ3KH393ftLkILjBRAg8=;Gw58eEIvpfzCKq89qfwGuQ=="
 ---
 

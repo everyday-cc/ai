@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/unsupervised-ai-arrives-for
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsupervised-ai-arrives-for-quality-inspection/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,36 @@ images:
     isCached: true
 
 related:
+  - title: "Scaling enterprise-grade AI: A study in cloud-based AI for automation"
+    excerpt: "From cloud chaos to cloud clarity.” We hope you enjoy this article. In the next several years, the cloud will move the needle for AI from being experimental to becoming an enterprise-wide presence. The two technologies will complement each other."
+    publishedDateTime: 2021-11-11T20:44:00Z
+    webUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/"
+    ampWebUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/scaling.png?w=2508"
+        width: 2508
+        height: 1410
+        isCached: true
+  - title: "Johnson Electric & Cortica Establish New Joint Venture Lean AI to Bring Revolutionary Quality Inspection to Manufacturing"
+    excerpt: "Johnson Electric Group and Cortica Group have established a joint venture to build an Autonomous Inspection System set to revolutionize the Quality Inspection Market. Lean AI is a game-changing startup that will leverage Johnson Electric’s vast knowledge and experience in manufacturing processes and Cortica’s unique Autonomous AI Technology in order to revolutionize the visual inspection market."
+    publishedDateTime: 2021-11-13T22:24:00Z
+    webUrl: "https://www.macaubusiness.com/johnson-electric-cortica-establish-new-joint-venture-lean-ai-to-bring-revolutionary-quality-inspection-to-manufacturing/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 12
+    images:
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/11/JE-Logo-qdOo6y.jpeg"
+        width: 1210
+        height: 680
+        isCached: true
   - title: "Johnson Electric & Cortica Establish New Joint Venture Lean AI to Bring Revolutionary Quality Inspection to Manufacturing"
     excerpt: "Automating quality assurance in manufacturing through Autonomous AI will drive flawless quality and production while enabling simple and fast setup on the production line"
     publishedDateTime: 2021-11-11T13:59:00Z

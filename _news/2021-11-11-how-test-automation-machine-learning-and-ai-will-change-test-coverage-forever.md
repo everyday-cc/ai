@@ -89,6 +89,20 @@ related:
         width: 1700
         height: 1133
         isCached: true
+  - title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities industries"
+    excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
+    publishedDateTime: 2021-11-11T14:01:00Z
+    webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
+    type: article
+    provider:
+      name: Energy Live News
+      domain: energylivenews.com
+    quality: 54
+    images:
+      - url: "https://www.energylivenews.com/wp-content/uploads/2018/05/robotic-arm.jpg"
+        width: 720
+        height: 412
+        isCached: true
 
 secured: "I8eymAsJf6EV+FtEkp3ZNPjmNRmnwiiBQIkIJsa2ncoi/RqRgCDnEg0RQyPAoy5G7dnQW+b/HFW4nxsR7kiIPamo5LtOxhRIVLEZhfM/EiCAp8L9G1W2fsTBtPZDCQwQw6NjVsMRaHCNjK7Yfkb2/9/EU1jBOb6lFpQWrQm2G0GiRFs5J3UYOsQYyA8OODyRHdPHtW7v9e/ANZnqMCA9Tj3BH20dO30ZsK+2ou9NUsFJHMSFrJwbyiZP9GFvHlLeoZkGeS4Vghs8tj3FaMnKZcKnF1gTiOfBMmd05z+atRW5f8qDvZOpcfiViU1Nt9B17yQ/q5oTcF00OjMmwQcBFYiEc9rJQ6D0xzK0UzM8glvjWOf9c4iqq+4lLRMvEg2fyXQtUxmRHUAcbWzBmLYcE17wbybUSK8ziKZr35rrn9MO/5aIbABmACBEePYu7l41QBl9LT4J4StT6APTiHfIEmNnj4Eq8Y3+4MCAbcHsiFkdNLTYPmk8AG1rs80l/xICHQlqmaC/hARQAanXX4hsqQ==;7J6218rZZbNw0YKcmewa+g=="
 ---

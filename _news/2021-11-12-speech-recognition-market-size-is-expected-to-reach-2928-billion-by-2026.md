@@ -41,20 +41,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Computer Vision Market 2021 by Segmentation includes Type, Applications, Channel and Forecast to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for  Computer Vision Market  for 2021 till 2030. Report"
-    publishedDateTime: 2021-11-09T06:42:00Z
-    webUrl: "https://menafn.com/1103126142/Computer-Vision-Market-2021-by-Segmentation-includes-Type-Applications-Channel-and-Forecast-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?55638"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "BVdV9v5hwZbkqkqB7VdGFdw5DP4+DeFgZujFgyD8TA+5hvsKi+F1lenkBuXoIi+a6zup/4OlO2ikL1Db5jVH/0Zj0VmXD7T5fZhYGyo0EqUejSiLib3WxqPvj/tiSD09hoa2RHK5Vn8HAL+11wjlGiCTZX77ydRDNlEngTKdarMP2nRLM2tTNziGg3xaXe7YNkaVon/uFr6QZUZmQzbvkqE4WnBytBgqwYaVeQoQAQclzu4Btj0nv8NYB6XoaJU7RT1CHfb8i/UxqmOcoeJ++24unnXeSvgXLOL3GU83+AIyHXQWpPiLvAnlFCddLEiY9c+dxoBnhuQpNHOcp7rT9lii+ealX3yshHZZ23Y08PQbRZ97Wf8KZ41+s/ozaMPkuKdzGF6h5maRnQWhKV8vWROdZPAoChiGwH2uRGlVo3zSJZ6oC9r+QDT7XIg+oUo62r+A2AH1NP+W6/iXQwjGTbsdvZcVPrkI8KKQ0bZD+hZ6O+mztV8bv5I85nYs/h5qx3llcspjXypaACNUyyQ5Yg==;cGTIM4O4miH8l+zwHbszbg=="
 ---

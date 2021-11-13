@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Jumo raises $120M to power fintech services across Africa"
-    excerpt: "The South Africa- and UK-based fintech will use the funding, led by Fidelity, to expand to Nigeria and Cameroon and add more financial products. Who is Jumo? Launched in 2015, it’s a banking as a service (BaaS) provider that powers the infrastructure for banks and fintechs to offer lending and savings products."
-    publishedDateTime: 2021-11-09T05:05:00Z
-    webUrl: "https://www.emarketer.com/content/jumo-raises-120m-to-power-fintech-across-africa"
+  - title: "Whale Cloud and Toka Fintech partner to develop payment app"
+    excerpt: "Whale Cloud and Ant Group will help Toka Fintech develop an all-in-one digital payment app tailored for the Latin American market"
+    publishedDateTime: 2021-11-10T15:37:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/whale-cloud-and-toka-fintech-partner-develop-payment-app"
     type: article
     provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 39
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://contentstorage-nax1.emarketer.com/1b1d94106d5030e67d9eecd16768b9dd/default-image-share.png?im=FitAndFill,width=1200,height=630"
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1244089840%20%282%29.jpg.png?itok=Y2beZUAA"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mexico's Toka Fintech taps Whale Cloud and Ant for payments app"
+    excerpt: "Whale Cloud, a leading technology company providing software solutions and services for telecommunications and multiple other industries, today reached a partnership with Toka Fintech, a Mexican-leading financial group,"
+    publishedDateTime: 2021-11-10T17:17:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90207/mexicos-toka-fintech-taps-whale-cloud-and-ant-for-payments-app"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "XiDyMQUqhgbpkuGx3k5ock6lr0U44iaCyXthv9xre44TWcZLEyJUq7+l8ruFU3tpCCNM291WXcipDlyUo7+AaOjhtlhVlpp0lrUNnCEOJwV5STDuRknjge0DVZ0zG2B5LYR5ywIRkE5kxhtJh8qx/2bjbY16c3ItdwpfJFCAq1wUuRAKU+4AiLsq2nZQ+fwAOYKjbWLryOCAw1RWZ6MEb36rI6mIseF+GqNua/W4magVMCLaobFSoLmEt367hXMrjzJ4G3FvpOiy+jNbQK7NIzMzLJUXxlkCARyluRAh8vNHPpWIkuXqcTyNIhz95R7Tz3nkEd9now9xAb3tNZhtzRaAxffJSkQjTbmgxHZghh0=;MEj1k1ywdw+XzzrkTijpeg=="
