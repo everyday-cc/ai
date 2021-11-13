@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebook
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/amp/"
 type: article
 quality: 74
-heat: 135
+heat: 136
 published: true
 
 provider:

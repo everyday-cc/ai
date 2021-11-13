@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/singapore-wants-ai-startups-to-think
 webUrl: "https://www.zdnet.com/article/singapore-wants-ai-startups-to-think-about-healthcare/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://article.images.consumerreports.org/image/upload/v1636396298/prod/content/dam/CRO-Images-2021/Electronics/11Nov/CR-TEch-Inlinehero-lie-detection-tech-1121"
         width: 1199
         height: 674
-        isCached: true
-  - title: "Singapore launches national programme to deepen AI capabilities in financial services"
-    excerpt: "Singapore's Deputy Prime Minister Heng Swee Keat announced the launch of the National Artificial Intelligence (AI) Programme in Finance at the Singapore FinTech Festival (SFF) and Singapore Week of Innovation and Technology (SWITCH) 2021."
-    publishedDateTime: 2021-11-09T03:18:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/11/09/singapore-launches-national-programme-to-deepen-ai-capabilities-in-financial-services"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 32
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/09/1361356.jpg"
-        width: 800
-        height: 532
         isCached: true
   - title: "Top 10 Stories from Singapore Fintech Festival 2021"
     excerpt: "Like previous years, the 2021 Singapore Fintech Festival was the opportunity for some of the world’s largest tech firms, banks, fintech leaders and regulators to announce their latest products and initiatives."

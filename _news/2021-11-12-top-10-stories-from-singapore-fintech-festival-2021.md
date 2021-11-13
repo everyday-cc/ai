@@ -67,20 +67,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Singapore launches national programme to deepen AI capabilities in financial services"
-    excerpt: "Singapore's Deputy Prime Minister Heng Swee Keat announced the launch of the National Artificial Intelligence (AI) Programme in Finance at the Singapore FinTech Festival (SFF) and Singapore Week of Innovation and Technology (SWITCH) 2021."
-    publishedDateTime: 2021-11-09T03:18:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/11/09/singapore-launches-national-programme-to-deepen-ai-capabilities-in-financial-services"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 32
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/09/1361356.jpg"
-        width: 800
-        height: 532
-        isCached: true
 
 secured: "3JcbWrfyFuk6j0yczhnQHCQIIuskHucUKoDSy+74S4z9rHbbqJYUjDjAiijomAo24x0Wo6laptNASgEfsIAYCbShQ0ADt8KnONEdM38b9x2ptsfDzsSYmqC4IvoD2pigozFtqUPC1roLLDUNxq6QbTaEAqv6NBLCR6ndhe9UZe2mPklc2EnsqjYhOLnGB/gPqtWxCFFDurqtvqz9plYe+eTulTYYnTJcwIfBSJF6ayjXRaDreTybaETFKgcgn6M5eRUXRZvT8y9sjlwho4nUg+3U3ZUCtgao1XXt4jNGpzzQ5XdlRc0/OgpiFEMDzHEXfUBA8bHUqpiHpCZ3RzugH7Qg1FqBD0JjQnmZU1KU1nw=;9ODQ3TDDhmOqo3cYMszTEw=="
 ---

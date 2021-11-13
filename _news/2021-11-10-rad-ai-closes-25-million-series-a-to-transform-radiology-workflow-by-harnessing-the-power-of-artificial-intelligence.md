@@ -67,20 +67,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI Pioneer Andrew Ng’s Startup Raises $57 Million In Series A"
-    excerpt: "AI pioneer Andrew Ng's startup provides tools that make building and deploying AI systems in manufacturing faster and easier."
-    publishedDateTime: 2021-11-09T04:23:00Z
-    webUrl: "https://analyticsindiamag.com/ai-pioneer-andrew-ngs-startup-raises-57-million-in-series-a/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Landing-AI-raises-Series-A-funding.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
     excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."
     publishedDateTime: 2021-11-12T19:28:00Z

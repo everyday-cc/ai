@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-fund
 webUrl: "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html"
 type: article
 quality: 137
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "AI Pioneer Andrew Ng’s Startup Raises $57 Million In Series A"
-    excerpt: "AI pioneer Andrew Ng's startup provides tools that make building and deploying AI systems in manufacturing faster and easier."
-    publishedDateTime: 2021-11-09T04:23:00Z
-    webUrl: "https://analyticsindiamag.com/ai-pioneer-andrew-ngs-startup-raises-57-million-in-series-a/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Landing-AI-raises-Series-A-funding.jpg"
-        width: 2048
-        height: 1152
         isCached: true
   - title: "Rad AI Closes $25 Million Series A to Transform Radiology Workflow by Harnessing the Power of Artificial Intelligence"
     excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS Ventures with participation by several existing investors, including OCV Partners,"
