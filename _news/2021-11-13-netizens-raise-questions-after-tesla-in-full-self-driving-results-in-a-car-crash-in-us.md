@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "U.S. regulators reviewing Tesla owner complaint on self-driving test software"
+    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash. The driver was beta testing the “Full Self-Driving”"
+    publishedDateTime: 2021-11-13T13:12:00Z
+    webUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/"
+    ampWebUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 71
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/11/AP21317063976250.jpg?w=1280"
+        width: 1280
+        height: 844
+        isCached: true
   - title: "Tesla in Full Self-Driving beta mode damaged post crash in US: Report"
     excerpt: "A Tesla Model Y reportedly in Full Self-Driving beta mode crashed on November 3 in California and got \"severely damaged\". The owner reported the vehicle went into the wrong lane while taking a left turn."
     publishedDateTime: 2021-11-13T04:20:00Z

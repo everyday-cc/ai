@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Taking a production-centric approach to enterprisewide AI adoption"
-    excerpt: "In a model-centric approach, the path to production doesn't facilitate the infrastructure needed for wide AI adoption. This calls for a paradigm shift to a production-centric approach."
-    publishedDateTime: 2021-11-08T21:13:00Z
-    webUrl: "https://techcrunch.com/2021/11/08/taking-a-production-centric-approach-to-enterprisewide-ai-adoption/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1313075523.jpg?w=600"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Scaling enterprise-grade AI: A study in cloud-based AI for automation"
     excerpt: "From cloud chaos to cloud clarity.” We hope you enjoy this article. In the next several years, the cloud will move the needle for AI from being experimental to becoming an enterprise-wide presence. The two technologies will complement each other."
     publishedDateTime: 2021-11-11T20:44:00Z

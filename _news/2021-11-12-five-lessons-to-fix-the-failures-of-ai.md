@@ -35,7 +35,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 89
+    quality: 189
     images:
       - url: "https://www.zdnet.com/a/img/resize/2334592541a79e9c57360b67737481d9d0f132a2/2021/11/11/c26df5c1-8e72-4ae0-b08f-9a661f1546d3/wall-art-viessmann-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200

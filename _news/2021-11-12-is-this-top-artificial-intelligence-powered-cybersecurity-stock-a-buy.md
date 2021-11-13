@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/11/11/is-this-top-artificial
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/"
 type: article
 quality: 72
-heat: 83
+heat: 82
 published: true
 
 provider:

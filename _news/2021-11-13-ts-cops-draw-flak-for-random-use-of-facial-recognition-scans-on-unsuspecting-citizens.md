@@ -92,34 +92,6 @@ related:
         height: 214
         isCached: true
   - title: "Facebook is shutting down its facial recognition software"
-    excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-    publishedDateTime: 2021-11-08T21:55:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 39
-    images:
-      - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Facebook to End Use of Its Facial Recognition System"
-    excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"
-    publishedDateTime: 2021-11-08T22:33:00Z
-    webUrl: "https://www.natlawreview.com/article/facebook-to-end-use-its-facial-recognition-system"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/Biometrics.facialrecognition.scanner.privacy_3_0.jpg?itok=XFC82dYr"
-        width: 500
-        height: 357
-        isCached: true
-  - title: "Facebook is shutting down its facial recognition software"
     excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
     publishedDateTime: 2021-11-11T14:59:00Z
     webUrl: "https://www.channel3000.com/i/facebook-is-shutting-down-its-facial-recognition-software/"

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-dr
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
 type: article
 quality: 99
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.reuters.com/resizer/LmLK9_BUSwhgIdkMy09mUROBc-s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DAI3EOCMDBICXCN7OJU566M3SE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "U.S. regulators reviewing Tesla owner complaint on self-driving test software"
+    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash. The driver was beta testing the “Full Self-Driving”"
+    publishedDateTime: 2021-11-13T13:12:00Z
+    webUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/"
+    ampWebUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 71
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/11/AP21317063976250.jpg?w=1280"
+        width: 1280
+        height: 844
         isCached: true
   - title: "Netizens raise questions after Tesla in 'Full Self-Driving' results in a car crash in US"
     excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist feature. No one was injured in the crash,"

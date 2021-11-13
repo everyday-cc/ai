@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/artificial-intelligence-learns-to-talk-ba
 ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-learns-to-talk-back/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-learns-to-talk-back/"
 type: article
-quality: 89
-heat: 99
+quality: 189
+heat: 199
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "xY4n+fAyUoeb5ghO0OEWEXtO6SKAA1HEj/pgpwNs4VUN+zzI5IiwDWtur/E4Fsv2bRVkJs9pBu9v52Jbf2PYQCuxCBWvx0h8HxF0Iy9Fgst0KN27+bAajdwKDTapwbpPcbmZ/pBsCMJmgVze8kwjRkBELOaG2KjEqP02NkbpXp8gq896AlX33aOczUqp+fxRGcKIwI56Mo21VcsoaJl2oJvmBdktBxqzgvS00+sglR5E3dd95JSJr3lAYv9S7fQaIQSZmxUSd7daQjE2XFZUxV/jGRa19pVBuTxgOa7db19Wl86PzUu2liFbe2YHBt0shIA6RYHDFEzqbrFBzLf7OmVV7+dP45RRWbh1WQQSvBQFA+vDbW/IOS9OaE5sURZvy0Ici2ZIk1aST2hy/T7a0wbW0MqhB2GSe1jDBlTFXwQKdFFH9fq83EarkhXSk+7hmrXuae8S4Pa+fKsEdVFvOYOgDGJnew8tzFxjus5DSPdDoR707zvR1/uCsB02c4S2kRB1fL0dp08I1Rt09c/9wA==;6jRGcUCOrk1tBWi0PkTMpg=="
+secured: "9DMmtMXJTvtlmAPYNMamZF493iqJlGxbHMXVvgWkgbE3wnc6spMa0jsP6lHeLz5YVqvZElC+l8oNCSuuAlDhP5tXOT9AThzTqjn/fH05Nk71E6cF3rF/tFFF/a+KXfcyuypMmTU7iljUHyRpuDYxmTqf3Wy9wVW6ccp13g5rvNvfltfb0/h92NZIMI/bx7lBUY2g92LE/M/H7SY4jRr67+KLgeyL6wo5cox84CokSA2HJdfkQH11O/PEHoSFZPmJnOYvsfQC/99G8IKgjAYsda8YDC8XQ7S4tG+lU7a33IZitYptq/eyjUtwzCTlo0wkhKk1QUdM9T6BG5CnShSToUfMj+DQ0UUOETvAVMddgrD/Ug/UL94Yagy48Mjumh/5aqAEcwIKIXvYpUoNthD7hcg6RxYu3gZ6uOQUfQGQsHHInCXfuTnD/kYJhYhx9abUptlCTaGwdCIwZ3rGhcEcauLaMZhOtz5T+vd5wAF7kNaGomgB3wXaBX6irZvgljTcKdpIVkJhNrzkvoHEgPmx71v7kLDB4gjtjNtGi8lVFEs=;LBb0f6YIy8pZKup5VxOD7A=="
 ---
 

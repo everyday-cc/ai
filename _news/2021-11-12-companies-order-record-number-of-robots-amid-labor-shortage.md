@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/companies-order-record-number-of-robots-am
 ampWebUrl: "https://www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766"
 type: article
-quality: 89
-heat: 102
+quality: 189
+heat: 202
 published: true
 
 provider:
@@ -48,6 +48,6 @@ related:
         height: 338
         isCached: true
 
-secured: "VSa7IOXOgygA3kvKLe+gYrHy2zUrpNqaV9jYxA1qquewoWornvzt1nEnEysOyf8F+8oXHC8XBNeCVTRxECPTqtiOnWslMuHhVcFfR48J5KGIZ0BU8OTm/9OXr0SrjDfac3jm4oDLbsu6TZ+IPmJ2VgCgp/tZ+SusP/UY+P5sgjww86L6oly4U63dUiGh9MkjNO2e1DMMGh1uDBMBv4684AdNOPot1VaGHvGkOBLf1f73fjxI4uz4aKNU9/z2xpsUQ/JrUtlif1tZFktEtQ0A+shG+MM9SZqrRyLvP0G94XRvOpVuKIHSGt3u7d9ww+RKISTAtpNFLZghMzbKvIpgnVdFPWE43Xq9yHITfA1cHluLP9p8OIX3qerUio7cIvVdjLwZsen/pFlpjdzrLE6Y/v9/VreZ+uncyixYWCh+RtMB0W6ciYmZ0cbHXxoCTl8g3YFhx7z7L0nWKYhKBqUhjIzMBjC5dz/qsixmJfSzhtHWHZMV4iBZNwr4Tubwtvd4HzE0moe4OVCHeZIExNeOag==;QPU1ujl9O7C9JuPFMuKPYQ=="
+secured: "tO9KtqG0y5zY1qdCgo5cilH68TGej7niLfbtiUMUIBlu0pBlGX1DNE0Zi0atPUfyIdFkN1enu2mzojXWKjOzFT7DrWdvjhCYO5cjA7Bt8PhR4ohqaFAYeyOKEs2KPeGx+r0nGdp4uYFP2b05T3mWqczccD1PetHykUe+FwKGm5Z4kdaDAcVmQEBX0oVBTgC6wDAbrdNQO6Gopeybw6KTJb0/4mQOPPGdopGRkp24hFnNkgiozS715aflBFMOk18CojghD+M/TowOTa3hY3M0y4xpx1JgxFDTnQMN20Mw+E+nnDmr2n+p+/YtuJQsthaZAopOPbVf/uIC/WhzqgLe6ZUl1XGrVAmLR15eMlmQvh4/Ufu3qMl5zse/D8HnC03oCcKK9GeL3+aIs9CjrFdhS3nz6oGdb9vcJP9vPleHd2136MW1ovO5MNksQQfEG7UQgfQTRoPzi4MdS8ixn+ex0tRIk1DTGP3SVvhg3+73h0Hnsc/LW61arTnWfKkx1nPlL7LktiMiw/WPrpB+EUgjV5ART2Os2kQHao2015EO1gc=;8MzxzPqQHdn6+R6NEU8MWg=="
 ---
 

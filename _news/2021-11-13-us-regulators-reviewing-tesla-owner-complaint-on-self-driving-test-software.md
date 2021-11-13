@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
-excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
-publishedDateTime: 2021-11-13T10:40:00Z
-originalUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
-webUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
-ampWebUrl: "https://www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
-cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+title: "U.S. regulators reviewing Tesla owner complaint on self-driving test software"
+excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash. The driver was beta testing the “Full Self-Driving”"
+publishedDateTime: 2021-11-13T13:12:00Z
+originalUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/"
+webUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/"
+ampWebUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
+cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
 type: article
-quality: 59
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: The Hans India
-  domain: thehansindia.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.thehansindia.com/h-upload/2021/11/13/1121601-tesla-car.jpg"
-    width: 1000
-    height: 600
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2021/11/AP21317063976250.jpg?w=1280"
+    width: 1280
+    height: 844
     isCached: true
 
 related:
@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "U.S. regulators reviewing Tesla owner complaint on self-driving test software"
-    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash. The driver was beta testing the “Full Self-Driving”"
-    publishedDateTime: 2021-11-13T13:12:00Z
-    webUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/"
-    ampWebUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 71
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/11/AP21317063976250.jpg?w=1280"
-        width: 1280
-        height: 844
-        isCached: true
   - title: "Netizens raise questions after Tesla in 'Full Self-Driving' results in a car crash in US"
     excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist feature. No one was injured in the crash,"
     publishedDateTime: 2021-11-13T05:45:00Z
@@ -137,6 +121,22 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
+    excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
+    publishedDateTime: 2021-11-13T10:40:00Z
+    webUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    ampWebUrl: "https://www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/11/13/1121601-tesla-car.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla in “Full Self-Driving” Mode “Severely Damaged” in Crash"
     excerpt: "A Tesla Model Y was “severely damaged” after crashing into an oncoming vehicle while reportedly operating with the controversial Full Self-Driving (FSD) Beta active, The Verge reports. The crash could likely be the first serious incident involving FSD,"
     publishedDateTime: 2021-11-12T17:09:00Z
@@ -154,6 +154,6 @@ related:
         height: 315
         isCached: true
 
-secured: "3QMG1bvUlKAXcwaI0L/PXQNvx5tPtsabK42bAaijAqrKABZE8/JTVAvhqlMHHSAYR90sOOOiZUAyVzTe7Tx85uERjQb1WpyHi/OCtk20MRDeA0I04WhSLNIYRoWseKKDoowdp1Xz3CjQfgM5fSmsjLraQZ9qBK6PlwqAoiy8yUZ556MymijJSHAwK6c4eYFtIJhR66DZ2NkBIdhcA3aSdsHmK3yk+ru4fGiKxxQwjou/YZOdoO/9Tjgm0s85QdnkK8ttDRRClH3wlHmnwCD4iPtAAelc0MD8QbeevORHqmrlFKXPHcVPCXyfN6M1ElVOIi/Z5SmegP7xQAYL1GpmD3RObVAQGwqTxSmn5C6RrXl7REa18ikqpXKM5K0RC4AuUA+0XI7tWG1X7DmkI9a+sXsrWPCRMxe7I9kQdUe9S9OQ4v5+iA85VQHJZEmnKOFgXUl2frr96in4B4CZOviF5AvaOuuf2DqnH7xZcftplYzHt0Hnq7JeztZ/1KvtpZkOFzG/O+zOoVHpZwYMppiTrg==;MmGeNR6qrK/BemuQdp+14w=="
+secured: "k9kJnnZhq7ddH+WfnCZ0wkm4Lhcr+JPvLEguDBxcX8y/LWGK3OJ7NXwMX4NcbGK5fDGHzv5gEnuA+4V35M/fDRDDxglqOWs/6XYdWcl7uDOyMCZCDSV4VWuBxnzqdxRcg8drVT4OryHs3fx/R766cvJcMx3Ipimo4BcHuvCl6OYB5B2MTiUOM3QVeJMGxwkxCq+B9WW+l0qlV4RAg0/01Q8UMQMr901xhoRRjjCxGjamyWRKPYq5jGGyrfCf4N+5DwBK2XeZGr9xYmGJ8goaugpUF73/ls+l1o+Z7jdwrFSCgaFC0DYGBHMdWBpg7UJYkmvhm3RIMXwgsHSLhXkF/g0cdQtt9IwvuU4W9xUIkwE=;09kE4FY4CThOIN4NouRX7g=="
 ---
 

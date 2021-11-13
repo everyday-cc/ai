@@ -2,17 +2,21 @@
 category: news
 title: "The ethics of digital technology in the food sector – the future of data sharing"
 excerpt: "Imagine a world in which smart packaging for supermarket ready meals updates you in real-time to tell you about carbon footprints, gives live warnings on product recalls, and instant safety alerts because allergens were detected unexpectedly in the factory."
-publishedDateTime: 2021-11-12T16:13:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/934569"
-webUrl: "https://www.eurekalert.org/news-releases/934569"
+publishedDateTime: 2021-11-13T13:40:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/11/211112121508.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/11/211112121508.htm"
 type: article
-quality: 14
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
@@ -36,6 +40,6 @@ related:
         height: 1104
         isCached: true
 
-secured: "9TB8QMogrhfIXoSt6EQwwKJeJORXgvYc+QWW7DwgVTHFXTRZyu1omT/RtvQqHouEvZtLMZMdWU8ftPSRA29UymUks0Nj6SWVF3DHYEBM7lXo1hiX/krzZSoWf9wBiDqO0feQ0op3UX+Zaq95Mer/E+p7exHAr0cCo3zCCOcLmuOYEjJJCvWVtyc+7MDHvj3b6NaGcLi16FzDONcbimjrbQZLBcmBSX1KISuPlWtNVifDFGKb7B8/Jqshb4A3OlcHkq5hGTe1tv/GKM92CgoeR6odQTXztb5KqPksVROkoRSBtk6wU7kqE8d9Hoj7yI/j7mWinRyDfRxvTkVLVRClbp4ZwGJ5smHodUaFPxsTNNU=;swDD+5DvV7uGGLCEoEqqdg=="
+secured: "iEwx00o/Wv2nvf9UEJZRfKBVsmgLMd6GDLsQjJOznz1iUqduiFuekm7CYaVIbtVc9L26XMz3DoQ0sFJrwSJ3YAawNQJjRzYzvJmseTEHr8Z6xQHzXoIWxvs7Rbl1/t+s2ko8ZFao4HKEQgc1mbCg9C6A9HEhQ8NFA/Ng1esmC+vlAD0Xu6iCG+c+603Y0qvFHA0bQNKrwWX/Wl/+HAxyiERQzFd/IglqXnqPx08fzRiNJrAKVggOgFVsCHsmEzZkZRpBH6+rueODSK95/G1z9uD7xoX1CgDDm7xuPzQaMF72BIN/dt/uU3VAf/OMCZfesgR7WIMAFwYsjwa7mUudEIsLmybUkGfkjdIKKPa82uU=;C/uJ3j/n5C4geyder9b3iw=="
 ---
 

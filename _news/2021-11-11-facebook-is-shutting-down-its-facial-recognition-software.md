@@ -105,34 +105,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Facebook is shutting down its facial recognition software"
-    excerpt: "By Rachel Metz, CNN Business Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-    publishedDateTime: 2021-11-08T21:55:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/11/08/facebook-is-shutting-down-its-facial-recognition-software-2/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 39
-    images:
-      - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_c3e0428384fd6510fc8001cab32debdf-h_ddb443fe9cd71d1b3fa023dee48fb252-300.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Facebook to End Use of Its Facial Recognition System"
-    excerpt: "Facebook parent Meta Platforms Inc. announced in a blog post that it will shut down its “Face Recognition” system in coming weeks as part of a company-w"
-    publishedDateTime: 2021-11-08T22:33:00Z
-    webUrl: "https://www.natlawreview.com/article/facebook-to-end-use-its-facial-recognition-system"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/Biometrics.facialrecognition.scanner.privacy_3_0.jpg?itok=XFC82dYr"
-        width: 500
-        height: 357
-        isCached: true
 
 secured: "TzoOxsXEBMYX/IPm3uAbCOSPUpP2EgLamxelmMMIjHQLBjb/fHEV9Q1xP3NXnGC5LNZDdVWbRRW3phrdbfsbopjz6GULdBQk/0sv4eIq+dPmWxDG3OJ7bi49CsrH/AFqrzyXIZDiAxq5cJKDkm9l1YkplV64p6qxjpc50uhD6+OKXnmx+5PMloeKfIp8Fcyz177cn1R9E/X6ve1VSGgQi4hEv4cJ79xhjljAjjKRUBG6JP2rOHEE7siA9KUcXSxFLnAJRsu7ESRX+apScOzVWFsqXsfFGRy2/2sw56mmtjp+15m7DKykOIriCNPValCyP+/MgFvHWyL/fykxz+S7r+elGU9oBs73nV9uT9XEvq1SBQQeJZMCCrXG4fsQhb79bOrJXZ5pSOayFBU7uydBWCKd7AqxwctNfmboE3ruavApV9uINFIQm9U0k89h2Rytu/qs6rt7dT0ZxwJ6+9Nk6E7eL20+iYTFOTms13zonMci3C3bWw4NvR1MJ+mAGN020zfV8HtNOL+98Ny2mEYhAA==;vkFCs9RtJ5rDy8mu7oeoVw=="
 ---
