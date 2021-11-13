@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/271717543/reimagine-sales-with
 webUrl: "https://www.bignewsnetwork.com/news/271717543/reimagine-sales-with-augmented-reality-and-machine-learning-a-liminal-experience"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 630
     height: 420
     isCached: true
+
+related:
+  - title: "Reimagine sales with augmented reality and machine learning, a liminal experience"
+    excerpt: "While these collaterals have been an integral part of the process for a long time now, Liminal - a leading AR & VR reality player, is reimagining it as an interactive and intelligent experience. Liminal's sales productivity platform,"
+    publishedDateTime: 2021-11-13T18:17:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211113/3855647.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 31
 
 secured: "eIjf8Zr1CTxMKHf8BtGPW2XPClZdgiRuylUb4KeAn9Sf0lwSGsEILW5/UBwgmjS63p95/wDL3J/rtyDSAqb3T2by1gzrtdwiLV3x/iGkMK2MlztV/+5rrL/rCQyzk9ulrQtf6FPS+cDOBOhSFSCcTGrGtnTSxEb29ue3RZigAA9kKNFo5vaqEl7OeVfYKrSd+BiiWvfTjU9ICqwc9t+2Jx4MpLWtgJnkSUifH+dMkUEO0+eG8YEAoMZLj8OfbUU4LlS5OSizZb4E84LDKkaKtCkeKvmi7evJ6w4PVIsynoUl404h3MlYdt4EckRCxP/72l8N62r7E5nADvDVRXzkZR877FQ4xXHGj5bSHwdGjT4=;WJbjEN7Oi/DovIpWPa1xCw=="
 ---

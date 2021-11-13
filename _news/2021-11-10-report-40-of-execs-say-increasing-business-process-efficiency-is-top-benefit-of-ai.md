@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/11/09/report-40-of-execs-say-increasi
 webUrl: "https://www.cognitivescale.com/survey_drivingadoption/"
 type: article
 quality: 160
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Report: 95% of execs say hiring professionals trained in AI is difficult"
+    excerpt: "As leaders consider hiring new AI talent, they shouldn't overlook the importance of training to help mitigate bias and encourage ethical AI."
+    publishedDateTime: 2021-11-13T18:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/"
+    ampWebUrl: "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1063745878-e1636476907899.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Report: Most global execs say AI drives financial, cultural benefits"
     excerpt: "SMR and BCG shows that AI deployment not only brings financial gains but also significant improvements to team culture."
     publishedDateTime: 2021-11-09T07:40:00Z

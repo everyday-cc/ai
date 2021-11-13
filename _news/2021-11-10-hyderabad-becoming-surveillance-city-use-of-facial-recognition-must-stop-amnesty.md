@@ -27,6 +27,52 @@ images:
     isCached: true
 
 related:
+  - title: "Israel’s army using facial recognition surveillance in Palestinian city"
+    excerpt: "Israel’s army has deployed a sweeping personal data collection program using facial recognition technology targeting Palestinians in parts of the occupied"
+    publishedDateTime: 2021-11-09T18:10:00Z
+    webUrl: "https://english.alarabiya.net/News/middle-east/2021/11/09/Israel-s-army-using-facial-recognition-surveillance-in-Palestinian-city"
+    ampWebUrl: "https://english.alarabiya.net/amp/News/middle-east/2021/11/09/Israel-s-army-using-facial-recognition-surveillance-in-Palestinian-city"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/middle-east/2021/11/09/Israel-s-army-using-facial-recognition-surveillance-in-Palestinian-city"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 59
+    images:
+      - url: "https://vid.alarabiya.net/images/2017/03/13/f9ff99cf-1850-4894-a233-e77a6dcaace3/f9ff99cf-1850-4894-a233-e77a6dcaace3_16x9_600x338.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Israel using facial recognition surveillance in Palestinian city"
+    excerpt: "HEBRON: Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an"
+    publishedDateTime: 2021-11-10T19:43:00Z
+    webUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city"
+    ampWebUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: " https://i.tribune.com.pk/media/images/Surveillance1636573997-0/Surveillance1636573997-0.jpg  "
+        width: 712
+        height: 400
+        isCached: true
+  - title: "Israel deploys sweeping facial recognition tech in West Bank: report"
+    excerpt: "People worry about fingerprinting, but this is that several times over,' one former soldier tells Washington Post"
+    publishedDateTime: 2021-11-09T07:41:00Z
+    webUrl: "https://www.yenisafak.com/en/world/israel-deploys-sweeping-facial-recognition-tech-in-west-bank-report-3583763"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 56
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/11/9/99cf0ec8-7wo5exid8j2bwprjwbz3e8.jpeg"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Amnesty International concerned over facial recognition, CCTV surveillance in Hyd."
     excerpt: "Hyderabad, by means of its CCTV network and facial recognition technology, is one of the most surveilled cities in the world, and extensive surveillance here is putting human rights at risk, Amnesty International said in a statement."
     publishedDateTime: 2021-11-10T14:57:00Z
@@ -43,33 +89,19 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Adelaide council to ban SA Police using facial recognition tech on new CCTV network"
-    excerpt: "Adelaide City Council will seek to ban South Australia Police from using facial recognition technology embedded in Adelaide’s planned CCTV network until laws are developed by the state government. The council last night passed a motion to prevent SAPOL from using the “camera facial recognition technology unless,"
-    publishedDateTime: 2021-11-10T06:21:00Z
-    webUrl: "https://www.itnews.com.au/news/adelaide-council-to-ban-sa-police-using-facial-recognition-tech-on-new-cctv-network-572523"
+  - title: "Israel using facial recognition surveillance in Palestinian city"
+    excerpt: "Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an organisation working with former soldiers said Tuesday."
+    publishedDateTime: 2021-11-09T16:49:00Z
+    webUrl: "https://www.bangkokpost.com/world/2212607/israel-using-facial-recognition-surveillance-in-palestinian-city"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 48
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
     images:
-      - url: "https://i.nextmedia.com.au/News/facial_recognition_biometrics.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "BitCenter UK facial recognition app puts CCTV capability on mobile phones"
-    excerpt: "BitCenter UK has developed a facial recognition mobile app, FarFaces, that it says provides the capabilities of a biometric CCTV system on a smartphone."
-    publishedDateTime: 2021-11-10T19:49:00Z
-    webUrl: "https://www.biometricupdate.com/202111/bitcenter-uk-facial-recognition-app-puts-cctv-capability-on-mobile-phones"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
-        height: 734
+      - url: "https://static.bangkokpost.com/media/content/20211109/c1_4139239_700.jpg"
+        width: 700
+        height: 461
         isCached: true
   - title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
     excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."

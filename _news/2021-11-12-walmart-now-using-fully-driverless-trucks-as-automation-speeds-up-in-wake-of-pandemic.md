@@ -9,7 +9,7 @@ ampWebUrl: "https://www.christianpost.com/amp/walmart-begins-using-fully-driverl
 cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/walmart-begins-using-fully-driverless-trucks-to-deliver-groceries.html"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Today in Retail: Walmart Manages Fully Driverless Deliveries; Lowe’s to Launch Room-Scanning Tool"
-    excerpt: "Walmart has achieved daily deliveries without a safety driver, and Amazon is promoting the use of its payment service on other merchants’ sites."
-    publishedDateTime: 2021-11-09T01:28:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 61
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/Lowes_Companies_Inc_Room_Measurements-457x274.jpeg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Walmart is Using Self-Driving Trucks in a 7 Mile Delivery Loop"
     excerpt: "It's the first time ever that an autonomous vehicle company has removed drivers from a delivery route's middle mile."
     publishedDateTime: 2021-11-09T13:04:00Z

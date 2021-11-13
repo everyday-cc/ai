@@ -44,6 +44,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Report: 95% of execs say hiring professionals trained in AI is difficult"
+    excerpt: "As leaders consider hiring new AI talent, they shouldn't overlook the importance of training to help mitigate bias and encourage ethical AI."
+    publishedDateTime: 2021-11-13T18:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/"
+    ampWebUrl: "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1063745878-e1636476907899.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "SPECIAL REPORT: Artificial intelligence becoming a game-changer in ag"
     excerpt: "Technology is all around us. We have daily access to it right at our fingertips, and soon enough it is going to take over many tedious tasks in agriculture, like weeding."
     publishedDateTime: 2021-11-12T02:25:00Z

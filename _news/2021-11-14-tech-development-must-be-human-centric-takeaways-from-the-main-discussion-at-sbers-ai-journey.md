@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Scaling enterprise-grade AI: A study in cloud-based AI for automation"
-excerpt: "From cloud chaos to cloud clarity.” We hope you enjoy this article. In the next several years, the cloud will move the needle for AI from being experimental to becoming an enterprise-wide presence. The two technologies will complement each other."
-publishedDateTime: 2021-11-11T20:44:00Z
-originalUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/"
-webUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/"
-ampWebUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/amp/"
-cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/amp/"
+title: "Tech development must be human-centric: takeaways from the main discussion at Sber’s AI Journey"
+excerpt: "Sber’s international online conference ” Artificial Intelligence Journey ” culminated in a discussion titled “AI Technology to Address Social Issues”, in which the President of the Russian Federation,"
+publishedDateTime: 2021-11-13T18:25:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-vladimir-putin-russia-europe-3667cba0d05323aaf04c5c21ec531a40"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-vladimir-putin-russia-europe-3667cba0d05323aaf04c5c21ec531a40"
 type: article
-quality: 59
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: MIT Technology Review
-  domain: technologyreview.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/scaling.png?w=2508"
-    width: 2508
-    height: 1410
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a1203531adf7a3d1b3daf%2F0x0.jpg%3FcropX1%3D95%26cropX2%3D2400%26cropY1%3D0%26cropY2%3D1729"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Scaling enterprise-grade AI: A study in cloud-based AI for automation"
+    excerpt: "From cloud chaos to cloud clarity.” We hope you enjoy this article. In the next several years, the cloud will move the needle for AI from being experimental to becoming an enterprise-wide presence. The two technologies will complement each other."
+    publishedDateTime: 2021-11-11T20:44:00Z
+    webUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/"
+    ampWebUrl: "https://www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/11/11/1039800/scaling-enterprise-grade-ai-a-study-in-cloud-based-ai-for-automation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/scaling.png?w=2508"
+        width: 2508
+        height: 1410
         isCached: true
   - title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities industries"
     excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
@@ -71,21 +85,7 @@ related:
         width: 1100
         height: 579
         isCached: true
-  - title: "Tech development must be human-centric: takeaways from the main discussion at Sber’s AI Journey"
-    excerpt: "Sber’s international online conference ” Artificial Intelligence Journey ” culminated in a discussion titled “AI Technology to Address Social Issues”, in which the President of the Russian Federation,"
-    publishedDateTime: 2021-11-13T18:25:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-vladimir-putin-russia-europe-3667cba0d05323aaf04c5c21ec531a40"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "DaOjFFgOQOP9w4dUr21jSs/xvMmfndgE/qlg1M8w4LVC0HD9Gh4BsLhiauwC59gs5tXHan84tBgFbtvvyKAZkOxBaXHR4HltT9l8HMNfnlzJurByOwEEZqinJfbzs+ZWao+M7cGtx5k4AG4txZMLko0hXfkx0VcBDuohb5uce4zOwkyIqyM5bOPX6MgOHdO/oT5H1s+b9wLkoOTncpD46cngKSg7FW3+cSAbT3fCf3BMOwS8NsjAxzDoRVfXS/8Upva85GN2MQ+G4VqVsJVRjm29rhyvKXX85j8qMiSZluyIVR2QZuOWvE4UDCEGwaCRQdx7Kl96/L5pLNrFO+pdbNRTotv+vpEg0cihifT/6jU=;lyiXd1g+na4cLXueLcxKEw=="
+secured: "pxx0Zf7HXYUdGQudLaXKLJV55SNnkrtHcDQp3ZO+2C38NZd+mwpCmWVVg1MxeQeo+sZgCG//u2G8BS8qs6VDHrKbmbek7+zMCYBf68tgl9WpQg/LkvBB9ryyiNQ+JzdsZjZQR3bpyHrqElRFN7WzuQz6jdfSUOSvfqJJZqyD2kLz3sPA4oiOyBAiA28EnidSbvjbAlF8VpbIP56naiPkqXkTo8OwEwZ7CEKF7N12vt1eSnX4AAxYKCvrK1J7u6lGbE91TwPDjIRuthtnvQ9DzMBDRnzgewC1bmb2jbtGhc2YTV6d03B6Yepk1F9RYHnZfsDvnZjoQXL7Rs8DkXkG4hQTnlRmhOrMLjQwweN+p7M=;cOxXEErSi1KjmDc+beNXvw=="
 ---
 

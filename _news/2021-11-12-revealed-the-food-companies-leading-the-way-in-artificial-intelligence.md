@@ -7,7 +7,7 @@ originalUrl: "https://www.just-food.com/features/revealed-the-food-companies-lea
 webUrl: "https://www.just-food.com/features/revealed-the-food-companies-leading-the-way-in-artificial-intelligence/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Big Tech leads the AI race – but watch out for these six challenger companies"
-    excerpt: "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
-    publishedDateTime: 2021-11-09T01:15:00Z
-    webUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+  - title: "Revealed: the pharma companies leading the way in artificial intelligence"
+    excerpt: "Novartis and Johnson & Johnson are among the companies best positioned to take advantage of future artificial intelligence disruption in the pharmaceuticals industry, our analysis shows. The assessment comes from GlobalData’s Thematic Research ecosystem,"
+    publishedDateTime: 2021-11-12T13:00:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/analysis/revealed-the-pharma-companies-leading-the-way-in-artificial-intelligence/"
     type: article
     provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 40
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 36
     images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg"
-        width: 1400
-        height: 934
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/11/shutterstock_2055997766.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Revealed: The apparel companies leading the way in artificial intelligence"
+    excerpt: "LVMH and GlaxoSmithKline are among the apparel companies best positioned to take advantage of future artificial intelligence disruption."
+    publishedDateTime: 2021-11-12T11:11:00Z
+    webUrl: "https://www.just-style.com/features/revealed-the-apparel-companies-leading-the-way-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Companies
+      domain: just-style.com
+    quality: 35
+    images:
+      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/11/shutterstock_701349271.jpg"
+        width: 500
+        height: 334
         isCached: true
 
 secured: "1CQM+xSTDHdb6NDjq9Ax62qFtystFoOU7z+cMGXuPQddiTWyQQB2ua9ywAcsvX2AHNOip0b8OxixhCTr6tDQ71bGjbsiXy6PdtndpkLEBaOc/BB76bFjGy6IE9pszLtle2/nuXuhtJsCFQJhPSmi0j32d/0/xq/HzzA/r3dmszBNIDHEB92qyauMYfZA33+BKfy1j8zVWCmT/u++vsBT2sBDpRlLMEZ9AxDphbl01xdNcQVocUwJet4W2oQPJyaiKpI9ZHmp6J5myuzfHwx/QNYyRg3Lh6jInDVylCk5uDevk+I7UtlW2zuUnsbBdOgLuC98bxbUR8gJIdQ4Bp94/b/3ijIGD33HFmQiLRQo/i7M/slOOeXNhb0nw38+bPH/385j0qOrHYZ9NzLiesvW8X5C2kwCqb+CC9IDFmSJYvGiAUkkqP/N0ohgFDFn7vlku4JCCWm79PCUwdFR/6gtzcfssQI+2YwfT9g7wf/H7578fAmzeo2bOWatqzCBaUrf3E75PDXJ6w5uFCM/BKiazg==;2TaKlsEc6C7d9H4wgrQA3A=="

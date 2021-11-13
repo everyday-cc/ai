@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-
 ampWebUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1129396746.jpg?w=1200&strip=all"
@@ -130,6 +131,6 @@ related:
       domain: thegoaspotlight.com
     quality: 15
 
-secured: "iqgXVZ6p+fu+LYXHD3uAp4cX+iHalONxhIz9mxwH4xE0Zuj7Wffr3EDqZoQTWN0uAXksfJdmp0jXS9gGsPOEgOOzictapS0UK9FpWhV2ELmdO3GliZHmAATkxdJWtP6bL6ZKk+ourJTh5QOw8qkCxTaeLFtyXL46UyDYC5dRrZ8wS1C5Y/ha537w4LMWLPIGI99veBSCKyrPXvuGGg2MTRcT8RIgGdv8PFshgj0uGnerYvBCYs2n0JMSG+W/TQVXi9JtcioF5m+yZ+aWfAvUG4+x0Mt35ry8r/RJOHN7VfNXlEIOJ45flR2tr/Bk3fHULUdUZfnMhCXyPArtGr9SbxmOYvpv98obvw6hNN3gyZU=;GwE7SL18QMCM3ztaovM52A=="
+secured: "kUEvEQ9Dn08Otfi1Yex24KwqXvyeYwNgog64xxuVqeOori+byFB3cNWFQyJylPb8WG/i3xBBkB2BcGtgsL7DiTXWC+LfICuqx4/U+dQa64YMrAK4WwREUmFZGy80u2UATP0LfO9PGH+OvaCyX877ZfaY29e04h0JX3BLWM7e00+AMG40FNLVqu/ShNKAXaY33dLPAMYZFPp0QkUVDg4iUbLk5rANrg76fXZZC2H0/+UsKLn2bn0hZWjVNJTBVMAvlejUFpv3e9qtLewnRRDtoN3m+ZB2RmpALXyxcdNwk31OzwYkM9Yn9TyCnE5EmZjchagPwNjfSMjBDKd/sOnjLDuDIu05bqK/14aOwlFbVaVNlh7lE2kwfgMJa7g0dNmaTP0l6KmGnkLiqWpbSFJjq0RkfGOzeYiheo9d+n0nUco2cbW8TBblJEdcYyQCljwAyX6NpCLN+YkIPwziHwp1IcjcARj9pDwhsRhcqUmaY/4sdZoKPVrdtHQBRZlDAi1U651fJVLAbVDWHihB5rXXvQ==;bJN/MgULutDWFtFnjJUn6w=="
 ---
 

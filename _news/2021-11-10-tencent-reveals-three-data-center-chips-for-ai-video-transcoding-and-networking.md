@@ -71,6 +71,20 @@ related:
         width: 720
         height: 412
         isCached: true
+  - title: "Tech development must be human-centric: takeaways from the main discussion at Sber’s AI Journey"
+    excerpt: "Sber’s international online conference ” Artificial Intelligence Journey ” culminated in a discussion titled “AI Technology to Address Social Issues”, in which the President of the Russian Federation,"
+    publishedDateTime: 2021-11-13T18:25:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-vladimir-putin-russia-europe-3667cba0d05323aaf04c5c21ec531a40"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Ijk6oPAqDlJUGO70/KhzTP+uYO1bXNjyXk18GlvWuoIt3Hpgdql+1vj7m17KgkqbBBdRVGzgap3hZFvqHoNY3SoGILR3GNcuc70BjanSlcSF6qpXtBJihgImDLHe32Go97GEMHvlDM7Ow/riBItN8SovRUm3j3RGp62HX5z30kOjii/LV1DeEhKDmXtUTMWw0+7CgttKYIuIEMpRv9HLaAaKTf+jOa6Uq/OSYJebXA+S6t39Ldd4JiFFI/ygzeJ7JoJrWsyMH0UYYm21Es0iyNQjZ94JLVCoAfzUilPeEc5M5Iro2Pllobxlwf+prk5aMxfuikW18yQC/cm04TmEDCZTNIVYS7mheEpiD8qMw/N2ta4NPK0NeAnQgzOroLVVtSOYh/oOzHJx8NUhOwefs7xqBJlmZyxEWwDLbRN2n0lySCQ8nDXs6re8ohWjpYDws+7GoEhU9K9HbaMRz7aTQ1dC/EUDf7OSeCpUnV/eYUywZnk8o/m3N/gvIfHYGc9YiBefWB7xlMT04qfLDj+b+Q==;dm5wdMdcFVwTaW+N5Mm7tw=="
 ---

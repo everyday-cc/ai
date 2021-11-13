@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-dr
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
 type: article
 quality: 99
-heat: 190
+heat: 189
 published: true
 
 provider:

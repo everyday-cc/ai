@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israel escalates surveillance of Palestinians with facial recognition program in West Bank"
-    excerpt: "Israel’s military is utilising facial recognition software to monitor Palestinians in the West Bank. The sweeping surveillance effort utilises a smartphone technology called Blue Wolf and has been in operation for the past two years,"
-    publishedDateTime: 2021-11-09T01:42:03Z
-    webUrl: "https://www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html"
-    type: article
-    provider:
-      name: com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html
-      domain: com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html
-    quality: 146
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RNXK7NRNYUI6ZML5TBOBQ3PDHA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Israel’s army using facial recognition surveillance in Palestinian city"
     excerpt: "Israel’s army has deployed a sweeping personal data collection program using facial recognition technology targeting Palestinians in parts of the occupied"
     publishedDateTime: 2021-11-09T18:10:00Z
@@ -72,6 +58,38 @@ related:
         width: 712
         height: 400
         isCached: true
+  - title: "Amnesty International concerned over facial recognition, CCTV surveillance in Hyd."
+    excerpt: "Hyderabad, by means of its CCTV network and facial recognition technology, is one of the most surveilled cities in the world, and extensive surveillance here is putting human rights at risk, Amnesty International said in a statement."
+    publishedDateTime: 2021-11-10T14:57:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/amnesty-international-concerned-over-facial-recognition-cctv-surveillance-in-hyd/article37423824.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/amnesty-international-concerned-over-facial-recognition-cctv-surveillance-in-hyd/article37423824.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/amnesty-international-concerned-over-facial-recognition-cctv-surveillance-in-hyd/article37423824.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 53
+    images:
+      - url: "https://www.thehindu.com/news/cities/Hyderabad/tjbnik/article37423820.ece/ALTERNATES/LANDSCAPE_615/hy10AI"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Hyderabad becoming ‘surveillance city,' use of facial recognition must stop: Amnesty"
+    excerpt: "Launching a campaign against violation of human rights through the use of facial recognition technology (FRT) by Telangana police, Amnesty International has cautioned that Hyderabad is “on the brink of becoming a total surveillance city."
+    publishedDateTime: 2021-11-10T10:40:00Z
+    webUrl: "https://www.thenewsminute.com/article/hyderabad-becoming-surveillance-city-use-facial-recognition-must-stop-amnesty-157449"
+    ampWebUrl: "https://www.thenewsminute.com/article/hyderabad-becoming-surveillance-city-use-facial-recognition-must-stop-amnesty-157449?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/hyderabad-becoming-surveillance-city-use-facial-recognition-must-stop-amnesty-157449?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 52
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_policing_rep_1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Israel using facial recognition surveillance in Palestinian city"
     excerpt: "Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an organisation working with former soldiers said Tuesday."
     publishedDateTime: 2021-11-09T16:49:00Z
@@ -85,6 +103,20 @@ related:
       - url: "https://static.bangkokpost.com/media/content/20211109/c1_4139239_700.jpg"
         width: 700
         height: 461
+        isCached: true
+  - title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
+    excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."
+    publishedDateTime: 2021-11-11T11:40:00Z
+    webUrl: "https://www.medianama.com/2021/11/223-facial-recognition-hyderabad-amnesty-campaign/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 28
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g8d41a09b1_1280.jpg"
+        width: 1280
+        height: 759
         isCached: true
 
 secured: "Tog3FAWvkEGI4lq171aqXFxUYYV6L6OGF2G3kG+0maV6+4rdo9h/XgORd4PtPGUMqKA0xqRojExu2xRyboSAzxIfXjLasLazkDSAhfnoJq4cMpJ8rfwPfTgtEkUjGjX0StDjrA+Nlxz34zpxgJR6eV1Ii+nzraKe8PFViqPxwsSCSz+r8AH5aiS2Up9XoUrijlfKQ0lNHN1UClh3MSnI0BiE4Lwe/Z73XAFYEAFxpSR8ykxVpeYzCOaW7DGAkbT7yeABEi9ujUM7aB4LxrjFFNwF1KMupcE+LM5bNFwstHVqAyVlWafnbhWQDIQY1rlk3q35M6kwBmtlHu1UEtDXMzDxcvWNulCdmQ+SkPClFSzvv+60mpbHz0M0oiszo0Hco5NuI9kL7u+mn9MtzGx5j2lnem+AQoV77Aax36jYDLA2PTuCu/eqaFmZQMO0mCROban1mz10bza8MEaj5/IZInsiNiGmz/ZIU26HYg9a+uiDcBTrlS4NGhmZObOSbECIBqnAcbPjSwayrc/NQlT14Q==;RMnVYgmO3CeO087aaaBO2w=="
