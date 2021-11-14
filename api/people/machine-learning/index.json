@@ -17,7 +17,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 880000
+        "followers": 880257
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -41,13 +41,67 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 491,
+      "heat": 424,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Lex Fridman",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/jeff-dean.md",
+      "title": "Jeff Dean",
+      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
+      "type": "profile",
+      "name": "Jeff Dean",
+      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "website": "https://t.co/ajoSG5g4Rn",
+      "twitter": {
+        "username": "jeffdean",
+        "url": "https://twitter.com/jeffdean",
+        "followers": 197712
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
+        "citations": 196133
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 316,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jeff Dean",
           "isCached": true
         }
       ],
@@ -67,7 +121,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 283876
+        "followers": 283901
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -87,7 +141,7 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 298,
+      "heat": 302,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -113,7 +167,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 622953
+        "followers": 622967
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -148,7 +202,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 297,
+      "heat": 291,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -173,7 +227,7 @@
       "twitter": {
         "username": "demishassabis",
         "url": "https://twitter.com/demishassabis",
-        "followers": 242604
+        "followers": 242607
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
@@ -188,7 +242,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 273,
+      "heat": 243,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
@@ -212,7 +266,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 129831
+        "followers": 129837
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -230,7 +284,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 250,
+      "heat": 241,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -290,7 +344,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 250,
+          "heat": 241,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -314,7 +368,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 298,
+          "heat": 302,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -327,7 +381,7 @@
         }
       ],
       "size": 3,
-      "heat": 250,
+      "heat": 241,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -335,6 +389,104 @@
           "height": 128,
           "title": "Yoshua Bengio",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/christopher-d-manning.md",
+      "title": "Christopher D Manning",
+      "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-d-manning/index.json",
+      "webUrl": "https://everyday.cc/ai/people/christopher-d-manning/",
+      "type": "profile",
+      "name": "Christopher D Manning",
+      "bio": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
+      "location": "Palo Alto",
+      "website": "https://nlp.stanford.edu/~manning/",
+      "twitter": {
+        "username": "chrmanning",
+        "url": "https://twitter.com/chrmanning",
+        "followers": 85197
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
+        "citations": 177271
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "heat": 201,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Christopher D Manning",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/soumith-chintala.md",
+      "title": "Soumith Chintala",
+      "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/soumith-chintala/index.json",
+      "webUrl": "https://everyday.cc/ai/people/soumith-chintala/",
+      "type": "profile",
+      "name": "Soumith Chintala",
+      "bio": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
+      "location": "New York, NY",
+      "website": "https://soumith.ch/",
+      "twitter": {
+        "username": "soumithchintala",
+        "url": "https://twitter.com/soumithchintala",
+        "followers": 92333
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/soumith"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Facebook",
+        "domain": "facebook.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Facebook AI",
+        "PyTorch"
+      ],
+      "heat": 186,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Soumith Chintala",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -353,7 +505,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 392204
+        "followers": 392207
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -387,325 +539,13 @@
         "Computer Vision",
         "AI in Healthcare"
       ],
-      "heat": 220,
+      "heat": 178,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Fei-Fei Li",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/soumith-chintala.md",
-      "title": "Soumith Chintala",
-      "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/soumith-chintala/index.json",
-      "webUrl": "https://everyday.cc/ai/people/soumith-chintala/",
-      "type": "profile",
-      "name": "Soumith Chintala",
-      "bio": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "location": "New York, NY",
-      "website": "https://soumith.ch/",
-      "twitter": {
-        "username": "soumithchintala",
-        "url": "https://twitter.com/soumithchintala",
-        "followers": 92332
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/soumith"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Facebook",
-        "domain": "facebook.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI",
-        "PyTorch"
-      ],
-      "heat": 193,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Soumith Chintala",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/christopher-d-manning.md",
-      "title": "Christopher D Manning",
-      "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-d-manning/index.json",
-      "webUrl": "https://everyday.cc/ai/people/christopher-d-manning/",
-      "type": "profile",
-      "name": "Christopher D Manning",
-      "bio": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "location": "Palo Alto",
-      "website": "https://nlp.stanford.edu/~manning/",
-      "twitter": {
-        "username": "chrmanning",
-        "url": "https://twitter.com/chrmanning",
-        "followers": 85196
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
-        "citations": 177271
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 190,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Christopher D Manning",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/jeff-dean.md",
-      "title": "Jeff Dean",
-      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
-      "type": "profile",
-      "name": "Jeff Dean",
-      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "website": "https://t.co/ajoSG5g4Rn",
-      "twitter": {
-        "username": "jeffdean",
-        "url": "https://twitter.com/jeffdean",
-        "followers": 197715
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
-        "citations": 196133
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Google",
-        "domain": "google.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/google.com-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 185,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jeff Dean",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/laurence-moroney.md",
-      "title": "Laurence Moroney",
-      "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/laurence-moroney/index.json",
-      "webUrl": "https://everyday.cc/ai/people/laurence-moroney/",
-      "type": "profile",
-      "name": "Laurence Moroney",
-      "bio": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
-      "location": "Sammamish, WA",
-      "website": "https://research.google/people/RajatMonga/",
-      "twitter": {
-        "username": "lmoroney",
-        "url": "https://twitter.com/lmoroney",
-        "followers": 25192
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/laurence-moroney/"
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning",
-        "TensorFlow"
-      ],
-      "heat": 170,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Laurence Moroney",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/ilya-sutskever.md",
-      "title": "Ilya Sutskever",
-      "excerpt": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ilya-sutskever/index.json",
-      "webUrl": "https://everyday.cc/ai/people/ilya-sutskever/",
-      "type": "profile",
-      "name": "Ilya Sutskever",
-      "bio": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
-      "twitter": {
-        "username": "ilyasut",
-        "url": "https://twitter.com/ilyasut",
-        "followers": 69101
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
-        "citations": 276694
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "openai.com",
-        "domain": "openai.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 168,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1425684733753626624/q521TgTG_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Ilya Sutskever",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/nando-de-freitas.md",
-      "title": "Nando de Freitas",
-      "excerpt": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/nando-de-freitas/index.json",
-      "webUrl": "https://everyday.cc/ai/people/nando-de-freitas/",
-      "type": "profile",
-      "name": "Nando de Freitas",
-      "bio": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
-      "location": "London, England",
-      "website": "https://t.co/uy8OBWPHze",
-      "twitter": {
-        "username": "NandoDF",
-        "url": "https://twitter.com/NandoDF",
-        "followers": 85664
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
-        "citations": 45884
-      },
-      "affiliation": {
-        "path": "",
-        "name": "google.com - Homepage",
-        "domain": "google.com - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 152,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nando de Freitas",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/bernhard-scholkopf.md",
-      "title": "Bernhard Schölkopf",
-      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
-      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
-      "type": "profile",
-      "name": "Bernhard Schölkopf",
-      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "twitter": {
-        "username": "bschoelkopf",
-        "url": "https://twitter.com/bschoelkopf",
-        "followers": 7973
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 180118
-      },
-      "affiliation": {
-        "path": "",
-        "name": "tuebingen.mpg.de",
-        "domain": "tuebingen.mpg.de"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 124,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bernhard Schölkopf",
           "isCached": true
         }
       ],
@@ -725,7 +565,7 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 11740
+        "followers": 11742
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
@@ -741,7 +581,7 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 117,
+      "heat": 124,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
@@ -767,7 +607,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 15143
+        "followers": 15144
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -796,6 +636,87 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/nando-de-freitas.md",
+      "title": "Nando de Freitas",
+      "excerpt": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/nando-de-freitas/index.json",
+      "webUrl": "https://everyday.cc/ai/people/nando-de-freitas/",
+      "type": "profile",
+      "name": "Nando de Freitas",
+      "bio": "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning.",
+      "location": "London, England",
+      "website": "https://t.co/uy8OBWPHze",
+      "twitter": {
+        "username": "NandoDF",
+        "url": "https://twitter.com/NandoDF",
+        "followers": 85659
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
+        "citations": 45884
+      },
+      "affiliation": {
+        "path": "",
+        "name": "google.com - Homepage",
+        "domain": "google.com - Homepage"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 93,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Nando de Freitas",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/bernhard-scholkopf.md",
+      "title": "Bernhard Schölkopf",
+      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
+      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
+      "type": "profile",
+      "name": "Bernhard Schölkopf",
+      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "twitter": {
+        "username": "bschoelkopf",
+        "url": "https://twitter.com/bschoelkopf",
+        "followers": 7974
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
+        "citations": 180118
+      },
+      "affiliation": {
+        "path": "",
+        "name": "tuebingen.mpg.de",
+        "domain": "tuebingen.mpg.de"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bernhard Schölkopf",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/andrew-moore.md",
       "title": "Andrew Moore",
       "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
@@ -809,7 +730,7 @@
       "twitter": {
         "username": "awmcmu",
         "url": "https://twitter.com/awmcmu",
-        "followers": 6091
+        "followers": 6092
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrew-moore-016b751"
@@ -819,13 +740,50 @@
         "Google AI",
         "Machine Learning"
       ],
-      "heat": 58,
+      "heat": 65,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Andrew Moore",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/laurence-moroney.md",
+      "title": "Laurence Moroney",
+      "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/laurence-moroney/index.json",
+      "webUrl": "https://everyday.cc/ai/people/laurence-moroney/",
+      "type": "profile",
+      "name": "Laurence Moroney",
+      "bio": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "location": "Sammamish, WA",
+      "website": "https://research.google/people/RajatMonga/",
+      "twitter": {
+        "username": "lmoroney",
+        "url": "https://twitter.com/lmoroney",
+        "followers": 25191
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/laurence-moroney/"
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Laurence Moroney",
           "isCached": true
         }
       ],
@@ -845,7 +803,7 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14148
+        "followers": 14147
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
@@ -922,6 +880,55 @@
           "height": 121,
           "title": "Anil K. Jain",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/christopher-m-bishop.md",
+      "title": "Christopher M. Bishop",
+      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-m-bishop/index.json",
+      "webUrl": "https://everyday.cc/ai/people/christopher-m-bishop/",
+      "type": "profile",
+      "name": "Christopher M. Bishop",
+      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
+      "location": "Cambridge, England",
+      "website": "https://t.co/qaAoprog1k",
+      "twitter": {
+        "username": "chrisbishopmsft",
+        "url": "https://twitter.com/chrisbishopmsft",
+        "followers": 5617
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
+        "citations": 131966
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Christopher M. Bishop",
+          "isCached": true
         }
       ],
       "content": "\r\n"
