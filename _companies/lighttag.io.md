@@ -2,7 +2,7 @@
 name: "LightTag"
 overview: "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects."
 type: "profile"
-heat: 58
+heat: 50
 
 website: https://www.lighttag.io/
 
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=dA2uo9sGIj8"
 
-secured: "LDhAlTJtoemw0FJkci4LU5sLaf6+uTcCYwU5dW8FQotQ7iv6f/PnTetWLdwprcwCh50PsOGgVu1S6s5XjqHQW4aQt2IFY3Hw/zmilx0iHxPMe6pxThYtZqF5jtJNzxh+/3DSpLzcJYBoAoFkkzsfdTK8wUHrNrneE0leU3RJ2xb4/084FLGFUzpQfCo17rsqg3QZd/RnRJI3x1YVNeG2l+KXFx4HtXWLNp6WkuNGgYVSZt4vjYdIUq1hNLPkRrneNQm0VGpTj8tZ9Yv2yQLgne6usLsA7dVHSNqUiJL+Iz4gWtK4WzbsIF+/zo9xWb59bYtbDFvPiSIH2AOl36XKTuLVXx8noLBeXtqZK3s21WMaVxPetHZAk8HpxOCh4g0tMeSXq+nzh+RGspe9FKIXbg==;GQ1cYISeppASo0y6L2JSpA=="
+secured: "8oXGY+ljGMel4G455jN9+XHn+xck7Zikx4v1d8DtUfH8PSMLZYWf2yfM5T3EmHseL01S3eujoZFlhtokFYV+5eEFp03vmjZsscmOsaSTBIdwh6WjSyGo7G+pEr1TodUQyVPhxp2Mu8Ei+EWj4Zk6v/y91socAfEIBdOz9yYHWmDbDOlPy1HQkvFKv8gV1cRcs9eH/jNwhwuUpBjUyLJHrUj09uamdjVgXuFbD2kGjeSx0D+gpdK3iIxMniRReYQEtQQWsCS7hC/dJxq20gaqNThtPh1q9Sb+Gop4T1bSbaVByE1iq7CxF0CwcYY+4b5wgs93ttAqZKjMAWy+yHkHu9+Pib9o8UqnDLrAGYhW1iIuj28SjOusQKBUEPrhfnehhMXise/itGBAJhxzbG7tCA==;OzbHcM/B7nVqVC3kUPbVZQ=="
 ---
 
