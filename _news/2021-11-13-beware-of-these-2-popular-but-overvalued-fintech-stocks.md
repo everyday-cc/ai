@@ -121,15 +121,6 @@ related:
         width: 2048
         height: 1136
         isCached: true
-  - title: "The Key Mobile App Features to Consider for your Fintech App"
-    excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
-    publishedDateTime: 2021-11-10T03:16:00Z
-    webUrl: "https://www.finextra.com/blogposting/21229/the-key-mobile-app-features-to-consider-for-your-fintech-app"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "Blockchain technology Market size to increase by USD 6.25 Bn | Technavio's Research Insights highlight Increase in FinTech Spending as a Key Trend"
     excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth"
     publishedDateTime: 2021-11-12T00:30:00Z

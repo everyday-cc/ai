@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
 type: article
 quality: 119
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -213,20 +213,6 @@ related:
       name: Thomson Reuters Foundation
       domain: trust.org
     quality: 18
-  - title: "The Metaverse Is Big Brother in Disguise: Freedom Meted Out by Technological Tyrants"
-    excerpt: "The term metaverse, like the term meritocracy, was coined in a sci fi dystopia novel written as cautionary tale. Then techies took metaverse, and technocrats took meritocracy, and enthusiastically adopted what was meant to inspire horror."
-    publishedDateTime: 2021-11-10T04:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/metaverse-big-brother-disguise-freedom-meted-out-john-whitehead"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 17
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGln4MVAQHacw/article-cover_image-shrink_600_2000/0/1636496306163?e=1642032000&v=beta&t=8VjY5jZILkMGeMg8nkLXjHvBKj6dKFunXdznhADsF3s"
-        width: 1200
-        height: 552
-        isCached: true
   - title: "The metaverse is Big Brother in disguise: Freedom meted out by technological tyrants"
     excerpt: "Welcome to the Matrix (i.e. the metaverse), where reality is virtual, freedom is only as free as one’s technological overlords allow."
     publishedDateTime: 2021-11-12T04:05:00Z

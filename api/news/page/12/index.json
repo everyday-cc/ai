@@ -2,6 +2,126 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-03-waymo-is-bringing-its-autonomous-vehicles-to-new-york-city-for-manually-driven-mapping.md",
+      "title": "Waymo is bringing its autonomous vehicles to New York City for (manually driven) mapping",
+      "excerpt": "The latest autonomous vehicle company to tackle the mean streets of New York City will be Waymo. The Google spinoff is bringing a handful of cars to the Big Apple, where they will start mapping the city streets using manually driven vehicles with two people riding inside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/waymo-is-bringing-its-autonomous-vehicles-to-new-york-city-for-manually-driven-mapping/ar-AAQh7LJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/yFp0rPyytEXZW7lJ5JWeDYebgLg=/0x0:1600x898/1400x933/filters:focal(672x321:928x577):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70085227/O0CtGcQE53rLMZODMK_XXR4sEcsD73_ZALIzuuhdA8Rv_XdvjlUgAraW_KzZ0W7he97FRwrbUjdA9K65kh6OqW7IXHNYaPUnz6_Klq2c1c3Wz4GioI7WdAutNZd2d1PsxDgZebJSRQ.5.jpeg",
+          "width": 1400,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual",
+        "domain": "theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-informatica-announces-program-with-microsoft-to-launch-modern-cloud-analytics-on-microsoft-azure.md",
+      "title": "Informatica Announces Program with Microsoft to Launch Modern Cloud Analytics on Microsoft Azure",
+      "excerpt": "Informatica (NYSE: INFA), an enterprise cloud data management leader, today at Microsoft IGNITE, announced a joint Modern Cloud Analytics program with Microsoft Azure to provide customers with one of the fastest,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/informatica-announces-program-with-microsoft-to-launch-modern-cloud-analytics-on-microsoft-azure-1030931860",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/informatica-announces-program-with-microsoft-to-launch-modern-cloud-analytics-on-microsoft-azure-1030931860",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-tackle-racism-in-ai-blm-co-founder-tells-tech-bosses.md",
+      "title": "Tackle racism in AI, BLM co-founder tells tech bosses",
+      "excerpt": "As concerns grow over racial bias in artificial intelligence, Black Lives Matter co-founder Opal Tometi urged the tech sector to act fast against perpetuating racism in systems such as facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses-2021-11-03",
+      "originalUrl": "https://www.nasdaq.com/articles/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses-2021-11-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses-2021-11-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses-2021-11-03?amp",
+      "publishedDateTime": "2021-11-03T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice.md",
       "title": "As the Arctic Warms, AI Forecasts Scope Out Shifting Sea Ice",
       "excerpt": "Global warming is making it harder to predict the movement and location of the ice cover, crucial information for fishing and global shipping.",
@@ -1025,145 +1145,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-in-surprising-announcement-facebook-says-its-shutting-off-facial-recognition-technology.md",
-      "title": "In surprising announcement, Facebook says it's shutting off facial recognition technology",
-      "excerpt": "Facebook will no longer use facial recognition technology and will delete over a billion users’ facial recognition templates.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its",
-      "originalUrl": "https://thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_facialrecognition_getty.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its?amp",
-      "publishedDateTime": "2021-11-02T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-aws-financial-services-for-payment-industry.md",
-      "title": "AWS Financial Services for Payment Industry",
-      "excerpt": "The payment industry is rapidly transforming and growing due to the influx of new methods, acquisitions, mergers and technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
-      "originalUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2021/10/AWS-Financial-Services-for-Payment-Industry.png",
-          "width": 600,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp",
-      "publishedDateTime": "2021-11-02T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-driverless-delivery-company-nuro-nabs-600m-and-partners-with-google.md",
-      "title": "Driverless delivery company Nuro nabs $600M and partners with Google",
-      "excerpt": "Autonomous vehicle company Nuro has raised $600 million from a slew of high-profile investors, including Tiger Global Management and Google.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/",
-      "publishedDateTime": "2021-11-02T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,6 +2,163 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-05-using-ai-to-verify-renter-eligibility-and-risk.md",
+      "title": "Using AI to verify renter eligibility and risk",
+      "excerpt": "Oblogo's platform uses open banking data and AI-based underwriting to determine a renter's eligibility to rent a unit.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/",
+      "originalUrl": "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/fintech.jpg?w=1200&strip=all",
+          "width": 999,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/amp/",
+      "publishedDateTime": "2021-11-04T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-cobi-robot-autonomously-performs-needle-less-vaccinations.md",
+      "title": "Cobi robot autonomously performs needle-less vaccinations",
+      "excerpt": "It goes without saying that a lot of people are receiving the COVID-19 vaccine these days, and will continue to do so for some time. A new robot is designed to help streamline the process, by autonomously – and needle-lessly – vaccinating human patients.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/",
+      "originalUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/735b46a/2147483647/strip/true/crop/746x497+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F92%2Fb2%2Fd4ed008e4c199d20be0d2caa5b92%2Fscreen-shot-2021-11-04-at-12.09.10%20PM.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true",
+      "publishedDateTime": "2021-11-04T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-facebook-should-not-have-bowed-to-public-outrage-and-shut-down-its-facial-recognition-system-former-world-chess-champion-says.md",
+      "title": "Facebook should not have bowed to public outrage and shut down its facial recognition system, former world chess champion says",
+      "excerpt": "Facebook is wrong to shut down facial recognition, according to Gary Kasparov, the former world chess champion and chairman of Human Rights Foundation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106173405-1570674137430gettyimages-1167464772.jpeg?v=1570674164",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "publishedDateTime": "2021-11-04T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup.md",
       "title": "Alphabet launches Isomorphic Labs, an AI-driven drug discovery startup",
       "excerpt": "The new venture plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements.",
@@ -1016,161 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-law.md",
-      "title": "Australia says U.S. facial recognition software firm Clearview breached privacy law",
-      "excerpt": "An Australian regulator on Wednesday ordered U.S. facial recognition software company Clearview AI Inc to stop collecting images from websites and destroy data collected in the country after an investigation found it breached privacy laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/",
-      "originalUrl": "https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/jFIMB9sO2Pgh02m6HYX9le7rWKc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5OK2AH5UFVM2DKLI44GFGOABOA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai.md",
-      "title": "Microsoft says all business will be collaborative, and infused with data and AI",
-      "excerpt": "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Satya-Nadella-ignite-nov-2021.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/",
-      "publishedDateTime": "2021-11-03T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-clearview-ai-forced-to-cease-data-scraping-operations-in-australia.md",
-      "title": "Clearview AI Forced to Cease Data Scraping Operations in Australia",
-      "excerpt": "Australia's national privacy regulator determined Clearview AI breached users' privacy and violated the Australian Privacy Act 1988.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895",
-      "originalUrl": "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/95da1f03aebf41e4a0369aa2ecfddc6c.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp",
-      "publishedDateTime": "2021-11-03T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

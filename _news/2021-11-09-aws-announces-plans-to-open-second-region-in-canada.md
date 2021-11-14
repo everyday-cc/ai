@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces Plans to Open Second Region in Canada"
-excerpt: "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ..."
-publishedDateTime: 2021-11-08T16:54:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-plans-to-open-second-region-in-canada/article_3e90a1cf-25c0-5307-bb52-1d31149706c2.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-plans-to-open-second-region-in-canada/article_3e90a1cf-25c0-5307-bb52-1d31149706c2.html"
+excerpt: "(NASDAQ: AMZN), announced plans to open an infrastructure Region in Alberta, Canada, in late 2023/early 2024. The new AWS Canada West (Calgary) Region will consist of three Availability Zones (AZs) at launch and join the existing AWS Canada (Central) Region in Montreal,"
+publishedDateTime: 2021-11-08T16:34:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
+webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "gV3lNEUNv33jPhEnajf7TrVql0NVw49wH3aMWz6hQJlFJp5b6XxJcLBeQNPCqesJdO6CxIKWSK1M1Zl6ZD4CT/qe0buSim0NsjLRDcIVHTGL/Y6x12qtYABv7z1NXLHKBKC028u4l4aR4ALCwq5EQZ5304MXdKEz8gTL6NDxeEDQGgRIel91+SbERTQtBlOAqDfTyZ3SdVNYNgMfJp6YK0tzR223+MG20x02bGZ26MO5es9+5OerEIS8kRYiyoDIaUOkCUydINQgPVObtad4a+6dbvcSYDbbFdpUS986Xv6VPNyQNfNsJs33QzB0vVPkUBVqCgCfzeO5KhpVgnPwh9cfKHzKm9IUKzVRuRyWyQ4=;4V0MtGpCuiF/iAYQk97kXw=="
+secured: "8HijTiut2P/R4Swy5I0BjA06XPc55Xy++BWupNaqPen+YPrCjiI3nDV1ufsYXCtQrsL7OQe8N9JOc0sf6xrfHuJ15d8iYC7VcQrlKR40gtFYvrZQRhGq2e2z62ydUMRQThyXezO8AAKvveZU5/oXHSEeMzBZ41VL7KSQ1zFVl01gsqH/w0Zjo7dDjhN+NkMPfHq8P7QreiOm1C/6tgTJiKIQwvzFdkPyHfVP7a5RY1SD0i3+wig2De3oluiocedBdMb1CQndTP778CFlnGS5sgF5P1oJ9V8iCg4b8eqX5pWZnFNB1RNvi1C/O1+GYk26dlIRxPsgV7xoExoDS9e6P/jBL9kNCmVeo18WsYsOj5k=;YGpPjSRKvj0AFeC/sezCNA=="
 ---
 

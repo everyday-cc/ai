@@ -136,15 +136,6 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
-  - title: "The Key Mobile App Features to Consider for your Fintech App"
-    excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
-    publishedDateTime: 2021-11-10T03:16:00Z
-    webUrl: "https://www.finextra.com/blogposting/21229/the-key-mobile-app-features-to-consider-for-your-fintech-app"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "tQdL7aoDYG4PuOmOIct8Pql+ilkyekfyAjfmW/Ik0kub0myyb6pkA8EyrlNOr2AO2dNdP1SDhfcYwUNRQMXQbTo25gFphMtlFhpQo67MQAvnsU0Bl9zbqS5OegBdwP6gGGZ7Otqp9gVMQKrosE6kpGOJm9XqqHAhk8AQ6Z4bS6TIXSNRFxesSuM5DBV1vrmBC3iJjA+1jeKWXnpT0GFvshhmT0441TzfkI5GbC9pkWYowHfr1MZnbkdfaTiwT9WEFBmFpRXsNpWj/ZaID5FQ8TMmCvmpJ7q95doC5UUSFb5YzmgaaRg9dKHptptBSle8dbcrFNLlRl76dFpdEhI5mqGN9IHRGoC325GmFj/rcqVMnVlXFqOdNWUfDusIohEDnE5jRB4tBbbOJ2z+wU0ux3N5c/9NuXhooMo6MKX4WxTxfrKsAFzyXBNgbhJr6lmbRqO56TETYuygJLHt5LahYhRFM4EPrtfLORbPMTThfuBSbZUBNCweT41msT3c121w/ww8O2SBepxVUZg2U/P2kA==;YWYg5oACX4rD/qQ0pGLV8w=="
 ---

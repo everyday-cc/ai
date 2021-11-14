@@ -2,9 +2,9 @@
 category: news
 title: "What analysing language tells us about inflation"
 excerpt: "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook"
-publishedDateTime: 2021-11-09T07:52:00Z
-originalUrl: "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/"
-webUrl: "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/"
+publishedDateTime: 2021-11-09T09:00:00Z
+originalUrl: "https://www.schroders.com/de/uk/adviser/insights/economics/what-analysing-language-tells-us-about-inflation/"
+webUrl: "https://www.schroders.com/de/uk/adviser/insights/economics/what-analysing-language-tells-us-about-inflation/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 470
     isCached: true
 
-secured: "rG5I9DgX7bTOFnGd+9LFHu7xdVXrYzJkHPE467JOxsOgtKeNDNZGQZWICVYEvvq36PKDQGwzOo8ALU5ko0t7r/SSJTtyLnzPnXuJODtjN18WfLVZYhIBnIixgxhdvlqHR9gmlTM8saZWKA7BVKLiaRZ3xW26lA7BwT5T5I5IZC/Wp0mDvaZK7RNT0GbOgSairAoIqZwas3kEEVLOlXVh5pkloWUhKWaOAcfl1wNEUnMBRO0iwo1rijje5dHt+mObbIbWSMvYnqNV7/jDqhLOhdi7lWlf+dIU5KgstkdTTBG240VKzBr/yYLWoQA6fjuD+vR1GKif/xwRDVqjb8GZTl9bA3lA80f2hzn+l84cBprFyX6CH3xi1EOZmdqSS3LK0zQzhVDwuuSp6fKaVbkJ+xWH40hMKYUk9Hjd/ADpOGgTYpofQ/t4ZN/GVzu6miHCVMspFKzlL6+4ifoQbBhtu+zVhAiMnet40WUaZKJeZERc2ZGakclw+ujgL5gOvPci0HSKdFJPfBzASeMW10zGBA==;hAcJBdZZeQrYEvgYFvztcg=="
+secured: "2evpHfMZbwDQVVDot8zhCuMxDVD6BsPkDk8Flqh48EpLv5l5aLW4cbXN524+oSUpr3Irohp7SaP+0WMX2P58kTuUOFmlRGowQNrUUivWQdeHZcmPdNTxDV1+PoPnApCLZ3LrIJkPEMe8dac7lyXpj9U65eXUXj45YqhsiwGBm5NaDkEOKwW6dlD/DkcpDJVzwWMZJdy5yPOq4Q2RPiWxIul88cmzK5BXJBZFjwgG9Xf3fDJ+ni/Bw1RetTBQErL+AiK5cxIRsegNCMG3zyJFLaa/OhjCwu/ufw2qVS3IWouRPKz+RLvYqq1aTfaKwoy5noc+zdHibWiS3c0Ypv11yyLJHvFTGSk3SlQeLekfqzQ=;z75EUIOBgkSr/sgj/jUWzw=="
 ---
 

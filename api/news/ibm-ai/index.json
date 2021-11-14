@@ -99,6 +99,83 @@
       ]
     },
     {
+      "path": "_news/2021-11-09-mediamath-ibm-watson-advertising-strengthen-relationship.md",
+      "title": "MediaMath, IBM Watson Advertising strengthen relationship",
+      "excerpt": "MediaMath, the independent advertising technology company for leading brands and agencies, has integrated its demand side platform (DSP) with IBM Watson Adverti",
+      "sourceUrl": null,
+      "webUrl": "https://advanced-television.com/2021/11/09/mediamath-ibm-watson-advertising-strengthen-relationship/",
+      "originalUrl": "https://advanced-television.com/2021/11/09/mediamath-ibm-watson-advertising-strengthen-relationship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Advanced Television",
+        "domain": "advanced-television.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting.md",
+      "title": "MediaMath and IBM Watson Advertising Strengthen Relationship to Deliver Transparent, Addressable Weather-Based Ad Targeting",
+      "excerpt": "an IBM Business, Watson Advertising Weather Targeting marries weather's ability to help drive action with Watson AI's capability to aggregate and analyze complex data sets. This unique combination ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting-301419155.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting-301419155.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1682667/IBM_Weather_Set03_Sunshine_LI.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "AI stocks may be excellent long-term investments. The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. From machine learning to",
@@ -1301,93 +1378,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-in-2021-the-top-four-chatbots-in-higher-education.md",
-      "title": "In 2021, the top four chatbots in higher education",
-      "excerpt": "Chatbots are becoming increasingly popular, and they are being used on a number of websites. Chatbots are computer programmes that employ machine learning well controll by the machine learning expert and artificial intelligence to engage with users via a chatbox.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/2021-top-four-chatbots-higher-education-aman-kumar-singh",
-      "originalUrl": "https://www.linkedin.com/pulse/2021-top-four-chatbots-higher-education-aman-kumar-singh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGKclUtPyYaCg/article-cover_image-shrink_720_1280/0/1632983466314?e=1639612800&v=beta&t=eV1tNOrRnP1k2Zzz_xF6jd6-qMdF6Bw_QjxrUJxbdDI",
-          "width": 1280,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-five9-wins-best-application-of-ai-award-at-enterprise-connect.md",
-      "title": "Five9 Wins Best Application of AI Award at Enterprise Connect",
-      "excerpt": "28. Five9 Inference Studio enables companies to build conversational experiences by harnessing and extending the power of the most advanced AI technologies, including Google, Amazon, IBM Watson, and more. Its Task Library offers many pre-built IVA ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/09/28/five9-wins-best-application-of-ai-award-at-enterprise-connect",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/09/28/five9-wins-best-application-of-ai-award-at-enterprise-connect",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

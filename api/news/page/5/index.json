@@ -2,6 +2,151 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-09-four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience.md",
+      "title": "Four Use Cases For AI Voicebots That Help Improve The Retail Customer Experience",
+      "excerpt": "Let’s take a look at four voice automation use cases that can drive human-centric customer experiences and higher ROI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189318020bdaaea69582562%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/amp/",
+      "publishedDateTime": "2021-11-09T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-synthesis-ai-offers-api-for-virtual-humans.md",
+      "title": "Synthesis AI offers API for virtual humans",
+      "excerpt": "Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next.  Synthesis AI, a synthetic data company, has released HumanAPI, a new tool for generating virtual humans from synthetic data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Synthesis-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/amp/",
+      "publishedDateTime": "2021-11-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting.md",
+      "title": "MediaMath and IBM Watson Advertising Strengthen Relationship to Deliver Transparent, Addressable Weather-Based Ad Targeting",
+      "excerpt": "an IBM Business, Watson Advertising Weather Targeting marries weather's ability to help drive action with Watson AI's capability to aggregate and analyze complex data sets. This unique combination ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting-301419155.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting-301419155.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1682667/IBM_Weather_Set03_Sunshine_LI.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter.md",
       "title": "Peloton's $495 Guide Camera Uses AI to Help You Strength Train Smarter",
       "excerpt": "The Peloton Guide uses machine learning and smart camera technology to track your movements, assess your form, and recommend classes focused on muscle groups you need to work.",
@@ -933,6 +1078,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-09-what-analysing-language-tells-us-about-inflation.md",
+      "title": "What analysing language tells us about inflation",
+      "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
+      "sourceUrl": null,
+      "webUrl": "https://www.schroders.com/de/uk/adviser/insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "originalUrl": "https://www.schroders.com/de/uk/adviser/insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.schroders.com/de/sysglobalassets/digital/insights/2021/hero-images/announcement.jpg",
+          "width": 945,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Schroders",
+        "domain": "schroders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-daniel-eks-fund-puts-100m-into-defence-startup-helsingai-to-support-democracies.md",
       "title": "Daniel Ek’s fund puts €100M into defence startup Helsing.ai, to support democracies",
       "excerpt": "Spotify co-founder Daniel Ek pledged 1 billion euros ($1.2 billion) of his personal fortune towards funding deeptech “moonshot projects”, spread across the next 10 years. In particular, he was most interested in boosting European tech and European entrepreneurs as he said",
@@ -984,49 +1172,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-09-what-analysing-language-tells-us-about-inflation.md",
-      "title": "What analysing language tells us about inflation",
-      "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
-      "sourceUrl": null,
-      "webUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
-      "originalUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.schroders.com/de/sysglobalassets/digital/insights/2021/hero-images/announcement.jpg",
-          "width": 945,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Schroders",
-        "domain": "schroders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-09-soekarno-hatta-airport-readies-facial-recognition-system.md",
       "title": "Soekarno-Hatta Airport readies facial recognition system",
       "excerpt": "State-owned airport operator PT Angkasa Pura (AP) II (Persero) is creating a facial recognition system with biometric technology for aircraft passengers to process departures at Soekarno-Hatta Airport.",
@@ -1056,146 +1201,6 @@
       "provider": {
         "name": "Antara News",
         "domain": "antaranews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan.md",
-      "title": "AI being employed to translate sign language to assist deaf in Japan",
-      "excerpt": "Local governments in Japan are turning to artificial intelligence to improve communication with people who are deaf or hard of hearin",
-      "sourceUrl": null,
-      "webUrl": "https://mainichi.jp/english/articles/20211109/p2g/00m/0sc/030000c",
-      "originalUrl": "https://mainichi.jp/english/articles/20211109/p2g/00m/0sc/030000c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mainichi.jp/vol1/2021/11/09/20211109p2g00m0sc029000p/0c10.jpg?2",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mainichi.jp",
-        "domain": "mainichi.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence.md",
-      "title": "Landing AI: Unlocking The Power Of Data-Centric Artificial Intelligence",
-      "excerpt": "There is normally an assumption that Artificial Intelligence (AI) requires huge volumes of data. Here, we explore a data-centric approach to AI, which instead focuses on data quality and domain expertise - an approach advocated by Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a1203531adf7a3d1b3daf%2F0x0.jpg%3FcropX1%3D95%26cropX2%3D2400%26cropY1%3D0%26cropY2%3D1729",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-11-08T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan.md",
-      "title": "PopID and SoftBank’s Japan Computer Vision Partner to Launch PopPay In Japan",
-      "excerpt": "PopID, Japan Computer Vision (“JCV”, a subsidiary of SoftBank Corp), and Wendy’s First Kitchen (“WFK”) announced today the launch of PopPay - PopID’s face-recognition-based ordering and payment system - in Tokyo,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T20:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
