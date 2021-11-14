@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvid
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
     quality: 35
     images:
       - url: "https://images.barrons.com/im-356249/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Luminar Wins Nvidia Business in Self-Driving Deal"
-    excerpt: "Text measurement Dreamstime Lidar maker Luminar Technologies and tech-giant Nvidia are pairing as much as put self-driving {hardware} into automobiles. It’s an enormous deal for Luminar and reveals traders the event of autonomous driving know-how goes to speed up."
-    publishedDateTime: 2021-11-09T12:09:00Z
-    webUrl: "https://www.tidewaternews.com/business/luminar-wins-nvidia-business-in-self-driving-deal/"
-    type: article
-    provider:
-      name: Tidewater News
-      domain: tidewaternews.com
-    quality: 24
-    images:
-      - url: "https://www.tidewaternews.com/wp-content/uploads/2021/11/1636459777_social.jpeg"
         width: 1280
         height: 640
         isCached: true

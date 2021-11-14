@@ -2,6 +2,187 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-04-gelsight-partners-with-meta-ai-to-democratize-digital-tactile-sensing.md",
+      "title": "GelSight Partners with Meta AI to Democratize Digital Tactile Sensing",
+      "excerpt": "GelSight will commercially manufacture the DIGIT sensor to increase access and enable new tactile applications in robotics and beyond",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/content.php?post=17736",
+      "originalUrl": "https://www.roboticstomorrow.com/content.php?post=17736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant.md",
+      "title": "CEO Mike Betzer’s Triple Play At Enterprise AI Firm Hypergiant",
+      "excerpt": "We think data scientists are the cool kids of the future, and we're going to enable them to do what they want to do best, which is to show value in this data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/",
+      "originalUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617853a479865db4484813b2%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/04/ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant/amp/",
+      "publishedDateTime": "2021-11-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-dendreon-pharmaceuticals-and-shoreline-biosciences-announce-cmc-and-manufacturing-alliance-to-advance-the-future-of-ipsc-cellular-therapy.md",
+      "title": "Dendreon Pharmaceuticals and Shoreline Biosciences Announce CMC and Manufacturing Alliance to Advance the Future of iPSC Cellular Therapy",
+      "excerpt": "Dendreon Pharmaceuticals, a commercial-stage biopharmaceutical company and pioneer in the development of cellular immunotherapy, and Shoreline Biosciences, a biotechnology company developing allogeneic off-the-shelf,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20083929.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20083929.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco.md",
+      "title": "Cruise Graduates To More Unmanned Operations With ‘Ride #1’ In San Francisco",
+      "excerpt": "This is not too surprising — the initial focus was and should be on doing the driving task ... Zoox, WeRide, Baidu, Argo and many, many others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/11/04/cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/11/04/cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602442d388db8ea1313bb39f%2F0x0.jpg",
+          "width": 1200,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/11/04/cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/11/04/cruise-graduates-to-more-unmanned-operations-with-ride-1-in-san-francisco/amp/",
+      "publishedDateTime": "2021-11-04T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-orica-selects-microsoft-azure-as-strategic-cloud-platform.md",
       "title": "Orica selects Microsoft Azure as strategic cloud platform",
       "excerpt": "For 140-plus years Orica has carved a reputation as one of the world’s leading blasting companies, supporting mining customers in more than 100 countries. Explosives are still its stock-in-trade – but the company is rapidly expanding its digital capability – creating data rich and artificial intelligence (AI)-infused tools that enable step-change improvements in customers’ productivity,",
@@ -574,6 +755,59 @@
       ]
     },
     {
+      "path": "_news/2021-11-04-boxworks-2021-advancing-security-mobile-and-integrated-offerings.md",
+      "title": "BoxWorks 2021: Advancing Security, Mobile, And Integrated Offerings",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as a few weeks ago, Box held its annual BoxWorks conference, where it announced new and what I consider exciting collaboration and security capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61830a5471a7a35817e9678c%2F0x0.png",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/amp/",
+      "publishedDateTime": "2021-11-03T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-how-adobe-uses-deep-learning-to-improve-its-products.md",
       "title": "How Adobe uses deep learning to improve its products",
       "excerpt": "Adobe is leveraging deep learning to improve its apps and solidify its position in the video and image editing market.",
@@ -967,248 +1201,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication.md",
-      "title": "SecureAuth acquires Acceptto to deliver AI-driven passwordless authentication",
-      "excerpt": "Identity access management provider SecureAuth has announced the acquisition of continuous passwordless authentication platform Acceptto.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication/",
-      "originalUrl": "https://venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/LOGIN-FRAUD.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/secureauth-acquires-acceptto-to-deliver-ai-driven-passwordless-authentication/amp/",
-      "publishedDateTime": "2021-11-03T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-the-hottest-tech-trend-of-2022.md",
-      "title": "The Hottest Tech Trend Of 2022",
-      "excerpt": "The Hottest Tech Trend Of 2022 <p>It's an industry that will never retire or ever go obsolete.</p> <p> It's a revolutionary virtual marketplace, and",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103096381/The-Hottest-Tech-Trend-Of-2022",
-      "originalUrl": "https://menafn.com/1103096381/The-Hottest-Tech-Trend-Of-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-11/03/B_26655image_story.jpg",
-          "width": 845,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has.md",
-      "title": "Scale AI acquires SiaSearch to give companies the same data engine superpowers that Tesla has",
-      "excerpt": "Scale AI, the five-year-old visual data labeling company, has acquired a small startup that could help expand its reach in Europe and speed up development of its newest product. Financial terms were not disclosed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/",
-      "originalUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/PandaSet-flyover-GIF-credit_-Scale-AI.gif?w=720",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/amp/",
-      "publishedDateTime": "2021-11-03T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps.md",
-      "title": "At Ignite 2021, Microsoft showcases functionality for scalable AI apps",
-      "excerpt": "Microsoft showcased Azure's architecture for building scalable AI apps compatible in cloud and edge computing scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/",
-      "originalUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/gettyimages-1287251160-170667a.jpg?w=1200&strip=all",
-          "width": 512,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/at-ignite-2021-microsoft-showcases-functionality-for-scalable-ai-apps/amp/",
-      "publishedDateTime": "2021-11-03T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-an-enterprise-ai-platform-as-a-path-toward-intelligence-process-automation.md",
-      "title": "An Enterprise AI Platform as a Path Toward Intelligence Process Automation",
-      "excerpt": "In this article we take a look new technology that can overcome common problems that contribute to struggles with AI projects. Project delays, budget limitations, scarcity of needed skills, changing data sources,",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2021/11/02/an-enterprise-ai-platform-as-a-path-toward-intelligence-process-automation/",
-      "originalUrl": "https://insidebigdata.com/2021/11/02/an-enterprise-ai-platform-as-a-path-toward-intelligence-process-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

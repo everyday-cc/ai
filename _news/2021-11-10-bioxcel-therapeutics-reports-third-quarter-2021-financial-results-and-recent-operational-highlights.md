@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-reports-third
 webUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-reports-third-quarter-2021-financial-results-/2021/11/10/9488656.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Babylon Holdings Limited: Babylon Delivers Strong Third Quarter 2021 Operational and Financial Results"
-    excerpt: "Third quarter 2021 revenue grew 371% year-over-year to $74.5 million Signed contracts in H2 2021 in the US and UK added approximately 135,000 value-based care members Total contracts"
-    publishedDateTime: 2021-11-12T11:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-11/54474450-babylon-holdings-limited-babylon-delivers-strong-third-quarter-2021-operational-and-financial-results-004.htm"
+  - title: "BioXcel Therapeutics to Present at the 2021 Jefferies London Healthcare Conference"
+    excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
+    publishedDateTime: 2021-11-11T12:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-present-the-2021-jefferies-london-healthcare-/2021/11/11/9489984.htm"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "jwhvJp7RjEx8h99OJjwkXWClcAju1C908xrPY7BdOuVQOLbVvhNApdAflDTr/EJ730IvHeoY5/o0+DEK+W5bF5wtI6olR/PBI3E3boJPdyl0Fg9Zz/mHO78DVxYJwtxSe7oAdiiiHA5HoGwL4A05cB+5pWztfrfWEXc/e+bHaNh+KiHJIFSbTgL2jnzhbIKqsJS0pPIyL+MPM3s+SFQJ1EAOaFBX86pBGE5VI7blyFoXI91sBCoeXrbNKnNvT90WlTNMZ/rClRfPYL/4NFH1PVuLat+LRaS6JjJP7g9vlctU09xr5P1r1u3D+uSCu2fPrqIGVx4Qp1h5NQzr08L4t248WuU1Y9Mi8Eb7ioPl1I4=;WiXageKm3OboJUL1W8mljg=="
 ---

@@ -197,6 +197,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-09-nvidia-announces-major-updates-to-triton-inference-server-as-25000-companies-worldwide-deploy-nvidia-ai-inference.md",
+      "title": "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference",
+      "excerpt": "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23974757",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23974757",
+      "publishedDateTime": "2021-11-08T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "AI stocks may be excellent long-term investments. The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. From machine learning to",
@@ -329,6 +372,49 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news.md",
+      "title": "Microsoft Takes on the Metaverse, Updates Teams and Viva & More Digital Workplace News",
+      "excerpt": "Facebook Connect, Google I/O and Salesforce’s Dreamforce all merit a look, but in terms of the digital workplace and productivity technology, Ignite is really the big one. This year’s Ignite conference,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/",
+      "originalUrl": "https://www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/bbc9ac2063824d6f9206062d0ef36882.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/amp/",
+      "publishedDateTime": "2021-11-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -476,6 +562,59 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-boxworks-2021-advancing-security-mobile-and-integrated-offerings.md",
+      "title": "BoxWorks 2021: Advancing Security, Mobile, And Integrated Offerings",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as a few weeks ago, Box held its annual BoxWorks conference, where it announced new and what I consider exciting collaboration and security capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61830a5471a7a35817e9678c%2F0x0.png",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/amp/",
+      "publishedDateTime": "2021-11-03T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -744,6 +883,58 @@
         "name": "techbooky.com",
         "domain": "techbooky.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-a-sea-change-of-digitization-and-the-era-ahead.md",
+      "title": "A sea change of digitization and the era ahead",
+      "excerpt": "The following is an excerpt from my remarks at Microsoft Ignite this morning. Looking back there is no question that the past year-and-a-half has been a catalyst for real structural change in every industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/sea-change-digitization-era-ahead-satya-nadella",
+      "originalUrl": "https://www.linkedin.com/pulse/sea-change-digitization-era-ahead-satya-nadella",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGeFNzf_8MBCw/article-cover_image-shrink_720_1280/0/1635806731873?e=1642636800&v=beta&t=bt7Zn-VHNQTeSN8OuCneoy9uaIySIQHuaB2xHz_dmpQ",
+          "width": 1280,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1223,199 +1414,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia.md",
-      "title": "Machine Learning in Retail Market 2021 is Booming Globally with Top Key Players- IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA",
-      "excerpt": "IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA, Google, Sentient Technologies, Salesforce, ViSenze Recently added report provided by QY Reports Machine Learning in Retail Market Presents an Analysis of Market Situation and Challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
-      "originalUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://chipdesignmag.com/wp-content/uploads/2021/10/market-research-1-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chip Design",
-        "domain": "chipdesignmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-cnvrgio-develops-on-demand-service-to-run-ai-workloads-across-infrastructures.md",
-      "title": "Cnvrg.io develops on-demand service to run AI workloads across infrastructures",
-      "excerpt": "Cnvrg.io has launched a Metacloud service to help AI developers run their workloads across any mainstream infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
-      "originalUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
-      "publishedDateTime": "2021-10-29T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-slashnext-which-uses-ai-to-combat-phishing-raises-26m.md",
-      "title": "SlashNext, which uses AI to combat phishing, raises $26M",
-      "excerpt": "“Our technology has logged more than 2.5 million [phishing] threats hiding in legitimate infrastructures like Amazon Web Services, Outlook, Sharepoint, and Microsoft Azure. [SlashNext’s AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
-      "originalUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/fly-d-9PivUW7l1m4-unsplash-e1631050913938.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/28/slashnext-which-uses-ai-to-combat-phishing-raises-26m/amp/",
-      "publishedDateTime": "2021-10-28T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027.md",
-      "title": "Cognitive Systems Spending Market Study International Manufacturers Growth, Barriers, Opportunity, and Future Scope 2021-2027",
-      "excerpt": "The global cognitive systems spending market is estimated to account for US$ 24,710 Mn in terms of value by the end of 2027. The new research on Cognitive Systems Spending Market Perspective paints an unmistakable picture of vital drivers, key elements ...",
-      "sourceUrl": null,
-      "webUrl": "https://chipdesignmag.com/cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027/",
-      "originalUrl": "https://chipdesignmag.com/cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.themarketfeeds.com/seoimages/three.jpg",
-          "width": 3250,
-          "height": 3854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chip Design",
-        "domain": "chipdesignmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

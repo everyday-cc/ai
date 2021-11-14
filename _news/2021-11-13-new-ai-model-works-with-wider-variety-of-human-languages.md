@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI brings African languages to forefront of neural network model"
-    excerpt: "The new neural network model, which the researchers have dubbed AfriBERTa, uses deep-learning techniques to achieve “state-of-the-art” results for low-resource languages."
-    publishedDateTime: 2021-11-09T12:15:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-brings-power-of-natural-language-processing-to-african-languages/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 56
-    images:
-      - url: "https://eandt.theiet.org/media/17099/dreamstime_xxl_49750410.jpg?crop=0,0.1252001953125,0,0.38261230468749996&cropmode=percentage&width=1200&height=450&rnd=132809280780000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "South Africa Has a New AI-Powered Digital Transformation Advisor"
     excerpt: "An innovative local software development partnership between 4Sight Holdings and Bidvest Advisory Services has created 4MIA powered by ALICE TM, a first-of-its-kind AI-powered automated digital transformation advisor."
     publishedDateTime: 2021-11-10T13:08:00Z

@@ -45,20 +45,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "New NVIDIA Edge AI and robotics teaching kits now available"
-    excerpt: "NVIDIA has this week made available new teaching kits for educators covering the subjects of Edge artificial intelligence and robotics"
-    publishedDateTime: 2021-11-09T11:44:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-teaching-kits-09-11-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 69
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-Edge-AI-and-robotics-teaching-kits.jpg"
-        width: 700
-        height: 490
-        isCached: true
   - title: "Nvidia brings highly realistic, walking, talking AI avatars to its Omniverse design tool"
     excerpt: "It’s launching with the enticing new Nvidia Omniverse Avatar capability, which is said to combine Nvidia’s speech AI, computer vision, natural language understanding, recommendation engine and ..."
     publishedDateTime: 2021-11-09T14:57:00Z

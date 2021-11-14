@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-08-ai-system-that-lets-robots-manipulate-2000-objects-created-mit.md",
+      "title": "AI system that lets robots manipulate 2,000 objects created: MIT",
+      "excerpt": "MIT scientists have created an artificial intelligence-based algorithm that allows robots to learn how to manipulate and reorient more than 2,000 geometrically different objects, with both the hand facing upwards and downwards.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "originalUrl": "https://inshorts.com/en/news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/7_sun/img_1636297058079_596.jpg?",
+          "width": 1080,
+          "height": 1748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-system-that-lets-robots-manipulate-2000-objects-created-mit-1636338622612",
+      "publishedDateTime": "2021-11-07T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-singapore-to-boost-ai-research-funds-start-bank-partnerships.md",
+      "title": "Singapore to Boost AI Research Funds; Start Bank Partnerships",
+      "excerpt": "Singapore will introduce two artificial-intelligence programs in finance and government, and allocate an additional S$180 million ($133 million) for research into the technology, according to Deputy Prime Minister Heng Swee Keat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGtzxPrVHurM/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-07T17:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-indian-ai-market-to-reach-soaring-heights-by-2025.md",
+      "title": "Indian AI market to reach soaring heights by 2025",
+      "excerpt": "CIOs looking to keep pace with their competitors will need to up their spending on AI in the coming years. IDC forecasts that businesses will adopt it to address organizational needs such as real-time analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.html",
+      "originalUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/08/thinkstockphotos-99261890-100609753-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html",
+      "publishedDateTime": "2021-11-07T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027.md",
       "title": "Global Artificial Intelligence Robotics Market Report Shows Demand to Boost Industry Growth from 2021 to 2027",
       "excerpt": "With this report titled Global Artificial Intelligence Robotics Market 2021-2027, research analysts of MarketsandResearch.biz help us to present our clients with insightful data on the investment or growth opportunities in the industry.",
@@ -1043,144 +1180,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-alphabets-isomorphic-labs-says-it-will-use-ai-to-discover-new-drugs.md",
-      "title": "Alphabet's Isomorphic Labs Says It Will Use AI to Discover New Drugs",
-      "excerpt": "The company will build off of breakthroughs in protein prediction from DeepMind and inches Big Tech one step further into the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449",
-      "originalUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ff798528b11ef62b1fe1def5a6099780.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp",
-      "publishedDateTime": "2021-11-05T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results.md",
-      "title": "Clickedin Founder Franco Ieraci Creates AI Software That Delivers Results",
-      "excerpt": "TORONTO, ON / ACCESSWIRE / November 5, 2021 / It's the same story. Companies pay lots of money only to get burned by marketing companies who can't deliver",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results",
-      "originalUrl": "https://www.digitaljournal.com/pr/clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/COP26-climate-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-bloomberg-news.md",
-      "title": "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News",
-      "excerpt": "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
-      "publishedDateTime": "2021-11-05T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

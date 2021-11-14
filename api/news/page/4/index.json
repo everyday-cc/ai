@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-10-inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters.md",
+      "title": "Inworld AI joins metaverse innovation with AI-driven virtual characters",
+      "excerpt": "Inworld AI announces plans to populate the metaverse with AI-driven virtual characters, and raises $7 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/9xonhbI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/",
+      "publishedDateTime": "2021-11-09T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-timnit-gebru-says-artificial-intelligence-needs-to-slow-down.md",
+      "title": "Timnit Gebru Says Artificial Intelligence Needs to Slow Down",
+      "excerpt": "Artificial intelligence researchers are facing a problem of accountability: How do you try to ensure decisions are responsible when the decision maker is not a responsible person, but rather an algorithm?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
+      "originalUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6189c83d08983f9bcb06800e/master/pass/Timnit-Gebru.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rewired-2021-timnit-gebru/amp",
+      "publishedDateTime": "2021-11-09T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai.md",
       "title": "TechCrunch+ roundup: Deep tech predictions, HashiCorp’s IPO, enterprise-wide AI",
       "excerpt": "If you believe you have a good idea for a startup, go for it. When venture capitalists say this is a good time to be a founder, you know they absolutely mean it.",
@@ -605,7 +708,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/technology/youcom-wants-to-remake-the-search-engine/ar-AAQv26d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -737,58 +840,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-machine-learning-as-a-service-market-opportunity-analysis-and-industry-forecast-2025.md",
-      "title": "Machine Learning as a Service Market – Opportunity Analysis and Industry Forecast 2025",
-      "excerpt": "Competitive Landscape and Machine Learning as a Service Market Share Analysis: Machine Learning as a Service Market to reach USD 16.13 billion by 2025. Machine Learning as a Service Market valued approximately USD 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-opportunity-analysis-and-industry-forecast-2025-2021-11-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-opportunity-analysis-and-industry-forecast-2025-2021-11-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1182,58 +1233,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026.md",
-      "title": "Artificial intelligence (AI) Chips Market Size 2021: CAGR Value, Top Manufacturers, Industry Share, Growth, Supply Demand and Forecast till 2026",
-      "excerpt": "Global “Artificial intelligence (AI) Chips Market” research report provides strategies for company to deal with the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

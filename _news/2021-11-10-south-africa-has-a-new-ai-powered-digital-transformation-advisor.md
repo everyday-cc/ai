@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI brings African languages to forefront of neural network model"
-    excerpt: "The new neural network model, which the researchers have dubbed AfriBERTa, uses deep-learning techniques to achieve “state-of-the-art” results for low-resource languages."
-    publishedDateTime: 2021-11-09T12:15:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-brings-power-of-natural-language-processing-to-african-languages/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 56
-    images:
-      - url: "https://eandt.theiet.org/media/17099/dreamstime_xxl_49750410.jpg?crop=0,0.1252001953125,0,0.38261230468749996&cropmode=percentage&width=1200&height=450&rnd=132809280780000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "New AI Model Works With Wider Variety of Human Languages"
     excerpt: "Researchers at the University of Waterloo have developed an AI model that enables computers to process a wider variety of human languages. This is an important step forward in the field given how many languages are often left behind in the programming process."
     publishedDateTime: 2021-11-12T20:01:00Z

@@ -82,20 +82,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Luminar Wins Nvidia Business in Self-Driving Deal"
-    excerpt: "Text measurement Dreamstime Lidar maker Luminar Technologies and tech-giant Nvidia are pairing as much as put self-driving {hardware} into automobiles. It’s an enormous deal for Luminar and reveals traders the event of autonomous driving know-how goes to speed up."
-    publishedDateTime: 2021-11-09T12:09:00Z
-    webUrl: "https://www.tidewaternews.com/business/luminar-wins-nvidia-business-in-self-driving-deal/"
-    type: article
-    provider:
-      name: Tidewater News
-      domain: tidewaternews.com
-    quality: 24
-    images:
-      - url: "https://www.tidewaternews.com/wp-content/uploads/2021/11/1636459777_social.jpeg"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "ui117eHqKKFaFXhZM3AkVPv7YJI+GkoSOdIagTrnHJ9yvbOZmwXYEJ3914QIo6zsPrP/tbMei26PCMYV+tD8kUNUplIOKsiPSbVx/iAY5Ts4BePBdWbkcI3AJcClwZPVMCr63ghBEyLJaBaMudxgWqlfjufg60+Ll6vODal7fOHgOUbzYwqgqF9XhtehMAqCIiPUZeCV/B6wRuVDggxs6NIeaVOet75luxpUpJ6lVWPMWUV5GlqyxHx8Yztq4GW/ZRoKgojn3JZ+3LSeObJWx91vOOIWP083llrucRhjYd+QzQvd0WYZVeGT/+Uxfst/zadrmkkkB5SEuZKI2BTScxCJ33gtrjAWS/VQs8m5332AbPNefr0oyP8NAqVmFg+ZwI78tLBRZj7uIalaewavoJu109MkoMs2tkSESHUVSQZ91tAxexMkyTWEflChn6F7RjFHYkYP/m6NTCdyc6+KzyIUoX7D+45urPC3KZkJt2tLA1hi1w4L5Wb57mn+RWliFLTZ/ST2rwIctNxdkDmROA==;EER+G72S71Blxr+wYr04Jw=="
 ---
