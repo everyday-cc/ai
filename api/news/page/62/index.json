@@ -2,6 +2,49 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-09-28-over-2-billion-devices-will-be-shipped-with-a-dedicated-chipset-for-ambient-sound-or-natural-language-processing-by-2026.md",
+      "title": "Over 2 Billion Devices Will be Shipped with a Dedicated Chipset for Ambient Sound or Natural Language Processing By 2026",
+      "excerpt": "SINGAPORE, Sept. 21, 2021 /PRNewswire/ -- Natural Language Processing (NLP) and ambient sound processing are traditionally considered exclusive cloud technologies and this has restricted their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/over-2-billion-devices-will-be-shipped-with-a-dedicated-chipset-for-ambient-sound-or-natural-language-processing-by-2026-893727204.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/over-2-billion-devices-will-be-shipped-with-a-dedicated-chipset-for-ambient-sound-or-natural-language-processing-by-2026-893727204.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1471031/ABI_Research_Logo.jpg?p=facebook",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-horizon3ai-recognized-in-2021-gartner-hype-cycle-for-security-operations.md",
       "title": "Horizon3.ai recognized in 2021 Gartner® Hype Cycle™ for Security Operations",
       "excerpt": "Horizon3.ai, a leading provider of Autonomous Pentesting as a Service (APTaaS), was identified as a Sample Vendor in the 2021 Gartner Hype Cycle for Security Operations report in the Autonomous Penetration Testing and Red Teaming category.",
@@ -1114,49 +1157,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-deep-learning-market-to-be-worth-72-billion-growing-application-of-deep-learning-to-boost-growth-technavio.md",
-      "title": "Deep Learning Market To Be Worth $ 7.2 Billion | Growing Application Of Deep Learning to Boost Growth | Technavio",
-      "excerpt": "The deep learning market will be driven by the growing application of deep learning. In addition, growing emphasis on cloud-based deep learning will influence the deep learning market growth positively during the next few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n23125791/deep-learning-market-to-be-worth-7-2-billion-growing-application-of-deep-learning-to-boost-growth-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n23125791/deep-learning-market-to-be-worth-7-2-billion-growing-application-of-deep-learning-to-boost-growth-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23125791",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23125791",
-      "publishedDateTime": "2021-09-27T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

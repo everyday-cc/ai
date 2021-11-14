@@ -2,6 +2,49 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-09-23-rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months.md",
+      "title": "R&D tax experts Counting King save businesses over £3 million in six months",
+      "excerpt": "As part of this, Counting King is hosting Innovation North West, which will bring together leading industry experts including AWS DeepRacer, Viscgo and the Graphene Engineering Innovation Centre. Established in 2020 by Gary Hilton and Sam Dallow ...",
+      "sourceUrl": null,
+      "webUrl": "https://bdaily.co.uk/articles/2021/09/23/rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months",
+      "originalUrl": "https://bdaily.co.uk/articles/2021/09/23/rd-tax-experts-counting-king-save-businesses-over-3-million-in-six-months",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdaily.co.uk/images/uploads/lH9QZdH6kUupgbgaaE6DDrJPmKzrqSuvEU2YWhmR.jpeg?w=940&h=430&fm=jpg&fit=crop-2-39&s=e3b83a4adab4eb45bee02e4e0bf27200",
+          "width": 940,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bdaily Business Network",
+        "domain": "bdaily.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-conversational-ai-startup-gnaniai-launches-voice-biometrics-software.md",
       "title": "Conversational AI startup Gnani.ai launches voice biometrics software",
       "excerpt": "Gnani.ai, conversational AI and voice security domain, announced the launch of its home-grown Voice Biometrics software. Christened armour365™, the biometric solution claims to cater to new and emerging risks",
@@ -1102,57 +1145,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-a-startup-the-best-vehicle-for-changing-the-world.md",
-      "title": "A Startup – The Best Vehicle For Changing The World",
-      "excerpt": "In an age of political activism, we might have forgotten that the ingenuity and grit of individuals is what pushes the world in a positive direction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/abdoriani/2021/09/22/a-startup--the-best-vehicle-for-changing-the-world/",
-      "originalUrl": "https://www.forbes.com/sites/abdoriani/2021/09/22/a-startup--the-best-vehicle-for-changing-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fde26ff2f1f8ab10868cbcb%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/abdoriani/2021/09/22/a-startup--the-best-vehicle-for-changing-the-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2021/09/22/a-startup--the-best-vehicle-for-changing-the-world/amp/",
-      "publishedDateTime": "2021-09-22T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

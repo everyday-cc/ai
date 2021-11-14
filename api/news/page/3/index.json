@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-11-google-pixel-6-series-might-get-face-unlock-smarts-after-all.md",
+      "title": "Google Pixel 6 series might get face unlock smarts after all",
+      "excerpt": "The Google Pixel 6 series launched without face unlock, however, a new commit suggests that the firm is still working on the feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
+      "originalUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/pixel-6-fingerprint.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
+      "publishedDateTime": "2021-11-10T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-artificial-intelligence-learns-to-talk-back.md",
+      "title": "Artificial intelligence learns to talk back",
+      "excerpt": "This means a pronounced role for artificial intelligence and machine learning, or conversational AI, which add the intelligence needed to deliver superior customer or employee experience. Deloitte analysts recently analyzed patents in the area of conversational AI to assess the direction of the technology and the market -- and the technology has been fast developing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-learns-to-talk-back/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-learns-to-talk-back/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2334592541a79e9c57360b67737481d9d0f132a2/2021/11/11/c26df5c1-8e72-4ae0-b08f-9a661f1546d3/wall-art-viessmann-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-learns-to-talk-back/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-learns-to-talk-back/",
+      "publishedDateTime": "2021-11-10T21:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m.md",
       "title": "CoreWeave, a provider of cloud services for GPU-powered apps, gets $50M",
       "excerpt": "CoreWeave, a specialized cloud services provider for GPU-based workloads, also partnered with Nvidia to enable companies to scale infrastructure.",
@@ -596,7 +700,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -970,49 +1074,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-10-its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool.md",
-      "title": "It’s time to address facial recognition, the most troubling law enforcement AI tool",
-      "excerpt": "AI algorithms are now employed to identify individuals by face, fingerprint, and DNA, with varying degrees of success. Among these AI technologies, facial recognition technology is arguably the most troubling.",
-      "sourceUrl": null,
-      "webUrl": "https://thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/",
-      "originalUrl": "https://thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebulletin.org/wp-content/uploads/2021/11/police-surveillance.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/amp/",
-      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/amp/",
-      "publishedDateTime": "2021-11-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bulletin of the Atomic Scientists",
-        "domain": "thebulletin.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-10-artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029.md",
       "title": "Artificial Intelligence in Healthcare Market Size, Share, Key Players, Growth Analysis and Forecast 2029",
       "excerpt": "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end and",
@@ -1073,7 +1134,7 @@
       "originalUrl": "https://www.hrw.org/news/2021/11/10/eu-artificial-intelligence-regulation-threatens-social-safety-net",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1148,49 +1209,6 @@
         "AI in Finance",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-managing-ai-decision-making-tools.md",
-      "title": "Managing AI Decision-Making Tools",
-      "excerpt": "Imagine a driverless car without a steering wheel ... And these decision-making algorithms are often described as artificial intelligence (AI). The critical question is, how do human managers ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/11/managing-ai-decision-making-tools?ab=hero-subleft-1",
-      "originalUrl": "https://hbr.org/2021/11/managing-ai-decision-making-tools?ab=hero-subleft-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/11/Nov21_10_1198495539.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/11/managing-ai-decision-making-tools",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/11/managing-ai-decision-making-tools",
-      "publishedDateTime": "2021-11-09T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

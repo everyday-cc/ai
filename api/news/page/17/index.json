@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-29-intel-reconfirms-flagship-arc-alchemist-gpu-specs-and-gamers-will-be-stoked.md",
+      "title": "Intel Reconfirms Flagship Arc Alchemist GPU Specs And Gamers Will Be Stoked",
+      "excerpt": "During its Architecture Day 2021 event earlier this year, Intel outlined its Xe Arc GPU roadmap ... and dedicated matrix engines (up to 16) for AI acceleration. Intel is calling those matrix ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "originalUrl": "https://hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56646/content/Intel_Graphics_Card.jpg",
+          "width": 708,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-flagship-arc-alchemist-gpu-specs",
+      "publishedDateTime": "2021-10-29T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-deepmind-study-resolves-delusions-in-sequence-models-for-interaction-and-control.md",
       "title": "DeepMind Study Resolves Delusions in Sequence Models for Interaction and Control",
       "excerpt": "Large-scale language models such as transformers have become the de facto standard for a wide range of natural language processing (NLP) tasks. Despite their apparent linguistic savvy, such sequence models are known to lack a real understanding of the cause and effect of their actions,",
@@ -1108,40 +1151,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-abb-invests-in-building-technology-startup-brainbox-ai.md",
-      "title": "ABB Invests in Building Technology Startup BrainBox AI",
-      "excerpt": "ABB Technology Ventures leads BrainBox AI’s Series A investment round. Launched in 2019, BrainBox AI has pioneered the use of artificial intelligence to reduce energy costs and carbon emissions from Heating,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/",
-      "originalUrl": "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

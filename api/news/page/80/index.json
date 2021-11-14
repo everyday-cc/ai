@@ -2,6 +2,50 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-09-15-ten-key-technology-considerations-in-delivering-the-future-of-education.md",
+      "title": "Ten key technology considerations in delivering the future of education",
+      "excerpt": "Events over the past 18 months have highlighted just how inherently valuable technology has become for educators. From the remote delivery of classes and classwork notes and facilitating communication and collaboration between isolating students,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.idg.com.au/brand-post/content/691261/ten-key-technology-considerations-in-delivering-the-future-of-education/",
+      "originalUrl": "https://www.pcworld.idg.com.au/brand-post/content/691261/ten-key-technology-considerations-in-delivering-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.idgcdn.com.au/article/images/800x800/dimg/aubuy-mwf_feature_module-3-800x450ci.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T19:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Good Gear Guide By PC World Australia",
+        "domain": "idg.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-behringer-deepmind-12-editorlibrarian.md",
       "title": "Behringer Deepmind 12 Editor/Librarian",
       "excerpt": "A spokesperson told us, \" The Deepmind is the first Behringer synth that Patch Base supports, as we continue to expand our coverage of the many manufacturers out there. Although Behringer created their own feature-filled editor for the Deepmind 12 on iPad and Mac,",
@@ -1042,49 +1086,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-ai-hampered-by-public-perception-ethics-concerns.md",
-      "title": "AI hampered by public perception, ethics concerns",
-      "excerpt": "A panel of experts thrashed-out key barriers facing the development of AI products and features in Russia and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
-      "publishedDateTime": "2021-09-14T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

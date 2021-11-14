@@ -212,7 +212,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -460,8 +460,8 @@
       "title": "What analysing language tells us about inflation",
       "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
       "sourceUrl": null,
-      "webUrl": "https://www.schroders.com/de/uk/adviser/insights/economics/what-analysing-language-tells-us-about-inflation/",
-      "originalUrl": "https://www.schroders.com/de/uk/adviser/insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "webUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "originalUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -480,7 +480,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:00:00-08:00",
+      "publishedDateTime": "2021-11-08T23:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Schroders",

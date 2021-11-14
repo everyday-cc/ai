@@ -67,20 +67,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM Watson Services Market– Key Opportunities & Development 2025"
-    excerpt: "\"IBM Watson is considered to be the first-ever commercialized cognitive computing platform, designed specifically for underpinning the development of various enterprise solutions. IBM Watson services continue to tap immense opportunity in the rapidly evolving cognitive computing field,"
-    publishedDateTime: 2021-11-09T19:20:00Z
-    webUrl: "https://www.pr-inside.com/ibm-watson-services-market-key-opportunities-amp-development-r4854200.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 39
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "nquwxLvZLJCGVpsbl+rmd0qlHiSqzzhP+GbDM++3izEJdUVg1toVBoNY8EvcNuNKOsI4bLjSzjR0h+yd1EpGXtCU+Zty9m9Cf67Ui5u9nujnggdUBWsDEb6ilD3R/1NbBGKwViAUJ6XZjKhj2ACdoJmasWPLIZyVQQCTTj6/qyP7uOJkpBgYG82dj4gfnnempK2F5jxZlHRXvdpS+qQq9MU/NkrBT1J77EmVjRyFpSDICD69gPAfsDQwVU9cs881A2V7iRpTla21IkeZpTHoOknSCuV0nedKSyFqXFOSbn9qmrWKoYzD8fMAoiBhtVo9z8G6ryz/lJOVuh5eqRtVK84efdsIIqbhLF2mDci2RPU=;+BE4W0Ckn76oTs3ZB/FgUA=="
 ---

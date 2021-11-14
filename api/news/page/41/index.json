@@ -2,6 +2,57 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-10-12-artificial-intelligence-in-manufacturing-market-by-type-application-element-global-trends-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Manufacturing Market by Type, Application, Element Global Trends and Forecast to 2026",
+      "excerpt": "Over the next five years the Artificial Intelligence in Manufacturing market will register a 51.1% CAGR in terms of revenue, the global market size will reach US$ 8609.8 million by 2026. Global Artificial Intelligence in Manufacturing market: competitive landscape analysis This report contains the major manufacturers analysis of the global Artificial Intelligence in Manufacturing industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-by-type-application-element-global-trends-and-forecast-to-2026-2021-10-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-by-type-application-element-global-trends-and-forecast-to-2026-2021-10-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-aws-for-media-entertainment-view-from-the-top-2021.md",
       "title": "AWS for Media & Entertainment: View from the Top 2021",
       "excerpt": "deep learning technology with Amazon Rekognition, or automatically converting audio and video assets into fully searchable archives with Amazon Transcribe. EPAM, GrayMeta, and Veritone represent more than 30 AWS Partners that offer M&E analytics workloads ...",
@@ -1114,57 +1165,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-data-driven-workforce-management-for-a-work-from-anywhere-world.md",
-      "title": "Data-Driven Workforce Management For A Work-From-Anywhere World",
-      "excerpt": "Fueled by the COVID-19 ... and the rest based anywhere) are becoming the norm. In this environment, organizations are challenged to gain real-time insights on staff productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/enterprise-artificial-intelligence-4th-edition.html?id=us:2el:3pr:4diUS144384:5awa::MMDDYY:&pkid=1008396",
-      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/10/12/data-driven-workforce-management-for-a-work-from-anywhere-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www2.deloitte.com/content/dam/insights/articles/US144384_CIR-State-of-AI-4th-edition/primary/144384_Banner-1920x630.jpg/jcr:content/renditions/cq5dam.web.1200.627.jpeg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

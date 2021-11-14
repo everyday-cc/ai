@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/company-tapped-ai-website-landed-court/a
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/company-tapped-ai-website-landed-court/amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

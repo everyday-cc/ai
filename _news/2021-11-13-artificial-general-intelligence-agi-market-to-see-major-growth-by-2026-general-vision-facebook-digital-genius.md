@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
-    excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
-    publishedDateTime: 2021-11-09T20:05:00Z
-    webUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/"
-    ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 59
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Facebook shutting down automatic facial recognition in photos"
     excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
     publishedDateTime: 2021-11-11T18:00:00Z

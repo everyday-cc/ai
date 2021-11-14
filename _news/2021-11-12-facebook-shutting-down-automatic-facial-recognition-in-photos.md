@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-auto
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
-    excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
-    publishedDateTime: 2021-11-09T20:05:00Z
-    webUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/"
-    ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 59
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Artificial General Intelligence (AGI) Market to See Major Growth by 2026 | General Vision, Facebook, Digital Genius"
     excerpt: "The Latest Released Artificial General Intelligence AGI market study has evaluated the future growth potential of Artificial General Intelligence AGI market and provides information and useful stats on market structure and size The report is intended to provide market intelligence"
     publishedDateTime: 2021-11-13T09:01:00Z

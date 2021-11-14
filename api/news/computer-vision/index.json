@@ -236,49 +236,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-10-its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool.md",
-      "title": "It’s time to address facial recognition, the most troubling law enforcement AI tool",
-      "excerpt": "AI algorithms are now employed to identify individuals by face, fingerprint, and DNA, with varying degrees of success. Among these AI technologies, facial recognition technology is arguably the most troubling.",
-      "sourceUrl": null,
-      "webUrl": "https://thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/",
-      "originalUrl": "https://thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebulletin.org/wp-content/uploads/2021/11/police-surveillance.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/amp/",
-      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2021/11/its-time-to-address-facial-recognition-the-most-troubling-law-enforcement-ai-tool/amp/",
-      "publishedDateTime": "2021-11-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bulletin of the Atomic Scientists",
-        "domain": "thebulletin.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-10-meta-to-halt-use-of-facial-recognition-technology-on-facebook.md",
       "title": "Meta to Halt Use of Facial Recognition Technology on Facebook",
       "excerpt": "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse",
@@ -1368,6 +1325,49 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-tech-time-delta-air-lines-launches-new-facial-recognition-software.md",
+      "title": "Tech Time: Delta Air Lines launches new facial recognition software",
+      "excerpt": "To streamline the check-in process at the airport, Delta Air Lines is introducing new facial recognition technology to airport security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/",
+      "originalUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1vhqlrjc8h82r.cloudfront.net/10-31-2021/t_36a7d442f26b4d2085ef3805536c4fcc_name_image.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp",
+      "publishedDateTime": "2021-10-31T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],
