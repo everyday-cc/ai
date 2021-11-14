@@ -50,22 +50,6 @@ related:
         width: 1024
         height: 533
         isCached: true
-  - title: "Luminar Wins Nvidia Business in Self-Driving Deal. It’s a Big Moment for the Lidar Maker."
-    excerpt: "Lidar maker Luminar Technologies and tech giant Nvidia are pairing up to put self-driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate."
-    publishedDateTime: 2021-11-09T17:22:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 35
-    images:
-      - url: "https://images.barrons.com/im-356249/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia selects Luminar lidar for its Drive sensor suite"
     excerpt: "Luminar Technologies Inc. has been selected by Nvidia Corp. to be part of the sensor suite for Nvidia’s Drive Hyperion autonomous reference platform. The move is a big one as Nvidia is one of the leading companies developing autonomous systems that are designed to be integrated into vehicles."
     publishedDateTime: 2021-11-12T13:55:00Z

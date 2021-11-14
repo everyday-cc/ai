@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/ai-customer-service-bots-in-store-near
 webUrl: "https://thenextweb.com/news/ai-customer-service-bots-in-store-near-you-syndication"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "These Edge AI companies are boosting the growth of Edge AI"
+    excerpt: "Edge AI is the new technology that has been booming these days. The global Edge AI software market is estimated to cross US$3 Billion by 2027. Here are the top Edge AI companies that are boosting their growth."
+    publishedDateTime: 2021-11-14T10:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-edge-ai-companies-to-know-and-watch-out-in-2021-for-sure/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Top-Edge-AI-Companies-to-Know-and-Watch-Out-in-2021-for-Sure.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "JmrF9qlFN0otQqo9MVnCAnZQtaz3xdcyaO9+zBTAodBwqbKEA7ebL3AhccwL8P5pszfZqxSmBfmXESzkBcgePd1qh4D5HoAfrt3Ikx3igfG5O9+HPkogPG59yBXoIU/sD6ikT6VEJlZlJFOgmS2z+Vz0ZlEX7ye/wHGxuxWHp8g33JYpzQXhvMDxBAXiPMQHiYpQvhqGwe+goxz2mwRNbwyG9GePcgiPZXKkD3sJdP9/RJuHcTNNeTBtYOxt+z2EVv14kjVz718ba0ielabhjAgxDSablOYnRupdwIk8UDNeHOegWTQ0bnkzmiStmKSFOdWykn3ugd3+V9Dha77UazEWZ9X/Wa55PBS4ifQIbbLeiVtSGgF8XiZE72ZJwrhPJ6a8Flln2TnhY9+7AurygQr5milFwMajJLd+S2OIDKdkzoquzls4eZt/sJFh0CtUqBFLPeY4yWVHarPmCYy1NYS1v/OGEuAI+gvDOsHqWnJCcspUKor2p0Z+lh5yt2hZ9ZkjHik3EtD2/a2/0ROL4A==;4n5vfPrqcBpbxXohqESQVw=="
 ---

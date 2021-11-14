@@ -150,6 +150,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-12-ai-customer-service-bots-are-making-their-way-to-a-store-near-you.md",
+      "title": "AI customer service bots are making their way to a store near you",
+      "excerpt": "There are already more than a billion people interacting with businesses via either text or voice-based conversational tools.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-customer-service-bots-in-store-near-you-syndication",
+      "originalUrl": "https://thenextweb.com/news/ai-customer-service-bots-in-store-near-you-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FAISyndi.jpg&signature=ec8be9af29b8c962347fed54d39570a7",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-unis-are-using-ai-to-keep-students-from-cheating-and-its-a-bit-creepy.md",
       "title": "Unis are using AI to keep students from cheating and it’s a bit creepy",
       "excerpt": "Some programs simply enable a person to supervise students remotely. More sophisticated, automated proctoring software hijacks the student’s computer to block and monitor suspicious activity. These programs often use artificial intelligence (AI) to scrutinise exam conduct.",
@@ -158,7 +210,7 @@
       "originalUrl": "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1371,49 +1423,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-itmo-itmo-signs-russias-first-ai-ethics-code.md",
-      "title": "ITMO: ITMO Signs Russia’s First AI Ethics Code",
-      "excerpt": "The first Russian AI code of ethics establishes general ethical principles and standards of conduct to guide those involved in activities using artificial intelligence. This has to do with ethical asp",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
-      "originalUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/ITMO_University-1-1024x724.png",
-          "width": 1024,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
-      "publishedDateTime": "2021-10-26T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-11-11-global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027.md",
-      "title": "Global Artificial Intelligence (AI) Robots Market 2021 by Future Developments, Upcoming Trends, Growth Drivers and Challenges 2021 to 2027",
-      "excerpt": "MarketsandResearch.biz has added a new key research report entitled Global Artificial Intelligence (AI) Robots Market 2021-2027 that depicts the present state of the industry, covering the key fundamentals of the market.",
+      "path": "_news/2021-11-11-coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m.md",
+      "title": "CoreWeave, a provider of cloud services for GPU-powered apps, gets $50M",
+      "excerpt": "CoreWeave, a specialized cloud services provider for GPU-based workloads, also partnered with Nvidia to enable companies to scale infrastructure.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027-2021-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027-2021-11-10",
+      "webUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/",
+      "originalUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/cloud-6621829_1920-e1634161645991.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 630,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T12:57:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/amp/",
+      "publishedDateTime": "2021-11-10T13:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -158,6 +158,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-11-israel-using-facial-recognition-surveillance-in-palestinian-city.md",
+      "title": "Israel using facial recognition surveillance in Palestinian city",
+      "excerpt": "HEBRON: Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city",
+      "originalUrl": "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/Surveillance1636573997-0/Surveillance1636573997-0.jpg  ",
+          "width": 712,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1",
+      "publishedDateTime": "2021-11-10T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech.md",
       "title": "Standard AI acquires ThirdEye and teams up to bolster autonomous checkout tech",
       "excerpt": "Standard AI, which provides an AI-based solution for autonomous retail checkout, has acqui-hired computer vision startup ThirdEye Labs.",
@@ -217,7 +260,7 @@
       "originalUrl": "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -694,6 +737,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-10-google-project-relate-android-app-helps-those-with-speech-impairments.md",
+      "title": "Google Project Relate Android app helps those with speech impairments",
+      "excerpt": "There are several medical conditions and diseases that can impact a person’s ability to communicate with others through speech. Google is working to make its apps more accessible to people",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/",
+      "originalUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/11/google-project-relate.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/",
+      "publishedDateTime": "2021-11-10T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires.md",
       "title": "Google and AWS harness the power of machine learning to predict floods and fires",
       "excerpt": "Can machine learning from tech giants help the world respond better to environmental disasters like sudden floods and bushfires?",
@@ -755,7 +850,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1095,100 +1190,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage.md",
-      "title": "Li Ka-Shing-Backed AI Startup Founder Targets Electric Vehicles, Growth Amid Global Chip Shortage",
-      "excerpt": "Albert Liu founded San Diego-based AI startup Kneron in 2015. Since then, it has raised more than $100 million in funding from investors including Alibaba, Foxconn and Hong Kong billionaire Li Ka-shing's Horizons Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182e7f21c5eaa7c4fe42480%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D868%26cropY1%3D0%26cropY2%3D579",
-          "width": 868,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/amp/",
-      "publishedDateTime": "2021-11-09T15:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-lawmakers-come-for-facebook-algorithm-with-filter-bubble-bill.md",
-      "title": "Lawmakers come for Facebook algorithm with 'filter bubble' bill",
-      "excerpt": "Facebook's algorithm sucks, and Congress wants to do something about it. A bipartisan group of lawmakers is pushing forward what it's titled the \"Filter Bubble ... the bill is aimed at the heart ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/filter-bubble-transparency-act-threatens-facebook-news-feed",
-      "originalUrl": "https://mashable.com/article/filter-bubble-transparency-act-threatens-facebook-news-feed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/02zPzzQTuSRukpzxcBQv9DD/hero-image.fill.size_1200x675.v1636502109.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T15:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

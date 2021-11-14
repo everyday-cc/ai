@@ -59,20 +59,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Facebook is now revealing how often users see bullying or harassing posts"
-    excerpt: "The parent company of Facebook and Instagram has released data for the first time showing how often people see bullying or harassing posts on its apps, amid scrutiny over how its social networks may be harming users and society at large."
-    publishedDateTime: 2021-11-09T18:11:00Z
-    webUrl: "https://kuow.org/stories/facebook-is-now-revealing-how-often-users-see-bullying-or-harassing-posts"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 23
-    images:
-      - url: "https://kuow-prod.imgix.net/store/cfdac8b72741ad70d4441331bd867d2f.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 837
-        height: 628
-        isCached: true
 
 secured: "Jy+t5obEKgMxnrO3Wm0IxizFYR1dBcmAnnpy5cDQYVY6iNEqCHKZUXszw5g+w2BLPygQOV5QUfSxR9YXVlNJ663TI/l2/dIfowLRjWPs6676ESJv+NWsy5/bSldJwg9OP+WqBFpCH17jBnA/GDNMV7WiaLMbctBlfFZMPpAt9gCc97LLE2xj1+8KHrrZXjmLfnrC+aB6B0mFKFIfHuWshSSBk/NBrK41aH9AQs/JsHl056deKPI8bWNIDMJCF3eas8oq/bs6O2uv3JkuzN5xqIdg3PVdLsNm6Ycow3azjLU45PyI2jGuAiHFRX6s2WjutnwxGPbTPJeOg2EeskRE8E5CUxyFdJ0CiTQ8Jfn9YLu71bOPMw3aqgyDoQXURkuKE6UoM2fzO/za2nAQCwPw1S1nudPzmUSNwkE3mQ0aMf5viZ0J/YxnB164sK9biubkrL2Z06cDiL4/DVtMU1cDhdg9O4V51KHv9naQrtOSujqxqAgGoZ0iW7mx5jLRUz7JLIpLoZ6X/0lzgGng/1c2UA==;0H2LHV64k9Xn3XpTRUdngg=="
 ---

@@ -2,6 +2,109 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-11-05-autonomous-driving-startup-momenta-raises-another-500m.md",
+      "title": "Autonomous driving startup Momenta raises another $500M",
+      "excerpt": "In the wake of a $300 million investment from General Motors in September, Momenta, an autonomous driving solution provider from China, announced today an additional $500 million added to its Series C round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/05/momenta-500-million/",
+      "originalUrl": "https://techcrunch.com/2021/11/05/momenta-500-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/51961636095813_.pic_.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/05/momenta-500-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/05/momenta-500-million/amp/",
+      "publishedDateTime": "2021-11-05T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-ai-and-simulation-driving-major-advances-in-robotics.md",
+      "title": "AI and Simulation Driving Major Advances in Robotics",
+      "excerpt": "Whether autonomously moving parts and products or visually inspecting goods for defects, the rapid growth of e-commerce, onshoring of manufacturing and labor shortages have accelerated the urgency for robotics deployment and automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFPov227PVLFA/article-cover_image-shrink_720_1280/0/1636095105698?e=1641427200&v=beta&t=t2hu2gjZ-2hTVXnmtcXdmzFeSzLJuRHWLsh8ELc8FDI",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.md",
       "title": "Governments must check if Facebook really does scrap face recognition, Frances Haugen says",
       "excerpt": "Facebook made the announcement on Tuesday, partly in response to growing scrutiny from regulators and legislators over user safety and abuses on its p..",
@@ -1121,101 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-an-ethical-ai-trained-on-human-morals-has-turned-racist.md",
-      "title": "An ‘ethical’ AI trained on human morals has turned racist",
-      "excerpt": "It’s wrong, according to AI. Explaining Delphi’s goal, its creators wrote online: “Extreme-scale neural networks learned from raw internet data are ever more powerful than we anticipated, yet fail to learn human values, norms, and ethics. Our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi",
-      "originalUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dazedimg-dazedgroup.netdna-ssl.com/1200/0-0-1345-897/azure/dazed-prod/1310/6/1316177.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1",
-      "cdnAmpWebUrl": "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1",
-      "publishedDateTime": "2021-11-04T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dazed",
-        "domain": "dazeddigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-better-ai-stock-nvidia-or-palantir.md",
-      "title": "Better AI Stock: Nvidia or Palantir",
-      "excerpt": "Nvidia (NASDAQ:NVDA) and Palantir operate in different sectors, but both tech companies are profiting from the secular expansion of the artificial intelligence (AI) market. Nvidia",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "originalUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F649882%2Fgettyimages-664246660.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "publishedDateTime": "2021-11-04T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

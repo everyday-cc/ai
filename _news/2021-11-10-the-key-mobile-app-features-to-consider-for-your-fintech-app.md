@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI call in India getting louder and louder"
-    excerpt: "IN June 2018, the Indian government defined a national policy on artificial intelligence (AI) in a working paper titled, “National Strategy for Artificial Intelligence #AIforAll.”"
-    publishedDateTime: 2021-11-14T01:00:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2021/11/14/ai-call-in-india-getting-louder-and-louder"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/14/1367124.jpg"
-        width: 930
-        height: 515
-        isCached: true
   - title: "Hiring to scaling: 3 fintech unicorn CEOs share what it takes to build a successful company"
     excerpt: "As part of Singapore Fintech Festival 2021, three CEOs of fintech unicorns in Asia — Linklogis, VNLIFE and Advance Intelligence Group — came together as panellists to discuss the key ingredients for success that help to shape and grow a unicorn."
     publishedDateTime: 2021-11-10T09:29:00Z

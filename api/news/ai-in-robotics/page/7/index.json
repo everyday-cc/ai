@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
-      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
-      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "publishedDateTime": "2021-10-01T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-10-01-honda-sets-its-sights-on-an-evtol-telepresence-robot-and-space-tech.md",
       "title": "Honda sets its sights on an eVTOL, telepresence robot and space tech",
       "excerpt": "Honda has laid out new technologies it plans to pursue in the coming decades. Building on current areas of expertise, the company will look to develop an eVTOL for inter-city transport, a robot that will act as an avatar for users to perform tasks remotely,",
@@ -1407,6 +1363,58 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-todays-discover-samsung-deal-saves-you-100-on-a-jet-bot-robot-vacuum.md",
+      "title": "Today’s Discover Samsung Deal Saves You $100 On A Jet Bot Robot Vacuum",
+      "excerpt": "Today, you can save up $100 on a Samsung Jet Bot robot vacuum, complete with LiDAR. It’s part of Discover Samsung, a weeklong sale that saves you thousands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/24/discover-samsung-sale-daily-deal/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/24/discover-samsung-sale-daily-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614df988e275889a6fd5d78e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D578%26cropY1%3D314%26cropY2%3D700",
+          "width": 578,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/24/discover-samsung-sale-daily-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/09/24/discover-samsung-sale-daily-deal/amp/",
+      "publishedDateTime": "2021-09-24T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

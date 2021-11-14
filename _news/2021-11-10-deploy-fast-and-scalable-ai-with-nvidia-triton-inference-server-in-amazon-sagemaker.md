@@ -57,20 +57,6 @@ related:
         width: 356
         height: 630
         isCached: true
-  - title: "Bring your own data to classify news with Amazon SageMaker and Hugging Face"
-    excerpt: "The fields of natural language processing (NLP), natural language understanding (NLU), and related branches of machine learning (ML) for text analysis have rapidly evolved to address use cases involving text classification, summarization, translation, and more. State-of-the art, general-purpose architectures"
-    publishedDateTime: 2021-11-09T17:53:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-to-classify-news-with-amazon-sagemaker-and-hugging-face/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4161-image003.png"
-        width: 452
-        height: 476
-        isCached: true
 
 secured: "6UdYz/SK+as1cpTEDsQ0G2zA8gEsTMKg16cYES9dgkJqyRQdXl/BcQ90uZYKzE1Tj3FozCPQJ6+cZToclqa9KDui8WNvlx7L51auxU0zt5nJFwFmzkvsVMD9d06WeWW4kqPTLnvkMkrmS8bVovbpehWO+fmPS4TSdlVZuvmT8YCqw30X2b6Lh7EZ5jiStscpKW5mO50EmWlDFYNf8t5+30QGkbaQX806+WLgsT6yWuIkIuUgfgYk0lbYtoFo9RROm/cJO3QoOtrZLsimJfTreHmKwzVYacP9HOW7bu6rGIe3E7v2qqUp2NSRK1/Mb/edrH7n6mTLWWOgOmeaJMYCCx1KMJiNPZFvT+jpGnbrm9U=;6iY53yFu9jZt7vcCokUnqQ=="
 ---

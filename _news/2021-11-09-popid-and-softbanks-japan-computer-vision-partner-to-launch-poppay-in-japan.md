@@ -1,28 +1,26 @@
 ---
 category: news
-title: "PopID and SoftBank's Japan Computer Vision Partner to Launch PopPay In Japan"
-excerpt: "Wendy's First Kitchen is First QSR Chain in Japan to Accept Face Pay PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the ..."
-publishedDateTime: 2021-11-09T04:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan"
-ampWebUrl: "https://www.benzinga.com/amp/content/23972605"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605"
+title: "PopID and SoftBank’s Japan Computer Vision Partner to Launch PopPay In Japan"
+excerpt: "PopID, Japan Computer Vision (“JCV”, a subsidiary of SoftBank Corp), and Wendy’s First Kitchen (“WFK”) announced today the launch of PopPay - PopID’s face-recognition-based ordering and payment system - in Tokyo,"
+publishedDateTime: 2021-11-09T04:01:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "TEVi98U1xvSen8A1gTzRbvpzdihIoY1JzekeP12opnZrzzO9bMmigK2u4f+nngVzUtznDce/4xMPhJeYW/Ag7XP0Ng4s0d155F6O3sGbn7d+GWSZTpWd580jlWI16adVd0wMv9KAO3litbDoI4nuebpXpN0BK5S1gD9XgjEEvYiaaqFfZh0Ri1HY18vdLoA8N1fNMbkgUcJTjqsqzV9hyGAld9m9pDmhSyaVZ2cF/RifPGiWuGMUWWl60fTipeOqPb8i84XyD/L9O3ZTOMAOyFCWpe0PhN1hrzjq9mXq0dK7aa99qaW92VSlGG2rcVu0gKmqRT4JPZzMiLv48OFLEOwaNEmKn9M+HJYJSk8qIwY=;Y0NhYGVmRugtgSeIwkDsDw=="
+secured: "Ggolj3+7VQvzRXavuyoIGkD+Ew2ocEz1J35NOlBS5yjF2l4v3Xapd2yomt4T7A5wWh3awficUXs5sYhp+KcoDOpMPIEH4GcAj6v+ao0byK9hCp4oo2eKYtS4piuyiZSSeZYtVhj/1Q+79kwRNXGI4SGpim5SGgvKLAivNiqrMhtq0bYI+mAIXb+h2BQbeY9dWyuyOxywKaydlk0CGuJ5ucDI1cHOCh4I6QVrPPKFjKfld0JHIvhAAtt/vCRxLpEkAjkmLEtvCtivUzEACEWTmf/LbY+fRXo+AXzGeMuveX9N02H9UGe77r+Ih28lG+UxEKGqN0VFbpxrQ0aWY/13ET/Kuy+lAuklpMRtEs63r0w=;tmiVJ6MAfxkbxG/lm+hzPg=="
 ---
 

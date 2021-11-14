@@ -9,7 +9,7 @@ ampWebUrl: "https://www.india.com/technology/google-news-ai-based-flood-forecast
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/google-news-ai-based-flood-forecasting-system-now-live-in-india-details-here-5092139/amp/"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Expanding our ML-based flood forecasting"
-    excerpt: "In 2018 we began our flood forecasting initiative to help combat the catastrophic damage from floods each year by equipping those in harm’s way with accurate and detailed alerts. This work is a part of Google’s broader Crisis Response program which provides people access to trusted information and resources"
-    publishedDateTime: 2021-11-09T19:00:00Z
-    webUrl: "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/"
-    ampWebUrl: "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/"
+  - title: "AI call in India getting louder and louder"
+    excerpt: "IN June 2018, the Indian government defined a national policy on artificial intelligence (AI) in a working paper titled, “National Strategy for Artificial Intelligence #AIforAll.”"
+    publishedDateTime: 2021-11-14T01:00:00Z
+    webUrl: "https://www.thestar.com.my/news/focus/2021/11/14/ai-call-in-india-getting-louder-and-louder"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 111
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/inundation_modeling.max-1000x1000.png"
-        width: 1000
-        height: 423
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/14/1367124.jpg"
+        width: 930
+        height: 515
         isCached: true
 
 secured: "WmIy6xcXWQF9fspWwWiWpy56BBAdMaQoFNKiTpYwMyIfqG7M0UiYlXRcGJPaCcE2D8RmEUhILKOF03DASlzSRsy3ksxSInh7Z/unKCw4fCqaGw7kAI/34ll2XIpE39XsHNZ5bdCDMbLBu0SJCrz79hKJZAj5Yuz/1gG86v/xujnHzpYViKGFx3eKAF3f9bh/SQjpBCxVz1YXiLt9nMRzFKt0j+xdw7I5+oLJMAyr1YULckkXSM47V4BbNoR3H1vk42o+pBBGIEFxeboF6asBtIpBm8dY1wb653pxGUz2ZBDMtXXpE46CmW/Cch8x8XzMfTF4PGD9DRHeAm5NUp53ccWRPlg+yktUHH4FLJuPw3U=;4gPYFJjEr/yCHC2ofHNe8A=="

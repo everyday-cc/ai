@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A communication tool for people with speech impairments"
-    excerpt: "For millions of people, being able to speak and be understood can be difficult as a result of conditions that can impact speech, including stroke, ALS, Cerebral Palsy, traumatic brain injury or Parkinson's disease. Today, we’re inviting an initial group of people to test Project Relate, a new Android"
-    publishedDateTime: 2021-11-09T19:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/accessibility/project-relate/"
-    ampWebUrl: "https://blog.google/outreach-initiatives/accessibility/project-relate/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-relate/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PROJECT_RELATE_YT_THUMBNAIL.max-1300x1300.jpg"
-        width: 1300
-        height: 731
-        isCached: true
   - title: "Google Project Relate Android app helps those with speech impairments"
     excerpt: "There are several medical conditions and diseases that can impact a person’s ability to communicate with others through speech. Google is working to make its apps more accessible to people"
     publishedDateTime: 2021-11-10T11:54:00Z
@@ -100,6 +84,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Google-Project-Relate-1.jpeg"
         width: 1406
         height: 1406
+        isCached: true
+  - title: "Google’s ‘Project Relate’ App to Help Those With Speech Impediments Use Assistant"
+    excerpt: "The company announced the program is now accepting volunteers for Project Relate to contribute towards multi-year research with the goal of improving Google’s speech recognition algorithms."
+    publishedDateTime: 2021-11-10T16:35:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/project-relate/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 19
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/07/google.jpg"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "BClUZEpS/HzAKQmUn8R28+Hbs46uVL08jCpwyscry/eJp/YMJV6CzOjXBht3k6C9DdOyH9kh4XhlahY8a91kOLjY4iPcFQLwHXjf5rRfYYXU9W5XmOv467/NKJOMdxGOjarnxfcsoCjKdQWu6EsEAjG/BZgdgjfsgvdGQqyy+Y15oB4deEdez9E1eZoWtISOdzcKfZS/jgJie2qarZL0a3XTwSBDo7ead5qsg0Nf2Iv8Q8MDsOVcYAd5ICykFQKFdo3jDP/8CN/YpAoLO+eFwqUoymQ3Ymbpbx/AtEKYBBkYngwSrUCAffeErgvoyKal8U5S1y1i31rznaJ++D+MonXRoICpG67tIonGPYPRUWY=;Jg41upVktmB4mCLdFycDgg=="

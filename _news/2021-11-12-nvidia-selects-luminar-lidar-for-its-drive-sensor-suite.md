@@ -64,22 +64,6 @@ related:
         width: 1789
         height: 957
         isCached: true
-  - title: "Luminar Wins Nvidia Business in Self-Driving Deal. It’s a Big Moment for the Lidar Maker."
-    excerpt: "Lidar maker Luminar Technologies and tech giant Nvidia are pairing up to put self-driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate."
-    publishedDateTime: 2021-11-09T17:22:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 35
-    images:
-      - url: "https://images.barrons.com/im-356249/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia announces new platform for creating AI Avatars"
     excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
     publishedDateTime: 2021-11-10T16:16:00Z

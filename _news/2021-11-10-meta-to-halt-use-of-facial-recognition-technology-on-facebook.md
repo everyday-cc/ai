@@ -9,7 +9,7 @@ ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/11/faceb.jpg?itok=QLjSS1xF"
         width: 750
         height: 393
-        isCached: true
-  - title: "Facebook is now revealing how often users see bullying or harassing posts"
-    excerpt: "The parent company of Facebook and Instagram has released data for the first time showing how often people see bullying or harassing posts on its apps, amid scrutiny over how its social networks may be harming users and society at large."
-    publishedDateTime: 2021-11-09T18:11:00Z
-    webUrl: "https://kuow.org/stories/facebook-is-now-revealing-how-often-users-see-bullying-or-harassing-posts"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 23
-    images:
-      - url: "https://kuow-prod.imgix.net/store/cfdac8b72741ad70d4441331bd867d2f.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 837
-        height: 628
         isCached: true
   - title: "Artificial General Intelligence (AGI) Market to See Major Growth by 2026 | General Vision, Facebook, Digital Genius"
     excerpt: "The Latest Released Artificial General Intelligence AGI market study has evaluated the future growth potential of Artificial General Intelligence AGI market and provides information and useful stats on market structure and size The report is intended to provide market intelligence"

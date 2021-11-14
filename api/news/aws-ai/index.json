@@ -62,7 +62,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1425,6 +1425,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-31-5-artificial-intelligence-case-studies.md",
+      "title": "5 Artificial Intelligence Case Studies",
+      "excerpt": "“Without the help of AWS and eCloudvalley, we would have required extensive ... audience discovery and film marketing tactics by using big data analytics and artificial intelligence. They built AI tools to analyze their non-sequel movies and pinpoint ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-use-cases/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg",
+          "width": 2560,
+          "height": 1493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-31T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-build-conversational-experiences-for-retail-order-management-using-amazon-lex.md",
       "title": "Build conversational experiences for retail order management using Amazon Lex",
       "excerpt": "Retailers want to stay engaged with their customers as they move seamlessly between digital channels and physical storefronts. By delivering personalized and consistent experiences across a range of retail touchpoints, companies can drive brand loyalty. Customers contact retailers’ customer support for",
@@ -1450,58 +1493,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-10-29T15:04:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector.md",
-      "title": "Prevent fake account sign-ups in real time with AI using Amazon Fraud Detector",
-      "excerpt": "Implementing an effective fraud prevention system is one of the top priorities for businesses that operate online web or mobile platforms. Businesses report millions of dollars of lost revenue each year due to fraud. Platform abuse and fraud prevention largely remain reactive, and is achieved by studying",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/28/ML-6059-featured-1260x630.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-29T14:32:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

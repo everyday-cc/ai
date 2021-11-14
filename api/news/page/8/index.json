@@ -2,6 +2,109 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-06-rise-of-the-robots-speeds-up-in-pandemic-with-us-labor-scarce.md",
+      "title": "Rise of the Robots Speeds Up in Pandemic With U.S. Labor Scarce",
+      "excerpt": "American workers are hoping that the tight pandemic ... labor market will translate into better pay. It might just mean robots take their jobs instead. Labor shortages and rising wages are pushing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-06/rise-of-the-robots-speeds-up-in-pandemic-with-u-s-labor-scarce",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-06/rise-of-the-robots-speeds-up-in-pandemic-with-u-s-labor-scarce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/illkdk7Rv8g8/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-tagalong-robots-follow-you-to-learn-where-you-go.md",
+      "title": "Tagalong robots follow you to learn where you go",
+      "excerpt": "Follower robots have been under development since the late 1990s, beginning on the ground and extending underwater and into the sky. Initial forms relied on following the location of a tag in a person’s pocket,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1&start=0",
+      "originalUrl": "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1&start=0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/robot-trailing-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-streaming-the-best-films-about-artificial-intelligence-and-robots.md",
       "title": "Streaming: the best films about artificial intelligence and robots",
       "excerpt": "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch",
@@ -1098,109 +1201,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-autonomous-driving-startup-momenta-raises-another-500m.md",
-      "title": "Autonomous driving startup Momenta raises another $500M",
-      "excerpt": "In the wake of a $300 million investment from General Motors in September, Momenta, an autonomous driving solution provider from China, announced today an additional $500 million added to its Series C round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/05/momenta-500-million/",
-      "originalUrl": "https://techcrunch.com/2021/11/05/momenta-500-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/51961636095813_.pic_.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/05/momenta-500-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/05/momenta-500-million/amp/",
-      "publishedDateTime": "2021-11-05T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-ai-and-simulation-driving-major-advances-in-robotics.md",
-      "title": "AI and Simulation Driving Major Advances in Robotics",
-      "excerpt": "Whether autonomously moving parts and products or visually inspecting goods for defects, the rapid growth of e-commerce, onshoring of manufacturing and labor shortages have accelerated the urgency for robotics deployment and automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-simulation-driving-major-advances-robotics-amit-goel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFPov227PVLFA/article-cover_image-shrink_720_1280/0/1636095105698?e=1641427200&v=beta&t=t2hu2gjZ-2hTVXnmtcXdmzFeSzLJuRHWLsh8ELc8FDI",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-29-prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector.md",
+      "title": "Prevent fake account sign-ups in real time with AI using Amazon Fraud Detector",
+      "excerpt": "Implementing an effective fraud prevention system is one of the top priorities for businesses that operate online web or mobile platforms. Businesses report millions of dollars of lost revenue each year due to fraud. Platform abuse and fraud prevention largely remain reactive, and is achieved by studying",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prevent-fake-account-sign-ups-in-real-time-with-ai-using-amazon-fraud-detector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/28/ML-6059-featured-1260x630.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T14:32:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-analyze-video-feeds-at-the-edge-with-aws-panorama-appliance.md",
       "title": "Analyze Video Feeds at the Edge with AWS Panorama Appliance",
       "excerpt": "AWS announced the general availability (GA) of AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras.",
@@ -1352,49 +1404,6 @@
         "AWS AI",
         "Computer Vision",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-aws-announces-general-availability-of-the-aws-panorama-appliance.md",
-      "title": "AWS Announces General Availability of the AWS Panorama Appliance",
-      "excerpt": "(NASDAQ: AMZN), announced the general availability of the AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-canada-amazoncom-inc-web-services-d4e0f9296bff4570b449aaba742fe7ae",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-canada-amazoncom-inc-web-services-d4e0f9296bff4570b449aaba742fe7ae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

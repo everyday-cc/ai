@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launc
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/"
 type: article
 quality: 107
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/02/ML-488-image001-356x630.png"
         width: 356
         height: 630
-        isCached: true
-  - title: "Bring your own data to classify news with Amazon SageMaker and Hugging Face"
-    excerpt: "The fields of natural language processing (NLP), natural language understanding (NLU), and related branches of machine learning (ML) for text analysis have rapidly evolved to address use cases involving text classification, summarization, translation, and more. State-of-the art, general-purpose architectures"
-    publishedDateTime: 2021-11-09T17:53:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-own-data-to-classify-news-with-amazon-sagemaker-and-hugging-face/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4161-image003.png"
-        width: 452
-        height: 476
         isCached: true
 
 secured: "2pofgeLeroPBJO9ywhXrs4wClYc1lcfm3AbyNonVwRXXW0q3/W7rJlNUOGARwsHKuwSMe1aSKkfWPshg5Wmww8QOE0yc/yTXtGixEI8Gcr/nYILgGYaQrvdRBh7e9N1z/ObdqljXIiNw+vSef15FiZraOaPb4gcfPTeZlevWcE8XudbSJp8yrZe6LGTI1mos76upgT1Kg+bY3RS3At76r+3pDFivwXpKmmj74U1YMrPVhjyMEfaxYHPHuqUIdrsL2qkqLKQL3V0u2VoZY5rcnF5mKgGLIvHiKuL9qpb+k347kwO7upgjHKjSjlOZe2oegZ7OIlOhRQ+PgbgLJzgRusgyPFc//8++0XTf+gVz61E=;1k25dgfGXRBas/9+wYPUEQ=="

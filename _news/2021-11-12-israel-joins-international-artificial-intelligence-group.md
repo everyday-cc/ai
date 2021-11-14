@@ -24,6 +24,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Israel joins Global Partnership on Artificial Intelligence"
+    excerpt: "Israel has joined the Global Partnership on Artificial Intelligence. Israel became the 20 th country to join the alliance, during its annual meeting in Paris on Thursday. The organization, led by France and Canada,"
+    publishedDateTime: 2021-11-14T09:25:00Z
+    webUrl: "https://themedialine.org/headlines/israel-joins-global-partnership-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 37
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2021/11/Orit-Farkash-Hacohen-Twitter-e1636881930762.jpg"
+        width: 2047
+        height: 1151
+        isCached: true
+
 secured: "6JuR7XRd2AeLqeGiNYsH+8A7qQv3E9/6V3FR7naBGNi0MbMOGNm9hnUSCrfkJ5oZCH/HCncDJVTrJQql0Blcm+MMDW8AFn3lkbu0WB0UA3Jml7r9StUbifKe6jwnXBnIM/6yl/TgtdVZ5IE8sIHp/JPAFrAQRRgiCWmVY0S1ckADGw8Ht/RXjdtNrN8mtcNk/p++Rlhq1M5yiWzpxSns7GP2pU2UMXxqT8PAPBVUHe3bPGHnDJ57Q73ocBWbHUycoJkWhyg2HD7XJQDgDRLlf1bGbFpYCf2Psy6k7daWfOmnDNDHhK+UA8jJVJmeGLM/rPj7j8yqzRBSEZeiFGTPJBp2vU1LuqFsn2w5GywrEC9OEiGbG+RbFF5l56pYq6hzZ4wjTpN0F7eLiXGxkX50b7jE/xtrYUdG89R9TuV16qsE2t0L9t8K9Bv06b6Rz9ewi4flN5+QuB4Jo5P40fBel3ihfqiHHmJawfSyQnrFQ5Yl5sA4cCMgmbogzUg0l+BqbGWytZgXobp0w4awi8G+gg==;uJX+sUdOiWW2su2e4+iBpg=="
 ---
 

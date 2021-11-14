@@ -2,6 +2,110 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-11-01-why-should-humankind-strive-to-build-artificial-general-intelligence.md",
+      "title": "Why Should Humankind Strive To Build Artificial General Intelligence?",
+      "excerpt": "Artificial intelligence, or AI, has been a buzzword for a while now. Although it has its own set of rewards and accolades mustered through disciplines like machine learning (ML), deep learning (DL) and natural language processing (NLP),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd8bff049e58c7220248800%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/01/why-should-humankind-strive-to-build-artificial-general-intelligence/amp/",
+      "publishedDateTime": "2021-11-01T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-how-leaders-in-security-observability-and-innovation-master-cloud-complexity.md",
+      "title": "How Leaders In Security, Observability And Innovation Master Cloud Complexity",
+      "excerpt": "As organizations adopt microservices architectures, multiple public clouds and more, complexity will only increase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
+      "originalUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61783b2546500e7920061744%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
+      "publishedDateTime": "2021-11-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-could-open-banking-pose-new-security-threats-to-your-financial-data-we-asked-an-expert.md",
       "title": "Could open banking pose new security threats to your financial data? We asked an expert",
       "excerpt": "While open banking and PSD2 data sharing APIs may provide more options for consumers, will it also bring more security issues?",
@@ -1098,110 +1202,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-security-ai-is-the-next-big-thing.md",
-      "title": "Security AI is the next big thing",
-      "excerpt": "This isn't a takeover by cybersecurity AI; it's a force multiplier for security teams and doing a lot of work behind the scenes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/",
-      "originalUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/Cybertron-Full-small.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/security-ai-is-the-next-big-thing/amp/",
-      "publishedDateTime": "2021-10-30T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-ai-is-keeping-watch-over-government-spending.md",
-      "title": "AI Is Keeping Watch Over Government Spending",
-      "excerpt": "For example, AI helps convert appropriation bills into structured data ... How do you identify which problem area(s) to start with for your automation and cognitive technology projects? Justin Marsico: We work closely with our federal process improvement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617d508009fce0bdf8ec75db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3020%26cropY1%3D144%26cropY2%3D2409",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/30/ai-is-keeping-watch-over-government-spending/amp/",
-      "publishedDateTime": "2021-10-30T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

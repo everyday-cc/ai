@@ -131,6 +131,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "From AI-powered avatars to user data: Is there space for rights in the metaverse?"
+    excerpt: "The term \"metaverse\" has been used to describe an array of shared spaces accessed via the internet – from fully-immersive virtual reality (VR) space.."
+    publishedDateTime: 2021-11-14T10:44:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87698685"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87698685"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87698685"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87698685,imgsize-181102,width-1200,height-628,overlay-ettelecom/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Glimpse Group and D-ID Partner to Bring Life to the Metaverse with AI, VR & AR"
     excerpt: "Harnessing AI-powered synthetic media with the visual power of Augmented & Virtual Reality to enhance viewing and interaction in the Metaverse NEW YORK, NY / ACCESSWIRE / November 10, 2021 / The Glimpse Group,"
     publishedDateTime: 2021-11-10T13:31:00Z
