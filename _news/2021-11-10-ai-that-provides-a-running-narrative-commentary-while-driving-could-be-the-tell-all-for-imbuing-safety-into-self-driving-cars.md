@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/10/ai-that-provide
 webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/10/ai-that-provides-a-running-narrative-commentary-while-driving-could-be-the-tell-all-for-imbuing-safety-into-self-driving-cars/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -29,35 +29,195 @@ images:
     isCached: true
 
 related:
-  - title: "CNBC Says \"Self-Driving Cars Are Here\" Despite Self-Driving Cars Not Really Being Here"
-    excerpt: "If you don't believe me, get in the back seat of an empty Tesla and tell it to take you somewhere and see how that works out for you"
-    publishedDateTime: 2021-11-12T18:05:00Z
-    webUrl: "https://jalopnik.com/cnbc-says-self-driving-cars-are-here-despite-self-dri-1848047915"
-    ampWebUrl: "https://jalopnik.com/cnbc-says-self-driving-cars-are-here-despite-self-dri-1848047915/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/cnbc-says-self-driving-cars-are-here-despite-self-dri-1848047915/amp"
+  - title: "Regulators looking into complaint about Tesla's 'Full Self-Driving' software"
+    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
+    publishedDateTime: 2021-11-14T01:19:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/regulators-looking-complaint-teslas-full-self-driving-software-rcna5537"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna5537"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 36
+      name: NBC News
+      domain: nbcnews.com
+    quality: 101
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0cbe2af14042a847727ce2dd8bc1e739.png"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211113-tesla-model-y-cc-811p-604deb.jpg"
+        width: 4985
+        height: 3135
+        isCached: true
+  - title: "Tesla owner claims first Full Self-Driving Beta crash in strange NTHSA complaint"
+    excerpt: "In a National Highway Traffic Safety Administration (NTHSA) complaint, a Tesla Model Y owner claims that he was involved in a crash while using the Full Self-Driving Beta, which would be the first reported FSD Beta accident."
+    publishedDateTime: 2021-11-12T20:01:00Z
+    webUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/"
+    ampWebUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 99
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla's 'Full Self-Driving' Beta Appears to Have Caused Its First Major Crash"
+    excerpt: "An NHTSA complaint alleges a Telsa Model Y with FSD engaged was \"severely damaged\" after mistakenly turning into the wrong lane and colliding with another car."
+    publishedDateTime: 2021-11-13T02:13:00Z
+    webUrl: "https://gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965"
+    ampWebUrl: "https://gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 86
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6decb14dfa7b5942403227b547acf989.jpg"
         width: 800
         height: 449
         isCached: true
-  - title: "Joe Phillips: Self-driving cars"
-    excerpt: "A few cars not only can drive themselves around but can park themselves as well and parallel at that. While this is just a man musing along with nowhere special to go, the subject does bring up some questions somebody ought to ask Hmmmm."
-    publishedDateTime: 2021-11-09T15:00:00Z
-    webUrl: "https://www.northwestgeorgianews.com/catoosa_walker_news/lifestyles/joe-phillips-self-driving-cars/article_32b354b0-4177-11ec-80f3-43317df759f0.html"
+  - title: "Tesla starts retrofit program for cameras on older vehicles with ‘Full Self-Driving’"
+    excerpt: "Tesla has launched a retrofit program for Autopilot cameras on older vehicles with the “Full Self-Driving” package. Starting with the introduction of its Autopilot 2.0 suite of sensors in 2016, Tesla started selling all of its cars with the promise that they have all the hardware necessary to achieve full self-driving capability with future software"
+    publishedDateTime: 2021-11-09T15:10:00Z
+    webUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/"
+    ampWebUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
     type: article
     provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
-    quality: 24
+      name: Electrek
+      domain: electrek.co
+    quality: 82
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/0/ee/0ee67f4e-cb00-11e8-adb7-6b294a0d9b5f/5bbb5f133d5a0.image.jpg"
-        width: 288
-        height: 432
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "U.S. regulator reviewing Tesla owner complaint on self-driving test software"
+    excerpt: "The U.S. National Highway Traffic Safety Administration (NHTSA) said it is looking into a consumer report that a Tesla Model Y was involved in an accident while using the company's Full Self-Driving (FSD) Beta software."
+    publishedDateTime: 2021-11-13T01:45:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/us-safety-regulator-says-aware-tesla-owner-complaint-self-driving-test-software-2021-11-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 81
+    images:
+      - url: "https://www.reuters.com/resizer/LmLK9_BUSwhgIdkMy09mUROBc-s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DAI3EOCMDBICXCN7OJU566M3SE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "U.S. regulators reviewing Tesla owner complaint on self-driving test software"
+    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash. The driver was beta testing the “Full Self-Driving”"
+    publishedDateTime: 2021-11-13T13:12:00Z
+    webUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/"
+    ampWebUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 71
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/11/AP21317063976250.jpg?w=1280"
+        width: 1280
+        height: 844
+        isCached: true
+  - title: "Netizens raise questions after Tesla in 'Full Self-Driving' results in a car crash in US"
+    excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist feature. No one was injured in the crash,"
+    publishedDateTime: 2021-11-13T05:45:00Z
+    webUrl: "https://www.freepressjournal.in/viral/netizens-raise-questions-after-tesla-in-full-self-driving-results-in-a-car-crash-in-us"
+    ampWebUrl: "https://www.freepressjournal.in/amp/viral/netizens-raise-questions-after-tesla-in-full-self-driving-results-in-a-car-crash-in-us"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/netizens-raise-questions-after-tesla-in-full-self-driving-results-in-a-car-crash-in-us"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 65
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-11/fd557d02-000a-4848-b182-1942f0b8ff23/images.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Tesla in Full Self-Driving beta mode damaged post crash in US: Report"
+    excerpt: "A Tesla Model Y reportedly in Full Self-Driving beta mode crashed on November 3 in California and got \"severely damaged\". The owner reported the vehicle went into the wrong lane while taking a left turn."
+    publishedDateTime: 2021-11-13T04:20:00Z
+    webUrl: "https://inshorts.com/en/news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/13_sat/img_1636774206941_862.jpg?"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
+    excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
+    publishedDateTime: 2021-11-13T10:40:00Z
+    webUrl: "https://www.thehansindia.com/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    ampWebUrl: "https://www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/auto/auto-news/tesla-in-full-self-driving-mode-damaged-after-crash-in-us-715109"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/11/13/1121601-tesla-car.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Tesla in “Full Self-Driving” Mode “Severely Damaged” in Crash"
+    excerpt: "A Tesla Model Y was “severely damaged” after crashing into an oncoming vehicle while reportedly operating with the controversial Full Self-Driving (FSD) Beta active, The Verge reports. The crash could likely be the first serious incident involving FSD,"
+    publishedDateTime: 2021-11-12T17:09:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-full-self-driving-severely-damaged-crash"
+    ampWebUrl: "https://futurism.com/tesla-full-self-driving-severely-damaged-crash/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-full-self-driving-severely-damaged-crash/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2021/11/tesla-full-self-driving-severely-damaged-crash-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Tesla driver beta testing \"full self-driving\" feature says SUV went in wrong lane and hit vehicle"
+    excerpt: "The crash has prompted an investigation by U.S. auto safety regulators. “The car went into the wrong lane and I was hit by another driver in the lane next to my lane,” the driver wrote."
+    publishedDateTime: 2021-11-13T14:48:00Z
+    webUrl: "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle"
+    ampWebUrl: "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 46
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/07/932/470/GettyImages-187005526_1555969552377_7141953_ver1.0.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Is the Apple Car FINALLY on the way? Apple hires former Tesla Autopilot software director to help develop a self-driving vehicle, report claims"
+    excerpt: "Apple has reportedly hired former Tesla software director Christopher Moore. The Cupertino-based tech giant has been working on its long-rumoured self-driving car project since 2014."
+    publishedDateTime: 2021-11-09T15:30:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10182151/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10182151/amp/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10182151/amp/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 38
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/11/09/14/36181330-0-image-a-27_1636469823253.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "+f9lzjwATOcQNEgQ0+tCsgDfsLvuOpfJ9Mhlmc283o275NfCfnnhf0G4GN+2ai6Y4nef/0rrdZ90SK8qYatK/KKvYYKiTWQy/YNxbUVO++g5jsICxqfrTZ5x9eRFUtWwL/4qFSmNedSx2zA2Y6D5SRNoUEC35NHmbHxSUTWkh3HPLerngQfW82cC7aDrFg0wgTF9TXG/5soJUMOnOnydwdOpu4MhFz7FBGMifTUvxqyf+iSPyCm0zhI9hV7CLQe4PZ9N8FrjGfDgZUapBp5Nwf4dOtOkqqY9FXXKC2aNJEoFh69iUeIYtiKoWq8HQnnX/5UW6BGQYOnOCsTmHhCGbL9b1JMopowK0DmUWj2WaF+klCBhzTHoo0mNj033W+N9vsczsJQeHqeBOH+PrWFEx6eaTVQdwOJnxQ0YHBQdm1ZcDKPLiytm7Zp5l4p7GcKJPt2MyW4N1MpqR6oei8FWfK6jvSNQV+o9vE4ri7W0mmX27t96QvbcAHjrRxxshh2hpziHHlt80eyHBBihWJRcag==;qR26aa/kABhLWnvr9OiXFw=="

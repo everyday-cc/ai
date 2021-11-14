@@ -55,19 +55,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Seven technologies shaping the future of fintech"
-    excerpt: "In the next 10 years, seven key technologies will drive business model reinventions while shaping the competitive landscape of the financial industry."
-    publishedDateTime: 2021-11-09T10:02:00Z
-    webUrl: "https://www.mckinsey.com/cn/our-insights/our-insights/seven-technologies-shaping-the-future-of-fintech"
+  - title: "AI call in India getting louder and louder"
+    excerpt: "IN June 2018, the Indian government defined a national policy on artificial intelligence (AI) in a working paper titled, “National Strategy for Artificial Intelligence #AIforAll.”"
+    publishedDateTime: 2021-11-14T01:00:00Z
+    webUrl: "https://www.thestar.com.my/news/focus/2021/11/14/ai-call-in-india-getting-louder-and-louder"
     type: article
     provider:
-      name: McKinsey & Company
-      domain: mckinsey.com
-    quality: 24
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://www.mckinsey.com/~/media/mckinsey/locations/asia/greater%20china/our%20insights/seven%20technologies%20shaping%20the%20future%20of%20fintech/seven-fintech_trends.jpg"
-        width: 1536
-        height: 864
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/14/1367124.jpg"
+        width: 930
+        height: 515
         isCached: true
   - title: "Global Payments to Participate in Citi's 2021 FinTech Conference"
     excerpt: "Global Payments Inc. , a leading worldwide provider of payment technology and software solutions, announced today that Cameron Bready, President and Chief Operating Officer, will present virtually at Citi's 2021 FinTech Conference at 12:45 p."

@@ -52,22 +52,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Luminar Wins Nvidia Business in Self Driving Deal. It’s a Big Win for the Lidar Maker."
-    excerpt: "Lidar maker Luminar Technologies and tech-giant Nvidia are pairing up to put self driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate. Luminar (ticker ..."
-    publishedDateTime: 2021-11-09T09:32:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-wins-nvidia-business-in-self-driving-deal-its-a-big-win-for-the-lidar-maker-51636418195"
-    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-wins-nvidia-business-in-self-driving-deal-its-a-big-win-for-the-lidar-maker-51636418195"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-wins-nvidia-business-in-self-driving-deal-its-a-big-win-for-the-lidar-maker-51636418195"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 51
-    images:
-      - url: "https://images.barrons.com/im-356249/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "GTC Keynote NVIDIA Intros NVIDIA DRIVE Concierge and DRIVE Chauffer AI"
     excerpt: "These trends are coinciding with the rapid progress of autonomous vehicle technology, meaning more drivers on the road doesn’t have to translate ... conversational AI. Omniverse Avatar connects speech AI, computer vision, natural language understanding ..."
     publishedDateTime: 2021-11-10T02:15:00Z
@@ -97,20 +81,6 @@ related:
       - url: "https://images.barrons.com/im-356249/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Inspur Information Announces Full Support for the NVIDIA AI Platform for Inference Processing"
-    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced at NVIDIA GTC that its AI and Edge inference servers will support NVIDIA A100, A30, and the newly announced A2 Tensor Core GPU s throughout its entire inference server portfolio."
-    publishedDateTime: 2021-11-09T09:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ae9ac0f26e074e2b8be9e526383c5520"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Nvidia selects Luminar lidar for its Drive sensor suite"
     excerpt: "Luminar Technologies Inc. has been selected by Nvidia Corp. to be part of the sensor suite for Nvidia’s Drive Hyperion autonomous reference platform. The move is a big one as Nvidia is one of the leading companies developing autonomous systems that are designed to be integrated into vehicles."

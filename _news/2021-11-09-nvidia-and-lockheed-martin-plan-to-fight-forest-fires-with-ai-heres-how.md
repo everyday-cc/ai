@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 146
+published: true
 
 provider:
   name: CNET
@@ -30,52 +30,82 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia debuts ReOpt to optimize supply chain routing with AI"
-    excerpt: "Nvidia's new ReOpt service employs AI to help shippers optimize the routing of packages bound for customers' doorsteps."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/"
+  - title: "NVIDIA announces platform for creating AI avatars"
+    excerpt: "NVIDIA Omniverse Avatar Enables Real-Time Conversational AI Assistants. NVIDIA announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+    publishedDateTime: 2021-11-11T12:37:00Z
+    webUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/"
+    ampWebUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/11/Delivery-Truck.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "NVIDIA LaunchPad – AI Enterprise Curated Lab"
-    excerpt: "NVIDIA LaunchPad is a hands-on environment where customers can use NVIDIA AI Enterprise servers in a vSphere managed by Equinix free of charge"
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab"
-    ampWebUrl: "https://www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab?amp"
-    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/nvidia-launchpad-ai-enterprise-curated-lab?amp"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
+      name: Dataquest
+      domain: dqindia.com
     quality: 59
     images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2021/11/storagereview-nvidia-launchpad-feature-image-2.png"
-        width: 1582
-        height: 1070
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
+        width: 800
+        height: 420
         isCached: true
-  - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
-    excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/nvidia-beefs-ai-inference-software-model-optimization-enhancements/"
+  - title: "Nvidia Turns Its Focus to AI Inference"
+    excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
+    publishedDateTime: 2021-11-13T00:53:00Z
+    webUrl: "https://www.internetnews.com/enterprise/nvidia-turns-its-focus-to-ai-inference/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
+      name: Internetnews
+      domain: internetnews.com
+    quality: 43
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Triton-Image.jpg"
-        width: 1100
-        height: 508
+      - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
+        width: 900
+        height: 371
         isCached: true
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+    publishedDateTime: 2021-11-10T10:01:00Z
+    webUrl: "https://www.orissapost.com/nvidia-announces-new-platform-for-creating-ai-avatars/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 39
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/11/bb56d03f30a83d4508cd267602851abe-1.jpg"
+        width: 1789
+        height: 957
+        isCached: true
+  - title: "NVIDIA Announces Platform for Creating AI Avatars"
+    excerpt: "PTI takes no editorial responsibility for the same.) Bangalore, Karnataka, India– Business Wire India NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars."
+    publishedDateTime: 2021-11-10T09:44:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2021/11/10/pwr10-nvidia.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 39
+    images:
+      - url: "https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg"
+        width: 540
+        height: 315
+        isCached: true
+  - title: "Video: Nvidia debuts automated parking and AI assistant for future cars"
+    excerpt: "At Nvidia GTC 2021, Nvidia Corp. debuted several new processes for automated driving including intelligent parking and an artificial intelligence (AI) assistant to help with the daily drive grind. The company introduced the Drive Concierge and Drive Chauffeur AI platforms."
+    publishedDateTime: 2021-11-10T13:40:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17397/video-nvidia-debuts-automated-parking-and-ai-assistant-for-future-cars"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
+    publishedDateTime: 2021-11-10T16:16:00Z
+    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3853979&n_date=20211110&cat=Science"
+    type: article
+    provider:
+      name: Net India 123
+      domain: netindia123.com
+    quality: 19
 
 secured: "g9RunOchWrIa/MWU0WraS26SEb1+Mh922Ykzz02EnwxOSSXv/DrPGCjAe9TaGZ2p5UdWMSlHB3+w+HAPSnfl7Ppd8SeJDJvEmOmHZg1Tx/U4r+OUlJc5KgY9zqaTuuzu+11LBy0lApJ8EGIdbOmb4FP8h3o6VLhjm+S+5XIbLUlCop6Cz+qGUcCBkPjnhozSXt/Ce0BrPRwDJ/ujvTpWpj7LzqqNZbFRit2vR7fsUoBr24ND5D3BbwluvDW5Rmm/MNyrEPVDVDAojOZPZoRu6PCupdFjuH5jTeJmf6odZlvTJKsvaTpmgY8eRDF1n/GT9KGX1L3KARSBeEFvz6YATkditAu3SW08MLf74vuhbdY=;90nOGGe7TfwJxM5ykxxXnw=="
 ---

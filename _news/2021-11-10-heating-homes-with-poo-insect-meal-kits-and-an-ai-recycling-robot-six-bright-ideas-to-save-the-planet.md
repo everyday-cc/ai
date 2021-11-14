@@ -7,7 +7,7 @@ originalUrl: "https://www.timeout.com/london/news/heating-homes-with-poo-insect-
 webUrl: "https://www.timeout.com/london/news/heating-homes-with-poo-insect-meal-kits-and-an-ai-recycling-robot-six-bright-ideas-to-save-the-planet-111021"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 750
     height: 422
     isCached: true
-
-related:
-  - title: "Carbon Robotics Manufactures AI-Powered Weeding Robots"
-    excerpt: "Concept: Seattle-based agricultural robotics startup Carbon Robotics has developed an autonomous robot that lasers to zap weeds. Integrated with computer vision, the weeders can clear out around 100,000 weeds an hour."
-    publishedDateTime: 2021-11-09T09:35:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 69
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/11/shutterstock_651441412.jpg"
-        width: 500
-        height: 250
-        isCached: true
-  - title: "Miso is bringing AI-powered robots to local fast-food chains"
-    excerpt: "Staff turnover in restaurants, particularly fast-food spots, has skyrocketed, with a monthly turnover rate of 144 percent. U.S. Labor Department data confirms restaurant workers are quitting their jobs at the highest rate in two decades,"
-    publishedDateTime: 2021-11-10T15:57:00Z
-    webUrl: "https://www.engadget.com/miso-155541183.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-11/959027e0-3bfd-11ec-8b7f-8edc02aea98e"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "55EDqsGY52515FtEfC+urA6u/cwbkxkDc9ayVnsRUkRWskhyEPUV/WKuUpshN9Sw//POohklZBgeh/zGMpYHRL4CX/Uby7e+Y7dRUeGA4x1uI67eLmHP1qcpfN9n0bBbzVOf/1sWL1/Zf/p2gRlEAktjwmaYqmBYOMH6Y0MUbyb7rdkTDF2NODMABWOB7f+y3k8rVZeRkih73s0goCOkqnY542Mo4AbW+RJBxvHSJ7OucWaa5iNPxVGv84SLTDJZXBQVfyrnqQn1YM3IbwFRIAlph2tdx3+lETvoKK0LI0g4KPMn82cgStSonznXEZeuk2sFNE1MZQRUa+tBVjYIM3mh0aRh6AkjFClQBOpr9oqngXJ3DORUj137xN6ajoVVcVXY0jrHudLRzXl63SQFyDSWpB7WHAfKkT5t03hX6k288kL6wg7pqsdspdx2r4ZPVke4HAL6D19PwyKXYiicNTl4GaZn7hexDoDdwI1bmQiICjoTSrQiqRzHbPqPJTM+m8d3PYqfAoSAJBTg6r82qw==;mPeXoFjG+7cGFnMj4tykRw=="
 ---

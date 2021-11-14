@@ -288,6 +288,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-05-linode-and-other-alternative-cloud-providers-outperform-aws-azure-and-gcp-in-nvme-benchmarking-analysis.md",
+      "title": "Linode and Other Alternative Cloud Providers Outperform AWS, Azure and GCP in NVMe Benchmarking Analysis",
+      "excerpt": "A study conducted by Cloud Spectator and released by Linode reports that NVMe-based block storage from alternative cloud providers consistently outperforms offerings from Amazon Web Services (AWS), Google Cloud Platform (GCP) and Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20087407.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20087407.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-ceo-mike-betzers-triple-play-at-enterprise-ai-firm-hypergiant.md",
       "title": "CEO Mike Betzer’s Triple Play At Enterprise AI Firm Hypergiant",
       "excerpt": "We think data scientists are the cool kids of the future, and we're going to enable them to do what they want to do best, which is to show value in this data.",
@@ -1372,50 +1416,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-top-benefits-of-using-azure-machine-learning.md",
-      "title": "Top Benefits of Using Azure Machine Learning",
-      "excerpt": "Fortunately, Microsoft's Azure Machine Learning empowers organizations to overcome these challenges when deploying and using ML. It delivers comprehensive, simple, robust and responsible services enabling partners to build impactful data driven apps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/Think-About-It/Top-Benefits-of-Using-Azure-Machine-Learning-149029.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/Think-About-It/Top-Benefits-of-Using-Azure-Machine-Learning-149029.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

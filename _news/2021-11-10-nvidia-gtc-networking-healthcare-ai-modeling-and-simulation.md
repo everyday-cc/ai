@@ -21,22 +21,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Everything announced at Nvidia's Fall GTC 2021: Omniverse Avatar, CuQuantum, Clara Holoscan and more"
-    excerpt: "During the GTC keynote, Nvidia CEO Jensen Huang showcased a range of new Nvidia products and initiatives, spanning virtual reality, enterprise AI, cybersecurity, quantum computing, advances in automotive and healthcare and more."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/f3093f55db1b12000c82b7534e35491a88175dbc/2021/11/09/2859cd08-d3cd-48bc-a1b6-ee39f3b82f30/doca-zero-trust-image.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 756
-        isCached: true
   - title: "Nvidia GTC Fall 2021: 8 Big Announcements For AI, Security And More"
     excerpt: "A roundup of eight big announcements at Nvidia’s fall GTC 2021 conference that cover areas like AI, security, networking, 3-D design and more."
     publishedDateTime: 2021-11-11T22:54:00Z
@@ -50,34 +34,6 @@ related:
       - url: "https://www.crn.com/resources/026f-13b321c1b659-57c5206111f9-1000/slide1.jpg"
         width: 610
         height: 344
-        isCached: true
-  - title: "Nvidia: AI Can Boost Simulation in VR, Quantum Compute"
-    excerpt: "At its GTC conference, Nvidia showed continued progress on its goal of infusing AI into computing with new offerings that will enable AI in everything from robots and avatars to virtual worlds, supply chains and the emerging field of quantum computing."
-    publishedDateTime: 2021-11-09T17:51:00Z
-    webUrl: "https://thenewstack.io/nvidia-ai-can-power-simulation-performance/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 43
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/b8f34857-nvidia-jensen-huang.png"
-        width: 648
-        height: 392
-        isCached: true
-  - title: "Nvidia launches new products to plug cars, factories into its Omniverse"
-    excerpt: "It uses Nvidia hardware and artificial intelligence software to provide a variety of services, including an autonomous driving function that allows a human-driven vehicle to park itself."
-    publishedDateTime: 2021-11-09T09:42:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/09/nvidia-launches-new-products-to-plug-cars-factories-into-its-omniverse"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/09/1361800.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "P8GHO59Aung+a4rKhroTKRDhAo6wM/JuTGaHQSXqZNrJSMpUKy9z5BWTwyr8dw3dv/6lbYQuDM/DCEIDJU7C0y+u+VnFUQpCojQ/AJIK+znOa+kWf7jtYftwwm0/nPNLsNkNPBqG8tFTpaBNLZhrqiPRL9cYmRCJ9H0MxdjHW0i198mXOZYKV/Ya5ieknzKVgpkxBoGjscZ0zp5yl0HmMgKBUTu1Ne04fYhauDKTuq1EsHPHvD87iBnoMBbcn2S9YDi0TAMNNePWhxQnof3Syn+AtVrIAqrRixrEDZXXdJJ6R5GivyEEwNuUTKC0VQUp8WyCDFdGO7erQxApwvQdU+/BZD1Tj7zx6+zwmqiKyic=;p1uST7vgC2Z+x0ifq4gSyg=="

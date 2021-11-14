@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/miso-155541183.html"
 webUrl: "https://www.engadget.com/miso-155541183.html"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Carbon Robotics Manufactures AI-Powered Weeding Robots"
-    excerpt: "Concept: Seattle-based agricultural robotics startup Carbon Robotics has developed an autonomous robot that lasers to zap weeds. Integrated with computer vision, the weeders can clear out around 100,000 weeds an hour."
-    publishedDateTime: 2021-11-09T09:35:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 69
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/11/shutterstock_651441412.jpg"
-        width: 500
-        height: 250
-        isCached: true
-  - title: "Heating homes with poo, insect meal kits and an AI recycling robot: six bright ideas to save the planet"
-    excerpt: "We explore the game-changing ideas to save the world that are happening right here in London Is sustainable power a shit idea? Yes! No, really. A new scheme from Thames Water and Kingston Council involves tapping excess heat from the sewage treatment process to power homes."
-    publishedDateTime: 2021-11-10T15:18:00Z
-    webUrl: "https://www.timeout.com/london/news/heating-homes-with-poo-insect-meal-kits-and-an-ai-recycling-robot-six-bright-ideas-to-save-the-planet-111021"
-    type: article
-    provider:
-      name: Time Out
-      domain: timeout.com
-    quality: 38
-    images:
-      - url: "https://media.timeout.com/images/105833102/750/422/image.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "GINVnkfmqNQsUydxcFLcHfBdyAS78BYF+N905A55Rq+EaqHESW/UJouYEXkZuyf1eEWGJFxQwgtZWYJsf5mBrOALhFW7Op0RRb0Hz8Kl6pSsjvhO2MgINiGXzkjad6dzMfoshLbPL8phafTiQB4K91zPhqQKw6V2xYWauAiEcmEjoYMPYv6e+n+plaE1n298PO65G/t8TWbgtgRlR9mT1/J7IZhIfexN8i/dqqVgTRdoLtr3zPZCyUrEHnKKAeX0njBvCwYfgEZ3UaHwo85Z4m6lzSZS69GRJo83DuT6d36xd7tHIVyNPsaDRpu/9yTiWlYQkYmwDyFxOq8qVFbfC6iKAIZIvmOGMhFE+cs8cahkrdngWVZfVEF8I4Ohc6Hus5vT64SMc0VZOgWy5LU4541o+x/1dYx6oEUENn+BiDGveYl67o7KNgE9dQR0xtYoY/S0+xC2fNMEIokBOkbyW+VPDf4acXNSKGJGdSwLKzSfPriG5k/7whaFx9nUsQUp+Efzzgp8wZCfKQHJqoAyuw==;+5Fn07Ed+pg/varUc8m+YA=="
 ---

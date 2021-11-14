@@ -33,22 +33,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Nvidia unveils AI Omniverse Avatars for the virtual world"
-    excerpt: "Nvidia today unveiled Omniverse Avatar, a platform for generating immersive AI-driven avatars. The platform enables users to leverage speech AI, computer vision, natural language understanding, and simulation to create avatars that recognize speech and communicate with human users within real-world simulation and collaboration platforms like Nvidia Omniverse,"
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-unveils-ai-omniverse-avatars-for-the-virtual-world/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/omni.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "With the Metaverse on the way, an AI Bill of Rights is urgent"
     excerpt: "Calls for an AI Bill of Rights grow as thought leaders continue to raise serious concerns about the technology."
     publishedDateTime: 2021-11-13T16:40:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-Edge-AI-and-robotics-teaching-kits.jpg"
         width: 700
         height: 490
-        isCached: true
-  - title: "NVIDIA doubles down on AI language models and inference as a substrate for the Metaverse, in data centers, the cloud and at the edge"
-    excerpt: "At NVIDIA's GTC event today, CEO Jensen Huang made announcements the company claims have the potential to transform multi-trillion dollar industries. We cherry-pick from the announcements, focusing on the hardware and software infrastructure that powers the applications that make the headlines."
-    publishedDateTime: 2021-11-09T09:30:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-doubles-down-on-ai-language-models-and-inference-as-a-substrate-for-the-metaverse-in-data-centers-the-cloud-and-at-the-edge/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4a37395f96eb1190ee15b364e0c4799d6bd4c299/2021/11/09/cd687ced-56c7-4ca6-aff9-a6f1d128ed60/morpheus-image.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 648
         isCached: true
   - title: "Nvidia brings highly realistic, walking, talking AI avatars to its Omniverse design tool"
     excerpt: "It’s launching with the enticing new Nvidia Omniverse Avatar capability, which is said to combine Nvidia’s speech AI, computer vision, natural language understanding, recommendation engine and ..."

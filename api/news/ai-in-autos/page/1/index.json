@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-13-tesla-owner-claims-first-full-self-driving-beta-crash-in-strange-nthsa-complaint.md",
-      "title": "Tesla owner claims first Full Self-Driving Beta crash in strange NTHSA complaint",
-      "excerpt": "In a National Highway Traffic Safety Administration (NTHSA) complaint, a Tesla Model Y owner claims that he was involved in a crash while using the Full Self-Driving Beta, which would be the first reported FSD Beta accident.",
+      "path": "_news/2021-11-14-regulators-looking-into-complaint-about-teslas-full-self-driving-software.md",
+      "title": "Regulators looking into complaint about Tesla's 'Full Self-Driving' software",
+      "excerpt": "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash.",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/",
-      "originalUrl": "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/",
+      "webUrl": "https://www.nbcnews.com/news/us-news/regulators-looking-complaint-teslas-full-self-driving-software-rcna5537",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/regulators-looking-complaint-teslas-full-self-driving-software-rcna5537",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 221,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211113-tesla-model-y-cc-811p-604deb.jpg",
+          "width": 4985,
+          "height": 3135,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/",
-      "publishedDateTime": "2021-11-12T12:01:00-08:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna5537",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537",
+      "publishedDateTime": "2021-11-13T17:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

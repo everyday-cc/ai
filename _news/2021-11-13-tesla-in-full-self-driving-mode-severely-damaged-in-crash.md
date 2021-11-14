@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Regulators looking into complaint about Tesla's 'Full Self-Driving' software"
+    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
+    publishedDateTime: 2021-11-14T01:19:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/regulators-looking-complaint-teslas-full-self-driving-software-rcna5537"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna5537"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 101
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211113-tesla-model-y-cc-811p-604deb.jpg"
+        width: 4985
+        height: 3135
+        isCached: true
   - title: "Tesla owner claims first Full Self-Driving Beta crash in strange NTHSA complaint"
     excerpt: "In a National Highway Traffic Safety Administration (NTHSA) complaint, a Tesla Model Y owner claims that he was involved in a crash while using the Full Self-Driving Beta, which would be the first reported FSD Beta accident."
     publishedDateTime: 2021-11-12T20:01:00Z
@@ -168,6 +184,36 @@ related:
       - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/07/932/470/GettyImages-187005526_1555969552377_7141953_ver1.0.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "AI That Provides A Running Narrative Commentary While Driving Could Be The Tell All For Imbuing Safety Into Self-Driving Cars"
+    excerpt: "Providing commentary about driving while driving can be quite useful, and likewise we might wish to have AI self-driving cars undertake Digital Commentary Driving (DCD) for safety achieving purposes."
+    publishedDateTime: 2021-11-10T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/10/ai-that-provides-a-running-narrative-commentary-while-driving-could-be-the-tell-all-for-imbuing-safety-into-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6119a059395a107d86cf31d1%2F0x0.jpg%3FcropX1%3D37%26cropX2%3D1868%26cropY1%3D142%26cropY2%3D1171"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Is the Apple Car FINALLY on the way? Apple hires former Tesla Autopilot software director to help develop a self-driving vehicle, report claims"
+    excerpt: "Apple has reportedly hired former Tesla software director Christopher Moore. The Cupertino-based tech giant has been working on its long-rumoured self-driving car project since 2014."
+    publishedDateTime: 2021-11-09T15:30:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10182151/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10182151/amp/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10182151/amp/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 38
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/11/09/14/36181330-0-image-a-27_1636469823253.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "bzFnkd6Q24Wp9AUkiDkAkzv82tQsDJY3eWjyNkBlj8XVFtmXl5S7SybX1Os5bNP38d6gwKzeU8wAZD2I2W9JdGaNaK9lLo4+YteWaadaRdN9ojpvCSLZ+x0UiatbmvZGIcXTLAEoIXGOAqLsq/9yIbCu8mI/+nLImD09C3ardTr8KGSm8pxsaOuP47eaLNkuXF422M1Qq/smiiHQczeeS5aPGemT73oPjPhxnZ2gezw8vCzTXhOblrC1lbPTYGAn3gEIdJnOHQzHICCwFJI48HhBVcwYofyRLV+cTocyq29Gju+3P6ojwQoSVi+cl/eIhTq9z0xHWt7Jc/XpBEV2if90pxda+nK92rruVde+5cFV9ptuL8jIvDfYX9zphG3nTy8Brq/7+AdSYGINheg3jT2beLDnYGboXKMhEVpK8Q+/xygluJMDb2YIP/dy21UYgi2C4EO90ClBe+vgl+7C774DIrnAd6ftDxNNDUtqoPm3R4TnmNo+yk8ujc4XQVraXK/ijE1KimHRXQrmO9FFSw==;T40dkdG76ICJFMIOTh591Q=="

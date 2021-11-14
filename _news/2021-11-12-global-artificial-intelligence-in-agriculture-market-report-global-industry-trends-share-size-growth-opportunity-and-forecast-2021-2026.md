@@ -26,73 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) Chips Market Size 2021: CAGR Value, Top Manufacturers, Industry Share, Growth, Supply Demand and Forecast till 2026"
-    excerpt: "Global “Artificial intelligence (AI) Chips Market” research report provides strategies for company to deal with the"
-    publishedDateTime: 2021-11-09T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09"
+  - title: "Machine Learning as a Service Market – Opportunity Analysis and Industry Forecast 2025"
+    excerpt: "Competitive Landscape and Machine Learning as a Service Market Share Analysis: Machine Learning as a Service Market to reach USD 16.13 billion by 2025. Machine Learning as a Service Market valued approximately USD 0."
+    publishedDateTime: 2021-11-09T13:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-opportunity-analysis-and-industry-forecast-2025-2021-11-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Smart Robot Market Research Report 2021 | Share, Trends, Growth, Outlook and Forecast 2026"
-    excerpt: "According to the latest report by IMARC Group, titled, “Smart Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, the global smart robot market reached a value of US$ XX Billion in 2020."
-    publishedDateTime: 2021-11-10T11:43:00Z
-    webUrl: "https://ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/"
-    ampWebUrl: "https://ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/11/10/smart-robot-market-research-report-2021-share-trends-growth-outlook-and-forecast-2026/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 49
-    images:
-      - url: "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Smart%20Robot%20Market1.jpg?1636539321479"
-        width: 563
-        height: 743
-        isCached: true
-  - title: "Global Voice Recognition for Smartphones Market 2021 Product Type, Applications, Market Share and Forecast by 2027"
-    excerpt: "The latest research study titled Global Voice Recognition for Smartphones Market 2021-2027 from MarketsandResearch.biz provides readers with details on strategic planning and tactical business decisions that influence and stabilize growth prognosis in the market."
-    publishedDateTime: 2021-11-09T18:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-for-smartphones-market-2021-product-type-applications-market-share-and-forecast-by-2027-2021-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Diagnostics Market - Global Forecast to 2028: Growing Strategic Alliances Amongst the Healthcare and Technology Giants - Re"
-    excerpt: "The \"Global Artificial Intelligence In Diagnostics Market Size By Component, By Technology, By Diagnosis Type, By Geographic Scope And Forecast\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-11-09T11:04:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=562293"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Artificial Intelligence Market 2021 CAGR Value, Top Manufacturers, Competitive Landscape, Growth, Industry Share, Size, and Forecast till 2026"
-    excerpt: "Artificial Intelligence Market report 2021 presents the development status, growth opportunities, future prospects, technologies, including top leading players are IBM Watson Health,"
-    publishedDateTime: 2021-11-11T11:15:00Z
-    webUrl: "https://www.wboc.com/story/45172538/artificial-intelligence-market-2021-cagr-value-top-manufacturers-competitive-landscape-growth-industry-share-size-and-forecast-till-2026"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
 
 secured: "Z37J3sQsbCbAIfsUuEmE3L/TpFI+tZhG/IkZz4TwDnYnusb4mohxPXvx+nKxpEz4300Uzt+rNeDa6jvYpJXK0CWyAa43pybYwovNavCrzhE+MaaKrcrvErsCab1At4+IPz5f+d/+CN/52GDTWnqFwkrNKCEViIedHwR5nBPBih71UKALrzZHNuV0+Akt2WTApCW46FylsyYX6phHDjJiejIwcoKrikMXp9UOdWXA2niFYUsxLRvr4/4fWkXGk3ylnsuLa3APHVxEP2zAW0AaA4AvsOyWxr9e9IcmMRzbqb49F6hLBRuCo2R5vlOytQ/d0bzry3RQQEV73xlgwuqk0Td9+hCvIyrfjN2EQRDW2lx6VlBRYdIe9hliy8CztCDK6EwLb1gzziIKUUQxf3Tx2lLo0//fsts/NYWE75vOxy7B1RVXXoCliQdX5muPyb0iXiF+9auBZC6bXjnC7XOQlM/eW4fLaHpzBAYpY24rqla7b5oUeOihgiKmfcZER0ntswiJRUlf1Q4z7cbIonga0A==;A6Odviry7MeMIk+poCuRsA=="
 ---
