@@ -3,8 +3,8 @@ category: news
 title: "Smart Japan: Society 5.0 and AI, or if Japan could restore its technological supremacy"
 excerpt: "Japan had all the resources and potential to become a technological superpower. In 2013 we had proposed to the Japanese government the Smart Japan National Strategy, receiving no due reaction from its Council for Science,"
 publishedDateTime: 2021-11-13T20:01:00Z
-originalUrl: "https://www.linkedin.com/pulse/smart-japan-society-50-ai-could-restore-its-supremacy-abdoullaev/?published=t"
-webUrl: "https://www.linkedin.com/pulse/smart-japan-society-50-ai-could-restore-its-supremacy-abdoullaev/?published=t"
+originalUrl: "https://www.linkedin.com/pulse/smart-japan-society-50-ai-could-restore-its-supremacy-abdoullaev"
+webUrl: "https://www.linkedin.com/pulse/smart-japan-society-50-ai-could-restore-its-supremacy-abdoullaev"
 type: article
 quality: 29
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "b6D4QzGgdiXvuHf5iObdtqsOavvYpCtcAlQA8ry3bdhKcBAHquskYUD4/0jj8k0HqGJWalQVLMmvQzyZ6p76CqYmHUYudg8yHNviDURisX1hJDcd4FWkFE6uqAD5gSrg9GehedXDGs2FPKzL1nv+6KGon84A31NnMZSCSE3G8HvnQc7uXjUZaTTNKPYkVSd657H/hqLlpd4ex8L4xwrk90gIYDydRFomjSkIJWQSPu+AeOTZingLLMC/kgn6hB3sW9Jh++qC+LPIsC2HQYGuQLVIAp8WAETamAJBQHCOtar7dI3uisfZi9oqDuwMj6SGkWAc8XPpZ3UI0FpEdbk3OA0b2GDT5iJPQ7e5k59+4RyrPCRw8mW2X93V4iH0uATP+tswWm/41a7fj4XGCoZA/pdyCKk6czSHNJ6DBZ4DiSXfKn9mukBTcqbCj19IRrYZtqe/+hpUCuZBvW5bPTKnjcHb5uAgYbP5a39blr8feEU7WrZ/77FOM9XlnqaIjBj7MUY0kqwZDEKZCmY4X6uGDw==;S2tnlckLGZJ7QuBBnFHZAQ=="
+secured: "1hJNCo7Zj6gvLmF9slSRp6xb29ZRH4r9lHkazN7RtCAnFhuzf451oy7XTnsf7o0z/moSepzoNyluTr36i7HmGoEfOYTY+pXP9hWwSmWImqc+xtKaZ+uWtNRdHcCa39ovU5OBKsZKIcem3BSBmO0RG1IZn6yaoYdEKRjbPPNc6RYgiyFf7gA0sD00FtC3SW4hpPWlQgyhDUz9JqpDlQXzyEYc2AeGrvTA0iCZSzyZVsGK6y/lwxYEwVDJGELfDXdIuKWqT6jizijG27rD7kHSNSejbqXCcNbVHIc4gKUy1WGhZO5GS5A6Hk0J+JrlN9GGgrHG5CLhpSrymiAkV0Jrg2N1zkOxPiqiruj1SZjJ2vo=;E9ngZJX/Xx15AtnuclDo9A=="
 ---
 

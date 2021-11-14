@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Development of artificial intelligence technology for producing CT images based on MRI"
-    excerpt: "Dr. Hyungmin Kim's team at the Bionics Research Center at the Korea Institute of Science and Technology (KIST, President Seok-Jin Yoon) developed an artificial intelligence technology to generate CT images based on MRI images and conducted a simulation ..."
-    publishedDateTime: 2021-11-10T06:53:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/934152"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c7bbfeb8-0dd2-430b-a4f8-fa17ba46a03f/Rendition/low-res/Content/Public"
-        width: 700
-        height: 286
-        isCached: true
   - title: "S&P Global Market Intelligence Information Technology Outlook Report finds that digitization leaders outperform in equity and credit markets"
     excerpt: "Customer experience, hybrid infrastructure, cyber security, artificial intelligence (AI) and workplace technology are driving change in the industry and this report examines how their impacts will play out in the year ahead. Published by 451 Research ..."
     publishedDateTime: 2021-11-11T08:01:00Z
