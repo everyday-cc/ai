@@ -108,20 +108,6 @@ related:
         width: 718
         height: 404
         isCached: true
-  - title: "Nexus backed H2O.ai raises $100 million in Series E funding at $1.7 billion valuation"
-    excerpt: "Silicon Valley-based artificial intelligence startup H2O.ai Inc, which is backed by Indian venture capital firm Nexus Venture"
-    publishedDateTime: 2021-11-09T08:53:00Z
-    webUrl: "https://www.vccircle.com/nexus-backed-h2o-ai-raises-100-million-in-series-e-funding-at-1-7-billion-valuation"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 30
-    images:
-      - url: "https://assets.vccircle.com/uploads/2021/09/fundingrfxl.jpeg"
-        width: 810
-        height: 506
-        isCached: true
 
 secured: "2vu4sVtQur6EUdSAVRSvUDQtfvd1BXrvjgXlkcnD7GEujsK8HLhfLH4AB35qu/Ay0hCCOquGrnfkj4g8Gffmb7PtDjthoWpidRit6B85uGl0qJxYv9Pnyndm1KlQ/I53aOiXpzaB8UwkU8UvXpXAvHBpTZ5OxAMHZz612W/LqBHrdreyyouz//iQMc6SoksyV0/fBwGV6uBimUBFc/EBB4ZV6RinBCUET6AIURHxB7jMvBpADEsXm4XBGYHOBDGKH1VKMNYBJziOAAyRaay5lHMt9aUPvyPJ2BXzINCSQhng3SlpFDi2mLQZSSM6fXHJMUtf7JuV+KVlLT64QNFG09qgUy9JB1c8qzkeb0M25STQWot6vWXjPYtN1Dj+53ui19hWOX5WqKe2gEFkkH/RlKmZ14OPNctMC8oj/ZJ/cPeEBYQ4mJjtOmu06LEMFdFNWQrqpfWF2kzRxFIfmtjZ6if5UtiPvTxfxQlxfD/aJ28en+BVVWZ+oQq6MO+53CA4R9jiu+IAgZpymWbRJZEQrA==;m/dBBL2NioPtVswkZPo1LA=="
 ---

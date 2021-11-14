@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "New AI brings the power of natural language processing to African languages"
-    excerpt: "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages."
-    publishedDateTime: 2021-11-09T08:57:00Z
-    webUrl: "https://techxplore.com/news/2021-11-ai-power-natural-language-african.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-ai-power-natural-language-african.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ai-power-natural-language-african.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 72
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-ai.jpg"
-        width: 1800
-        height: 1920
-        isCached: true
   - title: "South Africa Has a New AI-Powered Digital Transformation Advisor"
     excerpt: "An innovative local software development partnership between 4Sight Holdings and Bidvest Advisory Services has created 4MIA powered by ALICE TM, a first-of-its-kind AI-powered automated digital transformation advisor."
     publishedDateTime: 2021-11-10T13:08:00Z

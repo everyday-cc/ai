@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-03-an-ethics-bounty-system-could-help-clean-up-the-web.md",
+      "title": "An Ethics Bounty System Could Help Clean Up the Web",
+      "excerpt": "Looking at the bigger picture, there have been calls for greater regulation of the tech industry, which is deeply necessary, but legislation may take a long time to pass and be implemented and is generally insufficient to stop the unforeseen ethics failures endemic to technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
+      "originalUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6181c6376323e922448010f3/master/pass/An-Ethics-Bounty-System-Could-Help-Clean-Up-the-Web.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/big-tech-ethics-bug-bounty/amp",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-archiveai-aims-to-free-marketers-from-their-monotonous-workflows.md",
       "title": "Archive.ai aims to free marketers from their monotonous workflows",
       "excerpt": "Archive.ai founders believe the future of marketing will be a culture of “building with you” versus the “talking at you” approach they believe traditional digital marketing is doing now.",
@@ -1101,48 +1153,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-zillow-says-its-closing-homebuying-business-cutting-25-of-workforce-earnings-miss-estimates.md",
-      "title": "Zillow says it's closing homebuying business, cutting 25% of workforce; earnings miss estimates",
-      "excerpt": "Zillow, the digital real estate company, said on Tuesday that it’s exiting Offers, its business that buys and flips homes, and eliminating 25% of its workforce. The announcement was attached to Zillow’s third-quarter earnings report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/zillow-says-its-closing-homebuying-business-cutting-25-25-of-workforce-earnings-miss-estimates/ar-AAQf3Lv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105753836-1550783800780barton.jpg?v=1596836143",
-          "width": 2762,
-          "height": 1841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
-      "publishedDateTime": "2021-11-02T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
-        "domain": "com/2021/11/02/zillow-shares-plunge-after-announcing-it-will-close-home-buying-business.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

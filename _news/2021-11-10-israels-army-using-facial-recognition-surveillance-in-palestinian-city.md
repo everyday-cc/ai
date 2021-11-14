@@ -9,7 +9,7 @@ ampWebUrl: "https://english.alarabiya.net/amp/News/middle-east/2021/11/09/Israel
 cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/middle-east/2021/11/09/Israel-s-army-using-facial-recognition-surveillance-in-Palestinian-city"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: " https://i.tribune.com.pk/media/images/Surveillance1636573997-0/Surveillance1636573997-0.jpg  "
         width: 712
         height: 400
-        isCached: true
-  - title: "Israel deploys sweeping facial recognition tech in West Bank: report"
-    excerpt: "People worry about fingerprinting, but this is that several times over,' one former soldier tells Washington Post"
-    publishedDateTime: 2021-11-09T07:41:00Z
-    webUrl: "https://www.yenisafak.com/en/world/israel-deploys-sweeping-facial-recognition-tech-in-west-bank-report-3583763"
-    type: article
-    provider:
-      name: Yeni Şafak
-      domain: yenisafak.com
-    quality: 56
-    images:
-      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/11/9/99cf0ec8-7wo5exid8j2bwprjwbz3e8.jpeg"
-        width: 600
-        height: 336
         isCached: true
   - title: "Amnesty International concerned over facial recognition, CCTV surveillance in Hyd."
     excerpt: "Hyderabad, by means of its CCTV network and facial recognition technology, is one of the most surveilled cities in the world, and extensive surveillance here is putting human rights at risk, Amnesty International said in a statement."

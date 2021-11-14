@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "NVIDIA Is Not A Chip Company. It’s A Platform Company."
-    excerpt: "NVIDIA seems impervious to competitive threats that arise from dozens of startups and large companies like Intel and Google. Its the platform."
-    publishedDateTime: 2021-11-09T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/11/09/nvidia-is-not-a-chip-company-its-now-a-platform-company/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/11/09/nvidia-is-not-a-chip-company-its-now-a-platform-company/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/09/nvidia-is-not-a-chip-company-its-now-a-platform-company/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618588964341fae9689dac26%2F0x0.jpg"
-        width: 1200
-        height: 616
-        isCached: true
   - title: "NVIDIA announces platform for creating AI avatars"
     excerpt: "NVIDIA Omniverse Avatar Enables Real-Time Conversational AI Assistants. NVIDIA announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
     publishedDateTime: 2021-11-11T12:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/new-ai-model
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI brings the power of natural language processing to African languages"
-    excerpt: "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages."
-    publishedDateTime: 2021-11-09T08:57:00Z
-    webUrl: "https://techxplore.com/news/2021-11-ai-power-natural-language-african.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-ai-power-natural-language-african.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ai-power-natural-language-african.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 72
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-ai.jpg"
-        width: 1800
-        height: 1920
-        isCached: true
   - title: "AI brings African languages to forefront of neural network model"
     excerpt: "The new neural network model, which the researchers have dubbed AfriBERTa, uses deep-learning techniques to achieve “state-of-the-art” results for low-resource languages."
     publishedDateTime: 2021-11-09T12:15:00Z

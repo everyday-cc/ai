@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA Blitzes Markets With Powerful New Tech For AI, The Metaverse, Autonomous Vehicles And More"
-    excerpt: "The emerging enterprise metaverse will allow us a better visualization of the future, and what could be mankind’s next greatest achievement."
-    publishedDateTime: 2021-11-09T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189f24a1df54fe5821b3db1%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NVIDIA doubles down on AI language models and inference as a substrate for the Metaverse, in data centers, the cloud and at the edge"
     excerpt: "At NVIDIA's GTC event today, CEO Jensen Huang made announcements the company claims have the potential to transform multi-trillion dollar industries. We cherry-pick from the announcements, focusing on the hardware and software infrastructure that powers the applications that make the headlines."
     publishedDateTime: 2021-11-09T09:30:00Z

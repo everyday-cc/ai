@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-13T22:22:00Z
 originalUrl: "https://www.healio.com/news/hepatology/20211113/artificial-intelligence-algorithms-lead-the-way-for-health-cares-bold-new-future"
 webUrl: "https://www.healio.com/news/hepatology/20211113/artificial-intelligence-algorithms-lead-the-way-for-health-cares-bold-new-future"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png"

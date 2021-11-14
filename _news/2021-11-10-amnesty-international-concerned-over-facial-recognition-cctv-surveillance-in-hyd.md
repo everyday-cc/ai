@@ -59,20 +59,6 @@ related:
         width: 712
         height: 400
         isCached: true
-  - title: "Israel deploys sweeping facial recognition tech in West Bank: report"
-    excerpt: "People worry about fingerprinting, but this is that several times over,' one former soldier tells Washington Post"
-    publishedDateTime: 2021-11-09T07:41:00Z
-    webUrl: "https://www.yenisafak.com/en/world/israel-deploys-sweeping-facial-recognition-tech-in-west-bank-report-3583763"
-    type: article
-    provider:
-      name: Yeni Şafak
-      domain: yenisafak.com
-    quality: 56
-    images:
-      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/11/9/99cf0ec8-7wo5exid8j2bwprjwbz3e8.jpeg"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Hyderabad becoming ‘surveillance city,' use of facial recognition must stop: Amnesty"
     excerpt: "Launching a campaign against violation of human rights through the use of facial recognition technology (FRT) by Telangana police, Amnesty International has cautioned that Hyderabad is “on the brink of becoming a total surveillance city."
     publishedDateTime: 2021-11-10T10:40:00Z

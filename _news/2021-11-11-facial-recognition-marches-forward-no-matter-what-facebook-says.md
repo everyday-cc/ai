@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook Ends Recognition Software"
-    excerpt: "Facebook plans to shut down its decade-old facial recognition system, deleting the face scan data of more than one billion users."
-    publishedDateTime: 2021-11-09T08:20:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/facebook-ends-recognition-software-5957.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 24
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(75).png"
-        width: 796
-        height: 900
-        isCached: true
   - title: "New Facebook Product for Financial Advertisers"
     excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
     publishedDateTime: 2021-11-12T09:39:00Z

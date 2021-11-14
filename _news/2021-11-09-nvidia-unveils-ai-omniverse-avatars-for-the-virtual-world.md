@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA Blitzes Markets With Powerful New Tech For AI, The Metaverse, Autonomous Vehicles And More"
-    excerpt: "The emerging enterprise metaverse will allow us a better visualization of the future, and what could be mankind’s next greatest achievement."
-    publishedDateTime: 2021-11-09T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/11/09/nvidia-blitzes-markets-with-powerful-new-tech-for-ai-the-metaverse-autonomous-vehicles-and-more/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189f24a1df54fe5821b3db1%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "New NVIDIA Edge AI and robotics teaching kits now available"
     excerpt: "NVIDIA has this week made available new teaching kits for educators covering the subjects of Edge artificial intelligence and robotics"
     publishedDateTime: 2021-11-09T11:44:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=562821"
 webUrl: "https://us.acrofan.com/detail.php?number=562821"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 500
     height: 324
     isCached: true
-
-related:
-  - title: "Azure high-performance computing at Supercomputing 2021"
-    excerpt: "Azure’s market-leading vision for HPC and AI is based on a commitment to continual improvement and backed by a core of genuine and recognized HPC expertise, using proven HPC technology and design principles, enhanced with the best features of the cloud. The result is a capability that delivers performance,"
-    publishedDateTime: 2021-11-09T09:00:06Z
-    webUrl: "https://azure.microsoft.com/blog/azure-highperformance-computing-at-supercomputing-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
 
 secured: "pspUqZcyXcYlKv4PQQPmquQEe2Cn4rmGMVGDpbrrVKmPUl0nO8vsFy0LNgMTo0woquiI5bw95e4OBg7tHrDHMLAkf8+OLoWxpVDKswRelwVoefSAJt5J64VlBSvgulnDYBuY93yIwWxufmdwM0NxFRaTSez1zi3Qf3TDFnjpuy09bMmRd8x1Gce5OYDuefpN4FAmbuaK3FaVpdgPrtL9hC95/t6pbpJDQJQyT0xUMEq4EVMwyUoFKdEPN9k5/8H7jV4zBElhTymuhG3upyAdVaFirS5m3vhySNZmqu+wpNbXsfqPfT6AVXBEap6D86o743gNZQP9GwJabrhAsQgdVc4unJMNqz3jUP63Af8HCFc=;vcXjJb6TxfKCCpHiZx4WOw=="
 ---

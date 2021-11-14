@@ -2,6 +2,49 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-09-22-us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics.md",
+      "title": "US: $50 million in funding closed for autonomous farm leveraging AI & Robotics",
+      "excerpt": "Iron Ox, which launched an autonomous farm some years ago, announced a new investment round of $50M, bringing total funding to date to $100 million. The series C was led by",
+      "sourceUrl": null,
+      "webUrl": "https://www.freshplaza.com/article/9354805/us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics/",
+      "originalUrl": "https://www.freshplaza.com/article/9354805/us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/VFD_com/2021/09/13/iron_ox.jpg?preset=OgImage",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FreshPlaza",
+        "domain": "freshplaza.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-16-valuable-benefits-machine-learning-can-bring-to-small-businesses.md",
       "title": "16 Valuable Benefits Machine Learning Can Bring To Small Businesses",
       "excerpt": "There are plenty of tangible benefits small businesses can receive from leveraging the latest ML tools—in many cases with minimal cost and effort.",
@@ -1119,49 +1162,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-mphasis-acquires-blink-ux-a-user-experience-research-strategy-and-design-firm.md",
-      "title": "Mphasis Acquires Blink UX - a User Experience Research, Strategy, and Design firm",
-      "excerpt": "Blink has been growing at over 40% CAGR in the past three years Strong market synergies from an increased total addressable market in Mphasis direct accounts Leadership accretive: Blink’s leadership team will further strengthen the Mphasis org.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-0b143743ca8d293d5d0a21d3bf63b2c5",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-0b143743ca8d293d5d0a21d3bf63b2c5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

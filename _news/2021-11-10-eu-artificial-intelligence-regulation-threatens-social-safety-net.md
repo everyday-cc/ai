@@ -7,7 +7,7 @@ originalUrl: "https://www.hrw.org/news/2021/11/10/eu-artificial-intelligence-reg
 webUrl: "https://www.hrw.org/news/2021/11/10/eu-artificial-intelligence-regulation-threatens-social-safety-net"
 type: article
 quality: 137
-heat: 147
+heat: 148
 published: true
 
 provider:

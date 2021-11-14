@@ -57,20 +57,6 @@ related:
         width: 610
         height: 344
         isCached: true
-  - title: "Nvidia announces deeper push into healthcare industry at GTC 2021"
-    excerpt: "Nvidia is diving deeper into the healthcare industry. During its GTC 2021 conference, the company rolled out artificial intelligence and cloud capabilities meant to do everything"
-    publishedDateTime: 2021-11-09T08:30:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-announces-deeper-push-healthcare-093030243.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/TMoXXvptdfK3BdabthDiag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mzg-/https://s.yimg.com/uu/api/res/1.2/IbicQk__gOxYepdMl8eL.w--~B/aD02ODA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_finance_433/ac55e8369c2010fa148d1246f4dc8c99"
-        width: 1200
-        height: 638
-        isCached: true
   - title: "NVIDIA GTC: Networking, Healthcare AI, Modeling and Simulation﻿"
     excerpt: "Jensen Huang’s kitchen—the site of the past several NVIDIA GTC Keynotes—deconstructed itself today in a slick simulated introduction as Huang, NVIDIA’s CEO, delivered his keynote highlighting the latest in AI and accelerated computing at NVIDIA."
     publishedDateTime: 2021-11-09T22:50:00Z

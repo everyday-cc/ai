@@ -55,20 +55,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
-    excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
-    publishedDateTime: 2021-11-09T08:34:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/09/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 14
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/09/1361672.jpeg"
-        width: 1240
-        height: 1042
-        isCached: true
 
 secured: "h0la5pPIeZFgoE64xxrTb8w7d9F60p6AdL9kRKKA+84V/GTIrJP/gxHfhIJDDQBf6ipcNXMUR/beY5AyVTigkYdRZszu9w9GPckP3Cp6U8UTVFsQrwKQDuUHpMQ1dssa6QF7vgPSQ9KVVXE8/BHeg/0WiPjGCT6KNR45tMITm+sQnPJic9OUnr79Nf2j01gC53JPYx4gsGyH4id5K9zGIVqitbjIqnSkjf0BVsStb/D4MiH3a95EOQI2jJIot0JzIg2k+yOByEPn0gZ/WcMO2kWR/Mzu6ZSgJ+6C48KcHNyv5dhz9A+vKB2XE+bnYg+jB4UXjrXLrlsu2gwH35ZqOQqPpNGDucAT9MxKNnQMwv0nzMq1DfrpNwmE/eHWqGlv1sV4dLsjZ7WwzkYMoNhVA0hTtqL4qhy5XUdFaPFAKpTBs16tim6+upBzUb89ycOkoG0vPTGlRYxyOdwqES+zOYxfhNleq3+KiQmzJ13BMMMgihjPBNV3pS3RgMr0Fa9YVw5y8NzqyGP7+KBEhpUe/g==;XfNVw3AMpyuMwZAX2LbfbQ=="
 ---

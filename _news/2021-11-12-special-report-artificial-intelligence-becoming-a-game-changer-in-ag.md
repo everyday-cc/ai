@@ -55,22 +55,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Report: Most global execs say AI drives financial, cultural benefits"
-    excerpt: "SMR and BCG shows that AI deployment not only brings financial gains but also significant improvements to team culture."
-    publishedDateTime: 2021-11-09T07:40:00Z
-    webUrl: "https://venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/"
-    ampWebUrl: "https://venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/08/fintech-e1623107307747.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "HftzWCRR60IPz2GKmMkqAvx+jrji9SNkx5h5OxaA7ZvsaMkhvxD81GheN3CJwX+TWt9FMTmASFsQ+/FXbZfWjEf5egdmYchUSoxYFbSox/+SgY9/x+u80AhGLwRLfY6EqmwtsfgchebdkJTvxQcU+inaXUmGDRLSr5zsIbTgDGx5hUi5FD4rrrIFwWyMgviUsiwMRPTGbqF/OBeNCtOMQ4+nrZLug1P6bvUZZRE7DfRuyj6YJaJr4K3K3d96NzJ6HV4t+P/f+TwnW9YU+Q1kcL5fQu7KMN2ghf0NDAiuZS9xGfnat29Ai8BjjrGNmDCzakv6ZZ2UAqFi5KOJ8bJUHzeB1xeF45f/X6C4WAc6Ku0=;9Tjxovu7hh8R1z/gp6ifdw=="
 ---

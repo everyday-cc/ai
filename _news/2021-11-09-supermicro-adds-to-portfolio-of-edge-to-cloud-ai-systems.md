@@ -21,20 +21,6 @@ topics:
 related:
   - title: "Supermicro Enhances Broadest Portfolio of Edge to Cloud AI Systems with Accelerated Inferencing and New Intelligent Fabric Support"
     excerpt: "Super Micro Computer, Inc. (SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing"
-    publishedDateTime: 2021-11-09T08:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/supermicro-enhances-broadest-portfolio-of-edge-to-cloud-ai-systems-with-accelerated-inferencing-and-new-intelligent-fabric-support-301419355.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/1682675/Super_Micro_Computer_Inc.jpg?p=facebook"
-        width: 797
-        height: 419
-        isCached: true
-  - title: "Supermicro Enhances Broadest Portfolio of Edge to Cloud AI Systems with Accelerated Inferencing and New Intelligent Fabric Support"
-    excerpt: "Super Micro Computer, Inc. (SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing"
     publishedDateTime: 2021-11-09T20:33:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/supermicro-enhances-broadest-portfolio-of-edge-to-cloud-ai-systems-with-accelerated-inferencing-and-new-intelligent-fabric-support-866481778.html"
     type: article

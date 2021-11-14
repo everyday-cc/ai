@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA Unveils AI Tech To Make Autonomous Cars And Robots More Accommodating And Intuitive"
-    excerpt: "NVIDIA is much more than a consumer graphics card company, it's also heavily involved with AI, robotics and autonomous vehicles, which are at the heart of its GTC '21 unveil."
-    publishedDateTime: 2021-11-09T08:30:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ai-tech-autonomous-cars-robots-accommodating-intuitive"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ai-tech-autonomous-cars-robots-accommodating-intuitive"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-tech-autonomous-cars-robots-accommodating-intuitive"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 66
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56740/content/small_nvidia_jetson_agx_orin.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "NVIDIA LaunchPad – AI Enterprise Curated Lab"
     excerpt: "NVIDIA LaunchPad is a hands-on environment where customers can use NVIDIA AI Enterprise servers in a vSphere managed by Equinix free of charge"
     publishedDateTime: 2021-11-09T09:30:00Z
@@ -77,20 +61,6 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2021/11/storagereview-nvidia-launchpad-feature-image-2.png"
         width: 1582
         height: 1070
-        isCached: true
-  - title: "NVIDIA Brings Large Language AI Models to Enterprises Worldwide"
-    excerpt: "NVIDIA today opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants and other AI applications that understand language with unprecedented levels of subtlety and nuance."
-    publishedDateTime: 2021-11-09T08:52:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-9c1edef4a29ea071baa60df72dc17dda"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Nvidia beefs up its AI inference software with model optimization and other enhancements"
     excerpt: "Nvidia Corp. is pushing back against rivals trying to steal its crown in the artificial intelligence market with a number of updates that should provide a big boost to the processing power, speed and flexibility of its inference software."

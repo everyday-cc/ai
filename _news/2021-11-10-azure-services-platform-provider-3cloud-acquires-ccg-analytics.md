@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 841
         isCached: true
-  - title: "Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
-    excerpt: "Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to modernize RAN planning,"
-    publishedDateTime: 2021-11-09T08:12:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-1b97bb2a9fd3f2cecacdced8083f6177"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "IBM analytics in modern day IT operations"
     excerpt: "IBM Watson AIOps and Turbonomic combine a set of capabilities such as predicting, communicating and resolving events before they happen, and have the ability to manage all facets of the AIOps life cycle."
     publishedDateTime: 2021-11-12T09:02:00Z
@@ -73,15 +59,6 @@ related:
         width: 256
         height: 210
         isCached: true
-  - title: "Opanga Networks: Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
-    excerpt: "SEATTLE, Nov. 09, 2021 (GLOBE NEWSWIRE) -- Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to ..."
-    publishedDateTime: 2021-11-09T08:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-11/54433306-opanga-networks-opanga-announces-the-availability-of-merlin-radio-aware-machine-learning-ran-analytics-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 17
 
 secured: "XG13yz/Xh0qQ+rttMxL+cEJKlZDllkRQQqBXYV6BcExNYJ2aSwVhKMGjJey67hCxIqac9kfnhziU3AprXqjbyF3mRhkYCY548A+4J2/sC0u2TdJ+hcslY+1WBOawa9MlSj+OeuEjTLWMz+XfDiLVXTh7Am4P39IUQJx7GiJFyT3qP6PkUOK+3VpjLRXOYQgBFn8gaScq/9Pa0eQErGM87Nzj4Pj1Q5LKQSfdniazXn9EMfKXjgL+Os0rDC94EKFA3mxQTNys7pmjNgbRIPw2AJPmE2J4sjEXpbDgWQeKiwWLNfUg3J1iX5DWwIPbdBinqcGkox+Nphv/bxZQ6GiuNYbo4epoV4Qr8G1R379XB+5yZ59wA1W124ep6EVczhtN8jyuc6xmH2Gw52dqYm4SaznR+YbhBSscNsrRZ+6+YjHSdAoH0Hp3AKQe/bvmkD5FZ4fFM7MeeQxOiJxEhVJhect9hppTYL8Pzuu3879kqhnHajG/S+XMWc4JUI4GPBKsxkf17tp4y5JILScpbxU0gA==;dd+DxwHniJVTNPplgQIE8g=="
 ---

@@ -45,22 +45,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Report: Most global execs say AI drives financial, cultural benefits"
-    excerpt: "SMR and BCG shows that AI deployment not only brings financial gains but also significant improvements to team culture."
-    publishedDateTime: 2021-11-09T07:40:00Z
-    webUrl: "https://venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/"
-    ampWebUrl: "https://venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/report-most-global-execs-say-ai-drives-financial-cultural-benefits/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/08/fintech-e1623107307747.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "SPECIAL REPORT: Artificial intelligence becoming a game-changer in ag"
     excerpt: "Technology is all around us. We have daily access to it right at our fingertips, and soon enough it is going to take over many tedious tasks in agriculture, like weeding."
     publishedDateTime: 2021-11-12T02:25:00Z

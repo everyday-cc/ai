@@ -59,29 +59,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
-    excerpt: "Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to modernize RAN planning,"
-    publishedDateTime: 2021-11-09T08:12:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-1b97bb2a9fd3f2cecacdced8083f6177"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Opanga Networks: Opanga Announces the Availability of Merlin: Radio-Aware Machine Learning RAN Analytics"
-    excerpt: "SEATTLE, Nov. 09, 2021 (GLOBE NEWSWIRE) -- Today, Opanga is announcing the availability of its breakthrough RAN Analytics platform which, for the first time, uniquely combines the power of big data and data science with radio-aware machine learning to ..."
-    publishedDateTime: 2021-11-09T08:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-11/54433306-opanga-networks-opanga-announces-the-availability-of-merlin-radio-aware-machine-learning-ran-analytics-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 17
 
 secured: "VL3j/Z+PxgJj34QC4AEFxsFW0R0b2/3hzysLMohVMUPnyyWgl5oCOfLR6GOZGgxcFnuhP+V735YhFzC6TlUAFrjP9Vh2REL1KDajMuJ6k9weoHQaNhokLfGPIJcJ9z0RpXEV/fHJyQwFdFcpXExXy/lipSdE5xxb8Cdiz35TkrNpRtImt02jEbb86nTdE26SugCf/0VFNyNnzsjJOREGYb89hLmSn13C427K4umobaRmdCYuD8VwSD9C5DnDK44pbTMdZBECEXGwHjZm2JNTfLGQvufctb1EnLEaxhGb4VFi2DWBxPvZIqid9p/CPbVAaXzSVSL/9+hXHYtuA5OrR30OQ0a/9C39O03ZEpOp4nmxezWHPg3wDlznWDB+9cPQKp0pUGhtxqOgXr00p0m3YOwgx5l8o0xXgE0twrQdicfrE436RWylwKCexXBqAS/60NWOpPu/gj7nZASpCjGNptggTuBFYAxCTI7eA3SlFQbbF68t7sHTi8ffwRQc2YfO/bc7Hf3PF1qPz54ADRv2eg==;1shEBeaJblnWt82SHxKKKg=="
 ---
