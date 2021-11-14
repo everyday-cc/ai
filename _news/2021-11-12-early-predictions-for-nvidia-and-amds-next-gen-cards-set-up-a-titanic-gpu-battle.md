@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Run:AI releases dynamic scheduling for NVIDIA Multi-Instance GPU technology"
-    excerpt: "AI, a leader in compute orchestration for AI workloads, today announced dynamic scheduling support for customers using the"
-    publishedDateTime: 2021-11-09T23:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/runai-releases-dynamic-scheduling-for-nvidia-multi-instance-gpu-technology-301419557.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
 
 secured: "90P6fYq9VNY1nd2kXbvpkX7M17SlVan8OeLkEHeg1Dw2XJ6uju1XOlDh44Z2spTzyfE3t/BEGGBXUSx3lU0mvtdvFS5M/dB/5WbyuZ08dPFjYrYfgwsnFsIqCkMFHNJq4gRi9XYwGQZf1/qEFopvjPVDsS+HscUZ72yPntDt8qc8lCedx/IWfFaax43QKwZkc8iEUa/xo4S6koth22zlqMus4147lRnWrHZPI0vki2WHG5JfZQzlaJVLoodsKzIRvUZOd81EIpAZ3sFzU0AkbAKg20Uim8n6AxfOZ5twpXFea0lqXr0c0XumNCXLKhmmPB2SZEQqSXaleIvxJWTo0Y7uuw6K4NvmWEb5+0GO9ZM=;LPqPKvlolT2hYv7kDJBUEA=="
 ---

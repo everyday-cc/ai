@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna5537"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537"
 type: article
 quality: 101
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       - url: "https://www.reuters.com/resizer/LmLK9_BUSwhgIdkMy09mUROBc-s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DAI3EOCMDBICXCN7OJU566M3SE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla 'Full Self-Driving' safety complaint investigated by NHTSA"
+    excerpt: "Driving” software, and the Tesla Model Y went into the wrong lane and was hit by another vehicle, according to a complaint filed by the driver with NHTSA."
+    publishedDateTime: 2021-11-14T14:43:00Z
+    webUrl: "https://www.autoblog.com/2021/11/14/tesla-full-self-driving-complaint-nhtsa/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 74
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/5472x3078+0+570/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/156832a0-6710-11eb-bfdf-08aa04837d19"
+        width: 800
+        height: 450
         isCached: true
   - title: "U.S. regulators reviewing Tesla owner complaint on self-driving test software"
     excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash. The driver was beta testing the “Full Self-Driving”"

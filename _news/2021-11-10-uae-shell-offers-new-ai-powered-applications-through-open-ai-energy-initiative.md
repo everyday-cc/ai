@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Inworld AI joins metaverse innovation with AI-driven virtual characters"
-    excerpt: "Inworld AI announces plans to populate the metaverse with AI-driven virtual characters, and raises $7 million."
-    publishedDateTime: 2021-11-09T22:34:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
+  - title: "EEOC Announces New Initiative On Artificial Intelligence & Algorithmic Fairness"
+    excerpt: "Continuing its efforts towards becoming a 21st century data analytics agency, during the last week of October, 2021, U.S. Equal Employment Opportunity Commission (EEOC) Chair Charlotte A. Burrows"
+    publishedDateTime: 2021-11-10T16:52:00Z
+    webUrl: "https://www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness"
+    ampWebUrl: "https://www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 68
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/9xonhbI.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial intelligence faces the real world"
-    excerpt: "Nation states and big tech firms the size of states are in an artificial intelligence land-grab. What does it mean for the future of the industry?"
-    publishedDateTime: 2021-11-12T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-issue-welcome-introduction-editors-letter/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 37
-    images:
-      - url: "https://eandt.theiet.org/media/17078/et_ai-chips_graphcore_3-hero-image.jpg?crop=0,0.42875,0,0.079062499999999938&cropmode=percentage&width=1200&height=450&rnd=132807962760000000"
-        width: 1200
-        height: 450
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
 
 secured: "DyqoQ0Ki4+bVYnDgajr19kQGKG8otHJxozaprN77ivWquYALD7sK88VrWrKAhJq9zzZf6G153O0Bq06m6F9rsYyjAMDXyAExA1V3Q2XGs/jsUgeogZXSFGxsnww15STbyE6ym5XAzJeBESm5Nj1/IOPmIzRoxKATNYyOJBn9vaJpGK6WvUTU07dTt1MFih7ArBV9WbVLs+Lhs70KCt4AJfLA/PMrbN6rJYQFIL0LDzMzzRdsUpGPvnycOwaLy7Vz4cpJUrPguPUObU6WLG9gdxarTwoAwFkE0zcTLekzi6KCX71ZN+LyvXDtjkADoASKL0lsd1w7VnTjn3s/ioLpDjNhks4QNgkgAqi6sdCwpXk0V0bx4fYV4PkFq+tMA+nMid+UBHbb3i3o4f19iUED+LaWyu5NvzmOUWhhdUGJSfEcinm35xPHtFJ/dDyYV5IbYAnIWxnVxI776nXfT9pDJzkBuXZokTTVMDt0Nz2q/HWewioRBnMtvnCWVIM3jo52qGLhVh+3nNVRYUMrJiXnbA==;5yHJjrGrqWHTbSWJ3fUPuw=="

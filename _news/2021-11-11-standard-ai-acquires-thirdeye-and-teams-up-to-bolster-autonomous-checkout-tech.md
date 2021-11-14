@@ -31,14 +31,19 @@ images:
 
 related:
   - title: "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based ..."
-    publishedDateTime: 2021-11-10T17:17:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail"
+    excerpt: "Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based computer vision company, ThirdEye Labs ..."
+    publishedDateTime: 2021-11-10T17:15:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous/article_05c79106-9ffa-58d8-a75a-6ee562a71385.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 49
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RX7MDZo9HyahJWwsZ0UDW6+PZ+bKYZDvPQ9MOwnP6fYQYFIoxkyZ+oCUgOKFc0TgTNxZBqMrKLtuPF60yDBTkFs3zqVCxWT5X8Nd0yc5yTav+MAZynZJyhJbYOqv7bnM7+/LSvIenWxMPaTKuHgC9er6w/v4xa5XGImZwdwGl7wUL6RV/8UWXgZFJ4AMTL7Ljs179jTWRujmqQ8H5A0uDCg45wOxqMBkeVcUBd+Sb+U6ysr/dvBnTaprPwhSYS81LbYitbIURzVCuMS6IZpNGHgWbGZ0NJz17RTaJ0+yCrCfLNkblWSwb4TGvqFPri8YXkSzH2u/LFiVf0dzlfONocBkIYVc0VvWL2UyN6wYWONJ5cIcgfWF4axuTzXhB9dHH+1RsvqS18iN/31dFxYrh3ul94mrO1QSKMOqez+Cvy7tYBaxInbsI5fb5Zj/lVnxbaqpzL3PJB6L3naRBUnRTBbNmpFn1kw4nSB1SPnShjF3eUy+IT0csiGzCXy4IehKAYa3sF382zhTMu70DMZUbA==;AQUvslee+Y0nT9ySJwS88g=="
 ---

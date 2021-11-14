@@ -41,15 +41,6 @@ related:
         width: 610
         height: 344
         isCached: true
-  - title: "NVIDIA GTC: Networking, Healthcare AI, Modeling and Simulation﻿"
-    excerpt: "Jensen Huang’s kitchen—the site of the past several NVIDIA GTC Keynotes—deconstructed itself today in a slick simulated introduction as Huang, NVIDIA’s CEO, delivered his keynote highlighting the latest in AI and accelerated computing at NVIDIA."
-    publishedDateTime: 2021-11-09T22:50:00Z
-    webUrl: "https://www.bio-itworld.com/news/2021/11/09/nvidia-gtc-networking-healthcare-ai-modeling-and-simulation"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 38
   - title: "Video: Nvidia debuts automated parking and AI assistant for future cars"
     excerpt: "At Nvidia GTC 2021, Nvidia Corp. debuted several new processes for automated driving including intelligent parking and an artificial intelligence (AI) assistant to help with the daily drive grind. The company introduced the Drive Concierge and Drive Chauffeur AI platforms."
     publishedDateTime: 2021-11-10T13:40:00Z

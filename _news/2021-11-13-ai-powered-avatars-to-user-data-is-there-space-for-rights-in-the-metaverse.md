@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Unity Moves Robotics Training to the Metaverse"
+    excerpt: "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,"
+    publishedDateTime: 2021-11-14T13:50:00Z
+    webUrl: "https://bestgamingpro.com/unity-moves-robotics-training-to-the-metaverse/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 69
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Unity-moves-robotics-design-and-training-to-the-metaverse.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "WAYZ.AI CEO Dr. Tao: Spatio-Temporal AI Energizes Digital Twin and Metaverse"
     excerpt: "As the first Keynote of the conference, Former Director of Microsoft Virtual Earth, Founder and CEO of WAYZ.AI, Dr. Vincent Tao, presented the WAYZ.AI innovation on Spatio-Temporal AI (ST-AI) technology and its applications to Digital Twin and Metaverse."
     publishedDateTime: 2021-11-12T06:52:00Z

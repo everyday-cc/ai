@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-11-05-how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb.md",
+      "title": "How even nontechnical founders can launch their startup fast, with AWS (VB)",
+      "excerpt": "Join a panel of pros in this VB Live event for tips, best practices, and more for getting your minimum viable product to market fast.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/05/how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb/",
+      "originalUrl": "https://venturebeat.com/2021/11/05/how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-554489637-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/05/how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/05/how-even-nontechnical-founders-can-launch-their-startup-fast-with-aws-vb/amp/",
+      "publishedDateTime": "2021-11-05T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-these-robots-follow-you-to-learn-where-to-go.md",
+      "title": "These Robots Follow You to Learn Where to Go",
+      "excerpt": "Burro makes carts that help growers of trees and vineyards with harvests. Meanwhile, the maker of Vespa scooters wants to carry your groceries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robots-follow-learn-where-go/",
+      "originalUrl": "https://www.wired.com/story/robots-follow-learn-where-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/618478dbcaac12bc9a169051/master/pass/Business-Piaggio-Fast-Forward-Robots.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robots-follow-learn-where-go/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-follow-learn-where-go/amp",
+      "publishedDateTime": "2021-11-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-new-machine-learning-system-gives-robots-social-skills.md",
       "title": "New Machine-Learning System Gives Robots Social Skills",
       "excerpt": "A new machine-learning system helps robots understand and perform certain social interactions. Robots can deliver food on a college campus and hit a hole-in-one on the golf course, but even the most s",
@@ -1131,92 +1235,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms.md",
-      "title": "Tesla's handling of braking bug in public self-driving test raises alarms",
-      "excerpt": "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/tesla.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp",
-      "publishedDateTime": "2021-11-04T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok.md",
-      "title": "“Ethical AI” Trained To Offer Moral Advice Descends Into Giving Genocide The OK",
-      "excerpt": "Artificial intelligence (AI) is changing our world, whether it's making historic breakthroughs in medicine, or taking our fast-food orders at the drive-thr",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
-      "originalUrl": "https://www.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/246f484d-f6bd-53e1-a6dd-e9f7dd44605f/default-1636040776-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
-      "publishedDateTime": "2021-11-04T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -356,6 +356,48 @@
       ]
     },
     {
+      "path": "_news/2021-11-11-eeoc-announces-new-initiative-on-artificial-intelligence-algorithmic-fairness.md",
+      "title": "EEOC Announces New Initiative On Artificial Intelligence & Algorithmic Fairness",
+      "excerpt": "Continuing its efforts towards becoming a 21st century data analytics agency, during the last week of October, 2021, U.S. Equal Employment Opportunity Commission (EEOC) Chair Charlotte A. Burrows",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness",
+      "originalUrl": "https://www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness?amp",
+      "publishedDateTime": "2021-11-10T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-unis-are-using-ai-to-keep-students-from-cheating-and-its-a-bit-creepy.md",
       "title": "Unis are using AI to keep students from cheating and it’s a bit creepy",
       "excerpt": "Some programs simply enable a person to supervise students remotely. More sophisticated, automated proctoring software hijacks the student’s computer to block and monitor suspicious activity. These programs often use artificial intelligence (AI) to scrutinise exam conduct.",
@@ -700,7 +742,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1165,50 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-singapore-launches-national-ai-programme-in-finance.md",
-      "title": "Singapore launches national AI programme in finance",
-      "excerpt": "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,",
-      "sourceUrl": null,
-      "webUrl": "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html",
-      "originalUrl": "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://en.dangcongsan.vn/DATA/3/IMAGES/2021/11/BTA_KK101121SGLA.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T18:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dangcongsan.vn",
-        "domain": "dangcongsan.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

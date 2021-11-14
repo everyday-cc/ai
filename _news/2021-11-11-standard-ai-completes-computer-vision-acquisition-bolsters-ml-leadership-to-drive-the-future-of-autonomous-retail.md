@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail"
-excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based ..."
-publishedDateTime: 2021-11-10T17:17:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail"
-webUrl: "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail"
+excerpt: "Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based computer vision company, ThirdEye Labs ..."
+publishedDateTime: 2021-11-10T17:15:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous/article_05c79106-9ffa-58d8-a75a-6ee562a71385.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous/article_05c79106-9ffa-58d8-a75a-6ee562a71385.html"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
   - AI
   - Machine Learning
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Standard AI acquires ThirdEye and teams up to bolster autonomous checkout tech"
@@ -37,6 +43,6 @@ related:
         height: 600
         isCached: true
 
-secured: "k7d2/t6NuHO+TtdM88IZOpOLAYrp5wkIfwAf8963U33Rw6MB1PEdPcKAfomVXkjI94d9LzTk6LYgHRQ1t2njcUFsJXuhxBFa0+CcrNn7wgq5MxPnx0x9Pln193LlyRpXhDS08MlNeI1mDoTSeCCRDPmHvx6gIY67WoMJ0beTA4kokOs0NBbr4rnC6RVpVbuI44AChN07DAZzkifUnn6+rGtNbq2CXYVHVXDEtK83VSXeU3LgU36/nFbPnZ5EjUQ9btJqhp0z2kZGJ7FYl1RnSNFFAA0UnRiUJaqB1FsllWh1XNwn2ZHkKJJsPW2WvgviWc9Ni1Avag4NYp0lo1sOSW3O1H+2Xn2FNBGP/Ach7Lg=;rXUK+mzjRwUR2KCyei9+Vw=="
+secured: "PXT10tI6YP2ReILg9DcnIw6VHoZU5Cnc9fGzOP3LDgPey8Grj9OBShL0fSW0Csxq1Kr4u5So7xsW8xfDBARiK7cQ1kEKUHR6ok4VFIvs0Pg6cmtqlT1fgJPiqLjXA9945iOKMMlzilajGUrQzMiEvrBKPjttu+vk33pm50FPS45xUEU6wmc4ATdIdOA6lFf9C2q+VIZ45+Zlfi9+a+RHtArQbJogU98oOQIsUQ9vKKhT+G4WTCZ2rlZUqlAtNMFGZBAOjmcsonEnWn8t7KJCqir93epCKEvmPWVcBOeUTbcPAlhNDDhaizkeqHJ8Ep+2MRCqfsrjBk8ZcIH5+i42fEUDrvoFGIAIKwAUnBwimyk=;DeGLV7zq8XBLvuJaELNCDg=="
 ---
 
