@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-10-singapore-launches-national-ai-programme-in-finance.md",
+      "title": "Singapore launches national AI programme in finance",
+      "excerpt": "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,",
+      "sourceUrl": null,
+      "webUrl": "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html",
+      "originalUrl": "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://en.dangcongsan.vn/DATA/3/IMAGES/2021/11/BTA_KK101121SGLA.jpg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T18:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dangcongsan.vn",
+        "domain": "dangcongsan.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai.md",
       "title": "Nvidia’s Riva Custom Voice lets companies create custom voices powered by AI",
       "excerpt": "GTC conference, Nvidia unveiled Riva Custom Voice, a service designed to let customers create AI-powered custom voices.",
@@ -1442,50 +1486,6 @@
         "AI in Autos",
         "AI",
         "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword.md",
-      "title": "Artificial intelligence is now part of our everyday lives – and its growing power is a double-edged sword",
-      "excerpt": "As the perils and wonders of artificial intelligence begin to permeate our lives, the ‘IPCC report for AI’ calls for action from researchers and government to ensure a safe future.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449",
-      "originalUrl": "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/425394/original/file-20211008-21-1ottqx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=385&fit=crop",
-          "width": 320,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449",
-      "publishedDateTime": "2021-10-10T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
         "Facebook AI"
       ]
     }

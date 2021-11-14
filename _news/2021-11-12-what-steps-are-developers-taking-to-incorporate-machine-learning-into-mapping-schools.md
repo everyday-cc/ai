@@ -59,20 +59,6 @@ related:
         width: 900
         height: 565
         isCached: true
-  - title: "Using Machine Learning To Make Better Medical Decisions"
-    excerpt: "While artificial intelligence has become essential in advancing medical research, scientists have yet to work out all the technology’s flaws. A University of Texas at Arlington computer scientist has received a three-year,"
-    publishedDateTime: 2021-11-12T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-make-better-medical-decisions"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence for Accounting Market To Make Huge Impact In Near Future Basic Influencing Factors Driving The Industry 2021–2027"
     excerpt: "Combining AI with other technologies such as robotic process automation can allow accountants to redirect the time that they used to spend on mundane tasks toward performing high value high impact tasks Adding AI to accounting operations can also increase"
     publishedDateTime: 2021-11-12T09:58:00Z

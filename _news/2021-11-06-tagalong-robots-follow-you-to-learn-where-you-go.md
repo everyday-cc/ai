@@ -3,8 +3,8 @@ category: news
 title: "Tagalong robots follow you to learn where you go"
 excerpt: "Follower robots have been under development since the late 1990s, beginning on the ground and extending underwater and into the sky. Initial forms relied on following the location of a tag in a person’s pocket,"
 publishedDateTime: 2021-11-06T11:00:00Z
-originalUrl: "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/"
-webUrl: "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/"
+originalUrl: "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1&start=0"
+webUrl: "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1&start=0"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 380
     isCached: true
 
-secured: "P5uGHiG3ukO5lqn54pG5qKXKbfVFlRnjcSEj3aXfjEegJbDOJvP/6aWqw8IN7GtooiB4GaFxnkCehbp3DZb2gJH8E+h/ujvuoxZrL62GiwWmz4ItUwCfyRmPxcoMlq0LWfYcXPiC5bvKOV3wF119o9FdduF+FQyKSGEZ1XZqHGSO3nIAh7pHC/g0rqJ5yFlTZjcqg2p5BUxRj07uULo/nsmiBFy0KpAOt5LyKSyVBGmbZn0fzCtvd5kLU+nz5ZL1WGSls+gHpK8V7HR2F6FeM+DqPn5ViQ0HlXtC0F5bNupw7z0LPoIHqez92iHKsYVz5E6WYCGgZpmH6hzQhF2PAAdWeoQltSQrLJ/YsYtY0TqU0z6VomJhr7XSf6UOv0BI/AqAn+Zd5j2JmN6z87JBCDVzoWMnxMvegUUXzmnlLtsXsJwlakdirD+AWzYhJVUsDwvgR/6mG4xphZobvRAXa3JUylE9quBNSo64Rpb/muv/nz+5/0WKkp4e6Sy6kIDL/u+WXBr+iJTNqTwvgZe3bg==;4LkXVWFOCnINcGpLp3YS3A=="
+secured: "gkmBOrnHAECvA7jGhbV3UENCUYuXbveMJwUxp0t+9S/E00D6nMMX758lpjnK2ZZm2c+omjAoavr8r5NS86VYlm6HiVKQnlG3rBX1jeC5DYjKVqL9rO7zJyVu3xKPhgztWdtsHcn+rPTxqXyo0bJN7tzem6crr3DitoipcHtpSij3g13sxbN6HA7ArZJVm2OeIz7NlM9Pv5ubgAXgeyXqZVnNCtnIbkGZcT7zHtxG3P5ImnYtKavkYis1SK1aYKhL3xeWuu9Inj7mgHERAzGJjUu5f0itLg9sG1X9gVRHJojr0wgIWA1JAy01NWYbsjKgPROfgDxaZJq8BGnUG/oCSRwMhqnW7LoUiFAeQjskQNE=;kpjeDBbZYIqcEgQ1ZVjOIA=="
 ---
 

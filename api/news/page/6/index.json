@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-09-ai-chipmaker-hailo-raises-136-million.md",
+      "title": "AI Chipmaker Hailo Raises $136 Million",
+      "excerpt": "AI chipmaker Hailo raised $136 million in its latest funds round, representing one of the largest investments ever in the AI chip space. It comes amid the ongoing global chip shortage, and a surge in demand for the company's technology,",
+      "sourceUrl": null,
+      "webUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million",
+      "originalUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/e275f4bd-3682-4dbc-9167-97e654817f8f.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million.amp",
+      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/ai-chipmaker-hailo-raises-136-million.amp",
+      "publishedDateTime": "2021-11-08T14:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cheddar",
+        "domain": "cheddar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-use-autogluon-tabular-in-aws-marketplace.md",
+      "title": "Use AutoGluon-Tabular in AWS Marketplace",
+      "excerpt": "AutoGluon-Tabular is an open-source AutoML framework that requires only a single line of Python to train highly accurate machine learning (ML) models on an unprocessed tabular dataset. In this post, we walk you through a way of using AutoGluon-Tabular as a code-free AWS Marketplace product. We use this",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T11:42:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra.md",
       "title": "Augment search with metadata by chaining Amazon Textract, Amazon Comprehend, and Amazon Kendra",
       "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
@@ -144,19 +239,19 @@
     {
       "path": "_news/2021-11-09-aws-announces-plans-to-open-second-region-in-canada.md",
       "title": "AWS Announces Plans to Open Second Region in Canada",
-      "excerpt": "(NASDAQ: AMZN), announced plans to open an infrastructure Region in Alberta, Canada, in late 2023/early 2024. The new AWS Canada West (Calgary) Region will consist of three Availability Zones (AZs) at launch and join the existing AWS Canada (Central) Region in Montreal,",
+      "excerpt": "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-plans-to-open-second-region-in-canada/article_3e90a1cf-25c0-5307-bb52-1d31149706c2.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-plans-to-open-second-region-in-canada/article_3e90a1cf-25c0-5307-bb52-1d31149706c2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -166,11 +261,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T08:34:00-08:00",
+      "publishedDateTime": "2021-11-08T08:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1090,100 +1185,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-symblai-provider-of-conversational-intelligence-apis-and-tools-gets-17m.md",
-      "title": "Symbl.ai, provider of conversational intelligence APIs and tools, gets $17M",
-      "excerpt": "Communication platform-as-a-service startup Symbl.ai raised $17 million in series A funding to develop its conversational AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/",
-      "originalUrl": "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/symbl-ai-provider-of-conversational-intelligence-apis-and-tools-gets-17m/amp/",
-      "publishedDateTime": "2021-11-07T21:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-omron-invests-in-taiwans-collaborative-robot-company-techman-robot-inc.md",
-      "title": "OMRON Invests in Taiwan's Collaborative Robot Company Techman Robot Inc.",
-      "excerpt": "OMRON & Techman Robot will together deliver a highly flexible and scalable ... By adopting a wide range of control devices and artificial intelligence (AI), machines can learn through experience and maintain themselves in optimal condition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc",
-      "originalUrl": "https://www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_763.jpg?itok=3PkWL07Z",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/omron-invests-taiwans-collaborative-robot-company-techman-robot-inc?amp",
-      "publishedDateTime": "2021-11-07T20:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

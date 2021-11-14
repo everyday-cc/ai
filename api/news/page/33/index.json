@@ -2,6 +2,221 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-10-18-the-eu-called-for-a-ban-on-police-use-of-facial-recognition-but-not-commercial-use-why.md",
+      "title": "The EU called for a ban on police use of facial recognition but not commercial use. Why?",
+      "excerpt": "Recently, the European Parliament called for a ban on police use of facial recognition. In the US, too, some cities have restricted police use of facial recognition. The first question that comes",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "originalUrl": "https://www.sourcesecurity.com/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/eagle-eye-uncanny-vision-highlights-value-combining-ai-cloud-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "publishedDateTime": "2021-10-18T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-why-the-world-needs-a-bill-of-rights-on-ai.md",
+      "title": "Why the world needs a Bill of Rights on AI",
+      "excerpt": "Soon after the US constitution was ratified, the Bill of Rights added specific guarantees on freedom of expression and assembly, and rights to fair trials — aiming to set limits on the powers of the government that had just been created.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "originalUrl": "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e10f64f-b5ce-47ed-a83f-7575e0fc2655.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "publishedDateTime": "2021-10-18T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs.md",
+      "title": "All-New Computer Vision Technology Easily Expands Drive-Thru Visibility, Helps Reduce Drive-Offs",
+      "excerpt": "HME Hospitality and Specialty Communications is excited to announce the launch of its all-new video detection, a breakthrough restaurant technology that seamlessly expands",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs/article_1bbc4592-648f-5098-bb9c-dd676f6d6739.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs/article_1bbc4592-648f-5098-bb9c-dd676f6d6739.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-finch-capitals-state-of-european-fintech-as-record-amounts-of-capital-is-raised-signs-emerging-that-the-fintech-blast-is-slowing.md",
+      "title": "Finch Capital’s State of European FinTech: as Record Amounts of Capital Is Raised, Signs Emerging That the FinTech Blast Is Slowing",
+      "excerpt": "Few deals drive FinTech volumes, record number of mid-market M&A transactions, but European capital markets remain elusive for FinTech Today Finch Capital issued the 6th edition of its annual State of European FinTech Report for 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/transaction-banking/finch-capitals-state-european-fintech-record-amounts-capital-raised-signs",
+      "originalUrl": "https://financialit.net/news/transaction-banking/finch-capitals-state-european-fintech-record-amounts-capital-raised-signs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/all/themes/fin/img/android-btn.png",
+          "width": 646,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained.md",
+      "title": "What's So Great About Google Tensor? The New Pixel 6 Chip, Explained",
+      "excerpt": "Google made its own chip to power Pixel 6, but what does that mean for you and for Google? We're coming up on the launch of the Google Pixel 6 and 6 Pro, and, for once, there's a pretty significant change to Google's newest smartphone that isn't just a bigger screen or better camera.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained",
+      "originalUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/article/w/whats-so-g/whats-so-great-about-google-tensor-the-new-pixel-6-chip-expl_umqb.620.jpg",
+          "width": 619,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1",
+      "publishedDateTime": "2021-10-17T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-general-availability-livedata-platform-for-azure.md",
       "title": "General Availability – LiveData Platform for Azure",
       "excerpt": "General Availability of LiveData Platform for Azure. Significant step achieved in converting pipeline customers, provid",
@@ -923,204 +1138,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
-      "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
-      "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "originalUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-to-extend-ban-on-police-use-of-face-recognition-tech/amp/",
-      "publishedDateTime": "2021-10-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-the-tiniest-computer-vision-platform-just-got-better.md",
-      "title": "The Tiniest Computer Vision Platform Just Got Better",
-      "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
-      "originalUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/09/openmvheader.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta.md",
-      "title": "Gitex 2021: New innovations in self-driving transportation, smart parking to be unveiled by RTA",
-      "excerpt": "Dubai's Roads and Transport Authority (RTA) will unveil technology that uses artificial intelligence (AI ... projects qualified for the finals of the Dubai World Challenge for Self-Driving Transport 2021. “RTA has an integrated roadmap for the future ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta",
-      "originalUrl": "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=4707ce77-230a-5048-af0b-1ba6a5c4d314&function=cropresize&type=preview&source=false&q=75&crop_w=0.92188&crop_h=0.99999&x=0.03906&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/gitex-2021-new-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-rta?amp=1",
-      "publishedDateTime": "2021-10-16T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-nalsar-chss-to-empower-security-agencies-with-ai-course.md",
-      "title": "NALSAR, CHSS to empower security agencies with AI course",
-      "excerpt": "Hyderabad: The NALSAR University of Law and the Centre for Human Security Studies (CHSS) have joined hands to organise Artificial Intelligence (AI) for Smart Policing. The 3-day Executive Certificate Program (ECP) to All India Police Departments and Central Paramilitary Forces (CISF-CRPF-SSB-ITBP-BSF) and other important law enforcement agencies in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/10/16/1117482-nalsr.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "publishedDateTime": "2021-10-16T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents.md",
-      "title": "Self-driving Waymo cars gather in a San Francisco neighborhood, confusing residents",
-      "excerpt": "It was a modern mystery. In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.kawc.org/post/self-driving-waymo-cars-gather-san-francisco-neighborhood-confusing-residents",
-      "originalUrl": "https://www.kawc.org/post/self-driving-waymo-cars-gather-san-francisco-neighborhood-confusing-residents",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-16T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KAWA",
-        "domain": "kawc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

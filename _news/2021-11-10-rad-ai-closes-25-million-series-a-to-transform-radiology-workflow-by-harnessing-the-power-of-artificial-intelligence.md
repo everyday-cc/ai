@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "rct AI Closed Series A-3 Funding"
-    excerpt: "Nov 9, 2021--rct AI, the provider of AI solutions for the video game industry based off LA, has announced completion of $10M+ Series A-3 funding led"
-    publishedDateTime: 2021-11-09T15:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-blockchain-625ca5547ea040f490bf606f3b4b7f90"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
     excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."
     publishedDateTime: 2021-11-12T19:28:00Z

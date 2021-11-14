@@ -33,15 +33,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Gamida Cell Presents New Data on Nicotinamide-Enabled NK Cell Therapy at Society for Immunotherapy of Cancer's (SITC) 36 th Annual Meeting"
-    excerpt: "Gamida Cell Ltd. (Nasdaq: GMDA), an advanced cell therapy company committed to cures for cancer and other serious diseases, today announced data evalu"
-    publishedDateTime: 2021-11-09T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211109005810/en/Gamida-Cell-Presents-New-Data-on-Nicotinamide-Enabled-NK-Cell-Therapy-at-Society-for-Immunotherapy-of-Cancers-SITC-36th-Annual-Meeting"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "//ZoUkBR7h0DFqD9+Ft3XL8iv95brVvfTiEILJDDclT5ewchkNwc/+tiCEfqq8PykGO8DGs37DNP599KzvvxzRt2/95YSIlk3LZfSF9QznAr/vhS+ueHC/7vMY7Eozdhbc+79hlCV/QOnv3qpbt13Ord3ORSj9onBxTg9y9k0c0P81TN/3+XIUt0mkyjt4MHC5Lnqf9lPNdl7S0MbxmFpOm4oSDaGXlycXwGerdX+U1ChMq+wVFJ1EuFYdLyIWokCODYjJCYFDBIEl31fUBW2TlmVzR+QxQzplvZxnPBdQFNr+dFYknwDwvZcibxXKbHwNZt1hi17MmXroVcMazeir18Xa6XCf9gaPA4AtPPO5Ab6s5JT+jA0x0bZqTbtY3lS7sltiUoZUTMXJCC+H3tXYZmJAy/9UShZexXe1HG6+cKY8LNSOmmrMu8ftJQryDxm2/Wh3ktEeNEyHfWTWM/Orbs7Ftvo/zQWUv25FBBeR/pVe5X9k/ywRlO8AOGTT5kLN1YmnmjLQEU7DGwGeb9rQ==;RPuvSPrXwagJaO2pH9u9iQ=="
 ---

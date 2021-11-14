@@ -77,22 +77,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Tesla starts retrofit program for cameras on older vehicles with ‘Full Self-Driving’"
-    excerpt: "Tesla has launched a retrofit program for Autopilot cameras on older vehicles with the “Full Self-Driving” package. Starting with the introduction of its Autopilot 2.0 suite of sensors in 2016, Tesla started selling all of its cars with the promise that they have all the hardware necessary to achieve full self-driving capability with future software"
-    publishedDateTime: 2021-11-09T15:10:00Z
-    webUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/"
-    ampWebUrl: "https://electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/09/tesla-starts-retrofit-program-cameras-older-vehicles-full-self-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 82
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "U.S. regulator reviewing Tesla owner complaint on self-driving test software"
     excerpt: "The U.S. National Highway Traffic Safety Administration (NHTSA) said it is looking into a consumer report that a Tesla Model Y was involved in an accident while using the company's Full Self-Driving (FSD) Beta software."
     publishedDateTime: 2021-11-13T01:45:00Z
@@ -202,22 +186,6 @@ related:
       - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/07/932/470/GettyImages-187005526_1555969552377_7141953_ver1.0.jpg?ve=1&tl=1"
         width: 932
         height: 470
-        isCached: true
-  - title: "Is the Apple Car FINALLY on the way? Apple hires former Tesla Autopilot software director to help develop a self-driving vehicle, report claims"
-    excerpt: "Apple has reportedly hired former Tesla software director Christopher Moore. The Cupertino-based tech giant has been working on its long-rumoured self-driving car project since 2014."
-    publishedDateTime: 2021-11-09T15:30:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10182151/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10182151/amp/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10182151/amp/Apple-hires-Tesla-expert-self-driving-car-project-report-says.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 38
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/11/09/14/36181330-0-image-a-27_1636469823253.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "+f9lzjwATOcQNEgQ0+tCsgDfsLvuOpfJ9Mhlmc283o275NfCfnnhf0G4GN+2ai6Y4nef/0rrdZ90SK8qYatK/KKvYYKiTWQy/YNxbUVO++g5jsICxqfrTZ5x9eRFUtWwL/4qFSmNedSx2zA2Y6D5SRNoUEC35NHmbHxSUTWkh3HPLerngQfW82cC7aDrFg0wgTF9TXG/5soJUMOnOnydwdOpu4MhFz7FBGMifTUvxqyf+iSPyCm0zhI9hV7CLQe4PZ9N8FrjGfDgZUapBp5Nwf4dOtOkqqY9FXXKC2aNJEoFh69iUeIYtiKoWq8HQnnX/5UW6BGQYOnOCsTmHhCGbL9b1JMopowK0DmUWj2WaF+klCBhzTHoo0mNj033W+N9vsczsJQeHqeBOH+PrWFEx6eaTVQdwOJnxQ0YHBQdm1ZcDKPLiytm7Zp5l4p7GcKJPt2MyW4N1MpqR6oei8FWfK6jvSNQV+o9vE4ri7W0mmX27t96QvbcAHjrRxxshh2hpziHHlt80eyHBBihWJRcag==;qR26aa/kABhLWnvr9OiXFw=="

@@ -24,47 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore wants AI startups to think about healthcare"
-    excerpt: "SingHealth inks three-year partnership with SGInnovate to provide resources and opportunities that deep tech startups need to develop artificial intelligence tools for the healthcare sector."
-    publishedDateTime: 2021-11-09T16:51:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-wants-ai-startups-to-think-about-healthcare/"
+  - title: "Unis are using AI to keep students from cheating and it’s a bit creepy"
+    excerpt: "Some programs simply enable a person to supervise students remotely. More sophisticated, automated proctoring software hijacks the student’s computer to block and monitor suspicious activity. These programs often use artificial intelligence (AI) to scrutinise exam conduct."
+    publishedDateTime: 2021-11-10T16:37:00Z
+    webUrl: "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://www.zdnet.com/a/img/resize/d0624aa4285fa985c80aad93f7165b8b4ef681d3/2014/11/28/e02b1e39-76b6-11e4-b569-d4ae52e95e57/no-deaths-from-buggy-health-software-qld-health-minister.jpg?width=770&height=578&fit=crop&auto=webp"
-        width: 770
-        height: 578
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-3.jpg&signature=487768bc4975bf0afe78f27dfbc5d074"
+        width: 796
+        height: 398
         isCached: true
-  - title: "Singapore launches national AI programme in finance"
-    excerpt: "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,"
-    publishedDateTime: 2021-11-10T02:37:00Z
-    webUrl: "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html"
+  - title: "Unis are using artificial intelligence to keep students sitting exams honest. But this creates its own problems"
+    excerpt: "The pandemic has driven the rapid uptake of programs that use artificial intelligence to monitor students sitting exams remotely. New research highlights the need for caution in its use."
+    publishedDateTime: 2021-11-09T18:21:00Z
+    webUrl: "https://theconversation.com/unis-are-using-artificial-intelligence-to-keep-students-sitting-exams-honest-but-this-creates-its-own-problems-170708"
+    ampWebUrl: "https://theconversation.com/amp/unis-are-using-artificial-intelligence-to-keep-students-sitting-exams-honest-but-this-creates-its-own-problems-170708"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/unis-are-using-artificial-intelligence-to-keep-students-sitting-exams-honest-but-this-creates-its-own-problems-170708"
     type: article
     provider:
-      name: dangcongsan.vn
-      domain: dangcongsan.vn
-    quality: 56
+      name: The Conversation
+      domain: theconversation.com
+    quality: 39
     images:
-      - url: "http://en.dangcongsan.vn/DATA/3/IMAGES/2021/11/BTA_KK101121SGLA.jpg"
-        width: 620
-        height: 413
+      - url: "https://images.theconversation.com/files/430657/original/file-20211107-23-jmgtfe.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
-  - title: "Top 10 Stories from Singapore Fintech Festival 2021"
-    excerpt: "Like previous years, the 2021 Singapore Fintech Festival was the opportunity for some of the world’s largest tech firms, banks, fintech leaders and regulators to announce their latest products and initiatives."
-    publishedDateTime: 2021-11-12T05:28:00Z
-    webUrl: "https://fintechnews.sg/57269/singapore-fintech-festival-2021/top-10-stories-from-singapore-fintech-festival-2021/"
+  - title: "Discovering exoplanets using artificial intelligence"
+    excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
+    publishedDateTime: 2021-11-11T08:45:00Z
+    webUrl: "https://www.nanowerk.com/news2/space/newsid=59109.php"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 39
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/Top-10-Stories-from-Singapore-Fintech-Festival-2021-.jpg?x73342"
-        width: 2048
-        height: 1136
+      - url: "https://www.nanowerk.com/news2/space/id59109_1.png"
+        width: 450
+        height: 338
+        isCached: true
+  - title: "Discovering exoplanets using artificial intelligence"
+    excerpt: "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in luminosity observed makes it possible to deduce the existence of a planet and to estimate its diameter,"
+    publishedDateTime: 2021-11-11T17:45:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/934587"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 226
         isCached: true
 
 secured: "b9E+OJqiDjRxAUyKxEDixRELrpfmUf6t8VmEKbERoIyRZCEoeDlTyPRLIzpy34run2z9Jt/BsK7VjHFYx52i/nsq7Ylb1c9ATn7zDKUjIC34bWYIXMUOh2dkHE+b2tAL+1fAtyRYkyQnm7uJ0mEKq7JG+9Etuh1dlavzYdQVhteH9AEiqfJQu9lhIUvhci6rHS9M9UIUGUlRNta/TrP3Gqgh+87z8I8GsGzoeUdfU2x/+ndZ5tWKP0erV066aoWzmWgcTbnokOkYazGP7GgBZkPpuoUTw4cQ09WsyDu9eu0jvB7iTGIGViFAAH8JzSZHOJhtwcRBSpZE3q24IvEnqD8QPvHWprutBD9BEwKmqRUTE1lwkEbNEJbi6+DMaPu4X6jFMu/0RDlSyy5ONFI24Ais9h3FlUnaz4/T9PoYsZgrEAzkPSbPiB2CKEpH5olmRJ+TWBKDHdntEvUotYuWyG9PogKnI0DNOvLQOidKt5HG1u754uFGHaftPaD7F6jjYzqOdW7GbFEtUgwLNJPExw==;cHbsDFlSmYKQZZoLZb3WcA=="

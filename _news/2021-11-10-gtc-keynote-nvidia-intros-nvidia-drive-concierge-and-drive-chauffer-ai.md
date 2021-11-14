@@ -36,22 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 65
-  - title: "Luminar skyrockets as much as 44% after striking deal with Nvidia for self-driving car technology"
-    excerpt: "Nvidia headquarters in Santa Clara, California Justin Sullivan/Getty Images Luminar stock shot up as much as 44% after a new self-driving car"
-    publishedDateTime: 2021-11-09T16:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11"
-    ampWebUrl: "https://www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/618a941723745d001825a76c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Nvidia announces new platform for creating AI Avatars"
     excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
     publishedDateTime: 2021-11-10T10:01:00Z

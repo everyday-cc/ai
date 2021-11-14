@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-26-visionary-global-fintech-companies-invest-in-customer-service-experience-by-partnering-with-helpshift.md",
+      "title": "Visionary Global Fintech Companies Invest in Customer Service Experience by Partnering with Helpshift",
+      "excerpt": "Helpshift, the established leader for in-app customer service in the mobile gaming industry, has set its sights on expanding its services to the rapidly growing fintech industry. Helpshift had long predicted an all-mobile shift of payments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/26/visionary-global-fintech-companies-invest-customer-service-experience-by-partnering-with-helpshift/",
+      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/26/visionary-global-fintech-companies-invest-customer-service-experience-by-partnering-with-helpshift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/LEGaG8bqRHIOwshaD5h71_c42RI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/NXTVMD3MEAEFUHBC7ZES5QXHIM.jpg",
+          "width": 980,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSAW",
+        "domain": "wsaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-kbra-altman-launches-high-yield-return-forecasting-model-a-differentiated-approach-using-machine-learning-allows-the-model-to-keep-pace-with.md",
+      "title": "KBRA Altman Launches High Yield Return Forecasting Model: A Differentiated Approach Using Machine Learning Allows the Model to Keep Pace with Changing Market Conditions",
+      "excerpt": "KBRA Altman, a division of KBRA Analytics, is pleased to announce the launch of its new High Yield Return Forecasting Model. Unlike traditional approa",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211025005713/en/KBRA-Altman-Launches-High-Yield-Return-Forecasting-Model-A-Differentiated-Approach-Using-Machine-Learning-Allows-the-Model-to-Keep-Pace-with-Changing-Market-Conditions",
+      "originalUrl": "https://www.businesswire.com/news/home/20211025005713/en/KBRA-Altman-Launches-High-Yield-Return-Forecasting-Model-A-Differentiated-Approach-Using-Machine-Learning-Allows-the-Model-to-Keep-Pace-with-Changing-Market-Conditions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-why-financial-services-can-benefit-from-digital-transformation.md",
       "title": "Why Financial Services Can Benefit From Digital Transformation",
       "excerpt": "Today's digital growth creates significant challenges for businesses, and one of many industries that need to digitize their business process is the financial industry. As a result, companies have had to rethink how they do business for the past few years.",
@@ -1237,101 +1315,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-fintech-insurtech-live-day-one-overview-at-tobacco-dock.md",
-      "title": "FinTech & InsurTech Live: Day one overview at Tobacco Dock",
-      "excerpt": "Day one of FinTech and InsurTech Live comes to a close and we highlight some of the topics and discussions we have seen from day one of the hybrid event",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-one-overview-tobacco-dock",
-      "originalUrl": "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-one-overview-tobacco-dock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/IMG_1746.jpg.png?itok=QInUkdFr",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-fintech-is-changing-the-insurance-industry.md",
-      "title": "How FinTech Is Changing The Insurance Industry",
-      "excerpt": "Article take from FinTech Magazine. The insurance industry has always been a complicated but firmly rooted environment, but advancements in technology have collided with customer needs, creating systemic challenges for the insurance industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/how-fintech-changing-insurance-industry-banq-ai",
-      "originalUrl": "https://www.linkedin.com/pulse/how-fintech-changing-insurance-industry-banq-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEGg8v3R79fEA/article-cover_image-shrink_600_2000/0/1633965955561?e=1640217600&v=beta&t=Y63Cbkp6bJc1FUkTSXa-8DGMh9RFFzHHa0TScgIiSos",
-          "width": 744,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

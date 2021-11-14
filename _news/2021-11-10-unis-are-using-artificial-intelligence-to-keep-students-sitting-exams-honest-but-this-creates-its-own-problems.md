@@ -41,20 +41,6 @@ related:
         width: 796
         height: 398
         isCached: true
-  - title: "Paging the plagiarism police — AI is getting better at writing students’ essays"
-    excerpt: "Cheating during the pandemic has been rampid and concerns are growing in a climate where automation writing continue to improve."
-    publishedDateTime: 2021-11-09T15:03:00Z
-    webUrl: "https://thenextweb.com/news/plagiarism-improving-writing-students-essays-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FRobot-typing-hed.jpg&signature=16c5fbe850f2ab359134736037a6901d"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Discovering exoplanets using artificial intelligence"
     excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
     publishedDateTime: 2021-11-11T08:45:00Z
@@ -82,6 +68,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
         width: 300
         height: 226
+        isCached: true
+  - title: "How Companies Are Using Artificial Intelligence to Tell if You’re Lying"
+    excerpt: "But when the upstart insurer earlier this year said on Twitter that artificial intelligence analyzes these videos for “non-verbal cues” that may suggest fraud, the company received a barrage of angry messages on social media. “There’s a wide range ..."
+    publishedDateTime: 2021-11-09T17:23:00Z
+    webUrl: "https://www.consumerreports.org/artificial-intelligence/how-companies-use-artificial-intelligence-to-detect-lying-a4041224738/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 37
+    images:
+      - url: "https://article.images.consumerreports.org/image/upload/v1636396298/prod/content/dam/CRO-Images-2021/Electronics/11Nov/CR-TEch-Inlinehero-lie-detection-tech-1121"
+        width: 1199
+        height: 674
         isCached: true
 
 secured: "bMZGPG0wGKuCsIFoZyY2yFtIrrwdODP66q2XFZgwI5U61VX4Pb5gTdpkfgJH8jBrkhkZA02EDqOLwhLUEWP6AhGTbTWyyD/JNI9oJRb5hIJhR8J5YczdnIYG8Lta5Pr0kKcy3c5y4oBXRaW354YEooVfMbjhY4aOiIA9+Cg/8ROuWRm2WUzl3Xm2wcnBxbfkNCUYM9S6opJ+9GA49vbOyfie42DPXSY9p5K2toXrhgiJTvGIEEK/DjsrOYJ7DituPRhENeMIbRTaKSFCg/3eDk3tmcwo7YpEBnwCM806mj7TVbxEmmXT+zmig/suCwJ1r/xVAnPQSXRoBz9RaiLrvXk3n+3FsFWAR2Q3oHLkGQd+6owWgWWuSr0thoDXwNH29wU2HWUyK0m8vc/0jjZwBwOL3LGsIPpakTTkafiDrDxvkhMdvQmuj5bbpLiNiU/oVYQZbrHs72z7JhT5mhw9jcEbww68Ztax+ptlQcieWbD7gYkrj+EteLI/JNtnet30lhXw8jbigVbz8oMegYNA/w==;pmg2kOSZsxkvgNbuku3FFQ=="

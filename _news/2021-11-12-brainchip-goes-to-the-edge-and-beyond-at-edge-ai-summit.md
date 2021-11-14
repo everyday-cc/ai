@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-brainchip
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-brainchip-holdings-ltd-artificial-intelligence-789183d73dfb4fe3aed03ac83f32e2d4"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "3 Best AI Stocks to Buy Now for 2022 and Beyond"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) stocks continue to gain traction among growth"
+    publishedDateTime: 2021-11-11T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-ai-stocks-to-buy-now-for-2022-and-beyond-1030964474"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "dK+NOjt2BrSnHrSeaDI//jm8mPiAg5UhOlJaoIbv/TA9MkOm1NKGKOCxTYfA5aWCFmG5KV0laIkwyxUwTxUDpu4BaKlbADiZlYiwXoO2BUoeV9PGYPNw8ywXsW6xchTNS3a6/JVxK7edBPVw+v7rvtHWRFnMGTqCHcszdrbuI49hESZZcDcKvSnPrRDFc/l6QwqwuqiWTqQ1MSmGSszccNS93HuTk5qbut6d90TmC5dXVMN9tapni2xNIFAaKPGz0V0hclThaJnW+wZtXSgCYzilGnpHQ0MqiFo4hEk31AyC0daxEbYNGU67fKWjcZoAhvNLxYrbe8xQk+IDZb/vFMlE2Kk5K10tT3GHjpRZA38=;0QtkjN1qYK71+7Wtcko94w=="
 ---

@@ -287,7 +287,7 @@
       "originalUrl": "https://english.alarabiya.net/News/middle-east/2021/11/09/Israel-s-army-using-facial-recognition-surveillance-in-Palestinian-city",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -366,20 +366,20 @@
     },
     {
       "path": "_news/2021-11-09-popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan.md",
-      "title": "PopID and SoftBank’s Japan Computer Vision Partner to Launch PopPay In Japan",
-      "excerpt": "PopID, Japan Computer Vision (“JCV”, a subsidiary of SoftBank Corp), and Wendy’s First Kitchen (“WFK”) announced today the launch of PopPay - PopID’s face-recognition-based ordering and payment system - in Tokyo,",
+      "title": "PopID and SoftBank's Japan Computer Vision Partner to Launch PopPay In Japan",
+      "excerpt": "Wendy's First Kitchen is First QSR Chain in Japan to Accept Face Pay PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -387,13 +387,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T20:01:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23972605",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605",
+      "publishedDateTime": "2021-11-08T20:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

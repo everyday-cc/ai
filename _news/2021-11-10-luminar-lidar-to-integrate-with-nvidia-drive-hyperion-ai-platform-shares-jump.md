@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvid
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
 type: article
 quality: 65
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Luminar skyrockets as much as 44% after striking deal with Nvidia for self-driving car technology"
-    excerpt: "Nvidia headquarters in Santa Clara, California Justin Sullivan/Getty Images Luminar stock shot up as much as 44% after a new self-driving car"
-    publishedDateTime: 2021-11-09T16:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11"
-    ampWebUrl: "https://www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/618a941723745d001825a76c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "GTC Keynote NVIDIA Intros NVIDIA DRIVE Concierge and DRIVE Chauffer AI"
     excerpt: "These trends are coinciding with the rapid progress of autonomous vehicle technology, meaning more drivers on the road doesn’t have to translate ... conversational AI. Omniverse Avatar connects speech AI, computer vision, natural language understanding ..."
     publishedDateTime: 2021-11-10T02:15:00Z

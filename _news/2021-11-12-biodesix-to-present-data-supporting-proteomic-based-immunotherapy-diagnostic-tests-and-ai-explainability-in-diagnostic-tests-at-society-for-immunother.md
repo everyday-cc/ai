@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gamida Cell Presents New Data on Nicotinamide-Enabled NK Cell Therapy at Society for Immunotherapy of Cancer's (SITC) 36 th Annual Meeting"
-    excerpt: "Gamida Cell Ltd. (Nasdaq: GMDA), an advanced cell therapy company committed to cures for cancer and other serious diseases, today announced data evalu"
-    publishedDateTime: 2021-11-09T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211109005810/en/Gamida-Cell-Presents-New-Data-on-Nicotinamide-Enabled-NK-Cell-Therapy-at-Society-for-Immunotherapy-of-Cancers-SITC-36th-Annual-Meeting"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
   - title: "Biodesix to Present Data Supporting Proteomic-Based Immunotherapy Diagnostic Tests and AI Explainability in Diagnostic Tests at Society for Immunotherapy of Cancer Annual Meeting"
     excerpt: "Biodesix, Inc. (Nasdaq: BDSX), a leading data-driven diagnostic solutions company with a focus in lung disease, today announced that the company will"
     publishedDateTime: 2021-11-12T16:00:00Z

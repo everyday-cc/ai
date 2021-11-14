@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027-2021-11-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -755,7 +755,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -918,21 +918,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-10-ai-and-healthcare-a-timely-partnership.md",
-      "title": "AI and Healthcare: A timely partnership",
-      "excerpt": "Today, almost every field is leveraging AI irrespective of the sectors or industries. Every day, AI is getting increasingly sophisticated at doing what we can do.",
+      "path": "_news/2021-11-10-artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029.md",
+      "title": "Artificial Intelligence in Healthcare Market Size, Share, Key Players, Growth Analysis and Forecast 2029",
+      "excerpt": "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end and",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-healthcare-timely-partnership-raju-kumar",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-healthcare-timely-partnership-raju-kumar",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029-2021-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029-2021-11-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFLbpBjEvhD-w/article-cover_image-shrink_600_2000/0/1636524697847?e=1642032000&v=beta&t=GGKDExtDKUhls3heeV1JVvZOsVruKQwCYrrdBhoyfQc",
-          "width": 1024,
-          "height": 512,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -942,14 +942,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T22:11:00-08:00",
+      "publishedDateTime": "2021-11-10T01:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -965,8 +965,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1008,6 +1008,93 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-singapore-launches-national-ai-programme-in-finance.md",
+      "title": "Singapore launches national AI programme in finance",
+      "excerpt": "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,",
+      "sourceUrl": null,
+      "webUrl": "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html",
+      "originalUrl": "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://en.dangcongsan.vn/DATA/3/IMAGES/2021/11/BTA_KK101121SGLA.jpg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T18:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dangcongsan.vn",
+        "domain": "dangcongsan.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-managing-ai-decision-making-tools.md",
+      "title": "Managing AI Decision-Making Tools",
+      "excerpt": "Imagine a driverless car without a steering wheel ... And these decision-making algorithms are often described as artificial intelligence (AI). The critical question is, how do human managers ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/11/managing-ai-decision-making-tools?ab=hero-subleft-1",
+      "originalUrl": "https://hbr.org/2021/11/managing-ai-decision-making-tools?ab=hero-subleft-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/11/Nov21_10_1198495539.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/11/managing-ai-decision-making-tools",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/11/managing-ai-decision-making-tools",
+      "publishedDateTime": "2021-11-09T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1094,110 +1181,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production.md",
-      "title": "ML observability platform WhyLabs raises $10M to monitor models and data in production",
-      "excerpt": "WhyLabs, a startup developing an observability platform for machine learning projects, has raised $10 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/zero-maintenance-dc986af684be6e69821625a4dbbfc4c5.png?w=800&resize=800%2C495&strip=all",
-          "width": 800,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/amp/",
-      "publishedDateTime": "2021-11-09T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters.md",
-      "title": "Inworld AI joins metaverse innovation with AI-driven virtual characters",
-      "excerpt": "Inworld AI announces plans to populate the metaverse with AI-driven virtual characters, and raises $7 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/9xonhbI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/",
-      "publishedDateTime": "2021-11-09T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

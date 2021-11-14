@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore wants AI startups to think about healthcare"
-    excerpt: "SingHealth inks three-year partnership with SGInnovate to provide resources and opportunities that deep tech startups need to develop artificial intelligence tools for the healthcare sector."
-    publishedDateTime: 2021-11-09T16:51:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-wants-ai-startups-to-think-about-healthcare/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/d0624aa4285fa985c80aad93f7165b8b4ef681d3/2014/11/28/e02b1e39-76b6-11e4-b569-d4ae52e95e57/no-deaths-from-buggy-health-software-qld-health-minister.jpg?width=770&height=578&fit=crop&auto=webp"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Singapore launches national AI programme in finance"
     excerpt: "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,"
     publishedDateTime: 2021-11-10T02:37:00Z
@@ -53,19 +39,33 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "How Companies Are Using Artificial Intelligence to Tell if You’re Lying"
-    excerpt: "But when the upstart insurer earlier this year said on Twitter that artificial intelligence analyzes these videos for “non-verbal cues” that may suggest fraud, the company received a barrage of angry messages on social media. “There’s a wide range ..."
-    publishedDateTime: 2021-11-09T17:23:00Z
-    webUrl: "https://www.consumerreports.org/artificial-intelligence/how-companies-use-artificial-intelligence-to-detect-lying-a4041224738/"
+  - title: "10 fintech startups selected for accelerator programme"
+    excerpt: "The LHoFT Foundation has announced the 10 Fintech startups selected to take part in the Fall 2021 digital edition of Catapult: Kickstarter"
+    publishedDateTime: 2021-11-12T15:54:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-fintech-startups-selected-accelerator-programme"
     type: article
     provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 37
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1636396298/prod/content/dam/CRO-Images-2021/Electronics/11Nov/CR-TEch-Inlinehero-lie-detection-tech-1121"
-        width: 1199
-        height: 674
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1179477379%20%281%29.jpg.png?itok=pxuGhdJR"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The LHoFT Foundation selects 10 fintech startups for accelerator programme"
+    excerpt: "Building on the success of the Summer 2021 Edition of Catapult: Kickstarter, the LHoFT Foundation is opening on Monday 15th of November, the second edition of this unique program of Fintech startup development."
+    publishedDateTime: 2021-11-11T17:50:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90231/the-lhoft-foundation-selects-10-fintech-startups-for-accelerator-programme"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 22
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "3JcbWrfyFuk6j0yczhnQHCQIIuskHucUKoDSy+74S4z9rHbbqJYUjDjAiijomAo24x0Wo6laptNASgEfsIAYCbShQ0ADt8KnONEdM38b9x2ptsfDzsSYmqC4IvoD2pigozFtqUPC1roLLDUNxq6QbTaEAqv6NBLCR6ndhe9UZe2mPklc2EnsqjYhOLnGB/gPqtWxCFFDurqtvqz9plYe+eTulTYYnTJcwIfBSJF6ayjXRaDreTybaETFKgcgn6M5eRUXRZvT8y9sjlwho4nUg+3U3ZUCtgao1XXt4jNGpzzQ5XdlRc0/OgpiFEMDzHEXfUBA8bHUqpiHpCZ3RzugH7Qg1FqBD0JjQnmZU1KU1nw=;9ODQ3TDDhmOqo3cYMszTEw=="

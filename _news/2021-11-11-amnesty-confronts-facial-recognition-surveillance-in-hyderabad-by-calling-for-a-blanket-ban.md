@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Israel using facial recognition surveillance in Palestinian city"
-    excerpt: "Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an organisation working with former soldiers said Tuesday."
-    publishedDateTime: 2021-11-09T16:49:00Z
-    webUrl: "https://www.bangkokpost.com/world/2212607/israel-using-facial-recognition-surveillance-in-palestinian-city"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20211109/c1_4139239_700.jpg"
-        width: 700
-        height: 461
-        isCached: true
 
 secured: "R2ZaAkYZO6MC+rfC+Ideyxmn/t9mAILSJHdNmySj1upMSa1GVqysdvO/9q113vqht49Ic+g4zv9wTuwrSUZXhYbMwINjSTv9KD/eN/MFIOdwYW1qGwgBymuVOePUbgo6AhgJ2DclF+gzosqsZxRgPDJXZk/ZgO5K+hC1TvZZhFlqQjT9P9Gky6vKDUGe3iCGV02DCmK3I4EEjQ8/hneT2fbwSnssH7r8qE4tu9UxxMD+Srd8BjpkXFb5RnAugsnLQ1NY7vZZa6xYYML1p41wnp8gB826qN2xZS8xPu07hma/33zHeoO9tH8JL7KvpXLaZpVrJimRS+48Bpx6IylYL9EzKDsEb9aKPSS2DOEB/sLNIbKZAw+9KJWoQfPMHwbAEzf/JCHzkxZZUYIiy67RM6hRXSpf+FAaAe+r9aJIB7owEAkM72AgL9fQWSkgvv1ZT7KwRvgubloUPXWMNdECpJxS6xmOLh9VAxT7MYmeiKv7KTZ9i62586Gyri24SpwAYXiUFbuRtegumdteNDpIfg==;d2oTiKWQuQp1BbqjS0NSJA=="
 ---

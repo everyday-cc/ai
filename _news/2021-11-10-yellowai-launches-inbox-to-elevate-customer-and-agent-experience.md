@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Yellow.ai Launches INBOX - an Omnichannel Agent Assist Platform to Elevate Customer and Agent Experience"
-    excerpt: "Yellow.ai, the world's leading customer experience (CX) automation platform, trusted by 1000+ enterprises globally, today announced the"
-    publishedDateTime: 2021-11-09T15:13:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/yellow-ai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience-828535549.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1682942/yellowai_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Yellow.ai Launches INBOX - an Omnichannel Agent Assist Platform to Elevate Customer and Agent Experience"
     excerpt: "omnichannel virtual assistants, and ticketing automation suite. Yellow.ai has raised more than $102M from blue-chip investors and has offices across six countries."
     publishedDateTime: 2021-11-11T18:36:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1221925&cat=PR News Wire"

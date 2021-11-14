@@ -9,7 +9,7 @@ ampWebUrl: "https://english.alarabiya.net/amp/News/middle-east/2021/11/09/Israel
 cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/middle-east/2021/11/09/Israel-s-army-using-facial-recognition-surveillance-in-Palestinian-city"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_policing_rep_1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Israel using facial recognition surveillance in Palestinian city"
-    excerpt: "Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an organisation working with former soldiers said Tuesday."
-    publishedDateTime: 2021-11-09T16:49:00Z
-    webUrl: "https://www.bangkokpost.com/world/2212607/israel-using-facial-recognition-surveillance-in-palestinian-city"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20211109/c1_4139239_700.jpg"
-        width: 700
-        height: 461
         isCached: true
   - title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
     excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."

@@ -39,20 +39,6 @@ related:
         width: 400
         height: 293
         isCached: true
-  - title: "rct AI Closed Series A-3 Funding"
-    excerpt: "Nov 9, 2021--rct AI, the provider of AI solutions for the video game industry based off LA, has announced completion of $10M+ Series A-3 funding led"
-    publishedDateTime: 2021-11-09T15:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-blockchain-625ca5547ea040f490bf606f3b4b7f90"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Rad AI Closes $25 Million Series A to Transform Radiology Workflow by Harnessing the Power of Artificial Intelligence"
     excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS Ventures with participation by several existing investors, including OCV Partners,"
     publishedDateTime: 2021-11-10T14:32:00Z

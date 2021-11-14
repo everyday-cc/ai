@@ -24,22 +24,6 @@ images:
     height: 510
     isCached: true
 
-related:
-  - title: "Check out the 17-slide pitch deck FlowX.ai, a startup digitizing banks hooked on legacy tech, used to raise Romania's largest funding round of 2021"
-    excerpt: "FlowX.ai, a fintech startup founded in 2020, has raised Romania's largest round of 2021. The company provides enterprise"
-    publishedDateTime: 2021-11-09T15:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/flowx-romanian-fintech-startup-raises-85m-in-seed-funding-2021-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-    images:
-      - url: "https://images2.markets.businessinsider.com/618960ef326b2600183541e3?format=jpeg"
-        width: 790
-        height: 395
-        isCached: true
-
 secured: "IOlSJ59fPzM1wTig0wgioy8D4bxbk50pe00uDEf8VY6Aphxk6WRdEYgc6x8NhguubUlf1akoHIT2I4YtsvjWhOtcfBfHPfr4cmyF4i8TBB5QZAlQT2e2XPIeFRXhmGrLTGADXPXTfZvIWyzgSIRPFzEk70oFTDbfSVDK0a7phkgT/lN2fUrYPH3EsWaB2jj8FxUSu+Rd4tHoMn+95fPFnX8H7zam8lVEYmClqvwRzMGTi185Rc/Frp6hfbJ3E4rk8G1jYfloE2OebvSRHCFcszjri37Q6OU1uEbHVhpETQiuvDzxgdCQX3sXHWVpgfzFW3YN9y2sFu3rpcnwK0kOitx4RTvPaHIPtBC+BuR+nYx6d+kmBpU4Xf2TdNCu712KodBC+GW5FKBqnyFJv6e+LNAZh2u4fL9OqXYtiiTpbygKjSjotWODJHgF+gXR6Fkw+WwofR0cELC52kDjdy0munMlflbHRjc7ZQ8xrynYLzdgEAbBkJ035kHj/BW8PqRB42SDRgpjn2HD+il88PcD3A==;EjGlUKQTkfZdqLJKbQDR6A=="
 ---
 

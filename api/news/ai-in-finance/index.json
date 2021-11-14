@@ -283,6 +283,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-10-singapore-launches-national-ai-programme-in-finance.md",
+      "title": "Singapore launches national AI programme in finance",
+      "excerpt": "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,",
+      "sourceUrl": null,
+      "webUrl": "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html",
+      "originalUrl": "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://en.dangcongsan.vn/DATA/3/IMAGES/2021/11/BTA_KK101121SGLA.jpg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T18:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dangcongsan.vn",
+        "domain": "dangcongsan.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks.md",
       "title": "Hyper-personalization and new-age tech will drive AI-enabled banks",
       "excerpt": "India has witnessed a rapidly growing Big Data Revolution with the integration of AI, ML, IoT into the financial services industry.",
@@ -652,6 +696,59 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-h2oai-secures-100m-lands-partnership-with-australian-bank.md",
+      "title": "H2O.ai secures $100M, lands partnership with Australian bank",
+      "excerpt": "H2O.ai, an AI development platform, has raised a fresh $100 million, bringing its total to over $250 million at a $1.6 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
+      "originalUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
+      "publishedDateTime": "2021-11-07T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI",
         "AI in Finance"
       ]
@@ -1318,84 +1415,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-visionary-global-fintech-companies-invest-in-customer-service-experience-by-partnering-with-helpshift.md",
-      "title": "Visionary Global Fintech Companies Invest in Customer Service Experience by Partnering with Helpshift",
-      "excerpt": "Helpshift, the established leader for in-app customer service in the mobile gaming industry, has set its sights on expanding its services to the rapidly growing fintech industry. Helpshift had long predicted an all-mobile shift of payments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/26/visionary-global-fintech-companies-invest-customer-service-experience-by-partnering-with-helpshift/",
-      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/26/visionary-global-fintech-companies-invest-customer-service-experience-by-partnering-with-helpshift/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/LEGaG8bqRHIOwshaD5h71_c42RI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/NXTVMD3MEAEFUHBC7ZES5QXHIM.jpg",
-          "width": 980,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAW",
-        "domain": "wsaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-kbra-altman-launches-high-yield-return-forecasting-model-a-differentiated-approach-using-machine-learning-allows-the-model-to-keep-pace-with.md",
-      "title": "KBRA Altman Launches High Yield Return Forecasting Model: A Differentiated Approach Using Machine Learning Allows the Model to Keep Pace with Changing Market Conditions",
-      "excerpt": "KBRA Altman, a division of KBRA Analytics, is pleased to announce the launch of its new High Yield Return Forecasting Model. Unlike traditional approa",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211025005713/en/KBRA-Altman-Launches-High-Yield-Return-Forecasting-Model-A-Differentiated-Approach-Using-Machine-Learning-Allows-the-Model-to-Keep-Pace-with-Changing-Market-Conditions",
-      "originalUrl": "https://www.businesswire.com/news/home/20211025005713/en/KBRA-Altman-Launches-High-Yield-Return-Forecasting-Model-A-Differentiated-Approach-Using-Machine-Learning-Allows-the-Model-to-Keep-Pace-with-Changing-Market-Conditions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-03-driverless-delivery-company-nuro-nabs-600m-and-partners-with-google.md",
+      "title": "Driverless delivery company Nuro nabs $600M and partners with Google",
+      "excerpt": "Autonomous vehicle company Nuro has raised $600 million from a slew of high-profile investors, including Tiger Global Management and Google.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/",
+      "originalUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/",
+      "publishedDateTime": "2021-11-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-tesla-forced-to-recall-11704-vehicles-over-full-self-driving-glitch.md",
+      "title": "Tesla Forced to Recall 11,704 Vehicles Over Full Self-Driving Glitch",
+      "excerpt": "The software communication issue resulted in some vehicles automatically engaging their brakes, which could lead to rear-end collisions.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
+      "originalUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/69e4164c55ef29e39af285baf98e4c76.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
+      "publishedDateTime": "2021-11-02T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score.md",
       "title": "XPeng launches ‘Smart Driving Points’ beta, eerily similar to Tesla’s ‘Safety Score’",
       "excerpt": "XPeng will implement a 'Smart Driving Points' scoring system very similar to Tesla that ensures drivers don't abuse its self-driving tech.",
@@ -317,6 +421,49 @@
       "provider": {
         "name": "CIOL",
         "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-denmark-emerging-as-a-serious-player-in-the-game-of-ai.md",
+      "title": "Denmark emerging as a serious player in the game of AI",
+      "excerpt": "A focus on business Artificial intelligence has many uses such as diagnosing diseases and controlling driverless cars. However, the DCAKI will focus less on the science fiction and more on the humdrum reality of the business world, assisting small ...",
+      "sourceUrl": null,
+      "webUrl": "https://cphpost.dk/?p=92746",
+      "originalUrl": "https://cphpost.dk/?p=92746",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cphpost.dk/wp-content/uploads/2017/11/artificial-intelligence-698154_960_720-630x390.jpg",
+          "width": 630,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Copenhagen Post",
+        "domain": "cphpost.dk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1257,145 +1404,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tusimple-taking-retail-money-may-be-too-simple.md",
-      "title": "TuSimple: Taking Retail Money May Be Too Simple",
-      "excerpt": "Driverless technology is the future of ... A wicked waste of dumb money may be chasing the industry. Artificial intelligence is progressively more central to leading investment themes – whether ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "originalUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1127822663/medium_image_1127822663.jpg",
-          "width": 768,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "publishedDateTime": "2021-10-24T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain.md",
-      "title": "Researchers Use Artificial Intelligence Supported Neural Networks To Reason Like The Human Brain",
-      "excerpt": "A neural network, a series of algorithms that strives to recognize underlying relationships in a set of given data with",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
-      "originalUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/10/Researchers-Uses-Artificial-Intelligence-Supported-Neural-Networks.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
-      "publishedDateTime": "2021-10-24T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-whats-a-self-driving-car-heres-an-explanation.md",
-      "title": "What's a self-driving car? Here's an explanation",
-      "excerpt": "Understand what is, and isn't a self-driving or autonomous car with this explainer. There are no self-driving cars on sale today. Point blank. That's the cold-hard truth. Nothing fits the bill based on the SAE Scale of Autonomy's standard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/",
-      "publishedDateTime": "2021-10-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

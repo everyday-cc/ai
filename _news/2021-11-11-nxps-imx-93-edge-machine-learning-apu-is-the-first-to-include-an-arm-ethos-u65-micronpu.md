@@ -7,7 +7,7 @@ originalUrl: "https://www.hackster.io/news/nxp-s-i-mx-93-edge-machine-learning-a
 webUrl: "https://www.hackster.io/news/nxp-s-i-mx-93-edge-machine-learning-apu-is-the-first-to-include-an-arm-ethos-u65-micronpu-c320bddfc942"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "NXP i.MX 9 gets neural processor for AI at the edge"
-    excerpt: "NXP has announced the first processors of its i.MX 9, with some including its first implementation of Arm's 'Ethos-U65 microNPU' neural network processor -"
-    publishedDateTime: 2021-11-09T15:12:00Z
-    webUrl: "https://www.electronicsweekly.com/market-sectors/internet-of-things/nxp-i-mx-9-gets-neural-processor-ai-edge-2021-11/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 41
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2021/11/09143307/NXP-I.MX93-block.jpg"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "g1698u6rWsC4SHmZbK/ceVI2I8zEWtYrnEEw4ExV5dw3+nm+EpX9/4zBrWmbjJmFWa6/i078iIOxsHEb/Gv4t8WisHPwHo0C2GjHatJN6+h0q4cUj6eoCvdihLQ6le7uHeCCQQmCqPVajT/gTuRRBU1GkTeI439tFJua5EaKo6JXk+dSoc6f3V5obBAkNpUMy7lRhEZvnsPCgaGyAbGUyR2RzykuhqYfmI22xkKTil3tBPe+2Q7eQRDoajms1xeojqSO+xoGy1OKPaz55Yh52s6xk5KhqHinkh8IYuWI0yr18IHqcHnxH04lxKHWpJVDIKQWWv0gVUSjItXVHIulYJ1avvQhecFgnhF0xMHjAGf+w/3AUgfWqEcUbDvdPPd/Q32sZEcuYQnaS0kUqJyFCsVeuDo7bkv/v1sNOQw68af2XjTkFzm2Jhvqbk+LlWbstBlUbAfDPlg0pPWts0aBoBvBaLSChx1K5QwdtLU1qWuTVsYa3zAGzGO4gzpZl+HILpDYIv+h13+pHkqibKI/6A==;cATsQP+xoE9RIesw1TFGUg=="
 ---

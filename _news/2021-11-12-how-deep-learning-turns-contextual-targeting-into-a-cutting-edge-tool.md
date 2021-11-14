@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextua
 cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/11/TinyML_Bringing-Machine-Learning-to-the-Edge.png"
         width: 900
         height: 565
-        isCached: true
-  - title: "Using Machine Learning To Make Better Medical Decisions"
-    excerpt: "While artificial intelligence has become essential in advancing medical research, scientists have yet to work out all the technology’s flaws. A University of Texas at Arlington computer scientist has received a three-year,"
-    publishedDateTime: 2021-11-12T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-make-better-medical-decisions"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
-        width: 690
-        height: 400
         isCached: true
   - title: "What steps are developers taking to incorporate machine learning into mapping schools?"
     excerpt: "In 2019, the International Telecommunication Union (ITU) and UNICEF launched Project Connect, which aims to connect every school infrastructure to the internet by 2030. The primary goal of this project is to provide students with an infinite amount of information and opportunities."

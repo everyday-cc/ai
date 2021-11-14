@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-25-tusimple-taking-retail-money-may-be-too-simple.md",
+      "title": "TuSimple: Taking Retail Money May Be Too Simple",
+      "excerpt": "Driverless technology is the future of ... A wicked waste of dumb money may be chasing the industry. Artificial intelligence is progressively more central to leading investment themes – whether ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "originalUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1127822663/medium_image_1127822663.jpg",
+          "width": 768,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "publishedDateTime": "2021-10-24T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-24-researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain.md",
+      "title": "Researchers Use Artificial Intelligence Supported Neural Networks To Reason Like The Human Brain",
+      "excerpt": "A neural network, a series of algorithms that strives to recognize underlying relationships in a set of given data with",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
+      "originalUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/10/Researchers-Uses-Artificial-Intelligence-Supported-Neural-Networks.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
+      "publishedDateTime": "2021-10-24T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-24-whats-a-self-driving-car-heres-an-explanation.md",
+      "title": "What's a self-driving car? Here's an explanation",
+      "excerpt": "Understand what is, and isn't a self-driving or autonomous car with this explainer. There are no self-driving cars on sale today. Point blank. That's the cold-hard truth. Nothing fits the bill based on the SAE Scale of Autonomy's standard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/",
+      "publishedDateTime": "2021-10-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-global-robotaxi-market-size-share-analysis-report-forecast-to-2026.md",
       "title": "Global Robotaxi Market, Size, Share, Analysis Report & Forecast to 2026",
       "excerpt": "The robotaxi is a self driving taxi that takes leverage of AI, ML, Iot and other technologies for ride-hailing. The rising trend of autonomous vehicle, zero emission vehicles, and new mobility ...",
@@ -1222,135 +1361,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-germany-launches-worlds-first-self-driving-train-know-details.md",
-      "title": "Germany launches world’s first self-driving train – Know details",
-      "excerpt": "The world’s first automated, driverless train launched in Hamburg city, Germany. Know all key details. Germany rail operator Deutsche Bahn and German engineering company Siemens on October 11, 2021, launched the world’s first automated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/current-affairs/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
-      "originalUrl": "https://www.jagranjosh.com/current-affairs/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2021/October/13102021/world_first_autonomous_tram_germany_.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
-      "cdnAmpWebUrl": "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
-      "publishedDateTime": "2021-10-12T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rojgar Samachar",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-tesla-begins-roll-out-of-its-full-self-driving-beta-102-software-1000-cars-included.md",
-      "title": "Tesla Begins Roll-Out of its Full Self Driving Beta 10.2 Software, 1,000 Cars Included",
-      "excerpt": "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to “last-minute concerns\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
-      "originalUrl": "https://www.news18.com/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/1627897129_model-3-163282611016x9.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
-      "publishedDateTime": "2021-10-12T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-waymos-self-driving-taxi-struggles-with-left-turns-and-puddles-but-its-still-winning-over-some-arizona-riders.md",
-      "title": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
-      "excerpt": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtva.com/content/national/575511382.html",
-      "originalUrl": "https://www.wtva.com/content/national/575511382.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://media.heartlandtv.com/designimages/WTVA_640x380.png",
-          "width": 640,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.wtva.com/templates/AMP?contentID=575511382",
-      "cdnAmpWebUrl": "https://www-wtva-com.cdn.ampproject.org/c/www.wtva.com/templates/AMP?contentID=575511382",
-      "publishedDateTime": "2021-10-12T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVA",
-        "domain": "wtva.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
