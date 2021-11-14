@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvid
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
 type: article
 quality: 65
-heat: 105
+heat: 135
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
         width: 1024
         height: 533
         isCached: true
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+    publishedDateTime: 2021-11-10T10:01:00Z
+    webUrl: "https://www.orissapost.com/nvidia-announces-new-platform-for-creating-ai-avatars/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 39
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/11/bb56d03f30a83d4508cd267602851abe-1.jpg"
+        width: 1789
+        height: 957
+        isCached: true
   - title: "Luminar Wins Nvidia Business in Self-Driving Deal. It’s a Big Moment for the Lidar Maker."
     excerpt: "Lidar maker Luminar Technologies and tech giant Nvidia are pairing up to put self-driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate."
     publishedDateTime: 2021-11-09T17:22:00Z
@@ -81,6 +95,24 @@ related:
         width: 752
         height: 501
         isCached: true
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
+    publishedDateTime: 2021-11-10T16:16:00Z
+    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3853979&n_date=20211110&cat=Science"
+    type: article
+    provider:
+      name: Net India 123
+      domain: netindia123.com
+    quality: 19
+  - title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
+    excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"
+    publishedDateTime: 2021-11-10T20:03:00Z
+    webUrl: "https://thegoaspotlight.com/2021/11/10/nvidia-announces-omniverse-avatar-platform-for-creating-interactive-ai-avatars/"
+    type: article
+    provider:
+      name: thegoaspotlight
+      domain: thegoaspotlight.com
+    quality: 15
 
 secured: "GMwccc0p/AvBsYaRY4wsI6yVNRqYrO6GUGZBav6ABmP5NtVPAuhLv/nqrpjGu19jvHDWiB3j1iw/mavs5f6YB4WV8vT4T4iOE6GMsvnwTQyG0t+ZosYFBTPnSrHfK3SYYB4DYNHhDY/XLJNUTN0DJ4wL7hfH9bhc1PLNh+VVO/+ji+PsKwMEurmHwHrlYRSAqsLVnWbYyf3IUL2NVK6WMYA62/YZ+34P4j07B7fxjgCP48qkaKbfbVLY5eucX2PIplva79tI92UBaiXscXXIZLEFkTopW32/6H+iqoeAJiqFhpbiLeBDsNatSlZFafI0+2Lrm7dsyUUnuRw7gVDcucGuHmubgn8Wr+nwztjFuHs=;RTR+Hs/05mRPwKCtVbHJxw=="
 ---

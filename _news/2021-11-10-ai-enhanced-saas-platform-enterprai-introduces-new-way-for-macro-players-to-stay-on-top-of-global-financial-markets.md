@@ -27,22 +27,6 @@ images:
     height: 731
     isCached: true
 
-related:
-  - title: "DDN Advances Powerful Enterprise AI Breakthroughs with Its Latest AI Storage Platform"
-    excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced the latest addition to its powerful A 3 I ® solutions, the AI400X2, which delivers twice the performance of the previous generation appliance in the same footprint,"
-    publishedDateTime: 2021-11-09T14:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ddn-advances-powerful-enterprise-ai-breakthroughs-with-its-/2021/11/09/9487645.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
-        width: 283
-        height: 400
-        isCached: true
-
 secured: "exWkGVKt88375BAczd1k7Rypu7ctkGsTD/LIBe96Rcj3rCKVONMFiZeeygvA1w/RFB8pWwJljvXMoBhL5MpD1njKKwYvSTOZhYofxOHbysKIfOXOFt8CBRlUAZSdscMXLcLEEaAL/Giu67W5anLfCPuMlHNR8vWsII8hnP4kgKZ2fMuD89OQclKR30T0nUEFPtHvLQuKXnIUk0UiOO4Ql7xUWA87w7zRLx060yoa34BY75DyfcKamQhuQHfdubD2NZKWdFtw9MY7EgIR+0srcBkhaqLdSUrQWBOBlPMv5ut9Tqpg7fXnHx9qYtuoxLzpfxRmRuHKWX5k1z1eGUnsfFIwDeXzo5OuWdAu/N+1lXNyfMbm5HtKhoFl9b00fGoQ7fPOvb86dB1bdI40oJMnKnsLaIJfnczrztNjH4j0JOBn4tgWuzBwCXpGiP9h54PAYrOBkjOF4cyQFgmS+ibbxuf6LXL7Do1EbVvM4h0YtYdHUvtbh9SMA8XIU7uUGXkd2c/LtFgdpRQjJcs1aPSCIA==;Po3IuhzIRfzjApb+r3jb/Q=="
 ---
 

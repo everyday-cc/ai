@@ -23,17 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Pankhuri Awasthy Rode plays an artificial intelligence officer in 'Maddam Sir'"
-    excerpt: "Actress Pankhuri Awasthy Rode has spoken about playing an artificial intelligence officer in the show Maddam Sir. The actress, who is known for her roles in shows like Yeh Rishta Kya Kehlata Hai, is happy to portray a distinct personality this time on-screen."
-    publishedDateTime: 2021-11-09T13:11:00Z
-    webUrl: "https://www.sify.com/movies/pankhuri-awasthy-rode-plays-an-artificial-intelligence-officer-in-maddam-sir-news-bollywood-vljnltgajhihb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 13
-
 secured: "7tfgGbltojTimdnrDkJoV+2gZ8fEZKhQOD82SEfl9MdpUNv1Ry9pks0NiaqakEOWb15e9vgYeqyyLBlQ1X8DRufTuO9/5KdQeCQmHRD/vPhzTHhOjtDMsgkyKHNw4S/sKw78INH8dJibNfjScTzuKMcMLmOe0WEJAlSVrb3+mcVY6fcA/LJk6YcYaZt8ffbkIu3f0qhGpne4J3+sHWsyJjrenebfZvg0vgcKtrVBS2Z6Q76kYnGp1kUycZWVGqiU98Decp/RGfakcac2B2GzDqKHB7jdW0hGgKn6OVfAcnw+/F4yIKZC6O1JXYJMmzmn83uDPUg/nPH1ESueuazBYpsrm7ux46SZVZPk+B7V+rA=;nOh7Jy3PQLOs1/5oeyJ5AA=="
 ---
 

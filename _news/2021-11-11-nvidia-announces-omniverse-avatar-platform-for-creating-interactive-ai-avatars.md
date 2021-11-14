@@ -19,50 +19,100 @@ topics:
   - AI
 
 related:
-  - title: "BofA Finds Nvidia \"Uniquely Ready\" For AI, Robotics, Metaverse, Autos"
-    excerpt: "He believes Nvidia is \"uniquely ready\" with its combo of hardware, software, and developer ecosystem to address new technologies across AI, robotics, metaverse, and autos as well as \"any new markets that materialize."
-    publishedDateTime: 2021-11-10T13:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393"
+  - title: "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump"
+    excerpt: "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles."
+    publishedDateTime: 2021-11-10T11:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+    ampWebUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 65
+  - title: "Luminar skyrockets as much as 44% after striking deal with Nvidia for self-driving car technology"
+    excerpt: "Nvidia headquarters in Santa Clara, California Justin Sullivan/Getty Images Luminar stock shot up as much as 44% after a new self-driving car"
+    publishedDateTime: 2021-11-09T16:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11"
+    ampWebUrl: "https://www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 99
+    quality: 61
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2498.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "With the Metaverse on the way, an AI Bill of Rights is urgent"
-    excerpt: "Calls for an AI Bill of Rights grow as thought leaders continue to raise serious concerns about the technology."
-    publishedDateTime: 2021-11-13T16:40:00Z
-    webUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/"
-    ampWebUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1129396746.jpg?w=1200&strip=all"
+      - url: "https://i.insider.com/618a941723745d001825a76c?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Nvidia brings highly realistic, walking, talking AI avatars to its Omniverse design tool"
-    excerpt: "It’s launching with the enticing new Nvidia Omniverse Avatar capability, which is said to combine Nvidia’s speech AI, computer vision, natural language understanding, recommendation engine and ..."
-    publishedDateTime: 2021-11-09T14:57:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/nvidia-brings-highly-realistic-walking-talking-ai-avatars-omniverse-design-tool/"
+  - title: "GTC Keynote NVIDIA Intros NVIDIA DRIVE Concierge and DRIVE Chauffer AI"
+    excerpt: "These trends are coinciding with the rapid progress of autonomous vehicle technology, meaning more drivers on the road doesn’t have to translate ... conversational AI. Omniverse Avatar connects speech AI, computer vision, natural language understanding ..."
+    publishedDateTime: 2021-11-10T02:15:00Z
+    webUrl: "https://www.autoconnectedcar.com/2021/11/gtc-keynote-nvidia-intros-nvidia-drive-concierge-and-drive-chauffer-ai/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Omniverse-Avatar-Image.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2021/11/NVIDIADRIVEChauf-1024x533.jpg"
+        width: 1024
+        height: 533
         isCached: true
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+    publishedDateTime: 2021-11-10T10:01:00Z
+    webUrl: "https://www.orissapost.com/nvidia-announces-new-platform-for-creating-ai-avatars/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 39
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/11/bb56d03f30a83d4508cd267602851abe-1.jpg"
+        width: 1789
+        height: 957
+        isCached: true
+  - title: "Luminar Wins Nvidia Business in Self-Driving Deal. It’s a Big Moment for the Lidar Maker."
+    excerpt: "Lidar maker Luminar Technologies and tech giant Nvidia are pairing up to put self-driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate."
+    publishedDateTime: 2021-11-09T17:22:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 35
+    images:
+      - url: "https://images.barrons.com/im-356249/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia selects Luminar lidar for its Drive sensor suite"
+    excerpt: "Luminar Technologies Inc. has been selected by Nvidia Corp. to be part of the sensor suite for Nvidia’s Drive Hyperion autonomous reference platform. The move is a big one as Nvidia is one of the leading companies developing autonomous systems that are designed to be integrated into vehicles."
+    publishedDateTime: 2021-11-12T13:55:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17412/nvidia-selects-luminar-lidar-for-its-drive-sensor-suite"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/412/17412/Iris_for_Series_Production__1_.jpg"
+        width: 752
+        height: 501
+        isCached: true
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
+    publishedDateTime: 2021-11-10T16:16:00Z
+    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3853979&n_date=20211110&cat=Science"
+    type: article
+    provider:
+      name: Net India 123
+      domain: netindia123.com
+    quality: 19
 
 secured: "VoRIj9kQC5IMzSKYtf5F5LLo4H89pXBDF5GWkunWvNCuPqoFkjlsYV1HKq6KPL9vhotL5G2YS1a0BgRW+03zm4FDgcBcfsrBXKJt7QzbXxnuhargd9jqI61byZp/02tyYaT+bnQQ6+M3J0Blig6wBtK2VW/2Uz0N9ClnjoW4o/4uZik9hScAxI2X6s/DG/Q61KSqQX7gCLhWOA9g5ma0NowzEUJM6MY9dDxZ8kUJyGUPsYsoXsEq+avCviW6LxRDH4LWny5X93dm4e10CNkqKcq+5Abnp0axRTfuT0Op77JmkkjLs4wiQfEqRYeDleNAi0VnADkgkl8kguDAUBpxx4LnWfDJPi6KMBJJi45P4W4ivnlKfhux6v7E3IBLo9e5Mc7HhjnAr8lLpNVDmYoY1SOrOBiUfleUpLftHgkcXDRIdbuLfH09adni2QQ3LdRValazPdK8+qAPadxP+FwpQrOIYeeMPKNSfwuxVVIJ4M/+Z5un72R6hbNMslVK1/yrm7W5NB9qH9puw78h+xxTvA==;OqjbDowvwiGjivY7Jar5MA=="
 ---

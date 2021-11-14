@@ -19,37 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia and Lockheed Martin plan to fight forest fires with AI. Here's how"
-    excerpt: "The companies have teamed up with state and federal firefighting services and are creating a dedicated lab to predict the path of fires to help stop them in their tracks."
-    publishedDateTime: 2021-11-09T14:35:00Z
-    webUrl: "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
+  - title: "Nvidia GTC Fall 2021: 8 Big Announcements For AI, Security And More"
+    excerpt: "A roundup of eight big announcements at Nvidia’s fall GTC 2021 conference that cover areas like AI, security, networking, 3-D design and more."
+    publishedDateTime: 2021-11-11T22:54:00Z
+    webUrl: "https://www.crn.com/slide-shows/components-peripherals/nvidia-gtc-fall-2021-8-big-announcements-for-ai-security-and-more"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
+      name: CRN
+      domain: crn.com
+    quality: 56
     images:
-      - url: "https://www.cnet.com/a/img/G6G2x6gQsRtkGqciyOhYYdHfo7I=/1200x630/2021/11/09/7a97c262-f936-4251-9ddf-195eb78471f4/gettyimages-1234819592.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "NVIDIA announces platform for creating AI avatars"
-    excerpt: "NVIDIA Omniverse Avatar Enables Real-Time Conversational AI Assistants. NVIDIA announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
-    publishedDateTime: 2021-11-11T12:37:00Z
-    webUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/"
-    ampWebUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
-        width: 800
-        height: 420
+      - url: "https://www.crn.com/resources/026f-13b321c1b659-57c5206111f9-1000/slide1.jpg"
+        width: 610
+        height: 344
         isCached: true
   - title: "Nvidia Turns Its Focus to AI Inference"
     excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
@@ -65,43 +47,15 @@ related:
         width: 900
         height: 371
         isCached: true
-  - title: "Nvidia announces new platform for creating AI Avatars"
-    excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
-    publishedDateTime: 2021-11-10T10:01:00Z
-    webUrl: "https://www.orissapost.com/nvidia-announces-new-platform-for-creating-ai-avatars/"
+  - title: "NVIDIA GTC: Networking, Healthcare AI, Modeling and Simulation﻿"
+    excerpt: "Jensen Huang’s kitchen—the site of the past several NVIDIA GTC Keynotes—deconstructed itself today in a slick simulated introduction as Huang, NVIDIA’s CEO, delivered his keynote highlighting the latest in AI and accelerated computing at NVIDIA."
+    publishedDateTime: 2021-11-09T22:50:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/11/09/nvidia-gtc-networking-healthcare-ai-modeling-and-simulation"
     type: article
     provider:
-      name: orissapost.com
-      domain: orissapost.com
-    quality: 39
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2021/11/bb56d03f30a83d4508cd267602851abe-1.jpg"
-        width: 1789
-        height: 957
-        isCached: true
-  - title: "NVIDIA Announces Platform for Creating AI Avatars"
-    excerpt: "PTI takes no editorial responsibility for the same.) Bangalore, Karnataka, India– Business Wire India NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars."
-    publishedDateTime: 2021-11-10T09:44:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2021/11/10/pwr10-nvidia.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 39
-    images:
-      - url: "https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg"
-        width: 540
-        height: 315
-        isCached: true
-  - title: "Nvidia announces new platform for creating AI Avatars"
-    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
-    publishedDateTime: 2021-11-10T16:16:00Z
-    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3853979&n_date=20211110&cat=Science"
-    type: article
-    provider:
-      name: Net India 123
-      domain: netindia123.com
-    quality: 19
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 38
 
 secured: "6svrcwyE3e53hJBoh3U/JGHCZpltCBDLg0oBVMJ9HtyAxLegV/QzFaJZiQ5wwTxpfa7cFNR8dLMtr3ps8N/O14Pl+zncUlHkT8rvSqvNpu2OEUpYWiqozzISv/2WH70zCebwg1cMYZ0mbosZ0nqRAAL6cyHwUmiPzzhzenMejPDxmQje3+lMC4qhjfLIaLxmuTr/gxoW5f5k6FtjlZB1CHETdovEuvQM9KUlLJmxaV51KBEBn1as5TL8Zvp/KusYF6urYZ3oNzueo3ocwVzg9SVAreiFo3HsmOkrUoHTxZc3UJMFdd0EvbQoazcpfTUO+Lq1YBHQFI4VqnK1xFpggx/GcHih3mRgHp3ZdyzoD0s=;0MNof8XpdGovBNTZWn7ZPg=="
 ---

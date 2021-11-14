@@ -25,75 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia and Lockheed Martin plan to fight forest fires with AI. Here's how"
-    excerpt: "The companies have teamed up with state and federal firefighting services and are creating a dedicated lab to predict the path of fires to help stop them in their tracks."
-    publishedDateTime: 2021-11-09T14:35:00Z
-    webUrl: "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
+  - title: "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump"
+    excerpt: "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles."
+    publishedDateTime: 2021-11-10T11:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+    ampWebUrl: "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 65
+  - title: "Luminar skyrockets as much as 44% after striking deal with Nvidia for self-driving car technology"
+    excerpt: "Nvidia headquarters in Santa Clara, California Justin Sullivan/Getty Images Luminar stock shot up as much as 44% after a new self-driving car"
+    publishedDateTime: 2021-11-09T16:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11"
+    ampWebUrl: "https://www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/luminar-stock-price-nvidia-lidar-autonomous-vehicles-metaverse-ai-technology-2021-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
     images:
-      - url: "https://www.cnet.com/a/img/G6G2x6gQsRtkGqciyOhYYdHfo7I=/1200x630/2021/11/09/7a97c262-f936-4251-9ddf-195eb78471f4/gettyimages-1234819592.jpg"
+      - url: "https://i.insider.com/618a941723745d001825a76c?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "NVIDIA announces platform for creating AI avatars"
-    excerpt: "NVIDIA Omniverse Avatar Enables Real-Time Conversational AI Assistants. NVIDIA announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
-    publishedDateTime: 2021-11-11T12:37:00Z
-    webUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/"
-    ampWebUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
+  - title: "GTC Keynote NVIDIA Intros NVIDIA DRIVE Concierge and DRIVE Chauffer AI"
+    excerpt: "These trends are coinciding with the rapid progress of autonomous vehicle technology, meaning more drivers on the road doesn’t have to translate ... conversational AI. Omniverse Avatar connects speech AI, computer vision, natural language understanding ..."
+    publishedDateTime: 2021-11-10T02:15:00Z
+    webUrl: "https://www.autoconnectedcar.com/2021/11/gtc-keynote-nvidia-intros-nvidia-drive-concierge-and-drive-chauffer-ai/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "Nvidia Turns Its Focus to AI Inference"
-    excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
-    publishedDateTime: 2021-11-13T00:53:00Z
-    webUrl: "https://www.internetnews.com/enterprise/nvidia-turns-its-focus-to-ai-inference/"
-    type: article
-    provider:
-      name: Internetnews
-      domain: internetnews.com
-    quality: 43
-    images:
-      - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
-        width: 900
-        height: 371
-        isCached: true
-  - title: "NVIDIA Announces Platform for Creating AI Avatars"
-    excerpt: "PTI takes no editorial responsibility for the same.) Bangalore, Karnataka, India– Business Wire India NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars."
-    publishedDateTime: 2021-11-10T09:44:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2021/11/10/pwr10-nvidia.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
     quality: 39
     images:
-      - url: "https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg"
-        width: 540
-        height: 315
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2021/11/NVIDIADRIVEChauf-1024x533.jpg"
+        width: 1024
+        height: 533
         isCached: true
-  - title: "Video: Nvidia debuts automated parking and AI assistant for future cars"
-    excerpt: "At Nvidia GTC 2021, Nvidia Corp. debuted several new processes for automated driving including intelligent parking and an artificial intelligence (AI) assistant to help with the daily drive grind. The company introduced the Drive Concierge and Drive Chauffeur AI platforms."
-    publishedDateTime: 2021-11-10T13:40:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17397/video-nvidia-debuts-automated-parking-and-ai-assistant-for-future-cars"
+  - title: "Luminar Wins Nvidia Business in Self-Driving Deal. It’s a Big Moment for the Lidar Maker."
+    excerpt: "Lidar maker Luminar Technologies and tech giant Nvidia are pairing up to put self-driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate."
+    publishedDateTime: 2021-11-09T17:22:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-luminar-news-self-driving-deal-51636418195"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 35
+    images:
+      - url: "https://images.barrons.com/im-356249/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia selects Luminar lidar for its Drive sensor suite"
+    excerpt: "Luminar Technologies Inc. has been selected by Nvidia Corp. to be part of the sensor suite for Nvidia’s Drive Hyperion autonomous reference platform. The move is a big one as Nvidia is one of the leading companies developing autonomous systems that are designed to be integrated into vehicles."
+    publishedDateTime: 2021-11-12T13:55:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17412/nvidia-selects-luminar-lidar-for-its-drive-sensor-suite"
     type: article
     provider:
       name: Engineering360 News
       domain: globalspec.com
-    quality: 19
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/412/17412/Iris_for_Series_Production__1_.jpg"
+        width: 752
+        height: 501
+        isCached: true
   - title: "Nvidia announces new platform for creating AI Avatars"
     excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
     publishedDateTime: 2021-11-10T16:16:00Z
@@ -103,6 +105,15 @@ related:
       name: Net India 123
       domain: netindia123.com
     quality: 19
+  - title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
+    excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"
+    publishedDateTime: 2021-11-10T20:03:00Z
+    webUrl: "https://thegoaspotlight.com/2021/11/10/nvidia-announces-omniverse-avatar-platform-for-creating-interactive-ai-avatars/"
+    type: article
+    provider:
+      name: thegoaspotlight
+      domain: thegoaspotlight.com
+    quality: 15
 
 secured: "eua3wQ9dSfNu2v7PuTvRzeecT6RVdVgRekcO57NBMfWmyXCYlaHl2s7dtZDMrG5Uuq8OM8yShyhU58PFxdkHY1bsO9G7tUm6NnUz2b/RE9i1d5LF7b5oxJ1jXr5ZFFPj3PqVAhel+gZ0Q5+9aSmVM6QVSJOXz8ynOwDk9y2wb8jMMbu8MMmhuy8OHMUO2zsqJnMSYzk3iekomYtNCTCbUoHuukcRJ22O3zYKYc3hiNJTMkD+9/Ip4a59AwHzWwc8wQZVX70A/s4mY1e9yTvIG5iXDtYIVioscU4rECirthCSF1CFPozfnGt8NByF02s1obq9u66f/0SFHSAj8HplTnUWPixOPaR3G72JEuDjUI8=;cUpwVxlFJHWm4WaVyBsHNg=="
 ---

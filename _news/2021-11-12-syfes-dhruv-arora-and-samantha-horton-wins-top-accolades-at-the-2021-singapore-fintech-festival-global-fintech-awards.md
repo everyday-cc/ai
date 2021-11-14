@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 943
         isCached: true
-  - title: "TruEra and Demyst Win “Codifying Responsible AI” Competition at Singapore Fintech Festival 2021"
-    excerpt: "TruEra , a provider of purpose-built Artificial Intelligence (AI) Quality solutions, today announced that, along with its data partner Demyst , it has emerged as one of the three winners of the Global Veritas Challenge 2021 at the Singapore Fintech Festival,"
-    publishedDateTime: 2021-11-09T14:45:00Z
-    webUrl: "https://menafn.com/1103130130/TruEra-and-Demyst-Win-Codifying-Responsible-AI-Competition-at-Singapore-Fintech-Festival-2021"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?539080"
-        width: 376
-        height: 250
-        isCached: true
 
 secured: "+hE3P/M2YHj7tb4AbVJI4Ojg7V2vd41UCfgdYLpDLlJXJAUfeTeE7irwmq4ZO0BADmTM0OgqcvyXiCz23Y/+1/KOG5ntWtCMhrByO33ygH8f1fuw0F2EeDqbC74tpqHSWo5vDJdRMaFI3sOvS88oeS8WkOTRT8k5Eszyl3cXGmBNIQ9r/+dWYoFzrFUvcfz2SxHVnRBlRbZqc9K2EboHq4Np8/u0Qwc+5ewiPHossWuaIkN9g6Lvcs4yKezYmSGZ00oM1rlF5P0GN9qGwrG/BWYPfDOiTw8CBC1TWksSf0RJCJRjbl2Anp8Ey+bejn4fAiCCL2fXtS2OGxGCDf+DhMAQMgxBVlu8YBjB/gDyFwU=;WUnHepON8e7+ZGZAU4KKww=="
 ---

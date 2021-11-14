@@ -1,50 +1,36 @@
 ---
 category: news
-title: "AI bots to user data: Is there space for rights in the metaverse?"
-excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory."
-publishedDateTime: 2021-11-12T18:28:00Z
-originalUrl: "https://www.reuters.com/legal/transactional/ai-bots-user-data-is-there-space-rights-metaverse-2021-11-12/"
-webUrl: "https://www.reuters.com/legal/transactional/ai-bots-user-data-is-there-space-rights-metaverse-2021-11-12/"
+title: "Unity moves robotics design and training to the metaverse"
+excerpt: "Unity launched Unity Simulation Pro and Unity SystemGraph to improve robotics modeling, testing, and training complex systems through AI."
+publishedDateTime: 2021-11-14T05:05:00Z
+originalUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/"
+webUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/"
+ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 119
+heat: 239
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Facebook AI
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/Fw9oRebOE-1ALKb9_9bR3zByww8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5C3CTFP6H5LIBIKA3LUVT3DZCQ.jpg"
+  - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1634835504844.jpg?w=1200&strip=all"
     width: 1200
-    height: 628
+    height: 600
     isCached: true
 
 related:
-  - title: "Unity moves robotics design and training to the metaverse"
-    excerpt: "Unity launched Unity Simulation Pro and Unity SystemGraph to improve robotics modeling, testing, and training complex systems through AI."
-    publishedDateTime: 2021-11-14T05:05:00Z
-    webUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/"
-    ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1634835504844.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "BofA Finds Nvidia \"Uniquely Ready\" For AI, Robotics, Metaverse, Autos"
     excerpt: "He believes Nvidia is \"uniquely ready\" with its combo of hardware, software, and developer ecosystem to address new technologies across AI, robotics, metaverse, and autos as well as \"any new markets that materialize."
     publishedDateTime: 2021-11-10T13:41:00Z
@@ -90,6 +76,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618d3c8ceb86a5dd23bd96b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3542%26cropY1%3D179%26cropY2%3D2172"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory."
+    publishedDateTime: 2021-11-12T18:28:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/ai-bots-user-data-is-there-space-rights-metaverse-2021-11-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/Fw9oRebOE-1ALKb9_9bR3zByww8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5C3CTFP6H5LIBIKA3LUVT3DZCQ.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "WAYZ.AI CEO Dr. Tao: Spatio-Temporal AI Energizes Digital Twin and Metaverse"
     excerpt: "As the first Keynote of the conference, Former Director of Microsoft Virtual Earth, Founder and CEO of WAYZ.AI, Dr. Vincent Tao, presented the WAYZ.AI innovation on Spatio-Temporal AI (ST-AI) technology and its applications to Digital Twin and Metaverse."
@@ -201,6 +201,6 @@ related:
         height: 267
         isCached: true
 
-secured: "qFNqjUBwkBiBNN/VDhzutZ9e9Ydp9ZD2J+a7D1YHK7M2ALFGI+Dp3+AcdOTHMa5cpdSLNB/FbtVhIXAwuj0N06Y0/ufCbDgFIJKOow6nodsSP9iaCWeL4SngdbSUDi1rZ+iifVSWdy1RE/6ajEDGBX9LvrakaCOqZBx/VozgTlB6NuYcEGfByHoIcV4nlRTFsyOATNOd/9EU3CokqONcdI0v3J2/V4NWRcf8auAsJWbgP8qtKd2WzZfeX+mqBi8FTuQOwA5DqXDjCYOU0qiBol13LO8ez/zFQ+A3/5XHNv+rXJjsw6NikLG77Sts614HWXf1sLwpMDyzC2lW/majuOF8XBQwtVHBOVOhyEkIzedH0GeuET02kHTqG4l0D6hTvCJiMBuFqcZby8deY0jyifITfdNcBV7vncn6I+4pJz7EDgXzpyBOqSTtOds5ve816/Rgq3hJnIumCYac6n4YzSo8eWM7BX6z+iALT68Sk7p/H/XaAFJ8OWd+v1Xch9ksqouWZw7HJarRLZ7UkxKyxQ==;cPO8jq5TZTvHbLc38HTGkA=="
+secured: "TR4D16UQdDeRAxHSsDPYxpmxf35D06bh/6NptOoak+xYyHi1PFYKAGCZ7TopFZ5+FQuuMmpnFZUpTqSJkD7Mjzn7qCVD4mO2szPaKypyXNdOapYrzPx6D5Yn4jU5QLSHjzd8pxJM0eUL+hEimencxkrq3179ok6+8nsFsqAHya0VgT/eblIgFV9DjPoCNoPgQvv4NO3VbAu+RlIQC0QGi+sKLEH5yuPJC6sSAZ0exl6gmXkZDG3qhhJONM8JrcE0xIf5gPZW7+9aEe/dXPiI6feIDCMW354eQQM2Nx8ty/DTKTZBc+oYGxdltp53i70fZ6kqMi0UT07zlsJvcSGuLUPEdHaU5BVEzpO0ls6eyCI=;o1bZechfG2Igk7nnZ9kgcA=="
 ---
 

@@ -27,49 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia and Lockheed Martin plan to fight forest fires with AI. Here's how"
-    excerpt: "The companies have teamed up with state and federal firefighting services and are creating a dedicated lab to predict the path of fires to help stop them in their tracks."
-    publishedDateTime: 2021-11-09T14:35:00Z
-    webUrl: "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/"
+  - title: "Data Society launches AI-driven meldR platform for data science training"
+    excerpt: "Data Society has announced the launch of meldR, a social learning platform that allows L&D teams to deliver AI-generated data science learning courses."
+    publishedDateTime: 2021-11-10T15:40:00Z
+    webUrl: "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/"
+    ampWebUrl: "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 86
     images:
-      - url: "https://www.cnet.com/a/img/G6G2x6gQsRtkGqciyOhYYdHfo7I=/1200x630/2021/11/09/7a97c262-f936-4251-9ddf-195eb78471f4/gettyimages-1234819592.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Nvidia Turns Its Focus to AI Inference"
-    excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
-    publishedDateTime: 2021-11-13T00:53:00Z
-    webUrl: "https://www.internetnews.com/enterprise/nvidia-turns-its-focus-to-ai-inference/"
-    type: article
-    provider:
-      name: Internetnews
-      domain: internetnews.com
-    quality: 43
-    images:
-      - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
-        width: 900
-        height: 371
-        isCached: true
-  - title: "Nvidia announces new platform for creating AI Avatars"
-    excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
-    publishedDateTime: 2021-11-10T10:01:00Z
-    webUrl: "https://www.orissapost.com/nvidia-announces-new-platform-for-creating-ai-avatars/"
-    type: article
-    provider:
-      name: orissapost.com
-      domain: orissapost.com
-    quality: 39
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2021/11/bb56d03f30a83d4508cd267602851abe-1.jpg"
-        width: 1789
-        height: 957
+        height: 800
         isCached: true
   - title: "NVIDIA Announces Platform for Creating AI Avatars"
     excerpt: "PTI takes no editorial responsibility for the same.) Bangalore, Karnataka, India– Business Wire India NVIDIA today announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars."
@@ -85,24 +57,6 @@ related:
         width: 540
         height: 315
         isCached: true
-  - title: "Video: Nvidia debuts automated parking and AI assistant for future cars"
-    excerpt: "At Nvidia GTC 2021, Nvidia Corp. debuted several new processes for automated driving including intelligent parking and an artificial intelligence (AI) assistant to help with the daily drive grind. The company introduced the Drive Concierge and Drive Chauffeur AI platforms."
-    publishedDateTime: 2021-11-10T13:40:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17397/video-nvidia-debuts-automated-parking-and-ai-assistant-for-future-cars"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
-  - title: "Nvidia announces new platform for creating AI Avatars"
-    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
-    publishedDateTime: 2021-11-10T16:16:00Z
-    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3853979&n_date=20211110&cat=Science"
-    type: article
-    provider:
-      name: Net India 123
-      domain: netindia123.com
-    quality: 19
 
 secured: "goXlYfgFiNel148robCK+R450jMAiKBjDZMDDlyLmvHcKgXCjGqPuV652Ond51e4TgQXoxaJDpYeRomCPbk7Zpr4/EVr1Fq46OH/62V9LI6XvVq2SoGGkjd966c1TDeWzbpZxcuZlZlQYG7fogRDNVQh/Kc8yBgfcDkflOh0erw/ciD0dAGpC49+MhT8buBRL+UKUYvy3+1J/S6/Ow142oDaxEsjTPU9c8HZxbTRl2Rimajk1bJ4dX+MDN2yil2H34rqh1II3xkPDShoP5W53ioPe9mR3SRjvXGcEhlFo49rEykJd2pLEmBSxdFULBf4DHz1xCgvB2NUp5TBMIJ3n7w1rU2ObAipGYY4IHdRqvd9KYYQljOc067DrxJOBzWoreiwB9zNPgUGWsYsMkSyuGznx93zO6hHXgLEbXpkak6OupVHsdbnMn6a11MWowGWNOQfxiYY/t2N46X9qEgq5BnCxNzN17DcMKZ0gO5On5PxQhRv/mpNcuwCYPdiuIa9yfMsIQu7SffYLzGnd8AfsA==;X/GICscgNZptzgKCEIlE1Q=="
 ---

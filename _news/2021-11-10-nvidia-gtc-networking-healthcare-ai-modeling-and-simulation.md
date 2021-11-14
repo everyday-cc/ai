@@ -35,6 +35,29 @@ related:
         width: 610
         height: 344
         isCached: true
+  - title: "Nvidia Turns Its Focus to AI Inference"
+    excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
+    publishedDateTime: 2021-11-13T00:53:00Z
+    webUrl: "https://www.internetnews.com/enterprise/nvidia-turns-its-focus-to-ai-inference/"
+    type: article
+    provider:
+      name: Internetnews
+      domain: internetnews.com
+    quality: 43
+    images:
+      - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
+        width: 900
+        height: 371
+        isCached: true
+  - title: "Video: Nvidia debuts automated parking and AI assistant for future cars"
+    excerpt: "At Nvidia GTC 2021, Nvidia Corp. debuted several new processes for automated driving including intelligent parking and an artificial intelligence (AI) assistant to help with the daily drive grind. The company introduced the Drive Concierge and Drive Chauffeur AI platforms."
+    publishedDateTime: 2021-11-10T13:40:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17397/video-nvidia-debuts-automated-parking-and-ai-assistant-for-future-cars"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "P8GHO59Aung+a4rKhroTKRDhAo6wM/JuTGaHQSXqZNrJSMpUKy9z5BWTwyr8dw3dv/6lbYQuDM/DCEIDJU7C0y+u+VnFUQpCojQ/AJIK+znOa+kWf7jtYftwwm0/nPNLsNkNPBqG8tFTpaBNLZhrqiPRL9cYmRCJ9H0MxdjHW0i198mXOZYKV/Ya5ieknzKVgpkxBoGjscZ0zp5yl0HmMgKBUTu1Ne04fYhauDKTuq1EsHPHvD87iBnoMBbcn2S9YDi0TAMNNePWhxQnof3Syn+AtVrIAqrRixrEDZXXdJJ6R5GivyEEwNuUTKC0VQUp8WyCDFdGO7erQxApwvQdU+/BZD1Tj7zx6+zwmqiKyic=;p1uST7vgC2Z+x0ifq4gSyg=="
 ---

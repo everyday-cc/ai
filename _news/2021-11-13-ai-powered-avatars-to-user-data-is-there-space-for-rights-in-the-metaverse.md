@@ -27,21 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Inworld AI joins metaverse innovation with AI-driven virtual characters"
-    excerpt: "Inworld AI announces plans to populate the metaverse with AI-driven virtual characters, and raises $7 million."
-    publishedDateTime: 2021-11-09T22:34:00Z
-    webUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/"
-    ampWebUrl: "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/"
+  - title: "Unity moves robotics design and training to the metaverse"
+    excerpt: "Unity launched Unity Simulation Pro and Unity SystemGraph to improve robotics modeling, testing, and training complex systems through AI."
+    publishedDateTime: 2021-11-14T05:05:00Z
+    webUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/"
+    ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 119
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/9xonhbI.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1634835504844.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "BofA Finds Nvidia \"Uniquely Ready\" For AI, Robotics, Metaverse, Autos"
+    excerpt: "He believes Nvidia is \"uniquely ready\" with its combo of hardware, software, and developer ecosystem to address new technologies across AI, robotics, metaverse, and autos as well as \"any new markets that materialize."
+    publishedDateTime: 2021-11-10T13:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2498.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "With the Metaverse on the way, an AI Bill of Rights is urgent"
+    excerpt: "Calls for an AI Bill of Rights grow as thought leaders continue to raise serious concerns about the technology."
+    publishedDateTime: 2021-11-13T16:40:00Z
+    webUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/"
+    ampWebUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1129396746.jpg?w=1200&strip=all"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Why Facebook’s Metaverse Is A Privacy Nightmare"
+    excerpt: "A metaverse largely run by Facebook—sorry, Meta —doesn’t sound like fun to me. With Facebook’s ambitions to create hardware and other technology for the so-called metaverse, it means more sensors in people’s homes,"
+    publishedDateTime: 2021-11-13T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/"
+    ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618d3c8ceb86a5dd23bd96b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3542%26cropY1%3D179%26cropY2%3D2172"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI bots to user data: Is there space for rights in the metaverse?"
     excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory."
@@ -85,34 +131,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Artificial intelligence faces the real world"
-    excerpt: "Nation states and big tech firms the size of states are in an artificial intelligence land-grab. What does it mean for the future of the industry?"
-    publishedDateTime: 2021-11-12T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-issue-welcome-introduction-editors-letter/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 37
-    images:
-      - url: "https://eandt.theiet.org/media/17078/et_ai-chips_graphcore_3-hero-image.jpg?crop=0,0.42875,0,0.079062499999999938&cropmode=percentage&width=1200&height=450&rnd=132807962760000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "UAE-Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
-    excerpt: "C3 AI (NYSE:AI) and Shell (NYSE:RDS) today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
-    publishedDateTime: 2021-11-10T09:43:00Z
-    webUrl: "https://menafn.com/1103139250/UAE-Shell-Offers-New-AI-Powered-Applications-Through-Open-AI-Energy-Initiative"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?660333"
-        width: 443
-        height: 250
-        isCached: true
   - title: "The Glimpse Group and D-ID Partner to Bring Life to the Metaverse with AI, VR & AR"
     excerpt: "Harnessing AI-powered synthetic media with the visual power of Augmented & Virtual Reality to enhance viewing and interaction in the Metaverse NEW YORK, NY / ACCESSWIRE / November 10, 2021 / The Glimpse Group,"
     publishedDateTime: 2021-11-10T13:31:00Z
@@ -127,6 +145,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
+    excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"
+    publishedDateTime: 2021-11-12T14:57:00Z
+    webUrl: "https://www.lawfareblog.com/facebook-joins-race-metaverse-chinese-tech-companies-face-hurdles"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 19
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/51643294031_c2fa4424b7_k.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "FEATURE-AI bots to user data: Is there space for rights in the metaverse?"
     excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook's recent announcement that it is investing heavily in the so-called metaverse - a virtual environment where people can meet,"
     publishedDateTime: 2021-11-12T15:35:00Z
@@ -136,6 +168,34 @@ related:
       name: Thomson Reuters Foundation
       domain: trust.org
     quality: 18
+  - title: "The Metaverse Is Big Brother in Disguise: Freedom Meted Out by Technological Tyrants"
+    excerpt: "The term metaverse, like the term meritocracy, was coined in a sci fi dystopia novel written as cautionary tale. Then techies took metaverse, and technocrats took meritocracy, and enthusiastically adopted what was meant to inspire horror."
+    publishedDateTime: 2021-11-10T04:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/metaverse-big-brother-disguise-freedom-meted-out-john-whitehead"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 17
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGln4MVAQHacw/article-cover_image-shrink_600_2000/0/1636496306163?e=1642032000&v=beta&t=8VjY5jZILkMGeMg8nkLXjHvBKj6dKFunXdznhADsF3s"
+        width: 1200
+        height: 552
+        isCached: true
+  - title: "The metaverse is Big Brother in disguise: Freedom meted out by technological tyrants"
+    excerpt: "Welcome to the Matrix (i.e. the metaverse), where reality is virtual, freedom is only as free as one’s technological overlords allow."
+    publishedDateTime: 2021-11-12T04:05:00Z
+    webUrl: "https://augustafreepress.com/the-metaverse-is-big-brother-in-disguise-freedom-meted-out-by-technological-tyrants/"
+    type: article
+    provider:
+      name: Augusta Free Press
+      domain: augustafreepress.com
+    quality: 17
+    images:
+      - url: "https://augustafreepress.com/wp-content/uploads/2021/10/smart-home-technology-phone.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "59iqv+y+1RvnV04acFxBNER/NG1F9BcWwT8Q9tmUMJOe9uFY3UCheCHY2/KnOONWeOJgPkAlHaDatGdYtd8hscCfrWWcKXeaDuA5DDNDMhOknTDTT6uPFlKBut4TJ/yhJO9n1CwGB4/tJFkRfCBWC4wy5bvcuZZtzv2QHstzKdnD3vPmfTkqi6atGS1V5ARd2PPI55BmWQIiuewytjZRGYQpdDy4wzcra40NnS4EKwNT3TXLw0etWQ3UZk0H8anU2uouv8/m6jsUq7Q4aLnJAH7GwQa07HdTwm4ZwTC6HcyjGgqhTj+zGliBGMKcX+52A1w6SjeyAtDzjOJUE3anHwNTlAr2y37HGwD9Wm/Ex73JH8Svzo2CR7j4KDlUt9Xz8V+bDa07kiQdaptagOwSFdj/dGVHhfLpWWqFiZdBie6fU6HIu2IMjujFBn8gLECNfqs83Dm+sd4gYamh/YZLUiuA54pTMBsur5aZ1Zv+dwVwg4PoCPMEPK0LjJXrD+fmZTh/eMEnx/cg6reJqj+B7A==;OFFV5543ME6SIBDH2bqzJA=="
 ---

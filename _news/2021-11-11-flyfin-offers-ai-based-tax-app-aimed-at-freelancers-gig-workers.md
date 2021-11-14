@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -34,20 +34,6 @@ images:
     isCached: true
 
 related:
-  - title: "Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
-    excerpt: "C3 AI and Shell today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
-    publishedDateTime: 2021-11-09T14:19:00Z
-    webUrl: "https://www.lelezard.com/en/news-20092621.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
     excerpt: "C3 AI (NYSE:AI) and Shell (NYSE:RDS) today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
     publishedDateTime: 2021-11-10T06:58:00Z

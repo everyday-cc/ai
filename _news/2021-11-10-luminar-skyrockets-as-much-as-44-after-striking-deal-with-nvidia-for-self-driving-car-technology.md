@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 533
         isCached: true
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
+    publishedDateTime: 2021-11-10T10:01:00Z
+    webUrl: "https://www.orissapost.com/nvidia-announces-new-platform-for-creating-ai-avatars/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 39
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/11/bb56d03f30a83d4508cd267602851abe-1.jpg"
+        width: 1789
+        height: 957
+        isCached: true
   - title: "Luminar Wins Nvidia Business in Self-Driving Deal. It’s a Big Moment for the Lidar Maker."
     excerpt: "Lidar maker Luminar Technologies and tech giant Nvidia are pairing up to put self-driving hardware into cars. It’s a huge deal for Luminar and shows investors the development of autonomous driving technology is going to accelerate."
     publishedDateTime: 2021-11-09T17:22:00Z
@@ -86,6 +100,24 @@ related:
         width: 752
         height: 501
         isCached: true
+  - title: "Nvidia announces new platform for creating AI Avatars"
+    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
+    publishedDateTime: 2021-11-10T16:16:00Z
+    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3853979&n_date=20211110&cat=Science"
+    type: article
+    provider:
+      name: Net India 123
+      domain: netindia123.com
+    quality: 19
+  - title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
+    excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"
+    publishedDateTime: 2021-11-10T20:03:00Z
+    webUrl: "https://thegoaspotlight.com/2021/11/10/nvidia-announces-omniverse-avatar-platform-for-creating-interactive-ai-avatars/"
+    type: article
+    provider:
+      name: thegoaspotlight
+      domain: thegoaspotlight.com
+    quality: 15
 
 secured: "PgaPwe7CkxIjmNuxT5nXJNge41j/Pxxyf6/lhHA/gE18P8pDuat8UqpvhlIbzwai2xhMaeNIMFul8Yb47pVxRbTEsBQAGzeH+JtdS2CPWM4fFsjSecOu84JiTGqC/XUPqyzh77lAblWGif/LzunzeTWnpzg8lCOXdAtupUw0whvQ0suzHBJzRn5/0dBh9fE5aJ4pJfqQZvbWGt8gzeQY8soBKd75Uvl7BVIcBj7G5Jjn3jJj2NxmVidjxQF+d3oZBwQf6k1cf1EXCUV/NFppXm74iEdtXtrYXY351nznRUpsCIoB659ro7QfD2hvKf06FsnubCJscmtfXCxEM+z5TYbyDN5MYcUGebBA8+cG/d94Lq1lg3s+Rq9qHJlVwd0WvDH8tEq9RizXoKM9LrF/94QWAayYlb9LF8jJg8OvaaGUMCzi3eb05KWkb7ebCBVQW/TwCF7oHKhUetkc9r70Jqvgw62NaMBqTRTXz6jYJCkYzqGV/b3OnMUXFy0iGuvtX5K4dlMoEeUcdky/x1MJKw==;smHKfmtvUZZf01aXxbzflw=="
 ---

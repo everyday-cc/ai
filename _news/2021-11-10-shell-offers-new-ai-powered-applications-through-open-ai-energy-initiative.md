@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 850
         isCached: true
-  - title: "Shell Offers New AI-Powered Applications Through Open AI Energy Initiative"
-    excerpt: "C3 AI and Shell today announced three new Shell products that will be available through the Open AI Initiative (OAI), an open ecosystem of artificial intelligence (AI)-based solutions for the energy and process industries."
-    publishedDateTime: 2021-11-09T14:19:00Z
-    webUrl: "https://www.lelezard.com/en/news-20092621.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "qvSkrgsK8EWO7sbie1fxCWnYTlH26Ertl78DC8yOubZJhoP/BrAseJUZ6oYwzBx80eFXiUjEYDLRFM6W5UpzmDxOlifzTBQYSCeICCM4ExCISDgMy1hXRMP5FPKLf/gYew73G0Lt94mpBG8E/aUVwovYHqdMHnGbbIPNQwEuiXTH8C8OlcCSuXIUiR10YWFMAP4Onbp7LFrmVuQY5Yy7vxz0HBU8KRjRWf4v08EFJqQ5epud80STU/1zx378szRhK0nLsfEzODrgKAF/FobSyqYc477PHsUg/ko1AmCtasQjkVCPN/6eSuP29gbsrn7fY2tymeZOYnK7NWoAJBymJtgzfbKzPIHbQw2oc23Zc1g=;9FtlN1gnA7WvczpBPS1kaQ=="
 ---

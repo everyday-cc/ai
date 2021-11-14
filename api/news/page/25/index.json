@@ -260,6 +260,59 @@
       ]
     },
     {
+      "path": "_news/2021-10-25-machine-learning-tackling-the-big-in-big-data.md",
+      "title": "Machine learning: Tackling the ‘big’ in Big Data",
+      "excerpt": "“These sort of cognitive services lower the cost and complexity ... or that can afford to hire a team of data scientists, according to Microsoft’s Olson. But with data becoming a competitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/machine-learning-tackling-big-big-data/",
+      "originalUrl": "https://sdtimes.com/ai/machine-learning-tackling-big-big-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2016/10/machineLearn.jpg",
+          "width": 490,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier.md",
       "title": "How Moveworks’ AI platform broke through the multilingual NLP barrier",
       "excerpt": "Multilingual NLP in an enterprise context -- using no scripting or system-integration prework -- is the future of conversational AI.",
@@ -1091,41 +1144,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-deep-learning-market-size-analysis-strategic-assessment-market-growth-and-forecasts-to-2026.md",
-      "title": "Deep Learning Market Size Analysis, Strategic Assessment, Market Growth and Forecasts to 2026",
-      "excerpt": "Deepmind Technologies Ltd. Deep learning can be considered as a subset of machine learning and consists of algorithms that allow a software to self-train to execute tasks such as image and speech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "originalUrl": "https://www.openpr.com/news/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2438892/deep-learning-market-size-analysis-strategic-assessment",
-      "publishedDateTime": "2021-10-22T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

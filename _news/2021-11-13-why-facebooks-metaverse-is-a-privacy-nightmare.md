@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebook
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/amp/"
 type: article
 quality: 74
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,51 +31,123 @@ images:
     isCached: true
 
 related:
-  - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
-    excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
-    publishedDateTime: 2021-11-09T20:05:00Z
-    webUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/"
-    ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+  - title: "Unity moves robotics design and training to the metaverse"
+    excerpt: "Unity launched Unity Simulation Pro and Unity SystemGraph to improve robotics modeling, testing, and training complex systems through AI."
+    publishedDateTime: 2021-11-14T05:05:00Z
+    webUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/"
+    ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
     type: article
     provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 119
     images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg"
-        width: 640
-        height: 360
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1634835504844.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Facebook shutting down automatic facial recognition in photos"
-    excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
-    publishedDateTime: 2021-11-11T18:00:00Z
-    webUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521"
-    ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
+  - title: "BofA Finds Nvidia \"Uniquely Ready\" For AI, Robotics, Metaverse, Autos"
+    excerpt: "He believes Nvidia is \"uniquely ready\" with its combo of hardware, software, and developer ecosystem to address new technologies across AI, robotics, metaverse, and autos as well as \"any new markets that materialize."
+    publishedDateTime: 2021-11-10T13:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
     images:
-      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/11/faceb.jpg?itok=QLjSS1xF"
-        width: 750
-        height: 393
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2498.png"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Facebook, the metaverse and the monetisation of higher education"
-    excerpt: "The metaverse is a virtual world in which users represented by an avatar can shop socialise take part in leisure activities ndash and learn Its de"
-    publishedDateTime: 2021-11-09T13:12:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271690241/facebook-the-metaverse-and-the-monetisation-of-higher-education"
+  - title: "With the Metaverse on the way, an AI Bill of Rights is urgent"
+    excerpt: "Calls for an AI Bill of Rights grow as thought leaders continue to raise serious concerns about the technology."
+    publishedDateTime: 2021-11-13T16:40:00Z
+    webUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/"
+    ampWebUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 41
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://cdn.bignewsnetwork.com/cvr1636461579.jpg"
-        width: 630
-        height: 420
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1129396746.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory."
+    publishedDateTime: 2021-11-12T18:28:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/ai-bots-user-data-is-there-space-rights-metaverse-2021-11-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/Fw9oRebOE-1ALKb9_9bR3zByww8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5C3CTFP6H5LIBIKA3LUVT3DZCQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "WAYZ.AI CEO Dr. Tao: Spatio-Temporal AI Energizes Digital Twin and Metaverse"
+    excerpt: "As the first Keynote of the conference, Former Director of Microsoft Virtual Earth, Founder and CEO of WAYZ.AI, Dr. Vincent Tao, presented the WAYZ.AI innovation on Spatio-Temporal AI (ST-AI) technology and its applications to Digital Twin and Metaverse."
+    publishedDateTime: 2021-11-12T06:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wayz-ai-ceo-dr-tao-spatio-temporal-ai-energizes-digital-twin-and-metaverse-1030968822"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/1686720/image.jpg"
+        width: 326
+        height: 400
+        isCached: true
+  - title: "AI-powered avatars to user data: Is there space for rights in the metaverse?"
+    excerpt: "The term \"metaverse\" has been used to describe an array of shared spaces accessed via the internet – from fully-immersive virtual reality (VR) space.."
+    publishedDateTime: 2021-11-13T07:19:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/internet/ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87680354"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/internet/ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87680354"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/internet/ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87680354"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87680354,imgsize-181102,width-1200,height-628,overlay-etcio/ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Pioneer - the World's First Metaverse Robot Has Been Born in China"
+    excerpt: "Pioneer - the World's First Metaverse Robot Has Been Born in China New York, New York--(Newsfile Corp. - November 12, 2021) - The first ever Meta"
+    publishedDateTime: 2021-11-13T05:42:00Z
+    webUrl: "https://menafn.com/1103160472/Pioneer-the-Worlds-First-Metaverse-Robot-Has-Been-Born-in-China"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?840821"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "The Glimpse Group and D-ID Partner to Bring Life to the Metaverse with AI, VR & AR"
+    excerpt: "Harnessing AI-powered synthetic media with the visual power of Augmented & Virtual Reality to enhance viewing and interaction in the Metaverse NEW YORK, NY / ACCESSWIRE / November 10, 2021 / The Glimpse Group,"
+    publishedDateTime: 2021-11-10T13:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-media-artificial-intelligence-1d867449edbe7a2fd6ce0c33913d8344"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
     excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"
@@ -91,6 +163,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "FEATURE-AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook's recent announcement that it is investing heavily in the so-called metaverse - a virtual environment where people can meet,"
+    publishedDateTime: 2021-11-12T15:35:00Z
+    webUrl: "https://news.trust.org/item/20211112173355-waoeq"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 18
   - title: "The Metaverse Is Big Brother in Disguise: Freedom Meted Out by Technological Tyrants"
     excerpt: "The term metaverse, like the term meritocracy, was coined in a sci fi dystopia novel written as cautionary tale. Then techies took metaverse, and technocrats took meritocracy, and enthusiastically adopted what was meant to inspire horror."
     publishedDateTime: 2021-11-10T04:46:00Z

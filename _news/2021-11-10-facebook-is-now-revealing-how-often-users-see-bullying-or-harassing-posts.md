@@ -7,7 +7,7 @@ originalUrl: "https://kuow.org/stories/facebook-is-now-revealing-how-often-users
 webUrl: "https://kuow.org/stories/facebook-is-now-revealing-how-often-users-see-bullying-or-harassing-posts"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,56 @@ images:
     width: 837
     height: 628
     isCached: true
+
+related:
+  - title: "Meta to Halt Use of Facial Recognition Technology on Facebook"
+    excerpt: "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse"
+    publishedDateTime: 2021-11-09T20:05:00Z
+    webUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/"
+    ampWebUrl: "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 59
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Facebook shutting down automatic facial recognition in photos"
+    excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
+    publishedDateTime: 2021-11-11T18:00:00Z
+    webUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521"
+    ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/11/faceb.jpg?itok=QLjSS1xF"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Artificial General Intelligence (AGI) Market to See Major Growth by 2026 | General Vision, Facebook, Digital Genius"
+    excerpt: "The Latest Released Artificial General Intelligence AGI market study has evaluated the future growth potential of Artificial General Intelligence AGI market and provides information and useful stats on market structure and size The report is intended to provide market intelligence"
+    publishedDateTime: 2021-11-13T09:01:00Z
+    webUrl: "https://www.openpr.com/news/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    ampWebUrl: "https://www.openpr.com/amp/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub13251976_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "B8KeoL36bS2l6EeJUw1RQuVXJ258jmQ58TQ4+xax/trqBtegopypW8BRrMsvpmh/F1FRfCcoIqaEz9R5A4Zpmu2KHO0X4RYxBrQnVEfO7UljupUjerB0lYSbdDkToJs2yN/t7CUGtie2jGJLQSWw24jcCWGihu5NfaltYyXg3A6rKTiQpEDha5tpjahZe0vbS5oX0+hy0kXXGb6Eh9JcW+/AEJ5F2XBZht5AP0ckwEfSbikeVSFXZuEBG5BeWG1OdbOAcftvt5xPSC2UHQoYoLQ7Kbonbz0vmUbnMnreu1iPxvGRK7Tw+36hyW/wgnf2stB4dUa/uZPbRfkRIUgmiyEBpXwphrj0yWZfvSC2JdhO98o6ag2B182VCa49V5xGiAsILu3PertqqUYRb85eFX5At1MQCm+lCYhkDYL2iGNTjLCAEH5cSl4CwXML65IUcF7940puESV2ArBEh0QmgK0Ry9bRkxFFCW8Sgacr4H241hfrdTyGFcyGbzBGJnHje9UrWdKaDpf/iLH2BiHHwQ==;8crS3UfPQSzSZjCgcqBEHQ=="
 ---
