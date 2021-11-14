@@ -7,7 +7,7 @@ originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=59101.php"
 webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59101.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Engineers design autonomous robot that can open doors, find wall outlet to recharge"
-    excerpt: "Engineering students have designed an autonomous robot that can find and open doors in 3D digital simulations. Now they're building the hardware for an autonomous robot that not only can open its own doors but also can find the nearest electric wall outlet to recharge without human help."
-    publishedDateTime: 2021-11-10T01:26:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/11/211109193246.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
   - title: "Autonomous Robot Finds and Opens Doors While Recharging Itself"
     excerpt: "A team of engineering students at the University of Cincinnati are building an autonomous robot that can open its own doors and find the nearest electrical wall outlet, which enables it to recharge without human assistance."
     publishedDateTime: 2021-11-10T23:54:00Z

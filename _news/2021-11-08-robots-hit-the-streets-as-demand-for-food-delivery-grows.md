@@ -2,25 +2,25 @@
 category: news
 title: "Robots hit the streets as demand for food delivery grows"
 excerpt: "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon."
-publishedDateTime: 2021-11-08T13:07:00Z
-originalUrl: "https://www.columbian.com/news/2021/nov/08/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
-webUrl: "https://www.columbian.com/news/2021/nov/08/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+publishedDateTime: 2021-11-08T10:05:00Z
+originalUrl: "https://www.westhawaiitoday.com/2021/11/08/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
+webUrl: "https://www.westhawaiitoday.com/2021/11/08/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/"
 type: article
 
 provider:
-  name: The Columbian
-  domain: columbian.com
+  name: West Hawaii Today
+  domain: westhawaiitoday.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://pcdn.columbian.com/wp-content/uploads/2021/11/Robot_Food_Delivery_67862.jpg-3acea.jpg"
-    width: 899
-    height: 599
+  - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "Foj+kJ4ferJpZO6ddjVKr7LRhWVuAFv4OgsM61mMyktgMzJX7vR4IfI46Ly2d8vwfRCrUtV4rqM0RVFEAd+sETL+ppLZuh3WALECk9JcdQqgd4iPV84qYbLRUIaKO68ouSs62CQP8iZappNE/ByN3GGlEv691X4XWfMaT2xG/yUub+g1+1qxsBrI4LLaNR7EpcIx4pe5y90T233sP0ES2/Fel0dxDgbNp+X5Vi3hvSqbFGh4RDrHhv3e84Jx5sih0D/zsc1l3lRZkBKofekI5M3mEqII7yXyyc6GvXVRNPUTE+1fP9TPWTgZ2TUyApV4pu4S3uJdKFcXyQWAPExRqmicKHs6TOjhl5RYEE7I3Hg=;+gaTPJfziM1HLVWXd9PGww=="
+secured: "G+ygUx0b4vwrHRFMLDueYHj+UWJKkAtCODDEXlpYkdE+ZU1fPpwQ5LSadHzSpojrXjvfbcwVrK6dDBy33C6rpgN9Wb4VhZB9s1d18a86iDj7zeKtsi5jq9iqXsB/FgsSg0fmqn+D6Z3X9DHM4K2i5vEaTcCg5i04eRk4AheyUu3XPywCVJzcjEpAANbt573crfvlw9bKR5c841ub80/UeAb8WEp2hr2QazG8vrWkI/hsXVrkElwykzPT7zVAvXMol7etqfDcqwdTk8asTMwhioS+Z+Ar8dV3nEfir+SsHp9tKsKxWDuVh8WYAFJbQWlqOSfZVXhkzJ2V0bFbdbV9n7OM7O5SPIG7jtn2sOp7IQc=;RC8fHnQdaN95jtU8wYMOww=="
 ---
 

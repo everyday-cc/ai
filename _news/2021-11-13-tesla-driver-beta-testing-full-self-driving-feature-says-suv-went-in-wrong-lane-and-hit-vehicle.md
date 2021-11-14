@@ -185,6 +185,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla’s Full Self-Driving Mode Has Registered Its First Crash With The NHTSA"
+    excerpt: "Advertisement There is a complaint registered with the National Highway Traffic Safety Administration (NHTSA) pertaining to Tesla’s Full Self-Driving (FSD) beta. The accident involved a Model Y vehicle in FSD condition that crashed in Brea,"
+    publishedDateTime: 2021-11-14T18:29:00Z
+    webUrl: "https://wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/"
+    ampWebUrl: "https://wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 56
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/tesla-autopilot.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "AI That Provides A Running Narrative Commentary While Driving Could Be The Tell All For Imbuing Safety Into Self-Driving Cars"
     excerpt: "Providing commentary about driving while driving can be quite useful, and likewise we might wish to have AI self-driving cars undertake Digital Commentary Driving (DCD) for safety achieving purposes."
     publishedDateTime: 2021-11-10T15:30:00Z

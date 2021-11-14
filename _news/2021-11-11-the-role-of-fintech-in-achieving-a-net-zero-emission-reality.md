@@ -25,125 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "How Fintech Companies Are Changing the Idea Of Credit In India"
-    excerpt: "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647."
-    publishedDateTime: 2021-11-11T10:43:00Z
-    webUrl: "https://www.entrepreneur.com/article/396710"
+  - title: "Report: 80% of fintech execs worry about authentication security tools"
+    excerpt: "Legacy IT authentication security tools, such as one-time passwords, possess vulnerabilities capable of being exploited."
+    publishedDateTime: 2021-11-14T16:40:00Z
+    webUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/"
+    ampWebUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1636627414-towfiqu-barbhuiya-jpqyfK7GB4w-unsplash1.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/2-2.png?w=600&resize=600%2C600&strip=all"
+        width: 600
+        height: 600
         isCached: true
-  - title: "Fintech Compliance: AI's New Role in Combating Corruption"
-    excerpt: "Discover how AI has started to be used as a tool for fighting corruption, what these technologies are, and why they are so important"
-    publishedDateTime: 2021-11-13T09:00:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-compliance-ais-new-role-combating-corruption"
+  - title: "About Bridge+ FinTech Odyssey"
+    excerpt: "Bridge+ FinTech Odyssey brings leaders in the FinTech industry together to share insights on the innovations and breakthroughs in the FinTech Sector. Happening from 8th to 12th November 2021 at 79 Robinson Road,"
+    publishedDateTime: 2021-11-11T02:51:00Z
+    webUrl: "https://www.capitaland.com/sites/bridgeplus/sg/FinTech-Odyssey.html"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hiring to scaling: 3 fintech unicorn CEOs share what it takes to build a successful company"
-    excerpt: "As part of Singapore Fintech Festival 2021, three CEOs of fintech unicorns in Asia — Linklogis, VNLIFE and Advance Intelligence Group — came together as panellists to discuss the key ingredients for success that help to shape and grow a unicorn."
-    publishedDateTime: 2021-11-10T09:29:00Z
-    webUrl: "https://vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/"
-    ampWebUrl: "https://vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/amp/"
-    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/amp/"
-    type: article
-    provider:
-      name: Vulcan Post
-      domain: vulcanpost.com
-    quality: 34
-    images:
-      - url: "https://cdn01.vulcanpost.com/wp-uploads/2021/11/fintech-f2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Payments to Participate in Citi's 2021 FinTech Conference"
-    excerpt: "Global Payments Inc. , a leading worldwide provider of payment technology and software solutions, announced today that Cameron Bready, President and Chief Operating Officer, will present virtually at Citi's 2021 FinTech Conference at 12:45 p."
-    publishedDateTime: 2021-11-10T16:01:00Z
-    webUrl: "https://www.lelezard.com/en/news-20096033.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: CapitaLand
+      domain: capitaland.com
     quality: 24
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.capitaland.com/sites/bridgeplus/sg/images/nav1.jpg"
+        width: 417
+        height: 292
         isCached: true
-  - title: "Meet The Winners Of The 2021 Benzinga Global Fintech Awards"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
-    publishedDateTime: 2021-11-10T19:28:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-financial-technology-def643374cf19c039d27f8ae216e11db"
+  - title: "A Revolutionary FinTech Story that Makes Every Transaction an Opportunity"
+    excerpt: "Mobi724 – a Canadian-based fintech platform that enables banks and merchants to offer real-time payment card-linked incentives in a white-label format – has streamlined its data analytics, digital marketing and card-linked offers into an all-in-one"
+    publishedDateTime: 2021-11-11T19:27:00Z
+    webUrl: "https://stockhouse.com/news/newswire/2021/11/15/a-revolutionary-fintech-story-that-makes-every-transaction-an-opportunity"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 23
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Three leading fintech trends to watch in 2022"
-    excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"
-    publishedDateTime: 2021-11-11T12:45:00Z
-    webUrl: "https://fintechmagazine.com/digital-payments/three-leading-fintech-trends-watch-2022"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1322656065.jpg.png?itok=a1iWWzTF"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Beware of These 2 Popular but Overvalued Fintech Stocks"
-    excerpt: "There remains uncertainty regarding whether the COVID-19 pandemic-fueled growth of fintech will continue. Furthermore, banks have been easing restrictions and ramping up technology spending, and by so doing posing a competitive threat to the fintech industry."
-    publishedDateTime: 2021-11-12T17:55:00Z
-    webUrl: "https://stocknews.com/news/upst-sofi-beware-of-these-2-popular-but-overvalued-fintech-stocks/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
-  - title: "The Key Mobile App Features to Consider for your Fintech App"
-    excerpt: "Almost every major bank, financial organization and investment firm has a fintech presence. For most financial companies it is the mobile apps that remain at the forefront of the fintech revolution they take part in."
-    publishedDateTime: 2021-11-10T03:16:00Z
-    webUrl: "https://www.finextra.com/blogposting/21229/the-key-mobile-app-features-to-consider-for-your-fintech-app"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "Blockchain technology Market size to increase by USD 6.25 Bn | Technavio's Research Insights highlight Increase in FinTech Spending as a Key Trend"
-    excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth"
-    publishedDateTime: 2021-11-12T00:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/blockchain-technology-market-size-to-increase-by-usd-6-25-bn-technavios-research-insights-highlight/article_c7481f17-8858-5212-a4a7-8db672fafc75.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 1
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/6a/b6a73f4e-64ff-5ab3-87a3-40242f211002/618dc50fe4fe3.image.jpg?resize=800%2C450"
-        width: 800
-        height: 450
+      - url: "https://media.stockhouse.com/embed/be615vmtpycj5am2wwoqc8843n/1/large"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "skE08uJmZGFsBJdzM3QGAK/hDWn34vTczE7epSMvFFRSKw0SegnwzXbf3EY2fti2nC9DbSFqhmHOwCqjsk8klYF5nN1ka7x7R+/HcztYZqNhNTb7GW3vtA+hTKtCQFKS9MkVzOPuHXwd+z8Ioa1RN2I5xx0sSGSo74AgKQPUuNJoel/Kq3SSZNTcVKhIjXtr99H9ieF9QJHgQxHNpML+W2Io0rhI+D950464CfB7Xc0bEsD83WJJ8GpOcjfE4zh/d0mgWFXsssi1bUTXtDk6LMVLH2YOjhhkL8TKIbYh+CiwgqylJ+Sp07MDJGZ8CHUamRVHJcBItT3B2jFE9bfgEO14k2cdpXod6+OH/oDDF1s=;OZ0lsxdquEhuiBAMbe6HkQ=="

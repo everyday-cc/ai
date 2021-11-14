@@ -7,7 +7,7 @@ originalUrl: "https://www.just-style.com/features/ai-obsession-business-insiders
 webUrl: "https://www.just-style.com/features/ai-obsession-business-insiders/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why is AI an obsession for business insiders?"
-    excerpt: "Business leaders are still worrying about artificial intelligence (AI), but with Facebook pushing hard into the metaverse, augmented reality (AR) has also proven a massive concern for corporate chieftains."
-    publishedDateTime: 2021-11-10T01:56:00Z
-    webUrl: "https://www.retail-insight-network.com/analysis/why-is-ai-an-obsession-for-business-insiders/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 41
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/ai-robots.jpg"
-        width: 1296
-        height: 737
-        isCached: true
   - title: "The 7 new business values in the era of Artificial Intelligence"
     excerpt: "Although Artificial Intelligence (AI) is a technology that has existed for more than sixty years, today, thanks to greater computing power, the applications of this field of information technology have had a direct impact on the spine of companies."
     publishedDateTime: 2021-11-11T01:42:00Z

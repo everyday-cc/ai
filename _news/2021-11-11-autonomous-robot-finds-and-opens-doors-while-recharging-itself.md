@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Engineers design autonomous robot that can open doors, find wall outlet to recharge"
-    excerpt: "Engineering students have designed an autonomous robot that can find and open doors in 3D digital simulations. Now they're building the hardware for an autonomous robot that not only can open its own doors but also can find the nearest electric wall outlet to recharge without human help."
-    publishedDateTime: 2021-11-10T01:26:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/11/211109193246.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
   - title: "Autonomous robot can open doors, find nearest electric outlet"
     excerpt: "Robots can do many things, but if you want one to open a door by itself and go through the doorway, that’s a tremendous challenge,” Ma said. Students in UC’s Intelligent Robotics and Autonomous Systems Laboratory have solved this complex problem in three-dimensional digital simulations."
     publishedDateTime: 2021-11-10T08:05:00Z

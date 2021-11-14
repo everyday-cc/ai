@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore launches national AI programme in finance"
-    excerpt: "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,"
-    publishedDateTime: 2021-11-10T02:37:00Z
-    webUrl: "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html"
-    type: article
-    provider:
-      name: dangcongsan.vn
-      domain: dangcongsan.vn
-    quality: 56
-    images:
-      - url: "http://en.dangcongsan.vn/DATA/3/IMAGES/2021/11/BTA_KK101121SGLA.jpg"
-        width: 620
-        height: 413
-        isCached: true
   - title: "10 fintech startups selected for accelerator programme"
     excerpt: "The LHoFT Foundation has announced the 10 Fintech startups selected to take part in the Fall 2021 digital edition of Catapult: Kickstarter"
     publishedDateTime: 2021-11-12T15:54:00Z
@@ -53,19 +39,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Top 10 Stories from Singapore Fintech Festival 2021"
-    excerpt: "Like previous years, the 2021 Singapore Fintech Festival was the opportunity for some of the world’s largest tech firms, banks, fintech leaders and regulators to announce their latest products and initiatives."
-    publishedDateTime: 2021-11-12T05:28:00Z
-    webUrl: "https://fintechnews.sg/57269/singapore-fintech-festival-2021/top-10-stories-from-singapore-fintech-festival-2021/"
+  - title: "20 Startups Selected for UC Berkeley's Highly Competitive SkyDeck Global Startup Accelerator Program"
+    excerpt: "BERKELEY, CA /  / November 2, 2021 / UC Berkeley SkyDeck, the startup accelerator of the University of California at Berkeley (UC Berkeley), today announces it has selected 20 companies from across the globe for its Batch 13 startup cohort."
+    publishedDateTime: 2021-11-12T04:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271709706/20-startups-selected-for-uc-berkeleys-highly-competitive-skydeck-global-startup-accelerator-program"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 9
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/Top-10-Stories-from-Singapore-Fintech-Festival-2021-.jpg?x73342"
-        width: 2048
-        height: 1136
+      - url: "https://cdn.bignewsnetwork.com/cus1636608612015.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "1xA5LvRo+PG/gXdNvtE6UsDxzKiXbNlgHa9vPvNPsbgP/YjV38xeDjerv2Qzy0krGN4BtaMC0p17u3NPjMXrZyiKSMDkq+RNK7o+Y0fepM4Ygb/DT5yCwY/BQJaJhhZLXG6sfwkeGrp4q58LACbshIdH2HYAY9sAPv5R5TxJoArNndeoT3/ptYPcBtxGU5AahzJnxQR/F+/5Ij2RyEbUCU912kVx3m75CMZz6WzzqWT3jrzXSuFHwuvLYUEShPsvZxr+TIWkknWprCnLM8wUOPWqieIBHPfF4DeAvNMRT+RSVwWDPVeSyk/wzBy44kwZdZvp+rhtd1TVlvcYPVrJJliFr6yFEW+DN7mla3cWtLs=;B3bG5JL3ByLBKebLvTyeyg=="

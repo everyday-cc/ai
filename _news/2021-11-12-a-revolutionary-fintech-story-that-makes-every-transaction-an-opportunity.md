@@ -7,7 +7,7 @@ originalUrl: "https://stockhouse.com/news/newswire/2021/11/15/a-revolutionary-fi
 webUrl: "https://stockhouse.com/news/newswire/2021/11/15/a-revolutionary-fintech-story-that-makes-every-transaction-an-opportunity"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,52 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Report: 80% of fintech execs worry about authentication security tools"
+    excerpt: "Legacy IT authentication security tools, such as one-time passwords, possess vulnerabilities capable of being exploited."
+    publishedDateTime: 2021-11-14T16:40:00Z
+    webUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/"
+    ampWebUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/2-2.png?w=600&resize=600%2C600&strip=all"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "About Bridge+ FinTech Odyssey"
+    excerpt: "Bridge+ FinTech Odyssey brings leaders in the FinTech industry together to share insights on the innovations and breakthroughs in the FinTech Sector. Happening from 8th to 12th November 2021 at 79 Robinson Road,"
+    publishedDateTime: 2021-11-11T02:51:00Z
+    webUrl: "https://www.capitaland.com/sites/bridgeplus/sg/FinTech-Odyssey.html"
+    type: article
+    provider:
+      name: CapitaLand
+      domain: capitaland.com
+    quality: 24
+    images:
+      - url: "https://www.capitaland.com/sites/bridgeplus/sg/images/nav1.jpg"
+        width: 417
+        height: 292
+        isCached: true
+  - title: "The Role of Fintech in Achieving a Net Zero Emission Reality"
+    excerpt: "The world is moving toward a net-zero economy, and the financial technology sector may be at the vanguard of this change"
+    publishedDateTime: 2021-11-11T10:04:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/role-fintech-achieving-net-zero-emission-reality"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/green-forest-with-technological-twist.jpg.png?itok=hnz8TRum"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2IFP4IcKMUh1aXdYWWyhGkiFauCR5xkQPW3n3aEMMDJ8FqVuhaPC8g/RSQiAHpBuOruhMjr9hhBIhjei5H7jzwFl4msKYw1xFVJuN2hQ5y1DPLGVpPpW+nh1Toc0Cai6mblFLWF9pnUuUlJC59XmusQ39+n7YNKUT6vlyCHSiiQG0hymJIR0suKntF4HtZAFqSXmYNtXlNsTaopSxnCkL9LO5/cNRUzuSU3JSWnsliFh5zajbQ8LTIDY1sS1Nr5vGLxvySxjFKd4zU4m5oCZUp/P/Ki7HNfkW3T0x0t+8ELASYilRSo6y9JA+zMHbQNCLlCiiSoGpwAuIJQrpM5mPmjD0laUs+4CGq85YY/Uxnk=;g84bQL6Ay3NOgoGZCCUm7Q=="
 ---

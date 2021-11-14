@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -134,20 +134,6 @@ related:
         width: 900
         height: 371
         isCached: true
-  - title: "GTC Keynote NVIDIA Intros NVIDIA DRIVE Concierge and DRIVE Chauffer AI"
-    excerpt: "These trends are coinciding with the rapid progress of autonomous vehicle technology, meaning more drivers on the road doesn’t have to translate ... conversational AI. Omniverse Avatar connects speech AI, computer vision, natural language understanding ..."
-    publishedDateTime: 2021-11-10T02:15:00Z
-    webUrl: "https://www.autoconnectedcar.com/2021/11/gtc-keynote-nvidia-intros-nvidia-drive-concierge-and-drive-chauffer-ai/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 39
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2021/11/NVIDIADRIVEChauf-1024x533.jpg"
-        width: 1024
-        height: 533
-        isCached: true
   - title: "Nvidia announces new platform for creating AI Avatars"
     excerpt: "Chip-maker Nvidia Wednesday announced ‘Omniverse Avatar’, a technology platform for generating interactive Artificial Intelligence (AI) Avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
     publishedDateTime: 2021-11-10T10:01:00Z
@@ -232,6 +218,6 @@ related:
       domain: thegoaspotlight.com
     quality: 15
 
-secured: "Su6bFe07WnJozUneAv9yxmhrzeMBr3Lrc57Umxm0OPVj0X0dBQV9+urRo88kj0++BAaXoKvIonM4aJ74U7ou0vxS5rDqiaHe5O6T/2JjYFlFLrWWWPfIkfCveSe27JW8MYAoABAm5g9UBC76V9J48Ah16qsbllPpMBw8sm896E5qiokJMehOkD3GPqw5CWO1rPVgwaH71sEXpJSzIrSCBMcZn0/r9njG7xm+Llz/2KoPetKP7ykBNF7PLxktGuxtmlWjGfn+sph6NYuMI+BjUfXwVm66MfcIVixqFgnAmtNkpID0ZkrpQmMaxIV1pmhDX4u3KlDXfwWFA77KkgwH0Oy05l0BuLZEyg6oY1kmNaA=;w0ms59zdZbT8LikyGTLA8g=="
+secured: "XwpAMSKN0F+lEilCDDD0/75ZHPJkXk5pZBvnhr5gQcxTK4Trjrv/h/9fpjv7Bsw7SdacUY+15PemZccbBFWryDGcONqqp9cYaW0xkRA0YSZpMObZ67d3eB6ciLZuPy5uIXreriWbElrJVqRaQCwO9KCdIMY6gznCbNWtFgjdqHycM0JdFnxqzfe+3QZjonNm3SIyLnYAGMRw1YRbCK3SYvcI1us2dUJiKN5tubo3JvgGUjswhw5C05PKjuk3U/82LvlvUgzTVYHVbUoGl9sXTwcrg0tpDF7417vNr6rkQjk7kezYji2uLEh17VcGMXD52hYaFzaVZmyK7xFz6ZvuV+Utg15EaCpFNTyjbIETkPIHSphlCQl3qJKc1Wcl/CuqyPiwx1ZYRRBjZzwMuoJQ7/d6yuY2TSds4EDQO1fEyKybTWMM8cwJwdr10FB4tJgVtY/f46Ey2Gz+D4aD1n1Ysx/GAdZUROa4BcrJgJot0+AO1m3m5gjFMl3/LJvFSZ+Wq2BuMqpnKY45MCM+icrrbw==;QQBTEq7HjWnMr08v7QkBWA=="
 ---
 

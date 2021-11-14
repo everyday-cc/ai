@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launc
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/"
 type: article
 quality: 107
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker"
-    excerpt: "Machine learning (ML) and deep learning (DL) are becoming effective tools for solving diverse computing problems, from image classification in medical diagnosis, conversational AI in chatbots, to recommender systems in ecommerce. However, ML models that have specific latency or high throughput requirements"
-    publishedDateTime: 2021-11-10T01:56:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-fast-and-scalable-ai-with-nvidia-triton-inference-server-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/05/ML-6284-image001-1120x630.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Automatically detect sports highlights in video with Amazon SageMaker"
     excerpt: "Extracting highlights from a video is a time-consuming and complex process. In this post, we provide a new take on instant replay for sporting events using a machine learning (ML) solution for automatically creating video highlights from original video content. Video highlights are then available for"
     publishedDateTime: 2021-11-12T18:57:26Z

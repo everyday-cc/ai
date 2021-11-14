@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-10T19:15:00Z
 originalUrl: "https://www.businesswire.com/news/home/20211110005496/en/Northern-Trust-Launches-Machine-Learning-Module-for-Asset-Owner-Research-Management"
 webUrl: "https://www.businesswire.com/news/home/20211110005496/en/Northern-Trust-Launches-Machine-Learning-Module-for-Asset-Owner-Research-Management"
 type: article
-quality: 13
+quality: 15
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Northern Trust Launches Machine Learning Module for Asset Owner Research Management"

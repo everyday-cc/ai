@@ -83,20 +83,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "The Role of Fintech in Achieving a Net Zero Emission Reality"
-    excerpt: "The world is moving toward a net-zero economy, and the financial technology sector may be at the vanguard of this change"
-    publishedDateTime: 2021-11-11T10:04:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/role-fintech-achieving-net-zero-emission-reality"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/green-forest-with-technological-twist.jpg.png?itok=hnz8TRum"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Three leading fintech trends to watch in 2022"
     excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"
     publishedDateTime: 2021-11-11T12:45:00Z
@@ -110,6 +96,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1322656065.jpg.png?itok=a1iWWzTF"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Top 10 Stories from Singapore Fintech Festival 2021"
+    excerpt: "Like previous years, the 2021 Singapore Fintech Festival was the opportunity for some of the world’s largest tech firms, banks, fintech leaders and regulators to announce their latest products and initiatives."
+    publishedDateTime: 2021-11-12T05:28:00Z
+    webUrl: "https://fintechnews.sg/57269/singapore-fintech-festival-2021/top-10-stories-from-singapore-fintech-festival-2021/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/Top-10-Stories-from-Singapore-Fintech-Festival-2021-.jpg?x73342"
+        width: 2048
+        height: 1136
         isCached: true
   - title: "Beware of These 2 Popular but Overvalued Fintech Stocks"
     excerpt: "There remains uncertainty regarding whether the COVID-19 pandemic-fueled growth of fintech will continue. Furthermore, banks have been easing restrictions and ramping up technology spending, and by so doing posing a competitive threat to the fintech industry."
