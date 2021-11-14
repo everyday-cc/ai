@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
-excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."
-publishedDateTime: 2021-11-11T11:40:00Z
-originalUrl: "https://www.medianama.com/2021/11/223-facial-recognition-hyderabad-amnesty-campaign/"
-webUrl: "https://www.medianama.com/2021/11/223-facial-recognition-hyderabad-amnesty-campaign/"
+title: "A Generation Growing Under Surveillance: The Dangers of Facial Recognition In Schools"
+excerpt: "In conversation with my teenage daughter last week, I pointed out a news report which flagged concerns over the use of facial recognition technologies in several school canteens in North Ayrshire, Scotland."
+publishedDateTime: 2021-11-14T15:24:00Z
+originalUrl: "https://interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
+webUrl: "https://interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
+ampWebUrl: "https://amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
+cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
 type: article
-quality: 28
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: MediaNama
-  domain: medianama.com
+  name: Interesting Engineering
+  domain: interestingengineering.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g8d41a09b1_1280.jpg"
-    width: 1280
-    height: 759
+  - url: "https://inteng-storage.s3.amazonaws.com/img/iea/rV6nDkYmOX/sizes/surveil_resize_md.jpg"
+    width: 744
+    height: 419
     isCached: true
 
 related:
@@ -73,23 +75,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "A Generation Growing Under Surveillance: The Dangers of Facial Recognition In Schools"
-    excerpt: "In conversation with my teenage daughter last week, I pointed out a news report which flagged concerns over the use of facial recognition technologies in several school canteens in North Ayrshire, Scotland."
-    publishedDateTime: 2021-11-14T15:24:00Z
-    webUrl: "https://interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
-    ampWebUrl: "https://amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
+  - title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
+    excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."
+    publishedDateTime: 2021-11-11T11:40:00Z
+    webUrl: "https://www.medianama.com/2021/11/223-facial-recognition-hyderabad-amnesty-campaign/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 52
+      name: MediaNama
+      domain: medianama.com
+    quality: 28
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/rV6nDkYmOX/sizes/surveil_resize_md.jpg"
-        width: 744
-        height: 419
+      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g8d41a09b1_1280.jpg"
+        width: 1280
+        height: 759
         isCached: true
 
-secured: "R2ZaAkYZO6MC+rfC+Ideyxmn/t9mAILSJHdNmySj1upMSa1GVqysdvO/9q113vqht49Ic+g4zv9wTuwrSUZXhYbMwINjSTv9KD/eN/MFIOdwYW1qGwgBymuVOePUbgo6AhgJ2DclF+gzosqsZxRgPDJXZk/ZgO5K+hC1TvZZhFlqQjT9P9Gky6vKDUGe3iCGV02DCmK3I4EEjQ8/hneT2fbwSnssH7r8qE4tu9UxxMD+Srd8BjpkXFb5RnAugsnLQ1NY7vZZa6xYYML1p41wnp8gB826qN2xZS8xPu07hma/33zHeoO9tH8JL7KvpXLaZpVrJimRS+48Bpx6IylYL9EzKDsEb9aKPSS2DOEB/sLNIbKZAw+9KJWoQfPMHwbAEzf/JCHzkxZZUYIiy67RM6hRXSpf+FAaAe+r9aJIB7owEAkM72AgL9fQWSkgvv1ZT7KwRvgubloUPXWMNdECpJxS6xmOLh9VAxT7MYmeiKv7KTZ9i62586Gyri24SpwAYXiUFbuRtegumdteNDpIfg==;d2oTiKWQuQp1BbqjS0NSJA=="
+secured: "gk6TtOG34B2lB4Iz5g5DEjLOLtaJLlb1G846zPF7MN0Dfs+qogiLK92VWddukcSxFEbeYtQMpgCDp/jw906Y7YX+ev9TpwdHaJF271cPudo3UYRhLkFWld9WKOKxn8YUh3kud82x0XI/6WVuc2WlalXcK+7bjJ6vw0ZZjZav/7yJ2EMEWa8JyjbCNFTkYmZfGWTSyAEIdJsjIF3qKP66+ocM04lUltIi4QOB9orpxHaAEVvDazO0p3Q6JgaXiimuqIh0EzOGug7pTHgIWpF9Kyf13Gy3BV5LYKqE/Aj/+n1+zNK0czX4jXE3krV0Iv5/0zbAXboxkDG59yBg2uTqxk6iB55ToEvi9bIB3ycufKA=;F3oN2vzPOB2l0yKWj6eNpw=="
 ---
 

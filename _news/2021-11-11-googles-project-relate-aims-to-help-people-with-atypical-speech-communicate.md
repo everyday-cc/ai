@@ -75,20 +75,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google’s Project Relate aims to help people with speech impairments communicate more easily"
-    excerpt: "Google LLC is asking for help in developing and testing a new app that it says will be able to help people with speech impairments communicate with others more easily. The app is called Project Relate,"
-    publishedDateTime: 2021-11-10T00:39:00Z
-    webUrl: "https://siliconangle.com/2021/11/09/googles-project-relate-aims-help-people-speech-impairments-communicate-easily/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Google-Project-Relate-1.jpeg"
-        width: 1406
-        height: 1406
-        isCached: true
   - title: "Google’s ‘Project Relate’ App to Help Those With Speech Impediments Use Assistant"
     excerpt: "The company announced the program is now accepting volunteers for Project Relate to contribute towards multi-year research with the goal of improving Google’s speech recognition algorithms."
     publishedDateTime: 2021-11-10T16:35:00Z

@@ -1,28 +1,23 @@
 ---
 category: news
-title: "Pioneer - the World's First Metaverse Robot Has Been Born in China"
-excerpt: "Pioneer - the World's First Metaverse Robot Has Been Born in China New York, New York--(Newsfile Corp. - November 12, 2021) - The first ever Meta"
-publishedDateTime: 2021-11-13T05:42:00Z
-originalUrl: "https://menafn.com/1103160472/Pioneer-the-Worlds-First-Metaverse-Robot-Has-Been-Born-in-China"
-webUrl: "https://menafn.com/1103160472/Pioneer-the-Worlds-First-Metaverse-Robot-Has-Been-Born-in-China"
+title: "From AI bots to user data: is there space for rights in the metaverse?"
+excerpt: "Digital spaces are raising privacy and ownership questions, with experts urging regulators to widen safeguards"
+publishedDateTime: 2021-11-14T15:54:00Z
+originalUrl: "https://www.timeslive.co.za/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
+webUrl: "https://www.timeslive.co.za/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
+ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
+cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Times LIVE
+  domain: timeslive.co.za
 
 topics:
-  - AI in Robotics
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?840821"
-    width: 375
-    height: 250
-    isCached: true
 
 related:
   - title: "Unity moves robotics design and training to the metaverse"
@@ -161,17 +156,20 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "From AI bots to user data: is there space for rights in the metaverse?"
-    excerpt: "Digital spaces are raising privacy and ownership questions, with experts urging regulators to widen safeguards"
-    publishedDateTime: 2021-11-14T15:54:00Z
-    webUrl: "https://www.timeslive.co.za/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
+  - title: "Pioneer - the World's First Metaverse Robot Has Been Born in China"
+    excerpt: "Pioneer - the World's First Metaverse Robot Has Been Born in China New York, New York--(Newsfile Corp. - November 12, 2021) - The first ever Meta"
+    publishedDateTime: 2021-11-13T05:42:00Z
+    webUrl: "https://menafn.com/1103160472/Pioneer-the-Worlds-First-Metaverse-Robot-Has-Been-Born-in-China"
     type: article
     provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?840821"
+        width: 375
+        height: 250
+        isCached: true
   - title: "The Glimpse Group and D-ID Partner to Bring Life to the Metaverse with AI, VR & AR"
     excerpt: "Harnessing AI-powered synthetic media with the visual power of Augmented & Virtual Reality to enhance viewing and interaction in the Metaverse NEW YORK, NY / ACCESSWIRE / November 10, 2021 / The Glimpse Group,"
     publishedDateTime: 2021-11-10T13:31:00Z
@@ -238,6 +236,6 @@ related:
         height: 267
         isCached: true
 
-secured: "ybUT2TCzZejVDBIz2T3bXXqCBvaFevGRoyVxn3flLrzHNGKNhUjTY/jCvyaRpPod3PHpTi/6Oz1qoFTz83J5k2Fta+PQ8a+ZXVH3vj3ISwLOqIvRoJv68Pt/iTb/fTGJxyES6khcOhz/OeQ3XlhjsX/zdfn+i2cVp8yScOitosD6qZOnr5odBNg2RFfwlEvPadlej8+9pSOO31Z6XjctcDtd8MIm6mWG7O3v6QUsdSztIMN30JZvBprbEgn7kp+riUX8q4CKhbRy7L5/KGoIb8XWFe0ixVxOegMzjK5mwhcgj9xj6RAazfmXlinxbKXgsgvqpGz5k6TIa+GnhhffeEMSK+tG4IMooi4pXMU6Dh4=;GBfl85diK/6RzAORqvc/jQ=="
+secured: "FFWW7IKaRvKLrT1DW2udAXnoAglteK4AO7TvwnytXTxaYNcJqM7VvBDsUxF8/zOOpzcWQV4M4lCkyiEbicCi5gtPhGc/dFfbYcXFg4WkZNh3jul2VbCwHr66BRmWkLbrx/ZdD+xcU9feK02AfsDD2GgOJ1UdQ6O2ZJyo8IkUrw1Vt7Q9HfCQSEPhDZnaNyje2brIJ8ilbndeAwQB+oJOxfjqqjh9ozzz7cExLhN9jPLrtQ4v0w1sq9SIg7sAXy8bDfdZbvE+D+XWHDaDlkVx8v47HUM5LTyFtPU0MoIDfaOz6jneAAQp0w/FB6LaM4Q80gHe2A5DmnwpWbYWixFKVSnm8CjxsZV8kKLOLjCjRjx0NIXx7uOZaGUPOqJJ2y4RnBWAPrS6oFV0/p9EAKne0r0tvR2Qbzu/+d7aeLspH5OXxj1TCDz+ke9LvmefAHdmbwTtEGLoi+N9kffILV/PVtU0BZPDmBAQkUIhqQYy40cUuN8cA7YeEeDbsAVLjep27b+RYaMiHPstH9kSPtReqA==;HXeheBR6kwHaxwRBErKSBw=="
 ---
 

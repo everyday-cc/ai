@@ -1,40 +1,36 @@
 ---
 category: news
-title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
-excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"
-publishedDateTime: 2021-11-10T20:03:00Z
-originalUrl: "https://thegoaspotlight.com/2021/11/10/nvidia-announces-omniverse-avatar-platform-for-creating-interactive-ai-avatars/"
-webUrl: "https://thegoaspotlight.com/2021/11/10/nvidia-announces-omniverse-avatar-platform-for-creating-interactive-ai-avatars/"
+title: "NVIDIA Envisions AI For Everything"
+excerpt: "NVIDIA’s GTC and SC21 show how specialized processors such as GPUs and DPUs are helping to incorporate AI capabilities into more applications, enabling digital twins of just about everything. Zettar,"
+publishedDateTime: 2021-11-14T15:00:00Z
+originalUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/"
+webUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/"
+ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
 type: article
-quality: 15
-heat: -1
-published: false
+quality: 89
+heat: 239
+published: true
 
 provider:
-  name: thegoaspotlight
-  domain: thegoaspotlight.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61903d3ad415bc12fdc919f2%2F0x0.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
-  - title: "NVIDIA Envisions AI For Everything"
-    excerpt: "NVIDIA’s GTC and SC21 show how specialized processors such as GPUs and DPUs are helping to incorporate AI capabilities into more applications, enabling digital twins of just about everything. Zettar,"
-    publishedDateTime: 2021-11-14T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/"
-    ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61903d3ad415bc12fdc919f2%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump"
     excerpt: "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles."
     publishedDateTime: 2021-11-10T11:47:00Z
@@ -226,7 +222,16 @@ related:
       name: Net India 123
       domain: netindia123.com
     quality: 19
+  - title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
+    excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"
+    publishedDateTime: 2021-11-10T20:03:00Z
+    webUrl: "https://thegoaspotlight.com/2021/11/10/nvidia-announces-omniverse-avatar-platform-for-creating-interactive-ai-avatars/"
+    type: article
+    provider:
+      name: thegoaspotlight
+      domain: thegoaspotlight.com
+    quality: 15
 
-secured: "VoRIj9kQC5IMzSKYtf5F5LLo4H89pXBDF5GWkunWvNCuPqoFkjlsYV1HKq6KPL9vhotL5G2YS1a0BgRW+03zm4FDgcBcfsrBXKJt7QzbXxnuhargd9jqI61byZp/02tyYaT+bnQQ6+M3J0Blig6wBtK2VW/2Uz0N9ClnjoW4o/4uZik9hScAxI2X6s/DG/Q61KSqQX7gCLhWOA9g5ma0NowzEUJM6MY9dDxZ8kUJyGUPsYsoXsEq+avCviW6LxRDH4LWny5X93dm4e10CNkqKcq+5Abnp0axRTfuT0Op77JmkkjLs4wiQfEqRYeDleNAi0VnADkgkl8kguDAUBpxx4LnWfDJPi6KMBJJi45P4W4ivnlKfhux6v7E3IBLo9e5Mc7HhjnAr8lLpNVDmYoY1SOrOBiUfleUpLftHgkcXDRIdbuLfH09adni2QQ3LdRValazPdK8+qAPadxP+FwpQrOIYeeMPKNSfwuxVVIJ4M/+Z5un72R6hbNMslVK1/yrm7W5NB9qH9puw78h+xxTvA==;OqjbDowvwiGjivY7Jar5MA=="
+secured: "Su6bFe07WnJozUneAv9yxmhrzeMBr3Lrc57Umxm0OPVj0X0dBQV9+urRo88kj0++BAaXoKvIonM4aJ74U7ou0vxS5rDqiaHe5O6T/2JjYFlFLrWWWPfIkfCveSe27JW8MYAoABAm5g9UBC76V9J48Ah16qsbllPpMBw8sm896E5qiokJMehOkD3GPqw5CWO1rPVgwaH71sEXpJSzIrSCBMcZn0/r9njG7xm+Llz/2KoPetKP7ykBNF7PLxktGuxtmlWjGfn+sph6NYuMI+BjUfXwVm66MfcIVixqFgnAmtNkpID0ZkrpQmMaxIV1pmhDX4u3KlDXfwWFA77KkgwH0Oy05l0BuLZEyg6oY1kmNaA=;w0ms59zdZbT8LikyGTLA8g=="
 ---
 

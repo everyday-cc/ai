@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Development of artificial intelligence technology for producing CT images based on MRI"
-    excerpt: "Dr. Hyungmin Kim's team at the Bionics Research Center at the Korea Institute of Science and Technology (KIST, President Seok-Jin Yoon) developed an artificial intelligence technology to generate CT images based on MRI images and conducted a simulation ..."
-    publishedDateTime: 2021-11-10T06:53:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/934152"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c7bbfeb8-0dd2-430b-a4f8-fa17ba46a03f/Rendition/low-res/Content/Public"
-        width: 700
-        height: 286
-        isCached: true
   - title: "Vibrent Health Leverages AI-Based Technology to Build a Tool Improving COVID Response"
     excerpt: "Vibrent Health, a health technology startup powering the future of precision health research, has developed artificial-intelligence-enabled technology"
     publishedDateTime: 2021-11-10T18:22:00Z

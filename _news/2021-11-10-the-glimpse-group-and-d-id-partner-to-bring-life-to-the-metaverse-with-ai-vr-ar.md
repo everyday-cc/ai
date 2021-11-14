@@ -174,6 +174,17 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "From AI bots to user data: is there space for rights in the metaverse?"
+    excerpt: "Digital spaces are raising privacy and ownership questions, with experts urging regulators to widen safeguards"
+    publishedDateTime: 2021-11-14T15:54:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 37
   - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
     excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"
     publishedDateTime: 2021-11-12T14:57:00Z

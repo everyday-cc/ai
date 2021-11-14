@@ -161,6 +161,17 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "From AI bots to user data: is there space for rights in the metaverse?"
+    excerpt: "Digital spaces are raising privacy and ownership questions, with experts urging regulators to widen safeguards"
+    publishedDateTime: 2021-11-14T15:54:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 37
   - title: "The Glimpse Group and D-ID Partner to Bring Life to the Metaverse with AI, VR & AR"
     excerpt: "Harnessing AI-powered synthetic media with the visual power of Augmented & Virtual Reality to enhance viewing and interaction in the Metaverse NEW YORK, NY / ACCESSWIRE / November 10, 2021 / The Glimpse Group,"
     publishedDateTime: 2021-11-10T13:31:00Z

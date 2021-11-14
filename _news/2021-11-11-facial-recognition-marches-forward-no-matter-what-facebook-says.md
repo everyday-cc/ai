@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognit
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Bloomberg
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Lawmakers come for Facebook algorithm with 'filter bubble' bill"
-    excerpt: "Facebook's algorithm sucks, and Congress wants to do something about it. A bipartisan group of lawmakers is pushing forward what it's titled the \"Filter Bubble ... the bill is aimed at the heart ..."
-    publishedDateTime: 2021-11-09T23:51:00Z
-    webUrl: "https://mashable.com/article/filter-bubble-transparency-act-threatens-facebook-news-feed"
+  - title: "Facebook shutting down automatic facial recognition in photos"
+    excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
+    publishedDateTime: 2021-11-11T18:00:00Z
+    webUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521"
+    ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 152
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/02zPzzQTuSRukpzxcBQv9DD/hero-image.fill.size_1200x675.v1636502109.png"
-        width: 1200
-        height: 675
+      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/11/faceb.jpg?itok=QLjSS1xF"
+        width: 750
+        height: 393
         isCached: true
   - title: "New Facebook Product for Financial Advertisers"
     excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
@@ -56,6 +58,22 @@ related:
       - url: "https://www.accuracast.com/wp-content/uploads/2021/11/facebook-finanical-discovery.jpg"
         width: 1500
         height: 800
+        isCached: true
+  - title: "Artificial General Intelligence (AGI) Market to See Major Growth by 2026 | General Vision, Facebook, Digital Genius"
+    excerpt: "The Latest Released Artificial General Intelligence AGI market study has evaluated the future growth potential of Artificial General Intelligence AGI market and provides information and useful stats on market structure and size The report is intended to provide market intelligence"
+    publishedDateTime: 2021-11-13T09:01:00Z
+    webUrl: "https://www.openpr.com/news/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    ampWebUrl: "https://www.openpr.com/amp/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461073/artificial-general-intelligence-agi-market-to-see-major"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub13251976_g.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "xAITwcCvAGwGUN7MQgTY3er4zRLA1DC7j0SPW3McdCGhCdJC/z6JGbJ69qOS21vx6HAVyDAA+qyx0OobMu1SjwH6PVGd5Wl0cORDxZYy6QnW54U+G04eJddzP7feNdNNhz+8z0FxV+n+6mxpvxUwHW+a/geaQwwzIsvmySJdeHE8FdrORucRF7+tnrQFb4H0bIrRl85j54J7/dTsmxEXjfJ3qK1E2tmAhyqIkSkyJO8UgaivzgGe2Cyu2EycrkUIYa7sXIQ68xxc8F4C7yGiPv5Gopy9uAqbWFjEGZ57PhBYVwJlHyWWH8XVG6DxIOM+vE1wV0/FAcdUmYeVLmhvs5vQ81eb1a9uRB88u+v3B6jpTwFAp8a9nHhJsVInjFWpgBX94+du/1OeAvY2PKYHs1YUdipSBvUA3P4qbSQBVFiy/CE85cxBKb2TdNgJTm+c0UZnsbN0B7uj0tA6yU4Q9GLHsNh/hkuKOcWFX4aNSaDfXUrI4qMBHJETmeCIsK5zEinYlAmJ8DzzFhBcgfHWcQ==;ffW7/LwxEG2ulunbofeoHA=="

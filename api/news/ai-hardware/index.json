@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-12-nvidia-gtc-fall-2021-8-big-announcements-for-ai-security-and-more.md",
-      "title": "Nvidia GTC Fall 2021: 8 Big Announcements For AI, Security And More",
-      "excerpt": "A roundup of eight big announcements at Nvidia’s fall GTC 2021 conference that cover areas like AI, security, networking, 3-D design and more.",
+      "path": "_news/2021-11-14-nvidia-envisions-ai-for-everything.md",
+      "title": "NVIDIA Envisions AI For Everything",
+      "excerpt": "NVIDIA’s GTC and SC21 show how specialized processors such as GPUs and DPUs are helping to incorporate AI capabilities into more applications, enabling digital twins of just about everything. Zettar,",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/nvidia-gtc-fall-2021-8-big-announcements-for-ai-security-and-more",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/nvidia-gtc-fall-2021-8-big-announcements-for-ai-security-and-more",
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 239,
       "tags": null,
       "images": [
         {
-          "url": "https://www.crn.com/resources/026f-13b321c1b659-57c5206111f9-1000/slide1.jpg",
-          "width": 610,
-          "height": 344,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61903d3ad415bc12fdc919f2%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T14:54:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/",
+      "publishedDateTime": "2021-11-14T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI",
-        "AI in Security"
+        "AI Hardware"
       ]
     },
     {
@@ -298,40 +306,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump.md",
-      "title": "Luminar Lidar to Integrate with NVIDIA DRIVE Hyperion AI Platform; Shares Jump",
-      "excerpt": "Luminar Technologies (LAZR), the global automotive lidar hardware and software technology provider, announced that its lidar solution has been selected to integrate into the sensor suite of semiconductor maker Nvidia Corporation’s (NVDA) AI vehicle computing platform for autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
-      "originalUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-lidar-to-integrate-with-nvidia-drive-hyperion-ai-platform-shares-jump",
-      "publishedDateTime": "2021-11-10T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1437,6 +1411,58 @@
       "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
       "publishedDateTime": "2021-11-01T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-intel-habana-ai-accelerator-becomes-available-on-amazon-ec2.md",
+      "title": "Intel Habana AI Accelerator Becomes Available On Amazon EC2",
+      "excerpt": "The Amazon EC2 DL1 instance type delivers up to 8 Gaudi accelerators with 32 GB of high bandwidth memory (HBM) per accelerator with 400 Gbps of networking throughput and 4 TB of local NVMe storage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617f789c7aa77d3d07ecc29a%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/",
+      "publishedDateTime": "2021-10-31T22:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

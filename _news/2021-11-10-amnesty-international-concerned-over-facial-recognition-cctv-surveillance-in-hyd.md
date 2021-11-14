@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A Generation Growing Under Surveillance: The Dangers of Facial Recognition In Schools"
+    excerpt: "In conversation with my teenage daughter last week, I pointed out a news report which flagged concerns over the use of facial recognition technologies in several school canteens in North Ayrshire, Scotland."
+    publishedDateTime: 2021-11-14T15:24:00Z
+    webUrl: "https://interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
+    ampWebUrl: "https://amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 52
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/rV6nDkYmOX/sizes/surveil_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
     excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."
     publishedDateTime: 2021-11-11T11:40:00Z
