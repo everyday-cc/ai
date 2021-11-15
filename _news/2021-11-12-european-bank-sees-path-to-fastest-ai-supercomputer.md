@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-f
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look.jpeg"
         width: 1400
         height: 1867
+        isCached: true
+  - title: "OTP Bank selects SambaNova Systems for AI supercomputer"
+    excerpt: "Hungaria’s OTP Bank has tapped SambaNova Systems to build ‘the fastest AI supercomputer in Europe.’ The two companies this week announced a strategic partnership to deploy a multi-rack AI system, built on SambaNova Dataflow-as-a-Service GPT and its DataScale integrated software and hardware system,"
+    publishedDateTime: 2021-11-15T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/otp-bank-selects-sambanova-systems-for-ai-supercomputer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Samba_Systems_Datascale.2e16d0ba.fill-1200x630.png"
+        width: 750
+        height: 394
         isCached: true
   - title: "OTP Bank Selects SambaNova Systems to Build Europe's Fastest AI Supercomputer"
     excerpt: "SambaNova Systems, the company building the industry's most advanced software, hardware and solutions to run artificial intelligence (AI) applications, and OTP Group, the leading banking group in Central and Eastern Europe (CEE),"

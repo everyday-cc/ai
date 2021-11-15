@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 943
         isCached: true
+  - title: "AUC Venture Lab Fintech Accelerator Celebrates Fifth Anniversary, Graduates Biggest Cohort to Date"
+    excerpt: "The Fintech Accelerator at The American University in Cairo’s Venture Lab celebrated its fifth anniversary this fall and graduated its biggest cohort to"
+    publishedDateTime: 2021-11-15T11:39:00Z
+    webUrl: "https://www.albawaba.com/business/pr/auc-venture-lab-fintech-accelerator-celebrates-fifth-anniversary-graduates-biggest"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/auc-venture-lab-fintech-accelerator-celebrates-fifth-anniversary-graduates-biggest"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/auc-venture-lab-fintech-accelerator-celebrates-fifth-anniversary-graduates-biggest"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 30
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-11/Demo%20Day-%20FinTech%20Accelerator-%202.jpg?itok=pKq1MojD"
+        width: 1417
+        height: 945
+        isCached: true
   - title: "Atlanta-Based LendingPoint Named Best Financial Planning Software by Benzinga in 2021 Global Fintech Awards"
     excerpt: "LendingPoint, an AI-driven CreditTech platform, today announced that it won Best Financial Planning Software from Benzinga in the seventh annual Global Fintech Awards. The award recognizes LendingPoint's ability to adapt and innovate to serve its customers at all experience touchpoints to provide fair access to credit for those that need it most."
     publishedDateTime: 2021-11-11T14:14:00Z

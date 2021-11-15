@@ -35,6 +35,22 @@ related:
         width: 1280
         height: 943
         isCached: true
+  - title: "AUC Venture Lab Fintech Accelerator Celebrates Fifth Anniversary, Graduates Biggest Cohort to Date"
+    excerpt: "The Fintech Accelerator at The American University in Cairo’s Venture Lab celebrated its fifth anniversary this fall and graduated its biggest cohort to"
+    publishedDateTime: 2021-11-15T11:39:00Z
+    webUrl: "https://www.albawaba.com/business/pr/auc-venture-lab-fintech-accelerator-celebrates-fifth-anniversary-graduates-biggest"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/auc-venture-lab-fintech-accelerator-celebrates-fifth-anniversary-graduates-biggest"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/auc-venture-lab-fintech-accelerator-celebrates-fifth-anniversary-graduates-biggest"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 30
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-11/Demo%20Day-%20FinTech%20Accelerator-%202.jpg?itok=pKq1MojD"
+        width: 1417
+        height: 945
+        isCached: true
   - title: "Syfe's Dhruv Arora and Samantha Horton Wins Top Accolades at the 2021 Singapore FinTech Festival Global FinTech Awards"
     excerpt: "Founder and CEO of Syfe, Dhruv Arora, and Samantha Horton, VP of Business Development, secured the awards for Top 10 FinTech Leaders and Women in FinTech respectively Organised by the Singapore FinTech Association in collaboration with the MAS,"
     publishedDateTime: 2021-11-12T15:07:00Z

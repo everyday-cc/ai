@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/a-generation-growing-under-su
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Interesting Engineering
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Israel using facial recognition surveillance in Palestinian city"
-    excerpt: "HEBRON: Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an"
-    publishedDateTime: 2021-11-10T19:43:00Z
-    webUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city"
-    ampWebUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
+  - title: "Rights groups demand halt to South Korea facial recognition surveillance project"
+    excerpt: "A project intended to develop an AI-powered facial recognition system to be used for airport immigration purposes has met with fierce criticism."
+    publishedDateTime: 2021-11-11T18:17:00Z
+    webUrl: "https://www.biometricupdate.com/202111/rights-groups-demand-halt-to-south-korea-facial-recognition-surveillance-project"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
     images:
-      - url: " https://i.tribune.com.pk/media/images/Surveillance1636573997-0/Surveillance1636573997-0.jpg  "
-        width: 712
-        height: 400
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
   - title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
     excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."

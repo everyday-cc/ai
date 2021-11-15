@@ -55,7 +55,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -107,7 +107,7 @@
       "originalUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -849,49 +849,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-09-big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies.md",
-      "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
-      "excerpt": "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.clinicaltrialsarena.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
-      "originalUrl": "https://www.clinicaltrialsarena.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/11/leaders.jpg",
-          "width": 1400,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Clinical Trials Arena",
-        "domain": "clinicaltrialsarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-09-amd-boosts-performance-of-datacenters-technical-computing-hpc-and-ai.md",
       "title": "AMD boosts performance of datacenters, technical computing, HPC, and AI",
       "excerpt": "AMD announced it has improved performance levels for datacenters, technical computing, high-performance computing, and AI.",
@@ -1471,6 +1428,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-ford-taps-non-it-professionals-to-broaden-its-ai-expertise.md",
+      "title": "Ford Taps Non-IT Professionals to Broaden Its AI Expertise",
+      "excerpt": "The auto maker has trained more than 1,000 employees on a platform it developed to put AI tools in the hands of people across the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "originalUrl": "https://www.wsj.com/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-427127/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ford-taps-non-it-professionals-to-broaden-its-ai-expertise-11635812960",
+      "publishedDateTime": "2021-11-01T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

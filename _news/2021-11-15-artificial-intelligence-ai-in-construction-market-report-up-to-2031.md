@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2461984/artificial-intelligence-ai-in-con
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 360
     isCached: true
 
-secured: "0R2hRZra58oIbtA5TJGSfsWNar3Uw5+KpWJJpuMS8kt5Y02XuE6awuHirs7fFgDyATfIF6t1ZiVxArfdwUtLYnD11mq/lqEJM7W0gNYOX675Ol9eYtyhrQb2hyeC86cjjFmIMk/LGpZOvL9Yzf7e32zFG9RW9cFQW9CiiqwxZ7EUL+j+KlnKTXk78sqiPO2zkU0AOLDcJDP6gu4afQqkDBQUU8TIvWEZHt8Jj59oI3lbdHbgRB2uyL0QOSq9R3rX1JipEA/6cY69WbgLEyMNH7yh3fcBeQEW7biK/asejWj5JOh6AXVzF5cm/QVUwBD1Kpz07i6SDxRfEJxsKbMp98laeEcWdoclF+F8aIT9hI8=;/6wkZt9yiAvFa/6ZQV98Uw=="
+secured: "3S4xgxEwelrlPVWV37dEsmemhBtLRa4UnInzdkjZtF/sWE6qDAog5iS15f2T0onSXy9POQyXQN3AroJ2mKAayqxLRnvlGPOpaRzV8Y0U2Fd0Xv4LYqkowuk8qSpmdd0AMFeO75zvGUSWkLNIhs0Kz98cAr/epuNGPE5lE6h4lLjwwZcfbI+U7Id6mRKvVYSaXSPvt/zqW+c5WcP+FjJ3hjXHhVgcPTgYfhGZ7WLJ5hCoSBTGkx+2k8kh/Rca2HBvHO0nUELbQ99DBUhzC9WGmmzBe6eUfve8/+3HA5WdOgeqQGB0oQkDugWsdqjavYRPSkOPuSXe5nemV75/nm6lte7RM6SVPDnUpnWQ3DXqok1f0DxxvGPSizIGbtDkKgsbxRWwgujqRNCrzz7sIpamMLhSG982iXPrOCtpA6WBEEnIGwuEKjV8fqZsI96yNUb3LhG6+eDsM5pAoFf4xf9VpVu98mcoSEJfO9h0NUyAd/niks9aXLWoTKuKcMrKdAXXdtfObSnLf4yDIDoFNQSOEg==;4jEEV2MZXPVfTGTZVhApcA=="
 ---
 

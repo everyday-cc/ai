@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meet The Winners Of The 2021 Benzinga Global Fintech Awards"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
-    publishedDateTime: 2021-11-10T19:28:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-financial-technology-def643374cf19c039d27f8ae216e11db"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Top 10 Stories from Singapore Fintech Festival 2021"
     excerpt: "Like previous years, the 2021 Singapore Fintech Festival was the opportunity for some of the world’s largest tech firms, banks, fintech leaders and regulators to announce their latest products and initiatives."
     publishedDateTime: 2021-11-12T05:28:00Z

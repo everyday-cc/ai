@@ -148,15 +148,6 @@ related:
         width: 326
         height: 250
         isCached: true
-  - title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
-    excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"
-    publishedDateTime: 2021-11-10T20:03:00Z
-    webUrl: "https://thegoaspotlight.com/2021/11/10/nvidia-announces-omniverse-avatar-platform-for-creating-interactive-ai-avatars/"
-    type: article
-    provider:
-      name: thegoaspotlight
-      domain: thegoaspotlight.com
-    quality: 15
 
 secured: "3TlchcURka3onOkdxIvt6TgIY3K4SeCqUSZfZTOWwmzpCilie2DO9Wu5Z/Xe1/P8JmwEBbXxpyystP+7P10QhRyRJNlFiQjRFYIodLvj6QQxW5RPRq8IwheM8ue+yTmrQnJbm/GBVwmnKxvcrE0t+diq/ZHZywFCHICuzZnbfdujq8u3lPhY8UsTP2bQiTIRJgajWOsqiDBsgiR1JkHZMK5fDLS27zdtDDJSppZccB+4rUWRp1yCM5+YvQqWVFnayTz2Vkufook06IGbUlwF2bVo7CbzpCQnTQz9REsKjFLT+dcrv2l8Uk8uc0RMbqLkX2tm+sEv1xiCFdWL3csPxANHHX+QMNHCGnFS+t5OTF/wtwR67OSnLE7MXxc5cCTPmyqhd/ZWtUZat2qGboVaRlQcKnBEbGnXjyO0EprAS9ycd2x6regW7rvKHiUkIRnIqhI40DYjH7DHdCIJbAYi0g7ZieqMRQHKRZGVxGP7kDd++CEZbDMl88zBSybhDNG3ONVko0pDc4NygdTV3aAaeg==;pku5SjEP7J6YDickoAAD2w=="
 ---

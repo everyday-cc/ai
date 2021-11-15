@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -151,15 +151,6 @@ related:
         width: 326
         height: 250
         isCached: true
-  - title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
-    excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"
-    publishedDateTime: 2021-11-10T20:03:00Z
-    webUrl: "https://thegoaspotlight.com/2021/11/10/nvidia-announces-omniverse-avatar-platform-for-creating-interactive-ai-avatars/"
-    type: article
-    provider:
-      name: thegoaspotlight
-      domain: thegoaspotlight.com
-    quality: 15
 
 secured: "XwpAMSKN0F+lEilCDDD0/75ZHPJkXk5pZBvnhr5gQcxTK4Trjrv/h/9fpjv7Bsw7SdacUY+15PemZccbBFWryDGcONqqp9cYaW0xkRA0YSZpMObZ67d3eB6ciLZuPy5uIXreriWbElrJVqRaQCwO9KCdIMY6gznCbNWtFgjdqHycM0JdFnxqzfe+3QZjonNm3SIyLnYAGMRw1YRbCK3SYvcI1us2dUJiKN5tubo3JvgGUjswhw5C05PKjuk3U/82LvlvUgzTVYHVbUoGl9sXTwcrg0tpDF7417vNr6rkQjk7kezYji2uLEh17VcGMXD52hYaFzaVZmyK7xFz6ZvuV+Utg15EaCpFNTyjbIETkPIHSphlCQl3qJKc1Wcl/CuqyPiwx1ZYRRBjZzwMuoJQ7/d6yuY2TSds4EDQO1fEyKybTWMM8cwJwdr10FB4tJgVtY/f46Ey2Gz+D4aD1n1Ysx/GAdZUROa4BcrJgJot0+AO1m3m5gjFMl3/LJvFSZ+Wq2BuMqpnKY45MCM+icrrbw==;QQBTEq7HjWnMr08v7QkBWA=="
 ---

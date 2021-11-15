@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/396710"
 webUrl: "https://www.entrepreneur.com/article/396710"
 type: article
 quality: 54
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Meet The Winners Of The 2021 Benzinga Global Fintech Awards"
-    excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
-    publishedDateTime: 2021-11-10T19:28:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-financial-technology-def643374cf19c039d27f8ae216e11db"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Three leading fintech trends to watch in 2022"
     excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"

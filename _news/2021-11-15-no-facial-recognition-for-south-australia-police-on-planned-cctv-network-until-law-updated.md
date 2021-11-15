@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/no-facial-recognition-for-s
 webUrl: "https://www.biometricupdate.com/202111/no-facial-recognition-for-south-australia-police-on-planned-cctv-network-until-law-updated"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 914
     isCached: true
+
+related:
+  - title: "Oosto endorses the Australian Government's decision to delete pictures scraped from the net for facial recognition app"
+    excerpt: "As a vendor of AI based facial recognition products for private companies and government agencies it is important for me to emphasise - facial recognition apps should be"
+    publishedDateTime: 2021-11-15T10:50:00Z
+    webUrl: "https://www.sourcesecurity.com/news/oosto-endorses-australian-government-decision-delete-co-1536229326-ga-co-1602588840-ga.1636962489.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/oosto-endorses-australian-government-decision-delete-co-1536229326-ga-co-1602588840-ga.1636962489.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/oosto-endorses-australian-government-decision-delete-co-1536229326-ga-co-1602588840-ga.1636962489.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/synectics-release-tech-note-webinar-cloud-storage-partnership-cctv-user-group-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
 
 secured: "rjYmxEK5ohnycErCH0iJHybHImGaMVnuzlCjh8KOFXA2B3CdPqRNVPK2cwuBAwawdRr0tcDmBtEsiBETSfQYbf72tcHRH7RiV4X98FcTUgP99bBgikxyiWBbLsyZ7GC/eFziz1m06UQFhHCvzl1WPdgfELSwi1J8gbiIAR4o87XQFmlAsUps5PrIjFIc8aez5O44QaitFr9/G+w255WRMQsPwdINuX1FYpKPTs9PBGlRzEeGuelyRHWxF9gtP323gKY1BM9ZdbmE2Crl9348ddTnYqBCAQtlQtkt0gKp7VGoxeuBE0Da0qemaWYgqdkaxzbPPW5r/9zqHp/zj+CW9Hc9gubvpsoxIJEAuljasqg=;stW8x8gWy5XcKN+pijLhOA=="
 ---

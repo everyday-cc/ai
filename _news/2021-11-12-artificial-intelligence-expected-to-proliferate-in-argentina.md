@@ -7,7 +7,7 @@ originalUrl: "https://www.bnamericas.com/en/news/artificial-intelligence-expecte
 webUrl: "https://www.bnamericas.com/en/news/artificial-intelligence-expected-to-proliferate-in-argentina"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,40 @@ images:
     width: 720
     height: 590
     isCached: true
+
+related:
+  - title: "Argentina’s opposition scores win in midterm elections"
+    excerpt: "Argentines angry at high inflation and rising poverty could strip President Alberto Fernández’s coalition of its control of the Senate in mid-term elections Sunday"
+    publishedDateTime: 2021-11-14T20:20:00Z
+    webUrl: "https://www.krqe.com/news/world/argentine-midterms-could-make-president-a-lame-duck/"
+    ampWebUrl: "https://www.krqe.com/news/world/argentine-midterms-could-make-president-a-lame-duck/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/world/argentine-midterms-could-make-president-a-lame-duck/amp/"
+    type: article
+    provider:
+      name: KRQE
+      domain: krqe.com
+    quality: 44
+    images:
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/11/1362743d6c794df996e24731ac6656f5.jpg?w=1280"
+        width: 1280
+        height: 876
+        isCached: true
+  - title: "Argentine midterms could make president a ‘lame duck’"
+    excerpt: "Argentines angry at high inflation and rising poverty could strip President Alberto Fernández’s coalition of its control of the Senate in mid-term elections Sunday"
+    publishedDateTime: 2021-11-14T20:20:00Z
+    webUrl: "https://www.krqe.com/news/world/argentine-midterms-could-make-president-a-lame-duck/"
+    ampWebUrl: "https://www.krqe.com/news/world/argentine-midterms-could-make-president-a-lame-duck/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/world/argentine-midterms-could-make-president-a-lame-duck/amp/"
+    type: article
+    provider:
+      name: KRQE
+      domain: krqe.com
+    quality: 44
+    images:
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/11/1362743d6c794df996e24731ac6656f5.jpg?w=1280"
+        width: 1280
+        height: 876
+        isCached: true
 
 secured: "Jo4ask1g+8i5qHevXOIAnHp4/52FQvNDyUqrgPZKgGuoAWHCpg01AWVQiTSOlfFdSTssVY+Asx4KEbFM+JTDlSUpTAza09pBGPFiWkOMbHbLCDSVB/tfF/s2UPVkCuQ/Kyv/fO8wOyS10GBFib6j64ylHv714cSQTXI2Nwxiu6+/P7EYRm/Yu8YyhedG9Sg1RGfGOqjemWS9Mmqr4Ahpoblvcrrh+zDNHUwkNGxV8tDbAhhnlJSz0kF72zuMmpr1aCr3LNah1s+T3DGCT6aZQoq/c75IcUka8hVMMCH2Zpg4Gh3ScJG+CnC5dpv9bG/9B0wZE6UFJ1fCF2UUSfMb+Dzp3Sjjg6GAUwSXHlXDfrc=;Il3sNoa14A6fOQ/dLbipDQ=="
 ---

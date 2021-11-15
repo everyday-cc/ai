@@ -2,6 +2,160 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-10-inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters.md",
+      "title": "Inworld AI joins metaverse innovation with AI-driven virtual characters",
+      "excerpt": "Inworld AI announces plans to populate the metaverse with AI-driven virtual characters, and raises $7 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/9xonhbI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/",
+      "publishedDateTime": "2021-11-09T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-timnit-gebru-says-artificial-intelligence-needs-to-slow-down.md",
+      "title": "Timnit Gebru Says Artificial Intelligence Needs to Slow Down",
+      "excerpt": "Artificial intelligence researchers are facing a problem of accountability: How do you try to ensure decisions are responsible when the decision maker is not a responsible person, but rather an algorithm?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
+      "originalUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6189c83d08983f9bcb06800e/master/pass/Timnit-Gebru.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rewired-2021-timnit-gebru/amp",
+      "publishedDateTime": "2021-11-09T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai.md",
+      "title": "TechCrunch+ roundup: Deep tech predictions, HashiCorp’s IPO, enterprise-wide AI",
+      "excerpt": "If you believe you have a good idea for a startup, go for it. When venture capitalists say this is a good time to be a founder, you know they absolutely mean it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/",
+      "originalUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-906726726-1.jpg?w=1024",
+          "width": 1024,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/",
+      "publishedDateTime": "2021-11-09T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-meta-to-halt-use-of-facial-recognition-technology-on-facebook.md",
       "title": "Meta to Halt Use of Facial Recognition Technology on Facebook",
       "excerpt": "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse",
@@ -1045,151 +1199,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai.md",
-      "title": "Why HR Should Pay Attention To The Emergence Of People Analytics And AI",
-      "excerpt": "A key differentiator for successful organizations is how well they manage their talent. As the value of data continues to increase, the opportunity for HR to leverage this data will become more prominent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189427be94633fae4f28dfa%2F0x0.jpg",
-          "width": 1200,
-          "height": 841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
-      "publishedDateTime": "2021-11-09T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-could-blockchain-and-ai-help-prevent-deforestation.md",
-      "title": "Could Blockchain And AI Help Prevent Deforestation?",
-      "excerpt": "The technology firm iov42 is working with the EU to develop a “blockchain-style” infrastructure system, the aim of which is to leverage blockchain to improve standards of cross-border services for governments and organisations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/",
-      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6188f85eff2d01fdfa45c2f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/amp/",
-      "publishedDateTime": "2021-11-09T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-creating-a-gpt-style-language-model-for-a-single-question.md",
-      "title": "Creating a GPT-Style Language Model for a Single Question",
-      "excerpt": "Researchers from China have developed an economical method for creating GPT-3-style Natural Language Processing systems while avoiding the increasingly prohibitive expense of time and money involved in training up high volume datasets – a growing trend which otherwise threatens to eventually relegate this sector of AI to FAANG players and high-level investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/creating-a-gpt-style-language-model-for-a-single-question/",
-      "originalUrl": "https://www.unite.ai/creating-a-gpt-style-language-model-for-a-single-question/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-xWccs0dj/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/moby-dick.jpg",
-          "width": 818,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
         "publishers": null,
         "authors": null
       },

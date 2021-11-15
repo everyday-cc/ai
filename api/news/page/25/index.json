@@ -2,6 +2,144 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-10-26-global-natural-language-processing-in-bfsi-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027.md",
+      "title": "Global Natural Language Processing in BFSI Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2027",
+      "excerpt": "A research study conducted on Global Natural Language Processing in BFSI Market 2021 by Company, Regions, Type",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-10-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-10-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-global-cognitive-dysfunction-and-amyloid-neuropathology-in-late-life-and-treatment-resistant-major-depression.md",
+      "title": "Global cognitive dysfunction and β-amyloid neuropathology in late-life and treatment-resistant major depression",
+      "excerpt": "Taipei, Taiwan Institute of Brain Science and Brain Research Center, School of Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan Institute of Cognitive Neuroscience, National Central University, Jhongli, Taiwan",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/global-cognitive-dysfunction-and-amyloid-neuropathology-in-latelife-and-treatmentresistant-major-depression/59CC95EDAD28DA8EE35B96905BCB6EC6",
+      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/global-cognitive-dysfunction-and-amyloid-neuropathology-in-latelife-and-treatmentresistant-major-depression/59CC95EDAD28DA8EE35B96905BCB6EC6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cambridge.org/covers/PSM_0_0_0/psychological_medicine.jpg?send-full-size-image=true",
+          "width": 1920,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-banjo-loans-bets-on-data-addiction-for-risk-platform.md",
+      "title": "Banjo Loans bets on Data Addiction for risk platform",
+      "excerpt": "In addition, the company has started using Azure Machine Learning services. Read more Microsoft homes in on Oracle and SAP integrations with Clear Software acquisition \"Banjo is data-driven,\" Hedt ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/692470/banjo-loans-bets-data-addiction-risk-platform/",
+      "originalUrl": "https://www.arnnet.com.au/article/692470/banjo-loans-bets-data-addiction-risk-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/julian-hedt_1.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-facebook-knew-about-failed-to-police-abusive-content-globally-documents.md",
       "title": "Facebook knew about, failed to police, abusive content globally - documents",
       "excerpt": "The company lacks AI systems to detect abusive ... a minimum number of content moderators for any language offered on the platform. LOST IN TRANSLATION Facebook's users are a powerful resource ...",
@@ -1038,163 +1176,6 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-driving-ai-adoption-with-explainability-at-the-core.md",
-      "title": "Driving AI Adoption With Explainability At The Core",
-      "excerpt": "Some business leaders are still wary of enterprise-wide AI adoption and are taking a one-step-at-a-time approach toward it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048e165345b4ab79c3f331a%2F0x0.jpg",
-          "width": 1140,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/amp/",
-      "publishedDateTime": "2021-10-25T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism.md",
-      "title": "The State of AI in 2021: Language models, healthcare, ethics, and AI agnosticism",
-      "excerpt": "Healthcare is just getting started with its AI moment, bigger language models mean bigger complications, and there may now be a third pole for AGI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
-      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cc7c6b5a2d1bd2322b59c93c7c0f67399a5f6fc8/2020/10/26/8d555a8e-93f7-4d63-bd13-e40696bdc433/quantum-computing.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
-      "publishedDateTime": "2021-10-25T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tesla-starts-rolling-out-full-self-driving-beta-103-after-a-false-start.md",
-      "title": "Tesla starts rolling out Full Self-Driving Beta 10.3 after a false start",
-      "excerpt": "Tesla has restarted the rollout of its Full Self-Driving Beta 10.3 update after a false start with a lot of bugs had them revert to the previous version. Tesla FSD Beta 10.3 was supposed to come Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/",
-      "originalUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/",
-      "publishedDateTime": "2021-10-25T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

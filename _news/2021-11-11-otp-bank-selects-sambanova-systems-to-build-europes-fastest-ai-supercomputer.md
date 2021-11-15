@@ -51,6 +51,20 @@ related:
         width: 1400
         height: 1867
         isCached: true
+  - title: "OTP Bank selects SambaNova Systems for AI supercomputer"
+    excerpt: "Hungaria’s OTP Bank has tapped SambaNova Systems to build ‘the fastest AI supercomputer in Europe.’ The two companies this week announced a strategic partnership to deploy a multi-rack AI system, built on SambaNova Dataflow-as-a-Service GPT and its DataScale integrated software and hardware system,"
+    publishedDateTime: 2021-11-15T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/otp-bank-selects-sambanova-systems-for-ai-supercomputer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Samba_Systems_Datascale.2e16d0ba.fill-1200x630.png"
+        width: 750
+        height: 394
+        isCached: true
 
 secured: "lNVXXocsICP7xLwuyZhA6T6X5+45oktv+tqswFaAYPhFXaa28TNzwJ3Wmg374UIRawi44GGf4kFNVId2rqfgnTkAHr+GumQ/2s9fXw8yapgm89uN9X3BdHgPkBul/FxffE7n637k25joTD0JVbfrtkT5Aoz1D6S9Lw8IMKa0KmULBgvz1BEA9SVTBsDpR7V0CtQ+vx8rSMJgM0wa2J8knty6KsSkxxOXYHsPSIwQ4UvyS4a+V+4cqCrIvQgFHSMmr2i3scX3zSgKrFcF4G90SaaeDfomzBg7eLT8fSZhRHcVgeuVHiaRmvoVjMmyvKeQ02zVhFWqsWvEgkgwRqJWj474kSyW6T7OuFCs2MOndIE=;oG6aJSXkcCk15hwhtXe/Ag=="
 ---

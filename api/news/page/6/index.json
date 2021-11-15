@@ -2,6 +2,151 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-09-why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai.md",
+      "title": "Why HR Should Pay Attention To The Emergence Of People Analytics And AI",
+      "excerpt": "A key differentiator for successful organizations is how well they manage their talent. As the value of data continues to increase, the opportunity for HR to leverage this data will become more prominent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189427be94633fae4f28dfa%2F0x0.jpg",
+          "width": 1200,
+          "height": 841,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
+      "publishedDateTime": "2021-11-09T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-could-blockchain-and-ai-help-prevent-deforestation.md",
+      "title": "Could Blockchain And AI Help Prevent Deforestation?",
+      "excerpt": "The technology firm iov42 is working with the EU to develop a “blockchain-style” infrastructure system, the aim of which is to leverage blockchain to improve standards of cross-border services for governments and organisations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/",
+      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6188f85eff2d01fdfa45c2f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/amp/",
+      "publishedDateTime": "2021-11-09T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-creating-a-gpt-style-language-model-for-a-single-question.md",
+      "title": "Creating a GPT-Style Language Model for a Single Question",
+      "excerpt": "Researchers from China have developed an economical method for creating GPT-3-style Natural Language Processing systems while avoiding the increasingly prohibitive expense of time and money involved in training up high volume datasets – a growing trend which otherwise threatens to eventually relegate this sector of AI to FAANG players and high-level investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/creating-a-gpt-style-language-model-for-a-single-question/",
+      "originalUrl": "https://www.unite.ai/creating-a-gpt-style-language-model-for-a-single-question/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-xWccs0dj/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/moby-dick.jpg",
+          "width": 818,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks.md",
       "title": "Hyper-personalization and new-age tech will drive AI-enabled banks",
       "excerpt": "India has witnessed a rapidly growing Big Data Revolution with the integration of AI, ML, IoT into the financial services industry.",
@@ -818,20 +963,20 @@
     },
     {
       "path": "_news/2021-11-09-popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan.md",
-      "title": "PopID and SoftBank's Japan Computer Vision Partner to Launch PopPay In Japan",
-      "excerpt": "Wendy's First Kitchen is First QSR Chain in Japan to Accept Face Pay PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the ...",
+      "title": "PopID and SoftBank’s Japan Computer Vision Partner to Launch PopPay In Japan",
+      "excerpt": "PopID, Japan Computer Vision (“JCV”, a subsidiary of SoftBank Corp), and Wendy’s First Kitchen (“WFK”) announced today the launch of PopPay - PopID’s face-recognition-based ordering and payment system - in Tokyo,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -839,13 +984,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23972605",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605",
-      "publishedDateTime": "2021-11-08T20:26:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T20:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -992,17 +1137,17 @@
     {
       "path": "_news/2021-11-09-big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies.md",
       "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
-      "excerpt": "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
+      "excerpt": "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
       "sourceUrl": null,
-      "webUrl": "https://www.clinicaltrialsarena.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
-      "originalUrl": "https://www.clinicaltrialsarena.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "webUrl": "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "originalUrl": "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/11/leaders.jpg",
+          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg",
           "width": 1400,
           "height": 934,
           "title": null,
@@ -1017,8 +1162,8 @@
       "publishedDateTime": "2021-11-08T17:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Clinical Trials Arena",
-        "domain": "clinicaltrialsarena.com",
+        "name": "Verdict Retail",
+        "domain": "retail-insight-network.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1028,165 +1173,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai.md",
-      "title": "How enterprises can keep fear, uncertainty, and doubt from impeding AI",
-      "excerpt": "Resistance to new processes is nothing new, but it could become a crucial factor for AI and the radical shift it brings to data environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1300108018-e1636131773896.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/",
-      "publishedDateTime": "2021-11-08T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-amd-boosts-performance-of-datacenters-technical-computing-hpc-and-ai.md",
-      "title": "AMD boosts performance of datacenters, technical computing, HPC, and AI",
-      "excerpt": "AMD announced it has improved performance levels for datacenters, technical computing, high-performance computing, and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/08/amd-boosts-performance-of-datacenters-technical-computing-hpc-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/08/amd-boosts-performance-of-datacenters-technical-computing-hpc-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Facebook-servers-Lulea-data-center.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk.md",
-      "title": "Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK",
-      "excerpt": "Domestic infrastructure issues are a pain for everyone involved. Not only does it negatively affect customer satisfaction, it also has a cascading effect on businesses and their bottom line in terms of financials. Electric utility poles, for example, are an example of a cumbersome infrastructure issue",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/08/damaged-pole-2.jpg",
-          "width": 801,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T16:02:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

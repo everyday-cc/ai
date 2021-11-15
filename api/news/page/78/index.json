@@ -2,6 +2,146 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2021-09-16-ai-in-cardiology-a-marriage-made-in-heaven-or-hell.md",
+      "title": "AI in cardiology: a marriage made in heaven – or hell?",
+      "excerpt": "The role of Artificial Intelligence (AI) – one of the most divisive issues in cardiology – was debated during a session of the European Society of Cardiology annual congress. Two leading experts argued the pros and cons of its use,",
+      "sourceUrl": null,
+      "webUrl": "https://healthcare-in-europe.com/en/news/ai-in-cardiology-a-marriage-made-in-heaven-or-hell.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/ai-in-cardiology-a-marriage-made-in-heaven-or-hell.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcare-in-europe.com/media/story/25869/rect-01-heven-hell-heart-wide.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-making-self-driving-cars-safer-through-keener-robot-perception.md",
+      "title": "Making self-driving cars safer through keener robot perception",
+      "excerpt": "Safety concerns have clouded the future of fully autonomous vehicles. To accelerate their progress, MIT graduate student Heng “Hank” Yang and colleagues have developed a set of algorithms to help protect self-driving vehicles and other road users.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/heng-yang-self-driving-cars-0916",
+      "originalUrl": "https://news.mit.edu/2021/heng-yang-self-driving-cars-0916",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202109/MIT-Heng-Yang-01-press.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-what-ai-and-machine-learning-mean-for-auto-lending-technology.md",
+      "title": "What AI and machine learning mean for auto lending technology",
+      "excerpt": "Many industries, including automotive finance, are turning to artificial intelligence (AI) and machine learning (ML) for these efficiencies. The technologies can deliver a competitive edge to lenders looking to not just survive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/",
+      "originalUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autofinancenews.net/wp-content/uploads/2021/09/canstockphoto52285847-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/amp/",
+      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/amp/",
+      "publishedDateTime": "2021-09-15T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto Finance News",
+        "domain": "autofinancenews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-fintech-market-to-witness-huge-growth-by-2026-ant-financial-adyen-qudian.md",
       "title": "Fintech Market to Witness Huge Growth by 2026 | Ant Financial, Adyen, Qudian",
       "excerpt": "The latest research on Worldwide Fintech Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges impeding market growth",
@@ -1009,144 +1149,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-artificial-intelligence-ai-in-healthcare-market-segments-trends-opportunities-and-forecast-to-2027.md",
-      "title": "Artificial Intelligence (Ai) In Healthcare Market Segments, Trends, Opportunities and Forecast To 2027",
-      "excerpt": "Market Study Report has recently released a Artificial Intelligence (Ai) In Healthcare Market research report covering a wide variety of market topics and indicators, such as market boosters, market expansion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-segments-trends-opportunities-and-forecast-to-2027-2021-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-segments-trends-opportunities-and-forecast-to-2027-2021-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-world-first-for-ai-and-machine-learning-to-treat-covid-19-patients-worldwide.md",
-      "title": "World first for AI and machine learning to treat COVID-19 patients worldwide",
-      "excerpt": "Addenbrooke's Hospital in Cambridge and 20 other hospitals from across the world and healthcare technology leader NVIDIA have used artificial intelligence (AI) to predict COVID patients' oxygen needs on a global scale.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-09-world-ai-machine-covid-patients.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-09-world-ai-machine-covid-patients.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-covidpatient.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-09-world-ai-machine-covid-patients.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-world-ai-machine-covid-patients.amp",
-      "publishedDateTime": "2021-09-15T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-researchers-use-master-face-to-bypass-facial-recognition.md",
-      "title": "Researchers use ‘master face’ to bypass facial recognition",
-      "excerpt": "ST. LOUIS– More and more devices are using facial recognition technology these days and some scientists in Israel say they have discovered a way to bypass a large percentage of them by",
-      "sourceUrl": null,
-      "webUrl": "https://fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/",
-      "originalUrl": "https://fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox2now.com/wp-content/uploads/sites/14/2019/09/gettyimages-1138147955.jpg?w=1280",
-          "width": 1280,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/amp/",
-      "publishedDateTime": "2021-09-15T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox2Now St. Louis",
-        "domain": "fox2now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

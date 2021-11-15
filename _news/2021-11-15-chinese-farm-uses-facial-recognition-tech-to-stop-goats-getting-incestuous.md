@@ -59,6 +59,38 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Chinese goat farm is using facial recognition to stop incest"
+    excerpt: "Vert City Farm based in Shanghai is now using facial recognition technology to stop incest among its flock, eliminating incest-related birth defects."
+    publishedDateTime: 2021-11-15T10:12:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10203135/Chinese-goat-farm-using-facial-recognition-stop-incest.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10203135/amp/Chinese-goat-farm-using-facial-recognition-stop-incest.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10203135/amp/Chinese-goat-farm-using-facial-recognition-stop-incest.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/11/15/10/50501319-0-image-a-16_1636973557507.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "How Facial Recognition Technology Is Preventing Goats From Incestuous Behaviour"
+    excerpt: "A farm in China has been developing facial recognition technology to stop goats from getting incestuous and to detect other issues.  Vert City Farm in Shanghai is set to test the technology next year,"
+    publishedDateTime: 2021-11-15T10:36:00Z
+    webUrl: "https://www.unilad.co.uk/animals/how-facial-recognition-technology-is-preventing-goats-from-incestuous-behaviour/"
+    ampWebUrl: "https://www.unilad.co.uk/animals/how-facial-recognition-technology-is-preventing-goats-from-incestuous-behaviour/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/animals/how-facial-recognition-technology-is-preventing-goats-from-incestuous-behaviour/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 55
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F11%2Fgoatincest.jpg"
+        width: 1200
+        height: 619
+        isCached: true
   - title: "TS cops draw flak for random use of facial recognition scans on unsuspecting citizens"
     excerpt: "Two days after Amnesty International, Internet Freedom Foundation and Article 19 launched #BantheScan campaign, asking the Central and Telangana governments to stop the use of facial recognition system as it can potentially be used to target minority and disadvantaged communities,"
     publishedDateTime: 2021-11-13T02:35:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-14-a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools.md",
+      "title": "A Generation Growing Under Surveillance: The Dangers of Facial Recognition In Schools",
+      "excerpt": "In conversation with my teenage daughter last week, I pointed out a news report which flagged concerns over the use of facial recognition technologies in several school canteens in North Ayrshire, Scotland.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools",
+      "originalUrl": "https://interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/rV6nDkYmOX/sizes/surveil_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools",
+      "publishedDateTime": "2021-11-14T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-13-trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition.md",
       "title": "Trust in biometrics sought with AI Act, government programs and ethical facial recognition",
       "excerpt": "Biometrics adoption is being encouraged in the public sector for digital ID and online government applications as it continues to rise in the private sector.",
@@ -54,7 +97,7 @@
       "originalUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -453,20 +496,20 @@
     },
     {
       "path": "_news/2021-11-09-popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan.md",
-      "title": "PopID and SoftBank's Japan Computer Vision Partner to Launch PopPay In Japan",
-      "excerpt": "Wendy's First Kitchen is First QSR Chain in Japan to Accept Face Pay PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the ...",
+      "title": "PopID and SoftBank’s Japan Computer Vision Partner to Launch PopPay In Japan",
+      "excerpt": "PopID, Japan Computer Vision (“JCV”, a subsidiary of SoftBank Corp), and Wendy’s First Kitchen (“WFK”) announced today the launch of PopPay - PopID’s face-recognition-based ordering and payment system - in Tokyo,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -474,13 +517,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23972605",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605",
-      "publishedDateTime": "2021-11-08T20:26:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T20:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1324,49 +1367,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-west-lafayette-facial-recognition-ban-remains-in-ordinance.md",
-      "title": "West Lafayette facial recognition ban remains in ordinance",
-      "excerpt": "A civil and constructive debate over West Lafayette's ban on facial recognition software occurred Monday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
-      "originalUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.field59.com/WLFI/825fb5f80dfde4cbffab5cb33e3ee0564f984088.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.wlfi.com/templates/AMP?contentID=575660031",
-      "cdnAmpWebUrl": "https://www-wlfi-com.cdn.ampproject.org/c/www.wlfi.com/templates/AMP?contentID=575660031",
-      "publishedDateTime": "2021-11-02T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLFI",
-        "domain": "wlfi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

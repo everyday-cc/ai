@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israel using facial recognition surveillance in Palestinian city"
-    excerpt: "HEBRON: Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an"
-    publishedDateTime: 2021-11-10T19:43:00Z
-    webUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city"
-    ampWebUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
-    images:
-      - url: " https://i.tribune.com.pk/media/images/Surveillance1636573997-0/Surveillance1636573997-0.jpg  "
-        width: 712
-        height: 400
-        isCached: true
   - title: "A Generation Growing Under Surveillance: The Dangers of Facial Recognition In Schools"
     excerpt: "In conversation with my teenage daughter last week, I pointed out a news report which flagged concerns over the use of facial recognition technologies in several school canteens in North Ayrshire, Scotland."
     publishedDateTime: 2021-11-14T15:24:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/rV6nDkYmOX/sizes/surveil_resize_md.jpg"
         width: 744
         height: 419
+        isCached: true
+  - title: "Rights groups demand halt to South Korea facial recognition surveillance project"
+    excerpt: "A project intended to develop an AI-powered facial recognition system to be used for airport immigration purposes has met with fierce criticism."
+    publishedDateTime: 2021-11-11T18:17:00Z
+    webUrl: "https://www.biometricupdate.com/202111/rights-groups-demand-halt-to-south-korea-facial-recognition-surveillance-project"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
 
 secured: "R2ZaAkYZO6MC+rfC+Ideyxmn/t9mAILSJHdNmySj1upMSa1GVqysdvO/9q113vqht49Ic+g4zv9wTuwrSUZXhYbMwINjSTv9KD/eN/MFIOdwYW1qGwgBymuVOePUbgo6AhgJ2DclF+gzosqsZxRgPDJXZk/ZgO5K+hC1TvZZhFlqQjT9P9Gky6vKDUGe3iCGV02DCmK3I4EEjQ8/hneT2fbwSnssH7r8qE4tu9UxxMD+Srd8BjpkXFb5RnAugsnLQ1NY7vZZa6xYYML1p41wnp8gB826qN2xZS8xPu07hma/33zHeoO9tH8JL7KvpXLaZpVrJimRS+48Bpx6IylYL9EzKDsEb9aKPSS2DOEB/sLNIbKZAw+9KJWoQfPMHwbAEzf/JCHzkxZZUYIiy67RM6hRXSpf+FAaAe+r9aJIB7owEAkM72AgL9fQWSkgvv1ZT7KwRvgubloUPXWMNdECpJxS6xmOLh9VAxT7MYmeiKv7KTZ9i62586Gyri24SpwAYXiUFbuRtegumdteNDpIfg==;d2oTiKWQuQp1BbqjS0NSJA=="
