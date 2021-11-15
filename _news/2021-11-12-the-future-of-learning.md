@@ -59,6 +59,22 @@ related:
         width: 900
         height: 471
         isCached: true
+  - title: "Deep Learning in the Ocean’s Depths"
+    excerpt: "A sensor-packed biologger provides insights about underwater animal behavior with the help of deep learning methods."
+    publishedDateTime: 2021-11-15T18:24:00Z
+    webUrl: "https://www.hackster.io/news/deep-learning-in-the-ocean-s-depths-2928e7023f7d"
+    ampWebUrl: "https://www.hackster.io/news/deep-learning-in-the-ocean-s-depths-2928e7023f7d.amp"
+    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/deep-learning-in-the-ocean-s-depths-2928e7023f7d.amp"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 59
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1373941/sensors-21-06392-g003_fvjwoAMYQR.png?auto=compress%2Cformat"
+        width: 2975
+        height: 2681
+        isCached: true
 
 secured: "gOe/8QTKeR2ZWdH7RFEtFiRQFO/yKzwxDQ6mCzhdFu2DvO03FqAiP5Q68PXN3dpvVl6bf+EEXbcVrTEeA6N+o8y6ySmbzSfPs8rAgDJjNtGMljOSTlAPWsuAmcWvnoTRY1MPFxlfKDrTGovAu4c68aa84/yOZUHbDl91Vs5zqoDmORdNeDVxchPw1XpJgDePV60VXjKXukDCWiQyvR22UxbbiPySylkW49muOogXGomldaEW2/qa86Aw69b2bCepI7XkUHRMYRGWvY+WbUKhWscpXOXIJEO2A/tYz2kckJjukvVAtKIkih+MeTmKDpAQGVimA1wZuVp5KYKG6ZEgHd6LnR6LMuwgpbC2m8mcE8icI4kkrxTc84kdckDltrmdD1uHYLwQdQxNR2JxR7GCTEBpU5iGdqunwGO8y86OP+gTPRSipHpYFgrdLvJ+p6vtIlltyCWQmQWlcYXLkSoiWhTEgKFtIoWdyPW5o6aE7YhVQv76D68ZGAXYYNIevCBtfs4kbnwJ6uGBdgoMjv2XTg==;XUdoJm7ITKejRZuRx9vUiw=="
 ---

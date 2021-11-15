@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-wision-ai-achieves-ce-mdr-mark-app
 webUrl: "https://www.tmcnet.com/usubmit/-wision-ai-achieves-ce-mdr-mark-approval-ai-/2021/11/13/9491454.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Wision Gets CE Mark for AI-assisted Colonoscopy Diagnostic Software"
+    excerpt: "EndoScreener demonstrated its efficacy in improving adenoma detection in more than 5,000 patients in six randomized controlled trials, the company said."
+    publishedDateTime: 2021-11-15T19:58:00Z
+    webUrl: "https://www.fdanews.com/articles/205365-wision-gets-ce-mark-for-ai-assisted-colonoscopy-diagnostic-software"
+    type: article
+    provider:
+      name: FDAnews
+      domain: fdanews.com
+    quality: 17
 
 secured: "6enWpm8QaSFxh7oUhVrwUCaAJO8knJXlKqAPVllM4w07mLXt0v/CI3UzH1pL+Qz1xmmpbNrTnj7nEjCOk/4eVxr+mQIFyM5oVcuEnGHG9seoBzuH3IVkOz+Cec9BFNhmdwFhjIwpG8heiUMVFCIqPN7aMqVP4VdstfEpgabugZ6yMvlXUsh3wtk6tUDAmwlPZn//4SAiiMtaVJ1ZkHjSNe3EhLlZ0BjRvBKCaAAz/0skjeKY55tLeqa85AGFtjUVbDg132mC3GWUnFpBRclC09BdXNrBXuhNMiiFFCpeDfpXCrJKBHScmlw4oKZgefd+7hsHBRMXElbQn9dxDM93J+DeyIN09RCaAbcIYq8Pfmo=;UcW9ZRb03b7qT4YUAimo5g=="
 ---

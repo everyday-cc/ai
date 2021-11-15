@@ -2,14 +2,12 @@
 category: news
 title: "Does artificial intelligence for IT operations pay off?"
 excerpt: "For overwhelmed IT teams, AIOps holds the promise of automatically heading off potential business impacting outages. But some IT leaders are skeptical about whether it can really deliver results. Rodrigo de la Parra,"
-publishedDateTime: 2021-11-15T16:19:00Z
-originalUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334"
-webUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334"
-ampWebUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334?amp=1"
+publishedDateTime: 2021-11-15T20:02:00Z
+originalUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off-2/464875"
+webUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off-2/464875"
 type: article
-quality: 59
-heat: 59
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -17,15 +15,8 @@ provider:
   domain: itworldcanada.com
 
 topics:
-  - IBM AI
   - AI
 
-images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2021/11/c-g900f5c19e_1920.jpg"
-    width: 1850
-    height: 950
-    isCached: true
-
-secured: "UB6N3wsoYUryW+i8UovhmDKcOfaV4jbuO7zPZlFCZTFNZX1HDErqpwG8PsEcp7qW07oseYIFMlwZKRgyj6hM4Xlrar8hAiEBkJBnblXyHr8vvAugmo1bt44AbjkYRR2piyTh8ur8EuGNHMpQD6SGnETZGj1R0wNIz2+YSuL/hDhjSeFF+9FiUR0EsMrYWUA5OVbkvt7n2+xv9L0G3r4+2Y5EBsEUYhNVxIgrRkyrtzhoL6DrGex2OTucKaq1N8IMgT2COn48IkWz6FbLfqYa7ljx3iP3uFUd2Xbky4y25OZUsC0rEiB8RMdMToBtgL1YIwvBJL3y6V7wjtCFQphqpz0q2wMdXzk4iifSBjepaXs=;qj2qWcicjJdfE8a/KP6fdg=="
+secured: "oiR7X0Gb9Br5kFFEVFHsTvIm/bCgPcgMsF3fz8tY+2ezflz9FPamMmMc2qdXJQNLfpAo+BBgWpP6+30nn21ctO6IkeB86skq2h/I/ly/7io6CtHUZ7r90/Ms9UEx3XvHiJNZ6z0G6wtT1PX/IyOv7GPsU5ie6svaIOsr3umS1c6shPcr0FBbjvcU/9p8kY5QYlcDdI6iYVDVy7RXwcbOrxBYM1pWre8RRF1bTxQRTAq9/Suvkzk3IAO8kUIynvehPGi+6pSAX3sYhb44l+ccxXerAzQ80v2Jrmi4cvJ27DzNvHi4L2R2h1H0s07HsAN5xKJDKzCJ74n/G2hub2xnWBqTB4YrRjUBrOrHwpJuYa0=;oP9vV9yczI4w6bZ3/y0Lvw=="
 ---
 

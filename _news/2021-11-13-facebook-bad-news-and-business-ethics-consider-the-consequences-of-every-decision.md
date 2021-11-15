@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/facebook-bad-news-an
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Strange News: Virgin Condor Births, Ethical AI, Facebook and Facial Recognition"
+    excerpt: "Check out this great listen on Audible.com. Scientists discover that the endangered California Condor is capable of producing offspring without the presence of male condors, prompting troubling questions for the future."
+    publishedDateTime: 2021-11-15T18:52:00Z
+    webUrl: "https://www.audible.com/pd/B09LVW43PR"
+    type: article
+    provider:
+      name: Audible
+      domain: audible.com
+    quality: 67
+    images:
+      - url: "https://m.media-amazon.com/images/I/61CIjwuBRcS._SL500_.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Meta-0, Facebook-1: The Facial Recognition Hypocrisy"
     excerpt: "Facebook has stopped the usage of facial recognition technology on its platform; however, parent company Meta has not made any such commitments."
     publishedDateTime: 2021-11-15T07:30:00Z

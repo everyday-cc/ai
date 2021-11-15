@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-machine-learning
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.exchangewire.com/wp-content/uploads/2021/11/Context-AI-2.0-LinedIn-Post-2021_10-1200x628px-02-1.jpg"
         width: 900
         height: 471
+        isCached: true
+  - title: "Deep Learning in the Ocean’s Depths"
+    excerpt: "A sensor-packed biologger provides insights about underwater animal behavior with the help of deep learning methods."
+    publishedDateTime: 2021-11-15T18:24:00Z
+    webUrl: "https://www.hackster.io/news/deep-learning-in-the-ocean-s-depths-2928e7023f7d"
+    ampWebUrl: "https://www.hackster.io/news/deep-learning-in-the-ocean-s-depths-2928e7023f7d.amp"
+    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/deep-learning-in-the-ocean-s-depths-2928e7023f7d.amp"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 59
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1373941/sensors-21-06392-g003_fvjwoAMYQR.png?auto=compress%2Cformat"
+        width: 2975
+        height: 2681
         isCached: true
   - title: "The future of learning"
     excerpt: "We help these institutions see that they can grow their businesses beyond brick and mortar, and do so quickly – breaking down walls to reach students beyond their physical geography to provide teaching and learning to remote students,"

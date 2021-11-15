@@ -33,6 +33,20 @@ related:
         width: 261
         height: 250
         isCached: true
+  - title: "GE Healthcare Receives FDA Clearance for First X-ray AI to Help Assess Endotracheal Tube Placement"
+    excerpt: "GE Healthcare today announced it has received Food and Drug Administration (FDA) 510(k) clearance for an artificial intelligence (AI) algorithm to help clinicians assess Endotracheal Tube (ETT) placements."
+    publishedDateTime: 2021-11-15T20:57:00Z
+    webUrl: "https://www.lelezard.com/en/news-20104780.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Global Artificial Intelligence in Agriculture Market Report – Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026"
     excerpt: "United States OR Poland Big Market Research recently published a report on Global Artificial Intelligence in Agriculture Market to its research database This Global Artificial Intelligence in Agriculture Market report analyzes the comprehensive overview of the market comprising an executive"
     publishedDateTime: 2021-11-12T03:08:00Z

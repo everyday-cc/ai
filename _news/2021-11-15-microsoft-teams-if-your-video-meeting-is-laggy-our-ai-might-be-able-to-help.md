@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-teams-if-your-vid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/"
 type: article
 quality: 101
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Microsoft Azure Vision AI Principal Manager to keynote TMA virtual event"
+    excerpt: "Virtual OPSTech is Mr. Rouzbeh Aminpour, Microsoft Azure Artificial Intelligence Platform's Computer Vision Business & Strategy Principal"
+    publishedDateTime: 2021-11-15T19:26:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/microsoft-azure-vision-ai-principal-manager-to-keynote-tma-virtual-event"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 68
+    images:
+      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "+eOwsJITLArnRlkKTA0pOBQAnLzP8Gsv0qFE1MWSrknvMj0isQQhQr+XMUX0eQK2CcR2kPAV9sAJmQMVvN3//IJc7u6AouCnPv2W/m4w8EcUq4AtsYmDI8hKsuqH4bioITW3sAzLyqdRQ04uQSjGOrxhNFfCTWUjmfrDKpVrBm2iRGCrNAKuNjDSutRHDUbP8Qx/QW3XErVGDEVNZ1ZB+dN4ZMbz1yrP5uSFHZC3bWK0WC+CmkVcTsYBZnOlEjh2G9X4+Eqjc3XahRDyDNvOlsIOFlQOKzY576jVssIgngUzZ9EO7w6vg8WmsRn/7vsXSETxA5F+jYHgkcIKkfiB2XJSdgUDtw3rDPtqfXozVKUDLNR5F4fdDy8xayhjPzxgk2bs/9Gf9LpQqi2fRmziIchzzlQ39KIdeuroBTgpQKpATdiCs/JG2/Vcs54ZkGT8hqh5H97eh3b6+872X+M1ysXyybdCLErk28BEizlt6AS5BDtoAgcHkOTTtHEAqsdvNKKY8iWYiUphspNcLe70yA==;5lgBAuc1/Fc7mKEl2gRWaQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcar
 webUrl: "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "GE Healthcare Receives FDA Clearance for First X-ray AI to Help Assess Endotracheal Tube Placement"
+    excerpt: "GE Healthcare today announced it has received Food and Drug Administration (FDA) 510(k) clearance for an artificial intelligence (AI) algorithm to help clinicians assess Endotracheal Tube (ETT) placements."
+    publishedDateTime: 2021-11-15T20:57:00Z
+    webUrl: "https://www.lelezard.com/en/news-20104780.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "AI Journey discusses digital healthcare"
     excerpt: "Digital healthcare technology evolved fast before the pandemic: the industry would use many designs like smart watches, disinfection robots in clinics, and bioprinting robots, AI for drug development and repurposing,"
     publishedDateTime: 2021-11-11T09:37:00Z

@@ -148,6 +148,15 @@ related:
         width: 326
         height: 250
         isCached: true
+  - title: "Atos and Nvidia Join to Launch European AI Lab"
+    excerpt: "Atos and NVIDIA today announced the Excellence AI Lab (EXAIL), which brings together scientists and researchers to help advance European computing technologies, education and research. The lab’s first research projects will focus on five key areas enabled by advances in high performance computing and AI: climate research,"
+    publishedDateTime: 2021-11-15T20:43:00Z
+    webUrl: "https://insidehpc.com/2021/11/atos-and-nvidia-join-to-launch-european-ai-lab/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
 
 secured: "bj2sUoUfRHlsgdmLxBZR370+cxZyFXVB1Z00jcFs7TzSx5rfe0SkYGP46SKg4L65xXxXjLrIrXlDGkgjfuwkeDmHPbxrImIkWbtGLDyhIXEgz8+Qu7NHm87BRtW6yM8+zHkmZ5i7woovpFMDzXNB9JRKtuqA84k+Lr9TgwJCQpar1bMbxIul75DKAST6omGONm/HHsJOaFXSfBsW9vgRRGBVOQec3QgWKOSlGqMD6PFP0SCzeP1+BovOXiu7lWKBHDa3FRzWV6tdoS+GDVvhoZusp+XTCr65hOSNsbBCCZUJe3jOu70roaNB4N4UJc9sU4monLaw08pBF3KqwRcB2R5qlnuDsim+AMC4RVK0ArSuCnTO7ba1OdKS4omFTrS1vqgpGZn9wLGwe91r+sDaMI20ueFSJQYYo/PV76mLj9wWfLBg+JLolLw4MSFy3KULYfc+py1AFvxZOqZ3a9FtPGXnKXbq4f7DtZSuFVGuYNqtC5mnx7Dne2UDH5pZRPlZUZbN+g59mBCvDWxjPLzqmQ==;q/CvgzQj7/s30hYYYjGzoA=="
 ---

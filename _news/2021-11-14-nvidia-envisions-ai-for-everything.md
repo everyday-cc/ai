@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -151,6 +151,15 @@ related:
         width: 326
         height: 250
         isCached: true
+  - title: "Atos and Nvidia Join to Launch European AI Lab"
+    excerpt: "Atos and NVIDIA today announced the Excellence AI Lab (EXAIL), which brings together scientists and researchers to help advance European computing technologies, education and research. The lab’s first research projects will focus on five key areas enabled by advances in high performance computing and AI: climate research,"
+    publishedDateTime: 2021-11-15T20:43:00Z
+    webUrl: "https://insidehpc.com/2021/11/atos-and-nvidia-join-to-launch-european-ai-lab/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
 
 secured: "XwpAMSKN0F+lEilCDDD0/75ZHPJkXk5pZBvnhr5gQcxTK4Trjrv/h/9fpjv7Bsw7SdacUY+15PemZccbBFWryDGcONqqp9cYaW0xkRA0YSZpMObZ67d3eB6ciLZuPy5uIXreriWbElrJVqRaQCwO9KCdIMY6gznCbNWtFgjdqHycM0JdFnxqzfe+3QZjonNm3SIyLnYAGMRw1YRbCK3SYvcI1us2dUJiKN5tubo3JvgGUjswhw5C05PKjuk3U/82LvlvUgzTVYHVbUoGl9sXTwcrg0tpDF7417vNr6rkQjk7kezYji2uLEh17VcGMXD52hYaFzaVZmyK7xFz6ZvuV+Utg15EaCpFNTyjbIETkPIHSphlCQl3qJKc1Wcl/CuqyPiwx1ZYRRBjZzwMuoJQ7/d6yuY2TSds4EDQO1fEyKybTWMM8cwJwdr10FB4tJgVtY/f46Ey2Gz+D4aD1n1Ysx/GAdZUROa4BcrJgJot0+AO1m3m5gjFMl3/LJvFSZ+Wq2BuMqpnKY45MCM+icrrbw==;QQBTEq7HjWnMr08v7QkBWA=="
 ---
