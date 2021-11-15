@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Leap Forward in Computer Vision: Facebook AI Says Masked Autoencoders Are Scalable Vision Learners"
+    excerpt: "The paper Masked Autoencoders Are Scalable Vision Learners, published this week by Kai-Ming He, Xinlei Chen and their Facebook AI Research (FAIR) team, has become a hot topic in the computer vision community."
+    publishedDateTime: 2021-11-15T15:44:00Z
+    webUrl: "https://syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/"
+    ampWebUrl: "https://syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 61
+    images:
+      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/11/image-43.png?resize=620%2C580&ssl=1"
+        width: 620
+        height: 580
+        isCached: true
   - title: "Facebook shutting down automatic facial recognition in photos"
     excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
     publishedDateTime: 2021-11-11T18:00:00Z
@@ -54,22 +70,6 @@ related:
       - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/11/faceb.jpg?itok=QLjSS1xF"
         width: 750
         height: 393
-        isCached: true
-  - title: "A Leap Forward in Computer Vision: Facebook AI Says Masked Autoencoders Are Scalable Vision Learners"
-    excerpt: "The paper Masked Autoencoders Are Scalable Vision Learners, published this week by Kai-Ming He, Xinlei Chen and their Facebook AI Research (FAIR) team, has become a hot topic in the computer vision community."
-    publishedDateTime: 2021-11-15T15:44:00Z
-    webUrl: "https://syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/"
-    ampWebUrl: "https://syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/11/image-43.png?resize=620%2C580&ssl=1"
-        width: 620
-        height: 580
         isCached: true
   - title: "Artificial General Intelligence (AGI) Market to See Major Growth by 2026 | General Vision, Facebook, Digital Genius"
     excerpt: "The Latest Released Artificial General Intelligence AGI market study has evaluated the future growth potential of Artificial General Intelligence AGI market and provides information and useful stats on market structure and size The report is intended to provide market intelligence"

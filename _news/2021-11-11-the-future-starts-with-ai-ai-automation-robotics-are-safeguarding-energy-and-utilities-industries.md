@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 102
+    quality: 119
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
         width: 1200
@@ -56,6 +56,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/DataRobot-artificial-intelligence-banking-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Emerging Uses for AI in the Financial Services Industry"
+    excerpt: "Banks are turning to artificial intelligence to help with customer relationships and loan debt, among other uses."
+    publishedDateTime: 2021-11-15T16:44:00Z
+    webUrl: "https://biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry"
+    ampWebUrl: "https://biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 59
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/finserv%20ai%20web%20hero.jpg?itok=YnLL7cQC"
+        width: 1440
+        height: 500
         isCached: true
   - title: "BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform"
     excerpt: "BigBear.ai, a leading provider of artificial intelligence, machine learning, big data analytics, and cyber solutions, and Palantir Technologies Inc. , a software company that builds enterprise data platforms for use by organizations with complex"

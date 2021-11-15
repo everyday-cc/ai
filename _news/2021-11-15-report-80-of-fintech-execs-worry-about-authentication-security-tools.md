@@ -48,20 +48,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "About Bridge+ FinTech Odyssey"
-    excerpt: "Bridge+ FinTech Odyssey brings leaders in the FinTech industry together to share insights on the innovations and breakthroughs in the FinTech Sector. Happening from 8th to 12th November 2021 at 79 Robinson Road,"
-    publishedDateTime: 2021-11-11T02:51:00Z
-    webUrl: "https://www.capitaland.com/sites/bridgeplus/sg/FinTech-Odyssey.html"
-    type: article
-    provider:
-      name: CapitaLand
-      domain: capitaland.com
-    quality: 24
-    images:
-      - url: "https://www.capitaland.com/sites/bridgeplus/sg/images/nav1.jpg"
-        width: 417
-        height: 292
-        isCached: true
   - title: "The Role of Fintech in Achieving a Net Zero Emission Reality"
     excerpt: "The world is moving toward a net-zero economy, and the financial technology sector may be at the vanguard of this change"
     publishedDateTime: 2021-11-11T10:04:00Z
@@ -89,6 +75,20 @@ related:
       - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
         width: 1400
         height: 800
+        isCached: true
+  - title: "Taking on Fintech in its own backyard"
+    excerpt: "The Fintech market is growing at an incredible rate, reinventing the financial services sector as it goes. Valued at $20.4 billion as recently as 2019, the Fintech sector is projected to be worth $471 billion globally by 2027."
+    publishedDateTime: 2021-11-15T16:52:00Z
+    webUrl: "https://financialit.net/blog/data/taking-fintech-its-own-backyard"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/richard_price_-_uk_and_ireland_country_manager_-7119.jpeg"
+        width: 1333
+        height: 2000
         isCached: true
   - title: "A Revolutionary FinTech Story that Makes Every Transaction an Opportunity"
     excerpt: "Mobi724 – a Canadian-based fintech platform that enables banks and merchants to offer real-time payment card-linked incentives in a white-label format – has streamlined its data analytics, digital marketing and card-linked offers into an all-in-one"

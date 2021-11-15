@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "TOMRA Pioneers Use of Deep Learning Technology in Wood Recycling Applications"
+    excerpt: "Sensor-based sorting specialist, TOMRA Recycling, has further strengthened its offering for the global wood recycling sector by using deep learning, a subset of artificial intelligence, in wood recycling applications."
+    publishedDateTime: 2021-11-15T17:19:00Z
+    webUrl: "https://www.constructionequipmentguide.com/tomra-pioneers-use-of-deep-learning-technology-in-wood-recycling-applications/54428"
+    type: article
+    provider:
+      name: Construction
+      domain: constructionequipmentguide.com
+    quality: 36
+    images:
+      - url: "https://dmt55mxnkgbz2.cloudfront.net/900x0_s3-54428-MNSW-RE-TOMRA-SORT-1.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "MMA WARC Report Reveals Research on the Trends and Future of Mobile Marketing and Technology in the MENA"
     excerpt: "says Warrick Billingham, Head of Revenue EMEA & LATAM at AdColony, who also chairs the MMA research committee ... affecting the marketing industry. AI, machine learning, mobile wallet and ..."
     publishedDateTime: 2021-11-11T11:41:00Z

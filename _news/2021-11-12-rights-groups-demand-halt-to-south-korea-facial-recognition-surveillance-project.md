@@ -41,6 +41,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "'Treated like a robot,' contract lawyers chafe under fickle facial recognition surveillance"
+    excerpt: "Contract lawyers forced to use facial recognition monitoring while they work at home are frustrated with the intrusive and error-prone surveillance that forces them to log back in when they are perceived to be unfocused. Most contract lawyer jobs haven’t ..."
+    publishedDateTime: 2021-11-15T14:50:00Z
+    webUrl: "https://www.abajournal.com/news/article/treated-like-a-robot-contract-lawyers-chafe-under-fickle-facial-recognition-surveillance/"
+    type: article
+    provider:
+      name: ABA Journal
+      domain: abajournal.com
+    quality: 46
+    images:
+      - url: "https://www.abajournal.com/images/main_images/shutterstock_731158624.jpg"
+        width: 1000
+        height: 647
+        isCached: true
   - title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
     excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."
     publishedDateTime: 2021-11-11T11:40:00Z

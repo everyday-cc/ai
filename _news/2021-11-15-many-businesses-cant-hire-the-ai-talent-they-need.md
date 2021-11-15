@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itproportal.com/amp/news/many-businesses-cant-hire-the-a
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/many-businesses-cant-hire-the-ai-developers-they-need/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: IT Pro Portal
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 7 new business values in the era of Artificial Intelligence"
-    excerpt: "Although Artificial Intelligence (AI) is a technology that has existed for more than sixty years, today, thanks to greater computing power, the applications of this field of information technology have had a direct impact on the spine of companies."
-    publishedDateTime: 2021-11-11T01:42:00Z
-    webUrl: "https://www.timesunion.com/business/article/The-7-new-business-values-in-the-era-of-16609935.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/61/30/21698077/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Governments see huge business potential in artificial intelligence, but ignore the downsides"
     excerpt: "Ireland is the latest country to make the mistake of thinking that algorithms by themselves are the route to untold prosperity."
     publishedDateTime: 2021-11-14T05:00:00Z
@@ -56,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "yfsiDqRYuXxLoPgyv5y+5HEp9u2LZdKzhEp8glJKnJSQo+YaUlmmMDH8fX8ORXGj2qQ954UN5jftKWKXaev1xOdpzEieofDHztaSsIUaQmxcbyS3OH9DldBvz/rzaoaE4grlEGQ2Q3+6SMgFN63Fgo/mnvfTt9iddwMKQGtNv42v2aDjdAR8thzyLUx/yFbfJd3wH+0q0+EXdoQMWQVqbsjXhmB4asN9NE0VnAxU47hwvEpK26A+DAlJ4impqG7ji3UlDxy155sjxaLocnEfrDDHa4FoHMA0fzssWmPLZA22Dn8TQCThmEECB9G8ejb1moO2gk1VzsPIs0Hw8lWr76kGUg5KU7sZVG2EuTNRg8c=;AcDxc81KiZMpBQtUoTqMvg=="
+secured: "NatvRbUBEGXEldhzzxi82//tDRQh2RovDamG47W/3pP8ogqueEAJCd1FGXMbYgUm1NnFwr5xbxDqCg+xnW49y5KSz4haX6wLQ1Uoig2N5cO0lFBqFE+T5lBpI22Bxm8uU+MLIjU1o0Ue9T2Igpw9hbO+P9SlCeHNs/N7us0Yrrbzq/pX33zYqi3des8nN7Y+PkyvAprmASrLpYGx5lWPliRQ8gCv5GslAtt9263bdV6i3yi1lEkZCnJeyAnL6ebXFADYhrSI7sejAGKeP+UlIFAe8+19fTCnc7D1j7fy9GOeo8e5XmcWWzIXf0201a92rLlJFstikjTjxjsMT9kW/T2h55cnn4mf1ICUdhHWPFYbThhRw9KdyPa8DB6YI3dQG7feHDMlpOST8S6RFuFXGzLSQFdZqnLASlHMW+xQKPiJiquuETrMh91RCHaTNu2y2c+iHAKC4Rb34oBeP7E/zqfTMmtGDV0Uk6JCFxRXTy6f8VFKp8oDUf0pidUwwRNOwCkGLp18Kp0iVBG9BuGcAg==;7hXfWerVtfDZPUqY1nVsTA=="
 ---
 

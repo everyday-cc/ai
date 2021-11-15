@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-02-changing-the-world-with-3d-data.md",
+      "title": "Changing the world with 3D data",
+      "excerpt": "Learn more how 3D data and ToF 3D image sensors are impacting a wide range of applications including retail, health, sports, and automotive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
+      "originalUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-605695789.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
+      "publishedDateTime": "2021-11-02T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-west-lafayette-facial-recognition-ban-remains-in-ordinance.md",
       "title": "West Lafayette facial recognition ban remains in ordinance",
       "excerpt": "A civil and constructive debate over West Lafayette's ban on facial recognition software occurred Monday night.",
@@ -1335,58 +1387,6 @@
         "AWS AI",
         "Computer Vision",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-convinced-your-dog-is-a-genius-scientists-want-to-hear-from-you.md",
-      "title": "Convinced Your Dog Is a Genius? Scientists Want To Hear From You",
-      "excerpt": "The 'Finding Rico' project is looking for gifted dogs all over the world to better understand canine intelligence and their capacity for learning human words",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531",
-      "originalUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/7ed387a19a8ae16ace7b83575d455501.jpg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531/amp",
-      "publishedDateTime": "2021-10-19T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

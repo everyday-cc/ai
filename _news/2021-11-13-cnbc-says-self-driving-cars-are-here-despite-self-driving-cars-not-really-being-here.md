@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Entry ramp on the road to self-driving cars"
-    excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
-    publishedDateTime: 2021-11-14T17:00:00Z
-    webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
-        width: 792
-        height: 528
-        isCached: true
   - title: "Self-Driving Cars Can Be Hacked By Just Putting Stickers On Street Signs"
     excerpt: "All it takes is a simple sticker onto a sign board to confuse any self-driving car and cause accident. Isn't this so dangerous? A team of researchers from the University of Washington demonstrated how anyone could print stickers off at home and put them on ..."
     publishedDateTime: 2021-11-15T14:12:00Z

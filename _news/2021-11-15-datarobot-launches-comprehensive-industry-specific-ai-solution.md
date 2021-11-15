@@ -37,11 +37,27 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 102
+    quality: 119
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Emerging Uses for AI in the Financial Services Industry"
+    excerpt: "Banks are turning to artificial intelligence to help with customer relationships and loan debt, among other uses."
+    publishedDateTime: 2021-11-15T16:44:00Z
+    webUrl: "https://biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry"
+    ampWebUrl: "https://biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 59
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/finserv%20ai%20web%20hero.jpg?itok=YnLL7cQC"
+        width: 1440
+        height: 500
         isCached: true
   - title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities industries"
     excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."

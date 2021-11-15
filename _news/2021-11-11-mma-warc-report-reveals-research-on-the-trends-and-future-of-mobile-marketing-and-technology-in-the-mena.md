@@ -42,6 +42,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "TOMRA Pioneers Use of Deep Learning Technology in Wood Recycling Applications"
+    excerpt: "Sensor-based sorting specialist, TOMRA Recycling, has further strengthened its offering for the global wood recycling sector by using deep learning, a subset of artificial intelligence, in wood recycling applications."
+    publishedDateTime: 2021-11-15T17:19:00Z
+    webUrl: "https://www.constructionequipmentguide.com/tomra-pioneers-use-of-deep-learning-technology-in-wood-recycling-applications/54428"
+    type: article
+    provider:
+      name: Construction
+      domain: constructionequipmentguide.com
+    quality: 36
+    images:
+      - url: "https://dmt55mxnkgbz2.cloudfront.net/900x0_s3-54428-MNSW-RE-TOMRA-SORT-1.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence for Accounting Market To Make Huge Impact In Near Future Basic Influencing Factors Driving The Industry 2021–2027"
     excerpt: "Combining AI with other technologies such as robotic process automation can allow accountants to redirect the time that they used to spend on mundane tasks toward performing high value high impact tasks Adding AI to accounting operations can also increase"
     publishedDateTime: 2021-11-12T09:58:00Z

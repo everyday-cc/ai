@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "European Bank Sees Path to Fastest AI Supercomputer"
-    excerpt: "While Hungarian banks with collective names like OTP Group might not have household recognition here in the U.S., they do represent a notable portion of"
-    publishedDateTime: 2021-11-11T16:20:00Z
-    webUrl: "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/"
-    ampWebUrl: "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/"
+  - title: "SambaNova is enabling disruption in the enterprise with AI language models, computer vision, recommendations, and graphs"
+    excerpt: "SambaNova just added another offering under its umbrella of AI-as-a-service portfolio for enterprises: GPT language models. As the company continues to execute on its vision, we caught up with CEO Rodrigo Liang to look both at the big picture and under the hood."
+    publishedDateTime: 2021-11-15T18:16:00Z
+    webUrl: "https://www.zdnet.com/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/ab_business_building.jpg"
-        width: 1300
-        height: 500
-        isCached: true
-  - title: "European Banking Authority Releases Machine Learning Discussion Paper"
-    excerpt: "The European Banking Authority (EBA) has released its discussion paper on machine learning 'used in the context of internal ratings-based (IRB) models to calculate regulatory capital for credit risk.' As noted in the announcement,"
-    publishedDateTime: 2021-11-12T12:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look.jpeg"
-        width: 1400
-        height: 1867
+      - url: "https://www.zdnet.com/a/img/resize/4a8b0290f235514269412b222a86a7ef30c43b42/2021/11/03/496b64e1-63e8-4242-a385-095add38f1cb/ai.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 802
         isCached: true
   - title: "OTP Bank Selects SambaNova Systems to Build Europe's Fastest AI Supercomputer"
     excerpt: "SambaNova Systems, the company building the industry's most advanced software, hardware and solutions to run artificial intelligence (AI) applications, and OTP Group, the leading banking group in Central and Eastern Europe (CEE),"

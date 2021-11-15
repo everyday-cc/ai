@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-
 webUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
         width: 1640
         height: 800
+        isCached: true
+  - title: "Cruise line patent suggests face biometrics for stateroom access, personalization"
+    excerpt: "The multifunction smart door device patent authors include three Royal Caribbean executives, and Tascent Co-founder and CEO Alastair Partington."
+    publishedDateTime: 2021-11-15T17:54:00Z
+    webUrl: "https://www.biometricupdate.com/202111/cruise-line-patent-suggests-face-biometrics-for-stateroom-access-personalization"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/23131916/patents-ideas.jpg"
+        width: 848
+        height: 339
         isCached: true
 
 secured: "b8arpNOOoeXY18G8uo9fnm4leRdCohNDztaExfCp3NdCa3dgZDnSEfM1odAvnAPQng8ekn5aFQn8Xu1xBGYX2Y9UPduUNFUvLYJYIVtXUhG3iYDdlKT4huAybPvJXq7H3xYyo7FwrXQCWwhaOJ0kA5ZI8f/ZTS9H3aqno+KdwvGPkpqUkNf8Q1XNoHu61yUvWJ4uOPbirVAtLNvFbov3vAEWCBIjKYZ0FGhF3s8LxXMuyUfT9k+K0CiPiZhG9e+461C01m3N4AD0bOS3iKtSVV2Nonx/1DkGfSXLQQzmCQdqSsDgEtx75wzRoRyeY8rvDO2ADWdHIP0OaRiPRrP5Ars23lvxMZp5y3U7io2zfIGjQjHsoozyh40yP2ZXxkoSUmGyunc4mTgN9QKpN0rRcwzk+4gKAi5uzh76kJESiw5C57v743jdBrCjmwEAUgYZGWCsiNRAOGNdAP4qSYgAw8G+wxOZgYQisUb9limcAP/bOcaKxIRpv9bZy0Y12xO/4XzdLfZE7TiThBRNCapdFA==;c2mJBDVtTG2ilpRcfH/R8g=="

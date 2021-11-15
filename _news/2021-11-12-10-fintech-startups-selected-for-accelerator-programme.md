@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/financial-services-finserv/10-fintech-
 webUrl: "https://fintechmagazine.com/financial-services-finserv/10-fintech-startups-selected-accelerator-programme"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AUC Venture Lab Fintech Accelerator Celebrates Fifth Anniversary, Graduates Biggest Cohort to Date"
+    excerpt: "The Fintech Accelerator at The American University in Cairo’s Venture Lab celebrated its fifth anniversary this fall and graduated its biggest cohort to"
+    publishedDateTime: 2021-11-15T11:39:00Z
+    webUrl: "https://www.albawaba.com/business/pr/auc-venture-lab-fintech-accelerator-celebrates-fifth-anniversary-graduates-biggest"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/auc-venture-lab-fintech-accelerator-celebrates-fifth-anniversary-graduates-biggest"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/auc-venture-lab-fintech-accelerator-celebrates-fifth-anniversary-graduates-biggest"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 30
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-11/Demo%20Day-%20FinTech%20Accelerator-%202.jpg?itok=pKq1MojD"
+        width: 1417
+        height: 945
+        isCached: true
   - title: "The LHoFT Foundation selects 10 fintech startups for accelerator programme"
     excerpt: "Building on the success of the Summer 2021 Edition of Catapult: Kickstarter, the LHoFT Foundation is opening on Monday 15th of November, the second edition of this unique program of Fintech startup development."
     publishedDateTime: 2021-11-11T17:50:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "20 Startups Selected for UC Berkeley's Highly Competitive SkyDeck Global Startup Accelerator Program"
-    excerpt: "BERKELEY, CA /  / November 2, 2021 / UC Berkeley SkyDeck, the startup accelerator of the University of California at Berkeley (UC Berkeley), today announces it has selected 20 companies from across the globe for its Batch 13 startup cohort."
-    publishedDateTime: 2021-11-12T04:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271709706/20-startups-selected-for-uc-berkeleys-highly-competitive-skydeck-global-startup-accelerator-program"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 9
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1636608612015.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "Xd+3X5E6wr62mBbF9O9R+MSg51h48wwXMgZNCEJ2EPn0jp0EXoV7bx9QyPiEEa8wASpCGKpPjz2i0Nne5Fesb4xTxZT7x/2WUmyhepwqJH8g9zg/R+wOsV+l5+2FxTXM1NGh2TLV3ESTkdtqSlMRiM3E0wLdkOiAi07wIRsoCqhPIjNI2qL9gfmTFDIVinFxMkzLAmlCzT2Gfr0TMQ849rt3IO0MHPV6Qo6t4CnERGCrQcaEZ8Ip5mcCHl3oE9o9XMwy2Lo124oaxwBH2QIOwU3vTl/AKhCEEvIJ5fePJFC6Uz2HAW9Nhh7u+mJN4Hzf3OOkO9ytgdAvmryAYDzDTBjfLqDkpri/8r9+hZLHujiycNla6jDnnO5GcJmXUvQzfdetITGrbvpt9tVlaBKxHHyN4Y/YCXuR6G2lHtR/RoZUhaA9irOrr65Nt6makdJSRwWUmF167axJKUD21Mbpb9nBqQJo2HJREZMneuLHnqtD6+OXDQtqVmHoAjoyASgRoSBSUze7N6ITqvPyMq6rOA==;wteAScbmJWhLU4iM2Owf6Q=="

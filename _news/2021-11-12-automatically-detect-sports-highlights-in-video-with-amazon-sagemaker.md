@@ -43,6 +43,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "Design a compelling record filtering method with Amazon SageMaker Model Monitor"
+    excerpt: "As artificial intelligence (AI) and machine learning (ML) technologies continue to proliferate, using ML models plays a crucial role in converting the insights from data into actual business impacts. Operational ML means streamlining every step of the ML lifecycle and deploying the best models within"
+    publishedDateTime: 2021-11-15T18:44:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/design-a-compelling-record-filtering-method-with-amazon-sagemaker-model-monitor/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/02/ML-5968-image001.jpg"
+        width: 739
+        height: 1059
+        isCached: true
 
 secured: "VtRKvAPp0qJp8irREu7iYkao0/PYVHfvdDVALM3PnNKcR5v3IVsmhSSnxfnOJYsHf1E3ingmAHbX5FiXxKajRPxfcU7UnOvNgdFen4Oe3T9kclaihpjfxzi5MutORYnl1g5yO2GFQU+MEDfNZY4yvgk+8h8fhhK5n+a0MKZ1rN6LqMSKpJMKLOUcFenUoVRZTj/yRdJELfMYGDQXf17RZQcu3QUHGZ613YMKhgLeRQR57Flb7mSBgVmqhLOdm9BrWhv7NXDcA2jT7tJyKcpAXDvmJF5a8tzm04ErpYeOMNgfcm1jpn3fADdP2F+trD23Knh0uXNLox0jquXU8+KPuEjN+Xm8/zDZMjacVKGBEZc=;vyhTtTRU1g5WpHlCRxM6dQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-indu
 ampWebUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
 type: article
-quality: 102
-heat: 132
+quality: 119
+heat: 159
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
@@ -46,6 +47,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/DataRobot-artificial-intelligence-banking-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Emerging Uses for AI in the Financial Services Industry"
+    excerpt: "Banks are turning to artificial intelligence to help with customer relationships and loan debt, among other uses."
+    publishedDateTime: 2021-11-15T16:44:00Z
+    webUrl: "https://biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry"
+    ampWebUrl: "https://biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 59
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/finserv%20ai%20web%20hero.jpg?itok=YnLL7cQC"
+        width: 1440
+        height: 500
         isCached: true
   - title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities industries"
     excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
@@ -76,6 +93,6 @@ related:
         height: 480
         isCached: true
 
-secured: "vrAif8vhGav64qcUs7cK948I4N5J/Z+h0EXEolpc9Q0bdNpmWCHWKzKULYkIECLG3Bzq35pKGgoCkzLUvh8C9zKfuwQntkdf26KgSWo6HeKcFhA6LwVSoq/Znsd10WJVallpLRX05TkzTX2bFUJqTunNP6XmH4UNBmtFFZWjgA6L2HR+bV4UVqYLP/wxdbX+jT9Y1IwoLCeFrsglx+rJ8GL8EQEKaAB5pp7JZ+4IF3T2j0Ga0wZJJcU6bS41doQ0gNbSV0JAVOowqvSGxrdp8X/HxWU8hTlYK5UQuDv90s0GRO5DMDRAww4p4TytDO/c80WW5CUyF09Iyzii1uqLtOZUwDUrFY+C2ws0u/3maqM=;hlbRHV0lPF1AzIn/u1IQEQ=="
+secured: "d/W+HZ2Z5j5NKk5zmRVuN+Osr+WdE+J4Iw7oqTMNFW6dEqpqN5xAGHTHrNL7Sdv0SEP6JjLoJeXlHHlTMgF2nZZYSSI8F7gkwGejkKd7FJm/sa56HOxaicAI/q2o3FJ//MRvcFJ0jugsV8vstSZ4W0lVLtIVi8/vJUzSQLZIGYsQ1hVdzbugIBLSA3obBkjQ0YRKdHXcJuTulW1BanMDqrxF9OnWxev2KjXOoZy8SA2AnZKjSAc35USm96lXeA/C6YWjsnpIytmxmhuakp2Yhywf6F6tGn9qxVG8iZE4HG9qheYIAO5QIs2HMiIiACffqpnNgh+lJvjxhJj9rOV9Bn+aQ7NWjgFPHekcKsli+oMKKjGgnVk/Hw7H633SV6dcdjuFR4vvrpkQJmXijDV/KBlYHbulrV1UmHhumQUxHsFbdxcWpaYrs09v12mYuF1unixuCl1wn1BY6ujQmweRkatlZNL6vEL7UFA6L+zRalHq7lQP7med/j/l6j2dFtC6QZizccYHRiXcAjhYmJW0HA==;VBdcAEC9gmhySKgUawEVUA=="
 ---
 

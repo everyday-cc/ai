@@ -43,29 +43,6 @@ related:
         width: 1300
         height: 500
         isCached: true
-  - title: "OTP Bank selects SambaNova Systems for AI supercomputer"
-    excerpt: "Hungaria’s OTP Bank has tapped SambaNova Systems to build ‘the fastest AI supercomputer in Europe.’ The two companies this week announced a strategic partnership to deploy a multi-rack AI system, built on SambaNova Dataflow-as-a-Service GPT and its DataScale integrated software and hardware system,"
-    publishedDateTime: 2021-11-15T12:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/otp-bank-selects-sambanova-systems-for-ai-supercomputer/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Samba_Systems_Datascale.2e16d0ba.fill-1200x630.png"
-        width: 750
-        height: 394
-        isCached: true
-  - title: "OTP Bank Selects SambaNova Systems to Build Europe's Fastest AI Supercomputer"
-    excerpt: "SambaNova Systems, the company building the industry's most advanced software, hardware and solutions to run artificial intelligence (AI) applications, and OTP Group, the leading banking group in Central and Eastern Europe (CEE),"
-    publishedDateTime: 2021-11-11T13:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-otp-bank-selects-sambanova-systems-build-europes-fastest-/2021/11/11/9490191.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
 
 secured: "cNeFyOO5CNw55MgRfKOHkvZLoh5CR3OmbcA+xTcdyR4PnfFLmTr/8PGliPSbOI7ASGznNKX0mJDCrzcyRraqFrwtwj+N7ZpjiuHWIzuQKstrOwuBHxzf8bppp9PE7mdNB1hmw5Nqd7KDxlfeeW5po9i5BmjZT3yk1x0kfMB3gY60o5xI/q7adFz0iHdxCYNgp+1NWgocKEpHFG5VGy3sj1gRpgODkQ9AzsKGDVujEXeWSY4gwYsXvuEX/OgoLt0qqYwkEiCWoRUh9eATTIcYF6wgKSzrRdf1xjOX4gr5UMgCdJY08EpJmSsYC6h1zq5iYEYO567mbfwYxC3e1t8q5bmsOGK4JraHlse7VbTZOOa9GFHS7y3hz4FlWKh1httiBIGNFZVPJAA5RYjibU9Mi22uSgI/4ItYdPIrFeAOapspOpm0EySb8YFXGVKibcS9IfbOo4KhJ8WfXBGWkuO0vwLCOm8kTZmTF6ZgGs8tiq+1h4zqJ4Kh1yFML6rDWzrmBRCUxZVPM+iv1B2DxoqrZg==;IeDg9DZfkjYFg/PmvOc2VQ=="
 ---

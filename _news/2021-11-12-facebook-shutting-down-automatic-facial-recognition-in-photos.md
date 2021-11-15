@@ -51,7 +51,7 @@ related:
     provider:
       name: syncedreview
       domain: syncedreview.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/11/image-43.png?resize=620%2C580&ssl=1"
         width: 620

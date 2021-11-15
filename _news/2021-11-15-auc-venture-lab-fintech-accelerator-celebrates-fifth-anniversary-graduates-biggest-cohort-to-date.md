@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/auc-venture-lab-fintech-acc
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/auc-venture-lab-fintech-accelerator-celebrates-fifth-anniversary-graduates-biggest"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,44 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "TruEra, Demyst Celebrate Award Win at Singapore Fintech Festival, Finish in Top 3"
-    excerpt: "Artificial intelligence solutions company TruEra this week announced that it, along with its data partner Demyst, is one of the three winners of the Global Veritas Challenge 2021 at the Singapore Fintech Festival."
-    publishedDateTime: 2021-11-11T02:02:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/182780-truera-demyst-celebrate-award-win-at-singapore-fintech-festival-finish-in-top-3/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182780-truera-demyst-celebrate-award-win-at-singapore-fintech-festival-finish-in-top-3/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182780-truera-demyst-celebrate-award-win-at-singapore-fintech-festival-finish-in-top-3/amp/"
+  - title: "10 fintech startups selected for accelerator programme"
+    excerpt: "The LHoFT Foundation has announced the 10 Fintech startups selected to take part in the Fall 2021 digital edition of Catapult: Kickstarter"
+    publishedDateTime: 2021-11-12T15:54:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-fintech-startups-selected-accelerator-programme"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Singapore-City-Sail-Boat.jpeg"
-        width: 1280
-        height: 943
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1179477379%20%281%29.jpg.png?itok=pxuGhdJR"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Atlanta-Based LendingPoint Named Best Financial Planning Software by Benzinga in 2021 Global Fintech Awards"
-    excerpt: "LendingPoint, an AI-driven CreditTech platform, today announced that it won Best Financial Planning Software from Benzinga in the seventh annual Global Fintech Awards. The award recognizes LendingPoint's ability to adapt and innovate to serve its customers at all experience touchpoints to provide fair access to credit for those that need it most."
-    publishedDateTime: 2021-11-11T14:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-atlanta-based-lendingpoint-named-best-financial-planning-software-/2021/11/11/9490333.htm"
+  - title: "The LHoFT Foundation selects 10 fintech startups for accelerator programme"
+    excerpt: "Building on the success of the Summer 2021 Edition of Catapult: Kickstarter, the LHoFT Foundation is opening on Monday 15th of November, the second edition of this unique program of Fintech startup development."
+    publishedDateTime: 2021-11-11T17:50:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90231/the-lhoft-foundation-selects-10-fintech-startups-for-accelerator-programme"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Syfe's Dhruv Arora and Samantha Horton Wins Top Accolades at the 2021 Singapore FinTech Festival Global FinTech Awards"
-    excerpt: "Founder and CEO of Syfe, Dhruv Arora, and Samantha Horton, VP of Business Development, secured the awards for Top 10 FinTech Leaders and Women in FinTech respectively Organised by the Singapore FinTech Association in collaboration with the MAS,"
-    publishedDateTime: 2021-11-12T15:07:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=565872"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: Finextra
+      domain: finextra.com
+    quality: 22
     images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "1dzwuduSwMtrIKjm06W5bhn5CKArtuhYKmY9rYi8/dD8y/lGTB18G7hiOu8vnY3pMKmXJrDRYsQza6om8//FnKwnya60ole91KaCmuL4EQ5cikjd5wCFrwu47gxDifwx3L2MjteMMbmJ7/jiNIh+iDLPk2uVQitIgSYLgjx8BR4H50KIoRONMThC294fEf28+DH8TJfD/orBc8D/0BX+GwyYlEQoXQ4I1+wXdeofWvAShzxukmdBFOYhBB2K3hdtENeqGiY8p6ggt+No1CLF9Zx1kRKkeapQaVppWyu0UA/wQEVI5b/FqoVJnr567ni4vT39AwBZoHbtCt6ZVztdLP7z6X4pu+seZf6+Hox6sjivrbmIgadZAaa+hiWnNIn3qcnuKW+b4QXwMmV15eAcpSvlK+MkCzmf1zlklwGV22+qF4Wal0qYPozM0X4Pwi5ck/iolSLdKo9k42YP6kmZCiwJtVAw41VQIWmD2/a0Gf4uU+8iNlWYoR8RB+uD83yvF0XbwtbOEbBFqeQkcaXfVA==;WAPTkJynS2587nCD74LlZQ=="

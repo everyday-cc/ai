@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/a-generation-growing-under-su
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "'Treated like a robot,' contract lawyers chafe under fickle facial recognition surveillance"
+    excerpt: "Contract lawyers forced to use facial recognition monitoring while they work at home are frustrated with the intrusive and error-prone surveillance that forces them to log back in when they are perceived to be unfocused. Most contract lawyer jobs haven’t ..."
+    publishedDateTime: 2021-11-15T14:50:00Z
+    webUrl: "https://www.abajournal.com/news/article/treated-like-a-robot-contract-lawyers-chafe-under-fickle-facial-recognition-surveillance/"
+    type: article
+    provider:
+      name: ABA Journal
+      domain: abajournal.com
+    quality: 46
+    images:
+      - url: "https://www.abajournal.com/images/main_images/shutterstock_731158624.jpg"
+        width: 1000
+        height: 647
+        isCached: true
   - title: "Rights groups demand halt to South Korea facial recognition surveillance project"
     excerpt: "A project intended to develop an AI-powered facial recognition system to be used for airport immigration purposes has met with fierce criticism."
     publishedDateTime: 2021-11-11T18:17:00Z

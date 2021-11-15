@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launc
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/"
 type: article
 quality: 107
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/02/ML-488-image001-356x630.png"
         width: 356
         height: 630
+        isCached: true
+  - title: "Design a compelling record filtering method with Amazon SageMaker Model Monitor"
+    excerpt: "As artificial intelligence (AI) and machine learning (ML) technologies continue to proliferate, using ML models plays a crucial role in converting the insights from data into actual business impacts. Operational ML means streamlining every step of the ML lifecycle and deploying the best models within"
+    publishedDateTime: 2021-11-15T18:44:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/design-a-compelling-record-filtering-method-with-amazon-sagemaker-model-monitor/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/02/ML-5968-image001.jpg"
+        width: 739
+        height: 1059
         isCached: true
 
 secured: "2pofgeLeroPBJO9ywhXrs4wClYc1lcfm3AbyNonVwRXXW0q3/W7rJlNUOGARwsHKuwSMe1aSKkfWPshg5Wmww8QOE0yc/yTXtGixEI8Gcr/nYILgGYaQrvdRBh7e9N1z/ObdqljXIiNw+vSef15FiZraOaPb4gcfPTeZlevWcE8XudbSJp8yrZe6LGTI1mos76upgT1Kg+bY3RS3At76r+3pDFivwXpKmmj74U1YMrPVhjyMEfaxYHPHuqUIdrsL2qkqLKQL3V0u2VoZY5rcnF5mKgGLIvHiKuL9qpb+k347kwO7upgjHKjSjlOZe2oegZ7OIlOhRQ+PgbgLJzgRusgyPFc//8++0XTf+gVz61E=;1k25dgfGXRBas/9+wYPUEQ=="

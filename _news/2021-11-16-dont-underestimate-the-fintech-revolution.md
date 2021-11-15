@@ -43,20 +43,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "About Bridge+ FinTech Odyssey"
-    excerpt: "Bridge+ FinTech Odyssey brings leaders in the FinTech industry together to share insights on the innovations and breakthroughs in the FinTech Sector. Happening from 8th to 12th November 2021 at 79 Robinson Road,"
-    publishedDateTime: 2021-11-11T02:51:00Z
-    webUrl: "https://www.capitaland.com/sites/bridgeplus/sg/FinTech-Odyssey.html"
-    type: article
-    provider:
-      name: CapitaLand
-      domain: capitaland.com
-    quality: 24
-    images:
-      - url: "https://www.capitaland.com/sites/bridgeplus/sg/images/nav1.jpg"
-        width: 417
-        height: 292
-        isCached: true
   - title: "The Role of Fintech in Achieving a Net Zero Emission Reality"
     excerpt: "The world is moving toward a net-zero economy, and the financial technology sector may be at the vanguard of this change"
     publishedDateTime: 2021-11-11T10:04:00Z
@@ -85,6 +71,20 @@ related:
         width: 1400
         height: 800
         isCached: true
+  - title: "Taking on Fintech in its own backyard"
+    excerpt: "The Fintech market is growing at an incredible rate, reinventing the financial services sector as it goes. Valued at $20.4 billion as recently as 2019, the Fintech sector is projected to be worth $471 billion globally by 2027."
+    publishedDateTime: 2021-11-15T16:52:00Z
+    webUrl: "https://financialit.net/blog/data/taking-fintech-its-own-backyard"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/richard_price_-_uk_and_ireland_country_manager_-7119.jpeg"
+        width: 1333
+        height: 2000
+        isCached: true
   - title: "A Revolutionary FinTech Story that Makes Every Transaction an Opportunity"
     excerpt: "Mobi724 – a Canadian-based fintech platform that enables banks and merchants to offer real-time payment card-linked incentives in a white-label format – has streamlined its data analytics, digital marketing and card-linked offers into an all-in-one"
     publishedDateTime: 2021-11-11T19:27:00Z
@@ -100,6 +100,6 @@ related:
         height: 400
         isCached: true
 
-secured: "K8J6tEPuU9jB+gvPdAXJYVqag9qdqih++BlkeII3CEtR7mX9uhdqsrhcmcrMQJcBBD8NAFhcXqfuHXlyEHOvqo437lBY+ZAiK1+8uBPkaEfsh9h/Tgd1BBZ9l4OcCtRyjydejItfq2dUVAWA/W9UQPC65ogtzaXAduUSheXEuqb/jsOCH0JnErYTxENAxhz9QRukcKw3ga9XoPkEpc2O4GmfMyTJ68wJ+GJolF1EwPavtXwsiPUKHDjAppTBQNGyasMXgHlRdNezVq3wWd3g7cQ3ScKcgxJRCg/atM943vp4LGgU9QjC3WdZ0ue18L4eA1LqHNG0ir7P9d5oZm7bFtY+3YdTmkLU5EwDiGWv+LU=;sRpkAUUYd5Nt7S35jE4E1A=="
+secured: "h7AOrhbvZ4cCYKGrnCfPiQMw+4470f3NoXwAbLdqnt/4Y41vf6/c466ARwmLbXpgOO1NAgqS1HJzKxB08d/MeeTNMP/gFS/FSbGxLBMYSNXhV2ncjAMLRLXinVC7/lO2/TEZgL0YrvYYKaqHeg6z080taQ89HUfUPQkYXlH4yW5w63HA5IgG4uNNmLlzvOOfzij5IMd5wv2kTrzr99XygMvAjAughdf2rLCMrhtuM5tORR0HU/+A1DlfqxAHdAl0FO+qMnuNs7UMonpk91vIkEZo1Rv4xqwlSkeKGzrJVjQk6jv34SKpVq211hel2sLDZi5LtPura08+pCgPmvG7T8+C0OPeIxEXJwi00gqv5QPg5vGB1Y+N5REDQGN6OJ/oZvu32Dd9yqZulpmJivTtbb1y6vf/lkCEjQ8AheO6P4hodBXCY2hBM8Li/LuVEQt7srzgf0b5CEhC0vGvEvX6Arvf/K3xMmpdNPRYfh4vkRnd9C2ssgfWfso23GaCXHyjoLNS3xJWbxwZ9ARaUvhuAA==;cc7AJ2lCRBbi46TgGH/Dvw=="
 ---
 
