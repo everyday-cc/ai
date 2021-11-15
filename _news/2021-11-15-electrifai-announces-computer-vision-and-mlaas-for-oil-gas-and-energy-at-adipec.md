@@ -2,9 +2,9 @@
 category: news
 title: "ElectrifAi Announces Computer Vision and MLaaS for Oil, Gas and Energy at ADIPEC"
 excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (Ai) and pre-built machine learning (ML) models,"
-publishedDateTime: 2021-11-15T04:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-805648369.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-805648369.html"
+publishedDateTime: 2021-11-15T03:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-301423688.html"
+webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-301423688.html"
 type: article
 quality: 49
 heat: 49
@@ -24,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "4xi3cjqLkIJTMANAZzfA0Gib2qGMdBrJv4hoiyrgDJXsLDDoDTJctZYEkjL/w63n1/Ige21kMPY7Lg8POnNkuV8KJB4bt/LGFJon4IL5NxiQqnaBWA0SP+4sOXiGRClerbPSSJxwZHgyNjducOIKP6+yy0tokhHsr8LPCW7mznK3jj+BJujhdKMPHTkQ8y233rk8UZWBvhNVy4CvSdmjCdujthxXeTXiHgSzSUT231kMU8Ry++DRR0MRTD5oazm4CYt05yAWh+/ck3VVuTS7vKvHcU5HgaeUp2qeZSkQ/dc1Cwcn9q/RBGEEFCMtbVxlhaEJniva6ky/XmToZR+E9jXHQy/4czZZZ9U5gPnYYAE=;+FhimS85q9ojQ5t9oudxrg=="
+secured: "jBPspa09dlW8URXE/dDgja/7T0LeSWrcHrruamNoiCrQHZwgiCKZylhdZ6JCS6m9yYXqzhdJI8y7uBA/cU6kIDgPVs/hNjSybGv4+RqxY2Rw285+DGD4SdlKTqVm5oLeK1jk+SN/P22pc22ZOx1f42dVQ9G+/G4vjmJM/mPA7YO7CnaHFo5sNDz3hINfLv6WhWEIjErbo9rQPvhIIW8cIH35bu4A350kLsNtHVZc+f6kGu15uLRQ+Z+708yp/fG6TQL3xPFiIoBTObzooDeI52+8Bt5tu8ci+XtUCnJfC9hsZ8ietIMmj7j6NafTHP7aDGFuEGHO1LxybrcRISZdKLQRM7dW66zTVkgPherv7wM=;I/HaRQw2KNZwxs1ndTn0Aw=="
 ---
 

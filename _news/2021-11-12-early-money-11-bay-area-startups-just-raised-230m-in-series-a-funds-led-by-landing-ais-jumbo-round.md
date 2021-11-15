@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rad AI Closes $25 Million Series A to Transform Radiology Workflow by Harnessing the Power of Artificial Intelligence"
-    excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS Ventures with participation by several existing investors, including OCV Partners,"
-    publishedDateTime: 2021-11-10T14:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-berkeley-health-artificial-intelligence-ce3668e390d42e956dd2c71e594b6232"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
     excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."
     publishedDateTime: 2021-11-12T19:28:00Z

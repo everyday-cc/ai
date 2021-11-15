@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "BofA Finds Nvidia \"Uniquely Ready\" For AI, Robotics, Metaverse, Autos"
-    excerpt: "He believes Nvidia is \"uniquely ready\" with its combo of hardware, software, and developer ecosystem to address new technologies across AI, robotics, metaverse, and autos as well as \"any new markets that materialize."
-    publishedDateTime: 2021-11-10T13:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bofa-finds-nvidia-uniquely-ready-for-ai-robotics-metaverse-autos-1030959393"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2498.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "With the Metaverse on the way, an AI Bill of Rights is urgent"
     excerpt: "Calls for an AI Bill of Rights grow as thought leaders continue to raise serious concerns about the technology."
     publishedDateTime: 2021-11-13T16:40:00Z
@@ -216,20 +202,6 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 37
-  - title: "The Glimpse Group and D-ID Partner to Bring Life to the Metaverse with AI, VR & AR"
-    excerpt: "Harnessing AI-powered synthetic media with the visual power of Augmented & Virtual Reality to enhance viewing and interaction in the Metaverse NEW YORK, NY / ACCESSWIRE / November 10, 2021 / The Glimpse Group,"
-    publishedDateTime: 2021-11-10T13:31:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-media-artificial-intelligence-1d867449edbe7a2fd6ce0c33913d8344"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
     excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"
     publishedDateTime: 2021-11-12T14:57:00Z

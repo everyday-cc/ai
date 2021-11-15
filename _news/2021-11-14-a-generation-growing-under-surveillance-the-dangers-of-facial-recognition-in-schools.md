@@ -43,22 +43,6 @@ related:
         width: 712
         height: 400
         isCached: true
-  - title: "Amnesty International concerned over facial recognition, CCTV surveillance in Hyd."
-    excerpt: "Hyderabad, by means of its CCTV network and facial recognition technology, is one of the most surveilled cities in the world, and extensive surveillance here is putting human rights at risk, Amnesty International said in a statement."
-    publishedDateTime: 2021-11-10T14:57:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/amnesty-international-concerned-over-facial-recognition-cctv-surveillance-in-hyd/article37423824.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/amnesty-international-concerned-over-facial-recognition-cctv-surveillance-in-hyd/article37423824.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/amnesty-international-concerned-over-facial-recognition-cctv-surveillance-in-hyd/article37423824.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 53
-    images:
-      - url: "https://www.thehindu.com/news/cities/Hyderabad/tjbnik/article37423820.ece/ALTERNATES/LANDSCAPE_615/hy10AI"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
     excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."
     publishedDateTime: 2021-11-11T11:40:00Z

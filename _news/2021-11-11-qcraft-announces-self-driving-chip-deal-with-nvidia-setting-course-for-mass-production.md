@@ -148,15 +148,6 @@ related:
         width: 326
         height: 250
         isCached: true
-  - title: "Video: Nvidia debuts automated parking and AI assistant for future cars"
-    excerpt: "At Nvidia GTC 2021, Nvidia Corp. debuted several new processes for automated driving including intelligent parking and an artificial intelligence (AI) assistant to help with the daily drive grind. The company introduced the Drive Concierge and Drive Chauffeur AI platforms."
-    publishedDateTime: 2021-11-10T13:40:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17397/video-nvidia-debuts-automated-parking-and-ai-assistant-for-future-cars"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
   - title: "Nvidia announces new platform for creating AI Avatars"
     excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
     publishedDateTime: 2021-11-10T16:16:00Z

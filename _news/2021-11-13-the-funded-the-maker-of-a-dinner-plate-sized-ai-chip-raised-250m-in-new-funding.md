@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rad AI Closes $25 Million Series A to Transform Radiology Workflow by Harnessing the Power of Artificial Intelligence"
-    excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS Ventures with participation by several existing investors, including OCV Partners,"
-    publishedDateTime: 2021-11-10T14:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-berkeley-health-artificial-intelligence-ce3668e390d42e956dd2c71e594b6232"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Early Money: 11 Bay Area startups just raised $230M in Series A funds, led by Landing AI's jumbo round"
     excerpt: "AI helped push the total raised by #BayArea startups in #SeriesA rounds over the last week well past the $200 million mark. #venture"
     publishedDateTime: 2021-11-11T16:37:00Z

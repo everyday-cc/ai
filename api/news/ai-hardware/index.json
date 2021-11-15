@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -752,6 +752,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-09-big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies.md",
+      "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
+      "excerpt": "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.clinicaltrialsarena.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "originalUrl": "https://www.clinicaltrialsarena.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/11/leaders.jpg",
+          "width": 1400,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Clinical Trials Arena",
+        "domain": "clinicaltrialsarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-amd-boosts-performance-of-datacenters-technical-computing-hpc-and-ai.md",
       "title": "AMD boosts performance of datacenters, technical computing, HPC, and AI",
       "excerpt": "AMD announced it has improved performance levels for datacenters, technical computing, high-performance computing, and AI.",
@@ -1411,58 +1454,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/11/01/untether-ai-touts-at-memory-architecture-promising-efficiency-and-performance-at-the-edge/amp/",
       "publishedDateTime": "2021-11-01T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-intel-habana-ai-accelerator-becomes-available-on-amazon-ec2.md",
-      "title": "Intel Habana AI Accelerator Becomes Available On Amazon EC2",
-      "excerpt": "The Amazon EC2 DL1 instance type delivers up to 8 Gaudi accelerators with 32 GB of high bandwidth memory (HBM) per accelerator with 400 Gbps of networking throughput and 4 TB of local NVMe storage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617f789c7aa77d3d07ecc29a%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/11/01/intel-habana-ai-accelerator-becomes-available-on-amazon-ec2/amp/",
-      "publishedDateTime": "2021-10-31T22:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

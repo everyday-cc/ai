@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-fund
 webUrl: "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html"
 type: article
 quality: 137
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-05/money-1604921_1280.jpg?h=1c9b88c9&itok=ICPkIM9o"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Rad AI Closes $25 Million Series A to Transform Radiology Workflow by Harnessing the Power of Artificial Intelligence"
-    excerpt: "Rad AI, the fastest growing radiologist-led AI company, today announced $25 million in Series A funding. The round was led by ARTIS Ventures with participation by several existing investors, including OCV Partners,"
-    publishedDateTime: 2021-11-10T14:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-berkeley-health-artificial-intelligence-ce3668e390d42e956dd2c71e594b6232"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
     excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."

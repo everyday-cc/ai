@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://dazeinfo.com/wp-content/uploads/2021/11/facial-recognition-market-dazeinfo.jpg"
         width: 650
         height: 450
-        isCached: true
-  - title: "Facebook will drop its facial recognition system, but why we should be skeptical"
-    excerpt: "Facebook has announced that it will stop using its facial recognition system—the artificial intelligence software which recognizes people in photos and videos and generates suggestions about who to \"tag\" in them."
-    publishedDateTime: 2021-11-10T14:30:00Z
-    webUrl: "https://techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/facebook-will-drop-its.jpg"
-        width: 1356
-        height: 668
         isCached: true
   - title: "TS cops draw flak for random use of facial recognition scans on unsuspecting citizens"
     excerpt: "Two days after Amnesty International, Internet Freedom Foundation and Article 19 launched #BantheScan campaign, asking the Central and Telangana governments to stop the use of facial recognition system as it can potentially be used to target minority and disadvantaged communities,"

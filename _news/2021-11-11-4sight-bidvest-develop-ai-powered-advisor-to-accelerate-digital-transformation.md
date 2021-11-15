@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/kYbe97XDp827AWpG"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/kYbe97XDp827AWpG"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 400
     height: 373
     isCached: true
-
-related:
-  - title: "South Africa Has a New AI-Powered Digital Transformation Advisor"
-    excerpt: "An innovative local software development partnership between 4Sight Holdings and Bidvest Advisory Services has created 4MIA powered by ALICE TM, a first-of-its-kind AI-powered automated digital transformation advisor."
-    publishedDateTime: 2021-11-10T13:08:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/11/south-africa-has-a-new-ai-powered-digital-transformation-advisor/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 39
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/05/Chatbots-696x452.jpg"
-        width: 696
-        height: 452
-        isCached: true
 
 secured: "8bnVbHIFhED8trWBhg4yBLJn00jIE2GIh1qdd9u18hMrVNNvMe8/Hcdih6oA+qIt0mr0NbGshUVoWnHF1DNZWaHT/+6YkMD1n1N3NOoLvYOpSF4X9U+iYW/7aMmLkJL/ubxPdL3o2P7OP0Yid3QzQ2FHgrFC6l8ztW1J+hL4YcbO1QQ/4gjJFkw4g9sGS3b9IdrIS2nQ+22bA6eplu5Dwj5zwAaTnU+E9qXm9MZf788G27P7QfxY4PHjM0U4mJGG/nCc5FZ6hpbg8ziTvxrxLu0S7+o/VNTec6Eld9HcOmXUJ4ojVfQkQEOoirnY/Tl08f7ME4RgIW4Nsem1J6dseOtxdeY6SJNI29xNqWovovN6nKTRQKcVPpKJlRj24DbvseftXfvH//VJtLFY6Aa+ChqXvYIwMfV4H0m3s0FxutcpqLyQC88BEf3IURqjUC2ghIYfRC1YxKQH6V5y3qGkZbkgskr6VBCkXUMjzHIhKQh/nFuY6ySbpZyH8SeHDg1VHuU6l/3Rk3aHNZpADUkcQg==;qjcLtfpV7sf+z3zaSYDxrg=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "FuboTV acquires computer vision startup Edisin.ai"
 excerpt: "Sports streaming service FuboTV will use player and sponsor tracking AI to boost digital portfolio as it diversifies revenue streams."
 publishedDateTime: 2021-11-12T17:14:00Z
-originalUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=betting"
-webUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=betting"
+originalUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=broadcast-ott"
+webUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=broadcast-ott"
 type: article
 quality: 34
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 300
         isCached: true
 
-secured: "pTq72PsxsIKoNb0FLbT9CCbamI8jQVsVKPXsV0+L3bk9G8UEjzgWPJ1QPjcWtYpsWh5/rb9Wc1kf5jsuDamsYw8d0zm72ewJe7QuomCmHOX+u4642FgIuykNGEQlBGXG17HG2J0N1R0W7Uv6WvO1TxUahkPTU/Qo58Jrfapt203mdYdyHF207VBOjduKJ8Tehq338il4VWcwNs/EBMga2oxoGEqTmzTi6RTUWKZ6OoAYpj4yEcSC+JUw0H/NVVhWzU+ZEZIslx9psEWs0Ytfi4klz87eug2k7VXOkk3fwFoUlo1V8QcYjiw2NhUEvoJDM5+DA8RejjrAwYtpXY4Ln/u2DZ+vV+olft5Ol3ELlSGWnQ5Wv/1BdZN5UqUjoZsx2bLi1iCE5BbuMITlfjXZdS8eiq/iAZmPmSh1Ilh4ctyz3PuJSmFOdFpkIkedOag2f2+RJUPzI9aHW166Z+a0ASIrp94Jwb1U+oxDZGB92Pl326Sthe4K/+ojpEIyrQtOY7JrOb8t+IVoBUSapMZsbA==;RI4jfRQbT6ZNYQbyq4N8zw=="
+secured: "EOtSnnjpACFJaRKfvZRm93of7ou6RATHI1/90bvPm80yB6pu0caMUvrD6rwBr7UPo+9T5+TrQp6CJzBj4YLWKrPpsYdz/ycgNoT6KAicfGHaG7r3YwCnpEz0Zw82JKEfE8t9OtEf6xgrI2vUXZ0bYcSNbuJry5yK2cUVty4z1lueOtH5cC/zP54wsa+ffuWshsIIxPBieMfYI+P4ldwTZIva49tFnFu7i0fQr8aP4c0KbyLSi7ALwmy/Zswm9t1AWJirn+w0SS8TNDLuZO0ukiYGx+6U867TAm2/3UMA9WjpA2C9gqAenk9Indw0iA61Cpo6USiUJGqAHp1d3Sr3KNZ/rQgx5IBc6s6yygmrULOSw85U+jfOcQCrx9Lbz1XZsZhzIqlwP08w00o9tc40CH+PCThLLhIS4G+0L07L9qW05yKE3agKRhJ+0Znuuz77yLHvwky4Xz9ORxiRNm2imrmA4yO0FuzP624LYoJmoG4EReRGLiwFu5fWF9neV1e/9VapMhweiSy43QV6FDPy/A==;VSzxt5nR+/jiBdF8XqOKDg=="
 ---
 

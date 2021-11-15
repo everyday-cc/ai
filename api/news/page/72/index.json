@@ -2,6 +2,232 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-09-22-the-companys-fall-lineup-has-something-for-every-taste-and-budget.md",
+      "title": "The company's fall lineup has something for every taste and budget",
+      "excerpt": "After Dell, Asus, and Lenovo, HP is the latest manufacturer launching new devices designed for Microsoft's upcoming Windows 11 operating system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
+      "originalUrl": "https://www.techspot.com/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-21-image-22.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
+      "publishedDateTime": "2021-09-21T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-facebook-sharpens-focus-on-safety-security-to-address-wsj-allegations-launches-consumer-products.md",
+      "title": "Facebook Sharpens Focus On Safety, Security To Address 'WSJ' Allegations, Launches Consumer Products",
+      "excerpt": "“These teams reduce the spread of harmful and illicit content on our platforms and develop AI technology to ... “plain false: that Facebook conducts research and then systematically and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/367112/facebook-takes-new-approach-to-address-safety-sec.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/367112/facebook-takes-new-approach-to-address-safety-sec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/09/21/fbportal-10inch-600_RmiWiCI.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-ct-town-at-forefront-of-national-debate-over-facial-recognition-tech.md",
+      "title": "CT town at forefront of national debate over facial recognition tech",
+      "excerpt": "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b",
+      "originalUrl": "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Haven Register",
+        "domain": "nhregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-ct-town-at-forefront-of-national-debate-over-facial-recognition-tech.md",
+      "title": "CT town at forefront of national debate over facial recognition tech",
+      "excerpt": "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning the use of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b&src=startpromo",
+      "originalUrl": "https://www.stamfordadvocate.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b&src=startpromo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-canon-slade-school-first-in-the-north-west-to-bring-in-facial-recognition-technology.md",
+      "title": "Canon Slade School first in the North West to bring in facial recognition technology",
+      "excerpt": "A SCHOOL in Bolton is thought to be the first in the North West to use facial recognition technology. Canon Slade is using the very latest in technology to improve service during busy lunchtimes ­— and as an extra measure to keep pupils safe from allergies and keep the school Covid secure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theboltonnews.co.uk/news/19594539.canon-slade-school-first-north-west-bring-facial-recognition-technology/",
+      "originalUrl": "https://www.theboltonnews.co.uk/news/19594539.canon-slade-school-first-north-west-bring-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theboltonnews.co.uk/resources/images/13026338/?type=responsive-gallery",
+          "width": 650,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theboltonnews.co.uk/news/19594539.amp/",
+      "cdnAmpWebUrl": "https://www-theboltonnews-co-uk.cdn.ampproject.org/c/s/www.theboltonnews.co.uk/news/19594539.amp/",
+      "publishedDateTime": "2021-09-21T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bolton News",
+        "domain": "theboltonnews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-carbon-lighthouse-fights-climate-change-with-data-and-machine-learning.md",
       "title": "Carbon Lighthouse Fights Climate Change With Data And Machine Learning",
       "excerpt": "With machine learning, organizations can monitor and report environmental impact on demand, efficiently manage data streams through AI, and reduce carbon emissions by closing the",
@@ -935,229 +1161,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-oracles-new-digital-marketing-software-runs-on-ai.md",
-      "title": "Oracle’s new digital marketing software runs on AI",
-      "excerpt": "Oracle has unveiled a new system that will use artificial intelligence (AI) to help businesses automate digital marketing campaigns more effectively. Experts at the database software specialist have developed the system in an attempt to grab a larger slice of the cloud-based software market from the likes of Adobe and Salesforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "originalUrl": "https://www.techradar.com/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracles-new-digital-marketing-software-runs-on-ai",
-      "publishedDateTime": "2021-09-21T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe.md",
-      "title": "IBM and Airspan Networks Plan to Work to Accelerate 5G-enabled Open RAN Adoption in Europe",
-      "excerpt": "Via IBM and Airspan’s planned testbed in Germany and France, European telco customers would have ability to trial edge applications and network slicing over long distances using 5G-enabled Open RAN The goal of developing this testbed is to help clients across Europe innovate and develop multi-vendor solutions designed to address different customer use case requirements,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/ibm-and-airspan-networks-plan-work-accelerate-5g-enabled-open-ran-adoption-europe",
-      "originalUrl": "https://www.pressreleasepoint.com/ibm-and-airspan-networks-plan-work-accelerate-5g-enabled-open-ran-adoption-europe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-robotics-revolution-in-woodworking.md",
-      "title": "Robotics revolution in woodworking",
-      "excerpt": "While some woodworkers still cling to an 18th or 19th century image of the craft, the reality of 21st century woodworking is increasingly one of automation and robotics. Driven in part by the near impossibility of finding enough skilled workers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.woodworkingnetwork.com/technology/robotics-revolution-woodworking",
-      "originalUrl": "https://www.woodworkingnetwork.com/technology/robotics-revolution-woodworking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.woodworkingnetwork.com/sites/default/files/2021-09/Robotic-Solutions-sanding-pool-table.jpg",
-          "width": 1800,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Woodworking Network",
-        "domain": "woodworkingnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-taqadam-tales-how-unitx-plans-to-capture-the-computer-vision-market-for-safety-and-surveillance.md",
-      "title": "TAQADAM Tales: How UnitX Plans To Capture The Computer Vision Market For Safety And Surveillance",
-      "excerpt": "TAQADAM was particularly helpful in kickstarting UnitX, especially when it comes to the emotional support to the founding team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/386395",
-      "originalUrl": "https://www.entrepreneur.com/article/386395",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/images/misc/1632118373_KiranNarayananco-founderandCEOUnitX2.jpg?width=1000",
-          "width": 1000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-siemens-energy-launches-ai-solution-to-fight-industrial-cybercrime.md",
-      "title": "Siemens Energy launches AI solution to fight industrial cybercrime",
-      "excerpt": "Siemens Energy has launched a new solution for monitoring and responding to cyberthreats against the Industrial Internet of Things (IIoT). The industrial sector is undergoing a rapid shift from legacy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
-      "originalUrl": "https://www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/google-amp/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/google-amp/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
-      "publishedDateTime": "2021-09-21T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

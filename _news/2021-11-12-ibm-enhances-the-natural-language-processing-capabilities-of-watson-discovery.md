@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM to Add New Natural Language Processing Enhancements to Watson Discovery"
-    excerpt: "IBM (NYSE: IBM) today announced new natural language processing (NLP) enhancements planned for IBM Watson Discovery. These planned upda"
-    publishedDateTime: 2021-11-10T13:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "IBM adds new natural language processing enhancements to Watson Discovery"
     excerpt: "IBM has announced a new set of natural language processing enhancements to Watson Discovery. IBM is targeting financial services, insurance and legal"
     publishedDateTime: 2021-11-11T09:11:00Z

@@ -2,6 +2,222 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-09-29-amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more.md",
+      "title": "Amazon’s new toys: From $999 robot to home security, kids entertainment and much more",
+      "excerpt": "Amazon shows off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home, an interactive video chat portal for kids, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/",
+      "originalUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/09/amazon-glow-e1632853917387-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/?amp=1",
+      "publishedDateTime": "2021-09-28T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-cloud-computing-in-education-sector-market-may-see-a-big-move-major-giants-verizon-cloud-salesforce-aliyun-google-cloud-platform-rackspace.md",
+      "title": "Cloud Computing in Education Sector Market May See a Big Move : Major Giants Verizon Cloud, Salesforce, Aliyun, Google Cloud Platform, Rackspace",
+      "excerpt": "Edison, NJ — (SBWIRE) — 09/28/2021 — Worldwide Cloud Computing In Education Sector Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cloud-computing-in-education-sector-market-may-see-a-big-move-major-giants-verizon-cloud-salesforce-aliyun-google-cloud-platform-rackspace",
+      "originalUrl": "https://www.digitaljournal.com/pr/cloud-computing-in-education-sector-market-may-see-a-big-move-major-giants-verizon-cloud-salesforce-aliyun-google-cloud-platform-rackspace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/Tesla-Berlin-AFP-1K-02-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-4-ways-insurance-companies-use-machine-learning.md",
+      "title": "4 Ways Insurance Companies Use Machine Learning",
+      "excerpt": "Every day, insurance companies gather and create an enormous amount of data. Indeed, information is the lifeblood of the industry, enabling better risk management, increased sales, and solutions that are more tailor-made to fit the needs of individual clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/4-ways-insurance-companies-use-machine-learning-elay-romanov",
+      "originalUrl": "https://www.linkedin.com/pulse/4-ways-insurance-companies-use-machine-learning-elay-romanov",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEzGd8r42wrcw/article-cover_image-shrink_720_1280/0/1632849709363?e=1639008000&v=beta&t=TrZmGduBxsvXlvOVzLFEo2h2sbCzSYB1k6caqHx1ALc",
+          "width": 1152,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-paravision-enhances-video-facial-recognition-with-streaming-container-update.md",
+      "title": "Paravision enhances video facial recognition with Streaming Container update",
+      "excerpt": "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update",
+      "originalUrl": "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg",
+          "width": 2048,
+          "height": 1366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-ai-may-predict-the-next-virus-to-jump-from-animals-to-humans.md",
+      "title": "AI may predict the next virus to jump from animals to humans",
+      "excerpt": "Most emerging infectious diseases of humans (like COVID-19) are zoonotic—caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/09/210928141839.htm",
+      "originalUrl": "https://phys.org/news/2021-09-ai-virus-animals-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-amazon-announces-astro-the-home-robot.md",
       "title": "Amazon announces Astro the home robot",
       "excerpt": "Amazon is launching Astro, its first household robot, powered by its Alexa smart home technology. The company said it can be remote-controlled when not at home, to check on pets, people, or home security.",
@@ -954,240 +1170,6 @@
         "name": "Inter Press Service",
         "domain": "ipsnews.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability.md",
-      "title": "Arize AI Raises $19 Million Series A Financing Led by Battery Ventures for Machine Learning Observability",
-      "excerpt": "Machine learning is the backbone of modern ... Other customers include organizations in financial services, fintech, healthcare, insurtech, ad tech, retail and other industries that rely on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-301385881.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-301385881.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook",
-          "width": 2696,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-battery-ventures-leads-arize-ais-19m-round-for-ml-observability.md",
-      "title": "Battery Ventures leads Arize AI’s $19M round for ML observability",
-      "excerpt": "Companies use data to build models that they use to automate decisions, but without visibility, it’s difficult to determine if the models are accountable, fair and responsible.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/",
-      "originalUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/DSC_0597.jpg?w=1000",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/",
-      "publishedDateTime": "2021-09-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-kodiak-launches-its-4th-generation-self-driving-semi-truck.md",
-      "title": "Kodiak launches its 4th-generation self-driving semi-truck",
-      "excerpt": "That move towards autonomy in the trucking industry is where Kodiak Robotics comes in, with its fourth-generation Kodiak Driver system, which the company announced on Tuesday. The system is somewhat unique from others on the road in its modularity and ease of installation on any modern Class 8 truck,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/fXRtRHYXHsgvDiRTPEUy6OR0_EU=/2021/09/27/de369ec4-cdeb-4aa1-bbf8-c04f0dda9fb2/767a6856-1.jpg",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
-      "publishedDateTime": "2021-09-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-callminer-combines-conversation-analytics-platform-with-microsoft-azure-speech-to-text.md",
-      "title": "CallMiner Combines Conversation Analytics Platform With Microsoft Azure Speech to Text",
-      "excerpt": "CallMiner, a leading provider of conversation analytics to drive business improvement, today announced it is enabling organizations to use the power of the CallMiner Eureka Platform with Microsoft ( News - Alert) Azure Speech to Text as a powerful,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-callminer-combines-conversation-analytics-platform-with-microsoft-azure-/2021/09/28/9457714.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-callminer-combines-conversation-analytics-platform-with-microsoft-azure-/2021/09/28/9457714.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-londons-met-police-buying-retrospective-facial-recognition-technology.md",
-      "title": "London's Met Police Buying Retrospective Facial Recognition Technology",
-      "excerpt": "The UK's Metropolitan Police Service has been authorised to buy and use retrospective facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6152fd755997c9c246b71a4c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/09/28/londons-met-police-buying-retrospective-facial-recognition-technology/amp/",
-      "publishedDateTime": "2021-09-28T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

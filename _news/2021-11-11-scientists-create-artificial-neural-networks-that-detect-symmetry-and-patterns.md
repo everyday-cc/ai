@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2021-11-scientists-artificial-neural-n
 webUrl: "https://techxplore.com/news/2021-11-scientists-artificial-neural-networks-symmetry.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists create artificial neural networks that detect symmetry and patterns"
-    excerpt: "A rendering of an artificial neural network with a computer chip in the center A research team at Lehigh University, funded by the U.S. National Science Foundation, developed and effectively taught an artificial neural network to sense symmetry and structural similarities in materials and to create similarity projections."
-    publishedDateTime: 2021-11-10T13:54:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?org=NSF&cntn_id=303877"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 35
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/neural_networks_f.jpg"
-        width: 350
-        height: 220
-        isCached: true
   - title: "Scientists create artificial neural networks that detect symmetry and patterns"
     excerpt: "A rendering of an artificial neural network with a computer chip in the center A research team at Lehigh University, funded by the U.S. National Science Foundation, developed and effectively taught an artificial neural network to sense symmetry and structural similarities in materials and to create similarity projections."
     publishedDateTime: 2021-11-13T05:55:00Z

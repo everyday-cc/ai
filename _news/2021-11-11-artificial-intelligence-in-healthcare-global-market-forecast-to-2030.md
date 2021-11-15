@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcar
 webUrl: "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Middle East North Africa Financial Network
@@ -34,6 +34,20 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 34
+  - title: "Artificial Intelligence in BFSI Market Report 2020 by Global Key Players, Countries, Size, Forecast to 2028"
+    excerpt: "The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 SURREY, BRITIS"
+    publishedDateTime: 2021-11-15T06:45:00Z
+    webUrl: "https://menafn.com/1103171654/Artificial-Intelligence-in-BFSI-Market-Report-2020-by-Global-Key-Players-Countries-Size-Forecast-to-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?220416"
+        width: 374
+        height: 250
+        isCached: true
 
 secured: "dMgFXNsQTnXmlA04jeAsUkluNFf0R63EvwX7PSB9sGCmvBGTQaeQUQpWzi413NgGkqbr42p+Llb2rh6MeebAag8GPc5s89tQF5xOqkAysRTrC8v/poFqy924ajr1PJHIaLK27gfNO/S65x1yuK1ExCJKYNNeL8MQiauynXLAa1YeuIG1IeSNbzuSNPCJg5ny17Xm4MTYweDrFbWeIDJtk4Uqfw0LtF7s8SVpaLmzoX8+4IaHodBSG3az9NWVadJHJlUanJV0xxQ8Padez5xyyHW6xrCTat+Vf5rfw98T7u3I/qEQT9Ij8YAEseeUzJVFI5RNRtSeB6P67dFvRFa4ONtrCmzSmh+M4Qa/2SJ7sxU=;kG7SpfMJQafOVWSBK4AOyA=="
 ---

@@ -59,22 +59,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Facebook will drop its facial recognition system, but why we should be skeptical"
-    excerpt: "Facebook has announced that it will stop using its facial recognition system—the artificial intelligence software which recognizes people in photos and videos and generates suggestions about who to \"tag\" in them."
-    publishedDateTime: 2021-11-10T14:30:00Z
-    webUrl: "https://techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-facebook-facial-recognition-skeptical.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/facebook-will-drop-its.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Facebook is shutting down its facial recognition software"
     excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
     publishedDateTime: 2021-11-11T14:59:00Z
