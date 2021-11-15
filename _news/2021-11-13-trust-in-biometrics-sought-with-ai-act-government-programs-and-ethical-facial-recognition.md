@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-
 webUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Thales inks biometrics and smart city deal in Vietnam, discusses ethical facial recognition"
-    excerpt: "Thales signs extensive deal with VNPT to accelerate the country’s digital transformation, releases paper on Responsible and Ethical Facial Recognition."
-    publishedDateTime: 2021-11-10T22:08:00Z
-    webUrl: "https://www.biometricupdate.com/202111/thales-inks-biometrics-and-smart-city-deal-in-vietnam-discusses-ethical-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 46
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/03194323/thales-large.jpg"
-        width: 1280
-        height: 831
-        isCached: true
   - title: "Take the shine and target off face biometrics, say researchers"
     excerpt: "If held to the same standards as every other identification tool, use of face biometrics can add to the number of solved crimes with minimal collateral harms."
     publishedDateTime: 2021-11-12T16:13:00Z

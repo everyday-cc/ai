@@ -39,20 +39,6 @@ related:
         width: 400
         height: 293
         isCached: true
-  - title: "Radiologist-founded firm using artificial intelligence to alleviate burnout raises $25M"
-    excerpt: "Rad AI, a radiologist-founded firm using artificial intelligence to alleviate burnout, has raised $25 million, officials announced Wednesday. San Francisco-based Artis Ventures investment firm led the Series A financing with additional contributions from existing backers such as Gradient Ventures,"
-    publishedDateTime: 2021-11-10T22:29:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/radiologist-rad-ai-artificial-intelligence-burnout"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 46
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-05/money-1604921_1280.jpg?h=1c9b88c9&itok=ICPkIM9o"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
     excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."
     publishedDateTime: 2021-11-12T19:28:00Z
@@ -62,6 +48,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 29
+  - title: "Zesty Raises $35 Million Series A to Simplify Cloud Management with AI-Driven Automation"
+    excerpt: "Zesty, a provider of AI-driven cloud management technologies for real-time optimization, today announced a $35 million Series A funding round led by Next47. Joining the round as new investors are Sapphire Ventures and Samsung Next,"
+    publishedDateTime: 2021-11-15T14:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-zesty-raises-35-million-series-to-simplify-cloud-/2021/11/15/9492124.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1688135/Zesty.jpg"
+        width: 400
+        height: 264
+        isCached: true
   - title: "Early Money: 11 Bay Area startups just raised $230M in Series A funds, led by Landing AI's jumbo round"
     excerpt: "AI helped push the total raised by #BayArea startups in #SeriesA rounds over the last week well past the $200 million mark. #venture"
     publishedDateTime: 2021-11-11T16:37:00Z

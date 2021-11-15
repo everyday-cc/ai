@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna5537"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537"
 type: article
 quality: 101
-heat: 211
+heat: 221
 published: true
 
 provider:
@@ -200,6 +200,22 @@ related:
       - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/07/932/470/GettyImages-187005526_1555969552377_7141953_ver1.0.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Apple expands driver pool for self-driving car tests by 23"
+    excerpt: "Apple has increased the number of drivers for its fleet of autonomous vehicles, with the headcount of testers for its self-driving vehicle systems now at 137 people."
+    publishedDateTime: 2021-11-15T14:55:00Z
+    webUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23"
+    ampWebUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 44
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/45634-88829-44849-87211-44393-86171-210914-AppleTestVehicle-xl-xl-xl.jpg"
+        width: 870
+        height: 485
         isCached: true
 
 secured: "hnFTR3d492F2wt6JCE3VgViCX4jD5jIWzf+KOV1FVQVfRmDSpJCl3W0uYKJZyyYE7F4ui3VSQQ0eVITt2j9qUDmdoqltFTVE8mf873wgpHViARKxpsU++ssLOfwWFuSZL95bRO9dBlHVAXVECgN4CG83djQeFDJOcarAqmXu03HEz+DPY+GQK1ejOvbeBLxDjRM0wfIjBBB/wj0pa/EdiqFofN5XhELL36WxojnyvJbFsrd95fQsxWutpLpy1vqmWEMKudfYXFGBrf2yVLcpLub15XhvnW2yX79gqrK/S13JltnEl1tla4kS+3nW9AYkaNKkuMWEWLP8gKYZWAneJ/3L4FBeX4fquye2QaK6GxfrPZ9rFkIjErxiiewIfy3zYVLTMlyrZxMvoET8ssVR+HRyjT0Ml5DfYeGsr7LvkOAM3CeeaCsvTyNDtKXMgN3AtbgrQamjO6OiWs1zgB8Q/zcT+cY0rHlfJX7xCaZjhlwRqgn0FUKgZREVMCrGqNye70DnjVVzhua7D3kHRVLbWw==;JYsWGKz9MzrX1atOiRDq3g=="

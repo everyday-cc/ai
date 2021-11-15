@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Technology + Innovation in the financial sector = FINTECH"
+    excerpt: "In celebration of UAE Year of the Fiftieth (50th), it is important to note how far we have come as a country. Historically, the Dubai economy was dependent on oil and gas, and accounted for 50% of its GDP in 1985."
+    publishedDateTime: 2021-11-14T13:15:00Z
+    webUrl: "https://www.linkedin.com/pulse/technology-innovation-financial-sector-fintech-reefat-maniar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
 
 secured: "2IFP4IcKMUh1aXdYWWyhGkiFauCR5xkQPW3n3aEMMDJ8FqVuhaPC8g/RSQiAHpBuOruhMjr9hhBIhjei5H7jzwFl4msKYw1xFVJuN2hQ5y1DPLGVpPpW+nh1Toc0Cai6mblFLWF9pnUuUlJC59XmusQ39+n7YNKUT6vlyCHSiiQG0hymJIR0suKntF4HtZAFqSXmYNtXlNsTaopSxnCkL9LO5/cNRUzuSU3JSWnsliFh5zajbQ8LTIDY1sS1Nr5vGLxvySxjFKd4zU4m5oCZUp/P/Ki7HNfkW3T0x0t+8ELASYilRSo6y9JA+zMHbQNCLlCiiSoGpwAuIJQrpM5mPmjD0laUs+4CGq85YY/Uxnk=;g84bQL6Ay3NOgoGZCCUm7Q=="
 ---

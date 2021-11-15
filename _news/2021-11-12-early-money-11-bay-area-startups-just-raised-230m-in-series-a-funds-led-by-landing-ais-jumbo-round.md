@@ -47,20 +47,6 @@ related:
         width: 678
         height: 357
         isCached: true
-  - title: "Radiologist-founded firm using artificial intelligence to alleviate burnout raises $25M"
-    excerpt: "Rad AI, a radiologist-founded firm using artificial intelligence to alleviate burnout, has raised $25 million, officials announced Wednesday. San Francisco-based Artis Ventures investment firm led the Series A financing with additional contributions from existing backers such as Gradient Ventures,"
-    publishedDateTime: 2021-11-10T22:29:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/radiologist-rad-ai-artificial-intelligence-burnout"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 46
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-05/money-1604921_1280.jpg?h=1c9b88c9&itok=ICPkIM9o"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
     excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."
     publishedDateTime: 2021-11-12T19:28:00Z
@@ -70,6 +56,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 29
+  - title: "Zesty Raises $35 Million Series A to Simplify Cloud Management with AI-Driven Automation"
+    excerpt: "Zesty, a provider of AI-driven cloud management technologies for real-time optimization, today announced a $35 million Series A funding round led by Next47. Joining the round as new investors are Sapphire Ventures and Samsung Next,"
+    publishedDateTime: 2021-11-15T14:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-zesty-raises-35-million-series-to-simplify-cloud-/2021/11/15/9492124.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1688135/Zesty.jpg"
+        width: 400
+        height: 264
+        isCached: true
 
 secured: "FjLdignHXlhpsgJksm2Z+7oUNWP4n6mkqAR0y0QePv8x2VncuvLX4dtUyzyobADUI732dN8ABGSbirbjfWCn9rBZiLuVn3j+J3BbSgQCTfNEq6Vlzl0Xd6WTAwwTwsgDbAi4bCk+v87LQm9KipLhGRed526Z/aFLXsLFm71C5c+Vz6TYeqe8hT3GZfrayMVMsIJgT8vtL2y5KM9c9DXUYNo6LiZioTyX0oiUPyh1JxKRItPmiQzQbrD7pmS9sglkXUOIXC6V1VwT6Tch8FbRUyurNNUOddvmW8Gw2nOBg6EbWg2b+6HH4Q+3j9ybrdMEZrLmQ8Q7wAaHIkTmqBPaCHH4ILR34J99eE9HPtON1LTU/8p/ahMV8JejfPa0HtrUxHmJ1GFcLByMaKDyO9OseTjU6jyaqYGN3JwIFEa0SytbbCWJW0/yXaHdYFlKAlyr2UYVefFVqvuuZNDjd127/U4RhVZNCzBLV+pNJ6NeOtYjgTC3T9Pl/fobakgGcEvNNMwvu0Q0qnQtOxXXyncxMQ==;m/l6Qh4qhDCmLNawZtQ0zw=="
 ---

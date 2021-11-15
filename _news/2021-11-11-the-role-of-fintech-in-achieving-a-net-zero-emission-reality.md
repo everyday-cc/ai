@@ -55,6 +55,20 @@ related:
         width: 417
         height: 292
         isCached: true
+  - title: "Technology + Innovation in the financial sector = FINTECH"
+    excerpt: "In celebration of UAE Year of the Fiftieth (50th), it is important to note how far we have come as a country. Historically, the Dubai economy was dependent on oil and gas, and accounted for 50% of its GDP in 1985."
+    publishedDateTime: 2021-11-14T13:15:00Z
+    webUrl: "https://www.linkedin.com/pulse/technology-innovation-financial-sector-fintech-reefat-maniar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
   - title: "A Revolutionary FinTech Story that Makes Every Transaction an Opportunity"
     excerpt: "Mobi724 – a Canadian-based fintech platform that enables banks and merchants to offer real-time payment card-linked incentives in a white-label format – has streamlined its data analytics, digital marketing and card-linked offers into an all-in-one"
     publishedDateTime: 2021-11-11T19:27:00Z

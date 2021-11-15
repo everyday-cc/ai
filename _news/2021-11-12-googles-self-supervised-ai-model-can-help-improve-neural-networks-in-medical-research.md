@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google Research: Self-supervised learning is transforming medical imaging"
+    excerpt: "Deep learning shows a lot of promise in healthcare, especially in medical imaging, where it can help improve diagnosing patient conditions."
+    publishedDateTime: 2021-11-15T13:02:00Z
+    webUrl: "https://thenextweb.com/news/google-research-self-supervised-learning-transforming-medical-imaging-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 53
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FGoogle-Research-self-supervised-learning-medical-imaging.jpeg&signature=2cd8ce617e6ecaf441950938cb5d7618"
+        width: 796
+        height: 398
+        isCached: true
 
 secured: "uil/iXE/K2dT5839Fr0M60N6rnr6EKwFlDxsLp162/YFxRm7Stu2FuJuRj9jY3S6vXsJsa2kkmUF6H5yMbG2BVJ5K8uI9R+KqvpdayWvXHvRnEosknf4NAUiwNte4kihgXTRL6exXrGlWEneJk7XbWZ7kqW/nGU4AeIRmEn0xtsi7C1ld0DbdzlluwwiAPdmehw2Q9SvT/iAUh/agCnPzxordgf15JXXl3GchZJ0SlnuQ4+4g4KGsf8tw6q2xm5oU+PZSLkqdBntR7olGyN+t1OyKJNdsFSinyCfMEk+h9LReRkYHy6CTz+DF0Zxpqt2/CwoTQHD0gyVSNLdEu9oL/no/reg9cEvXPdy9us0MoY=;g4Kmvq+YuYrvuRCPt30WTg=="
 ---

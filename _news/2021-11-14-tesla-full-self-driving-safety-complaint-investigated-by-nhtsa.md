@@ -201,6 +201,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Apple expands driver pool for self-driving car tests by 23"
+    excerpt: "Apple has increased the number of drivers for its fleet of autonomous vehicles, with the headcount of testers for its self-driving vehicle systems now at 137 people."
+    publishedDateTime: 2021-11-15T14:55:00Z
+    webUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23"
+    ampWebUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 44
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/45634-88829-44849-87211-44393-86171-210914-AppleTestVehicle-xl-xl-xl.jpg"
+        width: 870
+        height: 485
+        isCached: true
 
 secured: "10Iy7BIzAFu6mleujYAKH/4+teXs7+wA79CCNUd+0q43xnOaKsTOTGZNjd9QcvubZ3/zozMqxu7WG9sqPVZvM+do5X3nix0BtokHNfXEN+BSMfy+nbIQWaP92/iORZN85ixEk1K3YuSqupv45oFA37BX94F78TVSdBJehsJpOqtXhfmWZeWsCznyuOQC5LQh9w/Fxu1gk1EdKS2t+3i7pNd6nDPtTLSxqoaJ/hmxwfMGyBV8Qs+J89oLlqwHfCiJg2vxNP//GRLeKKhI6Rr16VZjzClWmDSbXG7lJ7Mz2DSbofdK3FOWVmi4wklhFPlbXC/jeXvsdrEvIxJQ0ixf3DC6+mDHVOxZOgrk/d7EggQ=;RXTEVBlsWL373TCulyesNA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-fights-fraud-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 620
     isCached: true
+
+related:
+  - title: "How is AI reshaping telecoms?"
+    excerpt: "Telcos will need AI driven solutions allowing them to configure new offers and products in hours and days, engage with and service their customers more effectively and radically simplify their operations."
+    publishedDateTime: 2021-11-15T14:07:00Z
+    webUrl: "https://telecoms.com/opinion/how-is-ai-reshaping-telecoms/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 37
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/03/AdobeStock_135990387.jpg"
+        width: 1200
+        height: 809
+        isCached: true
 
 secured: "su74f/wfX7UdecOTHXqaL/FLD+5KajoFyqrE5MJU2r3Y028gu/IAtrf4qu1N0rcaTfYVtxDbO6Bh4ph/NVaiQLQNDQ7gWOGCrHacOpKD6gO0QozkMA0nc4Djn+mNMXgRNc28qSPbrCjficU7smXakhDyJGOn6YuuABNjwgx+HqRL2mp7NaIUpR6nitV0/1LPCuaF4G2C4ks4ImHSrsIK77XB1lbZYzUSlHUjnupbgXOGNxYjXxAfFNzUXf/J/DovcaHzekwmB7a8RqsSglKmftLHKtxvMDNpy2p7LbxpkVJEnNILeqC65OP9mlV+x+ooYtXWlXAdf9g5Ei57+O2v9pzyyrXInV8ExhOk9en/Fy0kS3n46XHlZs+FHkjQ4imh6P4DNtGUarQ/OnFsJAwpBeGZTcNz5t3MCRkXXupAGCFxbFr0eK++fUPgcPm3thKJRek27sgTgn0gO/HS1rXAzPc3bb8ghsfn5CHPPSp38sQ7YzsntNFtG/nZPVGoXlNaXTLGPTUwmOqgGtH6Mi2CkA==;7FDp77iIhfV7k+QH9zaFpg=="
 ---
