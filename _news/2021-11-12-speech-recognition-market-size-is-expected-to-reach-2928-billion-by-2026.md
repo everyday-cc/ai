@@ -41,6 +41,22 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "Global Artificial Intelligence in Agriculture Market Report – Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026"
+    excerpt: "United States OR Poland Big Market Research recently published a report on Global Artificial Intelligence in Agriculture Market to its research database This Global Artificial Intelligence in Agriculture Market report analyzes the comprehensive overview of the market comprising an executive"
+    publishedDateTime: 2021-11-12T03:08:00Z
+    webUrl: "https://www.openpr.com/news/2459500/global-artificial-intelligence-in-agriculture-market-report"
+    ampWebUrl: "https://www.openpr.com/amp/2459500/global-artificial-intelligence-in-agriculture-market-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2459500/global-artificial-intelligence-in-agriculture-market-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub12513989_g.jpg"
+        width: 800
+        height: 374
+        isCached: true
 
 secured: "BVdV9v5hwZbkqkqB7VdGFdw5DP4+DeFgZujFgyD8TA+5hvsKi+F1lenkBuXoIi+a6zup/4OlO2ikL1Db5jVH/0Zj0VmXD7T5fZhYGyo0EqUejSiLib3WxqPvj/tiSD09hoa2RHK5Vn8HAL+11wjlGiCTZX77ydRDNlEngTKdarMP2nRLM2tTNziGg3xaXe7YNkaVon/uFr6QZUZmQzbvkqE4WnBytBgqwYaVeQoQAQclzu4Btj0nv8NYB6XoaJU7RT1CHfb8i/UxqmOcoeJ++24unnXeSvgXLOL3GU83+AIyHXQWpPiLvAnlFCddLEiY9c+dxoBnhuQpNHOcp7rT9lii+ealX3yshHZZ23Y08PQbRZ97Wf8KZ41+s/ozaMPkuKdzGF6h5maRnQWhKV8vWROdZPAoChiGwH2uRGlVo3zSJZ6oC9r+QDT7XIg+oUo62r+A2AH1NP+W6/iXQwjGTbsdvZcVPrkI8KKQ0bZD+hZ6O+mztV8bv5I85nYs/h5qx3llcspjXypaACNUyyQ5Yg==;cGTIM4O4miH8l+zwHbszbg=="
 ---

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare"
-excerpt: "SMi Reports: 3rd Annual AI in Drug Discovery returns to London, March 2022 with a key focus on the opportunities of machine learning and"
-publishedDateTime: 2021-11-13T03:46:00Z
-originalUrl: "https://menafn.com/1103159220/Exploring-the-Impact-of-Machine-Learning-and-Artificial-Intelligence-in-Drug-Development-from-Discovery-to-Healthcare"
-webUrl: "https://menafn.com/1103159220/Exploring-the-Impact-of-Machine-Learning-and-Artificial-Intelligence-in-Drug-Development-from-Discovery-to-Healthcare"
+excerpt: "SMi Group reports the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the opportunities of machine learning and AI in drug development SMi Group is delighted to announce"
+publishedDateTime: 2021-11-12T18:47:00Z
+originalUrl: "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial"
+webUrl: "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial"
+ampWebUrl: "https://www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 68
+heat: 88
+published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Machine Learning
+  - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-11/12/EP_c8a7cimage_story.jpeg"
+  - url: "https://cdn.openpr.com/U/b/Ub12584002_g.jpg"
     width: 650
     height: 650
     isCached: true
@@ -50,6 +52,6 @@ related:
       domain: pr.com
     quality: 28
 
-secured: "O2YO0sN19h3W6iTBjFbJxJHVb+F3U4cbof1CmLLAQX4GACBpnRV4GuVPc+ULEZZ0DeIGuDk8qqcb6lUdlgwnJSHuT7ths8Vhi4s1RHIsqd1pi5oJYIFNqqEuv3dvVo/CdBMP5XqZRRtbywjeWYoN7wB3O3E6kGcyL9RJHZOEvHQvEGpPyj6KskwZ9vlDU0WrNU0MUFFEYk2Ar9tSUgP5wqNQ98S2/NObgo3gb6JaCJUu6opiif1a2gBsCYGRICzpA9jhRTt6E3hrqBGUZ+on5M+iaKNJ/ogC/fEwwMbTgAVrF+Pft2G5x5WrxQj9BEoeA3RETEktcYZ+fjpT9jPwT5YtMjpBEa3B68uJBH7neIs6XrKNGBFIDHDN0aqF3bP9kYEjOcBMfTk4+24KXnsBFeap5PVxje7eKTPmcBehDruTtCWFjSJvp2Ysp71QX445J4go8d6FTw4kxZWR9DLmJKo5PoRJ1yfx/tcg0cGja+VBmiranHphn+HHMUpaoLEclAM9gpK9HtbKOsjQd8h/UA==;Hsvh5RGt+9jkYfJJxP5UXQ=="
+secured: "2E7KiiZJlALfQMlvoNRFWA6ZqFl+a7mGr0eMrxBz5obC4WH2ORcFXIVoxyMAd7Y8W47b1jBJh3kE/VpNXGlzc8BE88KQM4BmX8OmzfTLBbjFpvF0b8VfW6muG/dEqXEd/SO7ZHTTNwWTYKVh8mBKSitwBQTVUL2bKpNk+TJ7V23WCacb17RqxVArqeV9du9Vi1Mc+NjX1201s0NGX/hDC2jLgDS2N+7NFu8rjYswq6M6e6elWoi7oDXIVw79yIyPjQSOBYwrc22XkgLuWkS5i4g8Rlg/18EMNwQYiVEftO5TNTHT7ItXZomxufPYbDPrktfj5sn9Aqw/zIecjjA2Pscoz3fVuoaA2TdFIo+swXQ=;7IVBgLOiPCnXz6T05c7yYw=="
 ---
 

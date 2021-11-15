@@ -39,7 +39,7 @@ related:
     provider:
       name: Security Systems News
       domain: securitysystemsnews.com
-    quality: 68
+    quality: 70
     images:
       - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
         width: 1200

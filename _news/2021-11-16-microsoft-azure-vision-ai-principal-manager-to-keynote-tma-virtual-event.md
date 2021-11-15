@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-15T19:26:00Z
 originalUrl: "https://www.securitysystemsnews.com/article/microsoft-azure-vision-ai-principal-manager-to-keynote-tma-virtual-event"
 webUrl: "https://www.securitysystemsnews.com/article/microsoft-azure-vision-ai-principal-manager-to-keynote-tma-virtual-event"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.securitysystemsnews.com/images/og-default-image.png"

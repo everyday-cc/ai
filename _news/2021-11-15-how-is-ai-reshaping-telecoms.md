@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-15T14:07:00Z
 originalUrl: "https://telecoms.com/opinion/how-is-ai-reshaping-telecoms/"
 webUrl: "https://telecoms.com/opinion/how-is-ai-reshaping-telecoms/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/03/AdobeStock_135990387.jpg"

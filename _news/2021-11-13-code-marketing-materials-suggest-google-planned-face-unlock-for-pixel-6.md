@@ -7,7 +7,7 @@ originalUrl: "https://mobileidworld.com/code-marketing-materials-suggest-google-
 webUrl: "https://mobileidworld.com/code-marketing-materials-suggest-google-planned-face-unlock-for-pixel-6/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 800
     height: 519
     isCached: true
-
-related:
-  - title: "Google Pixel 6 series might get face unlock smarts after all"
-    excerpt: "The Google Pixel 6 series launched without face unlock, however, a new commit suggests that the firm is still working on the feature."
-    publishedDateTime: 2021-11-11T06:11:00Z
-    webUrl: "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/"
-    ampWebUrl: "https://www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 74
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/pixel-6-fingerprint.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "gDEc2cRRDzwMiqxDCsWqgHn4W4MWX21SLT89nqWCOh1hgnAf36Eh+H+3zZmy/PLRB70q8m+mqeqIuYdppaSuO5J81BoDaWXVc9pfHWu+7CIta9qp+QfvdUm+An5sSaYiTuIfLGCeprrObYqiIdKxp8lnWEcpOKsnIbC3JVGWcri18TCycW7zQv3EGrVG/vS/WVHc6cICxqoN0BTizEey1nLGq22AU0EIgNkxZBzSFf8VppVWypGcMTdY5ASkSbsFr4oFLgDPZW+DdGPpjMDOgsOfXyn33fXraHNQ0YdlR6F6rTLnjCbChTDQsyjfENoeHW2fJjYADmhbjoSRslm2gE7lo24j3BdfLSCyFi0H7vM=;GaFP/29Zj6cf6eAJXQjYoA=="
 ---

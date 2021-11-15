@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2021-11-15/police-shoul
 webUrl: "https://www.bloomberg.com/opinion/articles/2021-11-15/police-should-use-super-recognizers-to-boost-their-facial-recognition-software"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Bloomberg
@@ -28,6 +28,22 @@ images:
     height: 800
     isCached: true
 
-secured: "A56zW3RMyauxOMu3q7i6Khy64Z9V8q5fcKqKED0qJt0Ovf4TIgm7JTwcqo28owECfZZA2IIq1/Jw/6L+HxH3Q0xk3m2sjh40fdnQyrY54ZApbJ1dog7txXYzJaLwXObPy/DTrBxBsI1oWvd+BHyQF/mXRFTQFQvVB408vLHLMTeIonVeLipNOa4JfriNfAn2Qx9nVGmyMgxza53ix3WpaK2yBrT9yl1F6SsZDPv5PqNNtNhviq5HOxClu/iuR2FOfsYlSdEVP+omfpd2ql/C+VbTaJTghaQNnaH7FUDl1T6dR/oNuZ/d+ygsTMH+wkiluutQTQ1dLGjaee1H66z7W0F675Sndd50cFxlVH93sWU=;24fUDl1rZmhvV8BMFi21xQ=="
+related:
+  - title: "Facial Recognition Has Its Limits. Just Ask the ‘Super Recognizers’"
+    excerpt: "London’s Metropolitan Police conducted 10 trials of live facial recognition between 2016 and 2019, using face-matching software from Japanese technology firm NEC Corp. and cameras mounted on surveillance vans and poles."
+    publishedDateTime: 2021-11-15T21:20:00Z
+    webUrl: "https://www.bloombergquint.com/gadfly/police-should-use-super-recognizers-to-boost-their-facial-recognition-software"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 41
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "3JRpsPfxU48I3oBnxZCc4H7dwDQ9NIzuGkNuFBkEloHjRFGzpY5BEvYGYwx8uOZ8e3TBGzhedQ28+wsP8G/cJX6YZvoDlr0oq8C/1keY7rBrq13TKshHd3ZYrPLHCFeyFmT8XhOSaoJtugYdvwdVRYpRbn+K5GZTYZSlcx+ugCyiZtN+F93HQmFspHX/l6r2j3Ry1U+YsCw0KoPXzX+MFynQpKZxZ1DWnfnhi4HszFt5hENajs4BLZj1dRWpq/9oEi4Agxn6ADa+DLKsLDn5H16Fq/K/YGA1Bl7bEIq+AQwAbIaplyJD0Q6lEhLFKHcZtTX7WtIxM8OmxfuktIk+AmwChNu70Ee7a+4kp7q8+2AdCUOv0rVv4kUtJi2f28VBTGSt0V2OYlcGoYDYx8ysB3R4ceYBg9J67IyheXcxOTg1CoZxZ0kprAyffjVVEWlnjqWOGg1ag1/spNBhNbF1T+0CoS9nIXGZoNxj9ycdiTMXxmmFccVhMizwB4NvcxKDcQOu5gYzj0P7PDdneEYY6Q==;9AZoRJtY9998hkNWxU+cZg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 800
     isCached: true
 
-secured: "+guiLm/6VDIRFuuNeN66PylYtZ5TvbsdRsPgxifAteyu7SjwJT7nQLF+A69LNiNk2tKR/Kxd3FRjBnLDpEeV5vBPRwADCTMlUWYXtSRPK++8JAiQJYudZyyX12ThplQiqAASP66/k3oE45sLl6nGuwNnxHG1AadfjkN/0osPpVsiZPSSZ9be+nXzV+LDqvU8cBsDp7eXwH4qVzZlB91vBgVznEllAtGPM4OmcG6YBo5klU2J/THHuq/xlk6AIGjuWs2PfWc7E65R85gbVXbba0KsabRETZhetaqWMGqKKWTmHLh014ynD8YoovQJl9orgemqrf/bcKIdBN4endVHY7YLCs28hSShqhbAp3Nah2A=;dWhBuof/lT9P8IehePvnKQ=="
+related:
+  - title: "Five lessons to fix the failures of AI"
+    excerpt: "Sray Agarwal and Shashin Mishra, data scientists at Publicis Sapient, provide five lessons to fix the failures of AI"
+    publishedDateTime: 2021-11-12T09:53:00Z
+    webUrl: "https://www.information-age.com/five-lessons-to-fix-failures-of-ai-123497664/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/11/five-lessons-to-fix-failures-of-ai.jpeg.optimal.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
+
+secured: "QUHKmIpwQWgbI6wlCVUGcWBUwKxs9Uap3W6dWsm6sp++rTkbYCtbQGdJkjgFpR6NMsR3Tj1Zl+Q9ThpYyrmadBLysvMARD3itFhYkTf6QfoqFM3Ahf6k0p+HhtY5YmFLnZZb3RRpogZuNd+xgFCAf2t3UrF6qZ5P5bIngHjpeT3rdBAHAK5vWV6uhia9PMAykzUdSCSBR62Cv71btjyhF8jLL9yzpGuRNvYh7Dz4v0sZuLsU6c3CJzPcZOzRLY2obOG4h5zufpuqpwvLuAn39S4ioTiy6qvcvXsXP8SkMjMN7Ue1FGvhR1Z52IopfxAUqjiqEWdu5u1SGSlD/1I7EMDbhG8JHArbIzzTnr0PCP5j7eKhdxeTpHJ2fRhZZsDGm2RoXtZbzUR6p5zIjLEbgL0c3Hn0gcJjq5MTiayMRLUEUkPx0M7D4IOSEgw01dJtMe5aqSkYFoJbGf7dnzGIlJAaYokn1ukHYvkxSlELFfo8zQPB+6P6aICXyCA+mP4kh2Hps2v/N4pASfP9bUoxaQ==;kcA4T4Zf3gaMZqaXFBbcoQ=="
 ---
 

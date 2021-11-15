@@ -48,7 +48,7 @@ related:
     provider:
       name: Telecoms
       domain: telecoms.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/03/AdobeStock_135990387.jpg"
         width: 1200

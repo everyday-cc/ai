@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence learns to talk back"
-    excerpt: "This means a pronounced role for artificial intelligence and machine learning, or conversational AI, which add the intelligence needed to deliver superior customer or employee experience. Deloitte analysts recently analyzed patents in the area of conversational AI to assess the direction of the technology and the market -- and the technology has been fast developing."
-    publishedDateTime: 2021-11-11T05:22:00Z
-    webUrl: "https://www.zdnet.com/article/artificial-intelligence-learns-to-talk-back/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-learns-to-talk-back/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-learns-to-talk-back/"
+  - title: "Why AI investments fail to deliver"
+    excerpt: "The success or failure of AI initiatives has more to do with people than with technology. If you want to put AI into practice in a way that improves business outcomes, you must avoid these 6 mistakes."
+    publishedDateTime: 2021-11-15T11:00:00Z
+    webUrl: "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.html"
+    ampWebUrl: "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 189
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/2334592541a79e9c57360b67737481d9d0f132a2/2021/11/11/c26df5c1-8e72-4ae0-b08f-9a661f1546d3/wall-art-viessmann-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://images.idgesg.net/images/article/2020/09/opened_golden_safe_amid_abstract_structures_security_wealth_investment_by_violka08_gettyimages-1167344149_2400x1600-100858618-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 1600
+        height: 800
         isCached: true
 
 secured: "2NQJ7gtkALUW91a3sTaHbRa3SYb1LNRxmh2RQCAXvQxLoAHy5+1CpszCPJ3vtm0GwZCs7vuKUFU8dsT6GNiZLI+wSqhj9vCoyjV3JkJFnNwPLhdNOzygbiYCxRwUZjAd4O0FlPT0NsefXm9SEogaEqbvkEP9AJoh63Csi+crfm6Q05noUfdUMpjN/SW2qUuHEwO6/U6BVU+ZHmJVLlMTeYJ5s6Vwz30LjuhNY7OPPGHUgbWJp2181r7pV+EATyFO4TNqH1eyqBFdhDN3ZU24T+mPfR9NLloWP8bBZd03xhq/hTsCSSY00JMpYG9TgVaoilZTRKqU2BZBW0iJFuFhvdHFGrBvISEZj1XN32hPJpwuh+H4HGoTWaPr1IyayIW3YQPmHW8bPEssyjxlFlqWs2ZJfDmOGet9as8L6OOXpFL4AkN7QXuUQSg5V2K6Q7s04g5ZKmpo7Yl6vZfRgB/GM+/nzzo+em9Lq/1qPfQgw5vRPLNk2nQcffoKFyYmXKRNZ/64SkvRhmDGuYv//mwUkg==;f25UFkXQPHcGil0FDVfjVA=="

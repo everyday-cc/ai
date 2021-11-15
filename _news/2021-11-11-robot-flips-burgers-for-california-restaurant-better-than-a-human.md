@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/sponsored/robot-flips-burgers-california-
 webUrl: "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "Within Health Launches First-Ever Digitally Native Eating Disorder Treatment Company Revolutionizing Patient Access in California"
+    excerpt: "Health-tech startup Within Health announced today that it has launched operations in California, becoming the first comprehensive, virtual treatment s"
+    publishedDateTime: 2021-11-15T21:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211115006090/en/Within-Health-Launches-First-Ever-Digitally-Native-Eating-Disorder-Treatment-Company-Revolutionizing-Patient-Access-in-California"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "YKdsqSfbTM/Ci8qEIddDpc84hGknPt2iDmzkZ4E2pbVg8WkYBNUU3fN0iEX/WVDyR3t+hEzYgu/cedNEPiZOc8/OUxQmGgrMUmrrhXuyiYxbiTUqmA8qALCgnLyfa31yqOnrpt05VThz3imcQi6luPWpOYGIQktZ6LerlGv6lZkjDu8vya4bppBOLsRQovI3QpzqDPMAyb/arrWMdt7bRx2+HqU3gGsL2h92i2hZLk0vrTHfpM8XPPVVvS1BEij25C9yKNz/kaT3vm6Y02pqF8OlJptFDgFjq3vwb86qjrPc0jMNkoAHmHaQyHboULOY2aKzDMztmyFY0/+s1o3bfdUQV68ThXHttvORduunHvI=;Rv16nAFjb215IFlrVhlEfQ=="
 ---
