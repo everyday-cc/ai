@@ -25,89 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup Cerebras nabs $250 million Series F round at over $4 billion valuation"
-    excerpt: "New money follows Cerebras's expansion from a single system to a portfolio of products and cloud partnerships."
-    publishedDateTime: 2021-11-10T16:28:00Z
-    webUrl: "https://www.zdnet.com/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
+  - title: "Rad AI Raises $25M in Series A Funding"
+    excerpt: "Rad AI, a Berkeley CA-based radiologist-led AI company, raised $25M in Series A funding. The round was led by ARTIS Ventures with participation from OCV Partners, Kickstart Fund, and Gradient Ventures."
+    publishedDateTime: 2021-11-11T13:20:00Z
+    webUrl: "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 196
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 137
     images:
-      - url: "https://www.zdnet.com/a/img/resize/92729ebb49764ebb9d08476f41908a19f0672ada/2021/04/20/11fc5675-b618-42c2-85fa-979364fdf9e8/wse2-natalia.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1697
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/12/contractbook-400x293.jpg"
+        width: 400
+        height: 293
         isCached: true
-  - title: "Chip developer Cerebas bolsters AI-powered workload capabilities with $250M"
-    excerpt: "The company stated that this capital will let it globally expand its business and deploy its AI-powered CS-2 system to new customers."
-    publishedDateTime: 2021-11-10T20:20:00Z
-    webUrl: "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/"
+  - title: "Radiologist-founded firm using artificial intelligence to alleviate burnout raises $25M"
+    excerpt: "Rad AI, a radiologist-founded firm using artificial intelligence to alleviate burnout, has raised $25 million, officials announced Wednesday. San Francisco-based Artis Ventures investment firm led the Series A financing with additional contributions from existing backers such as Gradient Ventures,"
+    publishedDateTime: 2021-11-10T22:29:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/radiologist-rad-ai-artificial-intelligence-burnout"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 46
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1317362609-e1636572613687.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "AI Chip Startup Cerebras Systems Raises $250 Million in Funding"
-    excerpt: "Cerebras Systems, a Silicon Valley-based startup developing a massive computing chip for artificial intelligence, said on Wednesday that it has raised an additional $250 million in venture funding, bringing its total to date to $720 million."
-    publishedDateTime: 2021-11-10T15:13:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-10/ai-chip-startup-cerebras-systems-raises-250-million-in-funding"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
-  - title: "AI chip startup Cerebras Systems raises US$250 million in funding"
-    excerpt: "Cerebras Systems, a Silicon Valley-based startup developing a massive computing chip for artificial intelligence, said on Wednesday that it has raised an additional US$250 million in venture funding,"
-    publishedDateTime: 2021-11-10T15:14:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-chip-startup-cerebras-systems-raises-us250-million-funding-2304671"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Artificial Intelligence Chip Startup Nabs $4 Billion Valuation"
-    excerpt: "Cerebras Systems Inc., an upstart chipmaker trying to break into the growing market for artificial intelligence processors, raised $250 million in an investment round that valued the company at more than $4 billion."
-    publishedDateTime: 2021-11-10T19:42:00Z
-    webUrl: "https://www.bloombergquint.com/business/artificial-intelligence-chip-startup-nabs-4-billion-valuation"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 54
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-05/money-1604921_1280.jpg?h=1c9b88c9&itok=ICPkIM9o"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cerebras Systems raises $250M for the ‘fastest AI processor on Earth’"
-    excerpt: "Cerebras Systems Inc., the developer of a wafer-sized artificial intelligence chip with 2.6 trillion transistors, has raised $250 million in funding to further develop its technology and expand industry adoption."
-    publishedDateTime: 2021-11-10T20:37:00Z
-    webUrl: "https://siliconangle.com/2021/11/10/cerebras-systems-raises-250m-fastest-ai-processor-earth/"
+  - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
+    excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."
+    publishedDateTime: 2021-11-12T19:28:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/12/the-funded-ai-chipmaker-cerebas-raises-250-million.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/cerebras.jpg"
-        width: 718
-        height: 404
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 29
+  - title: "Early Money: 11 Bay Area startups just raised $230M in Series A funds, led by Landing AI's jumbo round"
+    excerpt: "AI helped push the total raised by #BayArea startups in #SeriesA rounds over the last week well past the $200 million mark. #venture"
+    publishedDateTime: 2021-11-11T16:37:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/inno/stories/fundings/2021/11/11/early-money-11-startups-raise-230m-in-series-a.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "2vu4sVtQur6EUdSAVRSvUDQtfvd1BXrvjgXlkcnD7GEujsK8HLhfLH4AB35qu/Ay0hCCOquGrnfkj4g8Gffmb7PtDjthoWpidRit6B85uGl0qJxYv9Pnyndm1KlQ/I53aOiXpzaB8UwkU8UvXpXAvHBpTZ5OxAMHZz612W/LqBHrdreyyouz//iQMc6SoksyV0/fBwGV6uBimUBFc/EBB4ZV6RinBCUET6AIURHxB7jMvBpADEsXm4XBGYHOBDGKH1VKMNYBJziOAAyRaay5lHMt9aUPvyPJ2BXzINCSQhng3SlpFDi2mLQZSSM6fXHJMUtf7JuV+KVlLT64QNFG09qgUy9JB1c8qzkeb0M25STQWot6vWXjPYtN1Dj+53ui19hWOX5WqKe2gEFkkH/RlKmZ14OPNctMC8oj/ZJ/cPeEBYQ4mJjtOmu06LEMFdFNWQrqpfWF2kzRxFIfmtjZ6if5UtiPvTxfxQlxfD/aJ28en+BVVWZ+oQq6MO+53CA4R9jiu+IAgZpymWbRJZEQrA==;m/dBBL2NioPtVswkZPo1LA=="
 ---

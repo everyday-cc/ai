@@ -201,20 +201,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "AI That Provides A Running Narrative Commentary While Driving Could Be The Tell All For Imbuing Safety Into Self-Driving Cars"
-    excerpt: "Providing commentary about driving while driving can be quite useful, and likewise we might wish to have AI self-driving cars undertake Digital Commentary Driving (DCD) for safety achieving purposes."
-    publishedDateTime: 2021-11-10T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/10/ai-that-provides-a-running-narrative-commentary-while-driving-could-be-the-tell-all-for-imbuing-safety-into-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6119a059395a107d86cf31d1%2F0x0.jpg%3FcropX1%3D37%26cropX2%3D1868%26cropY1%3D142%26cropY2%3D1171"
-        width: 1200
-        height: 674
-        isCached: true
 
 secured: "10Iy7BIzAFu6mleujYAKH/4+teXs7+wA79CCNUd+0q43xnOaKsTOTGZNjd9QcvubZ3/zozMqxu7WG9sqPVZvM+do5X3nix0BtokHNfXEN+BSMfy+nbIQWaP92/iORZN85ixEk1K3YuSqupv45oFA37BX94F78TVSdBJehsJpOqtXhfmWZeWsCznyuOQC5LQh9w/Fxu1gk1EdKS2t+3i7pNd6nDPtTLSxqoaJ/hmxwfMGyBV8Qs+J89oLlqwHfCiJg2vxNP//GRLeKKhI6Rr16VZjzClWmDSbXG7lJ7Mz2DSbofdK3FOWVmi4wklhFPlbXC/jeXvsdrEvIxJQ0ixf3DC6+mDHVOxZOgrk/d7EggQ=;RXTEVBlsWL373TCulyesNA=="
 ---

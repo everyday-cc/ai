@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pinkvilla.com/tech/news/google-introduces-project-relate
 cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/google-introduces-project-relate-a-voice-recognition-app-for-people-with-speech-impairments-939196?amp"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Project Relate Aims to Help People With Atypical Speech Communicate"
-    excerpt: "Google's newest assistive technology, Project Relate, looks to help people with atypical speech communicate with the people and technology around them."
-    publishedDateTime: 2021-11-10T16:37:00Z
-    webUrl: "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/g/googles-pr/googles-project-relate-aims-to-help-people-with-atypical-spe_5rm9.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Seeks Help From People With Speech Issues"
     excerpt: "Google wants to make it easier for people with disabilities that affect their speech to communicate with those around them and they're looking for some help."
     publishedDateTime: 2021-11-15T03:06:00Z
@@ -54,20 +40,6 @@ related:
       - url: "https://cdn.disabilityscoop.com/wp-content/uploads/2015/11/ds151201_google.jpg"
         width: 2072
         height: 1295
-        isCached: true
-  - title: "Google’s ‘Project Relate’ App to Help Those With Speech Impediments Use Assistant"
-    excerpt: "The company announced the program is now accepting volunteers for Project Relate to contribute towards multi-year research with the goal of improving Google’s speech recognition algorithms."
-    publishedDateTime: 2021-11-10T16:35:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/project-relate/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 19
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/07/google.jpg"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "3p10Mm0M5Kw5DZyCaLXjKk9hq2VaM1clMPFYPpahxqWVFDgux/tYDdbQDkBE7+0xpZwMycH6lX8Na/n9rwwER3TeL6qVfN8k0s26MHF02FNmM9LH0Vk7xcOLEbPJ7/kJp+Fabq127BZ67NPc3PXPTPDKrPBexKFBz5anRoa6wg/XZZESys9YvEefzFHzoNvIoufpVOgVVGnVJDsO7O7QceNA3OMX0PwhSe2MkFhdnVb6EfQJBWhZz4J+sUrSVQJdm/UTscOVHRUe83ENPG845Dr6FETscN63oY9VggW8zxkczzU3+tn2HzAPEt+u2dxIFSwEtlmQoy+5dJva1wKqkMpfIvVOcgIcvIAadU3ov/WRJD3cyAhIx4EbtW+fzSlCdhPXmsplMKwJtEhwMdkc6h3+mXwR0K8o1W4sHJ9Gf6R8sRyB+uqdhUlStAV9zVgBHzGpKurOkDmbIQdfAQCyUc6ms6lHHnr43Gc6cuP5Sv9inGK2tOjnikaE8iTkdWCj8ROpQ4QguK/v37hVSCm1tw==;sNMdywSozam7gBxin6W1ZA=="

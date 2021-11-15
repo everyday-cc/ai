@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Unis are using AI to keep students from cheating and it’s a bit creepy"
-    excerpt: "Some programs simply enable a person to supervise students remotely. More sophisticated, automated proctoring software hijacks the student’s computer to block and monitor suspicious activity. These programs often use artificial intelligence (AI) to scrutinise exam conduct."
-    publishedDateTime: 2021-11-10T16:37:00Z
-    webUrl: "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication"
+  - title: "Culver’s may start using AI to operate drive-thru lanes"
+    excerpt: "The CEO of Culver’s says they may start to use AI instead of human workers to operate drive-thru's in the coming years."
+    publishedDateTime: 2021-11-11T11:12:00Z
+    webUrl: "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes"
+    ampWebUrl: "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: TMJ4
+      domain: tmj4.com
+    quality: 57
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-3.jpg&signature=487768bc4975bf0afe78f27dfbc5d074"
-        width: 796
-        height: 398
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/463fda0/2147483647/strip/true/crop/640x360+0+59/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.tmj4.com%2Fphoto%2F2017%2F06%2F27%2Fculvers%20logo_1498600163664_61889194_ver1.0_640_480.JPG"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Discovering exoplanets using artificial intelligence"
     excerpt: "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in luminosity observed makes it possible to deduce the existence of a planet and to estimate its diameter,"
@@ -52,20 +54,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
         width: 300
         height: 226
-        isCached: true
-  - title: "Unis are using AI to keep students sitting exams honest. But this creates its own problems"
-    excerpt: "Proctoring technology allows exam-takers to be monitored off-campus. The promise of the software is alluring, but it carries substantial risks."
-    publishedDateTime: 2021-11-15T01:21:00Z
-    webUrl: "https://www.studyinternational.com/news/proctoring-universities-using-ai/"
-    type: article
-    provider:
-      name: Study International
-      domain: studyinternational.com
-    quality: 29
-    images:
-      - url: "https://www.studyinternational.com/wp-content/uploads/2021/11/Online-learning-laptop-NIKOLAY-DOYCHINOV-AFP-1.jpg"
-        width: 1200
-        height: 798
         isCached: true
 
 secured: "zFsi0EBC2c5TV1sqPslyikmVmbayfPvdHa1Q4O73VsjpWmoY49gI+FBCEJGQURNStKWCkPDKpawC6+1nqMIN4iXqZKA51cL0XGMncirco9QJhQK3XUW9EDMK7SCMqa0JPm5RB7/w3XtVmhBeIVDJqNg0+B8IgFz2A4/w23fhroGbNOIqDmilGmc5Lro6hkG8gvpMV8d3EWEDryfX0WQKNyVOp2+rn5l0wGzNwLkDirdu70WLj3DJ4CwIYvmBGSyxCdKWBQVE1c6atz+v/ndSLKsbe8LaHKJ3N5Ra8d+AdmtfnNo6g6BQFyDiEH+Ne9Dx2S1FvJ4Csl3YLKRJ3bB4hh0Wd558Kn28Xg1BbzIXPQyBD1mmaimlWHWMpPUWeZj+4cq9+llz18xTYK75y9/poPLuggy6nlWwQ1ZncVSLXIMXBdnjmupmstrYwdnFTySQ7N1Heds4NLGYVzH3w1fvceFMVvSst6uN7nAfshIUberznTzHGItKGoE1Ppaz7hj2ihva2siLDftuzhh0GU4P9w==;MzZvPC2NCgBdZKWCHbx28Q=="

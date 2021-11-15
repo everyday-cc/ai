@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-
 webUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/09151121/biometric-digital-identity-verification-for-fraud-prevention.png"
         width: 1640
         height: 800
-        isCached: true
-  - title: "Have governments stopped trying to finesse intense face biometrics projects?"
-    excerpt: "Israel and India are building facial recognition surveillance projects that seem consciously designed to aggravate specific fears held by privacy advocates."
-    publishedDateTime: 2021-11-10T16:24:00Z
-    webUrl: "https://www.biometricupdate.com/202111/have-governments-stopped-trying-to-finesse-intense-face-biometrics-projects"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg"
-        width: 877
-        height: 432
         isCached: true
 
 secured: "b8arpNOOoeXY18G8uo9fnm4leRdCohNDztaExfCp3NdCa3dgZDnSEfM1odAvnAPQng8ekn5aFQn8Xu1xBGYX2Y9UPduUNFUvLYJYIVtXUhG3iYDdlKT4huAybPvJXq7H3xYyo7FwrXQCWwhaOJ0kA5ZI8f/ZTS9H3aqno+KdwvGPkpqUkNf8Q1XNoHu61yUvWJ4uOPbirVAtLNvFbov3vAEWCBIjKYZ0FGhF3s8LxXMuyUfT9k+K0CiPiZhG9e+461C01m3N4AD0bOS3iKtSVV2Nonx/1DkGfSXLQQzmCQdqSsDgEtx75wzRoRyeY8rvDO2ADWdHIP0OaRiPRrP5Ars23lvxMZp5y3U7io2zfIGjQjHsoozyh40yP2ZXxkoSUmGyunc4mTgN9QKpN0rRcwzk+4gKAi5uzh76kJESiw5C57v743jdBrCjmwEAUgYZGWCsiNRAOGNdAP4qSYgAw8G+wxOZgYQisUb9limcAP/bOcaKxIRpv9bZy0Y12xO/4XzdLfZE7TiThBRNCapdFA==;c2mJBDVtTG2ilpRcfH/R8g=="

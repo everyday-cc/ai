@@ -59,6 +59,22 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Chinese farm uses facial recognition tech to stop goats getting incestuous"
+    excerpt: "These images show how a farm in Shanghai is developing facial recognition technology for goats to stop them having sex with their relatives. The cameras have reportedly been specifically designed to recognise the facial characteristics of the goats,"
+    publishedDateTime: 2021-11-15T07:02:00Z
+    webUrl: "https://metro.co.uk/2021/11/15/chinese-farm-uses-facial-recognition-to-stop-goats-getting-incestuous-15601822/"
+    ampWebUrl: "https://metro.co.uk/2021/11/15/chinese-farm-uses-facial-recognition-to-stop-goats-getting-incestuous-15601822/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/15/chinese-farm-uses-facial-recognition-to-stop-goats-getting-incestuous-15601822/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 57
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2021/11/PRI_209907639.jpg?quality=90&strip=all&zoom=1&resize=600%2C368"
+        width: 600
+        height: 368
+        isCached: true
   - title: "Facebook is shutting down its facial recognition software"
     excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
     publishedDateTime: 2021-11-11T14:59:00Z

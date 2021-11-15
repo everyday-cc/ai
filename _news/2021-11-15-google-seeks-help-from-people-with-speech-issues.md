@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Project Relate Aims to Help People With Atypical Speech Communicate"
-    excerpt: "Google's newest assistive technology, Project Relate, looks to help people with atypical speech communicate with the people and technology around them."
-    publishedDateTime: 2021-11-10T16:37:00Z
-    webUrl: "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/g/googles-pr/googles-project-relate-aims-to-help-people-with-atypical-spe_5rm9.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google introduces Project Relate, a voice recognition app for people with speech impairments"
     excerpt: "Google has announced Project Relate, an Android app that will help people with speech impairment communicate more easily with Google Assistant and"
     publishedDateTime: 2021-11-12T07:36:00Z
@@ -54,20 +40,6 @@ related:
       - url: "https://www.pinkvilla.com/files/styles/large/public/project_relate_0.jpg?itok=0E8sNV-9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Google’s ‘Project Relate’ App to Help Those With Speech Impediments Use Assistant"
-    excerpt: "The company announced the program is now accepting volunteers for Project Relate to contribute towards multi-year research with the goal of improving Google’s speech recognition algorithms."
-    publishedDateTime: 2021-11-10T16:35:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/project-relate/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 19
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2020/07/google.jpg"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "TXFEJjffYCLpLEO4jbNaIZmS+guj0cueSeiG22q0gCT3nI8JWOS+BIQWEBi534VZJwmSHg8a7qC9uPCjjANww4D4QzzxXBMwjdDDiytSzpOuAWBcxC4XzeEzBXuyQwpHE23E2mObVD9IB+e83Itm5/EpWcGkTYFYMoiNqBOcg5yFS2DgqP2RuagYSI1vWswcUYnluc7gZnIaF/InPoyepL6ZtY+J3uQlu7iIexiqqnm21ksl71c2cWOxM/KcvJNALdSnHXYFSSJr5aMZ0tOvxshqdfpsJMnpzcQqsNb+ylS//L1J+UXEO3F5D6Ff7Fm5Lhy/EiK/RVfMvJvpt6V4u50a3t7FjbEOuLwH6v7mIgemtilAZecKjtZI15z4iIzXS60PnwFzkH+SdL2YxA9DKnJvrX2ySoFyb9qIBMeJLpOLREluiWAKPmMFRZGCsQrMwC/vnuSjwy2cHzsN2UwZk9l/CMCdn3x+Ug8pCfDv3TKx/7ha6YfDtXlvrTNCLS5enMK/MSJCQZI1HdSj6bik+Q==;VvjOpXGX9OCbTJpGBtazTw=="

@@ -53,19 +53,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Payments to Participate in Citi's 2021 FinTech Conference"
-    excerpt: "Global Payments Inc. , a leading worldwide provider of payment technology and software solutions, announced today that Cameron Bready, President and Chief Operating Officer, will present virtually at Citi's 2021 FinTech Conference at 12:45 p."
-    publishedDateTime: 2021-11-10T16:01:00Z
-    webUrl: "https://www.lelezard.com/en/news-20096033.html"
+  - title: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia"
+    excerpt: "TPIsoftware and IG Tech Group, the leading system integrator in Cambodia, have signed a strategic partnership agreement with Industrial Development Bureau, Ministry of"
+    publishedDateTime: 2021-11-15T06:00:00Z
+    webUrl: "https://www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace"
+    ampWebUrl: "https://www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace?amp"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
+      name: Asia One
+      domain: asiaone.com
+    quality: 33
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_1543.jpg?itok=vUNkcHwW"
+        width: 763
+        height: 509
         isCached: true
   - title: "Three leading fintech trends to watch in 2022"
     excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"

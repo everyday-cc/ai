@@ -8,7 +8,7 @@ webUrl: "https://techbullion.com/rising-ai-cybersecurity-budgets-by-businesses-w
 ampWebUrl: "https://techbullion.com/rising-ai-cybersecurity-budgets-by-businesses-worldwide-favor-the-expansion-of-artificial-intelligence-in-cybersecurity-market/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/rising-ai-cybersecurity-budgets-by-businesses-worldwide-favor-the-expansion-of-artificial-intelligence-in-cybersecurity-market/amp/"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2021/11/AI-in-cybersecurity.jpg"
@@ -43,6 +44,6 @@ related:
         height: 826
         isCached: true
 
-secured: "naAi/EcKczLMaPNUNgxZUQW+EK80vYtH+8YvZz8mmbuleLzuedmqYRqxkQkoTo4LEKQ/Ah5bcub2iSn9nKvHgV32ORBGU67jR/IwI5+y3nghjKnzXotj7ISgYh6a872nuoVXjcr5i5iwce5B3G+VMXzTdCzheWNpjpgyXVwMIJ2/wVHwFJEMUggGzoneTiev7WY9wsQxLzoNG1rCEa+BpDTpWAe/fP/NLcYRg9b40BGHeP93nS/T4VIQB3U5i0yfLgseRjVQ5XDMKZ4HRDa4zvZ4FLMf/iWufeV2bdQU8TQ67S06wOXSISOd8sYJm8NRhnbawbDKoYVNhj0zeO88QX2iiTsrvxag0kf0HmRUhts=;NTlH8E0DQMz0rNg5RZmxuw=="
+secured: "L/prneQE2sMDqkrbqk7MZN70x5yYauMy7gTTaBiBgSAJL1Fvlyju7+9QgkuBrAJOA06NrlQTOiqqH2OBi3lvcGQhQDrckIdbKSHo5KhvOSnNwjvkhKQs8SqhWKZ006Bh7sz4/xxLKX85XYsjvMLKhsBgZH1TAOgvNbs4YZmnXOorIY79w+aorM/75x6aG0sbm3nCTjO9YOEWkLYf1+uBdIyBSGDxjVji3pqhNACuMZe+KrBdGHZr4j5C1saRg6HuzW0U7jxD3rBr2bXNnBCIpqb12RLghLA3iajVdaaWIludl6lPn7S5pae/1dpNPghjrWAbmm4cLBKQfNsDbWizvleX4NkaWn1M4JUwEsNy4Upz/u5Xv20JNgDQewHYKkaZ3wRTsIJJH8nQrlH/PTH0GLkhZvN4/rw+6ghjXHg+V5q5zZtK12e+IGjsCPRVVytN1ZXMoHlrpOIdW/L77ntO2NnTaInolOuqgkXG0ug3k9lAeP5jo8L79wcSRWe9lKd0QmSYo6uKgeTjhz/roLGA4g==;w8abPSo2XsogIhAwc1gHBg=="
 ---
 

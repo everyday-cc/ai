@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -151,15 +151,6 @@ related:
         width: 326
         height: 250
         isCached: true
-  - title: "Nvidia announces new platform for creating AI Avatars"
-    excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
-    publishedDateTime: 2021-11-10T16:16:00Z
-    webUrl: "https://netindia123.com/articles/showdetails.asp?id=3853979&n_date=20211110&cat=Science"
-    type: article
-    provider:
-      name: Net India 123
-      domain: netindia123.com
-    quality: 19
   - title: "Nvidia Announces Omniverse Avatar Platform for Creating Interactive AI Avatars"
     excerpt: "At GPU Technology Conference 2021, among other new products, Nvidia announced the Omniverse Avatar technology platform for creating interactive AI avatars. The platform brings together the company’s developments in the field of speech AI,"
     publishedDateTime: 2021-11-10T20:03:00Z

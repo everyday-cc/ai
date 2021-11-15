@@ -42,7 +42,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://techbullion.com/wp-content/uploads/2021/11/AI-in-cybersecurity.jpg"
         width: 612

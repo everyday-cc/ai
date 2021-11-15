@@ -33,6 +33,20 @@ related:
         width: 400
         height: 293
         isCached: true
+  - title: "AI wafer scale chip startup Cerebras raises $250m at $4bn valuation"
+    excerpt: "Cerebras Systems, the AI semiconductor startup selling the world's largest computer chip, has raised $250 million, valuing the company at $4 billion. The company's Series F round was led by Alpha Wave Ventures,"
+    publishedDateTime: 2021-11-11T10:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ai-wafer-scale-chip-startup-cerebras-raises-250m-at-4bn-valuation/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Cerebras_Chip.2e16d0ba.fill-1200x630.jpg"
+        width: 678
+        height: 357
+        isCached: true
   - title: "Radiologist-founded firm using artificial intelligence to alleviate burnout raises $25M"
     excerpt: "Rad AI, a radiologist-founded firm using artificial intelligence to alleviate burnout, has raised $25 million, officials announced Wednesday. San Francisco-based Artis Ventures investment firm led the Series A financing with additional contributions from existing backers such as Gradient Ventures,"
     publishedDateTime: 2021-11-10T22:29:00Z

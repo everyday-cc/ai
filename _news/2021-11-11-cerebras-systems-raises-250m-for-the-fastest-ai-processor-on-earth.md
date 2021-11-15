@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup Cerebras nabs $250 million Series F round at over $4 billion valuation"
-    excerpt: "New money follows Cerebras's expansion from a single system to a portfolio of products and cloud partnerships."
-    publishedDateTime: 2021-11-10T16:28:00Z
-    webUrl: "https://www.zdnet.com/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 196
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/92729ebb49764ebb9d08476f41908a19f0672ada/2021/04/20/11fc5675-b618-42c2-85fa-979364fdf9e8/wse2-natalia.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1697
-        isCached: true
   - title: "Chip developer Cerebas bolsters AI-powered workload capabilities with $250M"
     excerpt: "The company stated that this capital will let it globally expand its business and deploy its AI-powered CS-2 system to new customers."
     publishedDateTime: 2021-11-10T20:20:00Z
@@ -56,57 +40,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1317362609-e1636572613687.jpg?fit=800%2C533&strip=all"
         width: 800
         height: 533
-        isCached: true
-  - title: "AI Chip Startup Cerebras Systems Raises $250 Million in Funding"
-    excerpt: "Cerebras Systems, a Silicon Valley-based startup developing a massive computing chip for artificial intelligence, said on Wednesday that it has raised an additional $250 million in venture funding, bringing its total to date to $720 million."
-    publishedDateTime: 2021-11-10T15:13:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-10/ai-chip-startup-cerebras-systems-raises-250-million-in-funding"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
-  - title: "AI chip startup Cerebras Systems raises US$250 million in funding"
-    excerpt: "Cerebras Systems, a Silicon Valley-based startup developing a massive computing chip for artificial intelligence, said on Wednesday that it has raised an additional US$250 million in venture funding,"
-    publishedDateTime: 2021-11-10T15:14:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-chip-startup-cerebras-systems-raises-us250-million-funding-2304671"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "AI wafer scale chip startup Cerebras raises $250m at $4bn valuation"
-    excerpt: "Cerebras Systems, the AI semiconductor startup selling the world's largest computer chip, has raised $250 million, valuing the company at $4 billion. The company's Series F round was led by Alpha Wave Ventures,"
-    publishedDateTime: 2021-11-11T10:39:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ai-wafer-scale-chip-startup-cerebras-raises-250m-at-4bn-valuation/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Cerebras_Chip.2e16d0ba.fill-1200x630.jpg"
-        width: 678
-        height: 357
-        isCached: true
-  - title: "Artificial Intelligence Chip Startup Nabs $4 Billion Valuation"
-    excerpt: "Cerebras Systems Inc., an upstart chipmaker trying to break into the growing market for artificial intelligence processors, raised $250 million in an investment round that valued the company at more than $4 billion."
-    publishedDateTime: 2021-11-10T19:42:00Z
-    webUrl: "https://www.bloombergquint.com/business/artificial-intelligence-chip-startup-nabs-4-billion-valuation"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 54
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "3RvZqNKAQABewc4G72gCPToEbeRgxVdAR1R1CRn2rB4gpg08C3EZnaGPpzt1W+wnzDZNEMFkLQWFJmws/5U2Mrqvs05UMT6dGKfoa0jUACtvEjJMvGWOYwd8DDw1CCoRlRQ2Ly4+btI2j/DEE6a8PUymj3flHb1bjirE6WIXzBcbOPy9ZvUs9li37p1dN6J7PfNqkARrzHNpza+5RI1d4XWqTqSqs2QiCrjwRkoDBPGa1TtjhaFYC3eSJ7/F9O8KNWIcPW0ks81nSfH2Tw7M4NRuRMIIQ4yC3XzZnNMwOUjRnN1jWR/jVMSQsScAgTKscGrI1uIpnOCLnm3oPh02/UNuQ1/3H5NjI0lbkG1oehP27sMtDjRYflYFRKjlpbcfUgtPysUQjJjeB5YJVSbFf+iBZEWoL7AvruUE5JCdefy0u7OXn9i/ANt/Lr1HUgoHloHknVJoJ8+7LSLnBi5Y/bW5Zf/pDd1yJpjtsCygPtPumAdbVM08LdH/HEzwjnqP8Uxc8UYkzw/9uWPPYSE9nQ==;9bcBgB3YkHLAn5CQ+4d94A=="

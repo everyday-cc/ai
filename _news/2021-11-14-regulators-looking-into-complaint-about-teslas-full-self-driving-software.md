@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna5537"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537"
 type: article
 quality: 101
-heat: 221
+heat: 211
 published: true
 
 provider:
@@ -200,20 +200,6 @@ related:
       - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/07/932/470/GettyImages-187005526_1555969552377_7141953_ver1.0.jpg?ve=1&tl=1"
         width: 932
         height: 470
-        isCached: true
-  - title: "AI That Provides A Running Narrative Commentary While Driving Could Be The Tell All For Imbuing Safety Into Self-Driving Cars"
-    excerpt: "Providing commentary about driving while driving can be quite useful, and likewise we might wish to have AI self-driving cars undertake Digital Commentary Driving (DCD) for safety achieving purposes."
-    publishedDateTime: 2021-11-10T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/10/ai-that-provides-a-running-narrative-commentary-while-driving-could-be-the-tell-all-for-imbuing-safety-into-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6119a059395a107d86cf31d1%2F0x0.jpg%3FcropX1%3D37%26cropX2%3D1868%26cropY1%3D142%26cropY2%3D1171"
-        width: 1200
-        height: 674
         isCached: true
 
 secured: "hnFTR3d492F2wt6JCE3VgViCX4jD5jIWzf+KOV1FVQVfRmDSpJCl3W0uYKJZyyYE7F4ui3VSQQ0eVITt2j9qUDmdoqltFTVE8mf873wgpHViARKxpsU++ssLOfwWFuSZL95bRO9dBlHVAXVECgN4CG83djQeFDJOcarAqmXu03HEz+DPY+GQK1ejOvbeBLxDjRM0wfIjBBB/wj0pa/EdiqFofN5XhELL36WxojnyvJbFsrd95fQsxWutpLpy1vqmWEMKudfYXFGBrf2yVLcpLub15XhvnW2yX79gqrK/S13JltnEl1tla4kS+3nW9AYkaNKkuMWEWLP8gKYZWAneJ/3L4FBeX4fquye2QaK6GxfrPZ9rFkIjErxiiewIfy3zYVLTMlyrZxMvoET8ssVR+HRyjT0Ml5DfYeGsr7LvkOAM3CeeaCsvTyNDtKXMgN3AtbgrQamjO6OiWs1zgB8Q/zcT+cY0rHlfJX7xCaZjhlwRqgn0FUKgZREVMCrGqNye70DnjVVzhua7D3kHRVLbWw==;JYsWGKz9MzrX1atOiRDq3g=="
