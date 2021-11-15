@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/telstra-in-ai-joint-venture-with-wo
 webUrl: "https://www.afr.com/technology/telstra-in-ai-joint-venture-with-woolworths-backed-quantium-20211114-p598sy"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Telstra and Woolworths' Quantium to form new data and AI joint venture"
+    excerpt: "Telstra and Quantium will target enterprise customers using a new 'whole of tech stack' to be delivered under a new joint venture between the pair."
+    publishedDateTime: 2021-11-15T03:00:00Z
+    webUrl: "https://www.zdnet.com/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "Z9pBKt26jxVqYw6lEPlDOflozPxh+WUCiDsD4OeCxwdAKfXQLgQYCH0J+QRAf3WlpXCpzWr1nFfj8EC29KbIj/Hou96sREu5EgulSMWVW2Ws6ZcACGjIpCwYvGwMJO46KNWFRlxGosxS/MlK1r9ms9CfdKr8MKgVkumcuKm99nG/5gzsm8+PfsEZ8QzfHsApmZIoTUC3VW1VK2WvSyUN+T6jvnZ+jVUZm+d6uoD2MpU5z3UUdv/nkq4QibasLyVki4AnmujdxnOv5wOIYQ0U5coOAEJHN2aZY/LU+3m/kSZ7AFwPMkWF2nLktx+ffaCLWIyU5OttQY32xS798GIoZFeHmiGhl827FDjlwpYKews=;bwdI8Gr5Rw+YErIy4fWqAw=="
 ---

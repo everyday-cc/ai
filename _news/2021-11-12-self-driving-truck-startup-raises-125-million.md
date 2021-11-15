@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup Kodiak Robotics raises $125M"
-    excerpt: "Kodiak Robotics, one of the last privately held autonomous truck outfits in Silicon Valley, has raised $125 million in new capital, funding that will be used to double its workforce as it pursues a path to commercialization."
-    publishedDateTime: 2021-11-10T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/"
-    ampWebUrl: "https://techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 121
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/kodiak-robotics-trucck-profile.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Kodiak Robotics to expand autonomous trucking with $125M"
-    excerpt: "Kodiak Robotics, a startup developing autonomous trucking, has raised a fresh $125 million in venture capital."
-    publishedDateTime: 2021-11-10T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/10/kodiak-robotics-to-expand-autonomous-trucking-with-125m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/10/kodiak-robotics-to-expand-autonomous-trucking-with-125m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/kodiak-robotics-to-expand-autonomous-trucking-with-125m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/B2EZVYMUTBHWBITYJZWEAB7WR4.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-Driving Truck Startup Kodiak Robotics Raises $125 Million"
     excerpt: "Self-driving truck startup Kodiak Robotics recently announced a $125 million funding round as the trucking industry is facing major challenges, including growing shipping demand and driver shortages."
     publishedDateTime: 2021-11-11T23:30:00Z
@@ -88,6 +56,22 @@ related:
       - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/Kodiak_Robotics_Self_Driving_Truck.jpg?fit=800%2C450&ssl=1"
         width: 800
         height: 450
+        isCached: true
+  - title: "Embark's 26-Year-Old CEO on Taking the Self-Driving Truck Tech Firm Public Via SPAC"
+    excerpt: "Autonomous tech developer Embark made its Nasdaq debut on Thursday via a SPAC merger, making its CEO Alex Rodrigues, the youngest chief executive of a publicly-traded company at the age of 26. He joined Cheddar's \"Between Bells\" to discuss what led to the IPO and what it means for the trucking industry as it looks to navigate ongoing supply chain issues."
+    publishedDateTime: 2021-11-11T20:00:00Z
+    webUrl: "https://cheddar.com/media/embarks-26-year-old-ceo-on-taking-the-self-driving-truck-tech-firm-public-via-spac"
+    ampWebUrl: "https://cheddar.com/media/embarks-26-year-old-ceo-on-taking-the-self-driving-truck-tech-firm-public-via-spac.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/embarks-26-year-old-ceo-on-taking-the-self-driving-truck-tech-firm-public-via-spac.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 38
+    images:
+      - url: "https://img.chdrstatic.com/media/1aa4049e-b417-42cf-bcab-e76f95ebe101.JPG?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 624
         isCached: true
 
 secured: "NFVMDdR+YUj/ro74IBb6qFfFOjHy3STXoBhdoOtdMnTGl75VEOQ1OobNTSV4np2f+4u03seOxCAg49NMAv/6IaC5lPu8XmGYMBAZNz3Saj8hQywvOKJ1fK4or36jihA/oYwlQrJ/XbPmSXAv3JTUjB6FFxlT69swekS6G9JxWJLYJ78CW9xrrCCpJIiTCuIczo4hWpO7WMk8Yt1nhEGKxtNyzOggw/Paul62+mI+dHVY0+EykAXG+zn0GCUqE4dbqUlvBD93R2x7zl2vyNdnEdIeDY+MVFS4anPup/zNodCY0ZyGzj48vkWyG5oAhRSIFRWWjac4/fND+rnYUY+96rf74z+eqxGPxCdezH7wV8ilHCl/5UCqjwEd10SQn/wY14s9wFsg7i7aYLuJjpX9CV5yutX5XalRQuNxx5FF8HvJjDpEAj/fbE3iDW6JdfNxjPBzW1xSNVnjGNmMk72H4pNDfjMqHtgp1zg1mCV24w6mbk6iwb1WfzpfI4wnAdmxwcStwx+w2WdYIGEUzZxbsg==;SGvAcrFAf+DPyZmG+x1HWA=="

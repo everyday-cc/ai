@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-15-ai-visionaries-to-gather-at-world-ai-show.md",
-      "title": "AI Visionaries to Gather at World AI Show",
-      "excerpt": "WorldAIShow to define, describe, and forecast the market AI landscape for 2022 and beyondAlongside experts in AI, the 30th global edition of World AI Show will virtually",
+      "path": "_news/2021-11-15-telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture.md",
+      "title": "Telstra and Woolworths' Quantium to form new data and AI joint venture",
+      "excerpt": "Telstra and Quantium will target enterprise customers using a new 'whole of tech stack' to be delivered under a new joint venture between the pair.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/a24082878/ai-visionaries-to-gather-at-world-ai-show",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/a24082878/ai-visionaries-to-gather-at-world-ai-show",
+      "webUrl": "https://www.zdnet.com/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
+      "originalUrl": "https://www.zdnet.com/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
       "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2021/11/12170157/tweet.png",
-          "width": 608,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24082878",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24082878",
-      "publishedDateTime": "2021-11-14T14:49:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
+      "publishedDateTime": "2021-11-14T19:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -156,7 +156,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -362,7 +362,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 289,
       "tags": null,
       "images": [
         {

@@ -160,6 +160,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "From AI-powered avatars to user data: Is there space for rights in the metaverse?"
+    excerpt: "The term \"metaverse\" has been used to describe an array of shared spaces accessed via the internet – from fully-immersive virtual reality (VR) space.."
+    publishedDateTime: 2021-11-15T03:49:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/social-media/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87708426"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/social-media/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87708426"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/social-media/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87708426"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87708426,imgsize-181102,width-1200,height-628,overlay-etcio/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Pioneer - the World's First Metaverse Robot Has Been Born in China"
     excerpt: "Pioneer - the World's First Metaverse Robot Has Been Born in China New York, New York--(Newsfile Corp. - November 12, 2021) - The first ever Meta"
     publishedDateTime: 2021-11-13T05:42:00Z

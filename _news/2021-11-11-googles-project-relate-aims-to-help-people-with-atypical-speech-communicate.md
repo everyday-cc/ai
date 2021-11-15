@@ -7,8 +7,8 @@ originalUrl: "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-he
 webUrl: "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: PC Magazine
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Project Relate Android app helps those with speech impairments"
-    excerpt: "There are several medical conditions and diseases that can impact a person’s ability to communicate with others through speech. Google is working to make its apps more accessible to people"
-    publishedDateTime: 2021-11-10T11:54:00Z
-    webUrl: "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/"
-    ampWebUrl: "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/google-project-relate.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Google introduces Project Relate, a voice recognition app for people with speech impairments"
     excerpt: "Google has announced Project Relate, an Android app that will help people with speech impairment communicate more easily with Google Assistant and"
     publishedDateTime: 2021-11-12T07:36:00Z
@@ -60,6 +44,20 @@ related:
       - url: "https://www.pinkvilla.com/files/styles/large/public/project_relate_0.jpg?itok=0E8sNV-9"
         width: 600
         height: 338
+        isCached: true
+  - title: "Google Seeks Help From People With Speech Issues"
+    excerpt: "Google wants to make it easier for people with disabilities that affect their speech to communicate with those around them and they're looking for some help."
+    publishedDateTime: 2021-11-15T03:06:00Z
+    webUrl: "https://www.disabilityscoop.com/2021/11/15/google-seeks-help-from-people-with-speech-issues/29595/"
+    type: article
+    provider:
+      name: Disability Scoop
+      domain: disabilityscoop.com
+    quality: 24
+    images:
+      - url: "https://cdn.disabilityscoop.com/wp-content/uploads/2015/11/ds151201_google.jpg"
+        width: 2072
+        height: 1295
         isCached: true
   - title: "Google’s ‘Project Relate’ App to Help Those With Speech Impediments Use Assistant"
     excerpt: "The company announced the program is now accepting volunteers for Project Relate to contribute towards multi-year research with the goal of improving Google’s speech recognition algorithms."

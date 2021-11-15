@@ -9,8 +9,8 @@ ampWebUrl: "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 121
+published: true
 
 provider:
   name: Cheddar
@@ -28,38 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup Kodiak Robotics raises $125M"
-    excerpt: "Kodiak Robotics, one of the last privately held autonomous truck outfits in Silicon Valley, has raised $125 million in new capital, funding that will be used to double its workforce as it pursues a path to commercialization."
-    publishedDateTime: 2021-11-10T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/"
-    ampWebUrl: "https://techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 121
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/kodiak-robotics-trucck-profile.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Kodiak Robotics to expand autonomous trucking with $125M"
-    excerpt: "Kodiak Robotics, a startup developing autonomous trucking, has raised a fresh $125 million in venture capital."
-    publishedDateTime: 2021-11-10T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/10/kodiak-robotics-to-expand-autonomous-trucking-with-125m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/10/kodiak-robotics-to-expand-autonomous-trucking-with-125m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/kodiak-robotics-to-expand-autonomous-trucking-with-125m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/B2EZVYMUTBHWBITYJZWEAB7WR4.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-Driving Truck Startup Kodiak Raises $125 Million in Series B Round"
     excerpt: "On November 11, self-driving truck startup Kodiak announced that it had raised $125 million in an oversubscribed Series B round for a total of $165 million raised to date."
     publishedDateTime: 2021-11-10T17:31:00Z
@@ -89,6 +57,22 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/411/17411/Kodiak_Robotics_Self_Driving_Truck.jpg"
         width: 752
         height: 423
+        isCached: true
+  - title: "Embark's 26-Year-Old CEO on Taking the Self-Driving Truck Tech Firm Public Via SPAC"
+    excerpt: "Autonomous tech developer Embark made its Nasdaq debut on Thursday via a SPAC merger, making its CEO Alex Rodrigues, the youngest chief executive of a publicly-traded company at the age of 26. He joined Cheddar's \"Between Bells\" to discuss what led to the IPO and what it means for the trucking industry as it looks to navigate ongoing supply chain issues."
+    publishedDateTime: 2021-11-11T20:00:00Z
+    webUrl: "https://cheddar.com/media/embarks-26-year-old-ceo-on-taking-the-self-driving-truck-tech-firm-public-via-spac"
+    ampWebUrl: "https://cheddar.com/media/embarks-26-year-old-ceo-on-taking-the-self-driving-truck-tech-firm-public-via-spac.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/embarks-26-year-old-ceo-on-taking-the-self-driving-truck-tech-firm-public-via-spac.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 38
+    images:
+      - url: "https://img.chdrstatic.com/media/1aa4049e-b417-42cf-bcab-e76f95ebe101.JPG?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 624
         isCached: true
 
 secured: "1xpV2askblDguBBDpxDPVehG1gO3Fr87Xid0JuV+uKFGlZAvWL62TjT9rwvJvaarrr7y0/gI4r44s1Fmzt5xQXl35lhZLWXRh3ByesjkDWeVN5MyCZcgt7fkDGJn6pxMji9tufJESDKh+Nf9y4NV4vVnD8xdqFAoHYdhhwxTf21Xw6CpklmLtDhi3vesm1Jjot+Vas2Mo5w69R8eMtDUNbPKCaQ7oHx+nGbkHb4vTM1Xx67G1bMvCuwi1STUIqtBVeHuHpVEfcN3TJGH8bGbxZIxXkSqE60L/Z5Ed9oUY21/41+ucnf7aL5BnPm5ItQjS9xPN9+TVIhPWHIK3DEWLeklxpY7zWK8nbSCdSUveKVPpK9+XXrDmd0ooOD9R/kHHdvKskje77BIArEYjsmuMkUTsc2tvbIuS9Sq03XXUB+QrN411GyLd/TFEVy1whoR6Ea+rGgMDJwrkv92CBXpz85qZrCjtGlqo5To7muC9wKK1Lg+7HQMe/owaSu5ADQ3w/OMgvvGlGJFcfbEdFRLdw==;C1bn4EFl63XqzwKU6P7SjQ=="

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AI Visionaries to Gather at World AI Show"
-excerpt: "WorldAIShow to define, describe, and forecast the market AI landscape for 2022 and beyondAlongside experts in AI, the 30th global edition of World AI Show will virtually"
-publishedDateTime: 2021-11-14T22:49:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/a24082878/ai-visionaries-to-gather-at-world-ai-show"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/a24082878/ai-visionaries-to-gather-at-world-ai-show"
-ampWebUrl: "https://www.benzinga.com/amp/content/24082878"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24082878"
+excerpt: "With the special focus on Singapore market, the 30th edition of World AI Singapore is set to take place virtually on 18 November 2021. The event will focus on topics such as: - Ou"
+publishedDateTime: 2021-11-15T04:41:00Z
+originalUrl: "https://menafn.com/1103170872/AI-Visionaries-to-Gather-at-World-AI-Show"
+webUrl: "https://menafn.com/1103170872/AI-Visionaries-to-Gather-at-World-AI-Show"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2021/11/12170157/tweet.png"
-    width: 608
-    height: 520
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?519256"
+    width: 375
+    height: 250
     isCached: true
 
 related:
@@ -40,21 +38,7 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Artificial intelligence faces the real world"
-    excerpt: "Nation states and big tech firms the size of states are in an artificial intelligence land-grab. What does it mean for the future of the industry?"
-    publishedDateTime: 2021-11-12T12:46:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-issue-welcome-introduction-editors-letter/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 37
-    images:
-      - url: "https://eandt.theiet.org/media/17078/et_ai-chips_graphcore_3-hero-image.jpg?crop=0,0.42875,0,0.079062499999999938&cropmode=percentage&width=1200&height=450&rnd=132807962760000000"
-        width: 1200
-        height: 450
-        isCached: true
 
-secured: "65pYk/hNPaxIt6OgVHv0JIa5vt2oLflCf0weFzNQ33U+jYt9svWm193mNKG52UXkPhZ94CvxvISiiMemLdDagTPQUDwYhKhgUZPzHQTMe+BsE226B9938V6x06jeulTd96qh8Y+91J2zZF48XxOBeZOhV9VTdZwVt0MV/hWA+U6uEQ4BHkLXuIgMVqRpUMglVl20m2Eys69Vm/XLEWG8+L8D0Vk45DFKdypy06TLUYBPPqAUCu+idO+3CQGp6uMs3NhNMe+Ou7gZ3hS8/BELHL0iUXuTj1A2n7BadFLW4QXtHAlVfVk5oaoV/iRRaH3qkUBTH4SAggpChVAN4xl2o+qplc+TLpc9fLYfvimcwRA=;w5jbhenc6xhdaI9TzZseLA=="
+secured: "yjuXPytxZS4Y4pgZJxWsOz8s4FPGBKG+59j5Lu4iIZrt660MfOj90LB1NnHSKSoIXFzoWvy2mjAYH5jhFkvNbgP1Qf9rZJ5HHCd5GyxhyTZ2YL99+1OlHn9o3Cf+7zB17LgmfKf3TzMqH3rB8ZSzKhD+QGBYZztNLY45XgsWydUxHXTp6Y4J/ph8TLpZQcatwx9ULvhYLVRwH6sBsLaqp42z3mXlO5i8KOGO3grC5eiRvWIrnkiCiZNYtZgeuE/OgmWncOv6eNspdTJBJJR8Lt0lQohxjEwWiXvM0N4n5CbtaqQQS0S1PkROYJU3XGtx/a22hbFqL7xIFuJ/CaH3NBtWojnVUwgSQucrzizOlLY=;y7vyeL3Ha0wHDSXky8RUFQ=="
 ---
 

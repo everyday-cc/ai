@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "FuboTV acquires computer vision startup Edisin.ai"
-    excerpt: "startup Edisn.ai to strengthen attempts to generate non-subscription revenues and deepen engagement with its viewers. The New York-based firm pitches itself as a “cable TV replacement service”, providing subscribers who want to ‘cut the cord’ with ..."
+    excerpt: "Sports streaming service FuboTV will use player and sponsor tracking AI to boost digital portfolio as it diversifies revenue streams."
     publishedDateTime: 2021-11-12T17:14:00Z
-    webUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=ott-and-digital"
+    webUrl: "https://www.sportspromedia.com/categories/broadcast-ott/fubotv-edisin-ai-streaming-ott-takeover/?blocktaxonomy=betting"
     type: article
     provider:
       name: SportsPro

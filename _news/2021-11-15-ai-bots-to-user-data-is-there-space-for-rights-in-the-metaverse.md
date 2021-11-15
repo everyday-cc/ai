@@ -161,6 +161,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "From AI-powered avatars to user data: Is there space for rights in the metaverse?"
+    excerpt: "The term \"metaverse\" has been used to describe an array of shared spaces accessed via the internet – from fully-immersive virtual reality (VR) space.."
+    publishedDateTime: 2021-11-15T03:49:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/social-media/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87708426"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/social-media/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87708426"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/social-media/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87708426"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87708426,imgsize-181102,width-1200,height-628,overlay-etcio/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Pioneer - the World's First Metaverse Robot Has Been Born in China"
     excerpt: "Pioneer - the World's First Metaverse Robot Has Been Born in China New York, New York--(Newsfile Corp. - November 12, 2021) - The first ever Meta"
     publishedDateTime: 2021-11-13T05:42:00Z
@@ -252,6 +268,6 @@ related:
         height: 267
         isCached: true
 
-secured: "rsbS2bERAeX1b+6G8bh8zCVYnvrGZfZ9MLP7noIVeS4r0IfnOrctYoppvkOUrge4ULMg9h2SgaBhWc6L/2cgg1JzHTE1H6QYQKAWPTk8G4DL6JzLAP0wa/GMHjw1qFHn2gZ/1harKEkQ9RzIaZwM1KX9KhqLWd1JIb807IjKj+r0Rud54ogfUZaVbBQaN+e0jWaVkcV1TaT6lcWlbNyDKoFMfH7BZ5oCHY4nC4WaKjhdx6t3BP98Er8Uj6SIKjAjeYQiI/3rmATABoxg9Wa6CZsXvYTgjq35GhjMdLVynFw+MxYKdVMR7LPH104x0/0aTzU0vBcgwlKeYC84lvOwokC3Qwi5oTLpGdUwl0T7/cM=;1ypRfs3NYv1+wWviUhBnHQ=="
+secured: "eqCL0Xq+Zv4brjb8gJ+xoFoPOj7F7TxOlGll4yPouK9GgBjDaf41FZhTF3XjsRXkxOYv26QIV9mixPbDWANRbvh38EO5TALzPJK9CI1Wru+pblIlbavdm9M+9XAg0Ceb/wUnJSIsO40sixdtCxcM2q4UBBZ8XhC00WeehhEvQV9NvFf8V1wNJ6R7AFh8akOfl7on4L75gcD3CGizse7jyjfSy61bJVqnQVmaNAtrBEuGSmLZod+D7H2wcELF3xnSBeyFOIrecEaVKjk65uNj/Oc2PzpoxPVs52u5PjrIi/5OJoyBLG7OKbsyl70OAsYsE6EpeqtBYCZZASTSi2K+7P4QmTU47tdPRlZli/ENAuQ26IH8v7epdj5rOY7oitd/JcaVMW/7VH0rk9GuA/OBA5jja948KNbYTlyvV5w4QQOA72tt44NkUF3SvL0l8sYcHEjqRYBcbBuiN3eJg3jO/mh5eH/R4qHuk6KuEwdojdIWJfk/ijmOz1byar+OiJxaDze//qI/rJGd+zOKhH6mqQ==;Nat8zNXqM9skWPUC4PjhZg=="
 ---
 

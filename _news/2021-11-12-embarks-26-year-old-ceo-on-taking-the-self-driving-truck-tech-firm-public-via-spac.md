@@ -9,7 +9,7 @@ ampWebUrl: "https://cheddar.com/media/embarks-26-year-old-ceo-on-taking-the-self
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/embarks-26-year-old-ceo-on-taking-the-self-driving-truck-tech-firm-public-via-spac.amp"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,29 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "CEO, 26, lists self-driving truck firm in $7b deal"
-    excerpt: "Alex Rodrigues becomes one of the first, and youngest, heads of an autonomous-driving company to pitch public investors on the promise that vehicles will soon drive themselves."
-    publishedDateTime: 2021-11-12T05:24:00Z
-    webUrl: "https://www.afr.com/world/north-america/ceo-26-lists-self-driving-truck-firm-in-7b-deal-20211112-p598ic"
+  - title: "Self-Driving Truck Startup Kodiak Robotics Raises $125 Million"
+    excerpt: "Self-driving truck startup Kodiak Robotics recently announced a $125 million funding round as the trucking industry is facing major challenges, including growing shipping demand and driver shortages."
+    publishedDateTime: 2021-11-11T23:30:00Z
+    webUrl: "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million"
+    ampWebUrl: "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
+      name: Cheddar
+      domain: cheddar.com
+    quality: 91
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.3778%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_142%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/12612e2076fa8f08403057ba0f937565fd1bc134"
+      - url: "https://img.chdrstatic.com/media/4d811bbb-96df-46b3-885f-771caf17ad34.jpg?width=1200&source=backend&auto=webp"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "Embark Trucks, America’s Longest-Running Self-Driving Truck Program, To List at a Valuation of Approximately $5 Billion on Nasdaq Under the Ticker “EMBK”"
-    excerpt: "Embark Trucks, Inc., a leading developer of autonomous technology for the trucking industry, today announced that it has completed its previously announced business combination (“Northern Genesis 2”) (NYSE: NGAB) to take Embark public."
-    publishedDateTime: 2021-11-10T20:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211110006315/en/Embark-Trucks-America’s-Longest-Running-Self-Driving-Truck-Program-To-List-at-a-Valuation-of-Approximately-5-Billion-on-Nasdaq-Under-the-Ticker-“EMBK”"
+  - title: "Self-Driving Truck Startup Kodiak Raises $125 Million in Series B Round"
+    excerpt: "On November 11, self-driving truck startup Kodiak announced that it had raised $125 million in an oversubscribed Series B round for a total of $165 million raised to date."
+    publishedDateTime: 2021-11-10T17:31:00Z
+    webUrl: "https://syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/"
+    ampWebUrl: "https://syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/Kodiak_Robotics_Self_Driving_Truck.jpg?fit=800%2C450&ssl=1"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Self-driving truck startup raises $125 million"
+    excerpt: "Kodiak Robotics, a self-driving truck startup, has raised $125 million in funding to continue development of autonomous systems for the future of first-mile logistics. Kodiak has to date raised $165 million with this round being led by SIP Global Partners,"
+    publishedDateTime: 2021-11-12T13:30:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17411/self-driving-truck-startup-raises-125-million"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/411/17411/Kodiak_Robotics_Self_Driving_Truck.jpg"
+        width: 752
+        height: 423
+        isCached: true
 
 secured: "MgSa0uJ4JQIBFLXyrTCu7kMKdR8pXom/b4goH4AFp/j7rqrbbxLDWtBT4j3yEa/DCXS2vkZEBYEcxzDDiZI10E2P6ibPZCxZRuHzd1bQpW+1j/iaAoq3TwiKztX2Upf+9nYhqmHFscmkhFWj7FeRmBWt+DmRNCmjicFQwrSJqkWPY8ckM1ad6EpsxFnEMZsZbZGzF59iSDAo8Ngn7wpd1pBD4JFmAAeG7piVIMI7R8sVNd69yVOC/5SdhsOxYrS1JbMsQ5WwPTaVwMdHKiKL8NwFHLm6KoPzLX5fGp78cKqPruxOjjvZaqe1+ZjsZQfrgT9sOq7A5XHaFQlCpXpu5heZtaFn5FGuQY22qDh3oTHeCTf4uU4dnmxmfM2JlQMmIi3sygX7I0t99CB1vJmOG9BwxahvoEhMSUUZlxG/4LfLNu/zoh9UQ6I/7MCeg+2Pl9daSW6F2NgkGrngsx7QuYk4Qpv0ZvWMTNtSqdC2nZjoXsTI96/KnEYIH6kj29P7AMCpHmuqv0cCcXglfkVn5g==;4eobhJcvTqEkRHxHmpay+g=="
 ---
