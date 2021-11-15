@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approa
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

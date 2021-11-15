@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-11-samsung-exynos-2200s-amd-gpu-exhibits-34-peak-performance-improvement-over-predecessor.md",
+      "title": "Samsung Exynos 2200’s AMD GPU exhibits 34% peak performance improvement over predecessor",
+      "excerpt": "A reliable leakster has shared that the AMD GPU on the Samsung Exynos 2200 exhibits 34% peak performance improvement over its predecessor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/",
+      "originalUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/09/Samsung-Exynos-Logo-Featured.jpg",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/?amp=1",
+      "publishedDateTime": "2021-11-11T01:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-facial-recognition-marches-forward-no-matter-what-facebook-says.md",
       "title": "Facial Recognition Marches Forward, No Matter What Facebook Says",
       "excerpt": "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore —and facial recognition has become an increasingly toxic concept in many circles.",
@@ -1173,49 +1225,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-new-ai-model-uses-nlp-to-analyze-african-languages.md",
-      "title": "New AI Model Uses NLP To Analyze African Languages",
-      "excerpt": "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/355697/new-ai-model-uses-nlp-to-analyze-african-languages-355697-1280x720.jpg?cb=11497643",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/new-ai-model-uses-nlp-to-analyze-african-languages-355697",
-      "publishedDateTime": "2021-11-10T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

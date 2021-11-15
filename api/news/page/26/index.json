@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-10-25-artificial-intelligence-ai-in-banking.md",
+      "title": "Artificial Intelligence (AI) in Banking",
+      "excerpt": "Artificial intelligence (AI) is one of the most disruptive technologies today, and the banking industry is a prime example of its potential. AI in banking is a relatively new concept, but it’s already making banks safer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-banking/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2020/06/campaign-creators-pypeCEaJeZY-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining.md",
       "title": "What automation, AI, AR, robotics mean for the future of work in mining",
       "excerpt": "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing",
@@ -1117,49 +1160,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-eu-proposed-regulatory-regime-for-artificial-intelligence-ai-could-set-global-standard.md",
-      "title": "EU Proposed Regulatory Regime for Artificial Intelligence (AI) Could Set Global Standard",
-      "excerpt": "The European Union (EU) has launched the world’s first comprehensive legislative package to regulate AI.  The Artificial Intelligence Act (AIA), which is currently progressing through the E",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard",
-      "originalUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard?amp",
-      "publishedDateTime": "2021-10-22T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

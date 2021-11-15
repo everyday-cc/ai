@@ -2,6 +2,48 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-10-28-northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort.md",
+      "title": "Northwell, Aegis Ventures to team in multibillion-dollar AI effort",
+      "excerpt": "A new joint venture with Northwell Health and Aegis Ventures aims to be a multibillion-dollar game ... and other team members in developing methods, which, through AI, can “predict, diagnose ...",
+      "sourceUrl": null,
+      "webUrl": "https://libn.com/2021/10/28/northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort/",
+      "originalUrl": "https://libn.com/2021/10/28/northwell-aegis-ventures-to-team-in-multibillion-dollar-ai-effort/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://libn.com/files/2021/10/Northwell-Health-Exterior.jpg",
+          "width": 1546,
+          "height": 1049,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Long Island Business News",
+        "domain": "libn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-aws-releases-amazon-ec2-dl1-instances-that-train-machine-learning-models.md",
       "title": "AWS Releases Amazon EC2 DL1 Instances that Train Machine Learning Models",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, is releasing Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models. DL1 instances are powered by Gaudi accelerators from Habana Labs (an Intel company) to provide up to 40% better price performance for training machine learning models than the latest GPU-powered Amazon EC2 instances,",
@@ -1086,59 +1128,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-how-ipropertycommy-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker.md",
-      "title": "How iProperty.com.my accelerates property-based ML model delivery with Amazon SageMaker",
-      "excerpt": "This post was created in collaboration with Mohammed Alauddin, Data Engineering and Data Science Regional Manager, and Kamal Hossain, Lead Data Scientist at iProperty.com.my, now part of PropertyGuru Group. iProperty.com.my is the market-leading property portal in Malaysia and is now part of the PropertyGuru",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-iproperty-com-my-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/07/ML-4574-image001.png",
-          "width": 721,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T15:58:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
