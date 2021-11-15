@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-15-artificial-intelligence-ai-in-construction-market-report-up-to-2031.md",
+      "title": "Artificial Intelligence (AI) in Construction Market Report Up to 2031",
+      "excerpt": "Visiongain has published a new report on Artificial Intelligence AI in Construction Market Report to 2031 Forecasts by offering Solution Services by stage Pre construction Construction Stage Post construction by deployment type Cloud On premises by technology Machine Learning Deep",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2461984/artificial-intelligence-ai-in-construction-market-report-up",
+      "originalUrl": "https://www.openpr.com/news/2461984/artificial-intelligence-ai-in-construction-market-report-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub15145183_g.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up",
+      "publishedDateTime": "2021-11-15T01:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-aiml-workloads-need-extra-security.md",
       "title": "AI/ML Workloads Need Extra Security",
       "excerpt": "The need for security is pervading all electronic systems. But given the growth in data-center machine-learning computing, which deals with extremely valuable data, some companies are paying particular attention to handling that data securely.",
@@ -55,7 +97,7 @@
       "originalUrl": "https://analyticsindiamag.com/azure-openai-allows-gpt-3-access/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1099,6 +1141,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-13-the-ethics-of-digital-technology-in-the-food-sector.md",
+      "title": "The ethics of digital technology in the food sector",
+      "excerpt": "Imagine a world in which smart packaging for supermarket-ready meals updates you in real-time to tell you about carbon footprints, gives live warnings on product recalls and instant safety alerts because allergens were detected unexpectedly in the factory.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/supermarket.jpg",
+          "width": 1920,
+          "height": 1104,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp",
+      "publishedDateTime": "2021-11-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-3d-printing-and-machine-learning-unite-to-improve-cochlear-implants.md",
       "title": "3D printing and machine learning unite to improve cochlear implants",
       "excerpt": "A team of engineers and clinicians have used 3D printing to create intricate replicas of human cochleae—the spiral-shaped hollow bone of the auditory inner ear—and combined it with machine learning to advance clinical predictions of \"current spread\" inside the ear for cochlear implant (CI) patients.",
@@ -1139,109 +1224,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-promotedai-takes-in-fresh-capital-to-grow-your-marketplace.md",
-      "title": "Promoted.ai takes in fresh capital to grow your marketplace",
-      "excerpt": "The company is answering the question of how you fairly come up with a way to share the attention between big and small sellers",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/",
-      "originalUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211368784.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/12/promoted-ai-marketplace/amp/",
-      "publishedDateTime": "2021-11-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022.md",
-      "title": "ITRI to Exhibit Innovations in AI, Robotics, ICT, and Health Tech at CES 2022",
-      "excerpt": "ITRI's CES 2022 highlight technologies include the RGB-D AI Robot, a CES 2022 Innovation Awards honoree, the first collaborative robot that integrates smart 3D vision as a built-in standard for high-precision object recognition and pick-and-place operation;",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022-1030969979",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022-1030969979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1686583/ITRI_CES_EDM.jpg",
-          "width": 400,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-12T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

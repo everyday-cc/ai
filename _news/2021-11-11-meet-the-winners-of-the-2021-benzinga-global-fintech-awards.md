@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia"
-    excerpt: "TPIsoftware and IG Tech Group, the leading system integrator in Cambodia, have signed a strategic partnership agreement with Industrial Development Bureau, Ministry of"
-    publishedDateTime: 2021-11-15T06:00:00Z
-    webUrl: "https://www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace"
-    ampWebUrl: "https://www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 33
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_1543.jpg?itok=vUNkcHwW"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Three leading fintech trends to watch in 2022"
     excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"
     publishedDateTime: 2021-11-11T12:45:00Z
@@ -122,6 +106,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia"
+    excerpt: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia. TAIPEI, Nov. 15, 2021 /PRNewswire/ -- TPIsoftware and"
+    publishedDateTime: 2021-11-15T07:30:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/15/9491531.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 0
 
 secured: "Pc4jY6YnjtROcU36zHUeqYsJtrDr4rTdO3y/10N41ycMtK+Iz3kfhk35Xf9NFwpUFWT/e15540H6upR6JdM4z8ayWXS2cUkjoWhroUr7XA1EveNnPHfTgCu2fSIQy2ed6JgwqXNwIH/yamYm7iVHueWpUQHveWx49oSBkTKoc/KnZrn3BUt+Ud4jKc3df4uOdnkJoLDXQuU95iU/35HyVftfl/PcQk+5SILmKpgHcsq5jtTS6pp0fSBM6KSxSbrmfm//FN6c/g7YAo5sp9INqK9gBlJ9R6uJA/zLnoSCFNZVeL7z10UhSCvGKZ6z4XROZBk4Q4mQ4k19StYwlGfvZUs0ebelTxufvLsRYY+Dadk=;pWtYZA04N04nDMkwoV79rw=="
 ---

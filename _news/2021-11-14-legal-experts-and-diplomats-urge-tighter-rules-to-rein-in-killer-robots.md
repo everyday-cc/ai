@@ -7,7 +7,7 @@ originalUrl: "https://www.shephardmedia.com/news/defence-notes/defence-experts-a
 webUrl: "https://www.shephardmedia.com/news/defence-notes/defence-experts-ask-for-more-regulation-of-killer/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "Killer Robots and Conflicts of Interest"
+    excerpt: "A commission headed by Eric Schmidt has pushed a new arms race by advising the Pentagon to explore killer robots. The Washington Post ’s event programming has a way of obscuring corporate power. On Veterans Day,"
+    publishedDateTime: 2021-11-15T10:27:00Z
+    webUrl: "https://prospect.org/power/killer-robots-and-conflicts-of-interest/"
+    type: article
+    provider:
+      name: The American Prospect
+      domain: prospect.org
+    quality: 39
+    images:
+      - url: "https://prospect.org/downloads/17134/download/Guyer-robots.jpg?cb=c22a68811c28ff53c01131d7567097bf&w=1200"
+        width: 1029
+        height: 697
+        isCached: true
 
 secured: "Q0AVs0oy3zQ3AzYDykMbH8VrgMtknt30INfusxeiKROSruKe/r63sjQYBc6CwhXmfSkD/Sxg9EhmEWClEPvTD9SlYSPqD1xRQ6xBNDPv9XXq+RTamkFCp5l4coqLxLB3SbooVlcIrQXo+coSjxhamW2UvWQUgeZmKRSYD2qsVJ5Rw5vEbuMapsmouILbjERkACwFjYnNn5PjwY6TLsOpi33wszMuY19ZTDmLI/ZLVHwAbdNQSnXnGW4f3NsqymFHi41FivEliGbt3QDfyQC49SChhRTNWLjaH6PE6j7SqaP2w1wR6q6ZG0JG1KcslfFAHDD9G15cue2CG/IEj+VUmCOrnkNitPVjLtO6HlmDp4g=;v2QfGDC7/DIsP9XXooVbYQ=="
 ---

@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia"
-    excerpt: "TPIsoftware and IG Tech Group, the leading system integrator in Cambodia, have signed a strategic partnership agreement with Industrial Development Bureau, Ministry of"
-    publishedDateTime: 2021-11-15T06:00:00Z
-    webUrl: "https://www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace"
-    ampWebUrl: "https://www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 33
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_1543.jpg?itok=vUNkcHwW"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Meet The Winners Of The 2021 Benzinga Global Fintech Awards"
     excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
     publishedDateTime: 2021-11-10T19:28:00Z
@@ -122,6 +106,15 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
+  - title: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia"
+    excerpt: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia. TAIPEI, Nov. 15, 2021 /PRNewswire/ -- TPIsoftware and"
+    publishedDateTime: 2021-11-15T07:30:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/15/9491531.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 0
 
 secured: "tQdL7aoDYG4PuOmOIct8Pql+ilkyekfyAjfmW/Ik0kub0myyb6pkA8EyrlNOr2AO2dNdP1SDhfcYwUNRQMXQbTo25gFphMtlFhpQo67MQAvnsU0Bl9zbqS5OegBdwP6gGGZ7Otqp9gVMQKrosE6kpGOJm9XqqHAhk8AQ6Z4bS6TIXSNRFxesSuM5DBV1vrmBC3iJjA+1jeKWXnpT0GFvshhmT0441TzfkI5GbC9pkWYowHfr1MZnbkdfaTiwT9WEFBmFpRXsNpWj/ZaID5FQ8TMmCvmpJ7q95doC5UUSFb5YzmgaaRg9dKHptptBSle8dbcrFNLlRl76dFpdEhI5mqGN9IHRGoC325GmFj/rcqVMnVlXFqOdNWUfDusIohEDnE5jRB4tBbbOJ2z+wU0ux3N5c/9NuXhooMo6MKX4WxTxfrKsAFzyXBNgbhJr6lmbRqO56TETYuygJLHt5LahYhRFM4EPrtfLORbPMTThfuBSbZUBNCweT41msT3c121w/ww8O2SBepxVUZg2U/P2kA==;YWYg5oACX4rD/qQ0pGLV8w=="
 ---

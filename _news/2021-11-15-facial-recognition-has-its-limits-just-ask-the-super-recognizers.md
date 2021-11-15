@@ -1,30 +1,33 @@
 ---
 category: news
 title: "Facial Recognition Has Its Limits. Just Ask the ‘Super Recognizers’"
-excerpt: "London’s Metropolitan Police conducted 10 trials of live facial recognition between 2016 and 2019, using face-matching software from Japanese technology firm NEC Corp. and cameras mounted on surveillance vans and poles."
-publishedDateTime: 2021-11-15T08:26:00Z
-originalUrl: "https://www.bloombergquint.com/gadfly/police-should-use-super-recognizers-to-boost-their-facial-recognition-software"
-webUrl: "https://www.bloombergquint.com/gadfly/police-should-use-super-recognizers-to-boost-their-facial-recognition-software"
+excerpt: "An elite police team in London with the ability to recognize thousands of different people is outperforming the technology – for now."
+publishedDateTime: 2021-11-15T07:24:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2021-11-15/police-should-use-super-recognizers-to-boost-their-facial-recognition-software"
+webUrl: "https://www.bloomberg.com/opinion/articles/2021-11-15/police-should-use-super-recognizers-to-boost-their-facial-recognition-software"
 type: article
-quality: 41
-heat: 41
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9BF_fFqdoyE/v1/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
-secured: "Lm6ospqOUBbSxAYKyaz7QjXZukgUMsjDAmEgBmRq1P1VcbKOxlcxtm54K7vtrvz8HRHZ2KIjK5wUIT8WmaTSuZ8uKi1/+x45uqRoj60+rEj5BfxD8T/pYz4Ws7cZFM0A0xwV0HT5RtpzIZgT6rhBG6TL1h/qYx0QDB+CgoDm819u8IMVzGg7uKublm/otkCxKtxKJBy3Qwcx3tir/zIVZ5zwRLNYQW8DzPrvjaVFP/bQAnf3/mRTLJ0BI6s2hWbzTY+BB2wkXQ4eEh2D/jG6JFo1vhNLNMIuOMgVnK4m9ls9ccqtMAP+xjXf5JTj+b37pkByqgetpIsXAJaPs7M2Ln5gzhoHlRQWmg2mp9jMvfE=;R7/gebQYsUOtFDpRSnpPbg=="
+secured: "+9XTgiFLHmnQFAcYzVi73uMJi6SaJ5HMpHBkaBT8gYCGhzCiRSpv5vYmkwmR6AQGcmSNAmdnzVfxAVXdkH8AB3VvsUo4jhlLpD7cGNH/UEVkyIt3SlNKyvjydA0N/gSST26Cxmkl2737iW/8M7ZTY/OYTvo1VrfhTkYpa5PAh7chmECNP120HOY3mkbJMEZKSgm9qTzJgxBN6QKHt6GqmLyP1qUCfGDhu0VAP9uZ9CHKL2uaZZvdvhU46kYm4stCus7oDOFgNg3D/NdrMaBuWAapZCAmOBe2qSs03fFXTzVZGnikfmd7RY32JRR39tVli8CTXT1ApMThGxo9hyzmQoxZCqrFuoQCMlPhqVQVVt4=;vmrYBcbUhuUwCokKkay95w=="
 ---
 

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-Driving Truck Startup Kodiak Raises $125 Million in Series B Round"
-    excerpt: "On November 11, self-driving truck startup Kodiak announced that it had raised $125 million in an oversubscribed Series B round for a total of $165 million raised to date."
-    publishedDateTime: 2021-11-10T17:31:00Z
-    webUrl: "https://syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/"
-    ampWebUrl: "https://syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/10/self-driving-truck-startup-kodiak-raises-125-million-in-series-b-round/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/11/Kodiak_Robotics_Self_Driving_Truck.jpg?fit=800%2C450&ssl=1"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Embark's 26-Year-Old CEO on Taking the Self-Driving Truck Tech Firm Public Via SPAC"
     excerpt: "Autonomous tech developer Embark made its Nasdaq debut on Thursday via a SPAC merger, making its CEO Alex Rodrigues, the youngest chief executive of a publicly-traded company at the age of 26. He joined Cheddar's \"Between Bells\" to discuss what led to the IPO and what it means for the trucking industry as it looks to navigate ongoing supply chain issues."
     publishedDateTime: 2021-11-11T20:00:00Z

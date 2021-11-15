@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-01-microsoft-announces-azure-functions-40-with-net-6-support-in-preview.md",
+      "title": "Microsoft Announces Azure Functions 4.0 with .NET 6 Support in Preview",
+      "excerpt": "Attend in-person on April 4-6, 2022. Microsoft recently announced the public preview release of Azure Functions 4.0 – its Function as a Service (FaaS) offering. The release of this new runtime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/09/azure-functions-40-preview/",
+      "originalUrl": "https://www.infoq.com/news/2021/09/azure-functions-40-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/09/azure-functions-40-preview/en/headerimage/generatedHeaderImage-1632844766208.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-microsoft-announces-preview-of-on-demand-capacity-reservations-for-azure-virtual-machines.md",
       "title": "Microsoft Announces Preview of On-Demand Capacity Reservations for Azure Virtual Machines",
       "excerpt": "AI tools are slowly replacing the role of the ... Recently, Microsoft announced the preview of on-demand capacity reservations for Azure Virtual Machines (VMs). With this new feature for VMs ...",
@@ -1275,49 +1318,6 @@
       "provider": {
         "name": "The Hans India",
         "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices.md",
-      "title": "Microsoft and Honor sign partnership to develop new AI, devices",
-      "excerpt": "According to the strategic cooperation memorandum signed by the two companies, Honor will adopt AI speech and AI translation services based on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527",
-      "originalUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2021/09/22/159963-untitled-design-2021-09-22t115616143.jpg?itok=hh4Sia_8",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527/amp",
-      "publishedDateTime": "2021-09-17T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
         "images": null,
         "publishers": null,
         "authors": null

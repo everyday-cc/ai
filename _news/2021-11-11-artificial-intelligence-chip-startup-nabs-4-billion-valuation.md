@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/artificial-intelligence-ch
 webUrl: "https://www.bloombergquint.com/business/artificial-intelligence-chip-startup-nabs-4-billion-valuation"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Cincinnati-based AI startup lands $13M in funding, plans HQ move"
-    excerpt: "The team that led a Columbus machine-learning business to acquisition in three years is back, this time with a new AI-for-anyone startup that's raised $12.75 million. CEO Ryan Sevey and CTO Jason Montgomery founded Mantium Inc."
-    publishedDateTime: 2021-11-10T17:22:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/news/2021/11/10/drive-capital-invests-in-ai-for-anybody-mantium.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "KVY0mGMiVRHTxfScNPRMkftB6dCLaImmKlHzdJnrzDUsGr1lNf3cbHUUQUNGdAipV7/K5cWdgCFfmeDZEHjZGKrnqDe6ybI058sGsuj25Cuf9qW2LOgF1zUZ3nPcH8VMFKMErEBNUdWaTX9RU++YbOyDsdtld77c9qWxtUzmtStgDjksg4k6l8LcgXK5WabtOV/ub95dEGd/IazqMVh/OA7rUZRn9dJMY9Rjf2N8t/j7HsRKbHHbUD4nT7Xa8armaN1G3DimuFCh3kv+CfEE/I7cVyexuj1P690vBdpywyWrg0yDhxxbWsZxOgqGdcqJZtZkVjL7G7j8cH2BedC578F977OYuqkADdz2PAP3Z9s=;FC9/JOF6uNn/o2SXR/DzdA=="
 ---

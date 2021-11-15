@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia"
-    excerpt: "TPIsoftware and IG Tech Group, the leading system integrator in Cambodia, have signed a strategic partnership agreement with Industrial Development Bureau, Ministry of"
-    publishedDateTime: 2021-11-15T06:00:00Z
-    webUrl: "https://www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace"
-    ampWebUrl: "https://www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/expanding-taiwan-experience-southeast-asia-tpisoftware-collaborates-ig-tech-group-embrace?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 33
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_1543.jpg?itok=vUNkcHwW"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Meet The Winners Of The 2021 Benzinga Global Fintech Awards"
     excerpt: "Benzinga, a media and data provider bridging the gap between retail and institutional investors, held its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space,"
     publishedDateTime: 2021-11-10T19:28:00Z
@@ -121,6 +105,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia"
+    excerpt: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia. TAIPEI, Nov. 15, 2021 /PRNewswire/ -- TPIsoftware and"
+    publishedDateTime: 2021-11-15T07:30:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/15/9491531.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 0
 
 secured: "T6BUZC5Vo0KIWva+ckv+NPLig/MqmgH1AROzoW6Hg10EneO1MT8f5gTfa0zQtBQhjzNC9kYApEYw0ZXz8oCVwdBne8h/ja4j6eixOdrJ4ZawKb2CFZTtAiPXItpPaEgLc4qkab9L3rOzrviXIyytiDg+xcF8kMW7qRZhMkQeHxze8D+XQGknhtw0yHO9UayC8/deTUsldrYs8hzhDMAj3Yxm3TKi1i5DqSZ8uZHCoaSNmxlPzOtTy3+Bh+KVQZELM6I/wgwgrtPi2jJH9G02JdNOyayOVfsaDbJSQvrsfer9XAVJJ6bHbJnIMcULIlOECYEpHnZDEmdzl3B8c6gvEnpRfIi8BLut6pw9MzBlUQIIcghJC/eyykPnCPkkwiONfeNQM6OxWIBcHjTd4whOsTnS/NqxTcNLNvwXqSeLqQD5q+gvUqzlB4ip2v12df8drIC+8IP0Nr9xVIjqrDPg5hcdnqUcxhedDnm6Qp87dKrCpc+wNMuHOC56KjcQxsKJY0zXFtCqseHfN4z3Whdcyw==;DTM/tmsdfjK4ACHtlHmZiA=="
 ---
