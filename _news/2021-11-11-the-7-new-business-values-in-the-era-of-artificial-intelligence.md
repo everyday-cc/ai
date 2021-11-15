@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Why is AI an obsession for business insiders?"
-    excerpt: "Adidas expects its growth for the full-year (FY) 2021 to come in at the lower end of its predicted range due to supply chain issues."
-    publishedDateTime: 2021-11-11T10:09:00Z
-    webUrl: "https://www.just-style.com/features/ai-obsession-business-insiders/"
+  - title: "Many businesses can't hire the AI talent they need"
+    excerpt: "The company argues that considerations around AI ethics are at odds with productivity, which could have a knock-on effect on the AI talent search. Most respondents (90 percent) said having ethical standards in how they develop and use emerging technologies,"
+    publishedDateTime: 2021-11-15T15:30:00Z
+    webUrl: "https://www.itproportal.com/news/many-businesses-cant-hire-the-ai-developers-they-need/"
+    ampWebUrl: "https://www.itproportal.com/amp/news/many-businesses-cant-hire-the-ai-developers-they-need/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/many-businesses-cant-hire-the-ai-developers-they-need/"
     type: article
     provider:
-      name: Companies
-      domain: just-style.com
-    quality: 41
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
     images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/11/ai-robots.jpg"
-        width: 1296
-        height: 737
+      - url: "https://cdn.mos.cms.futurecdn.net/XTapa4qEh8FgPge3PDzxAa-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Governments see huge business potential in artificial intelligence, but ignore the downsides"
+    excerpt: "Ireland is the latest country to make the mistake of thinking that algorithms by themselves are the route to untold prosperity."
+    publishedDateTime: 2021-11-14T05:00:00Z
+    webUrl: "https://www.sunjournal.com/2021/11/14/governments-see-huge-business-potential-in-artificial-intelligence-but-ignore-the-downsides/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 26
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/11/2018/12/sunjournal-social.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "0lvg6HVAPdPgFuo7FmlzXzaAq1oW8A0OHWE4pMFdLJJJh7dx1xr5a882Ml/js26WXjgErRXU5tx50h7ZAqcYlvRxJMl4ENKtB9wV0zMK7sxfMxxj/iZgpxbBOHqWGuQdASA+dk89QZcuvsKN9hvNv9QB5R/wYnzoRUcQBqQEtHlm97GedXvDKl9lUQ8NaON43NpeHmbywcxrLmcRV7R++6C5wVu8tNibFukZ1ZIR8rFZW/fRZH4PrtiBu15tlpURyTxt/z9rlSS5pf4kVi0crKDSV2bdg/RVczXs4Z5RixihIpJDGbS64Nnff4JBE6qnj1MjgGU/ZifpZv3RBfMwFil4ZBarGuRH6B++IAiJDzSmFB037/7OCevIWQDsZGQUcsx/WVzdMm0KH/3c0S8y9LZ7ItzWa4EfYR6LY+MYqPtWYkQgQhB5tPHKt23TsWx2NRVXtD9CcM3/XD3affabSxWaFXJgfbkY4GA1TZYb0YFtb6cIQsFVrhZAfKb7Q9dfdMwK8CZcroBqiczYax+6mQ==;1k6+Xsnc9HPQHODDd5a7OA=="

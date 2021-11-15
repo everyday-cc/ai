@@ -39,6 +39,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "5 Critical Ways Python Developers Contribute To A FinTech Company"
+    excerpt: "AI, scientific computing, academic research, etc. This creates countless opportunities for Python developers. In an industry like fintech that demands utmost care and focuses on security, you must vet carefully and hire Python developers who are highly ..."
+    publishedDateTime: 2021-11-15T15:13:00Z
+    webUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/"
+    ampWebUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/5-critical-ways-python-developers-contribute-to-a-fintech-company.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Three leading fintech trends to watch in 2022"
     excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"
     publishedDateTime: 2021-11-11T12:45:00Z

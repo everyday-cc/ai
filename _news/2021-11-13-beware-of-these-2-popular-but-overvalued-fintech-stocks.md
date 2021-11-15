@@ -35,6 +35,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "5 Critical Ways Python Developers Contribute To A FinTech Company"
+    excerpt: "AI, scientific computing, academic research, etc. This creates countless opportunities for Python developers. In an industry like fintech that demands utmost care and focuses on security, you must vet carefully and hire Python developers who are highly ..."
+    publishedDateTime: 2021-11-15T15:13:00Z
+    webUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/"
+    ampWebUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/5-critical-ways-python-developers-contribute-to-a-fintech-company.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Fintech Compliance: AI's New Role in Combating Corruption"
     excerpt: "Discover how AI has started to be used as a tool for fighting corruption, what these technologies are, and why they are so important"
     publishedDateTime: 2021-11-13T09:00:00Z

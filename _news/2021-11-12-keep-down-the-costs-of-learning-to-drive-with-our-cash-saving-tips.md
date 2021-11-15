@@ -7,7 +7,7 @@ originalUrl: "https://www.newsoneplace.com/25172352105/keep-cash-saving-learning
 webUrl: "https://www.newsoneplace.com/25172352105/keep-cash-saving-learning"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,66 +23,6 @@ images:
     width: 960
     height: 620
     isCached: true
-
-related:
-  - title: "The future of learning"
-    excerpt: "We help these institutions see that they can grow their businesses beyond brick and mortar, and do so quickly – breaking down walls to reach students beyond their physical geography to provide teaching and learning to remote students,"
-    publishedDateTime: 2021-11-12T08:18:00Z
-    webUrl: "https://mg.co.za/special-reports/2021-11-12-the-future-of-learning/"
-    ampWebUrl: "https://mg.co.za/special-reports/2021-11-12-the-future-of-learning/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/special-reports/2021-11-12-the-future-of-learning/?amp"
-    type: article
-    provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 44
-    images:
-      - url: "https://media.mg.co.za/wp-media/2021/11/a71fefc0-rogers1.jpg"
-        width: 1019
-        height: 637
-        isCached: true
-  - title: "Baseball And Machine Learning – How Baseball Helps Predict The Future?"
-    excerpt: "I am a huge fan of data. It gives me solid ground and helps me be motivated – I even had an Excel Spreadsheet Experiment That Changed My Lifestyle."
-    publishedDateTime: 2021-11-11T12:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/baseball-machine-learning-how-helps-predict-future-meskó-md-phd"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEBB_YnMvEGaw/article-cover_image-shrink_720_1280/0/1636632710662?e=1642032000&v=beta&t=OS5lTXF5tY8xzSFEn23UzbJ9wU8_8nitzVXc82v5PsI"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Machine learning reveals the atomic structure of large and complex molecules"
-    excerpt: "Scientists report on a newly-developed machine learning algorithm for LIED to extract the three-dimensional structure of large and complex molecules."
-    publishedDateTime: 2021-11-12T07:33:00Z
-    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59122.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 36
-    images:
-      - url: "https://www.nanowerk.com/nanotechnology-news2/id59122_2.png"
-        width: 520
-        height: 269
-        isCached: true
-  - title: "The Future of Mobile Apps is Voice Search"
-    excerpt: "Software developers all over the world are debating the myriad future possibilities for making online searches and living in the digital world more convenient. Voice technology is one of the most popular options."
-    publishedDateTime: 2021-11-12T10:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-mobile-apps-voice-search-elise-lowry"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH2MyXsgoXdEg/article-cover_image-shrink_720_1280/0/1636714422088?e=1642032000&v=beta&t=3IC55J-yDkzha2a-9gebka3NoBBgd8ZCoAvdW5c1jbE"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "/qR4/15yZorF71kGwy0+QaH1i2Lsrhaocjh+xaIyVzB3XwPXtXgqqvpDrzP5sago6VGI30/Y+TyvEJc9rVDVGJAJq0Q2AcyDD2Kqpp+LdgwD8Lmps5n5YxyUBO5KC5XX6gT9W1YjXYNMTC7PehsOPJqMwuVcn9vPFj79ZfokXsQMMSU7ZxENNnQZdJpTCMW5xHlzy8+px4Ls4coWEb0h503ghKOkMd0ZMon1ofcSvVN7kVbfbTq4tqHetgMyg+5l8Ozee8Die3h2wukSw4e6OaRtDz3ZEFBf9hHVSygHQ5YBa+NiWOu5tueyIdvzlEBFeGjDGMmarsGVuXtrvHL7WKmKZFK0BsywflXbnZeB44I=;lkC+BSftHbA1MKzbn01+vQ=="
 ---

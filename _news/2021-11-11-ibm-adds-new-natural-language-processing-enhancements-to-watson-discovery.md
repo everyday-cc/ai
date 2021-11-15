@@ -7,8 +7,8 @@ originalUrl: "https://www.enterprisetimes.co.uk/2021/11/11/ibm-adds-new-natural-
 webUrl: "https://www.enterprisetimes.co.uk/2021/11/11/ibm-adds-new-natural-language-processing-enhancements-to-watson-discovery/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: enterprisetimes.co.uk
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI"
-    excerpt: "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ..."
-    publishedDateTime: 2021-11-11T00:00:00Z
-    webUrl: "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 54
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/field/image/DSC03582.JPG"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "IBM Enhances The Natural Language Processing Capabilities Of Watson Discovery"
     excerpt: "IBM has announced upgrades to Watson Discovery's natural language processing capabilities. These advances in NLP can teach Watson Discovery."
     publishedDateTime: 2021-11-12T07:30:00Z

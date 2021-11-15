@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-10-how-ai-and-mass-customization-could-change-the-fashion-industry.md",
+      "title": "How AI And Mass Customization Could Change The Fashion Industry",
+      "excerpt": "We can use mass communications to shed light on the possibilities of these technologies so that others in the industry, as well as consumers, will understand their importance for our future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be3e89c19bf74973b7aeee%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/11/10/how-ai-and-mass-customization-could-change-the-fashion-industry/amp/",
+      "publishedDateTime": "2021-11-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029.md",
+      "title": "Artificial Intelligence in Healthcare Market Size, Share, Key Players, Growth Analysis and Forecast 2029",
+      "excerpt": "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029-2021-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029-2021-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-eu-artificial-intelligence-regulation-threatens-social-safety-net.md",
       "title": "EU: Artificial Intelligence Regulation Threatens Social Safety Net",
       "excerpt": "The European Union’s plan to regulate artificial intelligence is ill-equipped to protect people from flawed algorithms that deprive them of lifesaving benefits and discriminate against vulnerable populations,",
@@ -1083,108 +1186,6 @@
         "name": "theverge.com/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control",
         "domain": "theverge.com/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience.md",
-      "title": "Four Use Cases For AI Voicebots That Help Improve The Retail Customer Experience",
-      "excerpt": "Let’s take a look at four voice automation use cases that can drive human-centric customer experiences and higher ROI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189318020bdaaea69582562%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/amp/",
-      "publishedDateTime": "2021-11-09T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-synthesis-ai-offers-api-for-virtual-humans.md",
-      "title": "Synthesis AI offers API for virtual humans",
-      "excerpt": "Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next.  Synthesis AI, a synthetic data company, has released HumanAPI, a new tool for generating virtual humans from synthetic data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Synthesis-AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/amp/",
-      "publishedDateTime": "2021-11-09T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

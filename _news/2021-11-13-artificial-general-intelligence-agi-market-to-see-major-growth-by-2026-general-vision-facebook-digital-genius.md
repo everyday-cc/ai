@@ -57,6 +57,22 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "A Leap Forward in Computer Vision: Facebook AI Says Masked Autoencoders Are Scalable Vision Learners"
+    excerpt: "The paper Masked Autoencoders Are Scalable Vision Learners, published this week by Kai-Ming He, Xinlei Chen and their Facebook AI Research (FAIR) team, has become a hot topic in the computer vision community."
+    publishedDateTime: 2021-11-15T15:44:00Z
+    webUrl: "https://syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/"
+    ampWebUrl: "https://syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/11/image-43.png?resize=620%2C580&ssl=1"
+        width: 620
+        height: 580
+        isCached: true
   - title: "New Facebook Product for Financial Advertisers"
     excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
     publishedDateTime: 2021-11-12T09:39:00Z

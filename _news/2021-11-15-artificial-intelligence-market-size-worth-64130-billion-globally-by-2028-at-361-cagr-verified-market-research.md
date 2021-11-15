@@ -2,20 +2,19 @@
 category: news
 title: "Artificial Intelligence Market size worth $ 641.30 Billion, Globally, by 2028 at 36.1% CAGR: Verified Market Research®"
 excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence Market\" By Component Analysis (Hardware, Software and"
-publishedDateTime: 2021-11-15T13:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-worth--641-30-billion-globally-by-2028-at-36-1-cagr-verified-market-research-301424025.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-worth--641-30-billion-globally-by-2028-at-36-1-cagr-verified-market-research-301424025.html"
+publishedDateTime: 2021-11-15T14:15:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr-verified-market-research-r--899333833.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr-verified-market-research-r--899333833.html"
 type: article
-quality: 15
-heat: 15
+quality: 13
+heat: 13
 published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 1414
     isCached: true
 
-secured: "0K5snRib4zQcKP6egVh8wdY+UoE7CP/76DR0s5VaTfKgFZ9gJwKk01wIFdXNLMlh92LYoPJr0KN3eHJQlM653EqhjJrTuDII4856OCnfJiYPILLXlKfc2TAAfUjN3+DLbjVcBx6ouKC2avNTeymGCpN8vxPInvP4PR6i8X4w28bP2vWHJ06eBgQR0cm+N8YKJar4FJivG2ImWHktxKodmP1/Z9SPWXsgcGRdAMQ52M6RaVXqr0LJ5Rqn1SuT7GnaGBMep4whyAbaYq/1ttZCUwJu7HFKVc6tpzpfcT0PsvD4JM1sx6C8BTOByrRPCmEFYQMJPoJHOhjbNxQ5g8Gp1q3cLHq6VyZKuiJvUSJnMWc=;tKHCg12cq+fCJcOgGSLpTA=="
+secured: "ft+BSEUS7vL6HlLQ+OdF2KhJYrtg0b38Wy/rzRFZHUUctOpWLh1ssKA509Pd1aUEz795+aTvOv+VdoExBrSP2SiZd5LUKC+0K1Srlw7FB5MX4vtH0CSebkLPKXLjbiPu7O5Fq6UwODMfDdPrswGcd+hFGLqf/ktyJ0Qf81ch884YrA12MVz3CN/vptSmEBBTmS9EgaA3gg1OLjvV8CetghOu3HN7VFcUqMVmrKQ31mk2Jxm4NIRCaI1GK8VvJE+ouKiU8FSON74kv95dOdTZVv+XkYOJD1Qheac/boSLXqJBR2m0PJbgPvDFMk6OlJUEbEhF+XR45/DR+urI5qaMYiUQ8GKMa6/5z92w5lJggxQ=;eR5d7LTF899Asndb5aKT9Q=="
 ---
 

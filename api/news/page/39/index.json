@@ -2,6 +2,126 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-10-14-imagine-the-climate-future-in-your-neighbourhood-or-anywhere-else-using-artificial-intelligence.md",
+      "title": "Imagine the Climate Future in your Neighbourhood (or anywhere else) Using Artificial Intelligence",
+      "excerpt": "PRNewswire/ - Concerned by the sharp rise in natural disasters around the world, a team of AI researchers at Mila is launching a website that lets people see the potential impact of climate change on any address,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc29.com/prnewswire/2021/10/14/imagine-climate-future-your-neighbourhood-or-anywhere-else-using-artificial-intelligence/",
+      "originalUrl": "https://www.nbc29.com/prnewswire/2021/10/14/imagine-climate-future-your-neighbourhood-or-anywhere-else-using-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC29",
+        "domain": "nbc29.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-what-are-the-threats-and-opportunities-of-data-science-and-machine-learning.md",
+      "title": "What are the threats and opportunities of data science and machine learning?",
+      "excerpt": "As with most things, many of the threats and challenges in using data science, artificial intelligence and machine learning ... working in financial services, to have access to reams of data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
+      "originalUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F6%2F2%2F2%2F2632266-11-eng-GB%2Fpexels-hitesh-choudhary-693859.jpg%3Fv1?source=ftadviser",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FTAdviser",
+        "domain": "ftadviser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-the-essential-human-element-of-ai-in-education.md",
+      "title": "The essential human element of AI in education",
+      "excerpt": "During World AI Week, the edtech industry and higher education leaders have an opportunity to look to the future of AI in education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/",
+      "originalUrl": "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ecampusnews.com/files/2021/10/AI-in-education.jpeg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ecampusnews.com",
+        "domain": "ecampusnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models.md",
       "title": "Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models",
       "excerpt": "The teams at Humana believed they had enough data to explore the possibility of proactively identifying when patients were heading toward a high-risk event, and they put Microsoft Cloud for Healthcare and AI technology to the test.",
@@ -988,146 +1108,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-tesla-is-under-pressure-from-nhtsa-over-full-self-driving-beta-nda-and-stealth-recall.md",
-      "title": "Tesla is under pressure from NHTSA over Full Self-Driving Beta NDA and ‘stealth recall’",
-      "excerpt": "The NHTSA is upping the pressure on Tesla as the regulator asked for more information about the non-disclosure agreement it made Full Self-Driving Beta testers agree to. The government is also questioning Tesla about what it believes to be a potential “stealth recall” of Autopilot.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/",
-      "originalUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/",
-      "publishedDateTime": "2021-10-13T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds.md",
-      "title": "5 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds",
-      "excerpt": "In this article, we discuss the 5 best artificial intelligence and robotics stocks to buy according to hedge funds. - All Parts",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/08/man-320276_1280.png",
-          "width": 1240,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3.md",
-      "title": "Microsoft’s Massive New Language AI Is Triple the Size of OpenAI’s GPT-3",
-      "excerpt": "Given the tricks GPT-3 had up its sleeve, it’s intriguing to wonder how the Megatron-Turing model may surprise us given that it's three times larger.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/",
-      "originalUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/10/natural-language-processing-Microsoft-Megatron-Turing-model-AI.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/",
-      "publishedDateTime": "2021-10-13T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

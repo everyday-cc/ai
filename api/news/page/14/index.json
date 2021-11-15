@@ -2,6 +2,135 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-11-03-meta-says-facebook-face-recognition-system-will-be-shut-down.md",
+      "title": "Meta says Facebook face recognition system will be shut down",
+      "excerpt": "Social media behemoth Meta, formerly known as Facebook, has announced that it will shut down its face recognition system and delete more than a billion individual facial recognition templates. However,",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/",
+      "originalUrl": "https://itwire.com/security/meta-says-facebookface-recognition-system-will-be-shut-down.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 559,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/11/NRP-Update-On-Face-Recognition-Technology_Thumbnail.jpg?w=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/",
+      "publishedDateTime": "2021-11-02T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-microsofts-new-azure-adopts-openais-gpt-3-language-technology.md",
+      "title": "Microsoft’s New Azure Adopts OpenAI’s GPT-3 Language Technology",
+      "excerpt": "Earlier today at the Ignite conference today, Microsoft announced that its users will now be able to experience the new",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/microsofts-new-azure-adopts-openais-gpt-3-language-technology/",
+      "originalUrl": "https://techbooky.com/microsofts-new-azure-adopts-openais-gpt-3-language-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/11/1_e7T3D8u2cOwU181uFZijpw.png",
+          "width": 1400,
+          "height": 955,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/microsofts-new-azure-adopts-openais-gpt-3-language-technology/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/microsofts-new-azure-adopts-openais-gpt-3-language-technology/?amp=1",
+      "publishedDateTime": "2021-11-02T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-intelligently-split-multi-form-document-packages-with-amazon-textract-and-amazon-comprehend.md",
       "title": "Intelligently split multi-form document packages with Amazon Textract and Amazon Comprehend",
       "excerpt": "Many organizations spanning different sizes and industry verticals still rely on large volumes of documents to run their day-to-day operations. To solve this business challenge, customers are using intelligent document processing services from AWS such as Amazon Textract and Amazon Comprehend to help",
@@ -1043,144 +1172,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-facebook-to-shut-down-face-recognition-system-delete-data.md",
-      "title": "Facebook to shut down face-recognition system, delete data",
-      "excerpt": "Facebook says it will shut down its face-recognition system and will delete the faceprints of more than 1 billion people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
-      "originalUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/IF2cLlf2MJQeFMKSCbRwJq8iuKU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/D4V6RZBG6RCI7NOS4LWGWRD6DY.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSLA",
-        "domain": "ksla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-changing-the-world-with-3d-data.md",
-      "title": "Changing the world with 3D data",
-      "excerpt": "Learn more how 3D data and ToF 3D image sensors are impacting a wide range of applications including retail, health, sports, and automotive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
-      "originalUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-605695789.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
-      "publishedDateTime": "2021-11-02T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-west-lafayette-facial-recognition-ban-remains-in-ordinance.md",
-      "title": "West Lafayette facial recognition ban remains in ordinance",
-      "excerpt": "A civil and constructive debate over West Lafayette's ban on facial recognition software occurred Monday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
-      "originalUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.field59.com/WLFI/825fb5f80dfde4cbffab5cb33e3ee0564f984088.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.wlfi.com/templates/AMP?contentID=575660031",
-      "cdnAmpWebUrl": "https://www-wlfi-com.cdn.ampproject.org/c/www.wlfi.com/templates/AMP?contentID=575660031",
-      "publishedDateTime": "2021-11-02T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLFI",
-        "domain": "wlfi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

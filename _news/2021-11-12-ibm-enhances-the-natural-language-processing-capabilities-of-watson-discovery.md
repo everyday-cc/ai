@@ -40,20 +40,6 @@ related:
         width: 728
         height: 410
         isCached: true
-  - title: "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI"
-    excerpt: "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ..."
-    publishedDateTime: 2021-11-11T00:00:00Z
-    webUrl: "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 54
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/field/image/DSC03582.JPG"
-        width: 5472
-        height: 3648
-        isCached: true
 
 secured: "mBiR+kkZTM++KJb9ZODQkTsSZpJ338EhQHHUbovkejBl3HUIwpOPj6z19Zcr4FRgC2RKSzSh91kqLxCpn4cbf27AkOFhUIaQi2ftdTnQRZuyxFUibOaJ3dmfhSG4Qm40GHJ/3ih+HJbLKB+ztLfnPa+KhH1iXtn+1Ne4cDggBIZH6XndtKpcUsyqXWWdN8fQbdgeEATxdV6OG4h3byBnUgl9JiBkuDI2JPpcm+/srEClHCdv/IaWOvdLc/2cSdbXDmgTAhhQw/BuOE/QunFlJSYAxP2/Yydcq9vFVFYh5bW1gGSMRfaSqq1mrSh3EjC4x44aG5G6bR2tUwZyVAz+5cKuAx/BQxMmTedH7//cO4G31gyntEh6wkfT+6GAbm98iF6URzNEp0okKST9bBcn6qBmZrnrMdqenCARz6iHZDa1x85rZmI9+/yp6XQwVEbsJPy1eh92W6XF2QMwFj5MoFKquzvIIJdhxdwivK8TZh69jy7+88vyD/V5SVWfFrfumtiOo7iDvOgME/vCrjBvvA==;ngGKg2mF6c1FO9mGrb1QzA=="
 ---

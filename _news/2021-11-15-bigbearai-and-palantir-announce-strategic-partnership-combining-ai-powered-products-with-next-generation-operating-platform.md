@@ -25,19 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Alef Education showcases the power of AI and data in transforming education at GESS Dubai 2021"
-    excerpt: "Dubai, United Arab Emirates, November 14, 2021: Alef Education, a leading global education technology provider that empowers 21-st century learning, today announced its participation at the Middle East’s premier education event,"
-    publishedDateTime: 2021-11-14T11:41:00Z
-    webUrl: "https://menafn.com/1103166267/Alef-Education-showcases-the-power-of-AI-and-data-in-transforming-education-at-GESS-Dubai-2021"
+  - title: "DataRobot launches AI Cloud for industries including banking and healthcare"
+    excerpt: "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises."
+    publishedDateTime: 2021-11-15T16:40:00Z
+    webUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/"
+    ampWebUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 42
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
     images:
-      - url: "https://menafn.com/updates/pr/2021-11/14/pr_11692_7ac848e6_image_story.jpg"
-        width: 504
-        height: 359
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "DataRobot Launches Comprehensive Industry-Specific AI Solution"
+    excerpt: "DataRobot is rolling out a banking-specific tool as part of its new comprehensive solution that delivers industry-tailored AI capabilities to multiple sectors."
+    publishedDateTime: 2021-11-15T14:01:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/DataRobot-artificial-intelligence-banking-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities industries"
+    excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
+    publishedDateTime: 2021-11-11T14:01:00Z
+    webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
+    type: article
+    provider:
+      name: Energy Live News
+      domain: energylivenews.com
+    quality: 54
+    images:
+      - url: "https://www.energylivenews.com/wp-content/uploads/2018/05/robotic-arm.jpg"
+        width: 720
+        height: 412
         isCached: true
 
 secured: "/rOHuUaGM6iF5OCu2tm7jWdtek6D1pUgq3W5HDyFnhTPcNrUa0IZXZxqd38sa8bpG8O8NqDWYUshIV+x/9S7A8go6uE/WU9/5Nl6AeLSqOOzAXjm7m8xcuLYELWcFGB7OSM+YzemkZPvrAb4UiMr6dDuScXJI+GWmbsu+HgjaV9ZKxYapOaOwz3dJF78WS9WyLKaOToVGllHpU9fyhzL91lQP7NKWBQpPWOp8UUVFhV/fHfJJ/AeUPKVHy6EMRFybUo+eDteVVQrD6bsR5et6MA6Gtv3Ol/abjUwl5Evf3RA1nWxpl5af1IPJpLXvcDq6YaP6Hjih4BjMgCo6tZQ7JThyJZ1s2FpnR4esYGvuzY=;znNwk9EzyuJuWI6nDJ+yjg=="

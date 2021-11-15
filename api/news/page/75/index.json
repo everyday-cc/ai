@@ -2,6 +2,153 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-09-20-amazons-ai-powered-cameras-reportedly-punish-its-delivery-drivers-when-they-look-at-side-mirrors-or-when-other-cars-cut-them-off.md",
+      "title": "Amazon's AI-powered cameras reportedly punish its delivery drivers when they look at side mirrors or when other cars cut them off",
+      "excerpt": "Amazon drivers have been punished for looking at side mirrors, adjusting the radio, and being cut off in traffic by other people, Motherboard reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9",
+      "originalUrl": "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6148b4daca11af00192b05db?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-drivers-netradyne-ai-cameras-punished-when-cut-off-2021-9?amp",
+      "publishedDateTime": "2021-09-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10.md",
+      "title": "Adobe’s New Marketing AI Let Customer Cut Ad Spend 50% While Growing Sales 10%",
+      "excerpt": "Do you spend at least $50 million a year in advertising? Adobe announced today that 80% of their marketing cloud customers are using AI to boost marketing ROI by personalizing customer experiences, creating better ads and emails,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6148b7eac3b40db800811729%2F0x0.jpg",
+          "width": 1200,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/09/20/adobes-new-marketing-ai-let-customer-cut-ad-spend-50-while-growing-sales-10/amp/",
+      "publishedDateTime": "2021-09-20T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-locus-robotics-heralds-acquisition-of-waypoint-robotics.md",
+      "title": "Locus Robotics heralds acquisition of Waypoint Robotics",
+      "excerpt": "Locus Robotics, a leading provider of autonomous mobile robots (AMR) for fulfillment warehouses, today announced that it has acquired Waypoint Robotics, a leading provider of autonomous, omnidirectional mobile robots which can move and handle larger payloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/locus_robotics_heralds_acquisition_of_waypoint_robotics",
+      "originalUrl": "https://www.logisticsmgmt.com/article/locus_robotics_heralds_acquisition_of_waypoint_robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc247.s3.amazonaws.com/images/made/images/2021_article/LM2109_COVER_MastersOfLogistics_800p_350_200_bor1_b9b3be_s_c1.jpg",
+          "width": 352,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-scale-ml-feature-ingestion-using-amazon-sagemaker-feature-store.md",
       "title": "Scale ML feature ingestion using Amazon SageMaker Feature Store",
       "excerpt": "Amazon SageMaker Feature Store is a purpose-built solution for machine learning (ML) feature management. It helps data science teams reuse ML features across teams and models, serves features for model predictions at scale with low latency, and train and deploy new models more quickly and effectively.",
@@ -1011,153 +1158,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-19-ibm-brings-trust-and-transparency-into-ai.md",
-      "title": "IBM brings trust and transparency into AI",
-      "excerpt": "“IBM led the industry in establishing Trust and Transparency principles for the development of new AI technologies,” said Beth Smith, general manager of Watson AI at IBM. “It’s time to ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-brings-trust-and-transparency-into-ai/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-brings-trust-and-transparency-into-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/09/1-4.jpg",
-          "width": 1440,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-19-mit-researchers-combine-voice-and-object-recognition-in-new-model.md",
-      "title": "MIT researchers combine voice and object recognition in new model",
-      "excerpt": "Researchers at MIT have developed a new system that combines voice and object recognition capable of identifying an object within an image given only a spoken description of that image.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
-      "originalUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/09/MIT-Audio-Images_0.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-19-new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says.md",
-      "title": "New Deals May Double $240M Funding For MIT-IBM AI Lab, Director Says",
-      "excerpt": "Now, the Cambridge, MA-based MIT-IBM Watson AI Lab is growing in personnel, funding, partners, and square feet, says David Cox, a former Harvard professor who leads the program for IBM (NYSE ...",
-      "sourceUrl": null,
-      "webUrl": "https://xconomy.com/boston/2019/09/19/new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says/",
-      "originalUrl": "https://xconomy.com/boston/2019/09/19/new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.xconomy.com/wordpress/wp-content/images/2019/09/19151247/mit-ibm.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Xconomy",
-        "domain": "xconomy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

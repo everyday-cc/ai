@@ -40,7 +40,21 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "Artificial intelligence and process automation in the fresh produce industry"
+    excerpt: "In a webinar hosted by Keelings Knowledge, Julia Baumanns, Technical Delivery Manager at Microsoft, and Tobias Fausch, CIO at BayWa, talked about future technologies in the fresh"
+    publishedDateTime: 2021-11-15T14:59:00Z
+    webUrl: "https://www.freshplaza.com/article/9373467/artificial-intelligence-and-process-automation-in-the-fresh-produce-industry/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 34
+    images:
+      - url: "https://agfstorage.blob.core.windows.net/misc/FP_de/2021/11/12/_MAR4068_1_.jpg"
+        width: 600
+        height: 399
+        isCached: true
 
-secured: "mBH4V8Rw6NX2hn1ZQWXAPgzAyUsFsWwtR7K3pRz+7i3G0A/ViwmoONl8MoFVBJ7QyriyCy34PhvF/D55iwQ/HKZvUr2uqitjuVF+W1/wbU7+Gf5U1LRq9gLriCCJkrImnOycByZJRC7e6tKkN/wP5ey4nwhUeSGrP/J4lBfRhrbPIGg7002E4gjSEdyTFVm4JGC1SQUn7S7Ry7DkQ7KBqUtpeUHvMyB7cc2nuBMO9F+l5p0QXzC5F69wCmU505ksLEftwS5rsb2yH1hanOjpUxJJUCQCvxr7R8aSUfabNR1rQy34cWLSrnB3glPXUHzZ4aJH2YcMnVAMnB81JPgT5U1B6mSR0/RgZqiMJnRUG1k=;Rj9ev1C1a5zyVhrE1VFfAw=="
+secured: "tg1VY8wRe5YT8DYJCnazH9EJ/Hfgun0XJcGp0nCoTtJWK66K4B/xofLI+jJi2Xqfjhk4WWnIjtf5+39aUi4l6vfvcOanbi6OIxodP9hU7z6nZr8eWHpc+1RLXEbAmt5t5/xjSPpQURnwBB9+FctUk43ArpS73N9Ds30e1YSz+AP349T2fZXW8pkIEfabYWiuxiXp38rFCyem5No128CCtQ47zfGkYLN65Z9QgYrOca6oNHOwx1nd2YyBcJFuOLw+NNriJwT0f17qdzuuSyS0R4Fb6Z1ImVKRqp+C3gxeZ3nSdm4Mh79Nrmc5B2TnBFzkWuZbbGK1hAJxQ/GaF/D+UZCvCSrHFMfOCOM9bJuWPZX9Tj5L5YZaEifv14zM4b76kp9+dbPCKo22lgLvn2bAETH+cHPy9ehacSM2NsMi0VlLVzL8ta7lln8Z//8jqaYemRUnyawlnNR8C2EZbsEtemtIbkZoi2zlnKzRqYAceN1/gARiEsdxsXSKjnCY3uFnl6avAwwVyMmFHIT4jVkBLQ==;aH3SHgFZAEzOaCgzGH90RA=="
 ---
 

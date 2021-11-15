@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-16-openai-rival-cohere-launches-language-model-api.md",
+      "title": "OpenAI rival Cohere launches language model API",
+      "excerpt": "Cohere, a startup creating large language models to rival those from OpenAI and AI2Labs, today announced the general availability of its commercial platform for app and service development. Through an API,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/amp/",
+      "publishedDateTime": "2021-11-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai.md",
       "title": "Baby, You Can Drive My Job? Cars, Careers And The Future Of AI",
       "excerpt": "AI might replace the data-compiling aspects of journalism, for example, but journalists will continue to exist.",
@@ -103,50 +155,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-ibm-adds-new-natural-language-processing-enhancements-to-watson-discovery.md",
-      "title": "IBM adds new natural language processing enhancements to Watson Discovery",
-      "excerpt": "IBM has announced a new set of natural language processing enhancements to Watson Discovery. IBM is targeting financial services, insurance and legal",
-      "sourceUrl": null,
-      "webUrl": "https://www.enterprisetimes.co.uk/2021/11/11/ibm-adds-new-natural-language-processing-enhancements-to-watson-discovery/",
-      "originalUrl": "https://www.enterprisetimes.co.uk/2021/11/11/ibm-adds-new-natural-language-processing-enhancements-to-watson-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/11/archive-1850170_1920.jpg",
-          "width": 728,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetimes.co.uk",
-        "domain": "enterprisetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
         "Natural Language Processing"
       ]
     },

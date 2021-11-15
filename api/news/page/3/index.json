@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-12-companies-order-record-number-of-robots-amid-labor-shortage.md",
+      "title": "Companies Order Record Number of Robots Amid Labor Shortage",
+      "excerpt": "North American firms ordered nearly 29,000 robotics units in first nine months of 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
+      "originalUrl": "https://www.wsj.com/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-433263/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
+      "publishedDateTime": "2021-11-11T13:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-video-level-computer-vision-advances-business-insights.md",
+      "title": "Video-level computer vision advances business insights",
+      "excerpt": "Instance-based classification, segmentation, and object detection in images are fundamental issues in the context of computer vision. Different from image-level information retrieval, the video ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
+      "originalUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
+      "publishedDateTime": "2021-11-11T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance.md",
+      "title": "The Intersection of AI and DeFi and Why It’s the Future of Finance",
+      "excerpt": "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
+      "originalUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
+      "publishedDateTime": "2021-11-11T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-the-best-early-black-friday-deals-2021-walmart-amazon-airpods-more.md",
       "title": "The Best Early Black Friday Deals 2021: Walmart, Amazon, Airpods & More",
       "excerpt": "Early Black Friday 2021 deals are here. These are the best Black Friday deals on TVs, laptops, Airpods and more from retailers like Walmart, Amazon and more.",
@@ -460,7 +598,7 @@
       "originalUrl": "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -702,7 +840,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/396710",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -798,50 +936,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-11-ibm-adds-new-natural-language-processing-enhancements-to-watson-discovery.md",
-      "title": "IBM adds new natural language processing enhancements to Watson Discovery",
-      "excerpt": "IBM has announced a new set of natural language processing enhancements to Watson Discovery. IBM is targeting financial services, insurance and legal",
-      "sourceUrl": null,
-      "webUrl": "https://www.enterprisetimes.co.uk/2021/11/11/ibm-adds-new-natural-language-processing-enhancements-to-watson-discovery/",
-      "originalUrl": "https://www.enterprisetimes.co.uk/2021/11/11/ibm-adds-new-natural-language-processing-enhancements-to-watson-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/11/archive-1850170_1920.jpg",
-          "width": 728,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetimes.co.uk",
-        "domain": "enterprisetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-11-11-facial-recognition-marches-forward-no-matter-what-facebook-says.md",
       "title": "Facial Recognition Marches Forward, No Matter What Facebook Says",
       "excerpt": "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore —and facial recognition has become an increasingly toxic concept in many circles.",
@@ -850,7 +944,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -996,7 +1090,7 @@
       "originalUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1131,101 +1225,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-ai-could-help-improve-the-management-of-mechanical-ventilation-therapy.md",
-      "title": "AI could help improve the management of mechanical ventilation therapy",
-      "excerpt": "Artificial intelligence could be used in future to help guide when to use mechanical ventilation and the likelihood of complications in ventilation of patients. This is according to the first systematic review of studies in this area,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20211110/AI-could-help-improve-the-management-of-mechanical-ventilation-therapy.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20211110/AI-could-help-improve-the-management-of-mechanical-ventilation-therapy.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20211110/AI-could-help-improve-the-management-of-mechanical-ventilation-therapy.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211110/AI-could-help-improve-the-management-of-mechanical-ventilation-therapy.aspx",
-      "publishedDateTime": "2021-11-10T17:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m.md",
-      "title": "CoreWeave, a provider of cloud services for GPU-powered apps, gets $50M",
-      "excerpt": "CoreWeave, a specialized cloud services provider for GPU-based workloads, also partnered with Nvidia to enable companies to scale infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/",
-      "originalUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/cloud-6621829_1920-e1634161645991.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/amp/",
-      "publishedDateTime": "2021-11-10T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextua
 cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: exchangewire.com
@@ -27,59 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "TinyML: Bringing Machine Learning to the Edge"
-    excerpt: "TinyML is bringing machine learning to the edge using devices with tiny, low-power microcontrollers. Here's how."
-    publishedDateTime: 2021-11-12T18:47:00Z
-    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/tinyml-edge/"
+  - title: "How machine learning is skewing the odds in online gambling"
+    excerpt: "Commentary: The house always wins in gambling, and the house is getting even tougher through machine learning."
+    publishedDateTime: 2021-11-15T16:27:00Z
+    webUrl: "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/"
     type: article
     provider:
-      name: Enterprise Networking Planet
-      domain: enterprisenetworkingplanet.com
-    quality: 56
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
     images:
-      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/11/TinyML_Bringing-Machine-Learning-to-the-Edge.png"
-        width: 900
-        height: 565
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Using Machine Learning To Make Better Medical Decisions"
-    excerpt: "While artificial intelligence has become essential in advancing medical research, scientists have yet to work out all the technology’s flaws. A University of Texas at Arlington computer scientist has received a three-year,"
-    publishedDateTime: 2021-11-12T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-make-better-medical-decisions"
+  - title: "The future of learning"
+    excerpt: "We help these institutions see that they can grow their businesses beyond brick and mortar, and do so quickly – breaking down walls to reach students beyond their physical geography to provide teaching and learning to remote students,"
+    publishedDateTime: 2021-11-12T08:18:00Z
+    webUrl: "https://mg.co.za/special-reports/2021-11-12-the-future-of-learning/"
+    ampWebUrl: "https://mg.co.za/special-reports/2021-11-12-the-future-of-learning/?amp"
+    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/special-reports/2021-11-12-the-future-of-learning/?amp"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
+      name: mg.co.za
+      domain: mg.co.za
+    quality: 44
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
-        width: 690
-        height: 400
+      - url: "https://media.mg.co.za/wp-media/2021/11/a71fefc0-rogers1.jpg"
+        width: 1019
+        height: 637
         isCached: true
-  - title: "What steps are developers taking to incorporate machine learning into mapping schools?"
-    excerpt: "In 2019, the International Telecommunication Union (ITU) and UNICEF launched Project Connect, which aims to connect every school infrastructure to the internet by 2030. The primary goal of this project is to provide students with an infinite amount of information and opportunities."
-    publishedDateTime: 2021-11-12T07:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-steps-developers-taking-incorporate-machine-aman-kumar-singh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 31
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEAVp92Y7Xl4g/article-cover_image-shrink_720_1280/0/1636703049490?e=1642032000&v=beta&t=8mMb9HerTFwUNL-7G6wz1BzjV_NW9JhmhjKerWTk5b4"
-        width: 720
-        height: 720
-        isCached: true
-  - title: "Artificial Intelligence for Accounting Market To Make Huge Impact In Near Future Basic Influencing Factors Driving The Industry 2021–2027"
-    excerpt: "Combining AI with other technologies such as robotic process automation can allow accountants to redirect the time that they used to spend on mundane tasks toward performing high value high impact tasks Adding AI to accounting operations can also increase"
-    publishedDateTime: 2021-11-12T09:58:00Z
-    webUrl: "https://www.openpr.com/news/2460279/artificial-intelligence-for-accounting-market-to-make-huge"
-    ampWebUrl: "https://www.openpr.com/amp/2460279/artificial-intelligence-for-accounting-market-to-make-huge"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460279/artificial-intelligence-for-accounting-market-to-make-huge"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "309dsLZGzkSvby1DSkktnZeBknim7EKbjUIyhYS5QJFC+NjurwnxmQWlydIoDOm1EyKFVNJiJIRF+c0IXkIva6QQWYJ8dY9L3O+yAPYb0niiM+JDw9nOsMJUv2xeerE2lJijt1lOWQgOeHkHC7Ey5n026mSOTk1zQg9E5RSYEsKf1Yw7SpEIRS3KNzXaWIwRfJDgpMDC7Ad0kR8w+B0n0oEHTDyqhodGnDFy3cvWIHWrbO4XgfyP3yewXHrnC0Ft6j0Jc7Pm6/xYi6P24grJPyNc8TcDaRseQRY2JIsMrkm9Si9mpIvRFzAamB1GuF17oOJf+cXAEfYb4Vjfe0cHynsWzxXh3YyXt9l4zRtsw8l7Ft92hdYHx9WhPJKhtOmWED09m9UMKDavdA/J3XB5zP1qYPWVbtHrHDoauovc7YDl1ZzliLTh0OScqgx0yrW7q67/a3tceGS/iJhJyAkibvzROnOgmy+9utJyfnBs2YfuVkU0Y0uvGf25DKpoCzr96wt6LTGj4BlkImE2KKOX0w==;oPMykRBHhXpS9lEaTj2MjQ=="
 ---

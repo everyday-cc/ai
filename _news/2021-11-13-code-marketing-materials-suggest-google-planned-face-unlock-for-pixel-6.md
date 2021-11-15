@@ -42,22 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "It Looks Like the Pixel 6 Could Get a Face Unlock Feature After All"
-    excerpt: "In recent days there has been an uptick in Pixel 6 users on Twitter begging Google to bring back the face unlock feature it offered on previous Pixels. The company left out the ability in its latest flagship in favor of an i n-screen fingerprint sensor."
-    publishedDateTime: 2021-11-10T23:30:00Z
-    webUrl: "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794"
-    ampWebUrl: "https://gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/it-looks-like-the-pixel-6-could-get-a-face-unlock-featu-1848032794/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 74
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0432b222a9e429d8ea7f0fc88bd53a11.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "gDEc2cRRDzwMiqxDCsWqgHn4W4MWX21SLT89nqWCOh1hgnAf36Eh+H+3zZmy/PLRB70q8m+mqeqIuYdppaSuO5J81BoDaWXVc9pfHWu+7CIta9qp+QfvdUm+An5sSaYiTuIfLGCeprrObYqiIdKxp8lnWEcpOKsnIbC3JVGWcri18TCycW7zQv3EGrVG/vS/WVHc6cICxqoN0BTizEey1nLGq22AU0EIgNkxZBzSFf8VppVWypGcMTdY5ASkSbsFr4oFLgDPZW+DdGPpjMDOgsOfXyn33fXraHNQ0YdlR6F6rTLnjCbChTDQsyjfENoeHW2fJjYADmhbjoSRslm2gE7lo24j3BdfLSCyFi0H7vM=;GaFP/29Zj6cf6eAJXQjYoA=="
 ---

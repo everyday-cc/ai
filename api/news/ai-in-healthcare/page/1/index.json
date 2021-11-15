@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-16-datarobot-launches-ai-cloud-for-industries-including-banking-and-healthcare.md",
+      "title": "DataRobot launches AI Cloud for industries including banking and healthcare",
+      "excerpt": "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
+      "publishedDateTime": "2021-11-15T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-exploring-the-impact-of-machine-learning-and-artificial-intelligence-in-drug-development-from-discovery-to-healthcare.md",
+      "title": "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare",
+      "excerpt": "SMi Group reports the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the opportunities of machine learning and AI in drug development SMi Group is delighted to announce",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "originalUrl": "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub12584002_g.jpg",
+          "width": 650,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "publishedDateTime": "2021-11-12T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-13-when-doctors-become-too-reliant-on-artificial-intelligence.md",
       "title": "When Doctors Become Too Reliant on Artificial Intelligence",
       "excerpt": "Human error can confound algorithms.",
@@ -1276,93 +1372,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-accelerating-healthcare-ai-innovation-with-zero-trust-technology.md",
-      "title": "Accelerating healthcare AI innovation with Zero Trust technology",
-      "excerpt": "From research to diagnosis to treatment, AI has the potential to improve outcomes for some treatments by 30 to 40 percent and reduce costs by up to 50 percent. Obtaining the large data sets necessary for generalizability, transparency, and reducing bias has historically been difficult and time-consuming.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/",
-      "originalUrl": "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f91858d1-a3a3-4e76-8543-32fa605f702f.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T01:00:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-false-hope-of-current-approaches-to-explainable-artificial-intelligence-in-health-care.md",
-      "title": "The false hope of current approaches to explainable artificial intelligence in health care",
-      "excerpt": "The black-box nature of current artificial intelligence (AI) has caused some to question whether AI must be explainable to be used in high-stakes scenarios such as medicine. It has been argued that explainable AI will engender trust with the health-care workforce,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext",
-      "originalUrl": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lancet",
-        "domain": "thelancet.com",
         "images": null,
         "publishers": null,
         "authors": null

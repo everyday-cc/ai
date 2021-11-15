@@ -47,6 +47,20 @@ related:
         width: 678
         height: 357
         isCached: true
+  - title: "AI Writer Startup Gets $21 Million in Series A Funding"
+    excerpt: "Writer, an AI framework capable of generating written content for marketing teams, announced today that it has secured $21 million in series A funding, in a package led by venture capital company Insight Partners."
+    publishedDateTime: 2021-11-15T15:58:00Z
+    webUrl: "https://www.unite.ai/ai-writer-startup-gets-21-million-in-series-a-funding/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-0ZTZoS4F/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/ai-writer.jpg"
+        width: 818
+        height: 514
+        isCached: true
   - title: "Zesty Raises $35 Million Series A to Simplify Cloud Management with AI-Driven Automation"
     excerpt: "Zesty, a provider of AI-driven cloud management technologies for real-time optimization, today announced a $35 million Series A funding round led by Next47. Joining the round as new investors are Sapphire Ventures and Samsung Next,"
     publishedDateTime: 2021-11-15T14:13:00Z

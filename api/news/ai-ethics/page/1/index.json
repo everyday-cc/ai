@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-15-many-businesses-cant-hire-the-ai-talent-they-need.md",
+      "title": "Many businesses can't hire the AI talent they need",
+      "excerpt": "The company argues that considerations around AI ethics are at odds with productivity, which could have a knock-on effect on the AI talent search. Most respondents (90 percent) said having ethical standards in how they develop and use emerging technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/news/many-businesses-cant-hire-the-ai-developers-they-need/",
+      "originalUrl": "https://www.itproportal.com/news/many-businesses-cant-hire-the-ai-developers-they-need/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XTapa4qEh8FgPge3PDzxAa-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/news/many-businesses-cant-hire-the-ai-developers-they-need/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/many-businesses-cant-hire-the-ai-developers-they-need/",
+      "publishedDateTime": "2021-11-15T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-13-trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition.md",
       "title": "Trust in biometrics sought with AI Act, government programs and ethical facial recognition",
       "excerpt": "Biometrics adoption is being encouraged in the public sector for digital ID and online government applications as it continues to rise in the private sector.",
@@ -1353,58 +1396,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale.md",
-      "title": "Salesforce’s Kathy Baxter and Amazon’s Nashlie Sephus talk keeping AI ethical at Enterprise scale",
-      "excerpt": "AI and big data are an important part of most enterprise-scale companies now, but that very scale can make it difficult to employ them safely and ethically. Kathy Baxter at Salesforce and Nashlie Sephus at AWS have made ethical AI and data collection their business over the last few years,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/",
-      "originalUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/kathy_Amazon_post.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/amp/",
-      "publishedDateTime": "2021-10-26T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

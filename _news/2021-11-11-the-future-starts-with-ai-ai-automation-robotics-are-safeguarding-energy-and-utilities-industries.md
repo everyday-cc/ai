@@ -7,7 +7,7 @@ originalUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automa
 webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,54 @@ images:
     width: 720
     height: 412
     isCached: true
+
+related:
+  - title: "DataRobot launches AI Cloud for industries including banking and healthcare"
+    excerpt: "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises."
+    publishedDateTime: 2021-11-15T16:40:00Z
+    webUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/"
+    ampWebUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "DataRobot Launches Comprehensive Industry-Specific AI Solution"
+    excerpt: "DataRobot is rolling out a banking-specific tool as part of its new comprehensive solution that delivers industry-tailored AI capabilities to multiple sectors."
+    publishedDateTime: 2021-11-15T14:01:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/DataRobot-artificial-intelligence-banking-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform"
+    excerpt: "BigBear.ai, a leading provider of artificial intelligence, machine learning, big data analytics, and cyber solutions, and Palantir Technologies Inc. , a software company that builds enterprise data platforms for use by organizations with complex"
+    publishedDateTime: 2021-11-15T12:12:00Z
+    webUrl: "https://www.lelezard.com/en/news-20102911.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "2o2KH/2T8l3ISN5J2+brhwo9Vrm/YgEBJvy5jRqLrdaoNIHa+hwg6d3saD+RguZ86iOFS65RM0qE4/XPWcbLrOv9k2s6TrC3qArP0PxWsgD2gM8eDVrUDraoCaJmBkQQsWdT3GgOssw/PDlL0uw9vLdqgefQ5fhnJii+xdEbDLSFdaVrT9/Sj6yT7HlKNLvIUZU1YaPnVE+0RNZeGMb0MP4YKgw8K4Un7f+4UD8p6ENLSmgOk4p5DajqpTX1HS5dYiYJRDnioNMKokuStmtJPpjehtqZqYFi4BGTN9+SFONlHhGJJtkk1va4hmGaF42khVR33XvbO4y8dgx35W+sdHEGnq0jhjkS0SK7EYmjad7dq4niuuebkwt7iO4nJhP1ribLWF8NebehI66mOL6JBtwj0W98gkgY/KB4FHMPcCe+tFkf1rDPVy0PwrxR0kIbiMdyTPsotXEiQ2Ov4WY+o5RFRnTy+uKCMZxvFGP1v/UXIAsmlQcw9JjhmU2d59245GQ8CsShiKD9qdw9F9utWw==;3Sy9HASnQSsJi2fAMbogoA=="
 ---

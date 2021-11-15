@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acce
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/amp/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     height: 599
     isCached: true
 
-secured: "Xd4rJiIB9OHwlcytcikO994jt9qiGZuZiEjctvwXZtgvJRpUWsidqk6m/LDl4idFBeQ07ScZmkvFjtZLb4jb3L9yVCVjuoa58jkUZQk7B49eyadlH29nUUkxUHDUsgy47977OSzJM9UyUC76kElZkdl590BCSAdMQTqoY6aVtXHvlzWcenEMSVvjzcTGNyeBHGGcx9xUWkJb3949YACHZrMjQJuluNqI9352ve/5MmiG8NCOKghMhHRlzKX0kSRPLHnGoO15BLLy6C7m+ist25FiVL+KOUGD2DynYV7jdEGDkC9TP9WKBAUSGPyJo81BWPLqgyC94TCPZCbLDcWMgO/9WbggAQ/mK6r6Hv5QAZc=;NYi+j7YiAV5GhonMy/weLg=="
+related:
+  - title: "DDN Launches Next Generation of High Performance NVMe and Hybrid Storage for AI and Advanced Computing Acceleration"
+    excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced the availability of its next generation of NVMe platforms, the SFA® 400NVX2 and 200NVX2."
+    publishedDateTime: 2021-11-15T16:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ddn-launches-next-generation-of-high-performance-nvme-and-hybrid-storage-for-ai-and-advanced-computing-acceleration-1030977122"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
+        width: 283
+        height: 400
+        isCached: true
+
+secured: "qgLMqvpF7b2SLtqP9iuVOy0EZJBZIw1xHB7Y0ly3U3q+vN5qpLLKlfCC8EZijN/Fa+hCE5azXMc8PZxgNb+LPrIjTllSH1nhR9ebzi3ZOtv7FROADu4Dxuareen/ppUB6l7MdRtSA0BOA3/uWYN0WRs2Rf65HF4V3WUSfNlXNlZ2uMLDH0xaAcNHiRxP/y4W+mFBFeBa9MAEkNcCrDXwi+/LqgAm5NqSuW08mXbDUv7Bxk2kW1z/sIHgze6jQZYvbxZrSLLp7yhYm1dzfpFji40/4HmibA/RTdKD+g2BCB8cvbyla48IrpAU4XnMlSe6Kb7LELFXMhuzvD45NEmpAbY9rhIxDxVyJXwHV1m2v94J8n93Z61xNGyOLnwrBMai7NtTRNao1kGf0zNE7nqLYP5R5zOBw5YFcXfPYghDqytW2u1fYJIm6VlQpwllc1D4q9H3tKWhiuVG8+aXqUEz9vt4GHBBt3QwmtKl+IDAov1pBFJrlIEba6BeALHeoquttLW8iSd0DjuH+t/foktlGw==;P1EEqT+Y8+BNZPG4OhSgKQ=="
 ---
 

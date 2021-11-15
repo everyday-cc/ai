@@ -2,6 +2,109 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-08-landing-ai-brings-in-57m-for-its-machine-learning-operations-tools.md",
+      "title": "Landing AI brings in $57M for its machine learning operations tools",
+      "excerpt": "CEO Andrew Ng says industries should adopt a data-centric approach to building AI, which provides a more efficient way for manufacturers to teach an AI model what to do.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/",
+      "originalUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/image001.jpeg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/",
+      "publishedDateTime": "2021-11-08T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-how-ai-can-help-drive-your-employee-experience-strategy.md",
+      "title": "How AI Can Help Drive Your Employee Experience Strategy",
+      "excerpt": "As an integral part of all digital transformation programs, AI is poised to become the game-changer for creating a work environment that will drive better employee satisfaction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61852e94fbfc26f2721fd30c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2868%26cropY1%3D623%26cropY2%3D2237",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/amp/",
+      "publishedDateTime": "2021-11-08T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-commonwealth-bank-of-australia-announces-artificial-intelligence-partnership.md",
       "title": "Commonwealth Bank of Australia announces Artificial Intelligence partnership",
       "excerpt": "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track",
@@ -1092,101 +1195,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars.md",
-      "title": "Colorado Bear Busts In And Finally Sort Of Busts Out Of A Car, Providing Bearish Lessons For AI Self-Driving Cars",
-      "excerpt": "Bears are smart enough to try and find food inside of cars, which brings up considerations for AI ... [+] self-driving cars. Get ready for a bit of a surprise. Imagine that you’ve driven up to the mountains to enjoy some fresh air and are relishing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613e7aa68eb80aa61d6a1636%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3403%26cropY1%3D24%26cropY2%3D2555",
-          "width": 1200,
-          "height": 893,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-11-07T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs.md",
-      "title": "Alphabet Chases Wonder Drugs With DeepMind AI Spinoff Isomorphic Labs",
-      "excerpt": "After DeepMind's breakthrough in protein folding last year, Alphabet will double down on artificial intelligence in biology and health with its new venture.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/",
-      "originalUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/11/pills-rows-yellow-background-1-1.jpeg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/",
-      "publishedDateTime": "2021-11-07T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

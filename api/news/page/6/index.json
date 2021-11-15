@@ -2,6 +2,108 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-09-four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience.md",
+      "title": "Four Use Cases For AI Voicebots That Help Improve The Retail Customer Experience",
+      "excerpt": "Let’s take a look at four voice automation use cases that can drive human-centric customer experiences and higher ROI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189318020bdaaea69582562%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/amp/",
+      "publishedDateTime": "2021-11-09T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-synthesis-ai-offers-api-for-virtual-humans.md",
+      "title": "Synthesis AI offers API for virtual humans",
+      "excerpt": "Join gaming leaders online at GamesBeat Summit Next this upcoming November 9-10. Learn more about what comes next.  Synthesis AI, a synthetic data company, has released HumanAPI, a new tool for generating virtual humans from synthetic data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Synthesis-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/synthetic-data-api-for-virtual-humans/amp/",
+      "publishedDateTime": "2021-11-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting.md",
       "title": "MediaMath and IBM Watson Advertising Strengthen Relationship to Deliver Transparent, Addressable Weather-Based Ad Targeting",
       "excerpt": "an IBM Business, Watson Advertising Weather Targeting marries weather's ability to help drive action with Watson AI's capability to aggregate and analyze complex data sets. This unique combination ...",
@@ -1118,92 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-what-analysing-language-tells-us-about-inflation.md",
-      "title": "What analysing language tells us about inflation",
-      "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
-      "sourceUrl": null,
-      "webUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
-      "originalUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.schroders.com/de/sysglobalassets/digital/insights/2021/hero-images/announcement.jpg",
-          "width": 945,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Schroders",
-        "domain": "schroders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-soekarno-hatta-airport-readies-facial-recognition-system.md",
-      "title": "Soekarno-Hatta Airport readies facial recognition system",
-      "excerpt": "State-owned airport operator PT Angkasa Pura (AP) II (Persero) is creating a facial recognition system with biometric technology for aircraft passengers to process departures at Soekarno-Hatta Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://en.antaranews.com/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
-      "originalUrl": "https://en.antaranews.com/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.antaranews.com/cache/800x533/2021/11/08/IMG-20211108-WA0006_3.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.antaranews.com/amp/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
-      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
-      "publishedDateTime": "2021-11-08T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Antara News",
-        "domain": "antaranews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

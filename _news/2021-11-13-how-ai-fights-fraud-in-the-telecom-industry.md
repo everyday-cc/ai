@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-fights-fraud-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/03/AdobeStock_135990387.jpg"
         width: 1200
         height: 809
+        isCached: true
+  - title: "Artificial intelligence and process automation in the fresh produce industry"
+    excerpt: "In a webinar hosted by Keelings Knowledge, Julia Baumanns, Technical Delivery Manager at Microsoft, and Tobias Fausch, CIO at BayWa, talked about future technologies in the fresh"
+    publishedDateTime: 2021-11-15T14:59:00Z
+    webUrl: "https://www.freshplaza.com/article/9373467/artificial-intelligence-and-process-automation-in-the-fresh-produce-industry/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 34
+    images:
+      - url: "https://agfstorage.blob.core.windows.net/misc/FP_de/2021/11/12/_MAR4068_1_.jpg"
+        width: 600
+        height: 399
         isCached: true
 
 secured: "su74f/wfX7UdecOTHXqaL/FLD+5KajoFyqrE5MJU2r3Y028gu/IAtrf4qu1N0rcaTfYVtxDbO6Bh4ph/NVaiQLQNDQ7gWOGCrHacOpKD6gO0QozkMA0nc4Djn+mNMXgRNc28qSPbrCjficU7smXakhDyJGOn6YuuABNjwgx+HqRL2mp7NaIUpR6nitV0/1LPCuaF4G2C4ks4ImHSrsIK77XB1lbZYzUSlHUjnupbgXOGNxYjXxAfFNzUXf/J/DovcaHzekwmB7a8RqsSglKmftLHKtxvMDNpy2p7LbxpkVJEnNILeqC65OP9mlV+x+ooYtXWlXAdf9g5Ei57+O2v9pzyyrXInV8ExhOk9en/Fy0kS3n46XHlZs+FHkjQ4imh6P4DNtGUarQ/OnFsJAwpBeGZTcNz5t3MCRkXXupAGCFxbFr0eK++fUPgcPm3thKJRek27sgTgn0gO/HS1rXAzPc3bb8ghsfn5CHPPSp38sQ7YzsntNFtG/nZPVGoXlNaXTLGPTUwmOqgGtH6Mi2CkA==;7FDp77iIhfV7k+QH9zaFpg=="

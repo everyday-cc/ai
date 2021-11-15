@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-15-datarobot-launches-comprehensive-industry-specific-ai-solution.md",
-      "title": "DataRobot Launches Comprehensive Industry-Specific AI Solution",
-      "excerpt": "DataRobot is rolling out a banking-specific tool as part of its new comprehensive solution that delivers industry-tailored AI capabilities to multiple sectors.",
+      "path": "_news/2021-11-16-datarobot-launches-ai-cloud-for-industries-including-banking-and-healthcare.md",
+      "title": "DataRobot launches AI Cloud for industries including banking and healthcare",
+      "excerpt": "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises.",
       "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/",
+      "webUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 132,
       "tags": null,
       "images": [
         {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/DataRobot-artificial-intelligence-banking-457x274.jpg",
-          "width": 457,
-          "height": 274,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,169 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/amp/",
-      "publishedDateTime": "2021-11-15T06:01:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
+      "publishedDateTime": "2021-11-15T08:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-how-machine-learning-is-skewing-the-odds-in-online-gambling.md",
+      "title": "How machine learning is skewing the odds in online gambling",
+      "excerpt": "Commentary: The house always wins in gambling, and the house is getting even tougher through machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "publishedDateTime": "2021-11-15T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-openai-rival-cohere-launches-language-model-api.md",
+      "title": "OpenAI rival Cohere launches language model API",
+      "excerpt": "Cohere, a startup creating large language models to rival those from OpenAI and AI2Labs, today announced the general availability of its commercial platform for app and service development. Through an API,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/amp/",
+      "publishedDateTime": "2021-11-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-many-businesses-cant-hire-the-ai-talent-they-need.md",
+      "title": "Many businesses can't hire the AI talent they need",
+      "excerpt": "The company argues that considerations around AI ethics are at odds with productivity, which could have a knock-on effect on the AI talent search. Most respondents (90 percent) said having ethical standards in how they develop and use emerging technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/news/many-businesses-cant-hire-the-ai-developers-they-need/",
+      "originalUrl": "https://www.itproportal.com/news/many-businesses-cant-hire-the-ai-developers-they-need/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XTapa4qEh8FgPge3PDzxAa-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/news/many-businesses-cant-hire-the-ai-developers-they-need/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/many-businesses-cant-hire-the-ai-developers-they-need/",
+      "publishedDateTime": "2021-11-15T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +196,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Ethics",
         "AI"
       ]
     },
@@ -104,7 +260,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -638,7 +794,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1068,161 +1224,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-13-is-scotland-a-major-contender-in-the-ai-space.md",
-      "title": "Is Scotland A Major Contender In The AI Space?",
-      "excerpt": "Governments and countries are taking advantage of the tremendous transformation presented by AI to position themselves for global competitiveness. Scotland is one such country doing this. Are they now becoming a major contender in the AI space?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618fd05810b6172dc4166969%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2209%26cropY1%3D27%26cropY2%3D1270",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/amp/",
-      "publishedDateTime": "2021-11-13T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-13-robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem.md",
-      "title": "Robots vs. Fatbergs: High-Tech Approaches to America’s Sewer Problem",
-      "excerpt": "Cash-strapped U.S. cities are turning to drones, artificial intelligence and other innovations to help inspect and fix the country’s aging, underground arteries of waste",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "originalUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-434095/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "publishedDateTime": "2021-11-12T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-13-ai-tool-offers-cure-for-scattered-medical-data.md",
-      "title": "AI tool offers cure for scattered medical data",
-      "excerpt": "Aggregating medical data for patients and analyzing it using AI algorithms can yield useful insights for hospitals and health care systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/",
-      "originalUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1286541345-e1636479956952.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/amp/",
-      "publishedDateTime": "2021-11-12T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

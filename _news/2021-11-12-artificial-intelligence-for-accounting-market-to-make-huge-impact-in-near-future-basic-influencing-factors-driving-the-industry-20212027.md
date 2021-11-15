@@ -20,63 +20,35 @@ topics:
   - AI
 
 related:
-  - title: "How Deep Learning Turns Contextual Targeting Into a Cutting-Edge Tool"
-    excerpt: "RTB House, a market leader in deep learning-powered marketing technologies, are proud to announce the release of its globally available industry-leading Context AI solution. The solution will play a key role in helping advertisers navigate the cookieless landscape."
-    publishedDateTime: 2021-11-12T11:53:00Z
-    webUrl: "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp"
+  - title: "Space Robots Market Showing Immnese Growth due to the Dynamic Innovation in Technology and Latest Research Study"
+    excerpt: "Space Robots are capable of withstanding extreme space conditions and are particularly capable of performing activities such as assembling maintaining and repairing space satellites Furthermore emerging technologies such as deep learning DL and artificial intelligence AI are extensively being used"
+    publishedDateTime: 2021-11-15T11:15:00Z
+    webUrl: "https://www.openpr.com/news/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
+    ampWebUrl: "https://www.openpr.com/amp/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
     type: article
     provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 59
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
     images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2021/11/Context-AI-2.0-LinedIn-Post-2021_10-1200x628px-02-1.jpg"
-        width: 900
-        height: 471
+      - url: "https://cdn.openpr.com/U/b/Ub15665424_g.jpg"
+        width: 800
+        height: 420
         isCached: true
-  - title: "TinyML: Bringing Machine Learning to the Edge"
-    excerpt: "TinyML is bringing machine learning to the edge using devices with tiny, low-power microcontrollers. Here's how."
-    publishedDateTime: 2021-11-12T18:47:00Z
-    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/tinyml-edge/"
+  - title: "MMA WARC Report Reveals Research on the Trends and Future of Mobile Marketing and Technology in the MENA"
+    excerpt: "says Warrick Billingham, Head of Revenue EMEA & LATAM at AdColony, who also chairs the MMA research committee ... affecting the marketing industry. AI, machine learning, mobile wallet and ..."
+    publishedDateTime: 2021-11-11T11:41:00Z
+    webUrl: "https://menafn.com/1103149276/MMA-WARC-Report-Reveals-Research-on-the-Trends-and-Future-of-Mobile-Marketing-and-Technology-in-the-MENA"
     type: article
     provider:
-      name: Enterprise Networking Planet
-      domain: enterprisenetworkingplanet.com
-    quality: 56
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/11/TinyML_Bringing-Machine-Learning-to-the-Edge.png"
-        width: 900
-        height: 565
-        isCached: true
-  - title: "Using Machine Learning To Make Better Medical Decisions"
-    excerpt: "While artificial intelligence has become essential in advancing medical research, scientists have yet to work out all the technology’s flaws. A University of Texas at Arlington computer scientist has received a three-year,"
-    publishedDateTime: 2021-11-12T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-make-better-medical-decisions"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "What steps are developers taking to incorporate machine learning into mapping schools?"
-    excerpt: "In 2019, the International Telecommunication Union (ITU) and UNICEF launched Project Connect, which aims to connect every school infrastructure to the internet by 2030. The primary goal of this project is to provide students with an infinite amount of information and opportunities."
-    publishedDateTime: 2021-11-12T07:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-steps-developers-taking-incorporate-machine-aman-kumar-singh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 31
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEAVp92Y7Xl4g/article-cover_image-shrink_720_1280/0/1636703049490?e=1642032000&v=beta&t=8mMb9HerTFwUNL-7G6wz1BzjV_NW9JhmhjKerWTk5b4"
-        width: 720
-        height: 720
+      - url: "https://menafn.com/updates/pr/2021-11/11/pr_12676_c54740d1_image_story.jpg"
+        width: 533
+        height: 368
         isCached: true
 
 secured: "Tz0/in7mRhV0V/1bg2QvDg0k503ipc7JvvVdeElgFDmL1o6apwpjhvejKPG0lT2xNXQKfRLOMGE7bii+LHBJcdYY1+H1RDVdyDx8g6g3tK9WC/U/F+GSWv5RtCFIpj5woxDNLpG4GKHlLoXiFJ9cLw8gAlTvvAygmHzKMN9l4Ad7eWnZLa4+nqS7t9CJVOAnU0nDo3pMw+BcZ1gw71NAbGrqZMawhASF+MkcDxslVP2Q6TtXIeXF9Pc3DSgzLbJJDjMDluFjy8ha+oMv7D9SFNOmrTNnSQ9NJD79F93z2SJej1CcTkbX+vfAzp65D8Sf7jyfx2kepd3uPfZ01lfx4XI3JviH+cZeqMromL1ljPU=;88CVejv02eaErZHzKqwedQ=="
