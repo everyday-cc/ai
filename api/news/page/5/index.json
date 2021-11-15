@@ -2,6 +2,91 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-09-nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how.md",
+      "title": "Nvidia and Lockheed Martin plan to fight forest fires with AI. Here's how",
+      "excerpt": "The companies have teamed up with state and federal firefighting services and are creating a dedicated lab to predict the path of fires to help stop them in their tracks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "originalUrl": "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/G6G2x6gQsRtkGqciyOhYYdHfo7I=/1200x630/2021/11/09/7a97c262-f936-4251-9ddf-195eb78471f4/gettyimages-1234819592.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "publishedDateTime": "2021-11-09T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-mediamath-ibm-watson-advertising-strengthen-relationship.md",
+      "title": "MediaMath, IBM Watson Advertising strengthen relationship",
+      "excerpt": "MediaMath, the independent advertising technology company for leading brands and agencies, has integrated its demand side platform (DSP) with IBM Watson Adverti",
+      "sourceUrl": null,
+      "webUrl": "https://advanced-television.com/2021/11/09/mediamath-ibm-watson-advertising-strengthen-relationship/",
+      "originalUrl": "https://advanced-television.com/2021/11/09/mediamath-ibm-watson-advertising-strengthen-relationship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Advanced Television",
+        "domain": "advanced-television.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-youcom-wants-to-remake-the-search-engine.md",
       "title": "You.com wants to remake the search engine",
       "excerpt": "The service abandons the linear list of links you’ll find in most general-purpose search engines, opting for a grid of answers organized by source. The sources include generic categories like “web results” and “news” but also specific sites like StackOverflow,",
@@ -1117,100 +1202,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-daniel-eks-fund-puts-100m-into-defence-startup-helsingai-to-support-democracies.md",
-      "title": "Daniel Ek’s fund puts €100M into defence startup Helsing.ai, to support democracies",
-      "excerpt": "Spotify co-founder Daniel Ek pledged 1 billion euros ($1.2 billion) of his personal fortune towards funding deeptech “moonshot projects”, spread across the next 10 years. In particular, he was most interested in boosting European tech and European entrepreneurs as he said",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
-      "originalUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/03/daniel-ek.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
-      "publishedDateTime": "2021-11-09T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-what-analysing-language-tells-us-about-inflation.md",
-      "title": "What analysing language tells us about inflation",
-      "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
-      "sourceUrl": null,
-      "webUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
-      "originalUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.schroders.com/de/sysglobalassets/digital/insights/2021/hero-images/announcement.jpg",
-          "width": 945,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Schroders",
-        "domain": "schroders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

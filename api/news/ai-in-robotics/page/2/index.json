@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-05-these-robots-follow-you-to-learn-where-to-go.md",
+      "title": "These Robots Follow You to Learn Where to Go",
+      "excerpt": "Burro makes carts that help growers of trees and vineyards with harvests. Meanwhile, the maker of Vespa scooters wants to carry your groceries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robots-follow-learn-where-go/",
+      "originalUrl": "https://www.wired.com/story/robots-follow-learn-where-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/618478dbcaac12bc9a169051/master/pass/Business-Piaggio-Fast-Forward-Robots.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robots-follow-learn-where-go/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-follow-learn-where-go/amp",
+      "publishedDateTime": "2021-11-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-new-machine-learning-system-gives-robots-social-skills.md",
       "title": "New Machine-Learning System Gives Robots Social Skills",
       "excerpt": "A new machine-learning system helps robots understand and perform certain social interactions. Robots can deliver food on a college campus and hit a hole-in-one on the golf course, but even the most s",
@@ -1343,40 +1395,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-abb-invests-in-building-technology-startup-brainbox-ai.md",
-      "title": "ABB Invests in Building Technology Startup BrainBox AI",
-      "excerpt": "ABB Technology Ventures leads BrainBox AI’s Series A investment round. Launched in 2019, BrainBox AI has pioneered the use of artificial intelligence to reduce energy costs and carbon emissions from Heating,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/",
-      "originalUrl": "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

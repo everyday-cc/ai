@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-15-ai-visionaries-to-gather-at-world-ai-show.md",
+      "title": "AI Visionaries to Gather at World AI Show",
+      "excerpt": "WorldAIShow to define, describe, and forecast the market AI landscape for 2022 and beyondAlongside experts in AI, the 30th global edition of World AI Show will virtually",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/a24082878/ai-visionaries-to-gather-at-world-ai-show",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/a24082878/ai-visionaries-to-gather-at-world-ai-show",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2021/11/12170157/tweet.png",
+          "width": 608,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24082878",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24082878",
+      "publishedDateTime": "2021-11-14T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-ai-tech-drives-transformation-of-f1-racing.md",
       "title": "AI tech drives transformation of F1 racing",
       "excerpt": "The next generation of AI in racing will play a prominent role in car setup and design decisions that yield the best results on track.",
@@ -114,7 +156,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -320,7 +362,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -813,6 +855,57 @@
       ]
     },
     {
+      "path": "_news/2021-11-13-how-ai-fights-fraud-in-the-telecom-industry.md",
+      "title": "How AI fights fraud in the telecom industry",
+      "excerpt": "Americans lost $29.8 billion in phone fraud over the past year. Can AI fraud detection change this? In 2021, over 59 million Americans said they lost money as a result of phone scams, with an average reported loss of $502.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/11/12/8fd559d3-583c-4749-a481-c64fd1c451b8/resize/1200x/cb959c0d1ff5d8f4c3b6e9f00d07ee11/shutterstock-1908709960.jpg",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "publishedDateTime": "2021-11-12T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera.md",
       "title": "AWS and NVIDIA launch “Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs” on Coursera",
       "excerpt": "AWS and NVIDIA are excited to announce the new&nbsp;Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs course. The course has four parts, and is designed to help machine learning (ML) enthusiasts quickly learn how to perform modern ML in the AWS Cloud. Sign up for the course today on&nbsp;Coursera.",
@@ -1165,101 +1258,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-an-artist-who-disavows-the-possibility-of-individual-agency.md",
-      "title": "An Artist Who Disavows the Possibility of Individual Agency",
-      "excerpt": "According to Agnieszka Kurant, everything we make — from the systems that oppress us to the inventions that transform us — is the result of a collective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html",
-      "originalUrl": "https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/12/t-magazine/12tmag-kurant-slide-FQ5H-copy/12tmag-kurant-slide-FQ5H-copy-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.amp.html",
-      "publishedDateTime": "2021-11-12T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-how-deep-learning-turns-contextual-targeting-into-a-cutting-edge-tool.md",
-      "title": "How Deep Learning Turns Contextual Targeting Into a Cutting-Edge Tool",
-      "excerpt": "RTB House, a market leader in deep learning-powered marketing technologies, are proud to announce the release of its globally available industry-leading Context AI solution. The solution will play a key role in helping advertisers navigate the cookieless landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/",
-      "originalUrl": "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.exchangewire.com/wp-content/uploads/2021/11/Context-AI-2.0-LinedIn-Post-2021_10-1200x628px-02-1.jpg",
-          "width": 900,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp",
-      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp",
-      "publishedDateTime": "2021-11-12T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "exchangewire.com",
-        "domain": "exchangewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

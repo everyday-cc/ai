@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-03-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
+      "title": "Robots hit the streets as demand for food delivery grows",
+      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "originalUrl": "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "publishedDateTime": "2021-11-03T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-an-ethics-bounty-system-could-help-clean-up-the-web.md",
+      "title": "An Ethics Bounty System Could Help Clean Up the Web",
+      "excerpt": "Looking at the bigger picture, there have been calls for greater regulation of the tech industry, which is deeply necessary, but legislation may take a long time to pass and be implemented and is generally insufficient to stop the unforeseen ethics failures endemic to technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
+      "originalUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6181c6376323e922448010f3/master/pass/An-Ethics-Bounty-System-Could-Help-Clean-Up-the-Web.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/big-tech-ethics-bug-bounty/amp",
+      "publishedDateTime": "2021-11-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-archiveai-aims-to-free-marketers-from-their-monotonous-workflows.md",
       "title": "Archive.ai aims to free marketers from their monotonous workflows",
       "excerpt": "Archive.ai founders believe the future of marketing will be a culture of “building with you” versus the “talking at you” approach they believe traditional digital marketing is doing now.",
@@ -1059,100 +1154,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-new-study-uses-artificial-intelligence-to-detect-colorectal-cancer.md",
-      "title": "New study uses artificial intelligence to detect colorectal cancer",
-      "excerpt": "A Tulane University researcher has found that artificial intelligence can accurately detect and diagnose colorectal cancer from tissue scans as well or better than pathologists, according to a new study in the journal Nature Communications.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/colorectalca.jpg",
-          "width": 850,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligence-colorectal-cancer.amp",
-      "publishedDateTime": "2021-11-02T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-why-teslas-full-self-driving-software-is-so-controversial.md",
-      "title": "Why Tesla's Full Self-Driving software is so controversial",
-      "excerpt": "Tesla's prototype Full Self-Driving software is going out to more and more drivers. But critics say it isn't ready for primetime.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tesla-fsd-beta-full-self-driving-autopilot-software-controversy-2021-11",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tesla-fsd-beta-full-self-driving-autopilot-software-controversy-2021-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images2.markets.businessinsider.com/60ef4a6661b8600019f17258?format=jpeg",
-          "width": 751,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

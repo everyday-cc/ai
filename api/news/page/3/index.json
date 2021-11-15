@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-11-how-fintech-companies-are-changing-the-idea-of-credit-in-india.md",
+      "title": "How Fintech Companies Are Changing the Idea Of Credit In India",
+      "excerpt": "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/396710",
+      "originalUrl": "https://www.entrepreneur.com/article/396710",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1636627414-towfiqu-barbhuiya-jpqyfK7GB4w-unsplash1.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T02:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-samsung-exynos-2200s-amd-gpu-exhibits-34-peak-performance-improvement-over-predecessor.md",
       "title": "Samsung Exynos 2200’s AMD GPU exhibits 34% peak performance improvement over predecessor",
       "excerpt": "A reliable leakster has shared that the AMD GPU on the Samsung Exynos 2200 exhibits 34% peak performance improvement over its predecessor.",
@@ -304,6 +356,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-11-ai-could-help-improve-the-management-of-mechanical-ventilation-therapy.md",
+      "title": "AI could help improve the management of mechanical ventilation therapy",
+      "excerpt": "Artificial intelligence could be used in future to help guide when to use mechanical ventilation and the likelihood of complications in ventilation of patients. This is according to the first systematic review of studies in this area,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20211110/AI-could-help-improve-the-management-of-mechanical-ventilation-therapy.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20211110/AI-could-help-improve-the-management-of-mechanical-ventilation-therapy.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20211110/AI-could-help-improve-the-management-of-mechanical-ventilation-therapy.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211110/AI-could-help-improve-the-management-of-mechanical-ventilation-therapy.aspx",
+      "publishedDateTime": "2021-11-10T17:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m.md",
       "title": "CoreWeave, a provider of cloud services for GPU-powered apps, gets $50M",
       "excerpt": "CoreWeave, a specialized cloud services provider for GPU-based workloads, also partnered with Nvidia to enable companies to scale infrastructure.",
@@ -352,6 +447,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027.md",
+      "title": "Global Artificial Intelligence (AI) Robots Market 2021 by Future Developments, Upcoming Trends, Growth Drivers and Challenges 2021 to 2027",
+      "excerpt": "MarketsandResearch.biz has added a new key research report entitled Global Artificial Intelligence (AI) Robots Market 2021-2027 that depicts the present state of the industry, covering the key fundamentals of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027-2021-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027-2021-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -468,7 +615,7 @@
       "originalUrl": "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -554,48 +701,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-11-eeoc-announces-new-initiative-on-artificial-intelligence-algorithmic-fairness.md",
-      "title": "EEOC Announces New Initiative On Artificial Intelligence & Algorithmic Fairness",
-      "excerpt": "Continuing its efforts towards becoming a 21st century data analytics agency, during the last week of October, 2021, U.S. Equal Employment Opportunity Commission (EEOC) Chair Charlotte A. Burrows",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness",
-      "originalUrl": "https://www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/eeoc-announces-new-initiative-artificial-intelligence-algorithmic-fairness?amp",
-      "publishedDateTime": "2021-11-10T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-11-unis-are-using-ai-to-keep-students-from-cheating-and-its-a-bit-creepy.md",
       "title": "Unis are using AI to keep students from cheating and it’s a bit creepy",
       "excerpt": "Some programs simply enable a person to supervise students remotely. More sophisticated, automated proctoring software hijacks the student’s computer to block and monitor suspicious activity. These programs often use artificial intelligence (AI) to scrutinise exam conduct.",
@@ -604,7 +709,7 @@
       "originalUrl": "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1120,111 +1225,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-google-project-relate-android-app-helps-those-with-speech-impairments.md",
-      "title": "Google Project Relate Android app helps those with speech impairments",
-      "excerpt": "There are several medical conditions and diseases that can impact a person’s ability to communicate with others through speech. Google is working to make its apps more accessible to people",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/",
-      "originalUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/11/google-project-relate.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/",
-      "publishedDateTime": "2021-11-10T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires.md",
-      "title": "Google and AWS harness the power of machine learning to predict floods and fires",
-      "excerpt": "Can machine learning from tech giants help the world respond better to environmental disasters like sudden floods and bushfires?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
-      "originalUrl": "https://www.zdnet.com/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/814987b3fe1a287d422e09be34ab00abb53c1e1a/2021/11/10/2e9f14c1-26b5-4bbc-b761-454cebd855d0/climate-change-flood.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
-      "publishedDateTime": "2021-11-10T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

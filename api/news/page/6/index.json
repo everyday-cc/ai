@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-09-daniel-eks-fund-puts-100m-into-defence-startup-helsingai-to-support-democracies.md",
+      "title": "Daniel Ek’s fund puts €100M into defence startup Helsing.ai, to support democracies",
+      "excerpt": "Spotify co-founder Daniel Ek pledged 1 billion euros ($1.2 billion) of his personal fortune towards funding deeptech “moonshot projects”, spread across the next 10 years. In particular, he was most interested in boosting European tech and European entrepreneurs as he said",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
+      "originalUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/03/daniel-ek.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/amp/",
+      "publishedDateTime": "2021-11-09T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-what-analysing-language-tells-us-about-inflation.md",
+      "title": "What analysing language tells us about inflation",
+      "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
+      "sourceUrl": null,
+      "webUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "originalUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.schroders.com/de/sysglobalassets/digital/insights/2021/hero-images/announcement.jpg",
+          "width": 945,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Schroders",
+        "domain": "schroders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-soekarno-hatta-airport-readies-facial-recognition-system.md",
       "title": "Soekarno-Hatta Airport readies facial recognition system",
       "excerpt": "State-owned airport operator PT Angkasa Pura (AP) II (Persero) is creating a facial recognition system with biometric technology for aircraft passengers to process departures at Soekarno-Hatta Airport.",
@@ -1078,100 +1172,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-how-ai-can-help-drive-your-employee-experience-strategy.md",
-      "title": "How AI Can Help Drive Your Employee Experience Strategy",
-      "excerpt": "As an integral part of all digital transformation programs, AI is poised to become the game-changer for creating a work environment that will drive better employee satisfaction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61852e94fbfc26f2721fd30c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2868%26cropY1%3D623%26cropY2%3D2237",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/amp/",
-      "publishedDateTime": "2021-11-08T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-commonwealth-bank-of-australia-announces-artificial-intelligence-partnership.md",
-      "title": "Commonwealth Bank of Australia announces Artificial Intelligence partnership",
-      "excerpt": "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstrack.in/uploads/latest-news/world-news/Nov/08/big_thumb/commonWealth_618918bf8cac0.jpg",
-          "width": 631,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
-      "publishedDateTime": "2021-11-08T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

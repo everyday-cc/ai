@@ -2,6 +2,94 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-04-deep-learning-ai-explained-neural-networks.md",
+      "title": "Deep Learning AI Explained: Neural Networks",
+      "excerpt": "Ballyhooed artificial-intelligence technique known as “deep learning” revives 70-year-old idea. In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognize",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
+      "originalUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Artificial-Intelligence-Neural-Network-Concept-777x583.jpg",
+          "width": 777,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/deep-learning-ai-explained-neural-networks/amp/",
+      "publishedDateTime": "2021-11-04T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-super-human-vision-technology-to-revolutionize-road-safety-in-autonomous-vehicles.md",
+      "title": "Super-human vision technology to revolutionize road safety in autonomous vehicles",
+      "excerpt": "Terranet AB (NASDAQ: TERRNT B) teams up with NEVS to explore innovative applications of its VoxelFlowTM technology to redefine urban road safety enabled by its unrivalled detection speed Lund, Sweden,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-road-safety-055650946f5176e87c4673bebfe1a27a",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-road-safety-055650946f5176e87c4673bebfe1a27a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-flippy-2-kitchen-robot-can-singlehandedly-work-a-fast-food-fry-station.md",
       "title": "Flippy 2 kitchen robot can singlehandedly work a fast food fry station",
       "excerpt": "Flippy the burger-flipping robot has received an upgrade as Miso Robotics rolls out its Flippy 2 model. Taking on board feedback from a pilot program with the White Castle hamburger chain that started in Chicago in September 2020,",
@@ -1149,101 +1237,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
-      "title": "Robots hit the streets as demand for food delivery grows",
-      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "originalUrl": "https://www.seattlepi.com/living/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/living/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "publishedDateTime": "2021-11-03T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seattlepi.com",
-        "domain": "seattlepi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-an-ethics-bounty-system-could-help-clean-up-the-web.md",
-      "title": "An Ethics Bounty System Could Help Clean Up the Web",
-      "excerpt": "Looking at the bigger picture, there have been calls for greater regulation of the tech industry, which is deeply necessary, but legislation may take a long time to pass and be implemented and is generally insufficient to stop the unforeseen ethics failures endemic to technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
-      "originalUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6181c6376323e922448010f3/master/pass/An-Ethics-Bounty-System-Could-Help-Clean-Up-the-Web.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/big-tech-ethics-bug-bounty/amp",
-      "publishedDateTime": "2021-11-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

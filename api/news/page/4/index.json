@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-10-google-project-relate-android-app-helps-those-with-speech-impairments.md",
+      "title": "Google Project Relate Android app helps those with speech impairments",
+      "excerpt": "There are several medical conditions and diseases that can impact a person’s ability to communicate with others through speech. Google is working to make its apps more accessible to people",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/",
+      "originalUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/11/google-project-relate.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/",
+      "publishedDateTime": "2021-11-10T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires.md",
+      "title": "Google and AWS harness the power of machine learning to predict floods and fires",
+      "excerpt": "Can machine learning from tech giants help the world respond better to environmental disasters like sudden floods and bushfires?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "originalUrl": "https://www.zdnet.com/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/814987b3fe1a287d422e09be34ab00abb53c1e1a/2021/11/10/2e9f14c1-26b5-4bbc-b761-454cebd855d0/climate-change-flood.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires/",
+      "publishedDateTime": "2021-11-10T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-new-ai-model-uses-nlp-to-analyze-african-languages.md",
       "title": "New AI Model Uses NLP To Analyze African Languages",
       "excerpt": "Researchers have developed an AI model to help computers work more efficiently with a wider variety of languages.",
@@ -1110,91 +1215,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how.md",
-      "title": "Nvidia and Lockheed Martin plan to fight forest fires with AI. Here's how",
-      "excerpt": "The companies have teamed up with state and federal firefighting services and are creating a dedicated lab to predict the path of fires to help stop them in their tracks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
-      "originalUrl": "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/G6G2x6gQsRtkGqciyOhYYdHfo7I=/1200x630/2021/11/09/7a97c262-f936-4251-9ddf-195eb78471f4/gettyimages-1234819592.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
-      "publishedDateTime": "2021-11-09T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-mediamath-ibm-watson-advertising-strengthen-relationship.md",
-      "title": "MediaMath, IBM Watson Advertising strengthen relationship",
-      "excerpt": "MediaMath, the independent advertising technology company for leading brands and agencies, has integrated its demand side platform (DSP) with IBM Watson Adverti",
-      "sourceUrl": null,
-      "webUrl": "https://advanced-television.com/2021/11/09/mediamath-ibm-watson-advertising-strengthen-relationship/",
-      "originalUrl": "https://advanced-television.com/2021/11/09/mediamath-ibm-watson-advertising-strengthen-relationship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Advanced Television",
-        "domain": "advanced-television.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

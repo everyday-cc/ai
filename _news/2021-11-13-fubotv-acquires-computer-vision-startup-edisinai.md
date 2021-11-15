@@ -35,22 +35,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Bengaluru-based sports tech startup Edisn.ai acquired by TV streaming service fuboTV"
-    excerpt: "This acquisition will help fuboTV bolster its technology capabilities, especially in terms of integrating interactivity to its live streaming platform"
-    publishedDateTime: 2021-11-10T10:11:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/bengaluru-based-sports-tech-startup-edisn-ai-acquired-by-tv-streaming-service-fubotv-7702331.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/bengaluru-based-sports-tech-startup-edisn-ai-acquired-by-tv-streaming-service-fubotv-7702331.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bengaluru-based-sports-tech-startup-edisn-ai-acquired-by-tv-streaming-service-fubotv-7702331.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 50
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/FuboTV-770x402.png?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
 
 secured: "CjJU1IGxyuhsXmEGs69B3MSZsQHnMPmbccrIg01DfExwqs2O0P8KtspZi/Kx/tuXFl0uKGxc+9/PcavBIoHASQPJzZ45+CK+7M3GRqLuIvakYYNZo0Es19SyuvAaZRYmeWZYPN9ZyG7/5yNwPMYrjwqrz4aClwNy37DjYGmS+V7V3FOJ/s8FnG+g71XFBc0gAkXQxWYRtM4kpEF1DWprin+FqWTzMWBy4SFTBMS3IczoOxJd+GT5o/uiq0OoQKzf9rWCsSrMi0W7g66fwybtg4UtoUCwGGsOLssina1Wos7D9tzWr2e5et6s4vN3FLyT45gNzC4YWZpOfreApGcuc8UJTMb23jEliyZLXIMucAUAwD4L17Y1/ySn5ZqsdVQjN1llWG0Vns9midULcBe/lA7Kg8O8TvmGPQiI1KddvpOEuQHjPdjnyVepAuPij8iHbvfofWwQDOjgPcj0GiMNec5RJZep/L9Zj3Wzf8ZzZ3kcTSYFTOi5us7Mtly3VY7427miEcRTBy9flkQxsEyh+Q==;APvUWOfdiJs8ZDOBLcd4bw=="
 ---

@@ -170,6 +170,34 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "Facebook’s ‘metaverse’ plans fuel debate on virtual world as shared digital spaces raise privacy, ownership questions. Rights campaigners urge regulators to widen safeguards."
+    publishedDateTime: 2021-11-15T02:10:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/15/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/14/1367789.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Pioneer - The world’s first Metaverse Robot has been born in China"
+    excerpt: "New York, NY // KISS PR Brand Story PressWire // The first ever Metaverse Robot System debuted at the TusPark of China in September of 2021 was jointly developed by Chuangze Intelligent Robot Group of China and Bristol Robotics Laboratory (BRL) of UK,"
+    publishedDateTime: 2021-11-14T20:49:00Z
+    webUrl: "https://apnews.com/press-release/kisspr/technology-lifestyle-china-robotics-906d4143a20d3870787cbb9a5ccfaa02"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The Glimpse Group and D-ID Partner to Bring Life to the Metaverse with AI, VR & AR"
     excerpt: "Harnessing AI-powered synthetic media with the visual power of Augmented & Virtual Reality to enhance viewing and interaction in the Metaverse NEW YORK, NY / ACCESSWIRE / November 10, 2021 / The Glimpse Group,"
     publishedDateTime: 2021-11-10T13:31:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/companies/us-based-fubotv-acqui
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/us-based-fubotv-acquires-bengaluru-start-up-edisnai/article37435495.ece/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Line
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bengaluru-based sports tech startup Edisn.ai acquired by TV streaming service fuboTV"
-    excerpt: "This acquisition will help fuboTV bolster its technology capabilities, especially in terms of integrating interactivity to its live streaming platform"
-    publishedDateTime: 2021-11-10T10:11:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/bengaluru-based-sports-tech-startup-edisn-ai-acquired-by-tv-streaming-service-fubotv-7702331.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/bengaluru-based-sports-tech-startup-edisn-ai-acquired-by-tv-streaming-service-fubotv-7702331.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bengaluru-based-sports-tech-startup-edisn-ai-acquired-by-tv-streaming-service-fubotv-7702331.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 50
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/FuboTV-770x402.png?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
   - title: "FuboTV acquires computer vision startup Edisin.ai"
     excerpt: "startup Edisn.ai to strengthen attempts to generate non-subscription revenues and deepen engagement with its viewers. The New York-based firm pitches itself as a “cable TV replacement service”, providing subscribers who want to ‘cut the cord’ with ..."
     publishedDateTime: 2021-11-12T17:14:00Z

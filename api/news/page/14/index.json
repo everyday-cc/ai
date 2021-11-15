@@ -2,6 +2,109 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-11-02-reducing-city-transport-emissions-with-maps-and-ai.md",
+      "title": "Reducing city transport emissions with Maps and AI",
+      "excerpt": "City transportation is crucial to connecting residents to education, employment and essential services. At the same time, the transportation sector is where global greenhouse gas (GHG) emissions are rising the quickest.In 2018, we launched the Environmental Insights Explorer (EIE) in collaboration with",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
+      "originalUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transportation_Blog.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 975,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
+      "publishedDateTime": "2021-11-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.md",
+      "title": "Fmr. Google CEO on how artificial intelligence will transform society",
+      "excerpt": "Former Google chairman and CEO Eric Schmidt joins 'Squawk Box' to discuss the future of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/11/02/fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/11/02/fmr-google-ceo-on-how-artificial-intelligence-will-transform-society.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106969296-16358633471635863344-19537158772-1080pnbcnews.jpg?v=1635863346",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-israeli-ai-mobility-company-autobrains-raises-101m-in-series-c-funding.md",
       "title": "Israeli AI Mobility Company Autobrains Raises $101M In Series C Funding",
       "excerpt": "Autobrains is disrupting advanced driver-assistance systems and the autonomous vehicle marketplace with its approach to AI for automation.",
@@ -1079,75 +1182,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-google-cloud-artificial-intelligence-ai-portfolio-review.md",
-      "title": "Google Cloud Artificial Intelligence (AI) Portfolio Review",
-      "excerpt": "These include artificial intelligence (AI) offerings that are increasingly ... Cloud Natural Language: Allows users to extract information from unstructured bodies of text. Media Translation (beta): Users can add real-time audio translations directly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/google-cloud-artificial-intelligence-ai-portfolio/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/google-cloud-artificial-intelligence-ai-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players.md",
-      "title": "Global Deep Learning in Computer Vision Market Trends Analysis and Future Projections with Top key Players",
-      "excerpt": "this market research report draws attention to key market dynamics of the sector. Deep learning in computer vision market will grow at a rate of 55.65% for the forecast period of 2020 to 2027. Data Bridge Market Research report deep learning in computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://chipdesignmag.com/global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players/",
-      "originalUrl": "https://chipdesignmag.com/global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chip Design",
-        "domain": "chipdesignmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

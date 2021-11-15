@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-07-first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai.md",
+      "title": "First Artificial Intelligence-based driver evaluation hub launched in Dubai",
+      "excerpt": "Dubai: An Artificial Intelligence-based driving hub is opening its doors in Dubai with an aim to cut accident risks and improve drivers’ skills. Starting November 15, a private driving institute in Dubai will make use of the Artificial Intelligence (AI)-based driver evaluation hub,",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
+      "originalUrl": "https://gulfnews.com/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/11/07/AI-based-driver-evaluation-1636293949003_17cfab8369f_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
+      "publishedDateTime": "2021-11-07T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-07-facial-recognition-on-smartphones-is-it-secure-and-should-you-use-it.md",
+      "title": "Facial recognition on smartphones: Is it secure and should you use it?",
+      "excerpt": "Facial recognition has become common on smartphones and laptops, but they're not all equally reliable or even secure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
+      "originalUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2018/10/huawei-mate-20-pro-review-aa-notch-3d-face-unlock-earpiece-11.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/face-unlock-smartphones-3043993/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/face-unlock-smartphones-3043993/",
+      "publishedDateTime": "2021-11-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-h2oai-raises-100m-at-a-16b-pre-money-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise.md",
       "title": "H2O.ai raises $100M at a $1.6B pre-money valuation for tools to make AI usable by any kind of enterprise",
       "excerpt": "H2O.ai — a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services — has seen a surge of interest as AI applications have become more ubiquitous,",
@@ -1086,101 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-who-is-the-robot-voice-in-finch-caleb-landry-jones-shines-as-a-bumbling-ai.md",
-      "title": "Who Is the Robot Voice in ‘Finch’? Caleb Landry Jones Shines As A Bumbling AI",
-      "excerpt": "I’m speaking of course, of the voice of the anthropomorphic robot who becomes Hanks’ son/best friend in the movie, Jeff. The premise of Finch is fairly straightforward. A series of radioactive solar flares have destroyed the ozone layer,",
-      "sourceUrl": null,
-      "webUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/",
-      "originalUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://decider.com/wp-content/uploads/2021/11/Finch-robot-voice.jpg?quality=90&strip=all&w=680&h=450",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/amp/",
-      "cdnAmpWebUrl": "https://decider-com.cdn.ampproject.org/c/s/decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/amp/",
-      "publishedDateTime": "2021-11-05T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Decider",
-        "domain": "decider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-alphabet-launches-ai-company-to-discover-new-drugs.md",
-      "title": "Alphabet launches AI company to discover new drugs",
-      "excerpt": "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind “to accelerate drug discovery,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/",
-      "originalUrl": "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/deepmind-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

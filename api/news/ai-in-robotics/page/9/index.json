@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-09-19-uaeu-turns-to-artificial-intelligence-and-robotics-as-part-of-the-fourth-industrial-revolution.md",
+      "title": "UAEU turns to Artificial Intelligence and Robotics as part of the Fourth Industrial Revolution",
+      "excerpt": "The UAEU's Artificial Intelligence and Robotics Laboratory (AIRL) aligns its work to the UAE's strategic vision. Its initial focus is on education and health technologies. Dr Fady Al-Najjar ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102819811/UAEU-turns-to-Artificial-Intelligence-and-Robotics-as-part-of-the-Fourth-Industrial-Revolution",
+      "originalUrl": "https://menafn.com/1102819811/UAEU-turns-to-Artificial-Intelligence-and-Robotics-as-part-of-the-Fourth-Industrial-Revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-09/18/M_7a69eimage_story.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-18-how-will-ai-and-robotics-transform-jobs-of-the-future.md",
       "title": "How will AI and robotics transform jobs of the future?",
       "excerpt": "We can either be fearful of artificial intelligence, or embrace it as a tool to help us improve service. Share How will AI and robotics transform jobs of the future? on Facebook Share How will AI ...",
@@ -1287,49 +1330,6 @@
       "provider": {
         "name": "Control Engineering",
         "domain": "controleng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-collaborative-robot-leverages-motion-control-speed-and-agility.md",
-      "title": "Collaborative Robot Leverages Motion Control Speed and Agility",
-      "excerpt": "With that in mind, ABB has identified three growing trends in ... covering automation and control, motion control, power transmission, robotics, and fluid power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/collaborative-robot-leverages-motion-control-speed-and-agility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/YuMi%20VIII.jpg",
-          "width": 7360,
-          "height": 5197,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

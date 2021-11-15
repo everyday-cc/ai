@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2328819/israel-using-facial-recognition
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.thehindu.com/news/cities/Hyderabad/tjbnik/article37423820.ece/ALTERNATES/LANDSCAPE_615/hy10AI"
         width: 615
         height: 384
-        isCached: true
-  - title: "Hyderabad becoming ‘surveillance city,' use of facial recognition must stop: Amnesty"
-    excerpt: "Launching a campaign against violation of human rights through the use of facial recognition technology (FRT) by Telangana police, Amnesty International has cautioned that Hyderabad is “on the brink of becoming a total surveillance city."
-    publishedDateTime: 2021-11-10T10:40:00Z
-    webUrl: "https://www.thenewsminute.com/article/hyderabad-becoming-surveillance-city-use-facial-recognition-must-stop-amnesty-157449"
-    ampWebUrl: "https://www.thenewsminute.com/article/hyderabad-becoming-surveillance-city-use-facial-recognition-must-stop-amnesty-157449?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/hyderabad-becoming-surveillance-city-use-facial-recognition-must-stop-amnesty-157449?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 52
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_policing_rep_1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "A Generation Growing Under Surveillance: The Dangers of Facial Recognition In Schools"
     excerpt: "In conversation with my teenage daughter last week, I pointed out a news report which flagged concerns over the use of facial recognition technologies in several school canteens in North Ayrshire, Scotland."

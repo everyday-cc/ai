@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-03-this-healthcare-company-is-using-ai-to-develop-drugs.md",
+      "title": "This Healthcare Company Is Using AI to Develop Drugs",
+      "excerpt": "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
+      "originalUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
+      "publishedDateTime": "2021-10-03T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-ai-could-reduce-racial-disparities-in-healthcare.md",
       "title": "AI Could Reduce Racial Disparities In Healthcare",
       "excerpt": "What makes one AI tool shortchange Black patients while another produces more equitable treatment? The difference may boil down to one of the simplest rules of computer programming.",
@@ -1360,58 +1394,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-zoomtopia-ai-and-video-to-power-healthcare.md",
-      "title": "Zoomtopia: AI and Video to Power Healthcare",
-      "excerpt": "At the recent Zoomtopia, the company spotlighted how healthcare providers are actively transitioning to telehealth, representing a significant disruption of the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
-      "originalUrl": "https://www.eweek.com/cloud/zoomtopia-ai-and-video-to-power-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/09/Zoom-White.jpg",
-          "width": 1032,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

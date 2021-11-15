@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-cr
 webUrl: "https://thenextweb.com/news/unis-ai-keep-students-from-cheating-creepy-syndication"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
         width: 300
         height: 226
+        isCached: true
+  - title: "Unis are using AI to keep students sitting exams honest. But this creates its own problems"
+    excerpt: "Proctoring technology allows exam-takers to be monitored off-campus. The promise of the software is alluring, but it carries substantial risks."
+    publishedDateTime: 2021-11-15T01:21:00Z
+    webUrl: "https://www.studyinternational.com/news/proctoring-universities-using-ai/"
+    type: article
+    provider:
+      name: Study International
+      domain: studyinternational.com
+    quality: 29
+    images:
+      - url: "https://www.studyinternational.com/wp-content/uploads/2021/11/Online-learning-laptop-NIKOLAY-DOYCHINOV-AFP-1.jpg"
+        width: 1200
+        height: 798
         isCached: true
 
 secured: "zGJGD7hW+8y3ApX5C3XJXbn1LCzboSWuYX5w0e+xHfzY21zgC8ljPmgpGHJkKBzDE7M49IBK6SF7Z//UZM4d+vbSXzHQIJxSL37Qm76smQvZkSBQQwPKxbjZMlUdKWDiMYOrOtu+6IM76lZI0NW9MSaSzcL/RXCByupUzVw862RSnkl5jfmwiVFpa9tiZGW+fpdbsMELP/JnFtrcd6ObqxJosR7+HvpzucZCaIh0Ze5ZgkNWD7A/kjfLjQ10hFIdm/Mj9aPjxNX6XZmFlxl3X3SsCid39izDNETWVmuy0e8fhoMORFLIW8Rn7Bx6++1V1FBBrGMZyj6tMfAMcycI9ES7eOh/K/NYrjffh8PEpK8L4/ETyNKpa8o3gqKiOCF0WRHLIqa+jJ45PAPDb9bLxn9MldU5k+/fRcORjadY4VFbpKoFhOQIgQl5uVPTPTSfQUpKaclwk0mwM7jodefw9fQNpBImFelDyljcieESSLA8A2bkdbOS/vP6T0ODJBoeyLLHMmzobpKaedaUoAhscQ==;t6Kn2YxHe2WV2ARAEkwcJA=="

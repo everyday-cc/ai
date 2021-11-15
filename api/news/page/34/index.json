@@ -2,6 +2,101 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-10-18-facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech.md",
+      "title": "Facebook hits back at claims its AI has minimal success in fighting hate speech",
+      "excerpt": "Facebook integrity VP has responded to new claims that its efforts to fight hate speech is not working. By Aimee Chanthadavong | October 17, 2021 | Topic: Social Enterprise Facebook integrity VP Guy Rosen has shut down claims that the AI technology it uses to fight hate speech is having little impact,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/42ecc1af84a7e867f3629ffe9013cccd006f3c93/2021/10/18/df986913-7df7-4f4b-8758-3d64e47284cf/fb-hate-speech-nrp-our-side-of-the-story-hs-chart-1.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
+      "publishedDateTime": "2021-10-17T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-gitex-2021-this-robot-can-see-hear-feel-like-a-human.md",
+      "title": "Gitex 2021: This robot can see, hear, feel like a human",
+      "excerpt": "German firm Neura Robotics is displaying a range of such robots at the Gulf Information Technology Exhibition (Gitex) in Dubai, with cognitive abilities that enables them to think (like a human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "originalUrl": "https://www.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20211018/ARTICLE/211019099/AR/0/AR-211019099.jpg&NCS_modified=20211019044142&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "publishedDateTime": "2021-10-17T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-galvin-widjaja-consultants-vs-founders-computer-vision-ai-digital-privacy.md",
       "title": "Galvin Widjaja: Consultants vs. Founders, Computer Vision AI & Digital Privacy",
       "excerpt": "Check out this great listen on Audible.com. Galvin is the CEO and Co-founder of Lauretta.io, a profitable Techstars company that builds bleeding edge military grade computer vision technologies that are now available to commerical buyers with no AI capability of them own.",
@@ -1026,91 +1121,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women.md",
-      "title": "Can Artificial Intelligence Help To Close The Financial Equality Gap For Women?",
-      "excerpt": "How can women can build wealth utilizing advanced technologies and what should they should consider when looking at different services available on the market today?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616a5baafe639c680bdd2bd7%2F0x0.jpg",
-          "width": 1200,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
-      "publishedDateTime": "2021-10-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-googles-deepmind-faces-suit-over-uk-health-data.md",
-      "title": "Google’s DeepMind faces suit over UK health data",
-      "excerpt": "Google's AI department secures lawsuit over 1.6 million confidential NHS patient medical records. DeepMind Faces: Google's AI department, otherwise known as",
-      "sourceUrl": null,
-      "webUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
-      "originalUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
-      "cdnAmpWebUrl": "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
-      "publishedDateTime": "2021-10-15T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Micky",
-        "domain": "micky.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

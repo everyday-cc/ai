@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-12-an-artist-who-disavows-the-possibility-of-individual-agency.md",
+      "title": "An Artist Who Disavows the Possibility of Individual Agency",
+      "excerpt": "According to Agnieszka Kurant, everything we make — from the systems that oppress us to the inventions that transform us — is the result of a collective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html",
+      "originalUrl": "https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/11/12/t-magazine/12tmag-kurant-slide-FQ5H-copy/12tmag-kurant-slide-FQ5H-copy-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.amp.html",
+      "publishedDateTime": "2021-11-12T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-how-deep-learning-turns-contextual-targeting-into-a-cutting-edge-tool.md",
+      "title": "How Deep Learning Turns Contextual Targeting Into a Cutting-Edge Tool",
+      "excerpt": "RTB House, a market leader in deep learning-powered marketing technologies, are proud to announce the release of its globally available industry-leading Context AI solution. The solution will play a key role in helping advertisers navigate the cookieless landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/",
+      "originalUrl": "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.exchangewire.com/wp-content/uploads/2021/11/Context-AI-2.0-LinedIn-Post-2021_10-1200x628px-02-1.jpg",
+          "width": 900,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp",
+      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp",
+      "publishedDateTime": "2021-11-12T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "exchangewire.com",
+        "domain": "exchangewire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-carnegie-mellon-university-cmu-invites-students-to-explore-artificial-intelligence-with-opening-of-jpmorgan-chase-co-ai-maker-space.md",
       "title": "Carnegie Mellon University: CMU Invites Students To Explore Artificial Intelligence With Opening of JPMorgan Chase & Co. AI Maker Space",
       "excerpt": "Reid Simmons has stopped trying to guess what students will come up with next.As head of Carnegie Mellon University's undergraduate program in artificial intelligence, Simmons watches what some of the most creative minds are doing with AI,",
@@ -1117,100 +1212,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-how-fintech-companies-are-changing-the-idea-of-credit-in-india.md",
-      "title": "How Fintech Companies Are Changing the Idea Of Credit In India",
-      "excerpt": "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/396710",
-      "originalUrl": "https://www.entrepreneur.com/article/396710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1636627414-towfiqu-barbhuiya-jpqyfK7GB4w-unsplash1.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-us-based-fubotv-acquires-bengaluru-start-up-edisnai.md",
-      "title": "US-based fuboTV acquires Bengaluru start-up Edisn.ai",
-      "excerpt": "TV said that the acquisition of Edisn.ai will help enhance the company’s AI-driven interactive experiences, personalisation and platform stability",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/us-based-fubotv-acquires-bengaluru-start-up-edisnai/article37435495.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/us-based-fubotv-acquires-bengaluru-start-up-edisnai/article37435495.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/us-based-fubotv-acquires-bengaluru-start-up-edisnai/article37435495.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/us-based-fubotv-acquires-bengaluru-start-up-edisnai/article37435495.ece/amp/",
-      "publishedDateTime": "2021-11-11T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

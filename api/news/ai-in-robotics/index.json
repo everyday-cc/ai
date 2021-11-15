@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -582,6 +582,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027.md",
+      "title": "Global Artificial Intelligence (AI) Robots Market 2021 by Future Developments, Upcoming Trends, Growth Drivers and Challenges 2021 to 2027",
+      "excerpt": "MarketsandResearch.biz has added a new key research report entitled Global Artificial Intelligence (AI) Robots Market 2021-2027 that depicts the present state of the industry, covering the key fundamentals of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027-2021-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027-2021-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1381,58 +1433,6 @@
         "name": "Analytics Insight",
         "domain": "analyticsinsight.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-these-robots-follow-you-to-learn-where-to-go.md",
-      "title": "These Robots Follow You to Learn Where to Go",
-      "excerpt": "Burro makes carts that help growers of trees and vineyards with harvests. Meanwhile, the maker of Vespa scooters wants to carry your groceries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/robots-follow-learn-where-go/",
-      "originalUrl": "https://www.wired.com/story/robots-follow-learn-where-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/618478dbcaac12bc9a169051/master/pass/Business-Piaggio-Fast-Forward-Robots.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/robots-follow-learn-where-go/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robots-follow-learn-where-go/amp",
-      "publishedDateTime": "2021-11-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

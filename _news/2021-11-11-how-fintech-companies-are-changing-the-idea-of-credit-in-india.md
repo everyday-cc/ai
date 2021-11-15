@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/396710"
 webUrl: "https://www.entrepreneur.com/article/396710"
 type: article
 quality: 54
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
     quality: 39
     images:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hiring to scaling: 3 fintech unicorn CEOs share what it takes to build a successful company"
-    excerpt: "As part of Singapore Fintech Festival 2021, three CEOs of fintech unicorns in Asia — Linklogis, VNLIFE and Advance Intelligence Group — came together as panellists to discuss the key ingredients for success that help to shape and grow a unicorn."
-    publishedDateTime: 2021-11-10T09:29:00Z
-    webUrl: "https://vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/"
-    ampWebUrl: "https://vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/amp/"
-    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/amp/"
-    type: article
-    provider:
-      name: Vulcan Post
-      domain: vulcanpost.com
-    quality: 34
-    images:
-      - url: "https://cdn01.vulcanpost.com/wp-uploads/2021/11/fintech-f2.jpg"
         width: 1200
         height: 630
         isCached: true

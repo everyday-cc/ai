@@ -2,6 +2,102 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-10-22-improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws.md",
+      "title": "Improve your data science workflow with a multi-branch training MLOps pipeline using AWS",
+      "excerpt": "In this post, you will learn how to create a multi-branch training MLOps continuous integration and continuous delivery (CI/CD) pipeline using AWS CodePipeline and AWS CodeCommit, in addition to Jenkins and GitHub. I discuss the concept of experiment branches, where data scientists can work in parallel",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/19/ML-5217-image001.jpg",
+          "width": 622,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T11:56:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-embedded-news-week-robotics-rainforests-and-iot-security.md",
+      "title": "embedded news week: robotics, rainforests and IoT security",
+      "excerpt": "A roundup of this week’s embedded news includes robotics, IoT security and onboarding, automotive wireless charging and building automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
+      "originalUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2021/10/Infineon-Rain-Forest-Connection.jpg",
+          "width": 1700,
+          "height": 1130,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-10-23-eu-proposed-regulatory-regime-for-artificial-intelligence-ai-could-set-global-standard.md",
       "title": "EU Proposed Regulatory Regime for Artificial Intelligence (AI) Could Set Global Standard",
       "excerpt": "The European Union (EU) has launched the world’s first comprehensive legislative package to regulate AI.  The Artificial Intelligence Act (AIA), which is currently progressing through the E",
@@ -1104,91 +1200,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai.md",
-      "title": "Lawmakers introduce bill to increase oversight of federal contractors’ use of AI",
-      "excerpt": "Ohio, have introduced legislation intended to protect information handled by federal contractors that use artificial intelligence technology. If enacted, the new bill would require the director of the Office of Management and Budget to establish and consult with an AI hygiene working group,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai/",
-      "originalUrl": "https://www.fedscoop.com/lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-robot-artist-ai-da-released-by-egyptian-border-guards.md",
-      "title": "Robot artist Ai-Da released by Egyptian border guards",
-      "excerpt": "A British-built robot that uses cameras and a robotic arm to create abstract art has been released after Egyptian authorities detained it at customs. Ai-Da, named for the mathematician Ada Lovelace, was seized by border agents last week who feared her robotics may have been hiding covert spy tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/CB3B/production/_121172025_gettyimages-1318598041.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-58993682.amp",
-      "publishedDateTime": "2021-10-21T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

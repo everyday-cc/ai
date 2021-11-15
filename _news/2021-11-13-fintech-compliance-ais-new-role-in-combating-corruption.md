@@ -39,22 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Hiring to scaling: 3 fintech unicorn CEOs share what it takes to build a successful company"
-    excerpt: "As part of Singapore Fintech Festival 2021, three CEOs of fintech unicorns in Asia — Linklogis, VNLIFE and Advance Intelligence Group — came together as panellists to discuss the key ingredients for success that help to shape and grow a unicorn."
-    publishedDateTime: 2021-11-10T09:29:00Z
-    webUrl: "https://vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/"
-    ampWebUrl: "https://vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/amp/"
-    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/768732/fintech-unicorn-ceos-tips-to-build-successful-company/amp/"
-    type: article
-    provider:
-      name: Vulcan Post
-      domain: vulcanpost.com
-    quality: 34
-    images:
-      - url: "https://cdn01.vulcanpost.com/wp-uploads/2021/11/fintech-f2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Payments to Participate in Citi's 2021 FinTech Conference"
     excerpt: "Global Payments Inc. , a leading worldwide provider of payment technology and software solutions, announced today that Cameron Bready, President and Chief Operating Officer, will present virtually at Citi's 2021 FinTech Conference at 12:45 p."
     publishedDateTime: 2021-11-10T16:01:00Z
