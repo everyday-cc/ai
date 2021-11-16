@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Big Tech leads the AI race – but watch out for these six challenger companies"
-excerpt: "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
+excerpt: "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
 publishedDateTime: 2021-11-09T01:15:00Z
-originalUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
-webUrl: "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+originalUrl: "https://www.power-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+webUrl: "https://www.power-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
 type: article
 
 provider:
-  name: Verdict Retail
-  domain: retail-insight-network.com
+  name: Power Technology
+  domain: power-technology.com
 
 topics:
   - AI in Autos
   - AI
-  - Facebook AI
 
-images:
-  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg"
-    width: 1400
-    height: 934
-    isCached: true
-
-secured: "UUUZXgNapeqTFBLFdVFo8GYYDwPFB2nDELw92SwO7S+k0o7mcYZw4LHpcQxhIF8VLpAbMcPPehnNanVf9FPNIPIrGKUrDjiGaD+nV60rqdMiPi50Yk9eo/m4Hkges9ODexQwGdENMHgw+WioypilEhvWACSoJiF+yV5D3kZE+Pn6bql/I+9HrhCeBx0GM+WDE3QZuHoU6jeth9/J/7l8+khQiWoG9L/r+WJac18+l75SuhOwFXtAdJQG6Ceh4tL98oAZLHiMYjVcPg2FhjraQBuXG8/RIm7mB1qv9mgDyZ3MaOH0BDIodU6ddJI9xD0QGAd8KukZSQza64VvCqMCl9cMH3CbYxTtEYlMrGDLLkV3Mqpym5OJ89S6sEnBOZc1XVaVEtk0nE7KA9pKYdUUg2rLCpMmJNKWaOlfFTQTFSL7aqipX20OrF1zSAWdy4uEkilCVu4+Z3VsvwuSKsbfvLIKBaKl7qeQ/1nZ0Wi0GpPM/Ljmh58K6DCVypTzKdJIWIfqlIvg8i04ImFYmgap8g==;ivCKjSu0A77pzX2jw1tCKw=="
+secured: "GL2lNKVryZqEWDNIlu1jRLRsJ0Wv2YgbBlMmvj6lORVsFR7guNkDcuh8Fr9IJGV5nDYmBOSIq4rg5iMRxtLt1JDReEUAevmTfZdznli4+8hUnUzDr9OIlp/zurXJ8/tQ8EYDPniYXIru1KRWoeUnLHdLwxmib4mn1IAGl9gVJMOvBpG/Mfuj98LCrPzm8EXje+g/MFQhcr48Bo3hFYX2vwwyi93X2bAAa8+eUDA29yl7sQML6ICp884hQ8c/zs3fn62AAxiktUPvZUQuDQQ6dpZDbiMfd0kgLDNRMNYMWwd0iJ7ues50ViF2NY1EJOAAZPs5MMTSDPjXUh25W1wh893nDk1Oj0jKMEy+6wTQRWdnegbSKWRyxVsN4hHAtNB7qpMA4CLQA3eAhhBguDOLdOqlZ/F6F+IULS3L6MYo9HULxsRzeKJ3Kd1qxTtg5LlfP6abnqNHfSPUSAUSjb266nAQQS2Si2EsQ+wkIINr0/jQMADH0uIf901ftmkwUuq7qKHH4VAWq2zew17GXpmZ4Q==;0j2H/9gfXHTumi9p9+ba+g=="
 ---
 
