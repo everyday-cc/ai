@@ -34,7 +34,21 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "AWS Touts Partners’ Conversational AI Solutions"
+    excerpt: "A new AWS initiative puts the spotlight on partners’ conversational artificial intelligence (CAI) solutions that allow organizations to deploy chatbots, virtual assistants and interactive voice respon"
+    publishedDateTime: 2021-11-16T20:38:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-touts-partners-conversational-ai-solutions"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026f-13bd00028ceb-657cc4c9b807-1000/sherry-comes-deloitte.jpg"
+        width: 610
+        height: 458
+        isCached: true
 
-secured: "t5D1mV6Ll6aViNbC0JqXoIN0Qh+WVZwR0awJhtIZpqiak61Q/fI6ODasmjuCuLGDuagxKab2GXiDHOCKPBCDoEofOlwUghbO58+o0qXv1kdqIPL9nJ6sC7sxk9fmUUFYBuNbDi6fEC4sJGf2Dj+r8yEE/agmS++D91wbi7DK5Db3AI3WJx7eENrZeTZb9ORCNWBxGAyD2R1nqfUrldWNCglGeXvRpfI416OzuecdURddm/AIna8InEGxcfRQ8Xucph1vt1W1AfdMyj+lYlfQD1/U5Y0R1dORtTZzNmYWYZtArkTjVbzLG9rL9VE7Zrzg9dFjuM4s3aSfIYuG0Blmutl9bif9nGUDPkSpXHQQBdU=;twS2xtUTPzSm/a3w11J20Q=="
+secured: "ouUQh2KqOtEsnwQDfw+F589IfL2ueMHDxMhDHr8QPgwgf0RI6R659fvbtUDOU7s0rBPHls7AP14k2Ce4feqJ2qfkFaKNWQE9UP7w1ERHP6CClQ6YpwEjTLqijJQAQsB+JiiUweLrVuFOqvDXk0a4LW8DFIZphIr1YE9Z86a/TOK0Ps0YOfG5cM1TnZmt1v3icjyZaltk3Y5eUkvkzKA63Un3xZVcaGVVvV139vwsbpP7jrUL+QBdCe/EsQNDjUpN3vHWjw6xaDyilhtidMQ3clAuJqP93xwaku/MdA/5S/BkcmVeM9/3NNzy4LZDtJVORHaOgXXZxpfLk/pvUMuUlVmDq7t/ajkmXuFpJhK5hSMWDR+rhRFr11u7Gb7n+cdV5UtrptP0VZ5XGzU3DDx+Y2hQ012mzC7PIrjzYczC0tSOulzLH+UzFGWk5qr1gJ+o1jv1YgJ7bxjyIpZdukJ8qOHd7XEGAk5beWMUZrE0AdGA6z/HZfPRguYi71qVvtUmgrYbs3kxdCJL7hOIutJ5iQ==;8qAtJ8kj4aDUR813a4Zs0A=="
 ---
 

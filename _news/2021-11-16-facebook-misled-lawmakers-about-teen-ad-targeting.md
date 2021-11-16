@@ -69,6 +69,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Warning as Facebook ‘is STILL tracking teens for advertising’ contradicting own claims company would limit reach to kid"
+    excerpt: "FACEBOOK is allegedly still tracking teens for advertising, research states, contradicting the social media giant’s claims it would limit reach to kids. The accusations come in a research"
+    publishedDateTime: 2021-11-16T19:35:00Z
+    webUrl: "https://www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/"
+    ampWebUrl: "https://www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 35
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/KB_OFF-PLAT_Facebook-Warning.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New Facebook Product for Financial Advertisers"
     excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
     publishedDateTime: 2021-11-12T09:39:00Z
@@ -97,6 +113,15 @@ related:
         width: 586
         height: 390
         isCached: true
+  - title: "Trending: Facebook Plans to Shut Down Facial Recognition System"
+    excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than one billion users. The move, notes The New York Times, effectively eliminates a feature that has fueled privacy concerns,"
+    publishedDateTime: 2021-11-16T11:07:00Z
+    webUrl: "https://www.ai-ap.com/publications/article/29186/trending-facebook-plans-to-shut-down-facial-recog.html"
+    type: article
+    provider:
+      name: ai-ap.com
+      domain: ai-ap.com
+    quality: 19
   - title: "Facebook is Still Surveilling Teens for Ads, Says Report"
     excerpt: "According to new research by Fairplay, Global Action Plan, and Reset Australia, despite Facebook’s claim this summer that it would be limiting how companies may target children on its social media platforms,"
     publishedDateTime: 2021-11-16T16:50:00Z

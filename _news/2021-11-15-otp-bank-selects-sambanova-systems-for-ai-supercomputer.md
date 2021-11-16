@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "SambaNova is enabling disruption in the enterprise with AI language models, computer vision, recommendations, and graphs"
-    excerpt: "SambaNova just added another offering under its umbrella of AI-as-a-service portfolio for enterprises: GPT language models. As the company continues to execute on its vision, we caught up with CEO Rodrigo Liang to look both at the big picture and under the hood."
-    publishedDateTime: 2021-11-15T18:16:00Z
-    webUrl: "https://www.zdnet.com/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/"
+  - title: "Hungary’s OTP Bank Invests in AI Supercomputer"
+    excerpt: "The system, developed by Silicon Valley’s SambaNova, will leverage AI language models to automate more banking services for Hungarian speakers"
+    publishedDateTime: 2021-11-16T16:40:00Z
+    webUrl: "https://www.wsj.com/articles/hungarys-otp-bank-invests-in-ai-supercomputer-11637084417"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://www.zdnet.com/a/img/resize/4a8b0290f235514269412b222a86a7ef30c43b42/2021/11/03/496b64e1-63e8-4242-a385-095add38f1cb/ai.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 802
+      - url: "https://images.wsj.net/im-435898/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "13YI6Br/JxhPDfS+lC4O4ug4wbmUzrRv9xhhN2hALVVf0RgvZda/lwEq3eSxcKg/soYYOwtFjD/6pfL65HN8nL4qEcA+k6hASqV8U0SuOo1Btw+iZqgHTgxPmAzNPcvmS7xBggk+90QXmV2bBqNCUeNjvn4oESETHHB7dE3Af7H4Si4AucBjlmq02LN6lQmti9oxqoE/74GJ15vsDHwpv4KsFZskdh5z9QYQzMSGthAAkIEMZOfXKLKCv0CqKO2YRa78khhS6mxZIuOZBmetT8GEfg4cptjRgZ5fyhxc+nhVpb3mD3rMgGx/2DQ5ekE5PAQWeQW8NsxNPeGLqr38nYapDmlEpez75/J2nHb/dqI=;2gnomJw57PjFEy5KPNgQsg=="

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-conversat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-conversational-ai-partner-solutions/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "AWS Touts Partners’ Conversational AI Solutions"
+    excerpt: "A new AWS initiative puts the spotlight on partners’ conversational artificial intelligence (CAI) solutions that allow organizations to deploy chatbots, virtual assistants and interactive voice respon"
+    publishedDateTime: 2021-11-16T20:38:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-touts-partners-conversational-ai-solutions"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026f-13bd00028ceb-657cc4c9b807-1000/sherry-comes-deloitte.jpg"
+        width: 610
+        height: 458
+        isCached: true
   - title: "Zero Density adds AI-powered talent tracking solution"
     excerpt: "Zero Density has added a markerless, stereoscopic talent tracking system to its growing lineup of ... Read More"
     publishedDateTime: 2021-11-16T17:50:00Z

@@ -8,8 +8,8 @@ webUrl: "https://singularityhub.com/2021/11/16/ai-can-now-model-the-molecular-ma
 ampWebUrl: "https://singularityhub.com/2021/11/16/ai-can-now-model-the-molecular-machines-that-govern-all-life/amp/"
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/16/ai-can-now-model-the-molecular-machines-that-govern-all-life/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://singularityhub.com/wp-content/uploads/2021/11/protein-complex-DeepMind-AI-UW.jpg"

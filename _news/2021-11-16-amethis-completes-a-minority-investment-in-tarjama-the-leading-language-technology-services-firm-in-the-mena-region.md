@@ -2,9 +2,9 @@
 category: news
 title: "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region"
 excerpt: "Amethis, through its newly launched fund, Amethis MENA Fund II (AMF2), has completed its second transaction, acquiring a minority stake"
-publishedDateTime: 2021-11-16T08:00:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-amp-services-firm-in-the-mena-region-843630674.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-amp-services-firm-in-the-mena-region-843630674.html"
+publishedDateTime: 2021-11-16T12:00:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology--services-firm-in-the-mena-region-301424713.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology--services-firm-in-the-mena-region-301424713.html"
 type: article
 quality: 0
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 338
         isCached: true
 
-secured: "OuWedI9G+MjVfq5nWYSBKoc3tD3myl7vbzKBbBKdSPObNIUEtn/DYqxb+FZftvUqt7S9LKuGgZPY2tNY910XBB3yBdf+uokAXD+k+4QmiBkvgq0EANpuoU/GmdD/NaXUzG0DwWo+/JkqvG+JFAivp2HDPE0S7VtxR1ZpYINcr1xSrH1IukjBx5TDeqjX1doBPIk59jrIgtEbgqSb+uT23TpFvjQ5zrrtJyxozBw/nMGuqx/9noExCX8Sg1z7lNYKdJm52D28PK/frQA7qzfFP0POFg5w7H5MP0wcRYOOHIbnPVWjZ79gFxniN5km+SEFHh+JeSzgRGrDWvp3dU+nZsKRSdz8/qaYERJsh6DNKtQGIsz1PYTbTdFBTzYwjeJIdJRO06Om3apCBRj2HgmSvO3/YNFjWgITuVQiwgAKYdVlTdFWYnGpQTjuEvXF8JUIQBuTVwR2xPx2LrrRH/dLO670IDiaiFptoPvnk0Y+H5oVGmvbWjPI8oHvDFeV6dkP7PThFCuqrPws6VGAXQqBfA==;Zsr3r0hZlc6orANQ7R3TGg=="
+secured: "aW92C7hqMSvZJNAArxW4XBlmyXksie1z8FeqPTkomTaNoYL1aaYlWf83g65NwqLVYAPY3v0kXnJqlFuib88MMQlSq5zZOqGF9VHaKDl0/5Da2ZUmI+s2BFkfEpl/FHBU9DL59Y/BrXrxtA38U5cSK/tydgVi9MTdQUl+oE4YdHPZAqUsrmFQO4ZY5d9QjXe92Fwx3IrtQoPC/xrF7DkBdMymYzjU3mJADZfaj7dZnKE2gv2oW0RL4AHkwN8lWHdMnMIZAku6VV11BxBWINcNMPK7dha/HZzi7r/kTP+kNbFL1TduDi2QeSGsAZhQXeScyWFXuEIWeNeu+BXnLlHUCOwrvj48CBzXVmqZb8VMFrQ=;Z9sMKmYOZ+/z+pJqzvsUcQ=="
 ---
 

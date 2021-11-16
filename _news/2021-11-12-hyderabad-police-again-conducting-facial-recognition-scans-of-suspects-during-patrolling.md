@@ -7,7 +7,7 @@ originalUrl: "https://www.medianama.com/2021/11/223-facial-recognition-hyderabad
 webUrl: "https://www.medianama.com/2021/11/223-facial-recognition-hyderabad-police-sulthan-bazar/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Hyderabad: Cops to use Artificial Intelligence for better policing"
-    excerpt: "Hyderabad: The Cyberabad Police held a confluence session with industry leaders, technologists, innovators and researchers to understand solution"
-    publishedDateTime: 2021-11-12T19:32:00Z
-    webUrl: "https://telanganatoday.com/hyderabad-cops-to-use-artificial-intelligence-for-better-policing"
+  - title: "TS cops draw flak for random use of facial recognition scans on unsuspecting citizens"
+    excerpt: "Two days after Amnesty International, Internet Freedom Foundation and Article 19 launched #BantheScan campaign, asking the Central and Telangana governments to stop the use of facial recognition system as it can potentially be used to target minority and disadvantaged communities,"
+    publishedDateTime: 2021-11-13T02:35:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.amp"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 52
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2020/03/Telangana-Today-News-1.jpg"
-        width: 750
-        height: 415
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/11/13/w600X390/pri.jpg"
+        width: 600
+        height: 390
         isCached: true
 
 secured: "pasVC7z2VbLWbyrW/f2fygq9G4ngsGfECUg9DtMtqAA44MzEkbt5u8gGfGXjW7goNcSqHyWKHqlNDzLC/qPc5vSfvYHG9/gyPYf+P0bX/WehMBJDSpnLXiQK0Vfy/cTvzo36r0evD01aOZb/earQNE4K0j5J0nzNJZIbWjD+iW20/K/3YeJACXs/7U6QfY9cxw6rso/QG0R5NPG0xOXaHBcto4l1sFRdJmvjWCAdBWOB8FPuUMFKibG6MIhr7BWJ6VVFgg0VqpxlAQHmJNsbs2K89TNm43lz94EnRB0U1izxcQcT2r5CJdnsytW64fuiyDUdy3Td4lg99A86fOmz6VGGJ6fAY7Ppp42sPc7ZxWrqr9SO4GbiKiZVJS01yrajgDfOow7DUVP4jYZF87lriGlM3xxWXe40zbQPkiDiCpdkn7MMk1Wa42L23bIQu6hM3UVKjGTc2oKjK+2+1W1KS1PJ0C3dkW/B360nmCm4a7oqLUW501ueN8g4VwsanVexCN2mkHZryRUss++l+DaoBg==;jJUUdck3msxbWMAgEpYl9Q=="

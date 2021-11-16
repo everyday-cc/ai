@@ -39,6 +39,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Public surveillance biometrics in Europe could be crushed between the EDPS and AI Act"
+    excerpt: "The European Association for Biometrics (EAB) held an Artificial Intelligence Act Workshop to inform members about the impact the proposed regional legislation."
+    publishedDateTime: 2021-11-16T17:13:00Z
+    webUrl: "https://www.biometricupdate.com/202111/public-surveillance-biometrics-in-europe-could-be-crushed-between-the-edps-and-ai-act"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
+        isCached: true
   - title: "Cruise line patent suggests face biometrics for stateroom access, personalization"
     excerpt: "The multifunction smart door device patent authors include three Royal Caribbean executives, and Tascent Co-founder and CEO Alastair Partington."
     publishedDateTime: 2021-11-15T17:54:00Z

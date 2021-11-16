@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This farm is developing a smart facial recognition system.. for its goats"
-    excerpt: "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,"
-    publishedDateTime: 2021-11-12T04:22:00Z
-    webUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats"
-    ampWebUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
-    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 88
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/cover_2a5x.620.png"
-        width: 620
-        height: 326
-        isCached: true
-  - title: "Is Facial Recognition on Your Smartphone a Good Choice?"
-    excerpt: "The exploded adoption of smartphones has led to the unprecedented use of Facial recognition system. It adds another method of security for everyday devices. Using biometric analysis, the technology uses facial mapping to unlock the device,"
-    publishedDateTime: 2021-11-12T06:13:00Z
-    webUrl: "https://dazeinfo.com/2021/11/12/is-facial-recognition-on-your-smartphone-a-good-choice/"
-    ampWebUrl: "https://dazeinfo.com/2021/11/12/is-facial-recognition-on-your-smartphone-a-good-choice/?amp"
-    cdnAmpWebUrl: "https://dazeinfo-com.cdn.ampproject.org/c/s/dazeinfo.com/2021/11/12/is-facial-recognition-on-your-smartphone-a-good-choice/?amp"
-    type: article
-    provider:
-      name: Dazeinfo
-      domain: dazeinfo.com
-    quality: 59
-    images:
-      - url: "https://dazeinfo.com/wp-content/uploads/2021/11/facial-recognition-market-dazeinfo.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "Chinese goat farm is using facial recognition to stop incest"
     excerpt: "Vert City Farm based in Shanghai is now using facial recognition technology to stop incest among its flock, eliminating incest-related birth defects."
     publishedDateTime: 2021-11-15T10:12:00Z
@@ -91,31 +59,6 @@ related:
         width: 1200
         height: 619
         isCached: true
-  - title: "TS cops draw flak for random use of facial recognition scans on unsuspecting citizens"
-    excerpt: "Two days after Amnesty International, Internet Freedom Foundation and Article 19 launched #BantheScan campaign, asking the Central and Telangana governments to stop the use of facial recognition system as it can potentially be used to target minority and disadvantaged communities,"
-    publishedDateTime: 2021-11-13T02:35:00Z
-    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.html"
-    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2021/nov/13/ts-cops-draw-flak-for-random-use-of-facial-recognition-scans-on-unsuspecting-citizens-2382936.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 52
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/11/13/w600X390/pri.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "Trending: Facebook Plans to Shut Down Facial Recognition System"
-    excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than one billion users. The move, notes The New York Times, effectively eliminates a feature that has fueled privacy concerns,"
-    publishedDateTime: 2021-11-16T11:07:00Z
-    webUrl: "https://www.ai-ap.com/publications/article/29186/trending-facebook-plans-to-shut-down-facial-recog.html"
-    type: article
-    provider:
-      name: ai-ap.com
-      domain: ai-ap.com
-    quality: 19
 
 secured: "kr1I2eSqTHa/bq7D9BGVkTGxHg5hpQPVifxZVZ0bx++2J6VRUV1nC707WczdFe4hnKiIEBog9sRVLdN8eWr9BiTENHfIwdbS7yuqfFHio93QnEw+ULVZYN4Xm48MgPss5+G29zIFc6wqzyUG3xViwP71oJw3Xu5mL+37KmwhWC33KwEHyBBolOOFj1JyKV7PPwPizyOreCTNwytZr1eBIu4iYJ2lNYZJ0CSVGMqKLnJcDgvjktI/gsnS1ChrVTYBO5IKYcJSxV+WiRwAyol06HC0k15bj8C5X/RVUwBXdT7lL1UK+ZoFxpIt4TNJ002sDUkTE0zBu3IRTnC+n60uhSx3ymv7veh3oAo4wqzSKRRrMWwqtHzeluf5dv209HGZxCgxvlcUQ2TyGHEcOso/vQSq4vIdyBEppFm+mHRKdjmxcAJ8YIcwDGJB6vfTiIUzL+Xvgi26sB7gHdhQ7xWw8X7j+YLMy0nHATnwN7WLwrVDDXw1L4apXYf4WCOc0/w6y/k9Fs3jLR88sf5tmyF2xA==;U8p3G3VEWaLzkyjLXJ+5iA=="
 ---

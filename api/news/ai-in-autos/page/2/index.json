@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-04-siemens-mobility-spotlight-october-2021.md",
+      "title": "Siemens Mobility Spotlight – October 2021",
+      "excerpt": "Smart Trains Intelligent rail infrastructure Holistic Rail Cybersecurity Digitalization and harnessing the power of The Cloud were at the front of discussions during the Siemens Mobility 'Industry Trends' event,",
+      "sourceUrl": null,
+      "webUrl": "https://www.railwaygazette.com/sponsored-content/siemens-mobility-spotlight-october-2021/60170.article",
+      "originalUrl": "https://www.railwaygazette.com/sponsored-content/siemens-mobility-spotlight-october-2021/60170.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1c4d7gnm6as1q.cloudfront.net/Pictures/1024x536/1/4/1/45141_siemensmobilityspotlight2021a_590894.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Railway Gazette International",
+        "domain": "railwaygazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-tackle-racism-in-ai-blm-co-founder-tells-tech-bosses.md",
       "title": "Tackle racism in AI, BLM co-founder tells tech bosses",
       "excerpt": "LISBON (Reuters) -As concerns grow over racial bias in artificial intelligence, Black Lives Matter (BLM) co-founder Opal Tometi urged the tech sector to act fast against perpetuating racism in ...",
@@ -1373,49 +1416,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-artificial-intelligence-in-regtech-market-size-forecast-to-reach-33-billion-by-2026.md",
-      "title": "Artificial Intelligence in Regtech Market Size Forecast to Reach $3.3 Billion by 2026",
-      "excerpt": "Rising Demand for Regulatory Compliance Driving the Growth of Artificial Intelligence in Regtech Market ... It can create risk models and self- improving methods for data analytics, modelling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-regtech-market-size-forecast-to-reach-3-3-billion-by-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-regtech-market-size-forecast-to-reach-3-3-billion-by-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1635161709.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

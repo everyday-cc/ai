@@ -35,6 +35,29 @@ related:
         width: 964
         height: 471
         isCached: true
+  - title: "Osaka University Creates AI Supercomputer with Supermicro SuperBlades Utilizing 3 rd Gen Intel® Xeon® Scalable Processors"
+    excerpt: "Osaka University chose systems from Supermicro that consisted of Supermicro SuperBlades utilizing the 3rd Gen Intel® Xeon® Scalable processors. In addition to the CPU computing capacity, GPU nodes are also made available to researchers that require specialized hardware."
+    publishedDateTime: 2021-11-16T19:13:00Z
+    webUrl: "https://www.datacenterknowledge.com/manage/osaka-university-creates-ai-supercomputer-supermicro-superblades-utilizing-3-rd-gen-intel"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 14
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/mktg-webinar-nolabel3.jpg"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "Habana Labs Announces Turnkey AI Training Solution Featuring Supermicro Server and DDN Storage"
+    excerpt: "TEL-AVIV, ISRAEL and SANTA CLARA, Calif.–November 16, 2021– Habana Labs, an Intel Company and developer of AI processors, today announced the availability of a turnkey, enterprise-class AI training solution featuring the Supermicro X12 Gaudi AI Training Server with the DDN AI400X2 Storage system."
+    publishedDateTime: 2021-11-16T20:22:00Z
+    webUrl: "https://insidehpc.com/2021/11/habana-labs-announces-turnkey-ai-training-solution-featuring-supermicro-server-and-ddn-storage/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 7
   - title: "Supermicro Accelerates Delivery of HPC Clusters for Total IT Solutions with a Broad Portfolio of Servers, Storage, AI Solutions, and Liquid Cooling"
     excerpt: "Super Micro Computer, Inc. (SMCI), a global leader in high-performance computing, storage, networking solutions, and green"
     publishedDateTime: 2021-11-15T23:35:00Z

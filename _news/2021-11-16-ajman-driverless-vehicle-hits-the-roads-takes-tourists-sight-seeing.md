@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-t
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Khaleej Times
@@ -40,6 +40,34 @@ related:
       - url: "https://static.independent.co.uk/2021/11/15/20/15.Driverless%20delivery.jpg?width=1200&auto=webp&quality=75"
         width: 1200
         height: 797
+        isCached: true
+  - title: "UAE: Region's first driverless bus launched in Ajman"
+    excerpt: "The Middle East's first operational driverless bus was launched in Ajman on Tuesday morning. Sheikh Rashid bin Humaid Al Nuaimi, director of Ajman Municipality and Planning Department, and Omar Al Olama,"
+    publishedDateTime: 2021-11-16T19:40:00Z
+    webUrl: "https://menafn.com/1103184351/UAE-Regions-first-driverless-bus-launched-in-Ajman"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/16/KT_d0e96image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "UAE - Ajman: Driverless vehicle hits the roads, takes tourists sight-seeing"
+    excerpt: "If you see a vehicle without a driver in Ajman, don't do a double-take. It is just a self-driving vehicle on duty. Self-driving vehicles have begun transporting visitors from their hotels to tourist attractions and important landmarks in the emirate."
+    publishedDateTime: 2021-11-16T19:41:00Z
+    webUrl: "https://menafn.com/1103184352/UAE-Ajman-Driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/16/KT_42916image_story.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "XRbst2kLsnmwMjE5WPMD7YpqoiUIYS9zwAzyFZhxLV+WvREV0el2YViYwGXamrb98yuha4IE5adCfHUVkZnceN0nzK4Vhk2E3rzEtHAAXxhTqjTZokZGN1s0uLxdP2ZdQX6bICw0qgi0zExov1c7b3sUQCalWP3icADRhekVs/ybtMJWFiwspM+UjNbHney0lYu9U9vxbMx8u0Iw92ETOCdhSnu6hQR+ijd6C4hjslW6+Tlh9+ugBzJ8/Mz1BV5ZEFkBx1wsnqMY0qPNhKF9cDtP6nnNm8i+BqiJuNL1NnLOawandhE7Qw8pEIXQ3TQbkPuFKXNFj0H8C69MSHwT1d5aTSwlntsRvE00azH7L85u5ZFtqN0hFXII5uJkNRGsaQyPOL4WptAR3Z/aDZqdEST7I/Px/KusX+VgSUcbaUpieHpuRoS0j0GPply7g9qV4oHWs0My2UpHeSfr7PmgZOnZRN80CAlv8TEdXa0F2vlkfHp/AAOVjz9AN8FcskjmgP+wY/HxbkZe9o3BCuL7+A==;xM6sRK0Xl22S7+7iL3a50A=="

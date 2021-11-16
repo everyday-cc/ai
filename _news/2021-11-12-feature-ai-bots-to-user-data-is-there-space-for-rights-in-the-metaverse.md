@@ -3,10 +3,10 @@ category: news
 title: "FEATURE-AI bots to user data: Is there space for rights in the metaverse?"
 excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook's recent announcement that it is investing heavily in the so-called metaverse - a virtual environment where people can meet,"
 publishedDateTime: 2021-11-12T15:35:00Z
-originalUrl: "https://news.trust.org/item/20211112173355-waoeq"
-webUrl: "https://news.trust.org/item/20211112173355-waoeq"
+originalUrl: "https://news.trust.org/item/20211112173355-waoeq/?source=spotnewsfeed"
+webUrl: "https://news.trust.org/item/20211112173355-waoeq/?source=spotnewsfeed"
 type: article
-quality: 18
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/57304c02-391f-4901-b921-48fddc62fd3a/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+    width: 1100
+    height: 733
+    isCached: true
 
 related:
   - title: "Unity moves robotics design and training to the metaverse"
@@ -224,21 +230,7 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "The metaverse is Big Brother in disguise: Freedom meted out by technological tyrants"
-    excerpt: "Welcome to the Matrix (i.e. the metaverse), where reality is virtual, freedom is only as free as one’s technological overlords allow."
-    publishedDateTime: 2021-11-12T04:05:00Z
-    webUrl: "https://augustafreepress.com/the-metaverse-is-big-brother-in-disguise-freedom-meted-out-by-technological-tyrants/"
-    type: article
-    provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
-    quality: 17
-    images:
-      - url: "https://augustafreepress.com/wp-content/uploads/2021/10/smart-home-technology-phone.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
-secured: "cyYYSrGGLXQ/oiQDYIlUKLDe0k5b5+qMsaeA1Pc/h8dnTuHOeR3isl1GcvDG3AucXaHUbyBEHjlWzMfvsl6sFfz+v7yUA2Kp+l7RUNPeU+0D9vsF6C7jTTeTWLTfrWZc6zbltMsdqNuaPucRfkeC2PNVQbec+B6i74mU4fjHKp80Y+lYQ/W0ocJ6zg6dY+Ls1P9tT0uwUawzLGRlujg4YAYy+Et9IHqMLUURcCO3L+k4X6B6RmoYta4fQkdEqCKKuOb+nNowKkidm4F9AaMTOpvOpzb8AvrvpZ78xYWNqgufzJXSS2S+aGEIbdf00G/NONlPtMiDQCQTx/kLIviGRSKgkOpEElTfhbg551pFmgM=;TvYstVv0gcA2qnK9gFo9mw=="
+secured: "+DsWN4x3vsHYttGe7yjgvUBhNWK5XHhU6SHbjnxwrm/LZwVJQYWrUHep47IJvC/pKSV0MAJ+fOdKiZLUYYrauDnZo9ZNZRDqET4Rbw73+8pirw9KXjGMsbggTcZXmVdKRpnMOe0OWP0lj261bvd1cWuECl8BPnDDRrMpysQ5XOgr+BrwrMbZu7oPUN4QGJdovuTBQiTWyWfzOsnUj6BW2Wq3y7NYkrW8WSVs0WgjoBj4GmIkSLpTaMOFTB7q5KkT7ZQ+zEyIPZhpPX2raeVwaxJu9sr6O3aw4PoDO8M7P0Kyie31wPu/52vTcCZG3yiPTsk57BA5kGLDOIS3/mg3jRtvzUDA2ZecBniMijRQ0I4=;r9zYk9KMnNUc5HT3YE3Pwg=="
 ---
 

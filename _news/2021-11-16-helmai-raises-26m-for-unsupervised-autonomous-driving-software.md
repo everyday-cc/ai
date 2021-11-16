@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervis
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Helm.ai Raises $26 Million in New Funding"
+    excerpt: "Helm.ai Raises $26 Million in New Funding. Series B round led by Amplo will support team growth and product expansion of it"
+    publishedDateTime: 2021-11-16T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/helm-ai-raises-26-million-in-new-funding/article_a6fa9fb7-2ed5-52bd-abd5-ca918bf0dbac.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Helm.ai Raises $26 Million in New Funding"
     excerpt: "Helm.ai Raises $26 Million in New Funding Series B round led by Amplo will support team growth and product expansion of its high-end ADAS and L4 autonomous driving software Helm.ai, creator of next-generation AI software for autonomous driving,"
     publishedDateTime: 2021-11-16T16:08:00Z

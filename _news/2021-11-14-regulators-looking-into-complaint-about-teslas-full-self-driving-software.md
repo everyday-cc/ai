@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna5537"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537"
 type: article
 quality: 101
-heat: 241
+heat: 251
 published: true
 
 provider:
@@ -168,6 +168,22 @@ related:
       - url: "https://wp-assets.futurism.com/2021/11/tesla-full-self-driving-severely-damaged-crash-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "NHTSA investigating first report of Tesla 'Full Self-Driving' crash"
+    excerpt: "A California driver has reported the first alleged crash involving Tesla's Full Self-Driving feature to NHTSA. The agency is investigating the claim, which says the car turned into the wrong lane."
+    publishedDateTime: 2021-11-16T19:02:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/Tesla-Model-Y.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tesla’s Full Self-Driving Mode Has Registered Its First Crash With The NHTSA"
     excerpt: "Advertisement There is a complaint registered with the National Highway Traffic Safety Administration (NHTSA) pertaining to Tesla’s Full Self-Driving (FSD) beta. The accident involved a Model Y vehicle in FSD condition that crashed in Brea,"

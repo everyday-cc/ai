@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Amazon Web Services and Qualtrics Expand Relationship to Utilize Customer Feedback to Enhance Experiences"
+    excerpt: "(NASDAQ: AMZN) company, Amazon Web Services, Inc. and Qualtrics (NASDAQ: XM) reported expansion on their relationship with Qualtrics migrating its internal IT systems and customer facing workloads to the world’s leading cloud."
+    publishedDateTime: 2021-11-16T19:05:00Z
+    webUrl: "https://www.financialbuzz.com/amazon-web-services-and-qualtrics-expand-relationship-to-utilize-customer-feedback-to-enhance-experiences/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 4
+
 secured: "eQrRG7UV6uZRxx6m/NacLxopqxyV8OwzXzYd5VM7LGyOKmxTGRRB+55RQOxu5b4lCuUkmTYd78mn+zoes5+CaHNHZ0VUzDb6+xxCQI3f8KcmVywbkdMsu4c95UWBCLGfuDbpP/CL3KDYRz50ifpSCCtmL2goRn2wLqJ9t9AyPCE9NY7KPtHeHeKt4EreH25VHSYpsWcIHIr7qen8TkP6Z7YQvZUrIEirS+LWS0zUIeQ8WsVp4RQN31DSsaU/+bFUBjsgQoFAXxtbJf3kCuZMW1oO3qSgmES48ANp1qSVr3kq4AYA8srYce1B9k9wMPlj1kL2aPjee+LTKnEEhfCehPneiqTYqla++Q1yICu47Go=;8eeHJoyEVtUtAz6jdooQMw=="
 ---
 

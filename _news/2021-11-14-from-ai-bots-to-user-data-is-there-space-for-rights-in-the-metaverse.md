@@ -200,6 +200,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "FEATURE-AI bots to user data: Is there space for rights in the metaverse?"
+    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook's recent announcement that it is investing heavily in the so-called metaverse - a virtual environment where people can meet,"
+    publishedDateTime: 2021-11-12T15:35:00Z
+    webUrl: "https://news.trust.org/item/20211112173355-waoeq/?source=spotnewsfeed"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 38
+    images:
+      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/57304c02-391f-4901-b921-48fddc62fd3a/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 733
+        isCached: true
   - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
     excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"
     publishedDateTime: 2021-11-12T14:57:00Z
@@ -213,29 +227,6 @@ related:
       - url: "https://www.lawfareblog.com/sites/default/files/51643294031_c2fa4424b7_k.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "FEATURE-AI bots to user data: Is there space for rights in the metaverse?"
-    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook's recent announcement that it is investing heavily in the so-called metaverse - a virtual environment where people can meet,"
-    publishedDateTime: 2021-11-12T15:35:00Z
-    webUrl: "https://news.trust.org/item/20211112173355-waoeq"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 18
-  - title: "The metaverse is Big Brother in disguise: Freedom meted out by technological tyrants"
-    excerpt: "Welcome to the Matrix (i.e. the metaverse), where reality is virtual, freedom is only as free as one’s technological overlords allow."
-    publishedDateTime: 2021-11-12T04:05:00Z
-    webUrl: "https://augustafreepress.com/the-metaverse-is-big-brother-in-disguise-freedom-meted-out-by-technological-tyrants/"
-    type: article
-    provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
-    quality: 17
-    images:
-      - url: "https://augustafreepress.com/wp-content/uploads/2021/10/smart-home-technology-phone.jpg"
-        width: 400
-        height: 267
         isCached: true
 
 secured: "FFWW7IKaRvKLrT1DW2udAXnoAglteK4AO7TvwnytXTxaYNcJqM7VvBDsUxF8/zOOpzcWQV4M4lCkyiEbicCi5gtPhGc/dFfbYcXFg4WkZNh3jul2VbCwHr66BRmWkLbrx/ZdD+xcU9feK02AfsDD2GgOJ1UdQ6O2ZJyo8IkUrw1Vt7Q9HfCQSEPhDZnaNyje2brIJ8ilbndeAwQB+oJOxfjqqjh9ozzz7cExLhN9jPLrtQ4v0w1sq9SIg7sAXy8bDfdZbvE+D+XWHDaDlkVx8v47HUM5LTyFtPU0MoIDfaOz6jneAAQp0w/FB6LaM4Q80gHe2A5DmnwpWbYWixFKVSnm8CjxsZV8kKLOLjCjRjx0NIXx7uOZaGUPOqJJ2y4RnBWAPrS6oFV0/p9EAKne0r0tvR2Qbzu/+d7aeLspH5OXxj1TCDz+ke9LvmefAHdmbwTtEGLoi+N9kffILV/PVtU0BZPDmBAQkUIhqQYy40cUuN8cA7YeEeDbsAVLjep27b+RYaMiHPstH9kSPtReqA==;HXeheBR6kwHaxwRBErKSBw=="

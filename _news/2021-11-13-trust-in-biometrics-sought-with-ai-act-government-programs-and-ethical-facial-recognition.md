@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-
 webUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Public surveillance biometrics in Europe could be crushed between the EDPS and AI Act"
+    excerpt: "The European Association for Biometrics (EAB) held an Artificial Intelligence Act Workshop to inform members about the impact the proposed regional legislation."
+    publishedDateTime: 2021-11-16T17:13:00Z
+    webUrl: "https://www.biometricupdate.com/202111/public-surveillance-biometrics-in-europe-could-be-crushed-between-the-edps-and-ai-act"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
+        isCached: true
   - title: "Take the shine and target off face biometrics, say researchers"
     excerpt: "If held to the same standards as every other identification tool, use of face biometrics can add to the number of solved crimes with minimal collateral harms."
     publishedDateTime: 2021-11-12T16:13:00Z

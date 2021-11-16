@@ -50,6 +50,29 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 15
+  - title: "Osaka University Creates AI Supercomputer with Supermicro SuperBlades Utilizing 3 rd Gen Intel® Xeon® Scalable Processors"
+    excerpt: "Osaka University chose systems from Supermicro that consisted of Supermicro SuperBlades utilizing the 3rd Gen Intel® Xeon® Scalable processors. In addition to the CPU computing capacity, GPU nodes are also made available to researchers that require specialized hardware."
+    publishedDateTime: 2021-11-16T19:13:00Z
+    webUrl: "https://www.datacenterknowledge.com/manage/osaka-university-creates-ai-supercomputer-supermicro-superblades-utilizing-3-rd-gen-intel"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 14
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/mktg-webinar-nolabel3.jpg"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "Habana Labs Announces Turnkey AI Training Solution Featuring Supermicro Server and DDN Storage"
+    excerpt: "TEL-AVIV, ISRAEL and SANTA CLARA, Calif.–November 16, 2021– Habana Labs, an Intel Company and developer of AI processors, today announced the availability of a turnkey, enterprise-class AI training solution featuring the Supermicro X12 Gaudi AI Training Server with the DDN AI400X2 Storage system."
+    publishedDateTime: 2021-11-16T20:22:00Z
+    webUrl: "https://insidehpc.com/2021/11/habana-labs-announces-turnkey-ai-training-solution-featuring-supermicro-server-and-ddn-storage/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 7
 
 secured: "5pvfV77xCayeQ8gdiCeR/mZ1MMttnvStcu4cJ3MZ+4FS3CmbD1bs3XWnU1wGCVcNs8jcVnQ17gRYIKrg9wVtrDB3QKUYRwaZGSAxSxA9Ljra7cLho1O92rVB0i0it5Z9Sj2kub4FBZ1ZiUVoEvpLqYs83BqWNpb8iHmTRYBa9YYW1TxCXza5YGGUtUtrUGNbVvVUWeZrbrAeKkg2Zqup3+Qj6CiyhYSdx8gNNjZvsQELAGfHCyIr7vvhL93ffDQ3oZBHh3mjKW+aVWzV3ruTSLPdEBgVNlAK9EQP5PgsUA+3I8IHcHmC5t4o9dOddAMmAGA0/4bvUBIKJuTC+vtCwJkAIiGx+nc+w7fFtyPTnXe72hNG4jCBqITK9XiUMCjcMZvl5+GgS9RLILsz/yl5BsweGPtCyKtsiDjlUz1fgFXtLfYdCv2O3sfAJN/gRrdYROTQ5SW7g8hXPxvvUvjwaAx49NIPCQcOHLjTWrHmilgOpVrnUuphSpmI3s1T7ti2nUIXm0M1525hS7PDxWvnEg==;oSjAzgk2kiL2i7tr97sX1Q=="
 ---

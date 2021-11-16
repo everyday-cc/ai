@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
+    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO."
+    publishedDateTime: 2021-11-16T12:00:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/16/full/20211116165343.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "5 Critical Ways Python Developers Contribute To A FinTech Company"
     excerpt: "AI, scientific computing, academic research, etc. This creates countless opportunities for Python developers. In an industry like fintech that demands utmost care and focuses on security, you must vet carefully and hire Python developers who are highly ..."
     publishedDateTime: 2021-11-15T15:13:00Z
@@ -41,44 +57,35 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
-    excerpt: "IN-Dai Emulya Fintech Pte Ltd today announced that Abhishek Mishra a fintech leader with global experience is joining as the Co-founder and CEO"
-    publishedDateTime: 2021-11-16T14:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271738945/fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder"
+  - title: "Whale Cloud, Ant Group Team Up with Toka Fintech to Enable Greater Financial Inclusion for Consumers in Mexico"
+    excerpt: "Whale Cloud, a tech firm offering software solutions and services for telecommunications and several other industries has formed a partnership with Toka Fintech, a Mexican financial group, in order to assist with creating its own virtual payment app with Alipay+ Digital Wallet Solution,"
+    publishedDateTime: 2021-11-16T02:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182793-whale-cloud-ant-group-team-up-with-toka-fintech-to-enable-greater-financial-inclusion-for-consumers-in-mexico/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182793-whale-cloud-ant-group-team-up-with-toka-fintech-to-enable-greater-financial-inclusion-for-consumers-in-mexico/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182793-whale-cloud-ant-group-team-up-with-toka-fintech-to-enable-greater-financial-inclusion-for-consumers-in-mexico/amp/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1637072197.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Mexico-Money-Peso-500-.jpg"
+        width: 900
+        height: 664
         isCached: true
-  - title: "Beware of These 2 Popular but Overvalued Fintech Stocks"
-    excerpt: "There remains uncertainty regarding whether the COVID-19 pandemic-fueled growth of fintech will continue. Furthermore, banks have been easing restrictions and ramping up technology spending, and by so doing posing a competitive threat to the fintech industry."
-    publishedDateTime: 2021-11-12T17:55:00Z
-    webUrl: "https://stocknews.com/news/upst-sofi-beware-of-these-2-popular-but-overvalued-fintech-stocks/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+  - title: "Tinkoff Capital has launched new exchange-traded funds to invest in artificial intelligence, fintech and Asian markets"
+    excerpt: "The management company \"Tinkoff Capital\" has launched three new exchange-traded mutual investment funds (BPIF). This is stated in the bank's message. The Tinkoff AI-Robotics Fund will allow investing in leaders in the field of artificial intelligence and robotics technologies;"
+    publishedDateTime: 2021-11-15T14:04:00Z
+    webUrl: "https://www.akm.ru/eng/news/tinkoff-capital-has-launched-new-exchange-traded-funds-to-invest-in-artificial-intelligence-fintech-/"
     type: article
     provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
-  - title: "Pagaya to Participate in Citi's 2021 Virtual FinTech Conference"
-    excerpt: "Pagaya Technologies Ltd. (\"Pagaya\"), a financial technology company that enables financial institutions to expand access to more customers through its artificial intelligence network, today announced that Gal Krubiner,"
-    publishedDateTime: 2021-11-15T12:13:00Z
-    webUrl: "https://www.lelezard.com/en/news-20103018.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 15
     images:
-      - url: "https://www.lelezard.com/img/theme/lezard2.png"
-        width: 500
-        height: 414
+      - url: "https://www.akm.ru/upload/iblock/840/Tinkoff_Tinkoff_logotip.png"
+        width: 1036
+        height: 750
         isCached: true
 
 secured: "NHRRU2ld0JI0SUawcJKyNOLuVZK5tBktyJlbBYFraJwcJpHuoZ/1ntqiPmvI2WCONUnOGFFI4N9zzLA9LIvvB9RqhOdqWAcgeM6tqgQdCtHWVMuhGlgb/g1Xl53UreSpB9di/SnpOrchO0JU4yyYmN8vaCcpnR31KB8ACElXZgzhNFGzH+AKDvTT108uOLlOzz4vnqvjyUyjSKMu+nTvFLLBWL1z9CQ9gPcUk0xrI9jbdZ4+4zIT0z91n2hp984n1YhdSgwidQs4+fsappBtAxJgHNguTzhw5vn2VnC2EqubtQ4UR0MidAlmG4w3JlICIWYoQa3LcEpyo19S8rThzMhjdth1ZLOS7TGZuDTdQZxifUdL2GjN15oX2uZYimKKJQYNgsF2KRxKvIWSphwrAzafDZe59/WHPWp+0LI2/JI107SqTW92QpdE4/h2fWSO2NA88n6gZYz7VYMSchu7qRLXtJKI+XaLGurBKOWbiM7e8+hExnVwR+SPu/6+8XgBW1O8Oo9w812XYIIm1RavhA==;01o09olWrlGXxrC4OY8KGQ=="

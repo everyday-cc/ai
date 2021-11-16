@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hour One Accelerates Scalability Through AI-Powered Digital Cloning for Small Businesses and Entrepreneurs"
-    excerpt: "Hour One, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that attorney and CPA David Fritch is using its AI-driven enterprise solution to scale his business while saving time and resources to stay"
-    publishedDateTime: 2021-11-16T14:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-20107265.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Smith.ai Launches Call Intelligence for Companies to Better Track and Use Metadata to Improve Business Performance"
     excerpt: "Smith.ai, a leading virtual receptionist service, announced today the launch of new business intelligence (BI) tools to help businesses track and analyze phone call metadata. Smith.ai clients will now be able to view data obtained from phone calls in their own Call Dashboard in the form of graphs,"
     publishedDateTime: 2021-11-16T15:36:00Z
@@ -59,6 +45,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Hour One Accelerates Scalability Through AI-Powered Digital Cloning for Small Businesses and Entrepreneurs"
+    excerpt: "Hour One, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that attorney and CPA David Fritch is using its AI-driven enterprise solution to scale his business while saving time and resources to stay ahead of the competition."
+    publishedDateTime: 2021-11-16T14:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hour-one-accelerates-scalability-through-ai-powered-digital-/2021/11/16/9493467.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "TGzXeiPifZyiRtoSQRslJvFuFT7aWJfKDkjGkepJaEhlffog6lWK4ThuikOLPDIWWOZjF4ywaJzRIysTqRlI7WKp9IzIoM3OX0VmavX9v5ilWpR+fW1MLiKq0rRX3EgVxdRzLkZQHAmVjfYFVzGNejw+KBeFtuT5xTBpu/MJSWzugNVhcVTwSNZ+pDCkO7/E1vi6L/99aaTDJHWtXN76D68wc+Y4JoEiZX+BH8wEipU3cpBoSYAvNSah2ZTq1ApxbFZ6ntMOB0/s2KVOTFYImOlFXwp+anB+HacSBwHKcOzHETCGTJS27cVy/jSFJBpPAHiSluMZIxrEKC/+uUiuDRNpv839S1wxoMQ7txHlHhmFMtUO2q7BdPl5zVxHxVR+AcgTZNhysPGvoXSx8F02Ept7YcUR/Hsv7Deieer42FRXKMkn9qgkj3Eui65C5baM/xO3MR8I2ikBycJvUFRpvaRVEsSc98TxX+IKICbAdUYq6fi42oOvsztG04pijnnBPnF3s7UnPYwDznG1O2iRWA==;GR0pEhFoxiyBs5vQjCgrgw=="
 ---
