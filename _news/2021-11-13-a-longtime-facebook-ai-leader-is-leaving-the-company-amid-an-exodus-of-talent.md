@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/facebook-meta-ai-d
 webUrl: "https://markets.businessinsider.com/news/stocks/facebook-meta-ai-director-ragavan-srinivasan-out-2021-11"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Business Insider
@@ -27,6 +27,22 @@ images:
     width: 701
     height: 526
     isCached: true
+
+related:
+  - title: "New Facebook Product for Financial Advertisers"
+    excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
+    publishedDateTime: 2021-11-12T09:39:00Z
+    webUrl: "https://www.accuracast.com/newsletter/fb-financial-discovery/"
+    type: article
+    provider:
+      name: accuracast.com
+      domain: accuracast.com
+    quality: 24
+    images:
+      - url: "https://www.accuracast.com/wp-content/uploads/2021/11/facebook-finanical-discovery.jpg"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "/977E2NRCh+6HMUkhOowrvlQudXMVmtj6UdDCaLSv1vZvt96dEgNOb0WubSJKVa0b7DW7QFPwFP86+35kMeajMgXSGqQJsAhLh4W95cnT6Ygdu4/SeF/6yEaydu9Or78kNXeB1La45ToP40HI6dE5IJkqSNC7CNZWVkGBGlF6j5OodEkd5VI4VFRkUeSx/vX5pCI0BGsYjh8RGikM6hk16+UNvFb4aeTVMzV5vvmbPdbH+N80xfk/60NkzMtWbDWhzbkDcbGwyLdJPu4D98weXryVgEg5T4Wiby6ma32Y2OA0+uz2B3J7iVpQ6SrmV3fx3dE8rr6W99l5jOxiJhR2Paq4Z7gv/U/Xl2xyYjbUTOso3vqkkB0B46/ORyvIXZ1G86hg+R/mRCVYA5Q50K+fH214HsNXkme7IEJJneSaesa4BXlnuPyee7KwKf+t1SIk6vxS7b+/CRM8Z0DmbF/qd54VjV8pEMi1EymvlWJGUo6J6EiMvx5clxxjr+zpnca8WuHNG1crtGhXM/b9A5EjA==;X+9MW+mJDTXX07hiYj5XLg=="
 ---

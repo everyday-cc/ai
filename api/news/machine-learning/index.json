@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-16-deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content.md",
+      "title": "Deep tech, no-code tools will help future artists make better visual content",
+      "excerpt": "The future creator economy will offer incredible business opportunities in visual platforms and tools that enable a focus on content.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1335175570.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/amp/",
+      "publishedDateTime": "2021-11-15T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-how-machine-learning-is-skewing-the-odds-in-online-gambling.md",
       "title": "How machine learning is skewing the odds in online gambling",
       "excerpt": "Commentary: The house always wins in gambling, and the house is getting even tougher through machine learning.",
@@ -115,7 +167,7 @@
       "originalUrl": "https://semiengineering.com/ai-ml-workloads-need-extra-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -149,50 +201,6 @@
         "Machine Learning",
         "AI in Security",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-13-exploring-the-impact-of-machine-learning-and-artificial-intelligence-in-drug-development-from-discovery-to-healthcare.md",
-      "title": "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare",
-      "excerpt": "SMi Group reports the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the opportunities of machine learning and AI in drug development SMi Group is delighted to announce",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial",
-      "originalUrl": "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub12584002_g.jpg",
-          "width": 650,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial",
-      "publishedDateTime": "2021-11-12T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

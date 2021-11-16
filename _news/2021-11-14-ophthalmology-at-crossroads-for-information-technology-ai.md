@@ -23,22 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "S&P Global Market Intelligence Information Technology Outlook Report finds that digitization leaders outperform in equity and credit markets"
-    excerpt: "Customer experience, hybrid infrastructure, cyber security, artificial intelligence (AI) and workplace technology are driving change in the industry and this report examines how their impacts will play out in the year ahead. Published by 451 Research ..."
-    publishedDateTime: 2021-11-11T08:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-digitization-1bcecf982fbf6c8a350c2cd03282609b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "SSxnVSAxLUcMU5QMjxiqSfoEDUh7zmcwmh4FrrlbSTgWdO7eVUoL2TVtLoMYtx1VMJgw9tcO9Y5Ydv7hsUb8iv7rheKk0+e5Y4qfasD4O5GwZB2VX1Qkf3B5RFZdQY2UPeekhyAEH4zJ5OEoPNgNGFiraDEWMNvtetRNoaDgG4UB0Wm1KkiQzjJPtZSX89vn0wBC37OXUi+NEdvp+7wassCEVRu74Yn5Y9RrfFmXxPi2i3Xf9sC09wTZ/2qpIwWBFCHNktWTEZ70pRpN4BBW6PdLF21o9C4KPfL38c+7yOjXl0UEPdDGbXrXhYTLj2ujkbyGn09fSykPz6gM0b66QemsEmvEbJQulm6eipGfdxs=;IO8zPzeFv4Y1MzkeZrX2zQ=="
 ---
 

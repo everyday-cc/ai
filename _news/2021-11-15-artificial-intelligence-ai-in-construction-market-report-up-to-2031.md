@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2461984/artificial-intelligence-ai-in-con
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:

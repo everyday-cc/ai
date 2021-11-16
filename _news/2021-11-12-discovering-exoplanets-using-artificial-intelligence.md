@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Discovering exoplanets using artificial intelligence"
-    excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
-    publishedDateTime: 2021-11-11T08:45:00Z
-    webUrl: "https://www.nanowerk.com/news2/space/newsid=59109.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/news2/space/id59109_1.png"
-        width: 450
-        height: 338
-        isCached: true
 
 secured: "Cl2tRwTVjEWUC+FQOSrRq/2/NCxpb29U5FZdC/JAW3jCRw3rkZLDaifNtjvibdlPMTOEgO0+dTg4x4Bp976Pe1iUaaCDIDklIWjS9ZFoWp93lSI9xKJoV+TK8LEc2PMdEl/Ewg1YhSEOrY+JaoexzLW6Ila8c1mP4qdVO828MkP+04/26qXNCHMFS7M0NQrWvXG/Tt2ic80KBMEov6vP9VW0UU3gYKqC51lAmkN7vHyVPb5u9gj7iyqZEJExvFFxsOkzYAAkiszpf7a6424rTrTbTNfTSm4KcSplXr8rFtUEOgJMQ+vbl1LRiIlNvEGve/NUk22201QnL6hyAO33wIlzt+ZoiEBbgUu3sRWRfeKfpCRM7FcoV3PEzXdI4pcRlmerZjWLlTotf0XI/RgovXbgAjZCp9JakA4m1SqgHT6YdLiTXu8tN0DsTv9p5konZygu7WB+aTytbBaxKFg8IrFa+DcO7eqIbPmtuO6dESK/1qEL0ePujd5TJxbTE9OIbJQ/QH3Wh9HkwQnS/2uJtQ==;2Tw7uJWEpn5ES+RMOgQexg=="
 ---

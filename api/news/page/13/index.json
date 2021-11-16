@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-11-04-google-wants-to-work-with-the-pentagon-again-despite-employee-concerns.md",
+      "title": "Google Wants to Work With the Pentagon Again, Despite Employee Concerns",
+      "excerpt": "Three years ago, the company walked away from a Defense Department project after employees objected to it. Now the company is working on a new proposal for the Pentagon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/11/02/business/00googlemilitary/merlin_146105364_f4798f37-22a8-4466-bf33-7f075b0f8361-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/03/technology/google-pentagon-artificial-intelligence.amp.html",
+      "publishedDateTime": "2021-11-03T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-facebook-is-backing-away-from-facial-recognition-meta-isnt.md",
       "title": "Facebook is backing away from facial recognition. Meta isn’t.",
       "excerpt": "Facebook says it will stop using facial recognition for photo-tagging. In a Monday blog post, Meta, the social network’s new parent company, announced that the platform will delete the facial templates of more than a billion people and shut off its facial recognition software,",
@@ -1128,58 +1179,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-global-artificial-intelligence-in-regtech-market-industry-insight-trends-size-share-analysed-from-top-countries-data-forecast-upto-2026.md",
-      "title": "Global Artificial Intelligence In RegTech Market | Industry Insight, Trends, Size, Share | Analysed From Top Countries Data | Forecast upto 2026",
-      "excerpt": "In 2021, “Artificial Intelligence In RegTech Market“ revenue was Million USD in 2016, grew to Million USD in 2021, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-regtech-market-industry-insight-trends-size-share-analysed-from-top-countries-data-forecast-upto-2026-2021-11-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-regtech-market-industry-insight-trends-size-share-analysed-from-top-countries-data-forecast-upto-2026-2021-11-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

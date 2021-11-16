@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-bet
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/?amp=1"
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:

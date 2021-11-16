@@ -2,6 +2,59 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-11-02-automated-claims-processing-at-xactware-with-machine-learning-on-aws.md",
+      "title": "Automated claims processing at Xactware with machine learning on AWS",
+      "excerpt": "This blog post was co-authored, and includes an introduction, by Aaron Brunko, Senior Vice President, Claims Product at Xactware. Property insurance claims involving the valuation and replacement of personal belongings can be a painful process for everyone involved after a loss. From catastrophic events",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automated-claims-processing-at-xactware-with-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4776-image005-1260x613.png",
+          "width": 1260,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T11:10:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-pasadena-company-introduces-2nd-generation-robotic-kitchen-assistant.md",
       "title": "Pasadena Company Introduces 2nd Generation Robotic Kitchen Assistant",
       "excerpt": "Miso Robotics in Pasadena on Tuesday unveiled Flippy 2, a new and improved version of its automated kitchen assistant. The “faster and more customizable” version of the original Flippy device was designed with input from a pilot program in partnership with the White Castle hamburger chain,",
@@ -1161,40 +1214,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-orpalis-imaging-technologies-announces-major-ocr-improvements-with-deep-learning-based-icr-engine.md",
-      "title": "ORPALIS Imaging Technologies Announces Major OCR Improvements with Deep Learning-based ICR engine",
-      "excerpt": "New ICR engine ORPALIS Imaging Technologies introduces its first ICR engine, improving its machine vision capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n23815015/orpalis-imaging-technologies-announces-major-ocr-improvements-with-deep-learning-based-icr-engine",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n23815015/orpalis-imaging-technologies-announces-major-ocr-improvements-with-deep-learning-based-icr-engine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23815015",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23815015",
-      "publishedDateTime": "2021-11-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

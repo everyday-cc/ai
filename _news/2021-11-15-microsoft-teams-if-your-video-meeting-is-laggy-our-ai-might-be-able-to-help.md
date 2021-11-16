@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-teams-if-your-vid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/"
 type: article
 quality: 101
-heat: 111
+heat: 112
 published: true
 
 provider:

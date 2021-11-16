@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-o
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809?amp=1"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

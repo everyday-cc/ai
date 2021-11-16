@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-12-this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats.md",
+      "title": "This farm is developing a smart facial recognition system.. for its goats",
+      "excerpt": "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
+      "originalUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/cover_2a5x.620.png",
+          "width": 620,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1",
+      "publishedDateTime": "2021-11-11T20:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-university-of-washington-study-deep-learning-reveals-3d-models-of-protein-machines.md",
+      "title": "University of Washington study: Deep learning reveals 3D models of protein machines",
+      "excerpt": "A new study peers into the structure of hundreds of protein complexes, tiny machines in cells that control everything from energy use to DNA replication. Researchers at the University of",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
+      "originalUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-11-at-10.40.14-AM-300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/",
+      "publishedDateTime": "2021-11-11T18:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-self-driving-truck-startup-kodiak-robotics-raises-125-million.md",
       "title": "Self-Driving Truck Startup Kodiak Robotics Raises $125 Million",
       "excerpt": "Self-driving truck startup Kodiak Robotics recently announced a $125 million funding round as the trucking industry is facing major challenges, including growing shipping demand and driver shortages.",
@@ -792,7 +888,7 @@
       "originalUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -887,48 +983,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-11-culvers-may-start-using-ai-to-operate-drive-thru-lanes.md",
-      "title": "Culver’s may start using AI to operate drive-thru lanes",
-      "excerpt": "The CEO of Culver’s says they may start to use AI instead of human workers to operate drive-thru's in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes",
-      "originalUrl": "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/463fda0/2147483647/strip/true/crop/640x360+0+59/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.tmj4.com%2Fphoto%2F2017%2F06%2F27%2Fculvers%20logo_1498600163664_61889194_ver1.0_640_480.JPG",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true",
-      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true",
-      "publishedDateTime": "2021-11-11T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMJ4",
-        "domain": "tmj4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-11-how-fintech-companies-are-changing-the-idea-of-credit-in-india.md",
       "title": "How Fintech Companies Are Changing the Idea Of Credit In India",
       "excerpt": "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647.",
@@ -937,7 +991,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/396710",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -989,7 +1043,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1175,58 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-google-pixel-6-series-might-get-face-unlock-smarts-after-all.md",
-      "title": "Google Pixel 6 series might get face unlock smarts after all",
-      "excerpt": "The Google Pixel 6 series launched without face unlock, however, a new commit suggests that the firm is still working on the feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
-      "originalUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/pixel-6-fingerprint.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
-      "publishedDateTime": "2021-11-10T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

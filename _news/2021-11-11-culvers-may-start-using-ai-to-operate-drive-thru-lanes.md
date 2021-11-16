@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-o
 cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/local-news/culvers-may-start-using-ai-to-operate-drive-thru-lanes?_amp=true"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: TMJ4
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Discovering exoplanets using artificial intelligence"
-    excerpt: "A team of astronomers used artificial intelligence (AI) applied to image recognition. They taught a machine to predict the effect of interactions between planets, making it possible to discover exoplanets that were impossible to detect until now."
-    publishedDateTime: 2021-11-11T08:45:00Z
-    webUrl: "https://www.nanowerk.com/news2/space/newsid=59109.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/news2/space/id59109_1.png"
-        width: 450
-        height: 338
-        isCached: true
   - title: "Discovering exoplanets using artificial intelligence"
     excerpt: "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in luminosity observed makes it possible to deduce the existence of a planet and to estimate its diameter,"
     publishedDateTime: 2021-11-11T17:45:00Z

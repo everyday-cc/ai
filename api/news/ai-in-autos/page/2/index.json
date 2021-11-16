@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-04-the-hottest-tech-trend-of-2022.md",
+      "title": "The Hottest Tech Trend Of 2022",
+      "excerpt": "The Hottest Tech Trend Of 2022 <p>It's an industry that will never retire or ever go obsolete.</p> <p> It's a revolutionary virtual marketplace, and",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103096381/The-Hottest-Tech-Trend-Of-2022",
+      "originalUrl": "https://menafn.com/1103096381/The-Hottest-Tech-Trend-Of-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-11/03/B_26655image_story.jpg",
+          "width": 845,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has.md",
       "title": "Scale AI acquires SiaSearch to give companies the same data engine superpowers that Tesla has",
       "excerpt": "Scale AI, the five-year-old visual data labeling company, has acquired a small startup that could help expand its reach in Europe and speed up development of its newest product. Financial terms were not disclosed.",
@@ -1197,6 +1240,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-27-artificial-intelligence-in-regtech-market-size-forecast-to-reach-33-billion-by-2026.md",
+      "title": "Artificial Intelligence in Regtech Market Size Forecast to Reach $3.3 Billion by 2026",
+      "excerpt": "Rising Demand for Regulatory Compliance Driving the Growth of Artificial Intelligence in Regtech Market ... It can create risk models and self- improving methods for data analytics, modelling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-regtech-market-size-forecast-to-reach-3-3-billion-by-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-regtech-market-size-forecast-to-reach-3-3-billion-by-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1635161709.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-ntsb-head-criticizes-teslas-self-driving-features-calls-them-misleading.md",
       "title": "NTSB head criticizes Tesla's self-driving features, calls them 'misleading'",
       "excerpt": "NTSB Chairwoman Jennifer Homendy called the company's use of \"Full Self-Driving\" for its latest driver-assist systems \"misleading.\"",
@@ -1334,102 +1420,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-life-service-to-shop-to-shop-o2o-market-next-big-thing-major-giants-amazon-alibaba-jd.md",
-      "title": "Life Service to Shop (to Shop O2O) Market Next Big Thing | Major Giants Amazon, Alibaba, JD",
-      "excerpt": "While emphasizing the key driving and restraining forces for this ... Gmarket.co.kr,, Amazon, Meituan & Baidu Life Service to Shop (to Shop O2O) Market Study guarantees you to remain / stay ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/life-service-to-shop-to-shop-o2o-market-next-big-thing-major-giants-amazon-alibaba-jd",
-      "originalUrl": "https://www.digitaljournal.com/pr/life-service-to-shop-to-shop-o2o-market-next-big-thing-major-giants-amazon-alibaba-jd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/13a598baaf979d9de09bf0939a2c50817f524ef2-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-when-a-ghost-seemingly-has-taken-your-ai-self-driving-car.md",
-      "title": "When A Ghost Seemingly Has Taken Your AI Self-Driving Car",
-      "excerpt": "In the spirit of Halloween, consider whether a ghost can drive off or more rightly spirit away with your AI self-driving car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616f63a78381218bc51e3a22%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2024%26cropY1%3D0%26cropY2%3D1408",
-          "width": 1200,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
-      "publishedDateTime": "2021-10-25T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
