@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-11-02-reskin-aims-to-give-ai-a-sense-of-touch.md",
+      "title": "ReSkin aims to give AI a sense of touch",
+      "excerpt": "Humans take the sense of touch for granted, and it’s one of the most important types of input that we get in certain situations. Our sense of touch allows us to do things like feel how we",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02697870/",
+      "originalUrl": "https://www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02697870/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/11/reskin.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02697870/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/reskin-aims-to-give-ai-a-sense-of-touch-02697870/amp/",
+      "publishedDateTime": "2021-11-02T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-orpalis-imaging-technologies-announces-major-ocr-improvements-with-deep-learning-based-icr-engine.md",
       "title": "ORPALIS Imaging Technologies Announces Major OCR Improvements with Deep Learning-based ICR engine",
       "excerpt": "New ICR engine ORPALIS Imaging Technologies introduces its first ICR engine, improving its machine vision capabilities.",
@@ -1104,59 +1156,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-how-leaders-in-security-observability-and-innovation-master-cloud-complexity.md",
-      "title": "How Leaders In Security, Observability And Innovation Master Cloud Complexity",
-      "excerpt": "As organizations adopt microservices architectures, multiple public clouds and more, complexity will only increase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61783b2546500e7920061744%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/11/01/how-leaders-in-security-observability-and-innovation-master-cloud-complexity/amp/",
-      "publishedDateTime": "2021-11-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

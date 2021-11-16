@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-10-12-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics.md",
+      "title": "House Task Force on Artificial Intelligence to Hold Hearing on Ethics",
+      "excerpt": "On Wednesday, October 13, the House Committee on Financial Services, Task Force on Artificial Intelligence (AI) will hold a hearing to discuss ethics and AI. According to the hearing memo, in financial services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/h-heyerlein-on-Unsplash-AI-technology-Data-Artificial-Intelligence.jpg",
+          "width": 1280,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/amp/",
+      "publishedDateTime": "2021-10-11T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
       "title": "Attention-based deep neural network increases detection capability in sonar systems",
       "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
@@ -1099,58 +1142,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-fintech-is-changing-the-insurance-industry.md",
-      "title": "How FinTech Is Changing The Insurance Industry",
-      "excerpt": "Article take from FinTech Magazine. The insurance industry has always been a complicated but firmly rooted environment, but advancements in technology have collided with customer needs, creating systemic challenges for the insurance industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/how-fintech-changing-insurance-industry-banq-ai",
-      "originalUrl": "https://www.linkedin.com/pulse/how-fintech-changing-insurance-industry-banq-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEGg8v3R79fEA/article-cover_image-shrink_600_2000/0/1633965955561?e=1640217600&v=beta&t=Y63Cbkp6bJc1FUkTSXa-8DGMh9RFFzHHa0TScgIiSos",
-          "width": 744,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

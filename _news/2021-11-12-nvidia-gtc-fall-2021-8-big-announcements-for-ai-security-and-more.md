@@ -58,6 +58,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "NVIDIA highlights healthcare AI innovations"
+    excerpt: "The NVIDIA GPU technology conference saw the company introduce technologies that aim to change how artificial intelligence powers medical devices and drug discovery"
+    publishedDateTime: 2021-11-11T11:02:00Z
+    webUrl: "https://physicsworld.com/a/nvidia-highlights-healthcare-ai-innovations/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 56
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2021/05/PWMay21Wossnig_F0277500-Genetic_research.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Early predictions for Nvidia and AMD's next-gen cards set up a titan GPU battle"
     excerpt: "Rumours about the potential next generation of GPUs—namely Nvidia's GeForce RTX 4090 and AMD's Radeon RX 7900 XT—have already begun to surface across the web. Among them, known Twitter leaker Greymon55 now airs their predictions where core count,"
     publishedDateTime: 2021-11-12T13:19:00Z
@@ -89,22 +103,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/W4DB35GbTtA5TdPRRi8CWN-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "QCraft announces self-driving chip deal with Nvidia, setting course for mass production"
-    excerpt: "Nvidia’s Drive Orin chipsets will underpin the hardware suite that will be fitted in QCraft’s next-generation self-driving car fleet."
-    publishedDateTime: 2021-11-11T09:39:00Z
-    webUrl: "https://technode.com/2021/11/11/qcraft-announces-self-driving-chip-deal-with-nvidia-setting-course-for-mass-production/"
-    ampWebUrl: "https://technode.com/2021/11/11/qcraft-announces-self-driving-chip-deal-with-nvidia-setting-course-for-mass-production/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/11/qcraft-announces-self-driving-chip-deal-with-nvidia-setting-course-for-mass-production/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 53
-    images:
-      - url: "https://technode.com/wp-content/uploads/2021/11/轻舟智航自动驾驶测试车的副本.jpg"
-        width: 1280
-        height: 854
         isCached: true
   - title: "Nvidia Turns Its Focus to AI Inference"
     excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"

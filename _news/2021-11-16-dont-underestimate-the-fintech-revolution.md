@@ -43,20 +43,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "The Role of Fintech in Achieving a Net Zero Emission Reality"
-    excerpt: "The world is moving toward a net-zero economy, and the financial technology sector may be at the vanguard of this change"
-    publishedDateTime: 2021-11-11T10:04:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/role-fintech-achieving-net-zero-emission-reality"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/green-forest-with-technological-twist.jpg.png?itok=hnz8TRum"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Technology + Innovation in the financial sector = FINTECH"
     excerpt: "In celebration of UAE Year of the Fiftieth (50th), it is important to note how far we have come as a country. Historically, the Dubai economy was dependent on oil and gas, and accounted for 50% of its GDP in 1985."
     publishedDateTime: 2021-11-14T13:15:00Z

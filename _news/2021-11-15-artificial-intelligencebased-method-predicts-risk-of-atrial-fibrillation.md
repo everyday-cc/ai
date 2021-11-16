@@ -34,6 +34,22 @@ related:
         width: 850
         height: 413
         isCached: true
+  - title: "Researchers develop AI-based method for identifying patients at risk of atrial fibrillation"
+    excerpt: "Atrial fibrillation-;an irregular and often rapid heart rate-;is a common condition that often leads to the formation of clots in the heart that can travel to the brain to cause a stroke."
+    publishedDateTime: 2021-11-16T02:18:00Z
+    webUrl: "https://www.news-medical.net/news/20211115/Researchers-develop-AI-based-method-for-identifying-patients-at-risk-of-atrial-fibrillation.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211115/Researchers-develop-AI-based-method-for-identifying-patients-at-risk-of-atrial-fibrillation.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211115/Researchers-develop-AI-based-method-for-identifying-patients-at-risk-of-atrial-fibrillation.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 47
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "K8AG5//qde1T5htHYpTQseOoezpxfTVAsjQi5P8myjr335kmt7iVxcR3FuBSfbJVOV/tJkHz8M4C+sKUcyWxFPSTJGDPBsnfTLzYg3HkOFY+3g6yuiirxAcoeHuDDJBIaFXZCnAiMiZ26Cth+zpg24T13PkHU2CuV7c+UA2GR/NxysxKZ8giu666CksnQ9+h/h42ZZiUpe5zjBhWS4zC11YgFfy2nBymq/pjKPbYGoskvn9n+a4oocAieaM9dVH4Q5/dcyL62MtFC+r6yauFNaUXiWPhF6dMfSObjB4VvTjg2eYj8jUYAW+oJir89EIe6GcuIvWMlDzzKO3pw3mtW83qRKoGU6RmFdYkBjedXLE=;MKfMyYUD7sE6X/qbPZiArA=="
 ---

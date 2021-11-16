@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-09-nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai.md",
+      "title": "Nvidia’s Riva Custom Voice lets companies create custom voices powered by AI",
+      "excerpt": "GTC conference, Nvidia unveiled Riva Custom Voice, a service designed to let customers create AI-powered custom voices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/",
+      "publishedDateTime": "2021-11-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-nvidia-announces-major-updates-to-triton-inference-server-as-25000-companies-worldwide-deploy-nvidia-ai-inference.md",
       "title": "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference",
       "excerpt": "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,",
@@ -85,49 +138,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-what-analysing-language-tells-us-about-inflation.md",
-      "title": "What analysing language tells us about inflation",
-      "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
-      "sourceUrl": null,
-      "webUrl": "https://www.schroders.com/de/uk/adviser/insights/economics/what-analysing-language-tells-us-about-inflation/",
-      "originalUrl": "https://www.schroders.com/de/uk/adviser/insights/economics/what-analysing-language-tells-us-about-inflation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.schroders.com/de/sysglobalassets/digital/insights/2021/hero-images/announcement.jpg",
-          "width": 945,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Schroders",
-        "domain": "schroders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -221,6 +231,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-what-analysing-language-tells-us-about-inflation.md",
+      "title": "What analysing language tells us about inflation",
+      "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
+      "sourceUrl": null,
+      "webUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "originalUrl": "https://www.schroders.com/de/za/intermediary/insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.schroders.com/de/sysglobalassets/digital/insights/2021/hero-images/announcement.jpg",
+          "width": 945,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Schroders",
+        "domain": "schroders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -540,17 +593,17 @@
     {
       "path": "_news/2021-11-09-big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies.md",
       "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
-      "excerpt": "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
+      "excerpt": "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
       "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
-      "originalUrl": "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "webUrl": "https://www.clinicaltrialsarena.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "originalUrl": "https://www.clinicaltrialsarena.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg",
+          "url": "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/11/leaders.jpg",
           "width": 1400,
           "height": 934,
           "title": null,
@@ -565,8 +618,8 @@
       "publishedDateTime": "2021-11-08T17:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Verdict Retail",
-        "domain": "retail-insight-network.com",
+        "name": "Clinical Trials Arena",
+        "domain": "clinicaltrialsarena.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -576,7 +629,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1116,58 +1169,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-its-go-time-for-self-driving-cars-north-of-the-arctic-circle.md",
-      "title": "It’s ‘Go Time’ For Self-Driving Cars – North Of The Arctic Circle",
-      "excerpt": "Northern Norway will be a closely watched, wintry testing ground for self-driving cars. If they can make it there, autonomous vehicle industry members say, driverless cars can make it anywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
-      "originalUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61894faa6cc9ac8540b3fa1f%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D2364%26cropY1%3D0%26cropY2%3D1671",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
-      "publishedDateTime": "2021-11-08T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-11-tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech.md",
+      "title": "Toch.ai launches Rs 100 cr Startup Fund; to invest in video, audio tech",
+      "excerpt": "Toch.ai, an AI-driven SaaS platform for digital content players today launched a Rs 100 crore Startup Fund to invest in video and audio tech startups globally over a period of time. The fund aims to empower early-stage startups to drive innovation and bolster growth in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
+      "originalUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2021-11/e1f7a425-dd56-4a5f-9314-e526345683bf/Toch_ai_Co_Founders.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
+      "publishedDateTime": "2021-11-10T23:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-google-pixel-6-series-might-get-face-unlock-smarts-after-all.md",
       "title": "Google Pixel 6 series might get face unlock smarts after all",
       "excerpt": "The Google Pixel 6 series launched without face unlock, however, a new commit suggests that the firm is still working on the feature.",
@@ -540,33 +582,24 @@
     {
       "path": "_news/2021-11-11-standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous-retail.md",
       "title": "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail",
-      "excerpt": "Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based computer vision company, ThirdEye Labs (“ThirdEye”); and added Sameer Qureshi, who joins from ...",
+      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f",
+      "webUrl": "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail",
+      "originalUrl": "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T09:02:00-08:00",
+      "publishedDateTime": "2021-11-10T09:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1166,49 +1199,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-why-has-artificial-intelligence-become-an-obsession-for-your-ceo-focus.md",
-      "title": "Why has Artificial Intelligence become an obsession for your CEO? – focus",
-      "excerpt": "Artificial Intelligence is the biggest trend causing business leaders sleepless nights. Business leaders are still worried about artificial intelligence (AI), but with Facebook pushing hard into the metaverse,",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-drinks.com/features/why-is-ai-an-obsession-for-business-insiders-focus/",
-      "originalUrl": "https://www.just-drinks.com/features/why-is-ai-an-obsession-for-business-insiders-focus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/11/AI-II.jpg",
-          "width": 1296,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drinks",
-        "domain": "just-drinks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

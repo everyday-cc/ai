@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/osim/2021/11/15/dare-to-dream-patrick-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/osim/2021/11/15/dare-to-dream-patrick-tu-cofounder-of-dayta-ai/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

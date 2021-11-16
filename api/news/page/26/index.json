@@ -2,6 +2,57 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-10-26-we-need-to-pay-attention-to-ai-bias-before-its-too-late.md",
+      "title": "We need to pay attention to AI bias before it's too late",
+      "excerpt": "Cognitive bias leads to AI bias, and the garbage-in/garbage-out axiom applies. Experts offer advice on how to limit the fallout from AI bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
+      "originalUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/25/cc0205d8-ff0a-4d0b-b4c6-a09713397ea1/resize/1200x/269e9cf0da4d09b32d22a62c64a5f3f2/shutterstock-1717584028.jpg",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
+      "publishedDateTime": "2021-10-25T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-utilizing-ai-to-improve-mass-transit.md",
       "title": "Utilizing AI to improve mass transit",
       "excerpt": "AI's capacity for data analysis has the potential to not only improve the current mass transit system, but reimagine it altogether.",
@@ -1145,57 +1196,6 @@
         "AI Ethics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it.md",
-      "title": "The Use Of Artificial Intelligence In Business Codifies Gendered Ageism. How Do We Fix It?",
-      "excerpt": "As more organizations adopt AI and use data to make decisions like hiring, what are the consequences of not involving a diverse set of individuals, especially women, in the design process?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/",
-      "originalUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174762f6160a396701d73f3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/amp/",
-      "publishedDateTime": "2021-10-25T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

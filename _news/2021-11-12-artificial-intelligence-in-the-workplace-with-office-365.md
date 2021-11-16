@@ -36,7 +36,7 @@ related:
     provider:
       name: publicnow.com
       domain: publicnow.com
-    quality: 17
+    quality: 19
 
 secured: "/hn8Uvnvjrt0AYQFwb2ZqiBCev0p4GPD3eG0iVGIM7FVGZjMAXc1GnfdYKKsnxk5fPDFzTwOy2t3al3Tc/7DLpUxTpbnjZt7swkyzyZtSWY3e9Ifd25zF0j8qwhqcwB9+K5F8YQKXnQKddn9iD7xU6sdEBzxnp9D+4OixMpDs1gcJeJErwVgtarsHy20xrbZn4Xc83RAk5Ni/uSR1OJ2jjM3RE1iu4T+OEgX8uCCTvq7oNxsf6QOS6QKpHMKsC7eHjbJjCyDT+ixsVqmwH4AxxSm54wC5O3ZhqxowWjWYYSQECiqilD4ZZIAtADj0zXFfKcpmsZwwUFlyERkD6SvOe5S7CaJhPPGOOl8teCrZhU=;mgNavdIQi17ykzSVrvML2Q=="
 ---

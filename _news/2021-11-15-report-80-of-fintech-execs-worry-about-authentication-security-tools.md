@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/eec31d33-3d68-52dd-86a4-575e41897b0f&operation=CROP&offset=0x19&resize=1150x647"
         width: 650
         height: 366
-        isCached: true
-  - title: "The Role of Fintech in Achieving a Net Zero Emission Reality"
-    excerpt: "The world is moving toward a net-zero economy, and the financial technology sector may be at the vanguard of this change"
-    publishedDateTime: 2021-11-11T10:04:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/role-fintech-achieving-net-zero-emission-reality"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/green-forest-with-technological-twist.jpg.png?itok=hnz8TRum"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Technology + Innovation in the financial sector = FINTECH"
     excerpt: "In celebration of UAE Year of the Fiftieth (50th), it is important to note how far we have come as a country. Historically, the Dubai economy was dependent on oil and gas, and accounted for 50% of its GDP in 1985."

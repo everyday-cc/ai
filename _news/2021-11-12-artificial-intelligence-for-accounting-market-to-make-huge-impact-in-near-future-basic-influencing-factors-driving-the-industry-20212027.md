@@ -64,6 +64,20 @@ related:
         width: 533
         height: 368
         isCached: true
+  - title: "To innovate in population health, start with the basics"
+    excerpt: "To succeed in population health, companies must first consider the basics, such as wrangling patient data and making sure it matches up. Panelists at INVEST Pop Health spoke about the challenges of taking this information and translating it into meaningful health outcomes."
+    publishedDateTime: 2021-11-16T01:10:00Z
+    webUrl: "https://medcitynews.com/2021/11/to-innovate-in-population-health-start-with-the-basics/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 22
+    images:
+      - url: "https://medcitynews.com/uploads/2021/10/Lung-Cancer-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "Tz0/in7mRhV0V/1bg2QvDg0k503ipc7JvvVdeElgFDmL1o6apwpjhvejKPG0lT2xNXQKfRLOMGE7bii+LHBJcdYY1+H1RDVdyDx8g6g3tK9WC/U/F+GSWv5RtCFIpj5woxDNLpG4GKHlLoXiFJ9cLw8gAlTvvAygmHzKMN9l4Ad7eWnZLa4+nqS7t9CJVOAnU0nDo3pMw+BcZ1gw71NAbGrqZMawhASF+MkcDxslVP2Q6TtXIeXF9Pc3DSgzLbJJDjMDluFjy8ha+oMv7D9SFNOmrTNnSQ9NJD79F93z2SJej1CcTkbX+vfAzp65D8Sf7jyfx2kepd3uPfZ01lfx4XI3JviH+cZeqMromL1ljPU=;88CVejv02eaErZHzKqwedQ=="
 ---

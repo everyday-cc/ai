@@ -61,20 +61,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "The Role of Fintech in Achieving a Net Zero Emission Reality"
-    excerpt: "The world is moving toward a net-zero economy, and the financial technology sector may be at the vanguard of this change"
-    publishedDateTime: 2021-11-11T10:04:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/role-fintech-achieving-net-zero-emission-reality"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/green-forest-with-technological-twist.jpg.png?itok=hnz8TRum"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Taking on Fintech in its own backyard"
     excerpt: "The Fintech market is growing at an incredible rate, reinventing the financial services sector as it goes. Valued at $20.4 billion as recently as 2019, the Fintech sector is projected to be worth $471 billion globally by 2027."
     publishedDateTime: 2021-11-15T16:52:00Z

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-09-its-go-time-for-self-driving-cars-north-of-the-arctic-circle.md",
+      "title": "It’s ‘Go Time’ For Self-Driving Cars – North Of The Arctic Circle",
+      "excerpt": "Northern Norway will be a closely watched, wintry testing ground for self-driving cars. If they can make it there, autonomous vehicle industry members say, driverless cars can make it anywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
+      "originalUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61894faa6cc9ac8540b3fa1f%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D2364%26cropY1%3D0%26cropY2%3D1671",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
+      "publishedDateTime": "2021-11-08T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs.md",
       "title": "FinTech JUMO Raises $120M to Support Emerging Market Entrepreneurs",
       "excerpt": "FinTech JUMO raised $120 million to help the startup further support emerging market entrepreneurs with next-generation financial services.",
@@ -1129,58 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027.md",
-      "title": "Global Artificial Intelligence Robotics Market Report Shows Demand to Boost Industry Growth from 2021 to 2027",
-      "excerpt": "With this report titled Global Artificial Intelligence Robotics Market 2021-2027, research analysts of MarketsandResearch.biz help us to present our clients with insightful data on the investment or growth opportunities in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-07T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

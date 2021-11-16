@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.wbur.org/onpoint/2021/11/12/red-hot-housing-market-broke
 cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2021/11/12/red-hot-housing-market-broke-ai-home-buying-zillow-redfin"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1700
     height: 1133
     isCached: true
-
-related:
-  - title: "How test automation, machine learning, and AI will change test coverage forever"
-    excerpt: "Did you know the biggest challenge IT leaders face in achieving test automation is the lack of platform coverage? With test automation key to the future of test coverage, its as important as ever to learn what testing strategies promote reliability of apps,"
-    publishedDateTime: 2021-11-11T09:43:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1635314243_836.html"
-    type: article
-    provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 50
-    images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1635314243_836_lg.jpg"
-        width: 315
-        height: 237
-        isCached: true
 
 secured: "X2KYxsOYE8XQekkEW2A2C5zpom/95Z3P3Z8WhPf17BVGWOVwLeTW0b+hcAMfF+kkElrjXaCXfpKUiHK27Vab3VgaE7VmftK/9GIG0hV5RY9DeAob52EQXKa+1QXqZzk64fklVnHkpp+8zm0knPS3kdPEzppyPDuhFUucpwHpTAKOVxxckLSz4rTX1ShTrCGYWyEy7itAWCr/0HVCV+aQZ2Ql9N1tDVFTNsjvVcD3PpvS07RRG7v22S1VmqxkbkwATE9aYJqY0cSob9s6zyeg12oSdFTLU43M8UYyVU3Ig+mVsYykXLEokOP2t+wKKbgVvZG1P2PB7vrZUX8JUBjgHIULe571BBS6pUB+5EVSeZ8=;PgsJPRvYftJvZ6QkVief5w=="
 ---

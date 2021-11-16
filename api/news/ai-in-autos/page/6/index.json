@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-09-28-artificial-intelligence-the-challenge-for-air-and-space-power.md",
-      "title": "Artificial Intelligence – The Challenge for Air and Space Power",
-      "excerpt": "In this series of blogs, Professor Patrick Baker, takes a deep dive into the world of Artificial Intelligence (AI), the challenges it presents in a defence context, and its potential contributions to air and space power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
-      "originalUrl": "https://www.kcl.ac.uk/artificial-intelligence-the-challenge-for-air-and-space-power",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kcl.ac.uk/newimages/sspp/security/generalschool/feature-800-430/hand-and-robot.x7b5aba48.png?f=webp",
-          "width": 780,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kcl.ac.uk",
-        "domain": "kcl.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-28-china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.md",
       "title": "China vows further curbs on ‘disorderly expansion’ by tech firms",
       "excerpt": "China has ramped up the campaign with a series of monopoly probes into internet companies, a record fine for Alibaba Group Holding Ltd. and new demands on leading digital firms like Tencent Holdings L",
@@ -1367,6 +1324,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority.md",
+      "title": "Elon Musk’s Push to Expand Tesla’s Driver Assistance to Cities Rankles a Top Safety Authority",
+      "excerpt": "Tesla plans to expand access to its Full Self-Driving system and defends its technology. A safety official says more work is needed and calls the name irresponsible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "originalUrl": "https://www.wsj.com/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-403222/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/elon-musks-push-to-expand-teslas-driver-assistance-to-cities-rankles-a-top-safety-authority-11632043803",
+      "publishedDateTime": "2021-09-19T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

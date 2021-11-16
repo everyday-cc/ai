@@ -7,7 +7,7 @@ originalUrl: "https://www.freshplaza.com/article/9373037/artificial-intelligence
 webUrl: "https://www.freshplaza.com/article/9373037/artificial-intelligence-and-deep-learning-to-get-the-best-banana/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "3 Best AI Stocks to Buy Now for 2022 and Beyond"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) stocks continue to gain traction among growth"
-    publishedDateTime: 2021-11-11T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-best-ai-stocks-to-buy-now-for-2022-and-beyond-1030964474"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "kHyoB8q4aPY1H7qMtAYteRpeTquZiYeTg/rKqByCyTn5iDj6oa9A+CbybfdEbC3MaG0sbNcJUqjzPJTDQJttBg00zeuG3IqU/DRQ7/4KrRM9tV+AGmJBXkJdWyW+v2vDFkkGT9ulL+CcRzldmhdOAsVOL0pyo1OSwzd5Rask2nVY2aM5W97JcfIpR2ALIn9esknU3vEUHQ1v9Ul3g+Cs+I/c2lw/y5v1HwitQrw+1iMj/S/wWfdDceSSDrQI8CNt07Br/DBvQFCHRL17sIqUEotDGnDWqAnAZjohWC//7YJGx4SX8JcBwQK+zKr7CaPFQvqVlLdrKSDialTEXyVZFeZBvznQ6mEwpQrzMkIOExY=;OGMMfBw8f/OTvYBSUfAg0A=="
 ---

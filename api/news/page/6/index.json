@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-09-new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai.md",
+      "title": "New Spiking Neuromorphic Chip Could Usher in an Era of Highly Efficient AI",
+      "excerpt": "Neurons spike in a time sequence, and it's their basis for wiring up into circuits and hierarchies, allowing highly energy-efficient processing.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/",
+      "originalUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/11/Low-Res_Illustration_TTFS_Credit_Göltz-and-Kriener-et-al..jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/",
+      "publishedDateTime": "2021-11-09T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says.md",
       "title": "AI can help overcome challenges in conventional chips, IBM’s top engineer says",
       "excerpt": "In an exclusive interview with The Hindu, Christian Jacobi, IBM’s Chief Architect for IBM Z Processor Design, explains the importance of AI-powered computer chips.",
@@ -1158,59 +1201,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai.md",
-      "title": "Nvidia’s Riva Custom Voice lets companies create custom voices powered by AI",
-      "excerpt": "GTC conference, Nvidia unveiled Riva Custom Voice, a service designed to let customers create AI-powered custom voices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/",
-      "publishedDateTime": "2021-11-09T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

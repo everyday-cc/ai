@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-10-why-has-artificial-intelligence-become-an-obsession-for-your-ceo-focus.md",
+      "title": "Why has Artificial Intelligence become an obsession for your CEO? – focus",
+      "excerpt": "Artificial Intelligence is the biggest trend causing business leaders sleepless nights. Business leaders are still worried about artificial intelligence (AI), but with Facebook pushing hard into the metaverse,",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-drinks.com/features/why-is-ai-an-obsession-for-business-insiders-focus/",
+      "originalUrl": "https://www.just-drinks.com/features/why-is-ai-an-obsession-for-business-insiders-focus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/11/AI-II.jpg",
+          "width": 1296,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Drinks",
+        "domain": "just-drinks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-artificial-intelligence-huge-potential-if-ethical-risks-are-addressed.md",
       "title": "Artificial intelligence: huge potential if ethical risks are addressed",
       "excerpt": "This article is brought to you in association with the European Parliament. Artificial Intelligence regulation should focus on the level of risk associated with specific uses, a",
@@ -1172,49 +1215,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai.md",
-      "title": "New Spiking Neuromorphic Chip Could Usher in an Era of Highly Efficient AI",
-      "excerpt": "Neurons spike in a time sequence, and it's their basis for wiring up into circuits and hierarchies, allowing highly energy-efficient processing.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/",
-      "originalUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/11/Low-Res_Illustration_TTFS_Credit_Göltz-and-Kriener-et-al..jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/",
-      "publishedDateTime": "2021-11-09T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

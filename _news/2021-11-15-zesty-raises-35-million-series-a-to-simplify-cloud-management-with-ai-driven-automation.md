@@ -38,20 +38,6 @@ related:
         width: 400
         height: 293
         isCached: true
-  - title: "AI wafer scale chip startup Cerebras raises $250m at $4bn valuation"
-    excerpt: "Cerebras Systems, the AI semiconductor startup selling the world's largest computer chip, has raised $250 million, valuing the company at $4 billion. The company's Series F round was led by Alpha Wave Ventures,"
-    publishedDateTime: 2021-11-11T10:39:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ai-wafer-scale-chip-startup-cerebras-raises-250m-at-4bn-valuation/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Cerebras_Chip.2e16d0ba.fill-1200x630.jpg"
-        width: 678
-        height: 357
-        isCached: true
   - title: "AI Writer Startup Gets $21 Million in Series A Funding"
     excerpt: "Writer, an AI framework capable of generating written content for marketing teams, announced today that it has secured $21 million in series A funding, in a package led by venture capital company Insight Partners."
     publishedDateTime: 2021-11-15T15:58:00Z

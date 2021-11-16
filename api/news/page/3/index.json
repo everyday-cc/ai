@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-12-role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics.md",
+      "title": "Role of technology in healthcare and how robotics has transformed the ever-evolving field of Orthopaedics",
+      "excerpt": "Dr Miten Sheth, Orthopaedic Knee Surgeon & Director, The Knee Clinic highlights the role of technology in orthopaedics",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "originalUrl": "https://www.expresshealthcare.in/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.expresshealthcare.in/wp-content/uploads/2021/11/DR.-MITEN-SHETH-MS-DNB-Orthopaedics-Knee-Surgeon-The-Knee-Clinic-1.png",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "publishedDateTime": "2021-11-11T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats.md",
       "title": "This farm is developing a smart facial recognition system.. for its goats",
       "excerpt": "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,",
@@ -53,7 +97,7 @@
       "originalUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -791,7 +835,7 @@
       "originalUrl": "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1187,48 +1231,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech.md",
-      "title": "Toch.ai launches Rs 100 cr Startup Fund; to invest in video, audio tech",
-      "excerpt": "Toch.ai, an AI-driven SaaS platform for digital content players today launched a Rs 100 crore Startup Fund to invest in video and audio tech startups globally over a period of time. The fund aims to empower early-stage startups to drive innovation and bolster growth in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "originalUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-11/e1f7a425-dd56-4a5f-9314-e526345683bf/Toch_ai_Co_Founders.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "publishedDateTime": "2021-11-10T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

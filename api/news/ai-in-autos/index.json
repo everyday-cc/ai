@@ -409,49 +409,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-09-big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies.md",
-      "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
-      "excerpt": "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
-      "originalUrl": "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg",
-          "width": 1400,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Verdict Retail",
-        "domain": "retail-insight-network.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-09-its-go-time-for-self-driving-cars-north-of-the-arctic-circle.md",
       "title": "It’s ‘Go Time’ For Self-Driving Cars – North Of The Arctic Circle",
       "excerpt": "Northern Norway will be a closely watched, wintry testing ground for self-driving cars. If they can make it there, autonomous vehicle industry members say, driverless cars can make it anywhere.",
@@ -1388,6 +1345,49 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-the-hottest-tech-trend-of-2022.md",
+      "title": "The Hottest Tech Trend Of 2022",
+      "excerpt": "The Hottest Tech Trend Of 2022 <p>It's an industry that will never retire or ever go obsolete.</p> <p> It's a revolutionary virtual marketplace, and",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103096381/The-Hottest-Tech-Trend-Of-2022",
+      "originalUrl": "https://menafn.com/1103096381/The-Hottest-Tech-Trend-Of-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-11/03/B_26655image_story.jpg",
+          "width": 845,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

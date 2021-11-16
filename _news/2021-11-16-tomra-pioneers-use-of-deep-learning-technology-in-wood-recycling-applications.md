@@ -55,6 +55,20 @@ related:
         width: 533
         height: 368
         isCached: true
+  - title: "To innovate in population health, start with the basics"
+    excerpt: "To succeed in population health, companies must first consider the basics, such as wrangling patient data and making sure it matches up. Panelists at INVEST Pop Health spoke about the challenges of taking this information and translating it into meaningful health outcomes."
+    publishedDateTime: 2021-11-16T01:10:00Z
+    webUrl: "https://medcitynews.com/2021/11/to-innovate-in-population-health-start-with-the-basics/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 22
+    images:
+      - url: "https://medcitynews.com/uploads/2021/10/Lung-Cancer-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Artificial Intelligence for Accounting Market To Make Huge Impact In Near Future Basic Influencing Factors Driving The Industry 2021–2027"
     excerpt: "Combining AI with other technologies such as robotic process automation can allow accountants to redirect the time that they used to spend on mundane tasks toward performing high value high impact tasks Adding AI to accounting operations can also increase"
     publishedDateTime: 2021-11-12T09:58:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/57269/singapore-fintech-festival-2021/top-1
 webUrl: "https://fintechnews.sg/57269/singapore-fintech-festival-2021/top-10-stories-from-singapore-fintech-festival-2021/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,98 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "How Fintech Companies Are Changing the Idea Of Credit In India"
-    excerpt: "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647."
-    publishedDateTime: 2021-11-11T10:43:00Z
-    webUrl: "https://www.entrepreneur.com/article/396710"
+  - title: "Atlanta-Based LendingPoint Named Best Financial Planning Software by Benzinga in 2021 Global Fintech Awards"
+    excerpt: "LendingPoint, an AI-driven CreditTech platform, today announced that it won Best Financial Planning Software from Benzinga in the seventh annual Global Fintech Awards. The award recognizes LendingPoint's ability to adapt and innovate to serve its customers at all experience touchpoints to provide fair access to credit for those that need it most."
+    publishedDateTime: 2021-11-11T14:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-atlanta-based-lendingpoint-named-best-financial-planning-software-/2021/11/11/9490333.htm"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1636627414-towfiqu-barbhuiya-jpqyfK7GB4w-unsplash1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "5 Critical Ways Python Developers Contribute To A FinTech Company"
-    excerpt: "AI, scientific computing, academic research, etc. This creates countless opportunities for Python developers. In an industry like fintech that demands utmost care and focuses on security, you must vet carefully and hire Python developers who are highly ..."
-    publishedDateTime: 2021-11-15T15:13:00Z
-    webUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/"
-    ampWebUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/11/5-critical-ways-python-developers-contribute-to-a-fintech-company.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Fintech Compliance: AI's New Role in Combating Corruption"
-    excerpt: "Discover how AI has started to be used as a tool for fighting corruption, what these technologies are, and why they are so important"
-    publishedDateTime: 2021-11-13T09:00:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-compliance-ais-new-role-combating-corruption"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Three leading fintech trends to watch in 2022"
-    excerpt: "As the fintech space develops, 2022 will see disruption from three major trends in the finserve and banking industries"
-    publishedDateTime: 2021-11-11T12:45:00Z
-    webUrl: "https://fintechmagazine.com/digital-payments/three-leading-fintech-trends-watch-2022"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1322656065.jpg.png?itok=a1iWWzTF"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Beware of These 2 Popular but Overvalued Fintech Stocks"
-    excerpt: "There remains uncertainty regarding whether the COVID-19 pandemic-fueled growth of fintech will continue. Furthermore, banks have been easing restrictions and ramping up technology spending, and by so doing posing a competitive threat to the fintech industry."
-    publishedDateTime: 2021-11-12T17:55:00Z
-    webUrl: "https://stocknews.com/news/upst-sofi-beware-of-these-2-popular-but-overvalued-fintech-stocks/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
-  - title: "Blockchain technology Market size to increase by USD 6.25 Bn | Technavio's Research Insights highlight Increase in FinTech Spending as a Key Trend"
-    excerpt: "According to the research report \"Blockchain Technology Market - Forecast and Analysis Report 2021-2025\", the market is expected to have a YOY growth"
-    publishedDateTime: 2021-11-12T00:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/blockchain-technology-market-size-to-increase-by-usd-6-25-bn-technavios-research-insights-highlight/article_c7481f17-8858-5212-a4a7-8db672fafc75.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 1
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/6a/b6a73f4e-64ff-5ab3-87a3-40242f211002/618dc50fe4fe3.image.jpg?resize=800%2C450"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia"
-    excerpt: "Expanding \"Taiwan Experience\" to Southeast Asia, TPIsoftware Collaborates with IG Tech Group to Embrace FinTech in Cambodia. TAIPEI, Nov. 15, 2021 /PRNewswire/ -- TPIsoftware and"
-    publishedDateTime: 2021-11-15T07:30:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/15/9491531.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
+  - title: "Syfe's Dhruv Arora and Samantha Horton Wins Top Accolades at the 2021 Singapore FinTech Festival Global FinTech Awards"
+    excerpt: "Founder and CEO of Syfe, Dhruv Arora, and Samantha Horton, VP of Business Development, secured the awards for Top 10 FinTech Leaders and Women in FinTech respectively Organised by the Singapore FinTech Association in collaboration with the MAS,"
+    publishedDateTime: 2021-11-12T15:07:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=565872"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "3JcbWrfyFuk6j0yczhnQHCQIIuskHucUKoDSy+74S4z9rHbbqJYUjDjAiijomAo24x0Wo6laptNASgEfsIAYCbShQ0ADt8KnONEdM38b9x2ptsfDzsSYmqC4IvoD2pigozFtqUPC1roLLDUNxq6QbTaEAqv6NBLCR6ndhe9UZe2mPklc2EnsqjYhOLnGB/gPqtWxCFFDurqtvqz9plYe+eTulTYYnTJcwIfBSJF6ayjXRaDreTybaETFKgcgn6M5eRUXRZvT8y9sjlwho4nUg+3U3ZUCtgao1XXt4jNGpzzQ5XdlRc0/OgpiFEMDzHEXfUBA8bHUqpiHpCZ3RzugH7Qg1FqBD0JjQnmZU1KU1nw=;9ODQ3TDDhmOqo3cYMszTEw=="
 ---

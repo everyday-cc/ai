@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DataRobot launches AI Cloud for industries including banking and health care"
+    excerpt: "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises."
+    publishedDateTime: 2021-11-15T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/"
+    ampWebUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DataRobot Launches Comprehensive Industry-Specific AI Solution"
     excerpt: "DataRobot is rolling out a banking-specific tool as part of its new comprehensive solution that delivers industry-tailored AI capabilities to multiple sectors."
     publishedDateTime: 2021-11-15T14:01:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/finserv%20ai%20web%20hero.jpg?itok=YnLL7cQC"
         width: 1440
         height: 500
+        isCached: true
+  - title: "Collaboration Brings AI for IoT to Smart Homes"
+    excerpt: "Infineon Technologies has announced the company has collaborated with Picovoice to jointly develop an end-to-end voice platform that brings voice AI to edge devices. This collaboration enables smart voice solutions in ultra-low power IoT devices using ..."
+    publishedDateTime: 2021-11-16T00:15:00Z
+    webUrl: "https://circuitcellar.com/newsletter/collaboration-brings-ai-for-iot-to-smart-homes/"
+    type: article
+    provider:
+      name: Circuit Cellar
+      domain: circuitcellar.com
+    quality: 37
+    images:
+      - url: "https://circuitcellar.com/wp-content/uploads/2021/11/Voice_control-compressed.jpg"
+        width: 2126
+        height: 1417
         isCached: true
   - title: "BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform"
     excerpt: "BigBear.ai, a leading provider of artificial intelligence, machine learning, big data analytics, and cyber solutions, and Palantir Technologies Inc. , a software company that builds enterprise data platforms for use by organizations with complex"
