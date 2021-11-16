@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: geoffreyhinton
   url: https://twitter.com/geoffreyhinton
-  followers: 129961
+  followers: 129976
 
 googleScholar:
   url: https://scholar.google.com/citations?user=JicYPdAAAAAJ
