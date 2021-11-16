@@ -42,36 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA announces platform for creating AI avatars"
-    excerpt: "NVIDIA Omniverse Avatar Enables Real-Time Conversational AI Assistants. NVIDIA announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
-    publishedDateTime: 2021-11-11T12:37:00Z
-    webUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/"
-    ampWebUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "NVIDIA highlights healthcare AI innovations"
-    excerpt: "The NVIDIA GPU technology conference saw the company introduce technologies that aim to change how artificial intelligence powers medical devices and drug discovery"
-    publishedDateTime: 2021-11-11T11:02:00Z
-    webUrl: "https://physicsworld.com/a/nvidia-highlights-healthcare-ai-innovations/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 56
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2021/05/PWMay21Wossnig_F0277500-Genetic_research.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Early predictions for Nvidia and AMD's next-gen cards set up a titan GPU battle"
     excerpt: "Rumours about the potential next generation of GPUs—namely Nvidia's GeForce RTX 4090 and AMD's Radeon RX 7900 XT—have already begun to surface across the web. Among them, known Twitter leaker Greymon55 now airs their predictions where core count,"
     publishedDateTime: 2021-11-12T13:19:00Z

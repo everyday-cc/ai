@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/itri-to-exhibit-in
 webUrl: "https://markets.businessinsider.com/news/stocks/itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022-1030969979"
 type: article
 quality: 96
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.manilatimes.net/manilatimes/uploads/images/2021/11/12/26243.jpg"
         width: 1000
         height: 1083
-        isCached: true
-  - title: "DeepBrain AI - Named as CES 2022 Innovation Awards Winner"
-    excerpt: "SaaS based AI Human video synthesis platform 'AI STUDIOS' by DeepBrain AI won CES Innovation Award 2022 in Streaming category.DeepBrain AI is"
-    publishedDateTime: 2021-11-11T11:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-named-as-ces-2022-innovation-awards-winner-1030964479"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1685801/1.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "DeepBrain AI - Named as CES 2022 Innovation Awards Winner"
     excerpt: "including – ‘Top AI Startup Company’ in South Korea, ‘Best Technology Innovation and Service Application’ in China, and ‘GLOBAL Future Stars’ Supernova Challenge’ winner in Dubai.” DeepBrain AI will showcase its AI Human technology ..."

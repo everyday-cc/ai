@@ -58,20 +58,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Toch.ai Launches INR 100 Cr Startup Fund To Invest In Video And Audio Tech Start-Ups"
-    excerpt: "The company announced that they'll provide advisory and networking opportunities to the most promising start-ups along with capital infusion."
-    publishedDateTime: 2021-11-11T11:51:00Z
-    webUrl: "https://analyticsindiamag.com/toch-ai-launches-inr-100-cr-startup-fund-to-invest-in-video-and-audio-tech-start-ups/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Toch.ai_Co-Founders.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "pqh41HbQ3wolVMXbBoso/gj03DHTu99xmhNlBtNux3gVNy/jJcS6D2iF3j3VtImCFIBvePqWAZ8oyBZNp1uYWpLSQ3V3mt0seb6rCyQQVzDvRDmrZQgtYPeowsh7z6rji/jPLOsb1RdnBtbQM7SnrZohQP4U0M7FX2bgPtZnQhIyU/mHEpYwDcMtmaEzVKRWZnNTR758ijr3x4nfqbNdSQFippkCXMpV12VG4Ii8s/lHgCn+Ie7NqSeDovs/7R3T0pMLHmPC7d/ejVRZIrIiWbin57PRhx/VPQ5chV3IRaxjKt34RAxgJkgbvUeTsBNc7moaUBTX3PDTda0eQnF20o5c5JEjOwoxMaT3JeubYGoxYOHdqMGAezDRxfaA6tYugahMghlZ5ZLa2tsaGSNlNT/HfY2SAH5N3Gj6LaO/bsbwrb5stblobVIqQb5EcCYKMzKGuBJelR2z/Jat27RYVWrJQxSpzcDlkcxb4eQVAei57JyjSmFRfMoHinG45esmfBZlD/TI+R0rik3y5kIIAA==;qykex/h0V2OuTRhN9P+lGA=="
 ---

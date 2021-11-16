@@ -1,28 +1,28 @@
 ---
 category: news
-title: "PopID and SoftBank's Japan Computer Vision Partner to Launch PopPay In Japan"
-excerpt: "Wendy's First Kitchen is First QSR Chain in Japan to Accept Face Pay PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the ..."
-publishedDateTime: 2021-11-09T04:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan"
-ampWebUrl: "https://www.benzinga.com/amp/content/23972605"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605"
+title: "PopID and SoftBank’s Japan Computer Vision Partner to Launch PopPay In Japan"
+excerpt: "PASADENA, Calif. & TOKYO–(BUSINESS WIRE)–PopID, Japan Computer Vision (“JCV”, a subsidiary of SoftBank Corp), and Wendy’s First Kitchen (“WFK”) announced today the launch of PopPay – PopID’s face-recognition-based ordering and payment ..."
+publishedDateTime: 2021-11-09T05:59:00Z
+originalUrl: "https://www.01net.it/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan/"
+webUrl: "https://www.01net.it/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan/"
+ampWebUrl: "https://www.01net.it/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan/amp/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
-secured: "O0/G1ApLnYRFPaMBWo+bmmzULzF26yPJzLMR535FmIRlOt8oGhvlXwv7aEt1O/O5Ux7i3kDAYZ4/ywB78YlVg2XNlZfnuFVoUAa6fDRh+AEKcyrC6l2q856wGttBxmrgCsS+0vGiWaMPG3VP7evjkdfMpzvN3ivSwD1r6voam/Le3a96UpTkwYdYO5NDEOxHTpOSQC2vjFY2kroMguQOBzjxWaB0VZ3J/tCuNJ/lXrWgtMR33mG70Kse/W/oPdbHjh9NPgF7vrnEM8BqDP8Talh/6vxvGlt+4fjhXtHu8/XJcOPYv8FdGUlygZKuClaKb5A0OTnq4lvwVxEIVVaTC+bwM4AXq8z5Ig2HTYbxxXQ=;HXxf+NmEgK0Tcgswzt0g6A=="
+secured: "SQkBdFnpwDlZVm+gveeYiSPyarYJ+jOIa//YC8opVYJYmAMxXoFv53ffJfldAbYVc6bCqCf6Lxey480BxHoPadiOhEpgt0PtGo4SXrFXOe9lZ9g/PNRSMGtZyfre2izpYmOHEqgpaguiojiG4J6+KaMSLJqxFo204+UnqIeS9urZCVdFUWI8WR2rFt8JeDI7az/QsH30zE0ZQ4S7+LMs2pQCpSTwbsvp4seGTLxcrrqkFEbNT04faslFnBRqvZgMDtffI89s+xFvIexNeTbRxegGOn7Z/Wlz+Bx4R4zJo9cFCAxzzblPUjT1wSJ7JSmy8/Ipi9nzcN7bnEFWaJpjNRVJAP4ZpsYQiamEEQvfvR0=;Wzhgn6Iwvu22kXUPhCO8YA=="
 ---
 

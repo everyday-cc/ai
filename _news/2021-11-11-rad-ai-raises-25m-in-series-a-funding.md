@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-fund
 webUrl: "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html"
 type: article
 quality: 137
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "SG startup AI Rudder scores $10m in Sequoia-led Series A round"
+    excerpt: "Singapore startup AI Rudder raised $10 million in a Series A funding round co-anchored by Sequoia Capital China and Sequoia China Seed Fund."
+    publishedDateTime: 2021-11-16T03:02:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/ai-rudder-sequoia-series-a-270018/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 39
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2019/11/Singapore.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "AI Writer Startup Gets $21 Million in Series A Funding"
     excerpt: "Writer, an AI framework capable of generating written content for marketing teams, announced today that it has secured $21 million in series A funding, in a package led by venture capital company Insight Partners."
     publishedDateTime: 2021-11-15T15:58:00Z

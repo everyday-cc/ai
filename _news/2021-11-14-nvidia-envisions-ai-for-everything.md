@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA announces platform for creating AI avatars"
-    excerpt: "NVIDIA Omniverse Avatar Enables Real-Time Conversational AI Assistants. NVIDIA announced NVIDIA Omniverse Avatar, a technology platform for generating interactive AI avatars. Omniverse Avatar connects the company’s technologies in speech AI,"
-    publishedDateTime: 2021-11-11T12:37:00Z
-    webUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/"
-    ampWebUrl: "https://www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nvidia-announces-platform-for-creating-ai-avatars/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "NVIDIA highlights healthcare AI innovations"
-    excerpt: "The NVIDIA GPU technology conference saw the company introduce technologies that aim to change how artificial intelligence powers medical devices and drug discovery"
-    publishedDateTime: 2021-11-11T11:02:00Z
-    webUrl: "https://physicsworld.com/a/nvidia-highlights-healthcare-ai-innovations/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 56
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2021/05/PWMay21Wossnig_F0277500-Genetic_research.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Nvidia GTC Fall 2021: 8 Big Announcements For AI, Security And More"
     excerpt: "A roundup of eight big announcements at Nvidia’s fall GTC 2021 conference that cover areas like AI, security, networking, 3-D design and more."
     publishedDateTime: 2021-11-11T22:54:00Z

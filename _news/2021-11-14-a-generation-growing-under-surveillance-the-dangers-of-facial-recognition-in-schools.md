@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/a-generation-growing-under-su
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
         width: 1800
         height: 734
-        isCached: true
-  - title: "Amnesty confronts facial recognition, surveillance in Hyderabad by calling for a blanket ban"
-    excerpt: "Facial recognition in Hyderabad is the focus of a newly launched Amnesty International campaign that pushes for a ban on such technology."
-    publishedDateTime: 2021-11-11T11:40:00Z
-    webUrl: "https://www.medianama.com/2021/11/223-facial-recognition-hyderabad-amnesty-campaign/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 28
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g8d41a09b1_1280.jpg"
-        width: 1280
-        height: 759
         isCached: true
 
 secured: "ojhloD+DK4y9NlkK1BJWAsXj1EsDAzw8Iqf+aA4HaUkLXl6DKnS28qYoEyr3cDMlKUrKh7sItGLJ6EOjPHdN1mJK1S/FLcXGluuXlJ5pfoCYnTk3C3OO72Er+LWRaeA/6/Kl8JE+xuHDWaRK5G5Yb2zaj1dTXHGSaXtX7aVMmwNMrpnSb+z9Fagq0s8sEC5dm94jRQJW18pgIo1wa/G9+rLV/rM+IZ32WtcHK8L8/J4ZtR3Dv9exzAA3pekDPZELoVg3AFdZax8CPN2FAmIX1Q8PrQWdFacR9LuC8E5e3L69oTq9XvPNikx0FmCLAbdd6T1UggnFNRvxR+XxSZ7Ja5r9Qt/WEQfLkaU5BeVwL6oKrGnjNnqz4oK+Y4ZMC+0aHbtB9WsxSkFmkIlnoKPhViIEUdQItVYt0WTQ0rcwBNbO0f6heiRcQBE/RHcDbMR5nUKu+gN9w+5mClL5AIgqMo3zGysfkxJionpIo3jVkNNLmHmXSFvXcTMQ7e2+kGjKl2He1QncMrx35Iz0IO4XLw==;p/83ok29Dr5oDmuEgM6aqg=="

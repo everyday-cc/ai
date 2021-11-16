@@ -54,20 +54,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "MMA WARC Report Reveals Research on the Trends and Future of Mobile Marketing and Technology in the MENA"
-    excerpt: "says Warrick Billingham, Head of Revenue EMEA & LATAM at AdColony, who also chairs the MMA research committee ... affecting the marketing industry. AI, machine learning, mobile wallet and ..."
-    publishedDateTime: 2021-11-11T11:41:00Z
-    webUrl: "https://menafn.com/1103149276/MMA-WARC-Report-Reveals-Research-on-the-Trends-and-Future-of-Mobile-Marketing-and-Technology-in-the-MENA"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/11/pr_12676_c54740d1_image_story.jpg"
-        width: 533
-        height: 368
-        isCached: true
   - title: "Artificial Intelligence for Accounting Market To Make Huge Impact In Near Future Basic Influencing Factors Driving The Industry 2021–2027"
     excerpt: "Combining AI with other technologies such as robotic process automation can allow accountants to redirect the time that they used to spend on mundane tasks toward performing high value high impact tasks Adding AI to accounting operations can also increase"
     publishedDateTime: 2021-11-12T09:58:00Z

@@ -43,20 +43,6 @@ related:
         height: 305
         isCached: true
   - title: "DeepBrain AI - Named as CES 2022 Innovation Awards Winner"
-    excerpt: "SaaS based AI Human video synthesis platform 'AI STUDIOS' by DeepBrain AI won CES Innovation Award 2022 in Streaming category.DeepBrain AI is"
-    publishedDateTime: 2021-11-11T11:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-named-as-ces-2022-innovation-awards-winner-1030964479"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1685801/1.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "DeepBrain AI - Named as CES 2022 Innovation Awards Winner"
     excerpt: "including – ‘Top AI Startup Company’ in South Korea, ‘Best Technology Innovation and Service Application’ in China, and ‘GLOBAL Future Stars’ Supernova Challenge’ winner in Dubai.” DeepBrain AI will showcase its AI Human technology ..."
     publishedDateTime: 2021-11-12T13:25:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/technology-south-korea-las-vegas-seoul-01404f61ed859137a793530c28777eeb"

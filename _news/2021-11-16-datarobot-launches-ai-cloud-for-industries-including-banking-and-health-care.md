@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-indu
 ampWebUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
 type: article
-quality: 84
+quality: 101
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
@@ -121,6 +122,6 @@ related:
         height: 480
         isCached: true
 
-secured: "toh9iHu2Fy6C9MM0fPlujjEnA2w++bPuAmhsyK0MRuDUPUFZsNhUQ0JHNUAa8bBmrUgjLtXv+Pa9ha/rQEYJn7Mh7LDKJ9BCz6Z/rlO+VtSFDm9RGAcy6ABFxn/GsrqGLMe4rUGFV2U3/K+pfc5hSzCCSycKjXkfdNp0RChcOi6g1MVwI52fvVE78lwqXblFoo92v5inNaU3LE99wSnlz8ONRilsOA3KIAH0oB9pPryUDZTT58sUN0TITf6fB0am65OkAGOoFB5M6WL3CpbF7kxhknvM7Mc4ssfcdO4D0PcHJ6kuxdeWE51jIG5BxkOltPtbT7i53yUqWK3Bdnzp76yo1YL59rfTIkc/WhvjuHE=;/cQnHxQKUrEg/t2590Ve8w=="
+secured: "dpXPcuJUm0tsMmGGmfbYHKqYw94DhnB4Ew7AtL0Lvyoe+VzG73pKBFiAf8KgC60w0s4fM6Qt0HFfrhJW7eyTIu+5CAhyqL/TQTzRiwRJuOlrRjy2+1Jf90vWs52cbyojdVgw2wfnBQaim9PCkmfWDjOPaqwf/3K0pKpghAC/0/henQCQ6iLf3UFU1w9wauCVgo0zlR8C/eAH2fbALSZQ7KMl10rizvXy8+h7jVw25c8Gjnb/OmdepZwHtL8lizpO7JX3YQi82+NBXZACB5Nce55HT8j6j+2LBz5i2dRwd4IjyIY65GlCUq0O86/YuAzHjb5t3rRdgLtFNSkia3dqGHcOfX4Pdh5J9ZCdtzTsN32SepP+3wsznrlLrQ40r/yxM26R3JZgmDxqVUxtjKzMgMPQdP5BNwA5Dr/lTRIX5EleBK/gw7ZIxDgP26yJiROQF8NJi+VeaCyxIeYfi6s3WSmhdfSOowOEcDiTTOoNsVFZcdECJLSmTr9IMcL0HlQpC1mRIJ5c1fV62zpQ4r7DvA==;TicWys2w59KhIa8yPTGJkg=="
 ---
 

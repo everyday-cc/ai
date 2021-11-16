@@ -65,6 +65,22 @@ related:
         width: 500
         height: 414
         isCached: true
+  - title: "Whale Cloud, Ant Group Team Up with Toka Fintech to Enable Greater Financial Inclusion for Consumers in Mexico"
+    excerpt: "Whale Cloud, a tech firm offering software solutions and services for telecommunications and several other industries has formed a partnership with Toka Fintech, a Mexican financial group, in order to assist with creating its own virtual payment app with Alipay+ Digital Wallet Solution,"
+    publishedDateTime: 2021-11-16T02:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/182793-whale-cloud-ant-group-team-up-with-toka-fintech-to-enable-greater-financial-inclusion-for-consumers-in-mexico/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182793-whale-cloud-ant-group-team-up-with-toka-fintech-to-enable-greater-financial-inclusion-for-consumers-in-mexico/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182793-whale-cloud-ant-group-team-up-with-toka-fintech-to-enable-greater-financial-inclusion-for-consumers-in-mexico/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Mexico-Money-Peso-500-.jpg"
+        width: 900
+        height: 664
+        isCached: true
 
 secured: "T6BUZC5Vo0KIWva+ckv+NPLig/MqmgH1AROzoW6Hg10EneO1MT8f5gTfa0zQtBQhjzNC9kYApEYw0ZXz8oCVwdBne8h/ja4j6eixOdrJ4ZawKb2CFZTtAiPXItpPaEgLc4qkab9L3rOzrviXIyytiDg+xcF8kMW7qRZhMkQeHxze8D+XQGknhtw0yHO9UayC8/deTUsldrYs8hzhDMAj3Yxm3TKi1i5DqSZ8uZHCoaSNmxlPzOtTy3+Bh+KVQZELM6I/wgwgrtPi2jJH9G02JdNOyayOVfsaDbJSQvrsfer9XAVJJ6bHbJnIMcULIlOECYEpHnZDEmdzl3B8c6gvEnpRfIi8BLut6pw9MzBlUQIIcghJC/eyykPnCPkkwiONfeNQM6OxWIBcHjTd4whOsTnS/NqxTcNLNvwXqSeLqQD5q+gvUqzlB4ip2v12df8drIC+8IP0Nr9xVIjqrDPg5hcdnqUcxhedDnm6Qp87dKrCpc+wNMuHOC56KjcQxsKJY0zXFtCqseHfN4z3Whdcyw==;DTM/tmsdfjK4ACHtlHmZiA=="
 ---

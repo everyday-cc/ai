@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2021/11/five-lessons-to-fix-failures-of-ai.jpeg.optimal.jpeg"
         width: 1013
         height: 675
+        isCached: true
+  - title: "Why AI investments fail to deliver"
+    excerpt: "According to two recent Gartner reports, 85 per cent of AI and machine learning projects fail to deliver, and only 53 per cent of projects make it from prototypes to production. Yet the same reports indicate little sign of a slowdown in AI investments."
+    publishedDateTime: 2021-11-16T04:58:00Z
+    webUrl: "https://www.reseller.co.nz/article/693078/why-ai-investments-fail-deliver/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 37
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-orig_1.jpgautowebp"
+        width: 472
+        height: 315
         isCached: true
 
 secured: "QUHKmIpwQWgbI6wlCVUGcWBUwKxs9Uap3W6dWsm6sp++rTkbYCtbQGdJkjgFpR6NMsR3Tj1Zl+Q9ThpYyrmadBLysvMARD3itFhYkTf6QfoqFM3Ahf6k0p+HhtY5YmFLnZZb3RRpogZuNd+xgFCAf2t3UrF6qZ5P5bIngHjpeT3rdBAHAK5vWV6uhia9PMAykzUdSCSBR62Cv71btjyhF8jLL9yzpGuRNvYh7Dz4v0sZuLsU6c3CJzPcZOzRLY2obOG4h5zufpuqpwvLuAn39S4ioTiy6qvcvXsXP8SkMjMN7Ue1FGvhR1Z52IopfxAUqjiqEWdu5u1SGSlD/1I7EMDbhG8JHArbIzzTnr0PCP5j7eKhdxeTpHJ2fRhZZsDGm2RoXtZbzUR6p5zIjLEbgL0c3Hn0gcJjq5MTiayMRLUEUkPx0M7D4IOSEgw01dJtMe5aqSkYFoJbGf7dnzGIlJAaYokn1ukHYvkxSlELFfo8zQPB+6P6aICXyCA+mP4kh2Hps2v/N4pASfP9bUoxaQ==;kcA4T4Zf3gaMZqaXFBbcoQ=="

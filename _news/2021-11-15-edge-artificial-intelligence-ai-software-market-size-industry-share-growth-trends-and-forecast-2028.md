@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103172212/Edge-Artificial-Intelligence-AI-Soft
 webUrl: "https://menafn.com/1103172212/Edge-Artificial-Intelligence-AI-Software-Market-Size-Industry-Share-Growth-Trends-and-Forecast-2028"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market 2021 CAGR Value, Top Manufacturers, Competitive Landscape, Growth, Industry Share, Size, and Forecast till 2026"
-    excerpt: "Artificial Intelligence Market report 2021 presents the development status, growth opportunities, future prospects, technologies, including top leading players are IBM Watson Health,"
-    publishedDateTime: 2021-11-11T11:15:00Z
-    webUrl: "https://www.wboc.com/story/45172538/artificial-intelligence-market-2021-cagr-value-top-manufacturers-competitive-landscape-growth-industry-share-size-and-forecast-till-2026"
+  - title: "Artificial Intelligence (AI) In Drug Discovery Market 2021 - Industry Outlook, Growth Factors, Demand Drivers, Trends Analysis, And Forecast"
+    excerpt: "Artificial Intelligence AI In Drug Discovery Global Market Report 2021 COVID 19 Growth And Change by Research Company is the most comprehensive report available on this market with analysis of the market s historic and forecast growth drivers"
+    publishedDateTime: 2021-11-16T04:17:00Z
+    webUrl: "https://www.openpr.com/news/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub16875132_g.jpg"
+        width: 800
+        height: 2000
+        isCached: true
 
 secured: "0uBPFE0aqD+O3reXkHlybfdXOKYFwCptlEEMIcVQBrCMa3L6fZslJ9xihXcJ8Vy5UtlbIbQWR0CZhD/gVZ/qKsQ7yeQ7BGYw1YcKMca7Vtrk7U2rZ+2aSrTmN3k6QXg+SLfUx7hP7zD6AE2KwK1hk21cl4snRWnP4bfn38qecnY5ITMnEt8Jnjz4OlJ9yTDSRFF/vdMN/Cx97lhIzy5BMcNeBTd9KzpQ5o9GCnTmKgqWPN1Km7sd3gjdgOfcmih/3KELT2ytYanZePs4NOKKtSvX5he4yJioSj4o9N6TLmNMT1RLeqbGAaiFIIfkeKniO9KPu9t3JBq+PGVg4RcS7LAlXabS5/7xFlEUFPMEFCA=;j9ZVbyHmqeME1WOILLpP9w=="
 ---

@@ -2,6 +2,101 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-09-27-edge-computings-applications-in-autonomous-driving-and-business-at-large.md",
+      "title": "Edge Computing’s Applications In Autonomous Driving And Business At Large",
+      "excerpt": "Now is the time to start thinking about how you and your organization — whether you’re part of the automotive industry or not — can make use of the future of edge computing and 5G.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/",
+      "publishedDateTime": "2021-09-27T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-artificial-intelligence-ai-chips-market-analysis-by-size-drivers-and-insights-for-next-5-years.md",
+      "title": "Artificial intelligence (AI) Chips Market Analysis by Size, Drivers and Insights for next 5 years",
+      "excerpt": "Chips Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Artificial intelligence (AI) Chips. The study is a mix of quantitative market stats and qualitative analytical information to uncover market size revenue breakdown by key business segments and end use applications.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-analysis-by-size-drivers-and-insights-for-next-5-years/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-analysis-by-size-drivers-and-insights-for-next-5-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/Online-Laundry-Service-Market-390x220.jpeg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-analysis-by-size-drivers-and-insights-for-next-5-years/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-chips-market-analysis-by-size-drivers-and-insights-for-next-5-years/?amp=1",
+      "publishedDateTime": "2021-09-27T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-the-limitations-of-ai-safety-tools.md",
       "title": "The limitations of AI safety tools",
       "excerpt": "Firms including OpenAI have developed safety tools to constrain AI decision-making. But there's a limit to what these tools can accomplish.",
@@ -1055,110 +1150,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-natural-language-processing-market-size-share-growth-revenue-cagr-status-industry-analysis-revenue-expectation-to-2021-2030.md",
-      "title": "Natural Language Processing Market Size, Share, Growth, Revenue, CAGR Status, Industry Analysis, Revenue Expectation to 2021-2030",
-      "excerpt": "Sep 27, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Natural Language Processing Market for 2021 till 2030. Report further now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-revenue-cagr-status-industry-analysis-revenue-expectation-to-2021-2030-2021-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-revenue-cagr-status-industry-analysis-revenue-expectation-to-2021-2030-2021-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-26T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-natural-language-processing-nlp-market-share-growth-size-regional-overview-leading-company-analysis-and-key-country-forecast-to-2021-2030.md",
-      "title": "Natural Language Processing (NLP) Market Share, Growth, Size, Regional Overview, Leading Company Analysis and Key Country Forecast to 2021-2030",
-      "excerpt": "Sep 27, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Natural Language Processing (NLP) Market for 2021 till 2030. Report further now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-share-growth-size-regional-overview-leading-company-analysis-and-key-country-forecast-to-2021-2030-2021-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-share-growth-size-regional-overview-leading-company-analysis-and-key-country-forecast-to-2021-2030-2021-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-26T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

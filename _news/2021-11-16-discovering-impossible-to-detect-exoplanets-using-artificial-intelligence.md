@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 427
         isCached: true
+  - title: "Discovering exoplanets using artificial intelligence"
+    excerpt: "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in luminosity observed makes it possible to deduce the existence of a planet and to estimate its diameter,"
+    publishedDateTime: 2021-11-11T17:45:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/934587"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 226
+        isCached: true
 
 secured: "xTWnVQJ6Bgj7ao5ki8hr5GgQVjkuBbu9vwZCOKh0Gzpn6H6E2+oG5UOpT+EdIoAlScytSjis/pLk64l5bDa9E/Xe49fM8GmtQWvFwpnx7u23zTmt7rglppYS3uLh5W60c1djJzFZ1XOCy/xJ5UVaQih4aItjyDWutn9iPbe99KZ2ayQxM/Ec62CjBGtCDLaBTgptgEoz9Wp+NT1Hi7rVg234NdCtIywMEM4qpL41aS2zvuo2ZZl2LxfGG1azf10BHwpGkB1lKMStOSjVj0PBaSnRijWIRjxOC/HBup/l6wVh265J1RbPjdBtW6rEY5z51c/JVS4kVaC5/Wg2/8VGRdeMz/nysGlU44rVqW06dJs8GJZmnIGCMMdVB8E8MXi0NhUuQd7rqXcb4g5ZWkgaH9mWOVtKpE67MGHTMj4pu+0e3v45Gqf7gzt3kLpCl6JpSEgmWhMgVwqJ+z1vKERJJrpX1kwadtqsjXOv1ENxu/n8Pqy1B16KU0ny9kgdgmfEHjX45JKmnKDg9C0ez7O1iw==;VlqwEge4+HeLnsIXEhXsFQ=="
 ---

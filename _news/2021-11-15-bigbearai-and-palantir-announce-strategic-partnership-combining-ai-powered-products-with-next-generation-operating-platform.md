@@ -51,7 +51,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 101
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
         width: 1200

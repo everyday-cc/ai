@@ -2,6 +2,94 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-09-23-opinion-how-artificial-intelligence-could-save-your-life.md",
+      "title": "Opinion: How artificial intelligence could save your life",
+      "excerpt": "Machine intelligence implies serious consequences for human life, with mass unemployment being just one example. And yet, the transformative power of AI might actually save people’s lives. AI aims to simulate the human mind’s ability to learn,",
+      "sourceUrl": null,
+      "webUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
+      "originalUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/montrealgazette/wp-content/uploads/2021/09/afp_1qa2a5.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
+      "cdnAmpWebUrl": "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
+      "publishedDateTime": "2021-09-23T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Montreal News",
+        "domain": "montrealgazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-johnson-controls-adds-new-body-worn-camera-autonomous-robot-and-mail-screening-solutions-to-its-building-security-portfolio.md",
+      "title": "Johnson Controls adds new body worn camera, autonomous robot and mail screening solutions to its building security portfolio",
+      "excerpt": "A security operator can control the main robot’s movable front-facing camera ... is the ‘new normal’, that means a lapse in security - at least in a thief’s mind. So how worried should business owners be? Well, the latest figures are pretty ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/johnson-controls-visual-alarm-monitoring-web-based-client-c-cure-9000-system-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html",
+      "publishedDateTime": "2021-09-23T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-nvidia-and-open-robotics-accelerate-ros-2-performance.md",
       "title": "NVIDIA and Open Robotics accelerate ROS 2 performance",
       "excerpt": "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in",
@@ -1058,101 +1146,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-robotics-and-blockchain-top-the-list-of-fastest-growing-industries.md",
-      "title": "Robotics and Blockchain Top the List of Fastest-Growing Industries",
-      "excerpt": "Agricultural technology, big data, and other tech sectors continued speedy growth, according to a new report on the global state of entrepreneurship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/gabrielle-bienasz/global-startup-ecosystem-report-robotics-artificial-intelligence.html",
-      "originalUrl": "https://www.inc.com/gabrielle-bienasz/global-startup-ecosystem-report-robotics-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-916478814_481999_mpzers.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark.md",
-      "title": "AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark",
-      "excerpt": "on Wednesday issued the latest vendor results for performance on benchmark tests of machine learning such as object recognition and natural language processing. Compared to the previous report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "originalUrl": "https://www.zdnet.com/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ad988efb009532b6ffb0ff752ba39e0e2f795839/2021/10/05/d4f24554-7da2-44c4-8e5d-87c09f1f8234/20210924-tiernan-beth-sus.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "publishedDateTime": "2021-09-22T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

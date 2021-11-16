@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-t
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-to-invest-in-startups/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
         width: 534
         height: 462
-        isCached: true
-  - title: "Toch.ai Launches INR 100 Cr Startup Fund To Invest In Video And Audio Tech Start-Ups"
-    excerpt: "The company announced that they'll provide advisory and networking opportunities to the most promising start-ups along with capital infusion."
-    publishedDateTime: 2021-11-11T11:51:00Z
-    webUrl: "https://analyticsindiamag.com/toch-ai-launches-inr-100-cr-startup-fund-to-invest-in-video-and-audio-tech-start-ups/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Toch.ai_Co-Founders.jpeg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "+GKnThLQPkHUBJXIV5a8A1RkNn02qOYKKkDsbbn4X0REUvxy3YCONnuKehVqoKvZGkxCZBvcvWZri6DpN3HvgR+V72T8f9a15Z8HI8Qk7/wTTIb0p7ANl4rUb7IWqtRs6Zcon/oyaFaoM7fOz50xSX3Vw0Vd80smVu093x7wyPUuiQyVE2KoSmwNLy/ReKJiU6BF3BuRz5AhMnnI4TZAQ7wlsWNNd28cnS0bI70kBXNPMAvGErM7n5pjZpciDlK3SOjn2dC1ESFJpBYuHCZTRZ+06Vv4kgNeV+xI2tnsgq9k+uTDnE8cvvsxmWKmV0oMPy5mGphryANOvCCq3qZ7wvd2Jb0sOE9PzFkaDkWVNeYOicKZTnvR28S8vi3IiFiRmQA5Rv7MCR7mt+WT3lWcJgn9wvOOdzfo7qSO67PYEVTqQh3Pi3Vva6KM7x8aeCDDIIvhztA7M/MEUInR/SYsVg1/d8Gin+/sV1q6YLcsFsPFPpfNPgKhbN3jg1BDYRg6IwMOdN3U1lZHjx4iWM7uxg==;yfbjVXL9d+JSB9IMoPgCaQ=="

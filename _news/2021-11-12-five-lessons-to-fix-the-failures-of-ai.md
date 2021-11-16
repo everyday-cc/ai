@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why AI investments fail to deliver"
+    excerpt: "According to two recent Gartner reports, 85 per cent of AI and machine learning projects fail to deliver, and only 53 per cent of projects make it from prototypes to production. Yet the same reports indicate little sign of a slowdown in AI investments."
+    publishedDateTime: 2021-11-16T04:58:00Z
+    webUrl: "https://www.reseller.co.nz/article/693078/why-ai-investments-fail-deliver/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 37
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-orig_1.jpgautowebp"
+        width: 472
+        height: 315
+        isCached: true
 
 secured: "2NQJ7gtkALUW91a3sTaHbRa3SYb1LNRxmh2RQCAXvQxLoAHy5+1CpszCPJ3vtm0GwZCs7vuKUFU8dsT6GNiZLI+wSqhj9vCoyjV3JkJFnNwPLhdNOzygbiYCxRwUZjAd4O0FlPT0NsefXm9SEogaEqbvkEP9AJoh63Csi+crfm6Q05noUfdUMpjN/SW2qUuHEwO6/U6BVU+ZHmJVLlMTeYJ5s6Vwz30LjuhNY7OPPGHUgbWJp2181r7pV+EATyFO4TNqH1eyqBFdhDN3ZU24T+mPfR9NLloWP8bBZd03xhq/hTsCSSY00JMpYG9TgVaoilZTRKqU2BZBW0iJFuFhvdHFGrBvISEZj1XN32hPJpwuh+H4HGoTWaPr1IyayIW3YQPmHW8bPEssyjxlFlqWs2ZJfDmOGet9as8L6OOXpFL4AkN7QXuUQSg5V2K6Q7s04g5ZKmpo7Yl6vZfRgB/GM+/nzzo+em9Lq/1qPfQgw5vRPLNk2nQcffoKFyYmXKRNZ/64SkvRhmDGuYv//mwUkg==;f25UFkXQPHcGil0FDVfjVA=="
 ---

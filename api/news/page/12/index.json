@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-04-better-ai-stock-nvidia-or-palantir.md",
+      "title": "Better AI Stock: Nvidia or Palantir",
+      "excerpt": "Nvidia (NASDAQ:NVDA) and Palantir operate in different sectors, but both tech companies are profiting from the secular expansion of the artificial intelligence (AI) market. Nvidia",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F649882%2Fgettyimages-664246660.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "publishedDateTime": "2021-11-04T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-us-physical-therapy-usph-beats-q3-earnings-and-revenue-estimates.md",
+      "title": "U.S. Physical Therapy (USPH) Beats Q3 Earnings and Revenue Estimates",
+      "excerpt": "U.S. Physical Therapy (USPH) delivered earnings and revenue surprises of 7.59% and 1.30%, respectively, for the quarter ended September 2021. Do the numbers hold clues to what lies ahead",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/395421",
+      "originalUrl": "https://www.entrepreneur.com/article/395421",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-395421.jpeg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-cdpq-leads-us70-million-financing-round-in-sama-an-ai-training-data-platform.md",
       "title": "CDPQ leads US$70 million financing round in Sama, an AI training data platform",
       "excerpt": "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training to power AI applications and to develop the first end-to-end AI platform to manage the complete AI lifecycle The company has approximately 40 employees in Montreal where it intends to strengthen its presence with a research and product development hub MONTRÉAL,",
@@ -1088,101 +1192,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-why-big-tech-wants-some-facial-recognition-rules.md",
-      "title": "Why Big Tech Wants (Some) Facial Recognition Rules",
-      "excerpt": "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some have been making an exception for facial recognition software. That’s not to say that any consensus has developed on this rapidly developing branch of artificial intelligence: The European Union and cities and states across the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/11/03/8212fa46-3cdc-11ec-bd6f-da376f47304e_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/11/03/8212fa46-3cdc-11ec-bd6f-da376f47304e_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFHZHAB43QI6ZPLP3I3W6RZQJY.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-waymo-will-start-operating-in-new-york-city.md",
-      "title": "Waymo will start operating in New York City",
-      "excerpt": "Waymo will start testing its self-driving vans in New York City on November 4th, helping it prepare for heavy traffic and snow..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html",
-      "originalUrl": "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/0a2fefa0-3c1b-11ec-bfeb-09e0beaa0f08",
-          "width": 5287,
-          "height": 2974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html",
-      "publishedDateTime": "2021-11-03T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

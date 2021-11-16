@@ -38,6 +38,20 @@ related:
         width: 400
         height: 293
         isCached: true
+  - title: "SG startup AI Rudder scores $10m in Sequoia-led Series A round"
+    excerpt: "Singapore startup AI Rudder raised $10 million in a Series A funding round co-anchored by Sequoia Capital China and Sequoia China Seed Fund."
+    publishedDateTime: 2021-11-16T03:02:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/ai-rudder-sequoia-series-a-270018/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 39
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2019/11/Singapore.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
     excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."
     publishedDateTime: 2021-11-12T19:28:00Z
