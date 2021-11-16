@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Big Tech leads the AI race – but watch out for these six challenger companies"
-excerpt: "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
+excerpt: "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),"
 publishedDateTime: 2021-11-09T01:15:00Z
-originalUrl: "https://www.power-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
-webUrl: "https://www.power-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+originalUrl: "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
+webUrl: "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/"
 type: article
 
 provider:
-  name: Power Technology
-  domain: power-technology.com
+  name: Mining Technology
+  domain: mining-technology.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn-images-1.medium.com/max/1022/1*eg3Cn-AGmElpOyOwkA8GUQ.png"
-    width: 970
-    height: 391
+  - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/11/leaders.jpg"
+    width: 1400
+    height: 934
     isCached: true
 
-secured: "h74QaJ3OY7dLSVCB/wXjh1yMURURZWv2wRJnHmac1iLj0r/jpmvtnjlclTiOP5Uf35zxQ+5RAPuYuj3ghs+BaobSGkKYVwR6kC+JtbScQ2o0LLkWZ1HPHDGMQF+VlzN197itNALIIfLL8jy80/MgoF6qO+Bm4x6tgNpoEVt9fW3EzU3ghq3ADffLu7Um8QY/kAGcrLv0L8VsA1a7FNtf2Z6ogToF+eJnwuyozZCAhDxk81is5Ehhypg2KaFlz/Zcjfvckbm1+vXFMPkxfJYvoM7NflTiSZJ19+0P51MMLXVW1phEXjOikvEDwF55YQTmPX21PfIjIWmbz4clT9TLWLQ8MS35RaOBDk/fXh8ZNss=;+RyFLnA/WLV9ZdXOIlcxAQ=="
+secured: "nknmXyiyas+S71Gx/P2IPJ3qo/hxKMf0y7lV3jyZnMATnB+Ikg7HETfxf6YOkqd3TUmfzOMptW0u9vM9o1gR8B+1gfdUjCUuIAo5MH/KAqmaOv0dXJ6s0roxJQRa0D6ibqminGWmQt0ireGpignYZwmZ/AlzaGnpwl0/giIoUhdmF3U4SU1T7zf6RPGPtJcanoGylS4Wz6qE3U+LxhXCpP8nAbsw7yyBYOFNTFUJsYLGdQ8WMazG9aZNx9XHzkuibpjDYJo2VQzNeD9mFif3UxtAqrxmXYZHlydvBu/ZM99xPyUf/dkAFppHZocevDfJmYIP9xmImeNAO24/vv6WWPnixzcV4Gt5IKQUTzwVA9A=;6SHFwA22WdjXk8lSSnGU0A=="
 ---
 

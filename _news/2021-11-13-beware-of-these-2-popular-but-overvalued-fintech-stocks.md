@@ -21,33 +21,63 @@ topics:
   - AI
 
 related:
-  - title: "Top 10 Stories from Singapore Fintech Festival 2021"
-    excerpt: "Like previous years, the 2021 Singapore Fintech Festival was the opportunity for some of the world’s largest tech firms, banks, fintech leaders and regulators to announce their latest products and initiatives."
-    publishedDateTime: 2021-11-12T05:28:00Z
-    webUrl: "https://fintechnews.sg/57269/singapore-fintech-festival-2021/top-10-stories-from-singapore-fintech-festival-2021/"
+  - title: "5 Critical Ways Python Developers Contribute To A FinTech Company"
+    excerpt: "AI, scientific computing, academic research, etc. This creates countless opportunities for Python developers. In an industry like fintech that demands utmost care and focuses on security, you must vet carefully and hire Python developers who are highly ..."
+    publishedDateTime: 2021-11-15T15:13:00Z
+    webUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/"
+    ampWebUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/5-critical-ways-python-developers-contribute-to-a-fintech-company.jpg"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Fintech Compliance: AI's New Role in Combating Corruption"
+    excerpt: "Discover how AI has started to be used as a tool for fighting corruption, what these technologies are, and why they are so important"
+    publishedDateTime: 2021-11-13T09:00:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-compliance-ais-new-role-combating-corruption"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
+    excerpt: "IN-Dai Emulya Fintech Pte Ltd today announced that Abhishek Mishra a fintech leader with global experience is joining as the Co-founder and CEO"
+    publishedDateTime: 2021-11-16T14:22:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271738945/fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1637072197.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Pagaya to Participate in Citi's 2021 Virtual FinTech Conference"
+    excerpt: "Pagaya Technologies Ltd. (\"Pagaya\"), a financial technology company that enables financial institutions to expand access to more customers through its artificial intelligence network, today announced that Gal Krubiner,"
+    publishedDateTime: 2021-11-15T12:13:00Z
+    webUrl: "https://www.lelezard.com/en/news-20103018.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
     quality: 24
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/Top-10-Stories-from-Singapore-Fintech-Festival-2021-.jpg?x73342"
-        width: 2048
-        height: 1136
-        isCached: true
-  - title: "Syfe's Dhruv Arora and Samantha Horton Wins Top Accolades at the 2021 Singapore FinTech Festival Global FinTech Awards"
-    excerpt: "Founder and CEO of Syfe, Dhruv Arora, and Samantha Horton, VP of Business Development, secured the awards for Top 10 FinTech Leaders and Women in FinTech respectively Organised by the Singapore FinTech Association in collaboration with the MAS,"
-    publishedDateTime: 2021-11-12T15:07:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=565872"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
+      - url: "https://www.lelezard.com/img/theme/lezard2.png"
         width: 500
-        height: 324
+        height: 414
         isCached: true
 
 secured: "T6BUZC5Vo0KIWva+ckv+NPLig/MqmgH1AROzoW6Hg10EneO1MT8f5gTfa0zQtBQhjzNC9kYApEYw0ZXz8oCVwdBne8h/ja4j6eixOdrJ4ZawKb2CFZTtAiPXItpPaEgLc4qkab9L3rOzrviXIyytiDg+xcF8kMW7qRZhMkQeHxze8D+XQGknhtw0yHO9UayC8/deTUsldrYs8hzhDMAj3Yxm3TKi1i5DqSZ8uZHCoaSNmxlPzOtTy3+Bh+KVQZELM6I/wgwgrtPi2jJH9G02JdNOyayOVfsaDbJSQvrsfer9XAVJJ6bHbJnIMcULIlOECYEpHnZDEmdzl3B8c6gvEnpRfIi8BLut6pw9MzBlUQIIcghJC/eyykPnCPkkwiONfeNQM6OxWIBcHjTd4whOsTnS/NqxTcNLNvwXqSeLqQD5q+gvUqzlB4ip2v12df8drIC+8IP0Nr9xVIjqrDPg5hcdnqUcxhedDnm6Qp87dKrCpc+wNMuHOC56KjcQxsKJY0zXFtCqseHfN4z3Whdcyw==;DTM/tmsdfjK4ACHtlHmZiA=="

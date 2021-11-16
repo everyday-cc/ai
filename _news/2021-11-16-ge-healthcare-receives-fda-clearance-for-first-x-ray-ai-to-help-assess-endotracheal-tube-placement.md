@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "AIRS Medical Receives FDA 510(k) Clearance for AI-Powered MRI Reconstruction Software SwiftMR™"
+    excerpt: "AIRS Medical Inc., a healthcare startup based in South Korea, announced FDA 510(k) clearance of its first product SwiftMR™. SwiftMR™ is an AI-powered"
+    publishedDateTime: 2021-11-16T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211116005024/en/AIRS-Medical-Receives-FDA-510-k-Clearance-for-AI-Powered-MRI-Reconstruction-Software-SwiftMR™"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
+
 secured: "ieQZBU/SY2ob+CsVomf4Pz7fAuUufi3OGcu6MUsqyqDt1dubGRIvoTs0ILysIrFVgi4GEw7xC2vjvdmxuf1ivU3Yp3QqRfUJb/nTx8iTCG9wQT2ESaFZSeuSrQyHmZbVYBmlmto1K/CpSypT7nrSqIX5YWr4rHWa3PEOhFJbmmCqvaTdWVf5/RV4xx1LnvLtZhxFwiJa+vZ/bPwRlBSL3SOOs5YXFiWCdmjPt1dsh+zNI0FP2LaOu2IaQM7XQWFM6Yj99ilZ0w/DhurCvVirYm+Ahf/fsKkB1jdjuRPp2pIuUXdu4HoYPlItjo07KusP6VeQWDmStGQY7+LTt6RxxcQCkP1MVNRWNruFkdZOyQw=;N0iVPat3Pa4pX/f0tlWCxw=="
 ---
 

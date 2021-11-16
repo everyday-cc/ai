@@ -39,15 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM to Add New Natural Language Processing Enhancements to Watson Discovery"
-    excerpt: "General Manager of Data and AI, IBM. \"The pipeline of natural language processing innovations we're adding to Watson Discovery can continue to provide businesses with the capabilities to more ..."
-    publishedDateTime: 2021-11-11T23:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-301420714.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
 
 secured: "xIyT+IDa6+PVIyKExHAv6x6qiOIgz2scrsIprcL+6otw6g9wImjQJIjGGhlX8KX8FNVgrB75O4HgYPz65rRoomJB5aj127rpCK21fa5qT5wkrQ1CJ1WR8MomHfe/kDBhJJ8AxtxVXKvzF5WOlMulMqn2aq6Xhuxf1acAR9AvUAy+nfYNMIodRShbUgaM+yO8liX1lCbaEF0U94cH/nQzpyaKMj0pGIUMUWGl0ASboNOltgYw5JuiGnk8D9Hap4hL0tmVPnJHcdUgzw8BPLk5zr4vjfVFq1JBjEl50+JrEsseHEcUrT0sZHXQEc6yhv+718KPJuzDnrJVP2PRZNm4bnet68p9Vo7PeGWn5Rcf7UA=;A2sPcZIrleQI8gbKPim1eA=="
 ---

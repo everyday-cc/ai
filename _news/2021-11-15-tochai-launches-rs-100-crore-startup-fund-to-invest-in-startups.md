@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-t
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-to-invest-in-startups/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Dataquest
@@ -26,37 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Toch.ai Launches INR 100 Cr Startup Fund To Back Audio And Video Tech Startups"
-    excerpt: "Toch.ai’s SaaS platform leverages artificial intelligence to understand context and key moments in videos to auto-create short-form video. The fund will be used to invest in disruptive early ..."
-    publishedDateTime: 2021-11-12T07:34:00Z
-    webUrl: "https://inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/"
-    ampWebUrl: "https://inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/amp/"
+  - title: "Huge deals are pushing more AI startups into IPO territory"
+    excerpt: "New data from CB Insights details a global AI funding market replete with activity, sharply divided by geography."
+    publishedDateTime: 2021-11-16T15:22:00Z
+    webUrl: "https://techcrunch.com/2021/11/16/huge-deals-are-pushing-more-ai-startups-into-ipo-territory/"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 53
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
     images:
-      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-feature.jpg"
-        width: 1360
-        height: 1020
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=533"
+        width: 533
+        height: 399
         isCached: true
-  - title: "Toch.ai launches INR 100 crore Startup Fund to invest in video and audio tech start-ups"
-    excerpt: "Mumbai: Toch.ai, an AI-driven SaaS platform for digital content players today launched INR 100 crore Startup Fund to invest in video & audio tech start-ups globally over a period of time.The fund aims"
-    publishedDateTime: 2021-11-12T11:15:00Z
-    webUrl: "https://indiaeducationdiary.in/toch-ai-launches-inr-100-crore-startup-fund-to-invest-in-video-and-audio-tech-start-ups/"
-    ampWebUrl: "https://indiaeducationdiary.in/toch-ai-launches-inr-100-crore-startup-fund-to-invest-in-video-and-audio-tech-start-ups/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/toch-ai-launches-inr-100-crore-startup-fund-to-invest-in-video-and-audio-tech-start-ups/"
+  - title: "Kristal.AI launched more than 15 pre-IPO deals in a year"
+    excerpt: "Since its launch in late 2020, the Kristal Private Markets (KPM) offering has facilitated investment in over 15 private market deals across market leaders like NSE as well as new-age, high conviction businesses like Byju’s,"
+    publishedDateTime: 2021-11-12T06:49:00Z
+    webUrl: "https://www.livemint.com/market/ipo/kristalai-launched-more-than-15-pre-ipo-deals-including-byju-s-dunzo-and-stockal-in-a-year-11636612447707.html"
+    ampWebUrl: "https://www.livemint.com/market/ipo/kristalai-launched-more-than-15-pre-ipo-deals-including-byju-s-dunzo-and-stockal-in-a-year/amp-11636612447707.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/ipo/kristalai-launched-more-than-15-pre-ipo-deals-including-byju-s-dunzo-and-stockal-in-a-year/amp-11636612447707.html"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 49
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
+      - url: "https://images.livemint.com/img/2021/11/11/600x338/stockpic-kU4G--621x414@LiveMint_1636612566766.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "+GKnThLQPkHUBJXIV5a8A1RkNn02qOYKKkDsbbn4X0REUvxy3YCONnuKehVqoKvZGkxCZBvcvWZri6DpN3HvgR+V72T8f9a15Z8HI8Qk7/wTTIb0p7ANl4rUb7IWqtRs6Zcon/oyaFaoM7fOz50xSX3Vw0Vd80smVu093x7wyPUuiQyVE2KoSmwNLy/ReKJiU6BF3BuRz5AhMnnI4TZAQ7wlsWNNd28cnS0bI70kBXNPMAvGErM7n5pjZpciDlK3SOjn2dC1ESFJpBYuHCZTRZ+06Vv4kgNeV+xI2tnsgq9k+uTDnE8cvvsxmWKmV0oMPy5mGphryANOvCCq3qZ7wvd2Jb0sOE9PzFkaDkWVNeYOicKZTnvR28S8vi3IiFiRmQA5Rv7MCR7mt+WT3lWcJgn9wvOOdzfo7qSO67PYEVTqQh3Pi3Vva6KM7x8aeCDDIIvhztA7M/MEUInR/SYsVg1/d8Gin+/sV1q6YLcsFsPFPpfNPgKhbN3jg1BDYRg6IwMOdN3U1lZHjx4iWM7uxg==;yfbjVXL9d+JSB9IMoPgCaQ=="

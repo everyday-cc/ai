@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Facebook still harvesting teen data to fuel ads, warns research"
-excerpt: "Despite announcing changes to its advertising rules for children in July this year, Facebook (now called Meta) is still tracking and harvesting children's personal data to fuel their advertising delivery system,"
-publishedDateTime: 2021-11-16T13:44:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=894366"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=894366"
+excerpt: "Despite announcing changes to its advertising rules for children in July this year, Facebook (now called Meta) is still tracking and harvesting children's"
+publishedDateTime: 2021-11-16T13:00:00Z
+originalUrl: "https://www.canindia.com/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-2/"
+webUrl: "https://www.canindia.com/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-2/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Canindia.com
+  domain: canindia.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/sq_080121_walkin1.jpg"
-    width: 280
-    height: 250
+  - url: "https://www.canindia.com/wp-content/uploads/2021/08/CIPLACEHOLDER.png"
+    width: 586
+    height: 390
     isCached: true
 
 related:
@@ -55,7 +55,18 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Facebook misled lawmakers about teen ad targeting"
+    excerpt: "A report from advocacy groups has shown that Facebook is still harvesting data from users under 18 for ad targeting purposes."
+    publishedDateTime: 2021-11-16T15:11:00Z
+    webUrl: "https://mybroadband.co.za/news/internet/423008-facebook-misled-lawmakers-about-teen-ad-targeting.html"
+    ampWebUrl: "https://mybroadband.co.za/news/internet/423008-facebook-misled-lawmakers-about-teen-ad-targeting.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/internet/423008-facebook-misled-lawmakers-about-teen-ad-targeting.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 24
 
-secured: "4ahdy4u/4uYv1laImaZWK7HIFOsn0/p4Ir4m2dKedNhDF6sG4WtyDE2tLefsvidPQ453LV//hf5JD1wr8aIyd+2/xTLS1wgiR8qEjmq8m925tCI1PcdbTmxOB2fElsW2XX0AAbrP+qKvwBPxVulzuBm5zDUyD8fdIlw9TbVocfgugcQ/UEDqK4y/2+7TEALqAeZM1xPBVMS0pUGhbj5fkCk28hqIs7EA162ORbBuz3VuqpKO4kbxB6TltSh/Xtc5PbzQQdXCRFOOPeZaMUr9uEJTqDHQpTJV7ppR8U7A978Tzk5MeLiWCrlVPD1ZsW7pnFi0DXMNI/bUEIhzKkmhrdsOjTkItTtI8Z45J9rB/EI=;8Ejh4xtnGXay5BSr18bX0Q=="
+secured: "fpskwtab9ZUGGgSESLMYP4wmDqsqG/ja8M0DDGQSMZmFHA7wkNf6vB3tZuzl1vDth2Hh3Ry9ZhLBtR4o49FBE++TqvQUEbcV0PnG0LaSoOx6a/hW665eXByKJ40IjQQSuTyq8XxFYx7sLhuBr8HVfrKz2vFRRO2/GD3pGpLDRXEBe6BfpUuPgivMOkS4HmQLQ6qMg8ltInO+eqTpADdib+LXmWIeVmX/VDwLqcrg48Rp403SWfHV7kAQP/KGoT0kMvxt++BxGBLcBs9+joI9mg6d6T8gxBF6R+nN0BIjXo08358oFkTvjBgW+t/+bc3NjstrSXroTZUedXLiOhbVJE3M3pFsx5pPKwSRwa6zbGs=;UR44TXobyv2L8F33PY9Z5w=="
 ---
 

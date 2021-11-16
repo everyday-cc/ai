@@ -39,17 +39,6 @@ related:
         width: 2048
         height: 1136
         isCached: true
-  - title: "Beware of These 2 Popular but Overvalued Fintech Stocks"
-    excerpt: "There remains uncertainty regarding whether the COVID-19 pandemic-fueled growth of fintech will continue. Furthermore, banks have been easing restrictions and ramping up technology spending, and by so doing posing a competitive threat to the fintech industry."
-    publishedDateTime: 2021-11-12T17:55:00Z
-    webUrl: "https://stocknews.com/news/upst-sofi-beware-of-these-2-popular-but-overvalued-fintech-stocks/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
 
 secured: "+hE3P/M2YHj7tb4AbVJI4Ojg7V2vd41UCfgdYLpDLlJXJAUfeTeE7irwmq4ZO0BADmTM0OgqcvyXiCz23Y/+1/KOG5ntWtCMhrByO33ygH8f1fuw0F2EeDqbC74tpqHSWo5vDJdRMaFI3sOvS88oeS8WkOTRT8k5Eszyl3cXGmBNIQ9r/+dWYoFzrFUvcfz2SxHVnRBlRbZqc9K2EboHq4Np8/u0Qwc+5ewiPHossWuaIkN9g6Lvcs4yKezYmSGZ00oM1rlF5P0GN9qGwrG/BWYPfDOiTw8CBC1TWksSf0RJCJRjbl2Anp8Ey+bejn4fAiCCL2fXtS2OGxGCDf+DhMAQMgxBVlu8YBjB/gDyFwU=;WUnHepON8e7+ZGZAU4KKww=="
 ---

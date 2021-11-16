@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toch.ai launches Rs 100 crore startup fund to invest in startups"
-    excerpt: "The fund is to invest in innovative companies and provide infrastructure services to bolster growth and accelerate disruption. Toch.ai, an AI-driven SaaS platform for digital content players launched Rs 100"
-    publishedDateTime: 2021-11-15T07:18:00Z
-    webUrl: "https://www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-to-invest-in-startups/"
-    ampWebUrl: "https://www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-to-invest-in-startups/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-to-invest-in-startups/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2017/01/funds.jpg"
-        width: 457
-        height: 320
-        isCached: true
   - title: "Toch.ai Launches INR 100 Cr Startup Fund To Back Audio And Video Tech Startups"
     excerpt: "Toch.ai’s SaaS platform leverages artificial intelligence to understand context and key moments in videos to auto-create short-form video. The fund will be used to invest in disruptive early ..."
     publishedDateTime: 2021-11-12T07:34:00Z

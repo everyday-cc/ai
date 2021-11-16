@@ -2,6 +2,220 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-09-new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai.md",
+      "title": "New Spiking Neuromorphic Chip Could Usher in an Era of Highly Efficient AI",
+      "excerpt": "Neurons spike in a time sequence, and it's their basis for wiring up into circuits and hierarchies, allowing highly energy-efficient processing.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/",
+      "originalUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/11/Low-Res_Illustration_TTFS_Credit_Göltz-and-Kriener-et-al..jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/",
+      "publishedDateTime": "2021-11-09T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says.md",
+      "title": "AI can help overcome challenges in conventional chips, IBM’s top engineer says",
+      "excerpt": "In an exclusive interview with The Hindu, Christian Jacobi, IBM’s Chief Architect for IBM Z Processor Design, explains the importance of AI-powered computer chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says/article37402354.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says/article37402354.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/1vpu8y/article37402496.ece/ALTERNATES/LANDSCAPE_615/Christian-Jacobi-IBM",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says/article37402354.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says/article37402354.ece/amp/",
+      "publishedDateTime": "2021-11-09T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how.md",
+      "title": "Nvidia and Lockheed Martin plan to fight forest fires with AI. Here's how",
+      "excerpt": "The companies have teamed up with state and federal firefighting services and are creating a dedicated lab to predict the path of fires to help stop them in their tracks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "originalUrl": "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/G6G2x6gQsRtkGqciyOhYYdHfo7I=/1200x630/2021/11/09/7a97c262-f936-4251-9ddf-195eb78471f4/gettyimages-1234819592.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "publishedDateTime": "2021-11-09T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-mediamath-ibm-watson-advertising-strengthen-relationship.md",
+      "title": "MediaMath, IBM Watson Advertising strengthen relationship",
+      "excerpt": "MediaMath, the independent advertising technology company for leading brands and agencies, has integrated its demand side platform (DSP) with IBM Watson Adverti",
+      "sourceUrl": null,
+      "webUrl": "https://advanced-television.com/2021/11/09/mediamath-ibm-watson-advertising-strengthen-relationship/",
+      "originalUrl": "https://advanced-television.com/2021/11/09/mediamath-ibm-watson-advertising-strengthen-relationship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Advanced Television",
+        "domain": "advanced-television.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-what-analysing-language-tells-us-about-inflation.md",
+      "title": "What analysing language tells us about inflation",
+      "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
+      "sourceUrl": null,
+      "webUrl": "https://www.schroders.com/es/insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "originalUrl": "https://www.schroders.com/es/insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.schroders.com/es/sysglobalassets/digital/insights/2021/hero-images/announcement.jpg",
+          "width": 945,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Schroders",
+        "domain": "schroders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-youcom-wants-to-remake-the-search-engine.md",
       "title": "You.com wants to remake the search engine",
       "excerpt": "The service abandons the linear list of links you’ll find in most general-purpose search engines, opting for a grid of answers organized by source. The sources include generic categories like “web results” and “news” but also specific sites like StackOverflow,",
@@ -967,249 +1181,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidia-makes-massive-language-model-available-to-enterprises.md",
-      "title": "Nvidia makes massive language model available to enterprises",
-      "excerpt": "Nvidia has made available one of the world's largest language models -- Megatron 530B -- to enterprise customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/",
-      "publishedDateTime": "2021-11-09T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing.md",
-      "title": "Nvidia says its GPU chip is a giant leap forward for computing",
-      "excerpt": "Nvidia estimates that over the past 10 years, the raw computational power of its GPUs has grown by a factor of 1,000.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/NVIDIA-Cambridge-1_GPU-closeup-e1636399396836.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/",
-      "publishedDateTime": "2021-11-09T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai.md",
-      "title": "Nvidia’s Riva Custom Voice lets companies create custom voices powered by AI",
-      "excerpt": "GTC conference, Nvidia unveiled Riva Custom Voice, a service designed to let customers create AI-powered custom voices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/",
-      "publishedDateTime": "2021-11-09T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidia-announces-major-updates-to-triton-inference-server-as-25000-companies-worldwide-deploy-nvidia-ai-inference.md",
-      "title": "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference",
-      "excerpt": "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-azure-high-performance-computing-at-supercomputing-2021.md",
-      "title": "Azure high-performance computing at Supercomputing 2021",
-      "excerpt": "Azure’s market-leading vision for HPC and AI is based on a commitment to continual improvement and backed by a core of genuine and recognized HPC expertise, using proven HPC technology and design principles, enhanced with the best features of the cloud. The result is a capability that delivers performance,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-highperformance-computing-at-supercomputing-2021/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-highperformance-computing-at-supercomputing-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:00:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

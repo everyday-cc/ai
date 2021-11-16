@@ -159,7 +159,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -673,6 +673,41 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-northern-trust-launches-machine-learning-module-for-asset-owner-research-management.md",
+      "title": "Northern Trust Launches Machine Learning Module for Asset Owner Research Management",
+      "excerpt": "As part of its initiative to bring greater efficiency and transparency to alternatives asset servicing, Northern Trust (Nasdaq: NTRS) has launched a feature within its Front Office Solutions platform that utilizes machine learning to empower sophisticated asset allocators with better oversight of their research process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/northern-trust-launches-machine-learning-module-for-asset-owner-research-management/",
+      "originalUrl": "https://www.financialbuzz.com/northern-trust-launches-machine-learning-module-for-asset-owner-research-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1421,50 +1456,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-new-machine-learning-system-gives-robots-social-skills.md",
-      "title": "New Machine-Learning System Gives Robots Social Skills",
-      "excerpt": "A new machine-learning system helps robots understand and perform certain social interactions. Robots can deliver food on a college campus and hit a hole-in-one on the golf course, but even the most s",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/",
-      "originalUrl": "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Industrial-Robots-Teamwork-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-gives-robots-social-skills/amp/",
-      "publishedDateTime": "2021-11-05T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

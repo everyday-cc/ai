@@ -2,6 +2,257 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-13-trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition.md",
+      "title": "Trust in biometrics sought with AI Act, government programs and ethical facial recognition",
+      "excerpt": "Biometrics adoption is being encouraged in the public sector for digital ID and online government applications as it continues to rise in the private sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition",
+      "originalUrl": "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-13T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-is-scotland-a-major-contender-in-the-ai-space.md",
+      "title": "Is Scotland A Major Contender In The AI Space?",
+      "excerpt": "Governments and countries are taking advantage of the tremendous transformation presented by AI to position themselves for global competitiveness. Scotland is one such country doing this. Are they now becoming a major contender in the AI space?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618fd05810b6172dc4166969%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2209%26cropY1%3D27%26cropY2%3D1270",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/amp/",
+      "publishedDateTime": "2021-11-13T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem.md",
+      "title": "Robots vs. Fatbergs: High-Tech Approaches to America’s Sewer Problem",
+      "excerpt": "Cash-strapped U.S. cities are turning to drones, artificial intelligence and other innovations to help inspect and fix the country’s aging, underground arteries of waste",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "originalUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-434095/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "publishedDateTime": "2021-11-12T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-ai-tool-offers-cure-for-scattered-medical-data.md",
+      "title": "AI tool offers cure for scattered medical data",
+      "excerpt": "Aggregating medical data for patients and analyzing it using AI algorithms can yield useful insights for hospitals and health care systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/",
+      "originalUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1286541345-e1636479956952.jpg?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/amp/",
+      "publishedDateTime": "2021-11-12T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision.md",
+      "title": "Facebook, bad news and business ethics: Consider the consequences of every decision",
+      "excerpt": "Facebook's recent challenges should serve as a lesson to all leaders to identify and mitigate ethical concerns before they escalate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/",
+      "originalUrl": "https://www.techrepublic.com/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2018/07/17/a6335d0b-5cd2-4ef0-b45e-4c9053d26ab6/resize/1200x/66c6341c84855bd86c7adc99fc13dd42/ethics.jpg",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/",
+      "publishedDateTime": "2021-11-12T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-13-ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late.md",
       "title": "AI Weekly: Workplace surveillance algorithms need to be regulated before it’s too late",
       "excerpt": "A growing number of companies are using potentially flawed, invasive workplace monitoring algorithms -- with little oversight.",
@@ -702,50 +953,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-12-ibm-enhances-the-natural-language-processing-capabilities-of-watson-discovery.md",
-      "title": "IBM Enhances The Natural Language Processing Capabilities Of Watson Discovery",
-      "excerpt": "IBM has announced upgrades to Watson Discovery's natural language processing capabilities. These advances in NLP can teach Watson Discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/ibm-enhances-nlp/",
-      "originalUrl": "https://analyticsindiamag.com/ibm-enhances-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/11/IBM-Enhances-The-Natural-Language-Processing-Capabilities-Of-Watson-Discovery.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-12-google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning.md",
       "title": "Google Research changes the game for medical imaging with self-supervised learning",
       "excerpt": "Medical training data has a great cost, which makes it difficult to use deep learning for many apps. Google Research suggests a new solution.",
@@ -1032,196 +1239,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-companies-order-record-number-of-robots-amid-labor-shortage.md",
-      "title": "Companies Order Record Number of Robots Amid Labor Shortage",
-      "excerpt": "North American firms ordered nearly 29,000 robotics units in first nine months of 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
-      "originalUrl": "https://www.wsj.com/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-433263/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
-      "publishedDateTime": "2021-11-11T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-video-level-computer-vision-advances-business-insights.md",
-      "title": "Video-level computer vision advances business insights",
-      "excerpt": "Instance-based classification, segmentation, and object detection in images are fundamental issues in the context of computer vision. Different from image-level information retrieval, the video ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
-      "originalUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
-      "publishedDateTime": "2021-11-11T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance.md",
-      "title": "The Intersection of AI and DeFi and Why It’s the Future of Finance",
-      "excerpt": "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
-      "originalUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
-      "publishedDateTime": "2021-11-11T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-the-best-early-black-friday-deals-2021-walmart-amazon-airpods-more.md",
-      "title": "The Best Early Black Friday Deals 2021: Walmart, Amazon, Airpods & More",
-      "excerpt": "Early Black Friday 2021 deals are here. These are the best Black Friday deals on TVs, laptops, Airpods and more from retailers like Walmart, Amazon and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/uploads/2019/09/instantreadthermometer-lowres-6543.jpg",
-          "width": 636,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/amp/",
-      "publishedDateTime": "2021-11-11T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

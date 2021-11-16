@@ -22,8 +22,8 @@ topics:
 related:
   - title: "PEAK 2021 Record sales at Singles Day 2021"
     excerpt: "It also used its own artificial intelligence inference chip ... Alibaba also used 350 Xiaomanlv driverless delivery robots to deliver more than a million orders to universities and local neighbourhoods. Cainaio is expected to have delivered more orders ..."
-    publishedDateTime: 2021-11-13T03:12:00Z
-    webUrl: "https://internetretailing.net/sustainability/peak-2021-record-sales-at-singles-day-2021-24014"
+    publishedDateTime: 2021-11-12T21:05:00Z
+    webUrl: "https://internetretailing.net/themes/themes/peak-2021-record-sales-at-singles-day-2021-24014"
     type: article
     provider:
       name: InternetRetailing

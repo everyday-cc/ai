@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-7
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 466
         isCached: true
 
-secured: "z3LiNY1Jn90CfgNEw9/qkAjxeGPLbMFfosRIsF0ZYTkJbQ6t3gUCo3DsFgtl1cMaGOQ5ETTkZgVNQQ/Q5B+LiI76+tA4tBMlcPL56+eyOrHmo71Lao95vT0FRN8jQPmFOMOdTiCzeu1H8BH+iGVW7eqfwVyBBN3+eqe/H36q+Z4aFIrF2Vh788E41nndq+x4uGZGzCMkQfPpIx+Ldse/qG92CIG5H5ceRUcKYjEQCTU5bEcT8/lWEYz8XKHIWR6ypE8eueEAbtenrmMbPLplq+IIoLNBQutfhgnE61OZA+BRi8ICjZEwcA060uCWW8HFETm0xmM04v/TzkP5BwDpYyqYzkE6TJ15uqRkhZhFOK0=;wWSbwE1khkQJpcJYi0156w=="
+secured: "2d5a5B0+mKqdV3evQJKXa2m3vsC1JQOj5fG/X5uBZ6uWS6PgS6AArF4H+Vu37yBFpagZt3wkLdNdHyxLAkROvazoNggyoFBxjcHlbHzQTJo4dCUaVOjtwyRgkkZaN7lJBERV+KSR4QcHVDly6347AZJj9Dw8SFBytBcQdOyT9uX3PMhQxJUxBG4v/T4UeSWpLT64LfjQsxqDta7sIBsnOdaPD6seF6F7HwFk1DC2IgwNHAu3RhxaKURzHzX3LEuskjumku/9DZcezY2ISP4/zOv6vkUhCKcUxY9SNeF5mD9SxdWwHoTmeLyCSqjg1++lUBFmHxHXdqnfpi6yqgeyyx/WJRBPpNDg3hYqOMFHapEIhToKquZuasuzUea8U7ap4jeHaCQdqMYufpCo+niU6fzFxlJtsQHbtUOmf/BeZ/gZVYnmQXR9WL89ZAEYvwNo/aDs/FDim0LzY6z115ZAuPjWQijhBr5XOF64R9XdeBX1DOFgeU0c4DgpRCppAAv+3gLKAvmJIJ9rpshC08pwjQ==;zTL0fIph8tlig17MszmetQ=="
 ---
 

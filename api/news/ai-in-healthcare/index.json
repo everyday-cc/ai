@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-16-ge-pounces-on-surging-healthcare-demand-with-spinoff.md",
+      "title": "GE Pounces on Surging Healthcare Demand With Spinoff",
+      "excerpt": "In spinning off its healthcare business, GE is betting on the fast-growing diagnostic-imaging-equipment market, a sector facing disruption from artificial intelligence and growing competition from startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "originalUrl": "https://www.wsj.com/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-434791/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "publishedDateTime": "2021-11-16T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-vida-streamlines-respiratory-clinical-trials-with-artificial-intelligence-ai.md",
+      "title": "VIDA Streamlines Respiratory Clinical Trials with Artificial Intelligence (AI)",
+      "excerpt": "VIDA Diagnostics, Inc. (VIDA) is further removing friction in respiratory clinical trials with the introduction of a new AI-powered portal. The cloud-based VIDA Intelligence Portal (VIP) streamlines challenges often associated with imaging in trials such as site onboarding,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vida-streamlines-respiratory-clinical-trials-with-artificial-intelligence-ai-1030980685",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vida-streamlines-respiratory-clinical-trials-with-artificial-intelligence-ai-1030980685",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution.md",
       "title": "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution",
       "excerpt": "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level",
@@ -1279,102 +1374,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
-      "title": "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
-      "excerpt": "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-ai-links-covid-19-brain-changes-to-alzheimers-disease-like-cognitive-impairment.md",
-      "title": "AI Links COVID-19 Brain Changes to Alzheimer’s Disease-Like Cognitive Impairment",
-      "excerpt": "Cleveland Clinic-led research team used artificial intelligence to uncover association between COVID-19 and brain changes. A new Cleveland Clinic-led study has identified mechanisms by which COVID-19 can lead to Alzheimer's disease-like dementia.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/ai-links-covid-19-brain-changes-to-alzheimers-disease-like-cognitive-impairment/",
-      "originalUrl": "https://scitechdaily.com/ai-links-covid-19-brain-changes-to-alzheimers-disease-like-cognitive-impairment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Brain-Glitch-Stress-Disorder-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/ai-links-covid-19-brain-changes-to-alzheimers-disease-like-cognitive-impairment/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-links-covid-19-brain-changes-to-alzheimers-disease-like-cognitive-impairment/amp/",
-      "publishedDateTime": "2021-10-27T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
