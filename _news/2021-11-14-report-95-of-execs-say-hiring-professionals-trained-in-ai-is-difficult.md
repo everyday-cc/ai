@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: VentureBeat
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Report: AI startup funding hits record high of $17.9B in Q3"
-    excerpt: "A new report from CB Insights has revealed that global funding in AI startups has seen a surge of 8% to $17.9 billion during Q3 2021."
-    publishedDateTime: 2021-11-11T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/"
-    ampWebUrl: "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "SPECIAL REPORT: Artificial intelligence becoming a game-changer in ag"
     excerpt: "Technology is all around us. We have daily access to it right at our fingertips, and soon enough it is going to take over many tedious tasks in agriculture, like weeding."
     publishedDateTime: 2021-11-12T02:25:00Z

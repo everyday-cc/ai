@@ -7,7 +7,7 @@ originalUrl: "https://www.just-food.com/features/revealed-the-food-companies-lea
 webUrl: "https://www.just-food.com/features/revealed-the-food-companies-leading-the-way-in-artificial-intelligence/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Revealed: the pharma companies leading the way in artificial intelligence"
-    excerpt: "Novartis and Johnson & Johnson are among the companies best positioned to take advantage of future artificial intelligence disruption in the pharmaceuticals industry, our analysis shows. The assessment comes from GlobalData’s Thematic Research ecosystem,"
-    publishedDateTime: 2021-11-12T13:00:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/analysis/revealed-the-pharma-companies-leading-the-way-in-artificial-intelligence/"
+  - title: "These Edge AI companies are boosting the growth of Edge AI"
+    excerpt: "Edge AI is the new technology that has been booming these days. The global Edge AI software market is estimated to cross US$3 Billion by 2027. Here are the top Edge AI companies that are boosting their growth."
+    publishedDateTime: 2021-11-14T10:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-edge-ai-companies-to-know-and-watch-out-in-2021-for-sure/"
     type: article
     provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 36
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/11/shutterstock_2055997766.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Top-Edge-AI-Companies-to-Know-and-Watch-Out-in-2021-for-Sure.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Revealed: The apparel companies leading the way in artificial intelligence"
     excerpt: "LVMH and GlaxoSmithKline are among the apparel companies best positioned to take advantage of future artificial intelligence disruption."

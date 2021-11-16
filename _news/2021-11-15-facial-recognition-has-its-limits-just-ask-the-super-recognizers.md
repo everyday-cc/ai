@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Has Its Limits. Just Ask the ‘Super Recognizers’"
-    excerpt: "London’s Metropolitan Police conducted 10 trials of live facial recognition between 2016 and 2019, using face-matching software from Japanese technology firm NEC Corp. and cameras mounted on surveillance vans and poles."
-    publishedDateTime: 2021-11-15T21:20:00Z
-    webUrl: "https://www.bloombergquint.com/gadfly/police-should-use-super-recognizers-to-boost-their-facial-recognition-software"
+  - title: "Facial Recognition Has Its Limits. Just Ask the ‘Super-Recognizers’"
+    excerpt: "Its inhabitants are caught on camera about 300 times a day on average and the British capital has become a testbed for police use of live facial recognition. But the technology, which powers a mu"
+    publishedDateTime: 2021-11-16T05:30:00Z
+    webUrl: "https://english.aawsat.com/home/article/3306766/parmy-olson/facial-recognition-has-its-limits-just-ask-‘super-recognizers’"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
+      name: الشرق الأوسط
+      domain: aawsat.com
     quality: 41
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "3JRpsPfxU48I3oBnxZCc4H7dwDQ9NIzuGkNuFBkEloHjRFGzpY5BEvYGYwx8uOZ8e3TBGzhedQ28+wsP8G/cJX6YZvoDlr0oq8C/1keY7rBrq13TKshHd3ZYrPLHCFeyFmT8XhOSaoJtugYdvwdVRYpRbn+K5GZTYZSlcx+ugCyiZtN+F93HQmFspHX/l6r2j3Ry1U+YsCw0KoPXzX+MFynQpKZxZ1DWnfnhi4HszFt5hENajs4BLZj1dRWpq/9oEi4Agxn6ADa+DLKsLDn5H16Fq/K/YGA1Bl7bEIq+AQwAbIaplyJD0Q6lEhLFKHcZtTX7WtIxM8OmxfuktIk+AmwChNu70Ee7a+4kp7q8+2AdCUOv0rVv4kUtJi2f28VBTGSt0V2OYlcGoYDYx8ysB3R4ceYBg9J67IyheXcxOTg1CoZxZ0kprAyffjVVEWlnjqWOGg1ag1/spNBhNbF1T+0CoS9nIXGZoNxj9ycdiTMXxmmFccVhMizwB4NvcxKDcQOu5gYzj0P7PDdneEYY6Q==;9AZoRJtY9998hkNWxU+cZg=="

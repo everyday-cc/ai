@@ -40,6 +40,20 @@ related:
         width: 625
         height: 350
         isCached: true
+  - title: "Revealed: the pharma companies leading the way in artificial intelligence"
+    excerpt: "Novartis and Johnson & Johnson are among the companies best positioned to take advantage of future artificial intelligence disruption in the pharmaceuticals industry, our analysis shows. The assessment comes from GlobalData’s Thematic Research ecosystem,"
+    publishedDateTime: 2021-11-12T13:00:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/analysis/revealed-the-pharma-companies-leading-the-way-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 36
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/11/shutterstock_2055997766.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "Z37J3sQsbCbAIfsUuEmE3L/TpFI+tZhG/IkZz4TwDnYnusb4mohxPXvx+nKxpEz4300Uzt+rNeDa6jvYpJXK0CWyAa43pybYwovNavCrzhE+MaaKrcrvErsCab1At4+IPz5f+d/+CN/52GDTWnqFwkrNKCEViIedHwR5nBPBih71UKALrzZHNuV0+Akt2WTApCW46FylsyYX6phHDjJiejIwcoKrikMXp9UOdWXA2niFYUsxLRvr4/4fWkXGk3ylnsuLa3APHVxEP2zAW0AaA4AvsOyWxr9e9IcmMRzbqb49F6hLBRuCo2R5vlOytQ/d0bzry3RQQEV73xlgwuqk0Td9+hCvIyrfjN2EQRDW2lx6VlBRYdIe9hliy8CztCDK6EwLb1gzziIKUUQxf3Tx2lLo0//fsts/NYWE75vOxy7B1RVXXoCliQdX5muPyb0iXiF+9auBZC6bXjnC7XOQlM/eW4fLaHpzBAYpY24rqla7b5oUeOihgiKmfcZER0ntswiJRUlf1Q4z7cbIonga0A==;A6Odviry7MeMIk+poCuRsA=="
 ---

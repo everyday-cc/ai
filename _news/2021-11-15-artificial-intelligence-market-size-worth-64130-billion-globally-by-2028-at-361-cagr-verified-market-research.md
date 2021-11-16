@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Artificial Intelligence Market size worth $ 641.30 Billion, Globally, by 2028 at 36.1% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research recently published a report, \" Artificial Intelligence Market \" By Component Analysis (Hardware, Software and Services), By Technology (Deep Learning, Machine Learning, Natural Language Processing),"
+excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence Market\" By Component Analysis (Hardware, Software and"
 publishedDateTime: 2021-11-15T13:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/n24093831/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr-verified-ma"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/n24093831/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr-verified-ma"
-ampWebUrl: "https://www.benzinga.com/amp/content/24093831"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24093831"
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-worth--641-30-billion-globally-by-2028-at-36-1-cagr-verified-market-research-301424025.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-market-size-worth--641-30-billion-globally-by-2028-at-36-1-cagr-verified-market-research-301424025.html"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+    width: 2696
+    height: 1414
     isCached: true
 
-secured: "ijEonRkev4MQmgV6mQhbZTT26mqM2sTPe0avNymNg9Q5BC0hk0CQheuUR52hQx4gU4HrB2iI8Qkxilrd3czG9aH4lx7WKDfecX3VkapVrZBakXtk3HBNvJyaU/W7TK7/DrHGdU5wZOn63V8dyfbynP4vQfgNZVR2fW7g105L4Fo95S39IyZpJTt656c2flmJaHr5mv9j3/xJxhw8t8kN6izvsudRXMwX+eB9CReo669iN7DMD9U1ukCgpLcXpfwTIlxipmo5qDlUjY7zUxx4BJw5YaRnJxszNImBzw/TJaEjsBgIc83BFumWeiFx82D+vOjJsO/LidS/Rpag1JFz67QZH4iV9csE53Gd0djaUaQ=;u27tLIbXg3JmZiH6ZMsk1g=="
+secured: "OPlB0y2mhEjWmwc5pO4KyHfFYI5eG2f+GmoZOFLpV4UUr79JH1PNPHcM42bnU46LhMqY+7m0k622FFZ0JAR+L/zIABeJNq+n2JFV/3mCS/gBPpsWNksOW06wqcG2E9dqZVF83IALuLHGLU1TBban04CeD/YGe9K3PzqYyNAdxYKHeKsaKHvhNPg61poQru0/Tya1k72LbAVZeeEg9a1xaVEWTBkmSXm5CiZqkh4ekeNNOJnwqo75oEJi+aLGnikyi/ZClXFg8ICHuyfb34svN8uAdxPW59kCy5R3Ok8JbnBYT+nbcqbvTPfoKhpIIFqySxo8bwvn4sGiCYu/sxhcabIQTkUFdPI2rRX7DcqUw88=;aUutStpUBZwdbqyeUixuCQ=="
 ---
 

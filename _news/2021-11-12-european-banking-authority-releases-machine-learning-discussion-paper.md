@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182830-european-banking-aut
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "European Bank Sees Path to Fastest AI Supercomputer"
-    excerpt: "While Hungarian banks with collective names like OTP Group might not have household recognition here in the U.S., they do represent a notable portion of"
-    publishedDateTime: 2021-11-11T16:20:00Z
-    webUrl: "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/"
-    ampWebUrl: "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/"
+  - title: "European Commission’s Proposed Regulation on Artificial Intelligence: Conducting a Conformity Assessment in the Context of AI. Say What?"
+    excerpt: "The European Commission (EC) on April 21, 2021, proposed a regulation establishing a framework and rules (Proposed Regulation) for \"trustworthy\" Artificial Intelligence (AI) systems. As discussed in our previous OnPoints here and here,"
+    publishedDateTime: 2021-11-16T08:32:00Z
+    webUrl: "https://www.publicnow.com/view/BE971949ECDDAA8102BFFA0C551AA28BD529D937"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/ab_business_building.jpg"
-        width: 1300
-        height: 500
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 0
 
 secured: "cNeFyOO5CNw55MgRfKOHkvZLoh5CR3OmbcA+xTcdyR4PnfFLmTr/8PGliPSbOI7ASGznNKX0mJDCrzcyRraqFrwtwj+N7ZpjiuHWIzuQKstrOwuBHxzf8bppp9PE7mdNB1hmw5Nqd7KDxlfeeW5po9i5BmjZT3yk1x0kfMB3gY60o5xI/q7adFz0iHdxCYNgp+1NWgocKEpHFG5VGy3sj1gRpgODkQ9AzsKGDVujEXeWSY4gwYsXvuEX/OgoLt0qqYwkEiCWoRUh9eATTIcYF6wgKSzrRdf1xjOX4gr5UMgCdJY08EpJmSsYC6h1zq5iYEYO567mbfwYxC3e1t8q5bmsOGK4JraHlse7VbTZOOa9GFHS7y3hz4FlWKh1httiBIGNFZVPJAA5RYjibU9Mi22uSgI/4ItYdPIrFeAOapspOpm0EySb8YFXGVKibcS9IfbOo4KhJ8WfXBGWkuO0vwLCOm8kTZmTF6ZgGs8tiq+1h4zqJ4Kh1yFML6rDWzrmBRCUxZVPM+iv1B2DxoqrZg==;IeDg9DZfkjYFg/PmvOc2VQ=="
 ---

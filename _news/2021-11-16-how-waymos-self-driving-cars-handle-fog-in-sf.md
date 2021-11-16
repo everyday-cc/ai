@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/how-waymos-self-driving-cars-handle
 webUrl: "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech review: Waymo's self-driving cars take Manhattan"
-    excerpt: "After testing self-driving car technology in several cities — primarily warm, dry and flat terrains in Arizona and California — Waymo is looking to the mean streets of Manhattan for a tougher test. Th"
-    publishedDateTime: 2021-11-11T16:46:00Z
-    webUrl: "https://www.newsday.com/business/technology/tech-review-waymo-1.50418942"
-    ampWebUrl: "https://www.newsday.com/amp/business/technology/tech-review-waymo-1.50418942"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/tech-review-waymo-1.50418942"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 59
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50418943.1636656360!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "Entry ramp on the road to self-driving cars"
     excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
     publishedDateTime: 2021-11-14T17:00:00Z

@@ -39,22 +39,6 @@ related:
         width: 800
         height: 451
         isCached: true
-  - title: "Tech review: Waymo's self-driving cars take Manhattan"
-    excerpt: "After testing self-driving car technology in several cities — primarily warm, dry and flat terrains in Arizona and California — Waymo is looking to the mean streets of Manhattan for a tougher test. Th"
-    publishedDateTime: 2021-11-11T16:46:00Z
-    webUrl: "https://www.newsday.com/business/technology/tech-review-waymo-1.50418942"
-    ampWebUrl: "https://www.newsday.com/amp/business/technology/tech-review-waymo-1.50418942"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/tech-review-waymo-1.50418942"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 59
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50418943.1636656360!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
     excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
     publishedDateTime: 2021-11-15T18:33:00Z
