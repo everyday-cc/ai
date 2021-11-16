@@ -2,6 +2,257 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-12-3d-printing-and-machine-learning-unite-to-improve-cochlear-implants.md",
+      "title": "3D printing and machine learning unite to improve cochlear implants",
+      "excerpt": "A team of engineers and clinicians have used 3D printing to create intricate replicas of human cochleae—the spiral-shaped hollow bone of the auditory inner ear—and combined it with machine learning to advance clinical predictions of \"current spread\" inside the ear for cochlear implant (CI) patients.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-11-3d-machine-cochlear-implants.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-11-3d-machine-cochlear-implants.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/3d-printing-and-machin.jpg",
+          "width": 599,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-11-3d-machine-cochlear-implants.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-3d-machine-cochlear-implants.amp",
+      "publishedDateTime": "2021-11-12T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-promotedai-takes-in-fresh-capital-to-grow-your-marketplace.md",
+      "title": "Promoted.ai takes in fresh capital to grow your marketplace",
+      "excerpt": "The company is answering the question of how you fairly come up with a way to share the attention between big and small sellers",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/",
+      "originalUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1211368784.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/12/promoted-ai-marketplace/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/12/promoted-ai-marketplace/amp/",
+      "publishedDateTime": "2021-11-12T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022.md",
+      "title": "ITRI to Exhibit Innovations in AI, Robotics, ICT, and Health Tech at CES 2022",
+      "excerpt": "ITRI's CES 2022 highlight technologies include the RGB-D AI Robot, a CES 2022 Innovation Awards honoree, the first collaborative robot that integrates smart 3D vision as a built-in standard for high-precision object recognition and pick-and-place operation;",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022-1030969979",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022-1030969979",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1686583/ITRI_CES_EDM.jpg",
+          "width": 400,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-robots-and-security-augmenting-the-security-force-for-real-time-situational-awareness.md",
+      "title": "Robots And Security: Augmenting The Security Force For Real-Time Situational Awareness",
+      "excerpt": "As security programs mature and organizations, businesses and facilities invest millions of dollars in video surveillance, access control and intrusion detection ... real-time response is hard to accomplish. Robot technology can be used in any market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/robots-and-security-augmenting-the-security-force-for-real-time-situational-awareness/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/robots-and-security-augmenting-the-security-force-for-real-time-situational-awareness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618d162e8314a137be03f090%2F0x0.jpg",
+          "width": 1200,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/robots-and-security-augmenting-the-security-force-for-real-time-situational-awareness/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/12/robots-and-security-augmenting-the-security-force-for-real-time-situational-awareness/amp/",
+      "publishedDateTime": "2021-11-12T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai.md",
+      "title": "Baby, You Can Drive My Job? Cars, Careers And The Future Of AI",
+      "excerpt": "AI might replace the data-compiling aspects of journalism, for example, but journalists will continue to exist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/amp/",
+      "publishedDateTime": "2021-11-12T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-an-artist-who-disavows-the-possibility-of-individual-agency.md",
       "title": "An Artist Who Disavows the Possibility of Individual Agency",
       "excerpt": "According to Agnieszka Kurant, everything we make — from the systems that oppress us to the inventions that transform us — is the result of a collective.",
@@ -94,6 +345,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-ibm-enhances-the-natural-language-processing-capabilities-of-watson-discovery.md",
+      "title": "IBM Enhances The Natural Language Processing Capabilities Of Watson Discovery",
+      "excerpt": "IBM has announced upgrades to Watson Discovery's natural language processing capabilities. These advances in NLP can teach Watson Discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/ibm-enhances-nlp/",
+      "originalUrl": "https://analyticsindiamag.com/ibm-enhances-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/11/IBM-Enhances-The-Natural-Language-Processing-Capabilities-Of-Watson-Discovery.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -201,7 +496,7 @@
       "originalUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -297,7 +592,7 @@
       "originalUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -919,310 +1214,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-robot-flips-burgers-for-california-restaurant-better-than-a-human.md",
-      "title": "Robot Flips Burgers for California Restaurant Better Than a Human",
-      "excerpt": "In fact, one California burger restaurant has hired a machine named Flippy to cook its patties. CaliBurger in Pasadena has a robotic arm doing the flipping in its kitchen. According to a report from KTLA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human",
-      "originalUrl": "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/45685/0cachedpng.png",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-rad-ai-raises-25m-in-series-a-funding.md",
-      "title": "Rad AI Raises $25M in Series A Funding",
-      "excerpt": "Rad AI, a Berkeley CA-based radiologist-led AI company, raised $25M in Series A funding. The round was led by ARTIS Ventures with participation from OCV Partners, Kickstart Fund, and Gradient Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2020/12/contractbook-400x293.jpg",
-          "width": 400,
-          "height": 293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers.md",
-      "title": "FlyFin offers AI-based tax app aimed at freelancers, gig workers",
-      "excerpt": "This new AI tax engine replaces the self-employed and ... A desktop version is also available for Macs with an Apple M1 chip. Android users can download FlyFin’s app here.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
-      "originalUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/cryptocurrency-tax.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
-      "publishedDateTime": "2021-11-11T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-this-company-tapped-ai-for-its-websiteand-landed-in-court.md",
-      "title": "This Company Tapped AI for Its Website—and Landed in Court",
-      "excerpt": "Under pressure to make their sites accessible to visually impaired users, firms turn to software. But advocates say the tech isn't always up to the task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/",
-      "originalUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/618aed06de1cbf7845f548f0/master/pass/business-ai-1322406612.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/company-tapped-ai-website-landed-court/amp",
-      "publishedDateTime": "2021-11-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets.md",
-      "title": "Why AI Teams Need A Unified Data Format For Machine Learning Datasets",
-      "excerpt": "Data is the most important commodity today, yet we are still processing data in primitive ways. We need to break free of conventional tools and techniques for data processing. The Rise Of Unstructured Data: The Main Difference Between Structured And Unstructured data Structured data represented in rows and columns while unstructured data includes images,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618bcb2c313ebe533783e35f%2F0x0.jpg%3FcropX1%3D438%26cropX2%3D3217%26cropY1%3D0%26cropY2%3D1563",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/amp/",
-      "publishedDateTime": "2021-11-11T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-how-fintech-companies-are-changing-the-idea-of-credit-in-india.md",
-      "title": "How Fintech Companies Are Changing the Idea Of Credit In India",
-      "excerpt": "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/396710",
-      "originalUrl": "https://www.entrepreneur.com/article/396710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1636627414-towfiqu-barbhuiya-jpqyfK7GB4w-unsplash1.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

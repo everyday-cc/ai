@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-16T09:21:00Z
 originalUrl: "https://www.mendeley.com/catalogue/1cf0874b-40c1-3d28-bfff-62c5963a14f6/"
 webUrl: "https://www.mendeley.com/catalogue/1cf0874b-40c1-3d28-bfff-62c5963a14f6/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Mendeley

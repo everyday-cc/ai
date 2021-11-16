@@ -41,6 +41,20 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Fujitsu and Ben-Gurion University Embark on Joint Research at New Center in Israel for Precise and Secure AI"
+    excerpt: "Fujitsu Limited and BGN Technologies, the technology transfer company of Ben-Gurion University of the Negev (BGU), have signed a three-year comprehensive joint research agreement to develop technologies and solutions to contribute to the realization of safe,"
+    publishedDateTime: 2021-11-16T11:34:00Z
+    webUrl: "https://financialit.net/news/technical/fujitsu-and-ben-gurion-university-embark-joint-research-new-center-israel-precise-and"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 18
+    images:
+      - url: "https://financialit.net/sites/default/files/fujitsu_2.png"
+        width: 1668
+        height: 870
+        isCached: true
 
 secured: "/ucmbPOUBTofvmR8roTgs3I7xyFqQOzIcutmXEtn1BeCgdE8eggY8N8TKcbOeHMNtI78oIqDW0GGecqmaGR8C/auZkPzhO7DRkJxDgn8sYfGAVMlSkegwELzIHhYWO6RmBXbjv2jv4EohZBlMKS5jlK09eta8UAg1ok8ynzl/yUKCIaBQnb9dlMBFiVKvaZlF/FxDbxNdEkShEkrw0XqOGD8XtMWFCJuQaO0SI8AoTn0asG3MbVcA88D2eSqiWe0IFkkALfgaxLXs12Xi9h4qY68N86pUVliMILNCzyBiRAEc58CrtuuuBllSSZipmQi0TuuEhoTD61aQxctbHZXlBD88EBytF3mrzLt9EOIJCU=;NYXIBIsBlqAN9UxywK++Qw=="
 ---

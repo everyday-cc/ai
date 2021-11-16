@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-19-sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model.md",
+      "title": "SambaNova Systems releases enterprise-grade GPT AI-powered language model",
+      "excerpt": "The company's latest offering allows organizations to launch their own customized language model in less than one month.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/",
+      "originalUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1271697775-e1634657414701.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/",
+      "publishedDateTime": "2021-10-19T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-natural-language-processing-market-definition-benefits-technology-innovation-and-business-approaches-by-2027.md",
+      "title": "Natural Language Processing Market Definition, Benefits, Technology Innovation and Business Approaches by 2027",
+      "excerpt": "Natural language processing helps computers communicate with humans in their own language and scales other language-related tasks. For example, NLP makes it possible for computers to read text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2432925/natural-language-processing-market-definition-benefits",
+      "originalUrl": "https://www.openpr.com/news/2432925/natural-language-processing-market-definition-benefits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua19823350_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2432925/natural-language-processing-market-definition-benefits",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2432925/natural-language-processing-market-definition-benefits",
+      "publishedDateTime": "2021-10-19T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-language-translation-engine-devnagri-raises-600000-in-seed-round.md",
+      "title": "Language translation engine Devnagri raises $600,000 in seed round",
+      "excerpt": "The platform combines Neural Machine Translation with ML to make the internet accessible to 90% of Indians and solve the problem of \"lack of content in Indian languages\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/29/full/1624909326-5084.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "publishedDateTime": "2021-10-19T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia.md",
       "title": "Lost in translation: Language barrier is hurting commercialisation in Australia",
       "excerpt": "It's hard to collaborate when industry want to get straight to the point and academics rely on lengthy research papers.",
@@ -1181,153 +1319,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-ai-technologies-are-being-used-to-localize-the-bob-ross-channel.md",
-      "title": "AI Technologies Are Being Used to Localize the Bob Ross Channel",
-      "excerpt": "Cinedigm is working with the AI-voice startup Papercup to dub the entire catalog of Bob Ross’s iconic painting show for linear AVOD and SVOD platforms",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel",
-      "originalUrl": "https://www.tvtechnology.com/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZQ9Dc8gp5tbh7xLtmLTG67-1200-80.jpg",
-          "width": 959,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel",
-      "publishedDateTime": "2021-10-07T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-amazon-adjusts-the-alexa-app-to-better-accommodate-those-with-disabilities.md",
-      "title": "Amazon adjusts the Alexa app to better accommodate those with disabilities",
-      "excerpt": "Amazon announced this week that it’s adding a new feature for its Alexa app available for Android and iOS devices. The adjustment Amazon is making to the app allows Alexa to wait longer for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/amazon-adjusts-the-alexa-app-to-better-accommodate-those-with-disabilities-07694265/",
-      "originalUrl": "https://www.slashgear.com/amazon-adjusts-the-alexa-app-to-better-accommodate-those-with-disabilities-07694265/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/echo-dot-alexa.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/amazon-adjusts-the-alexa-app-to-better-accommodate-those-with-disabilities-07694265/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/amazon-adjusts-the-alexa-app-to-better-accommodate-those-with-disabilities-07694265/amp/",
-      "publishedDateTime": "2021-10-07T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-voice-recognition-market-report-driving-factors-market-analysis-investment-feasibility-trends-till-by-the-2021-2027.md",
-      "title": "Voice Recognition Market Report Driving Factors, Market Analysis, Investment Feasibility & Trends till by the 2021-2027",
-      "excerpt": "Oct 07, 2021 (Market Insight Reports) -- Selbyville, Delaware. Voice Recognition Market report provides key statistics on the market status of the Voice Recognition Industry and is a valuable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-recognition-market-report-driving-factors-market-analysis-investment-feasibility-trends-till-by-the-2021-2027-2021-10-07?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-recognition-market-report-driving-factors-market-analysis-investment-feasibility-trends-till-by-the-2021-2027-2021-10-07?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

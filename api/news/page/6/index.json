@@ -2,6 +2,361 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-10-timnit-gebru-says-artificial-intelligence-needs-to-slow-down.md",
+      "title": "Timnit Gebru Says Artificial Intelligence Needs to Slow Down",
+      "excerpt": "Artificial intelligence researchers are facing a problem of accountability: How do you try to ensure decisions are responsible when the decision maker is not a responsible person, but rather an algorithm?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
+      "originalUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6189c83d08983f9bcb06800e/master/pass/Timnit-Gebru.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rewired-2021-timnit-gebru/amp",
+      "publishedDateTime": "2021-11-09T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai.md",
+      "title": "TechCrunch+ roundup: Deep tech predictions, HashiCorp’s IPO, enterprise-wide AI",
+      "excerpt": "If you believe you have a good idea for a startup, go for it. When venture capitalists say this is a good time to be a founder, you know they absolutely mean it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/",
+      "originalUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-906726726-1.jpg?w=1024",
+          "width": 1024,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/",
+      "publishedDateTime": "2021-11-09T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-meta-to-halt-use-of-facial-recognition-technology-on-facebook.md",
+      "title": "Meta to Halt Use of Facial Recognition Technology on Facebook",
+      "excerpt": "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse",
+      "sourceUrl": null,
+      "webUrl": "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/",
+      "originalUrl": "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/",
+      "publishedDateTime": "2021-11-09T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai.md",
+      "title": "Report: 40% of execs say increasing business process efficiency is top benefit of AI",
+      "excerpt": "The need to boost customer service, employee efficiency, and innovation are three main factors driving an increase in AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cognitivescale.com/survey_drivingadoption/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cognitivescale.com/wp-content/uploads/2020/08/News-Banners-e1636510765124.png",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-bushfire-mitigation-through-machine-learning-with-ausnet-and-aws.md",
+      "title": "Bushfire mitigation through Machine Learning with AusNet and AWS",
+      "excerpt": "Eastern Australia is among the most fire-prone regions in the world. Although bushfires are a regular occurrence in Australia, the 2019–2020 bushfire crisis set ablaze over 17 million hectares of land (larger than the size of England), costing the Australian economy more than $100 billion between property,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bushfire-mitigation-through-machine-learning-with-ausnet-and-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bushfire-mitigation-through-machine-learning-with-ausnet-and-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/ML5275-image009.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T11:31:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-a-communication-tool-for-people-with-speech-impairments.md",
+      "title": "A communication tool for people with speech impairments",
+      "excerpt": "For millions of people, being able to speak and be understood can be difficult as a result of conditions that can impact speech, including stroke, ALS, Cerebral Palsy, traumatic brain injury or Parkinson's disease. Today, we’re inviting an initial group of people to test Project Relate, a new Android",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/accessibility/project-relate/",
+      "originalUrl": "https://blog.google/outreach-initiatives/accessibility/project-relate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PROJECT_RELATE_YT_THUMBNAIL.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/accessibility/project-relate/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-relate/amp/",
+      "publishedDateTime": "2021-11-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-expanding-our-ml-based-flood-forecasting.md",
+      "title": "Expanding our ML-based flood forecasting",
+      "excerpt": "In 2018 we began our flood forecasting initiative to help combat the catastrophic damage from floods each year by equipping those in harm’s way with accurate and detailed alerts. This work is a part of Google’s broader Crisis Response program which provides people access to trusted information and resources",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
+      "originalUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/inundation_modeling.max-1000x1000.png",
+          "width": 1000,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
+      "publishedDateTime": "2021-11-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-israels-army-using-facial-recognition-surveillance-in-palestinian-city.md",
       "title": "Israel’s army using facial recognition surveillance in Palestinian city",
       "excerpt": "Israel’s army has deployed a sweeping personal data collection program using facial recognition technology targeting Palestinians in parts of the occupied",
@@ -41,6 +396,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-global-voice-recognition-biometrics-market-2021-industry-overview-competition-by-manufacturers-production-capacity-by-region-forecast-by-2027.md",
+      "title": "Global Voice Recognition Biometrics Market 2021 Industry Overview, Competition by Manufacturers, Production Capacity by Region, Forecast by 2027",
+      "excerpt": "Global Voice Recognition Biometrics Market 2021-2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level. This analysis report is the combination of all the wide-ranging information relating to the global Voice Recognition Biometrics market statistics during the recent years as well as forecasts for coming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-voice-recognition-biometrics-market-2021-industry-overview-competition-by-manufacturers-production-capacity-by-region-forecast-by-2027-2021-11-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-voice-recognition-biometrics-market-2021-industry-overview-competition-by-manufacturers-production-capacity-by-region-forecast-by-2027-2021-11-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -371,6 +769,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-09-what-analysing-language-tells-us-about-inflation.md",
+      "title": "What analysing language tells us about inflation",
+      "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
+      "sourceUrl": null,
+      "webUrl": "https://www.schroders.com/nl/sg/private-investor/sg-insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "originalUrl": "https://www.schroders.com/nl/sg/private-investor/sg-insights/economics/what-analysing-language-tells-us-about-inflation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.schroders.com/nl/sysglobalassets/digital/insights/2021/hero-images/announcement.jpg",
+          "width": 945,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Schroders",
+        "domain": "schroders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-youcom-wants-to-remake-the-search-engine.md",
       "title": "You.com wants to remake the search engine",
       "excerpt": "The service abandons the linear list of links you’ll find in most general-purpose search engines, opting for a grid of answers organized by source. The sources include generic categories like “web results” and “news” but also specific sites like StackOverflow,",
@@ -511,6 +952,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-thinking-through-the-ethics-of-new-techbefore-theres-a-problem.md",
+      "title": "Thinking Through the Ethics of New Tech…Before There’s a Problem",
+      "excerpt": "There’s a familiar pattern when a new technology is introduced: It grows rapidly, comes to permeate our lives, and only then does society begin to see and address the problems it creates. But is it possible to head off possible problems?",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
+      "originalUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/11/Nov21_09_80488495.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
+      "publishedDateTime": "2021-11-09T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -708,487 +1192,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering.md",
-      "title": "Lemonade buys US data science firm to boost car insurance offering",
-      "excerpt": "Israeli-founded, NY-based company makes first acquisition with MetroMile, a San Francisco outfit that leverages AI for personalized insurance policies",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/",
-      "originalUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/11/DanielShai2019-1-640x400.jpeg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/amp/",
-      "publishedDateTime": "2021-11-09T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-the-evolution-of-voice-in-elevating-the-user-experience.md",
-      "title": "The Evolution Of Voice In Elevating The User Experience",
-      "excerpt": "Voice biometric technology and voice recognition will continue to become more ingrained within the modern digital user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61892951ad641ca64a264904%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/09/the-evolution-of-voice-in-elevating-the-user-experience/amp/",
-      "publishedDateTime": "2021-11-09T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai.md",
-      "title": "Why HR Should Pay Attention To The Emergence Of People Analytics And AI",
-      "excerpt": "A key differentiator for successful organizations is how well they manage their talent. As the value of data continues to increase, the opportunity for HR to leverage this data will become more prominent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189427be94633fae4f28dfa%2F0x0.jpg",
-          "width": 1200,
-          "height": 841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/09/why-hr-should-pay-attention-to-the-emergence-of-people-analytics-and-ai/amp/",
-      "publishedDateTime": "2021-11-09T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-could-blockchain-and-ai-help-prevent-deforestation.md",
-      "title": "Could Blockchain And AI Help Prevent Deforestation?",
-      "excerpt": "The technology firm iov42 is working with the EU to develop a “blockchain-style” infrastructure system, the aim of which is to leverage blockchain to improve standards of cross-border services for governments and organisations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/",
-      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6188f85eff2d01fdfa45c2f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2021/11/09/could-blockchain-and-ai-help-prevent-deforestation/amp/",
-      "publishedDateTime": "2021-11-09T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-creating-a-gpt-style-language-model-for-a-single-question.md",
-      "title": "Creating a GPT-Style Language Model for a Single Question",
-      "excerpt": "Researchers from China have developed an economical method for creating GPT-3-style Natural Language Processing systems while avoiding the increasingly prohibitive expense of time and money involved in training up high volume datasets – a growing trend which otherwise threatens to eventually relegate this sector of AI to FAANG players and high-level investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/creating-a-gpt-style-language-model-for-a-single-question/",
-      "originalUrl": "https://www.unite.ai/creating-a-gpt-style-language-model-for-a-single-question/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-xWccs0dj/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/moby-dick.jpg",
-          "width": 818,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks.md",
-      "title": "Hyper-personalization and new-age tech will drive AI-enabled banks",
-      "excerpt": "India has witnessed a rapidly growing Big Data Revolution with the integration of AI, ML, IoT into the financial services industry.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/articleshow/87605161.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/articleshow/87605161.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-24800,msid-87605256/ai.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/amp_articleshow/87605161.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/banking/hyper-personalization-and-new-age-tech-will-drive-ai-enabled-banks/amp_articleshow/87605161.cms",
-      "publishedDateTime": "2021-11-09T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026.md",
-      "title": "Artificial intelligence (AI) Chips Market Size 2021: CAGR Value, Top Manufacturers, Industry Share, Growth, Supply Demand and Forecast till 2026",
-      "excerpt": "Global “Artificial intelligence (AI) Chips Market” research report provides strategies for company to deal with the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2021-cagr-value-top-manufacturers-industry-share-growth-supply-demand-and-forecast-till-2026-2021-11-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidias-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor.md",
-      "title": "NVIDIA's new AI brain for robots is six times more powerful than its predecessor",
-      "excerpt": "NVIDIA has launched the Jetson AGX Orin, its new AI brain for robots with six times the processing power of its predecessor..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/nvidi-as-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor-093024102.html?src=rss",
-      "originalUrl": "https://www.engadget.com/nvidi-as-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor-093024102.html?src=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/7720b2b0-4130-11ec-96e3-0babf84499b8",
-          "width": 1152,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-carbon-robotics-manufactures-ai-powered-weeding-robots.md",
-      "title": "Carbon Robotics Manufactures AI-Powered Weeding Robots",
-      "excerpt": "Concept: Seattle-based agricultural robotics startup Carbon Robotics has developed an autonomous robot that lasers to zap weeds. Integrated with computer vision, the weeders can clear out around 100,000 weeds an hour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/",
-      "originalUrl": "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/11/shutterstock_651441412.jpg",
-          "width": 500,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pharmaceutical Technology",
-        "domain": "pharmaceutical-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more.md",
-      "title": "Everything announced at Nvidia's Fall GTC 2021: Omniverse Avatar, CuQuantum, Clara Holoscan and more",
-      "excerpt": "During the GTC keynote, Nvidia CEO Jensen Huang showcased a range of new Nvidia products and initiatives, spanning virtual reality, enterprise AI, cybersecurity, quantum computing, advances in automotive and healthcare and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
-      "originalUrl": "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f3093f55db1b12000c82b7534e35491a88175dbc/2021/11/09/2859cd08-d3cd-48bc-a1b6-ee39f3b82f30/doca-zero-trust-image.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
-      "publishedDateTime": "2021-11-09T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

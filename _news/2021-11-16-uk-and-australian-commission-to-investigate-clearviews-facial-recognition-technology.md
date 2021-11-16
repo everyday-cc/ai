@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-16T10:44:00Z
 originalUrl: "https://www.softwaretestingnews.co.uk/uk-and-australian-commission-to-investigate-clearviews-facial-recognition-technology/"
 webUrl: "https://www.softwaretestingnews.co.uk/uk-and-australian-commission-to-investigate-clearviews-facial-recognition-technology/"
 type: article
+quality: 12
+heat: -1
+published: false
 
 provider:
   name: softwaretestingnews.co.uk
@@ -14,6 +17,38 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Oosto endorses the Australian Government's decision to delete pictures scraped from the net for facial recognition app"
+    excerpt: "As a vendor of AI based facial recognition products for private companies and government agencies it is important for me to emphasise - facial recognition apps should be"
+    publishedDateTime: 2021-11-15T10:50:00Z
+    webUrl: "https://www.sourcesecurity.com/news/oosto-endorses-australian-government-decision-delete-co-1536229326-ga-co-1602588840-ga.1636962489.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/oosto-endorses-australian-government-decision-delete-co-1536229326-ga-co-1602588840-ga.1636962489.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/oosto-endorses-australian-government-decision-delete-co-1536229326-ga-co-1602588840-ga.1636962489.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/synectics-release-tech-note-webinar-cloud-storage-partnership-cctv-user-group-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
+  - title: "No facial recognition for South Australia Police on planned CCTV network until law updated"
+    excerpt: "Procurement is underway for a related biometric surveillance system that will incorporate object tracking, facial and number plate recognition."
+    publishedDateTime: 2021-11-14T23:09:00Z
+    webUrl: "https://www.biometricupdate.com/202111/no-facial-recognition-for-south-australia-police-on-planned-cctv-network-until-law-updated"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
+        width: 1200
+        height: 914
+        isCached: true
 
 secured: "iYjNjBmxIpUdLjmY+kzuYMKX2iks5nNiHUFnLRW1i8ZaRsPDjiAzgeKw9eZYVxaesVIwaYOt3Mb1hfBCKgCxwt8izEOlJQYC4t4I3ZQL7Cc6jaw5WEm3Neq7sKsM3eEa90PiRSho7Uwj304GhtNrceMJbL+lxMita7XjMbt7wMcffskDE9770/Zljtn1M+dinK2XQ4obiOMq/ol3fF7knsLPEw/YQEVWIL1zLK/jcxOsx9LXYctRmEN92D1B543f+tc4aeeV/7NITqQLMFdtnm/YYf/oSeEWUxe1fhZgliH1la8zmTQHDEGDsF+uxyzbe9fRVjmjXMtIfN/YOsNCpiV+OijD0B2zsKSN+flWxD4=;7lyAakEabavtmSYa2UNmRA=="
 ---

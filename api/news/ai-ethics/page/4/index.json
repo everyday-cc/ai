@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-15-is-the-new-federal-ai-advisory-committee-too-late-to-the-game.md",
+      "title": "Is the new federal AI Advisory Committee too late to the game?",
+      "excerpt": "The Department of Commerce issued a press release about the creation of the National Artificial Intelligence Advisory Committee (NAIAC) which “will consist of expert leaders from a broad and int",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game",
+      "originalUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game?amp",
+      "publishedDateTime": "2021-09-14T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-ai-hampered-by-public-perception-ethics-concerns.md",
+      "title": "AI hampered by public perception, ethics concerns",
+      "excerpt": "A panel of experts thrashed-out key barriers facing the development of AI products and features in Russia and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
+      "publishedDateTime": "2021-09-14T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-money-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
       "title": "Money and mind control: Big Tech slams ethics brakes on AI",
       "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence (AI) to help a financial firm decide whom to lend money to.. Read more at straitstimes.com.",

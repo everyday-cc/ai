@@ -135,22 +135,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "US Regulators Investigate Tesla Driver's Complaint Of 'Full Self-Driving' Software Causing Crash"
-    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
-    publishedDateTime: 2021-11-16T03:25:00Z
-    webUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
-    ampWebUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 61
-    images:
-      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/03D/A99/03DA99B843051B6A9ADFC1A68CC4A06B.jpg?Expires=1731628800&KeyName=mcpkey1&Signature=jz8D30FA_6o3RcdjtAWIWuFQxW8"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla in Full Self-Driving beta mode damaged post crash in US: Report"
     excerpt: "A Tesla Model Y reportedly in Full Self-Driving beta mode crashed on November 3 in California and got \"severely damaged\". The owner reported the vehicle went into the wrong lane while taking a left turn."
     publishedDateTime: 2021-11-13T04:20:00Z
@@ -247,6 +231,17 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
+    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
+    publishedDateTime: 2021-11-15T22:24:00Z
+    webUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
+    ampWebUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 41
 
 secured: "wY0lpQueBeT/uoPl3OsPj1uthZ/koZCCUVmZ1luEgFQkh6W+YJmg9F8Vwlu476D4WuPoquqQ2WCO0tTftAt/BcdCrPgAxyZFrZKWioGmVnXGqt4/rBr0ilrbFSxpn2rRCTj1tj7zA4CRpz7GB60XXv82KzNzqmiOE4BTQ/6SirtxYXol+/uGKqkxiuToAE+QcwdB9SI+WZjbRZPIn1P+uBknUf6rECBoXYeTOdo5yQlDPO9blogghDd0MJlYQ7v3rDGa8Et0Id7UjCfUHf4mDiIsZxr1guhc7MvyV8UzzZzdtIkFGneC7jBK3JVDHx60Z4fRK12zGQbZn2XAUtSjA/JeVXt98/0evQkupozMjQBkvo8Vjd+0/ZsLl8oX2vdVo8cSeTOyZc+YIh3fXeU9K4akEI1gfBTmIqhLv8t4XPBJ+SUbGQwJDeAsqncntu23+PQyMbZaU0qDWKR+EgLondyaS2qG/0YY0r1Z41VG2vcHU5ArOeLQWEICVaCnqItrLC9HWgg9Hs7bdE+WOGIshg==;VtbQHyiMVrXLxSaCLRpXHw=="
 ---

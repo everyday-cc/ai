@@ -5,7 +5,12 @@ excerpt: "Verified Market Research recently published a report, \" Artificial In
 publishedDateTime: 2021-11-15T13:15:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/21/11/n24093831/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr-verified-ma"
 webUrl: "https://www.benzinga.com/pressreleases/21/11/n24093831/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr-verified-ma"
+ampWebUrl: "https://www.benzinga.com/amp/content/24093831"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24093831"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Benzinga.com
@@ -14,6 +19,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 secured: "RiFFpW+x7EJ7K1xYysoX0YpcXlWxvRhZzCb/7U0WAUelIZVGXYRvzZVQDP2QDY0hbUQaJjIfmv+LwYH5b6y1W5JDrrW7I296KxIRiUohkTuxCMK7StW/st7vv8lZ2wYcuCbmljF7q2ljhYAbnU4DZPbH6o6ytIkGVevWnWp6P0j410alph+6nlvHPvi0d2/HemZT0rWDGYab3ydZRexfpezf58FTe0Iv5j0CEjTdY1bcdovbDdWd88P9bdbQl9NDQlhAWnVH4v1zEjSZG8PrM1cmlIWGS0OLw9FX0f+V/MRvKVKbGxZ9PMCkssUdaw/Ce4rpm+yCRQAtrZELWDjv0djoRZzozAnE2+k/jZCCRvQ=;BEObMSg2rDCf40r2jQE/vQ=="
 ---

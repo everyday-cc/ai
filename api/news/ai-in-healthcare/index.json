@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-16-dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution.md",
+      "title": "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution",
+      "excerpt": "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_11/1200z740_1637055115_shutterstock_1164788407.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/966351",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/966351",
+      "publishedDateTime": "2021-11-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-datarobot-launches-ai-cloud-for-industries-including-banking-and-healthcare.md",
       "title": "DataRobot launches AI Cloud for industries including banking and healthcare",
       "excerpt": "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises.",
@@ -702,6 +747,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-02-artificial-intelligence-could-be-about-to-replace-your-doctor.md",
+      "title": "Artificial Intelligence Could Be About To Replace Your Doctor",
+      "excerpt": "The US health and medical insurance industry is a $1.1- trillion maze that is impossible to navigate. Mentioned in today's commentary includes: Sage Therapeutics, Inc., Cassava Sciences, Inc., COMPASS Pathways plc,",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-could-be-about-to-replace-your-doctor",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-could-be-about-to-replace-your-doctor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026.md",
       "title": "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026",
       "excerpt": "Market Study Report has released a new research study on Healthcare Artificial Intelligence market Analysis 2020-2026 inclusive of one or more factors covering regional opportunities, application landscape,",
@@ -1297,102 +1385,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details.md",
-      "title": "IIT Delhi to offer MTech in Machine Intelligence and Data Science. Check details",
-      "excerpt": "IIT Delhi's Senate, the faculty body responsible for taking all major educational decisions, has approved the proposed programme titled ‘M Tech in Machine Intelligence and Data Science’ (MINDS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
-      "originalUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/10/26/600x338/185614e0-310a-11ec-901b-e0eb6ffe225f_1635240619247_1635240635839.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
-      "publishedDateTime": "2021-10-26T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-accelerating-healthcare-ai-innovation-with-zero-trust-technology.md",
-      "title": "Accelerating healthcare AI innovation with Zero Trust technology",
-      "excerpt": "From research to diagnosis to treatment, AI has the potential to improve outcomes for some treatments by 30 to 40 percent and reduce costs by up to 50 percent. Obtaining the large data sets necessary for generalizability, transparency, and reducing bias has historically been difficult and time-consuming.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/",
-      "originalUrl": "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f91858d1-a3a3-4e76-8543-32fa605f702f.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T01:00:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-16T10:05:00Z
 originalUrl: "https://www.cmcmarkets.com/en/opto/baidu-share-price-searching-for-answers-ahead-of-q3-earnings"
 webUrl: "https://www.cmcmarkets.com/en/opto/baidu-share-price-searching-for-answers-ahead-of-q3-earnings"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: CMC Markets

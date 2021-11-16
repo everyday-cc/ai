@@ -41,20 +41,6 @@ related:
         width: 1417
         height: 945
         isCached: true
-  - title: "The LHoFT Foundation selects 10 fintech startups for accelerator programme"
-    excerpt: "Building on the success of the Summer 2021 Edition of Catapult: Kickstarter, the LHoFT Foundation is opening on Monday 15th of November, the second edition of this unique program of Fintech startup development."
-    publishedDateTime: 2021-11-11T17:50:00Z
-    webUrl: "https://www.finextra.com/pressarticle/90231/the-lhoft-foundation-selects-10-fintech-startups-for-accelerator-programme"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 22
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "Xd+3X5E6wr62mBbF9O9R+MSg51h48wwXMgZNCEJ2EPn0jp0EXoV7bx9QyPiEEa8wASpCGKpPjz2i0Nne5Fesb4xTxZT7x/2WUmyhepwqJH8g9zg/R+wOsV+l5+2FxTXM1NGh2TLV3ESTkdtqSlMRiM3E0wLdkOiAi07wIRsoCqhPIjNI2qL9gfmTFDIVinFxMkzLAmlCzT2Gfr0TMQ849rt3IO0MHPV6Qo6t4CnERGCrQcaEZ8Ip5mcCHl3oE9o9XMwy2Lo124oaxwBH2QIOwU3vTl/AKhCEEvIJ5fePJFC6Uz2HAW9Nhh7u+mJN4Hzf3OOkO9ytgdAvmryAYDzDTBjfLqDkpri/8r9+hZLHujiycNla6jDnnO5GcJmXUvQzfdetITGrbvpt9tVlaBKxHHyN4Y/YCXuR6G2lHtR/RoZUhaA9irOrr65Nt6makdJSRwWUmF167axJKUD21Mbpb9nBqQJo2HJREZMneuLHnqtD6+OXDQtqVmHoAjoyASgRoSBSUze7N6ITqvPyMq6rOA==;wteAScbmJWhLU4iM2Owf6Q=="
 ---

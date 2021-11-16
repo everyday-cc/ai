@@ -482,22 +482,13 @@
       "title": "Microsoft Releases Azure Open AI Service Including Access to Powerful GPT-3 Models",
       "excerpt": "At its recent Ignite conference, Microsoft announced the new Azure OpenAI Service in preview, allowing access to OpenAI’s API through the Azure platform. This new Azure Cognitive Service will give customers access to OpenAI’s powerful GPT-3 models,",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/11/azure-openai-service-gpt3/?topicPageSponsorship=5d18a24d-f16e-405a-95c4-f52cfcc38b9f&itm_source=presentations_about_development&itm_medium=link&itm_campaign=development",
-      "originalUrl": "https://www.infoq.com/news/2021/11/azure-openai-service-gpt3/?topicPageSponsorship=5d18a24d-f16e-405a-95c4-f52cfcc38b9f&itm_source=presentations_about_development&itm_medium=link&itm_campaign=development",
+      "webUrl": "https://www.infoq.com/news/2021/11/azure-openai-service-gpt3/?topicPageSponsorship=28e8ee01-780d-4a8b-a80a-e83395bce1a2&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
+      "originalUrl": "https://www.infoq.com/news/2021/11/azure-openai-service-gpt3/?topicPageSponsorship=28e8ee01-780d-4a8b-a80a-e83395bce1a2&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/11/azure-openai-service-gpt3/en/headerimage/generatedHeaderImage-1636118419228.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

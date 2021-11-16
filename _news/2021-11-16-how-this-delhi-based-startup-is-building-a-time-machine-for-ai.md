@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-16T09:30:00Z
 originalUrl: "https://analyticsindiamag.com/how-this-delhi-based-startup-is-building-a-time-machine-for-ai/"
 webUrl: "https://analyticsindiamag.com/how-this-delhi-based-startup-is-building-a-time-machine-for-ai/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics India Magazine

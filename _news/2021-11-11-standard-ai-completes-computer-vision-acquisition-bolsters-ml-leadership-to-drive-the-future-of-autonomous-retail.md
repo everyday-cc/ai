@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail"
-excerpt: "Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based computer vision company, ThirdEye Labs (“ThirdEye”); and added Sameer Qureshi, who joins from ..."
-publishedDateTime: 2021-11-10T17:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f"
+excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based ..."
+publishedDateTime: 2021-11-10T17:17:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail"
+webUrl: "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
   - Machine Learning
 
-secured: "SBxRg1PjuSRCcIbne5Iwkv6uUi/lY4CwTOjm27+nC7ZAgB9lZW2Bq87mtzg5uXCQg/GFinNteXqVM4YKtgt0AmWRcUZjHRoo/WNvoe2TbGjerbm6NjfTOSDgvOu/F0UZFUm9rC7LeR48BPQGG3yaTaGbul410yNHkrHlrwCyVp4tjNEi0xYMEgzuRguyUFaNMDb9tue0Gv92UKssahgwWXFYRlMECFTul+xs3VGrgO7GQowqzrzc3vKRLL3Y6XhtTJ5glLDSCS98UaxwwVkLYdIrV3mf667+pLpU+xTbJHPrpBgCTWHy8018aOvBt++Nma7Vf2PZW9LkOlFNUoUZhXouMb6TdV+wVdYSLNH2jsQ=;IyQaNbniDOqVcEfhMwbnWA=="
+secured: "5KUFjl7ybeN7oLfEnlPvXDYpTOs0E7Go35MKGjXwW4LwVZPNAXG4cLBhskuX++9MI+p3OIHtGBH2JuRxNix9HE6BLMeyrLroJnaIxkH+K124Nq38sMQgOOVOjtjG2qWTuqTdshigyN5C6uuvDCNbuRGou7Yt8oRDtWP1jdgDd3WWKRvwby8cR/67hwhsNJGiFU5CifZ/ZM/Jxw7ATO32IQasgbVmR4oeVzSYhuioyD18VN4g9qG90QbejMh0YpwJfEHv/8Bnivn4UOdx6k2K0ySzL5zDbTzgUQ8XWHuLlVSJR1c/wWl1krJqYfcpKzJKa55lk1PSwMktMDWONna8DrqSDg5LPJdJq9RLqKWbWzA=;WHJTbIgvdwtWdfIz5C+yog=="
 ---
 

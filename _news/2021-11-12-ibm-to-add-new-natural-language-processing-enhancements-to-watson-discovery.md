@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-11T23:40:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-301420714.html"
 webUrl: "https://www.prnewswire.com/news-releases/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-301420714.html"
 type: article
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: PR Newswire
@@ -15,6 +18,36 @@ topics:
   - IBM AI
   - AI
   - Natural Language Processing
+
+related:
+  - title: "IBM Enhances The Natural Language Processing Capabilities Of Watson Discovery"
+    excerpt: "IBM has announced upgrades to Watson Discovery's natural language processing capabilities. These advances in NLP can teach Watson Discovery."
+    publishedDateTime: 2021-11-12T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-enhances-nlp/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 53
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/IBM-Enhances-The-Natural-Language-Processing-Capabilities-Of-Watson-Discovery.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Fortune and IBM Watson Health Reveal Annual List of 50 Top-Performing U.S. Cardiovascular Hospitals"
+    excerpt: "IBM Watson Health today announced its 2022 Fortune/IBM Watson Health 50 Top Cardiovascular Hospitals list, naming the top-performing U.S. hospitals for inpatient cardiovascular services. This year's study included 951 U."
+    publishedDateTime: 2021-11-16T12:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-20106016.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 25
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "W+GQCTQJw+ZRcvXSohKsgvMfUiwi0Ivo56QpS2jiueoJ7b4ot1QkTBtBC9UZUNCXD3Prw7hkwRtFAokI3/BdJHFGZ5w3554Aym1XEH2CNmUNvv9wA4PYyu1fnSMcDusp/o1OVWQtTflR7yXakb14eOSVwtUesnaB19g2RDjdh+eni6SPZEiFiLhTYz/GIQ+kw9x9RU9vEQni8KRnVu6iwDM7IhCbM3yGfiw9WNBec7SrKxBdBS1acNnngMC5oZyG8X5Du8tskT6yaB1I0ktkvnCJOWR0hPn6Z3SlgeTDSJo8B5iCEquWg4vwP8uVLKySYXjA8EGgm5I2mJtBh0LrxFeU8d1BTqZzD2cQhTSSm2A=;eoU2WCIE8gkCf4A9WpOUrA=="
 ---

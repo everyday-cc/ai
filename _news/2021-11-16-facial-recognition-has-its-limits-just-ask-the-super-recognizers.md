@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Unlocking The Power Of Speech Recognition"
+    excerpt: "Speech recognition software isn’t simply about asking your digital assistant for a weather forecast or to play your favorite soundtrack. It is a vital tool for business, ensuring relevance and competitiveness in the future business landscape."
+    publishedDateTime: 2021-11-16T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192654873177e8882f0f689%2F0x0.jpg"
+        width: 1200
+        height: 782
+        isCached: true
   - title: "Facial Recognition Has Its Limits. Just Ask the ‘Super Recognizers’"
     excerpt: "An elite police team in London with the ability to recognize thousands of different people is outperforming the technology – for now."
     publishedDateTime: 2021-11-15T07:24:00Z

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
+    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO."
+    publishedDateTime: 2021-11-16T12:00:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/16/full/20211116165343.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "5 Critical Ways Python Developers Contribute To A FinTech Company"
     excerpt: "AI, scientific computing, academic research, etc. This creates countless opportunities for Python developers. In an industry like fintech that demands utmost care and focuses on security, you must vet carefully and hire Python developers who are highly ..."
     publishedDateTime: 2021-11-15T15:13:00Z
@@ -57,30 +73,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Beware of These 2 Popular but Overvalued Fintech Stocks"
-    excerpt: "There remains uncertainty regarding whether the COVID-19 pandemic-fueled growth of fintech will continue. Furthermore, banks have been easing restrictions and ramping up technology spending, and by so doing posing a competitive threat to the fintech industry."
-    publishedDateTime: 2021-11-12T17:55:00Z
-    webUrl: "https://stocknews.com/news/upst-sofi-beware-of-these-2-popular-but-overvalued-fintech-stocks/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+  - title: "Tinkoff Capital has launched new exchange-traded funds to invest in artificial intelligence, fintech and Asian markets"
+    excerpt: "The management company \"Tinkoff Capital\" has launched three new exchange-traded mutual investment funds (BPIF). This is stated in the bank's message. The Tinkoff AI-Robotics Fund will allow investing in leaders in the field of artificial intelligence and robotics technologies;"
+    publishedDateTime: 2021-11-15T14:04:00Z
+    webUrl: "https://www.akm.ru/eng/news/tinkoff-capital-has-launched-new-exchange-traded-funds-to-invest-in-artificial-intelligence-fintech-/"
     type: article
     provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
-  - title: "Pagaya to Participate in Citi's 2021 Virtual FinTech Conference"
-    excerpt: "Pagaya Technologies Ltd. (\"Pagaya\"), a financial technology company that enables financial institutions to expand access to more customers through its artificial intelligence network, today announced that Gal Krubiner,"
-    publishedDateTime: 2021-11-15T12:13:00Z
-    webUrl: "https://www.lelezard.com/en/news-20103018.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 15
     images:
-      - url: "https://www.lelezard.com/img/theme/lezard2.png"
-        width: 500
-        height: 414
+      - url: "https://www.akm.ru/upload/iblock/840/Tinkoff_Tinkoff_logotip.png"
+        width: 1036
+        height: 750
         isCached: true
 
 secured: "tSWDklHscZ0T/6JyvjABzfTNkc+mGwRNy3ZhfDHfReohjRqvjb/QEUCYz+GvHlqbSNv9kv1Di7FSBt8Az6QGv2BKlOBppXSiZjkW3anahclDWXRHgCQFK0rEFlSQpaVGjYxK7iQ/EPf7kUvt0wLUI9iU3BbVtvn6zTsU4nNZUvY5ydoeXNl5Lv8AKsImyp/peEwOPqWW7dvMP7hGtRpTfHbW1zqlZJuyoaix6eDSzbgRTaEddOb54iVcc9mofv+cyBZ2+4ppcUr2TxTlPjLsywcCb3OOvL4xa5diB+/Bt8+67FNDkg7QU6DSm4PCYW3zpuO9CA9M05olOu4SQGjYra+ZT5KOy79HJ/RmYMCWFCo4jF+aZYSGuNxbEltLepov55+yTJt+qlewj9r3nLe9oS6aeiDHbwFIh0u+zQL1QYZfebDSyWj8ryli45ZmNw2FeQQVGJ1LE06ynY5tzDWFjCM6kzTYF9lWDdDVKn+9tgQoV/bRBgvaUd1ez3XP4EhymClcFLgPSdoSEyArDYOKXQ==;8MGIDMw0Qm6GQe3yZwh7mw=="

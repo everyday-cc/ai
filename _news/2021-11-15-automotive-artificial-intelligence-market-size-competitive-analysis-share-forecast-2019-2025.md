@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-15T14:19:00Z
 originalUrl: "https://www.xing.com/communities/posts/automotive-artificial-intelligence-market-size-competitive-analysis-share-forecast-2019-2025-1020040459"
 webUrl: "https://www.xing.com/communities/posts/automotive-artificial-intelligence-market-size-competitive-analysis-share-forecast-2019-2025-1020040459"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: XING

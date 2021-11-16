@@ -75,20 +75,6 @@ related:
         width: 1333
         height: 2000
         isCached: true
-  - title: "A Revolutionary FinTech Story that Makes Every Transaction an Opportunity"
-    excerpt: "Mobi724 – a Canadian-based fintech platform that enables banks and merchants to offer real-time payment card-linked incentives in a white-label format – has streamlined its data analytics, digital marketing and card-linked offers into an all-in-one"
-    publishedDateTime: 2021-11-11T19:27:00Z
-    webUrl: "https://stockhouse.com/news/newswire/2021/11/15/a-revolutionary-fintech-story-that-makes-every-transaction-an-opportunity"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 23
-    images:
-      - url: "https://media.stockhouse.com/embed/be615vmtpycj5am2wwoqc8843n/1/large"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "3wtIol+CUhjo/wxDR0YSiEwiTajEr3qpEBNn5+85Eb9EuC8IDuN+WudlTJsfjH0MD2krah3XbrtW2zfFfznYqz0xSqWtzRYER2LtN3OtVsDtjfa1WcM0fT8gxluCFK0OK3B1jodAkAmRh06zQp6p9MwK24ehHDHUsEq5BIP5yKcqIt4Us05H2Lo+K26Ki4Bb5JjYZ+6tDoG13FLCufNaiTakukTqKg5xIpYn8qJJa5UtrnopTU7Ggr6d8/FSSGB6Of9MTQcUyZ4PdQquk8yK1XNa+dPM7E1ft/50KbLdMzsJLGvBqVjLM4iXFRC/xbUzaAFZ0t0QuHy7PECdy8DLjHxnXd+Zrfn/T6KdieZ5/K8=;QrB3XMEEAD6LTfM81ft7ow=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-geneva-discovering-exop
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://scitechdaily.com/images/Discovering-Exoplanets-Using-Artificial-Intelligence-777x585.jpg"
         width: 777
         height: 585
-        isCached: true
-  - title: "Discovering exoplanets using artificial intelligence"
-    excerpt: "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in luminosity observed makes it possible to deduce the existence of a planet and to estimate its diameter,"
-    publishedDateTime: 2021-11-11T17:45:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/934587"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 226
         isCached: true
   - title: "Building a Community of AI Enthusiasts"
     excerpt: "Sergio Servantez talks about the AI@NU Graduate Student Group and how students in Northwestern Engineering's Master of Science in Artificial Intelligence (MSAI) program and across the university can benefit from its formation."

@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-16-helmai-raises-26m-for-unsupervised-autonomous-driving-software.md",
+      "title": "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software",
+      "excerpt": "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
+      "publishedDateTime": "2021-11-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution.md",
+      "title": "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution",
+      "excerpt": "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_11/1200z740_1637055115_shutterstock_1164788407.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/966351",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/966351",
+      "publishedDateTime": "2021-11-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-how-waymos-self-driving-cars-handle-fog-in-sf.md",
       "title": "How Waymo’s self-driving cars handle fog in SF",
       "excerpt": "Waymo's robotaxis face unique challenges driving in San Francisco, where there's a one in three chance of fog every day.",
@@ -148,7 +246,7 @@
       "originalUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -413,15 +511,15 @@
       "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
       "excerpt": "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
       "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
-      "originalUrl": "https://www.retail-insight-network.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "webUrl": "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "originalUrl": "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg",
+          "url": "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/11/leaders.jpg",
           "width": 1400,
           "height": 934,
           "title": null,
@@ -436,8 +534,8 @@
       "publishedDateTime": "2021-11-08T17:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Verdict Retail",
-        "domain": "retail-insight-network.com",
+        "name": "Mining Technology",
+        "domain": "mining-technology.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -448,8 +546,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Facebook AI"
+        "AI"
       ]
     },
     {
@@ -1020,6 +1117,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-05-pro-and-con-artificial-intelligence.md",
+      "title": "Pro and Con: Artificial Intelligence",
+      "excerpt": "Some people contend artificial intelligence can improve workplace safety, offer accessibility for people with disabilities, and make everyday life more convenient and enjoyable; others contend artificial intelligence poses dangerous privacy risks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
+      "originalUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.britannica.com/10/228410-131-1A428140/motion-abstract-background-binary-code.jpg",
+          "width": 900,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Britannica",
+        "domain": "britannica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-self-driving-company-aurora-makes-nasdaq-debut.md",
       "title": "Self driving company Aurora makes Nasdaq debut",
       "excerpt": "In another highly-anticipated IPO, self-driving technology company Aurora Innovation (AUR) made it’s Nasdaq debut today. The company merged in October with Reinvent Technology Partners Y (RTPY), a special purpose acquisition company (SPAC) led by LinkedIn co-founder Reid Hoffman and Zynga founder Mark Pincus.",
@@ -1242,153 +1383,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-tackle-racism-in-ai-blm-co-founder-tells-tech-bosses.md",
-      "title": "Tackle racism in AI, BLM co-founder tells tech bosses",
-      "excerpt": "LISBON (Reuters) -As concerns grow over racial bias in artificial intelligence, Black Lives Matter (BLM) co-founder Opal Tometi urged the tech sector to act fast against perpetuating racism in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/04/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/04/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/11/04/1355973.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy.md",
-      "title": "TuSimple aims to test self-driving trucks on public roads without human safety operator by EOY",
-      "excerpt": "Self-driving trucks startup TuSimple signaled it is close to testing its system without a human safety operator on public roads before the end of the year. During the startup’s third-quarter earnings call on Wednesday,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/",
-      "originalUrl": "https://techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/tusimple-aims-to-test-self-driving-trucks-on-public-roads-without-human-safety-operator-by-eoy/amp/",
-      "publishedDateTime": "2021-11-03T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-waymo-will-start-operating-in-new-york-city.md",
-      "title": "Waymo will start operating in New York City",
-      "excerpt": "Waymo will start testing its self-driving vans in New York City on November 4th, helping it prepare for heavy traffic and snow..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html",
-      "originalUrl": "https://www.engadget.com/waymo-self-driving-cars-new-york-city-130044539.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/0a2fefa0-3c1b-11ec-bfeb-09e0beaa0f08",
-          "width": 5287,
-          "height": 2974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-self-driving-cars-new-york-city-130044539.html",
-      "publishedDateTime": "2021-11-03T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

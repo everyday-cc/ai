@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Trending: Facebook Plans to Shut Down Facial Recognition System"
+    excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than one billion users. The move, notes The New York Times, effectively eliminates a feature that has fueled privacy concerns,"
+    publishedDateTime: 2021-11-16T11:07:00Z
+    webUrl: "https://www.ai-ap.com/publications/article/29186/trending-facebook-plans-to-shut-down-facial-recog.html"
+    type: article
+    provider:
+      name: ai-ap.com
+      domain: ai-ap.com
+    quality: 19
 
 secured: "xprws51/7TcSISDG/PHip8kIajOmyWgA/fUa/0/206RZyH03gbINUzr7sH4uDCWfYeT4NL2J3Aw+qhoEbmAGS7fCX6ZfUV7leIfuYLKsYQsCIYEk0GZn5Tkal9pLRbiC0ap6MUqgGq0EhGgEJJ9ANpeRKdNWWxrpXgAiXyX8RIlguaX3uwt01JDpDQ6tJVYgH+KjWbiTLEMh2idooqzT7YOPrfmDrO5upeJqcxdOyUPOyYNC9CFiyD/47QSD0TtTc207OShYcQgiHuwrX8725aUX3eujP4b2oi7VE6BIRNt3F6d7dODxzSaCKI3FwBIXCnKbAUegMncd7MFScQQ91oQiX30JYhDAKr/fNAe6ogByqK9XV+krjf2z82vCGmBNmtnyZ8z4SK01ArDDKjd8dziKOY3nfTMlVGuV6zBx5/FgU+Y/CwLMUE1M/G99O/Nt4Jpkd9Ww0sZuBWELtp5K/BKv7FBFU2+7u7D4HmhfnEPkgKYmvkT9m6fZthYDg83yFisyBCj2xddPtlU8zmtBkQ==;JLIoiruJ5f36A7f9s31dmA=="
 ---

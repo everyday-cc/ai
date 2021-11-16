@@ -42,20 +42,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Rights groups demand halt to South Korea facial recognition surveillance project"
-    excerpt: "A project intended to develop an AI-powered facial recognition system to be used for airport immigration purposes has met with fierce criticism."
-    publishedDateTime: 2021-11-11T18:17:00Z
-    webUrl: "https://www.biometricupdate.com/202111/rights-groups-demand-halt-to-south-korea-facial-recognition-surveillance-project"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
 
 secured: "6J1XEQ/vC1p7bscO6Z7xOPvpZ485o4hgw4pl39+LorfbvY/UrOK1VwjmrPtbKQmWayYObwVH/cg/njK7TaKAZiktWUQvmHrHgWqc8Pl7yi4va/tS30zqYh0OquH8uFe2k74i3omzxNg3TCTNI8+WshGAr67ldBB8qdC/f1hSJZTkPgmW61jyvZP+KPB99/30O0+9rnXyzBZuQCnJGQHZvMSiVmoYqvLyxsTUUJ5ful8YTCuESrtc7gvWWp2h3AO8z+HTAxOQnAMVUC5aAivYHj0qbhskZBCfAO2y5V+xyp2siqOjCVALchw3A34ViwPs0JW0dmBp8rrh23LvYW18hOYDvRuUsnQYqDf1yy1PANE=;tW1mlPYyzHFwTGuYd7Z1FQ=="
 ---

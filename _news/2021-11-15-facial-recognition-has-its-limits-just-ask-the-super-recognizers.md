@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2021-11-15/police-shoul
 webUrl: "https://www.bloomberg.com/opinion/articles/2021-11-15/police-should-use-super-recognizers-to-boost-their-facial-recognition-software"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Unlocking The Power Of Speech Recognition"
+    excerpt: "Speech recognition software isn’t simply about asking your digital assistant for a weather forecast or to play your favorite soundtrack. It is a vital tool for business, ensuring relevance and competitiveness in the future business landscape."
+    publishedDateTime: 2021-11-16T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192654873177e8882f0f689%2F0x0.jpg"
+        width: 1200
+        height: 782
+        isCached: true
   - title: "Facial Recognition Has Its Limits. Just Ask the ‘Super-Recognizers’"
     excerpt: "Its inhabitants are caught on camera about 300 times a day on average and the British capital has become a testbed for police use of live facial recognition. But the technology, which powers a mu"
     publishedDateTime: 2021-11-16T05:30:00Z

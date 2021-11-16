@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-16T09:32:00Z
 originalUrl: "https://twinfinite.net/2021/11/halo-infinite-change-ai-shape-color-how/"
 webUrl: "https://twinfinite.net/2021/11/halo-infinite-change-ai-shape-color-how/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Twinfinite

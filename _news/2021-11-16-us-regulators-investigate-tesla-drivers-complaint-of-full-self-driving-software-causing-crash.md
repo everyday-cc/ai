@@ -1,14 +1,14 @@
 ---
 category: news
-title: "US Regulators Investigate Tesla Driver's Complaint Of 'Full Self-Driving' Software Causing Crash"
+title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
 excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
-publishedDateTime: 2021-11-16T03:25:00Z
-originalUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
-webUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
-ampWebUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+publishedDateTime: 2021-11-15T22:24:00Z
+originalUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
+webUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
+ampWebUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
 type: article
-quality: 61
+quality: 41
 heat: -1
 published: false
 
@@ -19,12 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/03D/A99/03DA99B843051B6A9ADFC1A68CC4A06B.jpg?Expires=1731628800&KeyName=mcpkey1&Signature=jz8D30FA_6o3RcdjtAWIWuFQxW8"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Regulators looking into complaint about Tesla's 'Full Self-Driving' software"
@@ -248,6 +242,6 @@ related:
         height: 808
         isCached: true
 
-secured: "1KwOVyuHBwgx5DD/eXt0iH9RmTSY6gjGCAMolIJ979q219Zpa+BkusCOWhlylaa/SepdFnP5RL07UoSYK25LlQd+vzyTTP5TZf4fScbXQfPTUXYZ37A9ArJvxm8RJ5hGWSwLKy/QZvgJz7N4XH7KG37hEFerCxTTpN4O9a0nFIbUsdZsEekJl1qrVsJqYvsS4/Dzn41UXeQR0jGYk5cVA7cwsi9PxbyZbI2rsFTPnJt0Kl+SC0ivnqN8nzc7RDK9T64j9TiufL41TA3gfKABylVhnDQUGAmSnlk2d9rtMQKWYD4PnP9VkWFYY2q84ZuR+RvFP/IB3D34T6TXWyPsAlsNF3P+cHXcHOb1hgodYmwmrVZZAsa6vDwViBbslN0Kmu5MjUxsszfa5xGz04GBGFiBKkrNBQyuVaNTg/FeAOeL2TkseJjkHL/Iyukjk9XOOox4ufHUOpBR9Qr9j3z/eKoe9JwAJrWp5wJ/RUg1mITED2L8VtOfBFnn12R51D0J7v/qHIs5AmbpXoSwMnCNuQ==;G/SoCKGSIGbXtefqC/HDcQ=="
+secured: "YQNrs+g4mY1fdMFrY8hlEX0GKLTfE4tDKmK6K0hiCvJzA4kpmiLE648+lIP4kBD9I9zAdhGBglmRyXFeYriWTw/ikPf0eVLHXTRfuPUAeQoqzHN9VZAZT3aILd3WvB3i9+8ejE3zzvxECyY5FFIU7e8+EyVWm6p4veYcLGz2UR5N5iXm1JsEVCVDz2WX/oZP1l6OA4oa0d6xQ3f79Atgp+dL4rEk/LiTdUyqMEyj9yUDxGaAgQ4fKIwo6tQkuVqFpnrRTukMBkOvpmNv3DXyTco1jpy+Nx+4CKodhZ6YDLX7xq4gVgRhZfty5xofmf10eCBWXz6h/xYK+8Vc3LjCWFrt8B4b/F34QnYm9dQBqHjBdmhlI5FRA1lU3Nuzh6+R+r9CjDKz4/+OrsJQQsAmcLNiWHfuDZeK3ZEhfU0r9g0TfrBQ6mHdvrSqCk0CS4YHLSDe8wnKGSw7QX0uUreP6l5WDK46mVJZe2BMnLYf/17eWJFX0UuijeEfeKqsrFZaPs1RMSsZi87nck+GxMqpPQ==;RFezFSBVG3pgMYjFOpDDtw=="
 ---
 

@@ -2,6 +2,289 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-11-ai-chip-startup-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation.md",
+      "title": "AI chip startup Cerebras nabs $250 million Series F round at over $4 billion valuation",
+      "excerpt": "New money follows Cerebras's expansion from a single system to a portfolio of products and cloud partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/",
+      "originalUrl": "https://www.zdnet.com/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/92729ebb49764ebb9d08476f41908a19f0672ada/2021/04/20/11fc5675-b618-42c2-85fa-979364fdf9e8/wse2-natalia.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startups-cerebras-nabs-250-million-series-f-round-at-over-4-billion-valuation/",
+      "publishedDateTime": "2021-11-10T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-microsoft-india-proposes-varuna-scalable-low-cost-training-of-massive-deep-learning-models.md",
+      "title": "Microsoft India Proposes Varuna: Scalable, Low-Cost Training of Massive Deep Learning Models",
+      "excerpt": "The performance of contemporary AI systems on natural language processing (NLP) tasks would have been difficult to imagine just a few years ago. The 2017 debut of massive language model BERT was a game-changer,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/",
+      "originalUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/amp/",
+      "publishedDateTime": "2021-11-10T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-data-society-launches-ai-driven-meldr-platform-for-data-science-training.md",
+      "title": "Data Society launches AI-driven meldR platform for data science training",
+      "excerpt": "Data Society has announced the launch of meldR, a social learning platform that allows L&D teams to deliver AI-generated data science learning courses.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/",
+      "originalUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/amp/",
+      "publishedDateTime": "2021-11-10T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-honesty-and-ethics-not-well-explained-by-managers-in-new-zealand.md",
+      "title": "Honesty and ethics not well explained by managers in New Zealand",
+      "excerpt": "The majority of employees in New Zealand are confident their organizations are honest and there is no misconduct at work, but their line managers don't always explain the importance of honesty and ethics in the work they are leading.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.html",
+      "originalUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/workplace-2.jpg",
+          "width": 2880,
+          "height": 1922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-honesty-ethics-zealand.amp",
+      "publishedDateTime": "2021-11-10T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-how-the-eus-flawed-artificial-intelligence-regulation-endangers-the-social-safety-net-questions-and-answers.md",
+      "title": "How the EU’s Flawed Artificial Intelligence Regulation Endangers the Social Safety Net: Questions and Answers",
+      "excerpt": "Summary In April 2021, the European Commission released its 108-page proposal to regulate artificial intelligence (“AI”), describing it as an attempt to ensure a “well-functioning interna",
+      "sourceUrl": null,
+      "webUrl": "https://law.stanford.edu/publications/eu-artificial-intelligence-act-the-european-approach-to-ai/",
+      "originalUrl": "https://www.hrw.org/news/2021/11/10/how-eus-flawed-artificial-intelligence-regulation-endangers-social-safety-net",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www-cdn.law.stanford.edu/wp-content/uploads/2021/09/eu-artificial-intelligence-act-the-european-approach-to-ai-2-300x211.png",
+          "width": 300,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Human Rights Watch",
+        "domain": "hrw.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-enterprise-process-automation-startup-workato-nabs-200m.md",
+      "title": "Enterprise process automation startup Workato nabs $200M",
+      "excerpt": "Workato, a workplace automation tool, has raised $200 million in venture capital to expand its set of enterprise offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/",
+      "originalUrl": "https://venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/enterprise-process-automation-startup-workato-nabs-200m/amp/",
+      "publishedDateTime": "2021-11-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart.md",
       "title": "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart",
       "excerpt": "Flowers.com, a conversational AI tool integrated with Messenger, and explain what you want. You don’t even need to enter card details if you use Apple, Samsung or Google Pay. Or maybe like me you are a die-hard coffee lover.",
@@ -436,6 +719,41 @@
       ]
     },
     {
+      "path": "_news/2021-11-10-standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous-retail.md",
+      "title": "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail",
+      "excerpt": "Addition of ThirdEye Labs’ ML team and Sameer Qureshi as Vice-President of Machine Learning brings wave of new AI and machine learning talent to Standard AI Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20211110005448/standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous-retail",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20211110005448/standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous-retail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029.md",
       "title": "Artificial Intelligence in Healthcare Market Size, Share, Key Players, Growth Analysis and Forecast 2029",
       "excerpt": "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end and",
@@ -855,361 +1173,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-timnit-gebru-says-artificial-intelligence-needs-to-slow-down.md",
-      "title": "Timnit Gebru Says Artificial Intelligence Needs to Slow Down",
-      "excerpt": "Artificial intelligence researchers are facing a problem of accountability: How do you try to ensure decisions are responsible when the decision maker is not a responsible person, but rather an algorithm?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
-      "originalUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6189c83d08983f9bcb06800e/master/pass/Timnit-Gebru.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rewired-2021-timnit-gebru/amp",
-      "publishedDateTime": "2021-11-09T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai.md",
-      "title": "TechCrunch+ roundup: Deep tech predictions, HashiCorp’s IPO, enterprise-wide AI",
-      "excerpt": "If you believe you have a good idea for a startup, go for it. When venture capitalists say this is a good time to be a founder, you know they absolutely mean it.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/",
-      "originalUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-906726726-1.jpg?w=1024",
-          "width": 1024,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/",
-      "publishedDateTime": "2021-11-09T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-meta-to-halt-use-of-facial-recognition-technology-on-facebook.md",
-      "title": "Meta to Halt Use of Facial Recognition Technology on Facebook",
-      "excerpt": "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/",
-      "originalUrl": "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/",
-      "publishedDateTime": "2021-11-09T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai.md",
-      "title": "Report: 40% of execs say increasing business process efficiency is top benefit of AI",
-      "excerpt": "The need to boost customer service, employee efficiency, and innovation are three main factors driving an increase in AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cognitivescale.com/survey_drivingadoption/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cognitivescale.com/wp-content/uploads/2020/08/News-Banners-e1636510765124.png",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-bushfire-mitigation-through-machine-learning-with-ausnet-and-aws.md",
-      "title": "Bushfire mitigation through Machine Learning with AusNet and AWS",
-      "excerpt": "Eastern Australia is among the most fire-prone regions in the world. Although bushfires are a regular occurrence in Australia, the 2019–2020 bushfire crisis set ablaze over 17 million hectares of land (larger than the size of England), costing the Australian economy more than $100 billion between property,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bushfire-mitigation-through-machine-learning-with-ausnet-and-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bushfire-mitigation-through-machine-learning-with-ausnet-and-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/ML5275-image009.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T11:31:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-a-communication-tool-for-people-with-speech-impairments.md",
-      "title": "A communication tool for people with speech impairments",
-      "excerpt": "For millions of people, being able to speak and be understood can be difficult as a result of conditions that can impact speech, including stroke, ALS, Cerebral Palsy, traumatic brain injury or Parkinson's disease. Today, we’re inviting an initial group of people to test Project Relate, a new Android",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/accessibility/project-relate/",
-      "originalUrl": "https://blog.google/outreach-initiatives/accessibility/project-relate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PROJECT_RELATE_YT_THUMBNAIL.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/accessibility/project-relate/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-relate/amp/",
-      "publishedDateTime": "2021-11-09T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-expanding-our-ml-based-flood-forecasting.md",
-      "title": "Expanding our ML-based flood forecasting",
-      "excerpt": "In 2018 we began our flood forecasting initiative to help combat the catastrophic damage from floods each year by equipping those in harm’s way with accurate and detailed alerts. This work is a part of Google’s broader Crisis Response program which provides people access to trusted information and resources",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
-      "originalUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/inundation_modeling.max-1000x1000.png",
-          "width": 1000,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
-      "publishedDateTime": "2021-11-09T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

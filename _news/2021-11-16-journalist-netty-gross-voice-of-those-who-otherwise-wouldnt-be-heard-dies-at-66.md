@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-16T10:36:00Z
 originalUrl: "https://www.timesofisrael.com/journalist-netty-gross-voice-of-those-who-otherwise-wouldnt-be-heard-dies-at-66/"
 webUrl: "https://www.timesofisrael.com/journalist-netty-gross-voice-of-those-who-otherwise-wouldnt-be-heard-dies-at-66/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Times of Israel

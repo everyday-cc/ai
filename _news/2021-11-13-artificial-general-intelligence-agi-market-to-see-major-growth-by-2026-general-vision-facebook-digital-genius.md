@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2461073/artificial-general-intelligence-a
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461073/artificial-general-intelligence-agi-market-to-see-major"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Facebook shutting down automatic facial recognition in photos"
-    excerpt: "Facebook Inc announced on Tuesday it is shutting down its facial recognition system, which automatically identifies users in photos and videos, citing growing societal concerns about the use of such technology."
-    publishedDateTime: 2021-11-11T18:00:00Z
-    webUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521"
-    ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-shutting-down-automatic-facial-recognition-photos-2227521?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/11/faceb.jpg?itok=QLjSS1xF"
-        width: 750
-        height: 393
-        isCached: true
 
 secured: "Jy+t5obEKgMxnrO3Wm0IxizFYR1dBcmAnnpy5cDQYVY6iNEqCHKZUXszw5g+w2BLPygQOV5QUfSxR9YXVlNJ663TI/l2/dIfowLRjWPs6676ESJv+NWsy5/bSldJwg9OP+WqBFpCH17jBnA/GDNMV7WiaLMbctBlfFZMPpAt9gCc97LLE2xj1+8KHrrZXjmLfnrC+aB6B0mFKFIfHuWshSSBk/NBrK41aH9AQs/JsHl056deKPI8bWNIDMJCF3eas8oq/bs6O2uv3JkuzN5xqIdg3PVdLsNm6Ycow3azjLU45PyI2jGuAiHFRX6s2WjutnwxGPbTPJeOg2EeskRE8E5CUxyFdJ0CiTQ8Jfn9YLu71bOPMw3aqgyDoQXURkuKE6UoM2fzO/za2nAQCwPw1S1nudPzmUSNwkE3mQ0aMf5viZ0J/YxnB164sK9biubkrL2Z06cDiL4/DVtMU1cDhdg9O4V51KHv9naQrtOSujqxqAgGoZ0iW7mx5jLRUz7JLIpLoZ6X/0lzgGng/1c2UA==;0H2LHV64k9Xn3XpTRUdngg=="
 ---

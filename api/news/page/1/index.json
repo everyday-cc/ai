@@ -2,6 +2,395 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-16-fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder.md",
+      "title": "Fintech leader joins document-to-data startup IN-D.AI as Co-founder",
+      "excerpt": "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/16/full/20211116165343.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
+      "publishedDateTime": "2021-11-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-helmai-raises-26m-for-unsupervised-autonomous-driving-software.md",
+      "title": "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software",
+      "excerpt": "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
+      "publishedDateTime": "2021-11-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-facebook-accused-of-continuing-to-surveil-teens-for-ad-targeting.md",
+      "title": "Facebook accused of continuing to surveil teens for ad targeting",
+      "excerpt": "The adtech giant formerly known as Facebook is still tracking teens for ad targeting on its social media platforms, according to new research by Fairplay, Global Action Plan and Reset Australia — apparently contradicting Facebook’s announcement this summer when the tech giant claimed",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/16/facebook-accused-of-still-targeting-teens-with-ads/",
+      "originalUrl": "https://techcrunch.com/2021/11/16/facebook-accused-of-still-targeting-teens-with-ads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-rotate-pattern.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/16/facebook-accused-of-still-targeting-teens-with-ads/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/16/facebook-accused-of-still-targeting-teens-with-ads/amp/",
+      "publishedDateTime": "2021-11-16T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-unlocking-the-power-of-speech-recognition.md",
+      "title": "Unlocking The Power Of Speech Recognition",
+      "excerpt": "Speech recognition software isn’t simply about asking your digital assistant for a weather forecast or to play your favorite soundtrack. It is a vital tool for business, ensuring relevance and competitiveness in the future business landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192654873177e8882f0f689%2F0x0.jpg",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/",
+      "publishedDateTime": "2021-11-16T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-the-department-of-defense-is-issuing-ai-ethics-guidelines-for-tech-contractors.md",
+      "title": "The Department of Defense is issuing AI ethics guidelines for tech contractors",
+      "excerpt": "The controversy of Project Maven shows the department has a serious trust problem. This is an attempt to fix that",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/",
+      "originalUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/11/gettyimages-1286000787.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/amp/",
+      "publishedDateTime": "2021-11-16T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees.md",
+      "title": "AI Can Be A Force For Good In Recruiting And Hiring New Employees",
+      "excerpt": "The use of AI and machine learning in various employment processes is advancing rapidly. New products and services are entering the market at an explosive pace. These new technologies promise dramatic efficiencies and added value while pledging a healthy return on investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/",
+      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192721f6684affa45047632%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/amp/",
+      "publishedDateTime": "2021-11-16T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai.md",
+      "title": "Justt comes out of stealth with $70M in funding to help online merchants fight false chargebacks with AI",
+      "excerpt": "Justt, a Tel Aviv-based chargeback mitigation startup, is emerging out of stealth today with $70 million in total funding. Founded in February 2020 by Roenen Ben-Ami and Ofir Tahor, Justt says it fully automates chargeback disputes on behalf of online merchants.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/",
+      "originalUrl": "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Justt-product-screeshot-1.jpg?w=680",
+          "width": 680,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/",
+      "publishedDateTime": "2021-11-16T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution.md",
+      "title": "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution",
+      "excerpt": "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_11/1200z740_1637055115_shutterstock_1164788407.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/966351",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/966351",
+      "publishedDateTime": "2021-11-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-aws-claims-pivotal-role-in-creation-of-african-unicorns.md",
       "title": "AWS claims pivotal role in creation of African unicorns",
       "excerpt": "The Amazon subsidiary says it played an instrumental role in helping to create some of the African tech start-ups currently valued at over $1 billion.",
@@ -838,375 +1227,6 @@
         "Machine Learning",
         "AI in Security",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-facial-recognition-has-its-limits-just-ask-the-super-recognizers.md",
-      "title": "Facial Recognition Has Its Limits. Just Ask the ‘Super Recognizers’",
-      "excerpt": "An elite police team in London with the ability to recognize thousands of different people is outperforming the technology – for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-11-15/police-should-use-super-recognizers-to-boost-their-facial-recognition-software",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-11-15/police-should-use-super-recognizers-to-boost-their-facial-recognition-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9BF_fFqdoyE/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-tochai-launches-rs-100-crore-startup-fund-to-invest-in-startups.md",
-      "title": "Toch.ai launches Rs 100 crore startup fund to invest in startups",
-      "excerpt": "The fund is to invest in innovative companies and provide infrastructure services to bolster growth and accelerate disruption. Toch.ai, an AI-driven SaaS platform for digital content players launched Rs 100",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-to-invest-in-startups/",
-      "originalUrl": "https://www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-to-invest-in-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2017/01/funds.jpg",
-          "width": 457,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-to-invest-in-startups/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/toch-ai-launches-rs-100-crore-startup-fund-to-invest-in-startups/amp/",
-      "publishedDateTime": "2021-11-14T23:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-azure-openai-a-new-microsoft-service-allows-gpt-3-access.md",
-      "title": "Azure OpenAI, A New Microsoft Service, Allows GPT-3 Access",
-      "excerpt": "OpenAI's machine learning models are now available on Microsoft's Azure platform thanks to a new service called the Azure OpenAI Service.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/azure-openai-allows-gpt-3-access/",
-      "originalUrl": "https://analyticsindiamag.com/azure-openai-allows-gpt-3-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/11/Azure-OpenAI-A-New-Microsoft-Service-Allows-GPT-3-Access.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-university-of-geneva-discovering-exoplanets-using-artificial-intelligence.md",
-      "title": "University of Geneva: Discovering exoplanets using artificial intelligence",
-      "excerpt": "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/geneva-1024x427.jpg",
-          "width": 1024,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "publishedDateTime": "2021-11-14T20:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture.md",
-      "title": "Telstra and Woolworths' Quantium to form new data and AI joint venture",
-      "excerpt": "Telstra and Quantium will target enterprise customers using a new 'whole of tech stack' to be delivered under a new joint venture between the pair.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
-      "originalUrl": "https://www.zdnet.com/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
-      "publishedDateTime": "2021-11-14T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-ai-tech-drives-transformation-of-f1-racing.md",
-      "title": "AI tech drives transformation of F1 racing",
-      "excerpt": "The next generation of AI in racing will play a prominent role in car setup and design decisions that yield the best results on track.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/",
-      "originalUrl": "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-139946022-e1636656086505.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/amp/",
-      "publishedDateTime": "2021-11-14T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-report-80-of-fintech-execs-worry-about-authentication-security-tools.md",
-      "title": "Report: 80% of fintech execs worry about authentication security tools",
-      "excerpt": "Legacy IT authentication security tools, such as one-time passwords, possess vulnerabilities capable of being exploited.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
-      "originalUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/2-2.png?w=600&resize=600%2C600&strip=all",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/",
-      "publishedDateTime": "2021-11-14T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools.md",
-      "title": "A Generation Growing Under Surveillance: The Dangers of Facial Recognition In Schools",
-      "excerpt": "In conversation with my teenage daughter last week, I pointed out a news report which flagged concerns over the use of facial recognition technologies in several school canteens in North Ayrshire, Scotland.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools",
-      "originalUrl": "https://interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/rV6nDkYmOX/sizes/surveil_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools",
-      "publishedDateTime": "2021-11-14T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

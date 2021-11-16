@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-16-the-department-of-defense-is-issuing-ai-ethics-guidelines-for-tech-contractors.md",
+      "title": "The Department of Defense is issuing AI ethics guidelines for tech contractors",
+      "excerpt": "The controversy of Project Maven shows the department has a serious trust problem. This is an attempt to fix that",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/",
+      "originalUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/11/gettyimages-1286000787.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/amp/",
+      "publishedDateTime": "2021-11-16T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-14-report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult.md",
       "title": "Report: 95% of execs say hiring professionals trained in AI is difficult",
       "excerpt": "As leaders consider hiring new AI talent, they shouldn't overlook the importance of training to help mitigate bias and encourage ethical AI.",
@@ -517,6 +560,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-thinking-through-the-ethics-of-new-techbefore-theres-a-problem.md",
+      "title": "Thinking Through the Ethics of New Tech…Before There’s a Problem",
+      "excerpt": "There’s a familiar pattern when a new technology is introduced: It grows rapidly, comes to permeate our lives, and only then does society begin to see and address the problems it creates. But is it possible to head off possible problems?",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
+      "originalUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/11/Nov21_09_80488495.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
+      "publishedDateTime": "2021-11-09T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1327,101 +1413,6 @@
         "AI Ethics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-done-right-human-ethics-can-ensure-ai-bias-is-curbed.md",
-      "title": "Done right, human ethics can ensure AI bias is curbed",
-      "excerpt": "AI bias continues to be a prevailing problem when it comes to ensuring proper implementation of artificial intelligence (AI) in many industries. Since the",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/10/ethical-ai-ai-bias-is/",
-      "originalUrl": "https://techwireasia.com/2021/10/ethical-ai-ai-bias-is/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/10/000_94M3YD-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/10/ethical-ai-ai-bias-is/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/10/ethical-ai-ai-bias-is/",
-      "publishedDateTime": "2021-10-27T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-how-humans-in-the-loop-ai-can-help-solve-the-data-problem.md",
-      "title": "How Humans-In-The-Loop AI Can Help Solve The Data Problem",
-      "excerpt": "Humans-in-the-loop AI is a niche wherein AI and ML systems are built with human interference at different stages of the cycle, whenever it’s necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61780ffa6b3df3f9956729d6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/",
-      "publishedDateTime": "2021-10-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

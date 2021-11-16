@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-edge-ai-companies-to-know-and
 webUrl: "https://www.analyticsinsight.net/top-edge-ai-companies-to-know-and-watch-out-in-2021-for-sure/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Revealed: The food companies leading the way in artificial intelligence"
-    excerpt: "Food companies are keen to show off their AI prowess but which are driving their industries forward through the use of this technology?"
-    publishedDateTime: 2021-11-11T17:13:00Z
-    webUrl: "https://www.just-food.com/features/revealed-the-food-companies-leading-the-way-in-artificial-intelligence/"
+  - title: "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution"
+    excerpt: "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level"
+    publishedDateTime: 2021-11-16T10:00:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/966351"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/966351"
     type: article
     provider:
-      name: Just-Food
-      domain: just-food.com
-    quality: 37
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 80
     images:
-      - url: "https://www.just-food.com/wp-content/uploads/sites/35/2021/10/shutterstock_1952331001-scaled-e1634642677805.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
-  - title: "Revealed: The apparel companies leading the way in artificial intelligence"
-    excerpt: "LVMH and GlaxoSmithKline are among the apparel companies best positioned to take advantage of future artificial intelligence disruption."
-    publishedDateTime: 2021-11-12T11:11:00Z
-    webUrl: "https://www.just-style.com/features/revealed-the-apparel-companies-leading-the-way-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 35
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/11/shutterstock_701349271.jpg"
-        width: 500
-        height: 334
+      - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_11/1200z740_1637055115_shutterstock_1164788407.jpg"
+        width: 1200
+        height: 740
         isCached: true
 
 secured: "MrJyG9cMX1n8fxKwkLYj91IupWqfLNVR+g17KCZzVieQQEkXCr8O0RqjbbESj8EIiN2YDuFxTGbJEj4S/8TdtUyIFyGGD8KMIzGS7xIbOHbBYmcWWKiWQELhD1RWnWUNtI563456FjdJuZ8gE68hkAKbkunYUMOZ61XG4rCIhMdV5IiIuZjlrjBYjD1KvnEa8S8xiYMFezujS4omR0Nl5yon5PrCHFkNPz40K112UktxuUCIn3HIqflCqVItJiXPL72xvkfDArm8BmKuoEsZTVVUklaRjmEFLU5ME49m77DcWYTKmKGpqa+baZel42ObBlPaS9ih/mgQjzbqOcCddSGsFNcQt2BCmS4GCiZwbN9X+tQdbbmYs7fwJbMfz1Hvnc2EyA77XrqLQNO/kDDA0kycqOuT57YHAL8V2Jgd6qajr51uipxyg+OMug7g06qko4KBbMhooMfrCWslBvxPDp2PhVh9/fZs6VJADjzdE1RCzfi3fPDtFh0XF4dCk2zcSPTx2XXdU2r8TD19oN6Aug==;oZMq0mkcuXM56RffAQ8LaQ=="

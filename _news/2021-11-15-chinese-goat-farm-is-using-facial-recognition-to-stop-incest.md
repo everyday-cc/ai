@@ -107,6 +107,15 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Trending: Facebook Plans to Shut Down Facial Recognition System"
+    excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than one billion users. The move, notes The New York Times, effectively eliminates a feature that has fueled privacy concerns,"
+    publishedDateTime: 2021-11-16T11:07:00Z
+    webUrl: "https://www.ai-ap.com/publications/article/29186/trending-facebook-plans-to-shut-down-facial-recog.html"
+    type: article
+    provider:
+      name: ai-ap.com
+      domain: ai-ap.com
+    quality: 19
 
 secured: "aViK5/iHU4VPhgPpkM6AA1LfRJNVeq3P9B2Ms8vEfkdUMIhug7Z8AL/QCGgACti2KW3ggSTFiVT79W5Es3TKaGPGApSLeCZxTj7cS+u7dERECIv4lreGmYJxylABY0400A/Da218RiFPNiYEWPywzp1E8JTQvv3XXrdQ5mW/8UztQ8rZhVt6iSdecWaEz5/UwvdrXZBEvFDgkV1IOyY1dFumnQCDcLqNOEiGVPoKOxfE6tOg8ycv0fLncEgcH9ItGSq+tOA6N7SvF5JoPXtabBLe/9RGr0C3xFQaW/UtFdFqQY13DcpYraNEPMN+F7kNpDy5Y37F8Ei481K2nIgivO1MRcL+b8W15wY/HloPWdaJqYBnwjdCP9uU1cKompIluyzQx+ivWlyrL29Z3QHMxAsAOib/YL4eYHXqzPSqpbDJkE0LqvU3MGO56Z56QOx/Y2SyaMYLjkGvs9K/f4S9+utOJxEriQOuPlc0/loWaRXS3qN5eDVBp983SBE++LeAhyLFE6mn2pFGJj0naQUbyg==;G2hX6/2koCyP9dLkBhOidw=="
 ---
