@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "US Regulators Investigate Tesla Driver's Complaint Of 'Full Self-Driving' Software Causing Crash"
+    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
+    publishedDateTime: 2021-11-16T03:25:00Z
+    webUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
+    ampWebUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 61
+    images:
+      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/03D/A99/03DA99B843051B6A9ADFC1A68CC4A06B.jpg?Expires=1731715200&KeyName=mcpkey1&Signature=5iSMbtQ2FOjtrlrupQ7r_jCga0I"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla in Full Self-Driving beta mode damaged post crash in US: Report"
     excerpt: "A Tesla Model Y reportedly in Full Self-Driving beta mode crashed on November 3 in California and got \"severely damaged\". The owner reported the vehicle went into the wrong lane while taking a left turn."
     publishedDateTime: 2021-11-13T04:20:00Z
@@ -233,17 +249,20 @@ related:
         width: 870
         height: 485
         isCached: true
-  - title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
-    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
-    publishedDateTime: 2021-11-15T22:24:00Z
-    webUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
-    ampWebUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+  - title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
+    excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
+    publishedDateTime: 2021-11-16T20:00:00Z
+    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving"
     type: article
     provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 41
+      name: KCRW
+      domain: kcrw.com
+    quality: 34
+    images:
+      - url: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving/@@images/rectangular_image/page-header?v=1637102384.82"
+        width: 1460
+        height: 821
+        isCached: true
   - title: "Apple’s Self-Driving Test Fleet Adds More Drivers, Apple Car Still Due in 2025"
     excerpt: "As far as Apple is concerned, there’s no such thing as an Apple Car currently in development, and the company’s automotive strategy comes down to other solutions like CarPlay."
     publishedDateTime: 2021-11-15T21:50:00Z
@@ -259,6 +278,6 @@ related:
         height: 808
         isCached: true
 
-secured: "FVx4xxyN68EtpeiqQQV2G0R5H1BX2e+Z+zRWizmV1pddWKQHSgRq07nyJGKUJlIvz5gU3T/8O7gkp39TtaXgQ6P/9QyES25vpP2Y4bfMJcyldjRzfi9sZmDV/6/YaN3cfi+NjEOj8yosBvPyhez2uRRl6r8aTxTBXcNXfo5hnODKsJPwCIM1ep6g5LTpP9m1hlYRFDdIoTCHxcWMzCILmUlQbGB50jHYzXuqsK1UpwKt7zJdqI+bFwfHD7WIXQ7QtM2dAh+STKbzgqFjvJyVDDAcaGDgrf4fmPAEsxGuibggM4rDkMoiJ55P39lrI7jD4XZ24XFq4oFnPzmt6HCwndtnqLqqoHo5dDXEmdXTqsI=;3Y/UiRTOBH2ICtD2voQBww=="
+secured: "jFIoMIMXr2jvDFxaUiyWJh+cCFLL281tzUw0bUZjq+ownO+Tjahh8K7Ssu/db55S2s1SKcwPfJyAuErGYINeAabplbv2wOR0LQBCQ+yvv5dAOIGi7KcJpUyEABn3tQ3R891hrCtEKSW3nUJyYaIciux8l/qa5WRghJxsFopBTnnO+4DAa8Zj1l+TefoXZ4yDHaPW0OrRlz4Ccms8JuUIkEec6/sXBBkYrg+xz2ThwDHm5o5kwNqSjOej8y4SVIK+4aPIcRL8t4Bg60rwUtTzYgGk6D/rnyARj11QKrGCETZyTow8k2Z+Ij/RiqAAZW9wDv3z243TkaeR/a92iu/KHvwMRtgAQBbwQ99YsLHnqr/qjE0v4E+2Rng5wC9aIxw/MuzUVMQhS5jd4wiMtoE842jGIncArWqr74qkHBP8d8qdNiJoqWBb7sVyQrn+zl9ke9W9o/PXAHJa/m80UcS2PYqmaDaWvHXWkLORoGv9aR0Y/22SiLQFfGrg/JK1HcV6qdpnEF5+RsCgmwJh7/VD/A==;iD5lbzUscvDd+eqEJYsGYQ=="
 ---
 

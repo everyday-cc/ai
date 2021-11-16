@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Research changes the game for medical imaging with self-supervised learning"
-    excerpt: "Medical training data has a great cost, which makes it difficult to use deep learning for many apps. Google Research suggests a new solution."
-    publishedDateTime: 2021-11-12T05:20:00Z
-    webUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/"
-    ampWebUrl: "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/04/shutterstock_734378278-e1636485612226.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google’s self-supervised AI model can help improve neural networks in medical research"
     excerpt: "The key postulate of self supervised machine learning models is that they are trained on unlabelled data, thereby enabling application of AI in niche areas where collection of clearly defined data sets may be difficult,"
     publishedDateTime: 2021-11-12T08:57:00Z

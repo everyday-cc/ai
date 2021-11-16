@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/11/14/4-ways-successful-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/11/14/4-ways-successful-enterprises-are-driving-success-in-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence successfully predicts protein interactions"
+    excerpt: "UT Southwestern and University of Washington researchers led an international team that used artificial intelligence (AI) and evolutionary analysis to produce 3D models of eukaryotic protein interactions."
+    publishedDateTime: 2021-11-16T21:53:00Z
+    webUrl: "https://phys.org/news/2021-11-artificial-intelligence-successfully-protein-interactions.html"
+    ampWebUrl: "https://phys.org/news/2021-11-artificial-intelligence-successfully-protein-interactions.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-artificial-intelligence-successfully-protein-interactions.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-47.jpg"
+        width: 1100
+        height: 621
+        isCached: true
   - title: "How banks can scale AI adoption successfully"
     excerpt: "COVID-19 accelerated digital transformation for banks as both front and back-end services were forced to go online so that operations, run by employees from their homes, could continue. I think this has been a phenomenal achievement,"
     publishedDateTime: 2021-11-12T11:47:00Z

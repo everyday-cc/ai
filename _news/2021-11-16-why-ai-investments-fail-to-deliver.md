@@ -34,7 +34,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://images.idgesg.net/images/article/2020/09/opened_golden_safe_amid_abstract_structures_security_wealth_investment_by_violka08_gettyimages-1167344149_2400x1600-100858618-large.jpg?auto=webp&quality=85,70"
         width: 1200

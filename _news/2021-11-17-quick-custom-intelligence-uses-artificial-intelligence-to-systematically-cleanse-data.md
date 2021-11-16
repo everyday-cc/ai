@@ -2,9 +2,9 @@
 category: news
 title: "Quick Custom Intelligence Uses Artificial Intelligence to Systematically Cleanse Data"
 excerpt: "Quick Custom Intelligence (“QCI”) announces that the proven QCI Platform, which is installed in over 40 casino resorts in North America, has launched an Artificial Intelligence algorithm to quickly and accurately clean up casino data."
-publishedDateTime: 2021-11-16T17:54:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-artificial-intelligence-5274851d0d61f69853b23cf1c4067d46"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-artificial-intelligence-5274851d0d61f69853b23cf1c4067d46"
+publishedDateTime: 2021-11-16T17:41:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-artificial-intelligence-861e52b0e0de1c136118d08682e37202"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-artificial-intelligence-861e52b0e0de1c136118d08682e37202"
 type: article
 quality: 30
 heat: 30
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "3n7sKNwlIMmdh9mWiAD2mo0dSa9tjGD6CuqckmEXajmEQ+Got0/GpvrH/ffgCJ0u7iDIqNhYRwtlBTBEy1pn7ksmb4IRtZkfDVbYm1d0L6GIhUvfWEeICe7GPf5SswR5fWKLFsT5NPioiTPXlqwa0g+1tINNuGpsAhxj5GZVQ7Mjc8sPHbt1IlQoXWCbtN1gDiPX5SZ4anMF6k5uBQ1rggHe8K0HHIKfglGcCqiWXQS8C5WKj9wrByEzTx5gCGSfAznwyD8e7Hrk60aH2Zqo2Q2V4W9CF+SieEHXj3ONyzeTh+QS2FZNyoJr4oAK5KAlkW8ZBoTO2SL09ehSizAe0g3h5Q0Hecoksc9ddilwpG8=;ZBzI92TW64aaqtugxnNSRw=="
+secured: "S6uGaMpAlbGLQBPXPV8jB3cvPxi01xh1mdA/Ni/RUjeI6t/VyX/PPfMBU6Kyso9JZ6nx2wLsHGPzFgpwxzy7iS2D6dEJzTLDssbayMnQvZo18Plec182UGpYHYVmmokGNZLabn3eXELuWuzE8lG4xpA8VkVx4hjNZD3/Fu2rL+yAFn2TxcOudoiwbpigvEHIYSnVfdBr64/w7yr+YZ2S22ZaZA/8j7775lmL+ueaC59WWE7bRQJP7w03VkaxgbvlKKWqFojuUt8NzAfpXTEdr47f+FgL002L5F02AFRpiHNgfPv6g5xwAwlkeiw5ESWJeRAaptYeQa3gDQCGuIoE51jmzObWUsXmNG84NXpKCqY=;ywLNz7tinShap2Wf8uo7bw=="
 ---
 

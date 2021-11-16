@@ -83,6 +83,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook parent company Meta still collecting personal data from teens for ads, report says"
+    excerpt: "A new report claims Facebook and its parent company, Meta, are still collecting and harvesting your kids’ data — from what they like, to what they search — to target them with ads. Fairplay, Reset Australia and Global Action Plan released the report."
+    publishedDateTime: 2021-11-16T21:34:00Z
+    webUrl: "https://www.wtsp.com/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
+    ampWebUrl: "https://www.wtsp.com/amp/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 34
+    images:
+      - url: "https://media.wtsp.com/assets/WTSP/images/f15d4d63-c687-4217-ab98-89965eb4d230/f15d4d63-c687-4217-ab98-89965eb4d230_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "New Facebook Product for Financial Advertisers"
     excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
     publishedDateTime: 2021-11-12T09:39:00Z

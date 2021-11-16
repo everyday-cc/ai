@@ -45,6 +45,22 @@ related:
         width: 729
         height: 753
         isCached: true
+  - title: "Artificial intelligence successfully predicts protein interactions"
+    excerpt: "UT Southwestern and University of Washington researchers led an international team that used artificial intelligence (AI) and evolutionary analysis to produce 3D models of eukaryotic protein interactions."
+    publishedDateTime: 2021-11-16T21:53:00Z
+    webUrl: "https://phys.org/news/2021-11-artificial-intelligence-successfully-protein-interactions.html"
+    ampWebUrl: "https://phys.org/news/2021-11-artificial-intelligence-successfully-protein-interactions.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-artificial-intelligence-successfully-protein-interactions.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-47.jpg"
+        width: 1100
+        height: 621
+        isCached: true
 
 secured: "ZOqEJ/MEJcz+5Lmm/0v9YfFmxEnfBeUxl9ZVfb25nHrQoTEjK/y8LDt2aKjeA6H6TU1kQ3DiJ9sGAtviaLP+P50wGhgg3rSqJQShSgplkdSkp8/bT/PdcqUDpyl0/lHY97BXRhUte9Tm5MENstIVcZb783IAlJtmqOdzLdFCDtWT5+jxpsGE47qqPeNqOcet9Z+FTEoHpXZVYKL1L8yXrQt/bMdwE6cb6FJKAsj//ZC3rd0GUjwThoMPcJdpz4WylhUwqZA21lW/o9JGU0roZ4U8cE6wrUozl2+AJQVp+lyYNQxaIMjXOn/QyYgd23E65NKMtaz584JPVQrimJPRZ/a4hlcoq1WP4vXjZ2++RL+ReoRFyZpZMsJK0QY8waZLWpIh/jPpOIsAEbm6NnWP7+KK+nDCREFjfBYqNsEbX2K/xn+6vrs5WuoTsfUR40O7rQk79uxdjoHEWOm3MlFLdqdvNHCIJOXS2hC0qearVRJAeyyPxaL2yxkEHipra2FuKfAmfmIgASRE2Mnj5opK2g==;QXcMWdc9KPtAbnDnC7b6GQ=="
 ---

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
+title: "US Regulators Investigate Tesla Driver's Complaint Of 'Full Self-Driving' Software Causing Crash"
 excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
-publishedDateTime: 2021-11-15T22:24:00Z
-originalUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
-webUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
-ampWebUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+publishedDateTime: 2021-11-16T03:25:00Z
+originalUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
+webUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
+ampWebUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/03D/A99/03DA99B843051B6A9ADFC1A68CC4A06B.jpg?Expires=1731715200&KeyName=mcpkey1&Signature=5iSMbtQ2FOjtrlrupQ7r_jCga0I"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Regulators looking into complaint about Tesla's 'Full Self-Driving' software"
@@ -243,6 +249,20 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
+    excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
+    publishedDateTime: 2021-11-16T20:00:00Z
+    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving"
+    type: article
+    provider:
+      name: KCRW
+      domain: kcrw.com
+    quality: 34
+    images:
+      - url: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving/@@images/rectangular_image/page-header?v=1637102384.82"
+        width: 1460
+        height: 821
+        isCached: true
   - title: "Apple’s Self-Driving Test Fleet Adds More Drivers, Apple Car Still Due in 2025"
     excerpt: "As far as Apple is concerned, there’s no such thing as an Apple Car currently in development, and the company’s automotive strategy comes down to other solutions like CarPlay."
     publishedDateTime: 2021-11-15T21:50:00Z
@@ -258,6 +278,6 @@ related:
         height: 808
         isCached: true
 
-secured: "YQNrs+g4mY1fdMFrY8hlEX0GKLTfE4tDKmK6K0hiCvJzA4kpmiLE648+lIP4kBD9I9zAdhGBglmRyXFeYriWTw/ikPf0eVLHXTRfuPUAeQoqzHN9VZAZT3aILd3WvB3i9+8ejE3zzvxECyY5FFIU7e8+EyVWm6p4veYcLGz2UR5N5iXm1JsEVCVDz2WX/oZP1l6OA4oa0d6xQ3f79Atgp+dL4rEk/LiTdUyqMEyj9yUDxGaAgQ4fKIwo6tQkuVqFpnrRTukMBkOvpmNv3DXyTco1jpy+Nx+4CKodhZ6YDLX7xq4gVgRhZfty5xofmf10eCBWXz6h/xYK+8Vc3LjCWFrt8B4b/F34QnYm9dQBqHjBdmhlI5FRA1lU3Nuzh6+R+r9CjDKz4/+OrsJQQsAmcLNiWHfuDZeK3ZEhfU0r9g0TfrBQ6mHdvrSqCk0CS4YHLSDe8wnKGSw7QX0uUreP6l5WDK46mVJZe2BMnLYf/17eWJFX0UuijeEfeKqsrFZaPs1RMSsZi87nck+GxMqpPQ==;RFezFSBVG3pgMYjFOpDDtw=="
+secured: "jF3ZDlzoD0/olObVypqZGZPDnSSNQlrOR+iUA5hHsjR4RUTUxO9J7lKKcSgp+LLqJpkaE6UO6YwPNAJB5nj+l1wt14qO7+vzVacWRSP8SbsZF/Sk8O2w9ikBLQhxgRn1mzWVgZbYNFyFflq9svDErRwa4MUV1VZlGTL7YTkqXml9nosMUy4AS34c4pAtFVgncqVVtQyhGdLkwzdxEqkQz/J4aAvVBDzuSVChfWDeyBxobrVW7W3FmcInXPWPO1k9u5kzDqVBvazX+kAb+h1vAXj7MAR5yqmmwndK1aeqYJxdtoOXo5cU5KfXWjJLxhc6vGvy17Vl6JJkvMslN/hHT28R29Z8tAnGHjPOSdIYN4Q=;71brUIbbcDUcYDmhUQeSkA=="
 ---
 

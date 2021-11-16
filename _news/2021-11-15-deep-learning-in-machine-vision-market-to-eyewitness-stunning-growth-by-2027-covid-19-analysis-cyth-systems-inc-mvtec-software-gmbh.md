@@ -44,22 +44,6 @@ related:
         width: 780
         height: 405
         isCached: true
-  - title: "Commerce Artificial Intelligence Market to Eyewitness Stunning Growth by 2027 Covid-19 Analysis | MediaTek, ANKI"
-    excerpt: "This Commerce Artificial Intelligence market report continues by informing you about ongoing marketing campaigns and recommending you on which aspects of marketing should be enhanced and improved in comparison to rivals It contains data on the financial damages incurred by"
-    publishedDateTime: 2021-11-12T06:02:00Z
-    webUrl: "https://www.openpr.com/news/2459622/commerce-artificial-intelligence-market-to-eyewitness"
-    ampWebUrl: "https://www.openpr.com/amp/2459622/commerce-artificial-intelligence-market-to-eyewitness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2459622/commerce-artificial-intelligence-market-to-eyewitness"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub12806770_g.jpg"
-        width: 600
-        height: 300
-        isCached: true
   - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
     excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain managementCloud-based infrastructure and collaboration to improve speed and efficiency across business operationsDigit"
     publishedDateTime: 2021-11-16T13:00:00Z

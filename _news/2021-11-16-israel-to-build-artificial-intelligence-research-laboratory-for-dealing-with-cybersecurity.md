@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why machine learning is ‘a double-edged sword’ for cybersecurity"
-    excerpt: "Epam Systems’ Sam Rehman discusses how machine learning can change the cybersecurity landscape for the better but also comes with challenges."
-    publishedDateTime: 2021-11-12T07:00:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/data-security-ciso-epam-systems"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/11/Sam_Rehman.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Fujitsu and Ben-Gurion University Embark on Joint Research at New Center in Israel for Precise and Secure AI"
     excerpt: "Fujitsu Limited and BGN Technologies, the technology transfer company of Ben-Gurion University of the Negev (BGU), have signed a three-year comprehensive joint research agreement to develop technologies and solutions to contribute to the realization of safe,"
     publishedDateTime: 2021-11-16T11:34:00Z

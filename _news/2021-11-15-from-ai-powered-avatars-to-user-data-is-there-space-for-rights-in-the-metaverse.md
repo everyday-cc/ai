@@ -103,20 +103,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "WAYZ.AI CEO Dr. Tao: Spatio-Temporal AI Energizes Digital Twin and Metaverse"
-    excerpt: "As the first Keynote of the conference, Former Director of Microsoft Virtual Earth, Founder and CEO of WAYZ.AI, Dr. Vincent Tao, presented the WAYZ.AI innovation on Spatio-Temporal AI (ST-AI) technology and its applications to Digital Twin and Metaverse."
-    publishedDateTime: 2021-11-12T06:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wayz-ai-ceo-dr-tao-spatio-temporal-ai-energizes-digital-twin-and-metaverse-1030968822"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/1686720/image.jpg"
-        width: 326
-        height: 400
-        isCached: true
   - title: "AI-powered avatars to user data: Is there space for rights in the metaverse?"
     excerpt: "The term \"metaverse\" has been used to describe an array of shared spaces accessed via the internet – from fully-immersive virtual reality (VR) space.."
     publishedDateTime: 2021-11-13T07:19:00Z

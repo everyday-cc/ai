@@ -75,6 +75,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Facebook parent company Meta still collecting personal data from teens for ads, report says"
+    excerpt: "A new report claims Facebook and its parent company, Meta, are still collecting and harvesting your kids’ data — from what they like, to what they search — to target them with ads. Fairplay, Reset Australia and Global Action Plan released the report."
+    publishedDateTime: 2021-11-16T21:34:00Z
+    webUrl: "https://www.wtsp.com/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
+    ampWebUrl: "https://www.wtsp.com/amp/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 34
+    images:
+      - url: "https://media.wtsp.com/assets/WTSP/images/f15d4d63-c687-4217-ab98-89965eb4d230/f15d4d63-c687-4217-ab98-89965eb4d230_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "New Facebook Product for Financial Advertisers"
     excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
     publishedDateTime: 2021-11-12T09:39:00Z
@@ -133,6 +149,6 @@ related:
       domain: bestgamingpro.com
     quality: 4
 
-secured: "hgARfAmFpQNKwd0rQG81MTejmEC8aXz+TYfe7sMwLEdA+6mcerZ9qEbsoHTSbgoifZKE3+wjgCI23npXKtYEHFUJNkEK6M13LnAS1l13RlSl6xw5nWAoL2ZxVtfCR3oPFFCbyB/FBsbJb97Q1Zr6r9hw5e9ThaV8QcfOj3K4B/iuJ0EqPtsLqdLPJB2FzoO3tY2JLUAhRnSScZdEP5hBpLWWgWLCPXOUl2xBtmATKkIMZOE1Cvsct+h97PkAE64U/eRaDSUKIoOYRSddA3Pi3FDYQgPjcVfJ7Ul7l63sQW3ZHl29yv30UOqFNKCGEADmaTk5bD+txHdFDvWJNeRB7djSJsmSeaIdVHwkfNy3618=;tk+r7a/ov43DbkRtdsfLNw=="
+secured: "wkmr35RiljxaLqoabBaTOu2Iihm8TSYhLxfG3p/cod9mmdUrPJTQPHaPaIx8oJT6Zg2j57Q4dqnHqEXvHUlqwfnqKru3LwU93/qwxKTf5la3J9OfxsAQi2E2rutLGpq4KaD//i1GItTahFYiVlO31DI8rgpt0IWZb8IBm68qXLx3q9AtchDUwYIyFNu34kpNOn/3glCQa9DHea5sFtdoMnLeNYB8BtgibaoX5Sx2+uUUlxOX2BqAky4coAR/8nh9w7e98bNN6eqXMPQr1ugWW/50+x26p8EvShStprTrJwL66PUp0k/nk0JKhA+G3RuqKq1+13W2UTKRvp+t5kmGEfFWIezWFkYbD5iVkcvGU9GyfiouHrm3T8cRn7mkEPBIwVZD8amVMNJcL0PnD1okxSgCPGBzaWclPlgmUqH98x4xODwzPUELnjKn3GgRu+qKdQEB2l81wbQOhJaGOQuWmGSyShnughKv0Cx3j0w0CqC0/eczZE6G8fcUYN0JO1u0kxoe1Ijufvl7MmKuDG5HpQ==;0urpoh+aG2+B7bhKRDtfSA=="
 ---
 
