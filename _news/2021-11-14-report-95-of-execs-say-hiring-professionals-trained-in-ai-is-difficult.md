@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "SPECIAL REPORT: Artificial intelligence becoming a game-changer in ag"
-    excerpt: "Technology is all around us. We have daily access to it right at our fingertips, and soon enough it is going to take over many tedious tasks in agriculture, like weeding."
-    publishedDateTime: 2021-11-12T02:25:00Z
-    webUrl: "https://kyma.com/news/special-reports/2021/11/11/special-report-artificial-intelligence-becoming-a-game-changer-in-ag/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 39
-    images:
-      - url: "https://kyma.b-cdn.net/2021/11/Screen-Shot-2021-11-11-at-6.58.43-PM.png"
-        width: 990
-        height: 558
-        isCached: true
 
 secured: "H3itypY9EVQwm0cAPzegALJGBJ382+gZV9GXD+qCOQGX66cS43hooy1VtafdoWPsoCrOQkGnygIK6coUCkza/ieRTFVBdp9GXBA8mKyskZJ9aqPz/JU5YWxVTn0yWhkbWR4f57zh+XI7j6MVD6Jo6WIPgnYCUuVJeytRVtk0jfulWHPgwMoWndbG+R8X/LzGNdQNVuJQsG4NsEjQmEVjSHd+hYYarLalRzJ43joyEhy47/+qqCfrqCY6/ffEm4mvn0ON7yRenWEYezVw/c1Ui1VgAqHzAb3k3ljeCHkMU1DnWYHRWZiDSmFMPhGWq/4e9h0ykv/ZRDmUGR1R6Tb7JyLuRGFksUYOehk00EzjsGRR/7jlqTIasSWTupKgdDFsQnJTzRgtC2JR9eyNFz58ThZw8bFMKdZInGMhjcfEL6gSnnpjZpzeJ+BGsnI3Mxe7zCE3r/Esbi2ljBKvHxPC4L+WjxJ8FmEQIs8xEPvsmwvgPQzKGk+abWv2YIvrBlfcYKO5Dz4FhYGDKjyCGmmRWQ==;gNMeZei7NqLX3mnbFzJLjg=="
 ---

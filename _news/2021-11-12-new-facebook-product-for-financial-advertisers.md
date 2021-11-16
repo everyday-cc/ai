@@ -41,6 +41,38 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facebook still harvesting teen data to fuel ads, warns research"
+    excerpt: "Despite announcing changes to its advertising rules for children in July this year, Facebook (now called Meta) is still tracking and harvesting children`s personal data to fuel their advertising delivery system,"
+    publishedDateTime: 2021-11-16T17:53:00Z
+    webUrl: "https://www.wionews.com/science/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-429863"
+    ampWebUrl: "https://www.wionews.com/science/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-429863/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-429863/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 44
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/11/02/219700-fb1111.JPG"
+        width: 918
+        height: 506
+        isCached: true
+  - title: "New study says Facebook and Instagram harvesting data about children"
+    excerpt: "This practice is especially concerning, given ‘optimisation’ might mean weight loss ads served to teens with emerging eating disorders or an ad being served when, for instance, a teen’s mood suggests they are particularly vulnerable,"
+    publishedDateTime: 2021-11-16T16:16:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/mental-health/581721-new-study-says-facebook-and-instagram-harvesting"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/mental-health/581721-new-study-says-facebook-and-instagram-harvesting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/581721-new-study-says-facebook-and-instagram-harvesting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 44
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_facebookkids_istock.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Facebook misled lawmakers about teen ad targeting"
     excerpt: "A report from advocacy groups has shown that Facebook is still harvesting data from users under 18 for ad targeting purposes."
     publishedDateTime: 2021-11-16T15:11:00Z
@@ -66,6 +98,15 @@ related:
         width: 586
         height: 390
         isCached: true
+  - title: "Facebook is Still Surveilling Teens for Ads, Says Report"
+    excerpt: "According to new research by Fairplay, Global Action Plan, and Reset Australia, despite Facebook’s claim this summer that it would be limiting how companies may target children on its social media platforms,"
+    publishedDateTime: 2021-11-16T16:50:00Z
+    webUrl: "https://bestgamingpro.com/facebook-is-still-surveilling-teens-for-ads-says-report/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 4
 
 secured: "l3VfSc5qVOCcMHVDd3ntyEEibsRb5oby+6xekwQGTT4QPBZts5MHzhyYlo7kR85lL40PGtN7glYVj7ihixDvKkcpbrenrG6csaK1Pupt7CYqO3i7fllcOlnyX5ep+1zDqfqkd/GhOTflGldJ/iXcbd8dYxVyqAXKgO6X5tM7UtdYB0gA+gIzpCzjY3M8pEEYwQFG/bqT1C2vwhlKZiOLbQnv7D2zqwXMexwGYmk1Fr7kWtw3FtXMIGMD7FJvTLhZw63l9mJYwUwPFIa7D1bwztxCbGf+7y7pxTahmCHPZB6ZKS2k+UgGG3S7A1R07LON4jNGSpRey+Y6lE8Dd9Kz+p07dMn6rKheiE+6GGzdGAc=;nUN123W0qFvnGSm16fPj4Q=="
 ---

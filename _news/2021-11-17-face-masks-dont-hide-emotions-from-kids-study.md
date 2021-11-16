@@ -7,7 +7,7 @@ originalUrl: "https://medicalxpress.com/news/2021-11-masks-dont-emotions-kids.ht
 webUrl: "https://medicalxpress.com/news/2021-11-masks-dont-emotions-kids.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     height: 600
     isCached: true
 
-secured: "J2KZaeGvGv3vgJE7ipQhW/tjTdzDZ0UaI7XpbrDm0hyqa3pIpV5lKBZ2JWdn0ULy69jzu4Di8pfFssq+2dyqMTNTiTa+EKkfssS9KBsKnQNcNiNAjSFApR3A24o+GlBWI6nviTFxbdyjh7Xdscca19jXsO5zbBHqWfyzBpk/99MJuTLXQOx9jCsSqylj814eOLpV7J07O2MXOsB8w3uvhWgcoibWjcxtT5GAcXR2pNe2PAcU5t2noTBPUritstjrwf9EInfTP/+40HByhaZm7vsR0ZIFV833MELXiV50KG4gPZRG1zKhywvM+8AC4re58NvKvbr8izdSwdOyx6B4YooWAH1M1ahCkypBJWFNvtw=;DcvyLaa8CKAW5QcSWajadw=="
+related:
+  - title: "Face masks don't hide emotions from kids, study shows"
+    excerpt: "Children correctly identified actors' emotions whether they were wearing a mask or not, according to a new study."
+    publishedDateTime: 2021-11-16T17:10:00Z
+    webUrl: "https://www.upi.com/Health_News/2021/11/16/face-masks-emotions/9751637082785/"
+    ampWebUrl: "https://www.upi.com/amp/Health_News/2021/11/16/face-masks-emotions/9751637082785/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/11/16/face-masks-emotions/9751637082785/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9751637082785/2021/1/6cdef3154e0ac257a40fcee3c269d8f9/v1.5/Face-masks-dont-hide-emotions-from-kids-study-shows.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Little kids can likely read your emotions even when you wear a face mask, study finds"
+    excerpt: "Little kids can often tell how people are feeling, even if that person is wearing a face mask, a new study published Monday found."
+    publishedDateTime: 2021-11-16T04:35:00Z
+    webUrl: "https://localnews8.com/health/coronavirus/2021/11/15/little-kids-can-likely-read-your-emotions-even-when-you-wear-a-face-mask-study-finds-2/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 17
+    images:
+      - url: "https://localnews8.b-cdn.net/2021/11/hypatia-h_f45f5ef33eefb92c9821b49620dd2387-h_4e0cd02f01bfd43228db25aae6471db3-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+
+secured: "gHZH72uSqgvJwTTGS2XsfwkWMy7BX835VO/0TLNB/fiSMr8SUMeOfK9LdG/AdGfA5oZD3F5MKjuPSvEtgTQ0vqQalCDSOIXyottW3MkUe8r9vCcmLMVaZ4ko9mnZ9NyRsRbihR6PTkP5m0vKeVNSZ2OnrV+MPFPJaZX9GDWzarU9DaywKcUcS+XckwzG1mr2fffLsGyqP/74bvllAmkiWFzP5u6T8g79a4O+1gJuGzolVagSZurkM5/o01HYsjVmXuDMOH8USWS2qo5p+JUJqHfIV6DRM0cJyImjmaD2rnuGvebzZw15eDk8i5pxFMDRyl8dv7Y2Lb5qgzjVcepG4UUDxOZsYupx7Pzpobhifyet3jfCEAj6yvebQLJQ/k+xaJt6SL67GW40p5xK9SiODAg9qj8m/CdDGfqRMv60i2EPOhp0X4AP+xBZvTWx/IFizFAsTV84ZZ+vb724j8sHhqxtcHBMYKa5hgP2ABMMH+Sh18UxnDNd8cVvdfxPpYlBwbdxRlY2TaN1u6uPEYRwkg==;ENkxNEmMlQ8Rp/Z+NYm56A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 656
     isCached: true
+
+related:
+  - title: "How OfferFit uses self-learning AI to stop customer churn"
+    excerpt: "OfferFit, which announced $14 million in series A funding today, replaces standard manual A/B testing with an AI implementation."
+    publishedDateTime: 2021-11-16T16:00:00Z
+    webUrl: "https://venturebeat.com/2021/11/16/how-offerfit-uses-self-learning-ai-to-stop-customer-churn/"
+    ampWebUrl: "https://venturebeat.com/2021/11/16/how-offerfit-uses-self-learning-ai-to-stop-customer-churn/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/how-offerfit-uses-self-learning-ai-to-stop-customer-churn/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/reviews.GettyImages-1166997217-e1629221884117.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
 
 secured: "fAP7FtIMPVqZYtFjCkGoz9B2n03sL6qKcgsdamQlWldnvN1xSiZcla/TQIwRotlZNYAFvkHmOd6z6YAp5esyc0pwbjipcIM4s8TtP1wnmTXIHythLkd4SN8NugwPTWqgGihayRCpU0P956zjnyYikIBGeHnPZewKzdGU8Ll0hs87oTJnhzl+aeSQMJrt9Ow/XincN72bKjr0CcQ6Rz/rDpSE5hADkb7YwPUpwCF6wQIAmhNR8zS+Wrp5dT4dvSfh3Z1KnaQkvUqfXwWNN2ocoWOLeebTHEcfJVr1YCjR5MZ5YeGkTvMKhIUvei1nzBXDbK8+GW1NvaoLXz8STJW8SJM/kHMnKuiL7x5Zrkotmfo=;ETIX5EDXLm5A/PJbeJmqIg=="
 ---

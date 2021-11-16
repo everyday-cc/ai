@@ -1,0 +1,75 @@
+---
+category: news
+title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
+excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems.San Diego-based Qualcomm is the world's biggest supplier of chips for mobile phones but has been diversifying its business,"
+publishedDateTime: 2021-11-16T16:19:00Z
+originalUrl: "https://www.channelnewsasia.com/business/qualcomm-diversifying-mobile-phones-supply-chips-bmw-self-driving-cars-2317641"
+webUrl: "https://www.channelnewsasia.com/business/qualcomm-diversifying-mobile-phones-supply-chips-bmw-self-driving-cars-2317641"
+type: article
+quality: 17
+heat: -1
+published: false
+
+provider:
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--Ek6PsS0g--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-16t133230z_2_lynxmpehaf0kk_rtroptp_3_qualcomm-results.jpg?itok=_DslkeVi"
+    width: 1200
+    height: 676
+    isCached: true
+
+related:
+  - title: "Qualcomm to supply chips for BMW's self-driving cars"
+    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-16T13:52:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/articleshow/87741075.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/amp_articleshow/87741075.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/amp_articleshow/87741075.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87741075,imgsize-18838,width-800/87741075.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "BMW to use chips from Qualcomm for self-driving technology"
+    excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."
+    publishedDateTime: 2021-11-16T12:54:00Z
+    webUrl: "https://europe.autonews.com/suppliers/bmw-use-chips-qualcomm-self-driving-technology"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/P90423571_highRes_bmw-ix-advanced-driv%20%281%29.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "BMW is turning to Qualcomm to supply chips for the automaker's self-driving cars"
+    excerpt: "Qualcomm Inc said BMW will use its chips in its next-generation driver-assistance and self-driving systems. San Diego-based Qualcomm is the world's biggest supplier of chips for mobile phones but has been diversifying its business."
+    publishedDateTime: 2021-11-16T12:43:00Z
+    webUrl: "https://www.autonews.com/automakers-suppliers/why-bmw-tapping-qualcomm-supply-chips-german-automakers-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Bmw-concept-i4-new%20logo%20web_1.jpg?h=eaba4a42"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "+fkB8WWSqnW6HG3a3SBZIp+WSCalnVCW3QOgT4n/NsILNVwRR5Y070GBPcgDJRjBphM/niSZsCWOlgAC5FR1vddgIQp2RxGZfWsFnXdOq1u3PV/cIhxN3cm5coKh0ZqmzfLQwXuT+QS/w7aoK3Ir/Lt7lQmhV4Y17ITCj8B8idM07hPbM+FOY7wowG8hYY69eUtR+vVxkuoqUo3bK2D3AQ2DBe+rdIPdBK629FrczjfRGJdsavhLCDRUaJsarVMwlSztoA83s27h5so74If5+fI21Sx+NuDUcps+nhbBy+EkjNwLLZchmXLCNAsSIvR6JQgR8+Wvc+7rBvvqnj9FwYbwEIjtj48fi+0m1zatPHc=;NfLYFaaRvMy680oBGT9Hmw=="
+---
+

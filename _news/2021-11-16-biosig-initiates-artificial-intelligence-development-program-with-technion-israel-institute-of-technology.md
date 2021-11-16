@@ -35,7 +35,7 @@ related:
     provider:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
-    quality: 42
+    quality: 44
     images:
       - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_11/1200z740_1637077318_PURE-EP.png"
         width: 1200

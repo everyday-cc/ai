@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2459622/commerce-artificial-intelligence-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2459622/commerce-artificial-intelligence-market-to-eyewitness"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Construction Market is Set to See Revolutionary Growth in Decade Covid-19 Analysis | IBM, Microsoft"
+    excerpt: "Another exploration Titled Worldwide Artificial Intelligence in Construction 2019 Market Report gives the Professional and inside and out assessment of extent of momentum and future market and survey of Product Specification showcase pattern item type and creation investigation considering"
+    publishedDateTime: 2021-11-16T18:38:00Z
+    webUrl: "https://www.openpr.com/news/2464501/artificial-intelligence-in-construction-market-is-set-to-see"
+    ampWebUrl: "https://www.openpr.com/amp/2464501/artificial-intelligence-in-construction-market-is-set-to-see"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464501/artificial-intelligence-in-construction-market-is-set-to-see"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub16133934_g.jpg"
+        width: 780
+        height: 405
+        isCached: true
   - title: "Deep Learning in Machine Vision Market to Eyewitness Stunning Growth by 2027 Covid-19 Analysis | Cyth Systems Inc, MVTec Software GmbH"
     excerpt: "This Deep Learning in Machine Vision market report depicts the severe consequences of COVID 19 on many industry sectors The survey provides significant market growth data which is used to create this market report Face to face meetings telephone conversations"
     publishedDateTime: 2021-11-15T09:40:00Z
@@ -41,6 +57,20 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub15477073_g.jpg"
         width: 600
         height: 300
+        isCached: true
+  - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
+    excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain managementCloud-based infrastructure and collaboration to improve speed and efficiency across business operationsDigit"
+    publishedDateTime: 2021-11-16T13:00:00Z
+    webUrl: "https://www.goskagit.com/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_f7304be8-4535-560e-8883-7566f1791b5d.html"
+    type: article
+    provider:
+      name: Skagit Valley Herald
+      domain: goskagit.com
+    quality: 26
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/d/1b/d1bed73a-a23d-546e-9daa-b36addead8b9/6193bd50c4dff.image.jpg?resize=800%2C566"
+        width: 800
+        height: 566
         isCached: true
 
 secured: "R4sjSVUEXe8IbNAAb1G2PMrqt9VuVe5fai3OliFpliS+hOSH8elqzP4IWscqZRUOx/tm63FVXgKaVoXooQhzMtEWZtWbjrSumlWokgGa7tCCaIawzJ3E8NE+ql1ZGadUinJ0viMutNiahj450kqxdXnpDYyOzfZuL5j1uSaBLzff1AxWxx3ZXolzeOCNHVVATlhviAbLMZqahJUY3An3oDRRIEaOQOxuHo8ySrmR3Bh7E1Nb6FogE/YT71NV28t72hEMg67qncesAmH0HY83cB8ZPqXjaiwnyrV0HeyPK2Wi9yi3A5GVuNXezO1mEGlxNJaslyBoUpcXM0wJH7t64o4NVySp+oO15HGKOiW7vZo=;fgI3XoNa33MJjWjq1QLLzw=="

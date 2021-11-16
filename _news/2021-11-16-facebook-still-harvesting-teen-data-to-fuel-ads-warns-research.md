@@ -41,6 +41,38 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facebook still harvesting teen data to fuel ads, warns research"
+    excerpt: "Despite announcing changes to its advertising rules for children in July this year, Facebook (now called Meta) is still tracking and harvesting children`s personal data to fuel their advertising delivery system,"
+    publishedDateTime: 2021-11-16T17:53:00Z
+    webUrl: "https://www.wionews.com/science/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-429863"
+    ampWebUrl: "https://www.wionews.com/science/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-429863/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-429863/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 44
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/11/02/219700-fb1111.JPG"
+        width: 918
+        height: 506
+        isCached: true
+  - title: "New study says Facebook and Instagram harvesting data about children"
+    excerpt: "This practice is especially concerning, given ‘optimisation’ might mean weight loss ads served to teens with emerging eating disorders or an ad being served when, for instance, a teen’s mood suggests they are particularly vulnerable,"
+    publishedDateTime: 2021-11-16T16:16:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/mental-health/581721-new-study-says-facebook-and-instagram-harvesting"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/mental-health/581721-new-study-says-facebook-and-instagram-harvesting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/581721-new-study-says-facebook-and-instagram-harvesting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 44
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_facebookkids_istock.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "New Facebook Product for Financial Advertisers"
     excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
     publishedDateTime: 2021-11-12T09:39:00Z
@@ -66,6 +98,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 24
+  - title: "Facebook is Still Surveilling Teens for Ads, Says Report"
+    excerpt: "According to new research by Fairplay, Global Action Plan, and Reset Australia, despite Facebook’s claim this summer that it would be limiting how companies may target children on its social media platforms,"
+    publishedDateTime: 2021-11-16T16:50:00Z
+    webUrl: "https://bestgamingpro.com/facebook-is-still-surveilling-teens-for-ads-says-report/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 4
 
 secured: "fpskwtab9ZUGGgSESLMYP4wmDqsqG/ja8M0DDGQSMZmFHA7wkNf6vB3tZuzl1vDth2Hh3Ry9ZhLBtR4o49FBE++TqvQUEbcV0PnG0LaSoOx6a/hW665eXByKJ40IjQQSuTyq8XxFYx7sLhuBr8HVfrKz2vFRRO2/GD3pGpLDRXEBe6BfpUuPgivMOkS4HmQLQ6qMg8ltInO+eqTpADdib+LXmWIeVmX/VDwLqcrg48Rp403SWfHV7kAQP/KGoT0kMvxt++BxGBLcBs9+joI9mg6d6T8gxBF6R+nN0BIjXo08358oFkTvjBgW+t/+bc3NjstrSXroTZUedXLiOhbVJE3M3pFsx5pPKwSRwa6zbGs=;UR44TXobyv2L8F33PY9Z5w=="
 ---

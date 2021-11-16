@@ -8,8 +8,8 @@ webUrl: "https://www.proactiveinvestors.com/companies/news/966415/biosig-technol
 ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/966415"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/966415"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_11/1200z740_1637077318_PURE-EP.png"
@@ -41,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Wv06g3QCRR1soMLimxzQ0usVnxpYELoSMABgaHjTIQR57Ne5S6t4ryhstLa6mplOCQ6ABSQWtDWP5w7Sj7GA97jtwcHL2dbrMEG55CzFm+j4Dr7B5hsQjEz2eGYM/8TjfGxoyAqV9R6vMQUA+kmxh3jMRcsTXpUOESdhUCLSYfhLe9r6l2yHHA7GLUxEx48pD9PiL4B3PUbOLSsCKKW089CHjZ23fceyJam30i1iOU3psFrbqKDgrA0p3o2h+ht+kuVlZ1jxJvsjoZLbWcLrmxxue8n3tLerYV3UfBq5wyIWKgSGNTcPJODhGT1neASaY5sFRFclG3dWwmq5pganWIhqbmab/surM5TGbjYLUb8=;h3OPQHevpawGoTySZV5mLw=="
+secured: "LDTeTSOXDPqDWL8pomp2hKNse5kRHj8NOBZc+Xv/cz6BFyOv5nPn0CGHEeSxtjenXGpfAIzN4r2Ca3fhI+hkSUaJEdo4D8YQ2YNFjcgHBQ12QT+KnmkoyD3MDqtYtQaQDOVdY8zAu++f6AZbZcUXcFMYdtWozrYskGcHOzRnqyykYIlxb3LF6UJyxCFlFSCLffnmkWdRGmgeuPUQka3Pw9h6UCVy0ir5Ufpz7WB3Ywkqk3ZDszUb3GovXXSW3XVVuqA9tA2wLUKesZTsGSwm+YVN9hhoJLkDyubwKf7S0m9F9Z3hR1pVJ/QNhsxaZ7ohcuoeGBCkKY2g4dz/guI781J7rZnNDX6yKck10HRKy0aMlQDpJY1LgS8DrXdmRF0DkF8YJzuirk4WepSDfnEAMccXp4XaujNKSpLeM686xQlZqb80+ywDNyqhctDjDtgRez1FVyObCCK1kL/rtjLMAf71Tx8Fs0EOB/2fU8viHMd6VqkvpPR8MjXmzTPnklivBKkBixDGntcZQvK1iRtOsw==;4J3cAa8yc+sNFLbf3UuTVQ=="
 ---
 
