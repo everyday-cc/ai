@@ -88,20 +88,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities industries"
-    excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
-    publishedDateTime: 2021-11-11T14:01:00Z
-    webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
-    type: article
-    provider:
-      name: Energy Live News
-      domain: energylivenews.com
-    quality: 54
-    images:
-      - url: "https://www.energylivenews.com/wp-content/uploads/2018/05/robotic-arm.jpg"
-        width: 720
-        height: 412
-        isCached: true
   - title: "BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform"
     excerpt: "BigBear.ai, a leading provider of artificial intelligence, machine learning, big data analytics, and cyber solutions, and Palantir Technologies Inc. , a software company that builds enterprise data platforms for use by organizations with complex"
     publishedDateTime: 2021-11-15T12:12:00Z

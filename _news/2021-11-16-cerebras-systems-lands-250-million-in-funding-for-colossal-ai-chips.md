@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21180987/electronic-design-cerebras-systems-lands-250-million-in-funding-for-colossal-ai-chips"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The Funded: The maker of a dinner plate-sized AI chip raised $250M in new funding"
+    excerpt: "A local chipmaker now has some big bucks to boost its planned global expansion Cerebras Systems Inc., which is developing chips for artificial intelligence, announced Thursday it raised $250 million in Series F funding."
+    publishedDateTime: 2021-11-12T19:28:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/12/the-funded-ai-chipmaker-cerebas-raises-250-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 29
 
 secured: "lA750lzJdPNnajFn2oSRpBDtux1LBeE+CCFzXbTj7FZLLMS6veJlmtJQm0hwfahJgaO1pk2z4xjh92t/h2SfI5NwvhVRDC9lU7HARs3PZoWIosly4vsElgsq9BddLUwJqbrqAgb7LdecJUSAYxJ1sjifEI4QtAz1JOxtY/sRfz0eb+Ma79dAUPh88HUKMAfZtTC2vBfRgxzyS+C79OfXNCp46pvtxR8OlFqhnAV1DS4FTnLmRYlJW8VF+l/W8bX4/S8i8KU9CTWwwCxvsb0GUEy+1ml/g7KzVVz4u2mjOz9Acb7IVUyup/cs13tQMRRe/KagJ83XiYuzQMIQ9DMMv/S9/PYVHyOvERF9Y9OcNdBSh0dgYKLRYTVRH6elk0/xCkbr7uQMjMxN1tqmA/8cROVIraDv/9VHrSVT35bb7G4JcsuL29qfqZa8uH9jWyllmfgu4ywEd9M11OgZxaYg6lbmbZiiKSFu1VxJvHr/v4yI/R/HLVFKeGlnFCWekV2xM8S77OY1AdscXgVaT8vb5Q==;Zf8WhVTNgOvK6EUiFtqDAg=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -202,7 +202,7 @@
       "originalUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -438,33 +438,24 @@
     {
       "path": "_news/2021-11-11-standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous-retail.md",
       "title": "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail",
-      "excerpt": "Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based computer vision company, ThirdEye Labs (“ThirdEye”); and added Sameer Qureshi, who joins from ...",
+      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f",
+      "webUrl": "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail",
+      "originalUrl": "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T09:02:00-08:00",
+      "publishedDateTime": "2021-11-10T09:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -610,20 +601,20 @@
     },
     {
       "path": "_news/2021-11-09-popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan.md",
-      "title": "PopID and SoftBank’s Japan Computer Vision Partner to Launch PopPay In Japan",
-      "excerpt": "PASADENA, Calif. & TOKYO–(BUSINESS WIRE)–PopID, Japan Computer Vision (“JCV”, a subsidiary of SoftBank Corp), and Wendy’s First Kitchen (“WFK”) announced today the launch of PopPay – PopID’s face-recognition-based ordering and payment ...",
+      "title": "PopID and SoftBank's Japan Computer Vision Partner to Launch PopPay In Japan",
+      "excerpt": "Wendy's First Kitchen is First QSR Chain in Japan to Accept Face Pay PopID, Japan Computer Vision (\"JCV\", a subsidiary of SoftBank Corp), and Wendy's First Kitchen (\"WFK\") announced today the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.01net.it/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan/",
-      "originalUrl": "https://www.01net.it/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan/",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b23972605/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -631,13 +622,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.01net.it/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan/amp/",
-      "publishedDateTime": "2021-11-08T21:59:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23972605",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23972605",
+      "publishedDateTime": "2021-11-08T20:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

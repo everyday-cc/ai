@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "OTP Bank Selects SambaNova Systems to Build Europe's Fastest AI Supercomputer"
-    excerpt: "SambaNova Systems, the company building the industry's most advanced software, hardware and solutions to run artificial intelligence (AI) applications, and OTP Group, the leading banking group in Central and Eastern Europe (CEE),"
-    publishedDateTime: 2021-11-11T13:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-otp-bank-selects-sambanova-systems-build-europes-fastest-/2021/11/11/9490191.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
 
 secured: "13YI6Br/JxhPDfS+lC4O4ug4wbmUzrRv9xhhN2hALVVf0RgvZda/lwEq3eSxcKg/soYYOwtFjD/6pfL65HN8nL4qEcA+k6hASqV8U0SuOo1Btw+iZqgHTgxPmAzNPcvmS7xBggk+90QXmV2bBqNCUeNjvn4oESETHHB7dE3Af7H4Si4AucBjlmq02LN6lQmti9oxqoE/74GJ15vsDHwpv4KsFZskdh5z9QYQzMSGthAAkIEMZOfXKLKCv0CqKO2YRa78khhS6mxZIuOZBmetT8GEfg4cptjRgZ5fyhxc+nhVpb3mD3rMgGx/2DQ5ekE5PAQWeQW8NsxNPeGLqr38nYapDmlEpez75/J2nHb/dqI=;2gnomJw57PjFEy5KPNgQsg=="
 ---

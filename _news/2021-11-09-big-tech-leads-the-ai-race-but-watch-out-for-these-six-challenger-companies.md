@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/leaders.jpg"
@@ -21,6 +22,6 @@ images:
     height: 934
     isCached: true
 
-secured: "YoJBsxc1c1XkTConSA2DtlSOANkDIbqsjAZMzGt8tIL9P0tNbmAijewf70zFZ3qgBn83/t7FiqGaZ9G2++FMpn/4G8VxoSgaDimEki4xbfehsUuAsF5sjMPmaAJd3yQrrpIzr3GOWuSu2dL0/vxDdeu5BpvznJWaW5JWE2pZ8EL11qGcf4flTA2VIiX3deQz6ZgmoxS18+UnT4trR1T+GM1ohZoXkwvAEO+cmWOPGyZH7YZ6htepKW8yzQOd3NNrYq6q+ZNy8uhCCEweXCNCoaC6R2Kzn9YJKJEmbhpkKZHAguKiWtaU+qQ/s5MvlTlnfrqu/BzM82/+a2dUj57BiLNTQ5Xu8/s7CrkT/1/1IDA=;Z5HJHg8NcBE92sEU5uN0bA=="
+secured: "UUUZXgNapeqTFBLFdVFo8GYYDwPFB2nDELw92SwO7S+k0o7mcYZw4LHpcQxhIF8VLpAbMcPPehnNanVf9FPNIPIrGKUrDjiGaD+nV60rqdMiPi50Yk9eo/m4Hkges9ODexQwGdENMHgw+WioypilEhvWACSoJiF+yV5D3kZE+Pn6bql/I+9HrhCeBx0GM+WDE3QZuHoU6jeth9/J/7l8+khQiWoG9L/r+WJac18+l75SuhOwFXtAdJQG6Ceh4tL98oAZLHiMYjVcPg2FhjraQBuXG8/RIm7mB1qv9mgDyZ3MaOH0BDIodU6ddJI9xD0QGAd8KukZSQza64VvCqMCl9cMH3CbYxTtEYlMrGDLLkV3Mqpym5OJ89S6sEnBOZc1XVaVEtk0nE7KA9pKYdUUg2rLCpMmJNKWaOlfFTQTFSL7aqipX20OrF1zSAWdy4uEkilCVu4+Z3VsvwuSKsbfvLIKBaKl7qeQ/1nZ0Wi0GpPM/Ljmh58K6DCVypTzKdJIWIfqlIvg8i04ImFYmgap8g==;ivCKjSu0A77pzX2jw1tCKw=="
 ---
 

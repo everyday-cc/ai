@@ -7,7 +7,7 @@ originalUrl: "https://www.kpbs.org/news/local/2021/11/12/california-women-vetera
 webUrl: "https://www.kpbs.org/news/local/2021/11/12/california-women-veterans-fighting-for-recognition-with-license-plate"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot Flips Burgers for California Restaurant Better Than a Human"
-    excerpt: "In fact, one California burger restaurant has hired a machine named Flippy to cook its patties. CaliBurger in Pasadena has a robotic arm doing the flipping in its kitchen. According to a report from KTLA,"
-    publishedDateTime: 2021-11-11T13:37:00Z
-    webUrl: "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 69
-    images:
-      - url: "https://d.newsweek.com/en/full/45685/0cachedpng.png"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Within Health Launches First-Ever Digitally Native Eating Disorder Treatment Company Revolutionizing Patient Access in California"
     excerpt: "Health-tech startup Within Health announced today that it has launched operations in California, becoming the first comprehensive, virtual treatment s"
     publishedDateTime: 2021-11-15T21:30:00Z

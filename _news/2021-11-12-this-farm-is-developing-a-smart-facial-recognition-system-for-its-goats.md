@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1"
 type: article
 quality: 88
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/11/13/w600X390/pri.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "Facebook is shutting down its facial recognition software"
-    excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-    publishedDateTime: 2021-11-11T14:59:00Z
-    webUrl: "https://www.channel3000.com/i/facebook-is-shutting-down-its-facial-recognition-software/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/11/o/g/9c3f8e10450ee7728627c50a15d71b0ed0d4e27c.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "xprws51/7TcSISDG/PHip8kIajOmyWgA/fUa/0/206RZyH03gbINUzr7sH4uDCWfYeT4NL2J3Aw+qhoEbmAGS7fCX6ZfUV7leIfuYLKsYQsCIYEk0GZn5Tkal9pLRbiC0ap6MUqgGq0EhGgEJJ9ANpeRKdNWWxrpXgAiXyX8RIlguaX3uwt01JDpDQ6tJVYgH+KjWbiTLEMh2idooqzT7YOPrfmDrO5upeJqcxdOyUPOyYNC9CFiyD/47QSD0TtTc207OShYcQgiHuwrX8725aUX3eujP4b2oi7VE6BIRNt3F6d7dODxzSaCKI3FwBIXCnKbAUegMncd7MFScQQ91oQiX30JYhDAKr/fNAe6ogByqK9XV+krjf2z82vCGmBNmtnyZ8z4SK01ArDDKjd8dziKOY3nfTMlVGuV6zBx5/FgU+Y/CwLMUE1M/G99O/Nt4Jpkd9Ww0sZuBWELtp5K/BKv7FBFU2+7u7D4HmhfnEPkgKYmvkT9m6fZthYDg83yFisyBCj2xddPtlU8zmtBkQ==;JLIoiruJ5f36A7f9s31dmA=="

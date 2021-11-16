@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
 type: article
 quality: 119
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/finserv%20ai%20web%20hero.jpg?itok=YnLL7cQC"
         width: 1440
         height: 500
-        isCached: true
-  - title: "The future starts with AI: AI, Automation & Robotics are safeguarding energy and utilities industries"
-    excerpt: "While the Energy and Utilities industries may not seem like the most obvious places to look when it comes to automation, robotics and artificial intelligence, they are actually some of the biggest potential adopters of these technologies."
-    publishedDateTime: 2021-11-11T14:01:00Z
-    webUrl: "https://www.energylivenews.com/2021/11/08/the-future-is-now-automation-robotics-ai-are-safeguarding-energy-and-utilities-industries/"
-    type: article
-    provider:
-      name: Energy Live News
-      domain: energylivenews.com
-    quality: 54
-    images:
-      - url: "https://www.energylivenews.com/wp-content/uploads/2018/05/robotic-arm.jpg"
-        width: 720
-        height: 412
         isCached: true
   - title: "Collaboration Brings AI for IoT to Smart Homes"
     excerpt: "Infineon Technologies has announced the company has collaborated with Picovoice to jointly develop an end-to-end voice platform that brings voice AI to edge devices. This collaboration enables smart voice solutions in ultra-low power IoT devices using ..."

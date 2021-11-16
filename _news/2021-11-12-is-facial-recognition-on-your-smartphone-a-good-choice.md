@@ -107,20 +107,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Facebook is shutting down its facial recognition software"
-    excerpt: "Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users."
-    publishedDateTime: 2021-11-11T14:59:00Z
-    webUrl: "https://www.channel3000.com/i/facebook-is-shutting-down-its-facial-recognition-software/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/11/o/g/9c3f8e10450ee7728627c50a15d71b0ed0d4e27c.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "+l1TXSKbtv9Dlc3Os40Dl840luGGIM16nHCgArwuCLwBzz1qF7ErM320DYctEMuA3+z18vgRZhdpJ4Q8ZogKDX6suv5UogtQ+bKSsQMFmLrXx0A/fnJeRfKDzWXTusd0CNCAh8nLpRymoSgB8CsDOMT9JZvkzWEipzz+TqJ/ROYS49VMS3Kc6Q1dEIVqqLSElQUo7kP84JRET+mymXGV5sRkVv4LdFWqV7Eu53mUGX7je8vcycE/J8tSRIG2p4fbuzyvYhM+Zy5Y+sdgwbJqL1uhR1QnYbstgvekSvJtTxn0EyLdOynaOU8WmLH7mYXhnXkq9lzsV3l+GtT4xmfcKWOFNhzh+MvW6YL0cRJ/FdXgh6gcTTFxh1yossvHFmI5/l/ZHK60ZPXWCi/NOgNWk/mIhVeYw/bgaeNQu0edErwNPxtvUTJoF1T0p4nXDJFVsx72cUXRIHqJMMQVW5uDlfh6uuSEYq3cmp80VKG9bOVxaNztQr17GPegtCEqHH4F0f6LfQaromW2ynwk8iwYuw==;QKSRyyaeAJDSlWWz1H9TXg=="
 ---

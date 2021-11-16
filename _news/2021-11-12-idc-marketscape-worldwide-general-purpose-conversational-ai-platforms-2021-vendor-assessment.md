@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/idc-marketscape-worldwide-general-purpose-conversational-ai-platforms-2021-vendor-assessment/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -23,22 +23,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-related:
-  - title: "Artificial Intelligence Platforms Market size to increase by"
-    excerpt: "North America is the largest market for artificial intelligence platforms. The high adoption of AI across various industries such as banking and retail, increasing investments in emerging technologies,"
-    publishedDateTime: 2021-11-11T13:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-size-increase-usd-1729-/2021/11/11/9490033.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1684510/Artificial_Intelligence_Platforms_Infographic.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "rr4aLxPyVuQPQJMkVdGmNiEHV7Z+j+/fv8j0k8D/hHOFFKJzZvMf7D05FxDautNk67bWBK1/6xOYPtPZn5NdmNmUIsWiNsu7YisMgfG4gB7bHQ8T3X8zUm59r/ICqQQ6TCJgas/182T5z8NGLn3ulHr9fIFsSgRkvwkmUGnTz8WkSWPhxbaYaS06I1PSmRB4+IUVNuNcDFAAZZv2/r5rr7iGw+5FsY/Mq6QeSQRvWZTjabuqTcizqMQlXIKbvvc7LyBTaC+OiQ/2/0c4ZgJfYL81grtzvV5CNaI12Jg267seCGUwrvviOv80WwicCPqk6Y619fGbCpb8O22UTx6h1o3aPYuDysro+xuM6G455HU=;Xeq1E6++wC1Acrb/aWf2VQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/sambanova-is-enabling-disru
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 750
         height: 394
         isCached: true
-  - title: "OTP Bank Selects SambaNova Systems to Build Europe's Fastest AI Supercomputer"
-    excerpt: "SambaNova Systems, the company building the industry's most advanced software, hardware and solutions to run artificial intelligence (AI) applications, and OTP Group, the leading banking group in Central and Eastern Europe (CEE),"
-    publishedDateTime: 2021-11-11T13:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-otp-bank-selects-sambanova-systems-build-europes-fastest-/2021/11/11/9490191.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
 
 secured: "DgJikO0F2xC+xjf0gN8De+TMtQt3tI+TZWgIBbTEHGLtiT9tVddfKyQRXMhd2X4+kjlSiSLT5tZfnHOD4GMdHvUPG3S9aSHUUgsUoeunRK0GZbphpC61SWDK+hAzI4ptceKfz/JGjRiYY/gOn9a3OtXQ8hww9oTHakY0rdUGXnvIAP9y0MI4Y/JAJSK4IKHLHxpB2kLvwss6bWlWCFKyGBkEhEMmYm67M75KxJU7+0KUr51lX2K332Y7HGqbwhcyoTN191mu/x8O1cRrf2w5XWFPlxByV4VCMJ1JfTQb3j/Mq/8TpbZOU2MAIwYAO7uTh8Znvxa9gZ8JJEn5r99zkpBsgGRFh+kzMymzTE8br0QLsQz+mlZWqV9nVAvoXnWmWX3DwW+oKDL8AFWrLirdwSxahVOk0I2fWAz6ds2xjOUvFbzWo6VFpB+h8jH0GA4w2nKnMQyx1BQA1phOjvQ7n6T0U23/vkPPOmXS9LurTnLEDd+PtE2BLAaJp13Z5XzoBX05LdIYJ/xUpoP3LBOicA==;yVTTuFW2a8DoVOhZWSLBqg=="
 ---

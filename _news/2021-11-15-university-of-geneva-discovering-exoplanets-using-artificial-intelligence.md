@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-geneva-discovering-exop
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/364745f9-0aa9-4dd0-a5e3-48af5e6391e5/Rendition/thumbnail/Content/Public"
         width: 300
         height: 226
+        isCached: true
+  - title: "Building a Community of AI Enthusiasts"
+    excerpt: "Sergio Servantez talks about the AI@NU Graduate Student Group and how students in Northwestern Engineering's Master of Science in Artificial Intelligence (MSAI) program and across the university can benefit from its formation."
+    publishedDateTime: 2021-11-16T05:34:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/building-a-community-of-ai-enthusiasts.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 37
+    images:
+      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/building-a-community-of-ai-enthusiasts-1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "2kNL5dekmXAlmwtNpbSF1f2IdjBUqk3UXthU2w82P9mYkC5rPNvfNuy2zrWOlCSNYTtj30+Zp8Tfl3ZfMCGjtTEKgL/d2eDNVZqWgzJioqFPqoxF7CxAbOsh5olNGcCK2fLBghRNXW3wLFk+Lw/gIedlfKsWMbvaQ/lly0/bJTcFXw8rdPDSQDwkwoBTEWiMaXuaCiPGV7Dl0wCgbgC+wzstust4muufz5pvEjQ2M6B21O1h9o7HhRDCO2jqhW2xUc+AtnoPezVIED1OOdgUccHZpdD1TbO0WILGXBfJ9XtQFb6XgMTQ07kAzij37K1DNUpGxxII5J0OpW1p5/PvsnjaLkdQz9VYhG8Bb6fBVwY=;UoMWkWEQDWFJnVTsmmJEpg=="

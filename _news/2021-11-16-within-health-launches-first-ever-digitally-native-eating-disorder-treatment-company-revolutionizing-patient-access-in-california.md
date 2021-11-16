@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Robot Flips Burgers for California Restaurant Better Than a Human"
-    excerpt: "In fact, one California burger restaurant has hired a machine named Flippy to cook its patties. CaliBurger in Pasadena has a robotic arm doing the flipping in its kitchen. According to a report from KTLA,"
-    publishedDateTime: 2021-11-11T13:37:00Z
-    webUrl: "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 69
-    images:
-      - url: "https://d.newsweek.com/en/full/45685/0cachedpng.png"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "California women veterans fighting for recognition with license plate"
     excerpt: "California is on the verge of having a license plate dedicated specifically to female veterans. Advocates say it would be more than just symbolism."
     publishedDateTime: 2021-11-12T20:09:00Z
