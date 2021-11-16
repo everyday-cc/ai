@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "AInsights"
   url: "https://twitter.com/AInsights"
-  followers: 4615
+  followers: 4614
 
 size: 51-200 employees
 yearFounded: 2007
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ziizj6u1f6M"
 
-secured: "n1njHzH8hBF7++LsDHRtTeVvKuJP2+qA9XfUtKjswO+ohG0k13Dr6Kraj6Kxq/NXnlUt9S0sQZVKdYyzlfxWYserI12192FU5Yjwgn/aikS8bKTm9UHYWSVAZ74t1l0qicHqr64bj+fPQqJTy2b3Ab2zWOCMsTHrPiBUbdbXe60aEQ6Vb4lIkkvs/Ho/29+S/DZe0lnACUv3MtfbS03xyTmCwEcMKeaYEM8gzi+tZ8XRbRC6TlHvp+kfk31u0uPPA7uw4QV86ChK267Jjh4GNtAPwYO5KY6FhtPdQMZvwtBUgGK1q4T7vQ0q2qymY0EFxzdBp3AR1a9SK+z3fxFA6liy1MVx7Q1ZnDxK2PzGBjKsZVW83SaOIVcacvckvBRFxix+567dNQxH/Hgq+GqGdLnwoZGUnMgLzLjdvmbyVaU=;dPoo3KOOfItCfYf/k9twvA=="
+secured: "8AJQr3gWBJFI8eQUk1VwhVBY3xIyQWL72CrV8MSn9gCz3MVW1glcZylJxSVU/bIurxRytReAVorOLZmOUXzyMRXFD4mmZUlfBFiG4lc5gTGpVS88pDVw8ARsUtb/lRVCiMo7a0YAGGIiaFXA0M1LOnpdGlRbeAloZvhvbMFOfAJmY+DPweOzDIz2YdTQBwuELEpd7WReW2XVAGyDnBRVMKi/Ca0bBvSMAeXj1XrVqB617gb8swc99SYnQ56P+SlMgaoLrQHxphH/cJRNuEpNxQPL/22xsAkIXQU1oedIlJgl+EqFW32QhSmhS6tf1PAuaor+m44JzkzUGxg3vCOO8f3Q2GiMCmTaT7fYnHNpX2X3hZp5WSob/LXYvRcgOdexx7kFAf6J8tPfdMWcVTkXvEEZA6coLlsUx/62+Nrdeq4=;17VJuaZDc7QVOcurzd96SQ=="
 ---
 
