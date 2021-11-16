@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Samsung Accelerated Company OMNIOUS.AI Officially Launched in the US Market with Nationwide Fashion Technology Mentorship Series"
+    excerpt: "Accelerated, hyper-personalized-visual AI solutions developer for fashion retailers — officially announced their US launch today by initiating the National Fashion Technology Mentorship Series. The program is focused on educating entrepreneurs and retail communities on how to navigate the technologically evolving fashion industry."
+    publishedDateTime: 2021-11-16T13:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-samsung-accelerated-company-omniousai-officially-launched-the-us-/2021/11/16/9493212.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "MrJyG9cMX1n8fxKwkLYj91IupWqfLNVR+g17KCZzVieQQEkXCr8O0RqjbbESj8EIiN2YDuFxTGbJEj4S/8TdtUyIFyGGD8KMIzGS7xIbOHbBYmcWWKiWQELhD1RWnWUNtI563456FjdJuZ8gE68hkAKbkunYUMOZ61XG4rCIhMdV5IiIuZjlrjBYjD1KvnEa8S8xiYMFezujS4omR0Nl5yon5PrCHFkNPz40K112UktxuUCIn3HIqflCqVItJiXPL72xvkfDArm8BmKuoEsZTVVUklaRjmEFLU5ME49m77DcWYTKmKGpqa+baZel42ObBlPaS9ih/mgQjzbqOcCddSGsFNcQt2BCmS4GCiZwbN9X+tQdbbmYs7fwJbMfz1Hvnc2EyA77XrqLQNO/kDDA0kycqOuT57YHAL8V2Jgd6qajr51uipxyg+OMug7g06qko4KBbMhooMfrCWslBvxPDp2PhVh9/fZs6VJADjzdE1RCzfi3fPDtFh0XF4dCk2zcSPTx2XXdU2r8TD19oN6Aug==;oZMq0mkcuXM56RffAQ8LaQ=="
 ---

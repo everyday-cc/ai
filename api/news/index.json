@@ -2,6 +2,212 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-16-justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai.md",
+      "title": "Justt emerges from stealth with $70M to fight chargeback fraud with AI",
+      "excerpt": "Justt, a startup developing a platform to fight chargeback with AI, has emerged from stealth with $70 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/alexander-mils-lCPhGxs7pww-unsplash-e1629134618323.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/amp/",
+      "publishedDateTime": "2021-11-16T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-noteable-expands-analytics-tools-for-programming-with-new-21m.md",
+      "title": "Noteable expands analytics tools for programming with new $21M",
+      "excerpt": "Noteable, a startup developing tools for data analytics and organization, has raised $21 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1318171140.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/",
+      "publishedDateTime": "2021-11-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment.md",
+      "title": "SVT Robotics nabs $25M to simplify industrial robotics deployment",
+      "excerpt": "SVT Robotics, a company developing products to automate robotics deployment, has raised $25 million in a funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1309328951-e1631103778206.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/amp/",
+      "publishedDateTime": "2021-11-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem.md",
+      "title": "Bringing AI To A/B: OfferFit’s Founders Solve A MarTech Problem",
+      "excerpt": "This idea of automated AI-driven experimentation is something that every single large company in the world needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/",
+      "originalUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192a35c0a9b64037c834d26%2F0x0.jpg",
+          "width": 1200,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/",
+      "publishedDateTime": "2021-11-16T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder.md",
       "title": "Fintech leader joins document-to-data startup IN-D.AI as Co-founder",
       "excerpt": "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO.",
@@ -10,7 +216,7 @@
       "originalUrl": "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -40,7 +246,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -97,6 +304,57 @@
       ]
     },
     {
+      "path": "_news/2021-11-16-how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility.md",
+      "title": "How AI Has Transformed The Internet: From E-Commerce To Web Accessibility",
+      "excerpt": "Web accessibility solutions are using AI to simplify the traditional manual method of adjusting websites one-by-one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192668543a4f13437c964ad%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/amp/",
+      "publishedDateTime": "2021-11-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-facebook-accused-of-continuing-to-surveil-teens-for-ad-targeting.md",
       "title": "Facebook accused of continuing to surveil teens for ad targeting",
       "excerpt": "The adtech giant formerly known as Facebook is still tracking teens for ad targeting on its social media platforms, according to new research by Fairplay, Global Action Plan and Reset Australia — apparently contradicting Facebook’s announcement this summer when the tech giant claimed",
@@ -105,7 +363,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/16/facebook-accused-of-still-targeting-teens-with-ads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -295,57 +553,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-16-justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai.md",
-      "title": "Justt comes out of stealth with $70M in funding to help online merchants fight false chargebacks with AI",
-      "excerpt": "Justt, a Tel Aviv-based chargeback mitigation startup, is emerging out of stealth today with $70 million in total funding. Founded in February 2020 by Roenen Ben-Ami and Ofir Tahor, Justt says it fully automates chargeback disputes on behalf of online merchants.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/",
-      "originalUrl": "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Justt-product-screeshot-1.jpg?w=680",
-          "width": 680,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/",
-      "publishedDateTime": "2021-11-16T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-16-dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution.md",
       "title": "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution",
       "excerpt": "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level",
@@ -354,7 +561,7 @@
       "originalUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -729,6 +936,48 @@
       ]
     },
     {
+      "path": "_news/2021-11-16-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs.md",
+      "title": "AI can quickly identify structure of drugs designed for legal highs",
+      "excerpt": "Artificial intelligence can quickly identify the chemical structure of new drugs that have similar effects to substances such as cocaine and heroin, but have been designed to evade detection by existi",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2297611-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs/",
+      "originalUrl": "https://www.newscientist.com/article/2297611-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/11/15154701/PRI_210388506.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2297611-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2297611-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs/amp/",
+      "publishedDateTime": "2021-11-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-openai-rival-cohere-launches-language-model-api.md",
       "title": "OpenAI rival Cohere launches language model API",
       "excerpt": "Cohere, a startup creating large language models to rival those from OpenAI and AI2Labs, today announced the general availability of its commercial platform for app and service development. Through an API,",
@@ -777,6 +1026,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-honda-tests-prototype-autonomous-work-vehicle-at-solar-construction-site-with-black-veatch.md",
+      "title": "Honda Tests Prototype Autonomous Work Vehicle at Solar Construction Site with Black & Veatch",
+      "excerpt": "TORRANCE, Calif. and OVERLAND PARK, Kan., Nov. 15, 2021 /PRNewswire/ -- Honda and Black & Veatch have successfully tested the prototype Honda",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/honda-tests-prototype-autonomous-work-vehicle-at-solar-construction-site-with-black--veatch-301423487.html",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/honda-tests-prototype-autonomous-work-vehicle-at-solar-construction-site-with-black-veatch-1030976674",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1687569/Honda_work_vehicle2.jpg?w=400",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -933,300 +1233,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help.md",
-      "title": "Microsoft Teams: If your video meeting is laggy, our AI might be able to help",
-      "excerpt": "Microsoft details how its artificial intelligence allows for better video meetings, even on bandwidth-constrained networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e683aa03ba74a7aeb58f9976bd08489e193044fa/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/",
-      "publishedDateTime": "2021-11-15T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh.md",
-      "title": "AI Start-Up Gives Sustainable Wastewater Management A High-Tech Refresh",
-      "excerpt": "In Australia, start-up Streamwise D.I. has developed an AI-powered intelligence platform providing industrial-grade digitisation for wastewater treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617bf94ef9a8f6bf5e543092%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/amp/",
-      "publishedDateTime": "2021-11-15T04:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-ai-driven-background-check-startup-intelligo-raises-22m.md",
-      "title": "AI-driven background check startup Intelligo raises $22M",
-      "excerpt": "Intelligo, which conducts AI-driven pre-investment, pre-hire background checks, has raised $22 million from Felicitas Global Partners.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/",
-      "originalUrl": "https://venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-a0071-000211b.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/amp/",
-      "publishedDateTime": "2021-11-15T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-why-ai-investments-fail-to-deliver.md",
-      "title": "Why AI investments fail to deliver",
-      "excerpt": "The success or failure of AI initiatives has more to do with people than with technology. If you want to put AI into practice in a way that improves business outcomes, you must avoid these 6 mistakes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.html",
-      "originalUrl": "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/opened_golden_safe_amid_abstract_structures_security_wealth_investment_by_violka08_gettyimages-1167344149_2400x1600-100858618-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.amp.html",
-      "publishedDateTime": "2021-11-15T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-artificial-intelligence-ai-in-construction-market-report-up-to-2031.md",
-      "title": "Artificial Intelligence (AI) in Construction Market Report Up to 2031",
-      "excerpt": "Visiongain has published a new report on Artificial Intelligence AI in Construction Market Report to 2031 Forecasts by offering Solution Services by stage Pre construction Construction Stage Post construction by deployment type Cloud On premises by technology Machine Learning Deep",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2461984/artificial-intelligence-ai-in-construction-market-report-up",
-      "originalUrl": "https://www.openpr.com/news/2461984/artificial-intelligence-ai-in-construction-market-report-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub15145183_g.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up",
-      "publishedDateTime": "2021-11-15T01:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-aiml-workloads-need-extra-security.md",
-      "title": "AI/ML Workloads Need Extra Security",
-      "excerpt": "The need for security is pervading all electronic systems. But given the growth in data-center machine-learning computing, which deals with extremely valuable data, some companies are paying particular attention to handling that data securely.",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/ai-ml-workloads-need-extra-security/",
-      "originalUrl": "https://semiengineering.com/ai-ml-workloads-need-extra-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/Fig01_Rambus_Security_AI.png?fit=1706%2C866&#038;ssl=1",
-          "width": 1706,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T00:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Security",
-        "AI Hardware"
       ]
     }
   ],

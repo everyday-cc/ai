@@ -8,9 +8,9 @@ webUrl: "https://www.newscientist.com/article/2297611-ai-can-quickly-identify-st
 ampWebUrl: "https://www.newscientist.com/article/2297611-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs/amp/"
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2297611-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs/amp/"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 157
+heat: 157
+published: true
 
 provider:
   name: New Scientist
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "aWV3h2WmpLhLZmBYGQRBtVYQ2u40KCH1EBZAeZwJf/57oid2zdKJ9+lku12IF5XM25g7UuY7HHu3qGtmhj8YUGGPjCfsCTPHEYP1ss4xNGV5qWZ1QttiRi1sZNxQKBVqlhOMSLXOvTF4mc0dHWi6bMZYpiu1uNCHciUAgnWMZHU2zFJiJYosOMFiPQaDOnDGsGEjU60rd4rXjzbedofWrKc2jjQNW5r334quV7GwH+M91izQSrMna+CpR4KmdSI1DiIXOAGeS0XVgwZS9fVaAwIRMbTOjmNR+Jizr2PVBQZ4wIvIrZMn6tUzG9Cs8SKgm7V6BsQyyarR/3oyv/QzRb+UY3Eoflno3FWyZcDJJuUMRiko5HIEEKMWJCW+S78kym4tDIYgOlPFH8AX1YQSP+PsC59AoUMbhDB5HtsxZoBR9NHNzwZiEIXtf0DynSf299ohnQLi6gxGZnf0tegehMKS1i/Vcrpob97vHOdKMBro8So/sADw+vOQBs5JIFr+JrtjTpxDSlM+KZJN9yghPA==;WVVFM1wJHJXNB/kE9vRSXA=="
+secured: "idcYAXf3Ip25E6rbxnrtlMO7f69uD74VxQnuRs/EHi9bmxpjFL0t6PmFBM3XkaxQ6k4qrBycGYjdA8tQ5fSwd2QRWBv00LBqB5GrC+pYv9ay+9kdhKLdo/1tJG/P+2dLKasRQiKq15/3vgzYV2CAr4gvUoEXhxTYfuGvex/KGMEP/EZ2t0jzE3x8Hfo2E37kW0UkOfbI5gW5Q0TMiLDnYSaedOyhbyhHIittVbhzJHKhj/zVWV5xMSFaYigChWQPc16aOb2Yl/Zq8/DMXkfNx0MWYZX7q4dPZRgnSnQXBILY6cpIYDEt2n4BnFAzRQcml8/S0AyIsXkE9WAl/jtze/0B3NxTBvG58qvmddAaUugxf5j98Z2vwlmdG15nwmzC+D5Jx7/S5ON5Q6r1oteQrVRAiDGZ/7qrXpNM7Jn+rUl9ULUBBM2YlAeslTg4vY9vL1crBARK7u4JQNbVgJJMeo0b4iYLlz/DX4VMXnhovFLQvIahB0Ae5+j5akvWTqAoVGIHIfx5ZlREpvlBO+/nB6DR6g8ZY1GKk6ns9seUJD8=;wG1qFS8Qc3wxEf83jOWOTw=="
 ---
 

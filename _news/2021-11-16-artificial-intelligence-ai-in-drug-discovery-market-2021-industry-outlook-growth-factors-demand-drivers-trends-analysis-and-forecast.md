@@ -40,6 +40,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Voice Recognition Software Market 2021 Size, Top Key Player, Competitive Landscape, Growth Opportunity, Latest Trends and Forecast till 2026"
+    excerpt: "Global “Voice Recognition Software Market” research report provides strategies for company to deal with the impact"
+    publishedDateTime: 2021-11-15T09:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-2021-size-top-key-player-competitive-landscape-growth-opportunity-latest-trends-and-forecast-till-2026-2021-11-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eRbQRmFrWYsV79BaNe5Z4WqyZDpdHrQZMxcRbAQNqLdeQtX1gfRQGKtwrTRLWM58YCQSuBh/ela9I2ABMcXahY4zOxnNTubS68woMFTP/sZK9jczykvr05PN5VhBkkbz4+B7dnE0J3Ze87kBugBA3SPln0wRHSbKFy8aOrcZdvnBqZTlF9psn0YvWLVteFoNCmwxGcDH6PAgfjyOcwBowiPAbqO5POHnaYewwq9Fe7BNEWwNRyM35t2B05X7u3lAwkcV7jXcSaKEERfhS6iuAd+CoWKEie+C19vO+Ky8EVUx2kiYmyZu7NhE1XEMcY+PlU3QzrRWlvfxPWb+981BAYTSWYVY45OEsMCOtDrS+TdGfRP0JaMAyUPQm0sGhADJx2tU+wBmBg48jlCfOm8aPUh70Lpbu06KbpQ5eqVyiZ78LhU3uCo9tCiapUc+wpvhhtybu+JreXxT3R6jFq0OIHEnWTXNEq2t2+a5XzLHptglI0b0GX6BIJMNM7lMLyr7GTTkoIQPhiuU+eYCPS9WhQ==;Lm2jL0AePTdr5aWK/QsMag=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facebook still harvesting teen data to fuel ads, warns research"
+    excerpt: "Despite announcing changes to its advertising rules for children in July this year, Facebook (now called Meta) is still tracking and harvesting children's personal data to fuel their advertising delivery system,"
+    publishedDateTime: 2021-11-16T13:44:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=894366"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 24
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/sq_080121_walkin1.jpg"
+        width: 280
+        height: 250
+        isCached: true
 
 secured: "l3VfSc5qVOCcMHVDd3ntyEEibsRb5oby+6xekwQGTT4QPBZts5MHzhyYlo7kR85lL40PGtN7glYVj7ihixDvKkcpbrenrG6csaK1Pupt7CYqO3i7fllcOlnyX5ep+1zDqfqkd/GhOTflGldJ/iXcbd8dYxVyqAXKgO6X5tM7UtdYB0gA+gIzpCzjY3M8pEEYwQFG/bqT1C2vwhlKZiOLbQnv7D2zqwXMexwGYmk1Fr7kWtw3FtXMIGMD7FJvTLhZw63l9mJYwUwPFIa7D1bwztxCbGf+7y7pxTahmCHPZB6ZKS2k+UgGG3S7A1R07LON4jNGSpRey+Y6lE8Dd9Kz+p07dMn6rKheiE+6GGzdGAc=;nUN123W0qFvnGSm16fPj4Q=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/"
 type: article
 quality: 70
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -29,6 +29,24 @@ images:
     height: 466
     isCached: true
 
-secured: "TSLQ49h66//Ep+Lb1LXPhuY569E+FSiYd/AO1LPwNKn8H0RWT+80g44EEHI3OxctwPQW4KJQIU2ry9RVG2nLYdKj/w1s9jyygFbziK8vp5BTn9sQbTcxuoYIbaPySBT3VuoYd4wZ61pB4LW7M0xHTyYaiM3YCNQp3RTXpuIWY/1aPdo/J9KqG+UHyRCQQ88zsY0uQF70cptpVuP7NayyG6VfW7iEryfpuu1z0uw8sM93F8yfZYg4nZCQMBEKBirLVQisG52eeovgxzgiv7PoBXxMLCoc+H88j97EjRG2OYk8t6mAJpav09oulfSw+ptG4gPHHMyZY8z1KCgu6SXVKaq3ROExVYV+F9u0WFG00JU=;0tyWyuCCUW5BQ3CCXSUo+Q=="
+related:
+  - title: "Justt emerges from stealth with $70M to fight chargeback fraud with AI"
+    excerpt: "Justt, a startup developing a platform to fight chargeback with AI, has emerged from stealth with $70 million in venture capital."
+    publishedDateTime: 2021-11-16T14:46:00Z
+    webUrl: "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/alexander-mils-lCPhGxs7pww-unsplash-e1629134618323.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "Y5/XSUNvTuocuhNY/ZToDstMR1OGNNz2IKQfhbRtA/rHzq/JXGTkVCPLgp1/DCmhrKgVhAEs6JzhDeBqv4ms3WoJbOauqUMzcRat0yg/2JYoDGPTSkPTw5aS82QHEiymBypJD9U/agiR55hO7d6jsz5UDYmpfJplZaCNKaMo49Ffx1c3cSVHOKgDTVM2iXiaq5CtpLpU3u/1smh7aV5FY0qIOvhWXZ9lT5VH7EigBGA1IQhj5dDACkwB479vMtzdXQpsiWN0DIKehCISIVIBzTocGOMLWztGoSdH8dwCkkXRCuG/koBpb9DptJrqYZDuhx4sJiQeEAXyI/K7p81Y5Fr9qRcBLQ14TySvFj0lCAX1yoTP0YIUTRDbUaajvW+FJJXdCDKF/19ubx0geeBne1G4IsgvEAYUo+d1F6myXwJ3EoJ70/PH4HZSuaJH8vg+0C3gCBEFalxxNJpnQxjILXNztc9gzGHUcqZ4MUbug5VmDp1IQQMd0b0tUjraawG7BAiB/xM6y9D9/DcEZM055A==;0Kef5A6j8z3iGsUdxBUJqg=="
 ---
 

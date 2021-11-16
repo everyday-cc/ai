@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Noteable expands analytics tools for programming with new $21M"
+    excerpt: "Noteable, a startup developing tools for data analytics and organization, has raised $21 million in venture capital."
+    publishedDateTime: 2021-11-16T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/"
+    ampWebUrl: "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1318171140.jpg?w=1200&strip=all"
+        width: 1200
+        height: 562
+        isCached: true
+  - title: "Smith.ai Releases New Call Analytics Tool for Legal Marketing Business Development"
+    excerpt: "While Smith.ai is far from the only virtual receptionist service that offers a call analytics tool, its co-founder and CEO believes its new offering provides more granular detail than others in the market."
+    publishedDateTime: 2021-11-16T14:05:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/11/16/smith-ai-releases-new-call-analytics-tool-for-firm-legal-marketing-business-development/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 48
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/11/AI-business-intelligence-tool-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "IBM analytics in modern day IT operations"
     excerpt: "IBM Watson AIOps and Turbonomic combine a set of capabilities such as predicting, communicating and resolving events before they happen, and have the ability to manage all facets of the AIOps life cycle."
     publishedDateTime: 2021-11-12T09:02:00Z
@@ -41,29 +71,6 @@ related:
         width: 256
         height: 210
         isCached: true
-  - title: "ScaleOut Software gives real-time analytics to Azure Digital Twins"
-    excerpt: "ScaleOut Software is extending its Digital Twin Streaming Service to help customers get powerful real-time analytics from Azure Digital Twins."
-    publishedDateTime: 2021-11-16T12:40:00Z
-    webUrl: "https://iottechnews.com/news/2021/nov/16/scaleout-software-gives-real-time-analytics-to-azure-digital-twins/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 39
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/11/iot-scaleout-software-digital-twin-streaming-service-microsoft-azure-cloud-analytics.jpg"
-        width: 2048
-        height: 1228
-        isCached: true
-  - title: "AI, Behavioral Analytics Help Online Businesses Stop Fraud, Find Good Customers"
-    excerpt: "The latest Monetizing Digital Intent Tracker® examines how behavioral analytics can help businesses protect their digital platforms from bad actors."
-    publishedDateTime: 2021-11-16T09:00:00Z
-    webUrl: "https://www.pymnts.com/authentication/2021/ai-behavioral-analytics-help-online-businesses-stop-fraud-find-good-customers/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 13
 
 secured: "hiOn+lHI1DAFS23akZV/qPgFgq8qOEu8f/F9AoqILMACmNAD0TzLixT8c7ChYLhvcXfOMT54G7RUbgR12zcQmFnDv9ooc6JlS4DBjZUWtBwbH8dhKZ4DzCsaMX7ppHEX2M7C/U+PUl+b/cRuCRvtiDT5R/cybtxrYxqt6OHOEg6tAa2p243YBijB21+L6PIefJ9GT6qPiz49QHCkBJPUXUCY9YmFQvcp2IGvBw5JA6JHgiTuheoCv01/ewPmkBBsizhV2gsKoiqmPI+EALLLj15jsp5q4KK8dH4ORz3p10CSbFh+p/1eF/JFYBYHJMVwsGiNWkTJ2gaGFGZMu11CXQ9oO4pqzEzCfrvL9Vs7r2w=;9nZW3NP8rWqsXzrQHmGhKw=="
 ---

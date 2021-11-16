@@ -7,7 +7,7 @@ originalUrl: "https://www.wral.com/walmart-tests-self-driving-cars-in-arkansas/1
 webUrl: "https://www.wral.com/walmart-tests-self-driving-cars-in-arkansas/19980842/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "Walmart now using fully driverless trucks as automation speeds up in wake of pandemic"
-    excerpt: "In a first for the autonomous vehicle industry, Walmart and Silicon Valley startup Gatik announced Monday that their self-driving trucks are now operating without a safety driver."
-    publishedDateTime: 2021-11-11T21:03:00Z
-    webUrl: "https://www.christianpost.com/news/walmart-begins-using-fully-driverless-trucks-to-deliver-groceries.html"
-    ampWebUrl: "https://www.christianpost.com/amp/walmart-begins-using-fully-driverless-trucks-to-deliver-groceries.html"
-    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/walmart-begins-using-fully-driverless-trucks-to-deliver-groceries.html"
-    type: article
-    provider:
-      name: The Christian Post
-      domain: christianpost.com
-    quality: 52
-    images:
-      - url: "https://cdn.christianpost.com/files/cache/image/14/38/143842_w_450_249.png"
-        width: 450
-        height: 249
-        isCached: true
 
 secured: "lU+FA4nvdTAeLzdNlmvBibh6eAqJuquxGE1ySxYYE4UcZ3dTWqtvMi8SjPIQ3cbgzZT2G4PvVuNN3uAVtQShkhBNtW5qCsIFaCfsZDDdN9igCtRQ3mN9BU5ePKRvb9PUdncpzA9GG73E4yPCpBisQIZ90HgntjcF5lylQPcEY1+7SjkqxrfpTzz8v+RFCDidfJFRXhaOxzxspRi6aJ29Wo6daCMLxWll+PZfLpKb/2FVBF+3QB/VbWka0tGhrH707SPjDY3YpSilHzSNfOHu6oMUrshqox2hSFnbm/Vlx4sF8h3hjFyVIiavgWQ31wbvpRiSB2og2Uk3qNlpp9MmxWyK2VtU02hmcz0GhCjqdE4ufjXi1utof+kdvPO2ME6UW3gTcjpyAPUjWMok7SdytRhPLHTtMZcfbCCYH5YcvOZQleLGX0aPOufrTl/VGWKAAw5AZbipojPnOdEGEdZROSxMREReP+W+O53UlmvFFjt59lAPIYcGX8C/B/RLQ6PcBcasa7l+cAuvhK3hsU62yA==;D1Na5L1mezZ2SJ6BRUy2hg=="
 ---

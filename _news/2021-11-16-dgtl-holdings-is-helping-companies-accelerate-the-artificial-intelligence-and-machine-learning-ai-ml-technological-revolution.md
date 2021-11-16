@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/966351"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/966351"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -43,7 +43,16 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Samsung Accelerated Company OMNIOUS.AI Officially Launched in the US Market with Nationwide Fashion Technology Mentorship Series"
+    excerpt: "Accelerated, hyper-personalized-visual AI solutions developer for fashion retailers — officially announced their US launch today by initiating the National Fashion Technology Mentorship Series. The program is focused on educating entrepreneurs and retail communities on how to navigate the technologically evolving fashion industry."
+    publishedDateTime: 2021-11-16T13:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-samsung-accelerated-company-omniousai-officially-launched-the-us-/2021/11/16/9493212.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "1T0OCCf8nPSoXuqbed/0hQoKZSosQhpc+UCeSz7tErKPo/HMFGIgrp7zXN+TYzQ+7bC57W8h8JqBpg2WAnPC0YsO1kNZ0bw9GePuqoFEMovfSfuc/XuHtqG/eKkPSkzmSQ+HR++wMxzY0CULO3DW8LjYx/EAPLhZM0XAXn+v9wILrydbtzQ560ph0totY58C4RIPUrgVYEewMmJMhC+jWYhjsI9pL8+zpFEI81IAYkaM1NTteGsNcU8mFCBovQ/Kb8V0w472djQ0VirJcTytiYvLVXs/cwbOCjFwe1gcAkamg5q2h3COisF8bWYBGCu+6lUk6riynfc8UiKGQKPlSL/hqX9SepUZXJf1N1l63nk=;AESrA94zTdRU8chWXbv2yw=="
+secured: "/pRxYH9ibzWFuwVG+ILraRnuo5HVy5T+wU7aD+Sra/Uk+YTmD2uOIsD8KvX64JC+2tQiShkX+q7BDWLs6ThEGboJ4Z/MVyONbXtZ1h1cLn4ZMaPbnHVB39fcLjn/ijh7O33sdrWiE8nyrrYa78ubIM2fORMq7HhvBXYkJcGbX3Nv5bI73FU6VeUnnqOYov/K8YDMS5/Vav0B7iGkmBLMTOFSVyLLFvpBAnjivxTD7UMnU+sPev8LElkB40B6NeNc672o4gGfTBNbRG+tN3JvrHAm8Yhcild9OagmnzOK00/l6ebGeCDO1xMTB368hgLJzBC0leBNbbDjsc9We5sd5mEIRdzqXcrTcD+XgIl59EvwCb+PqVZ5JHVV/dYYLHbbt8DQrm+11PcTvrRt/VXkZuOQMdxuqk/heafbbGu/Qm0ml/eMfhypmqy2YDALM2LzOT5jANw/jO8g4fEs5AOw7rpuHKm51iykBfOTpU2jy4ruD9M8D9t42umtJ4ktUEgrHEnS6XedzsplbjrQvRbe9A==;DaWZF74etQEzqZ6icin+eA=="
 ---
 

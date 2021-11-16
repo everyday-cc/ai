@@ -2,6 +2,360 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-13-ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late.md",
+      "title": "AI Weekly: Workplace surveillance algorithms need to be regulated before it’s too late",
+      "excerpt": "A growing number of companies are using potentially flawed, invasive workplace monitoring algorithms -- with little oversight.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/",
+      "originalUrl": "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1092756998-e1636570502724.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/amp/",
+      "publishedDateTime": "2021-11-12T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai.md",
+      "title": "How Element 451’s Focus On Bias In Education Teaches The Rest Of Us About Disability And Bias In AI",
+      "excerpt": "For all the myriad benefits, one of the problems with AI is bias—it’s fair to question whether the data these systems are given is favoring (or not) certain types of people more than others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618ebbd032e2561bbc93c0c6%2F0x0.jpg",
+          "width": 474,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/amp/",
+      "publishedDateTime": "2021-11-12T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-monitor-operational-metrics-for-your-amazon-lex-chatbot.md",
+      "title": "Monitor operational metrics for your Amazon Lex chatbot",
+      "excerpt": "Chatbots are increasingly becoming an important channel for companies to interact with their customers, employees, and partners. Amazon Lex allows you to build&nbsp;conversational interfaces into any application using voice and text. Amazon Lex V2 console and APIs make it easier to build, deploy, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/monitor-operational-metrics-for-your-amazon-lex-chatbot/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/monitor-operational-metrics-for-your-amazon-lex-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-5649-image001.jpg",
+          "width": 2052,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T10:19:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-how-ai-fights-fraud-in-the-telecom-industry.md",
+      "title": "How AI fights fraud in the telecom industry",
+      "excerpt": "Americans lost $29.8 billion in phone fraud over the past year. Can AI fraud detection change this? In 2021, over 59 million Americans said they lost money as a result of phone scams, with an average reported loss of $502.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/11/12/8fd559d3-583c-4749-a481-c64fd1c451b8/resize/1200x/cb959c0d1ff5d8f4c3b6e9f00d07ee11/shutterstock-1908709960.jpg",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "publishedDateTime": "2021-11-12T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera.md",
+      "title": "AWS and NVIDIA launch “Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs” on Coursera",
+      "excerpt": "AWS and NVIDIA are excited to announce the new&nbsp;Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs course. The course has four parts, and is designed to help machine learning (ML) enthusiasts quickly learn how to perform modern ML in the AWS Cloud. Sign up for the course today on&nbsp;Coursera.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T09:09:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-when-doctors-become-too-reliant-on-artificial-intelligence.md",
+      "title": "When Doctors Become Too Reliant on Artificial Intelligence",
+      "excerpt": "Human error can confound algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "originalUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-434048/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "publishedDateTime": "2021-11-12T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-the-ethics-of-digital-technology-in-the-food-sector.md",
+      "title": "The ethics of digital technology in the food sector",
+      "excerpt": "Imagine a world in which smart packaging for supermarket-ready meals updates you in real-time to tell you about carbon footprints, gives live warnings on product recalls and instant safety alerts because allergens were detected unexpectedly in the factory.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/supermarket.jpg",
+          "width": 1920,
+          "height": 1104,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp",
+      "publishedDateTime": "2021-11-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-3d-printing-and-machine-learning-unite-to-improve-cochlear-implants.md",
       "title": "3D printing and machine learning unite to improve cochlear implants",
       "excerpt": "A team of engineers and clinicians have used 3D printing to create intricate replicas of human cochleae—the spiral-shaped hollow bone of the auditory inner ear—and combined it with machine learning to advance clinical predictions of \"current spread\" inside the ear for cochlear implant (CI) patients.",
@@ -868,352 +1222,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-sourceless-blockchain-board-at-larnaca-conferences-2021-the-reality-of-tomorrows-ai-robotics.md",
-      "title": "Sourceless Blockchain Board at Larnaca Conferences 2021 – The reality of tomorrow’s AI & Robotics",
-      "excerpt": "Sourceles Blockchain Board will be present at Larnaca Conferences, where various topics on AI & Robotics will be discussed ... founder of Sourceless Blockchain, Ccoin Network Fintech and Wisp Communication. - Iulian Bondari, graphic and web designer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "originalUrl": "https://www.openpr.com/news/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub11664540_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "publishedDateTime": "2021-11-11T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-is-this-top-artificial-intelligence-powered-cybersecurity-stock-a-buy.md",
-      "title": "Is This Top Artificial-Intelligence-Powered Cybersecurity Stock a Buy?",
-      "excerpt": "The cybersecurity industry has massive secular tailwinds as risks and awareness rise. Does this young outperformer have the metrics and technology to continue to dominate the market?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
-      "originalUrl": "https://www.fool.com/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F652465%2Fgettyimages-1279862993.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
-      "publishedDateTime": "2021-11-11T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-ai-customer-service-bots-are-making-their-way-to-a-store-near-you.md",
-      "title": "AI customer service bots are making their way to a store near you",
-      "excerpt": "There are already more than a billion people interacting with businesses via either text or voice-based conversational tools.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-customer-service-bots-in-store-near-you-syndication",
-      "originalUrl": "https://thenextweb.com/news/ai-customer-service-bots-in-store-near-you-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FAISyndi.jpg&signature=ec8be9af29b8c962347fed54d39570a7",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-european-bank-sees-path-to-fastest-ai-supercomputer.md",
-      "title": "European Bank Sees Path to Fastest AI Supercomputer",
-      "excerpt": "While Hungarian banks with collective names like OTP Group might not have household recognition here in the U.S., they do represent a notable portion of",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/",
-      "originalUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/ab_business_building.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/",
-      "publishedDateTime": "2021-11-11T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-report-ai-startup-funding-hits-record-high-of-179b-in-q3.md",
-      "title": "Report: AI startup funding hits record high of $17.9B in Q3",
-      "excerpt": "A new report from CB Insights has revealed that global funding in AI startups has seen a surge of 8% to $17.9 billion during Q3 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/",
-      "originalUrl": "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/amp/",
-      "publishedDateTime": "2021-11-11T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-search-abandonment-costs-retailers-heres-how-ai-can-help.md",
-      "title": "Search Abandonment Costs Retailers. Here’s How AI Can Help.",
-      "excerpt": "Brands like Macy’s and IKEA Retail are leveraging Retail Search and Recommendations AI to help consumers find what they want first and fast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618cba92d8e95b1aa757f14a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1089%26cropY1%3D51%26cropY2%3D664",
-          "width": 1089,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/11/11/search-abandonment-costs-retailers-heres-how-ai-can-help/amp/",
-      "publishedDateTime": "2021-11-11T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-unsupervised-ai-arrives-for-quality-inspection.md",
-      "title": "Unsupervised AI arrives for quality inspection",
-      "excerpt": "The quality inspection revolution begins with some wildly independent AI. Quality in manufacturing is mission critical. AI-powered quality inspection is nothing new, but a joint venture from two big players in manufacturing could markedly improve outcomes and reduce barriers to entry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/unsupervised-ai-arrives-for-quality-inspection/",
-      "originalUrl": "https://www.zdnet.com/article/unsupervised-ai-arrives-for-quality-inspection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/25f0e2c9b846bb90f08290ce4bb55c3b3e5296d2/2019/11/08/5cc28d1a-4b47-45ef-b971-6d0e9745a2a9/ai.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unsupervised-ai-arrives-for-quality-inspection/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsupervised-ai-arrives-for-quality-inspection/",
-      "publishedDateTime": "2021-11-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

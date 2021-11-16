@@ -63,7 +63,7 @@
       "originalUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -286,15 +286,15 @@
       "title": "ZONE DEFENSE: These self-driving, AI-powered drones do recon so soldiers don’t have to",
       "excerpt": "Today, the brothers are cofounders of Shield AI, a rapidly growing artificial intelligence company based in San Diego, with offices in Washington, DC, and Pittsburgh, and Shield AI’s unmanned Nova drones are used in war zones around the world.",
       "sourceUrl": null,
-      "webUrl": "https://www.hbs.edu/recruiting/insights-and-advice/blog/post/zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to",
-      "originalUrl": "https://www.hbs.edu/recruiting/insights-and-advice/blog/post/zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to",
+      "webUrl": "https://www.alumni.hbs.edu/careers/blog/post/zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to",
+      "originalUrl": "https://www.alumni.hbs.edu/careers/blog/post/zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cloudinary.hbs.edu/hbsit/image/upload/s---fmNvLLa--/f_auto,c_fill,h_375,w_880,/v20200101/8C341CF8F9C8AE5D7F94E3CF71763C94.jpg",
+          "url": "https://cloudinary.hbs.edu/hbsit/image/upload/s--4h9UIwGH--/f_auto,c_fill,h_375,w_880,/v20200101/C7FD1A04C9CC32757626E4E144C43021.jpg",
           "width": 880,
           "height": 375,
           "title": null,
@@ -509,19 +509,19 @@
     {
       "path": "_news/2021-11-09-big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies.md",
       "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
-      "excerpt": "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
+      "excerpt": "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
       "sourceUrl": null,
-      "webUrl": "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
-      "originalUrl": "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "webUrl": "https://www.power-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "originalUrl": "https://www.power-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/11/leaders.jpg",
-          "width": 1400,
-          "height": 934,
+          "url": "https://cdn-images-1.medium.com/max/1022/1*eg3Cn-AGmElpOyOwkA8GUQ.png",
+          "width": 970,
+          "height": 391,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -534,8 +534,8 @@
       "publishedDateTime": "2021-11-08T17:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mining Technology",
-        "domain": "mining-technology.com",
+        "name": "Power Technology",
+        "domain": "power-technology.com",
         "images": null,
         "publishers": null,
         "authors": null

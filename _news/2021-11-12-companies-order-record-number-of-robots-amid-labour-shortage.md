@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/industry/human-resource/companies-order-rec
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/human-resource/companies-order-record-number-of-robots-amid-labour-shortage/amp-11636708492498.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Companies Order Record Number of Robots Amid Labor Shortage"
-    excerpt: "North American firms ordered nearly 29,000 robotics units in first nine months of 2021."
-    publishedDateTime: 2021-11-11T21:29:00Z
-    webUrl: "https://www.wsj.com/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766"
-    ampWebUrl: "https://www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 189
-    images:
-      - url: "https://images.wsj.net/im-433263/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Robot orders by companies surge as labor shortages linger"
     excerpt: "Orders in North America for robots are reaching record numbers as the U.S. economy continues to slog through a labor shortage fueled by the pandemic."
     publishedDateTime: 2021-11-13T16:32:00Z

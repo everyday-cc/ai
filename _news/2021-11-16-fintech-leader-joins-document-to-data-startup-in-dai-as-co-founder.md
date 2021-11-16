@@ -8,8 +8,8 @@ webUrl: "https://www.business-standard.com/content/press-releases-ani/fintech-le
 ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
 type: article
-quality: 57
-heat: 97
+quality: 59
+heat: 99
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/16/full/20211116165343.jpg"
@@ -87,6 +88,6 @@ related:
         height: 750
         isCached: true
 
-secured: "hMqaHJOX2ODz/KxyN3scL1GYvje1+1LO8hBfLRBgUapUsEamng6S+V6QZ7/yjUa+2trwuLyj26whAmF7VECCPzDggPGwlTJuJOaJnr3piH7F//UnzQQXg3r3LtFsiRbL3hpk2BhfIlWF2p6Mnw2WmK3EQYSKUaXmQv2AAwmhsY1+iIfef4Yd8u/Efpdo1XeIYj/JMsXHy7Wg+3E9iIyMCUBAAgTL/DqQ3F5iVVZddhHRU+uznckoarHQjGJRvN95MAmk0a4NggXi4zlYYsuFNJBVY2RqILqtZKejhDThm3RGK2jy6kIpujYEqZjOEfrzXrG20rmAI8O3kSLB40y0TsvE2kxv/fX2O6vxecRTmzk=;IlcmjJIsCLsErUnBDRBMjw=="
+secured: "KisgnXCUsn/xnxjmas1bz4Uo1wwUujeIDl94bcMMY6MADgOg+6I3BBbmGBkBbeHIgGLA4pyMH5SxvL0vFMLw8tLvLrZqWMt6duVUbuzxTzFiFJcF5vZ0YcIwDcgrotOQ7m5RZJH52SzeiJIq72m9eBTnK89vi8eZR92NtudOJOcgWVvW8f2W6bEe0OHyBEsoq5LNJpkB1KESWSHD2TgwTFI1NTt7l2auwX+CInuWPVYCDQQtRz6SwC7xu5hfaUSPSAu3Zs3iemDyCkuypLiCoS3lsRrsU+oD1X4LrINOnTxq7F2jKPFnZZKc8ks/sCdYPhV9k2x/bxLJ7OyrXqWHYhB8NMhm42zdBUTnsBE3rLd2oggwtooO6zEOzeGVi2gPtzpNiArmiuFEzrp21piP74fpAacGdTtx0s7341tkgZ91q6AkoFyAxIKSZz9ZXLiaEU3RxcFwrsgFAULBsP4uGalxJk9DXSE5+hIZoG/0jH2hqkxuNCl0b2aPM91dUVLdSgtHQe4S+DvZoMlzyFfRKQ==;rX4zCxmuhDh7IaLyAxgKng=="
 ---
 
