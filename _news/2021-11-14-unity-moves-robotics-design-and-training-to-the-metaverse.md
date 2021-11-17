@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
 type: article
 quality: 119
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -206,20 +206,6 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 37
-  - title: "As Facebook Joins the Race to the Metaverse, Chinese Tech Companies Face Hurdles"
-    excerpt: "Facebook will be changing its name to Meta Platforms Inc., Chinese tech giants scrambled to stake their positions in the space—despite stern warnings about the metaverse from Chinese regulators.  The metaverse refers to a hypothesized next iteration of the internet consisting of online 3-D virtual environments that people can access through virtual reality headsets,"
-    publishedDateTime: 2021-11-12T14:57:00Z
-    webUrl: "https://www.lawfareblog.com/facebook-joins-race-metaverse-chinese-tech-companies-face-hurdles"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 19
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/51643294031_c2fa4424b7_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "bekp0qLhUY/r9bOU1sMlFQOu9fBpd3pi5NzqleqCkx1zt9moXk4j9ne5mNVcvFCdQKXaxgfM6U1mzaGggCjg+VDgIg7EcqE348vcgdZDsxMMmjmmj4s85tMCFP1n6Dr4PDY6T7IBBxI94/4zDcJXxlKzL0MjI5IW3bcdacckEOtWHyBM7ywI1OlS8FAM59Vwj/jqDyWW3Pgk0fN6/9o0erimgIOMHg/HhVF4SvwTfjUUCLzofilPPscMv12NFrpxoLEEpHPQUbIHNnGYtfiG1vb6n82yzh2c77C9WsemHpNmMLp4qY3QKir0T6kiGV/+VneTnYI3Ee+5RsAWnqOZQEkxmsf7VenO2uf9rGL82syl/QMD2hpjYhpz4jUlGtwOcVHNTJkzfrB6nTrP76RnbA2RzJIElcXojQgj2GlVEiMigtxbqpl6ZY01sd1GUjVOy6U0coTvOvQ41ZOiydnWsJ6cm62lvjua+JkrGE0hk/U36uyzos10XoheEDTYfkC9YEqNNrfCZ7DIn2hwAEIceA==;NpXxn5M2hpglAZXTxSV05A=="
 ---

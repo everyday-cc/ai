@@ -43,37 +43,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Early predictions for Nvidia and AMD's next-gen cards set up a titan GPU battle"
-    excerpt: "Rumours about the potential next generation of GPUs—namely Nvidia's GeForce RTX 4090 and AMD's Radeon RX 7900 XT—have already begun to surface across the web. Among them, known Twitter leaker Greymon55 now airs their predictions where core count,"
-    publishedDateTime: 2021-11-12T13:19:00Z
-    webUrl: "https://www.pcgamer.com/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    ampWebUrl: "https://www.pcgamer.com/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
+  - title: "Started As A Chip Company, Now We Are Here: Tracing NVIDIA’s Growth"
+    excerpt: "NVIDIA, a pioneer in graphics processing units, has expanded its horizon and achieved a disruptor status in the field of artificial intelligence too."
+    publishedDateTime: 2021-11-17T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/started-as-a-chip-company-now-we-are-here-tracing-nvidias-growth/"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 55
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/W4DB35GbTtA5TdPRRi8CWN-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Early predictions for Nvidia and AMD's next-gen cards set up a titanic GPU battle"
-    excerpt: "Rumours about the potential next generation of GPUs—namely Nvidia's GeForce RTX 4090 and AMD's Radeon RX 7900 XT—have already begun to surface across the web. Among them, known Twitter leaker Greymon55 now airs their predictions where core count,"
-    publishedDateTime: 2021-11-12T13:19:00Z
-    webUrl: "https://www.pcgamer.com/uk/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    ampWebUrl: "https://www.pcgamer.com/uk/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/W4DB35GbTtA5TdPRRi8CWN-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Chip_AIM.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "NVIDIA’s Large Language AI Models Are Now Available To Businesses Worldwide"
     excerpt: "Nvidia doubles down on AI language models and inference as a platform for the Metaverse, in data centres, the cloud, and at the edge."
@@ -114,6 +96,22 @@ related:
         width: 326
         height: 250
         isCached: true
+  - title: "L&T Technology Services chosen by NVIDIA and Mavenir as engineering partner to accelerate adoption of industry’s first converged AI-on-5G Platform"
+    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it"
+    publishedDateTime: 2021-11-17T05:24:00Z
+    webUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 21
+    images:
+      - url: "https://cdn-live.theprint.in/wp-content/uploads/2021/11/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Atos and Nvidia Join to Launch European AI Lab"
     excerpt: "Atos and NVIDIA today announced the Excellence AI Lab (EXAIL), which brings together scientists and researchers to help advance European computing technologies, education and research. The lab’s first research projects will focus on five key areas enabled by advances in high performance computing and AI: climate research,"
     publishedDateTime: 2021-11-15T20:43:00Z
@@ -132,15 +130,6 @@ related:
       name: Equity Bulls
       domain: equitybulls.com
     quality: 6
-  - title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
-    excerpt: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
-    publishedDateTime: 2021-11-17T04:15:00Z
-    webUrl: "https://www.businesswireindia.com/landt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industry-s-first-converged-ai-on-5g-platform-76016.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
 
 secured: "PyQgFsap3TOkf4Cv64dJDn5gc0VT8XSHlw0Sz7MD9FhxAdX549i+GTuHjG343YSmjYo0oWXtZZGcQL2ncpzSxXyBQXOa53CJnI01POiXF0WmXkqA1G8ex0H6qQecZ37LcRPdVxis7cMfvszkL46O4jXSY+jW3sVuWKzPzUBxgZa+qBWi6sTJHZFwG35kaYSYnvNz/uiuxh9NN8X+FCple0UFfsuv4gjT4hLOCCWmA8NVJd0wql3OePJxVN8xhcaR560px49dijvYAsUY8aReLRmjCCc8C5j2VPAExWSHEJMXx3LdTQEws4b3zwvGNXXal1GBv49dbLbDWIfbHwXPgEv8E6lGydY1dq/Dh7oS7TToROjPsNxg0xCrDvaK4WQcIRMWVIvzCMRcwa0BkGcfYlXqmboRHWkTpziS6VFQnbMcqf/G06DZYLnOTyUmkEn/+iNx0a5gYG98pxsxRAousEwzzCWbZKeHKStTJMkT4olHHA1yRuHyCYzGakFKnQJgZUwGD9RhKLtERoRNZ/enbQ==;raQx+zg4PlcqA9MylnMB7g=="
 ---

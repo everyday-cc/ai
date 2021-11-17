@@ -41,38 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Early predictions for Nvidia and AMD's next-gen cards set up a titan GPU battle"
-    excerpt: "Rumours about the potential next generation of GPUs—namely Nvidia's GeForce RTX 4090 and AMD's Radeon RX 7900 XT—have already begun to surface across the web. Among them, known Twitter leaker Greymon55 now airs their predictions where core count,"
-    publishedDateTime: 2021-11-12T13:19:00Z
-    webUrl: "https://www.pcgamer.com/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    ampWebUrl: "https://www.pcgamer.com/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 55
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/W4DB35GbTtA5TdPRRi8CWN-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Early predictions for Nvidia and AMD's next-gen cards set up a titanic GPU battle"
-    excerpt: "Rumours about the potential next generation of GPUs—namely Nvidia's GeForce RTX 4090 and AMD's Radeon RX 7900 XT—have already begun to surface across the web. Among them, known Twitter leaker Greymon55 now airs their predictions where core count,"
-    publishedDateTime: 2021-11-12T13:19:00Z
-    webUrl: "https://www.pcgamer.com/uk/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    ampWebUrl: "https://www.pcgamer.com/uk/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/W4DB35GbTtA5TdPRRi8CWN-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia Turns Its Focus to AI Inference"
     excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
     publishedDateTime: 2021-11-13T00:53:00Z
@@ -86,6 +54,20 @@ related:
       - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
         width: 900
         height: 371
+        isCached: true
+  - title: "Started As A Chip Company, Now We Are Here: Tracing NVIDIA’s Growth"
+    excerpt: "NVIDIA, a pioneer in graphics processing units, has expanded its horizon and achieved a disruptor status in the field of artificial intelligence too."
+    publishedDateTime: 2021-11-17T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/started-as-a-chip-company-now-we-are-here-tracing-nvidias-growth/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Chip_AIM.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "L&T Technology Services to support Mavenir and NVIDIA for adoption of AI-on-5G"
     excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform AI is already transforming many industries across the globe. When combined with the power of 5G networks,"
@@ -112,6 +94,22 @@ related:
         width: 326
         height: 250
         isCached: true
+  - title: "L&T Technology Services chosen by NVIDIA and Mavenir as engineering partner to accelerate adoption of industry’s first converged AI-on-5G Platform"
+    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it"
+    publishedDateTime: 2021-11-17T05:24:00Z
+    webUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 21
+    images:
+      - url: "https://cdn-live.theprint.in/wp-content/uploads/2021/11/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Atos and Nvidia Join to Launch European AI Lab"
     excerpt: "Atos and NVIDIA today announced the Excellence AI Lab (EXAIL), which brings together scientists and researchers to help advance European computing technologies, education and research. The lab’s first research projects will focus on five key areas enabled by advances in high performance computing and AI: climate research,"
     publishedDateTime: 2021-11-15T20:43:00Z
@@ -130,15 +128,6 @@ related:
       name: Equity Bulls
       domain: equitybulls.com
     quality: 6
-  - title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
-    excerpt: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
-    publishedDateTime: 2021-11-17T04:15:00Z
-    webUrl: "https://www.businesswireindia.com/landt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industry-s-first-converged-ai-on-5g-platform-76016.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
 
 secured: "qByvP+pLL/8aMO7TI0u+MIRstMX7Q4VGGHhq8uOy7ARVfOj6K914YLbvpFXMfCPJ5tuKRm0OHwfg5QXX4aaOiVLtl4rW3ddeXd1U9wlZeoRV2oot3z7MIdxRdH6Q9mQySrmqK6/Ae2jIho7Oe5dibWpUao/TkC+FtgEjBsa0+T1Vnn3w6R8E/iHmTWjfIAfGJcq5tKkwK2nuK5m/jsamyItn1HwkBMOClfm7tpvrkOvQzhng5tTj+y9uw04E+tns9ilj3GgOZP7zafNmH/xi0RgJ4KbF8dG4kM/6NCOvJDeG7w8dicoDKnLP6blgtHHxKrGFdajn1WFfBaF43mdwbsNyncHhi9I7VJQguyxBsewowSS1yQRr347SA67nxG52FYpWL+eI7g+T6owG4r5UJNP5RB0nuCf8Dy8yLQ5kY4aT+iXIsGpx9gqeUS1ogyn7wH3BFLBK5tmwdmCo7NfzJWSseISL7L6tdWkNNSetfNSXjngFz/FgXlckstWgUqxHziTgXifepfCizRa4mELFlQ==;wQHX309B6wGb7REmXMKxLw=="
 ---

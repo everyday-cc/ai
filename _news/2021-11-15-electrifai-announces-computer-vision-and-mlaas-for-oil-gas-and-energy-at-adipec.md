@@ -1,29 +1,27 @@
 ---
 category: news
 title: "ElectrifAi Announces Computer Vision and MLaaS for Oil, Gas and Energy at ADIPEC"
-excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (Ai) and pre-built machine learning (ML) models, today announced availability of Computer Vision (CV) and Machine Learning as a Service (MLaaS) for the Oil ..."
-publishedDateTime: 2021-11-15T04:31:00Z
-originalUrl: "https://www.thaipr.net/en/general_en/3121807"
-webUrl: "https://www.thaipr.net/en/general_en/3121807"
+excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+publishedDateTime: 2021-11-15T04:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-1030972298"
+webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-1030972298"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: thaipr.net
-  domain: thaipr.net
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2021/11/FSMART-Oppday-2564-scaled-e1637124436719-768x512.jpg"
-    width: 768
-    height: 512
-    isCached: true
-
-secured: "hJX9xVJTM+vzG4CFSkhwcVRO1VPrR5fpjqSKqVAloFf647NP3NQ42Mtlpj+13f/F204O/Bl6CRx4fP50kPLUI7Q123YDVxKRZzAOdCDeAVhAHtjLT4wlli3ll+lZBkJh6b3/oAyXsK7eZ6eBVFtItCf7LxgWeQEd/1iP6iJyEairper9K4HqSeAD15nIMy7mA7eoTNJNWmQ0fsSwlbuLAa+jmScBVb3a8Z/JH+by9b/m/BWgAWuFR6tvdVMHEjc1DGiLf+88buPelzfKOO8uk0Dd3HlbmOiwcAYqaTfngbrcUxw+zt+Ar3r55JoKlRlcJsZQb/BAvBBKX+ccfeD3dph/OI4IY9ApbAS40VYhWoA=;U83f6B6u0/+mb9X77TTRYw=="
+secured: "Yh0j4z05soSOfqdC837B9O2M2UTzuOyrzQi3RCjTA40mt/rd5ziynPfTBsw24NKJHWcUtlzgCKxWucjk0qvwrJv/HXIZz/oxRb8UdfEju/6bc/JCdMm22NPDjnGdYy4ah621Hc1WBf44M0oMDE7Sl/FKogtXEJXhAWbUufBWsvTec+Pv7GllQUcKfh+dOCInYmGzTy2829PfxVZVKCsstqPlIYujfg45xHVKGo191LMmXxADrgro0TP4hoz/qO9OcplYv+x2E9uQFDuj+M9zs/2541TjSNvU5b4ucZ633AbE4JJTEj9AcWE8gj3dmdCn0VV1lXDI/wq4er2nT5YEkuqh6a7ydGNQmbe8J+rhwUM=;9gyOxQcjqOhNmIMtSh6lyw=="
 ---
 

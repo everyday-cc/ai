@@ -30,22 +30,6 @@ images:
     height: 643
     isCached: true
 
-related:
-  - title: "Using wirelessly powered sensors in AutoX’s self-driving cars"
-    excerpt: "AutoX is using the wirelessly powered sensors from Spark Connected for its Level 4 autonomous vehicles. The first generation Beast sensors have been integrated into AutoX’s model year 2021 vehicles and Beast 2."
-    publishedDateTime: 2021-11-12T13:45:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17409/using-wirelessly-powered-sensors-in-autox-s-self-driving-cars"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/409/17409/Spark_AutoX_PR_image_final.jpg"
-        width: 752
-        height: 502
-        isCached: true
-
 secured: "LPWH7jOMYfN0qfsTcIbpyZQX6FPJ5LAC2b0LP4IBXTmyXbcu7v3yHsCONE9eoS1hEPVsRDlLKNquxXBOYr0eFbRer0sJw9R4t3+eMKzI5YacuPzIz6YmS/AK2AgUQ2eC7z698at4BLmUzQINXqptiqyliF99Ia5o8wTixI5ITbdYeN9qsF/aP1g7NkSrOi6gpPQofdTi1XymWe2GXkltSiGOEeD/STVxP767dhnLiWHC5lN6HsCWQqJ5XykUxu0gy102G7wCfFOHTBGmAUcdT5nrZ5PyV5MkjCUYyxB70EHCSg2rnYfyJqXbWxQ7tpRLxkP75ErcPglyH6L88ORxqVFtKMQexz2BcmxjGio/6+AQMXCjqnevwtNrAQ4SHyFdeDWwj936AdjFaeLV2y0f0/VNUuxAOFi/LJBrfOj74bVto5XLeu25ExeMAF3bNcvrTrOrUAbTbv+8VFgbWTDLcgkaWin6Fkoj8RuLwmF1kZAuh33WAK0ofgEB3pdvk7AxMd/0TyVDI/TKKIBj2E22iA==;dMEaBdydhjePPhZXJMYgFw=="
 ---
 

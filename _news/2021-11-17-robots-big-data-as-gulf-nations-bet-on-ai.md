@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Robots, big data as Gulf nations bet on AI"
-excerpt: "DUBAI: Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core."
-publishedDateTime: 2021-11-17T04:22:00Z
-originalUrl: "https://www.bangkokpost.com/tech/2216979/robots-big-data-as-gulf-nations-bet-on-ai"
-webUrl: "https://www.bangkokpost.com/tech/2216979/robots-big-data-as-gulf-nations-bet-on-ai"
+excerpt: "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with"
+publishedDateTime: 2021-11-17T06:41:00Z
+originalUrl: "https://www.digitaljournal.com/tech-science/robots-big-data-as-gulf-nations-bet-on-ai/article"
+webUrl: "https://www.digitaljournal.com/tech-science/robots-big-data-as-gulf-nations-bet-on-ai/article"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Bangkok Post
-  domain: bangkokpost.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://static.bangkokpost.com/media/content/20211117/c1_4146299_700.jpg"
-    width: 700
-    height: 468
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/463b952c76bfeb7b314f73dc982b290c8c30993d.jpg"
+    width: 768
+    height: 513
     isCached: true
 
-secured: "AgkRo1nu31BOcdHWcIzO5xoDuvAoBMhoIXeUwllYR9K3f2K0PlEowAkU/a20oux4azvuznKF25QxmJI/YcXkr9lxx6L81/J9jUwo4HwFnhCr2wo+pZ5dNQwZqK7XBrxAUsz3COikNWwXUHhQ9PUK+4stebcIjQzKWU0BH0MzIOmhFnqM06m206G3TWXDmeEy5escQWcq2Ut1xI7zFAlg8l2Ms/vTYGaHzg1LnZw8w6EWZJr5Kk/MxBX5mtbc7qr+QXWDUcrL0h1R/ikRW0mv8AhQoSpAiAo1tgWNHbwhTT4lNLbTyedHX/9+bjlzlmWzKvIn7ma051MAUfimF7HKcyFm+VgVmPEHqVwXxb1zSWI=;iBix8d+4GSYpT2Ii3V0MJQ=="
+secured: "6EdZtj79P9u82tJ0P5UYOGaeehmvJxyhbdVmlbB1EbLU/iDcY3V09K8BsIrLkIIXMlvUNuSnKPo3J4iEa+u1GBqbwM8R4ymFahuVB9gDw/uZkiNYeHUyzwJibRwGknFOfs9nW17m2YUdBqLUlMjGHHty1W5OOvlwsMlaFgdj5dkEzNQOiVx6mjhsus+0VTfflNu2/Z6qb7Uu54XXxKs9eoANwmJgUBJTRzhhoerJ4i6p8epngdaCsOeJ2gM8PGucfd4FXHIh/+KMQkEqkhRCYHWTzTddXJ2+3mRnPVySjARBBmaeB+R57DWDLjFVTYR8w0B1oWOmlMir/YPp/MuwV2ODY1PWyPucrS8RjZdggYQ=;KE8wGgHQp7gTlmaAUupJXg=="
 ---
 

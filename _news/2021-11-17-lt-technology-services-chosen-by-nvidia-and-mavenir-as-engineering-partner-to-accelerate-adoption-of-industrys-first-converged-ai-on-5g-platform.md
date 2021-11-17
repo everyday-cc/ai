@@ -1,22 +1,30 @@
 ---
 category: news
-title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
-excerpt: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
-publishedDateTime: 2021-11-17T04:15:00Z
-originalUrl: "https://www.businesswireindia.com/landt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industry-s-first-converged-ai-on-5g-platform-76016.html"
-webUrl: "https://www.businesswireindia.com/landt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industry-s-first-converged-ai-on-5g-platform-76016.html"
+title: "L&T Technology Services chosen by NVIDIA and Mavenir as engineering partner to accelerate adoption of industry’s first converged AI-on-5G Platform"
+excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it"
+publishedDateTime: 2021-11-17T05:24:00Z
+originalUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/"
+webUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/"
+ampWebUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/?amp"
 type: article
-quality: 0
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://cdn-live.theprint.in/wp-content/uploads/2021/11/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "NVIDIA Envisions AI For Everything"
@@ -35,38 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Early predictions for Nvidia and AMD's next-gen cards set up a titan GPU battle"
-    excerpt: "Rumours about the potential next generation of GPUs—namely Nvidia's GeForce RTX 4090 and AMD's Radeon RX 7900 XT—have already begun to surface across the web. Among them, known Twitter leaker Greymon55 now airs their predictions where core count,"
-    publishedDateTime: 2021-11-12T13:19:00Z
-    webUrl: "https://www.pcgamer.com/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    ampWebUrl: "https://www.pcgamer.com/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 55
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/W4DB35GbTtA5TdPRRi8CWN-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Early predictions for Nvidia and AMD's next-gen cards set up a titanic GPU battle"
-    excerpt: "Rumours about the potential next generation of GPUs—namely Nvidia's GeForce RTX 4090 and AMD's Radeon RX 7900 XT—have already begun to surface across the web. Among them, known Twitter leaker Greymon55 now airs their predictions where core count,"
-    publishedDateTime: 2021-11-12T13:19:00Z
-    webUrl: "https://www.pcgamer.com/uk/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    ampWebUrl: "https://www.pcgamer.com/uk/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/early-predictions-for-nvidia-and-amds-next-gen-cards-set-up-a-titan-gpu-battle/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/W4DB35GbTtA5TdPRRi8CWN-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia Turns Its Focus to AI Inference"
     excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
     publishedDateTime: 2021-11-13T00:53:00Z
@@ -80,6 +56,20 @@ related:
       - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
         width: 900
         height: 371
+        isCached: true
+  - title: "Started As A Chip Company, Now We Are Here: Tracing NVIDIA’s Growth"
+    excerpt: "NVIDIA, a pioneer in graphics processing units, has expanded its horizon and achieved a disruptor status in the field of artificial intelligence too."
+    publishedDateTime: 2021-11-17T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/started-as-a-chip-company-now-we-are-here-tracing-nvidias-growth/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Chip_AIM.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "NVIDIA’s Large Language AI Models Are Now Available To Businesses Worldwide"
     excerpt: "Nvidia doubles down on AI language models and inference as a platform for the Metaverse, in data centres, the cloud, and at the edge."
@@ -139,6 +129,6 @@ related:
       domain: equitybulls.com
     quality: 6
 
-secured: "L88VJAYO/Re47HlVxSpjr7JC5q+nSYxEy3UgtYvpH+rXWcErccNmKOF0MzaPg3JmQ+nKcLH/PKCjx7IZc1/uuguKFIeyUIjuGeTPrL9wi0eFm6wx7uyPXIB2iw3pO8lvXDAozeoaCW5QeUJJRL1lrnLitbNBZmQ0nuz1sJ3fysRKLNN5flqZ4eIiLcFZiufhJgpDLTWrzOx2kA6OM8H9o1/D+dyqj1abQGN3ig3EQG7T+/hCe3WxhQmTozVlNQqwUdMBDx0UJXIM8/Auzl6vgil2ZvXESKpWqbRM0KDxQHa0FZC9Kq5GJZhfY0BujK78uN7V30/hitRv4YFlwi273WxM3wW0YpJ7aVK/n6I5SEg=;XAZs6z8AeeYIUX9rknp5dA=="
+secured: "H7cWbuVXV33Ot3bv/we5I5fAJlC9hVv8o8cyWF9t1IRc3jCds8w8vvOJoYM/lNdK7jjoXX9Gdpq2HFm5jey9o19cOCGGidheoEg5rEoTGVf3S1VnXVMFnDS5wNeqSLZfkYSgvDT4xwgO25no0f4ksmTbjIeVOkUDy6oDH1fPWKWHKitz0IpnICoe4Uv2ul5tQ7NOBZaD01MWWA8w+OL06Dk07rt4aDkt+XkiA3znnqJYHJcw9Hd/aijT/QxIiJl99kzeoK6vPUXniKDehdp59tH+o8fkGqpcx0YmAH8dB9IgzLg0Llk32AHAcBXE4VBKjfxCxyOGxoM4Vjn8/7vYD0fpcSgx04rZNFAOVeI86Ws=;lU8TxBJTV4p2HGnEDk/TJg=="
 ---
 

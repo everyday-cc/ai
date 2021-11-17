@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2462031/deep-learning-in-machine-vision-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462031/deep-learning-in-machine-vision-market-to-eyewitness-stunning"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -26,38 +26,6 @@ images:
     width: 600
     height: 300
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in Construction Market is Set to See Revolutionary Growth in Decade Covid-19 Analysis | IBM, Microsoft"
-    excerpt: "Another exploration Titled Worldwide Artificial Intelligence in Construction 2019 Market Report gives the Professional and inside and out assessment of extent of momentum and future market and survey of Product Specification showcase pattern item type and creation investigation considering"
-    publishedDateTime: 2021-11-16T18:38:00Z
-    webUrl: "https://www.openpr.com/news/2464501/artificial-intelligence-in-construction-market-is-set-to-see"
-    ampWebUrl: "https://www.openpr.com/amp/2464501/artificial-intelligence-in-construction-market-is-set-to-see"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464501/artificial-intelligence-in-construction-market-is-set-to-see"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub16133934_g.jpg"
-        width: 780
-        height: 405
-        isCached: true
-  - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
-    excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain managementCloud-based infrastructure and collaboration to improve speed and efficiency across business operationsDigit"
-    publishedDateTime: 2021-11-16T13:00:00Z
-    webUrl: "https://www.dailyrecordnews.com/news/state/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_b56e6143-eeba-587a-aecb-3cfeca03147d.html"
-    type: article
-    provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
-    quality: 26
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/a/43/a4316266-1765-50c2-8705-7274ff032ce8/6193bdca44495.image.jpg?resize=800%2C566"
-        width: 800
-        height: 566
-        isCached: true
 
 secured: "+4wHD+z97f4Z21fFUEBlonAyKQZUjB33+rvT5Sj+sTLBCN4igNa0eHbplidX18/6Q/0Dmz/U1Ypo0oMSfdHFxCkMBiAAvhLjZF1RVSIB/A69T8kW/XVxJ+TPwfEupL7ETD5CDHPys4nH/y7vC5vwGvKV+rPFgKq4at6NGJ5tazYUQ/mKKhiG2yIPLtfokDy9wZddr9w5YcI5Y872EJs7c7cyxQQGtg9BKuGD+Zj2xpMaZIijbQHtbvBZ4ajOYyd9cpXlaAHXoP8KqWygsEW5KXtsVeZdkXDYLQr+LR9DE27G1elkENejxFxV8zzvhMDlAdRDkqiOq02jqIeb7EMWJTvXebf7CIR8RARVN1StwXPAAaj1z/wdTIjPHhaypIVOAaxHSlMo3A3CNboaN9pt5XsdAIC5pvUgYpdQmRfllCcPtJwG6PtpQsOa5xUHHwfGDSciMFC6c/evYe3KwBeIbSRBMOeBuf8gjP9BEp9SwcufGB/z6F9MAYLCe4nRtr8o+Op5VGbvBJL8Rh3JUqv/Wg==;m597uWvaCX9s2E8I/O2AHg=="
 ---
