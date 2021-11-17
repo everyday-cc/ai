@@ -48,20 +48,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Artificial Intelligence is learning Social Interaction Skills"
-    excerpt: "AI models of language work great at specific tasks. Where the next step is learning social interaction skills, which a research team at MIT"
-    publishedDateTime: 2021-11-13T06:42:00Z
-    webUrl: "https://elearningworld.eu/ai-learning-social-interaction-skills/"
-    type: article
-    provider:
-      name: elearningworld.eu
-      domain: elearningworld.eu
-    quality: 39
-    images:
-      - url: "https://elearningworld.eu/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGZWxlYXJuaW5nd29ybGQuZXUlMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRmhhbmQtMTU3MTg1MV8xMjgwLTQyMXgzMDAuanBnJmNhY2hlTWFya2VyPTE2Mjg2NjA0MTQtMjcwNTcmdG9rZW49N2VlMTM1MjExYzM5NzUzOA.q.jpg"
-        width: 421
-        height: 300
-        isCached: true
   - title: "Sketching the Sun with AI"
     excerpt: "These track the Sun and reflect its light to the scope’s objective lens, which projects a 17-inch-wide (43 centimeters) image of the solar disk onto a piece of paper on a table in a ground-level observing room below."
     publishedDateTime: 2021-11-16T16:00:00Z

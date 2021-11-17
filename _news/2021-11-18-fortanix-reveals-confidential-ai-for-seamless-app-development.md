@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for
 ampWebUrl: "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813-e1637172595387.jpg?w=1200&strip=all"
@@ -59,6 +60,6 @@ related:
         height: 480
         isCached: true
 
-secured: "FafKHlyeBRn8yBoSXES374UOChPGnefB87ilKLth9svbiWJj63oneZwxCgUIj63moqzdgQHxhN6KrqPi+znasZ8+MzCjp5iond6Hbni5TTiwiy+LPYXpBIqD6+UouIFrYlJGJ/EQlht/AzyiOj+W37a+WcB9E3elZ6q1mXGfd2NFkFDNPDEW+aIJzIGmto/wJ1QTR1OIP4SyRgcawFrabyRi5KysSzYRsEJWgK1hlhRWg14RXMd8Yz0k85SIvWRALXonvxSV133oDeVw25Jz/RcvaOmk4k6dh2BadU6vG98kKOeGfqDDqyHIcS8DFAG5ZsqFHQlaWKF9GCs2es+XyOD8NkWZ5gs+tNGaM1p7FpI=;cgNcrhAFaR7moxv0JZUEZA=="
+secured: "pzavbmDWWK3M2V0gHRDWtKPBWim3hj1gWDqxi54qhJxX66fcIegJaxi94kHamEbhlMU0vyV+3E9xTf2GYJn/teBnanrJj4zRRbp6HMuGMFs7UJKuAcy4bZP4pkdkcjZOADQXOIZQzQhFJBlJX30N8boxk/RAhZSXw6OPfY44lLZXStm6UVe8ou4eaIlU66Hz7k8xipT7f1YkLfKvjsGMtNpRiBSLMvJxZDSWfLODPtKQoAziBibWhOsG/qTJaetWlW+tXFDgydVk/2ov25E4K1UsuokGhuk2hYpYsrXKrp+2uPkWa/0IY5xfeUL08DhacB1XWWnjZB8tGD+pgykG/qVRwjIMOd00+sNyg1A/QoD860Rh1ZQUlPa9mkELL+PcN4PDhtDXCm/lBOHUXDTC/M+XD2TQbkq1pDGXH+v8qn2ZWSwKbfG0ZEAYQ/Mtvh4OdI5d5nm4TrD0ABbfRljSQAUjFLAiwgNLy+bH/SNh/b5DwIKqVO5Pce/gPvkO4MC+P9/zj3Ku7ZJ/TKRMnCgg8g==;O9mlA/yL2nhRcaZOtk5cdA=="
 ---
 

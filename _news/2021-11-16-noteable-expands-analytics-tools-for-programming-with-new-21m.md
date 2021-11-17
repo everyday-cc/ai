@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 2376
         height: 1424
         isCached: true
+  - title: "St. Louis digital health startup acquired by fast-growing health care analytics firm"
+    excerpt: "A fast-growing health care analytics firm headquartered outside of Dallas has expanded with the acquisition of a St. Louis startup. Irving, Texas-based Lightbeam Health Solutions Inc. has purchased CareSignal in a deal the companies said will bring together two technology firms focused on lowering medical costs and improving patient outcomes for health care providers."
+    publishedDateTime: 2021-11-17T21:03:00Z
+    webUrl: "https://www.bizjournals.com/stlouis/inno/stories/news/2021/11/17/caresignal-acquired-by-lightbeam-health.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "rPlaU3pdfPVTaLRvRMKDgLw5PkzLh/+WE69xc3Cc6VGPY7CLyTfoTkT9UXIFCli6gF1sRke3wmr3N09nzPnJnkFC9+pRZ2SHYlc2dyzFG6f7cD0w3je5dFaokMBiSn9UpTVC5gBvLGfo3PhRcbmIwLzTsVG4V4gSCehEGebppYu8n1GPGNhx2xvjtqpJJ/Jukcyr+zzIxD8FPFVE3+N9OuLCMg6slOKtQXcCLhio2v6PBFp7jMOeOiqJ/8G4PGc3Q/M1QDlYV7U9gozt5k8ewG4HMBIuoJwxXQTWFlu19bDUERFLhShrsCbUMLn6n6rkIHKiFb43cu71SrWqf2TTX3Vk5A8TcgYytkypTgUbOZ9qlRoqmNrzXDD6gAKM1szJBh1oCL+Qp6p6RAstthZSqmHzJOPZ0GrnSpQkz6NuVcTLQkdLhxXk9z1tq5D6Ko8Bdsk/oTSBzj2xyVoV91BuI2QIR4ykI4HYzbnLfaAXhZkCQ+H/mT/u0tL1kEvR6IuwqCKddn04Znr79XUBldaMPw==;TFGUTQl8AcsONGL8s+sXdA=="
 ---

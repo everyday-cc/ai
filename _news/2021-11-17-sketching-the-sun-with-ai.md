@@ -48,20 +48,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Artificial Intelligence is learning Social Interaction Skills"
-    excerpt: "AI models of language work great at specific tasks. Where the next step is learning social interaction skills, which a research team at MIT"
-    publishedDateTime: 2021-11-13T06:42:00Z
-    webUrl: "https://elearningworld.eu/ai-learning-social-interaction-skills/"
-    type: article
-    provider:
-      name: elearningworld.eu
-      domain: elearningworld.eu
-    quality: 39
-    images:
-      - url: "https://elearningworld.eu/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGZWxlYXJuaW5nd29ybGQuZXUlMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRmhhbmQtMTU3MTg1MV8xMjgwLTQyMXgzMDAuanBnJmNhY2hlTWFya2VyPTE2Mjg2NjA0MTQtMjcwNTcmdG9rZW49N2VlMTM1MjExYzM5NzUzOA.q.jpg"
-        width: 421
-        height: 300
-        isCached: true
   - title: "Automobile Acceptance Corporation Goes Live with Scienaptic's AI-Powered Credit Decisioning Platform"
     excerpt: "Scienaptic, a leading AI-powered credit decision platform provider, announced today Automobile Acceptance Corporation (AAC) has deployed its solution, positioning AAC to streamline its lending processes while helping dealers approve more loans to underserved buyers."
     publishedDateTime: 2021-11-15T12:12:00Z

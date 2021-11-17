@@ -69,6 +69,15 @@ related:
         width: 1920
         height: 1272
         isCached: true
+  - title: "St. Louis digital health startup acquired by fast-growing health care analytics firm"
+    excerpt: "A fast-growing health care analytics firm headquartered outside of Dallas has expanded with the acquisition of a St. Louis startup. Irving, Texas-based Lightbeam Health Solutions Inc. has purchased CareSignal in a deal the companies said will bring together two technology firms focused on lowering medical costs and improving patient outcomes for health care providers."
+    publishedDateTime: 2021-11-17T21:03:00Z
+    webUrl: "https://www.bizjournals.com/stlouis/inno/stories/news/2021/11/17/caresignal-acquired-by-lightbeam-health.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "hiOn+lHI1DAFS23akZV/qPgFgq8qOEu8f/F9AoqILMACmNAD0TzLixT8c7ChYLhvcXfOMT54G7RUbgR12zcQmFnDv9ooc6JlS4DBjZUWtBwbH8dhKZ4DzCsaMX7ppHEX2M7C/U+PUl+b/cRuCRvtiDT5R/cybtxrYxqt6OHOEg6tAa2p243YBijB21+L6PIefJ9GT6qPiz49QHCkBJPUXUCY9YmFQvcp2IGvBw5JA6JHgiTuheoCv01/ewPmkBBsizhV2gsKoiqmPI+EALLLj15jsp5q4KK8dH4ORz3p10CSbFh+p/1eF/JFYBYHJMVwsGiNWkTJ2gaGFGZMu11CXQ9oO4pqzEzCfrvL9Vs7r2w=;9nZW3NP8rWqsXzrQHmGhKw=="
 ---

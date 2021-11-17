@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia shares rise as FYQ3 results top expectations, forecast higher, as demand for AI chips 'surges'"
+    excerpt: "Nvidia said it had record revenue for its data center group as demand for AI chips is \"surging\" Graphics chip powerhouse Nvidia this afternoon reported fiscal Q3 revenue and profit that both topped Wall Street's expectations,"
+    publishedDateTime: 2021-11-17T21:30:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "LTTS helps NVIDIA and Mavenir to accelerate AI-on-5G platform"
     excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA’s AI-on-5G platform"
     publishedDateTime: 2021-11-17T09:13:00Z

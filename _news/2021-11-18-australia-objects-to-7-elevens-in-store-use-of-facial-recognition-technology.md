@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/australia-objects-to-7-eleven-s
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/australia-objects-to-7-eleven-s-store-use-facial-recognition-technology?amp"
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: The National Law Review
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Unwelcome in Another Country, Clearview AI Forced to Delete Facial Recognition Data in Australia"
+    excerpt: "Australia's privacy commissioner has ruled that Clearview AI has violated the privacy of the country's residents, and that means it will be forced to delete its cache of their facial recognition data."
+    publishedDateTime: 2021-11-17T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 61
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Oosto endorses the Australian Government's decision to delete pictures scraped from the net for facial recognition app"
     excerpt: "As a vendor of AI based facial recognition products for private companies and government agencies it is important for me to emphasise - facial recognition apps should be"
     publishedDateTime: 2021-11-15T10:50:00Z
@@ -67,6 +83,6 @@ related:
       domain: softwaretestingnews.co.uk
     quality: 12
 
-secured: "+FpzTLsfn+Q0PYnNbqQJyLGfE7TLmLATvULvNC7C+E8dhdxCJsyzDzJAyTPFE5sAUWRB8nqs/EqL7dWQlzDGbqQ9Zp+WHX4rulLeWitrCXVUNtUZ5jXY3EHdT5RlwthXUqCWz9+y0mPrAf+ozN4bK7NeHMWhp/jxSIOBBHIw5+9ssD1/IC/8amejkIR88xUlb5wZHsCACX6qE2hnK9HlORsX/fvbDKYJLVnRQJ1Rn37iYxZsdEgbgKoCKzhwLadyZajZJkJHzSU8H04KgzKxrsVNC3IypHh2UCIRwAAI1LWJc8xZ09SfhF01wsH4yWN47P76uBbrv5OKij/Diu8ef60aK+Q5mjj/45ssuCF+XYQ=;0c3ipiCrXiM1TVfGoGaqrg=="
+secured: "Vt8IplXjL+MPGEuhF1X0lMoKlmwWR2g4yG3YMLfIZmQuUYLEKaRKtB8l2Is+hrBKRAIW9qh6RzpoVmnLW0UF1Uq8+fbgDt09X0tIlPch31xb/LLSHXwdj04gzxEUrPu5oKbI1Uc+WWJL1h7zkRyjZSvjyaUGubNt//l4YqpADWT2wb5/SOgfqQl+QP+0hZlcvywxMUNlR1eCoDmwZUVka2mIV5IB5j2Scclcrkp07xZYZrLta+1733MvBG7B21jaccjxu1oQhBy+u1bD3mI1WOf67pVYzIt+G0D7KrDZd6nt3G+TuwvPVBI93mv9bWcG9gHwvKpZZkqcZ/4BEpuLujfjcxfw2U4k+2sGLF/0OpwYOZkljisw90IrQiKHLzXs3BZunVVBGyMDeKhLrV3XEquWuZmr3T32V+uOeFXXy4Iut010tuIxWr/34OWrBsaMyfEZGGjqjQIbe6q4lCNCjKMAAIjJFU9x7o8/6SMYgM8euO9CZWgqfMFNIbiF40QqoMcTfoc3VWU5ZQHngN6zoQ==;ERBRB4ax/tyIX9mBrn52Fg=="
 ---
 

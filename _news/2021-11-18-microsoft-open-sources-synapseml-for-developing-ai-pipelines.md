@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for
 ampWebUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
 type: article
-quality: 104
-heat: 134
+quality: 108
+heat: 138
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"

@@ -135,20 +135,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Pioneer - the World's First Metaverse Robot Has Been Born in China"
-    excerpt: "Pioneer - the World's First Metaverse Robot Has Been Born in China New York, New York--(Newsfile Corp. - November 12, 2021) - The first ever Meta"
-    publishedDateTime: 2021-11-13T05:42:00Z
-    webUrl: "https://menafn.com/1103160472/Pioneer-the-Worlds-First-Metaverse-Robot-Has-Been-Born-in-China"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?840821"
-        width: 375
-        height: 250
-        isCached: true
   - title: "AI bots to user data: Is there space for rights in the metaverse?"
     excerpt: "Facebook’s ‘metaverse’ plans fuel debate on virtual world as shared digital spaces raise privacy, ownership questions. Rights campaigners urge regulators to widen safeguards."
     publishedDateTime: 2021-11-15T02:10:00Z

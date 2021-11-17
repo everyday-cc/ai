@@ -73,22 +73,6 @@ related:
         width: 1280
         height: 844
         isCached: true
-  - title: "Netizens raise questions after Tesla in 'Full Self-Driving' results in a car crash in US"
-    excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist feature. No one was injured in the crash,"
-    publishedDateTime: 2021-11-13T05:45:00Z
-    webUrl: "https://www.freepressjournal.in/viral/netizens-raise-questions-after-tesla-in-full-self-driving-results-in-a-car-crash-in-us"
-    ampWebUrl: "https://www.freepressjournal.in/amp/viral/netizens-raise-questions-after-tesla-in-full-self-driving-results-in-a-car-crash-in-us"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/netizens-raise-questions-after-tesla-in-full-self-driving-results-in-a-car-crash-in-us"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 65
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-11/fd557d02-000a-4848-b182-1942f0b8ff23/images.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Tesla in 'Full Self-Driving' mode damaged after crash in US"
     excerpt: "Driving\" (FSD) beta mode has resulted in a Tesla Model Y crashing in Los Angeles, likely to be the first incident involving the electric car maker's driver assist"
     publishedDateTime: 2021-11-13T10:40:00Z

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SoundHound Inc., Global Leader in Voice AI Technology, to Become Publicly Traded Through Proposed Merger With Archimedes Tech SPAC Partners Co."
+    excerpt: "Qatar First Bank In the Transaction Details section of release, insert in the first paragraph, second sentence as a PIPE investor: Qatar First Bank The updated release reads: SOUNDHOUND"
+    publishedDateTime: 2021-11-17T22:01:00Z
+    webUrl: "https://www.lelezard.com/en/news-20106077.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 3
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "CoDIBMYpj0TYdYC93JoIITCxuaQkbwxPq4H0F9C/261cDX4/VqhrM5QWdl38v8xPAqPQYm3ta7hFO8Pho4k0V+8kJZmD0R0ob+RtAROUUDnTEaWVTWJea2IuQUMMOH/7GU2bIpb5GQg0Ds1ma8P2TsKRwz2itA5kQkx251QhIwQ6QyWtDvysWFrYcuuONE1JYgSi3WOWtQzpVazISwIaBSeWzFcz/3RTFEWpAhkXUzK9rBSZM3wJGsajL4MPoax1GxToGGZHSgHpjAn7qRZJHCUc46qNqJgwnuTuBSMVcd5rwtxaFzr1SwOTmcwZ8oPDqoUrs2pkYGh9oDaUk+W6xuw04TcFMJ2tk059S9JKhkg=;Cw0GIyDwk1aXFG8lvFZSlg=="
 ---

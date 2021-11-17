@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia shares rise as FYQ3 results top expectations, forecast higher, as demand for AI chips 'surges'"
+    excerpt: "Nvidia said it had record revenue for its data center group as demand for AI chips is \"surging\" Graphics chip powerhouse Nvidia this afternoon reported fiscal Q3 revenue and profit that both topped Wall Street's expectations,"
+    publishedDateTime: 2021-11-17T21:30:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "Started As A Chip Company, Now We Are Here: Tracing NVIDIA’s Growth"
     excerpt: "NVIDIA, a pioneer in graphics processing units, has expanded its horizon and achieved a disruptor status in the field of artificial intelligence too."
     publishedDateTime: 2021-11-17T06:30:00Z

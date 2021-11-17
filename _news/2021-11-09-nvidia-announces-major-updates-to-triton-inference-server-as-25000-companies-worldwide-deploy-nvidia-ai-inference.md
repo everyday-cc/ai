@@ -2,27 +2,25 @@
 category: news
 title: "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference"
 excerpt: "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,"
-publishedDateTime: 2021-11-09T08:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi"
-ampWebUrl: "https://www.benzinga.com/amp/content/23974757"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23974757"
+publishedDateTime: 2021-11-09T09:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "q3Zqcj4N6EuPbQ4tuiKL+C7JvI9O07+e9mBD/a6rLmgGRIm6EyEZtFCfKtBhg30gPemHD7VamRxUCQya/J4vSjLEctkd/1U7H5e5e+5qi3ZspVcbqMoWX74oXH4CKeWVxiQwpgdqr+H069v982BBf2ZcUnBB6g4jy4FynZif2kyvx1PSoE9YcwfLdo2bnK/IEV2W5DIY7WhqwdMkbN3qYMejUkEShkFUUyijxzLFlm6omDfjUWwAQpliK74riASD06GYnQhOTvWV731LFgCZBc0rNzGLz3DfMCrxCE55dpa1OV/qCasWs4QSLydSEo49F9iOO7zJBIQV2ZfeN/X1gUi5nrl2t9WtRahiCuKiwwE=;965CuC5sWl3w5liCMKb57g=="
+secured: "fFhw8UdQXQZhCIf7ZeCoRTcOPiYje+h/KD945HNfqUIP4Hbu/rNLQSQjy4gzmVqHTJF4+Jeg6CLRR/PvcnNPXFjBkOdwuWZTiqSUMIr/lMHWQvY0C5wU7mP9aq1a0bqjhT+tKTSqsJPQqkXH4PDMfsoO0RbKfaqLPU4QtOg+WJuieV/NGAjjhKXJ0511T8psWDmfelmj1UF+Du9/PbKA++1DY/HxTi6Zph8x2VLHK7CSVOjp7f7EdcOMnaW2RFxNBezm0Mib7Tys9B400DDhIRUSJijtwcrHLyVpM7zuLyzsaWrKohkIctI+C3A9c5AWLy7cHCWRekGOWyqrpRsW/dGphh4B77UuQnLuUKA23eI=;/Nv5bPaOYKu3b84zp4oJhg=="
 ---
 

@@ -2,17 +2,17 @@
 category: news
 title: "Robotic Assistance Devices Receives Orders for 14 ROSA Stationary Security Robots"
 excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices Inc. (RAD) has received 2 orders totaling 14 units of its increasingly popular ROSA (Responsive Observation Security Agent) security device from 2 end user clients."
-publishedDateTime: 2021-11-17T13:40:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-robotics-artificial-intelligence-03b41e96908c4b10846cdb99c197c95d"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-robotics-artificial-intelligence-03b41e96908c4b10846cdb99c197c95d"
+publishedDateTime: 2021-11-17T12:40:00Z
+originalUrl: "https://www.thedailytimes.com/business/robotic-assistance-devices-receives-orders-for-14-rosa-stationary-security-robots/article_3703d5c7-906c-59a8-b0b1-98e544eb4811.html"
+webUrl: "https://www.thedailytimes.com/business/robotic-assistance-devices-receives-orders-for-14-rosa-stationary-security-robots/article_3703d5c7-906c-59a8-b0b1-98e544eb4811.html"
 type: article
 quality: 51
 heat: 61
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - AI in Robotics
@@ -20,9 +20,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/b/53/b539d9ed-9bec-5788-833c-5d9fe6003f70/619507f5ec768.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FopqwzT/J4xAAJ89TXDmvh+MOEINuMvukLFVezXmnYWtw4VnZnIwl88QzyXzTaV2Fjgh3VYGCos3ve6PYGjlzwmKVUUEYmBqsVxD5JNKjpNPqcmwDUlN9kjFjEdSHvyMWHRbpYepyUe2Et3Hk9UUsvsMrEWHyNmYR8hah8P4U/JjYVc3YsEnwAlqoU2EVPnbavXf/s71FvtuXPkp7GonGQkWa4XZUpyrvIFi1AZLOFN5q31fjNXfuYUWUySdR4N0aNSiein5lr/Ng7H0LBtAGZR2L4Bktc1HeEijMCQ9OfXWd4GsyVEzJi0xnMnsqF5izkUBAAmBcfvB1yFSfzuZ9109JFnhn3AqMVtDct21Msc=;haVyJWRCljCWonAaSjqolg=="
+secured: "GtG7FRoZFcv7DJo5sMOYdmjYR2ngodtVd4YdMjr3L2AnjsgfSaFQ6aLnqYdvbcgn/rdYrLCxBrKixKa7iKXxY5or5A8bAiyAoMmFtzeyW3AaA4jF/sMyCB30bKX9ghorjv9sPu9N+8uGQPcdq3eqvx5Yp9mC5SXJmLmgy//XLnsboNtnMteukUwFSyukMY6VEpXG7CjxtVLH09DTwk45I7+TBt4NhHYvEqrsJoUvC9bqHkxJJC/DSYSMa1oJfU9CbEeGMJBnKOgLpu5apMXdZ6Y86hlemvl38w4VLrcdpgnp+t1cg8UIizFtkiV6gN+XBkQ8xIZb9soagoT9Un9VYAkBdKzmHlLeomCm6midj54=;d1gVj8QXVdTR43MXl8JAJA=="
 ---
 

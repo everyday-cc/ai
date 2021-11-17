@@ -36,6 +36,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Imaging AI startup raises $5M"
+    excerpt: "Medical imaging artificial intelligence (AI) and advanced visualization startup LifeVoxel.AI has raised $5 million in seed funding."
+    publishedDateTime: 2021-11-17T21:34:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=134168"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2020_02_20_18_12_3118_money_bills_400.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "tdRVkv2mGwr5ySKYcutn5Ff6s0MX10fMVGWAymR0lyYnxNjFY0ds++/BBhzVpa2mG1sYY+DYBqOLY146mgbG9eFmAlfvekNRCOxF8cn/lqGrkF+Iplj3CyIhK+zOLt7/uRL7H1603ZaqMVFKzCWxI8QQi2Jh0Y4ZKKI0WwZhSDw9VT+Aif86fxw8vIFz7GYnOfY+aamxncJvSqGQ8TyL4YGOP5jrJ/leHsITv+aCyCLmKCRP0pwd6s0J5TJ7gqRZfOlWo+PTnmo/uOtOwUoZbv4qT1ivXd+MI4Be1aPDUoyF1y+ShQZdwPI941milvXSmqP2gNZfKTnaB6gsgNlaBFoqoNp5pewN5Xw+9de113OfzZVOk7hjEndOxMXgjVfOyGiWCM6whtebw2GxLeWAtU3+I5qfN3wBcj4E8hVmb2mRFH2/oVPUtyll7gPcGamYdP+rSiiFIm/pRvUHh8YlnpsA0O3mUXFBvR1g9G9AMS1ZQO7d85ms3AJIRvFeET32GlIb1DWs2JB8GDMY0D0xYw==;fajYj8az+UtU3EfAyNITJQ=="
 ---

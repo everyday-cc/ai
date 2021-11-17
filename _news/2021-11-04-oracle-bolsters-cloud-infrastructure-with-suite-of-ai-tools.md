@@ -2,20 +2,17 @@
 category: news
 title: "Oracle bolsters cloud infrastructure with suite of AI tools"
 excerpt: "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ..."
-publishedDateTime: 2021-11-03T21:04:00Z
-originalUrl: "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fpid=1"
-webUrl: "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fpid=1"
+publishedDateTime: 2021-11-03T21:02:00Z
+originalUrl: "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
+webUrl: "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Reseller News
   domain: reseller.co.nz
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
 
 images:
@@ -24,36 +21,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "Oracle bolsters cloud infrastructure with suite of AI tools"
-    excerpt: "Oracle has updated its cloud infrastructure service to include a new artificial intelligence suite of services comprising of six new tools."
-    publishedDateTime: 2021-11-07T09:07:00Z
-    webUrl: "https://www.arnnet.com.au/article/692774/oracle-bolsters-cloud-infrastructure-suite-ai-tools/?fp=2&fpid=1"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/oracle_dreamstime_3.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "Pandio Announces Partnership with AI Infrastructure Alliance"
-    excerpt: "\"Partnering with AI Infrastructure Alliance has brought tremendous opportunities and new developments for Pandio,\" said Gideon Rubin, CEO and Founder, \"We are a rapidly growing SaaS startup ready to collaborate with clients, venture capitalists, and ..."
-    publishedDateTime: 2021-11-04T13:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pandio-announces-partnership-with-ai-infrastructure-alliance/article_3304227b-2cc2-55e7-b2e7-5175a203372d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "dohRrHBidnj9fOCsJaifepKrOeVDL+Y2IbsuxBzyDUgufWrSaT794xMPAPz0osezyqr0NpzHKJ6/6Q1wwTI5wpsJIz2uOUoiy2yRSq8jCRZXAEtGLURsqUntkH61aL+w+IdDbwCeZPz072BEL06IsTJtWCS5Gt+GRGbbgA2MDo4fj2Sj/KfEJHC0T+FQ1wTgt9jaTkiMWnxunLjsGBjQWgmUyTtYiS5r4q2lYafJM64Jng2m3p3dI38mEkH2OJ9zm+n4M3yXFeijwr9BS7KuDQQgKBlpsKjDquVG5Mi+E4gHbIxSPYBwdNQbYDEwzi/oV7YG47Tr1ac8kcyBm+SolpUaLqHtcgJLy1IsnEo3mubxha1ia+tLRUPxRWVn2QkEUrpmjocXk6pguOJPkVHF3V3DvKp6N8cP/AGMsLEbAIabAbqCD4oQjwGbKBpXy0/Bcj1JZzcKBj5sKKxyRi6VPwcz79OKvTAUGIcjlASV4yNw4Xd0IwYG7dXGC0pFPxaFra4/pnw0QaZcn/awp9m2eA==;uSNF6drbWHDsVtxzHGEm1g=="
+secured: "V2PAKz9d9978mC1jMNbq+lTXBFau7lKv3s1z9CZNILB/TYh8y67XYnkOI6YAtMZrjW2mMdn3JCU/7gGmf0ZBxQophc0mjeROt1mvuC9T0mc/nQAupRtd484ub5JQmwU1bu/foNM2WyRab8VjAbn0HyC1wrh12Urt6Qjx/wHVolIh05BIF4B+CUabQkUTiQRn0iIwEZIw82WMUXt504tBdFc5DNIKSz0QSlIgbgJ/KOkAHcHaEiI6ueomHmOeh22wx+VmrvEfXrf5jZ05iio4RXhiuaZGyJCnkhPOQSn4uNw9c3QVQtVyD2aW+LjbZIrugAlRFTVJP8cfi16o0FyYs+E/kUWlnzwUZkZJRrYSbd8=;wxGf8UlBX4i4CJOPbea2mw=="
 ---
 

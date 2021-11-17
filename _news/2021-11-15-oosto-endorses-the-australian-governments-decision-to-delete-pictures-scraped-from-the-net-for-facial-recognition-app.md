@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Unwelcome in Another Country, Clearview AI Forced to Delete Facial Recognition Data in Australia"
+    excerpt: "Australia's privacy commissioner has ruled that Clearview AI has violated the privacy of the country's residents, and that means it will be forced to delete its cache of their facial recognition data."
+    publishedDateTime: 2021-11-17T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 61
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Australia Objects to 7-Eleven’s In-Store Use of Facial Recognition Technology"
     excerpt: "The Office of the Australian Information Commissioner issued a determination earlier this fall about 7-Eleven’s use of “faceprints.” The OAIC found the convenience store im"
     publishedDateTime: 2021-11-17T20:48:00Z
