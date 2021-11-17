@@ -48,6 +48,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "5 applications of Artificial Intelligence in banking"
+    excerpt: "Artificial Intelligence (AI) has been around for a long time. AI was first conceptualized in 1955 as a branch of Computer Science and"
+    publishedDateTime: 2021-11-17T11:32:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-applications-of-artificial-intelligence-in-banking/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/11/ibs_Artificial-Intelligence.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "The Payments Association finds huge value in AI in revolutionising payments"
     excerpt: "Financial Services organisations with over 5,000 employees have adopted AI It is forecast that AI Market to Hit USD 360.36 Billion by 2028 The Payments Association (formerly The Emerging Payments Association (EPA)) today announces the release of its latest research,"
     publishedDateTime: 2021-11-17T09:54:00Z

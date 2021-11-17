@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Comviva and Strands Partner to Provide Personal Finance Management Solution to Banks, digital wallet and payment service providers"
-excerpt: "Comviva, one of the global leaders in providing digital financial solutions today announced a strategic partnership with Strands to provide"
-publishedDateTime: 2021-11-17T09:20:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-826558184.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-826558184.html"
+title: "Comviva and Strands partner to provide Personal Finance Management solution to banks, digital wallet and payment service providers"
+excerpt: "Comviva, one of the global leaders in providing digital financial solutions, today announced a strategic partnership with Strands to provide an integrated suite of intelligent digital banking, wallet"
+publishedDateTime: 2021-11-17T11:00:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/995982/Comviva_Logo.jpg?p=facebook"
-    width: 1152
-    height: 603
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/17/full/20211117160421.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +37,6 @@ related:
       domain: tmcnet.com
     quality: 3
 
-secured: "kT5yhtRCd0KmKhejwzOfcJJctixpeBO9OyVxWmeVknGYUgyuJBNaVNDK5kv+Q7YUx6zK4rf/5HiwInSAr0fbFmlfVfS6IN+njBU0H5wj+3pSGzBk+FO0fxr9zqWzkECWoT6OtE6zt/xLqUf+1UTBxoufSGKzqL00H+3o3aKzSdFCXdhAMotyMAhhb7jN0wlYcJAFwhrIadzZh8d/qs8bXuPkHHjyIRQRGHyqv1p01oEyjvXSPJd0sMWqvvuqKvFp1j3hmDp/3eYB12rpEMsKY6Kq/R1DX8WWT3JN8A/aQn5tlgUxlgz9HTdokZXAwlHdkR+A9JhsnwGf9RyDhkpGrOsKtxzGi0JYa8EVdJD7lgA=;afYcwhi6Wdc2YsrqzqlybA=="
+secured: "6fXaEv8W7bb4Jjmx2bVtmkd72/ZIAjPFht0lQDnb5rvXXoDvMidzDGZRqVVQQD0ONDZ0t/kJTMW1Sjz2eaQdAlrRur3M3ECPpEjOENmT7bCphqhwYPqKdjKSFbjR6aS/JZDKGDyEUaRnu8fB0MS7KN4XMyTaojBh4V25h8rLVZGP4AeXV4RVU8s/IW41Il/PMNdXAVtin9fYS8q71q1K4JIvJ0dBQLivPiBwAPUNv92wleqqOqEid+tNwZFNuAOGqj1QdaI/WNioXvh4V5+GbhXpHIXBhf8N++P30n4ZERGF70I+SBneOEMPkmj2EHwQhaZCB3lso5hqX+ISCb+fu1aQVcnzaoKQmy9+37hFjg4=;Lx7RVqYCHMZ7ApMhGUtEcw=="
 ---
 

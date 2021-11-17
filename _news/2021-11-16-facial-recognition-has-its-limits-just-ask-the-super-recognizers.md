@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Voice and Speech Recognition Market Expanding at a CAGR of 19.5% During 2021-2026"
+    excerpt: "Voice and Speech Recognition Market The voice and speech recognition market reached a value of US$ 9.9 Billion in 2020. IMARC Group expect"
+    publishedDateTime: 2021-11-17T11:42:00Z
+    webUrl: "https://menafn.com/1103191302/Voice-and-Speech-Recognition-Market-Expanding-at-a-CAGR-of-195-During-2021-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/17/EP_3e9f6image_story.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "f5rce1rH4J+B3iuun3ThN1C7ZjIgllmNeXsa4dr9Ntbo95ZJV+4vBPOvHnD9VZnKdRQwPbTKkujUj/5xUw8XksKbJjazX4lIo79mc5WhIyJ/odejx6bdYfb1n8KOEZPrA7VABacKJRQyAN3GXKLV0ijxj+LQrYcbSGeziyXH99I4YZe/bWG4IOQmaONjaG/kfaxA/Iua2QmlXyHg4S9PartK1MIHXqIlWmQ/toeGcIC/Bkh/jJIP+whTklKqfeduQeTVwsjE4gm/R1KE481oxpP8ImtsvZ6qWEKLYhcb0fP/DbOrsqVvMq8L6Gt8TcpwI4wB4uxO9Xmu7VgT89+5kX/kZf0iRlVhlfIcw1rgrxg=;e3BSjm/Fw9bN7IJfOUDSpQ=="
 ---

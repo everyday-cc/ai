@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-11-big-privacy-machine-cheaper.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-big-privacy-machine-cheaper.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rice University: Big data privacy for machine learning just got 100 times cheaper"
+    excerpt: "Rice University computer scientists have discovered an inexpensive way for tech companies to implement a rigorous form of personal data privacy when using or sharing large databases for machine learning."
+    publishedDateTime: 2021-11-17T09:24:00Z
+    webUrl: "https://indiaeducationdiary.in/rice-university-big-data-privacy-for-machine-learning-just-got-100-times-cheaper/"
+    ampWebUrl: "https://indiaeducationdiary.in/rice-university-big-data-privacy-for-machine-learning-just-got-100-times-cheaper/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rice-university-big-data-privacy-for-machine-learning-just-got-100-times-cheaper/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 54
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/02/lovett-backdrop-crop-1-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Big data privacy for machine learning just got 100 times cheaper"
     excerpt: "Computer scientists have discovered an inexpensive way for tech companies to implement a rigorous form of personal data privacy when using or sharing large databases for machine learning."
     publishedDateTime: 2021-11-16T17:42:00Z

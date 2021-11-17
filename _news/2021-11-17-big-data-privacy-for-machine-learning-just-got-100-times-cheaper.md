@@ -39,6 +39,22 @@ related:
         width: 1650
         height: 1098
         isCached: true
+  - title: "Rice University: Big data privacy for machine learning just got 100 times cheaper"
+    excerpt: "Rice University computer scientists have discovered an inexpensive way for tech companies to implement a rigorous form of personal data privacy when using or sharing large databases for machine learning."
+    publishedDateTime: 2021-11-17T09:24:00Z
+    webUrl: "https://indiaeducationdiary.in/rice-university-big-data-privacy-for-machine-learning-just-got-100-times-cheaper/"
+    ampWebUrl: "https://indiaeducationdiary.in/rice-university-big-data-privacy-for-machine-learning-just-got-100-times-cheaper/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rice-university-big-data-privacy-for-machine-learning-just-got-100-times-cheaper/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 54
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/02/lovett-backdrop-crop-1-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "ybo5beS7Hv3ofnEIgVyCct+TW7nOZeq2Z3KgKiQ3MI+lWM4sMVW/1XgllqCGOu9UMFpZy17JO4X9zUQzK1jlj8a92mbyKfY3K4j7KLp8Wn463s2/Mm+DZXuQ2q5HKPlQ781S2xbOfcUAWtGvE7cHea/ukvG211KJLqBmZRK9ehPX7R15JkZ46PhOa8rZQ9D1ihkRGJXgMXb0qk+m0AZ5CI+drGoFsYZo44o77FoPZOzmR4EqhhidiPoD52gMXbNiEEA/fBjCI25hRB3IDBU9OjvcYitwGfcOQT7d7W2yt4OtL7HuVEzAzIg5jGp8h87ET/ZWXotoOA8nwdfVEKQnrxs8HLf0+PiOQP8RaL6gtFc=;AZj6GkcjWsmar23zHA6J9w=="
 ---

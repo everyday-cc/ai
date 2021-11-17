@@ -34,6 +34,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "5 applications of Artificial Intelligence in banking"
+    excerpt: "Artificial Intelligence (AI) has been around for a long time. AI was first conceptualized in 1955 as a branch of Computer Science and"
+    publishedDateTime: 2021-11-17T11:32:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-applications-of-artificial-intelligence-in-banking/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/11/ibs_Artificial-Intelligence.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Zero Density adds AI-powered talent tracking solution"
     excerpt: "Zero Density has added a markerless, stereoscopic talent tracking system to its growing lineup of ... Read More"
     publishedDateTime: 2021-11-16T17:50:00Z

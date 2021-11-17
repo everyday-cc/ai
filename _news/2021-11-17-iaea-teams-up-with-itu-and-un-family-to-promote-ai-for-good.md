@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-17T09:37:00Z
 originalUrl: "https://www.iaea.org/newscenter/news/iaea-teams-up-with-itu-and-un-family-to-promote-ai-for-good"
 webUrl: "https://www.iaea.org/newscenter/news/iaea-teams-up-with-itu-and-un-family-to-promote-ai-for-good"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.iaea.org/sites/default/files/coverai-notext.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "DW0uSyaJqnlfm752IR3Xe+nSx7F2Ph/TR9Au8RK2Tv6qJoGTq0d7MR5rjg8bWe1l4HLqHwfoMiCH753ALme2YT73E9vg2TCo9UnGSdgUQ/3L/lVaPJzV27bwa0fEFk9vjLX90jvNLTWS3ivoXxLNmSxaxsq6Ow7oRdC7GBXhv6hvWdGblKtsehZpR0HAudKtX2Jw9ugn2Sz1NQulqmZIuFD1USAjYefOYOP7Qy0EaYB16i/jRp9H7g8/ZZZvbZSZbFLh/4vBdb3Ni4/J8hLWk0LxA1NRSrWvMQr9QP2TpvafJpmOJ3veYe7AOKvnwo1mnDlYRe/ka1NXFY3o4FnwqjeYq99lHDV6M5VT6RmTnnY=;/KJDiHY7rSkuVPGjkIBNsA=="
+secured: "vRuBRwd2KiK5NaFnTCOANClUgw8TluSAAhf1CN47YUjDHxHr33XyW77c7cFe8gN0342qBNeFEBRZM6ofkMd3y3DSo5kKj13MhLiNmB2Y2pU3KSha8nBDY8dSaouY2nfjnQWKwgzY0C6XnnseA9BVkAxdsp7p/dZrfL5TvfRYYjJJAqR8t4w0Zby2Ktm58N+AvuHQ1nxzfhoeP/q3XI3RPODwOWh0vVvuTFln4p1zAEGyUyFwSSRrPGh4xOnIuwWMOrXHUN2jGPdF9ryOzu9w6ff+fRQOrcrQ2fSNnNghtENKABk9J+ZnhQhcpFcjyvHusMZYZd5PEusKzZdy8ZUBdOt2yMlo2GD25f4wVCNZkSeXUgBM+zkmoAxVfXUWHXn7qvr160ZiAursZPfHIRHuiBIRcwyjjQ2QlqvkBiOnMPbKBQTSGeRZ/kD1MAFfUe2WqDmd0Dp/S6AJMox31VhapQxJtdR638pjpAl5mgnF2mi70EZ0Sx4sde0XN5MPYrtt8oqCrdqWw0hib30rKL02bQ==;MxT0JrBGcO96zFyYrCkLbg=="
 ---
 

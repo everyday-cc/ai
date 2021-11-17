@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trust in biometrics sought with AI Act, government programs and ethical facial recognition"
-    excerpt: "Biometrics adoption is being encouraged in the public sector for digital ID and online government applications as it continues to rise in the private sector."
-    publishedDateTime: 2021-11-13T15:35:00Z
-    webUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition"
+  - title: "CyberLink’s face biometrics solution passes iBeta ISO liveness detection test"
+    excerpt: "FaceMe obtained a perfect score in an iBeta Quality Assurance liveness detection test, confirming the solution is complaint with ISO/IEC 30107-3."
+    publishedDateTime: 2021-11-16T20:50:00Z
+    webUrl: "https://www.biometricupdate.com/202111/cyberlinks-face-biometrics-solution-passes-ibeta-iso-liveness-detection-test"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 61
+    quality: 21
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Public surveillance biometrics in Europe could be crushed between the EDPS and AI Act"
-    excerpt: "The European Association for Biometrics (EAB) held an Artificial Intelligence Act Workshop to inform members about the impact the proposed regional legislation."
-    publishedDateTime: 2021-11-16T17:13:00Z
-    webUrl: "https://www.biometricupdate.com/202111/public-surveillance-biometrics-in-europe-could-be-crushed-between-the-edps-and-ai-act"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
-        width: 1600
-        height: 1109
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
         isCached: true
 
 secured: "apRyI+meRLte7J2dzndC02u+nacyGfDv+NXsypmvSUO2Q2U3xVb6TYUyBB0uWrqgAcdDEG5755EBYxtvzqA2RIJwxcaSVcAc2gHbgNPggNZRVKn9RjTWNT5GSr3Wt6kz3yE8PwwFjIkyU23GBdmD/2XNQllzCKg8GseJMllZzekgDp5irxGNN3PwmIcCIov1u/DQxbgbYrNSAthqkOzOtpPkOY0FiFlZ15ZRofSKaiKW07kJTxnqupGadu5ckItfK92LTNyCGRJIaJkKEe4p6Uqr0Plcnzk8s2jJQTwR6Mz5Qtr2ehjCIdFGAvhbCz1efMrN3YlnXoNQgZ0ukSG6Y/84OTqPWaFjoeQU8ChqrmM=;kCDouavUrJFbixc6lIi3kw=="

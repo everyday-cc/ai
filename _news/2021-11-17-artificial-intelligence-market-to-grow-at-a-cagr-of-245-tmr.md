@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-g
 ampWebUrl: "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://cdn.openpr.com/U/b/Ub17570915_g.jpg"

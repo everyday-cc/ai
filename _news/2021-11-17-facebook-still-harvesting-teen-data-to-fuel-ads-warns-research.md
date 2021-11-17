@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facebook continues to surveil teens for ads, study claims"
+    excerpt: "A new study has found that teens and children’s accounts still receive targeted advertising based on data collected from surveilling their browsing history. Facebook is using data about children’s online behaviour to feed their machine learning-enabled ‘Delivery System’ to optimise targeting in children’s feeds,"
+    publishedDateTime: 2021-11-17T11:37:00Z
+    webUrl: "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/"
+    ampWebUrl: "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 59
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2021/10/PRI_203392101.jpg?quality=90&strip=all&zoom=1&resize=600%2C399"
+        width: 600
+        height: 399
+        isCached: true
   - title: "New study says Facebook and Instagram harvesting data about children"
     excerpt: "This practice is especially concerning, given ‘optimisation’ might mean weight loss ads served to teens with emerging eating disorders or an ad being served when, for instance, a teen’s mood suggests they are particularly vulnerable,"
     publishedDateTime: 2021-11-16T16:16:00Z

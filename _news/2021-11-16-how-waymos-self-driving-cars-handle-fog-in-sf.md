@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/how-waymos-self-driving-cars-handle
 webUrl: "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
         width: 792
         height: 528
-        isCached: true
-  - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
-    excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
-    publishedDateTime: 2021-11-15T18:33:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-self-driving-car-fleet-cars-and-drivers/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 24
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/25694662556_a4f9e40693_b.jpg"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "3jDdNNocnNA/pQyRxY9mmwyf+OHKikNc9Cv1lPZ5cpjBYYN15NkJBjDVvN4FftS6p6Q8LCrb1AlYnY6KZ65eezH4f3MI7iUzLhC4uvs2anxD6rjcndUB8xANwvjwCGwWTqzOGDN6T6uIwbmfB7X68GKgkHnlQPTXuggSNA5kmsETZ5+2xhTsQc6/aAYUqxBkfmYExEA5P113Haed0PF8mg7bBmyFyp/4/ldcg6+tNxexV1PAfYWPbHvEIfspRfzd0IcRjXvF6UN+7Mzf02K/VZx/Mg5ofR/K/n/xrRr0Iapcz/XD9IN2BeJSQXEESXdAxzcSFZ8T3h4UtMgVptOK0KVsuBCqf4lJRvQ+2Exzcs+guwZ/jgWn8ExkVKxhoDT1rNFHn2ntX5oZNDvn81ZW0tkB4GnFCcHEYdeTUTyNGQ53w5OaFUVVqe7sV8KFYWtT5UT0UC5Wm7KF3Bqpclq+zPk5MmW4USIvjyxIU7drA8AUGNy94B0CDHD7pUemL4sQtVAKl++ZP+zXYlgJPHDGFw==;9TnhzTQoIZ4l5C65yVPLdw=="

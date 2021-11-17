@@ -48,6 +48,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "5 applications of Artificial Intelligence in banking"
+    excerpt: "Artificial Intelligence (AI) has been around for a long time. AI was first conceptualized in 1955 as a branch of Computer Science and"
+    publishedDateTime: 2021-11-17T11:32:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-applications-of-artificial-intelligence-in-banking/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/11/ibs_Artificial-Intelligence.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Zero Density adds AI-powered talent tracking solution"
     excerpt: "Zero Density has added a markerless, stereoscopic talent tracking system to its growing lineup of ... Read More"
     publishedDateTime: 2021-11-16T17:50:00Z
@@ -63,6 +77,6 @@ related:
         height: 621
         isCached: true
 
-secured: "O03tEy9xhX+D6XaE5WLvjNAP6n/zzF39aJBw5WX8iXmvLaMhBJW3QXuyloAraZZhJQ/i4oFtwAg87pUwAsq3lGTdQnNlEjbOT4CpgLzTcsEuurPnS84yAFltFUIrtdfb10/njp4BtrVL8DKlY5/RrDJ7/13WXfKgh7ytb0Ed1fXUEhSIJIimqeHJp/H4DUGgj9HdFGTOfi2pBkYobM0DhBS6KWRaS4KfaIypIBIrza0rXb1iETd01C6uCRoROIBaKZjnK519Eecp9xHCx8xYt9gJqTW0gTfMJhET77Do9DryKHDyJZh4GbkEJjtq9YLhcPafUH4xBn5oLzfXdxpS7GAwlOM7OAPVv9dzdpZMWkY=;VUYx/IbGr40Tc2JOOJdCqQ=="
+secured: "JMofgVKIMv4Vd7meF917k4IFxKQoSHDT2TfTo3JrSeU37pYTmEOMQpJp9plxnbe7GPr2yH8doXpAUGgbLXoI4Mt3oc+/XG4LIq53bnNaFwDABwAQrElQaghM4WIzOLp7IU9Xg7ldRsvIT3Xd0SXD8kmDcOnKLsaRQL7ynspHCWbCBYzi/MYso7VjuVESH3cnbi/X98TmsMVUCcDI1ldr26ku8xSKdN7ve8OEC7Ks5Vx1afYRhnVvHsjRO4fK7+5kXsMq+7P63BGww4IL/t1b3lU00OljzoqPk6COnKVZXDLdwB1M9/YSPf1JdzM9ohHsaSCmyOTCadoc3HcxTyYdaPJJ5F8FAfdFOCVitHb9JnGRTkgbzIkczjdgm+5NlWgUg92HEyK3/uxy+LEa3YsLEbLg6lup2sX0kMx6EbM3c94LSLVOdbgYuoVqy3Tzck+3zsJHh4k26oFI7GMBmv5EHURcICiTREG1zSU9LlP/5sFy5K9G85ZvpHgNuyCMKDMFYCjh/6pLGTfI9KBgC2omXQ==;OPC+WoK1gncgwx48KC8zJg=="
 ---
 

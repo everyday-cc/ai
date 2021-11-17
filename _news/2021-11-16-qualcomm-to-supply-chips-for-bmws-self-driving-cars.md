@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
-    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
-    publishedDateTime: 2021-11-16T17:47:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/qualcomm-diversifying-mobiles-supply-chips-bmw-self-driving-cars-2021-11-16/"
+  - title: "Qualcomm aims for diversification, will soon supply chips for BMW self-driving cars"
+    excerpt: "Qualcomm Inc announced on Tuesday that BMW cars will utilize its chips in its driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-17T11:08:00Z
+    webUrl: "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/"
+    ampWebUrl: "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 83
     images:
-      - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.gizmochina.com/wp-content/uploads/2017/09/qualcomm-chip.jpg"
+        width: 1024
+        height: 588
         isCached: true
   - title: "BMW to use Qualcomm’s Soc for self-driving cars. Know more"
     excerpt: "BMW will utilize Qualcomm Technologies to bring a full spectrum of ADAS/AD functions, including front, rear and surround view camera computer vision"
@@ -56,6 +58,36 @@ related:
       - url: "https://images.livemint.com/img/2021/11/16/600x338/cq5dam.resized.img.1680.large.time1601620546255_1637057024335_1637079144170.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
+    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems. San Diego-based Qualcomm is the world’s biggest supplier of chips for mobile phones but has been diversifying its business,"
+    publishedDateTime: 2021-11-16T16:30:00Z
+    webUrl: "https://www.metro.us/qualcomm-diversifying-from-mobile/"
+    ampWebUrl: "https://www.metro.us/qualcomm-diversifying-from-mobile/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/qualcomm-diversifying-from-mobile/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 37
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEHAF0KK-BASEIMAGE.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
+    excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
+    publishedDateTime: 2021-11-15T18:33:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apple-self-driving-car-fleet-cars-and-drivers/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 24
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/25694662556_a4f9e40693_b.jpg"
+        width: 640
+        height: 320
         isCached: true
   - title: "BMW to use chips from Qualcomm for self-driving technology"
     excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."

@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Comviva and Strands Partner to Provide Personal Finance Management Solution to Banks, digital wallet and payment service providers"
-    excerpt: "Comviva, one of the global leaders in providing digital financial solutions today announced a strategic partnership with Strands to provide"
-    publishedDateTime: 2021-11-17T09:20:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-826558184.html"
+  - title: "Comviva and Strands partner to provide Personal Finance Management solution to banks, digital wallet and payment service providers"
+    excerpt: "Comviva, one of the global leaders in providing digital financial solutions, today announced a strategic partnership with Strands to provide an integrated suite of intelligent digital banking, wallet"
+    publishedDateTime: 2021-11-17T11:00:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: Business Standard
+      domain: business-standard.com
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/995982/Comviva_Logo.jpg?p=facebook"
-        width: 1152
-        height: 603
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/17/full/20211117160421.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "PHm7tjo/6ruik6l7EV754AKblA8newJT/nRr3AoLFvxVSEUMOUzER34D/2iY+5BrHpkuf3whpsToRnFZuUTkdbsqQ9gfiyDjGxvwc9VZu6XGDu6hxFhwD53MA8Gtj6ImhNFziHVzgl1Ry44iyCUtB1f1oS6l62HueXUmnbiuOLshtA7rLv8es8jcpQya54IezeQw6uUeYSYNjFo6U+1xGlCFBnapDi870dOHUaoO+1cDbQGunkaTS37Ti9X2zbew0aWZOl5uzFi3Pib84Uenu93s6uWYEBA6IWoKLdNT3H9boxSlHmIeIgeWNrpk0r7twN+EfX9f+pQKRKdl0x7mViepelYa3LfLARkXAdEq75o=;t71yBju+03Iu+l6Ydx5dKQ=="

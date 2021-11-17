@@ -130,19 +130,14 @@ related:
     quality: 6
   - title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
     excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
-    publishedDateTime: 2021-11-17T07:31:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-engineering-943a3376ae604dd78f0de33017b2b45c"
+    publishedDateTime: 2021-11-17T12:03:00Z
+    webUrl: "https://www.afp.com/en/news/1314/lt-technology-services-chosen-nvidia-and-mavenir-engineering-partner-accelerate-adoption-industrys-first-converged-ai-5g-platform-202111160064971"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: AFP
+      domain: afp.com
+    quality: 0
 
-secured: "t4lk+qnEzprDZ8qxcaRY2zD9cnW4Dj8g/IFpVTuQV0MJGpzVN8Sh4aOCVX0Ycr4VdbBZu/5ZamIQPNJInItiFKCWBDxSsyOW1Dx/hzx3cAlB0IedKmLqnK4BcV59crlcuMBj2QCU2CuLN6tQA9ObK3lUJreFay7In6t8M7Dxvv9wS7PRWshIaeqySWE1iDwSWRRRvnmqVegXpn8Z5KoPAGovi8/DidYXqS4Uxe9vFh9Rvs6B6WxKal2aZ/fg0KiGMVcVWkp0rJ5fRouAIPBokxqV5pfXoY42bNuEjMKWCbuioST6xIiu8UQr85aYgkRaQ0HWWl8gIwz9El3K0qBqsKB/Td6DSWUprnwWu6VhfUE=;77LyGwE2tdYzpO3eaHUm0Q=="
+secured: "JsxrrYc6LvpsLVoI1gyw836eLQYvCnxjeA1bVwkSx7mdOVT6BW2G8p1/2PLwCx2AT3ZxeKZXofK2FUCWgZhJ/LRX70nqyzk2x024RqMFHI967B4BG4M2slc2LNLVOfDcypi46/sX5mw6EeX9Ge8T54YclN8chHwG2wUFEhwZHrRfcwiLFWvhS8Xdq5tOyiSfGjUUe3W+Gq5d4oxDdX/jNlyTpAGVnpJyBh0l4BEXUrCIiHmsu/8hqKrBszYStp1JyCG3DO+CQefo5JJSRthqyOvp5xCkOAITFlhnnNZZBiDUog3uIrX5CuD/zddIN4wKK2vd7Sh5HKoSEab6dqTgacYTOOtzzuOLH2GF5MIwO8a4JFBEtHP3NutyrVUNAxaceenBXDiSipTbFROkk7+X3WIkZjHIxs6QCeF84xZ5PqEpvelNZQOGYUvIy0dgOFKE2QR1igslN5toBASBW01FjOdri8nG0F4j7usqyF6cYEP4uVngAiKHQU/XF14JJJFfatf/dUM2Z6QT+yDaBV6T8w==;ifeo7gvMmRVK5hE9UGM+2A=="
 ---
 

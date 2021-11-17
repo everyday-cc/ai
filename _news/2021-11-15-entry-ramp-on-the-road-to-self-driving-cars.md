@@ -39,20 +39,6 @@ related:
         width: 800
         height: 451
         isCached: true
-  - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
-    excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
-    publishedDateTime: 2021-11-15T18:33:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-self-driving-car-fleet-cars-and-drivers/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 24
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/25694662556_a4f9e40693_b.jpg"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "y1r9bDvwzTWbiIoZmW0xdH0TEf4X2hnoliQM0JTdkLoxJ1iOmffkSih/SDaniKehWNB5VFK4CqWfW5tvdh34f9rFtSmvTBearnSHyjsDZXZLCzLaSubYHQk/6cdm5V4ZWf3cz1QcBnO9CjcvOZxx9RpMmSOwKSd8piIMRNVm2tyczk/9JnASNLMXLLlqaII0SJxtbHST2kM39EgeutrYgI02mFpoh9jbYsJoSExpP8RyLfYHWUeCcUW2lMoH/AvC/Gcqlt9bK3bytXmSCxQrw5wgFMT4G5fSJXbdsiwTOET4+yRN92IojAeAYQRezQ8RLbFTrUdk9s++AZ/SB6vVrz00tbmK2+A3Tyy1wWRW21Fc6FXr0uBTd4YQZa/BAFydTeqm2sYRJjaWZUZlkYpZe+3K6Z3T4yVs/JpvjvqT5//qAcFyS533+y8OqjdNdbhoHLmT/90EbiWpX532QZ0YFc9vyrBWZn/IoUPVeFlZqL4+sIB8a75mz/aTDneS/KmLHs55t9gs0RGp6KC1qwSRJA==;605pue/gFH9iAGvIT4yx8A=="
 ---

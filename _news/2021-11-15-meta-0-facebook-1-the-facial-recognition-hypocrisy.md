@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook, bad news and business ethics: Consider the consequences of every decision"
-    excerpt: "Facebook's recent challenges should serve as a lesson to all leaders to identify and mitigate ethical concerns before they escalate."
-    publishedDateTime: 2021-11-12T20:40:00Z
-    webUrl: "https://www.techrepublic.com/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 83
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2018/07/17/a6335d0b-5cd2-4ef0-b45e-4c9053d26ab6/resize/1200x/66c6341c84855bd86c7adc99fc13dd42/ethics.jpg"
-        width: 1200
-        height: 901
-        isCached: true
   - title: "Strange News: Virgin Condor Births, Ethical AI, Facebook and Facial Recognition"
     excerpt: "Check out this great listen on Audible.com. Scientists discover that the endangered California Condor is capable of producing offspring without the presence of male condors, prompting troubling questions for the future."
     publishedDateTime: 2021-11-15T18:52:00Z
@@ -54,6 +38,48 @@ related:
       - url: "https://m.media-amazon.com/images/I/61CIjwuBRcS._SL500_.jpg"
         width: 500
         height: 500
+        isCached: true
+  - title: "A longtime Facebook AI leader is leaving the company amid an 'exodus' of talent"
+    excerpt: "Ragavan Srinivasan has been an AI leader within Facebook for nearly a decade. He's leaving the company amid difficulty in hiring and retention."
+    publishedDateTime: 2021-11-12T21:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-meta-ai-director-ragavan-srinivasan-out-2021-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://images2.markets.businessinsider.com/618afeba23745d001825ca0c?format=jpeg"
+        width: 701
+        height: 526
+        isCached: true
+  - title: "Trust in biometrics sought with AI Act, government programs and ethical facial recognition"
+    excerpt: "Biometrics adoption is being encouraged in the public sector for digital ID and online government applications as it continues to rise in the private sector."
+    publishedDateTime: 2021-11-13T15:35:00Z
+    webUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 61
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Facebook will drop is facial recognition system — But here's why we should be skeptical"
+    excerpt: "Facial recognition systems, like Facebook’s, identify people by matching faces to digital representations of faces stored on a database. Facebook has more than a billion of these representations on file but now says it will delete them."
+    publishedDateTime: 2021-11-17T05:06:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17423/facebook-will-drop-is-facial-recognition-system-but-here-s-why-we-should-be-skeptical"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 33
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/423/17423/6943972882_7b31832852_c_Hero_Main.jpg"
+        width: 750
+        height: 420
         isCached: true
 
 secured: "N05tI1bwtAFNK4QzBBr7VDXjqaK89LHILuEUxzSYuaYITMIioSCvtBvIyVthRRfHPhXF2K3Dgf+y+uBWdmn7sGNYSmdSzvPk0eOhoJhI4pbxbbCIw64O/s+pnJ6f5btKVUcOQSodCHmQ/73CWuUMRiez/h9XqXdmQ/IrN7oZOAt91rS26G/jfXCuTMN7C7FHKV1aFvorzbTZzivX5s5YDhiaR4/KFdZEzowdwR/wO5ItAYLoj+EpZmOlItP6MScZSNpel0X8rR0RGUYg0sLcu6xYcDNbT3dey2n0btpJ07WlkL8YjxQ4x6ebeLft5MdqhBvBAl9AKXin80ILa4Uh2qHZLHcZ642wB2mVFLZlwPjlsP09yZVvRKjKrh89Upku3t8H/LVkCeulPi2jzOmTEMcuVx2d+6s/K7kipcM2P9ZZJoJTBwnukI3t+v7pbR/W7QOGfATwyGQbhq0x+i1MhJLBlWC8DCPKxPkWY2ajFe5lb1ZypGh0psgPC+9+4nZ+keXjkmt2oiJI89cdsSW+/w==;48O2y9M5EfWUTY7pRh6Bjw=="

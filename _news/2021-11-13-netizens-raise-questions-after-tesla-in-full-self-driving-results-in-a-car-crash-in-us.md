@@ -43,22 +43,6 @@ related:
         width: 4985
         height: 3135
         isCached: true
-  - title: "Tesla owner claims first Full Self-Driving Beta crash in strange NTHSA complaint"
-    excerpt: "In a National Highway Traffic Safety Administration (NTHSA) complaint, a Tesla Model Y owner claims that he was involved in a crash while using the Full Self-Driving Beta, which would be the first reported FSD Beta accident."
-    publishedDateTime: 2021-11-12T20:01:00Z
-    webUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/"
-    ampWebUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 99
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla's 'Full Self-Driving' Beta Appears to Have Caused Its First Major Crash"
     excerpt: "An NHTSA complaint alleges a Telsa Model Y with FSD engaged was \"severely damaged\" after mistakenly turning into the wrong lane and colliding with another car."
     publishedDateTime: 2021-11-13T02:13:00Z

@@ -47,22 +47,6 @@ related:
         width: 4985
         height: 3135
         isCached: true
-  - title: "Tesla owner claims first Full Self-Driving Beta crash in strange NTHSA complaint"
-    excerpt: "In a National Highway Traffic Safety Administration (NTHSA) complaint, a Tesla Model Y owner claims that he was involved in a crash while using the Full Self-Driving Beta, which would be the first reported FSD Beta accident."
-    publishedDateTime: 2021-11-12T20:01:00Z
-    webUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/"
-    ampWebUrl: "https://electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/12/tesla-owner-claims-first-full-self-driving-beta-crash-strange-nthsa-complaint/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 99
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "U.S. regulator reviewing Tesla owner complaint on self-driving test software"
     excerpt: "The U.S. National Highway Traffic Safety Administration (NHTSA) said it is looking into a consumer report that a Tesla Model Y was involved in an accident while using the company's Full Self-Driving (FSD) Beta software."
     publishedDateTime: 2021-11-13T01:45:00Z

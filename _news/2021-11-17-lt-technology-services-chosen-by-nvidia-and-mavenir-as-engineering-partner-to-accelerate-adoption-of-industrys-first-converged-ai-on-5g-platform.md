@@ -2,27 +2,21 @@
 category: news
 title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
 excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
-publishedDateTime: 2021-11-17T07:31:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-engineering-943a3376ae604dd78f0de33017b2b45c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-engineering-943a3376ae604dd78f0de33017b2b45c"
+publishedDateTime: 2021-11-17T12:03:00Z
+originalUrl: "https://www.afp.com/en/news/1314/lt-technology-services-chosen-nvidia-and-mavenir-engineering-partner-accelerate-adoption-industrys-first-converged-ai-5g-platform-202111160064971"
+webUrl: "https://www.afp.com/en/news/1314/lt-technology-services-chosen-nvidia-and-mavenir-engineering-partner-accelerate-adoption-industrys-first-converged-ai-5g-platform-202111160064971"
 type: article
-quality: 1
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: AFP
+  domain: afp.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "NVIDIA Envisions AI For Everything"
@@ -143,6 +137,6 @@ related:
       domain: equitybulls.com
     quality: 6
 
-secured: "47iClJiQ8pAIgPmez58XmFO+NyIhmUyFjn5ofbrIJeM2mVyVMRUMXA6SpNNj2ZNlWExIhUrIscWNY3YX+ypoDa1c9Z2tS3f67Ao+Tv/EEA+GrhuDmYqR3kG7SHOOXeM/BjXyAHOPrJarPU8Q4DMSpqLGEGvhX8DJMiYe6UayQH42BzjNdFG0j9XLGLcJqJLp3cPPsEfflxseAyMvVLkQFK3Wr/m5mGGt2AmovOpnlhGbDA7ktUw1RsjzQ/V9XzGay9RUOnbgDvrwIvVxRPjasX6DOcH6QXeeJ+Biy/X52bLCa6MV4EuG9KxjQD7c0QtHOyYDG/0LWJmIWJKN/ThYUbcR/naOIk+SX1A6p3JnNs8=;m2LN6Q75E0QXj2KgrCcopw=="
+secured: "aHxXE/ur0qODogBeNyZ3izwnEB0NEGn0AIhK+BCoUhRVSMqa+5g09nI1ov1zHitG6idOCBXAd8/DjNk3FKp1Wy5Bj7Q2wySVIieUIB5f9PX5nNRDw1NXkTq9yWmktP5n8xWIHmntvss6rQ20zEYjW64394jWQHJAXmFcYZ2waajOkS6K9TwUOA8pi+9AJJVlXCnC/An9sVwEvL5gFn1mL0r/FlyIA2sPkFwQF1GG75ZRhwxHPgsUZ+u/NTwim7DY0KtFaa7hs+dtnxYt1RMU0CxsxOfEGQRk8cu+ekCH9Jj3Zrt2pLLb52eHD9ZwqnSZbfZoEoDB3D1dhA3W1CB+zHgY4GOeurgrF3TliMbKzoo=;Q6XNCUqdrp8rQ4mYFpwAqg=="
 ---
 

@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Justt, a Chargeback Mitigation Fintech, Secures $70M to Take On Outdated Chargeback System"
+    excerpt: "Justt, a chargeback mitigation pioneer, has announced that it has secured $70 million in funding as it further expands its mission to assist merchants with combating false chargebacks with smart tech."
+    publishedDateTime: 2021-11-17T11:48:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183012-justt-a-chargeback-mitigation-fintech-secures-70m-to-take-on-outdated-chargeback-system/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183012-justt-a-chargeback-mitigation-fintech-secures-70m-to-take-on-outdated-chargeback-system/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183012-justt-a-chargeback-mitigation-fintech-secures-70m-to-take-on-outdated-chargeback-system/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/06/Benjamin-Money-Dollars-100.jpg"
+        width: 1164
+        height: 1280
+        isCached: true
 
 secured: "Y5/XSUNvTuocuhNY/ZToDstMR1OGNNz2IKQfhbRtA/rHzq/JXGTkVCPLgp1/DCmhrKgVhAEs6JzhDeBqv4ms3WoJbOauqUMzcRat0yg/2JYoDGPTSkPTw5aS82QHEiymBypJD9U/agiR55hO7d6jsz5UDYmpfJplZaCNKaMo49Ffx1c3cSVHOKgDTVM2iXiaq5CtpLpU3u/1smh7aV5FY0qIOvhWXZ9lT5VH7EigBGA1IQhj5dDACkwB479vMtzdXQpsiWN0DIKehCISIVIBzTocGOMLWztGoSdH8dwCkkXRCuG/koBpb9DptJrqYZDuhx4sJiQeEAXyI/K7p81Y5Fr9qRcBLQ14TySvFj0lCAX1yoTP0YIUTRDbUaajvW+FJJXdCDKF/19ubx0geeBne1G4IsgvEAYUo+d1F6myXwJ3EoJ70/PH4HZSuaJH8vg+0C3gCBEFalxxNJpnQxjILXNztc9gzGHUcqZ4MUbug5VmDp1IQQMd0b0tUjraawG7BAiB/xM6y9D9/DcEZM055A==;0Kef5A6j8z3iGsUdxBUJqg=="
 ---
