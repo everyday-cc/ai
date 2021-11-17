@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "xbirdhealth"
   url: "https://twitter.com/xbirdhealth"
-  followers: 558
+  followers: 559
 
 size: 2-10 employees
 yearFounded: 2015
