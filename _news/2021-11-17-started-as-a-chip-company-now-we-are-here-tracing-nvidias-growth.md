@@ -130,13 +130,18 @@ related:
     quality: 6
   - title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
     excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
-    publishedDateTime: 2021-11-17T12:03:00Z
-    webUrl: "https://www.afp.com/en/news/1314/lt-technology-services-chosen-nvidia-and-mavenir-engineering-partner-accelerate-adoption-industrys-first-converged-ai-5g-platform-202111160064971"
+    publishedDateTime: 2021-11-17T07:31:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-engineering-943a3376ae604dd78f0de33017b2b45c"
     type: article
     provider:
-      name: AFP
-      domain: afp.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "nyXuUjjIHIVXeOUnzCIXMmP4RrWbjUjQSuiEEFHlR5djN/Ec8k+1hCy/fX2PKRF/HGgS13JZ+4xBKvsnDpNCm52/tkaW/B1NxABHEOJNkzFH/jVlkDfy7rO4TVIVQECBmeJd9X1Le7Z/VscSNk5VHC2Wuybgwaftb1JtjAIko93isV6cjfaofz+2hKQc9fyqAxahukWmQoNaQT5fohpFaV6FXnkNAqAxG8qDuQ+82e15Kfu2GK1L/YAYDTFsZEtBNjmq5epTJZrnnhPQbSxAjLw6TNMzOzmfQVIkGQ8dJ5ZqtyidbXIl4SSxshjLkUlgQjTwl25As6B6xW1q15Ff0Z251cUgdBu81Tv0NWkC5/ORevKya7n1GyEj8xACY82NtJk8PDC1JUMRilaJA0nVgrYcnlkeZQkNcpraoWHwKQmc7mCqRxfUFHVXaKAzwJAf088O43SM2cC/bViTI0dX7qVzBjmcVkUiZFiKCbSBEn5ZrzhMsKGsJeSWbHQoTQ3EEzfovObnhZp59Vo/ZYSweQ==;9TB730JQhZcN1Bx7F76rhw=="
 ---

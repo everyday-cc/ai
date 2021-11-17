@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insura
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/q421%20ubi%20insurance%20hero.jpg?itok=455opSSf"
         width: 1440
         height: 500
+        isCached: true
+  - title: "7 ways AI is redefining the future of the e-commerce industry"
+    excerpt: "In this article, we’ll explain more about how AI is redefining the e-commerce industry and what to expect in the future. AI gathers data from online users, which provides essential insights into their needs."
+    publishedDateTime: 2021-11-17T13:23:00Z
+    webUrl: "https://knowtechie.com/7-ways-ai-is-redefining-the-future-of-the-e-commerce-industry/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2019/04/online-shopping-reviews-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Artificial intelligence and process automation in the fresh produce industry"
     excerpt: "In a webinar hosted by Keelings Knowledge, Julia Baumanns, Technical Delivery Manager at Microsoft, and Tobias Fausch, CIO at BayWa, talked about future technologies in the fresh"

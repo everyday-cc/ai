@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-16T16:40:00Z
 originalUrl: "https://www.wsj.com/articles/hungarys-otp-bank-invests-in-ai-supercomputer-11637084417"
 webUrl: "https://www.wsj.com/articles/hungarys-otp-bank-invests-in-ai-supercomputer-11637084417"
 type: article
-quality: 84
-heat: 94
+quality: 184
+heat: 194
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         height: 394
         isCached: true
 
-secured: "EjQ9lQWrbSfY4juC0anwkjdoFiw1p3eXNspEY7Eb8dnqCoKYx5JtrP7Yad6T2b+fzg/vgib7CqKQUYGz1CFwKMxPYWSJuQRHvOanoM7EcZixbgX8kFyuHkvyEAEY0e9AqW7fg5c4qB0M7arG1qr/P17225LHT8lJRwOrRUTurF3oEB3crnabaHDGc06r4Dhcd1lTu0eXzqZrzMBfo6UfXWgEkrd+1Nmv4uWm8i8LE+5JG8y6uWOa6ezDJWBuvH1MuXwBayb0v9Awj84KYZSOEJPeKgimWf2JuRJDynuo+hM2681tmNf9F9IA8BavkFQ3iG0kdexWtWtLmhdXAppO3ZenlaYACvgQ57YezgMTsYGTtRxiBsWIeGhA62SdZ9TEDWnFqS4mMUy9gMr57r9J49KBBN4ChikrvXzGvSbZbRj7eCb2OPCSLUwQQ7mykgzJNY/MgbNBo0n5mAYQqVXcbTn7tR1Ut598m1/h+ZpgDp4yakVPnWAX5XtxQTTxFeqpf5P7Cx7Orkc0Z9XV9ipf7Q==;GivDn+FFNQfwHYDjJ2lvKw=="
+secured: "jkgZ5lkpahm+cBsn5cCAu55e/kaO08wa2iQ07Exnvn+NUNvs3pNSA/iwPwZHfxGzqpQ4Ibl0PrXKdbdUYzpwNk5Ba4ikPyz1d7fEz6RXX3tcul6eN1ihHJQCsmAUGHVy2Eg2+jFabqvNpyHMHIRXcFX8aHmVEgRH00G615sfmVcU8VDeqHAmcC/+E+J+59Yn3npPvg39n5+5jUFGTPN2HxRyO6zFopmOtGNGvINBua4zM0lvH6Id87kZlRf/ZwA/OQ9A/BWuTDX1+9/paYhgX0vHmPsBrGFgoewtaUnW0rzGTYYghrIrriIXibpXPZLq7OzMPQgmpFmhZPZyPXgda4vUwuzBR5rD8ZT1A4PHC5R4Tp9FzHvJNUkllBOmP4x92OEQdlpXfYfXFd16zJE68cCKF1YrchDJRZaQx/FWJztKXEw0ydzI+ffwwCaS1XVXAfeJ//2GQ0tsRzeOK07ssPsKI8yHFxVYu4XQB7z3g92y2fXl3ZumrdlQNH3c/F+ZgYdeXPDDwdte2LKT+osOlkFkVFd6kqmy3MmRDbzGFc0=;IP7TavZFXKNAaKvsqn/lpw=="
 ---
 

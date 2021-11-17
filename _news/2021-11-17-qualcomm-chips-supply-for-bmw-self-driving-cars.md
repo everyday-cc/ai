@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 588
         isCached: true
+  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
+    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-16T17:47:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/qualcomm-diversifying-mobiles-supply-chips-bmw-self-driving-cars-2021-11-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+    images:
+      - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Qualcomm to supply chips for BMW's self-driving cars"
     excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
     publishedDateTime: 2021-11-16T13:52:00Z
@@ -72,22 +86,6 @@ related:
       - url: "https://images.livemint.com/img/2021/11/16/600x338/cq5dam.resized.img.1680.large.time1601620546255_1637057024335_1637079144170.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
-    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems. San Diego-based Qualcomm is the world’s biggest supplier of chips for mobile phones but has been diversifying its business,"
-    publishedDateTime: 2021-11-16T16:30:00Z
-    webUrl: "https://www.metro.us/qualcomm-diversifying-from-mobile/"
-    ampWebUrl: "https://www.metro.us/qualcomm-diversifying-from-mobile/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/qualcomm-diversifying-from-mobile/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 37
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEHAF0KK-BASEIMAGE.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
     excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
@@ -131,6 +129,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Qualcomm to make self-driving chips for BMW"
+    excerpt: "Qualcomm Technologies, Inc. will build automotive semiconductors for BMW Group’s next generation of advanced driver assistance systems (ADAS) and self-driving platforms. BMW’s next-generation automated driving stack will be powered by the Snapdragon Ride vision system-on-chip (SoC),"
+    publishedDateTime: 2021-11-17T13:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17434/qualcomm-to-make-self-driving-chips-for-bmw"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "OmQ7HltawYxogYhfjFU/Vg5Rb3zKwDKmjJA098XrlNsoSs+P7Ttxc6clmkM8tOjSDR2OdA8qAxiHFzHS8RAW1Ms9qHodypyGHIhg+hv34fetw4a9DG2/WHkHOCAOlMzVrU4C+clzMJy8kMLMsyokmBktjUefhkXflzkHk730O0kwi2H/+6NQT7ITT9VGUR68SkxbY76bDmnW31E45iitxIewDasFuFRp5tfGSr9KriyrXu0IRFN4ZVY9KJSb/PJUzEoz9yg2BMERZxTlS4bF2k2BoIpPi5Wl3xq5UaffFE6asiY31scgL6B6n/xXfcysmr3sjkD6Uk2hRwnC3logGtGJhhfIv0t/l7Lg2A+3/Nw=;RQdZymriPTnRepM+wwEmyQ=="
 ---

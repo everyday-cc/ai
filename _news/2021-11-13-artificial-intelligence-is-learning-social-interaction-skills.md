@@ -7,7 +7,7 @@ originalUrl: "https://elearningworld.eu/ai-learning-social-interaction-skills/"
 webUrl: "https://elearningworld.eu/ai-learning-social-interaction-skills/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,56 @@ images:
     width: 421
     height: 300
     isCached: true
+
+related:
+  - title: "Turning machine learning insights into AI-powered actions with Cooling Advisor"
+    excerpt: "We’ve seen how comprehensive monitoring combined with machine learning algorithms can uncover and continually track the cooling zones within a data center – presenting a core foundation for effective automated cooling within critical facilities."
+    publishedDateTime: 2021-11-17T06:34:00Z
+    webUrl: "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 50
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGqT973IWCyBg/article-cover_image-shrink_720_1280/0/1637130532152?e=1642636800&v=beta&t=QMXlfweJHenMNy_WSANrdWLQC4jrZ8jEVFVGDHgNUVE"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Texans in major need of driving instruction"
+    excerpt: "A historically inefficient offense has defined a rebuilding Texans franchise that insists it is trying to be competitive. Drives end swiftly — mostly without points, often with a turnover — and when the offense returns to the sideline,"
+    publishedDateTime: 2021-11-17T00:18:00Z
+    webUrl: "https://www.houstonchronicle.com/texas-sports-nation/texans/article/Texans-in-major-need-of-driving-instruction-16626779.php"
+    ampWebUrl: "https://www.houstonchronicle.com/texas-sports-nation/texans/amp/Texans-in-major-need-of-driving-instruction-16626779.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/texas-sports-nation/texans/amp/Texans-in-major-need-of-driving-instruction-16626779.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/65/27/21714417/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Sketching the Sun with AI"
+    excerpt: "These track the Sun and reflect its light to the scope’s objective lens, which projects a 17-inch-wide (43 centimeters) image of the solar disk onto a piece of paper on a table in a ground-level observing room below."
+    publishedDateTime: 2021-11-16T16:00:00Z
+    webUrl: "https://astronomy.com/magazine/news/2021/11/sketching-the-sun-with-ai"
+    type: article
+    provider:
+      name: Astronomy
+      domain: astronomy.com
+    quality: 17
+  - title: "Automobile Acceptance Corporation Goes Live with Scienaptic's AI-Powered Credit Decisioning Platform"
+    excerpt: "Scienaptic, a leading AI-powered credit decision platform provider, announced today Automobile Acceptance Corporation (AAC) has deployed its solution, positioning AAC to streamline its lending processes while helping dealers approve more loans to underserved buyers."
+    publishedDateTime: 2021-11-15T12:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-automobile-acceptance-corporation-goes-live-with-scienaptics-ai-/2021/11/15/9491744.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "o4QAWkh8GVMjrxnqY3SAxhmO/10CcNkIhifLxfy6BaBQ4N/Q/Xh0WS+TcPBbUtfgmzD44jottXal27REfpcTaudYsrQVUNqxAXxSHWd4IksRJiFoKtLgizQlFgubEyevlJgpi09eM2iaZURfuadxEBeyqAgi78RRd6RO97eijNFYnOdBNvIXCqGQ5T2wRXSS5n5aRsu2bIpZsJ0OKKB3aM/OW0s+GKwdiUSYepSP3VF9PsBkpNObYW7IEU05QoQXUrBFnotoE5mm5BcOut8Prpd07bivRTKstgQEMfr4bXTfj4GH4otw4VZjHHrUFAYD0mb56+vQ0zkHnbQte0nE04BJ9vkIDxBfEtMtRXXGqy8=;rnAU09WW6v5upnGJ+vf+dQ=="
 ---

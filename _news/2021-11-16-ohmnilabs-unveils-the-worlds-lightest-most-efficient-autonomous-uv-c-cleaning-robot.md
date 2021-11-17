@@ -1,29 +1,23 @@
 ---
 category: news
-title: "OhmniLabs Unveils The World’s Lightest, Most Efficient Autonomous UV-C Cleaning Robot"
-excerpt: "Nov. 16, 2021 /PRNewswire/ -- OhmniLabs, an award-winning robotics company, today introduced OhmniClean ... “At a time when sterile cleaning and infection control are top of mind, OhmniClean is helping to restore normalcy by simplifying existing ..."
-publishedDateTime: 2021-11-16T14:56:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-robotics-e6a5c2665d17dacaf855a9bbc0fe57b2"
-webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-robotics-e6a5c2665d17dacaf855a9bbc0fe57b2"
+title: "OhmniLabs Unveils The World's Lightest, Most Efficient Autonomous UV-C Cleaning Robot"
+excerpt: "OhmniLabs, an award-winning robotics company, today introduced OhmniClean™, a fully autonomous robot that disinfects utilizing the power"
+publishedDateTime: 2021-11-16T12:45:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ohmnilabs-unveils-the-worlds-lightest-most-efficient-autonomous-uv-c-cleaning-robot-301424661.html"
+webUrl: "https://www.prnewswire.com/news-releases/ohmnilabs-unveils-the-worlds-lightest-most-efficient-autonomous-uv-c-cleaning-robot-301424661.html"
 type: article
-quality: 32
-heat: 32
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "MTny/19oQSVettEdAP8BRsmk5sC0oLmVKpEmMpeiuUQxysih6PHH1srQG+/QcpKtR1CBzqb93PWlhnB+l5He21zyZAMCsfemJXk3fos+XslM/LKHw4yCgMsBmmXcPT7yO8D3A0YayX7DuEmoFbgg8WcRXBkogPZUI9ckkHAUYl1HZynouQj2f4bwFQyb7RCgtF0/Uav662H+GykWueOimTXpdgL3EjaJjGCgic08J9xe8f1tI3K2bfQmRvB32GCa4R922n7kfiQmPeMbJMal+3spPV1s3XUDRXyFJFJXIAm0T4wF4AduFx4EQ0siHSG+EoVib4ag5B8qOXLXR3QwpleRDC1JjNWKFViLjgrgpAU=;preOj6yGGn4HIPv3n3cFkA=="
+secured: "rKBjWvcsYpVCz9bSZuxDzLgjQ/q+TVsE/A6XdJjVHNQtb9MXRYk74o3gnvM1rM69i+UTz4Ek52Y3ZOEPAZEqAUV9dC3DzDv7TmikDjw+kHhHj8Vy0rSTHBkm6j/sIfUlhU7F+OTvK0R7646qOVynWL4CRD84dgJJQzRNLa/orCJsqCxsOwH2Nd4SZL4STHBMdi8aFvTWSlzmG2Sgpha4S5WNIblPILZIURj5fYC6WsYX6/2EHBwdWUy5IbUfXnaj/tyesprgoq+yFL6IeBoPmUQrVxy1q11NUD121uQmPbe5ZthXeBfbCe3AMw9doi5r/AGSntByRR556etnZ4E0rJexeq+8zIqcQz5iLPhiOIo=;SqEC29obBeBZTNDJslCgVQ=="
 ---
 

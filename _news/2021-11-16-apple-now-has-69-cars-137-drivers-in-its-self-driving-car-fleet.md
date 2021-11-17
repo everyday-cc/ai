@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 588
         isCached: true
+  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
+    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-16T17:47:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/qualcomm-diversifying-mobiles-supply-chips-bmw-self-driving-cars-2021-11-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+    images:
+      - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Qualcomm to supply chips for BMW's self-driving cars"
     excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
     publishedDateTime: 2021-11-16T13:52:00Z
@@ -72,22 +86,6 @@ related:
       - url: "https://images.livemint.com/img/2021/11/16/600x338/cq5dam.resized.img.1680.large.time1601620546255_1637057024335_1637079144170.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
-    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems. San Diego-based Qualcomm is the world’s biggest supplier of chips for mobile phones but has been diversifying its business,"
-    publishedDateTime: 2021-11-16T16:30:00Z
-    webUrl: "https://www.metro.us/qualcomm-diversifying-from-mobile/"
-    ampWebUrl: "https://www.metro.us/qualcomm-diversifying-from-mobile/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/qualcomm-diversifying-from-mobile/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 37
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEHAF0KK-BASEIMAGE.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "BMW to use chips from Qualcomm for self-driving technology"
     excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."
@@ -131,6 +129,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Qualcomm to make self-driving chips for BMW"
+    excerpt: "Qualcomm Technologies, Inc. will build automotive semiconductors for BMW Group’s next generation of advanced driver assistance systems (ADAS) and self-driving platforms. BMW’s next-generation automated driving stack will be powered by the Snapdragon Ride vision system-on-chip (SoC),"
+    publishedDateTime: 2021-11-17T13:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17434/qualcomm-to-make-self-driving-chips-for-bmw"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "Yd8R2B25Zz0dJwT2u8wOnBn2ZOiuLPVcN6SctLZcQTOE0nxS8qbhGcgy4m+FmYlFceFdctOpwapHZa00FIH+6u0AFndYd7PVKCl11dWnIP6+596V2mk1nqFTpISEmxmnW4F4FgDVxXEWMezGgW0aM9XiyOs1G0EOhhaNB6q3yGMEhzG7PLtBTq/nGj0Gzwi08jG6hmDHrE+ZrbfcpD7rr0ZSMx2tRPsHhL6kS0Y5wtkAxrRofFAHkSxcNNh14WoAR6cI79093WdRPIbirGpOuB8Q444q/7gIw8tqAx6irA/q4+CJoSfUh+52AIwx7PhX5OogPUWTbtUi7iMLGApDPLiUT2Waq54OicvLw1q943h4yEzyqODISguOjLoLcMWFKP5nTL40l4H12xVbTbwnjaCIOUmp87/LBSg25CEOCyA3RcaXZFXYoaYybNxw7+lNDPPZaWf39B3phJk9mIWJbRfPu2GKNmo3Rtsk4b7J808k4UAmRfJGE8QAm0NC3ZcIgZo5f4I+PX655OdMtyJjZw==;cSoXSzzowG+H95OgzRERSA=="
 ---

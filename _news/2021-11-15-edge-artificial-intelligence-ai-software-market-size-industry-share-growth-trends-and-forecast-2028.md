@@ -24,36 +24,59 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Drug Discovery Market 2021 - Industry Outlook, Growth Factors, Demand Drivers, Trends Analysis, And Forecast"
-    excerpt: "Artificial Intelligence AI In Drug Discovery Global Market Report 2021 COVID 19 Growth And Change by Research Company is the most comprehensive report available on this market with analysis of the market s historic and forecast growth drivers"
-    publishedDateTime: 2021-11-16T04:17:00Z
-    webUrl: "https://www.openpr.com/news/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub16875132_g.jpg"
-        width: 800
-        height: 2000
-        isCached: true
-  - title: "Metabolic Disorders Drugs Market Players Revolutionize Treatment With AI Integration"
-    excerpt: "Metabolic Disorders Drugs Global Market Report 2021 - COVID-19 Impact And Recovery The Business Research Company's Metabolic Disorders Dru"
-    publishedDateTime: 2021-11-17T10:44:00Z
-    webUrl: "https://menafn.com/1103190355/Metabolic-Disorders-Drugs-Market-Players-Revolutionize-Treatment-With-AI-Integration"
+  - title: "Artificial intelligence and Advanced Machine Learning Market Size, Share, Trend and Forecast Till 2028"
+    excerpt: "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2"
+    publishedDateTime: 2021-11-17T14:44:00Z
+    webUrl: "https://menafn.com/1103192538/Artificial-intelligence-and-Advanced-Machine-Learning-Market-Size-Share-Trend-and-Forecast-Till-2028"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 32
+    quality: 40
     images:
-      - url: "https://menafn.com/updates/pr/2021-11/17/EP_7f859image_story.png"
-        width: 967
-        height: 493
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934797"
+        width: 539
+        height: 249
         isCached: true
+  - title: "Artificial Intelligence in Food and Beverage Market Size Forecasted to Reach Valuation of USD 62.83 Billion In 2028"
+    excerpt: "The global Artificial Intelligence (AI) in food and beverage market size is expected to reach USD 62.83 billion in 2028 and register a robust CAGR of 44.4% throughout the forecast period. Consumer shift towards fast,"
+    publishedDateTime: 2021-11-15T15:04:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-food-and-beverage-market-size-forecasted-to-reach-valuation-of-usd-62-83-billion-in-2028/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-food-and-beverage-market-size-forecasted-to-reach-valuation-of-usd-62-83-billion-in-2028/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-food-and-beverage-market-size-forecasted-to-reach-valuation-of-usd-62-83-billion-in-2028/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 35
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Artificial-Intelligence-in-Food-and-Beverage.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Artificial Intelligence in BFSI Market Report 2020 by Global Key Players, Countries, Size, Forecast to 2028"
+    excerpt: "The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 SURREY, BRITIS"
+    publishedDateTime: 2021-11-15T06:45:00Z
+    webUrl: "https://menafn.com/1103171654/Artificial-Intelligence-in-BFSI-Market-Report-2020-by-Global-Key-Players-Countries-Size-Forecast-to-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?220416"
+        width: 374
+        height: 250
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Size, Competitive Analysis, Share, Forecast- 2019-2025"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2019-2025. Technological advancements across the globe have paved their ways across numerous industry verticals."
+    publishedDateTime: 2021-11-15T14:19:00Z
+    webUrl: "https://www.xing.com/communities/posts/automotive-artificial-intelligence-market-size-competitive-analysis-share-forecast-2019-2025-1020040459"
+    type: article
+    provider:
+      name: XING
+      domain: xing.com
+    quality: 6
 
 secured: "0uBPFE0aqD+O3reXkHlybfdXOKYFwCptlEEMIcVQBrCMa3L6fZslJ9xihXcJ8Vy5UtlbIbQWR0CZhD/gVZ/qKsQ7yeQ7BGYw1YcKMca7Vtrk7U2rZ+2aSrTmN3k6QXg+SLfUx7hP7zD6AE2KwK1hk21cl4snRWnP4bfn38qecnY5ITMnEt8Jnjz4OlJ9yTDSRFF/vdMN/Cx97lhIzy5BMcNeBTd9KzpQ5o9GCnTmKgqWPN1Km7sd3gjdgOfcmih/3KELT2ytYanZePs4NOKKtSvX5he4yJioSj4o9N6TLmNMT1RLeqbGAaiFIIfkeKniO9KPu9t3JBq+PGVg4RcS7LAlXabS5/7xFlEUFPMEFCA=;j9ZVbyHmqeME1WOILLpP9w=="
 ---

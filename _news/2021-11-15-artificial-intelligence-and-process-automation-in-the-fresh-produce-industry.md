@@ -56,6 +56,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "7 ways AI is redefining the future of the e-commerce industry"
+    excerpt: "In this article, we’ll explain more about how AI is redefining the e-commerce industry and what to expect in the future. AI gathers data from online users, which provides essential insights into their needs."
+    publishedDateTime: 2021-11-17T13:23:00Z
+    webUrl: "https://knowtechie.com/7-ways-ai-is-redefining-the-future-of-the-e-commerce-industry/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2019/04/online-shopping-reviews-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "What's Next for Data Processing? A Closer Look at In-Memory Computing"
     excerpt: "Evangelos S. Eleftheriou - CTO of  Technology is progressing at an incredible pace and no technology is moving faster than Artificial Intelligence (AI)."
     publishedDateTime: 2021-11-15T14:14:00Z

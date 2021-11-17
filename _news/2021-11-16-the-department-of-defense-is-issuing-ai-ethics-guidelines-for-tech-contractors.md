@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/11/16/1040190/department-of-defen
 ampWebUrl: "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/amp/"
 type: article
-quality: 70
-heat: 70
+quality: 170
+heat: 170
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 1687
     isCached: true
 
-secured: "R268VJRooV8ugZi6bvBPT0fGAFoPN/1QpabYJLr5uPWs1VE6gmjRingFcBamHQZHpyFedyMnXTukMjUEFZmbqu95mN74vHIm+VcDP3U5uFf9Knk3kJeOOIQf7r+u8VWwjOPE1gNc9nI0ZNfLhgAiH43f3J6AsnK+lYiFKkgF0Lub50N61nt3U5NAl1twlxsM+nHPRVGHZLx7DROwX8ow7KS+gaeYhi+hcH4OVhIyn0khPrcjUH7Xyaie2L/dFwZaw341g+B1KSojubaYUtIlEX8Zi2LQN6KVaj5VaLmMRw+3U0a6B8O5MyDv82SA5IshJn0rnHEHPjx1rPWzB8C5NAqdQ7PIUbnx+X8QLiqq1nXhKS6dDV4Yl6rKNxPnqaBfvAyRSHHAxJkqX4TlZ7juyYop+fCEeHaQRvcwgjGCPfa+OIlKKiRgnqwd0Qwa2U97F2C/jTsNs/aVcBhFnmQBQ7ojUOtHN4Spszre5yzKh2brCI/Or5fYhDWIikDxBNDUvaLwFS66XevTogJ4gcGGig==;dmExL2CVwboQztt6GMihtQ=="
+secured: "FWqszyBIUBP51ey/pnNJnfiy5Ynk7/9lRtD1b9NM+EiMbSXOb9M0BK6TjMgE47N+BEkqCS+aQQFu3PPrYaVSnBDlf7b/zedonuinfRWo3r7YlTCi/b6EwwnascWXIpTbuutwIDldFUqOI2J+Qq732qB1RBGEyACbw1vfHEZHYdcE+tmzAggZdmXD39zM0KoV1zGWzDS+QXdpmHu6S9azAlIZbSCHCQys+tOh9ktaXrKPWGdm1cqw/hmeUuxLBfDfPfoTNmLiQh7RErW1ydlPHerREzVOlW0ndAc7WIfT8itAFM/+aKP6UaX52bxnBekpPbmPJ4XjHIoG8/QX0fQPioZGtcWA1/K18GHzq4KfC9KmmjYvfdQu+6k26Cv3WOwVJ3j+aclYBMh73JzzxSTR1Qgo/NuDJiocxffnoSlCtrf9GTjLGQpquVsZLZQmoyuwPLDzsArj9VU5Er6ZhIArRNn7OzPhtSQ/HIGP45zPoFty2/xVoNe51+lNiVjeIbjXt7q6/wPRF9/h4uobzK17Rmd+dyIVNf/fOEgX6bx/Lrg=;R84YeJi0/Y8ltsE8XW5big=="
 ---
 

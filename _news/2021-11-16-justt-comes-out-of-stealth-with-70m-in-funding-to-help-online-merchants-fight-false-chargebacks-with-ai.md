@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-i
 ampWebUrl: "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/"
 type: article
-quality: 70
-heat: -1
-published: false
+quality: 170
+heat: 190
+published: true
 
 provider:
   name: TechCrunch
@@ -63,6 +63,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "Y5/XSUNvTuocuhNY/ZToDstMR1OGNNz2IKQfhbRtA/rHzq/JXGTkVCPLgp1/DCmhrKgVhAEs6JzhDeBqv4ms3WoJbOauqUMzcRat0yg/2JYoDGPTSkPTw5aS82QHEiymBypJD9U/agiR55hO7d6jsz5UDYmpfJplZaCNKaMo49Ffx1c3cSVHOKgDTVM2iXiaq5CtpLpU3u/1smh7aV5FY0qIOvhWXZ9lT5VH7EigBGA1IQhj5dDACkwB479vMtzdXQpsiWN0DIKehCISIVIBzTocGOMLWztGoSdH8dwCkkXRCuG/koBpb9DptJrqYZDuhx4sJiQeEAXyI/K7p81Y5Fr9qRcBLQ14TySvFj0lCAX1yoTP0YIUTRDbUaajvW+FJJXdCDKF/19ubx0geeBne1G4IsgvEAYUo+d1F6myXwJ3EoJ70/PH4HZSuaJH8vg+0C3gCBEFalxxNJpnQxjILXNztc9gzGHUcqZ4MUbug5VmDp1IQQMd0b0tUjraawG7BAiB/xM6y9D9/DcEZM055A==;0Kef5A6j8z3iGsUdxBUJqg=="
+secured: "K/M43GBZvH4n2Ej55X2IbQSCHE98OgarBz9PAs/Rgdlu8Mp2xrXzFU9Uw4a0GakIMEQs20dHtm4mf0lvqDyAdp2r+6YTM11TYmbNClKO7QGFAkUw/Ol4yG4HxHP+nw1knUO8aHT1Gc6la3i9MIGDHz3yj/KPvG6Tkli7CPgMf7KLAY0BrrHRylfs2M22Wo6Dd3kfPmDg2M4Q1QK1QFzizepKolDtjAsTNa1D3SOJC4Drk5VDyhbdqzwuqNOzWx0IZlwSYymjXKlHKsdk4dFcHOf5XawCnxfKt+v8IM8LUCzptlzeNzgLvERgRcK+tD3ZDMfCcMHiv5HLDPEGCUmYzrf84DeLlemtjURCIscXTGL76jgLNJ1xOvb+64qSgIUuwApcrDhLuMVLCSBl45ij0hMutMrMKuE+ly9ulL5CTcTOLehNbqd5DIw6p7gpeGI5rD7q0w5pQxNVx9ps86knuiFe/nPrqNaGDvA1DL8QsXs4N5QIa94OAMVVNXEgF3p9j7e/wk9mHSaJGUqwJTIEmScV742LGHxsWQM+Lup8nwk=;cJG6h32RX36Zq3OJ5vTEVg=="
 ---
 

@@ -40,20 +40,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "A longtime Facebook AI leader is leaving the company amid an 'exodus' of talent"
-    excerpt: "Ragavan Srinivasan has been an AI leader within Facebook for nearly a decade. He's leaving the company amid difficulty in hiring and retention."
-    publishedDateTime: 2021-11-12T21:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-meta-ai-director-ragavan-srinivasan-out-2021-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://images2.markets.businessinsider.com/618afeba23745d001825ca0c?format=jpeg"
-        width: 701
-        height: 526
-        isCached: true
   - title: "Trust in biometrics sought with AI Act, government programs and ethical facial recognition"
     excerpt: "Biometrics adoption is being encouraged in the public sector for digital ID and online government applications as it continues to rise in the private sector."
     publishedDateTime: 2021-11-13T15:35:00Z
@@ -67,6 +53,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Facebook Decides Against Facial Recognition…For Now"
+    excerpt: "The company has become more aware of privacy concerns by banning facial recognition, but critics say that it has not altered its DNA."
+    publishedDateTime: 2021-11-17T09:15:00Z
+    webUrl: "https://www.smallbiztechnology.com/archive/2021/11/facebook-facial-recognition.html/"
+    type: article
+    provider:
+      name: smallbiztechnology.com
+      domain: smallbiztechnology.com
+    quality: 54
+    images:
+      - url: "https://www.smallbiztechnology.com/wp-content/uploads/2021/11/facebook-facial-recognition.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Meta-0, Facebook-1: The Facial Recognition Hypocrisy"
     excerpt: "Facebook has stopped the usage of facial recognition technology on its platform; however, parent company Meta has not made any such commitments."

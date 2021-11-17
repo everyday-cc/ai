@@ -2,21 +2,27 @@
 category: news
 title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
 excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
-publishedDateTime: 2021-11-17T12:03:00Z
-originalUrl: "https://www.afp.com/en/news/1314/lt-technology-services-chosen-nvidia-and-mavenir-engineering-partner-accelerate-adoption-industrys-first-converged-ai-5g-platform-202111160064971"
-webUrl: "https://www.afp.com/en/news/1314/lt-technology-services-chosen-nvidia-and-mavenir-engineering-partner-accelerate-adoption-industrys-first-converged-ai-5g-platform-202111160064971"
+publishedDateTime: 2021-11-17T07:31:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-engineering-943a3376ae604dd78f0de33017b2b45c"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-engineering-943a3376ae604dd78f0de33017b2b45c"
 type: article
-quality: 0
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: AFP
-  domain: afp.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "NVIDIA Envisions AI For Everything"
@@ -137,6 +143,6 @@ related:
       domain: equitybulls.com
     quality: 6
 
-secured: "aHxXE/ur0qODogBeNyZ3izwnEB0NEGn0AIhK+BCoUhRVSMqa+5g09nI1ov1zHitG6idOCBXAd8/DjNk3FKp1Wy5Bj7Q2wySVIieUIB5f9PX5nNRDw1NXkTq9yWmktP5n8xWIHmntvss6rQ20zEYjW64394jWQHJAXmFcYZ2waajOkS6K9TwUOA8pi+9AJJVlXCnC/An9sVwEvL5gFn1mL0r/FlyIA2sPkFwQF1GG75ZRhwxHPgsUZ+u/NTwim7DY0KtFaa7hs+dtnxYt1RMU0CxsxOfEGQRk8cu+ekCH9Jj3Zrt2pLLb52eHD9ZwqnSZbfZoEoDB3D1dhA3W1CB+zHgY4GOeurgrF3TliMbKzoo=;Q6XNCUqdrp8rQ4mYFpwAqg=="
+secured: "YBGeKW6jhleF0/ItWOod8pua5tz1iKxJB5H9qgbUVOyQVEkG2xQs/P+Ixqpu91taBLdqdxAu2mIEU5F6NoG6+WgvXwAqBQ5aMdbAQXQCbZsx2sa7bZF+AV18Esm85C/OC/UR3WjUg56Yot0p7PgRYQtOkQkKeHGyzhe3B5yaGRUpjcS47N7vn/nPcAY3hHbq3pL+Fd3Wp/M6Y+WzxjNRVhbK6mKEl3xqQhqwnbFbI7rNpWW4cv+uA7872YEH5G9ZUkFULIu6eGUBWqtjCpvZIUppTS31Q4X8uCtF2p6ypLiaMpv21JAYfSH/i8csMXcuuBsWa9oQ5d+Gngrw97vKRvDwFAbpBoeONvqbkSeEZqU=;u0AjcXesRTQy4DuXZ0FGPg=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "How self-driving cars perform in fog"
+    excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
+    publishedDateTime: 2021-11-17T13:45:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17435/how-self-driving-cars-perform-in-fog"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/435/17435/Waymo_Fog_11-21.png"
+        width: 752
+        height: 423
+        isCached: true
 
 secured: "y1r9bDvwzTWbiIoZmW0xdH0TEf4X2hnoliQM0JTdkLoxJ1iOmffkSih/SDaniKehWNB5VFK4CqWfW5tvdh34f9rFtSmvTBearnSHyjsDZXZLCzLaSubYHQk/6cdm5V4ZWf3cz1QcBnO9CjcvOZxx9RpMmSOwKSd8piIMRNVm2tyczk/9JnASNLMXLLlqaII0SJxtbHST2kM39EgeutrYgI02mFpoh9jbYsJoSExpP8RyLfYHWUeCcUW2lMoH/AvC/Gcqlt9bK3bytXmSCxQrw5wgFMT4G5fSJXbdsiwTOET4+yRN92IojAeAYQRezQ8RLbFTrUdk9s++AZ/SB6vVrz00tbmK2+A3Tyy1wWRW21Fc6FXr0uBTd4YQZa/BAFydTeqm2sYRJjaWZUZlkYpZe+3K6Z3T4yVs/JpvjvqT5//qAcFyS533+y8OqjdNdbhoHLmT/90EbiWpX532QZ0YFc9vyrBWZn/IoUPVeFlZqL4+sIB8a75mz/aTDneS/KmLHs55t9gs0RGp6KC1qwSRJA==;605pue/gFH9iAGvIT4yx8A=="
 ---

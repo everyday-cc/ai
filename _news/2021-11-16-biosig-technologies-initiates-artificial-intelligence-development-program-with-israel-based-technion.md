@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "The Role of AI Technology in Cancer Detection, Diagnosis and Treatment"
+    excerpt: "On the cusp of artificial intelligence (AI) becoming a ubiquitous feature of our everyday lives, researchers discover that intelligent systems thinking offers a wealth of potential applications in the fight against a cunning human adversary: Cancer."
+    publishedDateTime: 2021-11-17T14:04:00Z
+    webUrl: "https://www.medtechintelligence.com/column/the-role-of-ai-technology-in-cancer-detection-diagnosis-and-treatment/"
+    ampWebUrl: "https://www.medtechintelligence.com/column/the-role-of-ai-technology-in-cancer-detection-diagnosis-and-treatment/amp/"
+    cdnAmpWebUrl: "https://www-medtechintelligence-com.cdn.ampproject.org/c/s/www.medtechintelligence.com/column/the-role-of-ai-technology-in-cancer-detection-diagnosis-and-treatment/amp/"
+    type: article
+    provider:
+      name: medtechintelligence.com
+      domain: medtechintelligence.com
+    quality: 39
   - title: "BioSig Initiates Artificial Intelligence Development Program with Technion – Israel Institute of Technology"
     excerpt: "Over the years, the Technion established itself as a leading academic institution in Artificial Intelligence (AI). It is currently ranked as number one in AI in Europe and 15th in the world, with 100 faculty members engaged in areas across the AI spectrum."
     publishedDateTime: 2021-11-16T14:52:00Z

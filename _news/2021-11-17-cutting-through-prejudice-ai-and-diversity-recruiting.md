@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cut
 ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f579a2d027e9987faa1ed1%2F0x0.jpg"
@@ -47,6 +48,6 @@ related:
         height: 315
         isCached: true
 
-secured: "CfbYN7cPQPnNhKT7YNJzlk4RgBEgwihURmZ1oAHMYLIIQ7KVaJ3nRd/tj9WrW8x43X0uEMAXNbzjjnukCrc9n6ngGaIr4VOKB+98dtAjUACfglCkTSBUSityn7u0TUlwVSpFNSkuPWBGDeC/mBx/THoPj4wNacLyNu46dJUvQe+4LO5yg6f5rbQok8U+2ogNAHaKaXUXnrmyL3ZUMi4VKYKafL40qemMn3vt9NaKDyf5B2/UWk2Ixge8donjFD2+IkZ4lk877bvdxl8MW15BcAXMk3Fq9xWXYkq0zMq4wUnI4t0ZnV8u3oPFH+DvhacBus/EXY6vuhyu//bQYs7XWAvqDyhffDN8kh5iyCQpdPE=;8k1TrpFrwB9UaYclzxQ62A=="
+secured: "+DZbJNfdxrrZthgUTKFIwQnFIunsSuoudnB4J5JjnNQFpfxmi9oxPy2UXqY1dyov4mpFUTkHswDAoTje9GMd9T9C7Omwbnr+BfZhkkVB+WxD13si6fj20zYtB7FTERjzuyFFCrsQp6qHBQ3uAP9caUYoLLsabeBw2L748V8d1VxkmAHir7cEYRQMMZJtNEU+Ye9gB2xDLmz9Yv4bQIsFjkjEXtL74kaoDqr12kyyFUNkYDJn20ubv5RfQsFHL9APxqDJCvbcyYGoe5RMCTtiPy1iJ0DM4COhkuzK9SvjmpOYQJ6prejOtC8y7Uk6GOwPz6HOlET+ohIkFcVtKVIWOEEkjlnSrPB5F55cIwwKr0CG9nJqLCfTE47f17DwPpUxSlQ4guk+07tzB6Vp1/mp1lqcjzWopnCyhIn3br0Bz+GjwhhxAylgwRK5Fb5beP9U9NsDgL9vlmGgnVedyAL8hMJFCI+4KZBtNGlHsq0h7mzSduhV33tshbKzw5xyhOKa4f5gDKzcrhpetR4OMrXR1g==;Xdy/lZvDUc0c2+zzCQccpg=="
 ---
 

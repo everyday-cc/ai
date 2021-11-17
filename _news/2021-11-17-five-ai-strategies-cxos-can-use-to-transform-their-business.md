@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,7 +61,21 @@ related:
         width: 1620
         height: 1080
         isCached: true
+  - title: "Transform to Outperform in The Age of AI"
+    excerpt: "Most of us already live with AI, from the watches on our wrist that track our sleep and heart rate, to ads that follow us everywhere we go, from something as simple as the autocorrect on our phones or the (sometimes annoying) predictive text that pops up when we write an email – All of it is AI."
+    publishedDateTime: 2021-11-17T13:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/transform-outperform-age-ai-zycus"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGIQNrWRobf7w/article-cover_image-shrink_720_1280/0/1627314958690?e=1642636800&v=beta&t=yqoVmLeB-gcuxmn0ovXNU_UPgaRFpKy1q_dP_YkBK1A"
+        width: 1200
+        height: 627
+        isCached: true
 
-secured: "uyG1JsDkh5hmH5n0JEOazBEtoDiWyTK5qkcWyOJNvXqJEjxFCcW6w92sboAiN1eIl6jNDvlFn+uGYojHdWfZiw56tckyPvvQm5Pxy5XHTfsiSccPDphgd//2bP1Vti1YutZ6spdXDLefW+leFzNGCtfsSZdFv98DcurZIj5euxnjMbr3REsuIwtSSLw0YyJIbAg4FaVwzeP9bN4dLStw83SucXT9QCSUotaW9TwgkJN9ReVr2Yk9v6NGCRVATFIbufihvkMWeFudWCz7bv16bVb0/DJWt+sz9DGKGc2xf1134LJryFjRA+Oy0AGfG8igXwN26PM2xZYDotbg+4+rUeW6FOPwOQ2U2elBpbRvpMg=;DfksUeWwN9M0jhc7YGEc/w=="
+secured: "mZ9USA6B48+afK+bF7uN9hKV3QkIvJfF0sBfOz4UAVm2wNWlZ0oTbQ7i67P1TKNeKdV1FPMsIa72prG0qEMnqxlsF5PV08d0OjQhagKs5X1rQQa9UChLDWF2MHX0AVbI+vHuZeG3g9x7dH4FTkrrpWxQrPS5h0j8MyW8vhDeBdQSv0TXfmRqRtFhPdUEDncqntRs4pCG3zxyodvWjzGxk+k3/PZ5Z8YZwHFYe3leuAnkjgmgqX8W6AFjFjwJbB9svS1pRwo22IYeiv24fUhfsti4XZXEQ/DXRU2EGuAJ0CykMwV/KizWXXvDmDbjfp3GwicXmy5svv/w8aAkggruIh24zqdS6yrvTq3fRNF+5S7ZIBcsdm7QlVUicOStkAohc9RBMP0CDptBSTF+j12qkyrN2PywFJHLz9Iqni6uPrariuJLaPCGnklH4iQGi2RtE+kwC3SO76DzVCzmVGXvp6SC3nrKMROWa+GMJZtn9e8s/MiW6w3Akyuoio2sdDKZM6slRW+jZjdnxMoQGUAQLg==;HohgAJDvEbNNgdIJs1vKdg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-b
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1"
 type: article
 quality: 83
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
+    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-16T17:47:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/qualcomm-diversifying-mobiles-supply-chips-bmw-self-driving-cars-2021-11-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+    images:
+      - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Qualcomm to supply chips for BMW's self-driving cars"
     excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
     publishedDateTime: 2021-11-16T13:52:00Z
@@ -62,22 +76,6 @@ related:
       - url: "https://images.livemint.com/img/2021/11/16/600x338/cq5dam.resized.img.1680.large.time1601620546255_1637057024335_1637079144170.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
-    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems. San Diego-based Qualcomm is the world’s biggest supplier of chips for mobile phones but has been diversifying its business,"
-    publishedDateTime: 2021-11-16T16:30:00Z
-    webUrl: "https://www.metro.us/qualcomm-diversifying-from-mobile/"
-    ampWebUrl: "https://www.metro.us/qualcomm-diversifying-from-mobile/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/qualcomm-diversifying-from-mobile/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 37
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEHAF0KK-BASEIMAGE.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
     excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
@@ -135,7 +133,16 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Qualcomm to make self-driving chips for BMW"
+    excerpt: "Qualcomm Technologies, Inc. will build automotive semiconductors for BMW Group’s next generation of advanced driver assistance systems (ADAS) and self-driving platforms. BMW’s next-generation automated driving stack will be powered by the Snapdragon Ride vision system-on-chip (SoC),"
+    publishedDateTime: 2021-11-17T13:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17434/qualcomm-to-make-self-driving-chips-for-bmw"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
-secured: "xm7nmrNG+IaT7qD7tiUJBIwhhr4kSEcV/UYSTDUvnVfOoQ4OAsTxgI8CcQUVwmaSL7l1XvhQoDwa4Z4Zhx2JGsVap5Zv/1GxQJkikbKVuR4Ndd0nX5x69jyK31II5g0i+dPTMf3c8iGbZaiaB1R3tHPGruL12tfkDD3EBOW1aGSCuDpOQrh5+O6rvdMDoBgpyzvwFhyK2x6kSEVFhouOuwNOYuOvuBv2y25sOiotI92gBbGssUKQybIF3o//BdeLKqoEKADTjjhwK/2Vuz00+ozBCSGU6HFVXHn/Gl8TMpNtt8OaMEFMWcbCik/+MKXE7Ybsl+ke/ulckCt7uMnw4Rh9Qkon8IVvMkCNjhOv3AU=;ulmcyeY3OZjX9lewfvi77Q=="
+secured: "fm34PHY579Mf9Iue+AS421Kh3AuoJTsncxdWhvSk6sjgnHizay1kJl4uT7Hes57/vCX9k3UVbVRMjzHSxl3z0vBrAqu721N2wepTRkYaKs9Fm/8Qg9rwCoLRBtNSB3VW9r8opbu/NEXP9FkS36KCfa56KIe1YDypcfKRiccUA9YDFSJh0SiupG7iMBiRBm/Q2O75/Hsy66umReQIWKsfrM2No0rTAjZYejHGlpzzxsapreG7wxuUnmE+9QFQUorFpblIjy9/PEAFOr8Uxog0q5t/HjNLCHFzJnAphu/C1veb8Gl01m4lhoglyqg3YlMoCiXGBKY2H3hJ4tr6nh1N0v9aiES5MLTRZz/be7j1raKwIw11vt5rmtFR/hQWEykx8iAOiNJwiNG+chKedrET95g7sr25jaZeKlqSwylOtD/3uXQMJFIiAJ8TMgaYmuuIIB+/wk+tP9p2u8C9m6C//plqyfyPXSVQMkj3q9G6LOTUASdy/nFalEXdV5ErtPf4de/1JGnBuLmZuNDg7GiR/g==;O/vplkFsc0cpCCUraV+lmw=="
 ---
 

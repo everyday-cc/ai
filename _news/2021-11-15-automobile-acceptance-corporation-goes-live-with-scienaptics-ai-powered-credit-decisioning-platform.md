@@ -18,20 +18,59 @@ topics:
   - AI
 
 related:
-  - title: "Virtuoso lands $13m Series A to further develop codeless, AI-powered test automation platform"
-    excerpt: "Virtuoso, the company leading the quality-first revolution with its game-changing AI-powered testing automation platform, has announced a"
-    publishedDateTime: 2021-11-15T10:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/virtuoso-lands-13m-series-a-to-further-develop-codeless-ai-powered-test-automation-platform-839640154.html"
+  - title: "Turning machine learning insights into AI-powered actions with Cooling Advisor"
+    excerpt: "We’ve seen how comprehensive monitoring combined with machine learning algorithms can uncover and continually track the cooling zones within a data center – presenting a core foundation for effective automated cooling within critical facilities."
+    publishedDateTime: 2021-11-17T06:34:00Z
+    webUrl: "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 26
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 50
     images:
-      - url: "https://mma.prnewswire.com/media/1682094/Virtuoso_Logo.jpg?p=facebook"
-        width: 637
-        height: 335
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGqT973IWCyBg/article-cover_image-shrink_720_1280/0/1637130532152?e=1642636800&v=beta&t=QMXlfweJHenMNy_WSANrdWLQC4jrZ8jEVFVGDHgNUVE"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Texans in major need of driving instruction"
+    excerpt: "A historically inefficient offense has defined a rebuilding Texans franchise that insists it is trying to be competitive. Drives end swiftly — mostly without points, often with a turnover — and when the offense returns to the sideline,"
+    publishedDateTime: 2021-11-17T00:18:00Z
+    webUrl: "https://www.houstonchronicle.com/texas-sports-nation/texans/article/Texans-in-major-need-of-driving-instruction-16626779.php"
+    ampWebUrl: "https://www.houstonchronicle.com/texas-sports-nation/texans/amp/Texans-in-major-need-of-driving-instruction-16626779.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/texas-sports-nation/texans/amp/Texans-in-major-need-of-driving-instruction-16626779.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/65/27/21714417/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Artificial Intelligence is learning Social Interaction Skills"
+    excerpt: "AI models of language work great at specific tasks. Where the next step is learning social interaction skills, which a research team at MIT"
+    publishedDateTime: 2021-11-13T06:42:00Z
+    webUrl: "https://elearningworld.eu/ai-learning-social-interaction-skills/"
+    type: article
+    provider:
+      name: elearningworld.eu
+      domain: elearningworld.eu
+    quality: 39
+    images:
+      - url: "https://elearningworld.eu/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGZWxlYXJuaW5nd29ybGQuZXUlMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRmhhbmQtMTU3MTg1MV8xMjgwLTQyMXgzMDAuanBnJmNhY2hlTWFya2VyPTE2Mjg2NjA0MTQtMjcwNTcmdG9rZW49N2VlMTM1MjExYzM5NzUzOA.q.jpg"
+        width: 421
+        height: 300
+        isCached: true
+  - title: "Sketching the Sun with AI"
+    excerpt: "These track the Sun and reflect its light to the scope’s objective lens, which projects a 17-inch-wide (43 centimeters) image of the solar disk onto a piece of paper on a table in a ground-level observing room below."
+    publishedDateTime: 2021-11-16T16:00:00Z
+    webUrl: "https://astronomy.com/magazine/news/2021/11/sketching-the-sun-with-ai"
+    type: article
+    provider:
+      name: Astronomy
+      domain: astronomy.com
+    quality: 17
 
 secured: "OAqJOxytfOLDbAX6sxRZeh5ofqHyMbY9W8UJAXF4wZNfvU5jzls8213flBbqqp/MqYLvm1KNPbIaloPmZs8uaItD4ltwpshIQEVxg8kcQHNxMpCLEMoo25j8wUS7YZ0xKm5ikSXskPNDmzvC82yr6MU3k8AYNW8smOttXENP7wLER7F/JMZyn/xc/Fp9MYmYNI+rTzs+QWW+L5kE3xgXhWc4pQpkzZruBVG2JxtW53+qiqJYrqi8yVoWND/CxHcQWQBZeLqt7Hzlm0MKO1MfYcPBmkkmtklHIu5RQZe530SuQ4dzvI+Aa6Iax3GF7DmZ52D9qc5hH7TNDsGNSe5yo4VDFRiMS66Z0bzhJUR89j0=;2CspIVOGfcchR9jmCy2SxQ=="
 ---
