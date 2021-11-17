@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-7
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-21-terrafuse-ai-launches-new-platform-to-visualize-california-wildfire-risk.md",
+      "title": "Terrafuse AI Launches New Platform to Visualize California Wildfire Risk",
+      "excerpt": "Climate modeling company launches the first free, publicly available, responsive environmental data platform to identify property risk from wildfires through Wildfire AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kotatv.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/",
+      "originalUrl": "https://www.kotatv.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KOTA TV",
+        "domain": "kotatv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z.md",
       "title": "IBM Q3 report shows gains in cloud revenue, declines in IBM Z",
       "excerpt": "IBM said total cloud and cognitive software revenue was $5.7 ... Global Technology services, or GTS, posted $6.2 billion in revenue, down 4.8%. Global Business Services revenue (which includes ...",
@@ -1259,58 +1293,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-google-cloud-extends-its-reach-with-new-distributed-cloud-options.md",
-      "title": "Google Cloud extends its reach with new Distributed Cloud options",
-      "excerpt": "The third-placed cloud vendor has announced a new set of options for customers that need to keep certain workloads in self-hosted environments or out at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
-      "originalUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/google_cloud_logo_via_google_stock_by_thinkstock_1200x800-100851731-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
-      "publishedDateTime": "2021-10-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -26,22 +26,6 @@ images:
     height: 945
     isCached: true
 
-related:
-  - title: "10 fintech startups selected for accelerator programme"
-    excerpt: "The LHoFT Foundation has announced the 10 Fintech startups selected to take part in the Fall 2021 digital edition of Catapult: Kickstarter"
-    publishedDateTime: 2021-11-12T15:54:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-fintech-startups-selected-accelerator-programme"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1179477379%20%281%29.jpg.png?itok=pxuGhdJR"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "1dzwuduSwMtrIKjm06W5bhn5CKArtuhYKmY9rYi8/dD8y/lGTB18G7hiOu8vnY3pMKmXJrDRYsQza6om8//FnKwnya60ole91KaCmuL4EQ5cikjd5wCFrwu47gxDifwx3L2MjteMMbmJ7/jiNIh+iDLPk2uVQitIgSYLgjx8BR4H50KIoRONMThC294fEf28+DH8TJfD/orBc8D/0BX+GwyYlEQoXQ4I1+wXdeofWvAShzxukmdBFOYhBB2K3hdtENeqGiY8p6ggt+No1CLF9Zx1kRKkeapQaVppWyu0UA/wQEVI5b/FqoVJnr567ni4vT39AwBZoHbtCt6ZVztdLP7z6X4pu+seZf6+Hox6sjivrbmIgadZAaa+hiWnNIn3qcnuKW+b4QXwMmV15eAcpSvlK+MkCzmf1zlklwGV22+qF4Wal0qYPozM0X4Pwi5ck/iolSLdKo9k42YP6kmZCiwJtVAw41VQIWmD2/a0Gf4uU+8iNlWYoR8RB+uD83yvF0XbwtbOEbBFqeQkcaXfVA==;WAPTkJynS2587nCD74LlZQ=="
 ---
 

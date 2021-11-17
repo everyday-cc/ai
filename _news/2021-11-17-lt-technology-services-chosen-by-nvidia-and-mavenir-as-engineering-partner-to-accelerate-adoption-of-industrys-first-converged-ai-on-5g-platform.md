@@ -1,28 +1,26 @@
 ---
 category: news
-title: "L&T Technology Services chosen by NVIDIA and Mavenir as engineering partner to accelerate adoption of industry’s first converged AI-on-5G Platform"
-excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it"
-publishedDateTime: 2021-11-17T05:24:00Z
-originalUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/"
-webUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/"
-ampWebUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/?amp"
+title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
+excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
+publishedDateTime: 2021-11-17T07:31:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-engineering-943a3376ae604dd78f0de33017b2b45c"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-engineering-943a3376ae604dd78f0de33017b2b45c"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://cdn-live.theprint.in/wp-content/uploads/2021/11/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform.jpg"
-    width: 600
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
     height: 450
     isCached: true
 
@@ -129,6 +127,6 @@ related:
       domain: equitybulls.com
     quality: 6
 
-secured: "H7cWbuVXV33Ot3bv/we5I5fAJlC9hVv8o8cyWF9t1IRc3jCds8w8vvOJoYM/lNdK7jjoXX9Gdpq2HFm5jey9o19cOCGGidheoEg5rEoTGVf3S1VnXVMFnDS5wNeqSLZfkYSgvDT4xwgO25no0f4ksmTbjIeVOkUDy6oDH1fPWKWHKitz0IpnICoe4Uv2ul5tQ7NOBZaD01MWWA8w+OL06Dk07rt4aDkt+XkiA3znnqJYHJcw9Hd/aijT/QxIiJl99kzeoK6vPUXniKDehdp59tH+o8fkGqpcx0YmAH8dB9IgzLg0Llk32AHAcBXE4VBKjfxCxyOGxoM4Vjn8/7vYD0fpcSgx04rZNFAOVeI86Ws=;lU8TxBJTV4p2HGnEDk/TJg=="
+secured: "47iClJiQ8pAIgPmez58XmFO+NyIhmUyFjn5ofbrIJeM2mVyVMRUMXA6SpNNj2ZNlWExIhUrIscWNY3YX+ypoDa1c9Z2tS3f67Ao+Tv/EEA+GrhuDmYqR3kG7SHOOXeM/BjXyAHOPrJarPU8Q4DMSpqLGEGvhX8DJMiYe6UayQH42BzjNdFG0j9XLGLcJqJLp3cPPsEfflxseAyMvVLkQFK3Wr/m5mGGt2AmovOpnlhGbDA7ktUw1RsjzQ/V9XzGay9RUOnbgDvrwIvVxRPjasX6DOcH6QXeeJ+Biy/X52bLCa6MV4EuG9KxjQD7c0QtHOyYDG/0LWJmIWJKN/ThYUbcR/naOIk+SX1A6p3JnNs8=;m2LN6Q75E0QXj2KgrCcopw=="
 ---
 

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The ethics of digital technology in the food sector"
-    excerpt: "Imagine a world in which smart packaging for supermarket-ready meals updates you in real-time to tell you about carbon footprints, gives live warnings on product recalls and instant safety alerts because allergens were detected unexpectedly in the factory."
-    publishedDateTime: 2021-11-12T16:00:00Z
-    webUrl: "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/supermarket.jpg"
-        width: 1920
-        height: 1104
-        isCached: true
   - title: "The ethics of digital technology in the food sector – the future of data sharing"
     excerpt: "Imagine a world in which smart packaging for supermarket ready meals updates you in real-time to tell you about carbon footprints, gives live warnings on product recalls, and instant safety alerts because allergens were detected unexpectedly in the factory."
     publishedDateTime: 2021-11-13T13:40:00Z

@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-17-artificial-intelligence-plan-to-reduce-harm-to-pregnant-black-women.md",
-      "title": "Artificial Intelligence plan to reduce harm to pregnant black women",
-      "excerpt": "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-leicestershire-59306908",
-      "originalUrl": "https://www.bbc.com/news/uk-england-leicestershire-59306908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/69FC/production/_121523172_gettyimages-79670619.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-leicestershire-59306908.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-leicestershire-59306908.amp",
-      "publishedDateTime": "2021-11-16T22:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-17-artificial-intelligence-ai-market-next-big-thing-major-giants-ibm-microsoft-hanson-robotics.md",
       "title": "Artificial Intelligence (AI) Market Next Big Thing | Major Giants IBM, Microsoft, Hanson Robotics",
       "excerpt": "Market study describes how the technology industry is evolving and how major and emerging players in the indus",
@@ -62,7 +10,7 @@
       "originalUrl": "https://menafn.com/1103186498/Artificial-Intelligence-AI-Market-Next-Big-Thing-Major-Giants-IBM-Microsoft-Hanson-Robotics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -332,6 +280,49 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-growing-virtual-tumours-and-drugs-designed-by-ai-could-be-future-of-cancer-therapy.md",
+      "title": "'Growing virtual tumours and drugs designed by AI could be future of cancer therapy'",
+      "excerpt": "Exciting work creating digital tumours, involving Bristol University, could be key to effectively targeting cancer cells, writes Dr",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955",
+      "originalUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article25460013.ece/ALTERNATES/s615/2_JS239592337.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp",
+      "publishedDateTime": "2021-11-15T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -938,6 +929,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-03-healthcare-artificial-intelligence-market.md",
+      "title": "Healthcare Artificial Intelligence Market",
+      "excerpt": "Specifications and Classification of COVID-19 Outbreak-Global Healthcare Artificial Intelligence market, Applications [Medical Imaging & Diagnosis, Drug Discovery, Therapy Planning, Hospital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2451620/healthcare-artificial-intelligence-market-next-big-thing",
+      "originalUrl": "https://www.openpr.com/news/2451620/healthcare-artificial-intelligence-market-next-big-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub03382915_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2451620/healthcare-artificial-intelligence-market-next-big-thing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2451620/healthcare-artificial-intelligence-market-next-big-thing",
+      "publishedDateTime": "2021-11-03T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-global-ai-powered-healthcare-solutions.md",
       "title": "Global AI-Powered Healthcare Solutions",
       "excerpt": "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the",
@@ -1332,49 +1366,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-fighting-financial-crime-with-artificial-intelligence.md",
-      "title": "Fighting Financial Crime With Artificial Intelligence",
-      "excerpt": "SwiftDil is pioneering the one-stop solution paradigm for AML/KYC compliance using AI technology The SaaS market is now increasing at an annual rate of 18%, according to the Cloud Computing Market by Service,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/fighting-financial-crime-with-artificial-intelligence/",
-      "originalUrl": "https://techbullion.com/fighting-financial-crime-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/10/Fighting-Financial-Crime-With-Artificial-Intelligence.png",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/fighting-financial-crime-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/fighting-financial-crime-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-10-29T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null

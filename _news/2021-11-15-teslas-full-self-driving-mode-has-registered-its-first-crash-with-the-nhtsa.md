@@ -201,6 +201,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-driving bullet train put to the test"
+    excerpt: "Members of the media were invited to view a test run of Japan's first self-driving bullet train. The 12-car Shinkansen train operated by East Japan Railway Company is equipped with an Automatic Train Operation system."
+    publishedDateTime: 2021-11-17T07:40:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211117_20/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211117_20/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20211117_20/amp.html"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 59
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211117_20_1047545_L.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Tesla driver beta testing \"full self-driving\" feature says SUV went in wrong lane and hit vehicle"
     excerpt: "The crash has prompted an investigation by U.S. auto safety regulators. “The car went into the wrong lane and I was hit by another driver in the lane next to my lane,” the driver wrote."
     publishedDateTime: 2021-11-13T14:48:00Z

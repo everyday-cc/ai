@@ -94,22 +94,6 @@ related:
         width: 326
         height: 250
         isCached: true
-  - title: "L&T Technology Services chosen by NVIDIA and Mavenir as engineering partner to accelerate adoption of industry’s first converged AI-on-5G Platform"
-    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it"
-    publishedDateTime: 2021-11-17T05:24:00Z
-    webUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform/767257/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 21
-    images:
-      - url: "https://cdn-live.theprint.in/wp-content/uploads/2021/11/lt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industrys-first-converged-ai-on-5g-platform.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Atos and Nvidia Join to Launch European AI Lab"
     excerpt: "Atos and NVIDIA today announced the Excellence AI Lab (EXAIL), which brings together scientists and researchers to help advance European computing technologies, education and research. The lab’s first research projects will focus on five key areas enabled by advances in high performance computing and AI: climate research,"
     publishedDateTime: 2021-11-15T20:43:00Z
@@ -128,6 +112,20 @@ related:
       name: Equity Bulls
       domain: equitybulls.com
     quality: 6
+  - title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
+    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
+    publishedDateTime: 2021-11-17T07:31:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-engineering-943a3376ae604dd78f0de33017b2b45c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "qByvP+pLL/8aMO7TI0u+MIRstMX7Q4VGGHhq8uOy7ARVfOj6K914YLbvpFXMfCPJ5tuKRm0OHwfg5QXX4aaOiVLtl4rW3ddeXd1U9wlZeoRV2oot3z7MIdxRdH6Q9mQySrmqK6/Ae2jIho7Oe5dibWpUao/TkC+FtgEjBsa0+T1Vnn3w6R8E/iHmTWjfIAfGJcq5tKkwK2nuK5m/jsamyItn1HwkBMOClfm7tpvrkOvQzhng5tTj+y9uw04E+tns9ilj3GgOZP7zafNmH/xi0RgJ4KbF8dG4kM/6NCOvJDeG7w8dicoDKnLP6blgtHHxKrGFdajn1WFfBaF43mdwbsNyncHhi9I7VJQguyxBsewowSS1yQRr347SA67nxG52FYpWL+eI7g+T6owG4r5UJNP5RB0nuCf8Dy8yLQ5kY4aT+iXIsGpx9gqeUS1ogyn7wH3BFLBK5tmwdmCo7NfzJWSseISL7L6tdWkNNSetfNSXjngFz/FgXlckstWgUqxHziTgXifepfCizRa4mELFlQ==;wQHX309B6wGb7REmXMKxLw=="
 ---

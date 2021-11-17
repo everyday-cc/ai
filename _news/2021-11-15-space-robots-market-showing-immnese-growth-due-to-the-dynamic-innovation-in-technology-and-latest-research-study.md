@@ -55,6 +55,22 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Adoption of Intelligence Technologies in Manufacturing Processes to Boost Expansion of Smart Factory Market, States TMR Study"
+    excerpt: "Many industry verticals such as mining, energy, petrochemicals, and manufacturing are inclining toward the use of intelligence technologies in their day-to-day activities. This factor has resulted into increasing the popularity of smart factories concept."
+    publishedDateTime: 2021-11-17T07:02:00Z
+    webUrl: "https://techbullion.com/adoption-of-intelligence-technologies-in-manufacturing-processes-to-boost-expansion-of-smart-factory-market-states-tmr-study/"
+    ampWebUrl: "https://techbullion.com/adoption-of-intelligence-technologies-in-manufacturing-processes-to-boost-expansion-of-smart-factory-market-states-tmr-study/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/adoption-of-intelligence-technologies-in-manufacturing-processes-to-boost-expansion-of-smart-factory-market-states-tmr-study/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 17
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Smart-Factory-2.jpg"
+        width: 2516
+        height: 1667
+        isCached: true
 
 secured: "xDS7t+tjiQavboOgww8YIFA8swdRBx0nPlkSW5htKe61BbxB8kZwzKoti4pP2W7trRxUmvHAZRnBsWC+wpf3Z7eVu69eFOKeaVhnZd8xGe2B0bRL/39BmJWmDaKUyqV8tA1j3nayTojli9AKp2COodUXE+Zz2TOU7w2hPVIINDf6etj/CjVpiMwHO1WeKTTAU4zqaHBQNQ6NFdtk6Z0nQWdtuZRj5XXyOohpY/NbOx+2J+mqhC09wReJ/UJxakwH/xosr0YNJSrFgMgVAY6gLugE/vkypkk2EzPVThGiFhxvrkg210ClwaQry9BZ80aI7nYU9gOVhYMuS3Q7niCN839dgNgJAvyAbIflh12o/ES/z99UJtfFVeOrcZ0QevAbi/iYWbBzJJxLdynSNveXuRgmJQXc1uIQ8u7vfyqqGgI0EEhpBS8RgmNWLTtqYiwZJ+1mIOg1kYxkRAgDuktV18zYWoYgHA4V5emx/9DK+7FyTXQSTaeUMdfpqCa5TJC4eBFzgGdrInkYrkwFDNsaag==;/O1ce/vtDMGjkX0Rws045g=="
 ---

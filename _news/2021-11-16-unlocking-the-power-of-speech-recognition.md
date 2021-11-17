@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

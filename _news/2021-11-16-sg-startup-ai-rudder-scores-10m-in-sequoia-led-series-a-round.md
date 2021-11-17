@@ -28,12 +28,12 @@ related:
   - title: "Sequoia leads $10m round of SG voice AI startup"
     excerpt: "AI Rudder, a voice-focused AI startup based in Singapore, has raised US$10 million in a series A funding round co-led by Sequoia Capital India and Sequoia China Seed Fund. The round also saw participation from existing investors ZhenFund,"
     publishedDateTime: 2021-11-16T08:25:00Z
-    webUrl: "https://www.techinasia.com/sequoia-leads-10m-sg-voice-ai-startup?comments=true"
+    webUrl: "https://www.techinasia.com/jdcom-sea-president-joins-sg-cloud-kitchen-startup/next"
     type: article
     provider:
       name: Techinasia
       domain: techinasia.com
-    quality: 49
+    quality: 47
 
 secured: "IQnMhAQX5dfVMbRAmZOGp+4dEGnvGkpR0oE3cJNbHg33bqZZ9sY8v+rNf65j7x0mCk6i7nkyFIy668wW0W5xA4XmGZ0CwtVm1awSGxOutGoJi5NjWYfAeog1eXcb3RY+fD/HKKkALvWF1+GeeycX4U4Sdf3xnWPYI36yhh7wYoPazyTZQWhmgg2vkz6WZ3ua4P9Ug5YTqQgvIfXXClPB91haGbBvECnrLl5TobcL+Dm+vyqDT+EuJqAu4ofLsoRJ12QXpZRnDJeEhCd93AlTNzgiQP7B6z2PaMDCwVaLRAd3jy31Ms9SEuJywG5MJ31eUTBA8Un+bXAqpuPgTux3ADzpBJYv1tmbxIKlevFptuinD0w0vG4CIITl3x6iHjsyUpxsJSMKNSpzDXrW+7LRUr0aukADYwkE20xLG6ugBlJyHAQhMpCbg+z1e6zsWFSTKiKsvaZy2jF2dBoCYjqKtPiiFftMzO/EOuKAJmZn5qtmXblYA7QuFppv+cRKimreAXcIhxcp/hEykT4keSkleA==;V6C/hU7rLUrTXsLtUB6o5Q=="
 ---

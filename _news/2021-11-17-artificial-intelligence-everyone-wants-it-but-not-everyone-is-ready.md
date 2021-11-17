@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-eve
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

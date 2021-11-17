@@ -24,6 +24,22 @@ images:
     height: 566
     isCached: true
 
+related:
+  - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
+    excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain management Cloud-based infrastructure and collaboration to improve speed and efficiency across business operations Digital Manufacturing Platform rollout to all ZF factories ZF investing billions of euros in digitalization over the next years REDMOND,"
+    publishedDateTime: 2021-11-16T16:31:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-b9656082dffab4560a4b38874facc292"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "bDjFE2ByVU2vdLuu+0GrWZQozUyRpjzg/aWKKxaEiGwy8hPJLYSfA6Ax7Q4dRXLnvgzt5FRfFRV4NKCcICUUWYjYVP0aiSQeWv6GUFc3b74V8kaoOFxHU8ZGkWiU8aU0bzK1/6CpR10oUJTT11EWcnjEnhAxObyz0C2cZJvCbqQqPNYLdZsnSHOM84SbPZOuIiW1uC+fNdhKbqaJ4FLmcb1KJNGZlDDh0a9tgakDWQRIyEfbP+fg0+hheZBEzGmwX+sWiCEexfdtVDL26f54YZPpKaGxkycx7Qn1LBFuznVHEH/oTU4g5U5LbKyb6HCLRr5zzO7nniqtALUgGxXc0vv7RDK5nRJ7blhSoClxJ74FrrlEGb9PH2PRFbwqb9am4Y5kV/XVlzzbeF0Iy9cx9rShNA3HRx1546QUkux6iXS7+BNtxY1s8qpICZkmCGnUUykoDW8w1/uoM8DvMrcwUdR1G+kbneE6qW7CMO7PrZ/P3yhBbOiwH2Jw/67m0YGGviT+e4iIaZhEDVexNX8C9Q==;2MjCiGNrDwqIuhK1HFJ1bw=="
 ---
 

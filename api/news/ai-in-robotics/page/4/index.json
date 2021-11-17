@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-25-what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining.md",
+      "title": "What automation, AI, AR, robotics mean for the future of work in mining",
+      "excerpt": "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-24-ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it.md",
+      "title": "“AI 2041” Co-Author Kai-Fu Lee Talks About AI’s Sweeping Future And How He Invests In It",
+      "excerpt": "Kai-Fu Lee has been sizing up the implications for decades. The former Google executive turned venture capitalist looked at U.S.-China competition in his 2018 book, “AI Superpowers.” His new book, “AI 2041,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/",
+      "originalUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6175629b1f835cb5881bf699%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/",
+      "publishedDateTime": "2021-10-24T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-24-xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot.md",
+      "title": "Xpeng Unveils Plan to Go Beyond Cars With AI, Flying Car, Robot",
+      "excerpt": "The Guangzhou-based company also launched the prototype of a ridable robot horse at its so-called “Tech Day.” Xpeng said 60% of its users have paid for the assisted-driving feature, called the navigation-guided-pilot function,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDx9DkywNwMU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-23-ajman-free-zone-launches-artificial-intelligence-and-robotic-hub.md",
       "title": "Ajman Free Zone Launches “Artificial Intelligence and Robotic Hub”",
       "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021. The free zone, which is part of the Ajman Government’s pavilion,",
@@ -1228,145 +1375,6 @@
         "name": "theinteriorsaddict.com",
         "domain": "theinteriorsaddict.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds.md",
-      "title": "5 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds",
-      "excerpt": "In this article, we discuss the 5 best artificial intelligence and robotics stocks to buy according to hedge funds. - All Parts",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/08/man-320276_1280.png",
-          "width": 1240,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer.md",
-      "title": "The USB-C iPhone Becomes A Reality Thanks To A Robotics Engineer",
-      "excerpt": "Recall when we brought to your attention plans by the European Commission to propose legal measures that would force phone",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/",
-      "originalUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/10/77972c1fdb2ec0e1057ad6778dbf7fcb.jpg",
-          "width": 976,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/?amp=1",
-      "publishedDateTime": "2021-10-13T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-robotics-edtech-startup-wiingy-raises-400000-angel-funding.md",
-      "title": "Robotics Edtech Startup Wiingy Raises $400,000 Angel Funding",
-      "excerpt": "The company will deploy its first fundraise to develop, scale their robotics kits supply chain and build a strong early team with technology, product, teaching and design skills",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/390902",
-      "originalUrl": "https://www.entrepreneur.com/article/390902",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634123416-TeamWiingy111.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

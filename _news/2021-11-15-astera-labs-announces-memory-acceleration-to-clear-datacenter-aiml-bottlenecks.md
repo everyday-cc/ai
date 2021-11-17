@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acce
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/amp/"
 type: article
 quality: 102
-heat: 113
+heat: 112
 published: true
 
 provider:

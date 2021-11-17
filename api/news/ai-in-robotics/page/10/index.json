@@ -2,6 +2,153 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-15-ambi-robotics-which-develops-robot-grasping-systems-raises-28m.md",
+      "title": "Ambi Robotics, which develops robot grasping systems, raises $28M",
+      "excerpt": "Ambi Robotics, a startup founded by UC Berkeley roboticist Ken Goldberg, has raised $26 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/",
+      "originalUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/14/ambi-robotics-which-develops-robot-grasping-systems-raises-28m/amp/",
+      "publishedDateTime": "2021-09-14T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-researchers-lay-the-groundwork-for-an-ai-hive-mind.md",
+      "title": "Researchers lay the groundwork for an AI hive mind",
+      "excerpt": "Intel's newest AI advances are a rising tide that lifts all vessels. But every science fiction horror story has to start somewhere, behold the hive mind.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/researchers-lay-groundwork-for-ai-hive-mind",
+      "originalUrl": "https://thenextweb.com/news/researchers-lay-groundwork-for-ai-hive-mind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fborgcube.jpg&signature=3f2568c9fafe1daeaffa3bcb4690159a",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-40.md",
+      "title": "AKA Announces Launch of New AI Social Robot “Musio S” and “Musio OS 4.0”",
+      "excerpt": "AKA announced that it has scheduled the official launch of Musio S and Musio OS 4.0 for September this year. Musio S is AKA’s second-generation reference social robot with an increased focus on usability.",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2021/09/14/aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-4-0/",
+      "originalUrl": "https://ipsnews.net/business/2021/09/14/aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-4-0/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta-kiosk.icrowdnewswire.com/assets/source/users/akaai/22263_33406_2437.jpg?1631499698671",
+          "width": 960,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
       "title": "Robot vacuums are learning to avoid dog poop. But that’s not all they can see.",
       "excerpt": "Robot's new robot vacuum uses a front-facing camera and artificial intelligence to deftly maneuver your home. However these tools require more data.",
@@ -1148,147 +1295,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-artificial-intelligence-in-marketing-market-demand-during-2021-2027-persado-albert-technologies-appier-samsung-electronics.md",
-      "title": "Artificial Intelligence in Marketing Market Demand during 2021-2027 | Persado, Albert Technologies, Appier, Samsung Electronics",
-      "excerpt": "Artificial Intelligence in Marketing Market is growing at a 26 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market AI is often",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2388026/artificial-intelligence-in-marketing-market-demand-during",
-      "originalUrl": "https://www.openpr.com/news/2388026/artificial-intelligence-in-marketing-market-demand-during",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U909431026_g.jpg",
-          "width": 577,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2388026/artificial-intelligence-in-marketing-market-demand-during",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2388026/artificial-intelligence-in-marketing-market-demand-during",
-      "publishedDateTime": "2021-09-09T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-botz-a-robotics-ai-etf-with-a-strong-track-record.md",
-      "title": "BOTZ: A Robotics & AI ETF With A Strong Track Record",
-      "excerpt": "Technology stocks, ETFs, portfolio strategy, renewable energy, and O&G companies. Primary goal is growing net-worth. I typically allocate a portion of my own portfolio and devote some of my SA ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "originalUrl": "https://seekingalpha.com/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1280407804/medium_image_1280407804.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4454193-botz-a-robotics-and-ai-etf-with-a-strong-track-record",
-      "publishedDateTime": "2021-09-09T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-irobot-introduces-roomba-j7-robot-vacuum-with-genius-30-home-intelligence-clean-the-way-you-want-so-you-can-human.md",
-      "title": "iRobot Introduces Roomba® j7+ Robot Vacuum with Genius™ 3.0 Home Intelligence - Clean the Way You Want, So You Can Human",
-      "excerpt": "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence-clean-the-way-you-want-so-you-can-human-1030788791",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence-clean-the-way-you-want-so-you-can-human-1030788791",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.multivu.com/players/English/8917451-irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence/image/PetWaste_1630535359137-HR.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

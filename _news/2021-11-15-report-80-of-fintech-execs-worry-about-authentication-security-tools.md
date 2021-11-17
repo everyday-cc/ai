@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://financialit.net/sites/default/files/richard_price_-_uk_and_ireland_country_manager_-7119.jpeg"
         width: 1333
         height: 2000
+        isCached: true
+  - title: "Fintech collaborations boost the credit union advantage"
+    excerpt: "The focus for credit unions will always be on their members, including their members’ experience. But how does this translate in an ever-changing, technology-driven landscape? I sat down recently with Upstart’s Jeff Keltner to discuss a wide variety of topics,"
+    publishedDateTime: 2021-11-17T07:30:00Z
+    webUrl: "https://www.cuinsight.com/fintech-collaborations-boost-the-credit-union-advantage.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 24
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/08/bigstock-Business-Concept-Business-Peo-383458805.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "VDYxugdgWGC8pz71AZvZpjpWV48V0Np7E0MfAMWyQhnFxpgHiBWFkwyFBKRmBtfUig8fa1moB6MtuFNGK7DKyNlwgd77al+5q4ZwW7s1J23vUmrhPrNy5xPij6j4iLg5uqhAaWOqMzj8/S7WgpwwXe8Fmchx+wt7hpaeTdf01LA3xBQ5den+ShEQWWtHJoucsFwK+mz5hamowkxKClmV2hjg8lVIfJqs9Eq9a6+lBFKZyxyZIdIysBXlRHWhUagDexUT8n+ys4Bi20OIyfuoLMWVaVYD9dQ36z6Gv3rkWvVl566FXSeZUdILSs8TRnOijqHPihUrxZSdEOjc75OB1hx9rAirWtusFngYIQc3VoLFhy3RiQPoUknLDc0U1Fh/uEx8nf1J1I8151/92hCbw5YV+lYA7Z5aZ7zxLjEYkybqpt9EW/MUa1SUL0fB8nPJ6eFWp/x/7/0Xp3j4omsNuiWzywsKk603q9xPJn9vmKDGum8N6ebBxxZtwaq7hlYkdeNKBpzNEjUNyiE8bFxiLw==;cwK+vF+XS1Vtez/Q6oVQQQ=="

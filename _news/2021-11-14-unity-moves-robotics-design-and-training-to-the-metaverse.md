@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
 type: article
 quality: 119
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -180,20 +180,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "FEATURE-AI bots to user data: Is there space for rights in the metaverse?"
-    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory. Facebook's recent announcement that it is investing heavily in the so-called metaverse - a virtual environment where people can meet,"
-    publishedDateTime: 2021-11-12T15:35:00Z
-    webUrl: "https://news.trust.org/item/20211112173355-waoeq/?source=spotnewsfeed"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 38
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/57304c02-391f-4901-b921-48fddc62fd3a/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
         isCached: true
   - title: "From AI bots to user data: is there space for rights in the metaverse?"
     excerpt: "Digital spaces are raising privacy and ownership questions, with experts urging regulators to widen safeguards"

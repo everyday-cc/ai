@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-09-how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals.md",
+      "title": "How Artificial Intelligence Can Be Used To Augment Stem Cell Therapy In Hospitals",
+      "excerpt": "Stem cell therapy comes with its own set of challenges despite being a revolutionary discovery in modern healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "originalUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/Stem_CEll_AI.png",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "cdnAmpWebUrl": "https://www-bbntimes-com.cdn.ampproject.org/c/s/www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "publishedDateTime": "2021-09-09T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-artificial-intelligence-in-marketing-market-demand-during-2021-2027-persado-albert-technologies-appier-samsung-electronics.md",
       "title": "Artificial Intelligence in Marketing Market Demand during 2021-2027 | Persado, Albert Technologies, Appier, Samsung Electronics",
       "excerpt": "Artificial Intelligence in Marketing Market is growing at a 26 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market AI is often",

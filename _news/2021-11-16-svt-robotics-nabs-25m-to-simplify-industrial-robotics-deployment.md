@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

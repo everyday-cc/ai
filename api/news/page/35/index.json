@@ -2,6 +2,290 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-10-19-facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk.md",
+      "title": "Facial Recognition School Lunch Payments Spark Privacy Concerns In UK",
+      "excerpt": "We're introducing Facial Recognition!” cheerily opens a flyer given to some parents in Scotland, describing a new method to pay for school lunches. Howeve",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
+      "originalUrl": "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/ec3440b1-2754-55eb-9036-0ab8685f3156/default-1634645033-child-facial-recognition.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
+      "publishedDateTime": "2021-10-19T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech.md",
+      "title": "Instacart acquires Caper for AI-powered shopping cart and checkout tech",
+      "excerpt": "Over time, Instacart plans to integrate Caper's technology into the Instacart app, as well as its retail partners' platforms, for a more blended in-store and digital grocery shopping experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "originalUrl": "https://www.zdnet.com/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/822c04d3978ba8d964686aaf8052d87346c55831/2021/10/19/25dac7e8-528b-4dea-90ff-cc37c804784b/capercartphoto-21.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "publishedDateTime": "2021-10-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-how-deep-learning-is-shaping-the-future-of-content-production.md",
+      "title": "How Deep Learning Is Shaping The Future Of Content Production",
+      "excerpt": "What role will synthetic media play, and what trends are exploding on the market of deep learning products? This article will highlight the main changes that AI/ML is bringing about in the modern media environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d7d4eb2706e2abb1463cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/",
+      "publishedDateTime": "2021-10-19T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-virtana-platform-now-available-in-aws-marketplace.md",
+      "title": "Virtana Platform Now Available In AWS Marketplace",
+      "excerpt": "Visit the Virtana Platform AWS Marketplace profile to learn ... and multi-cloud environments. Using artificial intelligence for IT operations (AIOps) technologies, including machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/virtana-platform-now-available-in-aws-marketplace-301402779.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/virtana-platform-now-available-in-aws-marketplace-301402779.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1245497/Virtana__Logo.jpg?p=facebook",
+          "width": 864,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-mage-aims-to-be-the-stripe-for-ai-raises-63m-for-developer-tools-to-build-ai-into-apps.md",
+      "title": "Mage aims to be the ‘Stripe for AI;’ raises $6.3M for developer tools to build AI into apps",
+      "excerpt": "Product developers want to use AI, but don't always have the right tools to do it without relying on data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
+      "originalUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Mage-team-photo-1.jpg?w=1024",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/",
+      "publishedDateTime": "2021-10-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-artificial-networks-learn-to-smell-like-the-brain.md",
+      "title": "Artificial networks learn to smell like the brain",
+      "excerpt": "Using machine learning, a computer model can teach itself to smell in just a few minutes. When it does, researchers have found, it builds a neural network that closely mimics the olfactory circuits that animal brains use to process odors.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-networks-le.jpg",
+          "width": 792,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-artificial-networks-brain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-networks-brain.amp",
+      "publishedDateTime": "2021-10-19T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-wejo-integrates-with-microsoft-mapping-services-to-provide-real-time-transportation-data.md",
       "title": "Wejo Integrates With Microsoft Mapping Services to Provide Real-Time Transportation Data",
       "excerpt": "Wejo, a global leader in connected vehicle data, today announced an expanded collaboration with Microsoft through which Wejo's real-time mapping and traffic data will be integrated with Microsoft mapping services to deliver enhanced accuracy,",
@@ -858,279 +1142,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-alibaba-cloud-to-build-own-servers-with-new-in-house-chip.md",
-      "title": "Alibaba Cloud to build own servers with new in-house chip",
-      "excerpt": "Chinese tech giant says it has built its own server chip, called Yitian 710, which is touted to be compatible with the latest Armv9 architecture and will be used to develop new servers that will be deployed across Alibaba's businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "publishedDateTime": "2021-10-18T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-spell-named-a-2021-gartner-cool-vendor-in-enterprise-ai-operationalization-and-engineering.md",
-      "title": "Spell Named a 2021 Gartner® Cool Vendor in Enterprise AI Operationalization and Engineering",
-      "excerpt": "Focused on the urgency and the need for enterprises to deploy platforms that accelerate scaling enterprise AI into production",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcax.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
-      "originalUrl": "https://www.wcax.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg",
-          "width": 980,
-          "height": 2097,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCAX3",
-        "domain": "wcax.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-accelerating-the-discovery-of-new-materials-for-3d-printing.md",
-      "title": "Accelerating the discovery of new materials for 3D printing",
-      "excerpt": "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/accelerating-materials-3d-printing-1015",
-      "originalUrl": "https://www.chemeurope.com/en/news/1173177/accelerating-the-discovery-of-new-materials-for-3d-printing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/MIT-Accelerating-Materials-01-Press.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CHEMIE.DE Information Service GmbH",
-        "domain": "chemeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia.md",
-      "title": "Lost in translation: Language barrier is hurting commercialisation in Australia",
-      "excerpt": "It's hard to collaborate when industry want to get straight to the point and academics rely on lengthy research papers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "originalUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b6720e60a46b7b4223f6c02fb97515471eb6e217/2018/04/05/ebb87ff9-14b6-4a39-a906-ad4a7a5b31b9/istock-625736338.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
-      "publishedDateTime": "2021-10-18T22:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-convegenius-ai-indias-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households.md",
-      "title": "ConveGenius AI, India’s Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households",
-      "excerpt": "ConveGenius has raised $5M USD in Venture Capital funding to grow its conversational AI platform in India and South-East Asian markets. The company first launched its conversational AI platform in 2020 with a focus on providing a tailor-fit EdTech solution that offers an adaptive Whatsapp-based learning system for K-12 students from lower tier cities,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-the-roi-of-ai-will-it-deliver-real-value.md",
-      "title": "The ROI of AI: Will it deliver real value?",
-      "excerpt": "AI is not just a platform to be purchased and implemented. It is a fundamental shift in the way digital systems operate and are managed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ai-money_-shutterstock_592403636-e1626678216479.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/amp/",
-      "publishedDateTime": "2021-10-18T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

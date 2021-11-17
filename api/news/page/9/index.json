@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-11-09-nvidia-makes-massive-language-model-available-to-enterprises.md",
+      "title": "Nvidia makes massive language model available to enterprises",
+      "excerpt": "Nvidia has made available one of the world's largest language models -- Megatron 530B -- to enterprise customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/",
+      "publishedDateTime": "2021-11-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing.md",
+      "title": "Nvidia says its GPU chip is a giant leap forward for computing",
+      "excerpt": "Nvidia estimates that over the past 10 years, the raw computational power of its GPUs has grown by a factor of 1,000.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/NVIDIA-Cambridge-1_GPU-closeup-e1636399396836.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/",
+      "publishedDateTime": "2021-11-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai.md",
       "title": "Nvidia’s Riva Custom Voice lets companies create custom voices powered by AI",
       "excerpt": "GTC conference, Nvidia unveiled Riva Custom Voice, a service designed to let customers create AI-powered custom voices.",
@@ -52,49 +156,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidia-announces-major-updates-to-triton-inference-server-as-25000-companies-worldwide-deploy-nvidia-ai-inference.md",
-      "title": "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference",
-      "excerpt": "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -231,6 +292,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-nvidia-announces-major-updates-to-triton-inference-server-as-25000-companies-worldwide-deploy-nvidia-ai-inference.md",
+      "title": "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference",
+      "excerpt": "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23974757",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23974757",
+      "publishedDateTime": "2021-11-08T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -550,19 +654,19 @@
     {
       "path": "_news/2021-11-09-big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies.md",
       "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
-      "excerpt": "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
+      "excerpt": "Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
       "sourceUrl": null,
-      "webUrl": "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
-      "originalUrl": "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "webUrl": "https://www.power-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "originalUrl": "https://www.power-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/11/leaders.jpg",
-          "width": 1400,
-          "height": 934,
+          "url": "https://cdn-images-1.medium.com/max/1022/1*eg3Cn-AGmElpOyOwkA8GUQ.png",
+          "width": 970,
+          "height": 391,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -575,8 +679,8 @@
       "publishedDateTime": "2021-11-08T17:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mining Technology",
-        "domain": "mining-technology.com",
+        "name": "Power Technology",
+        "domain": "power-technology.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1083,101 +1187,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-aws-announces-plans-to-open-second-region-in-canada.md",
-      "title": "AWS Announces Plans to Open Second Region in Canada",
-      "excerpt": "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-plans-to-open-second-region-in-canada/article_3e90a1cf-25c0-5307-bb52-1d31149706c2.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-plans-to-open-second-region-in-canada/article_3e90a1cf-25c0-5307-bb52-1d31149706c2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-its-go-time-for-self-driving-cars-north-of-the-arctic-circle.md",
-      "title": "It’s ‘Go Time’ For Self-Driving Cars – North Of The Arctic Circle",
-      "excerpt": "Northern Norway will be a closely watched, wintry testing ground for self-driving cars. If they can make it there, autonomous vehicle industry members say, driverless cars can make it anywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
-      "originalUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61894faa6cc9ac8540b3fa1f%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D2364%26cropY1%3D0%26cropY2%3D1671",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/11/08/its-go-time-for-self-driving-cars--north-of-the-arctic-circle/amp/",
-      "publishedDateTime": "2021-11-08T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

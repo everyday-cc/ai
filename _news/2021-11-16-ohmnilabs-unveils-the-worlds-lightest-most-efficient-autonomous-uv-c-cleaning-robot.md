@@ -1,29 +1,29 @@
 ---
 category: news
-title: "OhmniLabs Unveils The World’s Lightest, Most Efficient Autonomous UV-C Cleaning Robot"
-excerpt: "Nov. 16, 2021 /PRNewswire/ -- OhmniLabs, an award-winning robotics company, today introduced OhmniClean ... “At a time when sterile cleaning and infection control are top of mind, OhmniClean is helping to restore normalcy by simplifying existing ..."
-publishedDateTime: 2021-11-16T14:56:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-robotics-e6a5c2665d17dacaf855a9bbc0fe57b2"
-webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-robotics-e6a5c2665d17dacaf855a9bbc0fe57b2"
+title: "OhmniLabs Unveils The World's Lightest, Most Efficient Autonomous UV-C Cleaning Robot"
+excerpt: "OhmniLabs, an award-winning robotics company, today introduced OhmniCleantm, a fully autonomous robot that disinfects utilizing the power of UV-C light. Weighing just 58 pounds, OhmniClean is the world's lightest and most user-friendly"
+publishedDateTime: 2021-11-16T13:50:00Z
+originalUrl: "https://www.lelezard.com/en/news-20106817.html"
+webUrl: "https://www.lelezard.com/en/news-20106817.html"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "yLtKeJRAKfzklOaJZNuAcwFo38HYKd0QjkJX2Z9Vn0PmWax/PT0hJC8nAjICHsBzkiNaKmef9Oc+pMOUMY+f0CFPr/i3Q6lLfqXY7MjB4Ia6c91S7Yp9e+0k60NUwt0cWq6xIha5H7WxYn5q+J1Z81PdLAQWQYiIduLw4TVdX3nXLS4mLnzE4hHxrFW8YYraGOSwopOxlLeCVZWEO3UnsKAl94/goZA5gQ8GzOs+sIwcYIUP0DYkAHqwGUxyiGaXQTiH/YBwvOv5n5D+ec5UWPG3UZRTDtPBxg/JmuC8l+OwMDXLnG0TQ3kaeiVwesWFMmQlu+TRf/swDviWDd1GDMi/HpnwowEiQCyxajzgoC8=;kulJ0Qp5K3vTR4shGP3Usw=="
+secured: "agMVbpcvXHQKRGq44rEp5TsgRpxxzcgMqf1WNkPWdb9GKkgWBVTer4PfjNGWGMS82YMhPRJ4zKqH2cNHJ+KL4ZRD4tpW+qgUI0rm0wKf5O0OHVA2Ma7cY0O6zRriVKnHXZCaUWfVnmRDti1Day3F/0G6DQml95AnsJRnOZjdRbLTOj3+tR42FistIGi+fd9hgVSl8sActvd67SN6suVYM5o1Ok0VzBi5Eyai0Q9vEXYfPwrGbausMB8XYZEBZmD9/FhgVkxPZgK/6xSpH9EPUcZvg1GUNjP5B5H/ebxEclpGbhNf/CzuOXXGdAP93ML2624h5OL4Doz8Lf9OfJN6QM1EWNHUr0SWXHhBIly1ARE=;3J6oN3dNcp9uzvpgXH3igw=="
 ---
 

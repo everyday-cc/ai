@@ -71,6 +71,20 @@ related:
         width: 1333
         height: 2000
         isCached: true
+  - title: "Fintech collaborations boost the credit union advantage"
+    excerpt: "The focus for credit unions will always be on their members, including their members’ experience. But how does this translate in an ever-changing, technology-driven landscape? I sat down recently with Upstart’s Jeff Keltner to discuss a wide variety of topics,"
+    publishedDateTime: 2021-11-17T07:30:00Z
+    webUrl: "https://www.cuinsight.com/fintech-collaborations-boost-the-credit-union-advantage.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 24
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2021/08/bigstock-Business-Concept-Business-Peo-383458805.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "h7AOrhbvZ4cCYKGrnCfPiQMw+4470f3NoXwAbLdqnt/4Y41vf6/c466ARwmLbXpgOO1NAgqS1HJzKxB08d/MeeTNMP/gFS/FSbGxLBMYSNXhV2ncjAMLRLXinVC7/lO2/TEZgL0YrvYYKaqHeg6z080taQ89HUfUPQkYXlH4yW5w63HA5IgG4uNNmLlzvOOfzij5IMd5wv2kTrzr99XygMvAjAughdf2rLCMrhtuM5tORR0HU/+A1DlfqxAHdAl0FO+qMnuNs7UMonpk91vIkEZo1Rv4xqwlSkeKGzrJVjQk6jv34SKpVq211hel2sLDZi5LtPura08+pCgPmvG7T8+C0OPeIxEXJwi00gqv5QPg5vGB1Y+N5REDQGN6OJ/oZvu32Dd9yqZulpmJivTtbb1y6vf/lkCEjQ8AheO6P4hodBXCY2hBM8Li/LuVEQt7srzgf0b5CEhC0vGvEvX6Arvf/K3xMmpdNPRYfh4vkRnd9C2ssgfWfso23GaCXHyjoLNS3xJWbxwZ9ARaUvhuAA==;cc7AJ2lCRBbi46TgGH/Dvw=="
 ---

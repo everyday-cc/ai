@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-13-ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late.md",
+      "title": "AI Weekly: Workplace surveillance algorithms need to be regulated before it’s too late",
+      "excerpt": "A growing number of companies are using potentially flawed, invasive workplace monitoring algorithms -- with little oversight.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/",
+      "originalUrl": "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1092756998-e1636570502724.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/amp/",
+      "publishedDateTime": "2021-11-12T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai.md",
+      "title": "How Element 451’s Focus On Bias In Education Teaches The Rest Of Us About Disability And Bias In AI",
+      "excerpt": "For all the myriad benefits, one of the problems with AI is bias—it’s fair to question whether the data these systems are given is favoring (or not) certain types of people more than others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618ebbd032e2561bbc93c0c6%2F0x0.jpg",
+          "width": 474,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/amp/",
+      "publishedDateTime": "2021-11-12T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-monitor-operational-metrics-for-your-amazon-lex-chatbot.md",
       "title": "Monitor operational metrics for your Amazon Lex chatbot",
       "excerpt": "Chatbots are increasingly becoming an important channel for companies to interact with their customers, employees, and partners. Amazon Lex allows you to build&nbsp;conversational interfaces into any application using voice and text. Amazon Lex V2 console and APIs make it easier to build, deploy, and",
@@ -1108,101 +1211,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-brainchip-goes-to-the-edge-and-beyond-at-edge-ai-summit.md",
-      "title": "BrainChip Goes to the Edge and Beyond at Edge AI Summit",
-      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power, high-performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-brainchip-holdings-ltd-artificial-intelligence-789183d73dfb4fe3aed03ac83f32e2d4",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-brainchip-holdings-ltd-artificial-intelligence-789183d73dfb4fe3aed03ac83f32e2d4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-the-best-early-black-friday-deals-2021-walmart-amazon-airpods-more.md",
-      "title": "The Best Early Black Friday Deals 2021: Walmart, Amazon, Airpods & More",
-      "excerpt": "Early Black Friday 2021 deals are here. These are the best Black Friday deals on TVs, laptops, Airpods and more from retailers like Walmart, Amazon and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/uploads/2019/09/instantreadthermometer-lowres-6543.jpg",
-          "width": 636,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/amp/",
-      "publishedDateTime": "2021-11-11T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

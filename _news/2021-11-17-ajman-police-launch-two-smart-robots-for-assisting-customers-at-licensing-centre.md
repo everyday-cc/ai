@@ -1,0 +1,29 @@
+---
+category: news
+title: "Ajman Police launch two smart robots for assisting customers at licensing centre"
+excerpt: "It also answers inquiries and provides all information about the services provided at the centre, such as Opening a traffic file or enquiring about a traffic fine,” Abu Muhair pointed out."
+publishedDateTime: 2021-11-17T08:48:00Z
+originalUrl: "https://www.gulftoday.ae/lifestyle/2021/11/17/ajman-police-launch-two-smart-robots-for-assisting-customers-at-licensing-centre"
+webUrl: "https://www.gulftoday.ae/lifestyle/2021/11/17/ajman-police-launch-two-smart-robots-for-assisting-customers-at-licensing-centre"
+type: article
+quality: 34
+heat: 34
+published: false
+
+provider:
+  name: The Gulf Today
+  domain: gulftoday.ae
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2021/11/17/ajman-robot.ashx?h=450&w=750&hash=733C5E329843890E5D172B579022A8B4"
+    width: 750
+    height: 450
+    isCached: true
+
+secured: "3tolFMzEwFEteYzafj3pP9ALYSPjWXFWYOfRZFPQ7+pY9aN6UDrmq7XfkCvlLTtdTaq8CDrlsrY18e9mTfZmJOP9tZbXXpwkiG26iiceSvuwkKmyEo7J6NvxeBvXcysdE0CffxIAFvskhoySYO+fHTAubQ1GhDplvqbDiDqQU4FZ+i+vU+oN6WUJaY1uFiFmYu6sgfWIHfL6X1JimO6DHFL7LH2ve5ybIJyrVQ+mBNosCzyTzNEeUIqTeiYrLTPkcpzYYEsyZrq0GR+oR3jgoUKm7nzz0A2R+TuJJ+6xFcvnb3ZEP5NKVsyag0+SGUegSnMK0zZe5yIWb+gMS7uivy62mHwBD3IPSYwVqmluKAw=;2+0+tBsnYKuIwFTo6OWMIw=="
+---
+

@@ -3,11 +3,11 @@ category: news
 title: "Sequoia leads $10m round of SG voice AI startup"
 excerpt: "AI Rudder, a voice-focused AI startup based in Singapore, has raised US$10 million in a series A funding round co-led by Sequoia Capital India and Sequoia China Seed Fund. The round also saw participation from existing investors ZhenFund,"
 publishedDateTime: 2021-11-16T08:25:00Z
-originalUrl: "https://www.techinasia.com/sequoia-leads-10m-sg-voice-ai-startup?comments=true"
-webUrl: "https://www.techinasia.com/sequoia-leads-10m-sg-voice-ai-startup?comments=true"
+originalUrl: "https://www.techinasia.com/jdcom-sea-president-joins-sg-cloud-kitchen-startup/next"
+webUrl: "https://www.techinasia.com/jdcom-sea-president-joins-sg-cloud-kitchen-startup/next"
 type: article
-quality: 49
-heat: 49
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - AI
-  - AI in Finance
 
 related:
   - title: "SG startup AI Rudder scores $10m in Sequoia-led Series A round"
@@ -38,6 +37,6 @@ related:
         height: 551
         isCached: true
 
-secured: "111seaKauAQfjlQWjpe0X2L1jhfojeyDpk7MwRw5sdtJaxVVNSVJET+iBbPvjxcCb+WT1yQ/M5qiAMf4TD5ZWU0cohc53xwIvqtPpq3+7aWXi0SRxLhVNXaj3PeEq7JV0MQxhyfBPvYrGLRg9n7AVYTqu/2LmaknlLNkgznAZoQbadFRgvMzH3MIO3TbjhNkB+pxYmaeBWvPVMxENzzqU3yAXWx3lYyuU6KhOTiPXi5WfG2DFV+ePjg8bgMSpf/pSFB7INX1llUl7wbjeAB1HqDQdvajhdR/byZ2tvQC715vUJzBP5GWiJqXurEycaREj8qj7f60F4BQ0vXpnQTJ8wQzep4Z0oF3pQ8NcL3t7JwFDq8WlgBfhiptO133PsyQGkwM6liyg2F7zCSX4xqvx7R1pR1nc7tMSqqe7oA+JO+JMHsgW0i4rMeJufU06t7+dEpgf1ceIrCrw8eJ5vMoBFrltqsrGeIaO4gtjRseT8Dx4dOCqhQ/K/oqp8Ahca9n5JsvJEQH5mWv7tkl1vCwjQ==;D14GtsTn+YrzyaQGtsALyQ=="
+secured: "kR2+W4396JhI2e+ITF94Fg6UO8MuNjJO6ZMHoWyHVwaAzuFdp6zPLgWUDtu1t6Rd0+Z0yQyktrYab1bTqWRxrOYldTy+PMPREM+8JXHXKSN2NZlvpsFTEDhUVgGESYZYzYO+Fr1UmSy9DydBZgAa1JBiE62w4bfui6/FKsCPm2yUXqrcN/3SzWwo6Z3PwCGlj54ba+Vz/9tohHo3kKxjXdORz5XwCpblb0cGRngLPQj3pXyYYDvSW4EqRvIojyeaeX+ngwEvUJLNMOkMA08WVYtVMx6JI/OmxbUVb/c54xYHyjcpRfUZuwQOryB23NymVHoBeITd3vATL97UM1wo4sw7ZW4OwgMert0iv2lAaKOF6bsj6rXjiAygcaf8vu3FhF0AQqqcl0Vt71v5UL1wgUbL4I9yJgyPDzjkbu6CBwFlhYturFYanC/a9RhtNW5ea2gVH3NLJnwv0FDAdY4xJgTcLdTSYGqbBK4xel59m6q3UeSDeZfmtRKmyaMMQE9GbyiIkhJlKTBiQ40tvNvFkg==;r67e+ihLkT8vB9BH+6daRg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-lang
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

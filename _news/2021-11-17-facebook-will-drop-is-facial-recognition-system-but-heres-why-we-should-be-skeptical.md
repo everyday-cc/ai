@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-17T05:06:00Z
 originalUrl: "https://electronics360.globalspec.com/article/17423/facebook-will-drop-is-facial-recognition-system-but-here-s-why-we-should-be-skeptical"
 webUrl: "https://electronics360.globalspec.com/article/17423/facebook-will-drop-is-facial-recognition-system-but-here-s-why-we-should-be-skeptical"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://electronics360.globalspec.com/images/assets/423/17423/6943972882_7b31832852_c_Hero_Main.jpg"
@@ -24,6 +25,6 @@ images:
     height: 420
     isCached: true
 
-secured: "Ch+PmBmVbqMOWGTNJZY+4U5MYSnK+HfY828pMH4fEKU0VBmDJh5veOewqBoRf/9F2wmqRre3Qc2TXjirYfyFZvIrQ5AmM/xLkyhf08nTb81Uza5lm3kaXgphbkb3DDkUg2uHylTJlC2lhVrA34/p3KifPITSpMHHoco+DqWsTfU1axPbhSkoIwj7hAWDnR1UuF7Z2nKdQ2lqn7W6g/qSiXXBAeYu8tn+QxTydCtD8rIL6+tTTVpynSV7cbTNST+AFDHtpLdw+F/kjCbs5t/KbtqKmmBHVSIZs+a2zxtbLpxNqFmMQM6b5t3COtxv7QK48Q4laY6V0qL2l8A9mLg6TRMWtR/mbUZAQfu0f7gfH1A=;Zt61X5k9v4XOQJBewSfq8g=="
+secured: "tWJyI49l+eZLhW+864aYDs8pChauA0h0/ZE+bwyCWFhccj/dJahKYF1f+SIvU7S2WRhMmu8H6bmkETkwB1yQbr5xWk8i8Z/6vWE71lQ1rdzOvMaRiOwDp0snPYY07OBvMPPPnxa8fWztQgLvL6u7GTCxau7GaPgEzwChRh3kFYPbxatDmS6kR7fVWEquKp6ppPcNioalAcU4Bvu5SDkrC4QfrXa3UADvmaRjAT+z+gUCCD7TMOXZqTbIBeWzyBhfA3MjZOn8N5kw7hejbwofUzzwL0TeiuHzFVxTIimBN6yp2fSXTvjdVtUG3T23di0BOuEI9Lmhhq8tEcIoerLZQBhcdNI2EY2eDHmB6ghS/glzU7ET9LnB/qB8V5Vc6iEKFCZip0q+3jQP1dwFqJ9IDOtrrdNJUIfDKqFO4AbYH06werHj3zH7OST/ABBCwSbYHhzuuB5EZPnEpzmVez7DB76mnaxBgIh1L3lbB2+5JE33AjBAbq9cYtIGRAI+KFTHn17NWQVrcw0oa1QxDe4y6Q==;H342HWa+QyIemUsiSjt08Q=="
 ---
 

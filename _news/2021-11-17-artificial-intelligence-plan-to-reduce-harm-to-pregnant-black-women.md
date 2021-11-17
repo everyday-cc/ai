@@ -3,22 +3,18 @@ category: news
 title: "Artificial Intelligence plan to reduce harm to pregnant black women"
 excerpt: "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations."
 publishedDateTime: 2021-11-17T06:31:00Z
-originalUrl: "https://www.bbc.com/news/uk-england-leicestershire-59306908"
-webUrl: "https://www.bbc.com/news/uk-england-leicestershire-59306908"
-ampWebUrl: "https://www.bbc.com/news/uk-england-leicestershire-59306908.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-leicestershire-59306908.amp"
+originalUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908"
+webUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908"
+ampWebUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI in Healthcare
@@ -30,6 +26,6 @@ images:
     height: 576
     isCached: true
 
-secured: "aEJdaMGGfIv8/bkq8Cq1wmo7dZ8RrevQluBDWyC0AIcK7kZw4WyaI5Ev7DF+c8YkbqcLvrcF9KvAXiGi3YhCJT9CDXlMGSmB9eR/04GVaDXMdZo4iv+0i+AJnN2Lg9fU7zQbhOXIxtKhwTuSz5C2DCjMwZZuPPqJEfhsKdiCkL7qfQO//au37R2DxPkcR+TUrrW90VQErshuFnjKH/gPIcACE5H2EslIUwo9d82kWPy8afh3aIgMTkns8GJVCg63GOpmjj7pKEiFV1jN/U++7GlVY0CRJTCjPjj1YJjXIIAjLV4doNUfy4CM866ursu/PSY098VMSsFc3DBYVNlOIqJacfWrzMCN81rzxpC37hM=;4rJSkb/wup+iFgHMPmoYLw=="
+secured: "SEiCqRJGfl2WIIMsuvt4/lwVuLshMQyVvBHu5nvaFqv1pwqaETrDGKjP0O9ntKREWSyyKQdWRkKwotk64RdmrkV06vkAY9NR6JoCQLoKMEO1rhUF8AcyBHUb9FKzGnFiYNB+HC3bHDIKFWpXafqYbEq1wu/Tfo70v5TedfTXJYn66qZbQ0o/y+r1xNbQDW81iwozW+eAkkWbKZ0bWo9Xmzu3qUVvK0fnK2fL4NXMzE/1DhERFpLUJzrW15GnIRGziRsOWmnNnDW7H2HfciX/Imr25NnSUKi0VpOWkrEkRxTaqUA80QhogZpDhVxjaFJ1m5zQOWVS+LnVZwiH5KJA9x9Oo9eAB6T+pIXrqz9xCgM=;dmg5yIgaDaFKqaKStf6wEQ=="
 ---
 

@@ -71,6 +71,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Qualcomm chips supply for BMW self-driving cars"
+    excerpt: "Qualcomm has made a major announcement regarding its new strategy to advance autonomous drive capabilities. Qualcomm and BMW have announced a new agreement to collaborate on the development of chips for future generations of driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-17T07:50:00Z
+    webUrl: "https://bestgamingpro.com/qualcomm-chips-supply-for-bmw-self-driving-cars/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 24
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Qualcomm-to-supply-chips-for-BMWs-self-driving-cars.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "BMW is turning to Qualcomm to supply chips for the automaker's self-driving cars"
     excerpt: "Qualcomm Inc said BMW will use its chips in its next-generation driver-assistance and self-driving systems. San Diego-based Qualcomm is the world's biggest supplier of chips for mobile phones but has been diversifying its business."
     publishedDateTime: 2021-11-16T12:43:00Z

@@ -75,6 +75,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Qualcomm chips supply for BMW self-driving cars"
+    excerpt: "Qualcomm has made a major announcement regarding its new strategy to advance autonomous drive capabilities. Qualcomm and BMW have announced a new agreement to collaborate on the development of chips for future generations of driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-17T07:50:00Z
+    webUrl: "https://bestgamingpro.com/qualcomm-chips-supply-for-bmw-self-driving-cars/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 24
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Qualcomm-to-supply-chips-for-BMWs-self-driving-cars.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "BMW is turning to Qualcomm to supply chips for the automaker's self-driving cars"
     excerpt: "Qualcomm Inc said BMW will use its chips in its next-generation driver-assistance and self-driving systems. San Diego-based Qualcomm is the world's biggest supplier of chips for mobile phones but has been diversifying its business."
     publishedDateTime: 2021-11-16T12:43:00Z
@@ -90,6 +104,6 @@ related:
         height: 600
         isCached: true
 
-secured: "q8N5WwfMqcqYCZnECa9hhmGrafjduVEZPAd/wguPghwoL5zee9GAPa8IyBBVRs2kGmnFntVXuR6qQrzktwvwMIBg//3H/ajogihQUHhG+2u+qEXpYWDRiLuRJz5UnmI0eEPiUM6sz62LixKLIMthpymNlCNv+xEGDHRtXkXv4aUyodReTakFXYYJTMlI2h6OSAeP6WC0w24yuEW1JGDeI24uWCX6JMnCQeOajvxTPGvhXhWgn7tx8R/u8OkMYQexa5ToQd5yANDorsWnjSV1n1vvM087ckiwWuaI7oaFjRnBNUuJ8/r0ePPDdCvmsYHU2KE7YdD5CLhSIwb5MxaPBrMb9QLr8AYa6hUJzbSTsR8=;K8nUdEjVtQ2D9FpuZNnueA=="
+secured: "UgBN+LjaNowQqLsiOatTRQBA7Li/QiMZ9PMerCSF1ZIcEX3rQ9h7o3jt+W3UuWu6WMjowmk1G0oc/s6CCJT77abvekt7Uh/B8vRTEsU7gV86gdb7lVKlMnAs+eujq6tAlKT/5pRCJZTk9Y171fZl86uQnLMLo0UsasEL9Vq2sLZ0+TQ7s7A2+OLvAk54KxSY3LuWRHGqWMVGHycwI9X06W6zJBt2EMXjfJ0G3eSunpAIgr8th2p2YYyPesTQdOof1YrWRIIShVpdkisM+pIVXQRTcQTugVI+LexJwpXGXhXT4BHKdZoPi4+drAA8ebWQj8ciCyoTqdnqumGc5ZiZ/uPyrbDMD5WzYJgA5cTl4Aczhf86cuOy7Bnwd9GVk8p6ntveaQfi9f3lz5EIrDL+AFRk8agarZx8rZdspC0DR9PdSeF3rqlxWkSbCJzg+AUJMUlkIZPw8FvwkMnwpVERkqlazE+ikjwAb8+3j6lyFK+GnxjtxxuI4uzpH1rlkzK6GuB1ChbB25GUq6axmqw19w==;NP5B+z39vkNfj56BhDd6Eg=="
 ---
 

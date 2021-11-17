@@ -2,6 +2,282 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-10-15-extraordinary-ai-motorcycle-hud-highlights-hazards-and-cornering-lines.md",
+      "title": "Extraordinary AI motorcycle HUD highlights hazards and cornering lines",
+      "excerpt": "The head-up display for motorcyclists: it's the great white whale of the technology world. Over the years, we've seen at least a dozen different attempts to put information into the eyeline of the motorcycle rider,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
+      "originalUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e991b46/2147483647/strip/true/crop/1983x1322+282+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2Fd7%2Fb28d9cd849b49549acc2945a2c16%2Fscreen-shot-2021-10-15-at-5.25.26%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
+      "publishedDateTime": "2021-10-15T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-ponyai-to-start-driverless-tests-on-public-roads-in-beijing.md",
+      "title": "Pony.ai to Start Driverless Tests on Public Roads in Beijing",
+      "excerpt": "Silicon Valley-based leading autonomous driving company Pony.ai, today announced that it has been authorized to conduct driverless tests on public roads in China’s capital city, Beijing. The company is one of the two autonomous software companies to receive this important Beijing permit.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-china-beijing-a0f4dcf4efd645c0b1a1dac481aa11af",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-china-beijing-a0f4dcf4efd645c0b1a1dac481aa11af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-15T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-facebook-is-researching-ai-systems-that-see-hear-and-remember-everything-you-do.md",
+      "title": "Facebook is researching AI systems that see, hear, and remember everything you do",
+      "excerpt": "A new research project led by Facebook’s AI team suggests the scope of the company’s ambitions. It imagines AI systems that are constantly analyzing peoples’ lives using first-person video ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research",
+      "originalUrl": "https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/73gyBNbYY43DUsIXiVz5LZCFdH8=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69993206/acastro_180828_1777_facebook_0001.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research",
+      "publishedDateTime": "2021-10-14T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-autonomous-vehicles-spurring-advent-of-industry-40-in-unexpected-ways.md",
+      "title": "Autonomous Vehicles Spurring Advent Of Industry 4.0 In Unexpected Ways",
+      "excerpt": "Autonomous vehicles could be a boon for undertaking massive transit needs for massively distributed manufacturing in Industry 4.0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aitrends.com/ai-insider/autonomous-vehicles-spurring-advent-of-industry-4-0-in-unexpected-ways/",
+      "originalUrl": "https://www.aitrends.com/ai-insider/autonomous-vehicles-spurring-advent-of-industry-4-0-in-unexpected-ways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-15LEliot-Micromanufacturing-2.jpeg",
+          "width": 550,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aitrends",
+        "domain": "aitrends.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras.md",
+      "title": "Facial Recognition Fail Spurs Bid to Ban It From Police Cameras",
+      "excerpt": "One such lawmaker was Assemblyman Phil Ting, D-San Francisco, was matched with a mug shot by Amazon’s facial recognition software called Rekognition despite never having been arrested. “This is a demonstration that this software is not ready for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/",
+      "originalUrl": "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/amp/",
+      "publishedDateTime": "2021-10-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-amazon-personalize-can-now-unlock-intrinsic-signals-in-your-catalog-to-recommend-similar-items.md",
+      "title": "Amazon Personalize can now unlock intrinsic signals in your catalog to recommend similar items",
+      "excerpt": "Today, we’re excited to announce a new similar items recommendation recipe (aws-similar-items) in Amazon Personalize that helps you leverage your users’ interaction histories and what you know about the items in your catalog to deliver relevant recommendations. Across Amazon, we provide personalized",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-unlock-intrinsic-signals-in-your-catalog-to-recommend-similar-items/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-unlock-intrinsic-signals-in-your-catalog-to-recommend-similar-items/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/13/1-5897-Architecture.jpg",
+          "width": 800,
+          "height": 311,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T16:35:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-facebook-ego4d-tracking-your-when-how-what-and-who.md",
       "title": "Facebook Ego4D tracking your When, How, What, and Who",
       "excerpt": "Facebook releases a new pair of glasses with cameras, microphones, and proximity sensors aboard, remember this article. Today we’re taking a peek at some research posted",
@@ -906,281 +1182,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-artificial-intelligence-ai-bots-market-trends-top-manufactures-industry-growth-analysis-and-forecast-2030.md",
-      "title": "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030",
-      "excerpt": "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "originalUrl": "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua14817079_g.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "publishedDateTime": "2021-10-14T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facial-recognition-market-size-worth-102-billion-globally-by-2028-at-1592-cagr-verified-market-research.md",
-      "title": "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research",
-      "excerpt": "The facial recognition system is increasingly being used to control access by governments and law enforcement agencies to identify a person for better safety of valuable assets and therefore",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54203219-facial-recognition-market-size-worth-dollar-10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54203219-facial-recognition-market-size-worth-dollar-10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots.md",
-      "title": "Facebook's AI research could spur smarter AR glasses and robots",
-      "excerpt": "To make that future a reality, the social network needs its AI systems to see through ... memories,\" said Kristen Grauman, a lead research scientist at Facebook. The technology could eventually ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/nS4K0Pu_8GhRSvXfNnUMMzpRaXI=/1200x630/2021/10/13/d6346168-48f0-4cc8-80e1-78060b33e5c4/gettyimages-669913928.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ai-research-could-spur-smarter-ar-glasses-and-robots/",
-      "publishedDateTime": "2021-10-14T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-mozilla-artists-question-whether-ai-could-predict-police-killings.md",
-      "title": "Mozilla artists question whether AI could predict police killings",
-      "excerpt": "Future Wake is a new art piece that uses AI trained on real law enforcement data to predict future fictional police killings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "originalUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9770718bc910fb3a5b8afd1b45ca96f667569398/2021/10/14/850ff2d8-5c7b-4f6c-9daa-e387beb94c54/untitled.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "publishedDateTime": "2021-10-14T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-deloitte-launches-cognitivespark-for-marketing-artificial-intelligence-solution.md",
-      "title": "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution",
-      "excerpt": "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
-      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg",
-          "width": 980,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAW",
-        "domain": "wsaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-writing-helper-copyai-closes-on-its-second-funding-round-this-year.md",
-      "title": "Writing helper Copy.ai closes on its second funding round this year",
-      "excerpt": "Copy.ai’s software can, for example, write a blog post outline based on a few sentences and create link descriptions for Facebook ads and even generate a company motto.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
-      "originalUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-930041786.jpg?w=1024",
-          "width": 1024,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/",
-      "publishedDateTime": "2021-10-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

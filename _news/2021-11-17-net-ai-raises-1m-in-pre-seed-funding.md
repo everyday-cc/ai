@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "It's A Match! Expecting, The Startup That's Digitizing The Surrogate And Egg Donor Search Raises $1m In Funding Round"
-    excerpt: "The smart, free, online fertility database is the new way to find surrogates and egg donors CRESSKILL, New Jersey, Nov. 15, 2021 /PRNewswire/ --"
-    publishedDateTime: 2021-11-15T13:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/it-s-a-match-expecting-the-startup-that-s-digitizing-the-surrogate-and-egg-donor-search-raises-1m-in-funding-round-1030976153"
+  - title: "IIT Madras Marine Robotics Startup Raises $1.6 Million In Pre-Series A Funding"
+    excerpt: "Planys is currently working with Shell on digital transformations for marine assets using robotics, NDT, and data."
+    publishedDateTime: 2021-11-17T07:29:00Z
+    webUrl: "https://analyticsindiamag.com/iit-madras-marine-robotics-startup-raises-1-6-million-in-pre-series-a-funding/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 65
     images:
-      - url: "https://mma.prnewswire.com/media/1688217/A_new_startup.jpg"
-        width: 400
-        height: 225
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/131A3238.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "lcD2efqL2nejsm80YyHop2EJiDaUoTo7b+NQ8RriNmQej3hCcVjQ4+ofpoSXTngm3jjDJuCFSCZTTCq8+1DgC5UzWrNplWxcWZ419iohC1hDUxWqaYZDpbwsTPFnuV+E01dz3Yz7t5mPdgfOumqUytREUyTWjpoVJ4W/rkIFtzgbpoGlp9QE+lB6tQMxhnAYQuppn4d/pXPyJz9Bh+L7REaqYpXxYhlSjS2CtckK4b/mwDT+dYKsC0Dnr6RRSmkKsMSpxvOHY6Cfa4KwVFSVCIcacMQeumAVjhP/uiZ4/+xTPj2g5Q1tWjeIiqL7F/QE5IGgnNuhmV4Se4eeLH6obbcJYkRzI9MKGsM9zmNQOH4=;uO/w56tYv8wE8G/xLRjkSg=="

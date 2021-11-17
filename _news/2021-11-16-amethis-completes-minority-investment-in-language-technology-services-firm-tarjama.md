@@ -30,7 +30,7 @@ related:
   - title: "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region"
     excerpt: "Amethis, through its newly launched fund, Amethis MENA Fund II (AMF2), has completed its second transaction, acquiring a minority stake"
     publishedDateTime: 2021-11-16T12:00:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-amp-services-firm-in-the-mena-region-843630674.html"
+    webUrl: "https://www.prnewswire.com/ae/news-releases/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology--services-firm-in-the-mena-region-301424713.html"
     type: article
     provider:
       name: PR Newswire
