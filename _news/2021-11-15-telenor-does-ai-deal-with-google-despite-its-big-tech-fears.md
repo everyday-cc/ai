@@ -42,20 +42,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "The Future of Mobile Apps is Voice Search"
-    excerpt: "Software developers all over the world are debating the myriad future possibilities for making online searches and living in the digital world more convenient. Voice technology is one of the most popular options."
-    publishedDateTime: 2021-11-12T10:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-mobile-apps-voice-search-elise-lowry"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH2MyXsgoXdEg/article-cover_image-shrink_720_1280/0/1636714422088?e=1642032000&v=beta&t=3IC55J-yDkzha2a-9gebka3NoBBgd8ZCoAvdW5c1jbE"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Everyone Can Be a Developer: SAP Introduces Tools for Citizen and Professional Developers, Embedded AI, and a Free Learning Experience"
     excerpt: "SAP SE (NYSE: SAP) today announced new products and services that empower citizen and professional developers alike to accelerate digital transformation. The pandemic spotlighted talent as a key challenge for organizations around the world."
     publishedDateTime: 2021-11-16T16:11:00Z

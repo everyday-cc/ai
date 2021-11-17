@@ -3,23 +3,23 @@ category: news
 title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
 excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain managementCloud-based infrastructure and collaboration to improve speed and efficiency across business operationsDigit"
 publishedDateTime: 2021-11-16T13:00:00Z
-originalUrl: "https://www.goskagit.com/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_f7304be8-4535-560e-8883-7566f1791b5d.html"
-webUrl: "https://www.goskagit.com/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_f7304be8-4535-560e-8883-7566f1791b5d.html"
+originalUrl: "https://www.dailyrecordnews.com/news/state/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_b56e6143-eeba-587a-aecb-3cfeca03147d.html"
+webUrl: "https://www.dailyrecordnews.com/news/state/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_b56e6143-eeba-587a-aecb-3cfeca03147d.html"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Skagit Valley Herald
-  domain: goskagit.com
+  name: Ellensburg Daily Record
+  domain: dailyrecordnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/d/1b/d1bed73a-a23d-546e-9daa-b36addead8b9/6193bd50c4dff.image.jpg?resize=800%2C566"
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/a/43/a4316266-1765-50c2-8705-7274ff032ce8/6193bdca44495.image.jpg?resize=800%2C566"
     width: 800
     height: 566
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 300
         isCached: true
 
-secured: "IIP90TV9wkfYmhr2l3LxYcnbVRq6UDHmYVwePTrxpCd5FEYsL2m7+RfprR8aK5u6GDJlqplxHLOm7K3mg9owkiIZPPrOvRYVWUsADPCpVQOgUpLq6cws+mqzC4Bo+26uGDk/50X56Ju9C7mOO5OpjyrpPyeH+AoCdKs9cQKidGYfU/vES9Y4sMT6OiHPaZ2DuAMM161L0O2N+wj59HW8XE79ruxEH6GATsQmLkXOLNZlk2OXIFbmUaeLGvz/WuKDnXBhP1RsAy1zv6mvCXtAr41J5JLVjdg3zQrVWPvyCCbfasbwU119UbGmeoprH0484P6jL4ZUH4sATabwXwFLV0XT1Zq8ynXmPFTaDAqJVzg+rdtxWo9SnUjFilPCixnISPHw7jFfRsjeTshNegvEqek6/AOfBFn6UDtx6EYZGtpK7gUWywDImeThcmjEUhNh0NRNkFfROocmftB0jkZ2Ou4XBGqVmM4moG9UAfIJLMe+15sYXgp4OlMrI8NUZIbkvsyFvpMlMx9gUZ/5pEkP5A==;lk4y5kTKJsXdksC/X/vZvQ=="
+secured: "nBoC2+pmAafyMkgAdHzwh2F4MZbr5ApZHNfet9HzfsNJhLdh1mAwtYEq78aJzIj4kVEsV+AzhDHPCLWeWNrEp49aS6TX+QgA3YXR8M8ZKKhkfO+kOvhVTezhq3qJoP9bHy9P1QZJP6VME8t9nLj1hVEVSrisAt5ZmhknCHqnyB/MPEXkIDIy4CFpDPbYRrgJ8vahsh6ZqZro+s+A0K9mbLHFGFRfG0DU9ulsNEY/iJJrXUi9c/d93BqVYK2Z73riRCrAf9qqnf5FwrwOy6TeCn7QVTqOYEe4VYFmqVePHy2uDp0jb+R2tZ8s9rLeNHTgmGlY6Cchm2IKprm0cDzUKGGb5paVKr2Z2BoXFsmLpDE=;z7Rgy0TiOdUW3114oKKpTw=="
 ---
 

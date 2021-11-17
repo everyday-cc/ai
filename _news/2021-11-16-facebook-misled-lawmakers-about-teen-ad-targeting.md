@@ -101,20 +101,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "New Facebook Product for Financial Advertisers"
-    excerpt: "Machine Learning powers Financial Discovery Hot on the heels of Discovery Commerce, Facebook has recently launched Financial Discovery, a service designed to help advertisers find customers most likely to"
-    publishedDateTime: 2021-11-12T09:39:00Z
-    webUrl: "https://www.accuracast.com/newsletter/fb-financial-discovery/"
-    type: article
-    provider:
-      name: accuracast.com
-      domain: accuracast.com
-    quality: 24
-    images:
-      - url: "https://www.accuracast.com/wp-content/uploads/2021/11/facebook-finanical-discovery.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "Facebook still harvesting teen data to fuel ads, warns research"
     excerpt: "Despite announcing changes to its advertising rules for children in July this year, Facebook (now called Meta) is still tracking and harvesting children's"
     publishedDateTime: 2021-11-16T13:00:00Z

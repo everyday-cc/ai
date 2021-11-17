@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182830-european-banking-aut
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "GSMA-ETNO position paper on European Commission proposal for an Artificial Intelligence Act"
+    excerpt: "Download GSMA-ETNO position paper on AI regulation The GSMA and ETNO welcome the initiative of the European Commission to propose a Regulation on Artificial Intelligence, and notably the central role of the risk-based approach,"
+    publishedDateTime: 2021-11-15T10:46:00Z
+    webUrl: "https://www.gsma.com/gsmaeurope/latest-news-2/gsma-etno-position-paper-on-european-commission-proposal-for-an-artificial-intelligence-act/"
+    type: article
+    provider:
+      name: GSMA
+      domain: gsma.com
+    quality: 9
   - title: "European Commission’s Proposed Regulation on Artificial Intelligence: Conducting a Conformity Assessment in the Context of AI. Say What?"
     excerpt: "The European Commission (EC) on April 21, 2021, proposed a regulation establishing a framework and rules (Proposed Regulation) for \"trustworthy\" Artificial Intelligence (AI) systems. As discussed in our previous OnPoints here and here,"
     publishedDateTime: 2021-11-16T08:32:00Z

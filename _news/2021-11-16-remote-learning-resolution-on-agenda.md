@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and machine learning can streamline surgical documentation and streamline reimbursement"
-    excerpt: "During a recent session in The Business & Operations of ASCs conference hosted by Becker's ASC Review, Lucian Newman III, MD, chief medical information officer of Nuance Communications, and Tanya Fengel,"
-    publishedDateTime: 2021-11-16T07:34:00Z
-    webUrl: "https://www.beckersasc.com/leadership/how-ai-and-machine-learning-can-streamline-surgical-documentation-and-streamline-reimbursement.html?tmpl=component"
+  - title: "SkyPoint Cloud Launches SkyPoint Resolve, Machine Learning-Based Identity Resolution"
+    excerpt: "SkyPoint Cloud (SkyPoint), the privacy-first customer data platform that enables consumer and healthcare brands to build deeper relationships with their customers, today announced the launch of SkyPoint Resolve,"
+    publishedDateTime: 2021-11-15T15:23:00Z
+    webUrl: "https://www.lelezard.com/en/news-20104178.html"
     type: article
     provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 37
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "2n7kSiPRCPvcKqF5LREtc8MlRZebMUJjqvw99ey7606sQ8w92Hq++DLpAJQTM4rQXwD1mZhEdwvRRFNnYZQJJ6vxjGNX17moujfOgog24k8Wsa7od3U4+rrFM+FR42QrzXteAOfWlcET2egfcqRnsnIYtzGliXdYdo8Of3yLt4wlDW/Exz76AQVvhwhLnRcgjEEVMkxCJy2qEwooFwWZpREb/+9oJBh+7y/sP6kP2Q46RUk4wxwOvy5nH0KPQYQTjaBS3VDvg6O3JlXQ6q3fYYnWNwJJNqVsnMvybT+w5sthxwR7YDWr/GZ1RLE/S6Gi+JvZMs3tmfjaI2ZeFov1WaVazIVOPdxUbHahQ5K+BYQ=;iH+xxyjHcgYsM0WdsqKQ4w=="
 ---

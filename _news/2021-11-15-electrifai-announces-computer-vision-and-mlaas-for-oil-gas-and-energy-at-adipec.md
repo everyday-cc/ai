@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2021/11/IMPACT-23-14df52e3-768x512.jpg"
+  - url: "https://www.thaipr.net/wp-content/uploads/2021/11/3360709-768x402.jpg"
     width: 768
-    height: 512
+    height: 402
     isCached: true
 
-secured: "b1x9GGeyLfqYSRqPZvNkls+Ct+//aoqbZdS7bj26RScf2jgTy+jgL2ksXYNwlHnymG6QAbpu0/CaRhqh+26wnntyEOH9TA5AL2EFMpchC0bUmzIGhQJeziE4YcqJ3BxXTE2Ukt7ypuvOHNYkZ8o9hwqkq/q26h22XVHUHvf5q7wNnk9Lav+NaPPQK9zhRAitODmyWun81FpA2ITtjDhWJsrUvBfwGUeqJrQagQwk/M97iJFb2DjzHCKhlEzZ2/herqc/Ok/YurrACji6qDdgk/QhCBvCRsUjjZEmPLNg+LoV4EZ3fLY9jRisdnk5fRZPEm9y4wSTLTsDhSKS5wchqXJpwO/Vwqx5MYsVK0zSUZQ=;MuD2Wm1+x6xgZ5H+UVb5Gg=="
+secured: "0AOwUd3oT9fbMPqoaLwEew9K+L1LnypngsD0hIxC+HlSSxXE+iIQB3bSpYq0e2fu1irM4cClpyBmGLbjQJad6cTnScBAahSTgh9DjZYVuoKLXv968UtC2p6UEU4sRAUzxgNnMjL2VNT4wzDH0srdgkUR6+UvrKTBOigu9Ws13f6zYb+UD8QZo9CaQeWmHE2WLhAFZgwh5OWa85NvP6/+W1uEUFGIg98HbjPgjNIDjX5eCC/6Rup57YMtMVNZMP/k2vVsUrvpqx1TkLCwlmtJvXbYz040ZMuF/Whbc6o13MQcrhm5NBP8Cow8zk2sREn/iPN7yah/Eu4SlIGGnuH7fy3EJ5VpaJfI/ezZ37Xnwx8=;hT+F2ZA9CEdfxxTtCTSYbA=="
 ---
 

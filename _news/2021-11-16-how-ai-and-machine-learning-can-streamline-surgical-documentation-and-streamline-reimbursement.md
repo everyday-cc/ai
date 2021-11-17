@@ -7,7 +7,7 @@ originalUrl: "https://www.beckersasc.com/leadership/how-ai-and-machine-learning-
 webUrl: "https://www.beckersasc.com/leadership/how-ai-and-machine-learning-can-streamline-surgical-documentation-and-streamline-reimbursement.html?tmpl=component"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Remote learning resolution on agenda"
-    excerpt: "The Odessa American is the leading source of local news, information, entertainment and sports for the Permian Basin."
-    publishedDateTime: 2021-11-15T17:17:00Z
-    webUrl: "https://www.oaoa.com/local-news/education/ecisd/remote-learning-resolution-on-agenda/"
+  - title: "New AI application reads eye movements"
+    excerpt: "Eye movements read by a new AI application can reveal thoughts, memories, goals — and brain diseases. A new tool developed at the Kavli Institute for Systems Neuroscience in Norway and described in an article in Nature Neuroscience,"
+    publishedDateTime: 2021-11-17T01:38:00Z
+    webUrl: "https://www.news-medical.net/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 24
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
     images:
-      - url: "https://www.oaoa.com/wp-content/uploads/2021/04/ECISD-Logo-Wide.jpg"
-        width: 1920
-        height: 1024
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Magnetic_Resonance_Imaging-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "i/TBz6zdfDknFy7gOCnrCIxMUO5kf+9tzuDEctXdxVitrWiEv4jDmzvXfmw1Lo27SxK/5BXj8LFezc9mmNOnwLD4tk6wMD4T/UepZYXpTxbv015Q0VCfRR+yfTFgs/R/MmEHZ89PT2J724M+THQO5dFQuzGXJgNhN0G8y2CEcexhW7OeVlOr3/qKdy3xLiKMp+CKPJPrUPq28fgIxVNnc90I/ac41R86DcoY9Egt7vZMMvZeCj7PeB2WvA7kWcwSsOTMHAUJbgpjTAwBVurLFHmCRE5WN7qm8ThVY7LJsAjNFYmJ/+a4LHJu04zVOBQ3vNLyjcFHZmoQqNOYndbztMWiXyOm6gTFyBbDKb06bJU=;mhVkbEHbaqYP93LD0o9vGQ=="

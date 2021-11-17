@@ -55,22 +55,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "IBM analytics in modern day IT operations"
-    excerpt: "IBM Watson AIOps and Turbonomic combine a set of capabilities such as predicting, communicating and resolving events before they happen, and have the ability to manage all facets of the AIOps life cycle."
-    publishedDateTime: 2021-11-12T09:02:00Z
-    webUrl: "https://www.itweb.co.za/content/WnxpE74gL9avV8XL"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/WnxpE74gL9avV8XL"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnxpE74gL9avV8XL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/YdvVtAqCT-4fw4ePW4NCssTD2K1P1GIgxP189-OiOrIz-tq-tOs9g5zlMfF7KLc2P-ZytJMbfPkn_7iIKXVpGXc=w400-h210"
-        width: 256
-        height: 210
-        isCached: true
 
 secured: "hiOn+lHI1DAFS23akZV/qPgFgq8qOEu8f/F9AoqILMACmNAD0TzLixT8c7ChYLhvcXfOMT54G7RUbgR12zcQmFnDv9ooc6JlS4DBjZUWtBwbH8dhKZ4DzCsaMX7ppHEX2M7C/U+PUl+b/cRuCRvtiDT5R/cybtxrYxqt6OHOEg6tAa2p243YBijB21+L6PIefJ9GT6qPiz49QHCkBJPUXUCY9YmFQvcp2IGvBw5JA6JHgiTuheoCv01/ewPmkBBsizhV2gsKoiqmPI+EALLLj15jsp5q4KK8dH4ORz3p10CSbFh+p/1eF/JFYBYHJMVwsGiNWkTJ2gaGFGZMu11CXQ9oO4pqzEzCfrvL9Vs7r2w=;9nZW3NP8rWqsXzrQHmGhKw=="
 ---

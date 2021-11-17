@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.amp.html"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five lessons to fix the failures of AI"
-    excerpt: "Sray Agarwal and Shashin Mishra, data scientists at Publicis Sapient, provide five lessons to fix the failures of AI"
-    publishedDateTime: 2021-11-12T09:53:00Z
-    webUrl: "https://www.information-age.com/five-lessons-to-fix-failures-of-ai-123497664/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/11/five-lessons-to-fix-failures-of-ai.jpeg.optimal.jpeg"
-        width: 1013
-        height: 675
-        isCached: true
   - title: "Why AI investments fail to deliver"
     excerpt: "According to two recent Gartner reports, 85 per cent of AI and machine learning projects fail to deliver, and only 53 per cent of projects make it from prototypes to production. Yet the same reports indicate little sign of a slowdown in AI investments."
     publishedDateTime: 2021-11-16T04:58:00Z

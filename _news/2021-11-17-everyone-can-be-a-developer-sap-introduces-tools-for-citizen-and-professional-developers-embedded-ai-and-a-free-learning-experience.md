@@ -52,20 +52,6 @@ related:
         width: 500
         height: 344
         isCached: true
-  - title: "The Future of Mobile Apps is Voice Search"
-    excerpt: "Software developers all over the world are debating the myriad future possibilities for making online searches and living in the digital world more convenient. Voice technology is one of the most popular options."
-    publishedDateTime: 2021-11-12T10:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-mobile-apps-voice-search-elise-lowry"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH2MyXsgoXdEg/article-cover_image-shrink_720_1280/0/1636714422088?e=1642032000&v=beta&t=3IC55J-yDkzha2a-9gebka3NoBBgd8ZCoAvdW5c1jbE"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "cewuUPgz89kUcKpdvViQ6saLs4ssC1JM9mECtsUMuhnf+ASy6/iPkZ7WLtIGvxFUZsncROpqB7NBkJw6RkaNw4tRYVCoFsEQmn6Ar6cpq4GRGMr4+7JYJPHx0VbNjTmZgD1i9guG2NzPrGKralyngoRrAQ9e8Ww4UrnIxgg0gs7+0vsyzUJRKyTshSSeBSJ4oAXfGPQZ+hO9wloCOXhmEiThTWqXyISfjh/MxzrRINqH8whuIXIicCFJ3CZbwq2V8h4Ku7vJvktIdPBs30JzXXwN6MzZdSYVhWCEtuKzsRQYSOZiSM93McksC+ks/uhvyS6WuYJ+wbVM6ikzwqojJ38kCZAMg+InluKZIJS4XFnLBCfh2PSxCKQPz6wGE1BORf7ESW9X2ha4mWd7Cqegfts/AqRH2jyvxaWhWUhS9Dqukx3tdx1yq5LwqtxbnlkQEHcR7c6PTtgjzel0LEtQeuNRDJNeUPLwm6os1FZ4pYsUxFb2TNqYtIY/sOrEVogQUtBqXnJ5O3Vv/FLuGOH8pA==;r/vDDy4jxg7f3GmNHQNpSw=="
 ---

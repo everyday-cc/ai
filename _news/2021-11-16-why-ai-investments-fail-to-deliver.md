@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Five lessons to fix the failures of AI"
-    excerpt: "Sray Agarwal and Shashin Mishra, data scientists at Publicis Sapient, provide five lessons to fix the failures of AI"
-    publishedDateTime: 2021-11-12T09:53:00Z
-    webUrl: "https://www.information-age.com/five-lessons-to-fix-failures-of-ai-123497664/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/11/five-lessons-to-fix-failures-of-ai.jpeg.optimal.jpeg"
-        width: 1013
-        height: 675
-        isCached: true
 
 secured: "3Vu8E6glayxmCQhLjtIrCbJrlQFlGpKr5x0opkgQoqcfYzP1L0/vvHNMPZ5OGvnppLBaDl0TdWxX3W8GYim7ER+j3uiRqCXUBQi55lPtnI/V7J6HZldJrrIu1cTbBCUWhYDENC3pz0pGHJt08FzsxFmjmcXnFathTL1lKE1/koHsW2y7PmF44YFuUO0tmTqBxC8A44LpegA7lMh+Q6Pd/RaTTX4JlCKyafZv6XADfuGJb1sCHw04oHhSKKVHFpO4UuhtWvtQmoK0a6uPDnGxVVcfSURrb/HUNrKRoFSKIHtnyJ5dRvK3ye7c/gfApn4J9ndd7t15kPHRYtmFHAmoX9BkRrixDdD4iVQQPPocjXI=;c570mPaL1yt+TpQz8wzc7A=="
 ---

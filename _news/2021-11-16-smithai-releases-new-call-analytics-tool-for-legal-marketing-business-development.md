@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "IBM analytics in modern day IT operations"
-    excerpt: "IBM Watson AIOps and Turbonomic combine a set of capabilities such as predicting, communicating and resolving events before they happen, and have the ability to manage all facets of the AIOps life cycle."
-    publishedDateTime: 2021-11-12T09:02:00Z
-    webUrl: "https://www.itweb.co.za/content/WnxpE74gL9avV8XL"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/WnxpE74gL9avV8XL"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnxpE74gL9avV8XL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/YdvVtAqCT-4fw4ePW4NCssTD2K1P1GIgxP189-OiOrIz-tq-tOs9g5zlMfF7KLc2P-ZytJMbfPkn_7iIKXVpGXc=w400-h210"
-        width: 256
-        height: 210
-        isCached: true
   - title: "Developers can now add real-time analytics to Azure Digital Twins"
     excerpt: "ScaleOut Software is extending its Digital Twin Streaming Service to add real-time analytics to Azure Digital Twins."
     publishedDateTime: 2021-11-16T12:27:00Z
