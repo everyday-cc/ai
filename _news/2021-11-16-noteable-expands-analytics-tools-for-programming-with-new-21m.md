@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:

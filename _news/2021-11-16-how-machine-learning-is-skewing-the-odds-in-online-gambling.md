@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-machine-learning
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://hackster.imgix.net/uploads/attachments/1373941/sensors-21-06392-g003_fvjwoAMYQR.png?auto=compress%2Cformat"
         width: 2975
         height: 2681
-        isCached: true
-  - title: "The future of learning"
-    excerpt: "We help these institutions see that they can grow their businesses beyond brick and mortar, and do so quickly – breaking down walls to reach students beyond their physical geography to provide teaching and learning to remote students,"
-    publishedDateTime: 2021-11-12T08:18:00Z
-    webUrl: "https://mg.co.za/special-reports/2021-11-12-the-future-of-learning/"
-    ampWebUrl: "https://mg.co.za/special-reports/2021-11-12-the-future-of-learning/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/special-reports/2021-11-12-the-future-of-learning/?amp"
-    type: article
-    provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 44
-    images:
-      - url: "https://media.mg.co.za/wp-media/2021/11/a71fefc0-rogers1.jpg"
-        width: 1019
-        height: 637
         isCached: true
 
 secured: "PQfubX6vBv4Meoc6qoQ0VHhovnev7WG+5rDGe3PO+o1umeUHCfXbCzeluv3LBNWAx6lHPw+vpvik7Rp8D2r8ZVBZuwqDRcqal/2A3dAbRgHTmhf8nSviPN4hdFesvoJsKIvWtjUfuZuXVupNav6Z28b0AjPYJnNV1HDqJ3tNHbGz1klFP8HLoaBtPvMEmkwZ6eFXXE/d2oCtfYv/FT7ls0d0LKpYw3PuNWE0mATt/VnQJY7gltANqrx/gEzAED63e57tCeBC60yXE7VP/oetCWwQNMTu1sW8gYUE4XjcFYX5lzZd/4rZC2ePTt8G4IFsXoEpGnaz2w3IXDRB7LZ7RF4+kEcuuGEgcDBqT/sj3QU=;+DPOHPRd1m8ocGdWGFGTIQ=="

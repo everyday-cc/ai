@@ -57,7 +57,7 @@ related:
         isCached: true
   - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
     excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems.San Diego-based Qualcomm is the world's biggest supplier of chips for mobile phones but has been diversifying its business,"
-    publishedDateTime: 2021-11-16T16:19:00Z
+    publishedDateTime: 2021-11-17T00:39:00Z
     webUrl: "https://www.channelnewsasia.com/business/qualcomm-diversifying-mobile-phones-supply-chips-bmw-self-driving-cars-2317641"
     type: article
     provider:

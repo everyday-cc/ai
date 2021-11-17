@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/toch-ai-launches-inr-100-crore-startu
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/toch-ai-launches-inr-100-crore-startup-fund-to-invest-in-video-and-audio-tech-start-ups/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 534
     height: 462
     isCached: true
-
-related:
-  - title: "Toch.ai Launches INR 100 Cr Startup Fund To Back Audio And Video Tech Startups"
-    excerpt: "Toch.ai’s SaaS platform leverages artificial intelligence to understand context and key moments in videos to auto-create short-form video. The fund will be used to invest in disruptive early ..."
-    publishedDateTime: 2021-11-12T07:34:00Z
-    webUrl: "https://inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/"
-    ampWebUrl: "https://inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-launches-inr-100-cr-startup-fund-to-back-video-tech-startups/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 53
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-feature.jpg"
-        width: 1360
-        height: 1020
-        isCached: true
 
 secured: "ymomhjvEt14pCjHv3uIqQA8rZXnasCRwY8bLqXauGzqNrgmOMc51UfoKvLFk9qtA9HQMLGsi4py7EvPp0cqhDhbPvKdnqLQXBSYKLaBwBOBXarSUhMpeviDpzpdE+hk8kf5q6GnA3+ybATiGVUbLJS7Blm9Oe7ZFKRUFapavkLC/Y98ixTVRMpfI8Y/B0V5gbPdqgkWXcW/c1v/a7yXdOhQQtADg9HiZYiJPsZB/oEqvMuRJZqgpG5y5p/WAr0fDbo+XBimw5Tmt6veJ77nDDx/Dxk9H1NK6Ian7LSYwEu2CE0rNq+sBRQU9EqYrNdv94D7M50PDV+Qtj8GgijKK4spw21/1ATX7rQjokA8l1lk=;sVk7MU1AyXestN5vPLEtvQ=="
 ---

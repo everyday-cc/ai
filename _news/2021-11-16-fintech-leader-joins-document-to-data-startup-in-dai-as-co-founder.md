@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/fin
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 900
         height: 664
         isCached: true
+  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
+    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
+    publishedDateTime: 2021-11-16T23:48:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211116/3857665.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
   - title: "Tinkoff Capital has launched new exchange-traded funds to invest in artificial intelligence, fintech and Asian markets"
     excerpt: "The management company \"Tinkoff Capital\" has launched three new exchange-traded mutual investment funds (BPIF). This is stated in the bank's message. The Tinkoff AI-Robotics Fund will allow investing in leaders in the field of artificial intelligence and robotics technologies;"
     publishedDateTime: 2021-11-15T14:04:00Z

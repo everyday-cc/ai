@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/everyone-can-be-a-
 webUrl: "https://markets.businessinsider.com/news/stocks/everyone-can-be-a-developer-sap-introduces-tools-for-citizen-and-professional-developers-embedded-ai-and-a-free-learning-experience-1030981253"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,52 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Google Developer Knocks Future of Voice Search Despite Major AI Advances"
+    excerpt: "A top Google software engineer is causing some controversy — and possibly dropping hints — by downplaying the future of voice-enabled search."
+    publishedDateTime: 2021-11-16T22:37:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/google-developer-knocks-future-of-voice-search-despite-major-ai-advances/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/google-developer-knocks-future-of-voice-search-despite-major-ai-advances/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/google-developer-knocks-future-of-voice-search-despite-major-ai-advances/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 58
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/Google-Voice-Search-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Telenor does AI deal with Google despite its big-tech fears"
+    excerpt: "The Norwegian incumbent becomes the latest Tier 1 operator in Europe to partner with a Silicon Valley giant on AI."
+    publishedDateTime: 2021-11-15T15:28:00Z
+    webUrl: "https://www.lightreading.com/aiautomation/telenor-does-ai-deal-with-google-despite-its-big-tech-fears/d/d-id/773497"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 41
+    images:
+      - url: "https://img.lightreading.com/2021/11/773497/1747.jpg"
+        width: 500
+        height: 344
+        isCached: true
+  - title: "The Future of Mobile Apps is Voice Search"
+    excerpt: "Software developers all over the world are debating the myriad future possibilities for making online searches and living in the digital world more convenient. Voice technology is one of the most popular options."
+    publishedDateTime: 2021-11-12T10:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-mobile-apps-voice-search-elise-lowry"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH2MyXsgoXdEg/article-cover_image-shrink_720_1280/0/1636714422088?e=1642032000&v=beta&t=3IC55J-yDkzha2a-9gebka3NoBBgd8ZCoAvdW5c1jbE"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "cewuUPgz89kUcKpdvViQ6saLs4ssC1JM9mECtsUMuhnf+ASy6/iPkZ7WLtIGvxFUZsncROpqB7NBkJw6RkaNw4tRYVCoFsEQmn6Ar6cpq4GRGMr4+7JYJPHx0VbNjTmZgD1i9guG2NzPrGKralyngoRrAQ9e8Ww4UrnIxgg0gs7+0vsyzUJRKyTshSSeBSJ4oAXfGPQZ+hO9wloCOXhmEiThTWqXyISfjh/MxzrRINqH8whuIXIicCFJ3CZbwq2V8h4Ku7vJvktIdPBs30JzXXwN6MzZdSYVhWCEtuKzsRQYSOZiSM93McksC+ks/uhvyS6WuYJ+wbVM6ikzwqojJ38kCZAMg+InluKZIJS4XFnLBCfh2PSxCKQPz6wGE1BORf7ESW9X2ha4mWd7Cqegfts/AqRH2jyvxaWhWUhS9Dqukx3tdx1yq5LwqtxbnlkQEHcR7c6PTtgjzel0LEtQeuNRDJNeUPLwm6os1FZ4pYsUxFb2TNqYtIY/sOrEVogQUtBqXnJ5O3Vv/FLuGOH8pA==;r/vDDy4jxg7f3GmNHQNpSw=="
 ---

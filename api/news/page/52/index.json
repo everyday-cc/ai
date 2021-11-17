@@ -2,6 +2,187 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-10-07-voice-recognition-market-report-driving-factors-market-analysis-investment-feasibility-trends-till-by-the-2021-2027.md",
+      "title": "Voice Recognition Market Report Driving Factors, Market Analysis, Investment Feasibility & Trends till by the 2021-2027",
+      "excerpt": "Oct 07, 2021 (Market Insight Reports) -- Selbyville, Delaware. Voice Recognition Market report provides key statistics on the market status of the Voice Recognition Industry and is a valuable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-recognition-market-report-driving-factors-market-analysis-investment-feasibility-trends-till-by-the-2021-2027-2021-10-07?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-recognition-market-report-driving-factors-market-analysis-investment-feasibility-trends-till-by-the-2021-2027-2021-10-07?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-global-cognitive-computing-market-size-share-and-analysis-to-expand-at-3014-cagr-through-2027.md",
+      "title": "Global Cognitive Computing Market Size, Share and Analysis to Expand At 30.14% CAGR Through 2027",
+      "excerpt": "Some of the leading players profiled in the report include Google LLC, HP, IBM, Microsoft Corporation, Nuance Communications, Inc., Oracle Corporation, SAP SE, among others. The cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-computing-market-size-share-and-analysis-to-expand-at-3014-cagr-through-2027-2021-10-07?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-computing-market-size-share-and-analysis-to-expand-at-3014-cagr-through-2027-2021-10-07?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-googles-ai-unit-deepmind-makes-first-ever-profit.md",
+      "title": "Google’s AI unit DeepMind makes first-ever profit",
+      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/googles-ai-unit-deepmind-makes-first-ever-profit-10594114",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/googles-ai-unit-deepmind-makes-first-ever-profit-10594114",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-machine-learning-and-high-powered-microscopes-provide-detailed-snapshots-of-cells-inner-machinery.md",
+      "title": "Machine learning and high-powered microscopes provide detailed snapshots of cells' inner machinery",
+      "excerpt": "Open any introductory biology textbook, and you'll see a familiar diagram: A blobby-looking cell filled with brightly colored structures – the inner machinery that makes the cell tick.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20211006/Machine-learning-and-high-powered-microscopes-provide-detailed-snapshots-of-cells-inner-machinery.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20211006/Machine-learning-and-high-powered-microscopes-provide-detailed-snapshots-of-cells-inner-machinery.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/3D_illustration_mitchondria_-_Wire_man__2906c5e1a5514570bffd716b0c282567-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20211006/Machine-learning-and-high-powered-microscopes-provide-detailed-snapshots-of-cells-inner-machinery.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211006/Machine-learning-and-high-powered-microscopes-provide-detailed-snapshots-of-cells-inner-machinery.aspx",
+      "publishedDateTime": "2021-10-06T19:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-language-imitation-games-and-the-arrival-of-broad-and-shallow-ai.md",
       "title": "Language Imitation Games and the Arrival of Broad and Shallow AI",
       "excerpt": "Natural language generation systems in Artificial Intelligence are currently going through a rather fertile phase of imitation themselves—only not limited to a couple of hapless parents, but rather the whole world.",
@@ -962,174 +1143,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition.md",
-      "title": "Databricks Boosts No-Code Data Analytics, AI Capabilities With Acquisition",
-      "excerpt": "Databricks has acquired 8080 Labs and its Bamboolib data science tool to bolster the Databricks data engineering, data analytics and AI product portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
-      "originalUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-google-wants-to-use-ai-to-time-traffic-lights-more-efficiently.md",
-      "title": "Google wants to use AI to time traffic lights more efficiently",
-      "excerpt": "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/",
-      "originalUrl": "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/bv8rcqIS1zr-l_bcEZJF0h4_YL4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SZOE3SA4JFIABGHM7BKAVFD63Q.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-brain-cell-differences-could-be-key-to-learning-in-humans-and-ai.md",
-      "title": "Brain cell differences could be key to learning in humans and AI",
-      "excerpt": "Researchers have found that variability between brain cells might speed up learning and improve the performance of the brain and future AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/10/211006112626.htm",
-      "originalUrl": "https://techxplore.com/news/2021-10-brain-cell-differences-key-humans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-us-firm-acquires-keralites-ai-start-up.md",
-      "title": "US firm acquires Keralite's AI start-up",
-      "excerpt": "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’.",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
-      "originalUrl": "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png",
-          "width": 490,
-          "height": 268,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
-      "publishedDateTime": "2021-10-06T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

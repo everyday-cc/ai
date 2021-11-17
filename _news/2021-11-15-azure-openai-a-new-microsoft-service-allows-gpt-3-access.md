@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/azure-openai-allows-gpt-3-access/"
 webUrl: "https://analyticsindiamag.com/azure-openai-allows-gpt-3-access/"
 type: article
 quality: 69
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: Analytics India Magazine

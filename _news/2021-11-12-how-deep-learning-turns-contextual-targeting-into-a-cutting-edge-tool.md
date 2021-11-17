@@ -59,22 +59,6 @@ related:
         width: 2975
         height: 2681
         isCached: true
-  - title: "The future of learning"
-    excerpt: "We help these institutions see that they can grow their businesses beyond brick and mortar, and do so quickly – breaking down walls to reach students beyond their physical geography to provide teaching and learning to remote students,"
-    publishedDateTime: 2021-11-12T08:18:00Z
-    webUrl: "https://mg.co.za/special-reports/2021-11-12-the-future-of-learning/"
-    ampWebUrl: "https://mg.co.za/special-reports/2021-11-12-the-future-of-learning/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/special-reports/2021-11-12-the-future-of-learning/?amp"
-    type: article
-    provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 44
-    images:
-      - url: "https://media.mg.co.za/wp-media/2021/11/a71fefc0-rogers1.jpg"
-        width: 1019
-        height: 637
-        isCached: true
 
 secured: "309dsLZGzkSvby1DSkktnZeBknim7EKbjUIyhYS5QJFC+NjurwnxmQWlydIoDOm1EyKFVNJiJIRF+c0IXkIva6QQWYJ8dY9L3O+yAPYb0niiM+JDw9nOsMJUv2xeerE2lJijt1lOWQgOeHkHC7Ey5n026mSOTk1zQg9E5RSYEsKf1Yw7SpEIRS3KNzXaWIwRfJDgpMDC7Ad0kR8w+B0n0oEHTDyqhodGnDFy3cvWIHWrbO4XgfyP3yewXHrnC0Ft6j0Jc7Pm6/xYi6P24grJPyNc8TcDaRseQRY2JIsMrkm9Si9mpIvRFzAamB1GuF17oOJf+cXAEfYb4Vjfe0cHynsWzxXh3YyXt9l4zRtsw8l7Ft92hdYHx9WhPJKhtOmWED09m9UMKDavdA/J3XB5zP1qYPWVbtHrHDoauovc7YDl1ZzliLTh0OScqgx0yrW7q67/a3tceGS/iJhJyAkibvzROnOgmy+9utJyfnBs2YfuVkU0Y0uvGf25DKpoCzr96wt6LTGj4BlkImE2KKOX0w==;oPMykRBHhXpS9lEaTj2MjQ=="
 ---

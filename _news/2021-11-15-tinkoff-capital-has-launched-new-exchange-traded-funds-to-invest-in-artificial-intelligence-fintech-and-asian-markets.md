@@ -87,6 +87,15 @@ related:
         width: 900
         height: 664
         isCached: true
+  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
+    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
+    publishedDateTime: 2021-11-16T23:48:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211116/3857665.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "/bsOZfi6pWFlgdziZDFXlWqObk5l/Mxuggp7IPYn4TcP8/UJl2nIrj2i9VYXoztmYBxUFew7QOCZQPlwOr/Vk7h5aw/ErnmSUsYUYwScZPj/+CFpjn7BTZnOkaqeE4GcWOxBx/JxrZU2FGkuRkOcPUflm/zPKXQFTfv0fjlfg801Qo1FouPIG8Bq0D920qo+JZnEENSjOQ7ft+orLSe8xmaUgca/IiMIMxWfTB2NyAooHyUzdSFXUBGxLqyZCn5E6RnxFiqNJS8cAthY1GA0kZUMmf0/WkH04hv4ile58jNIqBA6wg6+I8kf9rvChrs61MJ1B1JYFXvRK1GmxRnm6LmNW18KTEvOlaGL7yI5nj3Yl8OqSnuHrrVgaNB+Rddw8CBLBEIc1fvTOCUoaxLcRBP+fzmXkvqJ/WiivS6Fj1Abx2z2vRZuD9CMUtB9llQORLPsc/g1ca1MMuogJJUuP52nOZpgwmHVfVMfoH4710ZEO8m/+j2hkyC8pfdbONpnwaZbfO2H979J0zQhGCiH5g==;PxHLiU+wtlOSZa2x5O5odw=="
 ---
