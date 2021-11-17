@@ -42,6 +42,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Ways AI and Machine Learning Transform the Food and Beverage Industry"
+    excerpt: "Artificial intelligence frameworks produce more secure, precise production line results at a faster rate and with greater consistency than human"
+    publishedDateTime: 2021-11-17T15:33:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/i312c450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "7 ways AI is redefining the future of the e-commerce industry"
     excerpt: "In this article, we’ll explain more about how AI is redefining the e-commerce industry and what to expect in the future. AI gathers data from online users, which provides essential insights into their needs."
     publishedDateTime: 2021-11-17T13:23:00Z

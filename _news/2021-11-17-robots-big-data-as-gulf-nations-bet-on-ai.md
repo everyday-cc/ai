@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robots-big-gulf-nations-ai.amp"
 type: article
 quality: 74
-heat: 74
+heat: 79
 published: true
 
 provider:

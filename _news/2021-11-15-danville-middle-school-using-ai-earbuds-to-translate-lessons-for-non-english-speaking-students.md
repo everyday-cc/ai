@@ -9,7 +9,7 @@ ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575746281"
 cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575746281"
 type: article
 quality: 62
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "Introducing the First AI Model That Translates 100 Languages Without Relying on English"
+    excerpt: "Facebook AI is introducing M2M-100, the first multilingual machine translation (MMT) model that can translate between any pair of"
+    publishedDateTime: 2021-11-17T15:12:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/966568/introducing-the-first-ai-model-that-translates-100-languages-without-relying-on-english-966568.html"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/966568"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/966568"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 66
+    images:
+      - url: "https://www.proactiveinvestors.co.uk//thumbs/upload/News/Image/2021_11/1200z740_1637165859_news.jpg"
+        width: 1200
+        height: 740
+        isCached: true
 
 secured: "8xN+r/KC7c7hkOA7hi4rqLFd3nPgax5g+DFXnZx/hb9gOkWJMt1Rfa8RJoFzFTc1XPeUFf8PemIzSJs305qPS7LEvRgWcBmU66mDsMfBkyYnHO/bPWlIfjJrENKDsqRcXaQ62u65IqNRDv4FiXL9Bh+m7CQV3WExNkC1x/jzqAh1lcr+IgMPWIQojC3781+xR6qpOvwwPoh+XZgKvhLOvREdRU6bylnOLOKzul2bBwHzJdlS/IE+2NIQsyKxFHCprW231qXjzHnOTQ35TDc8T4tnEP2PRH5Ag5zwthy2D/IvXUkQEpBCsyVh1yyWsDddZHBM+AfdXGuR4z+dvbJn4v6z+giZbJJkbV1OvN2WHYHK/G2EibBpIKadJoJEF5hJ6kKv5ewvM3T/XynNtiBqw7TlESDt4blS+DmidN/u06fzpAtpSWNereFM/aGpIW1aPVpcGFQz0zcPbmkvxLQuju8c6j2ynOTYxYwg9J6nmXJROuKLkev3zLGorlLVCBuzANIaRbiwDrESfHNfpGGUfQ==;JlDP7VgufFJFmisZ89ZauQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscientist.com/article/2297811-ai-predicts-which-mamma
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2297811-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: New Scientist
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "New Machine Learning Model to Predict COVID-19 Transmission in Mammals"
+    excerpt: "Identifying mammal species that are efficient at transmitting COVID-19, is an important step in guiding surveillance and preventing the emergence of new variant."
+    publishedDateTime: 2021-11-17T16:50:00Z
+    webUrl: "https://www.medindia.net/news/new-machine-learning-model-to-predict-covid-19-transmission-in-mammals-204338-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-machine-learning-model-to-predict-covid-19-transmission-in-mammals-204338-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-machine-learning-model-to-predict-covid-19-transmission-in-mammals-204338-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "Radiologists boost AI severity quantification of COVID-19"
     excerpt: "Involving radiologists in fine-tuning an artificial intelligence (AI) algorithm yielded better performance for detecting and quantifying COVID-19 pneumonia on x-rays, according to research published October 28 in the Journal of Thoracic Imaging."
     publishedDateTime: 2021-11-15T07:38:00Z

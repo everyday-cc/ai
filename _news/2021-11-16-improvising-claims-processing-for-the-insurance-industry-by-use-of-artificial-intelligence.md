@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insura
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
 type: article
 quality: 62
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/q421%20ubi%20insurance%20hero.jpg?itok=455opSSf"
         width: 1440
         height: 500
+        isCached: true
+  - title: "Ways AI and Machine Learning Transform the Food and Beverage Industry"
+    excerpt: "Artificial intelligence frameworks produce more secure, precise production line results at a faster rate and with greater consistency than human"
+    publishedDateTime: 2021-11-17T15:33:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/i312c450308.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "7 ways AI is redefining the future of the e-commerce industry"
     excerpt: "In this article, we’ll explain more about how AI is redefining the e-commerce industry and what to expect in the future. AI gathers data from online users, which provides essential insights into their needs."

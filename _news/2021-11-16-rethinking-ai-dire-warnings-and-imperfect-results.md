@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

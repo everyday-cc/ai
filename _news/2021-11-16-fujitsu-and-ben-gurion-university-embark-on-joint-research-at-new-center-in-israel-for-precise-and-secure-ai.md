@@ -40,6 +40,20 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Managing the Cybersecurity Vulnerabilities of Artificial Intelligence"
+    excerpt: "Systems based on artificial intelligence are susceptible to adversarial attack. Vulnerability disclosure and management practices can help address the risk."
+    publishedDateTime: 2021-11-17T14:55:00Z
+    webUrl: "https://www.lawfareblog.com/managing-cybersecurity-vulnerabilities-artificial-intelligence"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 39
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/1024px-Eric_Schmidt_MSC_2018.jpg"
+        width: 1024
+        height: 701
+        isCached: true
 
 secured: "FR6SWVP9D2C39klPXfr5ZyVit9zFGbWZ4Rj93A5AbdE/ptWnDFE+lU9weFV5c90AN00RAXYBIL9N7XN//Y1vP369srHXstNcO1KzpPVqueLgB8ReZHI8ULbIHCOr2kWHcEk0f8JnWQZhlAc5Spy8njlQvqac18Mg1Cld7Pi8iJ3jhZ9lpdnReXMvnJIFlM0gTUWRxepIMdJaZh0smoI8zFO6WtbRIPgwZGV57vO3FV9vT6YSW+EktxbxtiYOY+vg9E/iel2ENiYYhtr7lIIV7vpL0ho+VG9Pjf81B+Lx8A+6dMTfxVOiC9b9oUSyHRixUQTIsCRhkz1MOYAFmTHA3xSiHw+TNr56DS0I5Ks4TeI=;lGLJHqZWc4ZI+3sL3oCzaA=="
 ---

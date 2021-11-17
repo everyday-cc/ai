@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.livemint.com/img/2021/11/17/600x338/LTTS_1637140256365_1637140265323.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Nvidia Turns Its Focus to AI Inference"
-    excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
-    publishedDateTime: 2021-11-13T00:53:00Z
-    webUrl: "https://www.internetnews.com/enterprise/nvidia-turns-its-focus-to-ai-inference/"
-    type: article
-    provider:
-      name: Internetnews
-      domain: internetnews.com
-    quality: 43
-    images:
-      - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
-        width: 900
-        height: 371
         isCached: true
   - title: "Started As A Chip Company, Now We Are Here: Tracing NVIDIA’s Growth"
     excerpt: "NVIDIA, a pioneer in graphics processing units, has expanded its horizon and achieved a disruptor status in the field of artificial intelligence too."

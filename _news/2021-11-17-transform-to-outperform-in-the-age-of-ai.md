@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Japan's Artificial Intelligence Strategy"
-    excerpt: "Artificial intelligence (AI) is booming, especially in Japan. The Japanese government, coordinated by the Cabinet Office, is helped by the Council for Science, Technology and Innovation and the Strategic Council for AI Technology."
-    publishedDateTime: 2021-11-12T23:58:00Z
-    webUrl: "https://www.bbntimes.com/technology/japan-s-artificial-intelligence-strategy"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Japans_Artificial_Intelligence_Strategy.jpeg"
-        width: 1620
-        height: 1080
-        isCached: true
 
 secured: "3uUXNFwWjWx2PwE2pW8S+eiSSh+pOu90Ew2ydVA73ADEt7yvgXTY5tzWQNCpT8eMwI+WUrPn68pKt/R35MOowJk962ExvibyPwnKlh3gB2cTIb+C8k34ziYV0wyVv1J1UsZ1osXV/ERN7IMo7AVpBuOcsu8aytihsOXCymUkc+mElbMKjJlD7wukuj0naeAIqGUQTDNnjdibgWm1Uwi5TCsIiIaTpgqZFBYa4hrAEw16EQJa2ntHXvePbfKgFL4oCr9ADV8MlCV8e3xs8dUr+49AXaQ9fpmv0HMXXPIHmZdAFHrVp6pYPOBxIdcUHH0V4E8/OR7Wg+fVjlDdebt0RD9DvkRFCdQNS8llr+JHvAI=;YiZKjoKEI9cHd8eIl1HIug=="
 ---

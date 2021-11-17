@@ -57,20 +57,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Nvidia Turns Its Focus to AI Inference"
-    excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
-    publishedDateTime: 2021-11-13T00:53:00Z
-    webUrl: "https://www.internetnews.com/enterprise/nvidia-turns-its-focus-to-ai-inference/"
-    type: article
-    provider:
-      name: Internetnews
-      domain: internetnews.com
-    quality: 43
-    images:
-      - url: "https://www.internetnews.com/wp-content/uploads/2021/11/Nvidia-Triton-e1636764733168.png"
-        width: 900
-        height: 371
-        isCached: true
   - title: "Started As A Chip Company, Now We Are Here: Tracing NVIDIA’s Growth"
     excerpt: "NVIDIA, a pioneer in graphics processing units, has expanded its horizon and achieved a disruptor status in the field of artificial intelligence too."
     publishedDateTime: 2021-11-17T06:30:00Z
