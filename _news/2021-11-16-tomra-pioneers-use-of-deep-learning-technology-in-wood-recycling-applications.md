@@ -41,6 +41,17 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Smart Factory Market - integration of technologies like the IoT, Machine Learning , and Artificial Intelligence"
+    excerpt: "Industrialization levels have increased exponentially across various regions over the years The rising industrial prospects attached with the technological developments across manufacturing facilities will help create a positive growth trajectory for the smart factory market during the assessment period of"
+    publishedDateTime: 2021-11-17T09:50:00Z
+    webUrl: "https://www.openpr.com/news/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
+    ampWebUrl: "https://www.openpr.com/amp/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
   - title: "To innovate in population health, start with the basics"
     excerpt: "To succeed in population health, companies must first consider the basics, such as wrangling patient data and making sure it matches up. Panelists at INVEST Pop Health spoke about the challenges of taking this information and translating it into meaningful health outcomes."
     publishedDateTime: 2021-11-16T01:10:00Z

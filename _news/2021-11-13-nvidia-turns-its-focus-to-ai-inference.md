@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "LTTS helps NVIDIA and Mavenir to accelerate AI-on-5G platform"
+    excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA’s AI-on-5G platform"
+    publishedDateTime: 2021-11-17T09:13:00Z
+    webUrl: "https://www.livemint.com/companies/news/ltts-helps-nvidia-and-mavenir-to-accelerate-ai-on-5g-platform-11637139577253.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/ltts-helps-nvidia-and-mavenir-to-accelerate-ai-on-5g-platform/amp-11637139577253.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ltts-helps-nvidia-and-mavenir-to-accelerate-ai-on-5g-platform/amp-11637139577253.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/11/17/600x338/LTTS_1637140256365_1637140265323.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Started As A Chip Company, Now We Are Here: Tracing NVIDIA’s Growth"
     excerpt: "NVIDIA, a pioneer in graphics processing units, has expanded its horizon and achieved a disruptor status in the field of artificial intelligence too."
     publishedDateTime: 2021-11-17T06:30:00Z

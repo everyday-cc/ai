@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI bots to user data: Is there space for rights in the metaverse?"
-    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory."
-    publishedDateTime: 2021-11-12T18:28:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/ai-bots-user-data-is-there-space-rights-metaverse-2021-11-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/Fw9oRebOE-1ALKb9_9bR3zByww8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5C3CTFP6H5LIBIKA3LUVT3DZCQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Unity Moves Robotics Training to the Metaverse"
     excerpt: "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,"
     publishedDateTime: 2021-11-14T13:50:00Z

@@ -42,12 +42,12 @@ related:
         isCached: true
   - title: "Hour One Accelerates Scalability Through AI-Powered Digital Cloning for Small Businesses and Entrepreneurs"
     excerpt: "Hour One, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that attorney and CPA David Fritch is using its AI-driven enterprise solution to scale his business while saving time and resources to stay ahead of the competition."
-    publishedDateTime: 2021-11-16T14:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hour-one-accelerates-scalability-through-ai-powered-digital-/2021/11/16/9493467.htm"
+    publishedDateTime: 2021-11-16T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/hour-one-accelerates-scalability-through-ai-powered-digital-cloning-for-small-businesses-and-entrepreneurs/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 1
 
 secured: "MrFdGPunxjUQxGc6Gg/bIZ6lYiXBy2rPkEJupfqjcEfDlfMREzhIJRQNkpM7yTu+iEezMWmqjtpu1SgfV19h1eZq3T/aLa8iV6sg0tVFYTFhvHKcJ4sopS3z3vHb4re10COm5sLQLbQPaUvncNsA7K821VJeUPCwA6lUJ5augfH4mLVTpV9gGtUAebdJ6gGR4PoE4vsFCko+zzSyJhr2McgKtIgsDjr5IAhJgZCf4L8TFxKQzbnioDHQs+q4YAOF4ycPNPf7MFPEnLzgkovuCvro5bMSJiiBoBIHKj2W+gOVEeBiv+YUXiXxBKzu9TO52tngQsJqkiAUQulzgaKl0fPlDh8dnQRoXnexRMjc6OM=;ZNmghtmBEGY+wYVr/a5zxA=="

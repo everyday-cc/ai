@@ -57,6 +57,17 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Smart Factory Market - integration of technologies like the IoT, Machine Learning , and Artificial Intelligence"
+    excerpt: "Industrialization levels have increased exponentially across various regions over the years The rising industrial prospects attached with the technological developments across manufacturing facilities will help create a positive growth trajectory for the smart factory market during the assessment period of"
+    publishedDateTime: 2021-11-17T09:50:00Z
+    webUrl: "https://www.openpr.com/news/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
+    ampWebUrl: "https://www.openpr.com/amp/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
   - title: "To innovate in population health, start with the basics"
     excerpt: "To succeed in population health, companies must first consider the basics, such as wrangling patient data and making sure it matches up. Panelists at INVEST Pop Health spoke about the challenges of taking this information and translating it into meaningful health outcomes."
     publishedDateTime: 2021-11-16T01:10:00Z
@@ -72,6 +83,6 @@ related:
         height: 225
         isCached: true
 
-secured: "QYQqmx/NjjQ4JYWjWdI6UmYfVNUhTterdaucW6TumVV6Uv+aZNHWp5cmZglWOFtp78+P0NTBa9AYxWLgIsKJ0N5yzjG3oPoCf7ybZ9dN6/51xDGtgpjZUxjDqZvDeWifQXDhnPZiNpejZZPVt26w9s0xoDS8zpqBGBlFi4js1GghHc5aOvhBgy6YrD34Lwf4mZD6MJHkpbROlaDh0z0vMkK8COWboqp6oCLGBkBvypzrTVGcz23l8rgTC0DBhmCfyQjwU/ZH4CX2Ha6OdO09YKYokjDZ5IKMfHiH0HQxjcAC8N7ERRlttNk92kJfbKtmAbFAjhxEgUju1CAHZE0BocgSdkD5og11M9FABOQVnZU=;D6L6c1XKXoyY4y1A5Cb5xw=="
+secured: "I8r18ptf8pRZdW0/nb47Y6vrNvZmuHH5A2zkmZ9i4rkwqlxm1FuE+GrgwXpKdKwdd/DXMouAng9YGZKiC+/oH2qSqU2MWMhqp5I1jes+vcAWjcmXK3qjpFQpNrVyuMRHSVVKflTk9mP2tTIBowjdo0p1mv1Pgo5OF6I3HqKljcp0525kh/gAohOaLKUQSLZcXhgNgHsEChhh4UQ+MlcASo3/hyrq+hvWRVAqWJpPRSAHuaIKOEyd5hYlvzTXX+vPncrTQS+2f2FYKTbrpoInB/IQb60hwrs2zx9XhvETqu5L4+9Kz4qJ6emqg+7KLzj8QSBz+cg3hxTtN1jDUoT/5JNO6cn7gSeT2Sa7A7E2dYJQ+FFGwh+C33emsN1CRU19ksVRi00AwMI28ib+mfSIBAG1momptAptZcPrHVQ3XWTW55UECw8A/Pwx2s7/mw1UZgr7YxEXgCnaf4ybHM1BWZ8RQSsUImNhy/MBu0KjaZHIUgdbRZhiwALsGxF8qcsxhYSM7ROu5bA/3iH27miVCg==;FcltiXECxyfwt8Xe3OT1dw=="
 ---
 

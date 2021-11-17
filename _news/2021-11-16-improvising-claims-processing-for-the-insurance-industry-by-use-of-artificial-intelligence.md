@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insura
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
 type: article
 quality: 62
-heat: 72
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Could Revolutionize the Insurance Industry"
+    excerpt: "The introduction of usage-based insurance, however, has created an effective means to provide the right insurance for the right price — based on specifics, not assumptions. Now, UBI is about to gain a power-up through the robust computation capabilities of artificial intelligence."
+    publishedDateTime: 2021-11-16T21:25:00Z
+    webUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry"
+    ampWebUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/q421%20ubi%20insurance%20hero.jpg?itok=455opSSf"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "Artificial intelligence and process automation in the fresh produce industry"
+    excerpt: "In a webinar hosted by Keelings Knowledge, Julia Baumanns, Technical Delivery Manager at Microsoft, and Tobias Fausch, CIO at BayWa, talked about future technologies in the fresh"
+    publishedDateTime: 2021-11-15T14:59:00Z
+    webUrl: "https://www.freshplaza.com/article/9373467/artificial-intelligence-and-process-automation-in-the-fresh-produce-industry/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 34
+    images:
+      - url: "https://agfstorage.blob.core.windows.net/misc/FP_de/2021/11/12/_MAR4068_1_.jpg"
+        width: 600
+        height: 399
+        isCached: true
   - title: "What's Next for Data Processing? A Closer Look at In-Memory Computing"
     excerpt: "Evangelos S. Eleftheriou - CTO of  Technology is progressing at an incredible pace and no technology is moving faster than Artificial Intelligence (AI)."
     publishedDateTime: 2021-11-15T14:14:00Z

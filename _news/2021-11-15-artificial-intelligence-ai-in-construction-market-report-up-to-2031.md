@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2461984/artificial-intelligence-ai-in-con
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Enterprise Artificial Intelligence (AI) Market 2021 Industry Chain structure, Market Competition, SWOT Analysis Report by 2027"
+    excerpt: "A recent market research report introduced by MarketsandResearch.biz with the title Global Enterprise Artificial Intelligence (AI) Market Research Report 2021-2027 meticulously discusses the developments in the market."
+    publishedDateTime: 2021-11-16T19:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-ai-market-2021-industry-chain-structure-market-competition-swot-analysis-report-by-2027-2021-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trending News on Federated Learning Solution Market 2021: Industrial Chain Analysis, Manufacturing Cost Structure, Process Analysis by 2026"
     excerpt: "Portland United States Big Market Research newly added a research report on the Federated Learning Solution Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario and"
     publishedDateTime: 2021-11-16T03:45:00Z

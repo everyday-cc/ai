@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI fights fraud in the telecom industry"
-    excerpt: "Americans lost $29.8 billion in phone fraud over the past year. Can AI fraud detection change this? In 2021, over 59 million Americans said they lost money as a result of phone scams, with an average reported loss of $502."
-    publishedDateTime: 2021-11-12T17:10:00Z
-    webUrl: "https://www.techrepublic.com/article/how-ai-fights-fraud-in-the-telecom-industry/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/"
+  - title: "Improvising claims processing for the insurance industry by use of artificial intelligence"
+    excerpt: "Eventually the use of artificial intelligence in the immediate years is expected to help claims organizations adopt a more proactive mindset"
+    publishedDateTime: 2021-11-16T06:09:00Z
+    webUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
+      name: Dataquest
+      domain: dqindia.com
+    quality: 62
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/11/12/8fd559d3-583c-4749-a481-c64fd1c451b8/resize/1200x/cb959c0d1ff5d8f4c3b6e9f00d07ee11/shutterstock-1908709960.jpg"
-        width: 1200
-        height: 620
-        isCached: true
-  - title: "How is AI reshaping telecoms?"
-    excerpt: "Telcos will need AI driven solutions allowing them to configure new offers and products in hours and days, engage with and service their customers more effectively and radically simplify their operations."
-    publishedDateTime: 2021-11-15T14:07:00Z
-    webUrl: "https://telecoms.com/opinion/how-is-ai-reshaping-telecoms/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/03/AdobeStock_135990387.jpg"
-        width: 1200
-        height: 809
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
+        width: 800
+        height: 420
         isCached: true
   - title: "Artificial intelligence and process automation in the fresh produce industry"
     excerpt: "In a webinar hosted by Keelings Knowledge, Julia Baumanns, Technical Delivery Manager at Microsoft, and Tobias Fausch, CIO at BayWa, talked about future technologies in the fresh"
@@ -69,6 +55,20 @@ related:
       - url: "https://agfstorage.blob.core.windows.net/misc/FP_de/2021/11/12/_MAR4068_1_.jpg"
         width: 600
         height: 399
+        isCached: true
+  - title: "What's Next for Data Processing? A Closer Look at In-Memory Computing"
+    excerpt: "Evangelos S. Eleftheriou - CTO of  Technology is progressing at an incredible pace and no technology is moving faster than Artificial Intelligence (AI)."
+    publishedDateTime: 2021-11-15T14:14:00Z
+    webUrl: "https://www.linkedin.com/pulse/whats-next-data-processing-closer-look-in-memory-computing-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG4ELgECSu0XQ/article-cover_image-shrink_600_2000/0/1636976449088?e=1642636800&v=beta&t=MWagnHX_4tf4_ysgxhBBORe2eHMdX075xmLjmJV4YRg"
+        width: 624
+        height: 351
         isCached: true
 
 secured: "WymUXRQRzNvOrLc/Ly3XwRWowSD5u55u3n+BcC8tsLUpEkOvbPT3OLDR9E09WX3pVjZ/OKJlew2JMYK87lYLdA6eQ0Fo1qhVMx00TG6eeKp5RXANSJ2jTmUayCXbXuEhGBA9xQkjP94AY55c4BYUZuaXP0zjZAYizK9DLXF3V69p6q/mdZIfVVhz2jZaVYstp9nz9YyWalZaXScpzKnk+zVdLieQLiEsXlzEzjuqAK+cEVHoCET0LjLOl0ccWiLlRbugRQrrHfGkYEYGTA7/RdkQBd64PhUwaXuZpIyFW4nbmUAhvP7Ik8MKX9nFi8OAzBKYTHJrCj0+Pc9zjHhhP9flRYFQ+wUH026hBdMRHeBC8IyPL4U5naohORS4NhVQlVA53dGIlY+Jrhr8mtsI6Pe/3FYWlup8W7FDL0N+6ZbfM5/dKvGrAPMVeoLxAvDC87Ujtx/mfoKHS/0f//N9AFwDtf9THFr3fWjiWBt7UEgz4o5v68N1cNZtrXfLyy0ZUiLboGVESIXA/DR98BMyaQ==;24LXvzI8vCdC+0ZMeLYx5A=="

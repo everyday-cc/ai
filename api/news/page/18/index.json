@@ -2,6 +2,91 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-11-02-israeli-ai-mobility-company-autobrains-raises-101m-in-series-c-funding.md",
+      "title": "Israeli AI Mobility Company Autobrains Raises $101M In Series C Funding",
+      "excerpt": "Autobrains is disrupting advanced driver-assistance systems and the autonomous vehicle marketplace with its approach to AI for automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/11/autobrains-raises-101m-in-series-c-funding.html",
+      "originalUrl": "https://nocamels.com/2021/11/israeli-mobility-autobrains-101m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/11/image-1.jpeg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile.md",
+      "title": "Has Robotics Finally Arrived? Benefits Emerge in the Store, Microfulfillment Center and Last Mile",
+      "excerpt": "Robots are already an established part of large-scale warehouses run by behemoths like Amazon. They move swiftly and at scale, covering a lot of ground in a stable, well-routed environment designed specifically for them.",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile",
+      "originalUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/11/robot.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile/amp",
+      "publishedDateTime": "2021-11-02T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-why-artificial-intelligence-startups-failed-to-deliver-on-their-promise.md",
       "title": "Why Artificial Intelligence Startups Failed To Deliver On Their Promise",
       "excerpt": "AI-based startups were launching everywhere with the promise ... Depending on the industry you might also need to address privacy and ethics concerns. The next step is to train a model. Think of training as wiring a bot’s brain so a set of attributes ...",
@@ -1062,83 +1147,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players.md",
-      "title": "Global Deep Learning in Computer Vision Market Trends Analysis and Future Projections with Top key Players",
-      "excerpt": "this market research report draws attention to key market dynamics of the sector. Deep learning in computer vision market will grow at a rate of 55.65% for the forecast period of 2020 to 2027. Data Bridge Market Research report deep learning in computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://chipdesignmag.com/global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players/",
-      "originalUrl": "https://chipdesignmag.com/global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chip Design",
-        "domain": "chipdesignmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners.md",
-      "title": "'Cooperative Perception' Could Help Autonomous Vehicles See Pedestrians Around Corners",
-      "excerpt": "New technology developed by researchers in Australia could help self-driving vehicles steer clear of pedestrians and cyclists without a direct line of sight, according to researchers from University researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/ar-AAQcvuB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/02/16eedec7efe894e56e6d335cb51ef357-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/amp/",
-      "publishedDateTime": "2021-11-01T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
-        "domain": "com.au/2021/11/cooperative-perception-could-help-autonomous-vehicles-see-pedestrians-around-corners/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -48,6 +48,20 @@ related:
         width: 1100
         height: 621
         isCached: true
+  - title: "The Payments Association finds huge value in AI in revolutionising payments"
+    excerpt: "Financial Services organisations with over 5,000 employees have adopted AI It is forecast that AI Market to Hit USD 360.36 Billion by 2028 The Payments Association (formerly The Emerging Payments Association (EPA)) today announces the release of its latest research,"
+    publishedDateTime: 2021-11-17T09:54:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/payments-association-finds-huge-value-ai-revolutionising-payments"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 37
+    images:
+      - url: "https://financialit.net/sites/default/files/dbfhgysuydfbsuydf.png"
+        width: 733
+        height: 414
+        isCached: true
 
 secured: "oTPAVRGBxsSD7bW9Hgiwr3JkiGe6H9j9AccPeRmLFikJNijA8DW8uVfbftCIP3PZqs9SbJdbOsMrgHixmJXo5aEGylasoTyUxZWNpmO1zYkxIDZ+vghHVK8uElfrXkyMAzrzBypqj4SudlAQ+B+s0vKzrnY7TGslckQjkD7kwAbJMy7cYpTeVPXKQ5RhYGJBD2fNa4qaFRUfBEUaU3HfLI88ZnNlKJR2er0YqocBHeXCjDqYxZgHG8PKQ4PtAJHbXcQWuLzikHS13rJL0D0H1zBLDHDp8XJ+xVT8D2JPJDZ9UDydLsQNt8gpH1T3oQOmiMw3swc9PaYDrH30jbqGZzWuUXfyJ7rhQ9Fotb/m+IiKs/78spy/xhtKKKpTnwQveAOu/EprCHRdDMGUXkH7SVoxwBIy9IX0Me+K9KdhiksujNHJV1aWXdbePxV+fH9AYtTwYlluyOgfhNMS4iO+JTdXvM7881Kl1hqETQbqGcSJQQmdMmeQvTsRc8gvryE8Kq/8mUFFAr9Hs5guwpKa5w==;sg5ycz2Uw+K8ElO+GzQ4kw=="
 ---

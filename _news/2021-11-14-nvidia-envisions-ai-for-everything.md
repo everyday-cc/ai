@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "LTTS helps NVIDIA and Mavenir to accelerate AI-on-5G platform"
+    excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA’s AI-on-5G platform"
+    publishedDateTime: 2021-11-17T09:13:00Z
+    webUrl: "https://www.livemint.com/companies/news/ltts-helps-nvidia-and-mavenir-to-accelerate-ai-on-5g-platform-11637139577253.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/ltts-helps-nvidia-and-mavenir-to-accelerate-ai-on-5g-platform/amp-11637139577253.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ltts-helps-nvidia-and-mavenir-to-accelerate-ai-on-5g-platform/amp-11637139577253.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/11/17/600x338/LTTS_1637140256365_1637140265323.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Nvidia Turns Its Focus to AI Inference"
     excerpt: "In the decade since founder and CEO Jensen Huang announced that powering artificial intelligence workloads in the enterprise would be a cornerstone of the company’s plans going forward, Nvidia has relentlessly been expanding its AI and machine learning capabilities with GPUs,"
     publishedDateTime: 2021-11-13T00:53:00Z

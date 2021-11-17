@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
 type: article
 quality: 119
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618d3c8ceb86a5dd23bd96b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3542%26cropY1%3D179%26cropY2%3D2172"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI bots to user data: Is there space for rights in the metaverse?"
-    excerpt: "From virtual goods to AI-powered avatars that can be hired out by companies, a fast-growing digital world is pushing ownership and privacy rights into unchartered territory."
-    publishedDateTime: 2021-11-12T18:28:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/ai-bots-user-data-is-there-space-rights-metaverse-2021-11-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/Fw9oRebOE-1ALKb9_9bR3zByww8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5C3CTFP6H5LIBIKA3LUVT3DZCQ.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Unity Moves Robotics Training to the Metaverse"
     excerpt: "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,"

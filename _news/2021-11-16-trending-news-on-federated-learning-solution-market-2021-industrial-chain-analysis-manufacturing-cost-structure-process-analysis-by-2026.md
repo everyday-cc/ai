@@ -43,6 +43,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Global Enterprise Artificial Intelligence (AI) Market 2021 Industry Chain structure, Market Competition, SWOT Analysis Report by 2027"
+    excerpt: "A recent market research report introduced by MarketsandResearch.biz with the title Global Enterprise Artificial Intelligence (AI) Market Research Report 2021-2027 meticulously discusses the developments in the market."
+    publishedDateTime: 2021-11-16T19:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-ai-market-2021-industry-chain-structure-market-competition-swot-analysis-report-by-2027-2021-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Q09vZ76GtdK5yFSGUVrGb4BJghq3wk76V4ioZfCA8IdCM2ZSbAqh2SjkyZ9v4kk84DKgUm1KDZ+pfDs9muvM42XoGMbYaJgZDe/o96JH52t8i+wgaNCTKPAnZA7cRVKm15XwBUiTSKp5M8PGUfI6f/YNRxxZJhEKitmsBuCJH6ph2pfn8VaDEN6xoSrWLzpegNrJQz/NRsK9TPqaiP71PTaYgUiE6G2FMp5u9iWo66H6cDKoeJaZGnR6uxUGrQeEAvALVHCpyOY+19zmyoj0xU7CnwMVcFfgg6397Q7gnfGQzuMdzcERPehDvM7M9VjT5vg+WsFEMXBErpyDnCIDIBK7wYswVy/LwK3RZEAmUs8=;2IirkaCx3k9g4JidP73dYg=="
 ---

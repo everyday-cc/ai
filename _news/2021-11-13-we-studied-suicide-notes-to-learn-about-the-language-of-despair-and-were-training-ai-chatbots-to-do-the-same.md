@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/We-studied-suicide-notes-to-learn-about
 webUrl: "https://www.econotimes.com/We-studied-suicide-notes-to-learn-about-the-language-of-despair--and-were-training-AI-chatbots-to-do-the-same-1621218"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 496
     height: 329
     isCached: true
-
-related:
-  - title: "Monitor operational metrics for your Amazon Lex chatbot"
-    excerpt: "Chatbots are increasingly becoming an important channel for companies to interact with their customers, employees, and partners. Amazon Lex allows you to build&nbsp;conversational interfaces into any application using voice and text. Amazon Lex V2 console and APIs make it easier to build, deploy, and"
-    publishedDateTime: 2021-11-12T18:19:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-operational-metrics-for-your-amazon-lex-chatbot/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-5649-image001.jpg"
-        width: 2052
-        height: 707
-        isCached: true
-  - title: "Chatbots Are Confused by Figurative Language and Metaphors"
-    excerpt: "Many companies are increasingly relying on artificial intelligence-driven (AI) chatbots to help handle routine customer inquiries. These chatbots can answer common questions - 'Are you closed on Sundays?"
-    publishedDateTime: 2021-11-12T18:43:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/articles/450635-chatbots-confused-figurative-language-metaphors.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-nov/2468517359-AdobeStock_213094456_chatbot_message_SUPERSIZE.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "c0QMr3CMot2XaQ8AAgYEiWjc+XWzAC2wTZYs9dNPhOcK+e/QkC+kqmL7kWoK+yVMvARRAFJMLWYm8mlb5Mx0Vce/TuwBV+LUKRJ4BtkF/J6OSvHgNvMIvwG2i71dUgKzCaOJatsSOM3RctKi8VXA1Q6YKB9fp2bgylGwEHcXMNKL0o1QDX/nSC+WQFJz2Yi9qd2miByKVsWqCmkfTFY4NDlkLyCbmV6cy05sZ22pwU3piRhs2RLm7HbRmmHJodSxkLUkx4zqHNLZvQWCDo3wY4JvUNvoK0JKIEWpd6W1K1ecyWhyfoWOBfFodGKDZHNr2RSj21mcllXhvNz670IR8bDUKTw5O41ZqjPXRNpyKOOX/DwPfNyZmXm0EnpAt02PBljue2rDrMtpP7GcIozVX96jLPH2ND5EYoix1DVzEnd/NVyWzspt1Qlc0kaq7O92WD5L7dzBfx11CCXIJIByYqdnbcZmV1YHtUouA2La1a+gT5dc186C/6fIN8d7SKA8d86Qz/29zzGFZnxygSETPg==;eyETZ6CdhNfK6qvg4XBxPg=="
 ---

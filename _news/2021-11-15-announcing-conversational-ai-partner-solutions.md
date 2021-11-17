@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-conversat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-conversational-ai-partner-solutions/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://www.newscaststudio.com/wp-content/uploads/2021/11/zero-density-traxis.jpg"
         width: 1100
         height: 621
+        isCached: true
+  - title: "The Payments Association finds huge value in AI in revolutionising payments"
+    excerpt: "Financial Services organisations with over 5,000 employees have adopted AI It is forecast that AI Market to Hit USD 360.36 Billion by 2028 The Payments Association (formerly The Emerging Payments Association (EPA)) today announces the release of its latest research,"
+    publishedDateTime: 2021-11-17T09:54:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/payments-association-finds-huge-value-ai-revolutionising-payments"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 37
+    images:
+      - url: "https://financialit.net/sites/default/files/dbfhgysuydfbsuydf.png"
+        width: 733
+        height: 414
         isCached: true
 
 secured: "kTnNZ53eWck0UZC0NGsaUIwofpIj0IJCP4Qxqpr6Fso8W6GKv0Q6O7bkJzlGUS2WJFl7wtewMa+NAgeBFgdvmXW0APWkBPUEkIeKS2bDwBjR276TkmFU7UyHDeBYpXQeGIlfS4rW3aCoTW8CW8nA4IFDd+aoaXqFvFTVPF9z8Puf8i0a6QC9k+WIbHXRUBw/4tHGrGjR8yxXeU6upcJG669f/xYUuVE4Sz2Fep5mM5PdiyTBgkJ2eLEieP0m1rf3M1PAlkifl8z7F1VabA1uQ/lznF1/KamtJbcnnaMcRSYB64NLGECXBwMvvTZKpRCe6Ne0p7S8EMlaZznYrZgJYsLjs8IL0JwX4JJrFh6fwRY=;1ikNawBoUv5W2C1xszS6ag=="

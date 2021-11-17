@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI fights fraud in the telecom industry"
-    excerpt: "Americans lost $29.8 billion in phone fraud over the past year. Can AI fraud detection change this? In 2021, over 59 million Americans said they lost money as a result of phone scams, with an average reported loss of $502."
-    publishedDateTime: 2021-11-12T17:10:00Z
-    webUrl: "https://www.techrepublic.com/article/how-ai-fights-fraud-in-the-telecom-industry/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/"
+  - title: "Improvising claims processing for the insurance industry by use of artificial intelligence"
+    excerpt: "Eventually the use of artificial intelligence in the immediate years is expected to help claims organizations adopt a more proactive mindset"
+    publishedDateTime: 2021-11-16T06:09:00Z
+    webUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
+      name: Dataquest
+      domain: dqindia.com
+    quality: 62
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/11/12/8fd559d3-583c-4749-a481-c64fd1c451b8/resize/1200x/cb959c0d1ff5d8f4c3b6e9f00d07ee11/shutterstock-1908709960.jpg"
-        width: 1200
-        height: 620
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
+        width: 800
+        height: 420
         isCached: true
   - title: "How Artificial Intelligence Could Revolutionize the Insurance Industry"
     excerpt: "The introduction of usage-based insurance, however, has created an effective means to provide the right insurance for the right price — based on specifics, not assumptions. Now, UBI is about to gain a power-up through the robust computation capabilities of artificial intelligence."
@@ -56,19 +56,19 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "How is AI reshaping telecoms?"
-    excerpt: "Telcos will need AI driven solutions allowing them to configure new offers and products in hours and days, engage with and service their customers more effectively and radically simplify their operations."
-    publishedDateTime: 2021-11-15T14:07:00Z
-    webUrl: "https://telecoms.com/opinion/how-is-ai-reshaping-telecoms/"
+  - title: "What's Next for Data Processing? A Closer Look at In-Memory Computing"
+    excerpt: "Evangelos S. Eleftheriou - CTO of  Technology is progressing at an incredible pace and no technology is moving faster than Artificial Intelligence (AI)."
+    publishedDateTime: 2021-11-15T14:14:00Z
+    webUrl: "https://www.linkedin.com/pulse/whats-next-data-processing-closer-look-in-memory-computing-"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
     images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/03/AdobeStock_135990387.jpg"
-        width: 1200
-        height: 809
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG4ELgECSu0XQ/article-cover_image-shrink_600_2000/0/1636976449088?e=1642636800&v=beta&t=MWagnHX_4tf4_ysgxhBBORe2eHMdX075xmLjmJV4YRg"
+        width: 624
+        height: 351
         isCached: true
 
 secured: "SoD8x36erZ+74PyuLzNM08209hINsMhixcGzpY78U7Yq3sjEOjLE/lTnVICdC1Kclx2Jn8PWEr3qnMql1wFg8U6hLUW6gku6x1gVvQgDlZiMji60q8crE8Y9OOJbdSlXjcbO62GTbmRVRkPM9oYzJ7/gZkYLkq+zTm0V6d9RDsmqlI9olxYnTUN98FKvE/BVLosbALy2+VYDPNt+8YZSkKGEWmaZ2CuEegomq2JYb7X2TJNVyAvYbysE4nJb5Y9158o4JFf6DHGcxk0gMIk5zPJNQFZZ9veXNMy6QEmrtAZrgWKk6TnhkZdjkydDAQoRCCPhhcd+UY0GVOgmLi9HUC8rUlbM4/4gpLfYnN9iA8nFxC/0YgzdcrxPSlHhlhNUjPCoH5e2PqAd7RvVIxmva7+B9XgQ6LrkpDTp1ly0UwNFQ3caqHVK2sHul/CiH+XrvUmEZVHhcggHlMH+NkdtGZCL3BkrH+F0+cBp/mq3p5C6nMiQr+b7NQRpYdczyf/NFOiZEvyXxKfPOEsjnS7Ntw==;gKQUwfpk8fNuud1aHqxvMw=="

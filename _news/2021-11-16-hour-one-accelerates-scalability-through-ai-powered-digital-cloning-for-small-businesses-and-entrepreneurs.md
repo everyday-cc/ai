@@ -2,17 +2,17 @@
 category: news
 title: "Hour One Accelerates Scalability Through AI-Powered Digital Cloning for Small Businesses and Entrepreneurs"
 excerpt: "Hour One, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that attorney and CPA David Fritch is using its AI-driven enterprise solution to scale his business while saving time and resources to stay ahead of the competition."
-publishedDateTime: 2021-11-16T14:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-hour-one-accelerates-scalability-through-ai-powered-digital-/2021/11/16/9493467.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-hour-one-accelerates-scalability-through-ai-powered-digital-/2021/11/16/9493467.htm"
+publishedDateTime: 2021-11-16T14:00:00Z
+originalUrl: "https://www.financialbuzz.com/hour-one-accelerates-scalability-through-ai-powered-digital-cloning-for-small-businesses-and-entrepreneurs/"
+webUrl: "https://www.financialbuzz.com/hour-one-accelerates-scalability-through-ai-powered-digital-cloning-for-small-businesses-and-entrepreneurs/"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI Ethics
@@ -50,6 +50,6 @@ related:
         height: 450
         isCached: true
 
-secured: "p5XCx+3t8Bb/gY8if5KaO7BgmGsRrf6/CG6zW6bSEz101DVHxzmI4qDOKwbgQPDZpjWAscw0imzyTGrnNcv+tr8qQ8btpmx0RilL7y5EknAedXekNPcUL1H7u/KhT/HyPrdfxi6eVYabVL5e5c838YJwU4qCWwQYWMIL+yopsQ+y631My6g9VfHjIsHho2p4gbYGzGkJFbFQK2m8Abbo2eRPz1Fp3vJxFhtVMeFpcU5KeYIU6yMkdOqz3JTlqWbuggzLm31Pf+veDEHIfTCcP0sCrtXcby8l+XaeQ4aQkWzPeJl91BnR5OElXpIv0RhdWUyzAma0mON2BDa5CzzG8XZ1PRNL5flxTPlvJsOjPXg=;pdI2Tfcr7JqJVoAl1cZLFw=="
+secured: "zAJgFtfqHCZV2y45PFzTWIGCBI8epp7osSLHZ9QO+ViG30CMbVQARo4ifCsAdFmleK9tTDcG5I9fY9tjY7VHZopz53ubkB66BVADoZ7EI+I+OkWPzF5S9rZ36B3MjERa3vkjYVd+d8jj4lk33bMSb9e5DSHNNrOHTcG4sSIkl7TuGmPvRDY89og6exyg8pp5kj8zfFgRRtHp5+eoR3gPjuowUCBZOYHuXf83XJUUuU8myqmS0yip1JljkrtTYMbrbtnR4Q7eYMiJxLkiHw7V4B1HAhSRReXUOyrocDvSmxwxrCQ/EEF/X4mEbtXQCxD4BvGX5bE2G2CCgV1J//AiChN9uRnhoK5eSYDHmrjTJd5njFGTN3+XWe4dk0UXpC9bX66cGpyO1x2m0nk/3sKKop1v5BPYl8PfPuVTkt/0Hu8ZQfwipYElYjp5PzGQRfUuMnG2AdcVfrypn3FCXodNHGneK3/5QcUYtcUllzHnyP0/gW40AJftxpG428fvlyagGGj36Qfarn8v/BKeIZ2zQQ==;tufgjorUvRqDjt0C9Vxi5g=="
 ---
 

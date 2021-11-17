@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Robots, big data as Gulf nations bet on AI"
-excerpt: "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with"
-publishedDateTime: 2021-11-17T06:41:00Z
-originalUrl: "https://www.digitaljournal.com/tech-science/robots-big-data-as-gulf-nations-bet-on-ai/article"
-webUrl: "https://www.digitaljournal.com/tech-science/robots-big-data-as-gulf-nations-bet-on-ai/article"
+excerpt: "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core."
+publishedDateTime: 2021-11-17T09:19:00Z
+originalUrl: "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.html"
+webUrl: "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.html"
+ampWebUrl: "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robots-big-gulf-nations-ai.amp"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/463b952c76bfeb7b314f73dc982b290c8c30993d.jpg"
-    width: 768
-    height: 513
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/gulf-countries-are-inv.jpg"
+    width: 1024
+    height: 684
     isCached: true
 
-secured: "dqHyGir4wqVRQs10ZeublS64aN/tKzzUfegsmDlTqey5TWGSYKLMKJ+eExU3D2TzFswsjziqNEXdREiHT/rizW806WQcAEipVNm9NnkFLDGq6qPd1XqKXOdAD0VpMZ/L8yGPmmRMfINtPIu1rzV7/xSoyU5wY9cE35JMKFn2LP7t/de3Baix6i71gPEVG/wODAfZZDjcY0xiWQAK7xmPWAwqzC2/8b5e7INdsbFhOcH61PO+NyVfmKEgiM6JxJTdUEsFHr2HApr17su+RHBXVt3DY9RMP02+Atpvw571ID6fE+as7H0NdlunIiqqK7LCiAtK3F3rDszU98wCaM9abgTjf+gg5B7m9dJU9WiLqjakwqYQdkeeJsQXUGw8mR+eKwf291fefr3AI7U5xIDv7/z/qtdMnZC91u0G7YYIYyF4I0+o/0QvjWRBVDSCD1LX0zJfAU+2ckNnVcQs4A135FjADJfoUJTxRa6AgME+cLZ5nqU3LE/d9K32gEFhZBhRGrKud5CWS3ZY4haqd2hfuA==;XMDeBkZntdQqG8zGzukHlg=="
+secured: "g1z1dXDnNbDyiwhniQIkylCLQo+6DBLn5XVbXD3DLBA62atM6JMtSDrNF177gehlLegtlnbxtJ3y2rzhe5latrr3RMgcN6uDGXJoUTcEfz5jWLhIFy6TTSncASCtpvtwdlm3x01ZmyqPAExsJDExRhdss2SFE8QnDFvS9rA1QU5bZwxIBSgroB4Bc3Pur5sLaO9UPiRYEV5cg7A6ycKXh8WXJn8HEM43QDwtZVgK2xbYwMLABR5uWSVqTSKUDvVBj6YkQPmvuxhmwUwHarP/v2SUItW36gmTgH+MjniZKkHxUW9CFxTUknr+R07HyW8hrkQ6IoAhAf79tU0YJ11ErfVgAd1P6OL+/bJb0yvqhiM=;MP+Cj1mhTqkGsb2jFGw6qQ=="
 ---
 

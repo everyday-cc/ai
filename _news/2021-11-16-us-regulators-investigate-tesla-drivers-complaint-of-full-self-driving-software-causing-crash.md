@@ -163,22 +163,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Tesla in “Full Self-Driving” Mode “Severely Damaged” in Crash"
-    excerpt: "A Tesla Model Y was “severely damaged” after crashing into an oncoming vehicle while reportedly operating with the controversial Full Self-Driving (FSD) Beta active, The Verge reports. The crash could likely be the first serious incident involving FSD,"
-    publishedDateTime: 2021-11-12T17:09:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-full-self-driving-severely-damaged-crash"
-    ampWebUrl: "https://futurism.com/tesla-full-self-driving-severely-damaged-crash/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-full-self-driving-severely-damaged-crash/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2021/11/tesla-full-self-driving-severely-damaged-crash-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "NHTSA investigating first report of Tesla 'Full Self-Driving' crash"
     excerpt: "A California driver has reported the first alleged crash involving Tesla's Full Self-Driving feature to NHTSA. The agency is investigating the claim, which says the car turned into the wrong lane."
     publishedDateTime: 2021-11-16T19:02:00Z

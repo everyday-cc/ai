@@ -45,6 +45,36 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "How Artificial Intelligence Could Revolutionize the Insurance Industry"
+    excerpt: "The introduction of usage-based insurance, however, has created an effective means to provide the right insurance for the right price — based on specifics, not assumptions. Now, UBI is about to gain a power-up through the robust computation capabilities of artificial intelligence."
+    publishedDateTime: 2021-11-16T21:25:00Z
+    webUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry"
+    ampWebUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/q421%20ubi%20insurance%20hero.jpg?itok=455opSSf"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "Artificial intelligence and process automation in the fresh produce industry"
+    excerpt: "In a webinar hosted by Keelings Knowledge, Julia Baumanns, Technical Delivery Manager at Microsoft, and Tobias Fausch, CIO at BayWa, talked about future technologies in the fresh"
+    publishedDateTime: 2021-11-15T14:59:00Z
+    webUrl: "https://www.freshplaza.com/article/9373467/artificial-intelligence-and-process-automation-in-the-fresh-produce-industry/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 34
+    images:
+      - url: "https://agfstorage.blob.core.windows.net/misc/FP_de/2021/11/12/_MAR4068_1_.jpg"
+        width: 600
+        height: 399
+        isCached: true
 
 secured: "vXUDuNvRqDpPfRX9gz7VC59TBgeCFSaqDtIxzHBg+FpNtgPWORDKpucef7rvVgdDBF3kL1c9Lo06ei61KtF4EBqYg9lXyt6JOzW7MTKNqAcvuKQAUpiEm8u7z3BNK/9JBYQ0psQTOZSqpjjPryssDD6JYgStRXBzhOZHoPr4Gl6Y19zLefbUkMidEqEM7SVINBCLm24hoLjZloP0dEpvkjJ/zjsRpLsZZiaozM1FF0CgykRF0rqOSdhHpKdu1a0Oxo+qxLfH1ogksVReB8PfAq9dApsSCOVb6CHGiDDhhWMJaVjpCSxlKLp5q+jhOBv3HemTCOA08KygrBrzePsuebqMcyi32mWgpv8dSjNq8gYP7ZIJ4UHkupkXDnu31rRWdmEKDsGpSabnD6zJyDNXh5No7p3cRChIB4kiNOrQvi/tAphMQ2j4aDq1FE+wL1G2EknDMe5ad66joNjFQBZ9cCSySy56H2Rp6Fo5zikPR0DCElf4Nw6/UE8Js7vGhtIrEY42nNVyt8yK1ahwxV4LGw==;v6JTaT5CiI7duXwOw9d1Ag=="
 ---
