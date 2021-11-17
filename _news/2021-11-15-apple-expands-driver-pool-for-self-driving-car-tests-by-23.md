@@ -137,22 +137,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "US Regulators Investigate Tesla Driver's Complaint Of 'Full Self-Driving' Software Causing Crash"
-    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
-    publishedDateTime: 2021-11-16T03:25:00Z
-    webUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
-    ampWebUrl: "https://detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6158976-us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 61
-    images:
-      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/03D/A99/03DA99B843051B6A9ADFC1A68CC4A06B.jpg?Expires=1731715200&KeyName=mcpkey1&Signature=5iSMbtQ2FOjtrlrupQ7r_jCga0I"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla in Full Self-Driving beta mode damaged post crash in US: Report"
     excerpt: "A Tesla Model Y reportedly in Full Self-Driving beta mode crashed on November 3 in California and got \"severely damaged\". The owner reported the vehicle went into the wrong lane while taking a left turn."
     publishedDateTime: 2021-11-13T04:20:00Z
@@ -249,6 +233,17 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
+    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
+    publishedDateTime: 2021-11-15T22:24:00Z
+    webUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
+    ampWebUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 41
   - title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
     excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
     publishedDateTime: 2021-11-16T20:00:00Z

@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Robots, big data as Gulf nations bet on AI"
-excerpt: "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core."
-publishedDateTime: 2021-11-17T02:10:00Z
-originalUrl: "https://www.france24.com/en/live-news/20211117-robots-big-data-as-gulf-nations-bet-on-ai"
-webUrl: "https://www.france24.com/en/live-news/20211117-robots-big-data-as-gulf-nations-bet-on-ai"
-ampWebUrl: "https://amp.france24.com/en/live-news/20211117-robots-big-data-as-gulf-nations-bet-on-ai"
-cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20211117-robots-big-data-as-gulf-nations-bet-on-ai"
+excerpt: "DUBAI: Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core."
+publishedDateTime: 2021-11-17T04:22:00Z
+originalUrl: "https://www.bangkokpost.com/tech/2216979/robots-big-data-as-gulf-nations-bet-on-ai"
+webUrl: "https://www.bangkokpost.com/tech/2216979/robots-big-data-as-gulf-nations-bet-on-ai"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: France 24
-  domain: france24.com
+  name: Bangkok Post
+  domain: bangkokpost.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.france24.com/media/display/8123707e-474b-11ec-a2ec-005056a90284/w:1280/p:16x9/e0406b7e9b30fa57edcfb6b6574e29467861f72c.jpg"
-    width: 1280
-    height: 720
+  - url: "https://static.bangkokpost.com/media/content/20211117/c1_4146299_700.jpg"
+    width: 700
+    height: 468
     isCached: true
 
-secured: "/JDYUYfb/XD22+Gz0uwXlii+1gaj+QIcncjJ0MKLz3qvKgsvm70Yg6GUXfj6yzvD5pJXNr+GeNtsFa/CAqpSAhRZzUCYjNFZwYHupkwTFfXU0pHU/Mjf2nCfwEkBlA5J0Xkmj5i4WfGmPqsEtNYf7UNc4zxTk1KzX+GjtFy5drnYB1Am8NC/YcY7sTj8eqDF9C7mrfxwv3HncwmJJ58jauLOztAcapwJ88jUxMEkayKqM7E0QdaSMAocans6iWTImTlp0oL78qj+YVfISc5Op5f2V/kKEJ/9dZzOkGTesLtY4TWVRse5c14kH4HP5IyEcGhCaKPfoPg0iPbqWEa3MVmKFaQPTLWMEQtn70X9was=;JIkPRUjpbtJGZdFUW+396w=="
+secured: "AgkRo1nu31BOcdHWcIzO5xoDuvAoBMhoIXeUwllYR9K3f2K0PlEowAkU/a20oux4azvuznKF25QxmJI/YcXkr9lxx6L81/J9jUwo4HwFnhCr2wo+pZ5dNQwZqK7XBrxAUsz3COikNWwXUHhQ9PUK+4stebcIjQzKWU0BH0MzIOmhFnqM06m206G3TWXDmeEy5escQWcq2Ut1xI7zFAlg8l2Ms/vTYGaHzg1LnZw8w6EWZJr5Kk/MxBX5mtbc7qr+QXWDUcrL0h1R/ikRW0mv8AhQoSpAiAo1tgWNHbwhTT4lNLbTyedHX/9+bjlzlmWzKvIn7ma051MAUfimF7HKcyFm+VgVmPEHqVwXxb1zSWI=;iBix8d+4GSYpT2Ii3V0MJQ=="
 ---
 

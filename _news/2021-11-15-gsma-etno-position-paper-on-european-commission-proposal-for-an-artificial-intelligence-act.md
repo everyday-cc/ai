@@ -7,7 +7,7 @@ originalUrl: "https://www.gsma.com/gsmaeurope/latest-news-2/gsma-etno-position-p
 webUrl: "https://www.gsma.com/gsmaeurope/latest-news-2/gsma-etno-position-paper-on-european-commission-proposal-for-an-artificial-intelligence-act/"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "European Banking Authority Releases Machine Learning Discussion Paper"
-    excerpt: "The European Banking Authority (EBA) has released its discussion paper on machine learning 'used in the context of internal ratings-based (IRB) models to calculate regulatory capital for credit risk.' As noted in the announcement,"
-    publishedDateTime: 2021-11-12T12:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look.jpeg"
-        width: 1400
-        height: 1867
-        isCached: true
   - title: "European Commission’s Proposed Regulation on Artificial Intelligence: Conducting a Conformity Assessment in the Context of AI. Say What?"
     excerpt: "The European Commission (EC) on April 21, 2021, proposed a regulation establishing a framework and rules (Proposed Regulation) for \"trustworthy\" Artificial Intelligence (AI) systems. As discussed in our previous OnPoints here and here,"
     publishedDateTime: 2021-11-16T08:32:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-11-3d-machine-cochlear-implants.
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-3d-machine-cochlear-implants.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3D printing and machine learning unite in new research to improve cochlear implants for users"
-    excerpt: "A team of engineers and clinicians have used 3D printing to create intricate replicas of human cochleae – the spiral-shaped hollow bone of the auditory inner ear – and combined it with machine learnin"
-    publishedDateTime: 2021-11-12T12:05:00Z
-    webUrl: "https://www.linkedin.com/pulse/3d-printing-machine-learning-unite-new-research-improve-hester"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 28
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGAbPsq_4UGSQ/article-cover_image-shrink_720_1280/0/1636718145476?e=1642032000&v=beta&t=tFgnt0y-XJZqJVxXE-Tkr4kAXfflEHYS97_DiXROIPs"
-        width: 1280
-        height: 714
-        isCached: true
   - title: "3D printing and machine learning unite in new research to improve cochlear implants for users"
     excerpt: "A team of engineers and clinicians have used 3D printing to create intricate replicas of human cochleae – the spiral-shaped hollow bone of the auditory inner ear – and combined it with machine learning to advance clinical predictions of ‘current spread’ inside the ear for cochlear implant (CI) patients."
     publishedDateTime: 2021-11-15T00:00:00Z

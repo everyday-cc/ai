@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "FDA clears GE Healthcare X-ray artificial intelligence aid for endotracheal tube placement"
+    excerpt: "The U.S. Food and Drug Administration has cleared an artificial intelligence algorithm from GE Healthcare that aids physicians in assessing endotracheal tube placement via X-rays. It’s part of a suite of five solutions from the Chicago-based technology giant,"
+    publishedDateTime: 2021-11-17T03:07:00Z
+    webUrl: "https://www.radiologybusiness.com/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 59
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-01/carestream_3.jpg?h=84d12988&itok=A6p-gaLn"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GE Healthcare’s Endotracheal X-Ray AI Cleared"
     excerpt: "GE has been offering the algorithm since November 2020 based on the FDA’s COVID-19 emergency guidance for imaging, citing its potential to help clinicians treating critically ill COVID-19 patients who require ventilation."
     publishedDateTime: 2021-11-16T20:47:00Z

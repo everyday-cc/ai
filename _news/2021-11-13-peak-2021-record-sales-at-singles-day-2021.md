@@ -25,17 +25,6 @@ images:
     height: 799
     isCached: true
 
-related:
-  - title: "PEAK 2021 Record sales at Singles Day 2021"
-    excerpt: "Alibaba Group group says its 11.11 Singles Day shopping festival saw goods worth a record $84.5bn (£63.1bn) sold via its platform. The event was Alibaba’s largest yet, with 290,000 merchants taking pa"
-    publishedDateTime: 2021-11-12T11:11:00Z
-    webUrl: "https://internetretailing.net/operations-and-logistics/peak-2021-record-sales-at-singles-day-2021-24014"
-    type: article
-    provider:
-      name: InternetRetailing
-      domain: internetretailing.net
-    quality: 21
-
 secured: "br+4o2BF55NvkCVmuEjPBqz+uLNfTIOEvTlp5rPr55s+xpCiMl8Js4p5g1gcN6L9Ss0kNnD2+Jp4t2bvD9tDOyTDTagpTVsL2STuxnf6uV+585Y+v91riWhpUYP/8ZHRmtEVNWZuPt9aJpRrfQKBePvffBSza3MfWEDqPGeCz/5PQi963Yi1k9Pyvu+wp695wxD7KYL9x+TF8HvnkESPVbNKOeh7LljF9aVF1uUfmDv7fFd494vH5uG92Ch5an7wDW6feeX/rwSJZCPud5w7wcuERCU8KRumB5hjQ61qNbxbpXu0faXUai0+6bnFhcsy+uKcZyryFzM87XBJGzdAE1/4tGQBqfptN9dIVQK1gxU=;n//9sFxKE59olLBTzyOtRA=="
 ---
 

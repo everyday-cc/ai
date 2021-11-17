@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
-excerpt: "Qualcomm on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems. San Diego-based Qualcomm is the world's biggest supplier of chips for mobile phones but has been diversifying its business,"
-publishedDateTime: 2021-11-17T00:39:00Z
-originalUrl: "https://www.channelnewsasia.com/business/qualcomm-diversifying-mobile-phones-supply-chips-bmw-self-driving-cars-2317641"
-webUrl: "https://www.channelnewsasia.com/business/qualcomm-diversifying-mobile-phones-supply-chips-bmw-self-driving-cars-2317641"
+excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
+publishedDateTime: 2021-11-16T17:47:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/qualcomm-diversifying-mobiles-supply-chips-bmw-self-driving-cars-2021-11-16/"
+webUrl: "https://www.reuters.com/business/autos-transportation/qualcomm-diversifying-mobiles-supply-chips-bmw-self-driving-cars-2021-11-16/"
 type: article
-quality: 17
-heat: -1
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--Ek6PsS0g--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-16t133230z_2_lynxmpehaf0kk_rtroptp_3_qualcomm-results.jpg?itok=_DslkeVi"
+  - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
 related:
@@ -40,6 +44,22 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87741075,imgsize-18838,width-800/87741075.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "BMW to use Qualcomm’s Soc for self-driving cars. Know more"
+    excerpt: "BMW will utilize Qualcomm Technologies to bring a full spectrum of ADAS/AD functions, including front, rear and surround view camera computer vision"
+    publishedDateTime: 2021-11-17T03:46:00Z
+    webUrl: "https://www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more-11637079056915.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more/amp-11637079056915.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more/amp-11637079056915.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/11/16/600x338/cq5dam.resized.img.1680.large.time1601620546255_1637057024335_1637079144170.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "BMW to use chips from Qualcomm for self-driving technology"
     excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."
@@ -70,6 +90,6 @@ related:
         height: 600
         isCached: true
 
-secured: "gJ4sYnjwKT+idXYFSwqREuK7HAa0XjO8N4FHrJo15e8D8jflaXy2FFFeQZ+0gvnNJveOnwFUHWT0heUVHdgYc0G2d+72RN1cw07/Nsm6Y+zcItRD9lJmQ6sLO605Ltx1o/5HbrINwcfsYI8Q44hz6/SBtf/FxulK8NSjcZ0mZmlHc775t5R9NahtLN2B++VxPjmf2eVYRHU1akFOmXbQEoOJ8gFnj/qQnUVCUqwpRTCXXu0TEKBBrzBJjbSCNej6bseaHaykjdJ9mki5s6SrVz+11cxSvZtithDjzh+9r7AQFErId45hrrx03bFIuHEufTwY6wJcLbYNc0d/DMBJWUn0nOHE4c5zp0Rcgaka83w=;lw/UmRmtSUuWNdf+yqYyKw=="
+secured: "q8N5WwfMqcqYCZnECa9hhmGrafjduVEZPAd/wguPghwoL5zee9GAPa8IyBBVRs2kGmnFntVXuR6qQrzktwvwMIBg//3H/ajogihQUHhG+2u+qEXpYWDRiLuRJz5UnmI0eEPiUM6sz62LixKLIMthpymNlCNv+xEGDHRtXkXv4aUyodReTakFXYYJTMlI2h6OSAeP6WC0w24yuEW1JGDeI24uWCX6JMnCQeOajvxTPGvhXhWgn7tx8R/u8OkMYQexa5ToQd5yANDorsWnjSV1n1vvM087ckiwWuaI7oaFjRnBNUuJ8/r0ePPDdCvmsYHU2KE7YdD5CLhSIwb5MxaPBrMb9QLr8AYa6hUJzbSTsR8=;K8nUdEjVtQ2D9FpuZNnueA=="
 ---
 

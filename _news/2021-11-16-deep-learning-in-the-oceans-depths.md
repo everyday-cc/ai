@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Deep Learning Turns Contextual Targeting Into a Cutting-Edge Tool"
-    excerpt: "RTB House, a market leader in deep learning-powered marketing technologies, are proud to announce the release of its globally available industry-leading Context AI solution. The solution will play a key role in helping advertisers navigate the cookieless landscape."
-    publishedDateTime: 2021-11-12T11:53:00Z
-    webUrl: "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/11/12/deep-learning-contextual-targeting-cutting-edge-tool/?amp"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 59
-    images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2021/11/Context-AI-2.0-LinedIn-Post-2021_10-1200x628px-02-1.jpg"
-        width: 900
-        height: 471
-        isCached: true
 
 secured: "B2bwN7hwjHHQWfeBVtTapCr2ScNsp6JYyP8+G3V+NEYo9FXuvVMLk4jAyXGQE/FrjVO3bV7FYbXYP19FNJW+NAF17q4ICcvFXi0YymGZAR/3cs0WU+KQYKzo/WuZS9Zh05aeoVFFAilwvHpfsyzrTiRoB5zUqqc7tq0UfYmYF0kFJljhVNKHt26pL41pT+EMndO7dp9yOhRviERLpg664VQKXKwN6TW1ygjTr1mYI9caQga6HROez5yfqRDYQtjr4Ll+42sjAaDNYYmDDaiPKGc9Kau7UlasSzcAGH8hb4wZkQuBWBrF0t+tuimQxKF7jizvZFCzwrMV3m62mdaYlYu9bC4J5rHSdphZceEjySwWV9CtZ3VeGPgBVb/O2KaTam9EhJ3kBlGmKU+3lLjryY+fGTrP97qD8bITakOa74aAO37AFKKri8M2r/RJr4eAOqIrxN+YXpczXeU38sHCMV6liVzY8vwaNet63f76CXDLKwP1i4Z2yc7sorOWjGAg+j7myS2Bhcr5bhkXHDfa3Q==;AKmBc1pvR2yeQmwFrltZHA=="
 ---

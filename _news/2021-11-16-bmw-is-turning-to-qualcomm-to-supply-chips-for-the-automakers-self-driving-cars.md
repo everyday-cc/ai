@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
+    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-16T17:47:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/qualcomm-diversifying-mobiles-supply-chips-bmw-self-driving-cars-2021-11-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+    images:
+      - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Qualcomm to supply chips for BMW's self-driving cars"
     excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
     publishedDateTime: 2021-11-16T13:52:00Z
@@ -41,6 +55,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "BMW to use Qualcomm’s Soc for self-driving cars. Know more"
+    excerpt: "BMW will utilize Qualcomm Technologies to bring a full spectrum of ADAS/AD functions, including front, rear and surround view camera computer vision"
+    publishedDateTime: 2021-11-17T03:46:00Z
+    webUrl: "https://www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more-11637079056915.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more/amp-11637079056915.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more/amp-11637079056915.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/11/16/600x338/cq5dam.resized.img.1680.large.time1601620546255_1637057024335_1637079144170.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "BMW to use chips from Qualcomm for self-driving technology"
     excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."
     publishedDateTime: 2021-11-16T12:54:00Z
@@ -54,20 +84,6 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/P90423571_highRes_bmw-ix-advanced-driv%20%281%29.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
-    excerpt: "Qualcomm on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems. San Diego-based Qualcomm is the world's biggest supplier of chips for mobile phones but has been diversifying its business,"
-    publishedDateTime: 2021-11-17T00:39:00Z
-    webUrl: "https://www.channelnewsasia.com/business/qualcomm-diversifying-mobile-phones-supply-chips-bmw-self-driving-cars-2317641"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 17
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--Ek6PsS0g--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-16t133230z_2_lynxmpehaf0kk_rtroptp_3_qualcomm-results.jpg?itok=_DslkeVi"
-        width: 1200
-        height: 676
         isCached: true
 
 secured: "rgqLWVlfAPAYkopBLBbUaUdWltFcJVXK+Ncj2OTK4+rnJTq8/juNrM9BUtZxp9OGYS5RjCX+NKtuGf9MuDJMdRH+u0BILWSe8RwYzHMlqDopWVxmp7Qc+SKVhft9Fi+JZjy5RQisdQ4MRqZLb0Gn+dCHO8AN5kxmLsfn9Qz/5wzgtac/e+JO5Bwy5gPy6UzW+n8j0vJj/Y/ak6qJZG0c1RpQQSqGTotbVpArdPewyoEv0L0z3avSuaY6rppjs0uqtjakZVCnKlkpvqVkGkxjnpwqsJ3Q+OmK6+Ki0tcZM8HgHEBlO+2dPQID37eg9eJu6d7Ndtg7GPJOAlPfr88vu0OvjIqsotiaGx2D8kbhoDw=;xrQ8zYUyeQzguoxdUVVR8Q=="

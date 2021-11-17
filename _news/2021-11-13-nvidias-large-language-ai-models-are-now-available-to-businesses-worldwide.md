@@ -87,6 +87,17 @@ related:
         width: 900
         height: 371
         isCached: true
+  - title: "L&T Technology Services to support Mavenir and NVIDIA for adoption of AI-on-5G"
+    excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform AI is already transforming many industries across the globe. When combined with the power of 5G networks,"
+    publishedDateTime: 2021-11-17T04:20:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
   - title: "Artificial Intelligence Market Set for Explosive Growth | NVIDIA, Lifegraph, Google, Zebra Medical Vision"
     excerpt: "(MENAFN- iCrowdNewsWire) The latest 105+ page survey report on Global Artificial Intelligence Market is released by HTF MI covering various players of the industry selected from global geographies ..."
     publishedDateTime: 2021-11-13T07:38:00Z
@@ -110,6 +121,24 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 19
+  - title: "L&T Technology Services chosen by NVIDIA and Mavenir as Engineering Partner for AI-on-5G platform"
+    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
+    publishedDateTime: 2021-11-17T04:08:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=302433"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 6
+  - title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
+    excerpt: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
+    publishedDateTime: 2021-11-17T04:15:00Z
+    webUrl: "https://www.businesswireindia.com/landt-technology-services-chosen-by-nvidia-and-mavenir-as-engineering-partner-to-accelerate-adoption-of-industry-s-first-converged-ai-on-5g-platform-76016.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "qByvP+pLL/8aMO7TI0u+MIRstMX7Q4VGGHhq8uOy7ARVfOj6K914YLbvpFXMfCPJ5tuKRm0OHwfg5QXX4aaOiVLtl4rW3ddeXd1U9wlZeoRV2oot3z7MIdxRdH6Q9mQySrmqK6/Ae2jIho7Oe5dibWpUao/TkC+FtgEjBsa0+T1Vnn3w6R8E/iHmTWjfIAfGJcq5tKkwK2nuK5m/jsamyItn1HwkBMOClfm7tpvrkOvQzhng5tTj+y9uw04E+tns9ilj3GgOZP7zafNmH/xi0RgJ4KbF8dG4kM/6NCOvJDeG7w8dicoDKnLP6blgtHHxKrGFdajn1WFfBaF43mdwbsNyncHhi9I7VJQguyxBsewowSS1yQRr347SA67nxG52FYpWL+eI7g+T6owG4r5UJNP5RB0nuCf8Dy8yLQ5kY4aT+iXIsGpx9gqeUS1ogyn7wH3BFLBK5tmwdmCo7NfzJWSseISL7L6tdWkNNSetfNSXjngFz/FgXlckstWgUqxHziTgXifepfCizRa4mELFlQ==;wQHX309B6wGb7REmXMKxLw=="
 ---

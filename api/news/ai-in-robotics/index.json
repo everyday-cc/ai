@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-17-robots-big-data-as-gulf-nations-bet-on-ai.md",
-      "title": "Robots, big data as Gulf nations bet on AI",
-      "excerpt": "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core.",
-      "sourceUrl": null,
-      "webUrl": "https://www.france24.com/en/live-news/20211117-robots-big-data-as-gulf-nations-bet-on-ai",
-      "originalUrl": "https://www.france24.com/en/live-news/20211117-robots-big-data-as-gulf-nations-bet-on-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.france24.com/media/display/8123707e-474b-11ec-a2ec-005056a90284/w:1280/p:16x9/e0406b7e9b30fa57edcfb6b6574e29467861f72c.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.france24.com/en/live-news/20211117-robots-big-data-as-gulf-nations-bet-on-ai",
-      "cdnAmpWebUrl": "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20211117-robots-big-data-as-gulf-nations-bet-on-ai",
-      "publishedDateTime": "2021-11-16T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "France 24",
-        "domain": "france24.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-17-ai-trends-for-2022-how-will-ai-affect-you.md",
       "title": "AI Trends For 2022 - How Will AI Affect You?",
       "excerpt": "The year is almost at an end, and so it is once again time for the obligatory trends articles (Trends for 2022).",
@@ -1453,6 +1410,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-streaming-the-best-films-about-artificial-intelligence-and-robots.md",
+      "title": "Streaming: the best films about artificial intelligence and robots",
+      "excerpt": "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
+      "originalUrl": "https://www.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dc40f71415a7198828e641d5ac73ff5b26e5800d/0_395_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=68ba1f19502656f67050feccdbb31b78",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
+      "publishedDateTime": "2021-11-06T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2021/11/3360709-768x402.jpg"
+  - url: "https://www.thaipr.net/wp-content/uploads/2021/11/FSMART-Oppday-2564-scaled-e1637124436719-768x512.jpg"
     width: 768
-    height: 402
+    height: 512
     isCached: true
 
-secured: "0AOwUd3oT9fbMPqoaLwEew9K+L1LnypngsD0hIxC+HlSSxXE+iIQB3bSpYq0e2fu1irM4cClpyBmGLbjQJad6cTnScBAahSTgh9DjZYVuoKLXv968UtC2p6UEU4sRAUzxgNnMjL2VNT4wzDH0srdgkUR6+UvrKTBOigu9Ws13f6zYb+UD8QZo9CaQeWmHE2WLhAFZgwh5OWa85NvP6/+W1uEUFGIg98HbjPgjNIDjX5eCC/6Rup57YMtMVNZMP/k2vVsUrvpqx1TkLCwlmtJvXbYz040ZMuF/Whbc6o13MQcrhm5NBP8Cow8zk2sREn/iPN7yah/Eu4SlIGGnuH7fy3EJ5VpaJfI/ezZ37Xnwx8=;hT+F2ZA9CEdfxxTtCTSYbA=="
+secured: "hJX9xVJTM+vzG4CFSkhwcVRO1VPrR5fpjqSKqVAloFf647NP3NQ42Mtlpj+13f/F204O/Bl6CRx4fP50kPLUI7Q123YDVxKRZzAOdCDeAVhAHtjLT4wlli3ll+lZBkJh6b3/oAyXsK7eZ6eBVFtItCf7LxgWeQEd/1iP6iJyEairper9K4HqSeAD15nIMy7mA7eoTNJNWmQ0fsSwlbuLAa+jmScBVb3a8Z/JH+by9b/m/BWgAWuFR6tvdVMHEjc1DGiLf+88buPelzfKOO8uk0Dd3HlbmOiwcAYqaTfngbrcUxw+zt+Ar3r55JoKlRlcJsZQb/BAvBBKX+ccfeD3dph/OI4IY9ApbAS40VYhWoA=;U83f6B6u0/+mb9X77TTRYw=="
 ---
 

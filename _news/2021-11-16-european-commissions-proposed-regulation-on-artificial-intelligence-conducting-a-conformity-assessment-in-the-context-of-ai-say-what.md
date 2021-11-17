@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "European Banking Authority Releases Machine Learning Discussion Paper"
-    excerpt: "The European Banking Authority (EBA) has released its discussion paper on machine learning 'used in the context of internal ratings-based (IRB) models to calculate regulatory capital for credit risk.' As noted in the announcement,"
-    publishedDateTime: 2021-11-12T12:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look.jpeg"
-        width: 1400
-        height: 1867
-        isCached: true
   - title: "GSMA-ETNO position paper on European Commission proposal for an Artificial Intelligence Act"
     excerpt: "Download GSMA-ETNO position paper on AI regulation The GSMA and ETNO welcome the initiative of the European Commission to propose a Regulation on Artificial Intelligence, and notably the central role of the risk-based approach,"
     publishedDateTime: 2021-11-15T10:46:00Z
