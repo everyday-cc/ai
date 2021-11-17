@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-teams-if-your-vid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/"
 type: article
 quality: 101
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft open-sources SynapseML for developing AI pipelines"
+    excerpt: "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines."
+    publishedDateTime: 2021-11-17T20:50:00Z
+    webUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/"
+    ampWebUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
+        width: 1200
+        height: 593
+        isCached: true
   - title: "Microsoft Azure Vision AI Principal Manager to keynote TMA virtual event"
     excerpt: "Virtual OPSTech is Mr. Rouzbeh Aminpour, Microsoft Azure Artificial Intelligence Platform's Computer Vision Business & Strategy Principal"
     publishedDateTime: 2021-11-15T19:26:00Z
@@ -44,6 +60,20 @@ related:
       - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Azure OpenAI, A New Microsoft Service, Allows GPT-3 Access"
+    excerpt: "OpenAI's machine learning models are now available on Microsoft's Azure platform thanks to a new service called the Azure OpenAI Service."
+    publishedDateTime: 2021-11-15T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/azure-openai-allows-gpt-3-access/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Azure-OpenAI-A-New-Microsoft-Service-Allows-GPT-3-Access.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "+eOwsJITLArnRlkKTA0pOBQAnLzP8Gsv0qFE1MWSrknvMj0isQQhQr+XMUX0eQK2CcR2kPAV9sAJmQMVvN3//IJc7u6AouCnPv2W/m4w8EcUq4AtsYmDI8hKsuqH4bioITW3sAzLyqdRQ04uQSjGOrxhNFfCTWUjmfrDKpVrBm2iRGCrNAKuNjDSutRHDUbP8Qx/QW3XErVGDEVNZ1ZB+dN4ZMbz1yrP5uSFHZC3bWK0WC+CmkVcTsYBZnOlEjh2G9X4+Eqjc3XahRDyDNvOlsIOFlQOKzY576jVssIgngUzZ9EO7w6vg8WmsRn/7vsXSETxA5F+jYHgkcIKkfiB2XJSdgUDtw3rDPtqfXozVKUDLNR5F4fdDy8xayhjPzxgk2bs/9Gf9LpQqi2fRmziIchzzlQ39KIdeuroBTgpQKpATdiCs/JG2/Vcs54ZkGT8hqh5H97eh3b6+872X+M1ysXyybdCLErk28BEizlt6AS5BDtoAgcHkOTTtHEAqsdvNKKY8iWYiUphspNcLe70yA==;5lgBAuc1/Fc7mKEl2gRWaQ=="

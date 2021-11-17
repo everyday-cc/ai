@@ -20,20 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare"
-    excerpt: "SMi Reports: 3rd Annual AI in Drug Discovery returns to London, March 2022 with a key focus on the opportunities of machine learning and"
-    publishedDateTime: 2021-11-13T03:46:00Z
-    webUrl: "https://menafn.com/1103159220/Exploring-the-Impact-of-Machine-Learning-and-Artificial-Intelligence-in-Drug-Development-from-Discovery-to-Healthcare"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/12/EP_c8a7cimage_story.jpeg"
-        width: 650
-        height: 650
-        isCached: true
   - title: "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Dev from Discovery"
     excerpt: "SMi Group reports: the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the o"
     publishedDateTime: 2021-11-13T05:40:00Z

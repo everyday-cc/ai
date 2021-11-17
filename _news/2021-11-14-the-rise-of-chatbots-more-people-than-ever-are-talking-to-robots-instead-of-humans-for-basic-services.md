@@ -7,7 +7,7 @@ originalUrl: "https://www.stuff.co.nz/business/126792173/the-rise-of-chatbots-mo
 webUrl: "https://www.stuff.co.nz/business/126792173/the-rise-of-chatbots-more-people-than-ever-are-talking-to-robots-instead-of-humans-for-basic-services"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1420
     height: 799
     isCached: true
-
-related:
-  - title: "AI shop assistants: get ready for a world where you can't tell humans and chatbots apart"
-    excerpt: "I regularly fly with KLM from Minneapolis to New Delhi, and always stop over in Amsterdam. I am frequently in Minneapolis for research and this is my route to go home to take a break from work. I have done the journey"
-    publishedDateTime: 2021-11-13T07:55:00Z
-    webUrl: "https://www.econotimes.com/AI-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart-1621104"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 30
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202111116d9044bac6597760d_th_1024x0.jpeg"
-        width: 496
-        height: 331
-        isCached: true
 
 secured: "8LseN0EuQo9eOjJDWLx5XOOMoN4W5FNBJ0xs1Yy5p/yCHl69onP79GSTHTGzJV3JtNXelM3pKx4GT1gIbYevF6wyXEuMsJK18ejMRYpSiYJrQ+l3PVeoisYUU6YrVR8SXdpWDqlrWKYvEx6ZgsiWp45VyQuMstAU4LlxEz/zrzIRgFYVDPiJPoB+l2rWALHzN+kuywUZQgYbmAKU1deqrrLmksyDbiPaoVYdv0F1o3o9/jhn3z+vBzeuSwIGG3ZhfYguYi6ZIY0QNjkZy+J5pN1zDnFGYhLonjyxLuWTKQcmvvDsLuGwl4f4C5VdqmQK+Hy83JQXlxBMfGN7+mV4Zfzb+Pvw1qpjm8CmdU6EpO4=;HFhJwQNAFgzuHbBOHf5tZA=="
 ---

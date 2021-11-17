@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Tesla in Full Self-Driving beta mode damaged post crash in US: Report"
-    excerpt: "A Tesla Model Y reportedly in Full Self-Driving beta mode crashed on November 3 in California and got \"severely damaged\". The owner reported the vehicle went into the wrong lane while taking a left turn."
-    publishedDateTime: 2021-11-13T04:20:00Z
-    webUrl: "https://inshorts.com/en/news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/tesla-in-full-selfdriving-beta-mode-damaged-post-crash-in-us-report-1636777200898"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/13_sat/img_1636774206941_862.jpg?"
-        width: 960
-        height: 640
-        isCached: true
   - title: "NHTSA investigating first report of Tesla 'Full Self-Driving' crash"
     excerpt: "A California driver has reported the first alleged crash involving Tesla's Full Self-Driving feature to NHTSA. The agency is investigating the claim, which says the car turned into the wrong lane."
     publishedDateTime: 2021-11-16T19:02:00Z

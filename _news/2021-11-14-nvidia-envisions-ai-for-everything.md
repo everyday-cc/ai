@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "L&T Technology Services chosen by NVIDIA and Mavenir as engineering partner to accelerate adoption of industry's first converged AI-on-5G Platform"
+    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
+    publishedDateTime: 2021-11-17T19:17:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211117/3858163.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "XwpAMSKN0F+lEilCDDD0/75ZHPJkXk5pZBvnhr5gQcxTK4Trjrv/h/9fpjv7Bsw7SdacUY+15PemZccbBFWryDGcONqqp9cYaW0xkRA0YSZpMObZ67d3eB6ciLZuPy5uIXreriWbElrJVqRaQCwO9KCdIMY6gznCbNWtFgjdqHycM0JdFnxqzfe+3QZjonNm3SIyLnYAGMRw1YRbCK3SYvcI1us2dUJiKN5tubo3JvgGUjswhw5C05PKjuk3U/82LvlvUgzTVYHVbUoGl9sXTwcrg0tpDF7417vNr6rkQjk7kezYji2uLEh17VcGMXD52hYaFzaVZmyK7xFz6ZvuV+Utg15EaCpFNTyjbIETkPIHSphlCQl3qJKc1Wcl/CuqyPiwx1ZYRRBjZzwMuoJQ7/d6yuY2TSds4EDQO1fEyKybTWMM8cwJwdr10FB4tJgVtY/f46Ey2Gz+D4aD1n1Ysx/GAdZUROa4BcrJgJot0+AO1m3m5gjFMl3/LJvFSZ+Wq2BuMqpnKY45MCM+icrrbw==;QQBTEq7HjWnMr08v7QkBWA=="
 ---

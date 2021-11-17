@@ -2,9 +2,9 @@
 category: news
 title: "ElectrifAi Showcases Pre-Structured Machine Learning Models with SquareOne at Smart Data Summit"
 excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-publishedDateTime: 2021-11-17T16:36:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-showcases-pre-structured-machine-learning-models-with-squareone-at-smart-data-summit-878432173.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-showcases-pre-structured-machine-learning-models-with-squareone-at-smart-data-summit-878432173.html"
+publishedDateTime: 2021-11-17T20:36:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/electrifai-showcases-pre-structured-machine-learning-models-with-squareone-at-smart-data-summit-878432173.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/electrifai-showcases-pre-structured-machine-learning-models-with-squareone-at-smart-data-summit-878432173.html"
 type: article
 quality: 42
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "wvmMlVEcTwfagf3AobZDOGjw2qhsiRXnssBii4CmSIohoKRMLbGV2b4ZNOHwoBcjiO8gSkR46uGr9JwCEmLAvBwGp72R3J+9koyBEX/TOa9AsJ1Coe31AHwcmmRgo2Enqqq4tYbYy7cYD5RmbHbAcLakyfYGldncMenhp485B8GWOieKD6Wn9YX6iZH/GVApbwNcr+qdzuyjhAuMc2j+JsDfSZcRHSe5r4TVhtxIzcXI7nK/l0F8VtqNCrJpgOjSqojQIKk00IESjYDcqhPUrX+d4/7zOG09KXFVytOgo3257hYIBlF/oonWY5qxRIsv9kaRAGYzWgT5DIO9bUWAqBue0mojfoQpVSmXPkb/vEy7lF5rDw4eKi3tgl+7UyC0KUz+hcKVTDW7+hih+Mg2s3wcjxS6K+nFKbOsmdCkISmY8Q3EyJ48Q6SVMb/HdNQ6qA7eR3i6I1blEPLXcEYBsQPLXl2ZR9IVJQi5FYG6T7hWez1+ZkeAKTFkzdKlD1TT39W8nGXaA2N70+Y6I2ldMQ==;ifx9XyTIB3R7DY1lQPX+RQ=="
+secured: "anhYINDGrtXe5+HX+hw9+/jDwpGK6JSXBA+T5AqL94rN0zMVpZIuhj0up2Uj5HB/ZIOxLjfoRHtfam8qORJuYWgrPRqGEesYjCVrSh9SRBAnUVqJqq3+VqyzQuwUvamsWf2DtFoQv6KdZW50sHIa5nj9jN8ePk2zrs4tvrRLBDxLgd7p4TK/pR+CYIJ/Koslz2efosopE8qO51R1oJ0hFZRF+z0fTeeurW5FIeg2dK6NhAHpB5kW/Xw/ldAT1CBvsHaizX5gjlrml8BX36CAoUP9MSM9HNCkDKLQQHryBwdSbmOrpteBBn2vzLWm75CU4XGXmTamQG6Yf0rVaM6RfXiLOFOyjyFjDK1D1s0FDLI=;Ul73sJariFIgD6BTpibdbQ=="
 ---
 

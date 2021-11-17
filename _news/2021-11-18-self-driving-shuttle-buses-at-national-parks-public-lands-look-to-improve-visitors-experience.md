@@ -3,18 +3,18 @@ category: news
 title: "Self-driving shuttle buses at national parks? Public lands look to improve visitors' experience"
 excerpt: "Interior Secretary Deb Haaland and Transportation Secretary Pete Buttigieg were signing a joint pledge to test travel technologies on public lands."
 publishedDateTime: 2021-11-17T17:45:00Z
-originalUrl: "https://www.freep.com/story/travel/experience/america/national-parks/2021/11/17/national-parks-green-upgrades/8651967002/"
-webUrl: "https://www.freep.com/story/travel/experience/america/national-parks/2021/11/17/national-parks-green-upgrades/8651967002/"
-ampWebUrl: "https://amp.freep.com/amp/8651967002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/8651967002"
+originalUrl: "https://www.jsonline.com/story/travel/experience/america/national-parks/2021/11/17/national-parks-green-upgrades/8651967002/"
+webUrl: "https://www.jsonline.com/story/travel/experience/america/national-parks/2021/11/17/national-parks-green-upgrades/8651967002/"
+ampWebUrl: "https://amp.jsonline.com/amp/8651967002"
+cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/8651967002"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - AI in Autos
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "7fMzWeLmLMoizr2bWTfSl5r2zJtsZ/pC/LEWSoHOLja4GGzVxkRRf9bs98RuMTAst2RAc6PCv0rvm6DUI5vq0WP5+GIAOpjBkQYy3lUUWY/ifUHCGqdd6KJbeVH2aetnwEr6koZB3znymBsT33U/LTIqCRXhs6aALjeU60Ui8tpwAZuICHNe57pKvG8H5RuDrCch66LP2pYuK2T4nQxqYG3kW1+JzkiBuBcc/tEBMUsIdd3+dZmTGaBAxPuyPtiPy/E9BKm3lRmsDmTv0o5ZlAd1gIgurku/jWGuN8HAptu2fplR535pC9pSDmHQzr4fFckc9b8m21/VwMrHAbgWvllJKpM68ZFle2lM83txFZg=;WxPtYpXawN9R2G/YGDab0g=="
+secured: "qWk6Kq6e6riUBgzEGNQvMDKgFmMpWnyze4Vedt9JIqxRskZJejNc/8bSZr5QcZaueujlvvf3ewo9fZq7L6EttMuTSGzAF/A5myeHOaK/dcfOzu4LDuLls13ZIRLpx5wpp4NGVfPe41+ICSR9g2mElfIswN6V+aSSWiQZQarFgcCeYNlomD6pWj/vRqwYO6zjhjwcZEgmXj8t/oKvK33/+LQwqVc/ESBrOEd2D+Y7PpDk23GmHo1L/cNdPROnnQRMiBx5T5idSQx4HtG5vEfGPBDIpiBlMggL3pf662ReXgvKcApwsbHwcDsoiVSpg2wvpMrH4ZJvII+dbOISyBiTKUN8SjxTtFTgHuMOCRyFu94=;ebbas4JZZClsmTJ1c1j/vg=="
 ---
 

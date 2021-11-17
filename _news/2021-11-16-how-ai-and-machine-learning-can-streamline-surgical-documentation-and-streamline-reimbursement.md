@@ -35,6 +35,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "DOD organizations plot implementation of ethical AI in new guidance"
+    excerpt: "The Defense Innovation Unit issued the first detailed AI ethics guidance from DOD, but it only applies to DIU contractors."
+    publishedDateTime: 2021-11-17T20:06:00Z
+    webUrl: "https://www.fedscoop.com/diu-ai-ethics-guidance-for-contractors/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 54
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+        width: 629
+        height: 607
+        isCached: true
 
 secured: "i/TBz6zdfDknFy7gOCnrCIxMUO5kf+9tzuDEctXdxVitrWiEv4jDmzvXfmw1Lo27SxK/5BXj8LFezc9mmNOnwLD4tk6wMD4T/UepZYXpTxbv015Q0VCfRR+yfTFgs/R/MmEHZ89PT2J724M+THQO5dFQuzGXJgNhN0G8y2CEcexhW7OeVlOr3/qKdy3xLiKMp+CKPJPrUPq28fgIxVNnc90I/ac41R86DcoY9Egt7vZMMvZeCj7PeB2WvA7kWcwSsOTMHAUJbgpjTAwBVurLFHmCRE5WN7qm8ThVY7LJsAjNFYmJ/+a4LHJu04zVOBQ3vNLyjcFHZmoQqNOYndbztMWiXyOm6gTFyBbDKb06bJU=;mhVkbEHbaqYP93LD0o9vGQ=="
 ---

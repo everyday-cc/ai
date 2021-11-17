@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "How Self-Service AI Data Labeling Platforms Support Business Transformation"
+    excerpt: "A self-service data labeling platform should provide both data collection and curation. Here is how that can help transform your business."
+    publishedDateTime: 2021-11-17T19:13:00Z
+    webUrl: "https://www.itbusinessedge.com/applications/how-self-service-ai-data-labeling-platforms-support-business-transformation/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 35
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/11/How-Self-Service-AI-Data-Labeling-Platforms-Support-Business-Transformation.png"
+        width: 1280
+        height: 788
+        isCached: true
 
 secured: "VGO0VlBKQg+ChjQO1x3D9WNxqGSOLA3zqPNVQvo8KxMiMa7+GLDpd0KjPH4IZPU3ER0ljr5Xs3/mxwDJ/bNSpkn+3f1ZT/qHJa1biYmh4ygnnuciNBEzrJB//93cc9qcUl35SHsj64nsIHu/DE++1eJ5WADVyP5ZVxNNKjGtdbkrEDZ9H6uur857UTu/Qd24G7Cnds864luNa2t3hCbhMmhxPQb/tYyMAK71UiJiCwOFTlwUvpr2YnfSko9UoqDfPtbupSPuvsY4rR4T/dKYbFMr5L5Qv85EimT8p/V8zwj0iWnwJO2JzzAtNqLuttxsTzh6XRQLYu0TRw+lHtppjHQfHQNCtI0MS7mrWqcEbyS8C70EIaB/fPrrE8l1geWAgQEML6T/QKavnZ+skVkGvqrIIWuWz1UxCTJbVxgXGLEQJuIRey8kMu8q9C/Z7lZ2wFHfB2TuKQTUeWSsskquWCNbjuy1LRpWFIzEqPBRe6miZT8Hj6utVbN+m5ru+5TzggC0tJw6rfftXSS1pTTM4w==;Q++8B4zI2It8lqmfTCMqpQ=="
 ---

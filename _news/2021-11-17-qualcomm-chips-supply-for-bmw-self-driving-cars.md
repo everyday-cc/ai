@@ -115,6 +115,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "BMW to use Qualcomm chips for self-driving tech"
+    excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."
+    publishedDateTime: 2021-11-16T12:54:00Z
+    webUrl: "https://europe.autonews.com/suppliers/bmw-use-qualcomm-chips-self-driving-tech"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/P90423571_highRes_bmw-ix-advanced-driv%20%281%29.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "BMW is turning to Qualcomm to supply chips for the automaker's self-driving cars"
     excerpt: "Qualcomm Inc said BMW will use its chips in its next-generation driver-assistance and self-driving systems. San Diego-based Qualcomm is the world's biggest supplier of chips for mobile phones but has been diversifying its business."
     publishedDateTime: 2021-11-16T12:43:00Z

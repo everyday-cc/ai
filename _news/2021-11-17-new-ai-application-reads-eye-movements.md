@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20211116/New-AI-application-re
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: News Medical
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "DOD organizations plot implementation of ethical AI in new guidance"
+    excerpt: "The Defense Innovation Unit issued the first detailed AI ethics guidance from DOD, but it only applies to DIU contractors."
+    publishedDateTime: 2021-11-17T20:06:00Z
+    webUrl: "https://www.fedscoop.com/diu-ai-ethics-guidance-for-contractors/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 54
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+        width: 629
+        height: 607
+        isCached: true
   - title: "How AI and machine learning can streamline surgical documentation and streamline reimbursement"
     excerpt: "During a recent session in The Business & Operations of ASCs conference hosted by Becker's ASC Review, Lucian Newman III, MD, chief medical information officer of Nuance Communications, and Tanya Fengel,"
     publishedDateTime: 2021-11-16T07:34:00Z

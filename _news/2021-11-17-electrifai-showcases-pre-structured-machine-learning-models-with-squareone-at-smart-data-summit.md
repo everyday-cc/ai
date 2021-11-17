@@ -28,8 +28,8 @@ images:
 related:
   - title: "ElectrifAi Showcases Pre-Structured Machine Learning Models with SquareOne at Smart Data Summit"
     excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-    publishedDateTime: 2021-11-17T16:36:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-showcases-pre-structured-machine-learning-models-with-squareone-at-smart-data-summit-878432173.html"
+    publishedDateTime: 2021-11-17T20:36:00Z
+    webUrl: "https://www.prnewswire.com/ae/news-releases/electrifai-showcases-pre-structured-machine-learning-models-with-squareone-at-smart-data-summit-878432173.html"
     type: article
     provider:
       name: PR Newswire

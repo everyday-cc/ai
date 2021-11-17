@@ -55,6 +55,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Informatica and Microsoft unveil program to launch Modern Cloud Analytics on Microsoft Azure"
+    excerpt: "The new offering from Informatica and Microsoft provides customers with automated migration, and financial incentives for Azure modernisation."
+    publishedDateTime: 2021-11-17T09:35:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/nov/17/informatica-and-microsoft-unveil-program-to-launch-modern-cloud-analytics-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 43
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/11/adeolu-eletu-unRkg2jH1j0-unsplash.jpg"
+        width: 1920
+        height: 1272
+        isCached: true
 
 secured: "hiOn+lHI1DAFS23akZV/qPgFgq8qOEu8f/F9AoqILMACmNAD0TzLixT8c7ChYLhvcXfOMT54G7RUbgR12zcQmFnDv9ooc6JlS4DBjZUWtBwbH8dhKZ4DzCsaMX7ppHEX2M7C/U+PUl+b/cRuCRvtiDT5R/cybtxrYxqt6OHOEg6tAa2p243YBijB21+L6PIefJ9GT6qPiz49QHCkBJPUXUCY9YmFQvcp2IGvBw5JA6JHgiTuheoCv01/ewPmkBBsizhV2gsKoiqmPI+EALLLj15jsp5q4KK8dH4ORz3p10CSbFh+p/1eF/JFYBYHJMVwsGiNWkTJ2gaGFGZMu11CXQ9oO4pqzEzCfrvL9Vs7r2w=;9nZW3NP8rWqsXzrQHmGhKw=="
 ---

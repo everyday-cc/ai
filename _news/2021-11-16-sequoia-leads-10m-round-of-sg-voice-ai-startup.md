@@ -2,9 +2,9 @@
 category: news
 title: "Sequoia leads $10m round of SG voice AI startup"
 excerpt: "AI Rudder, a voice-focused AI startup based in Singapore, has raised US$10 million in a series A funding round co-led by Sequoia Capital India and Sequoia China Seed Fund. The round also saw participation from existing investors ZhenFund,"
-publishedDateTime: 2021-11-16T07:10:00Z
-originalUrl: "https://www.techinasia.com/sequoia-leads-10m-sg-voice-ai-startup?comments=true"
-webUrl: "https://www.techinasia.com/sequoia-leads-10m-sg-voice-ai-startup?comments=true"
+publishedDateTime: 2021-11-16T08:25:00Z
+originalUrl: "https://www.techinasia.com/jdcom-sea-president-joins-sg-cloud-kitchen-startup/next"
+webUrl: "https://www.techinasia.com/jdcom-sea-president-joins-sg-cloud-kitchen-startup/next"
 type: article
 quality: 47
 heat: 47
@@ -37,6 +37,6 @@ related:
         height: 551
         isCached: true
 
-secured: "jkMzkQyczEA9edNcutZA80HMPZPxJThrSXO3VIE0lG2/JL+75VQ1WjbZlVg9uMAL02EuwNk9fGY/3mCNtn+UwcpbmO3XzrzO8HsubFOeVWU+VgZaQRR5zFENsJ72PynxO9JDmVaZOV4eexA05JFn+tJlqSQn1Vby5tsKrTqDZgIcOJ/1ceVUXSs0dyIReP0dd3UqUTjFGWAWofObUkP5wN1suUFWtgFPCenxuMgcNWTt9Vd21e3ibXv2gePkUZMn/tX7jP5gsU7TOy7hCZwmSL3cRdmq+R+oXLyT/yQArCdpwLfLcYqUjpPOSdLkkAAGcRID1rxZYS/NasSdB68JD4Q8AFC1DqTJIS13S2ayFIulxryAUZaPqa+9DCXomRnNgh2xpUBe2YgBNw9bxUd7/RHo07tWKqRgHo0KNe3JhOYpEZsYMDRuCDFLgIP++did6eh9JfSaVAJZcEfQ2Lwl6BE//IbY4sb1Cg3YJbxPcrjBnozCq1n3mJsI7TPe7A8spLhnkh2SdkVeOKLaO5QYEw==;ME6pwY9a1H+aSQpkZ2ssug=="
+secured: "tdRVkv2mGwr5ySKYcutn5Ff6s0MX10fMVGWAymR0lyYnxNjFY0ds++/BBhzVpa2mG1sYY+DYBqOLY146mgbG9eFmAlfvekNRCOxF8cn/lqGrkF+Iplj3CyIhK+zOLt7/uRL7H1603ZaqMVFKzCWxI8QQi2Jh0Y4ZKKI0WwZhSDw9VT+Aif86fxw8vIFz7GYnOfY+aamxncJvSqGQ8TyL4YGOP5jrJ/leHsITv+aCyCLmKCRP0pwd6s0J5TJ7gqRZfOlWo+PTnmo/uOtOwUoZbv4qT1ivXd+MI4Be1aPDUoyF1y+ShQZdwPI941milvXSmqP2gNZfKTnaB6gsgNlaBFoqoNp5pewN5Xw+9de113OfzZVOk7hjEndOxMXgjVfOyGiWCM6whtebw2GxLeWAtU3+I5qfN3wBcj4E8hVmb2mRFH2/oVPUtyll7gPcGamYdP+rSiiFIm/pRvUHh8YlnpsA0O3mUXFBvR1g9G9AMS1ZQO7d85ms3AJIRvFeET32GlIb1DWs2JB8GDMY0D0xYw==;fajYj8az+UtU3EfAyNITJQ=="
 ---
 

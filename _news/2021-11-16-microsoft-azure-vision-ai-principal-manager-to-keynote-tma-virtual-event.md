@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft open-sources SynapseML for developing AI pipelines"
+    excerpt: "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines."
+    publishedDateTime: 2021-11-17T20:50:00Z
+    webUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/"
+    ampWebUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
+        width: 1200
+        height: 593
+        isCached: true
   - title: "Microsoft Teams: If your video meeting is laggy, our AI might be able to help"
     excerpt: "Microsoft details how its artificial intelligence allows for better video meetings, even on bandwidth-constrained networks."
     publishedDateTime: 2021-11-15T12:52:00Z
@@ -41,6 +57,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/e683aa03ba74a7aeb58f9976bd08489e193044fa/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Azure OpenAI, A New Microsoft Service, Allows GPT-3 Access"
+    excerpt: "OpenAI's machine learning models are now available on Microsoft's Azure platform thanks to a new service called the Azure OpenAI Service."
+    publishedDateTime: 2021-11-15T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/azure-openai-allows-gpt-3-access/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Azure-OpenAI-A-New-Microsoft-Service-Allows-GPT-3-Access.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "h6KEx+TSYYhNtyRSbL5l9J5zXYT09w6Srmuz2VXy9nWZrPPz7qumN7FlQwGUzLyKErH/wvTvnrzMYdGIlspxWUzqu4ljUrd9qjxIfyb5xkODLJhsxjhL2YrI86sUNlIYede3OQ4bYfqZ/QXK5vz3XwUAZue7MOrFqPTTgBYGO49kukHo5SS7u+MYOGgm3HSBCBOtb8MToKJFs5mE8tji/VFqO+3JjaFBlvGKcFq521+nefxslVlka2iaL+oNbH21lzCCyEjVagieIvaKzoCzuh//P6zNITFDGrtn5pDmqwN1dxaDczW2beB4yu1hbspHWgzjrdzcDZkbLrKdlDBt0hLvX2PO3CVHXC3/2RgEobc=;D5Z2qjJl6PLtwxgKpTI3Xg=="

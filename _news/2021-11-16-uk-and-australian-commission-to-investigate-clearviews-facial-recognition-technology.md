@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Australia Objects to 7-Eleven’s In-Store Use of Facial Recognition Technology"
+    excerpt: "The Office of the Australian Information Commissioner issued a determination earlier this fall about 7-Eleven’s use of “faceprints.” The OAIC found the convenience store im"
+    publishedDateTime: 2021-11-17T20:48:00Z
+    webUrl: "https://www.natlawreview.com/article/australia-objects-to-7-eleven-s-store-use-facial-recognition-technology"
+    ampWebUrl: "https://www.natlawreview.com/article/australia-objects-to-7-eleven-s-store-use-facial-recognition-technology?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/australia-objects-to-7-eleven-s-store-use-facial-recognition-technology?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 56
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Oosto endorses the Australian Government's decision to delete pictures scraped from the net for facial recognition app"
     excerpt: "As a vendor of AI based facial recognition products for private companies and government agencies it is important for me to emphasise - facial recognition apps should be"
     publishedDateTime: 2021-11-15T10:50:00Z

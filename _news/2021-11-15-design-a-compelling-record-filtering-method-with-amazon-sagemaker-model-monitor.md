@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/design-a-compelling-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/design-a-compelling-record-filtering-method-with-amazon-sagemaker-model-monitor/"
 type: article
 quality: 85
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bigger Opportunities on Self-Reconfiguring Modular Robot Market Historical Data and New Trend Analysis 2021 to 2027"
-    excerpt: "Self Reconfiguring Modular Robot Market Perspective 2021 Modular self reconfigurable robotic systems are responsible for designing controlling fabricating and motion planning of kinematic machines by using variable morphology The market for self reconfiguring modular robots in the Asia Pacific is"
-    publishedDateTime: 2021-11-15T12:59:00Z
-    webUrl: "https://www.openpr.com/news/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
-    ampWebUrl: "https://www.openpr.com/amp/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
+  - title: "Use Amazon SageMaker ACK Operators to train and deploy machine learning models"
+    excerpt: "AWS recently released the new Amazon SageMaker Operators for Kubernetes using the AWS Controllers for Kubernetes (ACK). ACK is a framework for building Kubernetes custom controllers, where each controller communicates with an AWS service API. These controllers allow Kubernetes users to provision AWS"
+    publishedDateTime: 2021-11-17T19:43:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 117
     images:
-      - url: "https://cdn.openpr.com/U/b/Ub15187274_g.jpg"
-        width: 640
-        height: 360
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/13/4371-Architecture.jpg"
+        width: 801
+        height: 474
         isCached: true
 
 secured: "a9S+9Eoi48cOEMBDcMRiHmDhUof3gr+P5SSRXcEKi+8yOCO9ZcQ+ZloD+0kGYtqBNJDhucFAseXdi1BXK6ty2oNRjwJ3V0em6V9GuW3WyuFYLqT9VeZ27rBp5/JWcgVLPgu5jY70DPm38y70gFHGV0F23WF54pV2soQlpC/JnpKLnRDMk2ndLno2/xo7qbtjXDjCdVB0qm5R7OTjH54+2jgem+zBLsJy/jp8AJGk4NaPwva0aAmwmsaTRMTE+r9sAuWmD/QJNifoNBOC2sFdugFbiTMxPUao5FOuog/z1L7UpRXd5NQsgGdlB87hTArAdu0hD4gNgbllK3bl2b/5tMH9BWmrkMZVtt1PXhJq0Rc=;JemP8U2SGC77t/0yNuHcng=="

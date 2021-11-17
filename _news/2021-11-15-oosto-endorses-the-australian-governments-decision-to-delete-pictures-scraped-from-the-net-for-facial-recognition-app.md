@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/oosto-endorses-australian-go
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/oosto-endorses-australian-government-decision-delete-co-1536229326-ga-co-1602588840-ga.1636962489.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Australia Objects to 7-Eleven’s In-Store Use of Facial Recognition Technology"
+    excerpt: "The Office of the Australian Information Commissioner issued a determination earlier this fall about 7-Eleven’s use of “faceprints.” The OAIC found the convenience store im"
+    publishedDateTime: 2021-11-17T20:48:00Z
+    webUrl: "https://www.natlawreview.com/article/australia-objects-to-7-eleven-s-store-use-facial-recognition-technology"
+    ampWebUrl: "https://www.natlawreview.com/article/australia-objects-to-7-eleven-s-store-use-facial-recognition-technology?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/australia-objects-to-7-eleven-s-store-use-facial-recognition-technology?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 56
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "No facial recognition for South Australia Police on planned CCTV network until law updated"
     excerpt: "Procurement is underway for a related biometric surveillance system that will incorporate object tracking, facial and number plate recognition."
     publishedDateTime: 2021-11-14T23:09:00Z
