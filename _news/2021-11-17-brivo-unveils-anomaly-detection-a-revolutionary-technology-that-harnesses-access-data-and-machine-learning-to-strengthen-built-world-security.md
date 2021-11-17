@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-b
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-b06cd4146271a7e88559fa81e6c86794"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "Patriot One Technologies Introduces Facility Insights, Enabling Venue Operators to Make Data-Driven Decisions with Actionable Intelligence"
-    excerpt: "Patriot One Technologies Inc. (\"Patriot One\" or the \"Company\") today announced a new set of solutions and capabilities built on its artificial intelligence (AI)-powered Platform, which will give security venue operators a new way to"
-    publishedDateTime: 2021-11-17T13:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-20109600.html"
+  - title: "TOMRA unveils deep learning technology for sorting wood"
+    excerpt: "TOMRA has announced that it will be implementing deep learning technology in its wood recycling operations in order to distinguish between different types of material. The recycling company claims that the use of artificial intelligence will ‘boost yield and purity’ across its activity,"
+    publishedDateTime: 2021-11-17T16:45:00Z
+    webUrl: "https://resource.co/article/tomra-unveils-deep-learning-technology-sorting-wood"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 0
+      name: Resource
+      domain: resource.co
+    quality: 39
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://resource.co/sites/default/files/article_teaser_image/TOMRA_AUTOSORT%20and%20GAIN%20processing%20wood.jpeg"
+        width: 4058
+        height: 2710
+        isCached: true
+  - title: "Tomra targets wood recycling with artificial intelligence"
+    excerpt: "The Tomra Recycling business unit of Norway-based Tomra Group says it has strengthened its offering for the global wood recycling sector by becoming “the first in the world to use deep learning, a subset of artificial intelligence (AI),"
+    publishedDateTime: 2021-11-15T10:23:00Z
+    webUrl: "https://www.woodworkingnetwork.com/news/woodworking-industry-news/tomra-targets-wood-recycling-artificial-intelligence"
+    type: article
+    provider:
+      name: Woodworking Network
+      domain: woodworkingnetwork.com
+    quality: 37
+    images:
+      - url: "https://www.woodworkingnetwork.com/sites/default/files/2021-11/tomrawoodseparationweb.jpg"
+        width: 736
+        height: 414
+        isCached: true
+  - title: "TOMRA Pioneers Use of Deep Learning Technology in Wood Recycling Applications"
+    excerpt: "Sensor-based sorting specialist, TOMRA Recycling, has further strengthened its offering for the global wood recycling sector by using deep learning, a subset of artificial intelligence, in wood recycling applications."
+    publishedDateTime: 2021-11-15T17:19:00Z
+    webUrl: "https://www.constructionequipmentguide.com/tomra-pioneers-use-of-deep-learning-technology-in-wood-recycling-applications/54428"
+    type: article
+    provider:
+      name: Construction
+      domain: constructionequipmentguide.com
+    quality: 36
+    images:
+      - url: "https://dmt55mxnkgbz2.cloudfront.net/900x0_s3-54428-MNSW-RE-TOMRA-SORT-1.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "TOMRA Uses Deep Learning Technology to Distinguish Between Different Types of Wood-Based Materials"
+    excerpt: "The primary application for TOMRA Recycling’s new solution is sorting Wood A – non-processed wood – from Wood B."
+    publishedDateTime: 2021-11-16T13:31:00Z
+    webUrl: "https://www.waste360.com/recycling/tomra-uses-deep-learning-technology-distinguish-between-different-types-wood-based"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 25
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/tomrawood.png"
+        width: 1540
+        height: 800
         isCached: true
 
 secured: "iS9l6KMTOME06bQ4YA3va2c8MfUqqPRWRYgaqf98Ub05Hs3iGuXC3vBWumMfHYrSOAkUgB//j6Czal80JHjYbLbxr3eCHJ5XP6c2LoBJ+chhI555iM/JKDPOAEcDv/vvTISkvzdaaxvomXdaxRWvoLStALlcIWDut6lljTUCzpmxRCuhDkDCmXdGSuCZahSuWLvQfxzjCXBbwZ/YVnrpcy69BcpyxgpmKXxyPcCiwYfUpBMPw+cQ5VnsjnsaUO0QsfYKgLAvYcHqaoZmxZSGWlwto4Z4XdTZ4lXGCt4ChVpXrEYSMIVS0NrNXp5Td7J286hFkCk9rGMNozT+FQS0604Pivt3FSm+mAE4NuTPu7k=;92OQkemK24qduWrMUsjA+g=="

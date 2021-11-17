@@ -38,20 +38,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "TOMRA Pioneers Use of Deep Learning Technology in Wood Recycling Applications"
-    excerpt: "Sensor-based sorting specialist, TOMRA Recycling, has further strengthened its offering for the global wood recycling sector by using deep learning, a subset of artificial intelligence, in wood recycling applications."
-    publishedDateTime: 2021-11-15T17:19:00Z
-    webUrl: "https://www.constructionequipmentguide.com/tomra-pioneers-use-of-deep-learning-technology-in-wood-recycling-applications/54428"
-    type: article
-    provider:
-      name: Construction
-      domain: constructionequipmentguide.com
-    quality: 36
-    images:
-      - url: "https://dmt55mxnkgbz2.cloudfront.net/900x0_s3-54428-MNSW-RE-TOMRA-SORT-1.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "To innovate in population health, start with the basics"
     excerpt: "To succeed in population health, companies must first consider the basics, such as wrangling patient data and making sure it matches up. Panelists at INVEST Pop Health spoke about the challenges of taking this information and translating it into meaningful health outcomes."
     publishedDateTime: 2021-11-16T01:10:00Z

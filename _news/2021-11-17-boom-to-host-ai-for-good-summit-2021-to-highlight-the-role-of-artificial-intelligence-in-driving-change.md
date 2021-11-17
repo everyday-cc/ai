@@ -23,6 +23,22 @@ images:
     height: 283
     isCached: true
 
+related:
+  - title: "BOOM To Host 'AI For Good Summit 2021' To Highlight The Role Of Artificial Intelligence In Driving Change"
+    excerpt: "BOOM, India's premier verification platform, will launch its maiden virtual event 'AI for Good Summit 2021' focusing on the use and impact"
+    publishedDateTime: 2021-11-17T18:55:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/boom-to-host-ai-for-good-summit-2021-to-highlight-the-role-of-artificial-intelligence-in-driving-change-885728321.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1690701/AI_for_GOOD_Summit_2021_Event_Creative_Final.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+
 secured: "f0NRORsObpVYk4lpNR4No5l3gey1t0n5CDTO3/1mTpXI2SX3qmscB9QyYNb4swCypn95vko60l13YcsUswfbWdh3Mi1YlofeBUhPS73UGOHLaEuRCc7fb0vjcwi9alL+Lb40gcFJhk2wj144/j02Yo3rNh2+yzLlrwxdFCwkIpSb1XwIaz/5DASbCRkshIu4XEhMBADjII91p3L3I5123B3bh16daLRVcEGqO9d8GSNeglNR9bMING1IQ1jSa8470YEaYD9DeP8R6s13dRE/nxhUWIR1roBXZ/tlBNrv89K0kG+D+2mARZNyVPkzxws3/jW+sqlUDdW9+RS6y5HZXpzi9q5ITFXRPHhAD9yHWB1jWcMKEmgQLFtVOug4e+eZP5Klt+twS14lRfppaZllYeiZHnK7Hkr1ikwoDJBixQG4gzMxbtkXB46Nu0RWQl2B1llAE0L8vXj0PiPnX7a5sDfRexj4sg1Q27lQyEmo95MSGk8W0lpdw9Uw37nrMj2hPt3mD0D5EKFldO7lyUxuAg==;08cujFi1hB+BKaKyBzXSZw=="
 ---
 

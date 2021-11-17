@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-18-tesla-tsla-secures-new-197-mwh-megapack-order-to-go-on-its-autobidder-ai-platform.md",
+      "title": "Tesla (TSLA) secures new 197 MWh Megapack order to go on its Autobidder AI platform",
+      "excerpt": "Tesla (TSLA) has secured a new Megapack order for 197 MWh of capacity to deploy in the UK and use its Autobidder AI platform. Megapack has quickly emerged as the leading battery system for large utility-scale energy storage systems.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
+      "originalUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-new-megapack-project-uk-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
+      "publishedDateTime": "2021-11-17T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment.md",
+      "title": "Coros raises $6.1M to bring computer vision to e-commerce parcel fulfillment",
+      "excerpt": "Coros, a real-time visibility provider for e-commerce and parcel fulfillment, announced Wednesday that it has raised a $6.1 million seed round of venture capital funding led by Dynamo Ventures. Susa Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment",
+      "originalUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/11/Leadership-Team-1200x799.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment/amp",
+      "publishedDateTime": "2021-11-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug.md",
+      "title": "From Emergencies To Moonshots, Can AI Help Find The Next Blockbuster Drug?",
+      "excerpt": "Deep-learning technology allows Toronto-based biotech firm Cyclica to help researchers, companies and governments do drug discovery in record time—including in the COVID-19 crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/11/17/from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/11/17/from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618f00844dbd149e7c93c0c6%2F0x0.jpg%3FcropX1%3D91%26cropX2%3D5026%26cropY1%3D0%26cropY2%3D2776",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/11/17/from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/11/17/from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug/amp/",
+      "publishedDateTime": "2021-11-17T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-googles-project-relate-app-promises-to-help-improve-communication-for-people-with-speech-impairments.md",
+      "title": "Google’s Project Relate App Promises To Help Improve Communication For People With Speech Impairments",
+      "excerpt": "In a blog post published last week, Google AI product manager Julie Cattiau announced one of the company’s latest efforts to come out of its “Inventors at Google” initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/17/googles-project-relate-app-promises--to-help-improve-communication-for--people-with-speech-impairments/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/17/googles-project-relate-app-promises--to-help-improve-communication-for--people-with-speech-impairments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619535fb42da267084b17a66%2F0x0.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/17/googles-project-relate-app-promises--to-help-improve-communication-for--people-with-speech-impairments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/11/17/googles-project-relate-app-promises--to-help-improve-communication-for--people-with-speech-impairments/amp/",
+      "publishedDateTime": "2021-11-17T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-aws-makes-ai-and-machine-learning-tangible-with-first-major-art-debut-at-smithsonian.md",
       "title": "AWS makes AI and machine learning tangible with first major art debut at Smithsonian",
       "excerpt": "It would then use AI and machine learning developed by Swami Sivasubramanian (left), vice president of Amazon Machine Learning at AWS, and his team, to detect the word for the future and determine its sentiment.",
@@ -503,6 +701,57 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-artificial-intelligence-plan-to-reduce-harm-to-pregnant-black-women.md",
+      "title": "Artificial Intelligence plan to reduce harm to pregnant black women",
+      "excerpt": "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-leicestershire-59306908",
+      "originalUrl": "https://www.bbc.com/news/uk-england-leicestershire-59306908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/69FC/production/_121523172_gettyimages-79670619.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-leicestershire-59306908.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-leicestershire-59306908.amp",
+      "publishedDateTime": "2021-11-17T02:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19.md",
       "title": "AI predicts which mammals are most likely to spread covid-19",
       "excerpt": "Water buffalo, Sunda pangolins and mink are among the 540 mammals predicted to be likely to spread the coronavirus based on their biology and where they live",
@@ -716,7 +965,7 @@
       "originalUrl": "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -768,7 +1017,7 @@
       "originalUrl": "https://menafn.com/1103186498/Artificial-Intelligence-AI-Market-Next-Big-Thing-Major-Giants-IBM-Microsoft-Hanson-Robotics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -928,260 +1177,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year.md",
-      "title": "Darktrace aims to expand into ‘proactive’ security AI by end of year",
-      "excerpt": "Darktrace, a provider of security powered by artificial intelligence, says it plans to expand into AI-based attack prevention by year's end.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/darktrace.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/amp/",
-      "publishedDateTime": "2021-11-16T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-postprocessing-with-amazon-textract-multi-page-table-handling.md",
-      "title": "Postprocessing with Amazon Textract: Multi-page table handling",
-      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts printed text, handwriting, and other data from scanned documents that goes beyond simple optical character recognition (OCR) to identify and extract data from forms and tables. Currently, thousands of customers are using Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/postprocessing-with-amazon-textract-multi-page-table-handling/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/postprocessing-with-amazon-textract-multi-page-table-handling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/16/3-3668-Table2_new.jpg",
-          "width": 800,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T16:56:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-machine-learning-inference-at-scale-using-aws-serverless.md",
-      "title": "Machine learning inference at scale using AWS serverless",
-      "excerpt": "With the growing adoption of Machine Learning (ML) across industries, there is an increasing demand for faster and easier ways to run ML inference at scale. ML use cases, such as manufacturing defect detection, demand forecasting, fraud surveillance, and many others, involve tens or thousands of datasets,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-scale-using-aws-serverless/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-scale-using-aws-serverless/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/12/Picture1-1000x500-1.png",
-          "width": 1024,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T15:40:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-google-developer-knocks-future-of-voice-search-despite-major-ai-advances.md",
-      "title": "Google Developer Knocks Future of Voice Search Despite Major AI Advances",
-      "excerpt": "A top Google software engineer is causing some controversy — and possibly dropping hints — by downplaying the future of voice-enabled search.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/google-developer-knocks-future-of-voice-search-despite-major-ai-advances/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/google-developer-knocks-future-of-voice-search-despite-major-ai-advances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/Google-Voice-Search-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/google-developer-knocks-future-of-voice-search-despite-major-ai-advances/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/google-developer-knocks-future-of-voice-search-despite-major-ai-advances/amp/",
-      "publishedDateTime": "2021-11-16T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion.md",
-      "title": "As cloud threats inundate businesses, Cado Security aims for rapid expansion",
-      "excerpt": "Cado Security reports big demand for its cloud-native digital forensics platform, supporting cloud security investigations for AWS and Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/cloud_security-shutterstock_new.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/amp/",
-      "publishedDateTime": "2021-11-16T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

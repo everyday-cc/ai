@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "CyberLink’s face biometrics solution passes iBeta ISO liveness detection test"
-    excerpt: "FaceMe obtained a perfect score in an iBeta Quality Assurance liveness detection test, confirming the solution is complaint with ISO/IEC 30107-3."
-    publishedDateTime: 2021-11-16T20:50:00Z
-    webUrl: "https://www.biometricupdate.com/202111/cyberlinks-face-biometrics-solution-passes-ibeta-iso-liveness-detection-test"
+  - title: "South Korean face biometrics data-sharing scandal gets worse"
+    excerpt: "Privacy advocates had already expressed their criticism towards the surveillance project, which now seems to have a scope wider than previously realized."
+    publishedDateTime: 2021-11-17T18:01:00Z
+    webUrl: "https://www.biometricupdate.com/202111/south-korean-face-biometrics-data-sharing-scandal-gets-worse"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 21
+    quality: 24
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
 
 secured: "apRyI+meRLte7J2dzndC02u+nacyGfDv+NXsypmvSUO2Q2U3xVb6TYUyBB0uWrqgAcdDEG5755EBYxtvzqA2RIJwxcaSVcAc2gHbgNPggNZRVKn9RjTWNT5GSr3Wt6kz3yE8PwwFjIkyU23GBdmD/2XNQllzCKg8GseJMllZzekgDp5irxGNN3PwmIcCIov1u/DQxbgbYrNSAthqkOzOtpPkOY0FiFlZ15ZRofSKaiKW07kJTxnqupGadu5ckItfK92LTNyCGRJIaJkKEe4p6Uqr0Plcnzk8s2jJQTwR6Mz5Qtr2ehjCIdFGAvhbCz1efMrN3YlnXoNQgZ0ukSG6Y/84OTqPWaFjoeQU8ChqrmM=;kCDouavUrJFbixc6lIi3kw=="

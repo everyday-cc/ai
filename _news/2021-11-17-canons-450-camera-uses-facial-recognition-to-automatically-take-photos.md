@@ -8,8 +8,8 @@ webUrl: "https://www.dailymail.co.uk/sciencetech/article-10212821/Canons-450-cam
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10212821/amp/Canons-450-camera-uses-facial-recognition-automatically-photos.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10212821/amp/Canons-450-camera-uses-facial-recognition-automatically-photos.html"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2021/11/17/16/50614429-0-image-a-14_1637165765360.jpg"
@@ -26,6 +27,6 @@ images:
     height: 382
     isCached: true
 
-secured: "m3t0BT1rvmbXw2AsGC7l8DJKqWCh2VhSVN+k0j+wTFqfiB7FW7iwjAcgu+lsOl6xE4Kkc9V+LztQzrdOTh9P53xS0mOZUIFu6dHlQ9MCiwjOcycax3FqnCUz2cOr6ZYTDIc5bkQ2OiU4kjqDvSQpY4E8uuCOCVoEehxq/qqXkXmsR2FQF1hrPN4pgCBluBmltQaBZXEopg+RyGB1hKGE2ZWdVyWgB38IOvf3aoNn+00NFq1XDdcBN9zfEz0emsSQVYVVXInarSWUQxBcUA0a8JP3PBS44HoKCTAQBay4wOwSifEyHV1N56Jdk22TARGv6rp+emNydVp/OAPnLv5PTxd/xSDCWCoCQBsfVVTpXv0=;1VmJ7uBKkTQUmiVxtH+reA=="
+secured: "6tV9E1IMdUkoY10idg2dR0weDgKMhAPJsK9mFj45W/6Ay/wSdnPdyNn17BDR5Av7VpbkAi0y+QDTHuONrzD8PeEldwGmZkenUi2hUjUqebUm6z1IAR+8tBGFtX5FRIdZoVtMHN+c4WqrkwZWtoZtQbvqacvU6E4N7s1M308x1A+u3ocb7vxt3dAc/b0c5GqkMl9eoO28uxlLAbLLb/s0CDI/BqZ09UknXFwVPZgXrSAhizPE0Vidb1jaHLYz4EjroyYVzcyA8dRPUNHqPh7iRK69jTgbjRMulZ1KvX4YvacWodY8QADyrw9XVSdSfdqqOxD4xaPcjvfP7f33Q4Y5b2Q1Yp/Cnmdnk2IuDH+hzS5Bxj06m5wkIZ89UZwRDGnskFLp5+NZyLeuPZ5ECgdtLey11o2vbd6SJ422zeVxR3UPl97B1icrH6rpmJeMhUg2jzthwdPUVvvkbY4Atm1VVYEW951pTZiGM6xOnvEvjCol6MEqCNcFkHB6dGjTzQky1fT8ltQCNV/+O5feP9EfyA==;eqq2N1qxCwMCXvLb1RQ1EQ=="
 ---
 

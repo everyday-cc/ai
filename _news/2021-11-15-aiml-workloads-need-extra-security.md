@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/ai-ml-workloads-need-extra-security/"
 webUrl: "https://semiengineering.com/ai-ml-workloads-need-extra-security/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

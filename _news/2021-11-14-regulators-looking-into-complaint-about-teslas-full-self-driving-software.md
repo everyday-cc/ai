@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna5537"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537"
 type: article
 quality: 101
-heat: 251
+heat: 231
 published: true
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's 'Full Self-Driving' Beta Appears to Have Caused Its First Major Crash"
-    excerpt: "An NHTSA complaint alleges a Telsa Model Y with FSD engaged was \"severely damaged\" after mistakenly turning into the wrong lane and colliding with another car."
-    publishedDateTime: 2021-11-13T02:13:00Z
-    webUrl: "https://gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965"
-    ampWebUrl: "https://gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/teslas-full-self-driving-beta-appears-to-have-caused-it-1848049965/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 86
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6decb14dfa7b5942403227b547acf989.jpg"
-        width: 800
-        height: 449
-        isCached: true
-  - title: "U.S. regulator reviewing Tesla owner complaint on self-driving test software"
-    excerpt: "The U.S. National Highway Traffic Safety Administration (NHTSA) said it is looking into a consumer report that a Tesla Model Y was involved in an accident while using the company's Full Self-Driving (FSD) Beta software."
-    publishedDateTime: 2021-11-13T01:45:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/us-safety-regulator-says-aware-tesla-owner-complaint-self-driving-test-software-2021-11-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 81
-    images:
-      - url: "https://www.reuters.com/resizer/LmLK9_BUSwhgIdkMy09mUROBc-s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DAI3EOCMDBICXCN7OJU566M3SE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla 'Full Self-Driving' safety complaint investigated by NHTSA"
     excerpt: "Driving” software, and the Tesla Model Y went into the wrong lane and was hit by another vehicle, according to a complaint filed by the driver with NHTSA."
     publishedDateTime: 2021-11-14T14:43:00Z

@@ -35,6 +35,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Comviva and Strands Partner to Provide Personal Finance Management Solution to Banks, digital wallet and payment service providers"
+    excerpt: "Comviva, one of the global leaders in providing digital financial solutions today announced a strategic partnership with Strands to provide"
+    publishedDateTime: 2021-11-17T18:50:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-826558184.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/995982/Comviva_Logo.jpg?p=facebook"
+        width: 1152
+        height: 603
+        isCached: true
   - title: "VoiceSage partners with Capital Platform to Provide Technology Services for their Platform for UK, European and International Clients."
     excerpt: "VoiceSage partners with Capital Platform to provide technology services for their platform for UK, European and International clients. With flagship sales in eight new countries, six global reseller partnerships,"
     publishedDateTime: 2021-11-17T16:28:00Z

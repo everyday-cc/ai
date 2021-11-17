@@ -7,7 +7,7 @@ originalUrl: "https://www.woodworkingnetwork.com/news/woodworking-industry-news/
 webUrl: "https://www.woodworkingnetwork.com/news/woodworking-industry-news/tomra-targets-wood-recycling-artificial-intelligence"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,64 @@ images:
     width: 736
     height: 414
     isCached: true
+
+related:
+  - title: "TOMRA unveils deep learning technology for sorting wood"
+    excerpt: "TOMRA has announced that it will be implementing deep learning technology in its wood recycling operations in order to distinguish between different types of material. The recycling company claims that the use of artificial intelligence will ‘boost yield and purity’ across its activity,"
+    publishedDateTime: 2021-11-17T16:45:00Z
+    webUrl: "https://resource.co/article/tomra-unveils-deep-learning-technology-sorting-wood"
+    type: article
+    provider:
+      name: Resource
+      domain: resource.co
+    quality: 39
+    images:
+      - url: "https://resource.co/sites/default/files/article_teaser_image/TOMRA_AUTOSORT%20and%20GAIN%20processing%20wood.jpeg"
+        width: 4058
+        height: 2710
+        isCached: true
+  - title: "TOMRA Pioneers Use of Deep Learning Technology in Wood Recycling Applications"
+    excerpt: "Sensor-based sorting specialist, TOMRA Recycling, has further strengthened its offering for the global wood recycling sector by using deep learning, a subset of artificial intelligence, in wood recycling applications."
+    publishedDateTime: 2021-11-15T17:19:00Z
+    webUrl: "https://www.constructionequipmentguide.com/tomra-pioneers-use-of-deep-learning-technology-in-wood-recycling-applications/54428"
+    type: article
+    provider:
+      name: Construction
+      domain: constructionequipmentguide.com
+    quality: 36
+    images:
+      - url: "https://dmt55mxnkgbz2.cloudfront.net/900x0_s3-54428-MNSW-RE-TOMRA-SORT-1.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "TOMRA Uses Deep Learning Technology to Distinguish Between Different Types of Wood-Based Materials"
+    excerpt: "The primary application for TOMRA Recycling’s new solution is sorting Wood A – non-processed wood – from Wood B."
+    publishedDateTime: 2021-11-16T13:31:00Z
+    webUrl: "https://www.waste360.com/recycling/tomra-uses-deep-learning-technology-distinguish-between-different-types-wood-based"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 25
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/tomrawood.png"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "Brivo Unveils Anomaly Detection, a Revolutionary Technology that Harnesses Access Data and Machine Learning to Strengthen Built World Security"
+    excerpt: "Brivo – a global leader in cloud-based access control and smart building technologies – today announced the release of Anomaly Detection in its flagship access control solution, Brivo Access. Anomaly Detection is a patent-pending technology that uses advanced analytics with machine learning algorithms to compare massive amounts of user and event data to identify events that are out of the ordinary or look suspicious,"
+    publishedDateTime: 2021-11-17T14:48:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-b06cd4146271a7e88559fa81e6c86794"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "0M86nZJf4F/+P/deNRw1DrdJ1qSlW8kWr++LoSY/U/enxFqJdVagOE6yZMnop0KnMDio6HZW+TKQXdySFngfUTe/AJQDt8u1nmw1VkNgKLY+hRE+tHh5B3phXwh+yaEmnRBraCIw21AMc6QaU8MD0kpU4l8DOGdzZRrNdweuBGus7XDuUP+NWOwhwqd1n70omZmlXdn0ZHYTuKFLwmHT8l26CInXat3n1foIQkSQGVO5rkKdUy80NBFMSDcDrYtBz2wog7VrT7rMoGdxsRbimiG8IGEu4kwu85jE35T3D0k/jYMt6kw5EX/i+ZuYWTVhu8mqg4C8c+BwXs2GkAD98gXIwLYwdaMkUshUI9hF9RAQMrnSq6ak9NgiywPBFOfmB7mXY+HeSgo24uaYP2hvD9N0c/IpnIHEdno5fTRcQ7V47/0BIgcMHrhdCxz7/HAtJk27w3pYAcz+fkpSJonVt0tgtHkzT+8TUwc7XX1ErWq+KXydATudqcedgAx1xqm5IwwN7Z8ROvqjrnQbKOQ/PA==;4VYSeOxcL5Cx1rmvpCCQaQ=="
 ---

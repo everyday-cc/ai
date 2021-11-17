@@ -25,62 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Space Robots Market Showing Immnese Growth due to the Dynamic Innovation in Technology and Latest Research Study"
-    excerpt: "Space Robots are capable of withstanding extreme space conditions and are particularly capable of performing activities such as assembling maintaining and repairing space satellites Furthermore emerging technologies such as deep learning DL and artificial intelligence AI are extensively being used"
-    publishedDateTime: 2021-11-15T11:15:00Z
-    webUrl: "https://www.openpr.com/news/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
-    ampWebUrl: "https://www.openpr.com/amp/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
+  - title: "TOMRA unveils deep learning technology for sorting wood"
+    excerpt: "TOMRA has announced that it will be implementing deep learning technology in its wood recycling operations in order to distinguish between different types of material. The recycling company claims that the use of artificial intelligence will ‘boost yield and purity’ across its activity,"
+    publishedDateTime: 2021-11-17T16:45:00Z
+    webUrl: "https://resource.co/article/tomra-unveils-deep-learning-technology-sorting-wood"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
+      name: Resource
+      domain: resource.co
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/b/Ub15665424_g.jpg"
-        width: 800
-        height: 420
+      - url: "https://resource.co/sites/default/files/article_teaser_image/TOMRA_AUTOSORT%20and%20GAIN%20processing%20wood.jpeg"
+        width: 4058
+        height: 2710
         isCached: true
-  - title: "Smart Factory Market - integration of technologies like the IoT, Machine Learning , and Artificial Intelligence"
-    excerpt: "Industrialization levels have increased exponentially across various regions over the years The rising industrial prospects attached with the technological developments across manufacturing facilities will help create a positive growth trajectory for the smart factory market during the assessment period of"
-    publishedDateTime: 2021-11-17T09:50:00Z
-    webUrl: "https://www.openpr.com/news/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
-    ampWebUrl: "https://www.openpr.com/amp/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
+  - title: "Tomra targets wood recycling with artificial intelligence"
+    excerpt: "The Tomra Recycling business unit of Norway-based Tomra Group says it has strengthened its offering for the global wood recycling sector by becoming “the first in the world to use deep learning, a subset of artificial intelligence (AI),"
+    publishedDateTime: 2021-11-15T10:23:00Z
+    webUrl: "https://www.woodworkingnetwork.com/news/woodworking-industry-news/tomra-targets-wood-recycling-artificial-intelligence"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
-  - title: "To innovate in population health, start with the basics"
-    excerpt: "To succeed in population health, companies must first consider the basics, such as wrangling patient data and making sure it matches up. Panelists at INVEST Pop Health spoke about the challenges of taking this information and translating it into meaningful health outcomes."
-    publishedDateTime: 2021-11-16T01:10:00Z
-    webUrl: "https://medcitynews.com/2021/11/to-innovate-in-population-health-start-with-the-basics/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 22
+      name: Woodworking Network
+      domain: woodworkingnetwork.com
+    quality: 37
     images:
-      - url: "https://medcitynews.com/uploads/2021/10/Lung-Cancer-300x225.jpg"
-        width: 300
-        height: 225
+      - url: "https://www.woodworkingnetwork.com/sites/default/files/2021-11/tomrawoodseparationweb.jpg"
+        width: 736
+        height: 414
         isCached: true
-  - title: "Adoption of Intelligence Technologies in Manufacturing Processes to Boost Expansion of Smart Factory Market, States TMR Study"
-    excerpt: "Many industry verticals such as mining, energy, petrochemicals, and manufacturing are inclining toward the use of intelligence technologies in their day-to-day activities. This factor has resulted into increasing the popularity of smart factories concept."
-    publishedDateTime: 2021-11-17T07:02:00Z
-    webUrl: "https://techbullion.com/adoption-of-intelligence-technologies-in-manufacturing-processes-to-boost-expansion-of-smart-factory-market-states-tmr-study/"
-    ampWebUrl: "https://techbullion.com/adoption-of-intelligence-technologies-in-manufacturing-processes-to-boost-expansion-of-smart-factory-market-states-tmr-study/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/adoption-of-intelligence-technologies-in-manufacturing-processes-to-boost-expansion-of-smart-factory-market-states-tmr-study/amp/"
+  - title: "TOMRA Uses Deep Learning Technology to Distinguish Between Different Types of Wood-Based Materials"
+    excerpt: "The primary application for TOMRA Recycling’s new solution is sorting Wood A – non-processed wood – from Wood B."
+    publishedDateTime: 2021-11-16T13:31:00Z
+    webUrl: "https://www.waste360.com/recycling/tomra-uses-deep-learning-technology-distinguish-between-different-types-wood-based"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 17
+      name: Waste360
+      domain: waste360.com
+    quality: 25
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/11/Smart-Factory-2.jpg"
-        width: 2516
-        height: 1667
+      - url: "https://www.waste360.com/sites/waste360.com/files/tomrawood.png"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "Brivo Unveils Anomaly Detection, a Revolutionary Technology that Harnesses Access Data and Machine Learning to Strengthen Built World Security"
+    excerpt: "Brivo – a global leader in cloud-based access control and smart building technologies – today announced the release of Anomaly Detection in its flagship access control solution, Brivo Access. Anomaly Detection is a patent-pending technology that uses advanced analytics with machine learning algorithms to compare massive amounts of user and event data to identify events that are out of the ordinary or look suspicious,"
+    publishedDateTime: 2021-11-17T14:48:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-b06cd4146271a7e88559fa81e6c86794"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "8BAZ3kK8WklJT018T1GxVu/oH35sFoX41ViEvTCX1i+d6LgKOfTF0RCdoUEPa0loJncDUe6pwddMuIgl9f2oJmXhTcnu2rZTiFQePi3249X0vY6gtQiuVD0eRyI5/TPHXLcPmUorECywKptfk/DR/2N3Nw+FHOeOVMIQWcBunVqdHsCf0Rv4BhI54fuOw5oxYzcfoRXKhlDMcz6OdVqsDqGEYmQniaCE5403Kz9gVu1h6Yw9JGat71LqkaBw4oHgodEe2keZg4YRgN/sCq4bWYFYi4cviZwiCxGxAMNhoUMj1P2WvtE82WQnn/lY6GiQs0+kQN8Z6IN8J/AsKQnZR4PBySHgJuFYon8H/D2oFvAQWks59ZTCROQisq5dXxOjO0su5RjPcloVoL8R7nVRxswkzytXhKyBWiCotS6HP13NdAH3ppz/8wddtkstfDiE4QSFgzOOTc+Ha90Jy5IvmGxU/CSQNqokcaNiYdbN7CqGn6tgPk+Bi3g1A9Fo2fmHV7jkEOBKXd4MIJBlluKYhQ==;5vSYClT1DXNzgVykBegcVg=="

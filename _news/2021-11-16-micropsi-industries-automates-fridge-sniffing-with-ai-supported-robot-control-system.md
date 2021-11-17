@@ -7,7 +7,7 @@ originalUrl: "https://www.roboticstomorrow.com/content.php?post=17791"
 webUrl: "https://www.roboticstomorrow.com/content.php?post=17791"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Micropsi Industries Automates 'Fridge Sniffing' with AI-Supported Robot Control System"
+    excerpt: "BSH Hausgeräte GmbH’s facility in Spain benefits from MIRAI’s ability to handle variances, optimize production processes and relieve human workers of highly complex tasks."
+    publishedDateTime: 2021-11-17T16:50:00Z
+    webUrl: "https://www.automation.com/en-us/products/november-2021/micropsi-industries-automates-fridge-sniffing-ai"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 46
+    images:
+      - url: "https://www.automation.com/getmedia/356bc541-d0cb-4c6b-b86d-7f4ef913403b/Fridge-sniffing-product-nov-17-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "SQBuMixC77mdsaDvfAx9P0Pzl5U8CACsG9bvTaw/BC+Gw5owlycYL5PQa1NE10F6o6cno4ov6suO31yU47bHTS7CXO63Rf5SpLbVZNS3MAf+LlMkxg4Svc+6Yl/BbJYbKE+o0a5h6BYD60psTYiZ4IQhbt32hGogQTGEWtP1bNR/aLpEZd1DJUvzLOtKR1tpVdQJ75q6+GYxhSp/ZAJj1IAgCVyrU3Ydvfvv6VZ7rGIiofoTxMpQdMFMeynxRPY41wgqxMxFLiHErND7JdAmzPgz+O8zXiwPCqFjKE+ZBgHgc6KocujzId9dTsmN/+BMZimMaZq6as0tvEa2+NI81BcmPLIA1gCR1ev2xU/d2zk=;fBAzd1p4/+k+XgXNqP7ltg=="
 ---
