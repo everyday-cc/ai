@@ -3,7 +3,7 @@ name: "Carol E. Reiley"
 bio: "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai."
 location: Los Altos, CA
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://t.co/wvvOUl1h5W
 
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Carol E. Reiley"
 
-secured: "q7MPzmtrb57rhD9sm8Z8dNu2mf1TJuoDWEobVqRJVWuXbpc2boP8ewoNv1kR9EP+gLm+vZG9KEObOspGoZu/IcgnoD9y80Hyrx/sSHxelwjPyazavoIvGkHEDP1HPn92gxRh7MocPEKqnVtu1bh+Ni+2uffeqSieD8W9Lo/4sY5Rh3rmWPDcdXAUrzK6myYArPXeJndOopU1R7c6pnbeui4zCyHjFHi7KkpGPKrnOyBp2GbOXx7KUaKoeBzqFxeslFjtQ0/EoSM2j1CUqpF5/5GSqgKqKBVWOC4bELnMm61EhmV0Tf/I8txx9Rvb7ybJ2f4zObubGKjd2XbeGc39vUY/vjvPRLmi8g4QgvBcgoDs5O02UCeFXsMcUGlHcDf825nFPtpz8FQ7vD617nCMkg06yrktvltO/I2y4NLzlKM=;OGUR62fIxwyXYeIBhQ0vkg=="
+secured: "ZHdyInYCIBcFyyeU84VH30LIPprLN3esbgfiZfhKLJhxV4G1HeK1nA1Ca2apIggCKefD4SncyWmfJXPmsxEgIC7S+jxXuuZmgMCusY+GemAkdls6lup11EbNm872P0UjjXwr3hI6wpRE9ljIH+2zaJk3yq8GyxSgldPzr3IcsaWmsZn8U80x+yFqmmUGgjZvei2bs9nPkEP96jnwOQZemfKGsaVLJsobS0LJW6OJXXWhquOQA2nEIoXwJF1E3/QBMzNHULB4BF/snmmj+0Yo/QrAuJE3ZSbxSIsnEPtUZOnYGlkgzYkAv+n1YZe/3+u3ChfIJIM9WRulUdIsEidT2H7paS6b8o3UyVdnLR30xB2aLMZyEft0+PdFhWQmYNztJo+q6axpY0lwlMCOEiEp+pMN2DhvdOPZaMQSiCt97E8=;zUd8ZqBKBAizgJ9CUSMv4A=="
 ---
 

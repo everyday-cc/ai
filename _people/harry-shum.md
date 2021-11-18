@@ -22,7 +22,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=9akH-n8AAAAJ
-  citations: 47760
+  citations: 47769
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Harry_Shum
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "Harry Shum"
 
-secured: "48N6wlNrEicVj+9TA8a398Z1WsNbZtf/OCUQxA62YUjxbsYa6W6h1DrP7RH7ZOT2CRqFdAfTM09BSaPP8Te6ele5qimhxQnUyeWHTqvc43WQH+aMiT5srxRIps3jEd+2dyb+gwwRdgXpdtcQJsCjNPLu+LXxvz5pJt0aTOrL/xUclDf7NdDKaksNYH8Pd07YMdCSgh+dWT87qveELMxf/qKvnGcWHXzhvGGSi7dJDZHKNXIGE4BRF4u4Dq6ehFhadQQ1h7EGdjH0+cF0NOds/z6r54Jse2DdhbjR0s06IO5a16sGCXERFq93RFQvholCCmixeqnaHtb3qIBZw7GwEchyMBcDHvGBUS4gFeDOLQNWdLtPqpeO+i+hVuak/hCtfx2R7JVbuerkPg7JR7pevtFotGbeYzeTzi8FKOsoP0Y=;ej2nkQL/1tX/Z4GEVEEDug=="
+secured: "B7c8WE11RljRSgnqDUZv1W8nGiqL7pL1BbN0LxcKhvA9uD5vcLZFeB6tqaHqp6Pid9XRPESKoJtU/Dxqh8YT+uh5+xhZ+0SXYiijsuXmDx9BjhKysE05yEV3cUsLKWClcS3E37Syky5/oIIACmcapO/4h2BntRz/j+nIVTT0CK0ErCxv7kbIv3gblTLaXxxv+Ja5f7tB8cMsRqOp6r4t16NB4hFPFCpCFZj1z+pPIMFcotlkD2nqNaq/6PheaPxVrRwqsIipvSaJkXgdqxsPMTYgqoG6VlkH8P/+j4ZWGSVa7tClOueAJfHIpCz7CTayFmZC0b9amA13MWN8YzgMzyhibK0xhBDWdwanfXZXuPNhuxSB3Z9QYGcaLfr8ATS+DLV/INg1h/XCKCLp8/B7m/jBgNYtWsKu5S1xWAt6N7Y=;U54Gy2BgMgFrPYaXPWwyEQ=="
 ---
 
