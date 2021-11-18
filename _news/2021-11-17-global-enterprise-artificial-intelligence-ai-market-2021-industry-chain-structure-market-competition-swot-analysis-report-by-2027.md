@@ -68,11 +68,25 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://cdn.openpr.com/U/b/Ub18726066_g.jpg"
         width: 800
         height: 428
+        isCached: true
+  - title: "AI Chips That Made It To The Market In 2021"
+    excerpt: "The success of any modern AI technique relies on computation, on a scale unimaginable even a few years ago. Therefore, more advanced chips and hardware are being developed and released to match the processing capabilities of complex neural networks."
+    publishedDateTime: 2021-11-18T12:00:00Z
+    webUrl: "https://analyticsindiamag.com/ai-chips-that-made-it-to-the-market-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Artificial intelligence and Advanced Machine Learning Market Size, Share, Trend and Forecast Till 2028"
     excerpt: "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2"

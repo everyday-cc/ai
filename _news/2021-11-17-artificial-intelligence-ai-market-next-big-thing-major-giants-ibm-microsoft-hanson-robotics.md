@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Market Next Big Thing | Major Giants IBM, Microsoft, Hanson Robotics"
-excerpt: "Market study describes how the technology industry is evolving and how major and emerging players in the indus"
-publishedDateTime: 2021-11-17T05:41:00Z
-originalUrl: "https://menafn.com/1103186498/Artificial-Intelligence-AI-Market-Next-Big-Thing-Major-Giants-IBM-Microsoft-Hanson-Robotics"
-webUrl: "https://menafn.com/1103186498/Artificial-Intelligence-AI-Market-Next-Big-Thing-Major-Giants-IBM-Microsoft-Hanson-Robotics"
+excerpt: "Market study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face. One major attraction about Artificial Intelligence (AI) Industry is its growth rate."
+publishedDateTime: 2021-11-17T03:33:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271743051/artificial-intelligence-ai-market-next-big-thing--major-giants-ibm-microsoft-hanson-robotics"
+webUrl: "https://www.bignewsnetwork.com/news/271743051/artificial-intelligence-ai-market-next-big-thing--major-giants-ibm-microsoft-hanson-robotics"
 type: article
-quality: 90
-heat: 110
+quality: 88
+heat: 108
 published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
   - Microsoft AI
-  - AI in Healthcare
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865329"
-    width: 342
-    height: 250
+  - url: "https://cdn.bignewsnetwork.com/cus1637035828257.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -58,6 +57,6 @@ related:
         height: 405
         isCached: true
 
-secured: "iMLCddZ9uHMp0yKTrbpQ/IcDBmFmQ8bsAaNWA2JCEb9GNZmvt+3eWlNB2YV/4LpLv+f6gU5Jkvd9qZNmis9DSkbKDoEDWSTx3Wym5DIuNlNV4Xz8UuF92RSX7yhjWfrXvgS890/yYrC5IzQvCDMjvnD52FnxBva1Y29aT4RPkn1ZMO+M0lhFANsBpIFDpXE6M3tUVWHkBNYPyBgyB1AgJukjidYuzDXEm4OUtxfxO4RoOX6Koiy0gxGLukmq3eXGx/gPGskQwiHfB7I5QmaeiTQqEuoy5NjPmzAypKDVDVqovpIc3LjabZI43+gqFOZdD+sJC/sktSr4LNEvbMcwriIomwMs49nFWh4v5nChQUU=;eBSbTDQ9Aw5qJtmtc/C+bw=="
+secured: "8lReRKkwSJi8HyhjXPULg2X+k7kcKSJoDDNpdAAYfNR0s90Yx40NXrT29ezz99SDkfTXN7GsLnWBzo0kC/Rp0eOB3KV/qS/OKTUwOkcYux+uKpRiZ3KB0303Ik1SdetBp7KnkPqY9Nv2CpBpJNzITbJXqaPYb0ERZF2TcEgsstLjlY4Y6rUisVcK2Z0Z1OEkA9GRtzVXJestVI+XpmSQvZpjZziY2fm3a1GUo8eMt27qbJ0mT2335ol2cAkSK1VEmAiEH4Txe9Q6lSM47OEWG2jZ4YA0JFKJDEdrGLPcazlog2z18ZPvCvAkwUpRECU/JGLzgOWVBY+35u7iEKWDZOF1MykHgiMlNNFakPt5KcU=;ZF5mK4yKUoLj0do/5rP1Lw=="
 ---
 

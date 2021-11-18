@@ -50,11 +50,25 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://cdn.openpr.com/U/b/Ub18726066_g.jpg"
         width: 800
         height: 428
+        isCached: true
+  - title: "AI Chips That Made It To The Market In 2021"
+    excerpt: "The success of any modern AI technique relies on computation, on a scale unimaginable even a few years ago. Therefore, more advanced chips and hardware are being developed and released to match the processing capabilities of complex neural networks."
+    publishedDateTime: 2021-11-18T12:00:00Z
+    webUrl: "https://analyticsindiamag.com/ai-chips-that-made-it-to-the-market-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Global Enterprise Artificial Intelligence (AI) Market 2021 Industry Chain structure, Market Competition, SWOT Analysis Report by 2027"
     excerpt: "A recent market research report introduced by MarketsandResearch.biz with the title Global Enterprise Artificial Intelligence (AI) Market Research Report 2021-2027 meticulously discusses the developments in the market."

@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence and Advanced Machine Learning Market Size, Share, Trend and Forecast Till 2028"
-excerpt: "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2"
-publishedDateTime: 2021-11-17T14:44:00Z
-originalUrl: "https://menafn.com/1103192538/Artificial-intelligence-and-Advanced-Machine-Learning-Market-Size-Share-Trend-and-Forecast-Till-2028"
-webUrl: "https://menafn.com/1103192538/Artificial-intelligence-and-Advanced-Machine-Learning-Market-Size-Share-Trend-and-Forecast-Till-2028"
+title: "AI Chips That Made It To The Market In 2021"
+excerpt: "The success of any modern AI technique relies on computation, on a scale unimaginable even a few years ago. Therefore, more advanced chips and hardware are being developed and released to match the processing capabilities of complex neural networks."
+publishedDateTime: 2021-11-18T12:00:00Z
+originalUrl: "https://analyticsindiamag.com/ai-chips-that-made-it-to-the-market-in-2021/"
+webUrl: "https://analyticsindiamag.com/ai-chips-that-made-it-to-the-market-in-2021/"
 type: article
-quality: 40
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
-  - AI in Healthcare
+  - AI Hardware
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934797"
-    width: 539
-    height: 249
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -72,20 +71,6 @@ related:
         width: 800
         height: 428
         isCached: true
-  - title: "AI Chips That Made It To The Market In 2021"
-    excerpt: "The success of any modern AI technique relies on computation, on a scale unimaginable even a few years ago. Therefore, more advanced chips and hardware are being developed and released to match the processing capabilities of complex neural networks."
-    publishedDateTime: 2021-11-18T12:00:00Z
-    webUrl: "https://analyticsindiamag.com/ai-chips-that-made-it-to-the-market-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Global Enterprise Artificial Intelligence (AI) Market 2021 Industry Chain structure, Market Competition, SWOT Analysis Report by 2027"
     excerpt: "A recent market research report introduced by MarketsandResearch.biz with the title Global Enterprise Artificial Intelligence (AI) Market Research Report 2021-2027 meticulously discusses the developments in the market."
     publishedDateTime: 2021-11-16T19:20:00Z
@@ -99,6 +84,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial intelligence and Advanced Machine Learning Market Size, Share, Trend and Forecast Till 2028"
+    excerpt: "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2"
+    publishedDateTime: 2021-11-17T14:44:00Z
+    webUrl: "https://menafn.com/1103192538/Artificial-intelligence-and-Advanced-Machine-Learning-Market-Size-Share-Trend-and-Forecast-Till-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934797"
+        width: 539
+        height: 249
         isCached: true
   - title: "Artificial Intelligence (AI) In Drug Discovery Market 2021 - Industry Outlook, Growth Factors, Demand Drivers, Trends Analysis, And Forecast"
     excerpt: "Artificial Intelligence AI In Drug Discovery Global Market Report 2021 COVID 19 Growth And Change by Research Company is the most comprehensive report available on this market with analysis of the market s historic and forecast growth drivers"
@@ -145,6 +144,6 @@ related:
         height: 250
         isCached: true
 
-secured: "i6Uxi8gkVo/42wkXzIdP3F1F36GeVjc2KjqkQWXGLOzl32qXF7asFT84F4r+Z9fgNsni+sFhuz+0wDuTYYCA6XFsrVM4kqIhC5H2BRFV24aoTid45AgKmB0TpHyaEz+wanjwLkcDbBiv/V3BUokU5SQBSW9J8EQMbqGh/3PZ7aBibVr7I2JLAxZuCT777PXlOGIo+Qd5FnFz3f3r3yyIeh5NcOQrjVhVhHhLgHo6gbmnxji66MdA5qsvLF7qpDI8SmOIwRMPddqstmncMNO1jL9o3gHr1BaqiRt8cFGkVZNgTbuCICb9fb4GvZBIvfa+uhS7DYNN52BDpGJSfyjBqQZ4r/F1nb/8v0hH4eyTmRc=;qqCnyAcKNrYy0Hs/d/afQg=="
+secured: "dclWhEcjRKqwvBprLHWY1rlzt7loj+QKg+a95NBRi94tySHwzgE1fu+ANdCk3BQjv4hMPRFTPgPk4LbwP9OksER/YE3kByPiT/ic2Jden7NWWkL1qfnT8qv9ZObQj66f/u3JFLFe3ID9xYtJm7TJ5WSga0S3Qc7c6YeebLB8Fmckc6OFgJ5p/fxUJjUCZkGvzHQHGmsIrEzY9Jmo9J3f6629xDyscQmZsqw1j+bXEQGcnx+XAlPRqdoj9tUD2klRQm4BWz4FIpCVb9Ofxj326DryCc5FEyk3kANWNNJGEyTgi6NQhkZkmox5hUxH39FY8WvEo1G0q5bHWQbP9B7H7imsQadTcgW7ssmRICZ9R8s=;j7nYmuxUKXVHc20On9XEtg=="
 ---
 

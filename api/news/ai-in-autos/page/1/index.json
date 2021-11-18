@@ -63,7 +63,7 @@
       "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -754,15 +754,15 @@
       "title": "Autonomous taxi market set to rev up",
       "excerpt": "The market size of China's self-driving taxi services is expected to surpass 1.3 trillion yuan ($203 billion) by 2030, accounting for 60 percent of the country's ride-hailing market by then, said a report by global consultancy IHS Markit.",
       "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
+      "webUrl": "https://www.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://img2.chinadaily.com.cn/images/202111/11/618c6db7a310cdd3d819abef.jpeg",
+          "url": "http://img2.chinadaily.com.cn/images/202111/11/618c6db7a310cdd3d819abef.jpeg",
           "width": 635,
           "height": 423,
           "title": null,
@@ -774,7 +774,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T17:58:00-08:00",
+      "publishedDateTime": "2021-11-10T17:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "China Daily",

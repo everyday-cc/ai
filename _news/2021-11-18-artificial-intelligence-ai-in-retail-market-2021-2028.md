@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -51,11 +51,25 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://cdn.openpr.com/U/b/Ub18726066_g.jpg"
         width: 800
         height: 428
+        isCached: true
+  - title: "AI Chips That Made It To The Market In 2021"
+    excerpt: "The success of any modern AI technique relies on computation, on a scale unimaginable even a few years ago. Therefore, more advanced chips and hardware are being developed and released to match the processing capabilities of complex neural networks."
+    publishedDateTime: 2021-11-18T12:00:00Z
+    webUrl: "https://analyticsindiamag.com/ai-chips-that-made-it-to-the-market-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Global Enterprise Artificial Intelligence (AI) Market 2021 Industry Chain structure, Market Competition, SWOT Analysis Report by 2027"
     excerpt: "A recent market research report introduced by MarketsandResearch.biz with the title Global Enterprise Artificial Intelligence (AI) Market Research Report 2021-2027 meticulously discusses the developments in the market."
@@ -130,6 +144,6 @@ related:
         height: 250
         isCached: true
 
-secured: "77J7V3fBODYFQ1vhTzIcRZB0kbs47WnNsL8p4hZVNWPGcRpmwgojZ24TTI6I6/HEBHopfoAKly1dBmA+4vDMglWmWH4irtxP+h0ZeaUovGLGw3PDblp1dWBxG7ZMZpxWz4vHOGawwGx4M98WaWldlA0JMA5CmwIEgNXmoZLehJGQ+kglfPhWG+HK2ERGOrBqX15PKdEebSs0bGz0TfiTqTcLzjY96zhdCp7v+faOUmDRRLHSeb51w1OxJ54iwKZP41bKqg+lrQQMKMJRHY6hg8uTii1y3bw48+HOZLvu9SBVlTEzYX/118XE/b+wZya8ZGpGBOnu1Mm7N2J85tN3FdYIzfz4cWOPvwDyZNwhSUM=;5R1Orh5CIie3o/dJg9c/2w=="
+secured: "oT06od0AzfD+PbqX+gnHs0wl83k+s73F1LEc5Vr0kyvGMI1kkUwJZRarLuJygZe5jRAk/iijHzIgvBcvg1R1I6jJJ8TvFvbzgm83Ys4thc5BMw0uMbSVj2mmmQpNii+xrVhZZiziydlHJWcnLU9U5MCQQmlB4tS7k6keqkVCQ5/McE1EfMjLSsHUm8VvYhCz8js2LE/bFocr4bj777M2anh/2DdzLBHTiAE0z4GfIqm3BR1nTF8qt4CQzkHJju9sNFEGtskFxSYYktEBfW7Brg2Hle7+rh7qpQbXGhhh2FSEZdkyRnumJIUAKW82CSc+AgU9RLyzmfu5dx/aFK2tkjpCgnY3y/eXy/h3TTrpP40mwsOu2445tnTdS+pvrAipQfQU7qy8ISaGXaxQX36Hl276clO1SFbrzGyRwibXsIDXph+csjGYmNOICcLHbuvqFK6+s9Haee5zF+EjHCfqCw9wNy2GS+VOfMnk9GJDH+jQ3LBHe1zSgK4YSSR+NEMuJyac91Nf6m3ciH1R3Ipf2w==;5ytEer9qzT2ydki3IMAUcA=="
 ---
 
