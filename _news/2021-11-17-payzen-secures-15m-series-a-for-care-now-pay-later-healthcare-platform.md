@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-ca
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Fintech PayZen Secures $15M via Series A Round Led by SignalFire"
+    excerpt: "PayZen, which claims to be a 'mission-driven' Fintech addressing healthcare affordability, has announced it completed a $15 million Series A round. SignalFire has reportedly led the Fintech firm's investment round,"
+    publishedDateTime: 2021-11-18T14:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183068-healthcare-fintech-payzen-secures-15m-via-series-a-round-led-by-signalfire/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183068-healthcare-fintech-payzen-secures-15m-via-series-a-round-led-by-signalfire/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183068-healthcare-fintech-payzen-secures-15m-via-series-a-round-led-by-signalfire/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/11/iPhone-Digital-Health-Med-Tech-Medical-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Medical Fintech Startup PayZen Raises $15M To Grow ‘Care Now, Pay Later’ Model"
     excerpt: "Medical fintech startup PayZen raised $15 million in a Series A round to expand its “care now, pay later” model for hospitals and patients in the United States."
     publishedDateTime: 2021-11-17T14:00:00Z

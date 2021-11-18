@@ -39,6 +39,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Togal.ai Integration Now Available on the Procore Marketplace"
+    excerpt: "Togal.ai is now available for use with the Procore’s construction management software platform. Togal.ai’s software, which automates the estimating process in construction, is now available for use with the Procore’s construction management platform."
+    publishedDateTime: 2021-11-18T15:14:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21903465/togalai-togalai-integration-now-available-on-the-procore-marketplace"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 37
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/11/16x9/Togal.AI_product_screen.61966c0953344.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
     excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain management Cloud-based infrastructure and collaboration to improve speed and efficiency across business operations Digital Manufacturing Platform rollout to all ZF factories ZF investing billions of euros in digitalization over the next years REDMOND,"
     publishedDateTime: 2021-11-16T16:31:00Z

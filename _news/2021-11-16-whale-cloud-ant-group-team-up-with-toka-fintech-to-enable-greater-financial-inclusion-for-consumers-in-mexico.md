@@ -59,6 +59,22 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "AI enhanced Compliance Platform Sedric Secures $3.5M to Increase Consumer Protections for Fintech Firms"
+    excerpt: "Sedric, an AI-enhanced compliance platform for Fintech firms, announced that it has secured $3.5 million via a seed round in order to increase consumer protection and transform the Fintech compliance sector."
+    publishedDateTime: 2021-11-18T14:31:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 43
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/05/natalie-collins-unsplash-LifeGuard-Only-Beach-Safety-Protection.jpg"
+        width: 1144
+        height: 863
+        isCached: true
   - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
     excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
     publishedDateTime: 2021-11-16T23:48:00Z

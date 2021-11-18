@@ -7,8 +7,8 @@ originalUrl: "https://www.newelectronics.co.uk/electronics-news/surecore-designs
 webUrl: "https://www.newelectronics.co.uk/electronics-news/surecore-designs-multi-port-memory-for-semidynamics-ai-chip/242258/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: New Electronics
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "sureCore designs special high performance multi-port memory for Semidynamics AI chip"
+    excerpt: "Core, the embedded memory specialist, has designed a power and area efficient, high performance, multi-port, embedded memory solution for Semidynamics’ new RISC-V-based, tensor processing chip."
+    publishedDateTime: 2021-11-18T15:52:00Z
+    webUrl: "https://www.design-reuse.com/news/50965/surecore-multi-port-memory-semidynamics-ai-chip.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 47
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage50965/surecoreb.jpg"
+        width: 593
+        height: 382
+        isCached: true
   - title: "sureCore memory IP in Semidynamics’ RIS-V chip"
     excerpt: "SureCore, the Sheffield low-power memory IP house, has designed a power and area efficient, high performance, multi-port, embedded memory solution for Semi"
     publishedDateTime: 2021-11-18T08:46:00Z

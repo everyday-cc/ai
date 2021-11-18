@@ -40,20 +40,17 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "AI call in India getting louder and louder"
-    excerpt: "IN June 2018, the Indian government defined a national policy on artificial intelligence (AI) in a working paper titled, “National Strategy for Artificial Intelligence #AIforAll.”"
-    publishedDateTime: 2021-11-14T01:00:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2021/11/14/ai-call-in-india-getting-louder-and-louder"
+  - title: "fylm.ai: AI color grading in the cloud"
+    excerpt: "AI color grading tool, following its beta announcement earlier this year. The ACES color managed, GPU-accelerated platform allows you to intelligently color grade projects in your browser. It's also compatible with non-ACES workflows."
+    publishedDateTime: 2021-11-18T15:29:00Z
+    webUrl: "https://www.redsharknews.com/fylm.ai-ai-color-grading-in-the-cloud"
+    ampWebUrl: "https://www.redsharknews.com/fylm.ai-ai-color-grading-in-the-cloud?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/fylm.ai-ai-color-grading-in-the-cloud?hs_amp=true"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: redsharknews.com
+      domain: redsharknews.com
     quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/14/1367124.jpg"
-        width: 930
-        height: 515
-        isCached: true
 
 secured: "pMjt/RifD6e+ig2dPGI28Lmx5nU4W851vspt10ehUkVtyT/v70rvD8pLCh/b+6ByBgjGFlmSWeeeT19llpTNbD067I0I4a7smNMk3k2iO0k1TOk6T/RVabc3HpZWEZefgtlOpedJgyT5PxBl78wzsdMlMmPS5Acd6D+tDRZBRC40NvWf1CEkE2QcnO88/z35wcGYpl6qEa2UVJVFZgE2xvBgR8bcm+Pwupsr+Xp/IlB7NN9sKXY+JuY2NNayP24VZTp475VjzWU4AUYrAOpnpC6ZntQIqqxbdXjNTsMjrJ3J7jhjnzYxRgR/CBKMGAQp9rYDWOLbstoA96dd6zuiDwVllHwBy9SlXvPLtg514Mk=;9V6PyAPrnDAArCyDKrI50Q=="
 ---

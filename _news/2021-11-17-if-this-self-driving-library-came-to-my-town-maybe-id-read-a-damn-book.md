@@ -56,6 +56,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Waymo to transport goods using self-driving semi-trailer truck"
+    excerpt: "Called Waymo Via, the delivery service is already in operation in some parts using Waymo's self-driving vans based on the Chrysler Pacifica. Now Waymo is ready to add its self-driving semi-trailer trucks."
+    publishedDateTime: 2021-11-18T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1134209_waymo-to-transport-goods-using-self-driving-semi-trailer-truck"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/waymo-via-self-driving-semi-trailer-truck_100815686_h.jpg"
+        width: 1920
+        height: 1078
+        isCached: true
   - title: "Entry ramp on the road to self-driving cars"
     excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
     publishedDateTime: 2021-11-14T17:00:00Z

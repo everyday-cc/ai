@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Healthcare Fintech PayZen Secures $15M via Series A Round Led by SignalFire"
+    excerpt: "PayZen, which claims to be a 'mission-driven' Fintech addressing healthcare affordability, has announced it completed a $15 million Series A round. SignalFire has reportedly led the Fintech firm's investment round,"
+    publishedDateTime: 2021-11-18T14:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183068-healthcare-fintech-payzen-secures-15m-via-series-a-round-led-by-signalfire/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183068-healthcare-fintech-payzen-secures-15m-via-series-a-round-led-by-signalfire/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183068-healthcare-fintech-payzen-secures-15m-via-series-a-round-led-by-signalfire/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/11/iPhone-Digital-Health-Med-Tech-Medical-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "F0JkYZANmtMZp8y3JroSs6QGydipiyp9DkqMqnTkWGaOmczzx6uj6X6qFvoGvmIkytlKC/1WHiwfvx6G4JmG3kOtyjFVEhsr7y1SG16aeu6BV7jX/k9w6Ft7slm+15Fm1P85BEPQKCFjU7liEKlomoQJzI915iMRjSL6jlFKmFqWZK+VFhtq9kBCqEHVPOFWECLgMdZtmKW+3DxplhKLHiI6EgfZeL7NKk9Ixkv4kwonx7kuYhajeHvnHRkn6/tZ+DLTVRIH4hZey2a9PTMPcGUL9Qr8YdP9XAKVqBbY/DjA7AJm7e1j71tsj5v0Iph3gg8HzzADohg8zJsN6u0ShOotMssTLYomLcqlyrvKH+H5vYUtWl6SLkGzJd44yc22JJekI7b8/dHFbdMcl9I2xnDOWY1lWzQ3miZ6bohTtupaHL7HR9yMSpRaPZmCwWT0xUZ6wuZ0wxxCfa+xs6V5hs/rOsWNPw93j0/jd10FL3UmUnLODXeCa3K3v+ePnzLRFuNUxASy9h0N20N1ui85sA==;gLaXzL/4AfuIZSYm3/+q3g=="
 ---

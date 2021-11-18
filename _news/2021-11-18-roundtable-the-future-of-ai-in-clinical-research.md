@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-18T14:00:00Z
 originalUrl: "https://www.clinicaltrialsarena.com/analysis/ai-artificial-intelligence-clinical-trials-start-ups/"
 webUrl: "https://www.clinicaltrialsarena.com/analysis/ai-artificial-intelligence-clinical-trials-start-ups/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Healthcare
 
 images:
   - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/11/shutterstock_1266139540.jpg"
@@ -35,6 +36,6 @@ related:
       domain: finextra.com
     quality: 6
 
-secured: "hlXFgB77QFTKU/xV94c3im2GJ/cZ/2fZSGgS1yK74WeD+WRLYQHVMbAiHWF2n6UQy8BRkLGzb/DciBm2ZJ01/uu2Vg6lC0DK/HmDph3SqazY8j5AvWT3d6UHpuvteeSEcypK1mx5NWm7AdSSkJnI0KCVRcBu4CfjOZjyFuOEhUPZeLAa/bgb4mU1S1Qlfkexk7myHZ9PWrHIzaPK+rP5u06iO6lusISrXWp37OjhlC8wRudPTOBWURB1FTN739KAO2aKfqPzPN9pCBrXKqLyykFyN5ktC5Td7PFqpXC0xX/PaByZ2uGfVldPkF8eJj2bHwUU+F5a0mbOX/ZGeyry/IuKAkT2IJAXICaYEFjxQNQ=;2JXi63X8uWZGzkL/Aon+7Q=="
+secured: "Z32HGXp6HIT0YX3PstEm2BRzBwWVsUpIjQoY278fEEqbmfppTEhfDXkFtf7SQbeugFZj6vjxCb7Yz1xkBAQL+BVi6u7sOLIS78smiBPvIEAdhIFHUWIJqFud5x95uPm9Zw4W42Smef9YuQApW5ers1eQTEwY2F1Sgxv0aka6qsb4ZXiWhR7gxdwLReaY455nrv6AIdiQr6kjbyikizW69VG7GJOdsDoighuv5SIN06FAvhfbamNsI0dIadyfFQaZdQNDXATbs600r2JAwe0bfWzlbDtp9EoieOf6pNrbXU5hq/J9N230uB3PhbJLLyKibAWrwC/AEBvJYxAWzLJ+59h1UW44ZxK/OMaeWZtIJdNXqotHjdAbOgL/1vIcVajPxZJkxQerv3ZIVvcNMM1Z7bIMHgt2tAOtOcrU2jaMGVitw+QuRMAGhFKFDmHjDp3MDUXt7li1/n5Alb0DBLfI7TFnSougCZ/Wc49iPXvvI5jFhcEbZ5vb99oiMSvgkmjG2iivZfk6nK+C0TorwdDDzA==;6UnXXxfcMm+9xIvYKAiEhQ=="
 ---
 

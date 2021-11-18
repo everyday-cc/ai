@@ -26,20 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "AI call in India getting louder and louder"
-    excerpt: "IN June 2018, the Indian government defined a national policy on artificial intelligence (AI) in a working paper titled, “National Strategy for Artificial Intelligence #AIforAll.”"
-    publishedDateTime: 2021-11-14T01:00:00Z
-    webUrl: "https://www.thestar.com.my/news/focus/2021/11/14/ai-call-in-india-getting-louder-and-louder"
+  - title: "fylm.ai: AI color grading in the cloud"
+    excerpt: "AI color grading tool, following its beta announcement earlier this year. The ACES color managed, GPU-accelerated platform allows you to intelligently color grade projects in your browser. It's also compatible with non-ACES workflows."
+    publishedDateTime: 2021-11-18T15:29:00Z
+    webUrl: "https://www.redsharknews.com/fylm.ai-ai-color-grading-in-the-cloud"
+    ampWebUrl: "https://www.redsharknews.com/fylm.ai-ai-color-grading-in-the-cloud?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/fylm.ai-ai-color-grading-in-the-cloud?hs_amp=true"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: redsharknews.com
+      domain: redsharknews.com
     quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/14/1367124.jpg"
-        width: 930
-        height: 515
-        isCached: true
   - title: "Github Analysis Shows India As An Emerging AI Superpower"
     excerpt: "This also reflects an impetus to upskill India's vast technology talent base that was initiated by the country's IT services companies."
     publishedDateTime: 2021-11-15T08:50:00Z

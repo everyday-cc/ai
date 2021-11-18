@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1280
         height: 788
         isCached: true
+  - title: "Artificial Intelligence Drives Innovation In Building Security Solutions"
+    excerpt: "The application of artificial intelligence (AI) in digital building solutions continues to grow. Vendors across the market are turning to AI and machine learning to launch advanced offerings that drive greater automation and improved outcomes."
+    publishedDateTime: 2021-11-18T15:36:00Z
+    webUrl: "https://www.publicnow.com/view/05E803A5AE820849AB4D0A6773AEE40ADB1F4D34"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 33
 
 secured: "VGO0VlBKQg+ChjQO1x3D9WNxqGSOLA3zqPNVQvo8KxMiMa7+GLDpd0KjPH4IZPU3ER0ljr5Xs3/mxwDJ/bNSpkn+3f1ZT/qHJa1biYmh4ygnnuciNBEzrJB//93cc9qcUl35SHsj64nsIHu/DE++1eJ5WADVyP5ZVxNNKjGtdbkrEDZ9H6uur857UTu/Qd24G7Cnds864luNa2t3hCbhMmhxPQb/tYyMAK71UiJiCwOFTlwUvpr2YnfSko9UoqDfPtbupSPuvsY4rR4T/dKYbFMr5L5Qv85EimT8p/V8zwj0iWnwJO2JzzAtNqLuttxsTzh6XRQLYu0TRw+lHtppjHQfHQNCtI0MS7mrWqcEbyS8C70EIaB/fPrrE8l1geWAgQEML6T/QKavnZ+skVkGvqrIIWuWz1UxCTJbVxgXGLEQJuIRey8kMu8q9C/Z7lZ2wFHfB2TuKQTUeWSsskquWCNbjuy1LRpWFIzEqPBRe6miZT8Hj6utVbN+m5ru+5TzggC0tJw6rfftXSS1pTTM4w==;Q++8B4zI2It8lqmfTCMqpQ=="
 ---

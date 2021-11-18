@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/11/17/aws-makes-ai-ml-tangible-first
 webUrl: "https://siliconangle.com/2021/11/17/aws-makes-ai-ml-tangible-first-major-art-commission-debut-smithsonian/"
 type: article
 quality: 64
-heat: 76
+heat: 74
 published: true
 
 provider:

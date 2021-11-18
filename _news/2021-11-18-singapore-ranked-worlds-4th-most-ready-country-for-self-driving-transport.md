@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Waymo to transport goods using self-driving semi-trailer truck"
+    excerpt: "Called Waymo Via, the delivery service is already in operation in some parts using Waymo's self-driving vans based on the Chrysler Pacifica. Now Waymo is ready to add its self-driving semi-trailer trucks."
+    publishedDateTime: 2021-11-18T14:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1134209_waymo-to-transport-goods-using-self-driving-semi-trailer-truck"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/waymo-via-self-driving-semi-trailer-truck_100815686_h.jpg"
+        width: 1920
+        height: 1078
+        isCached: true
   - title: "If this self-driving library came to my town, maybe I’d read a damn book"
     excerpt: "Seongnam City in South Korea will trial self-driving library robots, aiming to make book rental services easy and accessible."
     publishedDateTime: 2021-11-17T09:23:00Z
