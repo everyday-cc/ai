@@ -34,6 +34,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "ZF to digitise production processes with help of Microsoft"
+    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
+    publishedDateTime: 2021-11-18T16:02:00Z
+    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "Togal.ai Integration Now Available on the Procore Marketplace"
     excerpt: "Togal.ai is now available for use with the Procore’s construction management software platform. Togal.ai’s software, which automates the estimating process in construction, is now available for use with the Procore’s construction management platform."
     publishedDateTime: 2021-11-18T15:14:00Z

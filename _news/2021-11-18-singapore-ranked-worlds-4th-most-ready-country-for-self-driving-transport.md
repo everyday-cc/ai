@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-33-7.jpg&signature=ee32d524fbbdb9dd52232fd977e44f5c"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Entry ramp on the road to self-driving cars"
-    excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
-    publishedDateTime: 2021-11-14T17:00:00Z
-    webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
-        width: 792
-        height: 528
         isCached: true
 
 secured: "dFEnqo3asA2vnwMUyJ6Hw6MQqt3YFBBC30ZF1EZdjXg2i7B4PGT3bFDOXwqLcaDPBBR6/CwV99ImTiBpS4ORKg0pMNoi55mg8c2b+r5Makm2ZR0C4mdrJCANmCGxdgqN5GJwQuUX+8TXew1x7+0axMXTCKvaK0RYvmMEUEMQ9J3RwJQ+OnIrW4Z69Nj7n6EeBAWdbi+RU8MO4ZEAMzFMHo5SD4qEamgwaY1Vhh0sJKY9f/5t9CO2zUq4EREhhC0TN6bcBhSnsm4pKkW2RL2/cGWD2yifwkFXc6eh+e5EQxt41kjJ20WWZS70e3BMkPg6f565oruNfOijRWP1qhJNtQ4Ok5XcUyLlNJCwSbn1wHg=;lm/ZGhDFn9FycOOLpq4CVA=="

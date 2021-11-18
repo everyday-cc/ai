@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/drugma
 webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/drugmaker-sanofi-invests-180-mln-french-ai-startup-owkin-2021-11-18/"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "CORRECTED-Drugmaker Sanofi invests $180 mln in French AI startup Owkin"
+    excerpt: "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday."
+    publishedDateTime: 2021-11-18T07:38:00Z
+    webUrl: "https://www.reuters.com/article/sanofi-owkin-idCNL8N2S85QE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL8N2S85QE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL8N2S85QE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20211118&t=2&i=1581774667&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHAH08L"
+        width: 858
+        height: 545
+        isCached: true
   - title: "Sanofi Invests $180 Mln Equity In AI Startup Owkin To Develop Oncology Pipeline"
     excerpt: "French drug major Sanofi (SNYNF, SNY) announced Thursday an equity investment of $180 million and a new strategic collaboration with Owkin, a French American startup that specializes in artificial intelligence or AI and federated learning for medical research."
     publishedDateTime: 2021-11-18T06:15:00Z

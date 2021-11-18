@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Regulators looking into complaint about Tesla's 'Full Self-Driving' software"
-    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
-    publishedDateTime: 2021-11-14T01:19:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/regulators-looking-complaint-teslas-full-self-driving-software-rcna5537"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna5537"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537"
+  - title: "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great"
+    excerpt: "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works."
+    publishedDateTime: 2021-11-18T11:49:00Z
+    webUrl: "https://edition.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 101
+      name: CNN
+      domain: cnn.com
+    quality: 86
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211113-tesla-model-y-cc-811p-604deb.jpg"
-        width: 4985
-        height: 3135
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Tesla 'Full Self-Driving' safety complaint investigated by NHTSA"
     excerpt: "Driving” software, and the Tesla Model Y went into the wrong lane and was hit by another vehicle, according to a complaint filed by the driver with NHTSA."
@@ -59,53 +59,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "NHTSA investigating first report of Tesla 'Full Self-Driving' crash"
-    excerpt: "A California driver has reported the first alleged crash involving Tesla's Full Self-Driving feature to NHTSA. The agency is investigating the claim, which says the car turned into the wrong lane."
-    publishedDateTime: 2021-11-16T19:02:00Z
-    webUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash"
-    ampWebUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
+  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
+    excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
+    publishedDateTime: 2021-11-18T18:45:00Z
+    webUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened"
+    ampWebUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 59
     images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/Tesla-Model-Y.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Self-driving bullet train put to the test"
-    excerpt: "Members of the media were invited to view a test run of Japan's first self-driving bullet train. The 12-car Shinkansen train operated by East Japan Railway Company is equipped with an Automatic Train Operation system."
-    publishedDateTime: 2021-11-17T07:40:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211117_20/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211117_20/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20211117_20/amp.html"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 59
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211117_20_1047545_L.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Apple expands driver pool for self-driving car tests by 23"
-    excerpt: "Apple has increased the number of drivers for its fleet of autonomous vehicles, with the headcount of testers for its self-driving vehicle systems now at 137 people."
-    publishedDateTime: 2021-11-15T14:55:00Z
-    webUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23"
-    ampWebUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/45634-88829-44849-87211-44393-86171-210914-AppleTestVehicle-xl-xl-xl.jpg"
-        width: 870
-        height: 485
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
     excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
@@ -131,20 +99,6 @@ related:
       - url: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving/@@images/rectangular_image/page-header?v=1637102384.82"
         width: 1460
         height: 821
-        isCached: true
-  - title: "Apple’s Self-Driving Test Fleet Adds More Drivers, Apple Car Still Due in 2025"
-    excerpt: "As far as Apple is concerned, there’s no such thing as an Apple Car currently in development, and the company’s automotive strategy comes down to other solutions like CarPlay."
-    publishedDateTime: 2021-11-15T21:50:00Z
-    webUrl: "https://www.autoevolution.com/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 20
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246_1.jpg"
-        width: 1500
-        height: 808
         isCached: true
 
 secured: "KZ+DiQCBYtl5p9apm9xgaDvpBF4zWUk5jdzI1JUhPEPpC7cESBqhm6dZ2lgPsLT54MV3cqhxL2R7kojPnW/tTLRbFoCqdzB4B0ZhyHhj23+loY6cOtEluYaHO/9T5NeoBewK7lcT/F11SUm2EWq03ZUSZCALhewZrSmFsx1Yw/vPY8xHRpXRiNjj9lMVaCVN397EqT6xfn/K+KQ2kZ4LkMIlsmCmxjurSGsfKq0Lsn0eMe3hiVP/RCfsn24cHwCBeM0NdMgiSr5JA5loR8JcekTTesdm83rwZRBRGg0z6hCfAaFeiasufRrt7qxrksyl2zaQQhOeKddVrHnIFjhbivimWQpaV2akaoKykR/fydYyTn90guCG2xy9D55f8B1LQn0pUMRSLKdL5Ti6feAmL5PJFYduUIUhVzfi8SlOfKkLi0+P94z/lWCFxdoZrhfImbKkX8WMpgB+gdn4dGL6rD9avbjo/iv9TyrKuzzpU6z5oCelClE75oh3FZFinCK3xfGAFQ48AI9puCZrw0EI+w==;WjD+d13rGyd+T3FF+rLp+Q=="

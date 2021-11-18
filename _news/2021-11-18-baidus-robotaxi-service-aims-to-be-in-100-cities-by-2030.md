@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 661
     isCached: true
+
+related:
+  - title: "China's Baidu is Now the World's Largest Robotaxi Operator After Completing 115,000 Fully-Autonomous Rides in Q3"
+    excerpt: "Baidu's Apollo Go robotaxi service in China provided 115,000 rides in the third quarter, making it the largest robotaxi service provider in the world, said Baidu CEO, Robin Li, in an earnings call this week."
+    publishedDateTime: 2021-11-18T17:00:00Z
+    webUrl: "https://www.futurecar.com/5008/China’s-Baidu-is-Now-the-Worlds-Largest-Robotaxi-Operator-After-Completing-115000-Fully-Autonomous-Rides-in-Q3"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 18
+    images:
+      - url: "https://img.futurecar.com/202111/18/l_619695044a20f.jpeg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "I+oZRW7b5y6oapx98XOkb2UiheGi8zfh6tzv0wK3JCT6aFUqXvR2xMt7xBEDdnb/mt1JsOm+u7itpoWZK+X4Ef0K9C0hEOgsQuzxNCFojhbSLxYQg1ZegRZeSIXFO6MxCRC2Ig8Z5ETaO75WHpLzp9p26YzV3zrm5XldOm8f6VkfGv7UBCUfqGelogH0yik9mtGKm8Fo+/XiJaANQCFv86QiAA7kHiFGMdodyxTv9BmPX0INKl5PsozJCgy3kMlKCjrvW1MFxdRP3h0cjhDvG87PN65Zispk9UQQUQnFXD34xiRtUzcCxrhVebXd20fuLUmQFJrJIn6T1anYt5DlzivfNoismH7RuEMCHJytSwCV7zyw9Ua9g8UKZUv5JJCyQR5l/GD8Lt8OMaZIUu9bbvClmpvuDPz5J9VylanXycvUVT72IR60mpGA3nPA3sLo7oynTEp1YI+7Doe+ampOo64tSmgXP06RMKopW/r51FMYQXI7LV33APzb/wsOK1QuDg6LSlWJrzK5e4XKdBt0DA==;Xn3TqyzsXb6YeoMAX7hwJA=="
 ---

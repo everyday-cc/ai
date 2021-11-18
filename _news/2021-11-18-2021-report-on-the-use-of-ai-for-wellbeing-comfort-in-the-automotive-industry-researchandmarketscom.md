@@ -24,19 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Global Hospitality Robots Market (2021 to 2030) - Featuring Savioke, Connected Robotics and Maidbot Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Hospitality Robots Market by Type and end user Sales Channel: Global Opportunity Analysis and Industry Forecast 2021-2030” report has been added to ResearchAndMarkets.com’s offering. The hospitality robots market was valued at $295."
-    publishedDateTime: 2021-11-15T16:28:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-lifestyle-artificial-intelligence-travel-63d5de7e077a46b08c6da78ec1d86065"
+  - title: "Deep Learning Chipset Market 2021 To 2031 | Increasing Demand And Opportunities For Machine Learning & AI Industry"
+    excerpt: "The report published on the MarketResearch.Biz titled Deep Learning Chipset market brings an analytical view of the Deep Learning Chipset market performance in the global as well as the regional scenario. In a detailed chapter-wise format, the Deep ..."
+    publishedDateTime: 2021-11-18T18:02:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 67
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Bigger Opportunities on Self-Reconfiguring Modular Robot Market Historical Data and New Trend Analysis 2021 to 2027"
+    excerpt: "Self Reconfiguring Modular Robot Market Perspective 2021 Modular self reconfigurable robotic systems are responsible for designing controlling fabricating and motion planning of kinematic machines by using variable morphology The market for self reconfiguring modular robots in the Asia Pacific is"
+    publishedDateTime: 2021-11-15T12:59:00Z
+    webUrl: "https://www.openpr.com/news/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
+    ampWebUrl: "https://www.openpr.com/amp/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub15187274_g.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "pFXyQbV8qEBL5R3zdqLRXmGNp/gPIfAKbK+mKSI5cLW/I/pgwWwx++Xf00conWYv93vVhKfHsdVYAy4Hcm4u2rNejA/t3kh2SVMVphwcRHTQGJBm1yXRTXR23xg1/BXhdTVQqbIUyBdujb076ezlaFzFF07Vx84jUW2lg/TyDpwtFnK4p6yTG8LANSbyG66qVI0bm+WbaM+2pL/Xm+//jAmBStZemW9sWTtdJ6lWdHB6Xv62dEj5wKWaDO0zrUWyJjox1SedyFzDcCz6Xbc3v/+czRgFYbh7bfheh7xVEOFS6B/ZtRSfIOXaSjmNpbmkerzug5TTImFBdi/yoNAQoEkcAa0QcBFzqzetPJ2nONY=;42HiNt3jUfM8CkecG5Sm7A=="

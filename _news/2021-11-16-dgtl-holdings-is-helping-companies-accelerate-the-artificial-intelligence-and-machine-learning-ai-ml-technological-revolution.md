@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/966351"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/966351"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here’s where MLOps is accelerating enterprise AI adoption"
+    excerpt: "DevOps fueled the enterprise shift to the cloud, and companies are in a similar phase of trying out and accepting machine learning (ML) in their production environments."
+    publishedDateTime: 2021-11-18T18:53:00Z
+    webUrl: "https://techcrunch.com/2021/11/18/heres-where-mlops-is-accelerating-enterprise-ai-adoption/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-480778288.jpg?w=600"
+        width: 600
+        height: 399
+        isCached: true
   - title: "These Edge AI companies are boosting the growth of Edge AI"
     excerpt: "Edge AI is the new technology that has been booming these days. The global Edge AI software market is estimated to cross US$3 Billion by 2027. Here are the top Edge AI companies that are boosting their growth."
     publishedDateTime: 2021-11-14T10:30:00Z

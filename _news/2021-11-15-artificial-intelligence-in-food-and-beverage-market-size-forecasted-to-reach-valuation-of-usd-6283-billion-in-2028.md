@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/artificial-intelligence-in-food-and-beverage
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-food-and-beverage-market-size-forecasted-to-reach-valuation-of-usd-62-83-billion-in-2028/amp/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Image Recognition Market to Reach USD 73.344 Billion by 2026 – TechSci Research"
-    excerpt: "Rise in online gaming introduction of driverless cars increased usage of social media platforms to drive the growth of Global Image Recognition Market through 2026 According to TechSci Research report Global Image Recognition Market was valued at USD27 764 billion"
-    publishedDateTime: 2021-11-17T12:07:00Z
-    webUrl: "https://www.openpr.com/news/2465582/image-recognition-market-to-reach-usd-73-344-billion-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2465582/image-recognition-market-to-reach-usd-73-344-billion-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2465582/image-recognition-market-to-reach-usd-73-344-billion-by-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub17581154_g.jpg"
-        width: 500
-        height: 305
-        isCached: true
 
 secured: "Pd5C3gJiBPYIQNPSoZlyC7IlMNHLFpXhrs8aGpyj2Qv/drARklICXq70QxdxzkmZD8D8loLlgJzB9Z+y2PauESOvQQtKt7qtXx+HpeQ4YQ6JehTsl+ZLe4BTsnAa7vHYiVO0JU0mHH0muzGiGKtFHX/6y/Lz5wBPJG3uieB8lsKgMyWgbJzypeaxhQq9gS4yCadIDiQvFbDLMsP2TKoabE5mOQXSXFFUOKfGnI9z2TNES3F9xLs0waZgCwCtVo5HPFBoNZcYmrUS0XSV+PNvY0lcsZh7Ks+KMkieWBG4nfcHoafUVwoATzygjPKt+N4+jfCyoca7ilyHHQI3ys9/D6X/Wd3+YFyVKvZbWB05BYYpdrIKrXH1mjcbe8JxIwTJT494XCLlxQF6ZSdaQrbs2KB3yI2oZG/ZD0GWpKFFs16iSP8euddxq253Yu7u7USCOXqg8/i9J/V4ad0JIoFLqdjM3Xwdwmu1t4EOXiTl+o2wfRRMY+OXfO7e7gTSgTFMAplmdMBtwC9i3KrQUXqdow==;Ec7naWlUIEgWVh4Mo9Bazw=="
 ---

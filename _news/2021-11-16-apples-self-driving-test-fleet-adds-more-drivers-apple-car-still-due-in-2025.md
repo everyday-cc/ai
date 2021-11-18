@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Regulators looking into complaint about Tesla's 'Full Self-Driving' software"
-    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
-    publishedDateTime: 2021-11-14T01:19:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/regulators-looking-complaint-teslas-full-self-driving-software-rcna5537"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna5537"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537"
+  - title: "Apple reportedly aims to debut a fully self-driving car in 2025"
+    excerpt: "Apple may be sharpening the focus of its long-in-development electric car. Bloomberg sources claim Apple is now shifting its attention to a fully self-driving car — without even a steering wheel."
+    publishedDateTime: 2021-11-18T18:27:00Z
+    webUrl: "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/"
+    ampWebUrl: "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 101
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211113-tesla-model-y-cc-811p-604deb.jpg"
-        width: 4985
-        height: 3135
-        isCached: true
-  - title: "Tesla 'Full Self-Driving' safety complaint investigated by NHTSA"
-    excerpt: "Driving” software, and the Tesla Model Y went into the wrong lane and was hit by another vehicle, according to a complaint filed by the driver with NHTSA."
-    publishedDateTime: 2021-11-14T14:43:00Z
-    webUrl: "https://www.autoblog.com/2021/11/14/tesla-full-self-driving-complaint-nhtsa/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/5472x3078+0+570/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/156832a0-6710-11eb-bfdf-08aa04837d19"
-        width: 800
-        height: 450
+      - url: "https://techcrunch.com/wp-content/uploads/2015/02/apple-car.png?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "NHTSA investigating first report of Tesla 'Full Self-Driving' crash"
     excerpt: "A California driver has reported the first alleged crash involving Tesla's Full Self-Driving feature to NHTSA. The agency is investigating the claim, which says the car turned into the wrong lane."
@@ -73,38 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Self-driving bullet train put to the test"
-    excerpt: "Members of the media were invited to view a test run of Japan's first self-driving bullet train. The 12-car Shinkansen train operated by East Japan Railway Company is equipped with an Automatic Train Operation system."
-    publishedDateTime: 2021-11-17T07:40:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211117_20/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211117_20/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20211117_20/amp.html"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 59
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211117_20_1047545_L.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Tesla’s Full Self-Driving Mode Has Registered Its First Crash With The NHTSA"
-    excerpt: "Advertisement There is a complaint registered with the National Highway Traffic Safety Administration (NHTSA) pertaining to Tesla’s Full Self-Driving (FSD) beta. The accident involved a Model Y vehicle in FSD condition that crashed in Brea,"
-    publishedDateTime: 2021-11-14T18:29:00Z
-    webUrl: "https://wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/"
-    ampWebUrl: "https://wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 56
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/tesla-autopilot.jpg"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Apple expands driver pool for self-driving car tests by 23"
     excerpt: "Apple has increased the number of drivers for its fleet of autonomous vehicles, with the headcount of testers for its self-driving vehicle systems now at 137 people."
     publishedDateTime: 2021-11-15T14:55:00Z
@@ -121,30 +73,63 @@ related:
         width: 870
         height: 485
         isCached: true
-  - title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
-    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
-    publishedDateTime: 2021-11-15T22:24:00Z
-    webUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
-    ampWebUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+  - title: "Apple now believes it can ship self-driving EV as soon as 2025, Bloomberg reports"
+    excerpt: "Apple is currently determined to ship an electric car that can drive its passengers around within the next four years, according to reporting from Bloomberg. The latest report emphasizes both the features and pacing set by current leadership over the project at Apple."
+    publishedDateTime: 2021-11-18T18:16:00Z
+    webUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/"
+    ampWebUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
     type: article
     provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 41
-  - title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
-    excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
-    publishedDateTime: 2021-11-16T20:00:00Z
-    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 34
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 39
     images:
-      - url: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving/@@images/rectangular_image/page-header?v=1637102384.82"
-        width: 1460
-        height: 821
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Entry ramp on the road to self-driving cars"
+    excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
+    publishedDateTime: 2021-11-14T17:00:00Z
+    webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
+        width: 792
+        height: 528
+        isCached: true
+  - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
+    excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
+    publishedDateTime: 2021-11-15T18:33:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apple-self-driving-car-fleet-cars-and-drivers/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 24
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/25694662556_a4f9e40693_b.jpg"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "How self-driving cars perform in fog"
+    excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
+    publishedDateTime: 2021-11-17T13:45:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17435/how-self-driving-cars-perform-in-fog"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/435/17435/Waymo_Fog_11-21.png"
+        width: 752
+        height: 423
         isCached: true
 
 secured: "wY0lpQueBeT/uoPl3OsPj1uthZ/koZCCUVmZ1luEgFQkh6W+YJmg9F8Vwlu476D4WuPoquqQ2WCO0tTftAt/BcdCrPgAxyZFrZKWioGmVnXGqt4/rBr0ilrbFSxpn2rRCTj1tj7zA4CRpz7GB60XXv82KzNzqmiOE4BTQ/6SirtxYXol+/uGKqkxiuToAE+QcwdB9SI+WZjbRZPIn1P+uBknUf6rECBoXYeTOdo5yQlDPO9blogghDd0MJlYQ7v3rDGa8Et0Id7UjCfUHf4mDiIsZxr1guhc7MvyV8UzzZzdtIkFGneC7jBK3JVDHx60Z4fRK12zGQbZn2XAUtSjA/JeVXt98/0evQkupozMjQBkvo8Vjd+0/ZsLl8oX2vdVo8cSeTOyZc+YIh3fXeU9K4akEI1gfBTmIqhLv8t4XPBJ+SUbGQwJDeAsqncntu23+PQyMbZaU0qDWKR+EgLondyaS2qG/0YY0r1Z41VG2vcHU5ArOeLQWEICVaCnqItrLC9HWgg9Hs7bdE+WOGIshg==;VtbQHyiMVrXLxSaCLRpXHw=="

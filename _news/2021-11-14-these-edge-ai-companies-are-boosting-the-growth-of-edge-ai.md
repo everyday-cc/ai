@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Here’s where MLOps is accelerating enterprise AI adoption"
+    excerpt: "DevOps fueled the enterprise shift to the cloud, and companies are in a similar phase of trying out and accepting machine learning (ML) in their production environments."
+    publishedDateTime: 2021-11-18T18:53:00Z
+    webUrl: "https://techcrunch.com/2021/11/18/heres-where-mlops-is-accelerating-enterprise-ai-adoption/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-480778288.jpg?w=600"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Samsung Accelerated Company OMNIOUS.AI Officially Launched in the US Market with Nationwide Fashion Technology Mentorship Series"
     excerpt: "Accelerated, hyper-personalized-visual AI solutions developer for fashion retailers — officially announced their US launch today by initiating the National Fashion Technology Mentorship Series. The program is focused on educating entrepreneurs and retail communities on how to navigate the technologically evolving fashion industry."
     publishedDateTime: 2021-11-16T13:45:00Z

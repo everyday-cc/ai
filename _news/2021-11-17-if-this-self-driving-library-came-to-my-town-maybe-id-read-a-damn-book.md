@@ -70,20 +70,6 @@ related:
         width: 1920
         height: 1078
         isCached: true
-  - title: "Entry ramp on the road to self-driving cars"
-    excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
-    publishedDateTime: 2021-11-14T17:00:00Z
-    webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
-        width: 792
-        height: 528
-        isCached: true
 
 secured: "pmB0bzFf6sNaV0Sj6OiwxegREqvPu126NDPBuCwA2hJenidG8V300w7Gn+6mm/IX/RejgrekA8xVGUZP/mSd7p9xSsIfIrY1uW/6eMu1eIfSIjAsYArFku6ntjaPqEg4ZukTJel9iEhJXuEBxDdp1d1WM1DuXja16L6udYdUFfAJdCb04xYkLjrByq+6+Z/oh1+83dESjffibMqIBE9bcynAoTknAtswEGVG6z8FR9OXYP+8Yms+0O/5h4ysqKBCvtgauN9MmwOY6uwJwcxVK+OnX+HPBGcn/O1Qrk9C4RKoCtFglLe54DKGNzZgZfl/JtuCvpq/bwhN+EFJFFHe5G9zgmwKPtBywhwj7pTu5YL8LbpRLekH4tNmk1VQngt/w16P/WPDeudYXSg3lPIaM3QFUQXJeDtDYWbZfnaCJwECoIzuTlD01DMYOIPjywQ0fgxDfHRRDAUkE+nhg1ZE6BCmHrWy5f1k0Td6pXaaAHEFusHWsZjWsujwxjxApFke3BZdHdyyJyUqTY2UcP6V1w==;NDE1SB7fmBzxyldTV8st0Q=="
 ---

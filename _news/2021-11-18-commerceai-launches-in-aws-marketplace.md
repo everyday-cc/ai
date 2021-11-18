@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Commerce.AI Launches In AWS Marketplace"
+    excerpt: "AWS customers worldwide now gain access to Commerce.AI, giving companies and their teams an easy way to leverage the power of unstructured data to build"
+    publishedDateTime: 2021-11-18T16:27:00Z
+    webUrl: "https://www.digitaljournal.com/pr/commerce-ai-launches-in-aws-marketplace"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://cdn.newswire.com/files/x/00/7f/49464d790dd93f82d1d3aec6089e.jpg"
+        width: 512
+        height: 510
+        isCached: true
 
 secured: "TF//uTV01cn0rRddm5iMg1pNbpGda67eduAXGjjwWDY6ur++hNSgjFrbWPeAmiZz6T7QxKPtLlopVSI3VY6DZ4C1t8R1o/4zDBjXf/kB5pcBLKErq1g4XMJEl+GCNnsFRNhkT/60EDviFcbmwns3aI50ks2EizhBrVJT4/0UeaGzB8KSnXWvXm40kIl4HFfSrtVLG74h15Bio7Uw5IiHXbSctIGsucnwd4ybu+Wl+5QGIKPA8ZDEdrNBi7rCsk6FPyRh/RrltCMtBbjpVjyxYDeaCNUS6hNv7vjMf0aAQKaEmD659rtThj1bawW+/8b33hmCrE5VXgrjR9wXBif8H4dDHf3ZTPW64HRHr+5rTns=;7tIZW3GNGqsOrM0YxJX5Ug=="
 ---

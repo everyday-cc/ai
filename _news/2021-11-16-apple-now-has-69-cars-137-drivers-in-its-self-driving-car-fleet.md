@@ -25,133 +25,112 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm aims for diversification, will soon supply chips for BMW self-driving cars"
-    excerpt: "Qualcomm Inc announced on Tuesday that BMW cars will utilize its chips in its driver-assistance and self-driving systems."
-    publishedDateTime: 2021-11-17T11:08:00Z
-    webUrl: "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/"
-    ampWebUrl: "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1"
+  - title: "Apple reportedly aims to debut a fully self-driving car in 2025"
+    excerpt: "Apple may be sharpening the focus of its long-in-development electric car. Bloomberg sources claim Apple is now shifting its attention to a fully self-driving car — without even a steering wheel."
+    publishedDateTime: 2021-11-18T18:27:00Z
+    webUrl: "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/"
+    ampWebUrl: "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/amp/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 83
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2017/09/qualcomm-chip.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2015/02/apple-car.png?w=1024"
         width: 1024
-        height: 588
+        height: 576
         isCached: true
-  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
-    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
-    publishedDateTime: 2021-11-16T17:47:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/qualcomm-diversifying-mobiles-supply-chips-bmw-self-driving-cars-2021-11-16/"
+  - title: "NHTSA investigating first report of Tesla 'Full Self-Driving' crash"
+    excerpt: "A California driver has reported the first alleged crash involving Tesla's Full Self-Driving feature to NHTSA. The agency is investigating the claim, which says the car turned into the wrong lane."
+    publishedDateTime: 2021-11-16T19:02:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/Tesla-Model-Y.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Apple expands driver pool for self-driving car tests by 23"
+    excerpt: "Apple has increased the number of drivers for its fleet of autonomous vehicles, with the headcount of testers for its self-driving vehicle systems now at 137 people."
+    publishedDateTime: 2021-11-15T14:55:00Z
+    webUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23"
+    ampWebUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 44
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/45634-88829-44849-87211-44393-86171-210914-AppleTestVehicle-xl-xl-xl.jpg"
+        width: 870
+        height: 485
+        isCached: true
+  - title: "Apple now believes it can ship self-driving EV as soon as 2025, Bloomberg reports"
+    excerpt: "Apple is currently determined to ship an electric car that can drive its passengers around within the next four years, according to reporting from Bloomberg. The latest report emphasizes both the features and pacing set by current leadership over the project at Apple."
+    publishedDateTime: 2021-11-18T18:16:00Z
+    webUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/"
+    ampWebUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
         isCached: true
-  - title: "Qualcomm to supply chips for BMW's self-driving cars"
-    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
-    publishedDateTime: 2021-11-16T13:52:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/articleshow/87741075.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/amp_articleshow/87741075.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/amp_articleshow/87741075.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87741075,imgsize-18838,width-800/87741075.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "BMW to use Qualcomm’s Soc for self-driving cars. Know more"
-    excerpt: "BMW will utilize Qualcomm Technologies to bring a full spectrum of ADAS/AD functions, including front, rear and surround view camera computer vision"
-    publishedDateTime: 2021-11-17T03:46:00Z
-    webUrl: "https://www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more-11637079056915.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more/amp-11637079056915.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more/amp-11637079056915.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2021/11/16/600x338/cq5dam.resized.img.1680.large.time1601620546255_1637057024335_1637079144170.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "BMW to use chips from Qualcomm for self-driving technology"
-    excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."
-    publishedDateTime: 2021-11-16T12:54:00Z
-    webUrl: "https://europe.autonews.com/suppliers/bmw-use-chips-qualcomm-self-driving-technology"
+  - title: "Entry ramp on the road to self-driving cars"
+    excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
+    publishedDateTime: 2021-11-14T17:00:00Z
+    webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/P90423571_highRes_bmw-ix-advanced-driv%20%281%29.jpg"
-        width: 800
-        height: 600
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
+        width: 792
+        height: 528
         isCached: true
-  - title: "BMW to use Qualcomm chips for self-driving tech"
-    excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."
-    publishedDateTime: 2021-11-16T12:54:00Z
-    webUrl: "https://europe.autonews.com/suppliers/bmw-use-qualcomm-chips-self-driving-tech"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/P90423571_highRes_bmw-ix-advanced-driv%20%281%29.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Qualcomm chips supply for BMW self-driving cars"
-    excerpt: "Qualcomm has made a major announcement regarding its new strategy to advance autonomous drive capabilities. Qualcomm and BMW have announced a new agreement to collaborate on the development of chips for future generations of driver-assistance and self-driving systems."
-    publishedDateTime: 2021-11-17T07:50:00Z
-    webUrl: "https://bestgamingpro.com/qualcomm-chips-supply-for-bmw-self-driving-cars/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 24
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Qualcomm-to-supply-chips-for-BMWs-self-driving-cars.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "BMW is turning to Qualcomm to supply chips for the automaker's self-driving cars"
-    excerpt: "Qualcomm Inc said BMW will use its chips in its next-generation driver-assistance and self-driving systems. San Diego-based Qualcomm is the world's biggest supplier of chips for mobile phones but has been diversifying its business."
-    publishedDateTime: 2021-11-16T12:43:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/why-bmw-tapping-qualcomm-supply-chips-german-automakers-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Bmw-concept-i4-new%20logo%20web_1.jpg?h=eaba4a42"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Qualcomm to make self-driving chips for BMW"
-    excerpt: "Qualcomm Technologies, Inc. will build automotive semiconductors for BMW Group’s next generation of advanced driver assistance systems (ADAS) and self-driving platforms. BMW’s next-generation automated driving stack will be powered by the Snapdragon Ride vision system-on-chip (SoC),"
-    publishedDateTime: 2021-11-17T13:39:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17434/qualcomm-to-make-self-driving-chips-for-bmw"
+  - title: "How self-driving cars perform in fog"
+    excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
+    publishedDateTime: 2021-11-17T13:45:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17435/how-self-driving-cars-perform-in-fog"
     type: article
     provider:
       name: Engineering360 News
       domain: globalspec.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/435/17435/Waymo_Fog_11-21.png"
+        width: 752
+        height: 423
+        isCached: true
+  - title: "Apple’s Self-Driving Test Fleet Adds More Drivers, Apple Car Still Due in 2025"
+    excerpt: "As far as Apple is concerned, there’s no such thing as an Apple Car currently in development, and the company’s automotive strategy comes down to other solutions like CarPlay."
+    publishedDateTime: 2021-11-15T21:50:00Z
+    webUrl: "https://www.autoevolution.com/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 20
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246_1.jpg"
+        width: 1500
+        height: 808
+        isCached: true
 
 secured: "Yd8R2B25Zz0dJwT2u8wOnBn2ZOiuLPVcN6SctLZcQTOE0nxS8qbhGcgy4m+FmYlFceFdctOpwapHZa00FIH+6u0AFndYd7PVKCl11dWnIP6+596V2mk1nqFTpISEmxmnW4F4FgDVxXEWMezGgW0aM9XiyOs1G0EOhhaNB6q3yGMEhzG7PLtBTq/nGj0Gzwi08jG6hmDHrE+ZrbfcpD7rr0ZSMx2tRPsHhL6kS0Y5wtkAxrRofFAHkSxcNNh14WoAR6cI79093WdRPIbirGpOuB8Q444q/7gIw8tqAx6irA/q4+CJoSfUh+52AIwx7PhX5OogPUWTbtUi7iMLGApDPLiUT2Waq54OicvLw1q943h4yEzyqODISguOjLoLcMWFKP5nTL40l4H12xVbTbwnjaCIOUmp87/LBSg25CEOCyA3RcaXZFXYoaYybNxw7+lNDPPZaWf39B3phJk9mIWJbRfPu2GKNmo3Rtsk4b7J808k4UAmRfJGE8QAm0NC3ZcIgZo5f4I+PX655OdMtyJjZw==;cSoXSzzowG+H95OgzRERSA=="
 ---

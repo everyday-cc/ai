@@ -38,6 +38,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "ZF to digitise production processes with help of Microsoft"
+    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
+    publishedDateTime: 2021-11-18T16:02:00Z
+    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
     excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain managementCloud-based infrastructure and collaboration to improve speed and efficiency across business operationsDigit"
     publishedDateTime: 2021-11-16T13:00:00Z
@@ -76,6 +90,6 @@ related:
       domain: newswiretoday.com
     quality: 19
 
-secured: "JH1ygCoKkPSw17wuNvewjtHR5spocLVuQyR/BNwW8p2LXYr257v+/BqlNsDaF/Pmt36mcalK/Mrp6cJIAGAo7IrbaSRZSq/ZAnAlyGOX8CmHfPyjXbzjDtA1bmDxac0aNRyCDSg80l1wqpv3SahZxiyaNstx3fGfZqPjXbn19uTjGzG52UMQBTdCXSkypmKksH/hfpesbsK7OFgw52ikaJ6uWq7xvJivaJwe4R6rGWQDrnwx1YH2egeqBdCpOg3KTc3vWJSl4UE2aHwBrNlUTus58UMfVZo40pIY6zECX11oyA14Td33uq++dLvkkL2eR5D2m/pt9GKENOH7epaNyjKHfu/xdAF+MynepQMfegc=;eiUvI4Q4OvqRiMAkxnVrDw=="
+secured: "+irhwyEe9hbbCmjqjQejIfJSdSAVk8MZT+QBkwNx2Ec/5CnENoLPfibagYyDVFs8Er+d5zOq6oIVODGxMInJ1wBihCym4QKlN6CN2Cy2SaxhGPNzjlU9DIUjhuHGVORYBWhNTioAJNaWejb7yJb3LlHBgMpstT7FzG3tQnG3V2jOdRO9IcJt5gUDNGr/AwrupPKnAZ82521vBpg6Tc5q0s51sTo2No+EhpxLspmzIZpTSGXh4DYNID71HcNWTfWDTg8Z3QDxcRhBA6q80cdUvNDKu34kGQ/GcwWYKSU3uH4p0pFf5SW6UNK10t00ueeB5XYcYO/VTA8ijEwc3ab8eXBVpCO598zXSx1lebqCR1JtiXoCOm6BS/Cx/vL8jJwK7CSNT72r6s2AdetCRGqrWPU9IIKeGkJ/Z8eVN7hpTAN1a5w+lktoy7Qwi+a/rtvJrB9GIpfAS7iSSbx/ztwyE+c77qNBxeJca/9LuYGCkk05A/hMbNmfYQscc1fYA01xGZX2gPjLyu1TBZms7+5S8Q==;qrYgolNumJ0mF2l6NQDNMw=="
 ---
 
