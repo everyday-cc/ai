@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-18-driverless-car-start-up-weride-partners-with-major-chinese-automaker-gac-on-robotaxis-as-competition-rises.md",
+      "title": "Driverless car start-up WeRide partners with major Chinese automaker GAC on robotaxis as competition rises",
+      "excerpt": "WeRide and Guangzhou Automobile Group (GAC Group) plan to make the robotaxis available via ride-hailing app Ontime to the public by 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106977211-1637212648567-WeRide_GAC_Group_and_ONTIME_jointly_launched_Robotaxi_service.png?v=1637212972",
+          "width": 2500,
+          "height": 1432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "publishedDateTime": "2021-11-18T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-in-a-5g-future-physical-work-wont-require-your-physical-presence.md",
       "title": "In A 5G Future, Physical Work Won’t Require Your Physical Presence",
       "excerpt": "It’s from here that the operator remotely pilots the machine via a 5G connection—protected from the dirty, dangerous work outside.",
@@ -1401,49 +1454,6 @@
       "provider": {
         "name": "Mobile World Live",
         "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
-      "title": "Robots hit the streets as demand for food delivery grows",
-      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.westhawaiitoday.com/2021/11/08/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
-      "originalUrl": "https://www.westhawaiitoday.com/2021/11/08/business/robots-hit-the-streets-as-demand-for-food-delivery-grows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.westhawaiitoday.com/wp-content/uploads/2021/08/og_image_logo.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "West Hawaii Today",
-        "domain": "westhawaiitoday.com",
         "images": null,
         "publishers": null,
         "authors": null

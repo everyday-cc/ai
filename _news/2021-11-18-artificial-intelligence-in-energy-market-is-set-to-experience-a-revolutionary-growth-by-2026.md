@@ -25,6 +25,19 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Energy Market to Witness Significant Growth in Coming Years - Exclusive Report by ReportsnReports"
+    excerpt: "World Artificial Intelligence in Energy market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The report evaluated key market features revenue price capacity capacity utilization"
+    publishedDateTime: 2021-11-18T05:59:00Z
+    webUrl: "https://www.openpr.com/news/2466043/artificial-intelligence-in-energy-market-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2466043/artificial-intelligence-in-energy-market-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466043/artificial-intelligence-in-energy-market-to-witness"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
+
 secured: "342hriUqqo0suspDgJy7DR7PfQIxGqkw+Bgx5LHwY82/cbzj/CsIrCeZc6wW6YfX3vk7p90o3wtaeGy/ROMts4jl6GQliFQq2QUOKy4LtExpHaylQSjAsdcM/wkrtgItVGpWA7Vi/RbPHjlFd0704+58RIVlCv9ehMxF2qW5SJUFHyqsvN2QAJlSnAZ6M+unXL5XSa9EXTbFfgKRl+m1wjq44H3V+pTUtNr+QYz078Nac0y2Ow+woW/THFtyiHbWjXsGNEMrtYEGQOtAvuRXXmvil4fnKxSAXQ0ysaY1GAP3ur/GbdILRWVHNBaSgpWObu+MlrfbphwcKVgLVBPo6WncPl2snkxlRmKPXphXMOr43D36NHeCWNamZTOS97ypF6jfrgZXXh9PtkFC/eagh93dtBmV3A0VwSWqroqDqomL1dP8T8/D76hZTWFox3rkwQGwshVrfwUSKFhNDY3OmluPmJJsSMEIk0AtecUoDIGFKawjV9HSa1WrWNIgEyOfdfiCRYvvgrFKWsKhTbclcw==;u/IbWWqrSi7Yud0QpwrjFg=="
 ---
 

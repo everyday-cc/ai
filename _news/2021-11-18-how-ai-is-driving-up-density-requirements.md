@@ -1,0 +1,69 @@
+---
+category: news
+title: "How AI is driving up density requirements"
+excerpt: "One of the technologies that are driving this need for increased density is Artificial Intelligence (AI), a technology reliant upon high-performance computing (HPC), and not showing any signs of slowing down."
+publishedDateTime: 2021-11-18T09:52:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/marketwatch/how-ai-is-driving-up-density-requirements/"
+webUrl: "https://www.datacenterdynamics.com/en/marketwatch/how-ai-is-driving-up-density-requirements/"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://media.datacenterdynamics.com/media/images/GettyImages-871148930.2e16d0ba.fill-1200x630.jpg"
+    width: 788
+    height: 415
+    isCached: true
+
+related:
+  - title: "New AI application reads eye movements"
+    excerpt: "Eye movements read by a new AI application can reveal thoughts, memories, goals — and brain diseases. A new tool developed at the Kavli Institute for Systems Neuroscience in Norway and described in an article in Nature Neuroscience,"
+    publishedDateTime: 2021-11-17T01:38:00Z
+    webUrl: "https://www.news-medical.net/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Magnetic_Resonance_Imaging-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "DOD organizations plot implementation of ethical AI in new guidance"
+    excerpt: "The Defense Innovation Unit issued the first detailed AI ethics guidance from DOD, but it only applies to DIU contractors."
+    publishedDateTime: 2021-11-17T20:06:00Z
+    webUrl: "https://www.fedscoop.com/diu-ai-ethics-guidance-for-contractors/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 54
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+        width: 629
+        height: 607
+        isCached: true
+  - title: "How AI and machine learning can streamline surgical documentation and streamline reimbursement"
+    excerpt: "During a recent session in The Business & Operations of ASCs conference hosted by Becker's ASC Review, Lucian Newman III, MD, chief medical information officer of Nuance Communications, and Tanya Fengel,"
+    publishedDateTime: 2021-11-16T07:34:00Z
+    webUrl: "https://www.beckersasc.com/leadership/how-ai-and-machine-learning-can-streamline-surgical-documentation-and-streamline-reimbursement.html?tmpl=component"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 37
+
+secured: "QEoE8hESAgtGRBhk9BfMfkEp/FoexeMBWJy1OL3MMlDTh3JoxfQ7jctzTqoyJq+a+fK259b28vV2APHMPbsIMQmnzG+bIfrRLSOvt/3FnyIgQl7zdaIKTGhNT6ExznGRchNyBQrOE8J5himX7c/4+PDNLQchIPk/WY59WdNwKmKMyBxka7UkA739FTnUWEvjUI0CAoPzciZapmWinDXcdfcGE311BP3cCXTAF5k5aqXvaEa8k40Pfximo/qWQxJozbeM3frauyKyqOvIUtf8U4CgXEIcJKyx4C56w/6ya07YzpZzLFibKONdwq6/TO/Ht9nfhvypb4p+AMKwvwBFL//kNfP+Os6mdmyFVF6wp88=;PZvUslC6FkP702dt8l4lZA=="
+---
+

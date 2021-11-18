@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-18T07:52:00Z
 originalUrl: "https://www.openpr.com/news/2466240/global-artificial-intelligence-ai-market-2021-net-worth-is-us"
 webUrl: "https://www.openpr.com/news/2466240/global-artificial-intelligence-ai-market-2021-net-worth-is-us"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.openpr.com/U/b/Ub18726066_g.jpg"
@@ -24,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Retail Market 2021-2028"
+    excerpt: "New study report \" Artificial Intelligence (AI) in Retail Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30."
+    publishedDateTime: 2021-11-18T09:39:00Z
+    webUrl: "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
+    ampWebUrl: "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub18124618_g.jpg"
+        width: 800
+        height: 428
+        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market Report Up to 2031"
     excerpt: "Visiongain has published a new report on Artificial Intelligence AI in Construction Market Report to 2031 Forecasts by offering Solution Services by stage Pre construction Construction Stage Post construction by deployment type Cloud On premises by technology Machine Learning Deep"
     publishedDateTime: 2021-11-15T09:28:00Z
@@ -54,7 +71,65 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence and Advanced Machine Learning Market Size, Share, Trend and Forecast Till 2028"
+    excerpt: "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2"
+    publishedDateTime: 2021-11-17T14:44:00Z
+    webUrl: "https://menafn.com/1103192538/Artificial-intelligence-and-Advanced-Machine-Learning-Market-Size-Share-Trend-and-Forecast-Till-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934797"
+        width: 539
+        height: 249
+        isCached: true
+  - title: "Artificial Intelligence (AI) In Drug Discovery Market 2021 - Industry Outlook, Growth Factors, Demand Drivers, Trends Analysis, And Forecast"
+    excerpt: "Artificial Intelligence AI In Drug Discovery Global Market Report 2021 COVID 19 Growth And Change by Research Company is the most comprehensive report available on this market with analysis of the market s historic and forecast growth drivers"
+    publishedDateTime: 2021-11-16T04:17:00Z
+    webUrl: "https://www.openpr.com/news/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub16875132_g.jpg"
+        width: 800
+        height: 2000
+        isCached: true
+  - title: "Edge Artificial Intelligence (AI) Software Market Size- Industry Share, Growth, Trends and Forecast 2028"
+    excerpt: "Emergen Research Logo The study methodologies used to examine the Edge Artificial Intelligence (AI) Software market for the forecast perio"
+    publishedDateTime: 2021-11-15T08:42:00Z
+    webUrl: "https://menafn.com/1103172212/Edge-Artificial-Intelligence-AI-Software-Market-Size-Industry-Share-Growth-Trends-and-Forecast-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?646313"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in BFSI Market Report 2020 by Global Key Players, Countries, Size, Forecast to 2028"
+    excerpt: "The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 SURREY, BRITIS"
+    publishedDateTime: 2021-11-15T06:45:00Z
+    webUrl: "https://menafn.com/1103171654/Artificial-Intelligence-in-BFSI-Market-Report-2020-by-Global-Key-Players-Countries-Size-Forecast-to-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?220416"
+        width: 374
+        height: 250
+        isCached: true
 
-secured: "MoMeIJz4yXhAR63GhaT3q00kw2xQKYh4eQyepI1KtnMdSpdTPoxsyKklk1S1Y31IROrRggCS9rbFkRpvb3oyGkB2vLYutFtiWXcsZtzsVUY7BWwielJjBE1DXlRefvnpQq0JmN7Id1Ek9BgxM7sk34hq58PBUaqq7WLkuAGkhm+T4X7NnZ+zqLtjg6xaDLyc66EGJP6q5k0B5gvRDEDYfoV8UZevy3SU7kfWsXiiH8mkmwFJ17CSOnsJXSEFINh1HS9TGIpYATBO2qFhvI5WALpAlkuNbj3y2kmUu8uWRGJVOV5Kp9/NHddmlFcvoT06ar/GvhaxOiVSglndqxzYmzIwKQC6DtZPTagE3oQHKsQ=;5PtfnrCYhgytSoYLspDjdg=="
+secured: "CvYWTRo3mNdOdRpYJ02JiafngVpw1P6ZjVApUWWdPo77bBhSy8FHX15y5HE80q3JsISn2vrB2S/4cmDmXfSvijdjp5ruJkWJSCtHUm2hUSXYscxGZduvfbri/o6D+l19oOffe9jsWw2OctI5ouQaSHQXh3WWpV/38GxVhPnkx+d/5+vBfkzEeP1yvrZ+c/1MxWmnMBpnQKwOmhOkGCFHzJwnOe+Tm1FimaaUHCmuwXMsWD5aTVqSvZubwBOWdmJSAUo/fBcViM/+MUorpJ3VYhcnHbl9m2cSR1bS5MCegOJ3i24v1FNx9pFW+aZA00jnk18VDBZ4UZORzbf6zbU9Sh43nAVRLYFim1i5dPkXWBoDlCm6CjfeQnucgvDMu3+j9NwFGY0yhr7otTM+isUdHzW70hjvLJYyusdlOro/YeIJxqE0/52hyKaFW8KoLUEak1n1VRVKdn0jTYJ861WSUHKosI8yaPVVlbHwvHydJsK7zenaI9sg6+ccYK/y3Q5ARvPBiVLR6Jas1XSB05L+VA==;3NkPlL6k7DI4J28sNYh5IQ=="
 ---
 

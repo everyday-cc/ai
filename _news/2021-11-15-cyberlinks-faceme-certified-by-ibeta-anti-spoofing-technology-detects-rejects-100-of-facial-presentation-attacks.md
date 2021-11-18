@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "IDEMIA’s facial recognition device VisionPass gets best results from iBeta antispoofing evaluation"
+    excerpt: "IDEMIA announces that its facial recognition device for access control VisionPass has passed with 100% success the Level 1 and Level 2 Presentation Attack Detection (PAD/spoofing attack)"
+    publishedDateTime: 2021-11-18T10:19:00Z
+    webUrl: "https://www.sourcesecurity.com/news/idemia-facial-recognition-device-visionpass-results-co-3349-ga.1637216121.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/idemia-facial-recognition-device-visionpass-results-co-3349-ga.1637216121.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/idemia-facial-recognition-device-visionpass-results-co-3349-ga.1637216121.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 45
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/harris-county-enhances-safety-and-efficiency-with-honeywell-technology-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
   - title: "Anti-spoofing tech detects, rejects 100% of facial presentation attacks"
     excerpt: "CyberLink Corp., an artificial intelligence (AI) and facial recognition technology company, announced that the anti-spoofing capabilities of its FaceMe facial recognition solution achieved a True Rejection Rate of 100%,"
     publishedDateTime: 2021-11-15T18:41:00Z

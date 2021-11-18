@@ -2,27 +2,228 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-18-sanofi-invests-180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline.md",
-      "title": "Sanofi Invests $180 Mln Equity In AI Startup Owkin To Develop Oncology Pipeline",
-      "excerpt": "French drug major Sanofi (SNYNF, SNY) announced Thursday an equity investment of $180 million and a new strategic collaboration with Owkin, a French American startup that specializes in artificial intelligence or AI and federated learning for medical research.",
+      "path": "_news/2021-11-18-driverless-car-start-up-weride-partners-with-major-chinese-automaker-gac-on-robotaxis-as-competition-rises.md",
+      "title": "Driverless car start-up WeRide partners with major Chinese automaker GAC on robotaxis as competition rises",
+      "excerpt": "WeRide and Guangzhou Automobile Group (GAC Group) plan to make the robotaxis available via ride-hailing app Ontime to the public by 2022.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline",
-      "originalUrl": "https://www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline",
+      "webUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 88,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106977211-1637212648567-WeRide_GAC_Group_and_ONTIME_jointly_launched_Robotaxi_service.png?v=1637212972",
+          "width": 2500,
+          "height": 1432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline?amp",
-      "publishedDateTime": "2021-11-17T22:15:00-08:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "publishedDateTime": "2021-11-18T02:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-nvidia-crypto-mining-chip-sales-drop-60-overall-revenue-growth-strong.md",
+      "title": "Nvidia Crypto Mining Chip Sales Drop 60%, Overall Revenue Growth Strong",
+      "excerpt": "Nvidia has released its financial results for the third quarter of the 2022 fiscal year. While overall revenue has grown considerably, the sales of its 'Cryptocurrency Mining Processors' have experienced a sharp decline.",
+      "sourceUrl": null,
+      "webUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "originalUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32659.pcdn.co/wp-content/uploads/2021/08/BIC_nvidia_blockchain_AI.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "cdnAmpWebUrl": "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "publishedDateTime": "2021-11-18T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https//beincrypto.com",
+        "domain": "beincrypto.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-artificial-intelligence-ai-in-retail-market-2021-2028.md",
+      "title": "Artificial Intelligence (AI) in Retail Market 2021-2028",
+      "excerpt": "New study report \" Artificial Intelligence (AI) in Retail Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub18124618_g.jpg",
+          "width": 800,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "publishedDateTime": "2021-11-18T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-optima-recruit-ai-pioneer-to-boost-customer-service-in-banking-sector.md",
+      "title": "Optima recruit AI pioneer to boost customer service in banking sector",
+      "excerpt": "Optima Partners have recruited an AI pioneer at their Edinburgh HQ to work on improved customer service in the banking industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
+      "originalUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deadlinenews.co.uk/wp-content/uploads/2021/11/Danilo-Blagojevich-e1637227266740.jpeg",
+          "width": 803,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
+      "cdnAmpWebUrl": "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
+      "publishedDateTime": "2021-11-18T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline News",
+        "domain": "deadlinenews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-drugmaker-sanofi-invests-180-mln-in-french-ai-startup-owkin.md",
+      "title": "Drugmaker Sanofi invests $180 mln in French AI startup Owkin",
+      "excerpt": "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/drugmaker-sanofi-invests-180-mln-french-ai-startup-owkin-2021-11-18/",
+      "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/drugmaker-sanofi-invests-180-mln-french-ai-startup-owkin-2021-11-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/cFRp1zASbvZvDnksOfXUAJbrAzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OTWRU7Z575MVRFR67QIMOB5ISQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1019,213 +1220,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient.md",
-      "title": "How AI and NLP are helping healthcare call centers to be more efficient",
-      "excerpt": "AI has the potential to help healthcare call centers—and it couldn't come at a better time. Callers are frustrated and needing help more than ever, so this solution could make a big difference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/12/04/f6895991-70f5-431a-a04a-4450b0104d05/resize/1200x/9a0404ccf9a3aeb492f2e23c9c681a0b/istock-1027578950.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "publishedDateTime": "2021-11-17T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-the-impact-of-climate-change-and-how-ai-can-help.md",
-      "title": "The Impact Of Climate Change And How AI Can Help",
-      "excerpt": "Embracing and implementing artificial intelligence in our organizations is a huge step toward adjusting to our harsh reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193b6e4c36862f21d707d2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform.md",
-      "title": "PayZen secures $15M Series A for ‘care now, pay later’ healthcare platform",
-      "excerpt": "Healthcare costs in the U.S. are steadily rising, and the share patients must pay out-of-pocket has increased in tandem. Nearly one in three American households have delayed medical care due to its cost,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform/",
-      "originalUrl": "https://techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/PZ_Founders_Oct21_0529.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform/amp/",
-      "publishedDateTime": "2021-11-17T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai-customer-service-startup-netomi-raises-30-million.md",
-      "title": "AI Customer-Service Startup Netomi Raises $30 Million",
-      "excerpt": "The new round of funding values the company at $210 million, up from a valuation of $67.5 million in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
-      "originalUrl": "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-436249/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
-      "publishedDateTime": "2021-11-17T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline?amp"
 type: article
 quality: 63
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -20,6 +20,29 @@ topics:
   - AI
 
 related:
+  - title: "Drugmaker Sanofi invests $180 mln in French AI startup Owkin"
+    excerpt: "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday."
+    publishedDateTime: 2021-11-18T07:52:00Z
+    webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/drugmaker-sanofi-invests-180-mln-french-ai-startup-owkin-2021-11-18/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/cFRp1zASbvZvDnksOfXUAJbrAzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OTWRU7Z575MVRFR67QIMOB5ISQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Drugmaker Sanofi Invests $180 Million in French AI Startup Owkin"
+    excerpt: "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday."
+    publishedDateTime: 2021-11-18T08:52:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-11-18/drugmaker-sanofi-invests-180-million-in-french-ai-startup-owkin"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Sanofi inks $270M cancer AI deal with R&D platform developer Owkin"
     excerpt: "The two-part deal includes a $180 million equity investment in the company alongside a $90 million discovery and development partnership that spans the next three years."
     publishedDateTime: 2021-11-18T05:30:00Z

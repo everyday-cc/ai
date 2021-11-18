@@ -2,6 +2,144 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-08-commonwealth-bank-of-australia-announces-artificial-intelligence-partnership.md",
+      "title": "Commonwealth Bank of Australia announces Artificial Intelligence partnership",
+      "excerpt": "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newstrack.in/uploads/latest-news/world-news/Nov/08/big_thumb/commonWealth_618918bf8cac0.jpg",
+          "width": 631,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
+      "publishedDateTime": "2021-11-08T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact.md",
+      "title": "Meet TinyML: The Latest Machine Learning Tech Having An Outsize Business Impact",
+      "excerpt": "As device sensors proliferate across every company’s value chain – from new product development through inspection, tracking, and delivery – tinyML is surfacing to provide actionable insights, transforming business as we know it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618146c79cad7a607fa9a494%2F0x0.jpg",
+          "width": 1200,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact/amp/",
+      "publishedDateTime": "2021-11-08T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-enterprai-launches-new-way-for-global-macro-players-to-stay-on-top-of-financial-markets.md",
+      "title": "Enterprai Launches New Way for Global Macro Players to Stay on Top of Financial Markets",
+      "excerpt": "Enterprai - the AI-powered SaaS workstation for global macro professionals, pioneering predictive analytics for FX and fixed income markets - today launched a set of products offering global macro portfolio managers,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-london-financial-markets-fb9501d7c7a03913bcdd22d7f6ee3ed4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-london-financial-markets-fb9501d7c7a03913bcdd22d7f6ee3ed4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail.md",
       "title": "Like It Or Not, Artificial Intelligence Is Coming To Every Part Of Retail",
       "excerpt": "When I talk to retailers about artificial intelligence, their eyes glaze over, like I’m speaking a foreign language and very few people want to talk about it. But it’s coming, it’s unavoidable. AI is going to pervade almost every aspect of retail,",
@@ -1049,152 +1187,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai.md",
-      "title": "First Artificial Intelligence-based driver evaluation hub launched in Dubai",
-      "excerpt": "Dubai: An Artificial Intelligence-based driving hub is opening its doors in Dubai with an aim to cut accident risks and improve drivers’ skills. Starting November 15, a private driving institute in Dubai will make use of the Artificial Intelligence (AI)-based driver evaluation hub,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
-      "originalUrl": "https://gulfnews.com/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/11/07/AI-based-driver-evaluation-1636293949003_17cfab8369f_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
-      "publishedDateTime": "2021-11-07T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-facial-recognition-on-smartphones-is-it-secure-and-should-you-use-it.md",
-      "title": "Facial recognition on smartphones: Is it secure and should you use it?",
-      "excerpt": "Facial recognition has become common on smartphones and laptops, but they're not all equally reliable or even secure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
-      "originalUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2018/10/huawei-mate-20-pro-review-aa-notch-3d-face-unlock-earpiece-11.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/face-unlock-smartphones-3043993/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/face-unlock-smartphones-3043993/",
-      "publishedDateTime": "2021-11-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-h2oai-raises-100m-at-a-16b-pre-money-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise.md",
-      "title": "H2O.ai raises $100M at a $1.6B pre-money valuation for tools to make AI usable by any kind of enterprise",
-      "excerpt": "H2O.ai — a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services — has seen a surge of interest as AI applications have become more ubiquitous,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/",
-      "originalUrl": "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/27307283983_c56396a33a_k.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/amp/",
-      "publishedDateTime": "2021-11-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

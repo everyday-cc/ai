@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-24-gm-invests-300m-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
+      "title": "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China",
+      "excerpt": "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a",
+      "sourceUrl": null,
+      "webUrl": "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html",
+      "originalUrl": "https://www.greencarcongress.com/2021/09/20210924-momenta.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png",
+          "width": 1128,
+          "height": 1132,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Green Car Congress",
+        "domain": "greencarcongress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-the-7-biggest-artificial-intelligence-ai-trends-in-2022.md",
+      "title": "The 7 Biggest Artificial Intelligence (AI) Trends In 2022",
+      "excerpt": "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614d55107441e2d9ba4238f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/09/24/the-7-biggest-artificial-intelligence-ai-trends-in-2022/amp/",
+      "publishedDateTime": "2021-09-23T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-gm-invests-300m-in-chinas-self-driving-car-company-momenta.md",
       "title": "GM invests $300M in China’s self-driving car company Momenta",
       "excerpt": "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China.",
@@ -1295,92 +1391,6 @@
       "provider": {
         "name": "Government Technology",
         "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-walmart-partners-with-ford-to-test-self-driving-delivery-in-3-cities.md",
-      "title": "Walmart partners with Ford to test self-driving delivery in 3 cities",
-      "excerpt": "Retail giant Walmart announced on Wednesday that it's partnering with Ford and an artificial intelligence company to test a self-driving delivery service in three American cities in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/8241631708927/2021/1/7539b99d39407142a709854e4177d7a9/v1.5/Walmart-partners-with-Ford-to-test-self-driving-delivery-in-3-cities.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/09/15/ford-walmart-self-driving/8241631708927/",
-      "publishedDateTime": "2021-09-15T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-bosch-driverless-the-journey-begins.md",
-      "title": "Bosch DRIVERLESS: the journey begins",
-      "excerpt": "Close your eyes. Let your imagination flow. What is your dream? Think about it. Done? If the answer you gave is 'working in the world of racing,' then everything written below will sound very interesting to you.",
-      "sourceUrl": null,
-      "webUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
-      "originalUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-1.motorsport.com/images/amp/YP3Jzlj2/s6/bosch-driverless-intro-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
-      "cdnAmpWebUrl": "https://it-motorsport-com.cdn.ampproject.org/c/s/it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
-      "publishedDateTime": "2021-09-15T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motorsport",
-        "domain": "motorsport.com",
         "images": null,
         "publishers": null,
         "authors": null

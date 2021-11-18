@@ -2,6 +2,197 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-16-deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content.md",
+      "title": "Deep tech, no-code tools will help future artists make better visual content",
+      "excerpt": "The future creator economy will offer incredible business opportunities in visual platforms and tools that enable a focus on content.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1335175570.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/amp/",
+      "publishedDateTime": "2021-11-15T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-strange-news-virgin-condor-births-ethical-ai-facebook-and-facial-recognition.md",
+      "title": "Strange News: Virgin Condor Births, Ethical AI, Facebook and Facial Recognition",
+      "excerpt": "Check out this great listen on Audible.com. Scientists discover that the endangered California Condor is capable of producing offspring without the presence of male condors, prompting troubling questions for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.audible.com/pd/B09LVW43PR",
+      "originalUrl": "https://www.audible.com/pd/B09LVW43PR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/61CIjwuBRcS._SL500_.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Audible",
+        "domain": "audible.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-wfans-steve-somers-signs-off-jerry-seinfeld-helps-say-goodbye-defends-mets-steve-cohen.md",
+      "title": "WFAN’s Steve Somers signs off: Jerry Seinfeld helps say goodbye, defends Mets’ Steve Cohen",
+      "excerpt": "Longtime WFAN host Steve “The Schmoozer” Somers is leaving the station. Somers said it will be a mutual parting after he declined WFAN’s offer to return to his old overnight job full-time",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/profile/steve-cohen/?sh=7b1407a363f8",
+      "originalUrl": "https://www.nj.com/sports/2021/11/wfans-steve-somers-signs-off-jerry-seinfeld-helps-say-goodbye-defends-mets-steve-cohen.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5a8d946e4bbe6f2652f61ca6%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D703%26cropX2%3D3292%26cropY1%3D80%26cropY2%3D2667",
+          "width": 416,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NJ.com",
+        "domain": "nj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs.md",
+      "title": "SambaNova is enabling disruption in the enterprise with AI language models, computer vision, recommendations, and graphs",
+      "excerpt": "SambaNova just added another offering under its umbrella of AI-as-a-service portfolio for enterprises: GPT language models. As the company continues to execute on its vision, we caught up with CEO Rodrigo Liang to look both at the big picture and under the hood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/",
+      "originalUrl": "https://www.zdnet.com/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4a8b0290f235514269412b222a86a7ef30c43b42/2021/11/03/496b64e1-63e8-4242-a385-095add38f1cb/ai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/",
+      "publishedDateTime": "2021-11-15T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-how-waymos-self-driving-cars-handle-fog-in-sf.md",
       "title": "How Waymo’s self-driving cars handle fog in SF",
       "excerpt": "Waymo's robotaxis face unique challenges driving in San Francisco, where there's a one in three chance of fog every day.",
@@ -786,48 +977,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-15-artificial-intelligence-ai-in-construction-market-report-up-to-2031.md",
-      "title": "Artificial Intelligence (AI) in Construction Market Report Up to 2031",
-      "excerpt": "Visiongain has published a new report on Artificial Intelligence AI in Construction Market Report to 2031 Forecasts by offering Solution Services by stage Pre construction Construction Stage Post construction by deployment type Cloud On premises by technology Machine Learning Deep",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2461984/artificial-intelligence-ai-in-construction-market-report-up",
-      "originalUrl": "https://www.openpr.com/news/2461984/artificial-intelligence-ai-in-construction-market-report-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub15145183_g.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up",
-      "publishedDateTime": "2021-11-15T01:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-15-aiml-workloads-need-extra-security.md",
       "title": "AI/ML Workloads Need Extra Security",
       "excerpt": "The need for security is pervading all electronic systems. But given the growth in data-center machine-learning computing, which deals with extremely valuable data, some companies are paying particular attention to handling that data securely.",
@@ -1047,162 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-report-80-of-fintech-execs-worry-about-authentication-security-tools.md",
-      "title": "Report: 80% of fintech execs worry about authentication security tools",
-      "excerpt": "Legacy IT authentication security tools, such as one-time passwords, possess vulnerabilities capable of being exploited.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
-      "originalUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/2-2.png?w=600&resize=600%2C600&strip=all",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/",
-      "publishedDateTime": "2021-11-14T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-embedding-artificial-intelligence-at-work-from-efficiency-gains-to-leadership-expertise.md",
-      "title": "Embedding Artificial Intelligence At Work: From Efficiency Gains To Leadership Expertise",
-      "excerpt": "Despite the positive benefits of AI technologies in the workplace, further research is needed on the ethical, moral, and legal matters related to adopting such technologies and how disruption may even redefine how traditional business and management functions are organized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6190da3008ee75ea9193c0c6%2F0x0.jpg%3FcropX1%3D269%26cropX2%3D1664%26cropY1%3D0%26cropY2%3D784",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
-      "publishedDateTime": "2021-11-14T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-25-tech-gifts-you-and-your-kids-will-go-crazy-over.md",
-      "title": "25 Tech Gifts (You and) Your Kids Will Go Crazy Over",
-      "excerpt": "This guide has gadgets for every kid on your list this year—to help them to play, learn, code, rock out and roll down the street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809",
-      "originalUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1929915/kid-tech-holiday-gift-guide-2021.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809?amp=1",
-      "publishedDateTime": "2021-11-14T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

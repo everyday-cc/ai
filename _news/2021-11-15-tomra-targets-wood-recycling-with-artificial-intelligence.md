@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "TOMRA launches a new deep learning-based application for wood sorting"
+    excerpt: "The sensor-based sorting specialist pioneers the use of deep learning technology to distinguish between different types of wood-based materials and boost yield and purity."
+    publishedDateTime: 2021-11-18T09:26:00Z
+    webUrl: "https://waste-management-world.com/a/tomra-launches-a-new-deep-learning-based-application-for-wood-sorting"
+    type: article
+    provider:
+      name: Waste to energy
+      domain: waste-management-world.com
+    quality: 39
+    images:
+      - url: "https://imgs.waste-management-world.com/m/3912_1_1200-0-1.85_.jpg"
+        width: 1200
+        height: 648
+        isCached: true
   - title: "TOMRA unveils deep learning technology for sorting wood"
     excerpt: "TOMRA has announced that it will be implementing deep learning technology in its wood recycling operations in order to distinguish between different types of material. The recycling company claims that the use of artificial intelligence will ‘boost yield and purity’ across its activity,"
     publishedDateTime: 2021-11-17T16:45:00Z
@@ -65,20 +79,6 @@ related:
       - url: "https://www.waste360.com/sites/waste360.com/files/tomrawood.png"
         width: 1540
         height: 800
-        isCached: true
-  - title: "Brivo Unveils Anomaly Detection, a Revolutionary Technology that Harnesses Access Data and Machine Learning to Strengthen Built World Security"
-    excerpt: "Brivo – a global leader in cloud-based access control and smart building technologies – today announced the release of Anomaly Detection in its flagship access control solution, Brivo Access. Anomaly Detection is a patent-pending technology that uses advanced analytics with machine learning algorithms to compare massive amounts of user and event data to identify events that are out of the ordinary or look suspicious,"
-    publishedDateTime: 2021-11-17T14:48:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-b06cd4146271a7e88559fa81e6c86794"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "0M86nZJf4F/+P/deNRw1DrdJ1qSlW8kWr++LoSY/U/enxFqJdVagOE6yZMnop0KnMDio6HZW+TKQXdySFngfUTe/AJQDt8u1nmw1VkNgKLY+hRE+tHh5B3phXwh+yaEmnRBraCIw21AMc6QaU8MD0kpU4l8DOGdzZRrNdweuBGus7XDuUP+NWOwhwqd1n70omZmlXdn0ZHYTuKFLwmHT8l26CInXat3n1foIQkSQGVO5rkKdUy80NBFMSDcDrYtBz2wog7VrT7rMoGdxsRbimiG8IGEu4kwu85jE35T3D0k/jYMt6kw5EX/i+ZuYWTVhu8mqg4C8c+BwXs2GkAD98gXIwLYwdaMkUshUI9hF9RAQMrnSq6ak9NgiywPBFOfmB7mXY+HeSgo24uaYP2hvD9N0c/IpnIHEdno5fTRcQ7V47/0BIgcMHrhdCxz7/HAtJk27w3pYAcz+fkpSJonVt0tgtHkzT+8TUwc7XX1ErWq+KXydATudqcedgAx1xqm5IwwN7Z8ROvqjrnQbKOQ/PA==;4VYSeOxcL5Cx1rmvpCCQaQ=="

@@ -35,11 +35,25 @@ related:
     provider:
       name: BBC
       domain: bbc.co.uk
-    quality: 59
+    quality: 57
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/69FC/production/_121523172_gettyimages-79670619.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "AI project launched to reduce harm among pregnant black women"
+    excerpt: "The maternal mortality rates of women from Asian and mixed ethnicity backgrounds around twice as high compared with white women."
+    publishedDateTime: 2021-11-18T08:39:00Z
+    webUrl: "https://www.irishexaminer.com/world/arid-40747107.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 39
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/5491/2745837_1_seoimageog_23042187-1_1_1_.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "kpxEkrUN0iZCew5zPhCOCXI0wLPlQ2N+0lnYGNc2bUp6p7sqpmqnagwJnfW59UBL6H2BVRIyIWqdlCDe4Fx8XQxvej98d60HBlWUeAOi1pmhNBrcbvmB4383+EDLscm9oAGr03dfvZ36vHxXeBG/5tPMASWQpRbSAH4OJcIRG6bE+EAVTurICbPn9PJgvSOOUnODAlwMHROnN/KsVFvGhoI1QkY4T46cLoHZXQLOKDZrN6L4lxiqctC5bqoixk41Nm3OB6K0OXU5z8UKn1EdfzmZgb1pc6i0EtOzWYv6sakGAjcXqXhp1mSazo0ywajCCO33r5l7VZj3w1h0ZHpf/EA//yP6ZdD0bjC4E7I193s=;u18PuAMVZHMkhh7dUIOt5g=="

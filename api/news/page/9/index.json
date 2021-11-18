@@ -2,6 +2,152 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-11-10-lawmakers-come-for-facebook-algorithm-with-filter-bubble-bill.md",
+      "title": "Lawmakers come for Facebook algorithm with 'filter bubble' bill",
+      "excerpt": "Facebook's algorithm sucks, and Congress wants to do something about it. A bipartisan group of lawmakers is pushing forward what it's titled the \"Filter Bubble ... the bill is aimed at the heart ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/filter-bubble-transparency-act-threatens-facebook-news-feed",
+      "originalUrl": "https://mashable.com/article/filter-bubble-transparency-act-threatens-facebook-news-feed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/02zPzzQTuSRukpzxcBQv9DD/hero-image.fill.size_1200x675.v1636502109.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T15:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production.md",
+      "title": "ML observability platform WhyLabs raises $10M to monitor models and data in production",
+      "excerpt": "WhyLabs, a startup developing an observability platform for machine learning projects, has raised $10 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/zero-maintenance-dc986af684be6e69821625a4dbbfc4c5.png?w=800&resize=800%2C495&strip=all",
+          "width": 800,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/amp/",
+      "publishedDateTime": "2021-11-09T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters.md",
+      "title": "Inworld AI joins metaverse innovation with AI-driven virtual characters",
+      "excerpt": "Inworld AI announces plans to populate the metaverse with AI-driven virtual characters, and raises $7 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/9xonhbI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/inworld-ai-joins-metaverse-innovation-with-ai-driven-virtual-characters/amp/",
+      "publishedDateTime": "2021-11-09T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-timnit-gebru-says-artificial-intelligence-needs-to-slow-down.md",
       "title": "Timnit Gebru Says Artificial Intelligence Needs to Slow Down",
       "excerpt": "Artificial intelligence researchers are facing a problem of accountability: How do you try to ensure decisions are responsible when the decision maker is not a responsible person, but rather an algorithm?",
@@ -1038,160 +1184,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter.md",
-      "title": "Peloton's $495 Guide Camera Uses AI to Help You Strength Train Smarter",
-      "excerpt": "The Peloton Guide uses machine learning and smart camera technology to track your movements, assess your form, and recommend classes focused on muscle groups you need to work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
-      "originalUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07F3bNYyH001RVJQnJLO1dl-1.1636390379.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
-      "publishedDateTime": "2021-11-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-new-world-population-problems-are-literally-letting-ai-enemies-win-the-game.md",
-      "title": "'New World' Population Problems Are Literally Letting AI Enemies Win The Game",
-      "excerpt": "New World has 2,000 players on a server, which was supposed to be enough to sustain a healthy, large-scale PvE and PvP endgame of faction wars and defenses against demon hordes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a76f1c59faea5c3bab64a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/11/09/new-world-population-problems-are-literally-letting-ai-enemies-win-the-game/amp/",
-      "publishedDateTime": "2021-11-09T04:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-machine-learning-builds-customer-advocacy-beyond-black-friday-spike.md",
-      "title": "Machine Learning Builds Customer Advocacy Beyond Black Friday Spike",
-      "excerpt": "Savvy CPG leaders this holiday season are firing up customer advocacy with an online referral marketing platform that rewards high-value shoppers and their trusted circles for growth long after Black Friday sales peak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182cd6cfb85e417104d17a2%2F0x0.jpg",
-          "width": 971,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/11/09/machine-learning-builds-customer-advocacy-beyond-black-friday-spike/amp/",
-      "publishedDateTime": "2021-11-09T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

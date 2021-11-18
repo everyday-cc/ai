@@ -2,6 +2,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-15-report-80-of-fintech-execs-worry-about-authentication-security-tools.md",
+      "title": "Report: 80% of fintech execs worry about authentication security tools",
+      "excerpt": "Legacy IT authentication security tools, such as one-time passwords, possess vulnerabilities capable of being exploited.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
+      "originalUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/2-2.png?w=600&resize=600%2C600&strip=all",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/",
+      "publishedDateTime": "2021-11-14T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-14-embedding-artificial-intelligence-at-work-from-efficiency-gains-to-leadership-expertise.md",
+      "title": "Embedding Artificial Intelligence At Work: From Efficiency Gains To Leadership Expertise",
+      "excerpt": "Despite the positive benefits of AI technologies in the workplace, further research is needed on the ethical, moral, and legal matters related to adopting such technologies and how disruption may even redefine how traditional business and management functions are organized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
+      "originalUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6190da3008ee75ea9193c0c6%2F0x0.jpg%3FcropX1%3D269%26cropX2%3D1664%26cropY1%3D0%26cropY2%3D784",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
+      "publishedDateTime": "2021-11-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-14-25-tech-gifts-you-and-your-kids-will-go-crazy-over.md",
+      "title": "25 Tech Gifts (You and) Your Kids Will Go Crazy Over",
+      "excerpt": "This guide has gadgets for every kid on your list this year—to help them to play, learn, code, rock out and roll down the street.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809",
+      "originalUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1929915/kid-tech-holiday-gift-guide-2021.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809?amp=1",
+      "publishedDateTime": "2021-11-14T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-14-4-ways-successful-enterprises-are-driving-success-in-ai.md",
       "title": "4 Ways Successful Enterprises Are Driving Success In AI",
       "excerpt": "In this article, I provide you with a summary of Deloitte's findings to determine whether or not you need to go deeper to get more value.",
@@ -1104,144 +1260,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-googles-self-supervised-ai-model-can-help-improve-neural-networks-in-medical-research.md",
-      "title": "Google’s self-supervised AI model can help improve neural networks in medical research",
-      "excerpt": "The key postulate of self supervised machine learning models is that they are trained on unlabelled data, thereby enabling application of AI in niche areas where collection of clearly defined data sets may be difficult,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research-11636706824623.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research-11636706824623.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/11/12/600x338/6829affde82f48e5b57be0ef8b730720-c93d3f78e87f4e7da936d62d7e48ef21-0_1623317195889_1636707284807.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research/amp-11636706824623.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research/amp-11636706824623.html",
-      "publishedDateTime": "2021-11-12T00:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-carnegie-mellon-university-cmu-invites-students-to-explore-artificial-intelligence-with-opening-of-jpmorgan-chase-co-ai-maker-space.md",
-      "title": "Carnegie Mellon University: CMU Invites Students To Explore Artificial Intelligence With Opening of JPMorgan Chase & Co. AI Maker Space",
-      "excerpt": "Reid Simmons has stopped trying to guess what students will come up with next.As head of Carnegie Mellon University's undergraduate program in artificial intelligence, Simmons watches what some of the most creative minds are doing with AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmu.edu/news/stories/archives/2021/november/jp-morgan-ai-maker-space.html",
-      "originalUrl": "https://indiaeducationdiary.in/carnegie-mellon-university-cmu-invites-students-to-explore-artificial-intelligence-with-opening-of-jpmorgan-chase-co-ai-maker-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.cmu.edu/news/stories/archives/2021/november/images/jp-morgan-ai-maker-space-900x600-02-min.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-12T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning.md",
-      "title": "Google Research changes the game for medical imaging with self-supervised learning",
-      "excerpt": "Medical training data has a great cost, which makes it difficult to use deep learning for many apps. Google Research suggests a new solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/",
-      "originalUrl": "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/shutterstock_734378278-e1636485612226.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/",
-      "publishedDateTime": "2021-11-11T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

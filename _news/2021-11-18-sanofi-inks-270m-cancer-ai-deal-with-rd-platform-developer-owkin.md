@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Drugmaker Sanofi invests $180 mln in French AI startup Owkin"
+    excerpt: "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday."
+    publishedDateTime: 2021-11-18T07:52:00Z
+    webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/drugmaker-sanofi-invests-180-mln-french-ai-startup-owkin-2021-11-18/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/cFRp1zASbvZvDnksOfXUAJbrAzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OTWRU7Z575MVRFR67QIMOB5ISQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Sanofi Invests $180 Mln Equity In AI Startup Owkin To Develop Oncology Pipeline"
     excerpt: "French drug major Sanofi (SNYNF, SNY) announced Thursday an equity investment of $180 million and a new strategic collaboration with Owkin, a French American startup that specializes in artificial intelligence or AI and federated learning for medical research."
     publishedDateTime: 2021-11-18T06:15:00Z
@@ -35,6 +49,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
+  - title: "Drugmaker Sanofi Invests $180 Million in French AI Startup Owkin"
+    excerpt: "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday."
+    publishedDateTime: 2021-11-18T08:52:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-11-18/drugmaker-sanofi-invests-180-million-in-french-ai-startup-owkin"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Sanofi invests $180 million equity in Owkin’s artificial intelligence and federated learning to advance oncology pipeline"
     excerpt: "Combined efforts will work to build robust disease models while preserving privacy of large data sets from various research institutions and hospitals Collaboration to focus on four types of cancer PARIS – November 18,"
     publishedDateTime: 2021-11-18T06:32:00Z

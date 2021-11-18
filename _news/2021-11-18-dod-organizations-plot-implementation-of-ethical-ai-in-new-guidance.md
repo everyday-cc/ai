@@ -50,6 +50,20 @@ related:
       name: Becker's ASC
       domain: beckersasc.com
     quality: 37
+  - title: "How AI is driving up density requirements"
+    excerpt: "One of the technologies that are driving this need for increased density is Artificial Intelligence (AI), a technology reliant upon high-performance computing (HPC), and not showing any signs of slowing down."
+    publishedDateTime: 2021-11-18T09:52:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/marketwatch/how-ai-is-driving-up-density-requirements/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-871148930.2e16d0ba.fill-1200x630.jpg"
+        width: 788
+        height: 415
+        isCached: true
 
 secured: "qaeNPunPg+16eaA9vOKhqLaU1IjmxyUotbx1j0FrEOk3s6sGFDBs1TQqy5B+UUpVYjWA8Tuf3Gyu3Nw4ekC0NmnWscQAiSTud4LepvDejLUCWDT5IN9v4q2xmrDyB2on+FnM4D9JHstgGJBA1LU6rLRgbVwu24w8B8VnAPVRPqGOd9FJXpDstS+fMvikOuNTaece/glnoDXT5mfFkhM9X4s6vshZH/xWzIgglrT50oMLzfPABEiUowll3if/2i1yckCMVD8OOZ5jos7Yb9gJR+G/6Qebo2BkgT+YqjBWmDZ0YZ1c2iAxNscSE6GNbkZpSueN1JiwpPYsqdVE7XBieugrtDsIKP2qYHMr2wccLK8=;+nJbkxDh4+10Re1XNkjrYQ=="
 ---

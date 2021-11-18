@@ -20,20 +20,20 @@ topics:
   - AI
 
 related:
-  - title: "Report: 95% of execs say hiring professionals trained in AI is difficult"
-    excerpt: "As leaders consider hiring new AI talent, they shouldn't overlook the importance of training to help mitigate bias and encourage ethical AI."
-    publishedDateTime: 2021-11-13T18:20:00Z
-    webUrl: "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/"
-    ampWebUrl: "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/"
+  - title: "Artificial Intelligence in Energy Market is set to Experience a Revolutionary growth by 2026"
+    excerpt: "A SWOT Analysis of Artificial Intelligence in Energy Professional Survey Report Including Top Most Global Players Analysis with CAGR and Stock Market Up and Down By thinking from the customer point of view a team of researchers analysts and industry"
+    publishedDateTime: 2021-11-17T18:08:00Z
+    webUrl: "https://www.openpr.com/news/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
+    ampWebUrl: "https://www.openpr.com/amp/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1063745878-e1636476907899.jpg?fit=800%2C533&strip=all"
-        width: 800
+      - url: "https://cdn.openpr.com/U/b/Ub17748437_g.jpg"
+        width: 640
         height: 400
         isCached: true
 

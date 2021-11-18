@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-05-tencents-foray-into-chips-isnt-at-all-surprising.md",
+      "title": "Tencent’s foray into chips isn’t at all surprising",
+      "excerpt": "Tencent unveiled its progress in chips for the first time this week, which immediately gave its stock price a modest boost. Silicon seems distant from the giant’s main arenas of video games and social networks,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/",
+      "originalUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-937997094.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/",
+      "publishedDateTime": "2021-11-04T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage.md",
       "title": "SUNY Polytechnic leaders explain causes, solutions behind chip shortage",
       "excerpt": "Computer chips are a hard find in pandemic times, but it’s not the materials in short supply — it’s the manpower. “Silicon is one of the most abundant elements",
@@ -1416,59 +1468,6 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-microsoft-and-amd-will-give-away-a-halo-infinite-radeon-rx-6900-xt-gpu.md",
-      "title": "Microsoft and AMD will give away a 'Halo Infinite' Radeon RX 6900 XT GPU",
-      "excerpt": "Not only have Microsoft and AMD teamed up to add ray-tracing to the game sometime after launch, they created a limited-edition Radeon RX 6900 XT Halo Infinite graphics card. The GPU’s design is based on Master Chief's Mjolnir armor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html",
-      "originalUrl": "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/f669f510-327e-11ec-8eff-fdd06405a306",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

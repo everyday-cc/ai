@@ -59,7 +59,7 @@ related:
     provider:
       name: Startup Daily
       domain: startupdaily.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.startupdaily.net/wp-content/uploads/2021/11/Silva-Morrison.jpg"
         width: 766

@@ -8,20 +8,19 @@ webUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_po
 ampWebUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
   name: BBC
   domain: bbc.co.uk
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/69FC/production/_121523172_gettyimages-79670619.jpg"
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -41,7 +40,21 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "AI project launched to reduce harm among pregnant black women"
+    excerpt: "The maternal mortality rates of women from Asian and mixed ethnicity backgrounds around twice as high compared with white women."
+    publishedDateTime: 2021-11-18T08:39:00Z
+    webUrl: "https://www.irishexaminer.com/world/arid-40747107.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 39
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/5491/2745837_1_seoimageog_23042187-1_1_1_.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "WfpY5epINyk60F5ZWZruyELsiieQHZ/z5uSYvHtPAq0F3MukIZtu4t1A8HMNEGjfQ5dlqyLTooF/55nB4YZVvRzDmVHCbgx7bJZ2PUA9GV8OH1A59RQrdRfdBAP8pBaxqk6Wji39si+E47Kc7mZ5jL8u+zoamIjQ7oFeVXwRmGDAZaiRbv14h64t/cMz1w/xnjGjt9FyyJGGKqb8EV/LMghyELd6dz+F0pJeQilD3Cy9vC9MOOUOZjFuSsUdZfxD9Qc1U3Vh61mjmfe8LDetBiAWW6epKD+zrPwZTyxEvsWEjRw/Nt8Y8IdJ9IJ2zYYBzcGzBqGXHhDOC9q0/dzZ0Hm1bQq91tnkVnPlobMgVlLld/KkzN3WMOq99fAkQ3SsTzjF4uy78qZxLPq7q5t3j5uOBYTGqy9soFQwst3e4kP1E7HEnVDtZd8wZqACr7+I7SGra5pqH/P1vz90zPy6aaP6DWin/fgiutf3GBqBTbPhWxdJD88zcyZXAzx8eo5Y6CsH6GvqrgarmOMBlbsjWQ==;UA+JFMGLEbsIN+2ugqkxug=="
+secured: "lvDci1hmRtzVlVDzqI1vaqf6QncOOuvApRZLl5Xt/2EHGw8bdhiAR7WM/bBd8WRfnSbIkj2yCqGHJxQSKruCixHruoIttsMOgMeQ/dloJ383iKG17doeC3j3oC2gwxYQ94aYIDNoTo0GlagoEH41agPO+P0M85pGKhggiLMqX/EPwPTR1fJO/1ODlntpErCjnBA0btdLGtcCVPjxIVO773wRVo5oYMS+1GM53N3zGSU3fvtwC0xs4iFsWZCjqtEVLPXu5YB71qmQBAMDbEtMqHKnaQ1znHEw1NBL1ducG3sY/inBZhX/JMbazuBMqGXEu5AW6YB8X6EsWmCYTEkbzO1yvjf8LCCnIf10iGPMvMA=;6WN8/V0wbGa6mojMyIxZlw=="
 ---
 

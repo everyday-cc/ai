@@ -2,6 +2,197 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-17-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.md",
+      "title": "SIU 2021: Ethical and Legal Considerations of Using Artificial Intelligence in Healthcare",
+      "excerpt": "In a Hot Topic session during the Société Internationale D’Urologie (SIU) 2021 annual meeting focused on the role of artificial intelligence (AI) in urology, Dr. Quoc-Dien Trinh discussed bias in AI and important ethical and legal considerations in the use of AI in health care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.html",
+      "originalUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.urotoday.com/images/com-doc-importer/31-siu-2021/siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare/image-1.jpg",
+          "width": 1200,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.amp.html",
+      "cdnAmpWebUrl": "https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.amp.html",
+      "publishedDateTime": "2021-11-16T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UroToday",
+        "domain": "urotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-supermicro-universal-gpu-servers-announced.md",
+      "title": "Supermicro Universal GPU Servers Announced",
+      "excerpt": "Supermicro has announced Universal GPU modular servers, which will allow users to configure systems for their specific applications and workloads, giving them the choice of mixing and matching components like GPUs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced",
+      "originalUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.storagereview.com/wp-content/uploads/2021/11/StorageReview-supermicro-Total-IT-Solutions-universal-GPU-front2.jpg",
+          "width": 964,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp",
+      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp",
+      "publishedDateTime": "2021-11-16T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StorageReview",
+        "domain": "storagereview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-hungarys-otp-bank-invests-in-ai-supercomputer.md",
+      "title": "Hungary’s OTP Bank Invests in AI Supercomputer",
+      "excerpt": "The system, developed by Silicon Valley’s SambaNova, will leverage AI language models to automate more banking services for Hungarian speakers",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/hungarys-otp-bank-invests-in-ai-supercomputer-11637084417",
+      "originalUrl": "https://www.wsj.com/articles/hungarys-otp-bank-invests-in-ai-supercomputer-11637084417",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-435898/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-thoughts-on-artificial-intelligence-conferences-for-business-audiences.md",
+      "title": "Thoughts On Artificial Intelligence Conferences For Business Audiences",
+      "excerpt": "If you are a business line manager or in the CxO suite, you want to hear what is actually being accomplished with artificial intelligence, with strong examples that are relatable. You also want to hear about the non-technical implications of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D23%26cropY2%3D516",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/amp/",
+      "publishedDateTime": "2021-11-16T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-big-data-privacy-for-machine-learning-just-got-100-times-cheaper.md",
       "title": "Big data privacy for machine learning just got 100 times cheaper",
       "excerpt": "Rice University computer scientists have discovered an inexpensive way for tech companies to implement a rigorous form of personal data privacy when using or sharing large databases for machine learning.",
@@ -1016,197 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content.md",
-      "title": "Deep tech, no-code tools will help future artists make better visual content",
-      "excerpt": "The future creator economy will offer incredible business opportunities in visual platforms and tools that enable a focus on content.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/",
-      "originalUrl": "https://venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1335175570.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content/amp/",
-      "publishedDateTime": "2021-11-15T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-strange-news-virgin-condor-births-ethical-ai-facebook-and-facial-recognition.md",
-      "title": "Strange News: Virgin Condor Births, Ethical AI, Facebook and Facial Recognition",
-      "excerpt": "Check out this great listen on Audible.com. Scientists discover that the endangered California Condor is capable of producing offspring without the presence of male condors, prompting troubling questions for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/B09LVW43PR",
-      "originalUrl": "https://www.audible.com/pd/B09LVW43PR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/61CIjwuBRcS._SL500_.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-wfans-steve-somers-signs-off-jerry-seinfeld-helps-say-goodbye-defends-mets-steve-cohen.md",
-      "title": "WFAN’s Steve Somers signs off: Jerry Seinfeld helps say goodbye, defends Mets’ Steve Cohen",
-      "excerpt": "Longtime WFAN host Steve “The Schmoozer” Somers is leaving the station. Somers said it will be a mutual parting after he declined WFAN’s offer to return to his old overnight job full-time",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/profile/steve-cohen/?sh=7b1407a363f8",
-      "originalUrl": "https://www.nj.com/sports/2021/11/wfans-steve-somers-signs-off-jerry-seinfeld-helps-say-goodbye-defends-mets-steve-cohen.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5a8d946e4bbe6f2652f61ca6%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D703%26cropX2%3D3292%26cropY1%3D80%26cropY2%3D2667",
-          "width": 416,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NJ.com",
-        "domain": "nj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs.md",
-      "title": "SambaNova is enabling disruption in the enterprise with AI language models, computer vision, recommendations, and graphs",
-      "excerpt": "SambaNova just added another offering under its umbrella of AI-as-a-service portfolio for enterprises: GPT language models. As the company continues to execute on its vision, we caught up with CEO Rodrigo Liang to look both at the big picture and under the hood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/",
-      "originalUrl": "https://www.zdnet.com/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4a8b0290f235514269412b222a86a7ef30c43b42/2021/11/03/496b64e1-63e8-4242-a385-095add38f1cb/ai.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sambanova-is-enabling-disruption-in-the-enterprise-with-ai-language-models-computer-vision-recommendations-and-graphs/",
-      "publishedDateTime": "2021-11-15T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

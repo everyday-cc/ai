@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Applications of Machine Learning You May Not Know About"
-    excerpt: "At this point, we are all well aware of just how useful and versatile machine learning and Artificial Intelligence or AI can be. Today, hundreds of companies are saying that they are implementing mach"
-    publishedDateTime: 2021-11-17T12:34:00Z
-    webUrl: "https://techround.co.uk/other/applications-machine-learning-may-not-know-about/"
-    ampWebUrl: "https://techround.co.uk/other/applications-machine-learning-may-not-know-about/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/other/applications-machine-learning-may-not-know-about/amp/"
+  - title: "Optima recruit AI pioneer to boost customer service in banking sector"
+    excerpt: "Optima Partners have recruited an AI pioneer at their Edinburgh HQ to work on improved customer service in the banking industry."
+    publishedDateTime: 2021-11-18T08:25:00Z
+    webUrl: "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/"
+    ampWebUrl: "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/"
+    cdnAmpWebUrl: "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 59
+      name: Deadline News
+      domain: deadlinenews.co.uk
+    quality: 74
     images:
-      - url: "https://techround.co.uk/wp-content/uploads/2019/09/1111-1-4.jpg"
-        width: 500
-        height: 360
+      - url: "https://www.deadlinenews.co.uk/wp-content/uploads/2021/11/Danilo-Blagojevich-e1637227266740.jpeg"
+        width: 803
+        height: 615
         isCached: true
 
 secured: "3ODrlzjFUsfbm6AFmPev8oAAqWrIe+sis1PYC1YTqF7rER05y6XwXKuPiOdYbwMgs7jgKOfI/lc5GdjLwFYWH9A7d/8isX0n0lSWfYNvGdhLBuorZ0PATTMRNNH8pHXhVgqFNkPg+YMER091e81rfKomAkihDkEpAFtI6f1HDL+6NA6YzyXPNHfI5ofKIsX2ZXv1OnbxrAJD3iuG4mAB3Ak/PDFPqfoj+9jrktn5S5aDOY32hhPZTk8y/bi73sN3xAUxqBbUbSOVAwuEq9SnjDXOU2YsFl4ra64pHR9AxMm6Ya2nitWbE26GLiHiSlrTNvOU6LTemvfYsWFkbBmwHAz2246AjLKt1dz4OiOPwnFB2mBQkMRwPUcPZfmLrRrq2ESvFT+99sq6qgu49/rWGMbKqnf8XCM7qWw8piFL+CI1G4jB++EDlUXR+SPqtZjUxVr/KCtnkBhVmUi4wqZj8B8yKDIspZjoOVBEimuO92z2it96H5gmNQR98ur+q4Y29nQinT+4VQbiA243uho6xQ==;/1K3WTeZDvPNv5PAUtH93w=="
