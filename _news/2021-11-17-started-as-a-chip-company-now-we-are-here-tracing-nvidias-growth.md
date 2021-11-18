@@ -68,6 +68,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Nvidia easily beats expectations as data center chip sales grow 55%"
+    excerpt: "Computer graphics chipmaker Nvidia Corp. posted strong third-quarter results that topped Wall Street’s expectations today, driven by record sales of chips for data centers, especially those designed for artificial intelligence workloads."
+    publishedDateTime: 2021-11-18T01:22:00Z
+    webUrl: "https://siliconangle.com/2021/11/17/nvidia-easily-beats-expectations-data-center-chip-sales-grow-55/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/40162981845_12925780b4_k.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "L&T Technology Services to support Mavenir and NVIDIA for adoption of AI-on-5G"
     excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform AI is already transforming many industries across the globe. When combined with the power of 5G networks,"
     publishedDateTime: 2021-11-17T04:20:00Z

@@ -1,22 +1,29 @@
 ---
 category: news
-title: "Atos and Nvidia Join to Launch European AI Lab"
-excerpt: "Atos and NVIDIA today announced the Excellence AI Lab (EXAIL), which brings together scientists and researchers to help advance European computing technologies, education and research. The lab’s first research projects will focus on five key areas enabled by advances in high performance computing and AI: climate research,"
-publishedDateTime: 2021-11-15T20:43:00Z
-originalUrl: "https://insidehpc.com/2021/11/atos-and-nvidia-join-to-launch-european-ai-lab/"
-webUrl: "https://insidehpc.com/2021/11/atos-and-nvidia-join-to-launch-european-ai-lab/"
+title: "Nvidia easily beats expectations as data center chip sales grow 55%"
+excerpt: "Computer graphics chipmaker Nvidia Corp. posted strong third-quarter results that topped Wall Street’s expectations today, driven by record sales of chips for data centers, especially those designed for artificial intelligence workloads."
+publishedDateTime: 2021-11-18T01:22:00Z
+originalUrl: "https://siliconangle.com/2021/11/17/nvidia-easily-beats-expectations-data-center-chip-sales-grow-55/"
+webUrl: "https://siliconangle.com/2021/11/17/nvidia-easily-beats-expectations-data-center-chip-sales-grow-55/"
 type: article
-quality: 19
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: insideHPC
-  domain: insidehpc.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
+  - AI in Sales
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/40162981845_12925780b4_k.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
 
 related:
   - title: "NVIDIA Envisions AI For Everything"
@@ -62,20 +69,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Nvidia easily beats expectations as data center chip sales grow 55%"
-    excerpt: "Computer graphics chipmaker Nvidia Corp. posted strong third-quarter results that topped Wall Street’s expectations today, driven by record sales of chips for data centers, especially those designed for artificial intelligence workloads."
-    publishedDateTime: 2021-11-18T01:22:00Z
-    webUrl: "https://siliconangle.com/2021/11/17/nvidia-easily-beats-expectations-data-center-chip-sales-grow-55/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/40162981845_12925780b4_k.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Started As A Chip Company, Now We Are Here: Tracing NVIDIA’s Growth"
     excerpt: "NVIDIA, a pioneer in graphics processing units, has expanded its horizon and achieved a disruptor status in the field of artificial intelligence too."
     publishedDateTime: 2021-11-17T06:30:00Z
@@ -101,6 +94,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 35
+  - title: "Atos and Nvidia Join to Launch European AI Lab"
+    excerpt: "Atos and NVIDIA today announced the Excellence AI Lab (EXAIL), which brings together scientists and researchers to help advance European computing technologies, education and research. The lab’s first research projects will focus on five key areas enabled by advances in high performance computing and AI: climate research,"
+    publishedDateTime: 2021-11-15T20:43:00Z
+    webUrl: "https://insidehpc.com/2021/11/atos-and-nvidia-join-to-launch-european-ai-lab/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
   - title: "L&T Technology Services chosen by NVIDIA and Mavenir as Engineering Partner for AI-on-5G platform"
     excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
     publishedDateTime: 2021-11-17T04:08:00Z
@@ -134,6 +136,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "WsGKruH1ZdFavWI3A8zAk9dOfwgoalXg7U40X+IJxDzcs7DFDl/8Z+ZMPANKgDFjCboQJJP2zDeCUoX5JMX7Z3cYlExAH1WcTK4JcMpR42PacgxAQkcu6ujNTV44LIAQY6FmFEzWUG5e7fxP8SWM14tFKPBmRgvMY1d1Tv0DfDbqKJCJs6/5NSqi4Jy+7RDzW+SxvHtDqCCJ50XfYW3IGL45HISKogZeHISW8BsZKe4bnLmkLz97SiHqYN0qG6WzpnzoKV0+bSLbJ6e179wmqDDXo3i1xcVgiR+QJSrBcH0KxDFaKRNborprFkxVewBlLBiMALsSyv+5UrqFTRcZCcY3A1GjJ5F8k3AqY0l9XNs=;tz8CXqvhpKqouaXqZkM+TQ=="
+secured: "9nc+qFnMdzbcFf2A5Dz3E0nhn+CP8u44IWogYMghd2pxE1HNVfjP3kvZw+EGr092Fu4USyK6ep5lN3nK3h2DNQLvTxEBWulOQbOMiwo4sAXq9NsR3MtfSV2KCRyS8o3iBLaU2aubfPMjnN3kpmjJjeT7mXr/M370UiJQU2tjkqO66DKBNaD3wC9xQccEDhBo5qlpGe1ahSnvwVpqiVRQIcwDNPfAQ0UMy3Ls5MUm/hpNqiwOXAkF7EeFzFi+GRiRRvml/auKtgfX43l2wkfokLaw0l9IoYzXn+3+aRINKBmBkiuBTCJYnQKzYrMa6Kr2UDBuSpl7rNJq75TgTXCGPjeF0eh54oVOv0J+ENwdr5s=;mxVdrD8yN2SnBhX29cNTRw=="
 ---
 

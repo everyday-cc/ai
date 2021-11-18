@@ -1,27 +1,27 @@
 ---
 category: news
 title: "ElectrifAi Showcases Pre-Structured Machine Learning Models with SquareOne at Smart Data Summit"
-excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, is showcasing pre-structured ML models today with SquareOne at Smart Data Summit in Dubai."
-publishedDateTime: 2021-11-17T17:30:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-jersey-city-b83b874a2486ea4272d0d585d0ebaf7e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-jersey-city-b83b874a2486ea4272d0d585d0ebaf7e"
+excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+publishedDateTime: 2021-11-18T02:06:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-showcases-pre-structured-machine-learning-models-with-squareone-at-smart-data-summit-878432173.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-showcases-pre-structured-machine-learning-models-with-squareone-at-smart-data-summit-878432173.html"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
+    width: 594
+    height: 315
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Lz0si4mf+Ghf2UNY9/aCzJviJrm7osn+iw0EJlB/VSLqRtn+DzQKiOAv6AToMSY7vaZauYUcEYZEHdu5u/pEr8/O5JthIeNSte0bm4Ebzr/3pa/qnOfwmO/d1B/t5zDxh+0sATp4lwnM7QWWBfleVDYZ+uz32nBhbqFD5vLA8Mu5hsgJQSl6oDMrFRybRh5IoLzTo8DFlT86C59ZxyhGI5kq7fv/sSBP0KfhcIIBKDJ1YFeRtheRK+duTEtMmCU26e8bCw5Mw13x/KZMyMuKVDHwI2YVr6zD0QJT468li5QZdlMcaCMci8Dm85JZX1dSpYvaxpL+wzJ43JPI6fKyIZ8ijNlpti2xPipRaiVhhyo=;ZMVse7Mku0waiTdbvXDDqQ=="
+secured: "I1TMsHV41AJlWgQVy0Hh9HK6/UYN1rm8CYU38BLYfvT2Geo86JG7HtpY4tMDs+f7ullLq5QwJhHkgjfqCDecUQU2svXKE1b8y2bGkm5ggLHrm49p92759/kDJl6DW0NKr8IjcEf0iO9LhL5GIFmQpEx6v8VZSuix+BULgkI4aiOevvW1HnQorVkteN6yVJ/RlnXKf/+VI7JWEPRbuCSnpOLUlNVjUK0xcIpL5x7tA0q8Zn55//CDA7CSDGZ9bVX6o6SgmKPC+JYNh3lJ2zsJrpvCIdy2HsAET+4AyJw+YXsmD65wocCcrRf5ePZN6p5LR4ToJFFwH1s3doEXZpfWkSpFfwwryHaLEuEqeW4WG14=;/dRLgE1zDlxqAA0mVoT6XA=="
 ---
 

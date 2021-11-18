@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-16T18:23:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/habana-labs-announces-turnkey-ai-training-solution-featuring-habana-gaudi-platform-and-ddn-ai400x2-storage-system-1030981654"
 webUrl: "https://markets.businessinsider.com/news/stocks/habana-labs-announces-turnkey-ai-training-solution-featuring-habana-gaudi-platform-and-ddn-ai400x2-storage-system-1030981654"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1690018/Habana_Gaudi_HL_205_Mezzanine_Card_photo_only.jpg"

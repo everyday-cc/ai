@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://images.livemint.com/img/2021/11/17/600x338/LTTS_1637140256365_1637140265323.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "Nvidia easily beats expectations as data center chip sales grow 55%"
+    excerpt: "Computer graphics chipmaker Nvidia Corp. posted strong third-quarter results that topped Wall Street’s expectations today, driven by record sales of chips for data centers, especially those designed for artificial intelligence workloads."
+    publishedDateTime: 2021-11-18T01:22:00Z
+    webUrl: "https://siliconangle.com/2021/11/17/nvidia-easily-beats-expectations-data-center-chip-sales-grow-55/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/40162981845_12925780b4_k.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Started As A Chip Company, Now We Are Here: Tracing NVIDIA’s Growth"
     excerpt: "NVIDIA, a pioneer in graphics processing units, has expanded its horizon and achieved a disruptor status in the field of artificial intelligence too."

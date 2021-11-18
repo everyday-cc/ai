@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
 type: article
 quality: 119
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1129396746.jpg?w=1200&strip=all"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Why Facebook’s Metaverse Is A Privacy Nightmare"
-    excerpt: "A metaverse largely run by Facebook—sorry, Meta —doesn’t sound like fun to me. With Facebook’s ambitions to create hardware and other technology for the so-called metaverse, it means more sensors in people’s homes,"
-    publishedDateTime: 2021-11-13T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/"
-    ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2021/11/13/why-facebooks-metaverse-is-a-privacy-nightmare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618d3c8ceb86a5dd23bd96b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3542%26cropY1%3D179%26cropY2%3D2172"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Unity Moves Robotics Training to the Metaverse"
     excerpt: "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,"
