@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-10-how-the-eus-flawed-artificial-intelligence-regulation-endangers-the-social-safety-net-questions-and-answers.md",
+      "title": "How the EU’s Flawed Artificial Intelligence Regulation Endangers the Social Safety Net: Questions and Answers",
+      "excerpt": "Summary In April 2021, the European Commission released its 108-page proposal to regulate artificial intelligence (“AI”), describing it as an attempt to ensure a “well-functioning interna",
+      "sourceUrl": null,
+      "webUrl": "https://law.stanford.edu/publications/eu-artificial-intelligence-act-the-european-approach-to-ai/",
+      "originalUrl": "https://www.hrw.org/news/2021/11/10/how-eus-flawed-artificial-intelligence-regulation-endangers-social-safety-net",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www-cdn.law.stanford.edu/wp-content/uploads/2021/09/eu-artificial-intelligence-act-the-european-approach-to-ai-2-300x211.png",
+          "width": 300,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Human Rights Watch",
+        "domain": "hrw.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-enterprise-process-automation-startup-workato-nabs-200m.md",
       "title": "Enterprise process automation startup Workato nabs $200M",
       "excerpt": "Workato, a workplace automation tool, has raised $200 million in venture capital to expand its set of enterprise offerings.",
@@ -1129,57 +1171,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai.md",
-      "title": "Report: 40% of execs say increasing business process efficiency is top benefit of AI",
-      "excerpt": "The need to boost customer service, employee efficiency, and innovation are three main factors driving an increase in AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cognitivescale.com/survey_drivingadoption/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cognitivescale.com/wp-content/uploads/2020/08/News-Banners-e1636510765124.png",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

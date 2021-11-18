@@ -41,11 +41,25 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 101
+    quality: 103
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106668816-1597783026604-gettyimages-1177538055-347713477_1-8.jpeg?v=1602189731"
         width: 4000
         height: 2667
+        isCached: true
+  - title: "NVIDIA Releases Teaching Kit For Edge AI And Robotics Educators"
+    excerpt: "The Teaching Kit is freely available for educators as an open-source package to integrate into their courses and teaching curricula."
+    publishedDateTime: 2021-11-18T06:50:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-releases-teaching-kit-for-edge-ai-and-robotics-educators/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/new-teaching-kit-3c33-p@2x.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia shares rise as FYQ3 results top expectations, forecast higher, as demand for AI chips 'surges'"
     excerpt: "Nvidia said it had record revenue for its data center group as demand for AI chips is \"surging\" Graphics chip powerhouse Nvidia this afternoon reported fiscal Q3 revenue and profit that both topped Wall Street's expectations,"
@@ -87,6 +101,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/40162981845_12925780b4_k.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Nvidia stock on big run, rides on the tide of demand for AI chips"
+    excerpt: "Nvidia, graphics chips major, recorded 5% growth in extended trading after it reported earnings on Wednesday for its third fiscal quarter. The company expects to report about $7.4 billion in the current quarter,"
+    publishedDateTime: 2021-11-18T05:18:00Z
+    webUrl: "https://mybigplunge.com/tech-plunge/technology/nvidia-stock-on-big-run-rides-on-the-tide-of-demand-for-ai-chips/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 54
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/11/pexels-jordan-harrison-343239-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "L&T Technology Services to support Mavenir and NVIDIA for adoption of AI-on-5G"
     excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform AI is already transforming many industries across the globe. When combined with the power of 5G networks,"

@@ -1,0 +1,72 @@
+---
+category: news
+title: "Singapore ranked world's 4th most ready country for self-driving transport"
+excerpt: "With driverless transport becoming more popular and self-driving vehicles closer to mainstream reality than ever, it appears as if many countries around the world are preparing for a future where people rely increasingly less on private transport options (like their own cars)."
+publishedDateTime: 2021-11-18T05:31:00Z
+originalUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport"
+webUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport"
+ampWebUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
+cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
+type: article
+quality: 72
+heat: 102
+published: true
+
+provider:
+  name: Mashable
+  domain: mashable.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://sm.mashable.com/t/mashable_sea/photo/default/singapore-top-4-country-self-driving-cars-header_eypn.620.png"
+    width: 620
+    height: 310
+    isCached: true
+
+related:
+  - title: "Singapore delays satellite road toll system due to global chip shortage"
+    excerpt: "Previously slated to begin by end-2021, the rollout of Singapore's next-generation electronic road pricing system has been pushed back to the second half of 2023 after suppliers of \"critical components\" are unable to meet delivery schedules."
+    publishedDateTime: 2021-11-17T16:11:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-delays-satellite-road-toll-system-due-to-global-chip-shortage/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-delays-satellite-road-toll-system-due-to-global-chip-shortage/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-delays-satellite-road-toll-system-due-to-global-chip-shortage/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "If this self-driving library came to my town, maybe I’d read a damn book"
+    excerpt: "Seongnam City in South Korea will trial self-driving library robots, aiming to make book rental services easy and accessible."
+    publishedDateTime: 2021-11-17T09:23:00Z
+    webUrl: "https://thenextweb.com/news/if-this-self-driving-library-came-to-town-maybe-i-would-read-a-damn-book"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 53
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-33-7.jpg&signature=ee32d524fbbdb9dd52232fd977e44f5c"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Entry ramp on the road to self-driving cars"
+    excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
+    publishedDateTime: 2021-11-14T17:00:00Z
+    webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
+        width: 792
+        height: 528
+        isCached: true
+
+secured: "dFEnqo3asA2vnwMUyJ6Hw6MQqt3YFBBC30ZF1EZdjXg2i7B4PGT3bFDOXwqLcaDPBBR6/CwV99ImTiBpS4ORKg0pMNoi55mg8c2b+r5Makm2ZR0C4mdrJCANmCGxdgqN5GJwQuUX+8TXew1x7+0axMXTCKvaK0RYvmMEUEMQ9J3RwJQ+OnIrW4Z69Nj7n6EeBAWdbi+RU8MO4ZEAMzFMHo5SD4qEamgwaY1Vhh0sJKY9f/5t9CO2zUq4EREhhC0TN6bcBhSnsm4pKkW2RL2/cGWD2yifwkFXc6eh+e5EQxt41kjJ20WWZS70e3BMkPg6f565oruNfOijRWP1qhJNtQ4Ok5XcUyLlNJCwSbn1wHg=;lm/ZGhDFn9FycOOLpq4CVA=="
+---
+

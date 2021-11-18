@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna5537"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537"
 type: article
 quality: 101
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/5472x3078+0+570/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/156832a0-6710-11eb-bfdf-08aa04837d19"
         width: 800
         height: 450
-        isCached: true
-  - title: "U.S. regulators reviewing Tesla owner complaint on self-driving test software"
-    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash. The driver was beta testing the “Full Self-Driving”"
-    publishedDateTime: 2021-11-13T13:12:00Z
-    webUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/"
-    ampWebUrl: "https://ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/u-s-regulators-reviewing-tesla-owner-complaint-on-self-driving-test-software/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 71
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/11/AP21317063976250.jpg?w=1280"
-        width: 1280
-        height: 844
         isCached: true
   - title: "NHTSA investigating first report of Tesla 'Full Self-Driving' crash"
     excerpt: "A California driver has reported the first alleged crash involving Tesla's Full Self-Driving feature to NHTSA. The agency is investigating the claim, which says the car turned into the wrong lane."
@@ -106,22 +90,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/tesla-autopilot.jpg"
         width: 1024
         height: 684
-        isCached: true
-  - title: "Tesla driver beta testing \"full self-driving\" feature says SUV went in wrong lane and hit vehicle"
-    excerpt: "The crash has prompted an investigation by U.S. auto safety regulators. “The car went into the wrong lane and I was hit by another driver in the lane next to my lane,” the driver wrote."
-    publishedDateTime: 2021-11-13T14:48:00Z
-    webUrl: "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle"
-    ampWebUrl: "https://www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/tesla-driver-beta-testing-full-self-driving-feature-says-suv-went-in-wrong-lane-and-hit-vehicle.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 46
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/07/932/470/GettyImages-187005526_1555969552377_7141953_ver1.0.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
         isCached: true
   - title: "Apple expands driver pool for self-driving car tests by 23"
     excerpt: "Apple has increased the number of drivers for its fleet of autonomous vehicles, with the headcount of testers for its self-driving vehicle systems now at 137 people."

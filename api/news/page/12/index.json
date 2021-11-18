@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-08-at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025.md",
+      "title": "At 17.1% CAGR, AI in Fintech Market Size Set to Register 8984.9 million USD by 2025",
+      "excerpt": "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025-2021-11-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025-2021-11-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-bt-steps-up-robotics-play-with-new-lab.md",
       "title": "BT steps up robotics play with new lab",
       "excerpt": "BT opened a robotics test lab in its R&D campus Adastral Park in the UK county of Suffolk, to trial technology for maintenance and deployment of telecoms infrastructure.",
@@ -1144,49 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-plans-to-turn-ntu-into-smart-campus.md",
-      "title": "Plans to turn NTU into smart campus",
-      "excerpt": "A Nanyang Technological University (NTU) student may find himself riding a driverless bus ... They include robotics, artificial intelligence, real-time and deep data generation and analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/news/education/2018/01/21/plans-to-turn-ntu-into-smart-campus/",
-      "originalUrl": "https://www.thestar.com.my/news/education/2018/01/21/plans-to-turn-ntu-into-smart-campus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

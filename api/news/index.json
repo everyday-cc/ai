@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-18-singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport.md",
+      "title": "Singapore ranked world's 4th most ready country for self-driving transport",
+      "excerpt": "With driverless transport becoming more popular and self-driving vehicles closer to mainstream reality than ever, it appears as if many countries around the world are preparing for a future where people rely increasingly less on private transport options (like their own cars).",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport",
+      "originalUrl": "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/singapore-top-4-country-self-driving-cars-header_eypn.620.png",
+          "width": 620,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1",
+      "publishedDateTime": "2021-11-17T21:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-baidus-robotaxi-service-aims-to-be-in-100-cities-by-2030.md",
       "title": "Baidu’s robotaxi service aims to be in 100 cities by 2030",
       "excerpt": "Baidu keeps ramping up its autonomous driving ambitions. The Chinese tech company made its name in search engines and still relies greatly on search ads for revenues. But it’s hoping that its heavy bet on autonomous driving will pay off down the road.",
@@ -106,7 +149,7 @@
       "originalUrl": "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -146,7 +189,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Sales"
+        "AI in Sales",
+        "AI in Autos"
       ]
     },
     {
@@ -1203,58 +1247,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-cutting-through-prejudice-ai-and-diversity-recruiting.md",
-      "title": "Cutting Through Prejudice: AI And Diversity Recruiting",
-      "excerpt": "As a result, AI has become largely meaningless in recruiting conversations, even as we see the technology being used with increased frequency. Recognizing the gap between understanding and application,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f579a2d027e9987faa1ed1%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/amp/",
-      "publishedDateTime": "2021-11-17T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

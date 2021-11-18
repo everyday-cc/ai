@@ -25,33 +25,46 @@ images:
     isCached: true
 
 related:
-  - title: "How Waymo’s self-driving cars handle fog in SF"
-    excerpt: "Waymo's robotaxis face unique challenges driving in San Francisco, where there's a one in three chance of fog every day."
-    publishedDateTime: 2021-11-15T18:08:00Z
-    webUrl: "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/"
+  - title: "Singapore ranked world's 4th most ready country for self-driving transport"
+    excerpt: "With driverless transport becoming more popular and self-driving vehicles closer to mainstream reality than ever, it appears as if many countries around the world are preparing for a future where people rely increasingly less on private transport options (like their own cars)."
+    publishedDateTime: 2021-11-18T05:31:00Z
+    webUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport"
+    ampWebUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
+      name: Mashable
+      domain: mashable.com
+    quality: 72
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/11/waymo-radar-fog.jpg"
-        width: 800
-        height: 451
+      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/singapore-top-4-country-self-driving-cars-header_eypn.620.png"
+        width: 620
+        height: 310
         isCached: true
-  - title: "How self-driving cars perform in fog"
-    excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
-    publishedDateTime: 2021-11-17T13:45:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17435/how-self-driving-cars-perform-in-fog"
+  - title: "Singapore delays satellite road toll system due to global chip shortage"
+    excerpt: "Previously slated to begin by end-2021, the rollout of Singapore's next-generation electronic road pricing system has been pushed back to the second half of 2023 after suppliers of \"critical components\" are unable to meet delivery schedules."
+    publishedDateTime: 2021-11-17T16:11:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-delays-satellite-road-toll-system-due-to-global-chip-shortage/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-delays-satellite-road-toll-system-due-to-global-chip-shortage/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-delays-satellite-road-toll-system-due-to-global-chip-shortage/"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "If this self-driving library came to my town, maybe I’d read a damn book"
+    excerpt: "Seongnam City in South Korea will trial self-driving library robots, aiming to make book rental services easy and accessible."
+    publishedDateTime: 2021-11-17T09:23:00Z
+    webUrl: "https://thenextweb.com/news/if-this-self-driving-library-came-to-town-maybe-i-would-read-a-damn-book"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 53
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/435/17435/Waymo_Fog_11-21.png"
-        width: 752
-        height: 423
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-33-7.jpg&signature=ee32d524fbbdb9dd52232fd977e44f5c"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "y1r9bDvwzTWbiIoZmW0xdH0TEf4X2hnoliQM0JTdkLoxJ1iOmffkSih/SDaniKehWNB5VFK4CqWfW5tvdh34f9rFtSmvTBearnSHyjsDZXZLCzLaSubYHQk/6cdm5V4ZWf3cz1QcBnO9CjcvOZxx9RpMmSOwKSd8piIMRNVm2tyczk/9JnASNLMXLLlqaII0SJxtbHST2kM39EgeutrYgI02mFpoh9jbYsJoSExpP8RyLfYHWUeCcUW2lMoH/AvC/Gcqlt9bK3bytXmSCxQrw5wgFMT4G5fSJXbdsiwTOET4+yRN92IojAeAYQRezQ8RLbFTrUdk9s++AZ/SB6vVrz00tbmK2+A3Tyy1wWRW21Fc6FXr0uBTd4YQZa/BAFydTeqm2sYRJjaWZUZlkYpZe+3K6Z3T4yVs/JpvjvqT5//qAcFyS533+y8OqjdNdbhoHLmT/90EbiWpX532QZ0YFc9vyrBWZn/IoUPVeFlZqL4+sIB8a75mz/aTDneS/KmLHs55t9gs0RGp6KC1qwSRJA==;605pue/gFH9iAGvIT4yx8A=="

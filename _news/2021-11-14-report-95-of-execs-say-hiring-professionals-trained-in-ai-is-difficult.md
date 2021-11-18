@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-pro
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Energy Market to Witness Significant Growth in Coming Years - Exclusive Report by ReportsnReports"
+    excerpt: "World Artificial Intelligence in Energy market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The report evaluated key market features revenue price capacity capacity utilization"
+    publishedDateTime: 2021-11-18T05:59:00Z
+    webUrl: "https://www.openpr.com/news/2466043/artificial-intelligence-in-energy-market-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2466043/artificial-intelligence-in-energy-market-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466043/artificial-intelligence-in-energy-market-to-witness"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
 secured: "H3itypY9EVQwm0cAPzegALJGBJ382+gZV9GXD+qCOQGX66cS43hooy1VtafdoWPsoCrOQkGnygIK6coUCkza/ieRTFVBdp9GXBA8mKyskZJ9aqPz/JU5YWxVTn0yWhkbWR4f57zh+XI7j6MVD6Jo6WIPgnYCUuVJeytRVtk0jfulWHPgwMoWndbG+R8X/LzGNdQNVuJQsG4NsEjQmEVjSHd+hYYarLalRzJ43joyEhy47/+qqCfrqCY6/ffEm4mvn0ON7yRenWEYezVw/c1Ui1VgAqHzAb3k3ljeCHkMU1DnWYHRWZiDSmFMPhGWq/4e9h0ykv/ZRDmUGR1R6Tb7JyLuRGFksUYOehk00EzjsGRR/7jlqTIasSWTupKgdDFsQnJTzRgtC2JR9eyNFz58ThZw8bFMKdZInGMhjcfEL6gSnnpjZpzeJ+BGsnI3Mxe7zCE3r/Esbi2ljBKvHxPC4L+WjxJ8FmEQIs8xEPvsmwvgPQzKGk+abWv2YIvrBlfcYKO5Dz4FhYGDKjyCGmmRWQ==;gNMeZei7NqLX3mnbFzJLjg=="
 ---

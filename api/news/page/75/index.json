@@ -2,6 +2,49 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-09-23-word-from-the-street-david-delgados-keynote-speech.md",
+      "title": "Word from the street: David Delgado’s keynote speech",
+      "excerpt": "The city prefers to use the word “cleans,” but when you’re removing a person and they have no choice, it’s a “sweep.” I do cleanings in my neighborhood all the time. I made friends with the street cleaners and realized they weren’t intimidated by the unhoused.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realchangenews.org/news/2021/09/22/word-street-david-delgado-s-keynote-speech",
+      "originalUrl": "https://www.realchangenews.org/news/2021/09/22/word-street-david-delgado-s-keynote-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.realchangenews.org/sites/default/files/p4%20david%20delgado.jpg",
+          "width": 3024,
+          "height": 4032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Real Change News",
+        "domain": "realchangenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-a-startup-the-best-vehicle-for-changing-the-world.md",
       "title": "A Startup – The Best Vehicle For Changing The World",
       "excerpt": "In an age of political activism, we might have forgotten that the ingenuity and grit of individuals is what pushes the world in a positive direction.",
@@ -1134,58 +1177,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-navigating-ai-and-machine-learning-13-techniques-to-boost-business.md",
-      "title": "Navigating AI And Machine Learning: 13 Techniques To Boost Business",
-      "excerpt": "AI and ML technology can not only enable sales to save time and cut costs, but it can also complement the most important currency (ie. relationship management is a way that sales can actually act as a \"true business partner\").",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614a4135356eea08aca69f7b%2F0x0.jpg",
-          "width": 1200,
-          "height": 1015,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/09/22/navigating-ai-and-machine-learning-13-techniques-to-boost-business/amp/",
-      "publishedDateTime": "2021-09-22T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-delays-satellite-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-delays-satellite-road-toll-system-due-to-global-chip-shortage/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,52 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Singapore ranked world's 4th most ready country for self-driving transport"
+    excerpt: "With driverless transport becoming more popular and self-driving vehicles closer to mainstream reality than ever, it appears as if many countries around the world are preparing for a future where people rely increasingly less on private transport options (like their own cars)."
+    publishedDateTime: 2021-11-18T05:31:00Z
+    webUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport"
+    ampWebUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 72
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/singapore-top-4-country-self-driving-cars-header_eypn.620.png"
+        width: 620
+        height: 310
+        isCached: true
+  - title: "If this self-driving library came to my town, maybe I’d read a damn book"
+    excerpt: "Seongnam City in South Korea will trial self-driving library robots, aiming to make book rental services easy and accessible."
+    publishedDateTime: 2021-11-17T09:23:00Z
+    webUrl: "https://thenextweb.com/news/if-this-self-driving-library-came-to-town-maybe-i-would-read-a-damn-book"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 53
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-33-7.jpg&signature=ee32d524fbbdb9dd52232fd977e44f5c"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Entry ramp on the road to self-driving cars"
+    excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
+    publishedDateTime: 2021-11-14T17:00:00Z
+    webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
+        width: 792
+        height: 528
+        isCached: true
 
 secured: "CW1PX78wVC5qpNjSIkf3FDcQmUMHLhTYTw64laxMRTz7BWr6RNnFHDfKwy3vIC+iKZCE5yR8p+xaY3tw16zcCe6orb4JMIGcpI9MQiZAQaHYbrlMTvDrCZLH1POGIApnnscTnwG+fdIHbmGFYApa4dMwyxgFgcH0BTuvMQ5DoTWJJEgTQjtUNs1KskKEBVpdl7CzG5nZJ0iwAjUgXvsU16t1UpDV6rOyoMAt4BZb0WvJUVSs0gWCG3HwXk++CwCs8CqWdeC1cuisWW4t7LysZn2+/3QcFRbPRVvhlrhWuL7/GzIuTlouoF39+Em7BJYjbi4HK+8gZGan7MKnvnxWkrvuwh+p9vDuLf8v8ndi+VUXIIkAP7D4YnvY5mVCERnGDw8Rn2g5pqfDQsqyH4rcsCsVgrVZwslOHeQhsePwlCxlsDGKKPJJKwonZFN+gYhAgu+Yk76GLkGVT1IAXG9mcgZwWVB/IyX737F/pR1AQEtVJeTrZNzTXavZo5J3KDFamgU5EBhDTng+l7sibpb2ZQ==;zxoIxax5507EBSAJm5nayA=="
 ---

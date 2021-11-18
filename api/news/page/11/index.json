@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-09-big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies.md",
+      "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
+      "excerpt": "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "originalUrl": "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/11/leaders.jpg",
+          "width": 1400,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mining Technology",
+        "domain": "mining-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai.md",
       "title": "How enterprises can keep fear, uncertainty, and doubt from impeding AI",
       "excerpt": "Resistance to new processes is nothing new, but it could become a crucial factor for AI and the radical shift it brings to data environments.",
@@ -1154,58 +1197,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025.md",
-      "title": "At 17.1% CAGR, AI in Fintech Market Size Set to Register 8984.9 million USD by 2025",
-      "excerpt": "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025-2021-11-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025-2021-11-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

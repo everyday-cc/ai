@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-11-05-suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage.md",
+      "title": "SUNY Polytechnic leaders explain causes, solutions behind chip shortage",
+      "excerpt": "Computer chips are a hard find in pandemic times, but it’s not the materials in short supply — it’s the manpower. “Silicon is one of the most abundant elements",
+      "sourceUrl": null,
+      "webUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
+      "originalUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news10.com/wp-content/uploads/sites/64/2021/11/SUNY-POLY-STILL.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
+      "publishedDateTime": "2021-11-04T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTEN",
+        "domain": "news10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-self-driving-company-aurora-makes-nasdaq-debut.md",
       "title": "Self driving company Aurora makes Nasdaq debut",
       "excerpt": "In another highly-anticipated IPO, self-driving technology company Aurora Innovation (AUR) made it’s Nasdaq debut today. The company merged in October with Reinvent Technology Partners Y (RTPY), a special purpose acquisition company (SPAC) led by LinkedIn co-founder Reid Hoffman and Zynga founder Mark Pincus.",
@@ -1146,50 +1189,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
-      "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
-      "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "originalUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-345715/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
-      "publishedDateTime": "2021-11-04T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

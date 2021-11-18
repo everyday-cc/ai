@@ -2,6 +2,48 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-10-12-wendys-to-improve-data-driven-insights-with-google-cloud-partnership.md",
+      "title": "Wendy's to Improve Data-Driven Insights with Google Cloud Partnership",
+      "excerpt": "Wendy's and Google Cloud today announced a partnership to enhance the Wendy's restaurant experience and unlock new customer, restaurant, and employee experiences through data-driven insights. Wendy's intends to leverage Google Cloud's data analytics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chainstoreage.com/wendys-enhance-mobile-drive-thru-ordering-ai",
+      "originalUrl": "https://www.qsrmagazine.com/news/wendys-improve-data-driven-insights-google-cloud-partnership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.chainstoreage.com/styles/primary_articles_short/s3/2021-10/Wendys_drive_thru.jpg?itok=x4JZQFNo",
+          "width": 655,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QSR magazine",
+        "domain": "qsrmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-artificial-intelligence-in-manufacturing-market-by-type-application-element-global-trends-and-forecast-to-2026.md",
       "title": "Artificial Intelligence in Manufacturing Market by Type, Application, Element Global Trends and Forecast to 2026",
       "excerpt": "Over the next five years the Artificial Intelligence in Manufacturing market will register a 51.1% CAGR in terms of revenue, the global market size will reach US$ 8609.8 million by 2026. Global Artificial Intelligence in Manufacturing market: competitive landscape analysis This report contains the major manufacturers analysis of the global Artificial Intelligence in Manufacturing industry.",
@@ -1122,49 +1164,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
-      "title": "Attention-based deep neural network increases detection capability in sonar systems",
-      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/931330",
-      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

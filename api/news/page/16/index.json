@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
+      "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
+      "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "originalUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-345715/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "publishedDateTime": "2021-11-04T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-siemens-mobility-spotlight-october-2021.md",
       "title": "Siemens Mobility Spotlight – October 2021",
       "excerpt": "Smart Trains Intelligent rail infrastructure Holistic Rail Cybersecurity Digitalization and harnessing the power of The Cloud were at the front of discussions during the Siemens Mobility 'Industry Trends' event,",
@@ -1175,49 +1219,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-an-enterprise-ai-platform-as-a-path-toward-intelligence-process-automation.md",
-      "title": "An Enterprise AI Platform as a Path Toward Intelligence Process Automation",
-      "excerpt": "In this article we take a look new technology that can overcome common problems that contribute to struggles with AI projects. Project delays, budget limitations, scarcity of needed skills, changing data sources,",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2021/11/02/an-enterprise-ai-platform-as-a-path-toward-intelligence-process-automation/",
-      "originalUrl": "https://insidebigdata.com/2021/11/02/an-enterprise-ai-platform-as-a-path-toward-intelligence-process-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

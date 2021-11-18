@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103186498/Artificial-Intelligence-AI-Market-Ne
 webUrl: "https://menafn.com/1103186498/Artificial-Intelligence-AI-Market-Next-Big-Thing-Major-Giants-IBM-Microsoft-Hanson-Robotics"
 type: article
 quality: 90
-heat: 110
+heat: 111
 published: true
 
 provider:

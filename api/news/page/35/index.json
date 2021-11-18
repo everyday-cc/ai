@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-10-20-resistant-ai-scores-166m-for-its-anti-fraud-fintech-tools.md",
+      "title": "Resistant AI scores $16.6M for its anti-fraud fintech tools",
+      "excerpt": "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/",
+      "originalUrl": "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024",
+          "width": 1024,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/",
+      "publishedDateTime": "2021-10-20T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-ai-meets-autonomous-vehicles-and-calls-for-ai-ethics-to-make-it-inclusive.md",
       "title": "AI meets Autonomous Vehicles and calls for AI Ethics to make it Inclusive",
       "excerpt": "I believe in Steve Job's advice to keep doing what we are passionate about and connect the dots later. I am excited to see how my passion for Autonomous Vehicles and my recent work with teaching Artificial Intelligence to Product and Business users is coming together now.",
@@ -1090,59 +1142,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs.md",
-      "title": "AI chatbot justifies sacrificing colonists to create a biological weapon...if it creates jobs",
-      "excerpt": "If doing so will create wealth, absolutely, at least according to one AI Ethics chatbot. The AI Ethicist, the Allen Institute for AI's Delphi, is a simple webform where you pose an ethical question and ask Delphi to ponder it. After some electronic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
-      "originalUrl": "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
-      "publishedDateTime": "2021-10-19T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

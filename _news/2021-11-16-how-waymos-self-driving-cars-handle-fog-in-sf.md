@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/how-waymos-self-driving-cars-handle
 webUrl: "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Entry ramp on the road to self-driving cars"
-    excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
-    publishedDateTime: 2021-11-14T17:00:00Z
-    webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
-        width: 792
-        height: 528
-        isCached: true
   - title: "How self-driving cars perform in fog"
     excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
     publishedDateTime: 2021-11-17T13:45:00Z

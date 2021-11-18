@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
 ampWebUrl: "https://www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
 type: article
-quality: 101
-heat: 161
+quality: 103
+heat: 183
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Sales
+  - AI in Autos
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106668816-1597783026604-gettyimages-1177538055-347713477_1-8.jpeg?v=1602189731"
@@ -46,6 +47,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61903d3ad415bc12fdc919f2%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "NVIDIA Releases Teaching Kit For Edge AI And Robotics Educators"
+    excerpt: "The Teaching Kit is freely available for educators as an open-source package to integrate into their courses and teaching curricula."
+    publishedDateTime: 2021-11-18T06:50:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-releases-teaching-kit-for-edge-ai-and-robotics-educators/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/new-teaching-kit-3c33-p@2x.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia shares rise as FYQ3 results top expectations, forecast higher, as demand for AI chips 'surges'"
     excerpt: "Nvidia said it had record revenue for its data center group as demand for AI chips is \"surging\" Graphics chip powerhouse Nvidia this afternoon reported fiscal Q3 revenue and profit that both topped Wall Street's expectations,"
@@ -88,6 +103,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Nvidia stock on big run, rides on the tide of demand for AI chips"
+    excerpt: "Nvidia, graphics chips major, recorded 5% growth in extended trading after it reported earnings on Wednesday for its third fiscal quarter. The company expects to report about $7.4 billion in the current quarter,"
+    publishedDateTime: 2021-11-18T05:18:00Z
+    webUrl: "https://mybigplunge.com/tech-plunge/technology/nvidia-stock-on-big-run-rides-on-the-tide-of-demand-for-ai-chips/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 54
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/11/pexels-jordan-harrison-343239-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "L&T Technology Services to support Mavenir and NVIDIA for adoption of AI-on-5G"
     excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform AI is already transforming many industries across the globe. When combined with the power of 5G networks,"
     publishedDateTime: 2021-11-17T04:20:00Z
@@ -109,6 +138,6 @@ related:
       domain: equitybulls.com
     quality: 6
 
-secured: "T4gfQNRReLlrqmzY0N3gMnBaUSzvYFid/KQMMK9FSTEvm2cnkLo/uNAjzdev2W3L80OEVA34GIFczVDZe4Xs30Ep+TwutorLTcPRUG8Kbc4YCOZnOb3Mh10m/asSfzfSsxPqN5TH9Qz+oHz1pW830Efi3D2ULtbpGWiARz+o/QfCh3UT9X0XEXPXm0OgL3/6W9dOpHCAzCTCUaPEpF+SLbEzwcOVmXGLrLYl74M/m9bH2wskCotgCfO0d3AWrM7QWsnpu46qGyIH5ob5I2oG2Nd7Da38VsTITqsK0wO5ZkimXp58sPq4P3HDT7NzBlSlFqc38lOYFdQF1AB6j526GRe2SjmC1MiPbxKXK3lU6IA=;VYL8gEvZPhlHhLC4IQJHTA=="
+secured: "EKxU+77DEBDrQ2sfj7W/wiUNgQk4KRyblAMpANOtmoWt183LVGmmCcJk3oOd44vJVWfGxzaWyaKVIVw4ZtMWrGgMoARU3S/RER7tXhdGF8mziMXXbGbXcnog+1EurRnID36GoO9NhPFZXc8rdQ76ofCxExgVqXV5WHsh4f2xC1xbJtwBbNE27dAAdxOBXToRxCfgkH0AWlqhm2qUxbOMl1EkM7D9E4vNPA3ZIVvU4ETGxBRSyrgdDTosSpAUMKaxFX//bfgAAmbW+XvoeAj6sJe2qKPY0UO4ByBdxizBHxcsyIDr3qzzsRtBbDSmJNbpGsuo2sWG3ymTii0cRUKUtnNv83Oe2X0yYjZmQHjR/qX1bTA8KiICe0syAb4XqGwQ30qJ5SeJcvjZnSab4Z+vOttUFa8YhuWyONKr9QXYL4FHpajOg4hFcP1LH6OPKihFcufRWmaMzi+khNVUex9vbWMwQQUujYb1kDJKkx+5t5Mc3YnYM6Bung0B1q3TbWWEC3nw4IsVDOXyh72dwQ3MFg==;Uxw7Ex5+jkbIvh/Vrv5i0A=="
 ---
 
