@@ -39,6 +39,20 @@ related:
         width: 848
         height: 339
         isCached: true
+  - title: "Toppan iDGate ranks among top 20 in face biometrics accuracy in NIST verification test"
+    excerpt: "Toppan iDGate face biometric verification algorithm has taken a top-20 spot in the National Institute of Standards and Technology’s FRVT 1:1."
+    publishedDateTime: 2021-11-17T23:18:00Z
+    webUrl: "https://www.biometricupdate.com/202111/toppan-idgate-ranks-among-top-20-in-face-biometrics-accuracy-in-nist-verification-test"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
 
 secured: "1YYPWrw/hseg/NNkQoqJK5SZHpSg6JbP2mcZ8YKGaQDpmB2trdrrdJBBnffziwu65Yv4AEVd4akOEkNTK+k6vwG62UmJzp49vNFfzbuaTyJKFc/opfQeuAXxt6NGl1xZp2pcpdjAaiQRr1NxO86nNI2lRBnp6iz5ODNzbmhGVPbTZBVPUesyZOI1S6+gJE+KYKK2hRw71SxcBYJMv+5VCD4bB3BwAWKzmqqfsaAcPiiosKPUMHzbyOdRMX1FQCBNqvGwlRtf3YMxD1MHtbFmfO75m+Cg+6/RrSC22SJvsoBiA6sFsqsxl3RFstZdQSCwHwBfHctuXzDMjk+K2qJH8cVAmOzKZDAoWNIrQ6lgS6c=;sTpFHUr/Uw/Qu/cF2Qp3tA=="
 ---

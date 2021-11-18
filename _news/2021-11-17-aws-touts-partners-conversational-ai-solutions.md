@@ -50,6 +50,17 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "Why conversational AI is now ready for prime time"
+    excerpt: "Conversational artificial intelligence serves as the interface between a person and a computer, through which organizations can achieve engaging two-way interactions. The technology is usually associated with call centers and virtual assistants/chatbots,"
+    publishedDateTime: 2021-11-18T00:14:00Z
+    webUrl: "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "oTPAVRGBxsSD7bW9Hgiwr3JkiGe6H9j9AccPeRmLFikJNijA8DW8uVfbftCIP3PZqs9SbJdbOsMrgHixmJXo5aEGylasoTyUxZWNpmO1zYkxIDZ+vghHVK8uElfrXkyMAzrzBypqj4SudlAQ+B+s0vKzrnY7TGslckQjkD7kwAbJMy7cYpTeVPXKQ5RhYGJBD2fNa4qaFRUfBEUaU3HfLI88ZnNlKJR2er0YqocBHeXCjDqYxZgHG8PKQ4PtAJHbXcQWuLzikHS13rJL0D0H1zBLDHDp8XJ+xVT8D2JPJDZ9UDydLsQNt8gpH1T3oQOmiMw3swc9PaYDrH30jbqGZzWuUXfyJ7rhQ9Fotb/m+IiKs/78spy/xhtKKKpTnwQveAOu/EprCHRdDMGUXkH7SVoxwBIy9IX0Me+K9KdhiksujNHJV1aWXdbePxV+fH9AYtTwYlluyOgfhNMS4iO+JTdXvM7881Kl1hqETQbqGcSJQQmdMmeQvTsRc8gvryE8Kq/8mUFFAr9Hs5guwpKa5w==;sg5ycz2Uw+K8ElO+GzQ4kw=="
 ---

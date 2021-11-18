@@ -85,6 +85,20 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Facebook leans on AI to target ads at kids"
+    excerpt: "The social media giant that now goes by Meta has been accused of lying, and continuing to target advertising using their personal data, and prioritising profits over the wellbeing of children. This appears to contradict the company’s announcement that it would limit how advertisers reach kids in an apparent bid to be a better corporate citizen."
+    publishedDateTime: 2021-11-17T23:54:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/facebook-leans-on-ai-to-target-ads-at-kids.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/kid%20facebook.jpg"
+        width: 821
+        height: 462
+        isCached: true
   - title: "Warning as Facebook ‘is STILL tracking teens for advertising’ contradicting own claims company would limit reach to kid"
     excerpt: "FACEBOOK is allegedly still tracking teens for advertising, research states, contradicting the social media giant’s claims it would limit reach to kids. The accusations come in a research"
     publishedDateTime: 2021-11-16T19:35:00Z

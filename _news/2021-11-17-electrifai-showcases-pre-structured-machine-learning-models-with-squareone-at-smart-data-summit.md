@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "ElectrifAi Showcases Pre-Structured Machine Learning Models with SquareOne at Smart Data Summit"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-    publishedDateTime: 2021-11-17T20:36:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/electrifai-showcases-pre-structured-machine-learning-models-with-squareone-at-smart-data-summit-878432173.html"
+    excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, is showcasing pre-structured ML models today with SquareOne at Smart Data Summit in Dubai."
+    publishedDateTime: 2021-11-17T17:30:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-jersey-city-b83b874a2486ea4272d0d585d0ebaf7e"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 42
     images:
-      - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
-        width: 594
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Dq9+jnXOnpqeFRVjlQYvlkYrXsV5rwThw+QSjxhXm8diJqYfeFjKqlVERKNikFKmwTuGYGvl81HPVUyRNy6PPBhKLOn4yW5nM+h62T6bmaipzwddAARTL9wAZ8sNJJtJEj8Sy0NN0P/R05MzgxDm3imt39CxKvr1Q2fsEqVimw2MR02pEcmU8+MGRUYqrVJdQ0DCHPK8PKwG6qXBMZaSWYKzMAXgIZD52swN/OwrZNMzjqU+zjf7i2w/wfz1zWYpB9PZvOkiWR38AG5939ll+FOJw2701pSVa3QCsFSWqwpKC6fo+M9k20pDfHlrQu/DF0S7b+m1LtXLcdVwRP3tMWb9NrvgNJPVHkwHd1UN5t0=;t7SXbJpc90p8CQJ2uS701g=="

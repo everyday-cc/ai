@@ -7,7 +7,7 @@ originalUrl: "https://www.abajournal.com/news/article/treated-like-a-robot-contr
 webUrl: "https://www.abajournal.com/news/article/treated-like-a-robot-contract-lawyers-chafe-under-fickle-facial-recognition-surveillance/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1000
     height: 647
     isCached: true
-
-related:
-  - title: "A Generation Growing Under Surveillance: The Dangers of Facial Recognition In Schools"
-    excerpt: "In conversation with my teenage daughter last week, I pointed out a news report which flagged concerns over the use of facial recognition technologies in several school canteens in North Ayrshire, Scotland."
-    publishedDateTime: 2021-11-14T15:24:00Z
-    webUrl: "https://interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
-    ampWebUrl: "https://amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 52
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/rV6nDkYmOX/sizes/surveil_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
 
 secured: "6J1XEQ/vC1p7bscO6Z7xOPvpZ485o4hgw4pl39+LorfbvY/UrOK1VwjmrPtbKQmWayYObwVH/cg/njK7TaKAZiktWUQvmHrHgWqc8Pl7yi4va/tS30zqYh0OquH8uFe2k74i3omzxNg3TCTNI8+WshGAr67ldBB8qdC/f1hSJZTkPgmW61jyvZP+KPB99/30O0+9rnXyzBZuQCnJGQHZvMSiVmoYqvLyxsTUUJ5ful8YTCuESrtc7gvWWp2h3AO8z+HTAxOQnAMVUC5aAivYHj0qbhskZBCfAO2y5V+xyp2siqOjCVALchw3A34ViwPs0JW0dmBp8rrh23LvYW18hOYDvRuUsnQYqDf1yy1PANE=;tW1mlPYyzHFwTGuYd7Z1FQ=="
 ---

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "UiPath Appoints Dr. Oren Etzioni to Chair New Artificial Intelligence Advisory Board"
-excerpt: "UiPath (NYSE: PATH), a leading enterprise automation software company, today announced the appointment of Dr. Oren Etzioni to chair its new Artificial Intelligence (AI) Advisory Board. The Advisory Board,"
-publishedDateTime: 2021-11-17T13:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-uipath-appoints-dr-oren-etzioni-chair-new-artificial-/2021/11/17/9494456.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-uipath-appoints-dr-oren-etzioni-chair-new-artificial-/2021/11/17/9494456.htm"
+excerpt: "UiPath , a leading enterprise automation software company, today announced the appointment of Dr. Oren Etzioni to chair its new Artificial Intelligence (AI) Advisory Board. The Advisory Board, to be comprised of AI leaders and experts from academia,"
+publishedDateTime: 2021-11-17T13:06:00Z
+originalUrl: "https://www.lelezard.com/en/news-20109751.html"
+webUrl: "https://www.lelezard.com/en/news-20109751.html"
 type: article
-quality: 27
-heat: 27
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI Ethics
+  - AI in Healthcare
   - AI
 
-secured: "yr2UPsB0ycgg/oFpa6lnxn2dK24yFnkt6tVshOpwmy+dvPb3AHoGoLBT3Oc6zl9Ah2OVbBdqQuF15x3aLUTAKnjzvoCPHUIBc24O1Nxrxq5RNljqvevCowA2yn4RkYzu7/B3GGWi+qtES/sE1vUZCQEclT4ZP20wtUhW8n1njmO8ZXEV169h6EYaGIPhEdJpjqZ7T8wlDau++sZw3AT2eYT8Q3d/tM7n47gBIyu20DGNgXucmuIci2UflIsWr6AJpobIIWQAmWTYfgVv9SNUJTQlY2gbRvvqLjxAOzXjOj3Y33weF8UaUAKtuAmh85kTAbbxFMc29fRSP38FstPYlSCCRz1FllEmBIsbyIFw0PI=;5KmVfC762dAorI9Xs9DIuQ=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "uEutf0QKSQqfBGjcokFiSMGCc7LXXBc51xM/yADjGbT+NBB+Eh2AEDfT+IuPseuQ9sdityN1NDlSWnY5BCpOAj1UJeeOYWmGz+99p/7Z1Xe1j8QotylSxy0/WxyLlJ9pCVwppwTc2Nn3MDrhMXEDBFX++Zzw4y/nCo+6h+JdgBzZr7U81VBIPHt1xJbno9JPTsFb6IiW3JiZRJRKwUzm+J+tfNpAa9mGKO2eAiGKgJhkr5hmiZDItl2/JY/jJr8FVySkgRPdtVqjbpJ9AKyx99feYEvpip6jSdoqAavllBbMOJb3O0QMWwbA7db9R+oagT6fCB5LkD5yyea33Zjbm+vGrW09ChuDsWe8XKh+ypU=;p6AmPEjvbwnnZKZjMmg8/g=="
 ---
 

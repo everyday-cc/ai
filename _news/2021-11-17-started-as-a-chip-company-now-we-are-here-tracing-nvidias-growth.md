@@ -68,20 +68,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "NVIDIA’s Large Language AI Models Are Now Available To Businesses Worldwide"
-    excerpt: "Nvidia doubles down on AI language models and inference as a platform for the Metaverse, in data centres, the cloud, and at the edge."
-    publishedDateTime: 2021-11-13T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/large-language-ai-models/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/NVIDIAs-Large-Language-AI-Models-Are-Now-Available-To-Businesses-Worldwide.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "L&T Technology Services to support Mavenir and NVIDIA for adoption of AI-on-5G"
     excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform AI is already transforming many industries across the globe. When combined with the power of 5G networks,"
     publishedDateTime: 2021-11-17T04:20:00Z
@@ -93,20 +79,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 35
-  - title: "Artificial Intelligence Market Set for Explosive Growth | NVIDIA, Lifegraph, Google, Zebra Medical Vision"
-    excerpt: "(MENAFN- iCrowdNewsWire) The latest 105+ page survey report on Global Artificial Intelligence Market is released by HTF MI covering various players of the industry selected from global geographies ..."
-    publishedDateTime: 2021-11-13T07:38:00Z
-    webUrl: "https://menafn.com/1103160737/Artificial-Intelligence-Market-Set-for-Explosive-Growth-NVIDIA-Lifegraph-Google-Zebra-Medical-Vision"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?840821"
-        width: 326
-        height: 250
-        isCached: true
   - title: "Atos and Nvidia Join to Launch European AI Lab"
     excerpt: "Atos and NVIDIA today announced the Excellence AI Lab (EXAIL), which brings together scientists and researchers to help advance European computing technologies, education and research. The lab’s first research projects will focus on five key areas enabled by advances in high performance computing and AI: climate research,"
     publishedDateTime: 2021-11-15T20:43:00Z

@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why conversational AI is now ready for prime time"
+    excerpt: "Conversational artificial intelligence serves as the interface between a person and a computer, through which organizations can achieve engaging two-way interactions. The technology is usually associated with call centers and virtual assistants/chatbots,"
+    publishedDateTime: 2021-11-18T00:14:00Z
+    webUrl: "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "AWS Touts Partners’ Conversational AI Solutions"
     excerpt: "A new AWS initiative puts the spotlight on partners’ conversational artificial intelligence (CAI) solutions that allow organizations to deploy chatbots, virtual assistants and interactive voice respon"
     publishedDateTime: 2021-11-16T20:38:00Z

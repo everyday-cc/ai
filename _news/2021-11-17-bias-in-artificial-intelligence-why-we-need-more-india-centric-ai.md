@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/opinion/bias-in-artificial-inte
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/11/14/1367124.jpg"
         width: 930
         height: 515
-        isCached: true
-  - title: "Group 42 ventures into Indonesia; and more Middle East AI News"
-    excerpt: "Welcome to the Linkedin version of my weekly Middle East AI News! As you may know, I send out a weekly email newsletter each Thursday morning, with a roundup of AI, emerging tech and 4IR news from around the region."
-    publishedDateTime: 2021-11-13T07:43:00Z
-    webUrl: "https://www.linkedin.com/pulse/group-42-ventures-indonesia-more-middle-east-ai-news-malin-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG324Aq-aOs8A/article-cover_image-shrink_600_2000/0/1636369368235?e=1642636800&v=beta&t=SmJ3k9mMfAIvjWdGUjLB2c6maKzeAjnDfL3QTnVlEoE"
-        width: 1024
-        height: 550
         isCached: true
   - title: "Github Analysis Shows India As An Emerging AI Superpower"
     excerpt: "This also reflects an impetus to upskill India's vast technology talent base that was initiated by the country's IT services companies."
