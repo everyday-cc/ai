@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "nurobots"
   url: "https://www.twitter.com/nurobots"
-  followers: 5177
+  followers: 5175
 
 size: 201-500 employees
 yearFounded: 2016
@@ -47,6 +47,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=XKXbacNQGI8"
 
-secured: "BQx33ZZZNV2Jo9FfSMzLbwV31tTS0RjENX9+R4aTRebOeL+wDpvWzqkW9VRbX6hxSIW5JGp0MCEJVqlrBYQ5+PlfOYb+zo4kW8rdplhHKlfeHnx6r2JAOiJT1mDqm83RiFR4m6ERTdWTeiLDmB8VZTOOG/R96rsPQhdcJ3c7NgVFtayD7VY/HGF3MxzW+Mp3Lb9bwM04M8WoaXQZ2vbrSgId4OgDUc6cXrCtzNQ/zKb4iKdrRTvkiro3jkIJzOzsS5GpYN3LJ1dq62+SHysa2Iz8NQ6haZimW69NHsBviLGFpcirw+qIRAF+LF0gWiRhDtlicZPgw9BUqf+CsNFrLUxYN11RFLTdhvm5FBMWUtJ6jd24OiBiVsq6Rxu7joH8XYp5sAnlkDIJ5hih75I0X3o0SZF5Rd+2tZZSGNhWaUI=;eRBazeEtFjw+1XIDaletZw=="
+secured: "ruYGBoXrW3adPFETguX7EG7LKxmZ3bnwXohlALj0z6rP98IJX5j3YqduVWV3u7Ymraoxp3FEjnThmH/1WSrVZHM6aPaAgmm1K2NGmFwV03r8R4G9zKfYZtyT06qDihUfaF+2qZj0+oU1/oHLOUeKstOLpOumNDbAtv35C/o7r1UU3c0j48T8iIZ5FVgkYW2uSsuz73zxI0YYZfzITbJyAlV+68ICfzVBQ/eisSuOBUVi6K48D8QeLD2ieIiWLnjpehbovPaT7URVhL0X7KDrJX5hgFgNIgMt7PbhEp5gi/I8/8T0V7fsMJOn/QXk3AeQWI2PDNw8UwK2fD3d5/4bKTmD2FfmmZkZw3D7W0BERUyT02djXDzelaQTK1HcUFpzaHxuG8AO6EiRx/NtRF2gMW+a2pYMTFFHswurgmkYkbM=;tkCE5O49DWpOF5ITb440nQ=="
 ---
 

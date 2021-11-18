@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "wavecomputing"
   url: "https://twitter.com/wavecomputing"
-  followers: 437
+  followers: 438
 
 size: 51-200 employees
 yearFounded: 2010
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=pHaRbs5cOek"
 
-secured: "xTk24W+uutXXkUMv/oQBAPf426zbQ5ydprsv0JkFjCpp6TbX02zWrxdSx+ZS3CtlGv8jJpE6Ge2ByMsHDS3HbiRrCKEGiYtII/kc6iVQDjuQ3o0Eb4ow5qYGFvj/ak5NNhWNDbKoMwrg+Ygd9ic3uA8rWuEqbXdozP7Fzm1Y0jz6E82and+cmAz4iQjWGzmC5f2tF4MADe3ll3WMCQrQRDUCuxK5Bgo0nTC3EuphNlst55aXcEgpAh3KuPaXhyMD9zAyikkiQt8LD7m8i6tJiftHptzCBGh3GXnFAHNrQKjWnsnnQiVy+ifDAWmsFv2XVi7I/bLxejp6DxYC/3RMy0wUQOz47H7S1vUipi2sF61ZuZDtlDe4tZXJkgVlNYt8bIoNKGnf03ZmTvQ6LzEvjA==;znbJhv6oK+BBFiaQaZw1+g=="
+secured: "vhijxKLdCstREPFJ5lzT8B+ZiPrbTnsQGkj1OhNBpSPvRcW4XcB02PRfV+k0DV6XUZyKotXJyQlDGML2owpq9aP6wvbi5QGCWpPX1ARsSQbWEZiUPxGcktmpKdfWwKjWIDF3B94jAx2G7JgOmzmQOxI1i2ga7+mIdgFie/LLen8AB359rdOaGlTLlW7yF9OJxURp2ljK0NIC8FpF7iMa/BBJuBvURpZnC03rnLwZZ3wZtV+NGGUtLdcgyT10deSNXzJhGnccvk56Mlq7inlOlOQGlyL2C8IP/X7bNFu2E1CmJaHUhFHnMBC+t65iDgFR0AE2+A057zhm2Hw49K8AeuXj6pSjCbzMNz2gY4/O38hGvP4YO+2nxjPjGLn6E5X6ja4W2sMC1t1gQbnixp52DQ==;Aw/d/tBoLDbWV7jRXM3zvg=="
 ---
 
