@@ -8,8 +8,8 @@ webUrl: "https://www.cmswire.com/digital-experience/the-emerging-public-private-
 ampWebUrl: "https://www.cmswire.com/digital-experience/the-emerging-public-private-partnership-in-ai/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/the-emerging-public-private-partnership-in-ai/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.cmswire.com/-/media/76b9666d2a6a4066a5d45f215ab78589.ashx?mw=1024"
@@ -41,6 +42,6 @@ related:
         height: 1151
         isCached: true
 
-secured: "22wLRce5X1fnSSNBsc+4BsKNWsxDqN6yJa7+y46mm9b2lQR8iHL//NxmG9J2A0kduPYpj7i+fftFM/Fma7EEyYafUOh1TaAFeoZEN0c7IS2w5G7Jb2jKx7KqaoyEsw2vOBnfXrkyLvFfXEBoc5Xe25hGJ3yIpcsmiZ2i9wIe3YJ6LF/eABUAo/jLP5CyO8Vq7lmcitJfkK06FH2eLOkvt754IFQnN2fJ4NfMTTgOLWxHtODaQU0K7QkyPTWViPOgqrtGNBkk22IqvBqS1n6Q5uIjsm/sGL4EeNdm/HyrpCQGCTVcfLJgaEHQhbbtiu3ZY2YTh5lLhZDekMde0FXBwNIIOIOiwVeeDY3M7qw9UFk=;uuYT5klS2/sb8mk8ojMFrg=="
+secured: "78jViMBThPPu+JRt3GloOmshifJGoTqU1tE8lXUiXp/gUWW5NXQZIUmzJ/Bj6Pd49aSB9EqUO+7C7gER7CVPWQ5jB5Zt2S0FDD9e5V/Gm84ICTIp6iywiBVsTgmbuvlcfavGBsB1ulxAoEvOGYdRw8o2sF+q16SnoywrWTFEXGhkRjUuimGI/arIGT8ytYpmMzXjkyrColINCsjiCj2mgZID98hwArStj7saHzAixtgmkI/2H1jd1bAOq2weEc8kvr5VOry/+7vUvfaP735bEUULmvblVRqxCfvFokvCRqxXA6lSNR/tMD+4/441FweAxC3Sg90rkVnQVMwfOu86osYjFT+HJjhW5YLKolOaGlrO9KsuGzsMRiLJXF/XYjDXNhuWRG9czJP2S41KNIin2dmnlF7QAplFYJSrLP2JnwBqiY+IWAkKNzuv7sy5HCfVsDjBbnyKF0p+9l/cHOZox0UctUEqDUMwfEDTMWdDrJ80Y7RLrYChGiSGYBt+hw16auL7+vbfGWvaRCF3kVYXjQ==;+ilWcMnPOJn6Eyt0giCzDA=="
 ---
 

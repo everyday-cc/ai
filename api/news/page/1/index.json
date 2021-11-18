@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-19-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "These two stocks are built on artificial intelligence, and this foundation could enable them to redefine their space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F653598%2Fai-button-on-a-circuit-board.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
+      "publishedDateTime": "2021-11-18T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-solving-entertainments-globalization-problem-with-ai-and-ml.md",
+      "title": "Solving entertainment’s globalization problem with AI and ML",
+      "excerpt": "Fully autonomous translation solutions are some ways off, but that doesn’t mean AI/ML cannot reduce the workload today. It can.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/",
+      "originalUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095494266.jpg?w=1024",
+          "width": 1024,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/",
+      "publishedDateTime": "2021-11-18T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-a-decade-in-deep-learning-and-whats-next.md",
       "title": "A decade in deep learning, and what's next",
       "excerpt": "Twenty years ago, Google started using machine learning, and 10 years ago, it helped spur rapid progress in AI using deep learning. Jeff Dean and Marian Croak of Google Research take a look at how we’ve innovated on these techniques and applied them in helpful ways, and look ahead to a responsible and",
@@ -63,7 +166,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -306,57 +409,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-19-2-artificial-intelligence-stocks-to-buy-for-the-rest-of-the-year.md",
-      "title": "2 Artificial Intelligence Stocks to Buy for the Rest of the Year",
-      "excerpt": "Amid fast-paced digitalization, organizations’ desire to develop smart operations and quick-problem-solving capacity is driving the growth of the artificial intelligence (AI) market. So, we think it could be wise",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/397989",
-      "originalUrl": "https://www.entrepreneur.com/article/397989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-397989.jpeg",
-          "width": 2560,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-18-space-technology-and-artificial-intelligence-to-monitor-whale-mass-stranding-events.md",
       "title": "Space technology and artificial intelligence to monitor whale mass stranding events",
       "excerpt": "An international team of scientists led by British Antarctic Survey have published research today on using new technology to study mass stranding of whales from space and how the technology could be used to help protect populations.",
@@ -552,58 +604,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great.md",
-      "title": "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great",
-      "excerpt": "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
-      "originalUrl": "https://edition.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
-      "publishedDateTime": "2021-11-18T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

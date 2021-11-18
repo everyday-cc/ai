@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-10-26-the-data-conversation-communicators-as-ai-champions.md",
+      "title": "The Data Conversation: Communicators As AI Champions",
+      "excerpt": "We can better explain AI to everyone by focusing more on the data, its transformation and its outputs and less on models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/",
+      "publishedDateTime": "2021-10-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-itmo-itmo-signs-russias-first-ai-ethics-code.md",
       "title": "ITMO: ITMO Signs Russia’s First AI Ethics Code",
       "excerpt": "The first Russian AI code of ethics establishes general ethical principles and standards of conduct to guide those involved in activities using artificial intelligence. This has to do with ethical asp",
@@ -1089,50 +1141,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-artificial-intelligence-and-machine-learning-play-a-role-in-endpoint-security.md",
-      "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
-      "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
-      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/k12/k12/higher/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
-      "publishedDateTime": "2021-10-25T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

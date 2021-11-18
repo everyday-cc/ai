@@ -2,6 +2,49 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2021-09-17-baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight.md",
+      "title": "Baidu-Backed DeepWay Unveils Smart New Energy Heavy-Duty Truck to Automate Road Freight",
+      "excerpt": "Powered by Baidu's globally recognized AI technology ... The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22986992/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22986992/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1628715/Xingtu.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22986992",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22986992",
+      "publishedDateTime": "2021-09-17T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-tesla-will-make-sure-you-are-a-good-driver-before-giving-you-access-to-full-self-driving-beta.md",
       "title": "Tesla will make sure you are a good driver before giving you access to Full Self-Driving Beta",
       "excerpt": "Elon Musk said that Tesla will use its telemetry data to make sure customers are “good” drivers before allowing them to access its Full Self-Driving Beta software. This is a tricky situation since those customers already paid for the software.",
@@ -1095,48 +1138,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-artificial-intelligence-chipsets-market-may-double-its-revenue-size-in-coming-decade.md",
-      "title": "Artificial Intelligence Chipsets Market May Double Its Revenue Size in Coming Decade",
-      "excerpt": "Latest study added to the document repository of ResearchMoz provides panoramic view of the Global Artificial Intelligence Chipsets Market. Thus, the readers gain access to important information and assessment on varied facets in the market during the forecast period 2021–2027.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-chipsets-market-may-double-its-revenue-size-in-coming-decade/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-chipsets-market-may-double-its-revenue-size-in-coming-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/GQbKH24/Researchmoz-30.jpg",
-          "width": 640,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-chipsets-market-may-double-its-revenue-size-in-coming-decade/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-chipsets-market-may-double-its-revenue-size-in-coming-decade/",
-      "publishedDateTime": "2021-09-16T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

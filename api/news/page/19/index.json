@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-11-03-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-researchers-develop-method-to-completely-fool-ai-image-recognition-turn-turtles-into-rifles.md",
       "title": "Researchers develop method to completely fool AI image recognition, turn turtles into rifles",
       "excerpt": "The team’s “3D adversarial objects” throw the object recognition algorithms for a loop, making the computers think they’re looking at something they’re really not, and it’s honestly ...",
@@ -1129,49 +1172,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-facebook-to-shut-down-face-recognition-system-delete-data.md",
-      "title": "Facebook to shut down face-recognition system, delete data",
-      "excerpt": "Facebook says it will shut down its face-recognition system and will delete the faceprints of more than 1 billion people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
-      "originalUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/IF2cLlf2MJQeFMKSCbRwJq8iuKU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/D4V6RZBG6RCI7NOS4LWGWRD6DY.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSLA",
-        "domain": "ksla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

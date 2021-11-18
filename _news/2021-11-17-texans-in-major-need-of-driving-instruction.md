@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Sketching the Sun with AI"
-    excerpt: "These track the Sun and reflect its light to the scope’s objective lens, which projects a 17-inch-wide (43 centimeters) image of the solar disk onto a piece of paper on a table in a ground-level observing room below."
-    publishedDateTime: 2021-11-16T16:00:00Z
-    webUrl: "https://astronomy.com/magazine/news/2021/11/sketching-the-sun-with-ai"
-    type: article
-    provider:
-      name: Astronomy
-      domain: astronomy.com
-    quality: 17
   - title: "Automobile Acceptance Corporation Goes Live with Scienaptic's AI-Powered Credit Decisioning Platform"
     excerpt: "Scienaptic, a leading AI-powered credit decision platform provider, announced today Automobile Acceptance Corporation (AAC) has deployed its solution, positioning AAC to streamline its lending processes while helping dealers approve more loans to underserved buyers."
     publishedDateTime: 2021-11-15T12:12:00Z

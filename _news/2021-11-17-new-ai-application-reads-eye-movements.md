@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20211116/New-AI-application-re
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 629
         height: 607
         isCached: true
-  - title: "How AI and machine learning can streamline surgical documentation and streamline reimbursement"
-    excerpt: "During a recent session in The Business & Operations of ASCs conference hosted by Becker's ASC Review, Lucian Newman III, MD, chief medical information officer of Nuance Communications, and Tanya Fengel,"
-    publishedDateTime: 2021-11-16T07:34:00Z
-    webUrl: "https://www.beckersasc.com/leadership/how-ai-and-machine-learning-can-streamline-surgical-documentation-and-streamline-reimbursement.html?tmpl=component"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 37
   - title: "How AI is driving up density requirements"
     excerpt: "One of the technologies that are driving this need for increased density is Artificial Intelligence (AI), a technology reliant upon high-performance computing (HPC), and not showing any signs of slowing down."
     publishedDateTime: 2021-11-18T09:52:00Z

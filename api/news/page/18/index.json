@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-11-03-swedish-self-driving-start-up-einride-expands-into-us-market.md",
+      "title": "Swedish self-driving start-up Einride expands into U.S. market",
+      "excerpt": "Swedish electric self-driving truck start-up Einride said on Wednesday it has launched operations in the U.S. market and signed up GE Appliances, Swedish vegan milk maker and Oatly and tiremaker Bridgestone as customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-einride-expansion/swedish-self-driving-start-up-einride-expands-into-u-s-market-idUSL1N2RU0M3",
+      "originalUrl": "https://www.reuters.com/article/autos-einride-expansion/swedish-self-driving-start-up-einride-expands-into-u-s-market-idUSL1N2RU0M3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20211103&t=2&i=1580114589&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEHA20RS",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2HO1MQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2HO1MQ",
+      "publishedDateTime": "2021-11-03T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-notable-aims-to-improve-ai-in-health-care-with-new-100m.md",
       "title": "Notable aims to improve AI in health care with new $100M",
       "excerpt": "Demand for AI continues to increase as patients expect a digital-first experience due to the COVID-19 pandemic.",
@@ -1112,49 +1164,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
-      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
-      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

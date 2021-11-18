@@ -41,15 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "How AI and machine learning can streamline surgical documentation and streamline reimbursement"
-    excerpt: "During a recent session in The Business & Operations of ASCs conference hosted by Becker's ASC Review, Lucian Newman III, MD, chief medical information officer of Nuance Communications, and Tanya Fengel,"
-    publishedDateTime: 2021-11-16T07:34:00Z
-    webUrl: "https://www.beckersasc.com/leadership/how-ai-and-machine-learning-can-streamline-surgical-documentation-and-streamline-reimbursement.html?tmpl=component"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 37
   - title: "How AI is driving up density requirements"
     excerpt: "One of the technologies that are driving this need for increased density is Artificial Intelligence (AI), a technology reliant upon high-performance computing (HPC), and not showing any signs of slowing down."
     publishedDateTime: 2021-11-18T09:52:00Z

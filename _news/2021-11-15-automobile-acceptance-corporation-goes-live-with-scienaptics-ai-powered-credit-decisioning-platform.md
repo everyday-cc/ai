@@ -48,15 +48,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Sketching the Sun with AI"
-    excerpt: "These track the Sun and reflect its light to the scope’s objective lens, which projects a 17-inch-wide (43 centimeters) image of the solar disk onto a piece of paper on a table in a ground-level observing room below."
-    publishedDateTime: 2021-11-16T16:00:00Z
-    webUrl: "https://astronomy.com/magazine/news/2021/11/sketching-the-sun-with-ai"
-    type: article
-    provider:
-      name: Astronomy
-      domain: astronomy.com
-    quality: 17
 
 secured: "OAqJOxytfOLDbAX6sxRZeh5ofqHyMbY9W8UJAXF4wZNfvU5jzls8213flBbqqp/MqYLvm1KNPbIaloPmZs8uaItD4ltwpshIQEVxg8kcQHNxMpCLEMoo25j8wUS7YZ0xKm5ikSXskPNDmzvC82yr6MU3k8AYNW8smOttXENP7wLER7F/JMZyn/xc/Fp9MYmYNI+rTzs+QWW+L5kE3xgXhWc4pQpkzZruBVG2JxtW53+qiqJYrqi8yVoWND/CxHcQWQBZeLqt7Hzlm0MKO1MfYcPBmkkmtklHIu5RQZe530SuQ4dzvI+Aa6Iax3GF7DmZ52D9qc5hH7TNDsGNSe5yo4VDFRiMS66Z0bzhJUR89j0=;2CspIVOGfcchR9jmCy2SxQ=="
 ---

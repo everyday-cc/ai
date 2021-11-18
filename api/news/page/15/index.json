@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-11-05-alphabet-launches-ai-company-to-discover-new-drugs.md",
+      "title": "Alphabet launches AI company to discover new drugs",
+      "excerpt": "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind “to accelerate drug discovery,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/",
+      "originalUrl": "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/deepmind-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-apple-and-amazon-mlai-leads-to-speak-on-accessibility-at-sight-tech-global-2021.md",
       "title": "Apple and Amazon ML/AI leads to speak on accessibility at Sight Tech Global 2021",
       "excerpt": "Sensors and data are proliferating. Whether it’s from a phone, a car or smart home devices, astonishing amounts of data fuel the work of researchers and product developers conceiving new products and experiences.",
@@ -1156,57 +1208,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450.md",
-      "title": "Report: Enterprise use of AI to predict cash flow expected to increase 450%",
-      "excerpt": "To sharpen cash forecasting capabilities, today's enterprises are embracing AI and machine learning for greater automation and efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/",
-      "originalUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/pricing-1-e1635876555154.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/amp/",
-      "publishedDateTime": "2021-11-04T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

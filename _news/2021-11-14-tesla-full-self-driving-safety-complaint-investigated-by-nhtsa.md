@@ -9,8 +9,8 @@ ampWebUrl: "https://www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-comp
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: Autoblog
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great"
-    excerpt: "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works."
-    publishedDateTime: 2021-11-18T11:49:00Z
-    webUrl: "https://edition.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 86
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
     excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
     publishedDateTime: 2021-11-18T18:45:00Z
@@ -75,6 +59,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Trying out Tesla’s ‘full self-driving’ – it leaves good reason to be nervous"
+    excerpt: "When a dozen small children crossed in front of our Tesla with \"full self-driving,\" I had good reason to be nervous. Here's what happened."
+    publishedDateTime: 2021-11-18T18:41:00Z
+    webUrl: "https://www.wraltechwire.com/2021/11/18/trying-out-teslas-full-self-driving-it-leaves-good-reason-to-be-nervous/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/11/18/trying-out-teslas-full-self-driving-it-leaves-good-reason-to-be-nervous/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/18/trying-out-teslas-full-self-driving-it-leaves-good-reason-to-be-nervous/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 56
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/11/tesla-autodrive-cnn-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
     excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
     publishedDateTime: 2021-11-15T22:24:00Z
@@ -86,6 +86,34 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 41
+  - title: "Tesla EV \"Severely Damaged\" After Full Self-Driving Beta Mode-Induced Crash"
+    excerpt: "The initial accident was reported by the National Highway Traffic Safety Administration and coincided with the ongoing investigation regarding Tesla ‘s Autopilot system. The Verge reported that, “The Vehicle was in FSD Beta mode and while taking a left turn the car went into the wrong lane and I was hit by another driver in the lane next to my lane."
+    publishedDateTime: 2021-11-15T03:49:00Z
+    webUrl: "https://hypebeast.com/2021/11/tesla-model-y-crash-full-self-driving-beta-mode-cause-california"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 37
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Ftesla-model-y-crash-full-self-driving-beta-mode-cause-california-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
+  - title: "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great"
+    excerpt: "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works."
+    publishedDateTime: 2021-11-18T10:49:00Z
+    webUrl: "https://www.djournal.com/news/national/cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great/video_b92f8c93-0162-5753-9e8b-fa6397a376ea.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 36
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/b/92/b92f8c93-0162-5753-9e8b-fa6397a376ea/6196913a65f16.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
     excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
     publishedDateTime: 2021-11-16T20:00:00Z

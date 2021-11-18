@@ -1,23 +1,23 @@
 ---
 category: news
-title: "ABB Partners with Start-up Sevensense to Drive Next Generation Autonomous Mobile Robots"
-excerpt: "ABB invests in Swiss start-up and ETH Zurich spin-off Sevensense Robotics (Sevensense), a leading provider of artificial intelligence (AI) and 3D visual technology; • Integrating Sevensense AI and navigation technology will enable future autonomous mobile robots (AMR) to work in more dynamic,"
-publishedDateTime: 2021-11-18T18:39:00Z
-originalUrl: "https://www.newswiretoday.com/news/176645/"
-webUrl: "https://www.newswiretoday.com/news/176645/"
+title: "ABB partners with start-up Sevensense to drive next generation autonomous mobile robots"
+excerpt: "ABB invests in Swiss start-up and ETH Zurich spin-off Sevensense Robotics (Sevensense), a leading provider of artificial intelligence (AI) and 3D visual technology • Integrating Sevensense AI and navigation technology will enable future autonomous mobile robots (AMR) to work in more dynamic,"
+publishedDateTime: 2021-11-18T17:12:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=17816"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=17816"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: Newswire Today
-  domain: newswiretoday.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "v8gJ1MuVJYmipm25NAZhgjglfuNSOpLijiFqT6pkeKPCWcLFekrydepM/aoNJSz731HiwHC+aaEHoTisCBB1Q7zf+ZFz76DiVP9hqpPA4c1CB6shzigD/N97cddJCl+9dA7Z/GWhmnG3gGmSMFq3gyBvZHGTa5FGMs/H55d/hCQweY9E8Ths55egCiwI31rOZom5XoKhYgbdgL+mvQfzDBl4SEtbXjh3XIdo7xZtUzQpWmRcZNwavZUqERgYJmdiAFOWJkbhhCBlrtkX5VURGAs1b36hX3ynmUT14H96wuBmWhpzb6/mdUswXEwVWG7MvWTR6JitnwFEhCDJBvJgqkMBWICQB2m53mmTfQMG+wUmc1XQ6WfPijPKvBx1HxyNIMKWfzfCjCkqLohvSRqfU2NCtitO/RZfRgNYcrVXXQuxawAy+9yrWcrYd9zQ6WXyXGOzOTBDKtyR9IKXxwNJPx43/5xkHa0miccTxd0m5l9yaBgBAFafafQT/16y2KBHZyPsf0l2R4PKnaGAGWiPFg==;TU12wsHRbFQKIXQn2gkbsA=="
+secured: "8L0aPK2ur0fS1Y/xYWfNJVN1rJp8U3+sCL0gmM3U+RlmbZcZIaJ9/Zm13YGRO0dkOlqvJ66K1jJLFTjLJ/5k4UjEAJ+lCTflDiC+nRntEt0caKVAJ2+tY2KYbdMDm/pGC2GCVC/nKQBjs8uVvXa3P2DIpnm2kKBvWjT/mNwtCRl1cH3XDERHkg/kL8tpoNPiSP3om4tT6zYptvSm/ErJ8TeijRL8WQ32Gc/qVNQ/Tz6lA+7K3MR9lENk7ftIrK4L/WziRjLc5h1YDF8FZLYeBrG4+9xJTRSUp9wa128ySDuRTVdcKsAm66N3P8oAvW/7wYJTOzmrXvjpjxTR95y/GvsHLNAaPInJQBU+6ClNWnw=;No/ZZl9OfWZC2dlX+xl+eg=="
 ---
 

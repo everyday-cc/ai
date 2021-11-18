@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Artificial Intelligence and Machine Learning, Cloud Computing and 5G Will be the Most Important Technologies in 2022, Says New IEEE Study"
-excerpt: "Which technologies will be the most important in 2022?  Among total respondents, more than one in five (21%) say AI and machine learning, cloud computing (20%) and 5G (17%) will be the most important technologies next year."
-publishedDateTime: 2021-11-18T14:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-machine-learning-cloud-computing-5g-will-/2021/11/18/9495974.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-machine-learning-cloud-computing-5g-will-/2021/11/18/9495974.htm"
+excerpt: "IEEE, the world’s largest technical professional organization dedicated to advancing technology for humanity, today released the results of “The Impact of Technology in 2022 and Beyond: an IEEE Global Study,"
+publishedDateTime: 2021-11-18T15:16:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-china-99cbebbb8df0c379de6b43cd6152a751"
+webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-china-99cbebbb8df0c379de6b43cd6152a751"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1017741/IEEE_Advanced_Technology_Logo_Logo.jpg"
-    width: 400
-    height: 224
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "rFWn2xh9bZD2c2+EosPNyi/LIwvfS+l6lNBIJps2uPtcrAWSuX7TPsqrdBfpCyv9/LyqA/TMCJ9XkZ5gScEar1+lyAbwBXqsMwvcnMjYPH6CNZmMqXmLOurNl+m4/rQKzfqqKXErcIXkv/iQfj/Wx+mNxt196jNYm4AlWCmKN7srzQ7WorIZ/e05vmfeRFUxKI2N9bLjOdyUurDhUzQBDioo3M/GIXVOn+CDueGH+3HdEb92g1aqxaha0Lz9C9DREQIEb8xWveU8NZlF0YPHRgI6kW3s94pwtGzVNEkH2e0KOL5SEZDoB+mhUBY7ZG9J62wCFJ1K884wpxBAurZ7pCHdCBlqrCH6m2igJ3NqAvk=;42W/RIrme1n8baG8NKj1WA=="
+secured: "1iVqq72emRv9Z/Mx9Ub6AGZdpyMXY1WuObcNOQhq6cjK7qrtBbkGkfWa4GE9d5XEqpSSAwHdE/UjXnqqS39AWGAeGrfPaQbhP6pwrZtnJuTS8BLAE7EC8wDI6Q5bBiIXoC2wnvZsY0SBXRElSJUKzWBfrjsUoeQedtYYr4iG9Y5WpUGDIFcNVh6CGboejRxxlDbYzltRwyG5fpKzwr9MQqEgRpAnvzdVxXrZYb3wm0Pe68buuC26a4QgSc6iTvvfLznAoDRwnIofWXmrRjeFF1Ju6uQjrXp8mZTcRij8BiaElVgPulU4G9dhuUL6abPvt0hSChKdCrgGVBhEJKOSYzwlk5jf+00XI8AgypJONF8=;T7ghk6CLOXiam2/AUJtZVw=="
 ---
 

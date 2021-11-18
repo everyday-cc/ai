@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -34,58 +34,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great.md",
-      "title": "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great",
-      "excerpt": "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
-      "originalUrl": "https://edition.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
-      "publishedDateTime": "2021-11-18T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -638,6 +586,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-14-tesla-full-self-driving-safety-complaint-investigated-by-nhtsa.md",
+      "title": "Tesla 'Full Self-Driving' safety complaint investigated by NHTSA",
+      "excerpt": "Driving” software, and the Tesla Model Y went into the wrong lane and was hit by another vehicle, according to a complaint filed by the driver with NHTSA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
+      "originalUrl": "https://www.autoblog.com/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/5472x3078+0+570/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/156832a0-6710-11eb-bfdf-08aa04837d19",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
+      "publishedDateTime": "2021-11-14T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-14-regulators-looking-into-complaint-about-teslas-full-self-driving-software.md",
       "title": "Regulators looking into complaint about Tesla's 'Full Self-Driving' software",
       "excerpt": "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash.",
@@ -824,15 +815,15 @@
       "title": "Autonomous taxi market set to rev up",
       "excerpt": "The market size of China's self-driving taxi services is expected to surpass 1.3 trillion yuan ($203 billion) by 2030, accounting for 60 percent of the country's ride-hailing market by then, said a report by global consultancy IHS Markit.",
       "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
+      "webUrl": "https://global.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://img2.chinadaily.com.cn/images/202111/11/618c6db7a310cdd3d819abef.jpeg",
+          "url": "https://img2.chinadaily.com.cn/images/202111/11/618c6db7a310cdd3d819abef.jpeg",
           "width": 635,
           "height": 423,
           "title": null,
@@ -844,7 +835,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T17:11:00-08:00",
+      "publishedDateTime": "2021-11-10T17:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "China Daily",

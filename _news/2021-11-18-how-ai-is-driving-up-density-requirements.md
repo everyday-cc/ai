@@ -54,15 +54,6 @@ related:
         width: 629
         height: 607
         isCached: true
-  - title: "How AI and machine learning can streamline surgical documentation and streamline reimbursement"
-    excerpt: "During a recent session in The Business & Operations of ASCs conference hosted by Becker's ASC Review, Lucian Newman III, MD, chief medical information officer of Nuance Communications, and Tanya Fengel,"
-    publishedDateTime: 2021-11-16T07:34:00Z
-    webUrl: "https://www.beckersasc.com/leadership/how-ai-and-machine-learning-can-streamline-surgical-documentation-and-streamline-reimbursement.html?tmpl=component"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 37
 
 secured: "lx7fXziZHiz3L9FKzMrOTKi7SUo5qNqUw9tiEdW4G6eRbgHUDbCXE29+U/ff2TWE2Qu365g7rq52s0mDMVVnr1Qq/x76B2iwto5UufRKdtiZa+/iqSEb0Ryn6U+yh/PizNwFVYNgfPIjGEBgAgNSRgdQ0LpR/Cej3IbnVL3t2n6UY4DYxDzVgW0n7jjV6ebkqbtsgIia9WqEc/boQ9JOOKW0z9HK83dbg3cmXu4+Cz+ezv0TZkzJ2/b4VCF4Z2yuJE0qxl1X+5NQpfyL2N7AWgm3ao8jSUYaFhwi4pdNFahMk5dR1yyyE/85LUCje+Mo+XFyRLatTbgNpp534MvLdiVUK6YQ2mcRbSQ3m++Mvb35YuPY8L3QtP1xtL5d3MwkJALo9tCoIlMkn3hm9vzYQ7rellmvgrLPBhl63h6M4/QK1blgf9abhZGKJwfC1aQpmZ+yNj1nA8KgME+QVybxuzfAUX2jAn08BzeHKRAJSJgbqUHGajNho/qIHBk6VzN0JzPq6kL5Csw2oz35JkSWUQ==;biV7fC8H6SdC03WHTc52ew=="
 ---
