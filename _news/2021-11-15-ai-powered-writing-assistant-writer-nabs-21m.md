@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/11/15/ai-powered-writing-assistant-writ
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered marketing copy generator Anyword secures $21M"
+    excerpt: "Anyword, a company developing an AI-powered platform that generates marketing copy, has raised $21 million in venture capital."
+    publishedDateTime: 2021-11-18T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/"
+    ampWebUrl: "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1221479433.jpg?w=1200&strip=all"
+        width: 1200
+        height: 645
+        isCached: true
   - title: "Grammarly raises $200M to expand its AI-powered writing suggestions platform"
     excerpt: "Grammarly, a startup developing an AI-powered writing aid, has raised $200 million in venture capital, valuing it at $13 billion."
     publishedDateTime: 2021-11-18T03:11:00Z

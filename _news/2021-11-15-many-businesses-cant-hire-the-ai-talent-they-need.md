@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "How AI will Transform Lease Administration"
+    excerpt: "EMEA Head of Lease Administration Maxine Burnett explores the potential of artificial intelligence and machine learning to enhance the management and optimisation of leases for corporate occupiers - noting that success comes down to finding,"
+    publishedDateTime: 2021-11-16T12:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-transform-lease-administration-maxine-burnett"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 19
 
 secured: "NatvRbUBEGXEldhzzxi82//tDRQh2RovDamG47W/3pP8ogqueEAJCd1FGXMbYgUm1NnFwr5xbxDqCg+xnW49y5KSz4haX6wLQ1Uoig2N5cO0lFBqFE+T5lBpI22Bxm8uU+MLIjU1o0Ue9T2Igpw9hbO+P9SlCeHNs/N7us0Yrrbzq/pX33zYqi3des8nN7Y+PkyvAprmASrLpYGx5lWPliRQ8gCv5GslAtt9263bdV6i3yi1lEkZCnJeyAnL6ebXFADYhrSI7sejAGKeP+UlIFAe8+19fTCnc7D1j7fy9GOeo8e5XmcWWzIXf0201a92rLlJFstikjTjxjsMT9kW/T2h55cnn4mf1ICUdhHWPFYbThhRw9KdyPa8DB6YI3dQG7feHDMlpOST8S6RFuFXGzLSQFdZqnLASlHMW+xQKPiJiquuETrMh91RCHaTNu2y2c+iHAKC4Rb34oBeP7E/zqfTMmtGDV0Uk6JCFxRXTy6f8VFKp8oDUf0pidUwwRNOwCkGLp18Kp0iVBG9BuGcAg==;7hXfWerVtfDZPUqY1nVsTA=="
 ---

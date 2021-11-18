@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
 type: article
 quality: 119
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/finserv%20ai%20web%20hero.jpg?itok=YnLL7cQC"
         width: 1440
         height: 500
+        isCached: true
+  - title: "Base64.ai Launches Cloud-Based AI for Real-Time Document Processing and Data Extraction"
+    excerpt: "Base64.ai, an innovative New York startup launches its cloud-based AI technology to offer real-time document processing and data extraction. The revolutionary technology recognizes any type of document and it instantly extracts the text,"
+    publishedDateTime: 2021-11-18T13:23:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12612"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12612"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12612"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 51
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12612_16372381171437.jpg"
+        width: 350
+        height: 215
         isCached: true
   - title: "Collaboration Brings AI for IoT to Smart Homes"
     excerpt: "Infineon Technologies has announced the company has collaborated with Picovoice to jointly develop an end-to-end voice platform that brings voice AI to edge devices. This collaboration enables smart voice solutions in ultra-low power IoT devices using ..."

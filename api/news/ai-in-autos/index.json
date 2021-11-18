@@ -201,7 +201,7 @@
       "originalUrl": "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -298,6 +298,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges.md",
+      "title": "China’s Baidu pulls in near $5bn revenue as AI turnover surges",
+      "excerpt": "Internet services giant Baidu pulled in nearly $5bn in revenue in its latest quarter, climbing past analyst forecasts, despite China’s ongoing technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/",
+      "originalUrl": "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1",
+      "publishedDateTime": "2021-11-17T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-qualcomm-aims-for-diversification-will-soon-supply-chips-for-bmw-self-driving-cars.md",
       "title": "Qualcomm aims for diversification, will soon supply chips for BMW self-driving cars",
       "excerpt": "Qualcomm Inc announced on Tuesday that BMW cars will utilize its chips in its driver-assistance and self-driving systems.",
@@ -337,40 +380,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-baidu-q3-adj-net-income-declines-ai-cloud-revenue-up-73.md",
-      "title": "Baidu Q3 Adj. Net Income Declines; AI Cloud Revenue Up 73%",
-      "excerpt": "(BIDU) reported third quarter non-GAAP net income of RMB 5.09 billion, a decline of 27% from a year ago. Non-GAAP earnings per ADS was RMB 14.66 compared to RMB 20.35, prior year. Baidu Core recorded third quarter non-GAAP net income of RMB 5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73?amp",
-      "publishedDateTime": "2021-11-17T00:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.htm
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
 type: article
 quality: 103
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Envisions AI For Everything"
-    excerpt: "NVIDIA’s GTC and SC21 show how specialized processors such as GPUs and DPUs are helping to incorporate AI capabilities into more applications, enabling digital twins of just about everything. Zettar,"
-    publishedDateTime: 2021-11-14T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/"
-    ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2021/11/14/nvidia-envisions-ai-for-everything/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61903d3ad415bc12fdc919f2%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "NVIDIA Releases Teaching Kit For Edge AI And Robotics Educators"
     excerpt: "The Teaching Kit is freely available for educators as an open-source package to integrate into their courses and teaching curricula."
     publishedDateTime: 2021-11-18T06:50:00Z

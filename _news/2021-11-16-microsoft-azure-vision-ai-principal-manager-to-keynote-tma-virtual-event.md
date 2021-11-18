@@ -72,6 +72,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Concentric AI Becomes Member of Microsoft Intelligent Security Association"
+    excerpt: "MISA is an ecosystem of independent software vendors and managed security services providers that have integrated their security products with Microsoft’s to defend against increasing cyber-threats. Concentric AI was nominated to MISA for seamlessly integrating its award-winning,"
+    publishedDateTime: 2021-11-18T12:48:00Z
+    webUrl: "https://channelvisionmag.com/concentric-ai-becomes-member-of-microsoft-intelligent-security-association/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 49
 
 secured: "h6KEx+TSYYhNtyRSbL5l9J5zXYT09w6Srmuz2VXy9nWZrPPz7qumN7FlQwGUzLyKErH/wvTvnrzMYdGIlspxWUzqu4ljUrd9qjxIfyb5xkODLJhsxjhL2YrI86sUNlIYede3OQ4bYfqZ/QXK5vz3XwUAZue7MOrFqPTTgBYGO49kukHo5SS7u+MYOGgm3HSBCBOtb8MToKJFs5mE8tji/VFqO+3JjaFBlvGKcFq521+nefxslVlka2iaL+oNbH21lzCCyEjVagieIvaKzoCzuh//P6zNITFDGrtn5pDmqwN1dxaDczW2beB4yu1hbspHWgzjrdzcDZkbLrKdlDBt0hLvX2PO3CVHXC3/2RgEobc=;D5Z2qjJl6PLtwxgKpTI3Xg=="
 ---

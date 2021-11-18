@@ -41,19 +41,21 @@ related:
         width: 1200
         height: 797
         isCached: true
-  - title: "Helm.ai Raises $26 Million in New Funding"
-    excerpt: "Helm.ai Raises $26 Million in New Funding. Series B round led by Amplo will support team growth and product expansion of it"
-    publishedDateTime: 2021-11-16T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/helm-ai-raises-26-million-in-new-funding/article_a6fa9fb7-2ed5-52bd-abd5-ca918bf0dbac.html"
+  - title: "Swish.ai raises $13M to automate IT service desk tasks"
+    excerpt: "Swish, a startup developing a platform to automate IT service tasks using AI, has raised $13 million in funding."
+    publishedDateTime: 2021-11-18T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/"
+    ampWebUrl: "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "NUQU4bD85io2mh+Z5QZsWNpjA3e0M5ZBJgnAraGzziB4PeL+VHcz1W4jZhYysjRQQhOAko2qIrUS8QQJU07IFerEcL7vTy8gVfIwMMkCxYpp/8oGvAzrhk1ZTIS6SPS6AfXDu6s5RRaLhXvP3qW7pP3YY1txqDlZWChUuKejnVVbOk3Hparwjf2woOoa8pdHTu218V117mlHSD0/aGdiohBrmPxAk/xtgEmPtuA+v351Nz/LA8oUtNxSraG0nG6jF8GlJKz3BDMbybFZ6chSVB4/MeqUPK1GXIotoo/GjgtczWehdHxXoaXhkvkpOaYIdmqR93BWo2K2WPbEHnYvjARr7pCEBZEXembgS721fRo=;HzqTr81Aun4qKPQEDb4mZQ=="

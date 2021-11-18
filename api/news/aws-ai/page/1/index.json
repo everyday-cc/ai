@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-18-du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet-technologies.md",
+      "title": "du Showcases 5G Controlled Robot over Private 5G SA Network Leveraging AWS and Athonet Technologies",
+      "excerpt": "Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, powered by du’s 5G Private",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
+      "originalUrl": "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-11/du%20at%20ADIPEC.jpg?itok=lmEA8m_3",
+          "width": 2259,
+          "height": 1694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
+      "publishedDateTime": "2021-11-18T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models.md",
       "title": "Use Amazon SageMaker ACK Operators to train and deploy machine learning models",
       "excerpt": "AWS recently released the new Amazon SageMaker Operators for Kubernetes using the AWS Controllers for Kubernetes (ACK). ACK is a framework for building Kubernetes custom controllers, where each controller communicates with an AWS service API. These controllers allow Kubernetes users to provision AWS",
@@ -1463,58 +1507,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-artificial-intelligence-ai-in-bfsi-market-key-driving-factors-and-challenges-opportunities-and-forecast-insights-by-2026.md",
-      "title": "Artificial Intelligence (AI) in BFSI Market Key Driving Factors and Challenges, Opportunities and Forecast Insights by 2026",
-      "excerpt": "Emergence of FinTech and rapid innovation in the banking sector are likely to fuel global artificial intelligence (AI) in BFSI market outlook. The industry recorded a rising demand for the technology to collect & analyze a large amount of data and gain insights for supporting the banking processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-key-driving-factors-and-challenges-opportunities-and-forecast-insights-by-2026-2021-11-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-key-driving-factors-and-challenges-opportunities-and-forecast-insights-by-2026-2021-11-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

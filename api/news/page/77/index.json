@@ -2,6 +2,290 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-09-22-ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe.md",
+      "title": "IBM and Airspan Networks Plan to Work to Accelerate 5G-enabled Open RAN Adoption in Europe",
+      "excerpt": "IBM is expected to provide its Global Business Services technology integration services, as well as IBM Cloud Pak for Network Automation and IBM Cloud Pak for Watson AIOps ... s leading global hybrid cloud and AI orchestration services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe/",
+      "originalUrl": "https://www.01net.it/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/ibm-and-airspan-networks-plan-to-work-to-accelerate-5g-enabled-open-ran-adoption-in-europe/amp/",
+      "publishedDateTime": "2021-09-21T19:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-warehouse-robotics-startup-hai-robotics-secures-200m-funding.md",
+      "title": "Warehouse robotics startup HAI ROBOTICS secures $200M funding",
+      "excerpt": "and customized warehouse automation solutions through robotics technology and AI algorithms. It aims to create value for each factory and logistics warehouse. The HAIPICK™ ACR system ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/warehouse-robotics-startup-hai-robotics-secures-200m-funding-301382156.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/warehouse-robotics-startup-hai-robotics-secures-200m-funding-301382156.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1627776/1.jpg?p=facebook",
+          "width": 2699,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-machine-learning-with-microsoft-azure-ml-studio-without-code.md",
+      "title": "Machine Learning with Microsoft Azure ML Studio Without Code",
+      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/",
+      "originalUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20210905154707/exp.jpg",
+          "width": 658,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/",
+      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/machine-learning-with-microsoft-azure-ml-studio-without-code/amp/",
+      "publishedDateTime": "2021-09-21T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeeksforGeeks",
+        "domain": "geeksforgeeks.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-5-hot-ai-stocks-to-watch-in-the-stock-market-this-week.md",
+      "title": "5 Hot AI Stocks To Watch In The Stock Market This Week",
+      "excerpt": "Are These The Best AI Stocks To Buy Right Now? Even with the stock market today struggling to find direction, investors could be considering tech stocks. In particular, artificial intelligence (AI) stocks would be a notable subsection of the industry now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21",
+      "originalUrl": "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp",
+      "publishedDateTime": "2021-09-21T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
+      "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
+      "excerpt": "The Santa Monica, CA-based company said the Avenda Health Focal Therapy System, is an artificial intelligence (AI)-enabled focal therapy system being developed to treat localized prostate cancer in a urologist’s office under local anesthesia. In ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company.md",
+      "title": "Facebook CTO Mike Schroepfer to Step Down in 2022 After 13 Years With Company",
+      "excerpt": "Schroepfer had been leading Facebook’s artificial intelligence efforts and other ... to the Wall Street Journal revealing that it had research confirming the harmful effects of its services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/",
+      "originalUrl": "https://www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thewrap.com/wp-content/uploads/2021/09/Mike-Schroepfer-facebook.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/amp/",
+      "cdnAmpWebUrl": "https://www-thewrap-com.cdn.ampproject.org/c/s/www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/amp/",
+      "publishedDateTime": "2021-09-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheWrap",
+        "domain": "thewrap.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-iphones-may-detect-depression.md",
+      "title": "iPhones may detect depression",
+      "excerpt": "Apple is reportedly working on technology to help diagnose depression and cognitive decline ... fell despite heavy use of telco and internet services during the Covid pandemic, it wasn't all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/technology/iphone-may-detect-cognitive-decline/live-coverage/6a7c968c8a0c6dec1ef6f4fe1c90822f",
+      "originalUrl": "https://www.theaustralian.com.au/business/technology/iphone-may-detect-cognitive-decline/live-coverage/6a7c968c8a0c6dec1ef6f4fe1c90822f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-robots-are-displacing-manual-labor-jobs.md",
       "title": "Robots Are Displacing Manual Labor Jobs",
       "excerpt": "While the panelists agreed that robots will replace may of the jobs that Leavitt referred to as “mind-numbing repetitive manual labor ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has ...",
@@ -829,342 +1113,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-apple-reportedly-working-on-iphone-features-that-may-help-diagnose-depression.md",
-      "title": "Apple reportedly working on iPhone features that may help diagnose depression",
-      "excerpt": "The company is looking to identify signs of depression, autism and cognitive decline in iPhone user data, according to The Wall Street Journal. Apple is working with the University of California ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/apple-reportedly-working-on-depression-diagnosis-feature/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/apple-reportedly-working-on-depression-diagnosis-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/Mm7LdrUmNjnMFP4XSGflLCOufB8=/1200x630/2020/04/22/5c84cb84-75bd-4c05-9645-77dbdc6125c2/coronavirus-iphone-11-gooogle-pixel-3a-1218.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-reportedly-working-on-depression-diagnosis-feature/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-reportedly-working-on-depression-diagnosis-feature/",
-      "publishedDateTime": "2021-09-21T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-f-in-ethics-un-chief-grades-world-on-vaccine-rollout.md",
-      "title": "\"F In Ethics\": UN Chief Grades World On Vaccine Rollout",
-      "excerpt": "United Nations Secretary-General Antonio Guterres termed the inequitable distribution of COVID-19 vaccines as an \"obscenity\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827",
-      "originalUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-08/b5204l5o_antonio-guterresunchiefafp_625x300_16_August_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/f-in-ethics-un-chief-antonio-guterres-grades-world-on-vaccine-rollout-2548827?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-09-21T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-how-ai-is-redefining-the-human-touch-in-fintech-industry.md",
-      "title": "How AI is redefining the ‘human touch’ in fintech industry",
-      "excerpt": "The key to successfully navigating commercial lending lies in leveraging AI to minimise time, effort and risk at the back-end, so that relationship managers can build stronger relationships with prosp",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/opinion/o50gd8/article36594522.ece/ALTERNATES/LANDSCAPE_615/bl22thinkAI",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-ai-is-redefining-the-human-touch-in-fintech-industry/article36594523.ece/amp/",
-      "publishedDateTime": "2021-09-21T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-project44-acquires-last-mile-delivery-startup-convey-for-255m.md",
-      "title": "Project44 acquires last-mile delivery startup Convey for $255M",
-      "excerpt": "Project44 has acquired last-mile delivery startup Convey for $255 million, marking the company's largest purchase to date.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
-      "originalUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Austrian_Post_-_Roller_cages_2-e1608654110915.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
-      "publishedDateTime": "2021-09-21T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-this-company-is-making-ai-robots-to-help-farmers.md",
-      "title": "This company is making AI robots to help farmers",
-      "excerpt": "UK start-up Small Robot Company is bringing autonomous farming to life with robots that can identify and precisely kill weeds in cropland.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2021/09/21/marketplace-europe-small-robot-farming.cnnbusiness",
-      "originalUrl": "https://edition.cnn.com/videos/business/2021/09/21/marketplace-europe-small-robot-farming.cnnbusiness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210921105220-small-robot-farming-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/09/21/marketplace-europe-small-robot-farming.cnnbusiness",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/09/21/marketplace-europe-small-robot-farming.cnnbusiness",
-      "publishedDateTime": "2021-09-21T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-ssc-services-for-education-launches-national-employee-recognition-program.md",
-      "title": "SSC Services for Education Launches National Employee Recognition Program",
-      "excerpt": "SSC Services for Education (SCC), a leading national facilities and grounds management provider for K-12 schools and universities across the country, has announced a new employee recognition program,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/business-education-knoxville-4c5b6b85b06ad39a3960db2ec798e4f5",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/business-education-knoxville-4c5b6b85b06ad39a3960db2ec798e4f5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-googler-marian-croak-is-now-in-the-inventors-hall-of-fame.md",
-      "title": "Googler Marian Croak is now in the Inventors Hall of Fame",
-      "excerpt": "Look around you right now and consider everything that was created by an inventor. The computer you’re reading this article on, the internet necessary to load this article, the electricity that powers the screen, even the coffee maker you used this morning. To recognize the incredible contributions of",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/",
-      "originalUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/marian2.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/marian-croak-inventors-hall-fame/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-inventors-hall-fame/amp/",
-      "publishedDateTime": "2021-09-21T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

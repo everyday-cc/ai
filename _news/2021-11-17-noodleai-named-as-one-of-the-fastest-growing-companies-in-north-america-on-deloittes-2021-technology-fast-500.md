@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "BluWave-ai and City of Summerside Deliver First AI-Optimized Utility Smart Grid in North America"
+    excerpt: "PRNewswire/ - BluWave-ai and the City of Summerside have announced the first end-to-end AI-optimized smart grid in North America, the first industry proof point of a scalable system applicable to entire states and countries for moving their energy networks towards maximized use of renewable assets."
+    publishedDateTime: 2021-11-18T13:22:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-north-america-7f87b79354497c3328aecbcb246da441"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Iterate.ai Ranks as the One of the Fastest-Growing Technology Companies in North America on the 2021 Deloitte Technology Fast 500™"
     excerpt: "Iterate.ai, whose innovation ecosystem enables customers to build production-ready low-code applications up to 17x faster than traditional programming, today announced that it has ranked 407 on the Deloitte Technology Fast 500 ™,"
     publishedDateTime: 2021-11-17T16:45:00Z

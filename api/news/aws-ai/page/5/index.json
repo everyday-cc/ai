@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-30-how-startups-can-grow-faster-with-the-cloud.md",
+      "title": "How Startups Can Grow Faster With The Cloud",
+      "excerpt": "Researching cloud infrastructure while starting a business is often a daunting task for startup founders, many of whom wear multiple hats. On top of identifying the most effective solutions and services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61548e13ab0a838ac5235414%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/amp/",
+      "publishedDateTime": "2021-09-29T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-deploy-multiple-machine-learning-models-for-inference-on-aws-lambda-and-amazon-efs.md",
       "title": "Deploy multiple machine learning models for inference on AWS Lambda and Amazon EFS",
       "excerpt": "You can deploy machine learning (ML) models for real-time inference with large libraries or pre-trained models. Common use cases include sentiment analysis, image classification, and search applications. These ML jobs typically vary in duration and require instant scaling to meet peak demand. You want",
@@ -1400,50 +1452,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years.md",
-      "title": "Artificial Intelligence (Ai) In Education Market Rising Demand, Growth, Trend & Insights for Next 5 Years",
-      "excerpt": "Latest published market study on Worldwide Artificial Intelligence (Ai) In Education Market provides an overview of the current market dynamics in the Worldwide Artificial Intelligence (Ai) In Education space,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/?amp=1",
-      "publishedDateTime": "2021-09-15T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

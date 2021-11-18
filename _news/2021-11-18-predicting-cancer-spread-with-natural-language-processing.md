@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Predicting cancer spread with natural language processing"
-excerpt: "Two Queen’s researchers are using artificial intelligence to anticipate cancer metastasis. Gathering data from CT scans can be labour intensive and exhaust health care resources. Queen’s researchers Amber Simpson and Farhana Zulkernine along with radiologist Richard Do (Memorial Sloan Kettering Cancer Center,"
-publishedDateTime: 2021-11-17T21:19:00Z
-originalUrl: "https://www.queensu.ca/gazette/stories/predicting-cancer-spread-natural-language-processing"
-webUrl: "https://www.queensu.ca/gazette/stories/predicting-cancer-spread-natural-language-processing"
+excerpt: "Gathering data from CT scans can be labor intensive and exhaust health care resources. Queen's researchers Amber Simpson and Farhana Zulkernine along with radiologist Richard Do (Memorial Sloan Kettering Cancer Center,"
+publishedDateTime: 2021-11-18T14:07:00Z
+originalUrl: "https://medicalxpress.com/news/2021-11-cancer-natural-language.html"
+webUrl: "https://medicalxpress.com/news/2021-11-cancer-natural-language.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Queen's University
-  domain: queensu.ca
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.queensu.ca/gazette/sites/default/files/assets/socialmedia/WEB%20Brain%20Scan%20AdobeStock_217769383.jpg"
-    width: 945
-    height: 630
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/predicting-cancer-spre.jpg"
+    width: 500
+    height: 281
     isCached: true
 
-secured: "q+dG/bVtnIAvVrBFLS5WeImqhBKD2lBZBpuL7P19idOcmCYHKdgi/Ls3wsgSR+Sxzb8SP11jg8HU6uj5fZjQzVPJamJ5Jx5ZKfIBLIAT2Beyt45mqamKlqLeVWuCPl83i4o49Zt/BdDkvqd4JsDRAudqczvTF2U2WLVciL73Mgq5XzLCTI9CsCY1kyyJH02j6Iqk+tYv3YbJeLpinVHWEZsPjwcYnofWKVDYmvckA8NeiUdrcFIcSZwuV1ePfuyHk6+sAGFmiiuC2Lu7pdtU2F5HbYo+WtK1FxAIV3w5l03GVS1kExSULSLbzXL4sr7fdnSlzpV71a1jGg32L6Ty2S0mrB08PNsFwOkatWEh8bpcEBrFM2C2JfHKWQ7MIxRbSYc3VZAIdrgB3x07DUM3EYwmYbGG8LC9Vw0h0/+vMvtp1AD8DD606IWnMCffeHJVqYskL4rwSGvd59fHfuMQcszmwssbhkSBE/YHCA81aMtpMQ0j3LR4J//T+kDMC6bTq1k6imw2jIpKNZ7NBdAYhw==;ONwdFs8QyKExlw0fWl4iTg=="
+secured: "Gu0gzUUHsSeXe4EmxTHvqlpt9SFAM7X4f2TFIyQ6dGTlnqL7JOaO9Joaj7MbN3ROD6+xeINBao5BooA1DKcy/L0t7HFbJBnZJ1JqjT+AmleH9cT4YKwxFqPPP+ETApCI4jF6iEWrPb3H16RlbQrcndrdfYgca4E/blbKmuucx46wyrwaVan2MDhmF7Y71g0O5r/A2K0KOMU6rtanVQtExPi77QFpOaDZMJvamNvJhr12gvxnjdnYCOY1virdGtCbzV1snd2optEF7I7B9x9gUCFOwMm3N8wbAK4Blz0E3mYaNv3FlWFWbD66VrdPaTaOu1FXW8SYTUimQnz/wxJ2E2us0H3f8702zFUSwLoHIxY=;662FYaXXDBye71x6Vlf0Fg=="
 ---
 

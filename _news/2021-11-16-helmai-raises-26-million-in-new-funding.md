@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software"
-    excerpt: "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million."
-    publishedDateTime: 2021-11-16T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/"
-    ampWebUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
+  - title: "AI Customer-Service Startup Netomi Raises $30 Million"
+    excerpt: "The new round of funding values the company at $210 million, up from a valuation of $67.5 million in 2019."
+    publishedDateTime: 2021-11-17T12:02:00Z
+    webUrl: "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 187
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 797
-        isCached: true
-  - title: "Helm.ai Raises $26 Million in New Funding"
-    excerpt: "Helm.ai Raises $26 Million in New Funding Series B round led by Amplo will support team growth and product expansion of its high-end ADAS and L4 autonomous driving software Helm.ai, creator of next-generation AI software for autonomous driving,"
-    publishedDateTime: 2021-11-16T16:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-20107794.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-        width: 640
-        height: 480
+      - url: "https://images.wsj.net/im-436249/social"
+        width: 1279
+        height: 640
         isCached: true
 
 secured: "5SXvNw84pQ9mp/2aZO5jtGUMXI8yWy31pa5u+cD8oIkQIYCmw21oSHZINdICrN8AZK0y3dVWgRsFaneKGiUazjAOeVMLNJm5P5KYoFcp1D4OWKmwuReDymWFwP98wBp4ADHHbJpDE5brRl7ezZWAQGKOV0DwXM5JCrbm4AhXxuuR3ae4Y/zVBkAm9pEQPJ7SjcQkhcJur5JRuro3yMpNtt1ouVPeixkVxXUvZYYLHfjnla3/zw4JhUQ0ni0iFRiiXvz1I+mt48tJaiuBohLDqrLZ9oK7mhqp8y0KwefT7QR1eJS+nIMvViaYIux2aoyJNub9ABIc8EEyT8aj2yevpemy1oI1xzCSS+3H4kNba0Q=;IzBKor4KP1o4puoAwQ8Edg=="

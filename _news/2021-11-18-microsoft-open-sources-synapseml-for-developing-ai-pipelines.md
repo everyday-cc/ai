@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
 type: article
 quality: 108
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Concentric AI Becomes Member of Microsoft Intelligent Security Association"
+    excerpt: "MISA is an ecosystem of independent software vendors and managed security services providers that have integrated their security products with Microsoft’s to defend against increasing cyber-threats. Concentric AI was nominated to MISA for seamlessly integrating its award-winning,"
+    publishedDateTime: 2021-11-18T12:48:00Z
+    webUrl: "https://channelvisionmag.com/concentric-ai-becomes-member-of-microsoft-intelligent-security-association/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 49
 
 secured: "0d1VFx7uGFMT2z8+Ecda0baQPC+ikVFDMse/UcHlaR70JaZRjbqnUKfveRzkny7cfWMwH7C06ydCnJq6HO0HuQwt+t2CRysiqCSFfjrVRD3WIn7ZNPaQyJMTrz3/1BUUCd6hDkKRegdAtFsasH2WLPp5rhMX7jK7eH6B8KfX4Ch6DK3KfQkvU2PjtHOP+wVa2xvECISkawGerLkQyJKH443XyvXh29VNceUkA7lCFOBfkzRpL7Z5svMYZkQFybS8ClJh3ugWVPy6aBgOMtpjbNfFEIZQdjf3Gd1+3DrUWGnD3CdadQcjPeCnOT1+Fa93F5PLiFloZ+fsqUt4/TWS/LUeZGfprvz+oPX2jNqU5BY=;9uxLWb3QXApLeHZH+Qqe8w=="
 ---

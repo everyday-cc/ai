@@ -538,6 +538,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-04-a-new-direction-for-artificial-neural-networks.md",
+      "title": "A new direction for artificial neural networks",
+      "excerpt": "Researchers at Saint Petersburg Electrotechnical University are making strides in the development of reservoir computing to advance the performance of artificial intelligence Scientists working in the department of physical electronics and technology at Saint Petersburg Electrotechnical University (LETI) have won the support of the Russian government for their project on reservoir computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeshighereducation.com/cn/hub/p/new-direction-artificial-neural-networks",
+      "originalUrl": "https://www.timeshighereducation.com/cn/hub/p/new-direction-artificial-neural-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timeshighereducation.com/sites/default/files/semenov_2_web.jpg",
+          "width": 750,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Higher Education",
+        "domain": "timeshighereducation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-deep-learning-ai-explained-neural-networks.md",
       "title": "Deep Learning AI Explained: Neural Networks",
       "excerpt": "Ballyhooed artificial-intelligence technique known as “deep learning” revives 70-year-old idea. In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognize",
@@ -1356,50 +1399,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats.md",
-      "title": "NetWitness® Detect AI: Cloud-native machine learning for rapid detection of sophisticated threats",
-      "excerpt": "Home video setup: What you need to look and sound professional Artificial intelligence ethics policy Checklist: Onboarding and offboarding IT staff BYOD approval form",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "publishedDateTime": "2021-10-28T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,258 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-12-itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022.md",
+      "title": "ITRI to Exhibit Innovations in AI, Robotics, ICT, and Health Tech at CES 2022",
+      "excerpt": "ITRI's CES 2022 highlight technologies include the RGB-D AI Robot, a CES 2022 Innovation Awards honoree, the first collaborative robot that integrates smart 3D vision as a built-in standard for high-precision object recognition and pick-and-place operation;",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022-1030969979",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022-1030969979",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1686583/ITRI_CES_EDM.jpg",
+          "width": 400,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-robots-and-security-augmenting-the-security-force-for-real-time-situational-awareness.md",
+      "title": "Robots And Security: Augmenting The Security Force For Real-Time Situational Awareness",
+      "excerpt": "As security programs mature and organizations, businesses and facilities invest millions of dollars in video surveillance, access control and intrusion detection ... real-time response is hard to accomplish. Robot technology can be used in any market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/robots-and-security-augmenting-the-security-force-for-real-time-situational-awareness/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/robots-and-security-augmenting-the-security-force-for-real-time-situational-awareness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618d162e8314a137be03f090%2F0x0.jpg",
+          "width": 1200,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/robots-and-security-augmenting-the-security-force-for-real-time-situational-awareness/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/12/robots-and-security-augmenting-the-security-force-for-real-time-situational-awareness/amp/",
+      "publishedDateTime": "2021-11-12T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-european-banking-authority-releases-machine-learning-discussion-paper.md",
+      "title": "European Banking Authority Releases Machine Learning Discussion Paper",
+      "excerpt": "The European Banking Authority (EBA) has released its discussion paper on machine learning 'used in the context of internal ratings-based (IRB) models to calculate regulatory capital for credit risk.' As noted in the announcement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look.jpeg",
+          "width": 1400,
+          "height": 1867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/",
+      "publishedDateTime": "2021-11-12T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai.md",
+      "title": "Baby, You Can Drive My Job? Cars, Careers And The Future Of AI",
+      "excerpt": "AI might replace the data-compiling aspects of journalism, for example, but journalists will continue to exist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/12/baby-you-can-drive-my-job-cars-careers-and-the-future-of-ai/amp/",
+      "publishedDateTime": "2021-11-12T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-an-artist-who-disavows-the-possibility-of-individual-agency.md",
+      "title": "An Artist Who Disavows the Possibility of Individual Agency",
+      "excerpt": "According to Agnieszka Kurant, everything we make — from the systems that oppress us to the inventions that transform us — is the result of a collective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html",
+      "originalUrl": "https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/11/12/t-magazine/12tmag-kurant-slide-FQ5H-copy/12tmag-kurant-slide-FQ5H-copy-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.amp.html",
+      "publishedDateTime": "2021-11-12T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-googles-self-supervised-ai-model-can-help-improve-neural-networks-in-medical-research.md",
       "title": "Google’s self-supervised AI model can help improve neural networks in medical research",
       "excerpt": "The key postulate of self supervised machine learning models is that they are trained on unlabelled data, thereby enabling application of AI in niche areas where collection of clearly defined data sets may be difficult,",
@@ -928,258 +1180,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-unsupervised-ai-arrives-for-quality-inspection.md",
-      "title": "Unsupervised AI arrives for quality inspection",
-      "excerpt": "The quality inspection revolution begins with some wildly independent AI. Quality in manufacturing is mission critical. AI-powered quality inspection is nothing new, but a joint venture from two big players in manufacturing could markedly improve outcomes and reduce barriers to entry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/unsupervised-ai-arrives-for-quality-inspection/",
-      "originalUrl": "https://www.zdnet.com/article/unsupervised-ai-arrives-for-quality-inspection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/25f0e2c9b846bb90f08290ce4bb55c3b3e5296d2/2019/11/08/5cc28d1a-4b47-45ef-b971-6d0e9745a2a9/ai.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unsupervised-ai-arrives-for-quality-inspection/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsupervised-ai-arrives-for-quality-inspection/",
-      "publishedDateTime": "2021-11-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-robot-flips-burgers-for-california-restaurant-better-than-a-human.md",
-      "title": "Robot Flips Burgers for California Restaurant Better Than a Human",
-      "excerpt": "In fact, one California burger restaurant has hired a machine named Flippy to cook its patties. CaliBurger in Pasadena has a robotic arm doing the flipping in its kitchen. According to a report from KTLA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human",
-      "originalUrl": "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/45685/0cachedpng.png",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-rad-ai-raises-25m-in-series-a-funding.md",
-      "title": "Rad AI Raises $25M in Series A Funding",
-      "excerpt": "Rad AI, a Berkeley CA-based radiologist-led AI company, raised $25M in Series A funding. The round was led by ARTIS Ventures with participation from OCV Partners, Kickstart Fund, and Gradient Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/11/rad-ai-raises-25m-in-series-a-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2020/12/contractbook-400x293.jpg",
-          "width": 400,
-          "height": 293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers.md",
-      "title": "FlyFin offers AI-based tax app aimed at freelancers, gig workers",
-      "excerpt": "This new AI tax engine replaces the self-employed and ... A desktop version is also available for Macs with an Apple M1 chip. Android users can download FlyFin’s app here.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
-      "originalUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/cryptocurrency-tax.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
-      "publishedDateTime": "2021-11-11T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-this-company-tapped-ai-for-its-websiteand-landed-in-court.md",
-      "title": "This Company Tapped AI for Its Website—and Landed in Court",
-      "excerpt": "Under pressure to make their sites accessible to visually impaired users, firms turn to software. But advocates say the tech isn't always up to the task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/",
-      "originalUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/618aed06de1cbf7845f548f0/master/pass/business-ai-1322406612.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/company-tapped-ai-website-landed-court/amp",
-      "publishedDateTime": "2021-11-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

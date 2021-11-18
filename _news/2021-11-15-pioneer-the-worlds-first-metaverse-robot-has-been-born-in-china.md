@@ -112,6 +112,20 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 37
+  - title: "The Metaverse, AI Bill of Rights, Digital Twins & Simulations, Digital Identity and Decentralization and Retail Cybersecurity Threats"
+    excerpt: "The Metaverse wave is spreading with tech companies including Facebook shifting towards 3D, virtual reality and augmented reality technologies. More tech companies such as Nvidia are following suit and preparing for a metaverse future."
+    publishedDateTime: 2021-11-17T21:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/metaverse-ai-bill-rights-digital-twins-simulations-david-yakobovitch"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 8
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGAaOpd9MHQ4g/article-cover_image-shrink_720_1280/0/1637157395688?e=1642636800&v=beta&t=s2SqPRWUyFEiXRekdUeesYjnG5YXUZat8YhwAOecnuY"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "lsh9U4Ma0XEw36Nkbns/O18uf//4IGPP2VPMKjOMbiFQA6LY8JV/gP4UDpQ4d0KO0kYNs+jTVyucxzRfyAp8WJByxHxpJFJ2b9Ns7WZP5dZg4NMnmqWNa5N+u7CCzcZTKjRbb2qblu9Ll0PjcEOT6ICUaXh/AhIJmAqu5cFAZxxY8cc2XtfyRLtsjLXC09T5GO0ESwDSA6yYDLfytj0V5Y80Nqe2HakSxu+aHR1A0opRafm4HTirsRQV2q63Z//22kujMchto4R3LXu7v0oDqpeal8QZh/nSVhziN6TqLEv9MrOwiG2JJ0026+FQzWi4ecRPydPQVm/iQwnrXUnCQFxybTRx+tawjIkmSh4Lukg=;H2jNYj5jrH7uJgZbqfcY0w=="
 ---

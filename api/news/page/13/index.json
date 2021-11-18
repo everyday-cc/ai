@@ -2,6 +2,291 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-11-08-h2oai-secures-100m-lands-partnership-with-australian-bank.md",
+      "title": "H2O.ai secures $100M, lands partnership with Australian bank",
+      "excerpt": "H2O.ai, an AI development platform, has raised a fresh $100 million, bringing its total to over $250 million at a $1.6 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
+      "originalUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
+      "publishedDateTime": "2021-11-07T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-artificial-limbs-center-saudi-arabias-ksrelief-aid-493-yemenis-in-marib-in-october.md",
+      "title": "Artificial Limbs Center, Saudi Arabia’s KSrelief aid 493 Yemenis in Marib in October",
+      "excerpt": "The Artificial Limbs Center in Yemen’s Marib and Saudi Arabia’s King Salman Humanitarian Aid and Relief Center (KSrelief), in the past month offered",
+      "sourceUrl": null,
+      "webUrl": "https://english.alarabiya.net/News/gulf/2021/11/07/Artificial-Limbs-Center-Saudi-Arabia-s-KSrelief-aid-493-Yemenis-in-Marib-in-October",
+      "originalUrl": "https://english.alarabiya.net/News/gulf/2021/11/07/Artificial-Limbs-Center-Saudi-Arabia-s-KSrelief-aid-493-Yemenis-in-Marib-in-October",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vid.alarabiya.net/images/2020/08/24/9eb6d96e-2b98-4da9-85cb-21fc48524a12/9eb6d96e-2b98-4da9-85cb-21fc48524a12_16x9_600x338.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.alarabiya.net/amp/News/gulf/2021/11/07/Artificial-Limbs-Center-Saudi-Arabia-s-KSrelief-aid-493-Yemenis-in-Marib-in-October",
+      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/News/gulf/2021/11/07/Artificial-Limbs-Center-Saudi-Arabia-s-KSrelief-aid-493-Yemenis-in-Marib-in-October",
+      "publishedDateTime": "2021-11-07T11:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "العربية.نت",
+        "domain": "alarabiya.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-artificial-intelligence-is-still-no-match-for-us.md",
+      "title": "Artificial Intelligence Is Still No Match for Us",
+      "excerpt": "Scientists misunderstand human reason and an AI system fails the Turing test.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-427090/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
+      "publishedDateTime": "2021-11-07T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-metas-face-recognition-ai-may-yet-metastasize.md",
+      "title": "Meta’s face recognition AI may yet metastasize",
+      "excerpt": "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
+      "originalUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/07/600x338/edit_1636303267610_1636303286718.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
+      "publishedDateTime": "2021-11-07T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars.md",
+      "title": "Colorado Bear Busts In And Finally Sort Of Busts Out Of A Car, Providing Bearish Lessons For AI Self-Driving Cars",
+      "excerpt": "Bears are smart enough to try and find food inside of cars, which brings up considerations for AI ... [+] self-driving cars. Get ready for a bit of a surprise. Imagine that you’ve driven up to the mountains to enjoy some fresh air and are relishing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613e7aa68eb80aa61d6a1636%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3403%26cropY1%3D24%26cropY2%3D2555",
+          "width": 1200,
+          "height": 893,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-11-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-07-alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs.md",
+      "title": "Alphabet Chases Wonder Drugs With DeepMind AI Spinoff Isomorphic Labs",
+      "excerpt": "After DeepMind's breakthrough in protein folding last year, Alphabet will double down on artificial intelligence in biology and health with its new venture.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/",
+      "originalUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/11/pills-rows-yellow-background-1-1.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/",
+      "publishedDateTime": "2021-11-07T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai.md",
       "title": "First Artificial Intelligence-based driver evaluation hub launched in Dubai",
       "excerpt": "Dubai: An Artificial Intelligence-based driving hub is opening its doors in Dubai with an aim to cut accident risks and improve drivers’ skills. Starting November 15, a private driving institute in Dubai will make use of the Artificial Intelligence (AI)-based driver evaluation hub,",
@@ -885,266 +1170,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-castle-biosciences-publishes-decisiondx-melanoma-study-on-the-validation-of-the-i31-gep-slnb-artificial-intelligence-algorithm.md",
-      "title": "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm",
-      "excerpt": "Castle announced the publication of a study validating performance of the i31-SLNB algorithm to determine sentinel lymph node biopsy positivity risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
-      "originalUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-in-a-world-with-robocops-and-flying-taxis-should-ai-be-taught-in-schools-dubai-teachers-weigh-in.md",
-      "title": "In a World With Robocops and Flying Taxis, Should AI be Taught in Schools? Dubai Teachers Weigh in",
-      "excerpt": "A step ahead, the UAE recently appointed the world's first Minister of Artificial Intelligence. In the blink of an eye, today's parents may see their children inside flying taxis, in driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/editorchoice/world-robocops-and-flying-taxis-should-ai-be-taught-schools-dubai-teachers-weigh-104398",
-      "originalUrl": "https://www.albawaba.com/editorchoice/world-robocops-and-flying-taxis-should-ai-be-taught-schools-dubai-teachers-weigh-104398",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/shutterstock_695764816.jpg?itok=oDDFC9-D",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/editorchoice/world-robocops-and-flying-taxis-should-ai-be-taught-schools-dubai-teachers-weigh-104398",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editorchoice/world-robocops-and-flying-taxis-should-ai-be-taught-schools-dubai-teachers-weigh-104398",
-      "publishedDateTime": "2021-11-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-alphabets-isomorphic-labs-says-it-will-use-ai-to-discover-new-drugs.md",
-      "title": "Alphabet's Isomorphic Labs Says It Will Use AI to Discover New Drugs",
-      "excerpt": "The company will build off of breakthroughs in protein prediction from DeepMind and inches Big Tech one step further into the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449",
-      "originalUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ff798528b11ef62b1fe1def5a6099780.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp",
-      "publishedDateTime": "2021-11-05T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results.md",
-      "title": "Clickedin Founder Franco Ieraci Creates AI Software That Delivers Results",
-      "excerpt": "TORONTO, ON / ACCESSWIRE / November 5, 2021 / It's the same story. Companies pay lots of money only to get burned by marketing companies who can't deliver",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results",
-      "originalUrl": "https://www.digitaljournal.com/pr/clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/COP26-climate-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-bloomberg-news.md",
-      "title": "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News",
-      "excerpt": "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-05/apple-hires-former-tesla-engineer-to-boost-car-effort-bloomberg-news?context=amp",
-      "publishedDateTime": "2021-11-05T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

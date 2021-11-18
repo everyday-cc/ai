@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "How AI will Transform Lease Administration"
+    excerpt: "EMEA Head of Lease Administration Maxine Burnett explores the potential of artificial intelligence and machine learning to enhance the management and optimisation of leases for corporate occupiers - noting that success comes down to finding,"
+    publishedDateTime: 2021-11-16T12:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-transform-lease-administration-maxine-burnett"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 19
 
 secured: "mZ9USA6B48+afK+bF7uN9hKV3QkIvJfF0sBfOz4UAVm2wNWlZ0oTbQ7i67P1TKNeKdV1FPMsIa72prG0qEMnqxlsF5PV08d0OjQhagKs5X1rQQa9UChLDWF2MHX0AVbI+vHuZeG3g9x7dH4FTkrrpWxQrPS5h0j8MyW8vhDeBdQSv0TXfmRqRtFhPdUEDncqntRs4pCG3zxyodvWjzGxk+k3/PZ5Z8YZwHFYe3leuAnkjgmgqX8W6AFjFjwJbB9svS1pRwo22IYeiv24fUhfsti4XZXEQ/DXRU2EGuAJ0CykMwV/KizWXXvDmDbjfp3GwicXmy5svv/w8aAkggruIh24zqdS6yrvTq3fRNF+5S7ZIBcsdm7QlVUicOStkAohc9RBMP0CDptBSTF+j12qkyrN2PywFJHLz9Iqni6uPrariuJLaPCGnklH4iQGi2RtE+kwC3SO76DzVCzmVGXvp6SC3nrKMROWa+GMJZtn9e8s/MiW6w3Akyuoio2sdDKZM6slRW+jZjdnxMoQGUAQLg==;HohgAJDvEbNNgdIJs1vKdg=="
 ---

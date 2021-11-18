@@ -2,6 +2,281 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-16-the-department-of-defense-is-issuing-ai-ethics-guidelines-for-tech-contractors.md",
+      "title": "The Department of Defense is issuing AI ethics guidelines for tech contractors",
+      "excerpt": "The controversy of Project Maven shows the department has a serious trust problem. This is an attempt to fix that",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/",
+      "originalUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/11/gettyimages-1286000787.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/amp/",
+      "publishedDateTime": "2021-11-16T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees.md",
+      "title": "AI Can Be A Force For Good In Recruiting And Hiring New Employees",
+      "excerpt": "The use of AI and machine learning in various employment processes is advancing rapidly. New products and services are entering the market at an explosive pace. These new technologies promise dramatic efficiencies and added value while pledging a healthy return on investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/",
+      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192721f6684affa45047632%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/amp/",
+      "publishedDateTime": "2021-11-16T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai.md",
+      "title": "Justt comes out of stealth with $70M in funding to help online merchants fight false chargebacks with AI",
+      "excerpt": "Justt, a Tel Aviv-based chargeback mitigation startup, is emerging out of stealth today with $70 million in total funding. Founded in February 2020 by Roenen Ben-Ami and Ofir Tahor, Justt says it fully automates chargeback disputes on behalf of online merchants.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/",
+      "originalUrl": "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Justt-product-screeshot-1.jpg?w=680",
+          "width": 680,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/",
+      "publishedDateTime": "2021-11-16T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution.md",
+      "title": "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution",
+      "excerpt": "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_11/1200z740_1637055115_shutterstock_1164788407.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/966351",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/966351",
+      "publishedDateTime": "2021-11-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-aws-claims-pivotal-role-in-creation-of-african-unicorns.md",
+      "title": "AWS claims pivotal role in creation of African unicorns",
+      "excerpt": "The Amazon subsidiary says it played an instrumental role in helping to create some of the African tech start-ups currently valued at over $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/raYAyModOkVqJ38N",
+      "originalUrl": "https://www.itweb.co.za/content/raYAyModOkVqJ38N",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/snUiZea6wjkkUVhhtf52mXdpqopiCkM3l-eRctL0yLTZTsqsetU2zehg3otSLYjGwilj4ZBWtHyIK3EmjInkLOjBKld-G79aVkXC=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/raYAyModOkVqJ38N",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/raYAyModOkVqJ38N",
+      "publishedDateTime": "2021-11-16T00:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence.md",
+      "title": "Improvising claims processing for the insurance industry by use of artificial intelligence",
+      "excerpt": "Eventually the use of artificial intelligence in the immediate years is expected to help claims organizations adopt a more proactive mindset",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/",
+      "originalUrl": "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-11-15T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content.md",
       "title": "Deep tech, no-code tools will help future artists make better visual content",
       "excerpt": "The future creator economy will offer incredible business opportunities in visual platforms and tools that enable a focus on content.",
@@ -286,7 +561,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -552,57 +827,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-ai-powered-writing-assistant-writer-nabs-21m.md",
-      "title": "AI-powered writing assistant Writer nabs $21M",
-      "excerpt": "Writer, a company developing an AI-powered assistant primarily aimed at marketing use cases, has raised $21 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/",
-      "originalUrl": "https://venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/05/a_typewriter_10995863465.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/amp/",
-      "publishedDateTime": "2021-11-15T05:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -973,229 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-aiml-workloads-need-extra-security.md",
-      "title": "AI/ML Workloads Need Extra Security",
-      "excerpt": "The need for security is pervading all electronic systems. But given the growth in data-center machine-learning computing, which deals with extremely valuable data, some companies are paying particular attention to handling that data securely.",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/ai-ml-workloads-need-extra-security/",
-      "originalUrl": "https://semiengineering.com/ai-ml-workloads-need-extra-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/Fig01_Rambus_Security_AI.png?fit=1706%2C866&#038;ssl=1",
-          "width": 1706,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T00:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Security",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-university-of-geneva-discovering-exoplanets-using-artificial-intelligence.md",
-      "title": "University of Geneva: Discovering exoplanets using artificial intelligence",
-      "excerpt": "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/geneva-1024x427.jpg",
-          "width": 1024,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "publishedDateTime": "2021-11-14T20:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture.md",
-      "title": "Telstra and Woolworths' Quantium to form new data and AI joint venture",
-      "excerpt": "Telstra and Quantium will target enterprise customers using a new 'whole of tech stack' to be delivered under a new joint venture between the pair.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
-      "originalUrl": "https://www.zdnet.com/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/telstra-and-woolworths-quantium-to-form-new-data-and-ai-joint-venture/",
-      "publishedDateTime": "2021-11-14T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-go-read-this-report-about-how-amazon-tries-to-evade-responsibility-in-delivery-vehicle-crashes.md",
-      "title": "Go read this report about how Amazon tries to evade responsibility in delivery vehicle crashes",
-      "excerpt": "Amazon Logistics has reportedly been the defendant in 119 vehicle injury lawsuits this year Amazon’s fleet of delivery drivers may be detached from Amazon warehouses, but the company still monitors its drivers;",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/go-read-this-report-about-how-amazon-tries-to-evade-responsibility-in-delivery-vehicle-crashes/ar-AAQHz1b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/rxZO8mmoe60a0QTLL3t4H0LbP5A=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70142051/acastro_181114_1777_amazon_hq2_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes",
-      "publishedDateTime": "2021-11-14T15:27:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes",
-        "domain": "theverge.com/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-ai-tech-drives-transformation-of-f1-racing.md",
-      "title": "AI tech drives transformation of F1 racing",
-      "excerpt": "The next generation of AI in racing will play a prominent role in car setup and design decisions that yield the best results on track.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/",
-      "originalUrl": "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-139946022-e1636656086505.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/amp/",
-      "publishedDateTime": "2021-11-14T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

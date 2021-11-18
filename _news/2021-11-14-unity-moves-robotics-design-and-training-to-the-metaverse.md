@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
 type: article
 quality: 119
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 37
+  - title: "The Metaverse, AI Bill of Rights, Digital Twins & Simulations, Digital Identity and Decentralization and Retail Cybersecurity Threats"
+    excerpt: "The Metaverse wave is spreading with tech companies including Facebook shifting towards 3D, virtual reality and augmented reality technologies. More tech companies such as Nvidia are following suit and preparing for a metaverse future."
+    publishedDateTime: 2021-11-17T21:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/metaverse-ai-bill-rights-digital-twins-simulations-david-yakobovitch"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 8
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGAaOpd9MHQ4g/article-cover_image-shrink_720_1280/0/1637157395688?e=1642636800&v=beta&t=s2SqPRWUyFEiXRekdUeesYjnG5YXUZat8YhwAOecnuY"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "bekp0qLhUY/r9bOU1sMlFQOu9fBpd3pi5NzqleqCkx1zt9moXk4j9ne5mNVcvFCdQKXaxgfM6U1mzaGggCjg+VDgIg7EcqE348vcgdZDsxMMmjmmj4s85tMCFP1n6Dr4PDY6T7IBBxI94/4zDcJXxlKzL0MjI5IW3bcdacckEOtWHyBM7ywI1OlS8FAM59Vwj/jqDyWW3Pgk0fN6/9o0erimgIOMHg/HhVF4SvwTfjUUCLzofilPPscMv12NFrpxoLEEpHPQUbIHNnGYtfiG1vb6n82yzh2c77C9WsemHpNmMLp4qY3QKir0T6kiGV/+VneTnYI3Ee+5RsAWnqOZQEkxmsf7VenO2uf9rGL82syl/QMD2hpjYhpz4jUlGtwOcVHNTJkzfrB6nTrP76RnbA2RzJIElcXojQgj2GlVEiMigtxbqpl6ZY01sd1GUjVOy6U0coTvOvQ41ZOiydnWsJ6cm62lvjua+JkrGE0hk/U36uyzos10XoheEDTYfkC9YEqNNrfCZ7DIn2hwAEIceA==;NpXxn5M2hpglAZXTxSV05A=="
 ---

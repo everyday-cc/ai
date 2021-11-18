@@ -24,6 +24,22 @@ images:
     height: 1228
     isCached: true
 
+related:
+  - title: "ScaleOut Software announces machine learning capabilities for its scaleOut digital twin streaming services"
+    excerpt: "ScaleOut Software announced extensions to its ScaleOut Digital Twin Streaming Service that enable real-time digital twin software to implement and host machine learning and statistical analysis algorithms that immediately identify unexpected behaviors exhibited by incoming telemetry."
+    publishedDateTime: 2021-11-18T13:14:00Z
+    webUrl: "https://www.iotglobalnetwork.com/iotdir/2021/11/18/scaleout-software-announces-machine-learning-capabilities-for-its-scaleout-digital-twin-streaming-services-33789/"
+    type: article
+    provider:
+      name: iotglobalnetwork.com
+      domain: iotglobalnetwork.com
+    quality: 23
+    images:
+      - url: "https://www.iotglobalnetwork.com/public/img/product/2847e2e2c6b4b2527666035946bb03c2.jpg"
+        width: 678
+        height: 494
+        isCached: true
+
 secured: "6yvy7Y8i4TILYUGmxwzk6p/Gx+vD0Az1jVCUF3xm3EYPvScRpxg2J9TpYQcs+kiWhp3tWcFJpqD0I29MhUpmART7UnHRwKaHNzsEmZ1GxBEx9cTqQgWUxLgqdizsXZ2CNy0Ar6wdN+6Pt01i24MapqTtM0orQXj5LkSQYoOo6jiT74+QjcdO84hgs96/mrPtqPuog2WtD0w7SBsxxfq9amSwJZMCuTKKfxLulMkiiBMI0ar+utNijMdvvYMZe0OjekabJr5gk283GNRC0QThIQI0SG+qv5HqPo/o/q2XcF86ILzszun1nd+pV3608e9B7Mzw78r3tl93pkI+Ja+RxEN7hlS1J4odNHicNSNt526FeBv3nCPEbMpboiM+6pMyMj0iEJCEVuNO2LtzXrVIfDksx4araDJsYqrcvIP9Nwt2FBy7FE9HkgR4iTjK1OHwkqtpMGP1Z15HmNMty2MnroaAx0NU49BJr3n3UrGbSF/1W/Coc9dySp4Y5j6p8NVs9zn9ANjlnLeeYp8JGBKEBg==;eUqenAN/8+rfl5ii6Q+wIQ=="
 ---
 

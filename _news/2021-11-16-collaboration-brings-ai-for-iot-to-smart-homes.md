@@ -88,6 +88,22 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Base64.ai Launches Cloud-Based AI for Real-Time Document Processing and Data Extraction"
+    excerpt: "Base64.ai, an innovative New York startup launches its cloud-based AI technology to offer real-time document processing and data extraction. The revolutionary technology recognizes any type of document and it instantly extracts the text,"
+    publishedDateTime: 2021-11-18T13:23:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12612"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12612"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12612"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 51
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12612_16372381171437.jpg"
+        width: 350
+        height: 215
+        isCached: true
   - title: "BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform"
     excerpt: "BigBear.ai, a leading provider of artificial intelligence, machine learning, big data analytics, and cyber solutions, and Palantir Technologies Inc. , a software company that builds enterprise data platforms for use by organizations with complex"
     publishedDateTime: 2021-11-15T12:12:00Z

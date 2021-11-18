@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "China’s Baidu pulls in near $5bn revenue as AI turnover surges"
+    excerpt: "Internet services giant Baidu pulled in nearly $5bn in revenue in its latest quarter, climbing past analyst forecasts, despite China’s ongoing technology"
+    publishedDateTime: 2021-11-17T12:18:00Z
+    webUrl: "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/"
+    ampWebUrl: "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 159
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu Q3 Adj. Net Income Declines; AI Cloud Revenue Up 73%"
     excerpt: "(BIDU) reported third quarter non-GAAP net income of RMB 5.09 billion, a decline of 27% from a year ago. Non-GAAP earnings per ADS was RMB 14.66 compared to RMB 20.35, prior year. Baidu Core recorded third quarter non-GAAP net income of RMB 5."
     publishedDateTime: 2021-11-17T08:29:00Z
@@ -36,22 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "China’s Baidu pulls in near $5bn revenue as AI turnover surges"
-    excerpt: "Internet services giant Baidu pulled in nearly $5bn in revenue in its latest quarter, climbing past analyst forecasts, despite China’s ongoing technology"
-    publishedDateTime: 2021-11-17T12:18:00Z
-    webUrl: "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/"
-    ampWebUrl: "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Baidu’s Q3 revenue grows 13% as demand for AI cloud rises"
     excerpt: "Baidu, the Chinese search giant, posted a 13% year-on-year revenue growth for the quarter ended September 30 on the back of its strong AI cloud business. The company registered over US$4.9 billion in revenue for the quarter."
     publishedDateTime: 2021-11-17T14:53:00Z

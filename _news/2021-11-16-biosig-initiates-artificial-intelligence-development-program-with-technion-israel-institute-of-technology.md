@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "The Role of AI Technology in Cancer Detection, Diagnosis and Treatment"
-    excerpt: "On the cusp of artificial intelligence (AI) becoming a ubiquitous feature of our everyday lives, researchers discover that intelligent systems thinking offers a wealth of potential applications in the fight against a cunning human adversary: Cancer."
-    publishedDateTime: 2021-11-17T14:04:00Z
-    webUrl: "https://www.medtechintelligence.com/column/the-role-of-ai-technology-in-cancer-detection-diagnosis-and-treatment/"
-    ampWebUrl: "https://www.medtechintelligence.com/column/the-role-of-ai-technology-in-cancer-detection-diagnosis-and-treatment/amp/"
-    cdnAmpWebUrl: "https://www-medtechintelligence-com.cdn.ampproject.org/c/s/www.medtechintelligence.com/column/the-role-of-ai-technology-in-cancer-detection-diagnosis-and-treatment/amp/"
-    type: article
-    provider:
-      name: medtechintelligence.com
-      domain: medtechintelligence.com
-    quality: 39
 
 secured: "UQu3OOArOGtw6jadxU1O+fWanabpcWfOKlizdcBGKEZfnusQ2LkiByQGYvw0FdwxYWk+1cQUEUmAnyqAJ1cIr9Ew6c8ZOHqaXbELKCqNWYZFsK+NtlgUNkyEwN6y6xKCL0i4l3Ft8m9GwGF4arvH1kWfT0+iEqi4pPhwbadhrTj9ZYXbMEUmYplreTSGLFqN9oclCBLqMaeum9PdVLAdWBsuXiFDZJL0jRPagDv4nTAaA2LwNRYJvoP4wBrEmdLBdMiRrsOIVzAZLH+eZemx2utnw8Ykjp3gFCUtSB1dxnGshYa1DDJQ3HOzOI+nITvieubwJnGO8a2tipJiwJvtgk9ty1qMFkPTI5PELavn1Yk=;mzM1teJF0m04enC7xA9tXA=="
 ---

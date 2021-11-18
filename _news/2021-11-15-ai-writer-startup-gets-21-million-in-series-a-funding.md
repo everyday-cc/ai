@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered marketing copy generator Anyword secures $21M"
+    excerpt: "Anyword, a company developing an AI-powered platform that generates marketing copy, has raised $21 million in venture capital."
+    publishedDateTime: 2021-11-18T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/"
+    ampWebUrl: "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1221479433.jpg?w=1200&strip=all"
+        width: 1200
+        height: 645
+        isCached: true
   - title: "AI-powered writing assistant Writer nabs $21M"
     excerpt: "Writer, a company developing an AI-powered assistant primarily aimed at marketing use cases, has raised $21 million."
     publishedDateTime: 2021-11-15T13:09:00Z

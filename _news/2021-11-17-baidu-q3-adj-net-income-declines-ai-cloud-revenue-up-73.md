@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73?amp"
 type: article
 quality: 69
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -31,7 +31,7 @@ related:
     provider:
       name: City A.M.
       domain: cityam.com
-    quality: 59
+    quality: 159
     images:
       - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
         width: 1200
