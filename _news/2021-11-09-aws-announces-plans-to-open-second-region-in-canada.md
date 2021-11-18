@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "12TvG3gRvz8fYGCJJVkCwANZDovIWkHog+UhitUSdOQ/MgRYiznZkZ+/fUAUJihx+vAB7m+XKtisTBWoDdMmuLpJbH9S7+ARhLnwsxiYSPSq1rOpJxO/Gqe4qr73pA2Dvcwn8ARXgn9YkNueKeIlDJE6BhgI7yzD0WXMpJBH8qBvHPEYZv72Si9oM/PysRG/wLwxzW9N08kKCw6YuMmY7WlQppXuPXTp39ll3Ndc2fOR5yLC9f9vkLmFAjHgtEdeswaa0PevTEM2qye5DE/SSM8P78NZIWuo83P2dfNjfQK3xYsZNFNkalXI8WOC8kZuGW3+/z1czTsPJFp+ifdoiZrYfs+OI0db2+dI9jdRj5g=;MkhFy8wZNxFgZ0bQYbgZDg=="
+secured: "C5D6Iw17sJSsroTLh4BdkNQaFbWWxP3WKAY8ZD9tVTz718PqVolJ4BEv3oG97e41imHlxOwC3ptMxpPUOU5YSK7kGx7HV/ibAwEQKJCJqRKYOhI+oY9tAoUoFpwyQ9N7cMbqp1t41/vl+qEV5tNpXWyvxAT8fAE+WIQv5u2EgSZXqGzlwUrxfY4UaHu8ZAXQXEGPe7byVEdiCI2Wog3VZZjwQGvjK9uwQaTaa3j9TQ4ZHgX/MqXE3LknZCTGU97CELicuCz3tp8iak90fhnsvSzsqcBU29oupLCrmpClLJ9FSzRMDZMwF2M/bK7Kvtf9u+Hi/zcQkMUMNoGTnktgMw3CssWeh0oQm8hBKCMngrI=;FjYoF4YFs3goM8z7T1Y39g=="
 ---
 

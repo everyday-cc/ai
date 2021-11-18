@@ -6,9 +6,6 @@ publishedDateTime: 2021-11-15T04:11:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-1030972298"
 webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-1030972298"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: Business Insider
@@ -22,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "Sci6UYMS7ORetnTd1UUmLkLH8DJXmQOKz796GXvriQVR2rsLvYG+Ub906FtgQe9iKdEhVvj0LE9g+dK4IaGjUSjm3HaD2AT5mZt/kDRTVB7u59yahDV780JWKIdxifNqTZJW4VBxNxxj3eZqfzu5SViQmqYwbpS4YsJFC0MufTj8LO93AWwEyNjoKAJujB00A/YUZVxRFOaS5YByIkf6GPIlHRHX7Xk/UWdWQCenYF88fiyu//HOaKiK4Lcp3xs4LZOWQ1tHjzmYyQ+tN1E4gB8bKkJxLjQ2R1m65+6CQ/toarzxQSSWAPra++woF6XBkVKZ3VQNY2HhhRqg0JRiufM+w/KFMoyTBrE4mwkUp9I=;kOgUBvD4fRFGh0Thsazg2w=="
+secured: "5BZS1lGqFWB+6PjsKto0cFkczdXb5VquosTXLrWykBOjLaDOxk03HEdgX8yhoIsMhXwAli+skH04ljS74LxXBcwXvaQsetwZfNibaFpUhpB7RYbWprwkprw9EsttLaod7jCBSKeKAEeyNFjNOvFlylDZSJM0mNbt+cpY5F0WUC0xSUOqOFlySG8XvhRj3kpHhAyYvuIQcOVarp5mYb2hr4R3tCAQJUGfxTbck9NxBL5LIjm+tetLa4z9CaBYGA22SVXCiC766cxqQT0zuNpU+4AaWezEaHSJl+oJiN+8wJEVdinYVcjDODRehKuUDQBYkld5Uiw33VPbgXd0rApkmMftOgi/8fc8QnB7UgvSyQ8=;4cTDywOtxBoNwquB9eiBug=="
 ---
 

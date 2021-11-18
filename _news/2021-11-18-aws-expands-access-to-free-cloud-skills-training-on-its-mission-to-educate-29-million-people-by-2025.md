@@ -1,40 +1,20 @@
 ---
 category: news
 title: "AWS Expands Access to Free Cloud Skills Training on its Mission to Educate 29 Million People by 2025"
-excerpt: "These initiatives come as newly released research shows that the need for digital skills training is greater than ever. The AWS Global Digital Skills Study surveyed employers and workers on their perceptions of digital skills training across 12 countries."
-publishedDateTime: 2021-11-18T12:01:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_e215383d-0d3e-5aff-8dc9-a00e712c272d.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_e215383d-0d3e-5aff-8dc9-a00e712c272d.html"
+excerpt: "New AWS digital learning experience, technical courses on Amazon.com, expanded access to AWS re/Start, and Amazon’s first dedicated in-person cloud learning center will put cloud skills training into the hands of millions of people New AWS Global Digital Skills Study finds the need for digital skills training is greater than ever,"
+publishedDateTime: 2021-11-18T07:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20211118005786/aws-expands-access-to-free-cloud-skills-training-on-its-mission-to-educate-29-million-people-by-2025"
+webUrl: "https://www.morningstar.com/news/business-wire/20211118005786/aws-expands-access-to-free-cloud-skills-training-on-its-mission-to-educate-29-million-people-by-2025"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/a/ab/aabff8c1-0421-50b6-85e5-f8ec30143c58/619653a682348.image.jpg?resize=700%2C630"
-    width: 700
-    height: 630
-    isCached: true
-
-related:
-  - title: "Times Professional Learning partners with Nuvepro Hands-on Labs to Enhance its Digital Skills Training"
-    excerpt: "Nuvepro, the leader in Hands-On Labs solution, today announced that Times Professional Learning (TPL), an education initiative by The Times of India Group, has selected Nuvepro to provide the real-world practice environment to the TPL learners to enhance their digital skills."
-    publishedDateTime: 2021-11-17T07:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/17/9494146.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
-
-secured: "bugnYMgrytaFiJRuUq2jMwqWMcLQVzgJJ/QJmNITjwZVqEaiBvHnfKo4BWI+PUFMTl7qxxhlz2YNXR9/q4ozmcbh/FXbL11k8nQuzM0T+tDxjFpN6ibRwh2eASUqE1oeBhLnahXgacKdpD7ZQoAa8i7VIVWPe825QjBFunP83Qz4rsKjEsLK5Flkx77BzVuxhk5jmQ3pexPFB01xKXVTdWy6BhAWoywwUwu1tKZ1Tz6LLGeV5LeScPBMYq1CpABNrltqLY7yNHVkBXDFYiMlyZI9QX654Jq+vi4gtiau1tKHPMLrkgqYD5NcgP37loUw3VWoZ7JunuWhmY/MuVcoUH22tQKcWqFvgf1oLTdzdiSf38nSffYlsxoafTU0mfYinwtvi47JEIMvnmzhEY5oieFoYIhQJqYP7/hScQebQ3+AmYf70JTEcHgo4PK6z9CtltgfdvOT41oSKGDcT+wh2LJiceyZ3Zo+S5zam2/Z7FMMUSlW8qxNFJNG+aLy3OLPvgNPaDcgfk63QAT9RMOBeQ==;jz07X9zGTDt07fPA0C9Fvg=="
+secured: "nLZBrmfR9lZtPIy549N0C/8d3e0P7hOIqAxdsQLEcNha+QKUFOeUfzErQM0zK6eaQOpyS9dvIbjq30CbXf4WlukvqzW2tEVujnIAtATVCosW86w5H/MV/5GZm3Q6jk/RXMn6kNd2jI/WU0/HonD3R7mqanRvofvEvJp417PcjEOV00CLfPUq3cRGnGCGd8vf3QXDkieQPKgsK2ceK9x3KaiDS+e6/RBmf7wuuwdQcXMQHooIu9hG6DeBsWgBBO/KPSCjbUqeV67PAR9NTMo2gRBDEJaDSM8wZiNGbTYchLzZyOLR/JtJp/TK0i6dMw8+eskdb2h3dnoy7640r+DFArA2iA4XQL1PlD19IIn322i/jugjEze8d+jkHTQ9W7gCgqrLT8agOI0Iw+SKSXaxmNMkshjQ2/vx2kibM8ail0usN7FbD/v4Q+kVAvCNQIf+Exr3itRnmw2ZEJb9tIDaRBuwGVIZO9EK8sq98Q5nzKef0oO8mZY6JJYS2zpSQ4pa856rg+6/em3+LRWq5ks97Q==;FWRMjtGeySzpTM4qa3qI3w=="
 ---
 

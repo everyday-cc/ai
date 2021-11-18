@@ -1,29 +1,20 @@
 ---
 category: news
-title: "OhmniLabs Unveils The World's Lightest, Most Efficient Autonomous UV-C Cleaning Robot"
-excerpt: "OhmniLabs, an award-winning robotics company, today introduced OhmniCleantm, a fully autonomous robot that disinfects utilizing the power of UV-C light. Weighing just 58 pounds, OhmniClean is the world's lightest and most user-friendly"
-publishedDateTime: 2021-11-16T13:52:00Z
-originalUrl: "https://www.lelezard.com/en/news-20106817.html"
-webUrl: "https://www.lelezard.com/en/news-20106817.html"
+title: "OhmniLabs Unveils The World’s Lightest, Most Efficient Autonomous UV-C Cleaning Robot"
+excerpt: "Nov. 16, 2021 /PRNewswire/ -- OhmniLabs, an award-winning robotics company, today introduced OhmniClean ... “At a time when sterile cleaning and infection control are top of mind, OhmniClean is helping to restore normalcy by simplifying existing ..."
+publishedDateTime: 2021-11-16T14:56:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-robotics-e6a5c2665d17dacaf855a9bbc0fe57b2"
+webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-robotics-e6a5c2665d17dacaf855a9bbc0fe57b2"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "YbUL45CwFp1zjBylK1TaaH1xw947Kwymc9vIWku8gngyO3nXIMa4agL8ZiFDye35rHMGN+/uFtyi7eVGc2SoU3pCmOzaXNBB3qWQ+gFDnEpZC3hEGhok+O+CwK2txGyK854FSPekgZedPHCbHXx7wkTas0V4eNX0zAom0kYNRxqpMNAITx4UnI7PzJH/LdFJs0wqXDw7lx82BCG7vPlmIQ9h9E6U547D50ihU9uAX6za7W8e7q0ywwjFoJUnTXgXdRvSSUnbnJhZk1jfzZ3H/SNYqYsKEx1JiUnOceYnm6XIxnpxf2RVzUZ/6FOxX9pOoWFg4ftyqu7/SfSMh3mU7qyiK/6K7GUNoIAytuqYdUs=;xE4lUMfWNar373T749QqmQ=="
+secured: "p/gZc1dOM4gJdcZZiEXM3miSn5uabeilG06wyyff1PITpL3d4WFrqAYC39DcxEMM2NntSuOBYgaKjdQVK847uK58N5Lv3o2OZoTxl7mDR6swNRx/yUEBh7zip2ppsknSNws0wKkzCWRTZ1vBdreORSy0caylq+oU8Ryt9tr4xZTAhdXXxEbR9wh7SMxx45+OKwkXxY36BnXjiSzAOAJaP5UxGpvPxnvhMwCb3MlKA5vB92ynnoUrnKJPeiWrA0UGgZJMxkU+kaKxA59PHkOnS1kM5l7brNTgFGtJRrz8N3PjA/96DX8CWjzJbDinxdA+eRBsoGIyXkp5e+h/mJgwRqG91/5sZa00sYYt05wChuw=;lKUZ18dUFToJ/s2GGo+urg=="
 ---
 

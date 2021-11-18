@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095494266.jpg?w=1024"
@@ -50,6 +51,6 @@ related:
       domain: astronomy.com
     quality: 17
 
-secured: "VrZxn6mZF5WVPS1i01HHURF5wNR/sqp06WYTb1s5d/KiUlWz2PsmOLnLCpOxxrnaV/zXAckK5nt4yvT49V+QSKfTL+4klCiSr297X66ll4y4tNj1sSZ9okGwdkv+RSJYbiECLSRhtohMQzidzG1/NHRN2He0Uj2p1NIsesPmw13e4Metq0UFGUaE1a81zU7xrXfMVVp2o8CNSLZWl+3JsWKHNamG56NXM++7+zOn0eMlci2FzJMYHj1S8Y7EDbHEnOSGtn8RiImCMLaiLtMY/JJE5aCbIEGnnlLbaB49qE+JDDSCzD1r85PMO7qZTWaxIZk6cRzKqMnFxnyFUhrSJ8OlnahQuhHwAj36BmX42TE=;hk2vonlinRs9BME7iWmLpQ=="
+secured: "KVdpNa7UBC2mSJ4SZCLdsPmojHSboJxmd9VSY7etG2yOtlwEtKIx+jh5Wfdk+bcFMUGoki2lag+sRdXnJPVYM4/U64cyRy2iyCNIPOT35++BoHehRt8KdM2QJ25ft9o30H4M5DDiynOsKHxKBQoIHz0huCY+mIl14PBcpSUg3Le1ptcgXCYC9nkeGJMO/bLU4gK132bplDIc4MmKnrMgniHVgzEHFl7qWmYKyQVpOgyAL3IkPi5ZJ3pjNAsMCJCvQl47zWRdbizCBG21V6dpVcdDJdnNdvF5DiATnWQVoLIpkYeojUa7i48OUuPVUABD3grvbB+0hRfmnV8tFl1FsrcfO9JqSPHWlSEGjuPhlLPeLU+PKw2TWZeCkTjJzHOXyluoZLfCiDZ8/IUXAI6feC4qxjHRoF0ho0ehOQNOUjlsWoQwpfQbhoKQym53yV9ILiBvkXsphFp0GHOwQra0oDm2e2uUcEJZcBXZeb108vm+ZFKVv4Asyb/SAAjVi71SkXqU3jUpYvLDO8K299yzoQ==;W6gVk8j2WTQFcSQEi9KEgA=="
 ---
 

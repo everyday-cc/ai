@@ -6,9 +6,6 @@ publishedDateTime: 2021-11-18T17:12:00Z
 originalUrl: "https://www.roboticstomorrow.com/content.php?post=17816"
 webUrl: "https://www.roboticstomorrow.com/content.php?post=17816"
 type: article
-quality: 11
-heat: 11
-published: false
 
 provider:
   name: Robotics Tomorrow
@@ -18,6 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "8L0aPK2ur0fS1Y/xYWfNJVN1rJp8U3+sCL0gmM3U+RlmbZcZIaJ9/Zm13YGRO0dkOlqvJ66K1jJLFTjLJ/5k4UjEAJ+lCTflDiC+nRntEt0caKVAJ2+tY2KYbdMDm/pGC2GCVC/nKQBjs8uVvXa3P2DIpnm2kKBvWjT/mNwtCRl1cH3XDERHkg/kL8tpoNPiSP3om4tT6zYptvSm/ErJ8TeijRL8WQ32Gc/qVNQ/Tz6lA+7K3MR9lENk7ftIrK4L/WziRjLc5h1YDF8FZLYeBrG4+9xJTRSUp9wa128ySDuRTVdcKsAm66N3P8oAvW/7wYJTOzmrXvjpjxTR95y/GvsHLNAaPInJQBU+6ClNWnw=;No/ZZl9OfWZC2dlX+xl+eg=="
+secured: "eZdwOzJFXMPrSO7NG7xfCyM2/oZke0qzmy4TLAKMJ7k7zqEhSwrYGtBxb9t7qRTpKl96DOmk9AbUO/Dg2Kf9yVW7Whi+ZJjB6+ctQwiuaNvF9BpisnO3XIj1QmICOpCBunYgiu91K5/wFXQJjP5MkcHLQgqzxKJA+816LI9Z/Y4K67vXDiVAybjl5TQkkzpAAMNpDb4EXd4ih7ryhNhMX1/JiOueRzAM/XanEPFiF9KHmBb8agvpzUtC2rB1RgwueJDYbwdRCStPtKavRoCIX2e70cNNFltR1/a/pFCm87YTgDig6pD7r9lOxphMJgTGfUYjq3Qb4jwBMCldd58oT290gEzRrm/4NmEoZBsTezc=;4t9o9EULPqMxNSlD4+Omig=="
 ---
 
