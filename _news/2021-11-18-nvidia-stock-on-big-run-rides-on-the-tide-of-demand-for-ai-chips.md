@@ -65,7 +65,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/new-teaching-kit-3c33-p@2x.jpg"
         width: 1200
@@ -133,6 +133,6 @@ related:
       domain: equitybulls.com
     quality: 6
 
-secured: "zyb3hglLxjeVeM0xudDvl2YpLEKO3CujDs9fRffsHo/jPxeQ5Ty4Y3HQhXa5GcBDuarKX1csAzG3JKHhhGGAejdhS5A8JwKl52gdt8EqEKuqAF2znxCGiyxqzBuunsmPg60qQhZCfc/SFC08Q9t5t8r72LaVgit4mJjqeq/ZmTram9v/z3ieIOtAElMvN+Pp7PBDeuPXa7SFN3buxZdO9//EQcCuqsivSW2uJ/eukMAZhddhyT5NsswExH1mfMmm/bGFhbKoVr2Q+aVBnhMM0TZ72s5HsVH91U9BPSAxESexAcwcDvmZ/Fodbm7pvTG/q8ObtZ8K94fcLxZ1+E3h9VeZZ65C+C9uamu8S8Tm6Oc=;LSfSS9ev43IYl6VPHrve6g=="
+secured: "xUcNh9pVaq/5llkEFMIpn3xXAlxkzNVf5WFXGkR44p48Ib8dkLscB6d3BENPhzbbaSSEkOOJiwxlCsGUnxk8YMsjn0HO9AU/2eDzCtKQ12cPKqT8pOUBpfLbcUEf0YfqG+fjQyhCutO/xhyb80hDYLgB75Wz9zL6mEPwKuBxDksVMH0lg5UU7RZCuBjEoKr0SV/2j4UWjH5XL92qkKQQBCLqjPknySEdYL0R9ZXd0gnRihHIVjR8ZYwL9TsBFpu9zWgxZicIHqDtQc2O1A5De9oK2mjOu/P7g/YOGoMoHp2NNzfqDLBQcliZpgdEJ8nZr1px4fJjOz/lPnghcsEItedIwTGbIGN/6+7JbVIHSr1i+IG3ziZBPrhvvedYT2A6iLh0ywqxT0CfWXUBhBSj1LJH6/3XkZC+YEBPOqugFH5KtnNoZCPBlXzWc+i8mmDMcOQRjGmwADYAG0BWoDxlw/l0/YGDGABvN6xa0Z5EqQ3VuJOrg2PYtuyA2PaMgqhnyTjlouVpHi5IugclSprj8g==;D9sOUt6fnzZT4zt+cCXY3w=="
 ---
 

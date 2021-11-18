@@ -40,17 +40,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Smart Factory Market - integration of technologies like the IoT, Machine Learning , and Artificial Intelligence"
-    excerpt: "Industrialization levels have increased exponentially across various regions over the years The rising industrial prospects attached with the technological developments across manufacturing facilities will help create a positive growth trajectory for the smart factory market during the assessment period of"
-    publishedDateTime: 2021-11-17T09:50:00Z
-    webUrl: "https://www.openpr.com/news/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
-    ampWebUrl: "https://www.openpr.com/amp/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2465233/smart-factory-market-integration-of-technologies-like-the-iot"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
   - title: "Adoption of Intelligence Technologies in Manufacturing Processes to Boost Expansion of Smart Factory Market, States TMR Study"
     excerpt: "Many industry verticals such as mining, energy, petrochemicals, and manufacturing are inclining toward the use of intelligence technologies in their day-to-day activities. This factor has resulted into increasing the popularity of smart factories concept."
     publishedDateTime: 2021-11-17T07:02:00Z

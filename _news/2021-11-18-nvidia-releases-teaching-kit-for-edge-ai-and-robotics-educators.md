@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-18T06:50:00Z
 originalUrl: "https://analyticsindiamag.com/nvidia-releases-teaching-kit-for-edge-ai-and-robotics-educators/"
 webUrl: "https://analyticsindiamag.com/nvidia-releases-teaching-kit-for-edge-ai-and-robotics-educators/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/new-teaching-kit-3c33-p@2x.jpg"
@@ -133,6 +134,6 @@ related:
       domain: equitybulls.com
     quality: 6
 
-secured: "JLNWqUehHa5hbU+GWUcYMnAtOlHvNW1768LyW7jEly7wtyh+WK36Ioo3mDzmJ9sS9gVrXfxe2U4FKzBIOKcdvy++zgEoWDA4TT9pi7+wMZ7tgi2AT8qLpMZyjPQWQAVFWwvnkBHPho8lPMhsFAZYyvg3cHPozTmGh3c+k42M7EucSuXAT1Yx6CjbPYvPTkoAOUzyCSwzMlJQZUhFMCAkU0jA/HMUGvnFp/lpe+cqKvSn/jQQATfn8wkphYed9+zVV4lCOmX8WRTwupUrIobnR5gjdkJC3KZnQwbCVMzyAOAISPv9jFYQO/4RUUCLBRl9kuZOuUHTzgidLlu4I0ArOdqAQHsVEfHl1iwD+/GjU54=;LPDfcqfOse133U5EIQolkw=="
+secured: "+jKdGuAcIIUsDrnhm1gXye1W6wOf0aRojdn576wW7fvTNwjEUccM5IkYCxIQSsrDrwq6w9eC1Kp/I7kIYeftb+/wZ0uyLH+Wc5oSyEP3MZVW8acHhJT00nZRMMFtS8euZm+1NRbrBnvCBAjNMcAWTliJf2T7LPsmuNEf4+oH1EzU4IvpP8v4qm0ILaZxwT8eSDlwfS0OP150D/dwSuftrSNDA+pM0/vGgxYd77ymv+nS+jBrSFL54YYisUP32MrxVKrbOdDpTmQ0q/ae4yhaqCdftYVTJtL6vZRLOyhJFMPocn6mqunIX+Cr4D14xFXoBb4IFx5olW+/XIJdqN9fG/xZLeusPHzQlA8aXJqenTi4IAxMsPsgi6pvQLVupLUs03iqvRC1OnUQ2wTDOI5Ylo053CJOihSIJOKb69A5I5NoEspQ45YZqetTP+tmz4h/QFR24NXkhhsdfkcPV7OCtrc/MCnVb9Zb0SCOU7X4tqaqNY3jwtOOo+5EjCTa06oS9i3QUVbngOHR6Ai8se2ndQ==;LgUurY3jL/d5QYUpmxIO7A=="
 ---
 

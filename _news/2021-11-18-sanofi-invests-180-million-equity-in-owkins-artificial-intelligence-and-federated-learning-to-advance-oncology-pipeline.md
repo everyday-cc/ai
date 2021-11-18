@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/coronavirus-pandem
 webUrl: "https://apnews.com/press-release/globe-newswire/coronavirus-pandemic-technology-science-business-health-e222121a2d6e2926567955bde994e496"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Sanofi Invests $180 Mln Equity In AI Startup Owkin To Develop Oncology Pipeline"
+    excerpt: "French drug major Sanofi (SNYNF, SNY) announced Thursday an equity investment of $180 million and a new strategic collaboration with Owkin, a French American startup that specializes in artificial intelligence or AI and federated learning for medical research."
+    publishedDateTime: 2021-11-18T06:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline"
+    ampWebUrl: "https://www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 63
+  - title: "Sanofi inks $270M cancer AI deal with R&D platform developer Owkin"
+    excerpt: "The two-part deal includes a $180 million equity investment in the company alongside a $90 million discovery and development partnership that spans the next three years."
+    publishedDateTime: 2021-11-18T05:30:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/sanofi-inks-270m-cancer-ai-deal-r-d-platform-developer-owkin"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 37
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1637187670/GettyImages-1226985345.jpg/GettyImages-1226985345.jpg?VersionId=H84OC4OBu58E__a.nTqoWmU7AUJCVZ6G"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "akDCPddP9T42QJnyVpJ7nkoR/ozhP41W/gUOvg37PmVZA/NPu82I4ky3wN+WpGNiwIcaB7Bm9Zdy/qZDSETt3v1fnrkji3v1KQqhEwrXGECKEJdwUXQrP3DY2mCEN8G3H1+MgJm0M1ENzNDu1X3WfUtsi0XLaIin+/hBsBPdnEpzNFshHGLzb/BlMyS4oY+wNHSApbBev8pz+9yVdPDPRii3I9LYQMDWm4Qv/z5ageK9Le+VUL9LO4oX0dzAGmt5tJ50TC9ctEhfq+Gely/I0ftafO8Bac8CjuWRNJ2+pYf4bPt6mMQtZKLQ6rOnksOj+v/WIMtz9i2xragddwf4AsbnE250KEl8K+oit5xahcU=;cgxnKgx/lTxBGLIx+7XEEg=="
 ---

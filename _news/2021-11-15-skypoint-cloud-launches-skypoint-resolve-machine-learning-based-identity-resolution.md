@@ -1,18 +1,18 @@
 ---
 category: news
 title: "SkyPoint Cloud Launches SkyPoint Resolve, Machine Learning-Based Identity Resolution"
-excerpt: "SkyPoint Cloud (SkyPoint), the privacy-first customer data platform that enables consumer and healthcare brands to build deeper relationships with their customers, today announced the launch of SkyPoint Resolve,"
-publishedDateTime: 2021-11-15T15:23:00Z
-originalUrl: "https://www.lelezard.com/en/news-20104178.html"
-webUrl: "https://www.lelezard.com/en/news-20104178.html"
+excerpt: "PRNewswire-PRWeb/ -- (SkyPoint), the privacy-first customer data platform that enables consumer and healthcare brands to build deeper relationships with their customers, today announced"
+publishedDateTime: 2021-11-15T15:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/skypoint-cloud-launches-skypoint-resolve-machine-learning-based-identity-resolution/article_b81c0323-2ed1-5dc1-a01c-e2b57cd4c43d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/skypoint-cloud-launches-skypoint-resolve-machine-learning-based-identity-resolution/article_b81c0323-2ed1-5dc1-a01c-e2b57cd4c43d.html"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "tOw2QGK91eCg/hsyML56Vqd4ZlyOrbomjorJWKv/rxBl8bl1LiRyyxAZUkKOQMDGnof/80SiGVUzTCu1G13Kgb/y89IfGRtUilK0GLExSvj6/Orpg7X6aqeT7xcZI6lp6B59v8DNurbb+wHCgT2sXEhOvuGUDzvmw0byRnWGmqRPgQEwGOCcLthbBTo2SJfnGP19KnOwjo3JmrqnPULTfu7+AW5LGULNMK4pOwddWj7i580jghX1l5okX7b164JysI/hehgq7zS+rV6/4jqlOLdBywvXQBPiClOKzJerl+ovji/GtdVP9y4QWyZsiP9OoCWfyYfu9HGceDfYNPPa0x33MFrmTiGl5dt52fitRz8=;MGK3YihCZs7IbLgbWVg6JQ=="
+secured: "e15zA0rEC9sih+44jsFGp9Q4xdbTWI9bvbXa+VCx7kFLM5ZKGMtOC8C/CBDsB8p/H6aKxNnmKg8k0e/CWQFOzYZQb5hyTnB2YciK4iL1ttYyXLsGx8jlDLgL6h/1Uo5LhLuN9/M6cPocZyHSfcLD4GwIJ6UysE07qnusZCuuXR8jiaqoKwMAl4VsUDPPFtPtGjr70jL0jwM0PuIdVHOlKGxG5OZ4FeU55bbZIsClRQ4+G5wJKAZ6wqzL8jhnbxRttChSu4GxvI/uToObgLZaq73w0KAmf1nrNU8ga3h3IMICCQbhagL+kTHuGKZRmn5qcwcfyOAlIspXmyV3srcS6JCxBR2vSqg8A7ZuYfDi8Q8=;/ElvPwFEsjmwgpMeQnbfdg=="
 ---
 

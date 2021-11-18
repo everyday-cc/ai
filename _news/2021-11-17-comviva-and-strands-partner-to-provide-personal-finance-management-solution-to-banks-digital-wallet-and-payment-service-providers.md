@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Comviva and Strands partner to provide Personal Finance Management solution to banks, digital wallet and payment service providers"
-excerpt: "Comviva, one of the global leaders in providing digital financial solutions, today announced a strategic partnership with Strands to provide an integrated suite of intelligent digital banking, wallet"
-publishedDateTime: 2021-11-17T11:00:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/comviva-and-strands-partner-to-provide-personal-finance-management-solution-to-banks-digital-wallet-and-payment-service-providers-121111700806_1.html"
+title: "Comviva and Strands Partner to Provide Personal Finance Management Solution to Banks, Digital Wallet and Payment Service Providers"
+excerpt: "Comviva, one of the global leaders in providing digital financial solutions today announced a strategic partnership with Strands to provide an integrated suite of intelligent digital banking, wallet and payment solutions."
+publishedDateTime: 2021-11-17T13:12:00Z
+originalUrl: "https://financialit.net/news/payments/comviva-and-strands-partner-provide-personal-finance-management-solution-banks-digital"
+webUrl: "https://financialit.net/news/payments/comviva-and-strands-partner-provide-personal-finance-management-solution-banks-digital"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/17/full/20211117160421.jpg"
-    width: 600
-    height: 450
+  - url: "https://financialit.net/sites/default/files/comviva_technologies_ltd.png"
+    width: 990
+    height: 660
     isCached: true
 
 related:
@@ -65,6 +63,6 @@ related:
         height: 768
         isCached: true
 
-secured: "dFRjqCqUe2YSX3XyyMegPGAXJbJgtgJM8Tt9NefCjiZRWWjOAyXNlRfCLstFJDRcPgY3RUFSOlFYF80qiKAdPjq3XpBj5mHjPRejwXTqA5Us+fGcjd0j3pcGDN1CtzgZzaD10jXX53rcDvdTuval/7m8Tcsxu4ZjM6NV/We+qPia+Pb2Ua0GUnboguI9HtdetGaIXa3ZoCwzORJ6MziLNFLEAONsHCx2dHRM8GZL6N7dYCMGqc+nWQSOg6wzHPkgq4WTMdHekcKRkJECQJfRS5+T+48/TBz4TrvvDS+QjZpgCzlx51+WvdFxXU9EnAoaZba5HsgMIPDEi4Bl8XkWQeve4TtZpVOKeyLXSps5J+k=;zYGOvgvBscuCCXTJG3XSPQ=="
+secured: "tqrVwC/pYVf7UdVSNa/Io281dKg2XvFiMpuOzpkJcA8CSKL3KAW7k5aG9QLT4IGQY7fwk1ojHITJBqZh5LcWN4j/0Xv9y3gP6j8NA0FFGTDci8qiOTyKQM2xBJTNuR93+cJnLdmPN2WCXMIhOnB12eM3LwIjIHuUY9W7kBZWg8jGjGZrIugIMGzNcX6zCAor/eSMADz7RlW2ubn2j+ltpEdpuY7lQJLYSr3qSdbZ8weHYNDShZWzg6RNB3jbWDDiSotDEX/NVDJdVDYhYiSiqXoaadSXhW3kNhzYA6iaCHnYoO2WQTkwQYXJFm51mFFBrSCMYhAe/Ma4f629OG/RsEEkmmggk2NTU2zyhqaGS9M=;fVBzJnUL/LMAUuPR9A00cg=="
 ---
 

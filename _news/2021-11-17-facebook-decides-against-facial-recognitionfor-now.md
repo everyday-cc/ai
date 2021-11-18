@@ -39,20 +39,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Trust in biometrics sought with AI Act, government programs and ethical facial recognition"
-    excerpt: "Biometrics adoption is being encouraged in the public sector for digital ID and online government applications as it continues to rise in the private sector."
-    publishedDateTime: 2021-11-13T15:35:00Z
-    webUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 61
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Meta-0, Facebook-1: The Facial Recognition Hypocrisy"
     excerpt: "Facebook has stopped the usage of facial recognition technology on its platform; however, parent company Meta has not made any such commitments."
     publishedDateTime: 2021-11-15T07:30:00Z

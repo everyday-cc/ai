@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-countr
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426
         height: 808
+        isCached: true
+  - title: "Google’s $1 billion Australian plan is really just a cloud and AI play"
+    excerpt: "Google has announced a $1 billion investment in Australia over five years, bringing with it thousands of new jobs, along with ‘digital infrastructure’ to help businesses in the post-COVID recovery period."
+    publishedDateTime: 2021-11-18T06:26:00Z
+    webUrl: "https://www.startupdaily.net/2021/11/googles-1-billion-australian-plan-is-really-just-a-cloud-and-ai-play/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 39
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2021/11/Silva-Morrison.jpg"
+        width: 766
+        height: 531
         isCached: true
   - title: "Oosto endorses the Australian Government's decision to delete pictures scraped from the net for facial recognition app"
     excerpt: "As a vendor of AI based facial recognition products for private companies and government agencies it is important for me to emphasise - facial recognition apps should be"

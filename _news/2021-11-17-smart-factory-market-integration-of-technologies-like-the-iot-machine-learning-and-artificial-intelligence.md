@@ -22,51 +22,33 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Space Robots Market Showing Immnese Growth due to the Dynamic Innovation in Technology and Latest Research Study"
-    excerpt: "Space Robots are capable of withstanding extreme space conditions and are particularly capable of performing activities such as assembling maintaining and repairing space satellites Furthermore emerging technologies such as deep learning DL and artificial intelligence AI are extensively being used"
-    publishedDateTime: 2021-11-15T11:15:00Z
-    webUrl: "https://www.openpr.com/news/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
-    ampWebUrl: "https://www.openpr.com/amp/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
+  - title: "Natural Language Processing (NLP) Market Rising Up Gradually with the Adoption of New Technologies"
+    excerpt: "Allied Market Research Logo Growing demand for cloud-based NLP solutions to reduce overall costs and better scalability and increasing usa"
+    publishedDateTime: 2021-11-18T08:40:00Z
+    webUrl: "https://menafn.com/1103197231/Natural-Language-Processing-NLP-Market-Rising-Up-Gradually-with-the-Adoption-of-New-Technologies"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/18/EP_e4988image_story.jpeg"
+        width: 480
+        height: 400
+        isCached: true
+  - title: "Computer Vision in Healthcare Market Rising Up Gradually with the Adoption of New Technologies [2020-2030]"
+    excerpt: "The use of computer vision in healthcare can considerably lessen the time doctors usually take in analysing reports and images. Computer Vision in Healthcare Market By Type (Software, Hardware ..."
+    publishedDateTime: 2021-11-15T05:41:00Z
+    webUrl: "https://menafn.com/1103171463/Computer-Vision-in-Healthcare-Market-Rising-Up-Gradually-with-the-Adoption-of-New-Technologies-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 38
     images:
-      - url: "https://cdn.openpr.com/U/b/Ub15665424_g.jpg"
+      - url: "https://menafn.com/updates/pr/2021-11/15/EP_90237image_story.jpeg"
         width: 800
-        height: 420
-        isCached: true
-  - title: "To innovate in population health, start with the basics"
-    excerpt: "To succeed in population health, companies must first consider the basics, such as wrangling patient data and making sure it matches up. Panelists at INVEST Pop Health spoke about the challenges of taking this information and translating it into meaningful health outcomes."
-    publishedDateTime: 2021-11-16T01:10:00Z
-    webUrl: "https://medcitynews.com/2021/11/to-innovate-in-population-health-start-with-the-basics/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 22
-    images:
-      - url: "https://medcitynews.com/uploads/2021/10/Lung-Cancer-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "Adoption of Intelligence Technologies in Manufacturing Processes to Boost Expansion of Smart Factory Market, States TMR Study"
-    excerpt: "Many industry verticals such as mining, energy, petrochemicals, and manufacturing are inclining toward the use of intelligence technologies in their day-to-day activities. This factor has resulted into increasing the popularity of smart factories concept."
-    publishedDateTime: 2021-11-17T07:02:00Z
-    webUrl: "https://techbullion.com/adoption-of-intelligence-technologies-in-manufacturing-processes-to-boost-expansion-of-smart-factory-market-states-tmr-study/"
-    ampWebUrl: "https://techbullion.com/adoption-of-intelligence-technologies-in-manufacturing-processes-to-boost-expansion-of-smart-factory-market-states-tmr-study/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/adoption-of-intelligence-technologies-in-manufacturing-processes-to-boost-expansion-of-smart-factory-market-states-tmr-study/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 17
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/11/Smart-Factory-2.jpg"
-        width: 2516
-        height: 1667
+        height: 450
         isCached: true
 
 secured: "xhaF0Fn7OwG8nRtYo0BsHi1JJoaOD9dmW2IsLmxEOl6jdUx/2j9WT8ZT8JPg1pisVMl0PyRDFQ69HVCufx3NFWpGCtx/7czYBGYowgBzg0d7jWRRl/EhDEZKIkUgUs5zeOUM2Eg5VHGvjfgG8rwwf7ojjpFvIhOa+ewq2BroZKGOODNPvB+S/3wE16zqzexdmcYi35vR+aja5QQeM3NscBKGFZcqhW0nNG+LxVN3/wvRkL15XUmEpZ454Gnf06u+e+APLV69IvlrgS80AJCOBkMhbE+TCmHo6NOIbG+U7k87FP5zypuVqC+kRtQMpOiYKKdX1Aw/I64Enp17sMd8+FU+pUqK4nyPdjjIepHw64o=;VwiCciIUeUDif9AN51XEMw=="

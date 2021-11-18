@@ -44,6 +44,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Artificial Intelligence (AI) Market 2021-2028"
+    excerpt: "The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360.36 billion by 2028 while exhibiting a CAGR of 33.6% between 2021 to 2028. In its report titled, “Artificial Intelligence (AI) Market,"
+    publishedDateTime: 2021-11-18T07:52:00Z
+    webUrl: "https://www.openpr.com/news/2466240/global-artificial-intelligence-ai-market-2021-net-worth-is-us"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub18726066_g.jpg"
+        width: 800
+        height: 428
+        isCached: true
 
 secured: "VL0nz3vWgMnUlO4kitaT/TCDA70WQvv7ahRHP/YufP2R0pF/+0gogaH6UqywXNefI2g7sTA8jzJxyX3OCNaNyTkfmfeQZ2e2JJGRLQIwyDPs329PlUjebrYFqeCqIjyDpTAsD/QzKPK5LTklmQE95B5/u5Y4E67w75xnuYoP77Q7mADbcHlDLaMy6dJ+XzCefyMtOIhvO/mUYXiGfBOpWxK7Gd7exF0Wv5hYVwYDDZGQ+6XvQcfa7pvE2LaIj1ooB/m6M2YmiZg7Myh2w5igi/OHT7nq/gfgVdcyaFm3PmJPJnqXN+EYZYuqor7hYMoTjqmblvpfp6ikTSXXrsE25YGFXJ0BcpSbhAq8Py5E35w=;xiSkZ/wkKISVDlCDs3mnWw=="
 ---

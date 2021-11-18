@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
 type: article
 quality: 119
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "With the Metaverse on the way, an AI Bill of Rights is urgent"
-    excerpt: "Calls for an AI Bill of Rights grow as thought leaders continue to raise serious concerns about the technology."
-    publishedDateTime: 2021-11-13T16:40:00Z
-    webUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/"
-    ampWebUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1129396746.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Unity Moves Robotics Training to the Metaverse"
     excerpt: "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,"
     publishedDateTime: 2021-11-14T13:50:00Z

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "With the Metaverse on the way, an AI Bill of Rights is urgent"
-    excerpt: "Calls for an AI Bill of Rights grow as thought leaders continue to raise serious concerns about the technology."
-    publishedDateTime: 2021-11-13T16:40:00Z
-    webUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/"
-    ampWebUrl: "https://venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/with-the-metaverse-on-the-way-an-ai-bill-of-rights-is-urgent/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1129396746.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "From AI-powered avatars to user data: Is there space for rights in the metaverse?"
     excerpt: "The term \"metaverse\" has been used to describe an array of shared spaces accessed via the internet – from fully-immersive virtual reality (VR) space.."
     publishedDateTime: 2021-11-14T10:44:00Z

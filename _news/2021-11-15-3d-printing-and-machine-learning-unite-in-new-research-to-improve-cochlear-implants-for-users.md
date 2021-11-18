@@ -39,6 +39,20 @@ related:
         width: 796
         height: 398
         isCached: true
+  - title: "Top Machine Learning Research Papers Released In 2021"
+    excerpt: "Advances in the machine and deep learning in 2021 could lead to new technologies utilised by billions of people worldwide."
+    publishedDateTime: 2021-11-18T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-ml-research-articles/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Top-Machine-Learning-Research-Papers-Released-In-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "qnedVFaz8DX3BuvdhARbDfGjBsFJLyLmOH/WmnbngCQq300VfPZCKdvOKWfywY2LZgWPHvdfhxCk5vb9s6pQ6vNcuFQ+AKtPA6tzwjbMo81kdZ0xuxJWKBBS1jvdsTA1itKfP3oETK2i+mv5STNJR4odQJ8xL8Z0Sfbce06MhoqDX6No2Ayh7+DE/kFY04wZqO7Y83TNlgs2jI3vsalrBq/gCIHo7aYN+9wjQCYsICJPYOdK2YmHcIn2l4+3aokh/LE/xpm0DQBMk+67CTtsUuYjEz4rYIsumbE6YgMC/NK9lvl7rN9KYv6YKBTcfzKlk/n9+zOABU7o31Or3MNzs7UmyhA291k2Ef18wk5ckq0=;Ryi78LuOZTOIqcnlFqqWmQ=="
 ---

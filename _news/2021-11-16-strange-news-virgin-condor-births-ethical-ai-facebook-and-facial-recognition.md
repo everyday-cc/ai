@@ -7,7 +7,7 @@ originalUrl: "https://www.audible.com/pd/B09LVW43PR"
 webUrl: "https://www.audible.com/pd/B09LVW43PR"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trust in biometrics sought with AI Act, government programs and ethical facial recognition"
-    excerpt: "Biometrics adoption is being encouraged in the public sector for digital ID and online government applications as it continues to rise in the private sector."
-    publishedDateTime: 2021-11-13T15:35:00Z
-    webUrl: "https://www.biometricupdate.com/202111/trust-in-biometrics-sought-with-ai-act-government-programs-and-ethical-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 61
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Facebook Decides Against Facial Recognition…For Now"
     excerpt: "The company has become more aware of privacy concerns by banning facial recognition, but critics say that it has not altered its DNA."
     publishedDateTime: 2021-11-17T09:15:00Z

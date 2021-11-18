@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-inf
 webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-scale-using-aws-serverless/"
 type: article
 quality: 106
-heat: 108
+heat: 109
 published: true
 
 provider:
