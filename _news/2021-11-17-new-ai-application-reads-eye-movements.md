@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20211116/New-AI-application-re
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

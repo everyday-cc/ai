@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/new-research-shows-how-ai-modeling-can-provid
 webUrl: "https://www.unite.ai/new-research-shows-how-ai-modeling-can-provide-insight-into-protein-structures/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "New protein-structure software put to use on big complexes"
-    excerpt: "So how will scientists use them? This week, a large research collaboration set the software loose on a related problem: how these individual three-dimensional structures come together to form the large,"
-    publishedDateTime: 2021-11-13T13:00:00Z
-    webUrl: "https://arstechnica.com/science/2021/11/new-protein-structure-software-put-to-use-on-big-complexes/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 54
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/science.abm4805-f2-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
 
 secured: "SdKYsaN2HfPfvXgACRMNKr9L69kMHaAQb7IeCpODCRmb1negmoQWj5Fva068Xf1LA640tD58hUfYOUO6uE8wZ9KTZJVexSd1Be+243PK+PemYHqcUhJLjeHay25qfBxayT3ex3IIepNcWMe3OuBltP/xGicv8FzSTvmOifZvRtH0mbMxlnc/TDyGH57vIMi+vMYxWqs5FxusFF4cPPtZpBh8Om0KBKg8xcUjfEELcZEqG0wdYRrcpkVGLMvWJmlOWpxq/nePVzAvfTRXMrgO2UqZME+Lbv1UQZzD3v4dXa2FO5MwAwLT4mytRsdeVDn1zEx2i3CwoYmXH5IyykUyTjdMkeRyyqn5YITO45XG4KAnxZmYonbwAw16PSKKoVMZymiSx3QGgbmOqra97TkLi9812CNAPiFbGRND5FsubVbviwMQwgVzj1NmUorafuHTncfXozaGJc2zRFycNhI6suHdwYYad1UgfbJQgJKp980QmFPg8IXYmJI+NVGxrfW1LniQmVmyjgoFyIUjLMhsyQ==;zGcZR93lamwV9rAgNOUL4g=="
 ---

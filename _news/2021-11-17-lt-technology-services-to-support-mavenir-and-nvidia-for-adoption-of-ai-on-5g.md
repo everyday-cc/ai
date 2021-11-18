@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia data center sales grew 55% on demand for artificial intelligence chips"
+    excerpt: "Nvidia stock rose more than 5% in extended trading after it reported third-quarter earnings Wednesday that beat expectations for both earnings and sales."
+    publishedDateTime: 2021-11-17T22:29:00Z
+    webUrl: "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 101
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106668816-1597783026604-gettyimages-1177538055-347713477_1-8.jpeg?v=1602189731"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "NVIDIA Envisions AI For Everything"
     excerpt: "NVIDIA’s GTC and SC21 show how specialized processors such as GPUs and DPUs are helping to incorporate AI capabilities into more applications, enabling digital twins of just about everything. Zettar,"
     publishedDateTime: 2021-11-14T15:00:00Z
@@ -78,29 +94,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Started As A Chip Company, Now We Are Here: Tracing NVIDIA’s Growth"
-    excerpt: "NVIDIA, a pioneer in graphics processing units, has expanded its horizon and achieved a disruptor status in the field of artificial intelligence too."
-    publishedDateTime: 2021-11-17T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/started-as-a-chip-company-now-we-are-here-tracing-nvidias-growth/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Chip_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Atos and Nvidia Join to Launch European AI Lab"
-    excerpt: "Atos and NVIDIA today announced the Excellence AI Lab (EXAIL), which brings together scientists and researchers to help advance European computing technologies, education and research. The lab’s first research projects will focus on five key areas enabled by advances in high performance computing and AI: climate research,"
-    publishedDateTime: 2021-11-15T20:43:00Z
-    webUrl: "https://insidehpc.com/2021/11/atos-and-nvidia-join-to-launch-european-ai-lab/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
   - title: "L&T Technology Services chosen by NVIDIA and Mavenir as Engineering Partner for AI-on-5G platform"
     excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
     publishedDateTime: 2021-11-17T04:08:00Z
@@ -110,29 +103,6 @@ related:
       name: Equity Bulls
       domain: equitybulls.com
     quality: 6
-  - title: "L&T Technology Services Chosen by NVIDIA and Mavenir as Engineering Partner to Accelerate Adoption of Industry’s First Converged AI-on-5G Platform"
-    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
-    publishedDateTime: 2021-11-17T07:31:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-engineering-943a3376ae604dd78f0de33017b2b45c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "L&T Technology Services chosen by NVIDIA and Mavenir as engineering partner to accelerate adoption of industry's first converged AI-on-5G Platform"
-    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
-    publishedDateTime: 2021-11-17T19:17:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211117/3858163.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "QW0SVGUiwYuw8wkM4YQ4ASVL8q5JlukTA7pUL0j8fI+DUOtQ/1cqIL80fTDdMMvYLt2eFMq2/TK7ebL3E6yUPttXaXobjQJ7w3xo+03hFH9eAiQ4IdLTeHHswPr9A4l74phJcTqporbQCWQnAW6aM9q8of15dt9mmcQsGgMotEtyHv8Yjk+edLWduv5p/F3kHs169tPV+tAI3CKmBFvmry21e4ut6RmK1a7UiDmp/Hg+E8R4wTOdMoKJE+QkLgO3P+SASTBjhDrNHJ+RzcDqeYXaKUcsDbEu1RCr6IIgr5JaKJao+bSiaCpdhVTfcDfaFFymPM37gbu7FBAI+4Wvfb8sWQJOmwuJLqJNlxJaSDA=;VRene4pLTEsAdVbKmNYj8w=="
 ---

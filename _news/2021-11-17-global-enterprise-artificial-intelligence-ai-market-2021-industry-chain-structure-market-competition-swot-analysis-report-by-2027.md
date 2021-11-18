@@ -44,22 +44,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Trending News on Federated Learning Solution Market 2021: Industrial Chain Analysis, Manufacturing Cost Structure, Process Analysis by 2026"
-    excerpt: "Portland United States Big Market Research newly added a research report on the Federated Learning Solution Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario and"
-    publishedDateTime: 2021-11-16T03:45:00Z
-    webUrl: "https://www.openpr.com/news/2462958/trending-news-on-federated-learning-solution-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2462958/trending-news-on-federated-learning-solution-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462958/trending-news-on-federated-learning-solution-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub16554244_g.jpg"
-        width: 780
-        height: 405
-        isCached: true
 
 secured: "VL0nz3vWgMnUlO4kitaT/TCDA70WQvv7ahRHP/YufP2R0pF/+0gogaH6UqywXNefI2g7sTA8jzJxyX3OCNaNyTkfmfeQZ2e2JJGRLQIwyDPs329PlUjebrYFqeCqIjyDpTAsD/QzKPK5LTklmQE95B5/u5Y4E67w75xnuYoP77Q7mADbcHlDLaMy6dJ+XzCefyMtOIhvO/mUYXiGfBOpWxK7Gd7exF0Wv5hYVwYDDZGQ+6XvQcfa7pvE2LaIj1ooB/m6M2YmiZg7Myh2w5igi/OHT7nq/gfgVdcyaFm3PmJPJnqXN+EYZYuqor7hYMoTjqmblvpfp6ikTSXXrsE25YGFXJ0BcpSbhAq8Py5E35w=;xiSkZ/wkKISVDlCDs3mnWw=="
 ---

@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Construction Market Report Up to 2031"
-    excerpt: "Visiongain has published a new report on Artificial Intelligence AI in Construction Market Report to 2031 Forecasts by offering Solution Services by stage Pre construction Construction Stage Post construction by deployment type Cloud On premises by technology Machine Learning Deep"
-    publishedDateTime: 2021-11-15T09:28:00Z
-    webUrl: "https://www.openpr.com/news/2461984/artificial-intelligence-ai-in-construction-market-report-up"
-    ampWebUrl: "https://www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up"
+  - title: "SIU 2021: Ethical and Legal Considerations of Using Artificial Intelligence in Healthcare"
+    excerpt: "In a Hot Topic session during the Société Internationale D’Urologie (SIU) 2021 annual meeting focused on the role of artificial intelligence (AI) in urology, Dr. Quoc-Dien Trinh discussed bias in AI and important ethical and legal considerations in the use of AI in health care."
+    publishedDateTime: 2021-11-16T17:35:00Z
+    webUrl: "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.html"
+    ampWebUrl: "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.amp.html"
+    cdnAmpWebUrl: "https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.amp.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 72
+      name: UroToday
+      domain: urotoday.com
+    quality: 82
     images:
-      - url: "https://cdn.openpr.com/U/b/Ub15145183_g.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Global Enterprise Artificial Intelligence (AI) Market 2021 Industry Chain structure, Market Competition, SWOT Analysis Report by 2027"
-    excerpt: "A recent market research report introduced by MarketsandResearch.biz with the title Global Enterprise Artificial Intelligence (AI) Market Research Report 2021-2027 meticulously discusses the developments in the market."
-    publishedDateTime: 2021-11-16T19:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-ai-market-2021-industry-chain-structure-market-competition-swot-analysis-report-by-2027-2021-11-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.urotoday.com/images/com-doc-importer/31-siu-2021/siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare/image-1.jpg"
         width: 1200
-        height: 630
+        height: 548
         isCached: true
 
 secured: "Q09vZ76GtdK5yFSGUVrGb4BJghq3wk76V4ioZfCA8IdCM2ZSbAqh2SjkyZ9v4kk84DKgUm1KDZ+pfDs9muvM42XoGMbYaJgZDe/o96JH52t8i+wgaNCTKPAnZA7cRVKm15XwBUiTSKp5M8PGUfI6f/YNRxxZJhEKitmsBuCJH6ph2pfn8VaDEN6xoSrWLzpegNrJQz/NRsK9TPqaiP71PTaYgUiE6G2FMp5u9iWo66H6cDKoeJaZGnR6uxUGrQeEAvALVHCpyOY+19zmyoj0xU7CnwMVcFfgg6397Q7gnfGQzuMdzcERPehDvM7M9VjT5vg+WsFEMXBErpyDnCIDIBK7wYswVy/LwK3RZEAmUs8=;2IirkaCx3k9g4JidP73dYg=="
