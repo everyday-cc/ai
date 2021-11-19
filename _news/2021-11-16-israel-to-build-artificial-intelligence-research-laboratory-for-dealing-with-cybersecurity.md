@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/world-news/middle-east/israel-to-b
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/middle-east/israel-to-build-artificial-intelligence-research-laboratory-for-dealing-with-cybersecurity.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Japan should work with Aukus on cybersecurity and AI, says Shinzo Abe"
+    excerpt: "Former Japanese PM welcomed the creation of Aukus in the midst of an ‘increasingly severe’ security environment"
+    publishedDateTime: 2021-11-19T04:14:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/57a0056f52d055439a96dbad78e22f0ec638bc3d/0_0_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=c676b80163e10b65a679bcc75b5cf400"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Managing the Cybersecurity Vulnerabilities of Artificial Intelligence"
     excerpt: "Systems based on artificial intelligence are susceptible to adversarial attack. Vulnerability disclosure and management practices can help address the risk."
     publishedDateTime: 2021-11-17T14:55:00Z
@@ -40,19 +56,19 @@ related:
         width: 1024
         height: 701
         isCached: true
-  - title: "Fujitsu and Ben-Gurion University Embark on Joint Research at New Center in Israel for Precise and Secure AI"
-    excerpt: "Fujitsu Limited and BGN Technologies, the technology transfer company of Ben-Gurion University of the Negev (BGU), have signed a three-year comprehensive joint research agreement to develop technologies and solutions to contribute to the realization of safe,"
-    publishedDateTime: 2021-11-16T11:34:00Z
-    webUrl: "https://financialit.net/news/technical/fujitsu-and-ben-gurion-university-embark-joint-research-new-center-israel-precise-and"
+  - title: "The Metaverse, AI Bill of Rights, Digital Twins & Simulations, Digital Identity and Decentralization and Retail Cybersecurity Threats"
+    excerpt: "The Metaverse wave is spreading with tech companies including Facebook shifting towards 3D, virtual reality and augmented reality technologies. More tech companies such as Nvidia are following suit and preparing for a metaverse future."
+    publishedDateTime: 2021-11-17T21:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/metaverse-ai-bill-rights-digital-twins-simulations-david-yakobovitch"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 18
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 8
     images:
-      - url: "https://financialit.net/sites/default/files/fujitsu_2.png"
-        width: 1668
-        height: 870
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGAaOpd9MHQ4g/article-cover_image-shrink_720_1280/0/1637157395688?e=1642636800&v=beta&t=s2SqPRWUyFEiXRekdUeesYjnG5YXUZat8YhwAOecnuY"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "GpmQ/+wHWt4j2jXMSUOx/MiQCYxN4eV6zTeoM14GR0hxioW7svfa19NQahHlkwCqT7+U5rrJtoDpX/t/Pcxp4jYpRl2UgUGWQH9drS1WFe9kuuo9327KPg1qiEczC0paD2zfp9vmIqD4p5fSDJrkV6xohH1n1dYToQIqnpa8HawnNvr8Bg06G0I6wZFgIxqC+tBQAgqtk4kdagbBR2yucbExPe4pLdpJgP9UzFBaTyN38xv33HB5r6TQhWCn90g4bhSsq8wLl4pOJFWGsXvXtzrUnd77FiU8vJ7FkdUbIAcPYYt7bTmO9XeUt3CwEKtEhHuAL5WhsLfkGLOIHljJ9Y6zaVYfJrD0noghCjYBcLqZOkgU8wuDKspRv+bq77AFibeUcLtpDEqW7yx3zIrx28pvHuUK53QLYcRz9saD2KDw9yrDMI6XfMRV9a/Xq1pYikri0b4qZLLL5K8G6MKFSQ2/OHWgeyKSRdrbxN3th41qegzy+LZ82JMbfbrt0++3IPGUjv9Aw/0gOOX+pMrRWQ==;0jbmNAIRZrMLuayKWBBI9w=="

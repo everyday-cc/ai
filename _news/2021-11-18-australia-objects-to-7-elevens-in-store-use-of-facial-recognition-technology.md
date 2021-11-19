@@ -73,20 +73,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "No facial recognition for South Australia Police on planned CCTV network until law updated"
-    excerpt: "Procurement is underway for a related biometric surveillance system that will incorporate object tracking, facial and number plate recognition."
-    publishedDateTime: 2021-11-14T23:09:00Z
-    webUrl: "https://www.biometricupdate.com/202111/no-facial-recognition-for-south-australia-police-on-planned-cctv-network-until-law-updated"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
-        isCached: true
   - title: "The Artificial Intelligence conundrum facing Australian industry"
     excerpt: "A leading researcher is calling for greater collaboration between industry and universities, to grow Australia's Artificial Intelligence workforce. Australia accounts for just two percent of the world's AI experts,"
     publishedDateTime: 2021-11-18T22:41:00Z

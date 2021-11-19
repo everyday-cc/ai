@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-19T12:15:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-key-ideas-towards-creation-true-wai-h-tsang"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-key-ideas-towards-creation-true-wai-h-tsang"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQEh8NspAmAjfg/article-cover_image-shrink_600_2000/0/1637232676977?e=1642636800&v=beta&t=6r0uZjq9SnEEPI22-sxBoyQ8QGn1gjNHMDmSXY2K73U"
@@ -28,6 +29,6 @@ images:
     height: 351
     isCached: true
 
-secured: "Onietehjx5IZbMicRLccLKq1cnFG8EzPXuj6UgsmJFtY4xm4SoG2NndFyT9OSzOiNyG4cWD2Vev9mNoGNkCxosXBgdZgFQZkXH20xTRsS6prMLUuMEHIdbr1m3aSo/Sbdy+jNCEKGv5LCR7Pm4ESU+B1JPykw6mHs6TYjs24ZXkR8df9besmPA8upR0cyJWNAEx2O4WX9GHRFMOM6tCTDj0nK861X6iu2bQyRbBCS34kx3E5VXC29oOX7sRF3vdMXw4GJcsfncA81ozrWpa2SqQ2krBqFGnVhvT8YuOD7IiLbUoE3n41OLKIqTs3pt4PqPBYkYeaEI2hjQqCXUAn27tGZTvBqDD/d1D+PEjfnro=;6Sr/Yf5AH7xGfQ+rXBIxNw=="
+secured: "Hxs/0C8TIWPhtPAjSODPn7lheRmyVvIqlWk0kKpWgTwYENfgUeur1vxFV8nKFTe/4VwgHyWMqmDXpxNYa+jd1+dr2DwZ48uQDlBEOQGdXWj8LtXz/cLvg1xtG9eS6iL1QgpDjHtgUMYAyfcHgzxDSCx1k/pRRzzFagcs7gJWY010OU4HX/LkuPW8xbjbNhJFj5bUVpZwwH5536xAKIB2VsnQosnGow7zxGHlzavCcJehK6gMunJOaHp0NMpjdMinCDshgwZ+2Njb8BlnWMisn0LIzuwKWInNxg3aXkd6TC7U+8zNmMQZ8CoS/87uqWIVZmCUYUk9Apc0uS57Je7CyyBKI0dbbuvA9IEGcRVWBAHt5xc8coCne881NIOL+Au2JsmRpFGxKYsDRZtbx5C7ZgQO7T3qSE93uu9ZovI5DP+sRPKVFWKxLMi1gKq3wrrTwT4LzoFK4/UtZwb54g7UcQbUL8h/uA/VUf73i+RA/bsYzu3FyZPim6CObCP80jiJklr38nQLj66OhO1EoYJuGA==;wX10pQutyk6OF82Q4VYnPg=="
 ---
 

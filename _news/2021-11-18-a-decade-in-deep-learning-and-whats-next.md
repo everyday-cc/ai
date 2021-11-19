@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/decade-deep-learning-and-whats-nex
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/decade-deep-learning-and-whats-next/amp/"
 type: article
 quality: 111
-heat: 123
+heat: 127
 published: true
 
 provider:

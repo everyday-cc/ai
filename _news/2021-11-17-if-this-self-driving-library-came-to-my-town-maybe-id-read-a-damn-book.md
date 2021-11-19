@@ -107,6 +107,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "How PIX Moving is Using Self-Driving Skateboard Chassis to Build the City of the Future"
+    excerpt: "The benefits promised by self-driving cars are hard to ignore. Who doesn’t want less accidents, less congestion, and less pollution? Unfortunately, recent studies show those benefits may be a long way off as most drivers are not yet ready to trust a self-driving car."
+    publishedDateTime: 2021-11-19T16:18:00Z
+    webUrl: "https://techbullion.com/how-pix-moving-is-using-self-driving-skateboard-chassis-to-build-the-city-of-the-future/"
+    ampWebUrl: "https://techbullion.com/how-pix-moving-is-using-self-driving-skateboard-chassis-to-build-the-city-of-the-future/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-pix-moving-is-using-self-driving-skateboard-chassis-to-build-the-city-of-the-future/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
+    images:
+      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "How self-driving cars perform in fog"
     excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
     publishedDateTime: 2021-11-17T13:45:00Z

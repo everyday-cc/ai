@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-countr
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
 type: article
 quality: 61
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://www.sourcesecurity.com/img/news/612/synectics-release-tech-note-webinar-cloud-storage-partnership-cctv-user-group-920x533.jpg"
         width: 612
         height: 355
-        isCached: true
-  - title: "No facial recognition for South Australia Police on planned CCTV network until law updated"
-    excerpt: "Procurement is underway for a related biometric surveillance system that will incorporate object tracking, facial and number plate recognition."
-    publishedDateTime: 2021-11-14T23:09:00Z
-    webUrl: "https://www.biometricupdate.com/202111/no-facial-recognition-for-south-australia-police-on-planned-cctv-network-until-law-updated"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
         isCached: true
   - title: "The Artificial Intelligence conundrum facing Australian industry"
     excerpt: "A leading researcher is calling for greater collaboration between industry and universities, to grow Australia's Artificial Intelligence workforce. Australia accounts for just two percent of the world's AI experts,"

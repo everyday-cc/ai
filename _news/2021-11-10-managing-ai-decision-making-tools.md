@@ -3,8 +3,8 @@ category: news
 title: "Managing AI Decision-Making Tools"
 excerpt: "Imagine a driverless car without a steering wheel ... And these decision-making algorithms are often described as artificial intelligence (AI). The critical question is, how do human managers ..."
 publishedDateTime: 2021-11-09T23:59:00Z
-originalUrl: "https://hbr.org/2021/11/managing-ai-decision-making-tools"
-webUrl: "https://hbr.org/2021/11/managing-ai-decision-making-tools"
+originalUrl: "https://hbr.org/2021/11/managing-ai-decision-making-tools?ab=hero-subleft-1"
+webUrl: "https://hbr.org/2021/11/managing-ai-decision-making-tools?ab=hero-subleft-1"
 ampWebUrl: "https://hbr.org/amp/2021/11/managing-ai-decision-making-tools"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/11/managing-ai-decision-making-tools"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "RoIsplmDnOdxqadVZCMDOTGoitQzPFweFnyi+CyV5uOSR01za+yrMx0CHGdOJUqK6unkkQCg9ipvxJIz3oXRjoSZYacy+Yd4WblWsiSgbRgXFcRItgGIGz7O/hLcVm2FPL7dANxLSoApZgQfXq0Lkw3D4HNHFieTWgD2vM+wP0Y4zm1BmANUe1KlTW6Cr+kXdLb6lzqKOg0pVZsAYsJF5tslnLhKNAb/tNUjRGkaiPlP8u3Fq9ogSplSazqueMOxd5IjNA9V1RJeFN0iI213jKFEYZdoYZbKd//EGWm4wLSNMvPAxe+OUbqP8Vr0mwYBELQcuVAxKJH54wgsAG5KJenKtQFvs/nD+ATVMfI0rvw=;ZHcm5YPbe6mVIUNKA/9Yfw=="
+secured: "iDACcp/EVnZq3MD2zxubE+jL79jrWg98cS6a6dbp4jW9u2m+syyKfpt6wOa/jx0YVPDc/1rn9BXjya6+CsvWw8VumfkUL0yAqFJnwiHYd8GPt79u266OeUMiVo2nf0hqoOv6/xH7Iisr/fYvACxPfEUlUcsSZEmL+0v5rCvFF8VcrF2MSZ/XowQnwjQVP236APtu4OtG/TnSCGrPjrMfFzen/r2n03/8GuGg05tFgGfT6bnrfQ1YTzr4t5+JLbMqelCTyG8LAg5vrz1+ybCoL2qcHnVspf+4wVbCtcH3ypJ/DmpD7Z+bej2eSgQoIy928yuY77zglDxP5M72Qph8tWcABCthiPPiQP2bU/d86ao=;B0MJrvl3fei3cLOdrdl+Bw=="
 ---
 

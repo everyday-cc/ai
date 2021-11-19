@@ -80,20 +80,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "No facial recognition for South Australia Police on planned CCTV network until law updated"
-    excerpt: "Procurement is underway for a related biometric surveillance system that will incorporate object tracking, facial and number plate recognition."
-    publishedDateTime: 2021-11-14T23:09:00Z
-    webUrl: "https://www.biometricupdate.com/202111/no-facial-recognition-for-south-australia-police-on-planned-cctv-network-until-law-updated"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
-        isCached: true
   - title: "UK and Australian Commission to investigate Clearview’s facial recognition technology"
     excerpt: "The Australian Information Commissioner (OAIC) and the UK Information Commissioner’s Office (ICO) have recently conducted a joint probe in order to investigate Clearview’s facial recognition technology."
     publishedDateTime: 2021-11-16T10:44:00Z

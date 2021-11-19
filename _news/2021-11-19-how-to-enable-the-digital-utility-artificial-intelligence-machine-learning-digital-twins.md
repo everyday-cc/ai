@@ -28,22 +28,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "How AI Disrupts Revenue Management and Enables Profitability"
-    excerpt: "Istvan Czilik, CEO of revenue management firm Revenue.ai, explains how his line of work is gaining traction in the Middle East and how artificial intelligence is transforming it."
-    publishedDateTime: 2021-11-15T00:01:00Z
-    webUrl: "https://communicateonline.me/category/industry-insights/post-details/how-ai-disrupts-revenue-management-and-enables-profitability"
-    type: article
-    provider:
-      name: CommunicateOnline
-      domain: communicateonline.me
-    quality: 37
-    images:
-      - url: "https://communicateonline.me//storage/posts/usNxlkUvm3Dmt4yjd5oJsczEytbUD08TaZK8W03B.jpg"
-        width: 1722
-        height: 1000
-        isCached: true
-
 secured: "CV973p1YJkYrxvSTe/PxJBsn9f3Z1PWkZkX2VGLkjtAFTpEacw7tQMeBo7YaJeTWT1Kfy5A+7qSTe5MXXatRuKXYiFNQdhMCDD/Ei8/4FLgYhElIebGnYCwaSCpzQpU9xukijMjf3WgJA7SEgXv0TSwHWJfVojjPFGaxfDivAuW8ehRpcCiNqk0dKDRnEDBlpp4OtbNFPGU5nVPfHWCi4Y6uCuvTcZrRQsPiwSbA5NbPmQJHQt5fiTrgksIhl0VKXka39iCv8bZZMZjD8Rjo5iTRcrCshjP/IHtOvHdawRo6orVyg4fG+oWY61T8TIpb6UYq3VNOooFkT/bnEE7qfyaANOwbaqVpFTfwjB4TBEm8EE+fBinKlkQQRoIdZixM+5yY20JMl44CQS0HahNhe5Txew8VwT38H8MuBljw4XjYiQnYPHnfPNIXxU1C7wPIY7opEaFWnBZdYqKp/VkwBV+RjPWkGUf4Eix4My+jTlp6C5cF9B3NL/D1Vs6mrAwJlykJ9l03x3kTTkY9PPXF+g==;cEs8mXjSa6t9F7xH5YxcZA=="
 ---
 

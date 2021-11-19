@@ -71,6 +71,15 @@ related:
         width: 1500
         height: 808
         isCached: true
+  - title: "Apple chooses a path in its work to build a self-driving electric vehicle"
+    excerpt: "Apple is still in the race to build its own car — here's where its road seems to be leading. #SiliconValley #autotech #electriccar #selfdriving"
+    publishedDateTime: 2021-11-19T14:30:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/19/apple-chooses-route-self-driving-electric-vehicle.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "2RX9oCfOOo1tv6b2JBt/kEQ2h/T1YFkiKhsQBhP5Yy76k389hL5WpdkfvW8Qf02PXkxgOBrfFAZAHKBTzfgS4BjrZ2x8o+OIwWQGGMC40RW96z7fTxD3J5mIo4BzvijxVVJvrUiDO+5SNivci0aivhsUNguiCiMGK6oJyX2U64cqi1LPk98eS9DdPKiqxeY1QG2mls75wBISW9WfsFEfmmkXONeIoP8GNXcRZChHOk/oR2MuQn3ZH4AfL+RqffBuiLovtt+Wth13+SUVKeOWwHCOR4LMUyUep+uN+5pFbd4UVWprdQRoa5DybDY2Ih0UMlzSx8V4dpCAu3i+vAMqSEcLjJV7aotw6ZCwLfEGbm8=;pCOCGZDmoj8IzdWF3bLyiQ=="
 ---

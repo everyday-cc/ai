@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - AI Ethics
+  - Google AI
 
 images:
   - url: "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg"

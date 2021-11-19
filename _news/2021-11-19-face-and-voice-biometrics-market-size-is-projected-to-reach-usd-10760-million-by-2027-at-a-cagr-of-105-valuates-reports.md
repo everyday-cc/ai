@@ -1,47 +1,41 @@
 ---
 category: news
 title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
-excerpt: "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services"
-publishedDateTime: 2021-11-19T14:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-10-5-valuates-reports-800406414.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-10-5-valuates-reports-800406414.html"
+excerpt: "The global Face and Voice Biometrics market size is projected to reach USD 10760 million by 2027, from USD 5294.1 million in 2020, at a CAGR of 10.5% during 2021-2027. Major factors driving the growth of the face and voice biometrics market are: Face & Voice biometrics solutions are being adopted around the world because of factors such as rising demand for effective fraud detection and prevention systems in the Banking,"
+publishedDateTime: 2021-11-19T14:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-face-voice-biometrics-market-size-projected-reach-usd-/2021/11/19/9496927.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-face-voice-biometrics-market-size-projected-reach-usd-/2021/11/19/9496927.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-    width: 920
-    height: 482
-    isCached: true
-
 related:
-  - title: "Artificial Intelligence in Food and Beverage Market Size Forecasted to Reach Valuation of USD 62.83 Billion In 2028"
-    excerpt: "The global Artificial Intelligence (AI) in food and beverage market size is expected to reach USD 62.83 billion in 2028 and register a robust CAGR of 44.4% throughout the forecast period. Consumer shift towards fast,"
-    publishedDateTime: 2021-11-15T15:04:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-food-and-beverage-market-size-forecasted-to-reach-valuation-of-usd-62-83-billion-in-2028/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-food-and-beverage-market-size-forecasted-to-reach-valuation-of-usd-62-83-billion-in-2028/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-food-and-beverage-market-size-forecasted-to-reach-valuation-of-usd-62-83-billion-in-2028/amp/"
+  - title: "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR"
+    excerpt: "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which"
+    publishedDateTime: 2021-11-17T08:37:00Z
+    webUrl: "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
+    ampWebUrl: "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 35
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/11/Artificial-Intelligence-in-Food-and-Beverage.png"
-        width: 1000
-        height: 600
+      - url: "https://cdn.openpr.com/U/b/Ub17570915_g.jpg"
+        width: 800
+        height: 800
         isCached: true
 
-secured: "biD5Uzl3F0c3diWNQNxZnfXde/048tmzXqmTVyhxsFmb8vO7OUoHcOLydaagcvlT0oNDo2MpwFVPCE1tmyBsIAuVsGO3bl+eW9G1ZvI57eRux/TpS7SlHDc/uB73fxGWr8xq4wBMgTf957rFz/nIpxESLRN/xOUts7p7Z8U11YtScGxklyDOs0S+dluAgQ00oYsHEKmwd+CQoZRNiO1MPal48kJCNpwpUjnRPH4brBZMrU7e3ZB4RvTd62KVLVYBX8acgKrJPdURZ85QpScAqKhkobnRveRzOf0j3mN1ZAjx7uldrGqovMoGClPc7iQp4J1BLOU3sgGCWsGs0NFxG0MliOavlbMuT5QgPFax2K8=;0PVfpHDKQk47g7TJZDJv+g=="
+secured: "SXBwq/+ELYmj3Mqvpl+mN5zSS5ON1noOhhl6COEgnjcvRLhNdmYFLl6RcudoXYeA7FmjWGhR2IV2Vt7MPz6fTPPUxytcva3GfUMnGgv38JNXgIeqsygyXpZCudX15GcWG9BD6UvEa6TRRe/I8y4RTfs3IuEUemGH+zGG/+R0zR5NDUkLDn4FFhRkolHkomNopzGPbG0ZNNDs+N9bs3/HdIC0LYwAp9EH6xLWRF/7yt5avXjhGPobRb0uavlHdy0FB1xcr/sAkCMBRTC5SXPQ9RYvygLvCZipurTMHd1UgGt4lp6m/ofnNpkHpdyGeaV8E1VS0Ci3mtRTExNEfaGI8u/OsGKhQYSxP16noYlxHns=;N5fTSZ4IfI85NSi9bMwCuA=="
 ---
 

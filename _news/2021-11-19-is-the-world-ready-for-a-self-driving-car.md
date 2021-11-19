@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -107,6 +107,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "How PIX Moving is Using Self-Driving Skateboard Chassis to Build the City of the Future"
+    excerpt: "The benefits promised by self-driving cars are hard to ignore. Who doesn’t want less accidents, less congestion, and less pollution? Unfortunately, recent studies show those benefits may be a long way off as most drivers are not yet ready to trust a self-driving car."
+    publishedDateTime: 2021-11-19T16:18:00Z
+    webUrl: "https://techbullion.com/how-pix-moving-is-using-self-driving-skateboard-chassis-to-build-the-city-of-the-future/"
+    ampWebUrl: "https://techbullion.com/how-pix-moving-is-using-self-driving-skateboard-chassis-to-build-the-city-of-the-future/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-pix-moving-is-using-self-driving-skateboard-chassis-to-build-the-city-of-the-future/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
+    images:
+      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "How self-driving cars perform in fog"
     excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
     publishedDateTime: 2021-11-17T13:45:00Z
@@ -154,6 +170,6 @@ related:
       domain: xing.com
     quality: 3
 
-secured: "HA8Qw6K7RU5icLGhqsA6AJxhBp5Thq/ylwEzkcbzd3SbIzdEhO++WC4la9pWf3uxEgRWKBjV5DNmyuNVrjEl0G/pceiiNhQImLgwYx/mdIz7vUVEA7dK6WItFTNrjy14yTg/8ct2wCPhs03+sDn2ETks0m5JQlAkbNsWgmub5eKG2Y3cj28yJRLuL4r+8MK4dZVl1qT7Zh+OKmnzCij3MTz0fcAr6gezG3LP3XZCIjlAgUW86FK+zFg9rQ6X1TSzCrWhogh/0W02UZfHEIToyz9NY7a7CkivY6gpnsGmsAygr1Lzz+Vq7lxtHfY3nzoJ+VViwhaYU5pAD/dXvTDRwntZezOROiUPEEmgVSOcgUw=;wGfStlLSD6FtOQDX5ipfzg=="
+secured: "FnT6NImrpDM3nGxenx+j7sAkIMpuz8w1Ed6uPVaAoS05rLk04Txhaw9foVismeN/aYYwY6atKUfKz+ezzEOCB4BC/l28Astyn6nz8QuLPkY+w8j/p+Pa5daW4kRjWJkd9yZ/Uk9MoOmQYWivfeiFV8/8USj2Dc70c3QCJ1YqrQYVSw2crwXryQ3L1YJjOLAASMKpyR24pAWNQBH2FJ9S70PsjljSKv6d/ZRpUGHASjDRr9yTlcjIotizYqbp10K2eaxEbrvc5KDIuYI1qAm1SqZdsJ4fTZ7/iByDojVPRvwJsddhdgrXeBJ6BPXsgHv3olmGSR7YUFKIgpojjqFghpKyh6ag2QmLMKDz8txg+YzYrqkhB/YKSIKU9O9hwv9+raTdkG9V8IdAMKij+8FZCZsAapt6yI2wA7rBCTL1LnzSCWqcwgAuKY16RJbBhdwC5y0i0KIp/7Si7QpsHx5jjNr9eA0Lr1k0vrGAy2pGUeRxju3mxYOpU9tJvpM9hZE4ezhhnDJwzSJcmqeeQY6QoQ==;nXCyBSPxNDMom48L6fQQlg=="
 ---
 

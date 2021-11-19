@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/social-media/from-
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/social-media/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87708426"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: India Times
@@ -40,20 +40,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/11/14/1367789.jpg"
         width: 1240
         height: 826
-        isCached: true
-  - title: "The Metaverse, AI Bill of Rights, Digital Twins & Simulations, Digital Identity and Decentralization and Retail Cybersecurity Threats"
-    excerpt: "The Metaverse wave is spreading with tech companies including Facebook shifting towards 3D, virtual reality and augmented reality technologies. More tech companies such as Nvidia are following suit and preparing for a metaverse future."
-    publishedDateTime: 2021-11-17T21:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/metaverse-ai-bill-rights-digital-twins-simulations-david-yakobovitch"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 8
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGAaOpd9MHQ4g/article-cover_image-shrink_720_1280/0/1637157395688?e=1642636800&v=beta&t=s2SqPRWUyFEiXRekdUeesYjnG5YXUZat8YhwAOecnuY"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "n+Q0zvnn66wT4v7iOT+PLm8ykKcqhbdonmF/M0CLxIM4xgYFVnv9dDfg9ttezSxAvz4yJpHTzgT40LmI7W2ogpnMEBDTZfn9JjBOzlA+wfun6Gehq+bbEzzlvxQRQQR1AMK0neB6C45Q261DDrx/CnQq1Ilw4au0sEoDGT+fi5nTxmvaFQxYlhnVcgQLnjkOOSXj7shrv05jOiwxZN4twsD4jbBR3DBieUkVxnnZka+G8OxWLgyjE4abQAuqhiLAWhx1o/IopQWlv1j6zHtkXKUDd8NR+Msy3KooQv6KakZI2ve4ePx7vehZlH5/1ttyIZ1G6kSKiw7E8E+zFKLQ17EeFIHozeRMq3S9kdKjyaCE07eQFtcl6cfvREWDwCIydTaM+JMSx5Sqm8D64KHcsTDBewuhpP+F1P4T357I2kgD9J2y3t9KxU0qsYEfPXZY13DCF4yhHya2JqpaB5sZwoSaZOznINieSt3RZ6YlqKHaiOVdUpCgjGyDdEhQrzF96Awqd0laIBaokSkmVLGsHA==;D91P8EVR9XM7W8KrkUsV0A=="
