@@ -27,49 +27,58 @@ images:
     isCached: true
 
 related:
-  - title: "Report: 80% of fintech execs worry about authentication security tools"
-    excerpt: "Legacy IT authentication security tools, such as one-time passwords, possess vulnerabilities capable of being exploited."
-    publishedDateTime: 2021-11-14T16:40:00Z
-    webUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/"
-    ampWebUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
+  - title: "Fintech Lender Oportun to Buy Online Banking Platform Digit"
+    excerpt: "Oportun Financial Corp., a fintech lender, agreed to buy online banking platform Digit to boost its artificial-intelligence and digital capabilities. Oportun will pay about $212.9 million in equity and cash,"
+    publishedDateTime: 2021-11-16T21:15:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/2-2.png?w=600&resize=600%2C600&strip=all"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iql_JVcP1zx8/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
+    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO."
+    publishedDateTime: 2021-11-16T12:00:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/16/full/20211116165343.jpg"
         width: 600
-        height: 600
+        height: 450
         isCached: true
-  - title: "Taking on Fintech in its own backyard"
-    excerpt: "The Fintech market is growing at an incredible rate, reinventing the financial services sector as it goes. Valued at $20.4 billion as recently as 2019, the Fintech sector is projected to be worth $471 billion globally by 2027."
-    publishedDateTime: 2021-11-15T16:52:00Z
-    webUrl: "https://financialit.net/blog/data/taking-fintech-its-own-backyard"
+  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
+    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
+    publishedDateTime: 2021-11-16T23:48:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211116/3857665.html"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/richard_price_-_uk_and_ireland_country_manager_-7119.jpeg"
-        width: 1333
-        height: 2000
-        isCached: true
-  - title: "Fintech collaborations boost the credit union advantage"
-    excerpt: "The focus for credit unions will always be on their members, including their members’ experience. But how does this translate in an ever-changing, technology-driven landscape? I sat down recently with Upstart’s Jeff Keltner to discuss a wide variety of topics,"
-    publishedDateTime: 2021-11-17T07:30:00Z
-    webUrl: "https://www.cuinsight.com/fintech-collaborations-boost-the-credit-union-advantage.html"
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
+  - title: "Global Industry Study Reveals Fintech Lenders are Evolving Fast and Moving Up Market"
+    excerpt: "Holdings, Inc. , a leading provider of digital transformation solutions for banking, today released a global research study conducted by Economist Impact in collaboration with Salesforce. Entitled What is shaping the ecosystem of small"
+    publishedDateTime: 2021-11-17T13:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-20109952.html"
     type: article
     provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 24
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 17
     images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2021/08/bigstock-Business-Concept-Business-Peo-383458805.jpg"
-        width: 1000
-        height: 500
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "h7AOrhbvZ4cCYKGrnCfPiQMw+4470f3NoXwAbLdqnt/4Y41vf6/c466ARwmLbXpgOO1NAgqS1HJzKxB08d/MeeTNMP/gFS/FSbGxLBMYSNXhV2ncjAMLRLXinVC7/lO2/TEZgL0YrvYYKaqHeg6z080taQ89HUfUPQkYXlH4yW5w63HA5IgG4uNNmLlzvOOfzij5IMd5wv2kTrzr99XygMvAjAughdf2rLCMrhtuM5tORR0HU/+A1DlfqxAHdAl0FO+qMnuNs7UMonpk91vIkEZo1Rv4xqwlSkeKGzrJVjQk6jv34SKpVq211hel2sLDZi5LtPura08+pCgPmvG7T8+C0OPeIxEXJwi00gqv5QPg5vGB1Y+N5REDQGN6OJ/oZvu32Dd9yqZulpmJivTtbb1y6vf/lkCEjQ8AheO6P4hodBXCY2hBM8Li/LuVEQt7srzgf0b5CEhC0vGvEvX6Arvf/K3xMmpdNPRYfh4vkRnd9C2ssgfWfso23GaCXHyjoLNS3xJWbxwZ9ARaUvhuAA==;cc7AJ2lCRBbi46TgGH/Dvw=="

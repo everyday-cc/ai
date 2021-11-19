@@ -199,19 +199,19 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Entry ramp on the road to self-driving cars"
-    excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
-    publishedDateTime: 2021-11-14T17:00:00Z
-    webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
+  - title: "Apple reportedly aiming to debut its self-driving steering wheel-less EV as soon as 2025"
+    excerpt: "Apple has reportedly completed \"much of the core work\" for its EV's chip. The project head's now aiming to launch the Apple Car by 2025."
+    publishedDateTime: 2021-11-19T06:54:00Z
+    webUrl: "https://pocketnow.com/apple-reportedly-aiming-debut-its-self-driving-steering-wheel-less-ev-soon-2025"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 30
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
-        width: 792
-        height: 528
+      - url: "https://media.pocketnow.com/styles/medium/public/2021/08/20210809_Samsung_11805351920px.jpg?itok=3KdE7DuX"
+        width: 600
+        height: 451
         isCached: true
   - title: "How self-driving cars perform in fog"
     excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."

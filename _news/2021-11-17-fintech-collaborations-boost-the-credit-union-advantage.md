@@ -25,51 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Report: 80% of fintech execs worry about authentication security tools"
-    excerpt: "Legacy IT authentication security tools, such as one-time passwords, possess vulnerabilities capable of being exploited."
-    publishedDateTime: 2021-11-14T16:40:00Z
-    webUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/"
-    ampWebUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
+  - title: "5 Critical Ways Python Developers Contribute To A FinTech Company"
+    excerpt: "AI, scientific computing, academic research, etc. This creates countless opportunities for Python developers. In an industry like fintech that demands utmost care and focuses on security, you must vet carefully and hire Python developers who are highly ..."
+    publishedDateTime: 2021-11-15T15:13:00Z
+    webUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/"
+    ampWebUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/2-2.png?w=600&resize=600%2C600&strip=all"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Don’t underestimate the fintech revolution"
-    excerpt: "OPINION: For initiates to financial services, including millennials and the multitudes of unbanked in less developed regions, the fintech revolution is transforming their lives through smartphone-based platforms."
-    publishedDateTime: 2021-11-15T16:00:00Z
-    webUrl: "https://www.iol.co.za/personal-finance/my-money/dont-underestimate-the-fintech-revolution-8a814233-a1fd-439f-8fdd-d0ae7a2a285e"
-    ampWebUrl: "https://www.iol.co.za/amp/personal-finance/my-money/dont-underestimate-the-fintech-revolution-8a814233-a1fd-439f-8fdd-d0ae7a2a285e"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/personal-finance/my-money/dont-underestimate-the-fintech-revolution-8a814233-a1fd-439f-8fdd-d0ae7a2a285e"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
+      name: Impacts
+      domain: techbullion.com
     quality: 44
     images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/eec31d33-3d68-52dd-86a4-575e41897b0f&operation=CROP&offset=0x19&resize=1150x647"
-        width: 650
-        height: 366
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/5-critical-ways-python-developers-contribute-to-a-fintech-company.jpg"
+        width: 700
+        height: 467
         isCached: true
-  - title: "Taking on Fintech in its own backyard"
-    excerpt: "The Fintech market is growing at an incredible rate, reinventing the financial services sector as it goes. Valued at $20.4 billion as recently as 2019, the Fintech sector is projected to be worth $471 billion globally by 2027."
-    publishedDateTime: 2021-11-15T16:52:00Z
-    webUrl: "https://financialit.net/blog/data/taking-fintech-its-own-backyard"
+  - title: "Fintech Compliance: AI's New Role in Combatting Corruption"
+    excerpt: "Discover how AI has started to be used as a tool for fighting corruption, what these technologies are, and why they are so important"
+    publishedDateTime: 2021-11-16T23:32:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-compliance-ais-new-role-combatting-corruption"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pagaya to Participate in Citi's 2021 Virtual FinTech Conference"
+    excerpt: "Pagaya Technologies Ltd. (\"Pagaya\"), a financial technology company that enables financial institutions to expand access to more customers through its artificial intelligence network, today announced that Gal Krubiner,"
+    publishedDateTime: 2021-11-15T12:13:00Z
+    webUrl: "https://www.lelezard.com/en/news-20103018.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
     quality: 24
     images:
-      - url: "https://financialit.net/sites/default/files/richard_price_-_uk_and_ireland_country_manager_-7119.jpeg"
-        width: 1333
-        height: 2000
+      - url: "https://www.lelezard.com/img/theme/lezard2.png"
+        width: 500
+        height: 414
         isCached: true
 
 secured: "8Hofm7XnkHvJaR7ZqBNM4Ad2cnXGF26nFZRCSqxWlBBV8nRYLET+ibO168LPnh844eVpKc7q/LqQ0g2ueTEYcMrUJhmF+ahWy95ySLAI3/nowF4J6Qt6qkhlZsEPJfcwdlMTpEqCro1+q5SlOnyLaWRr8KJtCDORhIYeACcFA4M5Cg3i+TxuQd3+VamQzPUbKMhZo3hQUdCYyFLiwbSqayn1YVWEkFh7huEzvBmwLdeGB7N3tdISnoqkNo4vJgCxM8c5yC3pq0Oj9TMeRfkIDONw5C2VK5fQfG5pMMFQNJc3OWKJGTCLQUwRRXT8w48Jc2JpRSjbJc7jmB5rtePaUu0eUaYXLtHKbagPa/1A7MU=;ngb5wQ1+G6O1US/BebEGow=="

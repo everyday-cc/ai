@@ -37,20 +37,6 @@ related:
         width: 736
         height: 736
         isCached: true
-  - title: "Ophthalmology at Crossroads for Information Technology, AI"
-    excerpt: "The field of ophthalmology had already been moving toward telehealth and artificial intelligence (AI) before the COVID-19 pandemic, but these changes are being accelerated now, making it crucial for ophthalmologists to learn to adapt."
-    publishedDateTime: 2021-11-14T15:14:00Z
-    webUrl: "https://www.ajmc.com/view/ophthalmology-at-crossroads-for-information-technology-ai"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 37
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/8ecc2bd7d21cf787906d5eab51517c88ca1a31bd-1200x800.jpg?fit=crop&auto=format"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "rzcgTzbNR8/Z3hrTfUdACmAwJ6F3QMBCF/UkYnNAQs5IyzO4QQHpk9My2k8fNxNy4QN4LbAyzbb++jvn7T4MGd1obpgumu1qG57f96jEDnXS75T+r2sGCMYsUm4y0aLNx4PoXIeiK1/9/vveFL2NXUpcWMGDmQYCAcmZww++lysrIBeLCjbpmVr/QJx+BGTje4VzCVEQnWpvihkDcDcofCCscGmV/GE4Q6HtEvCX1+kEARH5vTGua6NvoiB6KwfaThJCMMj7i9v8uyC7a90Uwb0nCIE/IKkjqkxOaOvUPDeReYvT6j5JRktddS0OWjy2Ir3EhAnCO88llP9XB/QNF16CEAJyMMVTGCfv8mkSPny+dYkPSNrhj9BezY3oI0wS7RpSMHuj5dKtIuHJwh5CgSbezk4fniUofs9h4RdwdT4bfW8L2ZlmwyzzN/BDgo//q/3gYIIyt8l3v+l9qS1d9UxuIoD3x/DEXWSQoBTrrbxn+0XwITppZ4qLrE+qlG8CUh5ITVnAeU5PN2w1q2L97g==;JP94AXAJXfR6+1DLuEK1Ow=="
 ---

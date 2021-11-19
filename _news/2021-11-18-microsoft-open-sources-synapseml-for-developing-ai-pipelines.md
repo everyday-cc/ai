@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
 type: article
 quality: 108
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 49
+  - title: "Microsoft Azure launches space data and technology team at Lot Fourteen"
+    excerpt: "South Australia has firmly established itself as the centre of gravity for the country’s burgeoning space sector, and now yet another global giant has touched down in Adelaide, with Microsoft launching its space data and technology team at Lot Fourteen in September this year."
+    publishedDateTime: 2021-11-18T14:37:00Z
+    webUrl: "https://www.adelaidenow.com.au/news/future-adelaide/microsoft-azure-launches-space-data-and-technology-team-at-lot-fourteen/news-story/c18aba71ec39f3ca86b114b9244d0b81"
+    type: article
+    provider:
+      name: Adelaide Now
+      domain: adelaidenow.com.au
+    quality: 34
 
 secured: "0d1VFx7uGFMT2z8+Ecda0baQPC+ikVFDMse/UcHlaR70JaZRjbqnUKfveRzkny7cfWMwH7C06ydCnJq6HO0HuQwt+t2CRysiqCSFfjrVRD3WIn7ZNPaQyJMTrz3/1BUUCd6hDkKRegdAtFsasH2WLPp5rhMX7jK7eH6B8KfX4Ch6DK3KfQkvU2PjtHOP+wVa2xvECISkawGerLkQyJKH443XyvXh29VNceUkA7lCFOBfkzRpL7Z5svMYZkQFybS8ClJh3ugWVPy6aBgOMtpjbNfFEIZQdjf3Gd1+3DrUWGnD3CdadQcjPeCnOT1+Fa93F5PLiFloZ+fsqUt4/TWS/LUeZGfprvz+oPX2jNqU5BY=;9uxLWb3QXApLeHZH+Qqe8w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forconstructionpros.com/construction-technology/news/2
 webUrl: "https://www.forconstructionpros.com/construction-technology/news/21903465/togalai-togalai-integration-now-available-on-the-procore-marketplace"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,89 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for"
-    publishedDateTime: 2021-11-18T14:20:00Z
-    webUrl: "https://www.lelezard.com/en/news-20113438.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 46
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "AI enhanced Compliance Platform Sedric Secures $3.5M to Increase Consumer Protections for Fintech Firms"
-    excerpt: "Sedric, an AI-enhanced compliance platform for Fintech firms, announced that it has secured $3.5 million via a seed round in order to increase consumer protection and transform the Fintech compliance sector."
-    publishedDateTime: 2021-11-18T14:31:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 43
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/05/natalie-collins-unsplash-LifeGuard-Only-Beach-Safety-Protection.jpg"
-        width: 1144
-        height: 863
-        isCached: true
-  - title: "ZF to digitise production processes with help of Microsoft"
-    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
-    publishedDateTime: 2021-11-18T16:02:00Z
-    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
-        width: 940
-        height: 443
-        isCached: true
-  - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
-    excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain managementCloud-based infrastructure and collaboration to improve speed and efficiency across business operationsDigit"
-    publishedDateTime: 2021-11-16T13:00:00Z
-    webUrl: "https://www.dailyrecordnews.com/news/state/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_b56e6143-eeba-587a-aecb-3cfeca03147d.html"
-    type: article
-    provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
-    quality: 26
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/a/43/a4316266-1765-50c2-8705-7274ff032ce8/6193bdca44495.image.jpg?resize=800%2C566"
-        width: 800
-        height: 566
-        isCached: true
-  - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
-    excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain management Cloud-based infrastructure and collaboration to improve speed and efficiency across business operations Digital Manufacturing Platform rollout to all ZF factories ZF investing billions of euros in digitalization over the next years REDMOND,"
-    publishedDateTime: 2021-11-16T16:31:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-b9656082dffab4560a4b38874facc292"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Arista Joins Microsoft Intelligent Security Association for Integration with Microsoft Azure Sentinel to Help Improve Customer Security"
-    excerpt: "NewswireToday - /newswire/ - Santa Clara, CA, United States, 2021/11/16 - Integration of Arista AI-driven network detection and response with Microsoft Azure Sentinel optimizes security operations - Microsoft."
-    publishedDateTime: 2021-11-16T16:55:00Z
-    webUrl: "https://www.newswiretoday.com/news/176634/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 19
 
 secured: "+irhwyEe9hbbCmjqjQejIfJSdSAVk8MZT+QBkwNx2Ec/5CnENoLPfibagYyDVFs8Er+d5zOq6oIVODGxMInJ1wBihCym4QKlN6CN2Cy2SaxhGPNzjlU9DIUjhuHGVORYBWhNTioAJNaWejb7yJb3LlHBgMpstT7FzG3tQnG3V2jOdRO9IcJt5gUDNGr/AwrupPKnAZ82521vBpg6Tc5q0s51sTo2No+EhpxLspmzIZpTSGXh4DYNID71HcNWTfWDTg8Z3QDxcRhBA6q80cdUvNDKu34kGQ/GcwWYKSU3uH4p0pFf5SW6UNK10t00ueeB5XYcYO/VTA8ijEwc3ab8eXBVpCO598zXSx1lebqCR1JtiXoCOm6BS/Cx/vL8jJwK7CSNT72r6s2AdetCRGqrWPU9IIKeGkJ/Z8eVN7hpTAN1a5w+lktoy7Qwi+a/rtvJrB9GIpfAS7iSSbx/ztwyE+c77qNBxeJca/9LuYGCkk05A/hMbNmfYQscc1fYA01xGZX2gPjLyu1TBZms7+5S8Q==;qrYgolNumJ0mF2l6NQDNMw=="
 ---

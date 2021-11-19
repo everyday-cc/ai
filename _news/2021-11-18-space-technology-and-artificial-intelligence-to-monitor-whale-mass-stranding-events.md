@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-11-space-technology-artificial-intelligen
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-space-technology-artificial-intelligence-whale.amp"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Phys.org
@@ -37,20 +37,6 @@ related:
       name: medtechintelligence.com
       domain: medtechintelligence.com
     quality: 39
-  - title: "Ophthalmology at Crossroads for Information Technology, AI"
-    excerpt: "The field of ophthalmology had already been moving toward telehealth and artificial intelligence (AI) before the COVID-19 pandemic, but these changes are being accelerated now, making it crucial for ophthalmologists to learn to adapt."
-    publishedDateTime: 2021-11-14T15:14:00Z
-    webUrl: "https://www.ajmc.com/view/ophthalmology-at-crossroads-for-information-technology-ai"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 37
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/8ecc2bd7d21cf787906d5eab51517c88ca1a31bd-1200x800.jpg?fit=crop&auto=format"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "mywkB39Trr3P6Vu6m3qQ4/ZflxXed1T6g/q/OIVR7bvqJTV7cD35Dby9cnbYhBviBur8KNNINLWpA3wfshYaJ164QSBsBVl8DqY5GpkDZ79MoGVpiAhkprsgSp1OUOnWLAPWub3NZUnBh03BA+KCljnBXE7/GSdllny6lTNbZWCDuDIQ1tv7aEx7pbgiscU9BKBUROb8gp/vv+jI1UsYQsiQaGEmrgjiK0VfUjCVep7Bf6qesJqB4FCmnxA1TPDcRUQjnAOhL7WhK5qH2KXSVK1YqbWu9uwcqzV/lIQNCzHDzRmOsnb9bMDjQXW03XaE/kr2gY6EKllN36vmpUutjOhc8wNPvfbOrasEn9Dvoqcr0WPoEm1rgGaQRX8xOu285LsCbfV+RqzVRZMn1tT0ZScDFcqIaTaQIbzE1/kudfftWMyg3Fah8MUGywKNY0s5Q0NuvY7EFftzc9R2NbyGCdEinJpwSCJ3+o9PtY70urVjcpKDy74AdsRKLp3NKwNDgbSA9LqJAVIWJj7GpW8PaQ==;eq7u3Ac7sKcSM+TyCNxMaw=="
 ---

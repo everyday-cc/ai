@@ -84,6 +84,15 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 49
+  - title: "Microsoft Azure launches space data and technology team at Lot Fourteen"
+    excerpt: "South Australia has firmly established itself as the centre of gravity for the country’s burgeoning space sector, and now yet another global giant has touched down in Adelaide, with Microsoft launching its space data and technology team at Lot Fourteen in September this year."
+    publishedDateTime: 2021-11-18T14:37:00Z
+    webUrl: "https://www.adelaidenow.com.au/news/future-adelaide/microsoft-azure-launches-space-data-and-technology-team-at-lot-fourteen/news-story/c18aba71ec39f3ca86b114b9244d0b81"
+    type: article
+    provider:
+      name: Adelaide Now
+      domain: adelaidenow.com.au
+    quality: 34
 
 secured: "+eOwsJITLArnRlkKTA0pOBQAnLzP8Gsv0qFE1MWSrknvMj0isQQhQr+XMUX0eQK2CcR2kPAV9sAJmQMVvN3//IJc7u6AouCnPv2W/m4w8EcUq4AtsYmDI8hKsuqH4bioITW3sAzLyqdRQ04uQSjGOrxhNFfCTWUjmfrDKpVrBm2iRGCrNAKuNjDSutRHDUbP8Qx/QW3XErVGDEVNZ1ZB+dN4ZMbz1yrP5uSFHZC3bWK0WC+CmkVcTsYBZnOlEjh2G9X4+Eqjc3XahRDyDNvOlsIOFlQOKzY576jVssIgngUzZ9EO7w6vg8WmsRn/7vsXSETxA5F+jYHgkcIKkfiB2XJSdgUDtw3rDPtqfXozVKUDLNR5F4fdDy8xayhjPzxgk2bs/9Gf9LpQqi2fRmziIchzzlQ39KIdeuroBTgpQKpATdiCs/JG2/Vcs54ZkGT8hqh5H97eh3b6+872X+M1ysXyybdCLErk28BEizlt6AS5BDtoAgcHkOTTtHEAqsdvNKKY8iWYiUphspNcLe70yA==;5lgBAuc1/Fc7mKEl2gRWaQ=="
 ---

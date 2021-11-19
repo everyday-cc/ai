@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesleader.com/news/1524642/from-facial-recognition-che
 cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands/amp"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "A Generation Growing Under Surveillance: The Dangers of Facial Recognition In Schools"
-    excerpt: "In conversation with my teenage daughter last week, I pointed out a news report which flagged concerns over the use of facial recognition technologies in several school canteens in North Ayrshire, Scotland."
-    publishedDateTime: 2021-11-14T15:24:00Z
-    webUrl: "https://interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
-    ampWebUrl: "https://amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-generation-growing-under-surveillance-the-dangers-of-facial-recognition-in-schools"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 52
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/rV6nDkYmOX/sizes/surveil_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
 
 secured: "vDLvBqk/dOgoYqbaaqUbQ16cO05ue4hWhGFzauNXUEmDyA8h/RNhneIXeN1ejUmxsTbo5H7rzzH/y4L9KZHbJG6SgJ/2jmJ1zznJX1imDZmraiLaKdo+tQUv56mpsoYhJ+HwbsklSC6oARz1nMPOoDs3HQU2bsyZcV1LcQWXJXo8z1SmVRDzVUKb3EE0GkhRbQAwKEwP1ruDJShxPxNxSflkd42bXRsrqkBuuWDOtJW9Kvy0rb3LZoYJlWaPkTYB/E3Yt3kPuPe4ngO2gGqD+zKe7RzShwI+0ggyR2lKEa3A2c82ktb3m6d/bfQzT+ZBK8p1TXtq6tPzilpIWBZmn+Pxr9ZIbEF5k3RfwFqA1RBF6x2xfjTV6fu3qa33/sLBQ65LXS3ImDeTcdCx+HHfivlhNf9XGPFdPTLQmSIMZem+IZDA10wj29tEEIriyIBONxYCpZNtx58qzbTxK5f8YSecWihupuAnpTSPUVm2OBRDWiYFQDLxafkENxfm3Oma4G/tEIxLGwxp1vokgyvxNQ==;NA/3qdZibWlFUgDFJwsmVA=="
 ---

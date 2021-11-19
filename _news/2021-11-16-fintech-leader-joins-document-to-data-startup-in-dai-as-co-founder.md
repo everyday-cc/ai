@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Don’t underestimate the fintech revolution"
+    excerpt: "OPINION: For initiates to financial services, including millennials and the multitudes of unbanked in less developed regions, the fintech revolution is transforming their lives through smartphone-based platforms."
+    publishedDateTime: 2021-11-15T16:00:00Z
+    webUrl: "https://www.iol.co.za/personal-finance/my-money/dont-underestimate-the-fintech-revolution-8a814233-a1fd-439f-8fdd-d0ae7a2a285e"
+    ampWebUrl: "https://www.iol.co.za/amp/personal-finance/my-money/dont-underestimate-the-fintech-revolution-8a814233-a1fd-439f-8fdd-d0ae7a2a285e"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/personal-finance/my-money/dont-underestimate-the-fintech-revolution-8a814233-a1fd-439f-8fdd-d0ae7a2a285e"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 44
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/eec31d33-3d68-52dd-86a4-575e41897b0f&operation=CROP&offset=0x19&resize=1150x647"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
     excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
     publishedDateTime: 2021-11-16T23:48:00Z

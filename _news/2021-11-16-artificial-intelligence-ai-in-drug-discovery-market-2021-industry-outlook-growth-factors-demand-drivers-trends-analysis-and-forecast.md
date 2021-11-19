@@ -42,6 +42,22 @@ related:
         width: 800
         height: 428
         isCached: true
+  - title: "Trending Report on Very Edge AI Chipset Market 2021 to 2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the Very Edge AI Chipset Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario"
+    publishedDateTime: 2021-11-19T08:15:00Z
+    webUrl: "https://www.openpr.com/news/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub19106275_g.jpg"
+        width: 764
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market Report Up to 2031"
     excerpt: "Visiongain has published a new report on Artificial Intelligence AI in Construction Market Report to 2031 Forecasts by offering Solution Services by stage Pre construction Construction Stage Post construction by deployment type Cloud On premises by technology Machine Learning Deep"
     publishedDateTime: 2021-11-15T09:28:00Z

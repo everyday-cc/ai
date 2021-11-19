@@ -3,8 +3,8 @@ category: news
 title: "Central Food Retail unveils in-store AI service robots"
 excerpt: "Central Food Retail Co, operator of Tops Supermarket, Food Hall and Tops Daily, has introduced an AI service robot to offer convenience to consumers and as a part of the company's efforts to adapt to the new normal lifestyle."
 publishedDateTime: 2021-11-18T21:00:00Z
-originalUrl: "https://www.bangkokpost.com/business/2217883/"
-webUrl: "https://www.bangkokpost.com/business/2217883/"
+originalUrl: "https://www.bangkokpost.com/business/2217883/central-food-retail-unveils-in-store-ai-service-robots"
+webUrl: "https://www.bangkokpost.com/business/2217883/central-food-retail-unveils-in-store-ai-service-robots"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 467
     isCached: true
 
-secured: "hAyMf6XTaJ9mBTdHoqkdWPesdSM/MzLFgHZlpzUsTxcMuMVZ02lUxbByeaktGZ83VSjjuc96BeuCxeL5yEaeQZDkjRRyz5jEvCButFjzZ2GPY8XEbMWiSVwrcgSDHtdnyFKUjhGpVdPtwerU4TUmAyM5sfr39bWllW8OJci61oyV9iS5ucwndsuod/33hqn8FjhgjEVtGOIqx3PrNpOhPRe27UwTQHEnsKDAF1952gnLpIKSQZBXmNsjmwp2KHpM465ySqXLOtCpnq0jRA8JhCkMKJ6rbSLRQ/WiQrmXbGaX99Xh+JWzikE9ayl62v/1kOBDvf+RPN0Rn2xzF+GQ2Qj2ur6ostEECCGzTRPRe3c=;Glh976p8Jh5reVHpj0KGGw=="
+secured: "lEB/3QnnZE87Jc9+ye99iKbPnCvxAw6X/6qvA/xTQ1TyZiT+lCtTJNdDGwv9nx0xgNXFUJA094rHf7ELc986GNNx8y8EX4U8oNy51JuTAxwg/ITyX8kvP1Zl2ORaKOO8mFkAromaWhhRdQQn+ZQjARElEb8V+/6GRjMmL3PinkES5oAfgSjo/kF82vqDR82gELjkaAutud907uMYDpG3b44lr3me3eoDFaEq+TBtbbLtS0e0WP5+Y33FFVJGVFBxATgi9+CT8DDNVdUaXHG74CvJAAw9hZlBPCdEB09t6A/qQsfJYzoc3g22/72lEXBz7PdM55mKf/GLekyi7LJQ2i7fuNhTZ1rFZNPx38Px2vE=;SneT29JPxYbH+knWzeXyEg=="
 ---
 

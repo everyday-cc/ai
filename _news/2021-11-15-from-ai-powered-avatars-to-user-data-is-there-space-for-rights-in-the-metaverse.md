@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/social-media/from-
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/social-media/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87708426"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -55,17 +55,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "From AI bots to user data: is there space for rights in the metaverse?"
-    excerpt: "Digital spaces are raising privacy and ownership questions, with experts urging regulators to widen safeguards"
-    publishedDateTime: 2021-11-14T15:54:00Z
-    webUrl: "https://www.timeslive.co.za/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times-daily/lifestyle/2021-11-14-from-ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 37
   - title: "The Metaverse, AI Bill of Rights, Digital Twins & Simulations, Digital Identity and Decentralization and Retail Cybersecurity Threats"
     excerpt: "The Metaverse wave is spreading with tech companies including Facebook shifting towards 3D, virtual reality and augmented reality technologies. More tech companies such as Nvidia are following suit and preparing for a metaverse future."
     publishedDateTime: 2021-11-17T21:00:00Z
