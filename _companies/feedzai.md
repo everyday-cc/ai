@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "feedzai"
   url: "https://twitter.com/feedzai"
-  followers: 3066
+  followers: 3069
 
 size: 201-500 employees
 yearFounded: 2009
