@@ -1,18 +1,18 @@
 ---
 category: news
 title: "United Kingdom Insurtech Market 2021-2026: AI Platform Revenues Within Insurance to Grow by 23% to $3.4 Billion Between 2019 and 2024"
-excerpt: "According to various studies, AI platform revenues within insurance would grow by ... Insurtech is thriving in the UK, having spun out of the Fintech revolution and UK Insurtechs are providing solutions across the whole insurance market."
-publishedDateTime: 2021-11-19T19:50:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-united-kingdom-insurtech-market-2021-2026-ai-platform-/2021/11/19/9497184.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-united-kingdom-insurtech-market-2021-2026-ai-platform-/2021/11/19/9497184.htm"
+excerpt: "The \"United Kingdom Insurtech Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The UK insurance industry is fundamentally changing."
+publishedDateTime: 2021-11-19T21:11:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/19/9497184.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/19/9497184.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - AI in Finance
@@ -34,6 +34,6 @@ related:
         height: 392
         isCached: true
 
-secured: "YzQ8+VH9BwO++UuZWcYC2bb95MUhwboOs98pcPYzyt3SPqnMZKeS27YI7coJjwSsf1wMKH1g/dEMdtjYyWsvtY0NYET63ZNA8lXd2uMpGQKG/9ilkCyju4Pm4njBCpZ2dCvhT2Ki7TA96gigZnyCZxytcn+7GKg/gqKLw6vhrPg70cleDP2zpxbulYPrR6/kb0WYYOvsaK19eT03GB8sfvDMzomBqYsFsT6lKbqbEhH1L/3o8Uxe8MxjQWe9IQVZoVGW9evE44ykYqX9RDgu6FbuhCIQ4orTbNN8/o5SDAnbDAUgoJD/UcwrWmFY9sI9ScwO68Yj5pvGJQNJNSthLonkH4EFRKaj5el19UdQYHY=;0H7DTYflxFcQvBESFg8bDQ=="
+secured: "Vd4HeGN3s0w8YlJnOGblW5l8KL8mSsVvUeVzPXRykZF/MZ6F4l+BhF0gf76Vyp9EM8vesY4LUpg4C7ylygOzfqFlEPL8ysj+zbY+PAIzWGTL1DL5fwiMHlkYUnKG2WhJsEFgWkCf85NfaeoxNUX46FGuh5TuIXubmOJiuqcxSs6ajtH61bXgKGQUAKelP0nZDB1pL8zWsECq1lAj5cmFq/bXOpyb943FCiYfdnCaABT1DFxpAuWhA7SoX1I0lX/Ny4/wXiDQLHkubd/dWdwEjbb/cOLzJ9rlG358QcCJDCXpXnI+6JyF/NXtZn6cdXAn1xxUY9ZMAcngvylslPw0uvGdQeMsR9w9IFoYh304Upc=;mwmhF6255HEbuqJaTMFYfg=="
 ---
 

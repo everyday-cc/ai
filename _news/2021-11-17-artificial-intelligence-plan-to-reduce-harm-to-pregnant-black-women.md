@@ -2,9 +2,9 @@
 category: news
 title: "Artificial Intelligence plan to reduce harm to pregnant black women"
 excerpt: "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations."
-publishedDateTime: 2021-11-17T10:52:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_post_locator=urn:bbc:cps:curie:asset:26c1a88e-0fff-4b72-967d-3262e6c7fffb&pinned_post_asset_id=59306908&pinned_post_type=share"
-webUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_post_locator=urn:bbc:cps:curie:asset:26c1a88e-0fff-4b72-967d-3262e6c7fffb&pinned_post_asset_id=59306908&pinned_post_type=share"
+publishedDateTime: 2021-11-17T06:31:00Z
+originalUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908"
+webUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908"
 ampWebUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp"
 type: article
@@ -17,8 +17,8 @@ provider:
   domain: bbc.co.uk
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg"
@@ -56,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3kSG2FXpmi/7FDnynAXEDdZGAA7qr8lAlD2sGTUo+KvH/s+2foc+LNuH5kxw/zuitGTiWPZk6nLzhL/i5cEQ+pCoxV7zQgdaLy+P4tToB5CX8RF+NsVPHFdbr+ZGKdyOFjqw0SuGRIae475Su8IKwwCg6byEJ0CFdWH8BXOJl1pu1Ona4MxI1/f7reO8nMNmhO0mFNuus85hxg46ye0CvcVrgTPfMIxZAbV+K8nMo47VLPo65M2qibl9vAS6OrOS6UcvHU/bvuqErzII6jEzTqfG/mkCB7rugqAZi5hkIPYf1h+2YRX9oGoM8/Jg04YAqS95PW8Lzh1SBtt7INmVjdLXte57thxevsM6EX5wtMsusEoTRyj+2zplNxATsr9t+DXQZbVfFILTm6TkJkPdAqFwmFwR+xMqTVb4TzV0211cfM0uVx/I+nOJjlvk9jlnjGAQv4fPQs90Wo5InuRnVQSkLVykyDApzkS4O/ncAmgW62xnWE7myp2ugq9gmlXfZ6DIqUjovBbqQV9JXhpEQQ==;OE33QAm4HOH5TR4jWMbBBg=="
+secured: "UXBadZ3elIjOYLibcvmgS/1PeHubIyec15X+AlNKK8T7xaeIjf4ldOi/dJGaacbLphXh/SnE4eX0DZea8q0VuI7RpmPjsffMuRDvLdt36C45w3AI3xik/+pG6efUyD8lK6sRBNrdL+PWqDPCixFN13Kip/tiBVlYfViLmM4WPzVz8RFANWpHvtugyIo8ov37+MkC6kf0DQjR1uuV07bL9SlL2bzh8SVS1+kbiX5qc+qNPIQLH0uiygIAUIIsmr/eSF0E8rrv9AAQHdGbF+C7NS3PJWKNNwfN1gqAbc4AtM6fNYkS+jMIJF8xXPhruK3XCZ41ghqZgyRbKncCf/UUS/zr7m7PJwwtcRLyXfHS8pQ=;IOqTJx4hBeLRHTX2Jmj+DA=="
 ---
 

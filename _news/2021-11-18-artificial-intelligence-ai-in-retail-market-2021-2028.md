@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
 type: article
 quality: 74
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -173,20 +173,6 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?646313"
         width: 444
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market Report 2020 by Global Key Players, Countries, Size, Forecast to 2028"
-    excerpt: "The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 SURREY, BRITIS"
-    publishedDateTime: 2021-11-15T06:45:00Z
-    webUrl: "https://menafn.com/1103171654/Artificial-Intelligence-in-BFSI-Market-Report-2020-by-Global-Key-Players-Countries-Size-Forecast-to-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?220416"
-        width: 374
         height: 250
         isCached: true
 

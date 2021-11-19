@@ -176,20 +176,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Artificial Intelligence in BFSI Market Report 2020 by Global Key Players, Countries, Size, Forecast to 2028"
-    excerpt: "The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 SURREY, BRITIS"
-    publishedDateTime: 2021-11-15T06:45:00Z
-    webUrl: "https://menafn.com/1103171654/Artificial-Intelligence-in-BFSI-Market-Report-2020-by-Global-Key-Players-Countries-Size-Forecast-to-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?220416"
-        width: 374
-        height: 250
-        isCached: true
 
 secured: "CvYWTRo3mNdOdRpYJ02JiafngVpw1P6ZjVApUWWdPo77bBhSy8FHX15y5HE80q3JsISn2vrB2S/4cmDmXfSvijdjp5ruJkWJSCtHUm2hUSXYscxGZduvfbri/o6D+l19oOffe9jsWw2OctI5ouQaSHQXh3WWpV/38GxVhPnkx+d/5+vBfkzEeP1yvrZ+c/1MxWmnMBpnQKwOmhOkGCFHzJwnOe+Tm1FimaaUHCmuwXMsWD5aTVqSvZubwBOWdmJSAUo/fBcViM/+MUorpJ3VYhcnHbl9m2cSR1bS5MCegOJ3i24v1FNx9pFW+aZA00jnk18VDBZ4UZORzbf6zbU9Sh43nAVRLYFim1i5dPkXWBoDlCm6CjfeQnucgvDMu3+j9NwFGY0yhr7otTM+isUdHzW70hjvLJYyusdlOro/YeIJxqE0/52hyKaFW8KoLUEak1n1VRVKdn0jTYJ861WSUHKosI8yaPVVlbHwvHydJsK7zenaI9sg6+ccYK/y3Q5ARvPBiVLR6Jas1XSB05L+VA==;3NkPlL6k7DI4J28sNYh5IQ=="
 ---

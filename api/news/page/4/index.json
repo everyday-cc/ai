@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-17-turning-machine-learning-insights-into-ai-powered-actions-with-cooling-advisor.md",
+      "title": "Turning machine learning insights into AI-powered actions with Cooling Advisor",
+      "excerpt": "We’ve seen how comprehensive monitoring combined with machine learning algorithms can uncover and continually track the cooling zones within a data center – presenting a core foundation for effective automated cooling within critical facilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong",
+      "originalUrl": "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGqT973IWCyBg/article-cover_image-shrink_720_1280/0/1637130532152?e=1642636800&v=beta&t=QMXlfweJHenMNy_WSANrdWLQC4jrZ8jEVFVGDHgNUVE",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T22:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-artificial-intelligence-plan-to-reduce-harm-to-pregnant-black-women.md",
+      "title": "Artificial Intelligence plan to reduce harm to pregnant black women",
+      "excerpt": "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp",
+      "publishedDateTime": "2021-11-16T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-ai-stock-9-things-to-know-about-c3ai-as-cathie-wood-bets-big-on-artificial-intelligence.md",
       "title": "AI Stock: 9 Things to Know About C3.ai as Cathie Wood Bets Big on Artificial Intelligence",
       "excerpt": "C3.ai (NYSE: AI) stock is getting a boost on Monday after ARK Invest CEO Cathie Wood singles out artificial intelligence ( AI) as the next big move in investing. Here’s what Wood had to say on the matter at the Milken Institute conference in October,",
@@ -519,7 +614,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1106,101 +1201,6 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-vida-streamlines-respiratory-clinical-trials-with-artificial-intelligence-ai.md",
-      "title": "VIDA Streamlines Respiratory Clinical Trials with Artificial Intelligence (AI)",
-      "excerpt": "VIDA Diagnostics, Inc. (VIDA) is further removing friction in respiratory clinical trials with the introduction of a new AI-powered portal. The cloud-based VIDA Intelligence Portal (VIP) streamlines challenges often associated with imaging in trials such as site onboarding,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vida-streamlines-respiratory-clinical-trials-with-artificial-intelligence-ai-1030980685",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vida-streamlines-respiratory-clinical-trials-with-artificial-intelligence-ai-1030980685",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-noteable-expands-analytics-tools-for-programming-with-new-21m.md",
-      "title": "Noteable expands analytics tools for programming with new $21M",
-      "excerpt": "Noteable, a startup developing tools for data analytics and organization, has raised $21 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1318171140.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/",
-      "publishedDateTime": "2021-11-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

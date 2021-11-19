@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-18-in-a-5g-future-physical-work-wont-require-your-physical-presence.md",
+      "title": "In A 5G Future, Physical Work Won’t Require Your Physical Presence",
+      "excerpt": "It’s from here that the operator remotely pilots the machine via a 5G connection—protected from the dirty, dangerous work outside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/",
+      "originalUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192aa14af7232fadbf0f689%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/amp/",
+      "publishedDateTime": "2021-11-17T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-how-visual-effects-helped-tom-hanks-robot-costar-come-to-life-in-finch.md",
+      "title": "How visual effects helped Tom Hanks’ robot costar come to life in Finch",
+      "excerpt": "It took a combination of visual effects, motion-capture performance, and an animatronic actor to create the breakout star of the Apple TV+ sci-fi drama Finch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/",
+      "originalUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/finch_photo_featire.jpg",
+          "width": 2000,
+          "height": 1506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp",
+      "publishedDateTime": "2021-11-17T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-fortanix-reveals-confidential-ai-for-seamless-app-development.md",
       "title": "Fortanix reveals confidential AI for seamless app development",
       "excerpt": "The development of AI applications is usually hindered by the inability to use highly sensitive private data for AI modeling.",
@@ -900,49 +1004,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-17-artificial-intelligence-plan-to-reduce-harm-to-pregnant-black-women.md",
-      "title": "Artificial Intelligence plan to reduce harm to pregnant black women",
-      "excerpt": "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_post_locator=urn:bbc:cps:curie:asset:26c1a88e-0fff-4b72-967d-3262e6c7fffb&pinned_post_asset_id=59306908&pinned_post_type=share",
-      "originalUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_post_locator=urn:bbc:cps:curie:asset:26c1a88e-0fff-4b72-967d-3262e6c7fffb&pinned_post_asset_id=59306908&pinned_post_type=share",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp",
-      "publishedDateTime": "2021-11-17T02:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-11-17-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19.md",
       "title": "AI predicts which mammals are most likely to spread covid-19",
       "excerpt": "Water buffalo, Sunda pangolins and mink are among the 540 mammals predicted to be likely to spread the coronavirus based on their biology and where they live",
@@ -1154,58 +1215,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-turning-machine-learning-insights-into-ai-powered-actions-with-cooling-advisor.md",
-      "title": "Turning machine learning insights into AI-powered actions with Cooling Advisor",
-      "excerpt": "We’ve seen how comprehensive monitoring combined with machine learning algorithms can uncover and continually track the cooling zones within a data center – presenting a core foundation for effective automated cooling within critical facilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong",
-      "originalUrl": "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGqT973IWCyBg/article-cover_image-shrink_720_1280/0/1637130532152?e=1642636800&v=beta&t=QMXlfweJHenMNy_WSANrdWLQC4jrZ8jEVFVGDHgNUVE",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T22:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

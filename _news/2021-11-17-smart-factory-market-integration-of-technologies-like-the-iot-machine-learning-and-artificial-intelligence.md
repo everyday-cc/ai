@@ -36,20 +36,6 @@ related:
         width: 480
         height: 400
         isCached: true
-  - title: "Computer Vision in Healthcare Market Rising Up Gradually with the Adoption of New Technologies [2020-2030]"
-    excerpt: "The use of computer vision in healthcare can considerably lessen the time doctors usually take in analysing reports and images. Computer Vision in Healthcare Market By Type (Software, Hardware ..."
-    publishedDateTime: 2021-11-15T05:41:00Z
-    webUrl: "https://menafn.com/1103171463/Computer-Vision-in-Healthcare-Market-Rising-Up-Gradually-with-the-Adoption-of-New-Technologies-2020-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/15/EP_90237image_story.jpeg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "xhaF0Fn7OwG8nRtYo0BsHi1JJoaOD9dmW2IsLmxEOl6jdUx/2j9WT8ZT8JPg1pisVMl0PyRDFQ69HVCufx3NFWpGCtx/7czYBGYowgBzg0d7jWRRl/EhDEZKIkUgUs5zeOUM2Eg5VHGvjfgG8rwwf7ojjpFvIhOa+ewq2BroZKGOODNPvB+S/3wE16zqzexdmcYi35vR+aja5QQeM3NscBKGFZcqhW0nNG+LxVN3/wvRkL15XUmEpZ454Gnf06u+e+APLV69IvlrgS80AJCOBkMhbE+TCmHo6NOIbG+U7k87FP5zypuVqC+kRtQMpOiYKKdX1Aw/I64Enp17sMd8+FU+pUqK4nyPdjjIepHw64o=;VwiCciIUeUDif9AN51XEMw=="
 ---

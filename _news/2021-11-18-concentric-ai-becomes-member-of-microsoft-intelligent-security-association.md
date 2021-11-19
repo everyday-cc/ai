@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Azure OpenAI, A New Microsoft Service, Allows GPT-3 Access"
-    excerpt: "OpenAI's machine learning models are now available on Microsoft's Azure platform thanks to a new service called the Azure OpenAI Service."
-    publishedDateTime: 2021-11-15T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/azure-openai-allows-gpt-3-access/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Azure-OpenAI-A-New-Microsoft-Service-Allows-GPT-3-Access.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Azure launches space data and technology team at Lot Fourteen"
     excerpt: "South Australia has firmly established itself as the centre of gravity for the country’s burgeoning space sector, and now yet another global giant has touched down in Adelaide, with Microsoft launching its space data and technology team at Lot Fourteen in September this year."
     publishedDateTime: 2021-11-18T14:37:00Z

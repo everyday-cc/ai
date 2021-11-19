@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market Rising Up Gradually with the Adoption of New Technologies [2020-2030]"
-    excerpt: "The use of computer vision in healthcare can considerably lessen the time doctors usually take in analysing reports and images. Computer Vision in Healthcare Market By Type (Software, Hardware ..."
-    publishedDateTime: 2021-11-15T05:41:00Z
-    webUrl: "https://menafn.com/1103171463/Computer-Vision-in-Healthcare-Market-Rising-Up-Gradually-with-the-Adoption-of-New-Technologies-2020-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/15/EP_90237image_story.jpeg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Smart Factory Market - integration of technologies like the IoT, Machine Learning , and Artificial Intelligence"
     excerpt: "Industrialization levels have increased exponentially across various regions over the years The rising industrial prospects attached with the technological developments across manufacturing facilities will help create a positive growth trajectory for the smart factory market during the assessment period of"
     publishedDateTime: 2021-11-17T09:50:00Z

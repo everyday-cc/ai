@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Azure OpenAI, A New Microsoft Service, Allows GPT-3 Access"
-    excerpt: "OpenAI's machine learning models are now available on Microsoft's Azure platform thanks to a new service called the Azure OpenAI Service."
-    publishedDateTime: 2021-11-15T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/azure-openai-allows-gpt-3-access/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Azure-OpenAI-A-New-Microsoft-Service-Allows-GPT-3-Access.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Concentric AI Becomes Member of Microsoft Intelligent Security Association"
     excerpt: "MISA is an ecosystem of independent software vendors and managed security services providers that have integrated their security products with Microsoft’s to defend against increasing cyber-threats. Concentric AI was nominated to MISA for seamlessly integrating its award-winning,"
     publishedDateTime: 2021-11-18T12:48:00Z

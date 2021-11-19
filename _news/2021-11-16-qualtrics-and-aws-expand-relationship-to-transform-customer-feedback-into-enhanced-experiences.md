@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Customer Intelligence Platform on AWS for a Superior Customer Experience"
+    excerpt: "Customer experience has become a strategic priority on the CEO’s agenda. Enterprises now consider customer delight to be a differentiator in the marketplace. Sentient technology is critical to serve customers better and be responsive to their needs."
+    publishedDateTime: 2021-11-19T21:04:00Z
+    webUrl: "https://www.cio.com/article/3641235/a-customer-intelligence-platform-on-aws-for-a-superior-customer-experience.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/11/istock-1274394138-100911858-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 625
+        isCached: true
   - title: "Amazon Web Services and Qualtrics Expand Relationship to Utilize Customer Feedback to Enhance Experiences"
     excerpt: "(NASDAQ: AMZN) company, Amazon Web Services, Inc. and Qualtrics (NASDAQ: XM) reported expansion on their relationship with Qualtrics migrating its internal IT systems and customer facing workloads to the world’s leading cloud."
     publishedDateTime: 2021-11-16T19:05:00Z
