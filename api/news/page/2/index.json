@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-18-do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out.md",
+      "title": "Do AI-powered lending algorithms silently discriminate? This initiative aims to find out",
+      "excerpt": "The first is that leaving a lending decision to an algorithm mitigates the bias that can come with human judgement. The second is that these algorithms have the power to spot good credit risks because they can suck in and process so much more data about an applicant than traditional formulas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "originalUrl": "https://www.marketwatch.com/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-436779/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "publishedDateTime": "2021-11-18T05:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great.md",
+      "title": "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great",
+      "excerpt": "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "publishedDateTime": "2021-11-18T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-driverless-car-start-up-weride-partners-with-major-chinese-automaker-gac-on-robotaxis-as-competition-rises.md",
       "title": "Driverless car start-up WeRide partners with major Chinese automaker GAC on robotaxis as competition rises",
       "excerpt": "WeRide and Guangzhou Automobile Group (GAC Group) plan to make the robotaxis available via ride-hailing app Ontime to the public by 2022.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -280,7 +384,7 @@
       "originalUrl": "https://www.fiercebiotech.com/medtech/sanofi-inks-270m-cancer-ai-deal-r-d-platform-developer-owkin",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -1108,101 +1212,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-aws-makes-ai-and-machine-learning-tangible-with-first-major-art-debut-at-smithsonian.md",
-      "title": "AWS makes AI and machine learning tangible with first major art debut at Smithsonian",
-      "excerpt": "It would then use AI and machine learning developed by Swami Sivasubramanian (left), vice president of Amazon Machine Learning at AWS, and his team, to detect the word for the future and determine its sentiment.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/11/17/aws-makes-ai-ml-tangible-first-major-art-commission-debut-smithsonian/",
-      "originalUrl": "https://siliconangle.com/2021/11/17/aws-makes-ai-ml-tangible-first-major-art-commission-debut-smithsonian/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Swami-and-Suchi-version-2-Me-You.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-google-launches-bot-in-a-box-to-nudge-along-conversational-ai.md",
-      "title": "Google launches Bot-in-a-Box to nudge along conversational AI",
-      "excerpt": "The new feature from Google Cloud makes it easier for businesses to launch chatbots using existing customer FAQs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "originalUrl": "https://www.zdnet.com/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3d1e5183f434477463f6546bcdf2e2e2eb8717ac/2021/06/28/554d89ed-c8e3-43bf-b77e-354982cb4942/thumb.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "publishedDateTime": "2021-11-17T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,19 +2,19 @@
 category: news
 title: "NYC aims to be first to rein in AI hiring tools"
 excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-publishedDateTime: 2021-11-19T16:32:00Z
-originalUrl: "https://www.timesunion.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-webUrl: "https://www.timesunion.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-ampWebUrl: "https://www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+publishedDateTime: 2021-11-19T18:39:00Z
+originalUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+webUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+ampWebUrl: "https://www.chron.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "NYC Aims to Be First to Rein in Artificial Intelligence Hiring Tools"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the com"
+    publishedDateTime: 2021-11-19T17:20:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/nyc-aims-to-be-first-to-rein-in-artificial-intelligence-hiring-tools/3411736/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/nyc-aims-to-be-first-to-rein-in-artificial-intelligence-hiring-tools/3411736/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/nyc-aims-to-be-first-to-rein-in-artificial-intelligence-hiring-tools/3411736/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 72
+    images:
+      - url: "https://media.nbcnewyork.com/2019/09/jobsAP_16230695166503-1.jpg?quality=85&strip=all&fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Hiring Tools Can Discriminate Based on Race and Gender. A New NYC Bill Would Fight That"
     excerpt: "A bill passed by the city council in would ban employers from using AI hiring tools unless a bias audit can show they won’t discriminate."
     publishedDateTime: 2021-11-19T14:16:00Z
@@ -69,6 +85,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ke7DH7JQxtB/X3Sa/EHuqst+4mDQmTwDLMWm3/OJPTYzr7eeXkBctpacN/cpov+HBlzf/gyqfe9W5PPk7n8/QN1fyNBAy+iqlPXMiUXjeYMUCKmwdlMQOhNs54SYADWzNt7dfL19VCdkV+jIVAHZoaWxFUBvLcHAN+E6PUE48EBrGoRbEZuMmnSDXtNsQYsHXoCwy0iVXHPoYW0atAqseMA/z59p2/sFXIVJpxQPeYQiF52v6liELbCi6gQDsLuq1nusR7s/H1uYjBds5z2i4bY57TCBUNFC2hJA+/szN26Px4SLUOMqfDWTElGAxoZo7qHR2FEAn6V9KyO75RnA5rSWChg7NftC9lNYdVqHpDE=;DKZuy5KTAgcYwvmkf0xogQ=="
+secured: "zoxWB9p1Zf5yuJYsYrYF5QyruulVg1+cOqr/bfqaR5L+/MtssfTkJCVgoK0+TPo0HRSx31zRDNVuYYtbt3RQUPzNMjMlkG5DM3LA7d15dCpDipjkGaUEB4CgwPKRRLb9iFWohF8/fgbNu37MK3vlQqxY83p5szrv/culAjzwFtcgTz1mgbI4GUBq1GnDYoi045L2eqhLc+WPZkc7p/YIaHhhdLdl0Lo+BF5vqGX2lCs9zjOTNCy3u7ts4QbwpdVbjhMmOk95Gi7cWvIeJp+xauhVZL0FHEnnw2YNHSSbNPrkCzrX6pSNq4NyiSdmeOEd5hCb+bB8hUqO3ZBdN+BL7hSJ+ib1DDhg14TYrw6GyzI=;6Nsa3YCqa/2YQApJHcrsGA=="
 ---
 

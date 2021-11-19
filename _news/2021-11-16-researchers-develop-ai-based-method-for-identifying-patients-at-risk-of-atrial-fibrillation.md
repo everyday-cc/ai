@@ -42,6 +42,17 @@ related:
         width: 850
         height: 413
         isCached: true
+  - title: "Artificial Intelligence Could Predict Risk of Atrial Fibrillation"
+    excerpt: "Atrial fibrillation (AF) is a common heart condition—by 2030, the Centers for Disease Control estimates that nearly 12 million people will have AF. A | Technology"
+    publishedDateTime: 2021-11-19T17:30:00Z
+    webUrl: "https://www.labroots.com/trending/technology/21718/artificial-intelligence-predict-risk-atrial-fibrillation"
+    ampWebUrl: "https://www.labroots.com/trending/technology/21718/artificial-intelligence-predict-risk-atrial-fibrillation/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/21718/artificial-intelligence-predict-risk-atrial-fibrillation/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 37
   - title: "Artificial intelligence–based method predicts risk of atrial fibrillation"
     excerpt: "Investigators have developed and tested an artificial intelligence–based method for predicting an individual’s five-year risk of developing atrial fibrillation, or an irregular heartbeat. The method could be used to identify patients who might benefit from preventative measures."
     publishedDateTime: 2021-11-15T15:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/social-media/from-
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/social-media/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87708426"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "AI bots to user data: Is there space for rights in the metaverse?"
-    excerpt: "Facebook’s ‘metaverse’ plans fuel debate on virtual world as shared digital spaces raise privacy, ownership questions. Rights campaigners urge regulators to widen safeguards."
-    publishedDateTime: 2021-11-15T02:10:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/15/ai-bots-to-user-data-is-there-space-for-rights-in-the-metaverse"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/14/1367789.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "n+Q0zvnn66wT4v7iOT+PLm8ykKcqhbdonmF/M0CLxIM4xgYFVnv9dDfg9ttezSxAvz4yJpHTzgT40LmI7W2ogpnMEBDTZfn9JjBOzlA+wfun6Gehq+bbEzzlvxQRQQR1AMK0neB6C45Q261DDrx/CnQq1Ilw4au0sEoDGT+fi5nTxmvaFQxYlhnVcgQLnjkOOSXj7shrv05jOiwxZN4twsD4jbBR3DBieUkVxnnZka+G8OxWLgyjE4abQAuqhiLAWhx1o/IopQWlv1j6zHtkXKUDd8NR+Msy3KooQv6KakZI2ve4ePx7vehZlH5/1ttyIZ1G6kSKiw7E8E+zFKLQ17EeFIHozeRMq3S9kdKjyaCE07eQFtcl6cfvREWDwCIydTaM+JMSx5Sqm8D64KHcsTDBewuhpP+F1P4T357I2kgD9J2y3t9KxU0qsYEfPXZY13DCF4yhHya2JqpaB5sZwoSaZOznINieSt3RZ6YlqKHaiOVdUpCgjGyDdEhQrzF96Awqd0laIBaokSkmVLGsHA==;D91P8EVR9XM7W8KrkUsV0A=="
 ---

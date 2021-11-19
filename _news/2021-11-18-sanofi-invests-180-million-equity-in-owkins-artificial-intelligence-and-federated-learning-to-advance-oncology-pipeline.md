@@ -89,6 +89,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Sanofi makes $270M bet that a startup’s AI tech can boost its cancer drug R&D"
+    excerpt: "The sum represents Sanofi’s equity investment in Owkin, plus a payment to begin a research partnership covering four types of cancer. Meanwhile, Owkin said the Sanofi investment boosts the startup into unicorn status and marks the start of its Series B funding round."
+    publishedDateTime: 2021-11-19T18:15:00Z
+    webUrl: "https://medcitynews.com/2021/11/sanofi-makes-270m-bet-that-a-startups-ai-tech-can-boost-its-cancer-drug-rd/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 34
+    images:
+      - url: "https://medcitynews.com/uploads/5715460701_81518af4d8_z.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Deloitte and Sanofi collaborate on artificial intelligence SaaS platform"
     excerpt: "Deloitte and Sanofi have partnered up on an artificial intelligence software-as-a-service (SaaS) adverse events case intake platform called ConvergeHEALTH Safety to transform pharmacovigilance (PV) and address the industry's operational safety challenges."
     publishedDateTime: 2021-11-15T20:42:00Z

@@ -64,6 +64,17 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "3 Fintech Stocks That Would Make Great Additions to Your Portfolio"
+    excerpt: "Fintech has been gaining steam lately due to innovations in the sector. Moreover, fintech usage has increased significantly over the past year. And because the industry has immense growth potential, we think fundamentally sound fintech stocks Sapiens International (SPNS),"
+    publishedDateTime: 2021-11-19T18:00:00Z
+    webUrl: "https://stocknews.com/news/spns-mitk-qiwi-3-fintech-stocks-that-would-make-great-additions-to-your/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
   - title: "Global Industry Study Reveals Fintech Lenders are Evolving Fast and Moving Up Market"
     excerpt: "Holdings, Inc. , a leading provider of digital transformation solutions for banking, today released a global research study conducted by Economist Impact in collaboration with Salesforce. Entitled What is shaping the ecosystem of small"
     publishedDateTime: 2021-11-17T13:37:00Z

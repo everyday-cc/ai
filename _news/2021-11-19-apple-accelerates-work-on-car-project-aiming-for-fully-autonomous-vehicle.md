@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/apple-accelerates-work-on-
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle"
 type: article
 quality: 135
-heat: 215
+heat: 225
 published: true
 
 provider:
@@ -145,6 +145,20 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2021%2F11%2Fapple-fully-self-driving-autonomous-car-vehicle-rumors-release-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 825
         height: 413
+        isCached: true
+  - title: "Apple is diving headfirst into full self-driving with the Apple Car"
+    excerpt: "Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
+    publishedDateTime: 2021-11-19T16:57:00Z
+    webUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "WM5BEgJpZNGI30xUyBi0kco65V4Dvls+3GYPJav4R75I1E9RNpD9KiUn0M4WvcYxfLt88sPlv9GHsnD8V5At6wmlI7JtJXDCvRiVYg4fZp5hlFZbXcujAEqVH7cMqC1r2vHMqfOYHSgKUz0HBK8fsq5euPvsvwb0QpgLGGM/w1fla9Y+dAed21wC7zuwi9caSMEJJ6CtMcFPTYIl8ipMrmTB1RU6YaJJfFOwzzJwf0gbgldwAD940Ajsc0Gstqanx/xydOLrtInafr6x9dqIf/WutobR4vwMwPsjSvSWOHsCf/E+vF6sELPkYoZPHQ/DoqL2IzO99NvcycNJgOh4IvaRofy+3TOHPrZ0xhOpPnA=;SPJ6nU9TZLOKdW74sLWk5A=="

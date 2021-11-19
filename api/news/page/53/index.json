@@ -2,6 +2,92 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-10-09-early-evoked-brain-activity-underlies-auditory-and-audiovisual-speech-recognition-deficits-in-schizophrenia.md",
+      "title": "Early evoked brain activity underlies auditory and audiovisual speech recognition deficits in schizophrenia",
+      "excerpt": "Objectives People with Schizophrenia (SZ) show deficits in auditory and audiovisual speech recognition. It is possible that these deficits are related to aberrant early sensory pr",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/PPR/PPR405579",
+      "originalUrl": "https://europepmc.org/article/PPR/PPR405579",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-09T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-09-sophia-the-first-android-with-citizenship-now-wants-to-have-a-robot-baby.md",
+      "title": "Sophia, the first android with citizenship, now wants to have a robot baby",
+      "excerpt": "In early 2021, the Hanson Robotics company announced that they would start the production of hundreds of robots with Artificial Intelligence like Sophia, to help fight Covid-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/390238",
+      "originalUrl": "https://www.entrepreneur.com/article/390238",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1633717529-sophia-robot-androide-humanoide-bebe-familia.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-08T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-09-chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong.md",
       "title": "Chinese chip firm Horizon Robotics mulls moving US IPO to Hong Kong",
       "excerpt": "Chinese artificial intelligence chip maker Horizon Robotics is considering moving a US listing plan to Hong Kong as Beijing deepens crackdown on overseas listings, Bloomberg reported on Friday. The firm had been weighing a US initial public offering that could raise as much as $1 billion,",
@@ -1081,85 +1167,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-neural-network-helps-predict-new-drug-combinations-to-fight-covid-19.md",
-      "title": "Neural Network Helps Predict New Drug Combinations To Fight COVID-19",
-      "excerpt": "Deep learning identifies synergistic drug blends for treating viruses like SARS-CoV-2. The existential threat of Covid-19 has highlighted an acute need to develop working therapeutics against emerging health concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/",
-      "originalUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/",
-      "publishedDateTime": "2021-10-08T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-2021-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
-      "title": "2021 Magic Quadrant for Data Science and Machine Learning Platforms",
-      "excerpt": "Gartner has named Alteryx a “Challenger” in its 2021 Magic Quadrant for Data Science and Machine Learning (DSML) platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.alteryx.com/de/resources/report/gartner-magic-quadrant-data-science-machine-learning",
-      "originalUrl": "https://www.alteryx.com/de/resources/report/gartner-magic-quadrant-data-science-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-08T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alteryx",
-        "domain": "alteryx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

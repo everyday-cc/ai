@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/artificial-intelligence-everyone-wants-it
 ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/e467d20ab93256ec3385659485e2cb180cb921e0/2021/11/16/2fc00959-58e2-434c-8181-1b1bd9708138/javits-center-november-2019.jpg?width=1200&fit=bounds&auto=webp"

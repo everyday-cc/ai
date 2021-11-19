@@ -1,30 +1,33 @@
 ---
 category: news
 title: "nVoq is excited to bring innovative medical speech recognition technology to our partnership with Suki."
-excerpt: "With medically accurate speech recognition from nVoq, Suki can accomplish that goal ... “Suki is well positioned to address the increasing challenges that face physicians.” said Debbi Gillotti, Chief Operating Officer of nVoq. “We greatly appreciate ..."
-publishedDateTime: 2021-11-17T18:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-boulder-artificial-intelligence-5de24e8110094cdd97f76c0cb3f46b04"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-boulder-artificial-intelligence-5de24e8110094cdd97f76c0cb3f46b04"
+excerpt: "PRNewswire/ -- nVoq, the leader in medically accurate speech recognition is honored to announce its partnership"
+publishedDateTime: 2021-11-17T17:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nvoq-is-excited-to-bring-innovative-medical-speech-recognition-technology-to-our-partnership-with-suki-1030985233"
+webUrl: "https://markets.businessinsider.com/news/stocks/nvoq-is-excited-to-bring-innovative-medical-speech-recognition-technology-to-our-partnership-with-suki-1030985233"
 type: article
-quality: 25
-heat: 25
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1027277/nVoq_2022_New_Logo.jpg"
+    width: 300
+    height: 300
     isCached: true
 
-secured: "OKUg5qIOAEr771mtdsRekKTvWWVs8pGe1PApcPr27zOPEHs0NAP4QXoGnwru+ui7FWRh1ZbCVdJTLGPpSQ1VF3VNDtXiEkAlfJ0zTu4Vk4bHj/ruvMbbSGRd8q6lSStFPCT5rXbfGGayKlXls3HMlKCHwHdK6pJVmtrcPHRHlQINsubIcV1U6AzfjLFaVPhhcI5X+pH6EhUeQd+fPUn5hEslR9YiHYDMZjFPCvhzP58IA7mwNDtynP3RnQ/DtvdbyeKOkwfeFP4habNwUf2FForJVH4pK9JUVv4h3dCnPHwqEt++vSmsDs7mNAUgIZGflzFuA6mTO+ERSCZRQDGLSve+RE4tWVE1N0u4lD12CVI=;4m2p0E5/LkgAC7V9+9JZ0g=="
+secured: "+moEi4ldLH+QqDfXaFvo8xRHmPS9hqJtwGrrpSCshjj2NHRs3ARCYvA8tt+/4DwAc/r0mnRIE4K+aSnsJkVdu90aq5COg9Kc1d1FeJr9mCXWy3LK9Mc1BAzFb3O7rRV6jFKHKlJC57Z7YuRecz7hHE+np2B8t0UfZ+dLxoeoMu/JnpoLyseF+EYHukXulKlHekwg2kzaOKMIdl5nL+fIvwiLVK21oi9jMEGhrIwPZl08ZwKYUiLOsnoRvymEcXD5HdhgUJzCzXpBZS4biQdrS/9FLKSdioHXs41Iiz/uH62XfJFFDaaLV9+Mj7vTyQWIWyqRVsoQwhk53+YDFtydYvOCkn3egcLiwhLXIPJbUGo=;xTZbgdMVEwJccrkRRjRbwQ=="
 ---
 

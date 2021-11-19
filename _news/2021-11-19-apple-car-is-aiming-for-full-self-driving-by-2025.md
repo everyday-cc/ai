@@ -151,6 +151,20 @@ related:
         width: 825
         height: 413
         isCached: true
+  - title: "Apple is diving headfirst into full self-driving with the Apple Car"
+    excerpt: "Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
+    publishedDateTime: 2021-11-19T16:57:00Z
+    webUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "hoo1W5y0AhUnA8K/X1bFcvrK2talYvVriwPp3FaUiLMQrpu9o57719GM0cFbu/1u1vrgRcAaAzYQio2cPUPV1rj2EFfG74tjhwhELj2IrAtiHBMTSv1oY7Gfq0jzQVFioKJm+Yh4RenssbzFaW8nClAxc4PhWxi8zDEbD2bAIMnMMmbCnxITYWUW6e1Cf4r+Zjpqg4dtxoy/yOHEs4SH09vdSU9iLcwMZ+Whznsuz3Syj8ilnpcHl75IJb16yIU7/6KNV4a0t29hs+9Nt9Mi37eQOFOhAgwWqMD2isKQEhyJR//U+rRJzkD3PUIWZYeXQFUZeae3QIfTF0x/dcWGhZp+yrcQFhUWGDSf3GqEBjGL3iHJdTEm5Jf2d99HmN4AweZKdzAmkYtfsV9PQB11KSR6aCuW5Uy4yWSgm61y5bLFrb2k4pLw2JbqDpRMJ2j92x+5fbJeu+KNs6v9vLSSrkUwBpAU3PvTa2jsScBtbOv6z2oTZJwv4tkv5it4bmnJjV+cuo+OuK7Y3rac2i/31A==;yR4xwPpoyOATAOT5ESD3Ig=="
 ---

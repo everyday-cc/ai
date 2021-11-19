@@ -82,6 +82,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Sanofi makes $270M bet that a startup’s AI tech can boost its cancer drug R&D"
+    excerpt: "The sum represents Sanofi’s equity investment in Owkin, plus a payment to begin a research partnership covering four types of cancer. Meanwhile, Owkin said the Sanofi investment boosts the startup into unicorn status and marks the start of its Series B funding round."
+    publishedDateTime: 2021-11-19T18:15:00Z
+    webUrl: "https://medcitynews.com/2021/11/sanofi-makes-270m-bet-that-a-startups-ai-tech-can-boost-its-cancer-drug-rd/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 34
+    images:
+      - url: "https://medcitynews.com/uploads/5715460701_81518af4d8_z.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Sanofi invests $180 million equity in Owkin’s artificial intelligence and federated learning to advance oncology pipeline"
     excerpt: "Combined efforts will work to build robust disease models while preserving privacy of large data sets from various research institutions and hospitals Collaboration to focus on four types of cancer PARIS – November 18,"
     publishedDateTime: 2021-11-18T06:32:00Z

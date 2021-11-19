@@ -57,6 +57,17 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "3 Fintech Stocks That Would Make Great Additions to Your Portfolio"
+    excerpt: "Fintech has been gaining steam lately due to innovations in the sector. Moreover, fintech usage has increased significantly over the past year. And because the industry has immense growth potential, we think fundamentally sound fintech stocks Sapiens International (SPNS),"
+    publishedDateTime: 2021-11-19T18:00:00Z
+    webUrl: "https://stocknews.com/news/spns-mitk-qiwi-3-fintech-stocks-that-would-make-great-additions-to-your/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
   - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
     excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
     publishedDateTime: 2021-11-16T23:48:00Z

@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR"

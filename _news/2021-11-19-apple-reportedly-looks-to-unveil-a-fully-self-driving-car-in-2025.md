@@ -133,6 +133,38 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Self-Driving Apple Car Could Finally Roll Off The Lot In 2025 Sans Steering Wheel Or Pedals"
+    excerpt: "Apple is aiming to produce self-driving cars by 2025 that could debut without a steering wheel or pedals. It seems the company has finally settled on creating an automobile that will not require any human intervention."
+    publishedDateTime: 2021-11-19T16:07:00Z
+    webUrl: "https://hothardware.com/news/self-driving-apple-car-could-roll-off-the-lot-in-2025"
+    ampWebUrl: "https://amp.hothardware.com/news/self-driving-apple-car-could-roll-off-the-lot-in-2025"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/self-driving-apple-car-could-roll-off-the-lot-in-2025"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 34
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56834/content/Apple_Car.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "Morgan Stanley analysts think Apple’s self-driving EV ‘must be a shared service and not an owned car’"
+    excerpt: "A report from Bloomberg yesterday indicated that Apple is accelerating its plans to release a self-driving EV by 2025. Following that report, analysts at Morgan Stanley are out with a new investor note detailing how an Apple Car could impact Apple’s industry,"
+    publishedDateTime: 2021-11-19T16:59:00Z
+    webUrl: "https://9to5mac.com/2021/11/19/apple-car-shared-not-owned-service/"
+    ampWebUrl: "https://9to5mac.com/2021/11/19/apple-car-shared-not-owned-service/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/19/apple-car-shared-not-owned-service/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 29
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Artboard-Copy-7-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How self-driving cars perform in fog"
     excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
     publishedDateTime: 2021-11-17T13:45:00Z

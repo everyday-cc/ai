@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html"
 type: article
 quality: 88
-heat: 99
+heat: 98
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decis
 webUrl: "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

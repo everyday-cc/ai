@@ -23,22 +23,6 @@ images:
     height: 815
     isCached: true
 
-related:
-  - title: "Unis are using AI to keep students sitting exams honest. But this creates its own problems"
-    excerpt: "Proctoring technology allows exam-takers to be monitored off-campus. The promise of the software is alluring, but it carries substantial risks."
-    publishedDateTime: 2021-11-15T01:21:00Z
-    webUrl: "https://www.studyinternational.com/news/proctoring-universities-using-ai/"
-    type: article
-    provider:
-      name: Study International
-      domain: studyinternational.com
-    quality: 29
-    images:
-      - url: "https://www.studyinternational.com/wp-content/uploads/2021/11/Online-learning-laptop-NIKOLAY-DOYCHINOV-AFP-1.jpg"
-        width: 1200
-        height: 798
-        isCached: true
-
 secured: "tiPiIe3TVWW6l5D4tC3qIIgc2JGiHmuSkAKaGc3BgYQJ3ZLfjlo0IgNOWMjqBCQ/It408+zOWmMAClXL7SHI26nIgCrhyBqPC3imFkZYvcDPvT7H6Op7tImdU3RPZQfTKgNjfFvBwcSOadIO09ZQKQW2PsNDxIqmldyq7wFXWiAAuajlDF1iSstEFB4KLX8KqhTZU+kWhX4s0oR1x+nXrjC/w7Fyq6To0acdl3IWogRQG/2hx9hCwGSBFZOGvKoy7eaeYQvD/bQC/xzA3+FGVo2ePDBuqSrMb0Xh/LB3STMAY+W5bCH4CGNRAmEwJPdasd/gZzL71N946PUVoDatMFKN+sOgI1HNiM5W7qxcGY8=;n2eN7f/zKsAtDzMVWW0s+w=="
 ---
 
