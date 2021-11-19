@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "These Edge AI companies are boosting the growth of Edge AI"
-    excerpt: "Edge AI is the new technology that has been booming these days. The global Edge AI software market is estimated to cross US$3 Billion by 2027. Here are the top Edge AI companies that are boosting their growth."
-    publishedDateTime: 2021-11-14T10:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-edge-ai-companies-to-know-and-watch-out-in-2021-for-sure/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Top-Edge-AI-Companies-to-Know-and-Watch-Out-in-2021-for-Sure.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Samsung Accelerated Company OMNIOUS.AI Officially Launched in the US Market with Nationwide Fashion Technology Mentorship Series"
     excerpt: "Accelerated, hyper-personalized-visual AI solutions developer for fashion retailers — officially announced their US launch today by initiating the National Fashion Technology Mentorship Series. The program is focused on educating entrepreneurs and retail communities on how to navigate the technologically evolving fashion industry."
     publishedDateTime: 2021-11-16T13:45:00Z

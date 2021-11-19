@@ -211,6 +211,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Apple Is Reportedly Developing a Fully Self-Driving Car"
+    excerpt: "Rumor has it that Apple is looking to unveil its first electric car in 2025. According to unknown sources via Bloomberg, the vehicle will feature “full self-driving [abilities] that [don’t] require human intervention."
+    publishedDateTime: 2021-11-19T02:11:00Z
+    webUrl: "https://hypebae.com/2021/11/apple-fully-self-driving-car-vehicle-electric-rumors-release-info"
+    type: article
+    provider:
+      name: HYPEBAE
+      domain: hypebae.com
+    quality: 24
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2021%2F11%2Fapple-fully-self-driving-autonomous-car-vehicle-rumors-release-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 825
+        height: 413
+        isCached: true
   - title: "Apple Reportedly Looks to Unveil a Fully Self-Driving Car in 2025"
     excerpt: "Apple is looking to refocus its long-awaited electric car project on self-driving capabilities, instead of its previously planned semi-autonomous features, according to sources via Bloomberg. Additionally,"
     publishedDateTime: 2021-11-18T20:33:00Z

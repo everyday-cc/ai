@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/966351"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/966351"
 type: article
 quality: 80
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-480778288.jpg?w=600"
         width: 600
         height: 399
-        isCached: true
-  - title: "These Edge AI companies are boosting the growth of Edge AI"
-    excerpt: "Edge AI is the new technology that has been booming these days. The global Edge AI software market is estimated to cross US$3 Billion by 2027. Here are the top Edge AI companies that are boosting their growth."
-    publishedDateTime: 2021-11-14T10:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-edge-ai-companies-to-know-and-watch-out-in-2021-for-sure/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Top-Edge-AI-Companies-to-Know-and-Watch-Out-in-2021-for-Sure.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Samsung Accelerated Company OMNIOUS.AI Officially Launched in the US Market with Nationwide Fashion Technology Mentorship Series"
     excerpt: "Accelerated, hyper-personalized-visual AI solutions developer for fashion retailers — officially announced their US launch today by initiating the National Fashion Technology Mentorship Series. The program is focused on educating entrepreneurs and retail communities on how to navigate the technologically evolving fashion industry."

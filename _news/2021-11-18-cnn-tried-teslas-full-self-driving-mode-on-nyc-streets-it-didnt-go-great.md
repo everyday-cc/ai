@@ -2,26 +2,32 @@
 category: news
 title: "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great"
 excerpt: "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works."
-publishedDateTime: 2021-11-18T10:49:00Z
-originalUrl: "https://www.djournal.com/news/national/cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great/video_b92f8c93-0162-5753-9e8b-fa6397a376ea.html"
-webUrl: "https://www.djournal.com/news/national/cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great/video_b92f8c93-0162-5753-9e8b-fa6397a376ea.html"
+publishedDateTime: 2021-11-18T11:49:00Z
+originalUrl: "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
+webUrl: "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 86
+heat: 146
+published: true
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/b/92/b92f8c93-0162-5753-9e8b-fa6397a376ea/6196913a65f16.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -100,20 +106,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 41
-  - title: "Tesla EV \"Severely Damaged\" After Full Self-Driving Beta Mode-Induced Crash"
-    excerpt: "The initial accident was reported by the National Highway Traffic Safety Administration and coincided with the ongoing investigation regarding Tesla ‘s Autopilot system. The Verge reported that, “The Vehicle was in FSD Beta mode and while taking a left turn the car went into the wrong lane and I was hit by another driver in the lane next to my lane."
-    publishedDateTime: 2021-11-15T03:49:00Z
-    webUrl: "https://hypebeast.com/2021/11/tesla-model-y-crash-full-self-driving-beta-mode-cause-california"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 37
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Ftesla-model-y-crash-full-self-driving-beta-mode-cause-california-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
   - title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
     excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
     publishedDateTime: 2021-11-16T20:00:00Z
@@ -129,6 +121,6 @@ related:
         height: 821
         isCached: true
 
-secured: "ssgh8o0QRpvHsQKfb7ZZqD1tAlRFkQintm1O/VySPR+2bjoAjxMzcBAqdy3tteqdfPGa+3SZOGF+/OVEKXCjf/CrmalWflbKyso28BRZVfoUA2u66w5MvhNKmbcL240Ww2nLayGHundRnUIFpdBUR27RYKL2iPgKUyuJkCShNlXrO2DeZ69899wevwZDImpDNESfL/I1Lagt1JtKkaFmRzJsRhSbp4YS7YqeE0GgjIr03oDjGXEH208r4rHeKVObSkSTfzpK8l7as51I6QuPqpbFxbvaMEcZNw3LnIoohvbkwmNgZ0j3eTwGM7/+LPQlrZC/k74cr/+8iarQ1ibEpYzttumZ+IbtOQmnnHK0g01/a9Rfhqvu7hsMOkOo27V8614+1TbFzIA4jxCsLK+5Sq+0V+VDw6ULJG7nxDpyI4vfHeU81d07WBWjZFRvnmKnkKNcelDikIJZOKLh6WE6lP60qmRSJhdgepE3AZcC1CI24FwuLoRrtEVDX8NeD1miuo5x7bXXaWvibqJPctjq/w==;jfkJKbuLvxTt0Z1dC0YeOQ=="
+secured: "u6gLM69qa0dMGil8avumrKTcUwTbYZNYRLoYWjVPVKIHFmGuDDQEAMEuYRtuC12Ck08NW1QGHpDOjOqYtjES54Gs19+Qn8UFg2Vfii9ZwlG/tnP6s2f3DNLyE1NYzQzTkX5E9Dx+zIk7/6sHzm0tRFs1ohGyWyZ40DXvecQx5FxQglbg3aFnbQy5rEFmo78X8+q5HaT21YJJDAf+pzodRATYQ0v1Ha41XYy/6Ggq2Z7a87jXmvAozKWtwM9POFSTIiTx3G7R/oR67onD8KjbD0CXwQuDM4wzBvLOgQSZQKFrPepsrBqk9cWmH1wXbC2uVld67hDNS7trI2Yd6wLXP9j4VC6o99I0vmsrSJeUB8k=;DB4efF48qT09nHu28h3juQ=="
 ---
 

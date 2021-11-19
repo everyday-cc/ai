@@ -2,22 +2,28 @@
 category: news
 title: "MediaTek Announces New Filogic 130 and Filogic 130A Single-chip Solutions to Bring Wi-Fi 6 and Bluetooth 5.2 Connectivity to IoT Devices"
 excerpt: "MediaTek today announced the new MediaTek Filogic 130 and Filogic 130A system-on-chips (SoCs) which both integrate a microprocessor (MCU), AI engine, Wi-Fi 6 and Bluetooth 5.2 subsystems, and a power management unit (PMU) into a single chip."
-publishedDateTime: 2021-11-18T22:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mediatek-announces-new-filogic-130-filogic-130a-single-/2021/11/18/9496547.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mediatek-announces-new-filogic-130-filogic-130a-single-/2021/11/18/9496547.htm"
+publishedDateTime: 2021-11-18T21:02:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-wi-fi-878da229a274d9575e159cd184467f2e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-wi-fi-878da229a274d9575e159cd184467f2e"
 type: article
-quality: 0
-heat: 0
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "yLiXLo8QNONxB33QLdazV8oorLVLK1SjGO6I581AhQYlJqbuL7Z5CeJvYtgQhCnK/w8HCDwm5q8/ExT610zcmyFPVBE0lFh4Nz3cYOijGd9YAUI6Meb9SOEB+0wtz2IwNOrSoDVrRuTRsyhCKqndfw6m4CTyoOPOlfFcpJKKGQBOVk1I/YMwKp3EYtbxHWz35H8KHBVFcfGMvpAzLd24iQ9E0vBop3MlLT2+ZXrfG2+DBsW3mlbQdiPkWChBrH6J4jssOGtAuXWGlf3WT04OrMZp4/RWnT5bB3kVNFYys630hz55Czn/iKqeqE9IciDOlsV3fmTo0sLGK2dkz3F4Ny0pRqsCiMYfiCazN9/FVGo=;nMPSHEpqfj+f3Mn5y+zuqg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "RQ2GLEI+9mwqSRFz86oC9BTQHcKiX6Hfim8Se7ouh+wSMauMrvVAA6SF3wKOcabvuQ91sbZYfBoAQsWNCTO74KGWV24SpduErmMXWcGXWQl6Y9eDUtFs4zLUECMeeoS2GRqAHOc+kF6LqjuDYk5EehY9sy+2v4UAKSt31VSw3eKP98TFT35n0fefz4CEABLEhg05D5EjGkxbc/IoOVAP6rYHvN4hGB7h7XgwZ1TZclmDzBpqr5kedCToXXWw4re4R3y4kw1rUbGXB6+jV3NfJKEOmuiygdiQqwQ0YAOg0aazNztVHYk2KMrqygFLSJdzJfM788HHi/qjLw3pQUPG3si5quA3Fk3tcrYBx/NUsNc=;SugvW7nYtXAOBJJaN3zxdw=="
 ---
 

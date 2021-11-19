@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -34,6 +34,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great.md",
+      "title": "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great",
+      "excerpt": "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "publishedDateTime": "2021-11-18T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -201,7 +253,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -549,7 +601,7 @@
       "originalUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -583,49 +635,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-tesla-full-self-driving-safety-complaint-investigated-by-nhtsa.md",
-      "title": "Tesla 'Full Self-Driving' safety complaint investigated by NHTSA",
-      "excerpt": "Driving” software, and the Tesla Model Y went into the wrong lane and was hit by another vehicle, according to a complaint filed by the driver with NHTSA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
-      "originalUrl": "https://www.autoblog.com/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/5472x3078+0+570/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/156832a0-6710-11eb-bfdf-08aa04837d19",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
-      "publishedDateTime": "2021-11-14T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {

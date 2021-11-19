@@ -27,77 +27,85 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
-    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO."
-    publishedDateTime: 2021-11-16T12:00:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
+  - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for"
+    publishedDateTime: 2021-11-18T14:20:00Z
+    webUrl: "https://www.lelezard.com/en/news-20113438.html"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 46
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/16/full/20211116165343.jpg"
-        width: 600
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "ZF to digitise production processes with help of Microsoft"
+    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
+    publishedDateTime: 2021-11-18T16:02:00Z
+    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
+        width: 940
+        height: 443
+        isCached: true
+  - title: "Togal.ai Integration Now Available on the Procore Marketplace"
+    excerpt: "Togal.ai is now available for use with the Procore’s construction management software platform. Togal.ai’s software, which automates the estimating process in construction, is now available for use with the Procore’s construction management platform."
+    publishedDateTime: 2021-11-18T15:14:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21903465/togalai-togalai-integration-now-available-on-the-procore-marketplace"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 37
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/11/16x9/Togal.AI_product_screen.61966c0953344.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
+    excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain managementCloud-based infrastructure and collaboration to improve speed and efficiency across business operationsDigit"
+    publishedDateTime: 2021-11-16T13:00:00Z
+    webUrl: "https://www.dailyrecordnews.com/news/state/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_b56e6143-eeba-587a-aecb-3cfeca03147d.html"
+    type: article
+    provider:
+      name: Ellensburg Daily Record
+      domain: dailyrecordnews.com
+    quality: 26
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/a/43/a4316266-1765-50c2-8705-7274ff032ce8/6193bdca44495.image.jpg?resize=800%2C566"
+        width: 800
+        height: 566
+        isCached: true
+  - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
+    excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain management Cloud-based infrastructure and collaboration to improve speed and efficiency across business operations Digital Manufacturing Platform rollout to all ZF factories ZF investing billions of euros in digitalization over the next years REDMOND,"
+    publishedDateTime: 2021-11-16T16:31:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-b9656082dffab4560a4b38874facc292"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
-  - title: "5 Critical Ways Python Developers Contribute To A FinTech Company"
-    excerpt: "AI, scientific computing, academic research, etc. This creates countless opportunities for Python developers. In an industry like fintech that demands utmost care and focuses on security, you must vet carefully and hire Python developers who are highly ..."
-    publishedDateTime: 2021-11-15T15:13:00Z
-    webUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/"
-    ampWebUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
+  - title: "Arista Joins Microsoft Intelligent Security Association for Integration with Microsoft Azure Sentinel to Help Improve Customer Security"
+    excerpt: "NewswireToday - /newswire/ - Santa Clara, CA, United States, 2021/11/16 - Integration of Arista AI-driven network detection and response with Microsoft Azure Sentinel optimizes security operations - Microsoft."
+    publishedDateTime: 2021-11-16T16:55:00Z
+    webUrl: "https://www.newswiretoday.com/news/176634/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/11/5-critical-ways-python-developers-contribute-to-a-fintech-company.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Whale Cloud, Ant Group Team Up with Toka Fintech to Enable Greater Financial Inclusion for Consumers in Mexico"
-    excerpt: "Whale Cloud, a tech firm offering software solutions and services for telecommunications and several other industries has formed a partnership with Toka Fintech, a Mexican financial group, in order to assist with creating its own virtual payment app with Alipay+ Digital Wallet Solution,"
-    publishedDateTime: 2021-11-16T02:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/182793-whale-cloud-ant-group-team-up-with-toka-fintech-to-enable-greater-financial-inclusion-for-consumers-in-mexico/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/182793-whale-cloud-ant-group-team-up-with-toka-fintech-to-enable-greater-financial-inclusion-for-consumers-in-mexico/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182793-whale-cloud-ant-group-team-up-with-toka-fintech-to-enable-greater-financial-inclusion-for-consumers-in-mexico/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 24
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Mexico-Money-Peso-500-.jpg"
-        width: 900
-        height: 664
-        isCached: true
-  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
-    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
-    publishedDateTime: 2021-11-16T23:48:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211116/3857665.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
-  - title: "Tinkoff Capital has launched new exchange-traded funds to invest in artificial intelligence, fintech and Asian markets"
-    excerpt: "The management company \"Tinkoff Capital\" has launched three new exchange-traded mutual investment funds (BPIF). This is stated in the bank's message. The Tinkoff AI-Robotics Fund will allow investing in leaders in the field of artificial intelligence and robotics technologies;"
-    publishedDateTime: 2021-11-15T14:04:00Z
-    webUrl: "https://www.akm.ru/eng/news/tinkoff-capital-has-launched-new-exchange-traded-funds-to-invest-in-artificial-intelligence-fintech-/"
-    type: article
-    provider:
-      name: akm.ru
-      domain: www.akm.ru
-    quality: 15
-    images:
-      - url: "https://www.akm.ru/upload/iblock/840/Tinkoff_Tinkoff_logotip.png"
-        width: 1036
-        height: 750
-        isCached: true
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 19
 
 secured: "pqPXVAZaI1ioc6vs55xkp5VHQLoVCORYGjPxMVosdfcc9Pms6z4xvc+s7cLBJqktMslo3zzazOZToGRk/EKwZGfrs5c624SYf06baadrH1VbzySlmYe03bQY7rSrd6iSNuQdLiGTZ0qA9gsu/VIQTAgheqZKYJ40MaKzDhVBIpeRWcjhQ4/kbzkbEir1cHR6MXPiImqFZvHKTDWU6T4vHKH8tp4chh12Ph/jgKdUsVTCX/awQYYkkzQaYqnT9sBYR8l+VzfSD74+5CjYEgF6rPC66JNJi0kxVW2Zp54LT7PrZeTgEIS7EdYwUKPdOzu4f9x7vcsLOFQJHPlgtsNUfKfIu1/ods5stvWAfq5Ap4pgdK69gosQ2PvQc7wV5614hjuMxzIGX1ysLQF7Fj8tTsNQq/nXz6ubqD6Uk5AP+G24/L1Rwm7I6+l2Oqg6fcNQQT85Z/fok1VmmEQa6C67NwJj144/9glQC+JqiaBYJNJrpR3QRK3yB4akrx10K/wHsIKOJTrr6bW9Bsj+JTo/Tw==;ZswD0AXbE4IKPrc8/fzXvQ=="
 ---

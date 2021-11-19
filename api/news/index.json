@@ -114,7 +114,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -271,7 +271,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -470,7 +470,7 @@
       "originalUrl": "https://news.microsoft.com/transform/novartis-empowers-scientists-ai-speed-discovery-development-breakthrough-medicines/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -709,6 +709,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great.md",
+      "title": "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great",
+      "excerpt": "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "publishedDateTime": "2021-11-18T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1085,7 +1137,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1177,50 +1229,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-from-facial-recognition-check-in-to-public-education-space-geisinger-expands.md",
-      "title": "From facial recognition check-in to public education space: Geisinger expands",
-      "excerpt": "Multiple pieces of heavy equipment thrummed in the background and Life Flight Helicopter roared overhead before it landed on the nearby hospital roof.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands",
-      "originalUrl": "https://www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s24526.pcdn.co/wp-content/uploads/2021/11/127911290_web1_geisinger-1.jpg.optimal.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands/amp",
-      "cdnAmpWebUrl": "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands/amp",
-      "publishedDateTime": "2021-11-17T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times Leader",
-        "domain": "timesleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

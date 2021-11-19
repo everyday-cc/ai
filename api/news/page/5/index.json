@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-16-how-machine-learning-is-skewing-the-odds-in-online-gambling.md",
+      "title": "How machine learning is skewing the odds in online gambling",
+      "excerpt": "Commentary: The house always wins in gambling, and the house is getting even tougher through machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "publishedDateTime": "2021-11-15T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-growing-virtual-tumours-and-drugs-designed-by-ai-could-be-future-of-cancer-therapy.md",
       "title": "'Growing virtual tumours and drugs designed by AI could be future of cancer therapy'",
       "excerpt": "Exciting work creating digital tumours, involving Bristol University, could be key to effectively targeting cancer cells, writes Dr",
@@ -821,49 +873,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-14-tesla-full-self-driving-safety-complaint-investigated-by-nhtsa.md",
-      "title": "Tesla 'Full Self-Driving' safety complaint investigated by NHTSA",
-      "excerpt": "Driving” software, and the Tesla Model Y went into the wrong lane and was hit by another vehicle, according to a complaint filed by the driver with NHTSA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
-      "originalUrl": "https://www.autoblog.com/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/5472x3078+0+570/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/156832a0-6710-11eb-bfdf-08aa04837d19",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/",
-      "publishedDateTime": "2021-11-14T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-14-unity-moves-robotics-training-to-the-metaverse.md",
       "title": "Unity Moves Robotics Training to the Metaverse",
       "excerpt": "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,",
@@ -872,7 +881,7 @@
       "originalUrl": "https://bestgamingpro.com/unity-moves-robotics-training-to-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {

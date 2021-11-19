@@ -1,30 +1,46 @@
 ---
 category: news
 title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
-excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-publishedDateTime: 2021-11-18T14:02:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure/article_eb3e8084-e313-5822-b3b4-4317b398e9f8.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure/article_eb3e8084-e313-5822-b3b4-4317b398e9f8.html"
+excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for"
+publishedDateTime: 2021-11-18T14:20:00Z
+originalUrl: "https://www.lelezard.com/en/news-20113438.html"
+webUrl: "https://www.lelezard.com/en/news-20113438.html"
 type: article
 quality: 46
 heat: 46
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
     width: 640
-    height: 336
+    height: 480
     isCached: true
 
 related:
+  - title: "AI enhanced Compliance Platform Sedric Secures $3.5M to Increase Consumer Protections for Fintech Firms"
+    excerpt: "Sedric, an AI-enhanced compliance platform for Fintech firms, announced that it has secured $3.5 million via a seed round in order to increase consumer protection and transform the Fintech compliance sector."
+    publishedDateTime: 2021-11-18T14:31:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 43
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/05/natalie-collins-unsplash-LifeGuard-Only-Beach-Safety-Protection.jpg"
+        width: 1144
+        height: 863
+        isCached: true
   - title: "ZF to digitise production processes with help of Microsoft"
     excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
     publishedDateTime: 2021-11-18T16:02:00Z
@@ -91,6 +107,6 @@ related:
       domain: newswiretoday.com
     quality: 19
 
-secured: "/3crgef3gOXhagUD7ykadzKkAUZ3O7rXcvRZMIYlv01Sz9YQaxK17GDaeXTaAPB1Juay+jlBOs2FOvSvFg80CruSxFysv9yZZFToC7tsnf+ewDvaWtI3k6PoL1+ChqoAfsnKrm0AhVNSyHHXw1KF8I7FDXZAE4W1qmw5KTSFY622Owry20DBlviZisXWMIiJ1X9UHhg+ZFrbJ98jmVHItN/KOBI7WJLM9FQGlTCtPuXMOfpi8PV8+D8AWSfgQXzFvgMckYN03BwH1KzMc+FxnEwq2f4i2/ySMFcWVGQnKhz3dnfDqwS5oYQlNjqWEoPn1nmBnlg1Md9nAXhzjbWFF1IrS/4y3hkcoh+/LJL7rQE=;9g0J//JhWDxmn57A9oQZnA=="
+secured: "07UfqFDaawgD8JMXcFkZbseWDkfU5kBJ2ZEzjEQ7Wwc7UNOHjzntq+pE3orUPEeRJupciZlwnZCoIpNPJc60a4IhQxNkcCRY5AbRRlD35N5U/+WbCMdUmUHf1ruH5cIOLu12bg0c30C59iecOAg+6T6v0dWHvGF6qWLhJLRZbH4kwZK1s+i8nhKAMnfSBsugUsfLzGsYaplaxZIexeYrQ0hw57za9tqlTTlUr5Jl3zz6t5cKUIz2dbP4+4oGtm6Z755CwiRy94HndnkgnlUvPscWFv5SRZOMY88HLtpD6MJ2ow9+vmHLN67ohy7gRemfUjUtrw5/fKsrSbes8HqtcjSIGrovbYVLRvwFPvApAoA=;JeutBa8nSB+yXt/4HnMfBw=="
 ---
 

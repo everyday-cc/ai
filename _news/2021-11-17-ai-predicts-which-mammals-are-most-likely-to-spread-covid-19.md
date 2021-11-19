@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2297811-ai-predicts-which-mamma
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2297811-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19/amp/"
 type: article
 quality: 157
-heat: 178
+heat: 177
 published: true
 
 provider:

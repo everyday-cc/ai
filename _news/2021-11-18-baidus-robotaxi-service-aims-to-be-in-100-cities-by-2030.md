@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "China’s Baidu to dispatch robotaxis in 100 cities by 2030"
+    excerpt: "GUANGZHOU: Chinese tech group Baidu looks to expand its driverless taxi service to 100 cities by the end of the decade, turning the fleet into the company’s second-biggest profit generator after online ad revenue."
+    publishedDateTime: 2021-11-19T02:32:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/11/19/chinas-baidu-to-dispatch-robotaxis-in-100-cities-by-2030/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
   - title: "China's Baidu is Now the World's Largest Robotaxi Operator After Completing 115,000 Fully-Autonomous Rides in Q3"
     excerpt: "Baidu's Apollo Go robotaxi service in China provided 115,000 rides in the third quarter, making it the largest robotaxi service provider in the world, said Baidu CEO, Robin Li, in an earnings call this week."
     publishedDateTime: 2021-11-18T17:00:00Z

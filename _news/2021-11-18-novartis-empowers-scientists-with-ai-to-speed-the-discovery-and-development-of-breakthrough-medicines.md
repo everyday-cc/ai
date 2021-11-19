@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/transform/novartis-empowers-scientists-
 webUrl: "https://news.microsoft.com/transform/novartis-empowers-scientists-ai-speed-discovery-development-breakthrough-medicines/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

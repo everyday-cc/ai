@@ -1,30 +1,27 @@
 ---
 category: news
 title: "2 Artificial Intelligence Stocks to Buy for the Rest of the Year"
-excerpt: "Amid fast-paced digitalization, organizations’ desire to develop smart operations and quick-problem-solving capacity is driving the growth of the artificial intelligence (AI) market. So, we think it could be wise"
-publishedDateTime: 2021-11-18T16:03:00Z
-originalUrl: "https://www.entrepreneur.com/article/397989"
-webUrl: "https://www.entrepreneur.com/article/397989"
+excerpt: "And investors’ interest in artificial intelligence stocks is evident in the Global X Robotics & Artificial Intelligence ETF’s (BOTZ) 38.1% gains over the past year. Given this backdrop, we think fundamentally sound AI stocks Gartner,"
+publishedDateTime: 2021-11-18T14:30:00Z
+originalUrl: "https://www.investing.com/news/stock-market-news/2-artificial-intelligence-stocks-to-buy-for-the-rest-of-the-year-2684236"
+webUrl: "https://www.investing.com/news/stock-market-news/2-artificial-intelligence-stocks-to-buy-for-the-rest-of-the-year-2684236"
 type: article
-quality: 67
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Investing.com
+  domain: investing.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-397989.jpeg"
-    width: 2560
-    height: 2560
+  - url: "https://i-invdn-com.investing.com/news/LYNXMPEA601E0_L.jpg"
+    width: 800
+    height: 537
     isCached: true
 
 related:
@@ -56,20 +53,20 @@ related:
       domain: nasdaq.com
     quality: 68
   - title: "2 Artificial Intelligence Stocks to Buy for the Rest of the Year"
-    excerpt: "And investors’ interest in artificial intelligence stocks is evident in the Global X Robotics & Artificial Intelligence ETF’s (BOTZ) 38.1% gains over the past year. Given this backdrop, we think fundamentally sound AI stocks Gartner,"
-    publishedDateTime: 2021-11-18T14:30:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/2-artificial-intelligence-stocks-to-buy-for-the-rest-of-the-year-2684236"
+    excerpt: "Amid fast-paced digitalization, organizations’ desire to develop smart operations and quick-problem-solving capacity is driving the growth of the artificial intelligence (AI) market. So, we think it could be wise"
+    publishedDateTime: 2021-11-18T16:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/397989"
     type: article
     provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 39
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEA601E0_L.jpg"
-        width: 800
-        height: 537
+      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-397989.jpeg"
+        width: 2560
+        height: 2560
         isCached: true
 
-secured: "I1bdPVfLvMmW7zVn9rfCESampM3jhD/VWcRcoWvilf1IvNkS7FvcYInt4fm0VPh7Cs0UNJGUdh4qGB5hitdQBjZaX3SVVFfmX0HEABnOdHYq5GmOe+xnLAmadrW1t7Kg5ES7SBNY2d8Fihm6o07lBEG4lRPKHPZhAhjwvH7KzjlekEpwjiSV46mxZZFezZRPERFzqeX/gc0pY0vIsAHY5L1u4XHkm7sE8w4AfLNk08Nsd+dY1qzq43QXVVuc/7Arc2PK1VSVb+KaXs9UfSuTjJNbA615klzuMH7RILnWXBg5N8h0xAPlfum218yrRCBW1qhehrjaAw7Swnl1GnRoNBUFZYflkljkMZfSn7biiaueqngyiRvvx9lC1dKxXdZ7+eUc7a8LX1FnqXngMk/9wjuiQhnD2m1J9ZqXkgoTzObknccAUCURCYqzBTTX567hHVkPFLXsmaMwm8hLBzj/2xV/FyhY+uv8nkVFjT4llwTQn2TfxOqLeugM9sEPhES6WNyqotmozp+pKy0kDU6VIQ==;YyTSreDtEBQQhy8+e0pjZg=="
+secured: "zALk3ippXKOTFclyMA+NkkMyKKjf4rt5pSO6Z2BKV3CVg8HBU9OooN4c4dJY9V4WqAWpGz9cVuYltVs50RYhxCg8EdcluqDqoMoUFq9L/YVqOQxkqbtOcAliDDhhkFUkUrWTA1Mxf7bxN/npM083Uanw0RR1Re4MpDLEbA6YxozxVttWgNKwM/v1z8uT7Kof20J/+Y2EJ/lR++3OtZ6ked+BsG1ZNlS1b//uEXu9ipldCjkmtDYvLUMh/9bjNlahnYI45Ck9OGYb0iqdDSizCTA/5B+rxogR2VAhMw+DFXyDqq4acqEHbKw1PQRJi6HkCBBFqEFd890HX7Kul01kSBNm5YMrPvAf39vegjhOivk=;HhheY3HOIxrQ2O4x+P47KA=="
 ---
 

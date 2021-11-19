@@ -1,37 +1,34 @@
 ---
 category: news
-title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
-excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
-publishedDateTime: 2021-11-16T23:48:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20211116/3857665.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20211116/3857665.html"
+title: "Fintech Lender Oportun to Buy Online Banking Platform Digit"
+excerpt: "Oportun Financial Corp., a fintech lender, agreed to buy online banking platform Digit to boost its artificial-intelligence and digital capabilities. Oportun will pay about $212.9 million in equity and cash,"
+publishedDateTime: 2021-11-16T21:15:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit"
+webUrl: "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 69
+heat: 99
+published: true
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Finance
   - AI
 
+images:
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iql_JVcP1zx8/v0/1200x800.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
 related:
-  - title: "Fintech Lender Oportun to Buy Online Banking Platform Digit"
-    excerpt: "Oportun Financial Corp., a fintech lender, agreed to buy online banking platform Digit to boost its artificial-intelligence and digital capabilities. Oportun will pay about $212.9 million in equity and cash,"
-    publishedDateTime: 2021-11-16T21:15:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iql_JVcP1zx8/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
     excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO."
     publishedDateTime: 2021-11-16T12:00:00Z
@@ -48,6 +45,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
+    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
+    publishedDateTime: 2021-11-16T23:48:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211116/3857665.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
   - title: "Global Industry Study Reveals Fintech Lenders are Evolving Fast and Moving Up Market"
     excerpt: "Holdings, Inc. , a leading provider of digital transformation solutions for banking, today released a global research study conducted by Economist Impact in collaboration with Salesforce. Entitled What is shaping the ecosystem of small"
     publishedDateTime: 2021-11-17T13:37:00Z
@@ -63,6 +69,6 @@ related:
         height: 480
         isCached: true
 
-secured: "lipBX835VHnlME0nVez4pwUE5BzkuFd0QaRlkAqCoHEarvfNi0HNEqj0WDqd6+TtfuRbVDSUdEA3YkoLT758p0hoG6sg1XX8Kjc6/qH8qO2qjOpZyvLrn6a3qAu+7rq1Ff5KjmoXCUdcuJGEO+C4lvXpD4Nd74L8HjXOv50QAIohnenQVORJTEsqr6SPrQRFabaTTpQKS1KvLNTlI/mFlBge8xzUkdhGZbbg9I9M68FMRAKoX0RGgcgNvLL9souh9hnS3OiEUjL2Gni9NjB+VXRecLCJcOTCbDrLOgBSz2yUbPL3fO29H+FGmlqm7uyKkmVcgdrCYDuE22QK117A68rzw1NHK2vQm6r69LMwJ68=;/HcJSVcvNMa9cU3MSAvKjg=="
+secured: "7N9J/jWraHqxfPfpdpmQoxwNxMe0rBqCSrn89jqi4f3Zuht8hkp+oPJ7K8iYs3uaF+UxyDMNA14uuiBP5Ap4iaQPDH9iM+wjaMROhht8WDDs3vthBT+BWFS/g766zlslvK0CAVW0g4mnbTnWxV326otDz04uz9DluATomZNinhBIoSYQhWnnJLSgefxPlF1zkUoFO1HKnVDWGAC/EwxRkgrAl3UeDKCxbr1jEPISB2vMa8wZpTAcVY8wucx30yOSZr59+JTU2n296TrXILdoOZRab3E2WXPLv7bOiqYOiF79+0n1WKuFSB0B/TI7mspppSP6omGov3HJStn1laTpkkazXrt+QrlidyP86dVxPPA=;PANdUJ5kFnZ8XhW3zweOzA=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Entry ramp on the road to self-driving cars"
-excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
-publishedDateTime: 2021-11-14T17:00:00Z
-originalUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
-webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
+title: "Apple Is Reportedly Developing a Fully Self-Driving Car"
+excerpt: "Rumor has it that Apple is looking to unveil its first electric car in 2025. According to unknown sources via Bloomberg, the vehicle will feature “full self-driving [abilities] that [don’t] require human intervention."
+publishedDateTime: 2021-11-19T02:11:00Z
+originalUrl: "https://hypebae.com/2021/11/apple-fully-self-driving-car-vehicle-electric-rumors-release-info"
+webUrl: "https://hypebae.com/2021/11/apple-fully-self-driving-car-vehicle-electric-rumors-release-info"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: HYPEBAE
+  domain: hypebae.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
-    width: 792
-    height: 528
+  - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2021%2F11%2Fapple-fully-self-driving-autonomous-car-vehicle-rumors-release-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
+    width: 825
+    height: 413
     isCached: true
 
 related:
@@ -183,6 +183,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Entry ramp on the road to self-driving cars"
+    excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
+    publishedDateTime: 2021-11-14T17:00:00Z
+    webUrl: "https://www.autonews.com/intersection/entry-ramp-road-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVBarra013-%28002%29.jpg"
+        width: 792
+        height: 528
+        isCached: true
   - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
     excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
     publishedDateTime: 2021-11-15T18:33:00Z
@@ -210,20 +224,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/435/17435/Waymo_Fog_11-21.png"
         width: 752
         height: 423
-        isCached: true
-  - title: "Apple Is Reportedly Developing a Fully Self-Driving Car"
-    excerpt: "Rumor has it that Apple is looking to unveil its first electric car in 2025. According to unknown sources via Bloomberg, the vehicle will feature “full self-driving [abilities] that [don’t] require human intervention."
-    publishedDateTime: 2021-11-19T02:11:00Z
-    webUrl: "https://hypebae.com/2021/11/apple-fully-self-driving-car-vehicle-electric-rumors-release-info"
-    type: article
-    provider:
-      name: HYPEBAE
-      domain: hypebae.com
-    quality: 24
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2021%2F11%2Fapple-fully-self-driving-autonomous-car-vehicle-rumors-release-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 825
-        height: 413
         isCached: true
   - title: "Apple Reportedly Looks to Unveil a Fully Self-Driving Car in 2025"
     excerpt: "Apple is looking to refocus its long-awaited electric car project on self-driving capabilities, instead of its previously planned semi-autonomous features, according to sources via Bloomberg. Additionally,"
@@ -272,6 +272,6 @@ related:
       domain: siliconangle.com
     quality: 4
 
-secured: "y1r9bDvwzTWbiIoZmW0xdH0TEf4X2hnoliQM0JTdkLoxJ1iOmffkSih/SDaniKehWNB5VFK4CqWfW5tvdh34f9rFtSmvTBearnSHyjsDZXZLCzLaSubYHQk/6cdm5V4ZWf3cz1QcBnO9CjcvOZxx9RpMmSOwKSd8piIMRNVm2tyczk/9JnASNLMXLLlqaII0SJxtbHST2kM39EgeutrYgI02mFpoh9jbYsJoSExpP8RyLfYHWUeCcUW2lMoH/AvC/Gcqlt9bK3bytXmSCxQrw5wgFMT4G5fSJXbdsiwTOET4+yRN92IojAeAYQRezQ8RLbFTrUdk9s++AZ/SB6vVrz00tbmK2+A3Tyy1wWRW21Fc6FXr0uBTd4YQZa/BAFydTeqm2sYRJjaWZUZlkYpZe+3K6Z3T4yVs/JpvjvqT5//qAcFyS533+y8OqjdNdbhoHLmT/90EbiWpX532QZ0YFc9vyrBWZn/IoUPVeFlZqL4+sIB8a75mz/aTDneS/KmLHs55t9gs0RGp6KC1qwSRJA==;605pue/gFH9iAGvIT4yx8A=="
+secured: "kHaqpY9T6pzVcqvCt2bnZAV2HW4wik+sUJJ9gSduRep8xDo+IALRbO/SfNV75IE+Jl2j+4xi9ztpQLlrZ9cj6Ytzc0qCD18IUB13EUUD6GwLm6P+PKi8PKVwLo7vQfxMLSBr1RPH3cADl4UHyHRT/L5lRPbW+wTExVqFJk9vtaJLeADnujmyiKNatBaI7v3FhVR5PloG8hHa2psSH2WuaR4gETSDCIB4xb32jT3NrldIdSgF2xe3o4mw5NxSnrNz0hb7b5cUbfkstezYDalrD678j1k21FCY1xbSh11d/z/6J1q/scZkRxNS6kyYk6rvcXoH1Z0mq66f/25e18oni5USyAijtGcPOls0ld7euFY=;V3sIdJ02j+LcWa1E4lt5wQ=="
 ---
 

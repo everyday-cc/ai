@@ -211,6 +211,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Apple Is Reportedly Developing a Fully Self-Driving Car"
+    excerpt: "Rumor has it that Apple is looking to unveil its first electric car in 2025. According to unknown sources via Bloomberg, the vehicle will feature “full self-driving [abilities] that [don’t] require human intervention."
+    publishedDateTime: 2021-11-19T02:11:00Z
+    webUrl: "https://hypebae.com/2021/11/apple-fully-self-driving-car-vehicle-electric-rumors-release-info"
+    type: article
+    provider:
+      name: HYPEBAE
+      domain: hypebae.com
+    quality: 24
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2021%2F11%2Fapple-fully-self-driving-autonomous-car-vehicle-rumors-release-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 825
+        height: 413
+        isCached: true
   - title: "Apple Reportedly Looks to Unveil a Fully Self-Driving Car in 2025"
     excerpt: "Apple is looking to refocus its long-awaited electric car project on self-driving capabilities, instead of its previously planned semi-autonomous features, according to sources via Bloomberg. Additionally,"
     publishedDateTime: 2021-11-18T20:33:00Z
@@ -258,6 +272,6 @@ related:
       domain: siliconangle.com
     quality: 4
 
-secured: "UuXPpiZr2bxFbQ8SnJIrifpjEOIrhTYWVfc0WqJ1AUbA8stTAPjoWeQBqdA20KCtofUN1+a17UlH3SSc1UHrSBvnaC0VYIyUHBwIGEihK+kazb+Y0U65HJOxOw/SPJzdu0xMbpGPt7M6Tf7Ynk1PF9yHvptkFeVYOuz8S07gCQQivMzEo90ZBa/qlduZ0BX1SbUB2DZGyfatfJOxG1S7Drqj97GU5DOoj6lT37OJLkJotBk/QQdYCWRV4fBMGAw15Rp4CZX4PYnX+ys9nhoTIEmeRFclR0vGphxa6PVadE5E4wfj0U4fpnAT53P2dM4WRo2iA7NcOxPNGz31f3yIn53YQqKmzuR6TAD5jXANzb4=;7mw3UwjY7EHy9TmwCytNuA=="
+secured: "JcpqXCJK/ilbhcbfJiEnoqOLaabJBMs1VQPmDyY2C+FfoTwMOyQ3HUZsWhaDmJds+aOFIPFYqgtfhfWm29fTyFPc3CqFUzWkb7B1oqlGLCycYCpPROrdGrCuhaTx7SQ21tUO4MwVSdBP+VbBfA3VofAHLmP8yWCXVv+6xDL/JIxUcXf8G/Yfs/vvJ6v1VYlANBjRBlANlqBPd7GJ7sIZ9IIdFNpjJi9wp5+WTMXutWLZ+BP267ddWzAoNjELGtKBkBaIZCgeXb3SoIOHaO4uk9VSYnvVkCUq3fIP7wooHdNjcE7Grc0+L4tgAdOaXevqstBxOfja70PsSaV3vM6s/SLCJIttOfYM5KXZHvbaqMPju7+FHZiooXW8S2pTP2mb83VRxu80NZC56EEK0jnN0HbeckR921wXJLXfxYiD8FIAZxX6+c5Gj2NDfokwzurlPsb94VwOEoyHk7X0PeM5DgpRHNDF0b3d6nCyDuYnKW6hichJWRvmfzgDAjv8eRha2FnOmEuWufRbKvqFZW9rnw==;EcKauie2NjMhoQ6W3kAf0g=="
 ---
 

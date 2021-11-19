@@ -51,6 +51,20 @@ related:
         width: 2560
         height: 2560
         isCached: true
+  - title: "2 Artificial Intelligence Stocks to Buy for the Rest of the Year"
+    excerpt: "And investors’ interest in artificial intelligence stocks is evident in the Global X Robotics & Artificial Intelligence ETF’s (BOTZ) 38.1% gains over the past year. Given this backdrop, we think fundamentally sound AI stocks Gartner,"
+    publishedDateTime: 2021-11-18T14:30:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/2-artificial-intelligence-stocks-to-buy-for-the-rest-of-the-year-2684236"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEA601E0_L.jpg"
+        width: 800
+        height: 537
+        isCached: true
 
 secured: "EK7y9PpKJRrC/GeTBNxNQWUleMEK8MnCUci0bA5e2EcLxikkbO2srxFpKzoocu3NaCfZ2aUiWFaMvQjF+49snUcP61hWld4vKjgo1e+dI7Hybk9CtkywwQU4loEPlLvjTkJQ62RY0HIiQit8IaZM1XYRlPCJiykNhrgCnLMCUzJZecIjSxg8BNQtlc4Y8mLYV2k9jBGQp8s5oMYfUJdHDgpYBzPkJ/ctbS7RWShqFoCMDEUpNPN+91ERB9zlg6lb5O/WgZJyBCywrLPzy3xxvcI3mtPhTeH9bgMmlOLYAIljv863XjS5EU/sebq7wxphoz0oJ9DLF2TG1UVQeMz6w+dlWEflXiPQMjHa7Y3xEq4=;qL1He2gTtbdktOAaQVtX8A=="
 ---

@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-16-ai-code-discovery-platform-catalyzex-raises-164m.md",
+      "title": "AI code discovery platform CatalyzeX raises $1.64M",
+      "excerpt": "CatalyzeX, a startup enabling AI code discovery for developers and data scientists, has raised $1.64 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/amp/",
+      "publishedDateTime": "2021-11-16T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-ge-pounces-on-surging-healthcare-demand-with-spinoff.md",
+      "title": "GE Pounces on Surging Healthcare Demand With Spinoff",
+      "excerpt": "In spinning off its healthcare business, GE is betting on the fast-growing diagnostic-imaging-equipment market, a sector facing disruption from artificial intelligence and growing competition from startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "originalUrl": "https://www.wsj.com/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-434791/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "publishedDateTime": "2021-11-16T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-huge-deals-are-pushing-more-ai-startups-into-ipo-territory.md",
       "title": "Huge deals are pushing more AI startups into IPO territory",
       "excerpt": "New data from CB Insights details a global AI funding market replete with activity, sharply divided by geography.",
@@ -343,49 +446,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder.md",
-      "title": "Fintech leader joins document-to-data startup IN-D.AI as Co-founder",
-      "excerpt": "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/16/full/20211116165343.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
-      "publishedDateTime": "2021-11-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -751,7 +811,7 @@
       "originalUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1156,58 +1216,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-how-machine-learning-is-skewing-the-odds-in-online-gambling.md",
-      "title": "How machine learning is skewing the odds in online gambling",
-      "excerpt": "Commentary: The house always wins in gambling, and the house is getting even tougher through machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "publishedDateTime": "2021-11-15T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

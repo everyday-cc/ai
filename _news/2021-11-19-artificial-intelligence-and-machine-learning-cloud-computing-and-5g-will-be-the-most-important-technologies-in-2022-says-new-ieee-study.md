@@ -29,20 +29,20 @@ images:
 
 related:
   - title: "Artificial Intelligence and Machine Learning, Cloud Computing and 5G Will be the Most Important Technologies in 2022, Says New IEEE Study"
-    excerpt: "IEEE, the world’s largest technical professional organization dedicated to advancing technology for humanity, today released the results of “The Impact of Technology in 2022 and Beyond: an IEEE Global Study,"
-    publishedDateTime: 2021-11-18T15:16:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-china-99cbebbb8df0c379de6b43cd6152a751"
+    excerpt: "IEEE, the world's largest technical professional organization dedicated to advancing technology for humanity, today released the results"
+    publishedDateTime: 2021-11-18T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study-301428086.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 23
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1017741/IEEE_Advanced_Technology_Logo_Logo.jpg?p=facebook"
+        width: 894
+        height: 469
         isCached: true
 
-secured: "1KXyMApQUG9Rm/qMqdRLgK/O4hcfIqUaawHhSQrxU/QIaLZUJepK4NChisD+5DIasdfCyBJF22iIQJc9sB+MMdhMNye0W4QLTBgjmrlRMIsgvBB8oQpQJOP9g/7vSunnrk++1LOqTbfE65cXJuhepfj9aRfBo0npzVxTGkfc+hMqqLP7Dg4tdTVGF/xUpAmFmXoCFNRm2aIkS9jViZW9kGV0T344n48K9/9ae/J7z8a+cUmwxNdcolNpqPHx382PdcEZ8hRj1+ppNX19WKBMaQ6gGNN5s+xYL90QWePorb6L6XaUCwXUBfHbRVxpCLaK5TwQiKqRV8ibgryuKb89Pmq4FlNahp8444Vn3v6dzto=;MAYSA1sZ9aEAhp/YKUZ6rw=="
+secured: "U871WB5oJSTflAMBloH7gPwMoKk6UMn1ABUKsJiiw29XSBAWjv0a0cFkyKD8umLHvTeOtqr2YLBCqOOyPnCsraew35/iXC6pO9Aayxp7kIU/je5w1J+HT2aB+YateG5fpmdkk8GwJAzhZGTJo9xxh1Y3C1y5o2tuptugfFqJQYWvKZJkwoI/0aVSkZ/F8ZKmVBXi7a0wxAi2XvE2jrQPH1yShi6WVXnxTqNQBTBnvOFC9czYkZj5T8XGsj702jmq9A3DwGi2AnseOBgXIaNuscS/uhin1MeVQGrDiiK7KKz/48urvyUvRx8B7TrXw1st6f8pJWMsnjYwoASgx3Oo3NnEClBWrVKZuAQ0VxsEDebD3rpJRhwq32ErOYFW4d6Gw69mnaHEuv1gNuVqWfKxGwHw8i9o6oBLHjJVFKVa5k57L/Vzpq9pE6rXzYdgMhRevp2KYg4i/e6NGtM0zhtUCQcey4XOnKoQuKOO7ab1eZ2kD0fPKeBLVB58vrSJ6WqLsGgDIcETCV/jrbvxhxKzMQ==;1jFqphY9XBcQRAH+GgdmDQ=="
 ---
 

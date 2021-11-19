@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 secured: "hzErIcy0Y4MVkIJ49eNGkWMlDujVBtf90E7+sHXzLRE1uO85zJH2hCyzHDOtKhERgqQoH2vuis3xSSxkQwqsL1j3l3zcdXniQ1eeQA12eBXjzEbX5zEjcECT73hfH04baXxH/WqLlZ8rf+wf6lw/IP9WIPHO+HLT7uX9lFsSAABI1QQwS59RJkfOtSBJ1uRryC0CeEUUWqpC6zaLoSGe83PLZoyXGa8Q6oGmpNTSvaMRWtrPA4EnKlRD6gEvnORK9i2EtyabiF3d0NTgh7FqATe1JpUw1vV2jV0FukFXSKTjJ1KCEAaqqK0svifEWqsef9llra/+zX+ImHhATK1JVF7DpinNNm31k+ssgGB89/Q=;ExkJ9b4+U5ZnhOuv2w5L2A=="
 ---
