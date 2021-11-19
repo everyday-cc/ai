@@ -117,6 +117,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Artificial Intelligence (AI) Market Size to Reach $84.80 Billion by 2030"
+    excerpt: "PORTLAND, OREGON, UNITED STATES, November 18, 2021 /EINPresswire.com / -- Allied Market Research published a new report, titled, \"Mobile Artificial Intelligence (AI) Market by Technology Node (20–28nm,"
+    publishedDateTime: 2021-11-19T05:44:00Z
+    webUrl: "https://menafn.com/1103203187/Mobile-Artificial-Intelligence-AI-Market-Size-to-Reach-8480-Billion-by-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/19/EP_d781eimage_story.jpeg"
+        width: 790
+        height: 466
+        isCached: true
   - title: "Artificial intelligence and Advanced Machine Learning Market Size, Share, Trend and Forecast Till 2028"
     excerpt: "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2"
     publishedDateTime: 2021-11-17T14:44:00Z
@@ -176,6 +190,6 @@ related:
         height: 250
         isCached: true
 
-secured: "QgHl//Q+nF27zRmAFAmWhbsTL8SaRzU446CpFot9tJl2VkXsxWrrlRXwlODih3zrSCVXSFtZHuVbn55Nr+3Ghxeu1/eeUQ1RTNRZgLBO5nltPjTRvNRwz8nAcN0If1l3xyFcy89os2UG/032qeuaUUEbZNIg9nG0Y1uc23V8xmxQI/Q8N//HS/UqlLiR4GkI2bw7guP2R2sy/7GE7CBOvAkj9TmSZbeOixqJ3oRhlQ12kfRYvLpHSJfmNuhrgg8fbg0qm/AjNuVUAr08X5MLy+QdpLHjTObHFqLiVv7lb4kYx5ruyq2ju/iE2724UqWg0Q6E8HWkjlTvthao1gMf5alxQOVZwjAuEBMylLQjlrI=;+HrMWhy7JYOosdamm6l0Wg=="
+secured: "zleOvp4PTgLVe/m93azI0I8KB3L1EvUtK+8uMDID7aUJSRXeoHutfiQerdC5tMbAbWPO8bfIaMw3oDVWDisa7DP7GdkFGT+GUEatmQG2PZMKLVkvvlXeXQNmuZH+mCRBKogx+0tdqJOVQNa8XTBxVTLJd9m1v1Ixyu0wI0pL0z5VQwcIIN/mL1u+nRFU75p9y1bk556XaSf6fwT8uMoJBydeWJibU3/Cnclv6REOZYqg9P+PmKP9nz6i+HQOX5cHueiB8tO66xdAYbltm2bdrrh301nKViXvH4C3yewY5gH8D+Fqv1cP2nJN1Usqz7IRDKR1Qzz+us4OrLkgmSpERdAXZrCvydJyhpC8ye9VTyLsI715K27nqQetbjZX78fMI3WLR4L8RQyBf1G7OQvY7q54x2DmCAzxJglwvIiid5GcqTRokRtSAH3toSiezRdfOGlav66IEDxTEQodLS2uOQ1dgZTwATrKZfWRgQsDFnIW4bdPOJ7jkA7XVLoo6+SUDnGkIwVu7cY4xyVyFVCLAA==;A6w8EP2a/9xNGX4+wlTy1g=="
 ---
 

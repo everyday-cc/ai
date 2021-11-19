@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Pioneer - The world’s first Metaverse Robot has been born in China"
-    excerpt: "New York, NY // KISS PR Brand Story PressWire // The first ever Metaverse Robot System debuted at the TusPark of China in September of 2021 was jointly developed by Chuangze Intelligent Robot Group of China and Bristol Robotics Laboratory (BRL) of UK,"
-    publishedDateTime: 2021-11-14T20:49:00Z
-    webUrl: "https://apnews.com/press-release/kisspr/technology-lifestyle-china-robotics-906d4143a20d3870787cbb9a5ccfaa02"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The Metaverse, AI Bill of Rights, Digital Twins & Simulations, Digital Identity and Decentralization and Retail Cybersecurity Threats"
     excerpt: "The Metaverse wave is spreading with tech companies including Facebook shifting towards 3D, virtual reality and augmented reality technologies. More tech companies such as Nvidia are following suit and preparing for a metaverse future."
     publishedDateTime: 2021-11-17T21:00:00Z

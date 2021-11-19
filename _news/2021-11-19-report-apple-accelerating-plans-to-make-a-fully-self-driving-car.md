@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple Car Is Aiming for Full Self-Driving by 2025"
+    excerpt: "Stay on top of the revolutions reshaping the auto world — from EVs to self-driving technology — by signing up for Hyperdrive’s newsletter here. Toyota's first U.S. battery plant is destined for North Carolina. Xpeng’s new SUV aims to go ..."
+    publishedDateTime: 2021-11-19T12:30:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-11-19/apple-car-is-aiming-for-full-self-driving-by-2025"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igsA_v1YxPYE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Apple renews interest in vehicle project, shifts focus to self-driving capabilities"
     excerpt: "Sources familiar with the matter tell Bloomberg (paywalled, via MacRumors) that Apple has renewed interest in the project and has shifted its focus to self-driving capabilities. Apple has been interested in getting into the automotive industry since at ..."
     publishedDateTime: 2021-11-18T19:46:00Z

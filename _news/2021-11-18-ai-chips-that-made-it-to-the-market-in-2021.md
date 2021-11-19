@@ -117,6 +117,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Artificial Intelligence (AI) Market Size to Reach $84.80 Billion by 2030"
+    excerpt: "PORTLAND, OREGON, UNITED STATES, November 18, 2021 /EINPresswire.com / -- Allied Market Research published a new report, titled, \"Mobile Artificial Intelligence (AI) Market by Technology Node (20–28nm,"
+    publishedDateTime: 2021-11-19T05:44:00Z
+    webUrl: "https://menafn.com/1103203187/Mobile-Artificial-Intelligence-AI-Market-Size-to-Reach-8480-Billion-by-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 50
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/19/EP_d781eimage_story.jpeg"
+        width: 790
+        height: 466
+        isCached: true
   - title: "Artificial intelligence and Advanced Machine Learning Market Size, Share, Trend and Forecast Till 2028"
     excerpt: "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2"
     publishedDateTime: 2021-11-17T14:44:00Z

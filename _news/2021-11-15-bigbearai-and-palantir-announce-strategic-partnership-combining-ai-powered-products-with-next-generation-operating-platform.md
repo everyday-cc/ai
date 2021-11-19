@@ -119,6 +119,22 @@ related:
         width: 2126
         height: 1417
         isCached: true
+  - title: "Businesses Across Industries Leveraging Disruptive Potential of Artificial Intelligence Market for Boosting Bottom-line"
+    excerpt: "Artificial intelligence (AI) is getting seemingly integrated with business processes, opening new horizon in human thinking capabilities. Business processes across the industries have witnessed the game-changing potential of AI tools,"
+    publishedDateTime: 2021-11-19T11:28:00Z
+    webUrl: "https://techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/"
+    ampWebUrl: "https://techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 33
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Tamper-evident-Packaging-Reassures-Product-Safety-in-Infant-Formula-Packaging-Market-1-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
 
 secured: "/rOHuUaGM6iF5OCu2tm7jWdtek6D1pUgq3W5HDyFnhTPcNrUa0IZXZxqd38sa8bpG8O8NqDWYUshIV+x/9S7A8go6uE/WU9/5Nl6AeLSqOOzAXjm7m8xcuLYELWcFGB7OSM+YzemkZPvrAb4UiMr6dDuScXJI+GWmbsu+HgjaV9ZKxYapOaOwz3dJF78WS9WyLKaOToVGllHpU9fyhzL91lQP7NKWBQpPWOp8UUVFhV/fHfJJ/AeUPKVHy6EMRFybUo+eDteVVQrD6bsR5et6MA6Gtv3Ol/abjUwl5Evf3RA1nWxpl5af1IPJpLXvcDq6YaP6Hjih4BjMgCo6tZQ7JThyJZ1s2FpnR4esYGvuzY=;znNwk9EzyuJuWI6nDJ+yjg=="
 ---
