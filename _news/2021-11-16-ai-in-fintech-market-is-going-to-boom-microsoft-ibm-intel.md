@@ -31,14 +31,19 @@ images:
 
 related:
   - title: "Artificial Intelligence (AI) Market Next Big Thing | Major Giants IBM, Microsoft, Hanson Robotics"
-    excerpt: "Market study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face. One major attraction about Artificial Intelligence (AI) Industry is its growth rate."
-    publishedDateTime: 2021-11-17T03:33:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271743051/artificial-intelligence-ai-market-next-big-thing--major-giants-ibm-microsoft-hanson-robotics"
+    excerpt: "Market study describes how the technology industry is evolving and how major and emerging players in the indus"
+    publishedDateTime: 2021-11-17T05:41:00Z
+    webUrl: "https://menafn.com/1103186498/Artificial-Intelligence-AI-Market-Next-Big-Thing-Major-Giants-IBM-Microsoft-Hanson-Robotics"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 68
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 88
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?77940"
+        width: 416
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence in Construction Market is Set to See Revolutionary Growth in Decade Covid-19 Analysis | IBM, Microsoft"
     excerpt: "Another exploration Titled Worldwide Artificial Intelligence in Construction 2019 Market Report gives the Professional and inside and out assessment of extent of momentum and future market and survey of Product Specification showcase pattern item type and creation investigation considering"
     publishedDateTime: 2021-11-16T18:38:00Z

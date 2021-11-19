@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-intervi
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp"
 type: article
 quality: 86
-heat: 86
+heat: 88
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Who has their fingers in the most Singaporean startup pies?"
+    excerpt: "The company’s AI cloud revenue grew 73% year on year, according to its chief financial officer Rong Luo. 3️⃣ Apu would like a word about the name GoKwik, an ecommerce enablement startup, has raised US$15 million in a series A round led by Sequoia ..."
+    publishedDateTime: 2021-11-19T04:37:00Z
+    webUrl: "https://www.techinasia.com/fingers-singaporean-startup-pies"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 32
 
 secured: "dFEnqo3asA2vnwMUyJ6Hw6MQqt3YFBBC30ZF1EZdjXg2i7B4PGT3bFDOXwqLcaDPBBR6/CwV99ImTiBpS4ORKg0pMNoi55mg8c2b+r5Makm2ZR0C4mdrJCANmCGxdgqN5GJwQuUX+8TXew1x7+0axMXTCKvaK0RYvmMEUEMQ9J3RwJQ+OnIrW4Z69Nj7n6EeBAWdbi+RU8MO4ZEAMzFMHo5SD4qEamgwaY1Vhh0sJKY9f/5t9CO2zUq4EREhhC0TN6bcBhSnsm4pKkW2RL2/cGWD2yifwkFXc6eh+e5EQxt41kjJ20WWZS70e3BMkPg6f565oruNfOijRWP1qhJNtQ4Ok5XcUyLlNJCwSbn1wHg=;lm/ZGhDFn9FycOOLpq4CVA=="
 ---

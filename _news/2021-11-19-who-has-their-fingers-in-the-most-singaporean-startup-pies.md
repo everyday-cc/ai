@@ -1,32 +1,25 @@
 ---
 category: news
-title: "If this self-driving library came to my town, maybe I’d read a damn book"
-excerpt: "Seongnam City in South Korea will trial self-driving library robots, aiming to make book rental services easy and accessible."
-publishedDateTime: 2021-11-17T09:23:00Z
-originalUrl: "https://thenextweb.com/news/if-this-self-driving-library-came-to-town-maybe-i-would-read-a-damn-book"
-webUrl: "https://thenextweb.com/news/if-this-self-driving-library-came-to-town-maybe-i-would-read-a-damn-book"
+title: "Who has their fingers in the most Singaporean startup pies?"
+excerpt: "The company’s AI cloud revenue grew 73% year on year, according to its chief financial officer Rong Luo. 3️⃣ Apu would like a word about the name GoKwik, an ecommerce enablement startup, has raised US$15 million in a series A round led by Sequoia ..."
+publishedDateTime: 2021-11-19T04:37:00Z
+originalUrl: "https://www.techinasia.com/fingers-singaporean-startup-pies"
+webUrl: "https://www.techinasia.com/fingers-singaporean-startup-pies"
 type: article
-quality: 53
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
+  name: Techinasia
+  domain: techinasia.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Autos
   - AI
-
-images:
-  - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-33-7.jpg&signature=ee32d524fbbdb9dd52232fd977e44f5c"
-    width: 1280
-    height: 640
-    isCached: true
 
 related:
   - title: "Singapore ranked world's 4th most ready country for self-driving transport"
@@ -70,16 +63,21 @@ related:
         width: 1920
         height: 1078
         isCached: true
-  - title: "Who has their fingers in the most Singaporean startup pies?"
-    excerpt: "The company’s AI cloud revenue grew 73% year on year, according to its chief financial officer Rong Luo. 3️⃣ Apu would like a word about the name GoKwik, an ecommerce enablement startup, has raised US$15 million in a series A round led by Sequoia ..."
-    publishedDateTime: 2021-11-19T04:37:00Z
-    webUrl: "https://www.techinasia.com/fingers-singaporean-startup-pies"
+  - title: "If this self-driving library came to my town, maybe I’d read a damn book"
+    excerpt: "Seongnam City in South Korea will trial self-driving library robots, aiming to make book rental services easy and accessible."
+    publishedDateTime: 2021-11-17T09:23:00Z
+    webUrl: "https://thenextweb.com/news/if-this-self-driving-library-came-to-town-maybe-i-would-read-a-damn-book"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 53
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-33-7.jpg&signature=ee32d524fbbdb9dd52232fd977e44f5c"
+        width: 1280
+        height: 640
+        isCached: true
 
-secured: "pmB0bzFf6sNaV0Sj6OiwxegREqvPu126NDPBuCwA2hJenidG8V300w7Gn+6mm/IX/RejgrekA8xVGUZP/mSd7p9xSsIfIrY1uW/6eMu1eIfSIjAsYArFku6ntjaPqEg4ZukTJel9iEhJXuEBxDdp1d1WM1DuXja16L6udYdUFfAJdCb04xYkLjrByq+6+Z/oh1+83dESjffibMqIBE9bcynAoTknAtswEGVG6z8FR9OXYP+8Yms+0O/5h4ysqKBCvtgauN9MmwOY6uwJwcxVK+OnX+HPBGcn/O1Qrk9C4RKoCtFglLe54DKGNzZgZfl/JtuCvpq/bwhN+EFJFFHe5G9zgmwKPtBywhwj7pTu5YL8LbpRLekH4tNmk1VQngt/w16P/WPDeudYXSg3lPIaM3QFUQXJeDtDYWbZfnaCJwECoIzuTlD01DMYOIPjywQ0fgxDfHRRDAUkE+nhg1ZE6BCmHrWy5f1k0Td6pXaaAHEFusHWsZjWsujwxjxApFke3BZdHdyyJyUqTY2UcP6V1w==;NDE1SB7fmBzxyldTV8st0Q=="
+secured: "sqWkN46/QQlY0C3QDMHCV9fGiHboKJShK2k5rNPXDa8s63cm5DOKDX/zv4NeE74+N8Io5QXdaC3nJ0o26B/saP43ItRfZYFO301AIg4d/RasV+/+zkJ7Qo0FnfTn1zRNOu0iqKHWgdLzhJ2GUcLEJZtCuxt8JyciR/cpHnbVM/nyH27wBEocxesSV41mEexnE/+bfjoj/Af4YVPrSv8V5D9UQdw5H7SxIAvladun2O3SKdmu0mDcRDwxa2iW+STxpYQ6ZMDa7VLGXy8cVjlRfzp8QD+Lksxl92CA/AHzog9MeiTUGY5T2dmDaUdU4k5tja+zJjF46VTYPe/hFRWmBDSbelql1d9EmfhLlIcvB0Y=;8vGeOf0nHYfhnaH6FlzxKw=="
 ---
 

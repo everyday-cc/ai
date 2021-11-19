@@ -69,6 +69,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Who has their fingers in the most Singaporean startup pies?"
+    excerpt: "The company’s AI cloud revenue grew 73% year on year, according to its chief financial officer Rong Luo. 3️⃣ Apu would like a word about the name GoKwik, an ecommerce enablement startup, has raised US$15 million in a series A round led by Sequoia ..."
+    publishedDateTime: 2021-11-19T04:37:00Z
+    webUrl: "https://www.techinasia.com/fingers-singaporean-startup-pies"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 32
 
 secured: "CW1PX78wVC5qpNjSIkf3FDcQmUMHLhTYTw64laxMRTz7BWr6RNnFHDfKwy3vIC+iKZCE5yR8p+xaY3tw16zcCe6orb4JMIGcpI9MQiZAQaHYbrlMTvDrCZLH1POGIApnnscTnwG+fdIHbmGFYApa4dMwyxgFgcH0BTuvMQ5DoTWJJEgTQjtUNs1KskKEBVpdl7CzG5nZJ0iwAjUgXvsU16t1UpDV6rOyoMAt4BZb0WvJUVSs0gWCG3HwXk++CwCs8CqWdeC1cuisWW4t7LysZn2+/3QcFRbPRVvhlrhWuL7/GzIuTlouoF39+Em7BJYjbi4HK+8gZGan7MKnvnxWkrvuwh+p9vDuLf8v8ndi+VUXIIkAP7D4YnvY5mVCERnGDw8Rn2g5pqfDQsqyH4rcsCsVgrVZwslOHeQhsePwlCxlsDGKKPJJKwonZFN+gYhAgu+Yk76GLkGVT1IAXG9mcgZwWVB/IyX737F/pR1AQEtVJeTrZNzTXavZo5J3KDFamgU5EBhDTng+l7sibpb2ZQ==;zxoIxax5507EBSAJm5nayA=="
 ---
