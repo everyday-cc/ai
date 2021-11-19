@@ -53,6 +53,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
+    publishedDateTime: 2021-11-19T10:30:00Z
+    webUrl: "https://www.businesswireindia.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace-76082.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 26
   - title: "Arista Joins Microsoft Intelligent Security Association for Integration with Microsoft Azure Sentinel to Help Improve Customer Security"
     excerpt: "NewswireToday - /newswire/ - Santa Clara, CA, United States, 2021/11/16 - Integration of Arista AI-driven network detection and response with Microsoft Azure Sentinel optimizes security operations - Microsoft."
     publishedDateTime: 2021-11-16T16:55:00Z

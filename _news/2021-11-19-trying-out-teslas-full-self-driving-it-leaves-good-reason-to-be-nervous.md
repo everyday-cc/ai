@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tesla’s Full Self-Driving Mode Has Registered Its First Crash With The NHTSA"
-    excerpt: "Advertisement There is a complaint registered with the National Highway Traffic Safety Administration (NHTSA) pertaining to Tesla’s Full Self-Driving (FSD) beta. The accident involved a Model Y vehicle in FSD condition that crashed in Brea,"
-    publishedDateTime: 2021-11-14T18:29:00Z
-    webUrl: "https://wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/"
-    ampWebUrl: "https://wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 56
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/tesla-autopilot.jpg"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
     excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
     publishedDateTime: 2021-11-15T22:24:00Z

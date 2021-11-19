@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 661
         isCached: true
+  - title: "Baidu Hopes to Dispatch Its Robotaxis in 100 cities by 2030"
+    excerpt: "Chinese tech group Baidu Inc. looks to expand its driverless taxi service to 100 cities by the end of the decade, turning the fleet into the company’s second-biggest profit generator after online ad revenue."
+    publishedDateTime: 2021-11-19T08:55:00Z
+    webUrl: "https://www.caixinglobal.com/2021-11-19/baidu-hopes-to-dispatch-its-robotaxis-in-100-cities-by-2030-101807336.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-11-19/163731201267141_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
   - title: "China's Baidu is Now the World's Largest Robotaxi Operator After Completing 115,000 Fully-Autonomous Rides in Q3"
     excerpt: "Baidu's Apollo Go robotaxi service in China provided 115,000 rides in the third quarter, making it the largest robotaxi service provider in the world, said Baidu CEO, Robin Li, in an earnings call this week."
     publishedDateTime: 2021-11-18T17:00:00Z

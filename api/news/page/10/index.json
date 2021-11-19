@@ -915,15 +915,24 @@
     {
       "path": "_news/2021-11-09-global-demand-for-technical-talent-transforms-mexico-into-advanced-technology-development-hub.md",
       "title": "Global Demand for Technical Talent Transforms Mexico into Advanced Technology Development Hub",
-      "excerpt": "As the largest community of technologists in Latin America, NDS Technical Talent includes 20,000 professionals trained in global standards for software development, AI, cloud, and digital transformation solutions.",
+      "excerpt": "NDS Cognitive Labs, a leading digital transformation solutions provider serving the U.S., Latin America and Europe, announced today that NDS Technical Talent is now available to enterprises worldwide.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/global-demand-for-technical-talent-transforms-mexico-into-advanced-technology-development-hub/",
-      "originalUrl": "https://www.financialbuzz.com/global-demand-for-technical-talent-transforms-mexico-into-advanced-technology-development-hub/",
+      "webUrl": "https://www.citizentribune.com/news/business/global-demand-for-technical-talent-transforms-mexico-into-advanced-technology-development-hub/article_c9709e40-01e4-52f4-b716-c0f6be15f593.html",
+      "originalUrl": "https://www.citizentribune.com/news/business/global-demand-for-technical-talent-transforms-mexico-into-advanced-technology-development-hub/article_c9709e40-01e4-52f4-b716-c0f6be15f593.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/2/6e/26e26558-38ef-11ec-94f9-ebf5308e1754/617c4caf79471.image.jpg?resize=1200%2C800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -931,8 +940,8 @@
       "publishedDateTime": "2021-11-09T05:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Citizen Tribune",
+        "domain": "citizentribune.com",
         "images": null,
         "publishers": null,
         "authors": null

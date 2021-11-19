@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Tesla’s Full Self-Driving Mode Has Registered Its First Crash With The NHTSA"
-    excerpt: "Advertisement There is a complaint registered with the National Highway Traffic Safety Administration (NHTSA) pertaining to Tesla’s Full Self-Driving (FSD) beta. The accident involved a Model Y vehicle in FSD condition that crashed in Brea,"
-    publishedDateTime: 2021-11-14T18:29:00Z
-    webUrl: "https://wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/"
-    ampWebUrl: "https://wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/teslas-full-self-driving-mode-has-registered-its-first-crash-with-the-nhtsa/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 56
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/09/tesla-autopilot.jpg"
-        width: 1024
-        height: 684
         isCached: true
   - title: "Trying out Tesla’s ‘full self-driving’ – it leaves good reason to be nervous"
     excerpt: "When a dozen small children crossed in front of our Tesla with \"full self-driving,\" I had good reason to be nervous. Here's what happened."

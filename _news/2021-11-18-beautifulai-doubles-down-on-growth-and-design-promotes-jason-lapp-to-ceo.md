@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Drives Innovation In Building Security Solutions"
+    excerpt: "The application of artificial intelligence (AI) in digital building solutions continues to grow. Vendors across the market are turning to AI and machine learning to launch advanced offerings that drive greater automation and improved outcomes."
+    publishedDateTime: 2021-11-18T15:36:00Z
+    webUrl: "https://www.publicnow.com/view/05E803A5AE820849AB4D0A6773AEE40ADB1F4D34"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 33
   - title: "Fieldin Accelerates Autonomous Farming Revolution with Acquisition of Midnight Robotics"
     excerpt: "Fieldin, the world's largest smart farm operations management company for high-value crops, announced today that it has acquired"
     publishedDateTime: 2021-11-17T13:00:00Z

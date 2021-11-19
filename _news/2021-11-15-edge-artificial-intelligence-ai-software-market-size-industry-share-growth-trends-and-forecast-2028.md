@@ -72,6 +72,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Big Boom in Manufactural Artificial Intelligence Market 2021 to 2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the Manufactural Artificial Intelligence Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario and"
+    publishedDateTime: 2021-11-19T09:25:00Z
+    webUrl: "https://www.openpr.com/news/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub19446944_g.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence (AI) Market 2021-2028"
     excerpt: "The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360.36 billion by 2028 while exhibiting a CAGR of 33.6% between 2021 to 2028. In its report titled, “Artificial Intelligence (AI) Market,"
     publishedDateTime: 2021-11-18T07:52:00Z

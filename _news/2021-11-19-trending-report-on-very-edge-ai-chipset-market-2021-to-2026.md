@@ -59,6 +59,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Big Boom in Manufactural Artificial Intelligence Market 2021 to 2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the Manufactural Artificial Intelligence Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario and"
+    publishedDateTime: 2021-11-19T09:25:00Z
+    webUrl: "https://www.openpr.com/news/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub19446944_g.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence (AI) Market 2021-2028"
     excerpt: "The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360.36 billion by 2028 while exhibiting a CAGR of 33.6% between 2021 to 2028. In its report titled, “Artificial Intelligence (AI) Market,"
     publishedDateTime: 2021-11-18T07:52:00Z
@@ -160,6 +176,6 @@ related:
         height: 250
         isCached: true
 
-secured: "iMdoPwBlOK5AfP3SGmulNnbsZ/qWqjKnMxGfbnlZDGNAqjJ/D22ccegRsYMpV6Xl5OjxY/d6kUn20WSkf5J9CU8FiEhqxBlGvwXmlyKR4bLQsI7N2WcNVoYPLJ6AkvIcLkO8z/eDwRq8UYBkZ2U0+923tjSsMUxjYwCaV0GtZww4mSng0TglFx3JEXPHZ98xHushoG7f2LofWyoTuolDHCuiveseeinyOSR1JAnf6ViYTQMOGOjtAMDEgbqlwMljdj9n0rEGglnMKowXvozaVWUmtdZV8JciaU01YyU4Y5A53E3dA5LbgfF7KAy4rnJSyHLI0zNLiaePYRzoJV6DHfX+r9v3zwY7Ukmp3TMH774=;LB3ONUg8odasST/tjuEMaw=="
+secured: "bFU/AFHYNzWRN0Vea07OZG8fPV7iyjgs7CLdt1dD2Ym5R4vQqv9g0Qzbbe6zHoMN37YGFhvhyMxOftQdVfwoS3JlvH0iz45gNN0bUsPKznsX9oNn2Wj6vDTkLDA57Xtgx+0gnFZaInkt9S4vP/UcGB4BY63OVu0eOP2cKnslZvXZWrJdXleZ+fqVrwsOcD2w1AgpOwcXRDa+GOfPELrSMbLYwBMzSr3yrUgTDyhTdHcbUbth6YRkiuHEz7wGLUu68XgeXC6DKazOPqV+SPSkP/DUCPFx/9Jioi7t/WX5DvJu+ekmgCo+TCp8hUsdqhUuhpkTwpgC4x9glvM1Kj9lgj/9L7rvNwfw0qeMX6IuLwl8KCwLiv9LJ3eBWkhoS7m8TNApHFWycuq9Ak6H+gcrw/Oz71fvb73927ziBtxAK31MBWdEWhSLxY+FwtBOeepMEd4GKOvo5WdyA5TA+cmj3kihF9eNPm0Nn6rTxc0zu/sNNrt5mVtqcRFjgjWs8Ly4F65eBNF1US7uSORPHDzY/g==;URxgkK/B1sRz1cu2mviTFg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announc
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/?amp=1"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek Announces New Filogic 130 and Filogic 130A Single-chip Solutions"
+    excerpt: "New solutions combine advanced Wi-Fi and Bluetooth features with the latest voice processing and power-management technologies"
+    publishedDateTime: 2021-11-19T09:02:00Z
+    webUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-announces-filogic-130-and-filogic-130a-single-chip-solutions"
+    ampWebUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-announces-filogic-130-and-filogic-130a-single-chip-solutions/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/press-releases/mediatek-announces-filogic-130-and-filogic-130a-single-chip-solutions/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 58
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/11/MediaTek-Filogic-chip-on-black-background-810x298_c.jpg"
+        width: 810
+        height: 298
+        isCached: true
   - title: "MediaTek Announces New Filogic 130 and Filogic 130A Single-chip Solutions to Bring Wi-Fi 6 and Bluetooth 5.2 Connectivity to IoT Devices"
     excerpt: "MediaTek today announced the new MediaTek Filogic 130 and Filogic 130A system-on-chips (SoCs) which both integrate a microprocessor (MCU), AI engine, Wi-Fi 6 and Bluetooth 5.2 subsystems, and a power management unit (PMU) into a single chip."
     publishedDateTime: 2021-11-18T21:02:00Z
@@ -46,6 +62,6 @@ related:
         height: 450
         isCached: true
 
-secured: "JKjS3urAFP3QFDC7YPGl90Pc/l27vZ+7h2kP5U7qhuBkW5ceSbliTi7tH3ELIA1YNSicXBct6hIMJZi2Wf090DnT6sJfN9PmfigXtCJKUyoLWCHt2rwjrn1AhokObEEAEmvWGsUKpcgQUCzQhDAnRxrLOt/dvLRQyq9Fdeo3vhugAa8EnRAutiecC6zpqZzSeh8mkXmmztzcRJUsGqC/EUS/jWCI4vhUFXAZo+lWvegYnO527YZdD1spnwtrxW5iffSrU79NpUtyr0F7154+rrjLlTZMTIVW+dKRKwGjpme15ZmtK1AdJkw9g3dV7QgcfbKwDRlD7EP+ZyVSQLYrExhEjCqEyGONg/9CO0lnfsc=;YFd9pYV9xP1UldGmXM7oow=="
+secured: "lLjcYOCIwvcRRJJRCr3FgH+xr2IDyiPOhKYe1o4wivh5H6bKvx7KvyCdLAEQGMQ4VNZyJwF6HK4iq/EUunMltkrnqPTlpO9VEZCC+Ilw3pw1mkuvUYz+D+jDQfD/Y5ZO9zqRU7W4Q49mBlOnG7Ku5CSj1r1sSensJI7J1oPq/ADrSEdUCLJajLi/VivNGhJ0IuusbNi5IO2jk34Ev3+uJe4SXeMJ8087jG7Tx+DwQFz58goI0INF5LYIuqQN/oHsHbHi9McoDJ+2Vlp+vBVG0pG5QkCP6EKf3Q9EE6DN6q/lEdmjnGRWi6jNYSLscdyQpOM4yYjYRq0EXoR/tRQVydIRZ7uB69iAlNxpDZBQC1x4tUZzYZpL3pLn0C2/9r5HBuSXCzZR52WGnbnOaYh1R8rfffOaIiKsmkKmXbC4YAHX3OgjSlAPiHUtp+H1eim1X6g/cU/dT96Ae8Cje7qO/UbKt+O5RC2pzpqEd8qmsF0kbbz0Xvj3kY4qkaG2cdj6u9+Sn2b4Xwf6NTyWNVvmog==;og8o4nvUVkxJNdDNwI0Ciw=="
 ---
 

@@ -61,6 +61,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence Drives Innovation In Building Security Solutions"
+    excerpt: "The application of artificial intelligence (AI) in digital building solutions continues to grow. Vendors across the market are turning to AI and machine learning to launch advanced offerings that drive greater automation and improved outcomes."
+    publishedDateTime: 2021-11-18T15:36:00Z
+    webUrl: "https://www.publicnow.com/view/05E803A5AE820849AB4D0A6773AEE40ADB1F4D34"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 33
 
 secured: "64SIJRb/0nUyxAeL9TfrOa/cpcoDVkpda+VSWyOOkodmWM1v59ygmXSkj9Q4LBmDW8B6gGt4dUA7ahSATV67tGK5jSn/Yo7bjMn9aSzn261d6TLEiHBnfbLtTStC/Q9rlcCR0/qcqQtseQ3kpgHO/T+SL9soBylRHfTAMtRPvYhPG26saoShhhjwbVRo9getbEe0BQV+g8nIL+kB8YYbjRrv7kGqyPJwyte3XjEOWFxRkHyCzhJtqeYKeHorSzOQvYq/B3TrxldWSl6/OOWfOjCZHN91Ou4qWTO7FI8jWQ1CdCyLK+CHg9oNXkRjdjLHQzSj2e1G4uGd6h1d6TYlJtZYzyNxfZNRU9kOqAgDPOM=;wGOaQ8MYz5goUPOz3oJ1zg=="
 ---

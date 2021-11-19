@@ -199,6 +199,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Apple self-driving electric car debut may happen as early as 2025: Here's what you should expect"
+    excerpt: "Apple is not only looking to launch an electric car with some autonomous features, it is planning to launch a car that can completely drive itself"
+    publishedDateTime: 2021-11-19T10:51:00Z
+    webUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/"
+    ampWebUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 31
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/apple-logo-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
     excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
     publishedDateTime: 2021-11-15T18:33:00Z
@@ -288,6 +304,6 @@ related:
       domain: siliconangle.com
     quality: 4
 
-secured: "gUzjBzXmJ5sN2ccUZlbmQ70xShA/cfMDjt8yMZiodXKOkDRsoq6TRrhpNZT0Phkv7XBx3uXEl8X0zB7mVR8a5AeTMdLgpO4xOSTxtx712udp9BXXh6LrzoAf91gJmzURIUIMW4ueFJtydwOQlNaCw7JIN5KoJorX982sLjmeRmGcR57jLiCSuRpH3DYTMKSZCwl8RF/wFTzCAQl6dX3QFMmstqL0/Cslvop1v7ne22uw9SQLTLl94a05//283xx9qEIXS4nMFlGFCzBKwjg3bOkDwqXJ5rtYnqx2YSO+00n58ibPfWd0XDS5lMsNEU8/qSgaQOWDwiwxOUFRiGUR8jHvpkbQvnK4IXIVqRJn/Vg=;vhw8tICcbjZXA2+B6zLpQA=="
+secured: "ieQFP8Hyx8dgKBSpBnupg6wqmcMCUG4r4l/RZkYzUB+odILxWHAVadZSpPwy/x2sqg8sFiJcdkJ5uf67JJg2ez1vqehznEJDJCYo7Um3nqScdxcMpIhwZBf9uVR054cM8YqAmIyAvfYsg7XH6V6SzkBBkYFmzgo/rUS3NLE1o+9EBWD+k39K0+ivTvOFl1pDvCKIuXy8Az1Oso0L3QsJTUak7TneP18PTmVZZIZwB2afYFJquNy6/bINRPKG4IIcjih7qxYhKpufiazXxwiy+p1CbUoMKqbCvf01QKRPGrSsxvOfdx84x/zOs8UqAh2G9E38muOUuf7RGvpglAl11c0WG3EyQ5WZce1bWdUU1RAu9xVI3Hyb5r1onoVjg7GN9rfuFz/PRfiEWC8X+j6v8n/6U47yuJVzgRJt7n5yqTKUu19tJIffglmZIJCfV4ZEPEudB1Qr7kbRAYIAlWf47D4hj4e9cg1uO3KdDpFkmJSiCfy1GWog1QaI1YCYuRvRVpUhIC4gLdZFLluRuiTefw==;aiSRGZmuQGWEn2ic1lOnxA=="
 ---
 

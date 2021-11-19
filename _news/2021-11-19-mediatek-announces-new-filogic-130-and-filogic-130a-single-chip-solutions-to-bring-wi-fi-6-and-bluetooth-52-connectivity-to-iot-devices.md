@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1171
         isCached: true
+  - title: "MediaTek Announces New Filogic 130 and Filogic 130A Single-chip Solutions"
+    excerpt: "New solutions combine advanced Wi-Fi and Bluetooth features with the latest voice processing and power-management technologies"
+    publishedDateTime: 2021-11-19T09:02:00Z
+    webUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-announces-filogic-130-and-filogic-130a-single-chip-solutions"
+    ampWebUrl: "https://www.electronicsforu.com/news/press-releases/mediatek-announces-filogic-130-and-filogic-130a-single-chip-solutions/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/press-releases/mediatek-announces-filogic-130-and-filogic-130a-single-chip-solutions/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 58
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/11/MediaTek-Filogic-chip-on-black-background-810x298_c.jpg"
+        width: 810
+        height: 298
+        isCached: true
 
 secured: "HZ0NkzjJfN8p6burP1wNbk/v/7JjJYtRfsidxyDQh3sQkD2dRA/DHp89kkA5OSHww0Tr6mCheCih5DN1MIHqUhwTFkPJuKCKKTLtP07112mGp76LL3PYs3G0HLDhN8wb9WcvqEDvOQPueJ5f/+gpzIZjnLx4ClY59vQx0Kn52ahFhmZ5rQjQFbXVJQuneG0WtFN4r3D9ByqMjEQCy/FYpLyCrjSbxSnOfwgikiobnmYhMp01zASAhvn5hC16wkpCECEd+kTEX/k8rsVgFVT/sN+Rd8Pi2DU4QylUu/m9qJV3hG8lBiEMyXSZeGce1tTlrfq+fbn5aiPdfsCdzfvbPZdwVM7DEKyFYPNaIbAaMxM=;POzb0gJP/65kVxO81+Exrw=="
 ---

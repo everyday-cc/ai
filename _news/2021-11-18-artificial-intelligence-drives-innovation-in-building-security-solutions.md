@@ -19,36 +19,57 @@ topics:
   - AI in Security
 
 related:
-  - title: "AI tech drives transformation of F1 racing"
-    excerpt: "The next generation of AI in racing will play a prominent role in car setup and design decisions that yield the best results on track."
-    publishedDateTime: 2021-11-14T18:20:00Z
-    webUrl: "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/"
-    ampWebUrl: "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/amp/"
+  - title: "Neptune Retail Solutions Doubles Down On In-Store Innovation, AI and First-Party Data With Acquisition Of RevTrax"
+    excerpt: "Neptune Retail Solutions (NRS), a leading omnichannel retail marketing company, announced today that it has acquired RevTrax®, the leading promotions marketing platform.  The RevTrax founding leadership team will join the NRS executive team long-term to help accelerate the integration of its Offer Management Platform (OMP),"
+    publishedDateTime: 2021-11-18T19:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/neptune-retail-solutions-doubles-down-on-in-store-innovation-ai-and-first-party-data-with-acquisition-of-revtrax-1030989430"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-139946022-e1636656086505.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://mma.prnewswire.com/media/1572356/neptune_Logo.jpg"
+        width: 400
+        height: 309
         isCached: true
-  - title: "How Self-Service AI Data Labeling Platforms Support Business Transformation"
-    excerpt: "A self-service data labeling platform should provide both data collection and curation. Here is how that can help transform your business."
-    publishedDateTime: 2021-11-17T19:13:00Z
-    webUrl: "https://www.itbusinessedge.com/applications/how-self-service-ai-data-labeling-platforms-support-business-transformation/"
+  - title: "Facial Recognition Readers Solution Market to Witness an Outstanding Growth during 2021-2027 with Leading Regions and Countries Data"
+    excerpt: "Global “Facial Recognition Readers Solution Market\" is expected to grow at a steady growth during the forecast"
+    publishedDateTime: 2021-11-15T03:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-readers-solution-market-to-witness-an-outstanding-growth-during-2021-2027-with-leading-regions-and-countries-data-2021-11-14"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Beautiful.ai Doubles Down on Growth and Design, Promotes Jason Lapp to CEO"
+    excerpt: "Beautiful.ai, the presentation platform that enables anyone to build beautiful presentations, announced today the promotion of its president and chief operating officer (COO), Jason Lapp, to chief executive officer."
+    publishedDateTime: 2021-11-18T15:43:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-b92b2c3834dff660b072598015732ebc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 35
     images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/11/How-Self-Service-AI-Data-Labeling-Platforms-Support-Business-Transformation.png"
-        width: 1280
-        height: 788
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Fieldin Accelerates Autonomous Farming Revolution with Acquisition of Midnight Robotics"
+    excerpt: "Fieldin, the world's largest smart farm operations management company for high-value crops, announced today that it has acquired"
+    publishedDateTime: 2021-11-17T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fieldin-accelerates-autonomous-farming-revolution-with-acquisition-of-midnight-robotics-301426754.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
 
 secured: "ZWKCsnodArbWlqRyBgJzdUvnAR5NNrJTI970XKL3OfoLPUjH+PXZs4IyZcsBFw9ERdwjPH4TFBCBV2Py46AuWQQPpMwsLx1myqkQPWTKO+3tC76HLZYrx3IeBX9QMnsux+2cKLy/bp4s9OTJ0wMc+AeiGI9u7Al/jTyDDfLVwxLjb6FaVfuTD4BreHuKry4m3SJovv/XbDfMNUtX0X97wQCbQLexs38F7dYnEjWucpsYnxuvig2+qM7TJx2KZMsHhzPvAwClvvU/SGhEdsub5nZIPK825VBNjY0Hca82163FzbRWGFXU/9u/1h8hGYXKKX4ax7C3ufK/sU6kEaMBDmpg5DHO7KsTqsBW8rV/Gt8=;81d7xsFgULVdsaum3Y/JGg=="
 ---

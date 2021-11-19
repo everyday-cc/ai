@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple self-driving electric car debut may happen as early as 2025: Here's what you should expect"
+    excerpt: "Apple is not only looking to launch an electric car with some autonomous features, it is planning to launch a car that can completely drive itself"
+    publishedDateTime: 2021-11-19T10:51:00Z
+    webUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/"
+    ampWebUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 31
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/apple-logo-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple reportedly aiming to debut its self-driving steering wheel-less EV as soon as 2025"
     excerpt: "Apple has reportedly completed \"much of the core work\" for its EV's chip. The project head's now aiming to launch the Apple Car by 2025."
     publishedDateTime: 2021-11-19T06:54:00Z

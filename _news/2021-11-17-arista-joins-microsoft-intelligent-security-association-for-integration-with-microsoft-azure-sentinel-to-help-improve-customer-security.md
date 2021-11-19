@@ -62,6 +62,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
+    publishedDateTime: 2021-11-19T10:30:00Z
+    webUrl: "https://www.businesswireindia.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace-76082.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 26
 
 secured: "HQ2Jz0DgfihxdFyuU1s5u4d5wLjZdKGborkVIfp39tEtS7fFPTsaaJcpSIj1DwyEhbqvyIOKAdVdfGAc3K4AXfWo7lqMlLT8R5VVYzWNReQmXPc9AEGZonVSdnYdkWS86FrHZB6xm02r6kuch70MLKEUDhLYPkU4k3f5XVA3ZqhQTwrhZbt2DhcN8ZUi5hpz/f7bLikYSwlDNA8RmVqyTCnsudtpn+TQGKJN9KLOIeD7p2Yu++wRIAQklcbODF1klZMxdjo71Kwo95WH5d5idnjxtQNjl+1EXsdL6JZUoK0bcdBfYDYSvnk91GuicSDgGR5DVm+pun8qoFfL9rNl8YnEr7/XlhdVNFSF91XXe3l4CuUhnTcAv/vTrunFPix/mBsE+mAmvt3RhLTZCEb3XjCpukGqvjT7xuoWHkCGmGgHXOUB7rll+iJGWWNbvUIkywieL5lckGAM6VYiSJ70wn/68Dy9AE1xLmARsjB3yNkBBDC8BbaGsxe0pu+DiiG8OruwgN3HsHvCAOOG6in4CQ==;IEozx34oFD+MSu8Are5VgA=="
 ---
