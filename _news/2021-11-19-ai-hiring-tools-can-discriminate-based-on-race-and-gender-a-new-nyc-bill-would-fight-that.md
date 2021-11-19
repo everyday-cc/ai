@@ -46,14 +46,14 @@ related:
         isCached: true
   - title: "NYC aims to be first to rein in AI hiring tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T18:39:00Z
-    webUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    ampWebUrl: "https://www.chron.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+    publishedDateTime: 2021-11-19T20:52:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: My San Antonio
+      domain: mysanantonio.com
     quality: 57
     images:
       - url: "https://s.hdnux.com/photos/01/22/71/74/21733140/3/ratio3x2_400.jpg"

@@ -53,6 +53,17 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Tech Expert Explains Why Facebook Is Not Completely Getting Rid Of Facial Recognition"
+    excerpt: "Facebook said they would shut down their facial recognition technology, deleting the faceprints of more than 1 billion people. However, tech expert Carla Franklin says they are still using it in some ways."
+    publishedDateTime: 2021-11-19T10:25:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 47
   - title: "Facebook still harvesting teen data to fuel ads, warns research"
     excerpt: "Despite announcing changes to its advertising rules for children in July this year, Facebook (now called Meta) is still tracking and harvesting children`s personal data to fuel their advertising delivery system,"
     publishedDateTime: 2021-11-16T17:53:00Z

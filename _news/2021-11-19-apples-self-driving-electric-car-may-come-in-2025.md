@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-ca
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Apple aims to launch self-driving electric car in 2025, says report"
+    excerpt: "The vehicle is rumoured to have no steering wheel or pedals, and the interior has a U-shaped seating plan"
+    publishedDateTime: 2021-11-18T20:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/4448db54e2ba2aed4090188ec80a459152b5e269/33_121_1983_1190/master/1983.jpg?width=620&quality=85&auto=format&fit=max&s=b7867d39ae37de046a18f46673bf80e2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Apple now believes it can ship self-driving EV as soon as 2025, Bloomberg reports"
+    excerpt: "Apple is currently determined to ship an electric car that can drive its passengers around within the next four years, according to reporting from Bloomberg. The latest report emphasizes both the features and pacing set by current leadership over the project at Apple."
+    publishedDateTime: 2021-11-18T18:16:00Z
+    webUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/"
+    ampWebUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Apple self-driving electric car debut may happen as early as 2025: Here's what you should expect"
     excerpt: "Apple is not only looking to launch an electric car with some autonomous features, it is planning to launch a car that can completely drive itself"
     publishedDateTime: 2021-11-19T10:51:00Z
@@ -71,6 +103,15 @@ related:
         width: 1500
         height: 808
         isCached: true
+  - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
+    excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."
+    publishedDateTime: 2021-11-18T21:45:00Z
+    webUrl: "https://www.imore.com/apple-has-achieved-key-milestone-self-driving-tech-apple-car"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 4
   - title: "Apple chooses a path in its work to build a self-driving electric vehicle"
     excerpt: "Apple is still in the race to build its own car — here's where its road seems to be leading. #SiliconValley #autotech #electriccar #selfdriving"
     publishedDateTime: 2021-11-19T14:30:00Z

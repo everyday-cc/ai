@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announc
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/?amp=1"
 type: article
 quality: 75
-heat: 95
+heat: 97
 published: true
 
 provider:

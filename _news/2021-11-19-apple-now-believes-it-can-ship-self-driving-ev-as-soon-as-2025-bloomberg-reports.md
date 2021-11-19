@@ -9,7 +9,7 @@ ampWebUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,100 @@ images:
     isCached: true
 
 related:
-  - title: "Bloomberg Media and Infosys Collaboration Powers New 'Bloomberg Digital Economy Index' Creating Unique Data and AI-driven Content for Business Leaders"
-    excerpt: "Collaboration delivers insight about the future of technology and the demand for digital skills to Bloomberg's platformsNEW YORK, Nov. 17, 2021"
-    publishedDateTime: 2021-11-17T12:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bloomberg-media-and-infosys-collaboration-powers-new-bloomberg-digital-economy-index-creating-unique-data-and-ai-driven-content-for-business-leaders-1030983954"
+  - title: "Apple aims to launch self-driving electric car in 2025, says report"
+    excerpt: "The vehicle is rumoured to have no steering wheel or pedals, and the interior has a U-shaped seating plan"
+    publishedDateTime: 2021-11-18T20:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 7
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/4448db54e2ba2aed4090188ec80a459152b5e269/33_121_1983_1190/master/1983.jpg?width=620&quality=85&auto=format&fit=max&s=b7867d39ae37de046a18f46673bf80e2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Apple’s self-driving electric car may come in 2025"
+    excerpt: "Apple's automotive efforts, known as Project Titan, have proceeded unevenly since 2014 when it first started to design a vehicle from scratch. Its ideal car would have no steering wheel and pedals, with interiors designed around hands-off driving."
+    publishedDateTime: 2021-11-19T06:28:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/articleshow/87795164.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87795164,imgsize-14990,width-800/87795164.jpg"
+        width: 800
+        height: 505
+        isCached: true
+  - title: "Apple self-driving electric car debut may happen as early as 2025: Here's what you should expect"
+    excerpt: "Apple is not only looking to launch an electric car with some autonomous features, it is planning to launch a car that can completely drive itself"
+    publishedDateTime: 2021-11-19T10:51:00Z
+    webUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/"
+    ampWebUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 31
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/apple-logo-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple reportedly aiming to debut its self-driving steering wheel-less EV as soon as 2025"
+    excerpt: "Apple has reportedly completed \"much of the core work\" for its EV's chip. The project head's now aiming to launch the Apple Car by 2025."
+    publishedDateTime: 2021-11-19T06:54:00Z
+    webUrl: "https://pocketnow.com/apple-reportedly-aiming-debut-its-self-driving-steering-wheel-less-ev-soon-2025"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 30
+    images:
+      - url: "https://media.pocketnow.com/styles/medium/public/2021/08/20210809_Samsung_11805351920px.jpg?itok=3KdE7DuX"
+        width: 600
+        height: 451
+        isCached: true
+  - title: "Apple’s Self-Driving Test Fleet Adds More Drivers, Apple Car Still Due in 2025"
+    excerpt: "As far as Apple is concerned, there’s no such thing as an Apple Car currently in development, and the company’s automotive strategy comes down to other solutions like CarPlay."
+    publishedDateTime: 2021-11-15T21:50:00Z
+    webUrl: "https://www.autoevolution.com/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 20
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246_1.jpg"
+        width: 1500
+        height: 808
+        isCached: true
+  - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
+    excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."
+    publishedDateTime: 2021-11-18T21:45:00Z
+    webUrl: "https://www.imore.com/apple-has-achieved-key-milestone-self-driving-tech-apple-car"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 4
+  - title: "Apple chooses a path in its work to build a self-driving electric vehicle"
+    excerpt: "Apple is still in the race to build its own car — here's where its road seems to be leading. #SiliconValley #autotech #electriccar #selfdriving"
+    publishedDateTime: 2021-11-19T14:30:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/19/apple-chooses-route-self-driving-electric-vehicle.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "ZqDku3b40ti2wTUYFMi0vhqQqJzR6XrFTdMHM6BUNV6A1PM6Hm6sw4eR9xU/PPfBsi1lSwMilxOYtROJBijxKhXOwhCMqPLviK6x1w4I4tMRyetTmJ+XZQtIaijbKoFFpLIMveb0z86U/GOu8F4/Ne6ca8HKB56AQtDrcmRwvyh7Bjooivs5f2m8OurP1DycxJ6GYnr68LhMf5YRN9hAcTD6LZNy0KGSGvC8NQOQCilEuEGGCp/Anlml3Whfclpr7dp1w41XXUSlDdkOT27rnzwkF0AdyDAiB9v8uujiv2iiHZ+zte5kkEs6yH9eCVbu3E8E1ZzyMEDqnMZW/XuRwIP+9DpaDerDbbEzD1fU7ffHcXathkKWdij0exOTPnMvS3VlGZnMsTRajxGBQsa94Xxu+w2dz2cmHql15neVbOpsWlFwIWXKxopgEdToKFfxQLLcPpkgI1UXcb/Pq2F3Nvio34jAN50uUgoMRCJmO593eXeRp21qTeg23CeXykidECTydTbo5QCSLDJxgBLtYA==;mLxNlXdnk9s8633peTgAXw=="
 ---

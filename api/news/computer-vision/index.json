@@ -272,6 +272,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-15-electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec.md",
+      "title": "ElectrifAi Announces Computer Vision and MLaaS for Oil, Gas and Energy at ADIPEC",
+      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-1030972298",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-1030972298",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-14T20:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats.md",
       "title": "This farm is developing a smart facial recognition system.. for its goats",
       "excerpt": "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,",
@@ -1346,49 +1389,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-why-big-tech-wants-some-facial-recognition-rules.md",
-      "title": "Why Big Tech Wants (Some) Facial Recognition Rules",
-      "excerpt": "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some have been making an exception for facial recognition software. That’s not to say that any consensus has developed on this rapidly developing branch of artificial intelligence: The European Union and cities and states across the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/11/03/8212fa46-3cdc-11ec-bd6f-da376f47304e_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/11/03/8212fa46-3cdc-11ec-bd6f-da376f47304e_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFHZHAB43QI6ZPLP3I3W6RZQJY.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

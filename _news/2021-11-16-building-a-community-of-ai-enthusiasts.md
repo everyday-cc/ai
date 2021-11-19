@@ -7,7 +7,7 @@ originalUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/ins
 webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/building-a-community-of-ai-enthusiasts.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,40 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "University of Geneva: Discovering exoplanets using artificial intelligence"
-    excerpt: "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in"
-    publishedDateTime: 2021-11-15T04:27:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 57
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/03/geneva-1024x427.jpg"
-        width: 1024
-        height: 427
-        isCached: true
-  - title: "Discovering “Impossible To Detect” Exoplanets Using Artificial Intelligence"
-    excerpt: "By implementing artificial intelligence techniques similar to those used in autonomous cars, a team from the UNIGE and the UniBE, in partnership with the company Disaitek, has discovered a new method for detecting exoplanets."
-    publishedDateTime: 2021-11-15T19:29:00Z
-    webUrl: "https://scitechdaily.com/discovering-impossible-to-detect-exoplanets-using-artificial-intelligence/"
-    ampWebUrl: "https://scitechdaily.com/discovering-impossible-to-detect-exoplanets-using-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/discovering-impossible-to-detect-exoplanets-using-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/Discovering-Exoplanets-Using-Artificial-Intelligence-777x585.jpg"
-        width: 777
-        height: 585
-        isCached: true
 
 secured: "x5hAQ8VqQLcPUCAGnndZ/Wh/Kjd1zI7TMinOQNihsgWc6B2rUiIGZOdS6SZC4xu9uOixgvfa5bGbuooFOcvC+G2ahs7IGLtcfH4iKDTZuaJMJXn2qBYOsDCFI8EiWyrS9fQkVu54tDw3AVDjOnGKKRwL43Va3gdQMMabTWNLNs+JKcmwhLwApVaYWEifGbRb9AYGaFIpuJRt9PCj8vBkWMX7+cZtILZqAT7LFNDzeAaUdCKN44KVB0NkWepcqrXzm1APJrpGpfVan7z+pxFoI7mU7NnDVKpWFRVf/cC6SmqMww0LxZfbCwHX2Ns3BN4f47fq/xS1gQ2o+TdidqWNsxnbYBq+Iqh0G607qfJXQy4=;sSSOytu2DrlovbCdpcYxpw=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 400
         height: 309
         isCached: true
-  - title: "Facial Recognition Readers Solution Market to Witness an Outstanding Growth during 2021-2027 with Leading Regions and Countries Data"
-    excerpt: "Global “Facial Recognition Readers Solution Market\" is expected to grow at a steady growth during the forecast"
-    publishedDateTime: 2021-11-15T03:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-readers-solution-market-to-witness-an-outstanding-growth-during-2021-2027-with-leading-regions-and-countries-data-2021-11-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Drives Innovation In Building Security Solutions"
     excerpt: "The application of artificial intelligence (AI) in digital building solutions continues to grow. Vendors across the market are turning to AI and machine learning to launch advanced offerings that drive greater automation and improved outcomes."
     publishedDateTime: 2021-11-18T15:36:00Z

@@ -2,19 +2,19 @@
 category: news
 title: "NYC aims to be first to rein in AI hiring tools"
 excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-publishedDateTime: 2021-11-19T18:39:00Z
-originalUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-webUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-ampWebUrl: "https://www.chron.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+publishedDateTime: 2021-11-19T20:52:00Z
+originalUrl: "https://www.mysanantonio.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+webUrl: "https://www.mysanantonio.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+ampWebUrl: "https://www.mysanantonio.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
   - AI
@@ -85,6 +85,6 @@ related:
         height: 720
         isCached: true
 
-secured: "zoxWB9p1Zf5yuJYsYrYF5QyruulVg1+cOqr/bfqaR5L+/MtssfTkJCVgoK0+TPo0HRSx31zRDNVuYYtbt3RQUPzNMjMlkG5DM3LA7d15dCpDipjkGaUEB4CgwPKRRLb9iFWohF8/fgbNu37MK3vlQqxY83p5szrv/culAjzwFtcgTz1mgbI4GUBq1GnDYoi045L2eqhLc+WPZkc7p/YIaHhhdLdl0Lo+BF5vqGX2lCs9zjOTNCy3u7ts4QbwpdVbjhMmOk95Gi7cWvIeJp+xauhVZL0FHEnnw2YNHSSbNPrkCzrX6pSNq4NyiSdmeOEd5hCb+bB8hUqO3ZBdN+BL7hSJ+ib1DDhg14TYrw6GyzI=;6Nsa3YCqa/2YQApJHcrsGA=="
+secured: "2ut6220YpH0SeY0fwa2BeQks0fEtaS7CWTAQpXvWxq171byHzv3T3MahAzXY0AW/MYtLhkOLb28jmZkkV1ya5Jt9kzo9u7DC3irOUqxCGZsk28xcMmeQrPNnJvSvI69lrd3c8IdnMzGgroKbXAMuefsnUhrZWYhWGAwVPUtH14VN1VciFSeOg3cJSlLa0EyUFP+p3OTBoB2l7W01BV92yJSWj0cR9cs1oo2bTnodmkPMWWnNdfXhlpB9zCo/ycD0XIf2A6hXb3JOdQsC1BIFkrQb3RYfSy4zg/WgHed0dCcaOEmIrryztOgS6G0pnRKovoFFzlF+sidvlt4+mG3f7/mA3CS89DIeoHv34FYhRIE=;AaPdAd4vqfAvx58Nj8owbg=="
 ---
 

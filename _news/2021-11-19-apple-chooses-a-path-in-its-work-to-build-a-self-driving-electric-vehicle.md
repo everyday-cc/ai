@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Apple aims to launch self-driving electric car in 2025, says report"
+    excerpt: "The vehicle is rumoured to have no steering wheel or pedals, and the interior has a U-shaped seating plan"
+    publishedDateTime: 2021-11-18T20:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/4448db54e2ba2aed4090188ec80a459152b5e269/33_121_1983_1190/master/1983.jpg?width=620&quality=85&auto=format&fit=max&s=b7867d39ae37de046a18f46673bf80e2"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Apple’s self-driving electric car may come in 2025"
     excerpt: "Apple's automotive efforts, known as Project Titan, have proceeded unevenly since 2014 when it first started to design a vehicle from scratch. Its ideal car would have no steering wheel and pedals, with interiors designed around hands-off driving."
     publishedDateTime: 2021-11-19T06:28:00Z
@@ -34,6 +50,22 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87795164,imgsize-14990,width-800/87795164.jpg"
         width: 800
         height: 505
+        isCached: true
+  - title: "Apple now believes it can ship self-driving EV as soon as 2025, Bloomberg reports"
+    excerpt: "Apple is currently determined to ship an electric car that can drive its passengers around within the next four years, according to reporting from Bloomberg. The latest report emphasizes both the features and pacing set by current leadership over the project at Apple."
+    publishedDateTime: 2021-11-18T18:16:00Z
+    webUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/"
+    ampWebUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Apple self-driving electric car debut may happen as early as 2025: Here's what you should expect"
     excerpt: "Apple is not only looking to launch an electric car with some autonomous features, it is planning to launch a car that can completely drive itself"
@@ -79,6 +111,15 @@ related:
         width: 1500
         height: 808
         isCached: true
+  - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
+    excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."
+    publishedDateTime: 2021-11-18T21:45:00Z
+    webUrl: "https://www.imore.com/apple-has-achieved-key-milestone-self-driving-tech-apple-car"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 4
 
 secured: "/cRipRBK/jgfVCXOAjwaDVwEvKJYzuVHWlJ8unmcMCExcFzb+IS0R3AE+7xNSspudCbSM1/FxOThZ66Xs60Vdu7fHqSjdHYopve3GxM9a8CZV5rQerq7v7w73MxUELCAwNUVEI3up8DWfib0j0B1fWgn+K2tXgqSAAgvENHXbt75QLAj7W6lMuXTtzbxP0MJb83+Y9Setz/V+Srz35Ej7zABc/63D/fGI3FcJv/U6NbxguXAR155KsMKrzOrhZevDKks+6kf/ZyS6RnOrcmj4R8TFTI+9B6DAd4XvtqA3kOgUXKW+HVLhr/DiSn0FdPj7N6fU8gXbLMattM2wj4pBquXGCQILYQXYjvW96evWsp87OiIe02BbKa4zaDK6R7s3xjskD1nr+nK/s0XpQ2hEIq8TQ7pNmZ4hB3O3+9maaeNb508ZaYS968y33KzNerA+/Mnc/q+sH2T3nSUDTJgrKQC+GPehLyuNbfRAv3kZ99OcpZF4f4Mpnmq6WwICNfPxz1bbLXlkDteBv4c2njbYw==;fP5GBSW9SDGErgLTzwULgA=="
 ---

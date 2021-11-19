@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/vulnerabilities-threats/artificial-int
 webUrl: "https://www.darkreading.com/vulnerabilities-threats/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "IEEE: Most Important 2022 Tech Is AI/Machine Learning, Cloud and 5G"
+    excerpt: "Because of the global pandemic, technology leaders surveyed said in 2021 they accelerated adoption of cloud computing (60 percent), AI and machine learning (51 percent), and 5G (46 percent), among others."
+    publishedDateTime: 2021-11-19T19:05:00Z
+    webUrl: "https://virtualizationreview.com/articles/2021/11/19/ieee-tech-study.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CityWithLIghtsSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence and Machine Learning, Cloud Computing and 5G Will be the Most Important Technologies in 2022, Says New IEEE Study"
     excerpt: "IEEE, the world's largest technical professional organization dedicated to advancing technology for humanity, today released the results"
     publishedDateTime: 2021-11-18T13:00:00Z

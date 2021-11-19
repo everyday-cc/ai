@@ -23,6 +23,22 @@ images:
     height: 1109
     isCached: true
 
+related:
+  - title: "Assessments for image quality in face biometrics improving, new standard TBD"
+    excerpt: "The European Association for Biometrics held the three-day workshop on face image quality to explore key topics and themes relating to facial recognition."
+    publishedDateTime: 2021-11-19T19:24:00Z
+    webUrl: "https://www.biometricupdate.com/202111/assessments-for-image-quality-in-face-biometrics-improving-new-standard-tbd"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
+
 secured: "eEYS3DVAQgBSXWpllWY2xHdv9UQX9lgEQYcoL9PcrO3jqNTEvbqH7y7Z81cDBZksaNWWnhnecwwdPHpNTXovimEzVcmhwTerE99YGmV6kFDH0PSQJRqvti3t11W6AgaiNO6PdnYzGgf/zmJNDDeurlBiV9uEnq2SYVMdWpLd+Tc6P1ybLqC6HUdvH1j8dezgsS3x4RMKmZCDBI90MtCSA1AolmXhfMA6FiEpfLm65vVBi1kAewq9ja2fR8MwwtNIqOluWEqETJ7p72OZAdrYE30xQVbsOkFk4KBGfnDgvB7om5UzxxaujBNCr/UdLKeQtEcQTUz4qeRxN0NQukwOM27Y4tXfWxLYYBzHbv6TuTc=;h7QSqQMjEbJiycrAq8J0YA=="
 ---
 
