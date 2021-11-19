@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Workday Announces Fiscal 2022 Third Quarter Financial Results"
+    excerpt: "(NASDAQ: WDAY), a leader in enterprise cloud applications for finance and human resources, today announced results for the fiscal 2022 third quarter ended October 31, 2021. Fiscal 2022 Third Quarter Results Total revenues were $1."
+    publishedDateTime: 2021-11-18T21:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-3c8c7cebcceb7ace79b18a004d57a2f1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
 
 secured: "QghaBokhPcfc5wbisnTJ66IvEG5RUeNOLCIxA9B2yUVyoBqXhQIkK2y8k/D27HOpROrZ99gl+OFk6287CpRMSrRazscmNcYa93LPssfXLJF9mNzunxtbhGEFLVqOEG1U135JX3GNh1J4HbE824KJ5nTszFTexqatBdACSOOfxzDRQi/mQemLYhKMS2sNWDsdFpIWgga32mrOXWHV1m2fivAqS4VqskV131dnohen/vcRbF2vFMLNZ0JHe4Z4uQrqZEcOPhI7nVgAzAKYSCwiWsk1bETwxwCmg1Odrb3uqb+yowFng1Pv04eVpYXRscukPim15fDE8lCL52d7zt5de4Mhl1tNSTqkREQC6u6zvXWk2zzN0GGnQF2z4NbhEJauS0jPDEp81pRG+szdL7Z36+qp0XVZ4uHebPNCILY85eLD5FS5oNYx4F3anTaiQDjq1dup1gmTJPsPla841opC3F+JvDAuywzXHZNGCb/CK3NyRdhE2SVixtNeoCfTJDUAX5fK/EGbUrHmndCMuxL+OA==;GSs+7khrbcqUv87oI6h6AQ=="
 ---

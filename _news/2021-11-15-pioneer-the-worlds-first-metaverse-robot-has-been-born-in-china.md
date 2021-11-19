@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unity moves robotics design and training to the metaverse"
-    excerpt: "Unity launched Unity Simulation Pro and Unity SystemGraph to improve robotics modeling, testing, and training complex systems through AI."
-    publishedDateTime: 2021-11-14T05:05:00Z
-    webUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/"
-    ampWebUrl: "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1634835504844.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Unity Moves Robotics Training to the Metaverse"
     excerpt: "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,"
     publishedDateTime: 2021-11-14T13:50:00Z

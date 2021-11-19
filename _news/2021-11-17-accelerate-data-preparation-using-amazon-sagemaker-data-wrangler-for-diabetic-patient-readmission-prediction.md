@@ -57,6 +57,15 @@ related:
         width: 739
         height: 1059
         isCached: true
+  - title: "Chain custom Amazon SageMaker Ground Truth jobs for image processing"
+    excerpt: "Amazon SageMaker Ground Truth supports many different types of labeling jobs, including several image-based labeling workflows like image-level labels, bounding box-specific labels, or pixel-level labeling. For situations not covered by these standard approaches, Ground Truth also supports custom image-based"
+    publishedDateTime: 2021-11-18T22:27:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/chain-custom-amazon-sagemaker-ground-truth-jobs-for-image-processing/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
 
 secured: "0jHBYTA3MjsCHdJE93/4I8OTB+OOAyuPhDBbfRW3lOVdF2yToEJRVQhWucuEikpAZ/8BUcRe10b0YTRl7tkj373j0Am1Cg1dBHBKjqrn7kXil8IaMh/qp8oht2ZBb9iCXY5IAcS5OlMPJqMsH+Rwb+jL+OB/MOxLl/3QPoB1sw0uLTmoCQmS16G6yro9vh+OAKjxpUUORHp4wnZ7knxbLzv1jDefB8OEj7A7xjFl3hAzRZIkGyM9BqOZ3VslawJ/GwV6q4rU2zPFKfW61iu2y1vtsE0mbAyMeq38hgIRfrMcuB4HhUY2gaQLOnC6hGJZf2ud9qoeXS0KqgyPuQeRlhBi8c14XLseJRFhEFSRQfI=;kGEduNWVPMsbuk/99dY6Dg=="
 ---

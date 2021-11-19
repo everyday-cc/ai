@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impa
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

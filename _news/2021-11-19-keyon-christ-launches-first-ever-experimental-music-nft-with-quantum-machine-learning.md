@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-18T21:42:00Z
 originalUrl: "https://hypebeast.com/2021/11/keyon-christ-quantum-genesis-nft-machine-learning"
 webUrl: "https://hypebeast.com/2021/11/keyon-christ-quantum-genesis-nft-machine-learning"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Hypebeast

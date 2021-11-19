@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-18T22:24:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-mediatek-announces-new-filogic-130-filogic-130a-single-/2021/11/18/9496547.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-mediatek-announces-new-filogic-130-filogic-130a-single-/2021/11/18/9496547.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

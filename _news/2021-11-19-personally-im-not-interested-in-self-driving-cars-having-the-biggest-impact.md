@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-18T21:18:00Z
 originalUrl: "https://www.esquire.com/news-politics/politics/a38294079/tesla-self-driving-car-test-brooklyn-cnn/"
 webUrl: "https://www.esquire.com/news-politics/politics/a38294079/tesla-self-driving-car-test-brooklyn-cnn/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Esquire

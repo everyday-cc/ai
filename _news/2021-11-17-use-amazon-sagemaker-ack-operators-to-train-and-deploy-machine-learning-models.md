@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/"
 type: article
 quality: 117
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 739
         height: 1059
         isCached: true
+  - title: "Chain custom Amazon SageMaker Ground Truth jobs for image processing"
+    excerpt: "Amazon SageMaker Ground Truth supports many different types of labeling jobs, including several image-based labeling workflows like image-level labels, bounding box-specific labels, or pixel-level labeling. For situations not covered by these standard approaches, Ground Truth also supports custom image-based"
+    publishedDateTime: 2021-11-18T22:27:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/chain-custom-amazon-sagemaker-ground-truth-jobs-for-image-processing/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
   - title: "Accelerate data preparation using Amazon SageMaker Data Wrangler for diabetic patient readmission prediction"
     excerpt: "Patient readmission to hospital after prior visits for the same disease results in an additional burden on healthcare providers, the health system, and patients. Machine learning (ML) models, if built and trained properly, can help understand reasons for readmission, and predict readmission accurately."
     publishedDateTime: 2021-11-17T22:45:10Z

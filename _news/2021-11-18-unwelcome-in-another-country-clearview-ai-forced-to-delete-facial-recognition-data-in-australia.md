@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-countr
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 1200
         height: 914
         isCached: true
+  - title: "The Artificial Intelligence conundrum facing Australian industry"
+    excerpt: "A leading researcher is calling for greater collaboration between industry and universities, to grow Australia's Artificial Intelligence workforce. Australia accounts for just two percent of the world's AI experts,"
+    publishedDateTime: 2021-11-18T22:41:00Z
+    webUrl: "https://www.9news.com.au/national/australias-artificial-intelligence-workforce/8fbaeb5a-364f-4703-9114-524d585b9d1a"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 17
   - title: "UK and Australian Commission to investigate Clearview’s facial recognition technology"
     excerpt: "The Australian Information Commissioner (OAIC) and the UK Information Commissioner’s Office (ICO) have recently conducted a joint probe in order to investigate Clearview’s facial recognition technology."
     publishedDateTime: 2021-11-16T10:44:00Z

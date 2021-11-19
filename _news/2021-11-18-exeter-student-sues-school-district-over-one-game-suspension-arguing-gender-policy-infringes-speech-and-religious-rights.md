@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-18T00:00:00Z
 originalUrl: "https://www.unionleader.com/news/courts/exeter-student-sues-school-district-over-one-game-suspension-arguing-gender-policy-infringes-speech-and/article_75290592-aaa5-573b-b2f6-002179483147.html"
 webUrl: "https://www.unionleader.com/news/courts/exeter-student-sues-school-district-over-one-game-suspension-arguing-gender-policy-infringes-speech-and/article_75290592-aaa5-573b-b2f6-002179483147.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: New Hampshire Union Leader

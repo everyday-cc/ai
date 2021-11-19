@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-
 ampWebUrl: "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/"
 type: article
-quality: 104
-heat: 124
+quality: 106
+heat: 126
 published: true
 
 provider:

@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-16T14:56:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-robotics-e6a5c2665d17dacaf855a9bbc0fe57b2"
 webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-robotics-e6a5c2665d17dacaf855a9bbc0fe57b2"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Associated Press

@@ -1,35 +1,26 @@
 ---
 category: news
 title: "Streaming: the best films about artificial intelligence and robots"
-excerpt: "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch"
-publishedDateTime: 2021-11-06T07:00:00Z
-originalUrl: "https://www.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots"
-webUrl: "https://www.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots"
-ampWebUrl: "https://amp.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots"
+excerpt: "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch “Old-fashioned” is generally not a term you want to hear applied to science fiction, a genre from which one tends to expect the futuristic and unfamiliar."
+publishedDateTime: 2021-11-06T11:03:00Z
+originalUrl: "https://www.imdb.com/news/ni63458033?mode=desktop"
+webUrl: "https://www.imdb.com/news/ni63458033?mode=desktop"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: IMDb
+  domain: imdb.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/dc40f71415a7198828e641d5ac73ff5b26e5800d/0_395_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=68ba1f19502656f67050feccdbb31b78"
-    width: 620
-    height: 372
+  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+    width: 1000
+    height: 1000
     isCached: true
 
-secured: "DyaehBTr68dsLJD8hSWImafir+giayF6fOpRyh7U/Ny4byX/E+P/GkbTx7m7wbVeyjlXnZvtx4wvFQHgRjNUanGwrAP81/zKABbAB2t0sXKRYOn29QFg5+VcPmKfDSdVA3HEydrY7cZhZ+bhKzkNJugGYt3+PgDM4qDv+m9zPeJ5xgBTIfj1auV3L16vQ6fbUrMwLI4qogcg57UcR0s0IK95r9DGSz//MuJTv+tVL1ix2dNqe9B/4JCSzq1dc7nKgKW2kYtb6XTORtuSzQvzUkF54vTox4dmwx/nwLuEXYdHFD9hzeyqFE8nn0jmvHbZPwy1LK2K5smgONhnUSg2DVn4wkxIDZuPWUDH28WYKt8Vf8OvFdJfPu75/kRj9hq6OVImUpjPCy01ZLSKa/PxlzqwkcLrFGqDbRATIrKmrWk1YXQujRGytXTPAPucnS5BtcAzz7Zp4JWJV1UDlIws2aZHA2RxP2N+1976IPDp9OSsNO4loJmlub4fSqoZwAdOkdNDaF9MjL4uIWGI3KwyNw==;KeVTdIhCd/pFl+fEOUpldw=="
+secured: "i+XAfsGK0HIsp2HlQHxXVPEzns63uOnX8OTWLaIi/n2JN8NKgwH5t94kCn9fIhx8BE/WA/pdosaweNMNPWUkGE5hBXDs5bUz0sdyLdxY15TVK4yX0H9WJDGbRuEDtx1Y1dwv/AkQvIIIyntL8McUJMGmEcTtWBOTQkD7Lszt9c04eWF7mZ3kY222zovFy2HagM9A0m4ePcjnLCqI2AqiMBMQdHxoxW60ewfQPszbXwZe/2bW6YvU/2ZzIsLwXaaSVgwQ6PGiaThPrpmuPD843af81cyOgZD3u/9VnrW8uye++3WL7p69uLDyA8/dh7rshM5muz57mJbuvAyAg2TM6oTIAfEU9sroWVWRUBAyrh8=;nsFfCW1zWw8swvCEvA1vxQ=="
 ---
 

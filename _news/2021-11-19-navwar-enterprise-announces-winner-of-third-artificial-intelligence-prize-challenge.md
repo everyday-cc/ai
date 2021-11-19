@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-18T22:27:00Z
 originalUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2847894/navwar-enterprise-announces-winner-of-third-artificial-intelligence-prize-chall/"
 webUrl: "https://www.navy.mil/Press-Office/News-Stories/Article/2847894/navwar-enterprise-announces-winner-of-third-artificial-intelligence-prize-chall/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: United States Navy

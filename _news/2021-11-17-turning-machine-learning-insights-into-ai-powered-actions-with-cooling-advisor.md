@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/turning-machine-learning-insights-a
 webUrl: "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong"
 type: article
 quality: 50
-heat: 74
+heat: 70
 published: true
 
 provider:

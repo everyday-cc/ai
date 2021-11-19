@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interv
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

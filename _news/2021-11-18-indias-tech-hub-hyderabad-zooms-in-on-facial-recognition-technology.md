@@ -41,6 +41,15 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Privacy concerns prompt MT leg study of facial recognition technology"
+    excerpt: "Most Montanans probably do not know that when they go to get their driver’s license picture taken, it is entering a system that feeds into a larger database used by national law enforcement agencies."
+    publishedDateTime: 2021-11-18T21:40:00Z
+    webUrl: "https://missoulacurrent.com/government/2021/11/privacy-concerns-facial/"
+    type: article
+    provider:
+      name: Missoula Current
+      domain: missoulacurrent.com
+    quality: 19
 
 secured: "ZWIM0g7+UfoOw4fgcxk2S11+z1WsJK8mAbgGVDmwsPlA6mYupkeTUYOPfsAfZIlaxnCF4hxrQ3+fHDd3VRQqy8O10A4jBlF0KzO3BZ+TamfNaU/5WyhWp+Kd5JTti+pCLz4sGU0KxSELFuaQUb4CgRVgzNqrsslieihbl/mM7fSxNFGE8PHPuQsDD3Q570WD3q7b+qZC7r0IcfUy6GEWLU9/AQ/ILJa2TTFPYBsoiymKhBN4XkZacroSPD3meq1ou6F7e9JUzR7CHueFvPPuq5u0z/HAGcMuND1H0liZbzLvsf8aNSiDl21SL0IWiU39GwT3onTiMRQ07gESiCaE3j1QJc0fM16dxl48PsjYy32ldO833C8duNqvpnli0cPKz6LThTt/oYpE3X021vAeGO6VFxLocdPfX/7YBh7krxAuYeimh8ZSVWI7hJlQg/NFy275bYn8n/GJfU695gCF5iMhX0cwPGRiW9EFMR4DUl1gM7FOVxQ/xGn7oYqut7J9VIXuYBYRjvLdPLAovEq5+A==;ZSExaAjaFhgoXfeZgQXOLw=="
 ---

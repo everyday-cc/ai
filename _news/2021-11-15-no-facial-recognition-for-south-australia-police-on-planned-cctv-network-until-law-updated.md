@@ -87,6 +87,15 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "The Artificial Intelligence conundrum facing Australian industry"
+    excerpt: "A leading researcher is calling for greater collaboration between industry and universities, to grow Australia's Artificial Intelligence workforce. Australia accounts for just two percent of the world's AI experts,"
+    publishedDateTime: 2021-11-18T22:41:00Z
+    webUrl: "https://www.9news.com.au/national/australias-artificial-intelligence-workforce/8fbaeb5a-364f-4703-9114-524d585b9d1a"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 17
   - title: "UK and Australian Commission to investigate Clearview’s facial recognition technology"
     excerpt: "The Australian Information Commissioner (OAIC) and the UK Information Commissioner’s Office (ICO) have recently conducted a joint probe in order to investigate Clearview’s facial recognition technology."
     publishedDateTime: 2021-11-16T10:44:00Z

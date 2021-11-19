@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for"
-    publishedDateTime: 2021-11-18T14:20:00Z
-    webUrl: "https://www.lelezard.com/en/news-20113438.html"
+    excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-11-18T14:02:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure/article_eb3e8084-e313-5822-b3b4-4317b398e9f8.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 46
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
         width: 640
-        height: 480
+        height: 336
         isCached: true
   - title: "ZF to digitise production processes with help of Microsoft"
     excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."

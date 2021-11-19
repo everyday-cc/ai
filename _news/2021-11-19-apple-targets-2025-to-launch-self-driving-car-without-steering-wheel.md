@@ -123,6 +123,22 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "Apple Speeds up Self-Driving Car Project"
+    excerpt: "Apple wants to ramp up the development of its electric car with a new focus on making a fully self-driving vehicle."
+    publishedDateTime: 2021-11-18T23:06:00Z
+    webUrl: "https://www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/"
+    ampWebUrl: "https://www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/apple-self-driving-car-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Apple now believes it can ship self-driving EV as soon as 2025, Bloomberg reports"
     excerpt: "Apple is currently determined to ship an electric car that can drive its passengers around within the next four years, according to reporting from Bloomberg. The latest report emphasizes both the features and pacing set by current leadership over the project at Apple."
     publishedDateTime: 2021-11-18T18:16:00Z
@@ -138,6 +154,20 @@ related:
       - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Apple Plans Debut Of Self Driving Car For 2025"
+    excerpt: "A Bloomberg News report cites sources familiar with the matter saying that Apple plans the launch a self-driving car by 2025."
+    publishedDateTime: 2021-11-18T22:21:00Z
+    webUrl: "https://www.ibtimes.com/apple-plans-debut-self-driving-car-2025-3340876"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/11/10/epic-filed-the-lawsuit-to-break-apples-grip.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "Entry ramp on the road to self-driving cars"
     excerpt: "Depending on one's tolerance for adventure, a ride in a truly self-driving car can be a thrilling glimpse of an inevitable future … or a nail-biting gamble where one is forced to accept on faith the idea that machines can outfox reckless,"
@@ -209,6 +239,24 @@ related:
         width: 1500
         height: 808
         isCached: true
+  - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
+    excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."
+    publishedDateTime: 2021-11-18T21:45:00Z
+    webUrl: "https://www.imore.com/apple-has-achieved-key-milestone-self-driving-tech-apple-car"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 4
+  - title: "Report: Apple could launch self-driving electric car in 2025"
+    excerpt: "Apple Inc. could bring its long-rumored electric car to market as soon as 2025 and with a “full self-driving system” onboard, Bloomberg reported today. The 2025 target launch date is said to represent an acceleration of Apple’s development roadmap."
+    publishedDateTime: 2021-11-18T21:53:00Z
+    webUrl: "https://siliconangle.com/2021/11/18/report-apple-launch-self-driving-electric-car-2025/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 4
 
 secured: "g1t4dENmCUlx5fvt+MDOF8+SLn6+kNyhcQOq6nh5Ulacuop6dGZZE/KvNIPjdC9nONblrhgKw3TuBhL8fX7oWvmPq85JmElph1JRaB98LcXt14z75OeYYxiolAPKvbRwn5Mtfkjex/kyu1qXYlbQuxwp100zBQ8+5T/eymc717yuWh62NuJvHMcrC5qlB/jhNPejMZljtPYc9Ph1NV3cy4XteNAk/WcVYPQZqcVAGv61/vn5zWemNOTLD+KWveNxsIMgF7ipTChcZmwYVBE3nodDBGPRaR9QqySwYNi3C1sV5sHDHIDyGwTK26FnJYHSBmTduSEwYYsTkyoDF2yF/veur3Yn6LTyyugPDfA8fMv6tK230DG3WTCD9aA74hzHResDW9KDBlmSOef/7JQu5Q0rnxIEIv5BG5oBYIUgOLjUpLsBA6VGV9EUJwKS/NlR92ktD/pczTMrU+CwlulOa9x8voxze00r6vItH+QVTJ+zkwsI2cR9rXmHNIKM+M/CO0QoHjkakBAACZOwqY1cww==;B+5N5+WN654j3op8EN/TJA=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
-excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for"
-publishedDateTime: 2021-11-18T14:20:00Z
-originalUrl: "https://www.lelezard.com/en/news-20113438.html"
-webUrl: "https://www.lelezard.com/en/news-20113438.html"
+excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+publishedDateTime: 2021-11-18T14:02:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure/article_eb3e8084-e313-5822-b3b4-4317b398e9f8.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure/article_eb3e8084-e313-5822-b3b4-4317b398e9f8.html"
 type: article
 quality: 46
 heat: 46
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
     width: 640
-    height: 480
+    height: 336
     isCached: true
 
 related:
@@ -91,6 +91,6 @@ related:
       domain: newswiretoday.com
     quality: 19
 
-secured: "EVZXZ4vHL67c5KPc8jxQPxB3C6DxQlnjdV7g+Xq24+BOOQY3CjIJtWrzbEDgYm9dst4iKJVYt5yTuSUzWUqafD7LjjSSpTlcVy3BObq0i6qvrvrcbRJGJvUcNbN5Cc1xFrmtNiTuwgI1jPlDf+R72cVy5Mrqwrkqv+sREzMwg5oRmIgBIwT3+wX2CqdOGwyu9lYSSjnKLk34Mvmk8RDDkWEwv86BfB7zg8ym/All35T7ttJqKO4qG1+hTnxFrR9leklDTOfj+yy/8/PLGA8G83fgBi/Ur69CeQvkNIYpWeKB34k18BtQjz8pqyORwoI2CxaX5Y2DLl8/R7u9rARakajJl176F2un0inf5CqiSEw=;UdaeI/jEHTPZzo2qxBZ+gw=="
+secured: "/3crgef3gOXhagUD7ykadzKkAUZ3O7rXcvRZMIYlv01Sz9YQaxK17GDaeXTaAPB1Juay+jlBOs2FOvSvFg80CruSxFysv9yZZFToC7tsnf+ewDvaWtI3k6PoL1+ChqoAfsnKrm0AhVNSyHHXw1KF8I7FDXZAE4W1qmw5KTSFY622Owry20DBlviZisXWMIiJ1X9UHhg+ZFrbJ98jmVHItN/KOBI7WJLM9FQGlTCtPuXMOfpi8PV8+D8AWSfgQXzFvgMckYN03BwH1KzMc+FxnEwq2f4i2/ySMFcWVGQnKhz3dnfDqwS5oYQlNjqWEoPn1nmBnlg1Md9nAXhzjbWFF1IrS/4y3hkcoh+/LJL7rQE=;9g0J//JhWDxmn57A9oQZnA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-09-how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai.md",
+      "title": "How enterprises can keep fear, uncertainty, and doubt from impeding AI",
+      "excerpt": "Resistance to new processes is nothing new, but it could become a crucial factor for AI and the radical shift it brings to data environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1300108018-e1636131773896.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/08/how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai/amp/",
+      "publishedDateTime": "2021-11-08T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "AI stocks may be excellent long-term investments. The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. From machine learning to",
@@ -360,6 +412,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-06-streaming-the-best-films-about-artificial-intelligence-and-robots.md",
+      "title": "Streaming: the best films about artificial intelligence and robots",
+      "excerpt": "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch “Old-fashioned” is generally not a term you want to hear applied to science fiction, a genre from which one tends to expect the futuristic and unfamiliar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.imdb.com/news/ni63458033?mode=desktop",
+      "originalUrl": "https://www.imdb.com/news/ni63458033?mode=desktop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IMDb",
+        "domain": "imdb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-tagalong-robots-follow-you-to-learn-where-you-go.md",
       "title": "Tagalong robots follow you to learn where you go",
       "excerpt": "Follower robots have been under development since the late 1990s, beginning on the ground and extending underwater and into the sky. Initial forms relied on following the location of a tag in a person’s pocket,",
@@ -409,58 +504,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-streaming-the-best-films-about-artificial-intelligence-and-robots.md",
-      "title": "Streaming: the best films about artificial intelligence and robots",
-      "excerpt": "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
-      "originalUrl": "https://www.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/dc40f71415a7198828e641d5ac73ff5b26e5800d/0_395_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=68ba1f19502656f67050feccdbb31b78",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/nov/06/streaming-the-best-films-about-artificial-intelligence-and-robots",
-      "publishedDateTime": "2021-11-06T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1363,49 +1406,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile.md",
-      "title": "Has Robotics Finally Arrived? Benefits Emerge in the Store, Microfulfillment Center and Last Mile",
-      "excerpt": "Robots are already an established part of large-scale warehouses run by behemoths like Amazon. They move swiftly and at scale, covering a lot of ground in a stable, well-routed environment designed specifically for them.",
-      "sourceUrl": null,
-      "webUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile",
-      "originalUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/11/robot.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile/amp",
-      "publishedDateTime": "2021-11-02T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

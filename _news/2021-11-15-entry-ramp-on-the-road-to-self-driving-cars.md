@@ -121,6 +121,22 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "Apple Speeds up Self-Driving Car Project"
+    excerpt: "Apple wants to ramp up the development of its electric car with a new focus on making a fully self-driving vehicle."
+    publishedDateTime: 2021-11-18T23:06:00Z
+    webUrl: "https://www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/"
+    ampWebUrl: "https://www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/apple-self-driving-car-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Apple targets 2025 to launch self-driving car without steering wheel"
     excerpt: "Apple is reportedly accelerating development of its electric car, targeting 2025 as a possible launch date — and now wants to make it fully self-driving."
     publishedDateTime: 2021-11-18T19:38:00Z
@@ -152,6 +168,20 @@ related:
       - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Apple Plans Debut Of Self Driving Car For 2025"
+    excerpt: "A Bloomberg News report cites sources familiar with the matter saying that Apple plans the launch a self-driving car by 2025."
+    publishedDateTime: 2021-11-18T22:21:00Z
+    webUrl: "https://www.ibtimes.com/apple-plans-debut-self-driving-car-2025-3340876"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/11/10/epic-filed-the-lawsuit-to-break-apples-grip.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
     excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
@@ -209,6 +239,24 @@ related:
         width: 1500
         height: 808
         isCached: true
+  - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
+    excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."
+    publishedDateTime: 2021-11-18T21:45:00Z
+    webUrl: "https://www.imore.com/apple-has-achieved-key-milestone-self-driving-tech-apple-car"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 4
+  - title: "Report: Apple could launch self-driving electric car in 2025"
+    excerpt: "Apple Inc. could bring its long-rumored electric car to market as soon as 2025 and with a “full self-driving system” onboard, Bloomberg reported today. The 2025 target launch date is said to represent an acceleration of Apple’s development roadmap."
+    publishedDateTime: 2021-11-18T21:53:00Z
+    webUrl: "https://siliconangle.com/2021/11/18/report-apple-launch-self-driving-electric-car-2025/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 4
 
 secured: "y1r9bDvwzTWbiIoZmW0xdH0TEf4X2hnoliQM0JTdkLoxJ1iOmffkSih/SDaniKehWNB5VFK4CqWfW5tvdh34f9rFtSmvTBearnSHyjsDZXZLCzLaSubYHQk/6cdm5V4ZWf3cz1QcBnO9CjcvOZxx9RpMmSOwKSd8piIMRNVm2tyczk/9JnASNLMXLLlqaII0SJxtbHST2kM39EgeutrYgI02mFpoh9jbYsJoSExpP8RyLfYHWUeCcUW2lMoH/AvC/Gcqlt9bK3bytXmSCxQrw5wgFMT4G5fSJXbdsiwTOET4+yRN92IojAeAYQRezQ8RLbFTrUdk9s++AZ/SB6vVrz00tbmK2+A3Tyy1wWRW21Fc6FXr0uBTd4YQZa/BAFydTeqm2sYRJjaWZUZlkYpZe+3K6Z3T4yVs/JpvjvqT5//qAcFyS533+y8OqjdNdbhoHLmT/90EbiWpX532QZ0YFc9vyrBWZn/IoUPVeFlZqL4+sIB8a75mz/aTDneS/KmLHs55t9gs0RGp6KC1qwSRJA==;605pue/gFH9iAGvIT4yx8A=="
 ---

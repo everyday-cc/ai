@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-18T21:00:00Z
 originalUrl: "https://venturebeat.com/2021/11/18/ntopology-lands-65m/"
 webUrl: "https://venturebeat.com/2021/11/18/ntopology-lands-65m/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: VentureBeat

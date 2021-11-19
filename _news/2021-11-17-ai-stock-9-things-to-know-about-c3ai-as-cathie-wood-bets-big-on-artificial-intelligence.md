@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c3.ai-as-cathie-wood-bets-big-on-artificial-intelligence?amp"
 type: article
 quality: 73
-heat: 85
+heat: 83
 published: true
 
 provider:

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-02-has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile.md",
+      "title": "Has Robotics Finally Arrived? Benefits Emerge in the Store, Microfulfillment Center and Last Mile",
+      "excerpt": "Robots are already an established part of large-scale warehouses run by behemoths like Amazon. They move swiftly and at scale, covering a lot of ground in a stable, well-routed environment designed specifically for them.",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile",
+      "originalUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/11/robot.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile/amp",
+      "publishedDateTime": "2021-11-02T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-robot-food-delivery-coming-soon-to-a-campus-near-you.md",
       "title": "Robot food delivery, coming soon to a campus near you",
       "excerpt": "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
@@ -1269,49 +1312,6 @@
       "provider": {
         "name": "techxplore.com",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-tomahawk-robotics-wins-afwerx-sbir-211-direct-to-phase-ii-contract.md",
-      "title": "Tomahawk Robotics wins AFWERX SBIR 21.1 Direct to Phase II Contract",
-      "excerpt": "Implementing AI-enabled universal robotic control into the Base Defense Operations ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20211026fl52466/tomahawk-robotics-wins-afwerx-sbir-211-direct-to-phase-ii-contract",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20211026fl52466/tomahawk-robotics-wins-afwerx-sbir-211-direct-to-phase-ii-contract",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1670269/Tomahawk_Robotics.jpg",
-          "width": 320,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
