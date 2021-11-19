@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 635
+heat: 651
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 11726999
+  followers: 11729058
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "u+Hd+K9rFCikfO0XGsyiCJ0GRSpt1SjA+nIuIO8IFJFxX9NzRmDn5FXkA1mY4c24HoguZQAFBUQ9H56y3DedL1omSEPnfAA5R7gs5upo/OHpoVo1VGYoTNxQjTE6P7fsk9RwwPGPH8rCYRhOSxb1RqEL7fLFjdFo3haklMU1j3BBgznCD968MUgicqSE3MYElfIuFxWn7r5vJo9vmWAmuk4OCtgpyQ7+Yigd5roOA6bWLG4XRbOvGawMQIjU31WrbYobTyd5gJ7tJ7+RirYwOSBzOyO5+CU38gUJfYTrA+gbOPYSny9mwQmjZjNxgBXDoL8DlCSjtYO3oeAQlXVapUTZ0zgzLALXYdJgMkseJ1xS6c0F+z/2ETcUxLpU2whjbrR0TvX0WmUHfEEpx5kZpy/7hc38cCsSqWtuBR8RYjs=;Og+ywDInyXdHpNgaH6mQJg=="
+secured: "AXoC19xcCeNtkfIf99PhD2aflCKtasF/aZswB47NxX0ZwcUic4/zYtSBBiu+r9fMnqe0M7OBViiJ5SIY/OjU/qG2CEDE09+hMQwY98CLYbGYmRuogJAFPrE/O6tfA5hhTe7AD6NVNpVLCOnLnI8lWV7RR9kptaffEkaVs0RmS796RnoaQd9sRmagQtAEtWPkvJJ0Z4cFyS+Oet0u1Lgo6f0sDk8SvCWReK/Co76aG6yOWsPIVA1wBuontoJyqyS91pnBGPc6JjXTPPJsP9BMjBe18vvOfS8gztUvowGCdY1Abq99H2UsxW+mn1BlkBTgYlSDUD5Qus/shEc7FOINK9vb/9yKQHLgjVS6AeIQzBfBZRN7u2OZcAB7zRYJldbcaRgxGXSqZ9RtJVQ2M+q4M3ucBlqnseVI5UcGOLD/IK0=;unFhU/l/drmkEvT9JSeQKQ=="
 ---
 
