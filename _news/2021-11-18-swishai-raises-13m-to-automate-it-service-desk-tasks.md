@@ -30,35 +30,51 @@ images:
     isCached: true
 
 related:
-  - title: "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software"
-    excerpt: "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million."
-    publishedDateTime: 2021-11-16T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/"
-    ampWebUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
+  - title: "Grammarly raises $200M at a $13B valuation to make you an even better writer using AI"
+    excerpt: "Grammarly, the popular auto-editing tool for writing, has raised $200 million in funding at a $13 billion valuation from new investors including Baillie Gifford and funds and accounts managed by BlackRock,"
+    publishedDateTime: 2021-11-18T03:00:00Z
+    webUrl: "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 180
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Grammarly-Abstract.jpg?w=1024"
+        width: 1024
+        height: 538
+        isCached: true
+  - title: "Grammarly raises $200M to expand its AI-powered writing suggestions platform"
+    excerpt: "Grammarly, a startup developing an AI-powered writing aid, has raised $200 million in venture capital, valuing it at $13 billion."
+    publishedDateTime: 2021-11-18T03:11:00Z
+    webUrl: "https://venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/"
+    ampWebUrl: "https://venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 91
+    quality: 84
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/41625afd-8ff1-4cec-b654-c0fc3e35ad58-e1568994939289.png?w=1200&strip=all"
         width: 1200
-        height: 797
+        height: 628
         isCached: true
-  - title: "Helm.ai Raises $26 Million in New Funding"
-    excerpt: "Helm.ai Raises $26 Million in New Funding Series B round led by Amplo will support team growth and product expansion of its high-end ADAS and L4 autonomous driving software Helm.ai, creator of next-generation AI software for autonomous driving,"
-    publishedDateTime: 2021-11-16T16:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-20107794.html"
+  - title: "Imaging AI startup raises $5M"
+    excerpt: "Medical imaging artificial intelligence (AI) and advanced visualization startup LifeVoxel.AI has raised $5 million in seed funding."
+    publishedDateTime: 2021-11-17T21:34:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=134168"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2020_02_20_18_12_3118_money_bills_400.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "JsJ3zVMaZn5Qm9apyvMAtr+2GzsQh20lgQlk71MAaNKxNEkRg7AI61xwAI0Mmjgy+JSZgujP88V+xyuMdIecsM2/ZNJUSzEP0hkztm5iMi3m3mCyQr/lYSTYU4ssdKB4H2JDqkiEVpcFGYh3BMzSevp+H1VRZJMTcgBeeJBseETqlaOW+r91GiOFgcn5DjzLa5ZOM/0PWw2YAQnoUfGCvdCuDmbYIxMz3ZLYRU4DaNJsNH0BvxAeJ88Ej+EjHj3G1YoLkF26DjGH58KR9QUBcKjMHUDOO03mlbe1p0GCkB+oXfr9V+vUHO+dCeIW3jxRw5YuqWu/fzRMDZeDb4GT2+uOjSYzyb9Z5R1r1ocSBhBkqHwCP/daHkfc+/OIIl7mOT5fj8f9UZMrLNwlu8q882yIex4tM86+DSnp19T8utgNlVKr95PackV9aJrzjaaXsLt97qMhfe9vFbfGUI2r54bKnRTruxOWkWZoM+YceTxBGmGyXwF6yxMg3sTQqv+JKq3EZ4zgN/CexqkC1GpyPg==;6kcU3USxrpg9P3RqaVwDFA=="

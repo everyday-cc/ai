@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervis
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Swish.ai raises $13M to automate IT service desk tasks"
-    excerpt: "Swish, a startup developing a platform to automate IT service tasks using AI, has raised $13 million in funding."
-    publishedDateTime: 2021-11-18T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/"
-    ampWebUrl: "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Helm.ai Raises $26 Million in New Funding"
     excerpt: "Helm.ai Raises $26 Million in New Funding Series B round led by Amplo will support team growth and product expansion of its high-end ADAS and L4 autonomous driving software Helm.ai, creator of next-generation AI software for autonomous driving,"
     publishedDateTime: 2021-11-16T16:08:00Z

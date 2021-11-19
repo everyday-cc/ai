@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 645
         isCached: true
-  - title: "Grammarly raises $200M to expand its AI-powered writing suggestions platform"
-    excerpt: "Grammarly, a startup developing an AI-powered writing aid, has raised $200 million in venture capital, valuing it at $13 billion."
-    publishedDateTime: 2021-11-18T03:11:00Z
-    webUrl: "https://venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/"
-    ampWebUrl: "https://venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/41625afd-8ff1-4cec-b654-c0fc3e35ad58-e1568994939289.png?w=1200&strip=all"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI Writer Startup Gets $21 Million in Series A Funding"
     excerpt: "Writer, an AI framework capable of generating written content for marketing teams, announced today that it has secured $21 million in series A funding, in a package led by venture capital company Insight Partners."
     publishedDateTime: 2021-11-15T15:58:00Z

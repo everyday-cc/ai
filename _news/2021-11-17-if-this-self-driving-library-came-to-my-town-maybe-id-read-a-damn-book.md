@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is The World Ready For A Self-Driving Car?"
+    excerpt: "Hitting Apple's ambitious 2025 target depends entirely on the company’s ability to design, build and test its self-driving system."
+    publishedDateTime: 2021-11-19T13:39:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197b62f6a454124ca8aedb0%2F0x0.jpg"
+        width: 1200
+        height: 669
+        isCached: true
   - title: "Singapore ranked world's 4th most ready country for self-driving transport"
     excerpt: "With driverless transport becoming more popular and self-driving vehicles closer to mainstream reality than ever, it appears as if many countries around the world are preparing for a future where people rely increasingly less on private transport options (like their own cars)."
     publishedDateTime: 2021-11-18T05:31:00Z
@@ -45,40 +61,98 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "Singapore delays satellite road toll system due to global chip shortage"
-    excerpt: "Previously slated to begin by end-2021, the rollout of Singapore's next-generation electronic road pricing system has been pushed back to the second half of 2023 after suppliers of \"critical components\" are unable to meet delivery schedules."
-    publishedDateTime: 2021-11-17T16:11:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-delays-satellite-road-toll-system-due-to-global-chip-shortage/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-delays-satellite-road-toll-system-due-to-global-chip-shortage/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-delays-satellite-road-toll-system-due-to-global-chip-shortage/"
+  - title: "Apple targets 2025 to launch self-driving car without steering wheel"
+    excerpt: "Apple is reportedly accelerating development of its electric car, targeting 2025 as a possible launch date — and now wants to make it fully self-driving."
+    publishedDateTime: 2021-11-18T19:38:00Z
+    webUrl: "https://nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/"
+    ampWebUrl: "https://nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "Waymo to transport goods using self-driving semi-trailer truck"
-    excerpt: "Called Waymo Via, the delivery service is already in operation in some parts using Waymo's self-driving vans based on the Chrysler Pacifica. Now Waymo is ready to add its self-driving semi-trailer trucks."
-    publishedDateTime: 2021-11-18T14:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1134209_waymo-to-transport-goods-using-self-driving-semi-trailer-truck"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
+      name: New York Post
+      domain: nypost.com
+    quality: 44
     images:
-      - url: "https://images.hgmsites.net/hug/waymo-via-self-driving-semi-trailer-truck_100815686_h.jpg"
-        width: 1920
-        height: 1078
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/11/apple-car_30.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 552
         isCached: true
-  - title: "Who has their fingers in the most Singaporean startup pies?"
-    excerpt: "The company’s AI cloud revenue grew 73% year on year, according to its chief financial officer Rong Luo. 3️⃣ Apu would like a word about the name GoKwik, an ecommerce enablement startup, has raised US$15 million in a series A round led by Sequoia ..."
-    publishedDateTime: 2021-11-19T04:37:00Z
-    webUrl: "https://www.techinasia.com/fingers-singaporean-startup-pies"
+  - title: "What's Up with Apple: Self-driving iCar, Grateful Dead Biopic, and More"
+    excerpt: "Citing people familiar with the matter, Bloomberg reported that Apple is accelerating development of an all-electric Apple car (iCar?) that will come with full self-driving capability. Not only did Apple weigh on other EV stocks,"
+    publishedDateTime: 2021-11-19T11:58:00Z
+    webUrl: "https://247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/"
+    ampWebUrl: "https://247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/amp/"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 44
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2020/01/imageforentry32-9xl.jpg?w=400"
+        width: 400
+        height: 224
+        isCached: true
+  - title: "Apple Plans Debut Of Self Driving Car For 2025"
+    excerpt: "A Bloomberg News report cites sources familiar with the matter saying that Apple plans the launch a self-driving car by 2025."
+    publishedDateTime: 2021-11-18T22:21:00Z
+    webUrl: "https://www.ibtimes.com/apple-plans-debut-self-driving-car-2025-3340876"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/11/10/epic-filed-the-lawsuit-to-break-apples-grip.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "How self-driving cars perform in fog"
+    excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
+    publishedDateTime: 2021-11-17T13:45:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17435/how-self-driving-cars-perform-in-fog"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/435/17435/Waymo_Fog_11-21.png"
+        width: 752
+        height: 423
+        isCached: true
+  - title: "Apple Reportedly Looks to Unveil a Fully Self-Driving Car in 2025"
+    excerpt: "Apple is looking to refocus its long-awaited electric car project on self-driving capabilities, instead of its previously planned semi-autonomous features, according to sources via Bloomberg. Additionally,"
+    publishedDateTime: 2021-11-18T20:33:00Z
+    webUrl: "https://hypebeast.com/2021/11/apple-fully-self-driving-car-2025-bloomberg"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 24
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fapple-fully-self-driving-car-2025-bloomberg-TW.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
+  - title: "Report: Apple could launch self-driving electric car in 2025"
+    excerpt: "Apple Inc. could bring its long-rumored electric car to market as soon as 2025 and with a “full self-driving system” onboard, Bloomberg reported today. The 2025 target launch date is said to represent an acceleration of Apple’s development roadmap."
+    publishedDateTime: 2021-11-18T21:53:00Z
+    webUrl: "https://siliconangle.com/2021/11/18/report-apple-launch-self-driving-electric-car-2025/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 4
+  - title: "Self-Driving Cars Can Be Hacked By Just Putting Stickers On Street Signs"
+    excerpt: "All it takes is a simple sticker onto a sign board to confuse any self-driving car and cause accident. Isn't this so dangerous? A team of researchers from the University of Washington demonstrated how anyone could print stickers off at home and put them on ..."
+    publishedDateTime: 2021-11-15T14:12:00Z
+    webUrl: "https://www.xing.com/communities/posts/self-driving-cars-can-be-hacked-by-just-putting-stickers-on-street-signs-1013597535"
+    type: article
+    provider:
+      name: XING
+      domain: xing.com
+    quality: 3
 
 secured: "pmB0bzFf6sNaV0Sj6OiwxegREqvPu126NDPBuCwA2hJenidG8V300w7Gn+6mm/IX/RejgrekA8xVGUZP/mSd7p9xSsIfIrY1uW/6eMu1eIfSIjAsYArFku6ntjaPqEg4ZukTJel9iEhJXuEBxDdp1d1WM1DuXja16L6udYdUFfAJdCb04xYkLjrByq+6+Z/oh1+83dESjffibMqIBE9bcynAoTknAtswEGVG6z8FR9OXYP+8Yms+0O/5h4ysqKBCvtgauN9MmwOY6uwJwcxVK+OnX+HPBGcn/O1Qrk9C4RKoCtFglLe54DKGNzZgZfl/JtuCvpq/bwhN+EFJFFHe5G9zgmwKPtBywhwj7pTu5YL8LbpRLekH4tNmk1VQngt/w16P/WPDeudYXSg3lPIaM3QFUQXJeDtDYWbZfnaCJwECoIzuTlD01DMYOIPjywQ0fgxDfHRRDAUkE+nhg1ZE6BCmHrWy5f1k0Td6pXaaAHEFusHWsZjWsujwxjxApFke3BZdHdyyJyUqTY2UcP6V1w==;NDE1SB7fmBzxyldTV8st0Q=="
 ---

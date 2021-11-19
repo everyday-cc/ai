@@ -27,207 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Apple reportedly aims to debut a fully self-driving car in 2025"
-    excerpt: "Apple may be sharpening the focus of its long-in-development electric car. Bloomberg sources claim Apple is now shifting its attention to a fully self-driving car — without even a steering wheel."
-    publishedDateTime: 2021-11-18T18:27:00Z
-    webUrl: "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/"
-    ampWebUrl: "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/amp/"
+  - title: "Qualcomm aims for diversification, will soon supply chips for BMW self-driving cars"
+    excerpt: "Qualcomm Inc announced on Tuesday that BMW cars will utilize its chips in its driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-17T11:08:00Z
+    webUrl: "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/"
+    ampWebUrl: "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 83
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2015/02/apple-car.png?w=1024"
+      - url: "https://www.gizmochina.com/wp-content/uploads/2017/09/qualcomm-chip.jpg"
         width: 1024
-        height: 576
+        height: 588
         isCached: true
-  - title: "Apple ramping up work on developing self-driving car, report says"
-    excerpt: "Apple is trying to speed up the development of its self-driving electric car, according to a report from Bloomberg on Monday. The project has reportedly been refocused around the car's potential for autonomy,"
-    publishedDateTime: 2021-11-18T20:43:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-ramping-up-work-on-developing-self-driving-car-report-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-ramping-up-work-on-developing-self-driving-car-report-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-ramping-up-work-on-developing-self-driving-car-report-says/"
+  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
+    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-16T17:47:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/qualcomm-diversifying-mobiles-supply-chips-bmw-self-driving-cars-2021-11-16/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 47
     images:
-      - url: "https://www.cnet.com/a/img/g5rWOb9Rr44hYJB8m6Lcxbeqdlw=/1200x630/2021/06/02/84926090-2476-4020-9708-2d79e8bbc315/ogi-apple-car-render.jpg"
+      - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "Report: Apple accelerating plans to make a fully self-driving car"
-    excerpt: "According to a new report from Bloomberg’s Mark Gurman, Apple is stepping up its car ambitions. The company now aims to launch a fully autonomous vehicle in four years, though that 2025 target date is fluid."
-    publishedDateTime: 2021-11-18T19:20:00Z
-    webUrl: "https://www.macworld.com/article/553055/apple-car-self-driving-release.html"
-    ampWebUrl: "https://www.macworld.com/article/553055/apple-car-self-driving-release.html/amp"
-    cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/553055/apple-car-self-driving-release.html/amp"
-    type: article
-    provider:
-      name: Macworld
-      domain: macworld.com
-    quality: 74
-    images:
-      - url: "https://www.macworld.com/wp-content/uploads/2021/11/apple-car-steering-wheel.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Apple Car Is Aiming for Full Self-Driving by 2025"
-    excerpt: "Stay on top of the revolutions reshaping the auto world — from EVs to self-driving technology — by signing up for Hyperdrive’s newsletter here. Toyota's first U.S. battery plant is destined for North Carolina. Xpeng’s new SUV aims to go ..."
-    publishedDateTime: 2021-11-19T12:30:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-11-19/apple-car-is-aiming-for-full-self-driving-by-2025"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igsA_v1YxPYE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Apple renews interest in vehicle project, shifts focus to self-driving capabilities"
-    excerpt: "Sources familiar with the matter tell Bloomberg (paywalled, via MacRumors) that Apple has renewed interest in the project and has shifted its focus to self-driving capabilities. Apple has been interested in getting into the automotive industry since at ..."
-    publishedDateTime: 2021-11-18T19:46:00Z
-    webUrl: "https://www.techspot.com/news/92290-apple-renews-interest-vehicle-project-shifts-focus-self.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92290-apple-renews-interest-vehicle-project-shifts-focus-self.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92290-apple-renews-interest-vehicle-project-shifts-focus-self.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-18-image-19.jpg"
-        width: 1500
-        height: 809
-        isCached: true
-  - title: "NHTSA investigating first report of Tesla 'Full Self-Driving' crash"
-    excerpt: "A California driver has reported the first alleged crash involving Tesla's Full Self-Driving feature to NHTSA. The agency is investigating the claim, which says the car turned into the wrong lane."
-    publishedDateTime: 2021-11-16T19:02:00Z
-    webUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash"
-    ampWebUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/Tesla-Model-Y.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Apple Speeds up Self-Driving Car Project"
-    excerpt: "Apple wants to ramp up the development of its electric car with a new focus on making a fully self-driving vehicle."
-    publishedDateTime: 2021-11-18T23:06:00Z
-    webUrl: "https://www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/"
-    ampWebUrl: "https://www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/apple-self-driving-car-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Apple targets 2025 to launch self-driving car without steering wheel"
-    excerpt: "Apple is reportedly accelerating development of its electric car, targeting 2025 as a possible launch date — and now wants to make it fully self-driving."
-    publishedDateTime: 2021-11-18T19:38:00Z
-    webUrl: "https://nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/"
-    ampWebUrl: "https://nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/11/apple-car_30.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 552
-        isCached: true
-  - title: "Apple’s self-driving electric car may come in 2025"
-    excerpt: "Apple's automotive efforts, known as Project Titan, have proceeded unevenly since 2014 when it first started to design a vehicle from scratch. Its ideal car would have no steering wheel and pedals, with interiors designed around hands-off driving."
-    publishedDateTime: 2021-11-19T06:28:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/articleshow/87795164.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
+  - title: "Qualcomm to supply chips for BMW's self-driving cars"
+    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-16T13:52:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/articleshow/87741075.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/amp_articleshow/87741075.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/amp_articleshow/87741075.cms"
     type: article
     provider:
       name: Gadgets Now
       domain: gadgetsnow.com
     quality: 44
     images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87795164,imgsize-14990,width-800/87795164.jpg"
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87741075,imgsize-18838,width-800/87741075.jpg"
         width: 800
-        height: 505
+        height: 533
         isCached: true
-  - title: "Apple now believes it can ship self-driving EV as soon as 2025, Bloomberg reports"
-    excerpt: "Apple is currently determined to ship an electric car that can drive its passengers around within the next four years, according to reporting from Bloomberg. The latest report emphasizes both the features and pacing set by current leadership over the project at Apple."
-    publishedDateTime: 2021-11-18T18:16:00Z
-    webUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/"
-    ampWebUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
+  - title: "BMW to use Qualcomm’s Soc for self-driving cars. Know more"
+    excerpt: "BMW will utilize Qualcomm Technologies to bring a full spectrum of ADAS/AD functions, including front, rear and surround view camera computer vision"
+    publishedDateTime: 2021-11-17T03:46:00Z
+    webUrl: "https://www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more-11637079056915.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more/amp-11637079056915.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more/amp-11637079056915.html"
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 39
+      name: Mint
+      domain: livemint.com
+    quality: 44
     images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Apple Plans Debut Of Self Driving Car For 2025"
-    excerpt: "A Bloomberg News report cites sources familiar with the matter saying that Apple plans the launch a self-driving car by 2025."
-    publishedDateTime: 2021-11-18T22:21:00Z
-    webUrl: "https://www.ibtimes.com/apple-plans-debut-self-driving-car-2025-3340876"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/11/10/epic-filed-the-lawsuit-to-break-apples-grip.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "Apple self-driving electric car debut may happen as early as 2025: Here's what you should expect"
-    excerpt: "Apple is not only looking to launch an electric car with some autonomous features, it is planning to launch a car that can completely drive itself"
-    publishedDateTime: 2021-11-19T10:51:00Z
-    webUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/"
-    ampWebUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 31
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/apple-logo-1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Apple reportedly aiming to debut its self-driving steering wheel-less EV as soon as 2025"
-    excerpt: "Apple has reportedly completed \"much of the core work\" for its EV's chip. The project head's now aiming to launch the Apple Car by 2025."
-    publishedDateTime: 2021-11-19T06:54:00Z
-    webUrl: "https://pocketnow.com/apple-reportedly-aiming-debut-its-self-driving-steering-wheel-less-ev-soon-2025"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 30
-    images:
-      - url: "https://media.pocketnow.com/styles/medium/public/2021/08/20210809_Samsung_11805351920px.jpg?itok=3KdE7DuX"
+      - url: "https://images.livemint.com/img/2021/11/16/600x338/cq5dam.resized.img.1680.large.time1601620546255_1637057024335_1637079144170.jpg"
         width: 600
-        height: 451
+        height: 338
         isCached: true
   - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
     excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
@@ -243,79 +103,70 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "How self-driving cars perform in fog"
-    excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
-    publishedDateTime: 2021-11-17T13:45:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17435/how-self-driving-cars-perform-in-fog"
+  - title: "BMW to use chips from Qualcomm for self-driving technology"
+    excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."
+    publishedDateTime: 2021-11-16T12:54:00Z
+    webUrl: "https://europe.autonews.com/suppliers/bmw-use-chips-qualcomm-self-driving-technology"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/P90423571_highRes_bmw-ix-advanced-driv%20%281%29.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "BMW to use Qualcomm chips for self-driving tech"
+    excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."
+    publishedDateTime: 2021-11-16T12:54:00Z
+    webUrl: "https://europe.autonews.com/suppliers/bmw-use-qualcomm-chips-self-driving-tech"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/P90423571_highRes_bmw-ix-advanced-driv%20%281%29.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Qualcomm chips supply for BMW self-driving cars"
+    excerpt: "Qualcomm has made a major announcement regarding its new strategy to advance autonomous drive capabilities. Qualcomm and BMW have announced a new agreement to collaborate on the development of chips for future generations of driver-assistance and self-driving systems."
+    publishedDateTime: 2021-11-17T07:50:00Z
+    webUrl: "https://bestgamingpro.com/qualcomm-chips-supply-for-bmw-self-driving-cars/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 24
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Qualcomm-to-supply-chips-for-BMWs-self-driving-cars.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "BMW is turning to Qualcomm to supply chips for the automaker's self-driving cars"
+    excerpt: "Qualcomm Inc said BMW will use its chips in its next-generation driver-assistance and self-driving systems. San Diego-based Qualcomm is the world's biggest supplier of chips for mobile phones but has been diversifying its business."
+    publishedDateTime: 2021-11-16T12:43:00Z
+    webUrl: "https://www.autonews.com/automakers-suppliers/why-bmw-tapping-qualcomm-supply-chips-german-automakers-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Bmw-concept-i4-new%20logo%20web_1.jpg?h=eaba4a42"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Qualcomm to make self-driving chips for BMW"
+    excerpt: "Qualcomm Technologies, Inc. will build automotive semiconductors for BMW Group’s next generation of advanced driver assistance systems (ADAS) and self-driving platforms. BMW’s next-generation automated driving stack will be powered by the Snapdragon Ride vision system-on-chip (SoC),"
+    publishedDateTime: 2021-11-17T13:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17434/qualcomm-to-make-self-driving-chips-for-bmw"
     type: article
     provider:
       name: Engineering360 News
       domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/435/17435/Waymo_Fog_11-21.png"
-        width: 752
-        height: 423
-        isCached: true
-  - title: "Apple Is Reportedly Developing a Fully Self-Driving Car"
-    excerpt: "Rumor has it that Apple is looking to unveil its first electric car in 2025. According to unknown sources via Bloomberg, the vehicle will feature “full self-driving [abilities] that [don’t] require human intervention."
-    publishedDateTime: 2021-11-19T02:11:00Z
-    webUrl: "https://hypebae.com/2021/11/apple-fully-self-driving-car-vehicle-electric-rumors-release-info"
-    type: article
-    provider:
-      name: HYPEBAE
-      domain: hypebae.com
-    quality: 24
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2021%2F11%2Fapple-fully-self-driving-autonomous-car-vehicle-rumors-release-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 825
-        height: 413
-        isCached: true
-  - title: "Apple Reportedly Looks to Unveil a Fully Self-Driving Car in 2025"
-    excerpt: "Apple is looking to refocus its long-awaited electric car project on self-driving capabilities, instead of its previously planned semi-autonomous features, according to sources via Bloomberg. Additionally,"
-    publishedDateTime: 2021-11-18T20:33:00Z
-    webUrl: "https://hypebeast.com/2021/11/apple-fully-self-driving-car-2025-bloomberg"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 24
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fapple-fully-self-driving-car-2025-bloomberg-TW.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
-  - title: "Apple’s Self-Driving Test Fleet Adds More Drivers, Apple Car Still Due in 2025"
-    excerpt: "As far as Apple is concerned, there’s no such thing as an Apple Car currently in development, and the company’s automotive strategy comes down to other solutions like CarPlay."
-    publishedDateTime: 2021-11-15T21:50:00Z
-    webUrl: "https://www.autoevolution.com/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 20
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246_1.jpg"
-        width: 1500
-        height: 808
-        isCached: true
-  - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
-    excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."
-    publishedDateTime: 2021-11-18T21:45:00Z
-    webUrl: "https://www.imore.com/apple-has-achieved-key-milestone-self-driving-tech-apple-car"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 4
-  - title: "Report: Apple could launch self-driving electric car in 2025"
-    excerpt: "Apple Inc. could bring its long-rumored electric car to market as soon as 2025 and with a “full self-driving system” onboard, Bloomberg reported today. The 2025 target launch date is said to represent an acceleration of Apple’s development roadmap."
-    publishedDateTime: 2021-11-18T21:53:00Z
-    webUrl: "https://siliconangle.com/2021/11/18/report-apple-launch-self-driving-electric-car-2025/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
     quality: 4
 
 secured: "zjUP2Jl4au1sSHVT/Q8XoHDak1scp5BdHk6aEflRcfok8ZgOTxb6N5/XP/lYrNaGO6GEnzu+ruYf1J0nlu4Jy597s7hyNGDrsz9YiChfckK2G1v1W26MYoxJfCY1Da0yYHOGzBBlg+zsVv+vB+GjrRDdVIixYRbFCoMjLTygxkYEkza5Rcdn6Rqn5EgUVDj8CXz1RpUx8P2zlHTI0yTb3t9jEcNco9fGQBpIRn90tQIZHgbbnj586BpozYf/FPJh4LsGXcLbS44fqxribbOd8hZoO3+jt/5gJ3beqtL1q1eQKD5RdTxkU95L1nzEBBq5YJpv51xXFaWE7nonmDPM+a1Q8vnvqxa2Jl/M+hCqkos+lkLuWWW0D/G61EHZ2+vNLHEmGdSONozI4u/1LzDno0NHkWUyB0c3JSkVXFFxPcXO8EB30hOZip+mbh0LFCsP6mlnazcgok6n1rxzkK6qZ8/2Ojrjc3ZSJScHRSyLe4XCUm2KTK6cEDB4wacnQx7dX4tLX2Sl4M7lpkPDH3gBog==;UdMxy8hTdk8JWlSUU7GpBA=="

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 797
         isCached: true
-  - title: "Swish.ai raises $13M to automate IT service desk tasks"
-    excerpt: "Swish, a startup developing a platform to automate IT service tasks using AI, has raised $13 million in funding."
-    publishedDateTime: 2021-11-18T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/"
-    ampWebUrl: "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "NUQU4bD85io2mh+Z5QZsWNpjA3e0M5ZBJgnAraGzziB4PeL+VHcz1W4jZhYysjRQQhOAko2qIrUS8QQJU07IFerEcL7vTy8gVfIwMMkCxYpp/8oGvAzrhk1ZTIS6SPS6AfXDu6s5RRaLhXvP3qW7pP3YY1txqDlZWChUuKejnVVbOk3Hparwjf2woOoa8pdHTu218V117mlHSD0/aGdiohBrmPxAk/xtgEmPtuA+v351Nz/LA8oUtNxSraG0nG6jF8GlJKz3BDMbybFZ6chSVB4/MeqUPK1GXIotoo/GjgtczWehdHxXoaXhkvkpOaYIdmqR93BWo2K2WPbEHnYvjARr7pCEBZEXembgS721fRo=;HzqTr81Aun4qKPQEDb4mZQ=="
 ---

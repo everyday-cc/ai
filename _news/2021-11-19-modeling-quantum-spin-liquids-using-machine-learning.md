@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Modeling quantum spin liquids using machine learning"
-excerpt: "By using a machine learning algorithm that mimics the network of neurons in the brain, a RIKEN physicist and a collaborator have developed a method for modeling quantum spin liquid states. (Image: Jesper Klausen) We have all faced the agonizing challenge of choosing between two equally good (or bad) options."
-publishedDateTime: 2021-11-19T06:35:00Z
-originalUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59188.php"
-webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59188.php"
+excerpt: "The properties of a complex and exotic state of a quantum material can be predicted using a machine learning method created by a RIKEN researcher and a collaborator. This advance could aid the development of future quantum computers."
+publishedDateTime: 2021-11-19T14:18:00Z
+originalUrl: "https://phys.org/news/2021-11-quantum-liquids-machine.html"
+webUrl: "https://phys.org/news/2021-11-quantum-liquids-machine.html"
+ampWebUrl: "https://phys.org/news/2021-11-quantum-liquids-machine.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-quantum-liquids-machine.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.nanowerk.com/nanotechnology-news2/id59188_1.png"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/modeling-quantum-spin.jpg"
     width: 400
     height: 333
     isCached: true
 
-secured: "kvm5h0drihSOLrRlSmqPXSZHE2XvWH1IomLhRS4uGE47/ow0BCEeKS4xdlBYgp+2u7IbhY2MBzpBmod6UbmpNacIo3kaWaY/Nd3KDVQRU9vScQl2+aynJuBDsPUzYPgiqBd7mgxI0OxdoxcwSPIoS+yJ7DfdcxrW6UQWQXQy7rfMe+uZy5ge6P2s9YD3Ey2axpl7sIhBJBbpgOGpKy9WwJ4fKptrR5Wn/d2qjwDU7D4hpauH15/tbEJ/m/vW1uPyej1xqwLM5/cnutHQGLb+toYNhFjWO02Jm4mZ/eBNfj5RaPjJZJyyencKxCA2KddOh3Q3ciBkhpbe4GE8VC7+unH4UME9cGRGPWaygRG4BGMQdFsUAb9NZQTx6BIOgJbtrBKp87ZOa/IPKwVo/Dv05lYzLWF9okbgu8dPmfyr087QWbtVpRjCgDQLA8o4v74vw0OePI6oOoT7xZrXM//KCjE05hOBu9Zqbh4ZzSQiEzlxNgCR5xIJ61gO8c7kwXLiQccjapuxevegX9/nWz4QhQ==;gmUEFw8F+WtBGol5zEUbLQ=="
+secured: "0se9x4aAI5dynB8vm+Gq4ZAczfrwBgYGRjqNBIcJ+joU+/E7F/NPu45isYRzf34sT5APeonzUsVSCqoyX/ly+FfewzbZLdXuKDc5DJSpP1StU8g7SODfiGBG/Ervv35NbLfp+cpTRolEuWPXYtgiOxTng/92jiQ2mnD5WM3xI9eOR7jxFJL+QGPur7hnqPiRjtddrzB5zb63zoKsQv6wDWdR5InjccjJ+Mx8OthyuyIVS2lWqtSrL+UiTJ62qTUP/KuLgxGtR2KSx8lrRjRRVY6Tp9udoHMH5Gr6joOd0422qu3r1ZfHVH6xK+0Gr3JjTSecgwOyfirzAKPlGZfstooErcplzgSx3bzFopP+usU=;VVDpq6YCykXNrkRA4KtO/A=="
 ---
 

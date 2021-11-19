@@ -34,11 +34,43 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 80
+    quality: 180
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2021/11/Grammarly-Abstract.jpg?w=1024"
         width: 1024
         height: 538
+        isCached: true
+  - title: "Swish.ai raises $13M to automate IT service desk tasks"
+    excerpt: "Swish, a startup developing a platform to automate IT service tasks using AI, has raised $13 million in funding."
+    publishedDateTime: 2021-11-18T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/"
+    ampWebUrl: "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Grammarly raises $200M to expand its AI-powered writing suggestions platform"
+    excerpt: "Grammarly, a startup developing an AI-powered writing aid, has raised $200 million in venture capital, valuing it at $13 billion."
+    publishedDateTime: 2021-11-18T03:11:00Z
+    webUrl: "https://venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/"
+    ampWebUrl: "https://venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/09/41625afd-8ff1-4cec-b654-c0fc3e35ad58-e1568994939289.png?w=1200&strip=all"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "CmmeIsvu8+MoN+7z4uuyFDnPCUL6dOgKlebNf//Dsvch89Qfu056tvDcavSfGp9DqpUJs2f1zifcoguJf1V+Zj7Bn+d+ppyYX4hWjHu4Kt9vmwLX+09TMG9ItNqbTed4IcT7wmsz4BI5t9STP59qubRMggS7JX6GEtmNWy169gEgEMo8Bt0xFEquAmmdlvyu0b4dwCze9hfEoX2R5P4gYx3ANG8hpGvalIFl5IDBgA2q+VnizZ33lOCLb1IpX8ER8WbluCj3Rm/kpnMHvn59l5i2gtFQjyn4AFiS5pKUrXyTtLEr/Ta2KWDCwbAjVizzZp+XxNCJ0Maxd8LUbMP/8xFoUfA6WBYwuX/m8jB4sMH7ZoQaE/EwQkkd9F9CN7SS+st4fTw04sNtsRi5u7McnyDiwuTacd63YX3OdaWLbRtrk3bKyYfWdUh1hKfIpdhnquHTk+Z4gVni2hmw0bdM2bBXxEIOzsi6euYP1FuASq+Xwg0cFK4jSB1QJx1W84ImmPdOuaVDwQ7HdAxFoW9HpA==;w5ddz1HB5Xc5FE5Y1DU3BQ=="

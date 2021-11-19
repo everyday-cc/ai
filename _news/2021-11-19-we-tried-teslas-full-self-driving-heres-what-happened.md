@@ -43,6 +43,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NHTSA investigating first report of Tesla 'Full Self-Driving' crash"
+    excerpt: "A California driver has reported the first alleged crash involving Tesla's Full Self-Driving feature to NHTSA. The agency is investigating the claim, which says the car turned into the wrong lane."
+    publishedDateTime: 2021-11-16T19:02:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/Tesla-Model-Y.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trying out Tesla’s ‘full self-driving’ – it leaves good reason to be nervous"
     excerpt: "When a dozen small children crossed in front of our Tesla with \"full self-driving,\" I had good reason to be nervous. Here's what happened."
     publishedDateTime: 2021-11-18T18:41:00Z

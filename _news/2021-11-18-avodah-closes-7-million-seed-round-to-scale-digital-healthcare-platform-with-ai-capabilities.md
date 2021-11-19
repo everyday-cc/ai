@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-18T13:06:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-f2d2ea2bc1a0493e8fce725b92554a91"
 webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-f2d2ea2bc1a0493e8fce725b92554a91"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

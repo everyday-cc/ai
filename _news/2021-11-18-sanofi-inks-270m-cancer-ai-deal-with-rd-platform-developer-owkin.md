@@ -6,9 +6,9 @@ publishedDateTime: 2021-11-18T05:30:00Z
 originalUrl: "https://www.fiercebiotech.com/medtech/sanofi-inks-270m-cancer-ai-deal-r-d-platform-developer-owkin"
 webUrl: "https://www.fiercebiotech.com/medtech/sanofi-inks-270m-cancer-ai-deal-r-d-platform-developer-owkin"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 137
+heat: 197
+published: true
 
 provider:
   name: FierceBiotech
@@ -74,6 +74,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Deloitte and Sanofi collaborate on artificial intelligence SaaS platform"
+    excerpt: "Deloitte and Sanofi have partnered up on an artificial intelligence software-as-a-service (SaaS) adverse events case intake platform called ConvergeHEALTH Safety to transform pharmacovigilance (PV) and address the industry's operational safety challenges."
+    publishedDateTime: 2021-11-15T20:42:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/deloitte-and-sanofi-collaborate-on-artificial-intelligence-saas-platform"
+    type: article
+    provider:
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 16
   - title: "Sanofi invests $180 million equity in Owkin’s artificial intelligence and federated learning to advance oncology pipeline"
     excerpt: "Combined efforts will work to build robust disease models while preserving privacy of large data sets from various research institutions and hospitals Collaboration to focus on four types of cancer PARIS – November 18,"
     publishedDateTime: 2021-11-18T06:32:00Z
@@ -89,6 +98,6 @@ related:
         height: 450
         isCached: true
 
-secured: "k7cueGf3O8gSpTdky5VTfVouzVrPfxtoxwANxE9pp5gEp6gdfcaKQaOhZamFJBXDeRWV8S55xVk6QIwbTknxuy68vSEtULbyQsWQf0UWNImm/VVBYFvwURwTqO6RvsZeBFzSYWr80ryUSve4w9OigRLLTnrrZlST9pE6xU8YYOcbf4BRUudAb7VXjKRx0gDWGml3Yk1yZRAcIOwE969QKq4ngv4fRkWqw1fqdWIgn329Ibt3LdepqEOoS/btbOH96u1+ERdMU8pFKQw8ospoPUKkk/YVLXPvYFZGwp6Ov5aWdGuTFw5XZW5rk79EUdSAKM+OQwkn4B2wJOzgR18UI/AU/L/0IZ66hn35z5T7lJY=;bTfjrVhCsDEBR2N2c4fj7w=="
+secured: "iGZp/AL3AXYZtpo1AO9LSryPagg/bhWdPK7GHsLN8MfPJD1lM4Ifb4wgvgjC6zqMRoj2eESqmugFo2g+egaOOtoeAXOC+wMW/FqsoLp6dk5YMtJrS+Tzt+GoKhnRMY3GLmDlLu5tkKBZ2jSn83nnBr4YkeFnpI+VvlYCHLIi+tX1ThzszacTZlj6uR67IOR3O3Izsvxj6tRISdycgFtnJQcctvYej2H4nEc69hSPMdU6rdp7EGP0OgMtOYzcRBicINHNpXIuVaAI+WBbaPnjI36jUJkkc5C6XPs5FxM+y3NBMlunGQ/TobwNEK6JlAdlLbpdQrlVL+7nSDG0SXM61OUdOVNFTJFndrBh+TjJUA15G5FKw6vfJJAkG0KOg3scGaqRkUFmZ3SAZj7LhMuGlTk6xPzjZEAonoOXU1i6AzQlAN+vGuKM78pKm+/dfB1d2kzqQWEyzaRkrql5BvBC1y8SrXD0fGlKB9XNgZ9+32cGayu0/5aZPRGU2KXVpUkUIlnulrHuYFLzQ+PL32F52IL1U8r2tgPUfx8IrPpL/10=;DaoCvCpuOQw85BtgcvM0Hg=="
 ---
 

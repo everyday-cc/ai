@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/amp/"
 type: article
 quality: 89
-heat: 289
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Accelerates Work on Car Project, Aiming for Fully Autonomous Vehicle"
+    excerpt: "Apple is internally targeting a launch of its self-driving car in four years, faster than the five- to seven-year timeline that some engineers had been planning for earlier this y"
+    publishedDateTime: 2021-11-19T11:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 135
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imunUg3M6pRI/v1/1200x793.jpg"
+        width: 1200
+        height: 793
+        isCached: true
   - title: "Apple ramping up work on developing self-driving car, report says"
     excerpt: "Apple is trying to speed up the development of its self-driving electric car, according to a report from Bloomberg on Monday. The project has reportedly been refocused around the car's potential for autonomy,"
     publishedDateTime: 2021-11-18T20:43:00Z
@@ -93,38 +107,6 @@ related:
         width: 1500
         height: 809
         isCached: true
-  - title: "NHTSA investigating first report of Tesla 'Full Self-Driving' crash"
-    excerpt: "A California driver has reported the first alleged crash involving Tesla's Full Self-Driving feature to NHTSA. The agency is investigating the claim, which says the car turned into the wrong lane."
-    publishedDateTime: 2021-11-16T19:02:00Z
-    webUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash"
-    ampWebUrl: "https://www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/nhtsa-investigating-first-report-of-tesla-full-self-driving-crash.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/Tesla-Model-Y.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Apple expands driver pool for self-driving car tests by 23"
-    excerpt: "Apple has increased the number of drivers for its fleet of autonomous vehicles, with the headcount of testers for its self-driving vehicle systems now at 137 people."
-    publishedDateTime: 2021-11-15T14:55:00Z
-    webUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23"
-    ampWebUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/45634-88829-44849-87211-44393-86171-210914-AppleTestVehicle-xl-xl-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
   - title: "Apple Speeds up Self-Driving Car Project"
     excerpt: "Apple wants to ramp up the development of its electric car with a new focus on making a fully self-driving vehicle."
     publishedDateTime: 2021-11-18T23:06:00Z
@@ -141,125 +123,19 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Apple targets 2025 to launch self-driving car without steering wheel"
-    excerpt: "Apple is reportedly accelerating development of its electric car, targeting 2025 as a possible launch date — and now wants to make it fully self-driving."
-    publishedDateTime: 2021-11-18T19:38:00Z
-    webUrl: "https://nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/"
-    ampWebUrl: "https://nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/amp/"
+  - title: "11 Best Autonomous Vehicle Stocks To Buy Now"
+    excerpt: "In this article, we will take a look at the 11 best autonomous vehicle stocks to buy now. To skip our detailed analysis of the self-driving car industry and its growth potential, you can go directly to the 5 Best Autonomous Vehicle Stocks To Buy Now."
+    publishedDateTime: 2021-11-19T07:51:00Z
+    webUrl: "https://www.insidermonkey.com/blog/11-best-autonomous-vehicle-stocks-to-buy-now-984547/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/11/apple-car_30.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 552
-        isCached: true
-  - title: "Apple’s self-driving electric car may come in 2025"
-    excerpt: "Apple's automotive efforts, known as Project Titan, have proceeded unevenly since 2014 when it first started to design a vehicle from scratch. Its ideal car would have no steering wheel and pedals, with interiors designed around hands-off driving."
-    publishedDateTime: 2021-11-19T06:28:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/articleshow/87795164.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87795164,imgsize-14990,width-800/87795164.jpg"
-        width: 800
-        height: 505
-        isCached: true
-  - title: "Apple now believes it can ship self-driving EV as soon as 2025, Bloomberg reports"
-    excerpt: "Apple is currently determined to ship an electric car that can drive its passengers around within the next four years, according to reporting from Bloomberg. The latest report emphasizes both the features and pacing set by current leadership over the project at Apple."
-    publishedDateTime: 2021-11-18T18:16:00Z
-    webUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/"
-    ampWebUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Apple Plans Debut Of Self Driving Car For 2025"
-    excerpt: "A Bloomberg News report cites sources familiar with the matter saying that Apple plans the launch a self-driving car by 2025."
-    publishedDateTime: 2021-11-18T22:21:00Z
-    webUrl: "https://www.ibtimes.com/apple-plans-debut-self-driving-car-2025-3340876"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/11/10/epic-filed-the-lawsuit-to-break-apples-grip.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "Apple self-driving electric car debut may happen as early as 2025: Here's what you should expect"
-    excerpt: "Apple is not only looking to launch an electric car with some autonomous features, it is planning to launch a car that can completely drive itself"
-    publishedDateTime: 2021-11-19T10:51:00Z
-    webUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/"
-    ampWebUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 31
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/apple-logo-1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Apple reportedly aiming to debut its self-driving steering wheel-less EV as soon as 2025"
-    excerpt: "Apple has reportedly completed \"much of the core work\" for its EV's chip. The project head's now aiming to launch the Apple Car by 2025."
-    publishedDateTime: 2021-11-19T06:54:00Z
-    webUrl: "https://pocketnow.com/apple-reportedly-aiming-debut-its-self-driving-steering-wheel-less-ev-soon-2025"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 30
-    images:
-      - url: "https://media.pocketnow.com/styles/medium/public/2021/08/20210809_Samsung_11805351920px.jpg?itok=3KdE7DuX"
-        width: 600
-        height: 451
-        isCached: true
-  - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
-    excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
-    publishedDateTime: 2021-11-15T18:33:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-self-driving-car-fleet-cars-and-drivers/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
+      name: Insider Monkey
+      domain: insidermonkey.com
     quality: 24
     images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/25694662556_a4f9e40693_b.jpg"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "How self-driving cars perform in fog"
-    excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
-    publishedDateTime: 2021-11-17T13:45:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17435/how-self-driving-cars-perform-in-fog"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/435/17435/Waymo_Fog_11-21.png"
-        width: 752
-        height: 423
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/02024105/matthijs-waanders-iw0D_9wHnf4-unsplash.jpg"
+        width: 1920
+        height: 1171
         isCached: true
   - title: "Apple Is Reportedly Developing a Fully Self-Driving Car"
     excerpt: "Rumor has it that Apple is looking to unveil its first electric car in 2025. According to unknown sources via Bloomberg, the vehicle will feature “full self-driving [abilities] that [don’t] require human intervention."
@@ -275,52 +151,6 @@ related:
         width: 825
         height: 413
         isCached: true
-  - title: "Apple Reportedly Looks to Unveil a Fully Self-Driving Car in 2025"
-    excerpt: "Apple is looking to refocus its long-awaited electric car project on self-driving capabilities, instead of its previously planned semi-autonomous features, according to sources via Bloomberg. Additionally,"
-    publishedDateTime: 2021-11-18T20:33:00Z
-    webUrl: "https://hypebeast.com/2021/11/apple-fully-self-driving-car-2025-bloomberg"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 24
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fapple-fully-self-driving-car-2025-bloomberg-TW.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
-  - title: "Apple’s Self-Driving Test Fleet Adds More Drivers, Apple Car Still Due in 2025"
-    excerpt: "As far as Apple is concerned, there’s no such thing as an Apple Car currently in development, and the company’s automotive strategy comes down to other solutions like CarPlay."
-    publishedDateTime: 2021-11-15T21:50:00Z
-    webUrl: "https://www.autoevolution.com/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 20
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246_1.jpg"
-        width: 1500
-        height: 808
-        isCached: true
-  - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
-    excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."
-    publishedDateTime: 2021-11-18T21:45:00Z
-    webUrl: "https://www.imore.com/apple-has-achieved-key-milestone-self-driving-tech-apple-car"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 4
-  - title: "Report: Apple could launch self-driving electric car in 2025"
-    excerpt: "Apple Inc. could bring its long-rumored electric car to market as soon as 2025 and with a “full self-driving system” onboard, Bloomberg reported today. The 2025 target launch date is said to represent an acceleration of Apple’s development roadmap."
-    publishedDateTime: 2021-11-18T21:53:00Z
-    webUrl: "https://siliconangle.com/2021/11/18/report-apple-launch-self-driving-electric-car-2025/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 4
 
 secured: "GfCloCtecZieeQYOmSbovdeuWc3v1KS7AdZGJgY9IrQv1RPstYjhQr1bs2MkyonUXoVYlJmRzFFggyRC6afLGEmUwkblzVE6NmGscZFt6QTv5+NZBRW6g9OPlMJzVd2KywCNnP7yYd/eLntS0AAaHcigkAxBTdr09m9ZOq9fmUrwOSr1f+KES5rRrIsazhdCL5pTFJXyp5oA5xZfdTFUMPcHfNzizgJfysS9F0YBwnryZsdEgNBRpVNmbzijj1jZfaadzxF7MEs18jxsP7HMtZm5TmYTq++2VQYuqEUJ33LYT1qo20HirrfVeIjDf/sXiGyXV0IAvA6GbFc9Lj5cnXG9DYK5+gNN5Mv3d/4YHYH3NCv2TfjjvkmZPS+0p8C+wywyWi7ox+V0tLgfEw9mfsMMS5TqBo2Q4gFayLrT6QSy7TKXr+0itUdRpxVYo/oeMVTFflJ50DYzSfJ3fzWuPuTzZmKRT2ncY6Zbc18O1uio46TzCFJt1xz4O6XuYsZmiYGzx/Y5umnRx8eoCeRViA==;89LW7DSyqDjicfpQ4jbAaw=="
 ---

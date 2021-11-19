@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Firmenich's Leading AI Expertise Wins Digital Innovation of the Year"
-    excerpt: "Firmenich, the world's largest privately-owned fragrance and taste company, has won Digital Innovation Of The Year at the Digital Economy"
-    publishedDateTime: 2021-11-16T00:50:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/firmenich-s-leading-ai-expertise-wins-digital-innovation-of-the-year-850449104.html"
+  - title: "The world's first 3D mapping battle between humans and AI"
+    excerpt: "Mubert teamed up with Sila Sveta and visual artist Alexander Pogrebetsky to challenge Monoleak and Madina Fattakhova in a 3D map battle. \"We always say that mapping is dead as a genre, it was mastered a long time ago and the only way to give it"
+    publishedDateTime: 2021-11-19T14:38:00Z
+    webUrl: "https://www.lelezard.com/en/news-20115986.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/798187/Firmenich_Logo.jpg?p=facebook"
-        width: 1640
-        height: 860
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "NNxp53gNLwVqdzaVbb20odlY33zCQRbGOBU/BJzBpDtEQrXiRfr73I2zxJZEKTFZG00mzrtxd9Eq7GGDZ3jASCxG22SOndX1+nLAgU9AwLXLDhSXd0lfod6dzl3V5PhuEXoUP3L7KiR/iV9faN1v8lpud37vonhGBa1o9P/UKpV+jGt3r7GmYhc2tBgt7TeejZZXWdprFikCqZjP9t71e83jJ0ARs5WwFfQLhU4SlsRAl7T5VmrBhQ4RvlqnJlVTwomEtZrK6ZSb2Xvj2J+yI0s8qalzCSZ47k6R8gNq5LGc0lIFE32WAFZabc0HPb+dM7d51UHN5cS2ZTpw0lNKNzIfgyeEz1jk/++GiFmFUPs=;mJdvvO/CKKejfCQzJgvnww=="

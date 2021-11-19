@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Sanofi inks $270M cancer AI deal with R&D platform developer Owkin"
+    excerpt: "The two-part deal includes a $180 million equity investment in the company alongside a $90 million discovery and development partnership that spans the next three years."
+    publishedDateTime: 2021-11-18T05:30:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/sanofi-inks-270m-cancer-ai-deal-r-d-platform-developer-owkin"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 137
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1637187670/GettyImages-1226985345.jpg/GettyImages-1226985345.jpg?VersionId=H84OC4OBu58E__a.nTqoWmU7AUJCVZ6G"
+        width: 800
+        height: 450
+        isCached: true
   - title: "CORRECTED-Drugmaker Sanofi invests $180 mln in French AI startup Owkin"
     excerpt: "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday."
     publishedDateTime: 2021-11-18T07:38:00Z
@@ -63,20 +77,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
-  - title: "Sanofi inks $270M cancer AI deal with R&D platform developer Owkin"
-    excerpt: "The two-part deal includes a $180 million equity investment in the company alongside a $90 million discovery and development partnership that spans the next three years."
-    publishedDateTime: 2021-11-18T05:30:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/sanofi-inks-270m-cancer-ai-deal-r-d-platform-developer-owkin"
+  - title: "Deloitte and Sanofi collaborate on artificial intelligence SaaS platform"
+    excerpt: "Deloitte and Sanofi have partnered up on an artificial intelligence software-as-a-service (SaaS) adverse events case intake platform called ConvergeHEALTH Safety to transform pharmacovigilance (PV) and address the industry's operational safety challenges."
+    publishedDateTime: 2021-11-15T20:42:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/deloitte-and-sanofi-collaborate-on-artificial-intelligence-saas-platform"
     type: article
     provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 37
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1637187670/GettyImages-1226985345.jpg/GettyImages-1226985345.jpg?VersionId=H84OC4OBu58E__a.nTqoWmU7AUJCVZ6G"
-        width: 800
-        height: 450
-        isCached: true
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 16
   - title: "Sanofi invests $180 million equity in Owkin’s artificial intelligence and federated learning to advance oncology pipeline"
     excerpt: "Combined efforts will work to build robust disease models while preserving privacy of large data sets from various research institutions and hospitals Collaboration to focus on four types of cancer PARIS – November 18,"
     publishedDateTime: 2021-11-18T06:32:00Z
