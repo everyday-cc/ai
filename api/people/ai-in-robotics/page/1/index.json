@@ -17,7 +17,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 284662
+        "followers": 284667
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -37,7 +37,7 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 292,
+      "heat": 296,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -63,7 +63,7 @@
       "twitter": {
         "username": "rodneyabrooks",
         "url": "https://twitter.com/rodneyabrooks",
-        "followers": 24698
+        "followers": 24697
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rodney-brooks-1a137517/"
@@ -84,7 +84,7 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 101,
+      "heat": 89,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1443383839779213313/8bSPkSxQ_400x400.jpg",
@@ -97,38 +97,35 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/sougwen-chung.md",
-      "title": "Sougwen Chung",
-      "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sougwen-chung/index.json",
-      "webUrl": "https://everyday.cc/ai/people/sougwen-chung/",
+      "path": "_people/carol-e-reiley.md",
+      "title": "Carol E. Reiley",
+      "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/carol-e-reiley/index.json",
+      "webUrl": "https://everyday.cc/ai/people/carol-e-reiley/",
       "type": "profile",
-      "name": "Sougwen Chung",
-      "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-      "location": "New York, New York",
-      "website": "https://sougwen.com/",
+      "name": "Carol E. Reiley",
+      "bio": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
+      "location": "Los Altos, CA",
+      "website": "https://t.co/wvvOUl1h5W",
       "twitter": {
-        "username": "sougwen",
-        "url": "https://twitter.com/sougwen",
-        "followers": 9121
+        "username": "robot_MD",
+        "url": "https://twitter.com/robot_MD",
+        "followers": 11724
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/sougwenchung/"
+        "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
       },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
-      "heat": 87,
-      "tags": [
-        "Artist"
-      ],
+      "heat": 83,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Sougwen Chung",
+          "title": "Carol E. Reiley",
           "isCached": true
         }
       ],
@@ -148,7 +145,7 @@
       "twitter": {
         "username": "SebastianThrun",
         "url": "https://twitter.com/SebastianThrun",
-        "followers": 77393
+        "followers": 77397
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
@@ -180,13 +177,51 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 71,
+      "heat": 83,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/459372432806014977/ftbXtMDO_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Sebastian Thrun",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sougwen-chung.md",
+      "title": "Sougwen Chung",
+      "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sougwen-chung/index.json",
+      "webUrl": "https://everyday.cc/ai/people/sougwen-chung/",
+      "type": "profile",
+      "name": "Sougwen Chung",
+      "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+      "location": "New York, New York",
+      "website": "https://sougwen.com/",
+      "twitter": {
+        "username": "sougwen",
+        "url": "https://twitter.com/sougwen",
+        "followers": 9120
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/sougwenchung/"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 83,
+      "tags": [
+        "Artist"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Sougwen Chung",
           "isCached": true
         }
       ],
@@ -217,7 +252,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 64,
+          "heat": 41,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -239,7 +274,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 57,
+          "heat": 41,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
@@ -260,7 +295,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 50,
+          "heat": 58,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
@@ -282,7 +317,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 42,
+          "heat": 58,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
@@ -295,80 +330,13 @@
         }
       ],
       "size": 8,
-      "heat": 68,
+      "heat": 69,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Jean Liu",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alice-agogino.md",
-      "title": "Alice M. Agogino",
-      "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alice-agogino/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alice-agogino/",
-      "type": "profile",
-      "name": "Alice M. Agogino",
-      "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-      "location": "UC Berkeley",
-      "website": "https://me.berkeley.edu/people/alice-m-agogino/",
-      "twitter": {
-        "username": "agogino",
-        "url": "https://twitter.com/agogino",
-        "followers": 1482
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Alice M. Agogino",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/carol-e-reiley.md",
-      "title": "Carol E. Reiley",
-      "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/carol-e-reiley/index.json",
-      "webUrl": "https://everyday.cc/ai/people/carol-e-reiley/",
-      "type": "profile",
-      "name": "Carol E. Reiley",
-      "bio": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
-      "location": "Los Altos, CA",
-      "website": "https://t.co/wvvOUl1h5W",
-      "twitter": {
-        "username": "robot_MD",
-        "url": "https://twitter.com/robot_MD",
-        "followers": 11724
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Carol E. Reiley",
           "isCached": true
         }
       ],
@@ -394,13 +362,45 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 42,
+      "heat": 58,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Madeline Gannon",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alice-agogino.md",
+      "title": "Alice M. Agogino",
+      "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alice-agogino/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alice-agogino/",
+      "type": "profile",
+      "name": "Alice M. Agogino",
+      "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
+      "location": "UC Berkeley",
+      "website": "https://me.berkeley.edu/people/alice-m-agogino/",
+      "twitter": {
+        "username": "agogino",
+        "url": "https://twitter.com/agogino",
+        "followers": 1482
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Alice M. Agogino",
           "isCached": true
         }
       ],
