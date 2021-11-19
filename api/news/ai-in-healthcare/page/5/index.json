@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-13-insights-on-the-artificial-intelligence-in-diagnostics-global-market-to-2028-by-component-diagnosis-type-and-region-researchandmarketscom.md",
+      "title": "Insights on the Artificial Intelligence in Diagnostics Global Market to 2028 - by Component, Diagnosis Type and Region - ResearchAndMarkets.com",
+      "excerpt": "The “Global Artificial Intelligence in Diagnostics Market Size, Share & Trends Analysis Report by Component (Software, Hardware, Services), by Diagnosis Type (Cardiology, Radiology, Neurology), by Region,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-software-coronavirus-pandemic-artificial-intelligence-804e6730dded4767945e7c5bcff89b9f",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-software-coronavirus-pandemic-artificial-intelligence-804e6730dded4767945e7c5bcff89b9f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-artificial-intelligence-in-healthcare-market-2021-to-2027-top-impacting-factors-and-investment-study.md",
       "title": "Artificial Intelligence In Healthcare Market 2021 to 2027 Top Impacting Factors and Investment Study",
       "excerpt": "The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed over",

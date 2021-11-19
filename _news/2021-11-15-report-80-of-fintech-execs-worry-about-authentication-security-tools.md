@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/report-80-of-fintech-execs-worry-about-authentication-security-tools/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/eec31d33-3d68-52dd-86a4-575e41897b0f&operation=CROP&offset=0x19&resize=1150x647"
         width: 650
         height: 366
-        isCached: true
-  - title: "Technology + Innovation in the financial sector = FINTECH"
-    excerpt: "In celebration of UAE Year of the Fiftieth (50th), it is important to note how far we have come as a country. Historically, the Dubai economy was dependent on oil and gas, and accounted for 50% of its GDP in 1985."
-    publishedDateTime: 2021-11-14T13:15:00Z
-    webUrl: "https://www.linkedin.com/pulse/technology-innovation-financial-sector-fintech-reefat-maniar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
         isCached: true
   - title: "Taking on Fintech in its own backyard"
     excerpt: "The Fintech market is growing at an incredible rate, reinventing the financial services sector as it goes. Valued at $20.4 billion as recently as 2019, the Fintech sector is projected to be worth $471 billion globally by 2027."

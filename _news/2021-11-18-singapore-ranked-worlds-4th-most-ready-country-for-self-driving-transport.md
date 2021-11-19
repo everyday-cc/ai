@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
 type: article
 quality: 72
-heat: 112
+heat: 113
 published: true
 
 provider:

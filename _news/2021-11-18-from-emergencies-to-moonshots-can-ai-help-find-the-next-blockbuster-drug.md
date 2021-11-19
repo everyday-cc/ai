@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/googlecloud/2021/11/17/from-emergencies
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/11/17/from-emergencies-to-moonshots-can-ai-help-find-the-next-blockbuster-drug/amp/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

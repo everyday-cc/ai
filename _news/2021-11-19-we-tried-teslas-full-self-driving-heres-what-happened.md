@@ -43,22 +43,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Tesla 'Full Self-Driving' safety complaint investigated by NHTSA"
-    excerpt: "Driving” software, and the Tesla Model Y went into the wrong lane and was hit by another vehicle, according to a complaint filed by the driver with NHTSA."
-    publishedDateTime: 2021-11-14T14:43:00Z
-    webUrl: "https://www.autoblog.com/2021/11/14/tesla-full-self-driving-complaint-nhtsa/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/11/14/tesla-full-self-driving-complaint-nhtsa/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/5472x3078+0+570/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-02/156832a0-6710-11eb-bfdf-08aa04837d19"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Tesla’s Full Self-Driving Mode Has Registered Its First Crash With The NHTSA"
     excerpt: "Advertisement There is a complaint registered with the National Highway Traffic Safety Administration (NHTSA) pertaining to Tesla’s Full Self-Driving (FSD) beta. The accident involved a Model Y vehicle in FSD condition that crashed in Brea,"
     publishedDateTime: 2021-11-14T18:29:00Z

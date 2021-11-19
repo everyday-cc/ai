@@ -7,7 +7,7 @@ originalUrl: "https://www.studyinternational.com/news/proctoring-universities-us
 webUrl: "https://www.studyinternational.com/news/proctoring-universities-using-ai/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 798
     isCached: true
+
+related:
+  - title: "How the Pentagon Is Bringing Artificial Intelligence to Its Cameras"
+    excerpt: "How can seemingly unmanageable volume of data be organized efficiently for human decisionmakers? Here's What You Need to Remember: The new DARPA system, called Fast Event-based Neuromorphic Camera and Electronics (FENCE),"
+    publishedDateTime: 2021-11-19T03:30:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/how-pentagon-bringing-artificial-intelligence-its-cameras-196484"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/army_12.jpg"
+        width: 1222
+        height: 815
+        isCached: true
 
 secured: "3YII23FlPhVEK+lMip9L+NoZl50X5IgiaQ5DvGET0OaHBhOMrG5j7MXlFuZF3bXOnx0Bk4P2YHrc7OAbLpbwRAyyODWFk3Cf+wSmzg9xe2l47HvaPGiT0+nkIC/NxJlNC849YA/8+d0zmvBmcU+2hk/lgo65Fyp5cmH1f1z9AFbgokAM6Awj6uodviIqHbZ7i0YDYJLuRDNwodXK4f22R63YDVwbcdhN9K+i4VBJMyPYd3hs/KBkYBZ42yrv+pwVK+orsoBnKoYNLZFdFyDBwQrvHC4vJ85dvFR+WRwtRNUIpGcP1ilCma0IqChlBMoSqfXQ4+bOL32q899fDtIeCOPhWVThH+BF1JqK9afjJis=;X7a3Jdq5KqBOS63bUbMSpA=="
 ---

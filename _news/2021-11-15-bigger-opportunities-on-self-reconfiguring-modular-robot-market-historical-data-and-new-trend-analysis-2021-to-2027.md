@@ -44,6 +44,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Voice Recognition Market Increasing Demand, Growth Analysis, and Strategic Outlook 2025"
+    excerpt: "To Know How COVID-19 Pandemic Will Impact Market Request a sample Report at:  Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11."
+    publishedDateTime: 2021-11-16T17:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-increasing-demand-growth-analysis-and-strategic-outlook-2025-2021-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2021 Report on the Use of AI for Wellbeing & Comfort in the Automotive Industry - ResearchAndMarkets.com"
     excerpt: "The “AI in Wellbeing & Comfort in Automotive Industry” report has been added to ResearchAndMarkets.com’s offering. The report forecasts that artificial intelligence will transform the cars in the near future as many companies such as Hyundai,"
     publishedDateTime: 2021-11-18T14:39:00Z

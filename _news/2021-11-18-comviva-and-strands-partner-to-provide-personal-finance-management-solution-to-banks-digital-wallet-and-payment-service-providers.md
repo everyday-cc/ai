@@ -39,6 +39,15 @@ related:
         width: 990
         height: 660
         isCached: true
+  - title: "Comviva and Strands Partner to Provide Personal Finance Management Solution to Banks, digital wallet and payment service providers"
+    excerpt: "Our collaboration with Strands will allow us to leverage data-analytics, Artificial Intelligence and Machine Learning ... boundaries of financial innovation and, as a result of our partnership, enabling banks to improve the financial services experience ..."
+    publishedDateTime: 2021-11-19T02:55:00Z
+    webUrl: "https://www.newswit.com/en/LOyD"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 4
   - title: "VoiceSage partners with Capital Platform to Provide Technology Services for their Platform for UK, European and International Clients."
     excerpt: "VoiceSage partners with Capital Platform to provide technology services for their platform for UK, European and International clients. With flagship sales in eight new countries, six global reseller partnerships,"
     publishedDateTime: 2021-11-17T16:28:00Z

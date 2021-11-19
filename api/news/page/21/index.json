@@ -2,6 +2,110 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-11-02-ibm-research-and-neureality-announce-partnership-for-ai.md",
+      "title": "IBM Research and NeuReality Announce Partnership For AI",
+      "excerpt": "IBM (NYSE: IBM) and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms that will deliver disruptive cost and power consumption improvements for deep learning use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/11/02/ibm-research-and-neureality-announce-partnership-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/11/02/ibm-research-and-neureality-announce-partnership-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618013cee0269118180aa325%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-why-ai-still-needs-humans-in-the-loop-at-least-for-now.md",
+      "title": "Why AI still needs humans in the loop, at least for now",
+      "excerpt": "If AI-generated writing becomes indistinguishable from human writing, we'll still need to check it carefully enough to see the mistakes",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "originalUrl": "https://www.zdnet.com/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e683aa03ba74a7aeb58f9976bd08489e193044fa/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-still-needs-humans-in-the-loop-at-least-for-now/",
+      "publishedDateTime": "2021-11-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-pharma-startup-quris-aims-to-use-a-patient-on-a-chip-to-target-drug-delivery.md",
       "title": "Pharma startup Quris aims to use a ‘patient on a chip’ to target drug delivery",
       "excerpt": "Pharma startup Quris aims to use AI, knowledge of the human genome, and a \"patient on a chip\" to improve drug delivery.",
@@ -1044,101 +1148,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars.md",
-      "title": "Dump Truck Accident Pours Liquid Asphalt From Overpass Onto Vehicles Below, Providing Lessons For AI Self-Driving Cars",
-      "excerpt": "The recent news report about a dump truck that inadvertently spewed hot asphalt from an overpass onto a freeway is closely examined, and lessons for AI-based self-driving cars are gleaned from the harrowing event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d133c17070cc69341f362d%2F0x0.jpg%3FcropX1%3D344%26cropX2%3D1919%26cropY1%3D21%26cropY2%3D1203",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/01/dump-truck-accident-pours-liquid-asphalt-from-overpass-onto-vehicles-below-providing-lessons-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-11-01T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-venture-capital-drawn-to-ai-and-data-fintechs-as-next-connected-economy-unicorns.md",
-      "title": "Venture Capital Drawn to AI and Data FinTechs as Next Connected Economy Unicorns",
-      "excerpt": "Blumberg Capital Founder and Managing Partner David Blumberg laid out his company’s vision for funding vital problem-solving FinTechs that scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/connectedeconomy/2021/venture-capital-drawn-to-ai-data-fintechs-as-next-connected-economy-unicorns/",
-      "originalUrl": "https://www.pymnts.com/connectedeconomy/2021/venture-capital-drawn-to-ai-data-fintechs-as-next-connected-economy-unicorns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/connectedeconomy/2021/venture-capital-drawn-to-ai-data-fintechs-as-next-connected-economy-unicorns/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/connectedeconomy/2021/venture-capital-drawn-to-ai-data-fintechs-as-next-connected-economy-unicorns/amp/",
-      "publishedDateTime": "2021-11-01T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

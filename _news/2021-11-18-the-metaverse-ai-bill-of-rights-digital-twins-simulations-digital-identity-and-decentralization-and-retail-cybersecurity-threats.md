@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unity Moves Robotics Training to the Metaverse"
-    excerpt: "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,"
-    publishedDateTime: 2021-11-14T13:50:00Z
-    webUrl: "https://bestgamingpro.com/unity-moves-robotics-training-to-the-metaverse/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 69
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Unity-moves-robotics-design-and-training-to-the-metaverse.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "From AI-powered avatars to user data: Is there space for rights in the metaverse?"
     excerpt: "The term \"metaverse\" has been used to describe an array of shared spaces accessed via the internet – from fully-immersive virtual reality (VR) space.."
     publishedDateTime: 2021-11-15T03:49:00Z

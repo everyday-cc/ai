@@ -43,20 +43,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Technology + Innovation in the financial sector = FINTECH"
-    excerpt: "In celebration of UAE Year of the Fiftieth (50th), it is important to note how far we have come as a country. Historically, the Dubai economy was dependent on oil and gas, and accounted for 50% of its GDP in 1985."
-    publishedDateTime: 2021-11-14T13:15:00Z
-    webUrl: "https://www.linkedin.com/pulse/technology-innovation-financial-sector-fintech-reefat-maniar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "Taking on Fintech in its own backyard"
     excerpt: "The Fintech market is growing at an incredible rate, reinventing the financial services sector as it goes. Valued at $20.4 billion as recently as 2019, the Fintech sector is projected to be worth $471 billion globally by 2027."
     publishedDateTime: 2021-11-15T16:52:00Z

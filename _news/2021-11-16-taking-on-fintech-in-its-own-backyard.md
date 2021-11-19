@@ -57,20 +57,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Technology + Innovation in the financial sector = FINTECH"
-    excerpt: "In celebration of UAE Year of the Fiftieth (50th), it is important to note how far we have come as a country. Historically, the Dubai economy was dependent on oil and gas, and accounted for 50% of its GDP in 1985."
-    publishedDateTime: 2021-11-14T13:15:00Z
-    webUrl: "https://www.linkedin.com/pulse/technology-innovation-financial-sector-fintech-reefat-maniar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "Fintech collaborations boost the credit union advantage"
     excerpt: "The focus for credit unions will always be on their members, including their members’ experience. But how does this translate in an ever-changing, technology-driven landscape? I sat down recently with Upstart’s Jeff Keltner to discuss a wide variety of topics,"
     publishedDateTime: 2021-11-17T07:30:00Z

@@ -483,6 +483,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-14-hotspotting-the-opioid-crisis-heres-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose.md",
+      "title": "'Hotspotting the Opioid Crisis': Here's how artificial intelligence will identify those at-risk for an overdose",
+      "excerpt": "Using artificial intelligence, the SI PPS and the MIT Sloan School of Management developed a predictive analytic program that will pull data from more than 70 providers and partners on Staten Island to identify who is at highest risk of an overdose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/14/039hotspotting-the-opioid-crisis039-here039s-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/14/039hotspotting-the-opioid-crisis039-here039s-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/11/12/1366132.jpg",
+          "width": 1240,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-13T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-13-exploring-the-impact-of-machine-learning-and-artificial-intelligence-in-drug-development-from-discovery-to-healthcare.md",
       "title": "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare",
       "excerpt": "SMi Group reports the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the opportunities of machine learning and AI in drug development SMi Group is delighted to announce",
@@ -1361,50 +1404,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults.md",
-      "title": "UMass Lowell, partners to launch AI-robotics initiative to aid older adults",
-      "excerpt": "The quality of life for senior citizens is being improved through a new initiative developing robotics and artificial intelligence systems, and UMass Lowell researchers are among",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
-      "originalUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowellsun.com/wp-content/uploads/2021/10/low-l-umlrobotics-01.jpg?w=1024&#038;h=729",
-          "width": 1024,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
-      "cdnAmpWebUrl": "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/10/31/umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults/amp/",
-      "publishedDateTime": "2021-10-31T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lowell Sun",
-        "domain": "lowellsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -155,6 +155,22 @@ related:
         width: 1024
         height: 552
         isCached: true
+  - title: "Apple’s self-driving electric car may come in 2025"
+    excerpt: "Apple's automotive efforts, known as Project Titan, have proceeded unevenly since 2014 when it first started to design a vehicle from scratch. Its ideal car would have no steering wheel and pedals, with interiors designed around hands-off driving."
+    publishedDateTime: 2021-11-19T06:28:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/articleshow/87795164.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87795164,imgsize-14990,width-800/87795164.jpg"
+        width: 800
+        height: 505
+        isCached: true
   - title: "Apple Plans Debut Of Self Driving Car For 2025"
     excerpt: "A Bloomberg News report cites sources familiar with the matter saying that Apple plans the launch a self-driving car by 2025."
     publishedDateTime: 2021-11-18T22:21:00Z

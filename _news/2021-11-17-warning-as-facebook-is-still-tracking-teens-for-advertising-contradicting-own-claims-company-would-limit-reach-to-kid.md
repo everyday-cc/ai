@@ -105,6 +105,20 @@ related:
         width: 821
         height: 462
         isCached: true
+  - title: "Facebook AI Releases XLS-R, Self-Supervised Model For Speech Tasks"
+    excerpt: "XLS-R was evaluated on four major multilingual speech recognition benchmarks, outperformed prior work on most of the 37 languages tested."
+    publishedDateTime: 2021-11-19T06:40:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-ai-releases-xls-r-self-supervised-model-for-speech-tasks/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/74906660_1344982945678655_4412778871699537920_n.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook parent company Meta still collecting personal data from teens for ads, report says"
     excerpt: "A new report claims Facebook and its parent company, Meta, are still collecting and harvesting your kids’ data — from what they like, to what they search — to target them with ads. Fairplay, Reset Australia and Global Action Plan released the report."
     publishedDateTime: 2021-11-16T21:34:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/social-media/from-
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/social-media/from-ai-powered-avatars-to-user-data-is-there-space-for-rights-in-the-metaverse/87708426"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: India Times
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unity Moves Robotics Training to the Metaverse"
-    excerpt: "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,"
-    publishedDateTime: 2021-11-14T13:50:00Z
-    webUrl: "https://bestgamingpro.com/unity-moves-robotics-training-to-the-metaverse/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 69
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Unity-moves-robotics-design-and-training-to-the-metaverse.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "AI bots to user data: Is there space for rights in the metaverse?"
     excerpt: "Facebook’s ‘metaverse’ plans fuel debate on virtual world as shared digital spaces raise privacy, ownership questions. Rights campaigners urge regulators to widen safeguards."
     publishedDateTime: 2021-11-15T02:10:00Z

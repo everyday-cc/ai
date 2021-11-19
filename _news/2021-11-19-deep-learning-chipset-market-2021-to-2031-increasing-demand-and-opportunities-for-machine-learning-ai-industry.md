@@ -9,7 +9,7 @@ ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-ma
 cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Voice Recognition Market Increasing Demand, Growth Analysis, and Strategic Outlook 2025"
+    excerpt: "To Know How COVID-19 Pandemic Will Impact Market Request a sample Report at:  Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11."
+    publishedDateTime: 2021-11-16T17:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-increasing-demand-growth-analysis-and-strategic-outlook-2025-2021-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Bigger Opportunities on Self-Reconfiguring Modular Robot Market Historical Data and New Trend Analysis 2021 to 2027"
     excerpt: "Self Reconfiguring Modular Robot Market Perspective 2021 Modular self reconfigurable robotic systems are responsible for designing controlling fabricating and motion planning of kinematic machines by using variable morphology The market for self reconfiguring modular robots in the Asia Pacific is"
     publishedDateTime: 2021-11-15T12:59:00Z
