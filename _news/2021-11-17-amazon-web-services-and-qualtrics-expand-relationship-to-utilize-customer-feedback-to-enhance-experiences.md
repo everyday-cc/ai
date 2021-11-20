@@ -20,33 +20,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "AWS becomes Qualtrics’ preferred cloud provider"
-    excerpt: "A software firm, for example, can leverage Qualtrics’ platform to gauge user responses to a new feature before deciding whether or not to release it into general availability. Qualtrics has partnered with AWS to modernize several key components of its information technology infrastructure."
-    publishedDateTime: 2021-11-15T21:00:00Z
-    webUrl: "https://siliconangle.com/2021/11/15/aws-becomes-qualtrics-preferred-cloud-provider/"
+  - title: "A Customer Intelligence Platform on AWS for a Superior Customer Experience"
+    excerpt: "Customer experience has become a strategic priority on the CEO’s agenda. Enterprises now consider customer delight to be a differentiator in the marketplace. Sentient technology is critical to serve customers better and be responsive to their needs."
+    publishedDateTime: 2021-11-19T21:04:00Z
+    webUrl: "https://www.cio.com/article/3641235/a-customer-intelligence-platform-on-aws-for-a-superior-customer-experience.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: CIO
+      domain: cio.com
+    quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Zig-Serafin-Enterprise-Connect-2016.jpg"
-        width: 1444
-        height: 963
-        isCached: true
-  - title: "Qualtrics and AWS Expand Relationship to Transform Customer Feedback into Enhanced Experiences"
-    excerpt: "(NASDAQ: AMZN), and Qualtrics (NASDAQ: XM) announced they are expanding their relationship, with Qualtrics migrating its internal IT systems and customer-facing workloads to the world’s leading cloud."
-    publishedDateTime: 2021-11-15T21:00:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.idgesg.net/images/article/2021/11/istock-1274394138-100911858-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 625
         isCached: true
 
 secured: "Xh5z4OoOQaHJQ2mU/RQoPB8zpLLUd0MaLhJ8fMog9DlyotHkLrsAfmb34d6DaUifwvyV0tGYibz4JDuSe5OWmhd1t54TQM1Lo0UQKRNYNVWZonTC2GxTUB9ik2JwdCZVmISwvMMxdkBhXl7A2AmVs1QB/a+7mdYEPP+go8pPJVqvqeMWSjg4omkQCO0UXvckp2r9Dux6vJf0Dv8SUJQ5EZevN1XaI4ru1sIqLJZK/phwGhkDm9pzFsU38Osv0iuDEuWQupph8Dsr8qSRH2nRbTSORlGN/e5fVqav/fgOU+cDfbs/JffiSyWARjSpEJtft1d80VHkUzhPXY9hPwerE45TbnVN2v4ngmggef+McdU=;em5mgBLjDo9q2jHOI4eYpw=="

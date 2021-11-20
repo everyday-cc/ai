@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Announcing conversational AI partner solutions"
-    excerpt: "We are excited to announce the availability of AWS conversational AI partner solutions, which enables enterprises to implement high-quality, highly effective chatbot, virtual assistant, and Interactive Voice Response (IVR) solutions through the domain expertise of AWS Partners and AWS AI and machine"
-    publishedDateTime: 2021-11-15T19:04:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-conversational-ai-partner-solutions/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
   - title: "AWS Touts Partners’ Conversational AI Solutions"
     excerpt: "A new AWS initiative puts the spotlight on partners’ conversational artificial intelligence (CAI) solutions that allow organizations to deploy chatbots, virtual assistants and interactive voice respon"
     publishedDateTime: 2021-11-16T20:38:00Z

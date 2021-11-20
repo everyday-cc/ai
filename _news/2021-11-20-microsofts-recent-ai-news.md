@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 593
         isCached: true
-  - title: "Microsoft Azure Vision AI Principal Manager to keynote TMA virtual event"
-    excerpt: "Virtual OPSTech is Mr. Rouzbeh Aminpour, Microsoft Azure Artificial Intelligence Platform's Computer Vision Business & Strategy Principal"
-    publishedDateTime: 2021-11-15T19:26:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/microsoft-azure-vision-ai-principal-manager-to-keynote-tma-virtual-event"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 70
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Concentric AI Becomes Member of Microsoft Intelligent Security Association"
     excerpt: "MISA is an ecosystem of independent software vendors and managed security services providers that have integrated their security products with Microsoft’s to defend against increasing cyber-threats. Concentric AI was nominated to MISA for seamlessly integrating its award-winning,"
     publishedDateTime: 2021-11-18T12:48:00Z

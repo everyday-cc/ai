@@ -88,15 +88,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Deloitte and Sanofi collaborate on artificial intelligence SaaS platform"
-    excerpt: "Deloitte and Sanofi have partnered up on an artificial intelligence software-as-a-service (SaaS) adverse events case intake platform called ConvergeHEALTH Safety to transform pharmacovigilance (PV) and address the industry's operational safety challenges."
-    publishedDateTime: 2021-11-15T20:42:00Z
-    webUrl: "https://www.pharmaceuticalcommerce.com/view/deloitte-and-sanofi-collaborate-on-artificial-intelligence-saas-platform"
-    type: article
-    provider:
-      name: pharmaceuticalcommerce
-      domain: pharmaceuticalcommerce.com
-    quality: 16
   - title: "Sanofi invests $180 million equity in Owkin’s artificial intelligence and federated learning to advance oncology pipeline"
     excerpt: "Combined efforts will work to build robust disease models while preserving privacy of large data sets from various research institutions and hospitals Collaboration to focus on four types of cancer PARIS – November 18,"
     publishedDateTime: 2021-11-18T06:32:00Z

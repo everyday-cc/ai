@@ -103,15 +103,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Deloitte and Sanofi collaborate on artificial intelligence SaaS platform"
-    excerpt: "Deloitte and Sanofi have partnered up on an artificial intelligence software-as-a-service (SaaS) adverse events case intake platform called ConvergeHEALTH Safety to transform pharmacovigilance (PV) and address the industry's operational safety challenges."
-    publishedDateTime: 2021-11-15T20:42:00Z
-    webUrl: "https://www.pharmaceuticalcommerce.com/view/deloitte-and-sanofi-collaborate-on-artificial-intelligence-saas-platform"
-    type: article
-    provider:
-      name: pharmaceuticalcommerce
-      domain: pharmaceuticalcommerce.com
-    quality: 16
 
 secured: "akDCPddP9T42QJnyVpJ7nkoR/ozhP41W/gUOvg37PmVZA/NPu82I4ky3wN+WpGNiwIcaB7Bm9Zdy/qZDSETt3v1fnrkji3v1KQqhEwrXGECKEJdwUXQrP3DY2mCEN8G3H1+MgJm0M1ENzNDu1X3WfUtsi0XLaIin+/hBsBPdnEpzNFshHGLzb/BlMyS4oY+wNHSApbBev8pz+9yVdPDPRii3I9LYQMDWm4Qv/z5ageK9Le+VUL9LO4oX0dzAGmt5tJ50TC9ctEhfq+Gely/I0ftafO8Bac8CjuWRNJ2+pYf4bPt6mMQtZKLQ6rOnksOj+v/WIMtz9i2xragddwf4AsbnE250KEl8K+oit5xahcU=;cgxnKgx/lTxBGLIx+7XEEg=="
 ---

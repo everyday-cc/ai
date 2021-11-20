@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/11/g24208062/new-book-discuss
 ampWebUrl: "https://www.benzinga.com/amp/content/24208062"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24208062"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://marketersmedia.com/wp-content/uploads/2021/11/89053615-thumb.png"
@@ -26,6 +27,6 @@ images:
     height: 480
     isCached: true
 
-secured: "d2gLojlL5SoIextsG61xaT3QRbZSdDvYY3TddeY5ekKj/dUi9KMkOlo81uvTtcGLxeiS+nCoQfxHOl31H6s/KbVfPD5JkTJU3Vn6sjRh3XPToI5iBoGywxH+Al4kBxYrgqUQEY7KpiapTYt1zJNqvf2WJm3lwUjsF0jUONX6jW7luUQw8j1af+6HssvvYKrjGdFG0TxFtBpBPiGPxYWaablwfnY5PUkcW6pMSucg05j4KsGFrGRkQpKC9vwLdIZVXzXvauhhrRMiJCxhuz7dds3ABWbfYfxyAI+CMxqRwG6RPgmuZQXM94jl3MRNM3EAJzRd7L3keeHR8IqTGdI3DKkCHkdnBQyCC22SphUwsCY=;bMWmvHVdCkcOQzNmxYZ4CQ=="
+secured: "d6NB72ViLTy3ry68Nz7QtUFvwI62qppRoKNWqT9RFOSe7wEYWv/X9y0PNXtI0ANhP6Hn/EJ2PpLrIdbnZHkTB9GiIdDBg+31y4+B4hZKXBnAdyu8iFdjufGPpjqITN2nEeZGY1sFCF7DIEeP7kcFqnPmUVDZyntRrrHGE+evxSrPb5TX/yuxMDAi+TZXEpbi1AXsBdAH+GJn1fFYIfK97dJM5S0oVR8smY4upunpNZGnK7LX+MKPxg0M/c+05xsxoweUW6SYGtx70tgYmOjs7StWO1Jno59ZoX5Ls56GA4BfwvngUpdYuPtcaQhwOc0COVP8rRG2J1ffr+GRpusuEFr+KDSI3cpyGMB98eF5Co5Wq7vNVyIzETM63Lnd0zUjWAgXrmyb1Zsnuo4vyXdrolLCBQDYYpS572WHTcY+FchC62O7R8GNHkqFqXatPXsW2UI4ZwTwizL+CpSOMcav6saBxurRhTuKnYySZDl7Dx6l0rMmnbCOrmWk38A3qZJmCYUro/YLEHVqIghHcovwTQ==;zSYujUFs/th5/Ff329gMpA=="
 ---
 

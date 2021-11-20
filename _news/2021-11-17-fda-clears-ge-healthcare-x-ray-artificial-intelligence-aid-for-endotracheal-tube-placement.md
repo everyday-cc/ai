@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Low code and no code may open more doors to artificial intelligence"
+    excerpt: "The jury is still out on whether low and no code platforms can blaze a path to high-end application development -- at least not yet."
+    publishedDateTime: 2021-11-20T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/67eb29774477fdfb5a6bd6f1e0df24ed724e881d/2021/11/20/91e4f4e4-4221-45fe-9094-2aa6ccf22d2b/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 1168
+        isCached: true
   - title: "Still a Way to Go Before AI Can Help Patients on Ventilators"
     excerpt: "Computers aren’t ever going to replace doctors completely. Instead, artificial intelligence (AI) has the potential to better support clinical work, a | Clinical And Molecular Dx"
     publishedDateTime: 2021-11-16T15:00:00Z

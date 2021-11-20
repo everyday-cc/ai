@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/final-hype-exit-ar-vr-ai-lars-fredr
 webUrl: "https://www.linkedin.com/pulse/final-hype-exit-ar-vr-ai-lars-fredriksen"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 480
     height: 720
     isCached: true
-
-related:
-  - title: "AI-Based Neural Holographic Displays Could Dramatically Boost the Realism of AR, VR Scenes"
-    excerpt: "Specially-trained neural network and clever calibration system create virtual and augmented reality images which are more believable."
-    publishedDateTime: 2021-11-15T20:59:00Z
-    webUrl: "https://www.hackster.io/news/ai-based-neural-holographic-displays-could-dramatically-boost-the-realism-of-ar-vr-scenes-ac8dc1e5cd1f"
-    ampWebUrl: "https://www.hackster.io/news/ai-based-neural-holographic-displays-could-dramatically-boost-the-realism-of-ar-vr-scenes-ac8dc1e5cd1f.amp"
-    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/ai-based-neural-holographic-displays-could-dramatically-boost-the-realism-of-ar-vr-scenes-ac8dc1e5cd1f.amp"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 49
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1373916/image_v3G0criYXw.png?auto=compress%2Cformat"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "d0CWM2iun4dme6bjK0hniIw7dfOLC034BKvfv2YE9Ppx23TVrTpU0+XY969ZW9ui46cqz2Y3ypXwoV0bLbi/TOoeKwZ2xgLTNSGjOJN+fFigZLPmDLprcA3n5MNfitgqbNiQES+bsDCZG0M1poj4CAlrlfbKDGTACmKGiSPKSUDgLyQVuL80mzeh8tw70BCMjOAfCnX9Ncmg6zgEGq953jB0g3GlUT3QC/IMy76M5NYgxsXRmX47RKRXPhGDyDxpxDNJ6/ShOgQO1vG1shOpgzcHYcyEWywH00sjcUDyz+5N8CaN4vqacQUK7Hrp3mdpEN1eo8sYHJuQlAuSozqYzIMaTxwNLhl4pCJwzaZCMYpvBN+mvm0B3XeqMR3C5SntfuIEwyBs0OjFdD3ggp5BdZNFfoVMbZy+VXHbyph+epdsqNMtEwNNm18VyWGH1HhdzxumOH/JAMKtwQMFWJOyNA2FKQXmV9coXZPuf2NfC2QSQO6wQ50CsdZlkNz1Mtdt5RC9GCs4cOzHZ6fLf18TMw==;4fva3d/8rDTQQn9ZyY0Gow=="
 ---

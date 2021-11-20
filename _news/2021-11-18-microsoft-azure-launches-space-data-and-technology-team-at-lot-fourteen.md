@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 593
         isCached: true
-  - title: "Microsoft Azure Vision AI Principal Manager to keynote TMA virtual event"
-    excerpt: "Virtual OPSTech is Mr. Rouzbeh Aminpour, Microsoft Azure Artificial Intelligence Platform's Computer Vision Business & Strategy Principal"
-    publishedDateTime: 2021-11-15T19:26:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/microsoft-azure-vision-ai-principal-manager-to-keynote-tma-virtual-event"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 70
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Microsoft's Recent AI News"
     excerpt: "Microsoft has built itself up into a Cloud and Corporate Metaverse leader in recent years and that's staring to really show in its artificial intelligence ambitions. We have to give credit where it is"
     publishedDateTime: 2021-11-20T03:53:00Z
