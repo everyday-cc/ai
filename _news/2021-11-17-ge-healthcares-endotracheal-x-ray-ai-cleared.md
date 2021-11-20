@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Some AI benefits. How artificial intelligence is helping us be more human."
-    excerpt: "It may sound contradictory, but artificial intelligence is allowing us to be more human in our interactions, our work, and in the way we spend our time. Former CEO of IBM, Ginni Rometty has said “Some people call this artificial intelligence,"
-    publishedDateTime: 2021-11-15T13:52:00Z
-    webUrl: "https://www.linkedin.com/pulse/some-ai-benefits-how-artificial-intelligence-helping-us-bob-hutchins"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFWlZaBrIdbrw/article-cover_image-shrink_720_1280/0/1636984226174?e=1642636800&v=beta&t=pZifNksKUikvWxJaCQHFzn4Gif8T_ZvyDCOQ9iDqQk0"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "GE Healthcare Receives FDA Clearance for First X-ray AI to Help Assess Endotracheal Tube Placement"
     excerpt: "GE Healthcare today announced it has received Food and Drug Administration (FDA) 510(k) clearance for an artificial intelligence (AI) algorithm to hel"
     publishedDateTime: 2021-11-16T00:00:00Z

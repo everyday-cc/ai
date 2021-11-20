@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DataRobot Launches Comprehensive Industry-Specific AI Solution"
-    excerpt: "DataRobot is rolling out a banking-specific tool as part of its new comprehensive solution that delivers industry-tailored AI capabilities to multiple sectors."
-    publishedDateTime: 2021-11-15T14:01:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/datarobot-launches-comprehensive-industry-specific-ai-solution/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/DataRobot-artificial-intelligence-banking-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Base64.ai Launches Cloud-Based AI for Real-Time Document Processing and Data Extraction"
     excerpt: "Base64.ai, an innovative New York startup launches its cloud-based AI technology to offer real-time document processing and data extraction. The revolutionary technology recognizes any type of document and it instantly extracts the text,"
     publishedDateTime: 2021-11-18T13:23:00Z

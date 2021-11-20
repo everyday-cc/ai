@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ai Weiwei: In Many Ways, The United States Is Already An Authoritarian State"
-    excerpt: "Chinese dissident Ai Weiwei, who grew up in a Xinjiang labor camp, issued a chilling warning for civil libertarians in the U.S. during an interview this week with Margaret Hoover on \"Firing Line.\" \"In many ways,"
-    publishedDateTime: 2021-11-15T14:49:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/11/15/ai_weiwei_in_many_ways_the_united_states_is_already_an_authoritarian_state.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/11/15/ai_weiwei_in_many_ways_the_united_states_is_already_an_authoritarian_state.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/11/15/ai_weiwei_in_many_ways_the_united_states_is_already_an_authoritarian_state.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 34
   - title: "Federated learning is a governance problem"
     excerpt: "RegulAItion’s data science team take a moment to chat through why Governance is key to the application of Federated Learning. Federated learning is a powerful technological solution for preserving privacy and data integrity while developing AI models."
     publishedDateTime: 2021-11-17T08:03:00Z

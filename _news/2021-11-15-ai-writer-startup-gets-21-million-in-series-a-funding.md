@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 645
         isCached: true
-  - title: "AI-powered writing assistant Writer nabs $21M"
-    excerpt: "Writer, a company developing an AI-powered assistant primarily aimed at marketing use cases, has raised $21 million."
-    publishedDateTime: 2021-11-15T13:09:00Z
-    webUrl: "https://venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/05/a_typewriter_10995863465.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "QODezfxm/ra3uhzv3nu1nSxz4pnCU1gH5MDALtkN64Isd9J8kO1RPx2nSQsgpXOWOVoesus/vXouA/B6uF3EgCBXlHVNmkM6NuX7tV6Yh67p/HY3XxM/n6ZhO50EmZxwapXrvw0tn+5PB7LDaMHVmm72LTqxqWpKASsYEYF+biAkO796fHNCv+0o8qCX6Te1tPE6out2kZ0W9v1oAxpoNerooN9DHvzaq4P6jsm3Rpj45oXxuB+pFQEaZf1aF2f/YdEcCPVDaBUu18UnfFH2SoYDSDQc38qFXg3+6TlHROzrhPuLmhJrPDLPoB87Lm88vJCJIq4TQGPkwD+Xbv8I5LJVM3eLr57mJ40qHxGu11RGwly/5/q2VhAzeuaHcpfcMcYdss8g+mLOHDygUZ1dcB4ah7voU/QS+R32aLf8gzl7aG9WriJySHDyC37zXAYSo+JpuKXQZ1QCjexdewC/PeZl1PwVjG8WcluwiBfPYbbWlQXH1OnSNvJp+YcqQ0C2tiQPUZ+vf8+4y9i6HRJWnQ==;6oIGKPPGW+sEldm2AbQlQA=="
 ---

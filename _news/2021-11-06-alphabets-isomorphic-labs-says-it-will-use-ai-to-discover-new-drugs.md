@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Alphabet's Isomorphic Labs Says It Will Use AI to Discover New Drugs"
+title: "Alphabet’s Isomorphic Labs Says It Will Use AI to Discover New Drugs"
 excerpt: "The commercial venture will reportedly build off of advancements made by Alphabet’s DeepMind, which used a model called AlphaFold2 to predict the shape of proteins in the human body with near ..."
-publishedDateTime: 2021-11-05T19:51:00Z
-originalUrl: "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449"
-webUrl: "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449"
-ampWebUrl: "https://gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/alphabets-isomorphic-labs-says-it-will-use-ai-to-discov-1848006449/amp"
+publishedDateTime: 2021-11-06T11:14:00Z
+originalUrl: "https://www.gizmodo.com.au/2021/11/alphabets-isomorphic-labs-says-it-will-use-ai-to-discover-new-drugs/"
+webUrl: "https://www.gizmodo.com.au/2021/11/alphabets-isomorphic-labs-says-it-will-use-ai-to-discover-new-drugs/"
+ampWebUrl: "https://www.gizmodo.com.au/2021/11/alphabets-isomorphic-labs-says-it-will-use-ai-to-discover-new-drugs/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/alphabets-isomorphic-labs-says-it-will-use-ai-to-discover-new-drugs/amp/"
 type: article
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ff798528b11ef62b1fe1def5a6099780.jpg"
-    width: 800
-    height: 450
+  - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/06/ff798528b11ef62b1fe1def5a6099780-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "HyT67XZlPThRIE0bBdKNu3nI73evFT909sno+yjnOWEwtmIcn8LgH+hWSnIL1jDqqrh7MhGKYTMQ/1+eZdp6OVrVJ5lSXcbEAo8AeMB2AAQKBoUzKznyqoi8ROxz+2wZNxELhhr7eAtCXfJSqJmbFxcQR7KoJl7pdCtoUHWV/6GM10sp31GlVDLoiTQzzQVkUtv5NyHG9o+I/jb+8ALyDLfarLM6pxLAkYlEeq4+H73rBk8bD8vS5RPHjT9qE8XfTGlyZp3Hau4EbtUsomvtXoe/qk7KW8qEzPm3ZbzbNUjspI8BTekvhPRaiUscUt3XvD3IRw2LMG8TiSrCBO9iA5p4lQK9t23WSOlPHX/BkxU=;uFtp/zwPto6w8B0gJWz2Fw=="
+secured: "TrxAW0KZJuTkiedVjL3uc6T4p12M7/WF+4Dgxw2Q+W05iyEkbIcjAyx3yxmdejv6KFBSMcP2K7OS4+Flt/+qnjgu7327ibV+2FunNMuvCTGjwIbHfUPb00jJfvvJAnRmqKf7pVckcaa7dKNozO1Tw/g/5kWRjkXeO3rZQ8As2d44xtzOyD4tnNCRwFqtq/7WGJNrN2IQPQ2gSgsK2jr/jHVKjccyzLlsl8YWxxrWVLKqoULTckBR5MEBB+1E1KzdZIHo6EaL+EHmG1FQFlhaawue7AaXV0cWvZT57JkLNYmIYasw4Vs7kvmXUk3ytMEjvuOgtnmgPJbwELdYBxBYxDJM4NWaJasgDB/Hy3iHvmY=;N6C6sLtsZG8HWENmI4B5KQ=="
 ---
 

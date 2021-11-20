@@ -71,34 +71,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Artificial intelligence and process automation in the fresh produce industry"
-    excerpt: "In a webinar hosted by Keelings Knowledge, Julia Baumanns, Technical Delivery Manager at Microsoft, and Tobias Fausch, CIO at BayWa, talked about future technologies in the fresh"
-    publishedDateTime: 2021-11-15T14:59:00Z
-    webUrl: "https://www.freshplaza.com/article/9373467/artificial-intelligence-and-process-automation-in-the-fresh-produce-industry/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 34
-    images:
-      - url: "https://agfstorage.blob.core.windows.net/misc/FP_de/2021/11/12/_MAR4068_1_.jpg"
-        width: 600
-        height: 399
-        isCached: true
-  - title: "What's Next for Data Processing? A Closer Look at In-Memory Computing"
-    excerpt: "Evangelos S. Eleftheriou - CTO of  Technology is progressing at an incredible pace and no technology is moving faster than Artificial Intelligence (AI)."
-    publishedDateTime: 2021-11-15T14:14:00Z
-    webUrl: "https://www.linkedin.com/pulse/whats-next-data-processing-closer-look-in-memory-computing-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG4ELgECSu0XQ/article-cover_image-shrink_600_2000/0/1636976449088?e=1642636800&v=beta&t=MWagnHX_4tf4_ysgxhBBORe2eHMdX075xmLjmJV4YRg"
-        width: 624
-        height: 351
-        isCached: true
 
 secured: "h1RrBrsKP7P3alOXiBDdJ9TiKIIDaw/5B8C4vjM+Uy7Db+gZssfWHmzUAqy3jkSt4oFDZIyZagAOS3NulK1QyzsWxPEHsKuJ3UU8Z6MVVs3hhzYpaLhJ6YvMTPCmX0ZK8MYhf/dBjUoAY6W3SHCMf9H8fkT4gj4fucdNny3e79pj4qjniMfcxL663ZCeTiN2GBJTJdBfUm40s4IZLsX8x9t/+fAmUa+YdX98OLns0KIqC3O1z8mx9ggFP/SBBEvkq9qIJQc3UZsm17gU5UZfRDevJakOQJEME7jS2GH5CpE/t6TWsuhfrr9WM3d/hTSR01mJpJa6lcvPcNms6JHscu2eDdY3OL5TJu/1sGoDiCIXRV2K/WPSp/NcvYPPOP3vIwlik5PgD7A0elK2KJPCNTuFcBphtn5Lms5zcD7+ChVDYwyPg2JHaqyxV1JX42q5wldoF41Qjxeg4p7xCAC49Vks3HFIo0uT86a9n7ltTvn8DxJaWLsXkOrWMaJua8HDJWKpDbrweq76gba3/+JqKA==;krRT424MVl2FwUG4zhnS1Q=="
 ---

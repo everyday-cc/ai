@@ -188,15 +188,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 4
-  - title: "Self-Driving Cars Can Be Hacked By Just Putting Stickers On Street Signs"
-    excerpt: "All it takes is a simple sticker onto a sign board to confuse any self-driving car and cause accident. Isn't this so dangerous? A team of researchers from the University of Washington demonstrated how anyone could print stickers off at home and put them on ..."
-    publishedDateTime: 2021-11-15T14:12:00Z
-    webUrl: "https://www.xing.com/communities/posts/self-driving-cars-can-be-hacked-by-just-putting-stickers-on-street-signs-1013597535"
-    type: article
-    provider:
-      name: XING
-      domain: xing.com
-    quality: 3
 
 secured: "YE1B0G7PD192aBPRzbhBHv8HN5Is68tUjg9oI9u7IUCOgjMxFzUzC3eWn+YQToGeQzCynWxsmWrJaPuWxCsRc9Dy1TWZTLEfNkyIkZifio6k3AHMpBGVW1LPZQgsc/NSfm5405rTt8IMyI18O9pIAWcnM4U+0ma2xRt+ILIjkGBGmt1NjBImwA/CmYtaBnJP5dP1/kqmKuo9NnzxeHyjrBh0Nzg+9F4uugFZjTp6mPVsh2Y1z7y4V2eOYy9xIgO80Oiuv0vM/p+5FJCQwWzbIf4tQpVqvG7O2MvXXsydCTV8/hmEKktU+sVfBkYKi9a/nM/3deA0EvV1WDKh4cOUBZ/7b8iWEng9LKpFDOTHocA3NWwAWB5mEBMtxGBLmUSVhiKodlNxEvspvRpEf/Yfe5UGQMmcXXfGXPX6EEocQkhxjZak2teiwMCGnt42mZK96PcpORXwz+XcD/ZmAD2TNcI3KVMdw0g6YBNxtTazxWKLPxL4UWjU7OkGJFKXrPB7HOjf/f1x9RkdCAjTrH0Fpg==;jainA0enai/b1VYyraLhOQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered writing assistant Writer nabs $21M"
-    excerpt: "Writer, a company developing an AI-powered assistant primarily aimed at marketing use cases, has raised $21 million."
-    publishedDateTime: 2021-11-15T13:09:00Z
-    webUrl: "https://venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/ai-powered-writing-assistant-writer-nabs-21m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/05/a_typewriter_10995863465.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
   - title: "AI Writer Startup Gets $21 Million in Series A Funding"
     excerpt: "Writer, an AI framework capable of generating written content for marketing teams, announced today that it has secured $21 million in series A funding, in a package led by venture capital company Insight Partners."
     publishedDateTime: 2021-11-15T15:58:00Z

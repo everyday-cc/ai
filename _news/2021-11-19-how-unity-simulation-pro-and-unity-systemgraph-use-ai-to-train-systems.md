@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/19/how-unity-simulation-pro-and-unit
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/19/how-unity-simulation-pro-and-unity-systemgraph-use-ai-to-train-systems/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 835
     isCached: true
+
+related:
+  - title: "U.S.-Jordan Start Unmanned Systems, AI Integration"
+    excerpt: "The U.S. military and Jordan have begun work on unmanned systems and artificial intelligence integration as part of their efforts to establish a new unmanned task force. On November 18, U.S. Naval Forces Central Command (NAVCENT) briefed the head of Jordan’s navy on U."
+    publishedDateTime: 2021-11-20T06:28:00Z
+    webUrl: "https://www.defenseworld.net/news/30821/U_S__Jordan_Start_Unmanned_Systems__AI_Integration"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 37
+    images:
+      - url: "https://www.defenseworld.net/uploads//news/big/bghynjude_1637389573.jpg?ezimgfmt=rs%3Adevice%2Frscb8-1"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "GbvxCnOxgorMCzZOu0icuW03wNyW6ycnar+GGTH2SDpfqcZQUWrZKrgj/lglorzpNaIY+A6Gk0Y6Fy2QEcByRn2of0Arr+PEMSzTVpR8lv62KpPfnSsJsOW+CeL2V6ZjvUc8lu9AqhH2pbpaKXvkTyYah9FiyYCNcIGnOZy4PeQ1MiZ7geLa6XvkyRX4lYsYRDSe5ge6xvHxPdOMbF0Udpu4R7JCbkqM1hUQQAx7Ymm40gydJDHeHt6mn2uQopLUwqwjZPpAr2ENj8A+sOe9Ok+umrzc5hr9mq8/ouHvhSj3XbUngERghEuQsG+otrnjvDuFHf7LSDKAzYCH0uRiQeNtrVvpOxMTluaj0Wze0tM9WAD/VMCKyrVpBmbamdLAG9V4F7RRhMJyJpUIu45Uo0w5Fd7ZPKJDA3xkfq+xF2kUpVhfgutfE/MPBph90h49itY7CGlvrcfl0jbaIkQmISMGhVUPUXtzyEC6rImf0xYrHYgJeLy0d+ljOYdD0OrZFUdNluCJs4J0xo1q+a+9Ow==;dnia+zYWB97DBfaJu8UNoQ=="
 ---

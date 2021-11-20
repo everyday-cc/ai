@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-b
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1"
 type: article
 quality: 83
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Apple expands driver pool for self-driving car tests by 23"
-    excerpt: "Apple has increased the number of drivers for its fleet of autonomous vehicles, with the headcount of testers for its self-driving vehicle systems now at 137 people."
-    publishedDateTime: 2021-11-15T14:55:00Z
-    webUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23"
-    ampWebUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/45634-88829-44849-87211-44393-86171-210914-AppleTestVehicle-xl-xl-xl.jpg"
-        width: 870
-        height: 485
         isCached: true
   - title: "Qualcomm to supply chips for BMW's self-driving cars"
     excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."

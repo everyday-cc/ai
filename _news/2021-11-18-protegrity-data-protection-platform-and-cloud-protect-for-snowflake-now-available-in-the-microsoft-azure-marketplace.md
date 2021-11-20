@@ -35,20 +35,6 @@ related:
         width: 1144
         height: 863
         isCached: true
-  - title: "The Consumer Financial Protection Bureau’s emerging agenda"
-    excerpt: "Since its formation in 2011, the Consumer Financial Protection Bureau has been perhaps the most significant federal regulatory agency for the specialty finance sector and middle market financial service companies."
-    publishedDateTime: 2021-11-15T14:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/consumer-financial-protection-bureaus-emerging-agenda-hollis-cpa"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG9_ayNVR8j1w/article-cover_image-shrink_720_1280/0/1636987574675?e=1642636800&v=beta&t=Fo76NA93X7-PmY1Tst5RIEWOaRhRWSL5zk3J-OJ7fy0"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "2EBdnIMY5gsYtBA3DZZwAjJqnOzrSXGGd0sqGAid3bMwUUpHCzmgAaVzIWDccpnMt2SHQd+7rDJqslcAtdEXc11BVnNHpR8Jz3A8xfMMZFgcyMqlGgAVz7buU3kK0NehLGm6xaiLuUFUxhOiAwlbi5kkrKu56S0dQsHBZLfPkz9r5o3AZrSZbj46aef9gO8CfcucgkvaBjQ+XT6DvXj+V1aY8lxg7LiV8aCl43oTz5VjN5Va29xx4EfG+HTkAHo4CEXSwtSgOnqb9OHgK96HabPHoCgvGRy5wBwD1PGr6LVEgaby6yabd8lppezytYJL8ghqhkEBCuwcQVnHNin5+0BsAxhwtS0/d1oRLjE3RM4=;iFlKSDaam1rYL4b/xrFsVg=="
 ---

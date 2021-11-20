@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple expands driver pool for self-driving car tests by 23"
-    excerpt: "Apple has increased the number of drivers for its fleet of autonomous vehicles, with the headcount of testers for its self-driving vehicle systems now at 137 people."
-    publishedDateTime: 2021-11-15T14:55:00Z
-    webUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23"
-    ampWebUrl: "https://appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/11/15/apple-expands-driver-pool-for-self-driving-car-tests-by-23/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/45634-88829-44849-87211-44393-86171-210914-AppleTestVehicle-xl-xl-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
   - title: "Qualcomm to supply chips for BMW's self-driving cars"
     excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
     publishedDateTime: 2021-11-16T13:52:00Z

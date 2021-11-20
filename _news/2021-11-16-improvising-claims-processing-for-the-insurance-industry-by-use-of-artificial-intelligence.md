@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insura
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
 type: article
 quality: 62
-heat: 112
+heat: 92
 published: true
 
 provider:
@@ -69,34 +69,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2019/04/online-shopping-reviews-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Artificial intelligence and process automation in the fresh produce industry"
-    excerpt: "In a webinar hosted by Keelings Knowledge, Julia Baumanns, Technical Delivery Manager at Microsoft, and Tobias Fausch, CIO at BayWa, talked about future technologies in the fresh"
-    publishedDateTime: 2021-11-15T14:59:00Z
-    webUrl: "https://www.freshplaza.com/article/9373467/artificial-intelligence-and-process-automation-in-the-fresh-produce-industry/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 34
-    images:
-      - url: "https://agfstorage.blob.core.windows.net/misc/FP_de/2021/11/12/_MAR4068_1_.jpg"
-        width: 600
-        height: 399
-        isCached: true
-  - title: "What's Next for Data Processing? A Closer Look at In-Memory Computing"
-    excerpt: "Evangelos S. Eleftheriou - CTO of  Technology is progressing at an incredible pace and no technology is moving faster than Artificial Intelligence (AI)."
-    publishedDateTime: 2021-11-15T14:14:00Z
-    webUrl: "https://www.linkedin.com/pulse/whats-next-data-processing-closer-look-in-memory-computing-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG4ELgECSu0XQ/article-cover_image-shrink_600_2000/0/1636976449088?e=1642636800&v=beta&t=MWagnHX_4tf4_ysgxhBBORe2eHMdX075xmLjmJV4YRg"
-        width: 624
-        height: 351
         isCached: true
 
 secured: "g4znSH8U1KDZyx89DNcbZ2tywEo7eUkQh4E1EBpZK59BcubB84F1n7PBCFNRQRcoGxZp3LYbtAZNIxTLrUAS2fhgNrVq9jGfgobzGkZkmUbaLWWQJAHSkL9fwRFIVeI3Zib5u33swsxXxsQAbuHUWgjZWXKjbjyK1im09ru2g+CgA5aDAlsngX27VVg4aetP92djuugDnnrBIlaosZWfaDp/iO1RH5kDb5CrZwusgtaZORuftY8zJAqX5Jx0caaRAs5DTqFKQDfeFTeKBHL1V2yoCutdvoylxNVj9ksk/PtstirgXdFKrTihcsdUZ81cJzaOFvkRE0xjrSXrYSyWNZ9Bclo5l2zRurSjfquo7RU=;Ap+JhB9tmv/J6yXQ3q4YBA=="

@@ -29,7 +29,7 @@ related:
   - title: "Readiness for mammography and artificial intelligence"
     excerpt: "One area that has attracted great attention for the use of deep learning artificial intelligence (AI) in health care is medical imaging, especially mammography. Many initial AI studies proclaimed remarkable improvement in accuracy over the performance of radiologists,"
     publishedDateTime: 2021-11-19T04:27:00Z
-    webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02484-3/fulltext?rss%3Dyes"
+    webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02484-3/fulltext"
     type: article
     provider:
       name: The Lancet

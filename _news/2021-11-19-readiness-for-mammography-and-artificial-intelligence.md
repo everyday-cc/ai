@@ -3,8 +3,8 @@ category: news
 title: "Readiness for mammography and artificial intelligence"
 excerpt: "One area that has attracted great attention for the use of deep learning artificial intelligence (AI) in health care is medical imaging, especially mammography. Many initial AI studies proclaimed remarkable improvement in accuracy over the performance of radiologists,"
 publishedDateTime: 2021-11-19T04:27:00Z
-originalUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02484-3/fulltext?rss%3Dyes"
-webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02484-3/fulltext?rss%3Dyes"
+originalUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02484-3/fulltext"
+webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02484-3/fulltext"
 type: article
 quality: 19
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 737
         isCached: true
 
-secured: "fKhUH0Uow3296djjYiPebJq7+rmd1LxTZIfe072tTdWR/REmXJSlbphG2AK73OQ+BanGWlYGe9Gwpav91C0s13xS4GQTqEU0l1X1I85e+gScqXiUxXrzgWGagsg+iaQYGzJNRaQUByo+1226+/zxIF3kLuVRy1/gvQX7QwZ7/LR1fz+qx2WjnoL1SIsf+SaGcDY/vq41W4Gu28DBhCmw4ZuFKlvXPo272KV6KpnfYeYcFYcadw2H3Ckd7Yic6gwUzL2V4nb1No6bIGf7OzCijOj3k225nclARTgWKlsENhuTBolpLZCPQ8lA1fqQQBJLiZE8wCSnLG8Ye5vF2VAKzmGCK639E8xkBjFwkhFMtwxmtcYRF/gExV8+B1duGCcfGlMkxgNbKI9BiW/QJxwRCXhZ9ipPNnAbpk3heMoWS1C5UHvA9Zpd+Of8nm97rdiErwE97YFntQ2C0rhfw3LFtU6qimEb526P2xQvVPGhkS2XogmWbI9UmgP9gMuFO1goN9f+ycgtt1JF1pCUG2fPsg==;0/DNM1aWcxf49G/f+JlbKw=="
+secured: "S8HlsIhBJ5oSr2sk6KCgw8A6zO0be/nMSso4yT0bYUGpRdQIpDRE5mTUWEw1HHexxTyY4UpQg3rBOwVl+REY+Oj654OkG7Oqk+4VO2NIiTH3w420PE8AmysKzuB930akkzm/s+Tvlabj6uJ+plGx48oSDosLgDk85vWwya+wFEtuBC4IaCTnVsPXZczMnxNfYrw2kQIX8nOnz/GmiwkKHJj+OZKsNTkrN6QpKYDvW/7rEKisub52CX/TJvuDVN817J3aQe2MA+opYD5nhwHoqcAdEQsX2/1ejNRdM7Ps3XcLkWBQ7jblBqOdNBi3qbJlymqNN8wKoByZ8WSdiyucKrE/bpRtSa29btO4RD6l8bQSymL2iDU8ySiBnSke81q9EiKf73mD22xBNuzP73fWXjHzxdj9u07jzrB/Aq2UTlGyaLi/+KoXlO4NtYOcUS0+vb1p/rEbmyexnpMAVBvFq5H0kfs7hGHTdrgAsw3KeuqEm+0w9tLW0mTb0y72ZAfd3kHWBfbXlnOGAWrYWLvkLw==;DojpaduZnuzE6BhBr/YmyA=="
 ---
 

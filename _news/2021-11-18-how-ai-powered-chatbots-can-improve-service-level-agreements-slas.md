@@ -7,7 +7,7 @@ originalUrl: "https://www.itbriefcase.net/how-ai-powered-chatbots-can-improve-se
 webUrl: "https://www.itbriefcase.net/how-ai-powered-chatbots-can-improve-service-level-agreements-slas"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 512
     height: 512
     isCached: true
+
+related:
+  - title: "MIKE GINGERICH: The best AI chatbots for business in 2022"
+    excerpt: "Chatbots are one of the fastest growing communication tools for businesses. According to Startup Bonsai, 24.9% of buyers used chatbots in 2020, a 92% increase from 2019. Indeed, 67% of"
+    publishedDateTime: 2021-11-20T03:15:00Z
+    webUrl: "https://www.heraldbulletin.com/indiana/news/mike-gingerich-the-best-ai-chatbots-for-business-in-2022/article_232e994d-7655-5723-8100-33f9c397a388.html"
+    type: article
+    provider:
+      name: The Herald Bulletin
+      domain: heraldbulletin.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/heraldbulletin.com/content/tncms/assets/v3/editorial/7/8e/78e027a8-0250-583a-b8e9-981895776669/6195941ae7307.image.jpg?resize=700%2C400"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "wkZaHRoiqoIULs2qP9zIP5rJIjlTrgn01JkLCNAjL9M/8l5WMSF7i/FgknvUtvU1L8UUlekSztoy8IYZ6bpmpV0SPn5PQKgSEyLecCu/vGBGoz+mXRZOUndH1530iWpoJaQ6M6MR6RwZFVF3BYa0a+ZMlZibCNKclCotOEpZ0Uu1hVlTzwTboOWC7doLxEOjhZi+72wfzUBT3ZDOH3phHU3itqoH79SPbFNslTdAh3ygxC3j3+FAYEdVjKCLX64Ghp3GG0yhKCe+ifHjPyrXcgon4LJ0FFAkN+ro3larSa4FUKCxa/OPs6i7IMLMA7xSK2GQPSxO9fQhHX75bNDkK5SBfseFhjDUtHs8LuhXEh0=;misfEqlcx7OVh76M/P0Khw=="
 ---

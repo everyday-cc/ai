@@ -41,15 +41,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "CyberLink's FaceMe® Certified by iBeta - Anti-Spoofing Technology Detects & Rejects 100% of Facial Presentation Attacks"
-    excerpt: "(5203.TW), a pioneer in AI and facial recognition technologies, announced today that the anti-spoofing capabilities of its FaceMe® facial recognition solution achieved a True Rejection Rate of 100%, obtaining a perfect score in iBeta's industrial standard PAD (Presentation Attack Detection) test."
-    publishedDateTime: 2021-11-15T14:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cyberlinks-facemereg-certified-ibeta-anti-spoofing-technology-detects-/2021/11/15/9492020.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "2aSNGNMBTlTSnnjbSMLy84k6NkLflwDkcJgvSwlzJMFo5KfKxVw04HPmufpVEohCqXxAAapF4YRzHMgvrfiSBx/nYV9xwHKtJn9WMn1J2G/QKWhgprr4hN7VpB3s6ue2fRqPWKLADCAalzYWD/8pSsq+/AuYoPES/uaMG5dRnd8SIol1f8pjeilqvkgo3x6xj6cxpYrRZeHfYDqL5Z7AYq/cG65qzOPgZ66w9klz6KIGAUzUNgzA8BZlMDJxpfxNN9zPWvUdtqS1M/7LCKfUtlAWDnUQqvRHSh8g7fDnXgpBqWUC6Cl7FT+wb6FmknNTf/9murROBR2ymJY5PsDnVMDApTNfxsZ2OLvIavrOb3U=;72PFBirVHyAwm55TDl2lOQ=="
 ---
