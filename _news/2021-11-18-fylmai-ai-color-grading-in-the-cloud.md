@@ -37,20 +37,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Github Analysis Shows India As An Emerging AI Superpower"
-    excerpt: "This also reflects an impetus to upskill India's vast technology talent base that was initiated by the country's IT services companies."
-    publishedDateTime: 2021-11-15T08:50:00Z
-    webUrl: "https://analyticsindiamag.com/github-analysis-shows-india-as-an-emerging-ai-superpower/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/github-logo-768x373-1.jpeg"
-        width: 768
-        height: 373
-        isCached: true
 
 secured: "WiNp1bIu7LpdcaXXb8MQbKrAmUwgwlDP9fvFGZ8BE24uSYfDWH/wOs1D2Y9G7FGpEAPmtT0v32TmlxGK02XmntjWAzSgdYd72wbxUC3AJWuQtGhus0BaRiVMeIIYxA7wnNxjYecUz/XB3CI1B23sYACQ+yBqicv9ViFcBwoLD8n0maHMySFUP60iIw6IRgBd2wmcH8K3w1jaSAMbyoOJMTjkGuIfhyrKPvAUnUHH3UTqrC/zTTeM9ppImhUqde2WvWX9Ia7DLGvptFsXXpvnGruzK4Sfi1yNg2mpCRV9UjgYgP6pKJP44z5tOtRkGpOaqELpRCALwz8OJmeODaQ8kFNmKjxZs8ERUytbR4v4gfPMNyJGy6qY/8Q+LQ1kuT4X6XZ+YAgfoYPgYQjoh3dxcKaXDBQ5FuIgoTpD5CP1wbGrtHhn97H9FK5P9jDtU1Lfckbuj1jkq3aj7Ta1IWIa2CSwvx+rdWxPxp8o+PwPGjThXAy+bAHSv3nJTGWELmfZFZkKK8B025VeJ2eea//BFA==;aciq0l4I5tri+XSyFFxGjw=="
 ---

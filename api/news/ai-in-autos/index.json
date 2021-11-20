@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-20-self-driving-stocks-join-evs-as-next-retail-trader-obsession.md",
+      "title": "Self-Driving Stocks Join EVs as Next Retail Trader Obsession",
+      "excerpt": "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Friday on high volume.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaaSmj6nsYe8/v2/1200x675.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-is-the-world-ready-for-a-self-driving-car.md",
       "title": "Is The World Ready For A Self-Driving Car?",
       "excerpt": "Hitting Apple's ambitious 2025 target depends entirely on the company’s ability to design, build and test its self-driving system.",
@@ -376,7 +428,7 @@
       "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1389,45 +1441,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI stocks may be excellent long-term investments. The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. From machine learning to",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/",
-      "originalUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/amp/",
-      "publishedDateTime": "2021-11-08T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics",
-        "Microsoft AI",
-        "AI in Autos",
-        "AWS AI"
       ]
     }
   ],

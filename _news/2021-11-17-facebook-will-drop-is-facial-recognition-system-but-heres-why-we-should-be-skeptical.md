@@ -54,20 +54,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Meta-0, Facebook-1: The Facial Recognition Hypocrisy"
-    excerpt: "Facebook has stopped the usage of facial recognition technology on its platform; however, parent company Meta has not made any such commitments."
-    publishedDateTime: 2021-11-15T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/meta-0-facebook-1-the-facial-recognition-hypocrisy/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/face-banner-_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "tWJyI49l+eZLhW+864aYDs8pChauA0h0/ZE+bwyCWFhccj/dJahKYF1f+SIvU7S2WRhMmu8H6bmkETkwB1yQbr5xWk8i8Z/6vWE71lQ1rdzOvMaRiOwDp0snPYY07OBvMPPPnxa8fWztQgLvL6u7GTCxau7GaPgEzwChRh3kFYPbxatDmS6kR7fVWEquKp6ppPcNioalAcU4Bvu5SDkrC4QfrXa3UADvmaRjAT+z+gUCCD7TMOXZqTbIBeWzyBhfA3MjZOn8N5kw7hejbwofUzzwL0TeiuHzFVxTIimBN6yp2fSXTvjdVtUG3T23di0BOuEI9Lmhhq8tEcIoerLZQBhcdNI2EY2eDHmB6ghS/glzU7ET9LnB/qB8V5Vc6iEKFCZip0q+3jQP1dwFqJ9IDOtrrdNJUIfDKqFO4AbYH06werHj3zH7OST/ABBCwSbYHhzuuB5EZPnEpzmVez7DB76mnaxBgIh1L3lbB2+5JE33AjBAbq9cYtIGRAI+KFTHn17NWQVrcw0oa1QxDe4y6Q==;H342HWa+QyIemUsiSjt08Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

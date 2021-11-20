@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-pat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 267
     isCached: true
 
-secured: "I0PC+/KVfgPwFeHvOcxOqKmkQEaA74xua6OIrfbDnMDXpR8gZ0qKPr5N8dOz3+fpUUaqMTa5BLaVvPCcJs4f5pF/MxhTodou0mIK32RXOeAAegEKr0MOwNeucYPaRxG6DaaniyQ6CbgvQor4CXvWJS0fAgowX5f0rNJjraQ+6KSdSYo8stNe1tUByZf+or7yJu44mJuS6UMLCMeVSNp7AD8qeAbSMpgw78sCYO4lSvZ+L+wGRbV7UBuXvESgWodzY5lhueHqUw8/moYWS1OwbrWZ8/k1Oa0ZUi4OJz/EOPyn4xyahpdiAegwpFusSxwEv0hbZHPr1LtGBJ0p4IzbG+o9i0WiXXeSZGalKjhm4Pk=;MJLdV/klqTYmjBkGvgfdmw=="
+secured: "amtOicu1u7CqmU0kYkcphTwMzkDwgcwctb2ECOYqLckTypKPyYC6u+3jTn/2DTPtzRWm6+10hRfr9borzzk/pSQJM87bayrbfdkwlnC4+K021E9Cuz8epftYJBsx48dQiXY9WnUatj5KuhjnYLqUDUIECEXWJhpN3Wh91Hqx6sALV2Qdq3lpMmpgpFHxp8+kje//P6xkaWT0GBc2GnulAwyIuzUUYgwhTwXNFJRFkFaPQ7iFaSp99iSptRBMcK+72yylhrFDS1agHogLzTlnKdWxAUFQ1EAldYzv+bJfXEs4zZ5oy5Lt9IQZRWGqkVr5ZZl+oBPDzRfvxoqrfExY8NNUW/MVptrblArAxrP144wIuCiWedeNJ59SFoH+vBRJ3n6XIkJPcDxwYQddB7kEoYtitg1iHgiaVOQeEqTefzhJu8Yc0wEpnGorK8dV68xQ4DuuPfJ604MwQGo+L8ew0t07LafltaakP8YhhxIIXVnxbiiQuYYlYOQZBlGNmIH9hbAvJcoZD93IsHJRIGetxw==;p0w9++X0SnNEzHAN/8tYig=="
 ---
 

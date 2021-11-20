@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-12-self-driving-truck-startup-kodiak-robotics-raises-125-million.md",
+      "title": "Self-Driving Truck Startup Kodiak Robotics Raises $125 Million",
+      "excerpt": "Self-driving truck startup Kodiak Robotics recently announced a $125 million funding round as the trucking industry is facing major challenges, including growing shipping demand and driver shortages.",
+      "sourceUrl": null,
+      "webUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million",
+      "originalUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/4d811bbb-96df-46b3-885f-771caf17ad34.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp",
+      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp",
+      "publishedDateTime": "2021-11-11T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cheddar",
+        "domain": "cheddar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-customize-amazon-translate-output-to-meet-your-domain-and-organization-specific-vocabulary.md",
       "title": "Customize Amazon Translate output to meet your domain and organization specific vocabulary",
       "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. When you translate from one language to another, you want your machine translation to be accurate, fluent, and most importantly contextual. Customization is key",
@@ -1185,48 +1229,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech.md",
-      "title": "Toch.ai launches Rs 100 cr Startup Fund; to invest in video, audio tech",
-      "excerpt": "Toch.ai, an AI-driven SaaS platform for digital content players today launched a Rs 100 crore Startup Fund to invest in video and audio tech startups globally over a period of time. The fund aims to empower early-stage startups to drive innovation and bolster growth in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "originalUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-11/e1f7a425-dd56-4a5f-9314-e526345683bf/Toch_ai_Co_Founders.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "publishedDateTime": "2021-11-10T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

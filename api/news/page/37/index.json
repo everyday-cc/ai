@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-10-20-3m-names-americas-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health.md",
+      "title": "3M Names America's Top Young Scientist of 2021: 14-Year-Old Sarah Park, for Music Therapy Treatment to Improve Mental Health",
+      "excerpt": "ST. PAUL, Minn. and SILVER SPRING, Md., Oct. 20, 2021 /PRNewswire/ -- 3M (@3M) and Discovery Education (@DiscoveryEd) have named 14-year-old",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3m-names-america-s-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health-1030882271",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3m-names-america-s-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health-1030882271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1665091/2021_3M_Young_Scientist_Winner_Sarah_Park.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-how-machine-learning-can-be-fair-and-accurate.md",
       "title": "How machine learning can be fair and accurate",
       "excerpt": "Carnegie Mellon University researchers are challenging a long-held assumption that there is a trade-off between accuracy and fairness when using machine learning to make public policy decisions.",
@@ -1111,40 +1163,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-4-top-surgical-robotics-stocks-to-watch-this-week.md",
-      "title": "4 Top Surgical Robotics Stocks To Watch This Week",
-      "excerpt": "Do You Have These Robotics Stocks On Your Watchlist Right Now? The health care industry has been evolving at an exponential pace due to the advancement of technology. Well, surgical robotics has been a big part of this evolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19?amp",
-      "publishedDateTime": "2021-10-19T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

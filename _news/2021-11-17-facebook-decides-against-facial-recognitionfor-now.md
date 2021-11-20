@@ -39,20 +39,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Meta-0, Facebook-1: The Facial Recognition Hypocrisy"
-    excerpt: "Facebook has stopped the usage of facial recognition technology on its platform; however, parent company Meta has not made any such commitments."
-    publishedDateTime: 2021-11-15T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/meta-0-facebook-1-the-facial-recognition-hypocrisy/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/face-banner-_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facebook will drop is facial recognition system — But here's why we should be skeptical"
     excerpt: "Facial recognition systems, like Facebook’s, identify people by matching faces to digital representations of faces stored on a database. Facebook has more than a billion of these representations on file but now says it will delete them."
     publishedDateTime: 2021-11-17T05:06:00Z

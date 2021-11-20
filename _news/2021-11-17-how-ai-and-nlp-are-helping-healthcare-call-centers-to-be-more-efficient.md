@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-h
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/"
 type: article
 quality: 121
-heat: 173
+heat: 171
 published: true
 
 provider:

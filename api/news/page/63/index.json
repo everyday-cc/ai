@@ -2,6 +2,49 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-10-03-mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company.md",
+      "title": "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company",
+      "excerpt": "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/83750981",
+      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/83750981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:MELI&p=5&t=52",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ADVFN",
+        "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-03-tensorflow-1x-vs-tensorflow-2-behaviors-and-apis.md",
       "title": "TensorFlow 1.x vs TensorFlow 2 - Behaviors and APIs",
       "excerpt": "Under the hood, TensorFlow 2 follows a fundamentally different programming paradigm from TF1.x. This guide describes the fundamental differences between TF1.x and TF2 in terms of behaviors and the APIs, and how these all relate to your migration journey.",
@@ -1095,49 +1138,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-an-army-pilot-just-re-invented-flight-training-for-the-digital-era.md",
-      "title": "An Army Pilot Just Re-Invented Flight Training for the Digital Era",
-      "excerpt": "Its video feeds a neural network that uses object recognition to read the indicators just as a human would. The network then deciphers how the pilot is performing. Pilots receive feedback through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/cio-briefing/2021/10/army-pilot-just-re-invented-flight-training-digital-era/185757/",
-      "originalUrl": "https://www.nextgov.com/cio-briefing/2021/10/army-pilot-just-re-invented-flight-training-digital-era/185757/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/09/30/2761965/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

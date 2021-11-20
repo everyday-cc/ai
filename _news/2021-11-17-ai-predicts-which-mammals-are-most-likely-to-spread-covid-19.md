@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2297811-ai-predicts-which-mamma
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2297811-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19/amp/"
 type: article
 quality: 157
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "Radiologists boost AI severity quantification of COVID-19"
-    excerpt: "Involving radiologists in fine-tuning an artificial intelligence (AI) algorithm yielded better performance for detecting and quantifying COVID-19 pneumonia on x-rays, according to research published October 28 in the Journal of Thoracic Imaging."
-    publishedDateTime: 2021-11-15T07:38:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=134102"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_16_16_27_9194_artificial_intelligence_AI_abstract_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "FRLNViXjpyoH+rKPf5geAzleFcSwLRU3upl3/43ZM5f0vP9fUk9uiW1ymu46ZL3/InQuKeaoZlhzaCZLnR1QIEy6QkeddZu4hJpAQfAHH+xnUR9r3nNdXySDbMQC7C5qX1Zn1WucMCMRjFe/EuEBuGjKPHhQP7p99Qu9tREnyxk4rqKYi4l907ZCcctHBDq7xvDTsHtGnerImNylRQd5nJbDT8MkAwuaVfZbgO2xBkiAVbYtluQDfzBi0+Rzz6c2XxOPm63BK/ZvUCnMXfR93SXg/5g9LeHB9Zf9JAMXvOUfLwwDiqOJbuAmvjhzc2lWf56vatrdezdc7fuA8ztgHxPaMA9MT8aj3QbngEEGnHtFo+QvkReFgSP9sIKrEq1pW7sRbBKKYQVWwhuVKzyGUm2+9JyAwTIUs+L7DulNnNo0v833mcG88vbtCfScH1CdZAoaV6eQVUD3LOWlPo35tLvx8C+LDOvMbW2bcmabMAdlPaKOiS00Xlny42zPvb7aIOhxR2jaYiKBpHstre9PR3F8KmyxzYmZT5tHrRsoZhI=;UPyB+eyt7JQYJX4WPjYa5g=="
 ---

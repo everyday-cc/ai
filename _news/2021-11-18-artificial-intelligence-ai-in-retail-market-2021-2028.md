@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
 type: article
 quality: 74
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -160,20 +160,6 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub16875132_g.jpg"
         width: 800
         height: 2000
-        isCached: true
-  - title: "Edge Artificial Intelligence (AI) Software Market Size- Industry Share, Growth, Trends and Forecast 2028"
-    excerpt: "Emergen Research Logo The study methodologies used to examine the Edge Artificial Intelligence (AI) Software market for the forecast perio"
-    publishedDateTime: 2021-11-15T08:42:00Z
-    webUrl: "https://menafn.com/1103172212/Edge-Artificial-Intelligence-AI-Software-Market-Size-Industry-Share-Growth-Trends-and-Forecast-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?646313"
-        width: 444
-        height: 250
         isCached: true
 
 secured: "oT06od0AzfD+PbqX+gnHs0wl83k+s73F1LEc5Vr0kyvGMI1kkUwJZRarLuJygZe5jRAk/iijHzIgvBcvg1R1I6jJJ8TvFvbzgm83Ys4thc5BMw0uMbSVj2mmmQpNii+xrVhZZiziydlHJWcnLU9U5MCQQmlB4tS7k6keqkVCQ5/McE1EfMjLSsHUm8VvYhCz8js2LE/bFocr4bj777M2anh/2DdzLBHTiAE0z4GfIqm3BR1nTF8qt4CQzkHJju9sNFEGtskFxSYYktEBfW7Brg2Hle7+rh7qpQbXGhhh2FSEZdkyRnumJIUAKW82CSc+AgU9RLyzmfu5dx/aFK2tkjpCgnY3y/eXy/h3TTrpP40mwsOu2445tnTdS+pvrAipQfQU7qy8ISaGXaxQX36Hl276clO1SFbrzGyRwibXsIDXph+csjGYmNOICcLHbuvqFK6+s9Haee5zF+EjHCfqCw9wNy2GS+VOfMnk9GJDH+jQ3LBHe1zSgK4YSSR+NEMuJyac91Nf6m3ciH1R3Ipf2w==;5ytEer9qzT2ydki3IMAUcA=="

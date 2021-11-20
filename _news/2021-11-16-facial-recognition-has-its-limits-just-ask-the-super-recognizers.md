@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 782
         isCached: true
-  - title: "Facial Recognition Has Its Limits. Just Ask the ‘Super Recognizers’"
-    excerpt: "An elite police team in London with the ability to recognize thousands of different people is outperforming the technology – for now."
-    publishedDateTime: 2021-11-15T07:24:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2021-11-15/police-should-use-super-recognizers-to-boost-their-facial-recognition-software"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9BF_fFqdoyE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Voice and Speech Recognition Market Expanding at a CAGR of 19.5% During 2021-2026"
     excerpt: "Voice and Speech Recognition Market The voice and speech recognition market reached a value of US$ 9.9 Billion in 2020. IMARC Group expect"
     publishedDateTime: 2021-11-17T11:42:00Z

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Privacy concerns prompt MT leg study of facial recognition technology"
-excerpt: "Most Montanans probably do not know that when they go to get their driver’s license picture taken, it is entering a system that feeds into a larger database used by national law enforcement agencies."
-publishedDateTime: 2021-11-18T21:40:00Z
-originalUrl: "https://missoulacurrent.com/government/2021/11/privacy-concerns-facial/"
-webUrl: "https://missoulacurrent.com/government/2021/11/privacy-concerns-facial/"
+excerpt: "Most Montanans probably do not know that when they go to get their driver’s license picture taken, it is entering a system that feeds into a larger database used by"
+publishedDateTime: 2021-11-18T21:45:00Z
+originalUrl: "https://www.bozemandailychronicle.com/news/state/privacy-concerns-prompt-mt-leg-study-of-facial-recognition-technology/article_586d3ab3-f874-5627-8751-400db968af3a.html"
+webUrl: "https://www.bozemandailychronicle.com/news/state/privacy-concerns-prompt-mt-leg-study-of-facial-recognition-technology/article_586d3ab3-f874-5627-8751-400db968af3a.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Missoula Current
-  domain: missoulacurrent.com
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/d9969000-ede9-11e4-9d40-37211b15ad91.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "India's tech hub Hyderabad zooms in on facial recognition technology"
@@ -50,6 +56,6 @@ related:
         height: 355
         isCached: true
 
-secured: "gDhvmeCEx/oANfGiX+4eq26kvv66sDLDWaMsfpeA6lvlSB+RLlEmhwnqNDdcs42UZwTgXKJeyMfHgCzXFJ8Y729eaJ/E4067thcpBsWwvCHASHdWyeNJNTQstHlWIcuUg3xSfOtZcAQ9TNfxoopyaWS5JmF07YEeiz18Cd3Mn8zJyptlFYym5bzI5F40f2me1I+dl6bIn4EoglZxizG5wZE/c4Tt8DTBa7fZgGQV/Ase7sDdiNXtxej2njHH8jEOhKZpUfXBro0ccWYksA6UwTBAo08tkOiX9oOo6l+CWVzOU9q8c4AVKtb8Ybe5SxD0WrXTHe2RH8cI/vEdAUwxrKv9Vv04NmazaBaK5CaQSZ8Ej7eOdXBH/2Xr3POmW6bZMRVE8kwfuL75YiJkDp8+OumTHJ26Jxa5rPCV9Ev34h/5EvWZQ34roWK6yk0qD/CsauSMFhqa4nfT2t8hvJUaQ23cgEmthak1RUPk+cytgdOznWmUkPwIMIxElJDj35VkNY1x2VR66F02m/jrz8GVZQ==;aX0MS2Gs7StKyrSVHx9pkw=="
+secured: "cV5YDAG24FXxZnbhuhm2CYHRaeyMxdfEg2BiT0gr4dBkNNH8Z4eBQMig0r8g3urXMnRZdin7bXhGeFdxVesC246rxJVvSIhwLVEqlOqFPzfq+bsEUPVFLJ6nknAytMGAhykE2SWnS4aJD1NqnxpWZSDn4Xwp9bOukU09XStyVwGqrJAY4HvoXi/SgoWKCHZqbvqBmFW8HJuwHoKtiSYWl62gUL2f701QnYUAAIC7N6Lmr1jHQPYruTxM53Nc0je1x6kOAzyRqQjvVgh4oms+tQpOJfXx1/J1uJXje4b8HZv/4jZsN924rYu9LSG9PlsLM0iPGt80YS4xu1h59Hf/fjxGofc+yF8gjZDf49oRYeI=;tJjlrwcfUhxS3dyfSJ9D0w=="
 ---
 

@@ -2,6 +2,179 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-17-how-to-file-a-claim-for-a-piece-of-tiktoks-92-million-class-action-lawsuit.md",
+      "title": "How to file a claim for a piece of TikTok's $92 million class action lawsuit",
+      "excerpt": "Attention U.S.-based TikTok users — you may be entitled to a part of the $92 million class-action lawsuit settlement against the app. If you used either TikTok or its sister app Musical.ly before Sept.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/tiktok-settlement-claim",
+      "originalUrl": "https://mashable.com/article/tiktok-settlement-claim",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/01Qycisge8rtxZ8a5UCSI7B/hero-image.fill.size_1200x675.v1637080135.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tiktok-settlement-claim?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tiktok-settlement-claim?amp",
+      "publishedDateTime": "2021-11-17T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-tmr.md",
+      "title": "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR",
+      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "originalUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub17570915_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "publishedDateTime": "2021-11-17T00:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-iit-madras-marine-robotics-startup-raises-16-million-in-pre-series-a-funding.md",
+      "title": "IIT Madras Marine Robotics Startup Raises $1.6 Million In Pre-Series A Funding",
+      "excerpt": "Planys is currently working with Shell on digital transformations for marine assets using robotics, NDT, and data.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/iit-madras-marine-robotics-startup-raises-1-6-million-in-pre-series-a-funding/",
+      "originalUrl": "https://analyticsindiamag.com/iit-madras-marine-robotics-startup-raises-1-6-million-in-pre-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/11/131A3238.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T23:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-robotics-powered-by-cloud-to-pave-way-to-smart-robots.md",
+      "title": "Robotics Powered by Cloud to Pave Way to Smart Robots",
+      "excerpt": "Cloud computing technologies is poised to become pivot for next-gen robotics technologies. The intersection of robotics with cloud computing hardware, with deep learning technologies, IoT, and big data chipping in,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/",
+      "originalUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/11/Cloud-Robotics-Market.jpg",
+          "width": 1336,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/amp/",
+      "publishedDateTime": "2021-11-16T23:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-turning-machine-learning-insights-into-ai-powered-actions-with-cooling-advisor.md",
       "title": "Turning machine learning insights into AI-powered actions with Cooling Advisor",
       "excerpt": "We’ve seen how comprehensive monitoring combined with machine learning algorithms can uncover and continually track the cooling zones within a data center – presenting a core foundation for effective automated cooling within critical facilities.",
@@ -54,49 +227,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-17-artificial-intelligence-plan-to-reduce-harm-to-pregnant-black-women.md",
-      "title": "Artificial Intelligence plan to reduce harm to pregnant black women",
-      "excerpt": "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908",
-      "originalUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp",
-      "publishedDateTime": "2021-11-16T22:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-17-ai-stock-9-things-to-know-about-c3ai-as-cathie-wood-bets-big-on-artificial-intelligence.md",
       "title": "AI Stock: 9 Things to Know About C3.ai as Cathie Wood Bets Big on Artificial Intelligence",
       "excerpt": "C3.ai (NYSE: AI) stock is getting a boost on Monday after ARK Invest CEO Cathie Wood singles out artificial intelligence ( AI) as the next big move in investing. Here’s what Wood had to say on the matter at the Milken Institute conference in October,",
@@ -138,7 +268,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1045,162 +1175,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-ge-pounces-on-surging-healthcare-demand-with-spinoff.md",
-      "title": "GE Pounces on Surging Healthcare Demand With Spinoff",
-      "excerpt": "In spinning off its healthcare business, GE is betting on the fast-growing diagnostic-imaging-equipment market, a sector facing disruption from artificial intelligence and growing competition from startups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
-      "originalUrl": "https://www.wsj.com/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-434791/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
-      "publishedDateTime": "2021-11-16T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-huge-deals-are-pushing-more-ai-startups-into-ipo-territory.md",
-      "title": "Huge deals are pushing more AI startups into IPO territory",
-      "excerpt": "New data from CB Insights details a global AI funding market replete with activity, sharply divided by geography.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/16/huge-deals-are-pushing-more-ai-startups-into-ipo-territory/",
-      "originalUrl": "https://techcrunch.com/2021/11/16/huge-deals-are-pushing-more-ai-startups-into-ipo-territory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=533",
-          "width": 533,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-rethinking-ai-dire-warnings-and-imperfect-results.md",
-      "title": "Rethinking AI: Dire Warnings And Imperfect Results",
-      "excerpt": "AI has been in the news a lot lately, and not all for good reasons. What are the issues? I am write about some of them here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/",
-      "originalUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193d54fad2a42abc3707d2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/amp/",
-      "publishedDateTime": "2021-11-16T06:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving bullet train put to the test"
-    excerpt: "Members of the media were invited to view a test run of Japan's first self-driving bullet train. The 12-car Shinkansen train operated by East Japan Railway Company is equipped with an Automatic Train Operation system."
-    publishedDateTime: 2021-11-17T07:40:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211117_20/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211117_20/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20211117_20/amp.html"
+  - title: "Self-Driving Stocks Join EVs as Next Retail Trader Obsession"
+    excerpt: "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Friday on high volume."
+    publishedDateTime: 2021-11-19T19:48:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession"
     type: article
     provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 59
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211117_20_1047545_L.jpg"
-        width: 640
-        height: 360
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaaSmj6nsYe8/v2/1200x675.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving is the defining software of EVs, says MIH"
+    excerpt: "MIH is an open platform for software-defined vehicles, says CTO William Wei, speaking at the TCCNA Taiwan and US EV Summit. EVs without level 2 self-driving are basically incompetent in 2023 and MIH will open APIs in the future,"
+    publishedDateTime: 2021-11-18T07:16:00Z
+    webUrl: "https://digitimes.com/news/a20211118PD212.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://digitimes.com/newsshow/20211118PD212_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "w+49Wzx2SWZbm1xJPJHb71t8KOrpAuEhT+zQ6Sp99uHRdVDU/QuVOo3mKivu9p9WY4XohQRvtwTZsqoQzd7g/y9vrNFfApbd4GsmXRpefTv8pxsBzNXpk52udjggxBt/MwgUUVnN9N53a9iwX/cUli5+G5msLaZYxFTfWD101QagWgO1bafmtUwonjC6IjSDY+6G+2UgQUebCP9owGAyXQI/ariwQZ8cjNKG34nyoHNKztXA/eWfqEbntnQx+L52BtHxqOpwtQoU3awXbcV3SQfY8nhY6PWHP/4kfmfMvKq4xXFHeyg1rPrgzOGOwe036jL2phYW7l0sO7NCElsvJjuJ+5KODW5r51kTLAFx16mF0ZEeTI4yFbU6A2/CQbDFiX1g4WZBrx+G/NWSPEwgiwH2ZeUigz5TGOhFgvBUoHUgFIYJMD4NcvKam2yvoru15ooKbcWNDVUCcRomSNfT41YibNbNDv1WfgZSoNAyWcOMDAuA+vUw7xpSebFQF+RpGbrG3dUq7PVmDPuikFQBSw==;C43Uc/3xV7iInuKvYPhhtA=="

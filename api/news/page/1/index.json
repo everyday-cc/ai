@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-attendee-guides-to-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-20-alphabets-x-lab-shares-new-details-about-its-everyday-robots-robotics-initiative.md",
+      "title": "Alphabet’s X lab shares new details about its Everyday Robots robotics initiative",
+      "excerpt": "Alphabet Inc.’s X research lab today provided an update about its Everyday Robots project, which aims to develop robots capable of performing day-to-day tasks such as tidying chairs. The X research lab explores emerging technologies that fall outside the main focus area of parent Alphabet.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/11/19/alphabets-x-lab-shares-new-details-everyday-robots-robotics-initiative/",
+      "originalUrl": "https://siliconangle.com/2021/11/19/alphabets-x-lab-shares-new-details-everyday-robots-robotics-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/everydayrobotsgif.gif",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-identifying-patients-needing-help-with-squark-automl-at-upmc.md",
       "title": "Identifying Patients Needing Help With Squark AutoML At UPMC",
       "excerpt": "UPMC uses automated machine learning software from Squark to identify patients who may benefit from living donor liver transplants.",
@@ -54,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -94,6 +137,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-self-driving-stocks-join-evs-as-next-retail-trader-obsession.md",
+      "title": "Self-Driving Stocks Join EVs as Next Retail Trader Obsession",
+      "excerpt": "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Friday on high volume.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaaSmj6nsYe8/v2/1200x675.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1097,7 +1192,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1136,111 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-solving-entertainments-globalization-problem-with-ai-and-ml.md",
-      "title": "Solving entertainment’s globalization problem with AI and ML",
-      "excerpt": "Fully autonomous translation solutions are some ways off, but that doesn’t mean AI/ML cannot reduce the workload today. It can.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/",
-      "originalUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095494266.jpg?w=1024",
-          "width": 1024,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/",
-      "publishedDateTime": "2021-11-18T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-apple-aims-to-launch-self-driving-electric-car-in-2025-says-report.md",
-      "title": "Apple aims to launch self-driving electric car in 2025, says report",
-      "excerpt": "The vehicle is rumoured to have no steering wheel or pedals, and the interior has a U-shaped seating plan",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
-      "originalUrl": "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4448db54e2ba2aed4090188ec80a459152b5e269/33_121_1983_1190/master/1983.jpg?width=620&quality=85&auto=format&fit=max&s=b7867d39ae37de046a18f46673bf80e2",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
-      "publishedDateTime": "2021-11-18T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

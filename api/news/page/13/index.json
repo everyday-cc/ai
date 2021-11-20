@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-11-09-today-in-retail-walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool.md",
+      "title": "Today in Retail: Walmart Manages Fully Driverless Deliveries; Lowe’s to Launch Room-Scanning Tool",
+      "excerpt": "Walmart has achieved daily deliveries without a safety driver, and Amazon is promoting the use of its payment service on other merchants’ sites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/Lowes_Companies_Inc_Room_Measurements-457x274.jpeg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/",
+      "publishedDateTime": "2021-11-08T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies.md",
       "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
       "excerpt": "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
@@ -1152,51 +1195,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-interesting-ai-ml-nlp-applications-in-finance-and-insurance.md",
-      "title": "Interesting AI, ML, NLP Applications in Finance and Insurance",
-      "excerpt": "Many blogs address the effect of AI in the financial and insurance industries, but many of them focus on far-fetched AI and machine learning concepts that have yet to be proven or implemented in either.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/",
-      "originalUrl": "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Learning_AIM.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Finance"
       ]
     }
   ],

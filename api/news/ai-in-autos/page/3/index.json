@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-03-tesla-forced-to-recall-11704-vehicles-over-full-self-driving-glitch.md",
+      "title": "Tesla Forced to Recall 11,704 Vehicles Over Full Self-Driving Glitch",
+      "excerpt": "The software communication issue resulted in some vehicles automatically engaging their brakes, which could lead to rear-end collisions.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
+      "originalUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/69e4164c55ef29e39af285baf98e4c76.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-forced-to-recall-11-704-vehicles-over-full-self-d-1847981141/amp",
+      "publishedDateTime": "2021-11-02T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score.md",
       "title": "XPeng launches ‘Smart Driving Points’ beta, eerily similar to Tesla’s ‘Safety Score’",
       "excerpt": "XPeng will implement a 'Smart Driving Points' scoring system very similar to Tesla that ensures drivers don't abuse its self-driving tech.",
@@ -1350,49 +1402,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-tusimple-taking-retail-money-may-be-too-simple.md",
-      "title": "TuSimple: Taking Retail Money May Be Too Simple",
-      "excerpt": "Driverless technology is the future of ... A wicked waste of dumb money may be chasing the industry. Artificial intelligence is progressively more central to leading investment themes – whether ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "originalUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1127822663/medium_image_1127822663.jpg",
-          "width": 768,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
-      "publishedDateTime": "2021-10-24T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

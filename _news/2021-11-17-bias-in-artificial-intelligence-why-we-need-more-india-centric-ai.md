@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/opinion/bias-in-artificial-inte
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/bias-in-artificial-intelligence-why-we-need-more-india-centric-ai/article37532800.ece/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: redsharknews.com
       domain: redsharknews.com
     quality: 39
-  - title: "Github Analysis Shows India As An Emerging AI Superpower"
-    excerpt: "This also reflects an impetus to upskill India's vast technology talent base that was initiated by the country's IT services companies."
-    publishedDateTime: 2021-11-15T08:50:00Z
-    webUrl: "https://analyticsindiamag.com/github-analysis-shows-india-as-an-emerging-ai-superpower/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/github-logo-768x373-1.jpeg"
-        width: 768
-        height: 373
-        isCached: true
 
 secured: "cd2sAQdHVUlv0phW0Iy0PMlKW2eIbidd1Pw7ptuSJFvPWWP/9dOMTaNIBvFNA47tA482nUKtQCzlPyuvJWOUSr0dhOuCW9qZPg13t34qR9KD0tLhFcpgHYkUFTMIKYNiNeP2LFWdQPhJPt6mRgwveKLbjis+xsvJnQ2oiX/1K/O/LtLwSj/x79Qi6Cgq3qOLZPKNM2kIOf+HUaUl0jesxnYYAkjVTJdGBsbJHzTI25+e5Q6I5m0sHZSLMhUTyPG5qg8L4cPAJNvmj8md6hBWYIwkIt3PpXvoKakkR33rX16XnVOHf/FG0pAizbxx7LSVtu52Zu2UCEL/htwbcqTglGVO7+p9f+m9vV8wOMqY+ps=;kA3SkFg7WVpd0lRmkmy8lw=="
 ---

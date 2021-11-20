@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-attendee-guides-to-aws-reinvent-2021/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -24,6 +24,15 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Your guide to AI and ML at AWS re:Invent 2021"
+    excerpt: "It’s almost here! Only 9 days until AWS re:Invent 2021, and we’re very excited to share some highlights you might enjoy this year. The AI/ML team has been working hard to serve up some amazing content and this year, we have more session types for you to enjoy. Back in person, we now have chalk […]"
+    publishedDateTime: 2021-11-19T23:00:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-ai-and-ml-at-aws-reinvent-2021/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
   - title: "Join Us on the Road to AWS re:Invent 2021"
     excerpt: "Invent with you in-person and online! As an AWS Premier Consulting Partner and Gold Sponsor of AWS re:Invent 2021, Onica by Rackspace Technology has exciting activities for everyone with a packed schedule of hands-on activities,"
     publishedDateTime: 2021-11-18T04:49:00Z

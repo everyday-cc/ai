@@ -28,6 +28,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 101
+  - title: "Your guide to AI and ML at AWS re:Invent 2021"
+    excerpt: "It’s almost here! Only 9 days until AWS re:Invent 2021, and we’re very excited to share some highlights you might enjoy this year. The AI/ML team has been working hard to serve up some amazing content and this year, we have more session types for you to enjoy. Back in person, we now have chalk […]"
+    publishedDateTime: 2021-11-19T23:00:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-ai-and-ml-at-aws-reinvent-2021/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
 
 secured: "gqfJ+I6URE74kTSDi6P5t8oUMtSNeZLTVdyQwC8XQ+IFlRc9Nmt3FIaPwo/PhOTCCv1qMK1KlpvNUKhm193pRn5f83lvL8+WomWOIanV5QZnvXq+0c0mA+IdwU2OE4WHVSzYe0DQzGvkuRFDaLvC77r8Dn+WDUVK9zfaajmGc9WiFEAGkWfnr2ZVW37vXFKI/TuftbIUMWJJobKgqNZIMrZEzQyvlMQ0TaksrR/WBLs8sZZDT6mbZwEVXEU4XLc5ltAg/nSexrZ6xTnq0PiQStoKc9I+saLGr6XhZ18/t5h7lvRFz9YwrBB9OPif/NloWO8OoKC39ZNpR9YBr4YROH+2x/EGz2vF17TSkb5AHNE=;jYvN/wRY+U5fVlVRDVEFZg=="
 ---

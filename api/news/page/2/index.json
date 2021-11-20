@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-19-solving-entertainments-globalization-problem-with-ai-and-ml.md",
+      "title": "Solving entertainment’s globalization problem with AI and ML",
+      "excerpt": "Fully autonomous translation solutions are some ways off, but that doesn’t mean AI/ML cannot reduce the workload today. It can.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/",
+      "originalUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095494266.jpg?w=1024",
+          "width": 1024,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/",
+      "publishedDateTime": "2021-11-18T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-apple-aims-to-launch-self-driving-electric-car-in-2025-says-report.md",
+      "title": "Apple aims to launch self-driving electric car in 2025, says report",
+      "excerpt": "The vehicle is rumoured to have no steering wheel or pedals, and the interior has a U-shaped seating plan",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
+      "originalUrl": "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4448db54e2ba2aed4090188ec80a459152b5e269/33_121_1983_1190/master/1983.jpg?width=620&quality=85&auto=format&fit=max&s=b7867d39ae37de046a18f46673bf80e2",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
+      "publishedDateTime": "2021-11-18T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-a-decade-in-deep-learning-and-whats-next.md",
       "title": "A decade in deep learning, and what's next",
       "excerpt": "Twenty years ago, Google started using machine learning, and 10 years ago, it helped spur rapid progress in AI using deep learning. Jeff Dean and Marian Croak of Google Research take a look at how we’ve innovated on these techniques and applied them in helpful ways, and look ahead to a responsible and",
@@ -251,6 +356,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-commerceai-launches-in-aws-marketplace.md",
+      "title": "Commerce.AI Launches In AWS Marketplace",
+      "excerpt": "Commerce.AI, a leading CX AI platform, announced today that it is available in AWS Marketplace, a digital catalog with listings from independent software vendors that make it easy to find, test, buy and deploy software.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -568,7 +716,7 @@
       "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1058,164 +1206,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-in-the-push-for-development-is-the-us-prepared-to-regulate-ai.md",
-      "title": "In the push for development, is the U.S. prepared to regulate AI?",
-      "excerpt": "For ethical and unbiased AI to be the way of the future, we need to regulate AI now to address today's research and development challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/amp/",
-      "publishedDateTime": "2021-11-17T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-microsoft-open-sources-synapseml-for-developing-ai-pipelines.md",
-      "title": "Microsoft open-sources SynapseML for developing AI pipelines",
-      "excerpt": "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
-      "publishedDateTime": "2021-11-17T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models.md",
-      "title": "Use Amazon SageMaker ACK Operators to train and deploy machine learning models",
-      "excerpt": "AWS recently released the new Amazon SageMaker Operators for Kubernetes using the AWS Controllers for Kubernetes (ACK). ACK is a framework for building Kubernetes custom controllers, where each controller communicates with an AWS service API. These controllers allow Kubernetes users to provision AWS",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/13/4371-Architecture.jpg",
-          "width": 801,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T11:43:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

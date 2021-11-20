@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 782
         isCached: true
-  - title: "Facial Recognition Has Its Limits. Just Ask the ‘Super Recognizers’"
-    excerpt: "An elite police team in London with the ability to recognize thousands of different people is outperforming the technology – for now."
-    publishedDateTime: 2021-11-15T07:24:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2021-11-15/police-should-use-super-recognizers-to-boost-their-facial-recognition-software"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9BF_fFqdoyE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facial Recognition Has Its Limits. Just Ask the ‘Super-Recognizers’"
     excerpt: "Its inhabitants are caught on camera about 300 times a day on average and the British capital has become a testbed for police use of live facial recognition. But the technology, which powers a mu"
     publishedDateTime: 2021-11-16T05:30:00Z

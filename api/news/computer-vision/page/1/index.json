@@ -140,7 +140,7 @@
       "originalUrl": "https://www.audible.com/pd/B09LVW43PR",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -226,49 +226,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-chinese-goat-farm-is-using-facial-recognition-to-stop-incest.md",
-      "title": "Chinese goat farm is using facial recognition to stop incest",
-      "excerpt": "Vert City Farm based in Shanghai is now using facial recognition technology to stop incest among its flock, eliminating incest-related birth defects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10203135/Chinese-goat-farm-using-facial-recognition-stop-incest.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10203135/Chinese-goat-farm-using-facial-recognition-stop-incest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/11/15/10/50501319-0-image-a-16_1636973557507.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10203135/amp/Chinese-goat-farm-using-facial-recognition-stop-incest.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10203135/amp/Chinese-goat-farm-using-facial-recognition-stop-incest.html",
-      "publishedDateTime": "2021-11-15T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1389,6 +1346,49 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-why-big-tech-wants-some-facial-recognition-rules.md",
+      "title": "Why Big Tech Wants (Some) Facial Recognition Rules",
+      "excerpt": "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some have been making an exception for facial recognition software. That’s not to say that any consensus has developed on this rapidly developing branch of artificial intelligence: The European Union and cities and states across the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/11/03/8212fa46-3cdc-11ec-bd6f-da376f47304e_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/11/03/8212fa46-3cdc-11ec-bd6f-da376f47304e_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFHZHAB43QI6ZPLP3I3W6RZQJY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

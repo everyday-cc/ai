@@ -162,20 +162,6 @@ related:
         width: 800
         height: 2000
         isCached: true
-  - title: "Edge Artificial Intelligence (AI) Software Market Size- Industry Share, Growth, Trends and Forecast 2028"
-    excerpt: "Emergen Research Logo The study methodologies used to examine the Edge Artificial Intelligence (AI) Software market for the forecast perio"
-    publishedDateTime: 2021-11-15T08:42:00Z
-    webUrl: "https://menafn.com/1103172212/Edge-Artificial-Intelligence-AI-Software-Market-Size-Industry-Share-Growth-Trends-and-Forecast-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?646313"
-        width: 444
-        height: 250
-        isCached: true
 
 secured: "CvYWTRo3mNdOdRpYJ02JiafngVpw1P6ZjVApUWWdPo77bBhSy8FHX15y5HE80q3JsISn2vrB2S/4cmDmXfSvijdjp5ruJkWJSCtHUm2hUSXYscxGZduvfbri/o6D+l19oOffe9jsWw2OctI5ouQaSHQXh3WWpV/38GxVhPnkx+d/5+vBfkzEeP1yvrZ+c/1MxWmnMBpnQKwOmhOkGCFHzJwnOe+Tm1FimaaUHCmuwXMsWD5aTVqSvZubwBOWdmJSAUo/fBcViM/+MUorpJ3VYhcnHbl9m2cSR1bS5MCegOJ3i24v1FNx9pFW+aZA00jnk18VDBZ4UZORzbf6zbU9Sh43nAVRLYFim1i5dPkXWBoDlCm6CjfeQnucgvDMu3+j9NwFGY0yhr7otTM+isUdHzW70hjvLJYyusdlOro/YeIJxqE0/52hyKaFW8KoLUEak1n1VRVKdn0jTYJ861WSUHKosI8yaPVVlbHwvHydJsK7zenaI9sg6+ccYK/y3Q5ARvPBiVLR6Jas1XSB05L+VA==;3NkPlL6k7DI4J28sNYh5IQ=="
 ---
