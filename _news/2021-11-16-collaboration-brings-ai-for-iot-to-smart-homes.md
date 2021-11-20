@@ -120,20 +120,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform"
-    excerpt: "BigBear.ai, a leading provider of artificial intelligence, machine learning, big data analytics, and cyber solutions, and Palantir Technologies Inc. , a software company that builds enterprise data platforms for use by organizations with complex"
-    publishedDateTime: 2021-11-15T12:12:00Z
-    webUrl: "https://www.lelezard.com/en/news-20102911.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "Hi9TYQDsIXvPPo8kAZJpS59fq60AFsaHF7XatmV8YUUX029Chtm4hK97klJ3BCI6vhuts+z8zzXLfd1mwz2gm9mxEjjfwJs5LabkhvNYS1Ips7jYHrHt+XSlguxuKfJT0YEKtmIycDUo6bfTszvW909jaBNFEF8zFF0bntWCGMUsdp9CRvE7mMeSRsHKDK1t/AOqdtYkPHQV7/vguSN445V8g+3E0TivUkv6qYekgYd9QEjk17ijgPAte3jftceZwzhWqMIqyvvTE01Qwt6UIwv2NggF9sf/dK8iiDxTmdbcWglohNcsU19wKeOdmhVuGEe3IqvaqdQKFVAvvcrf7BhYH85GJc+K/XTJPeWEO3E=;7TcnqJAF8eIh8yI3jktkQg=="
 ---

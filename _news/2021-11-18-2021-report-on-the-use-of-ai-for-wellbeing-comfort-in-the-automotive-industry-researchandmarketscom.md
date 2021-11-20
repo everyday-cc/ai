@@ -54,21 +54,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bigger Opportunities on Self-Reconfiguring Modular Robot Market Historical Data and New Trend Analysis 2021 to 2027"
-    excerpt: "Self Reconfiguring Modular Robot Market Perspective 2021 Modular self reconfigurable robotic systems are responsible for designing controlling fabricating and motion planning of kinematic machines by using variable morphology The market for self reconfiguring modular robots in the Asia Pacific is"
-    publishedDateTime: 2021-11-15T12:59:00Z
-    webUrl: "https://www.openpr.com/news/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
-    ampWebUrl: "https://www.openpr.com/amp/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
+  - title: "AI in Social Media Market Size Volume, Share, Demand growth, Business Opportunity by 2031"
+    excerpt: "\"AI in Social Media Market Research Report- insightSLICE\"According to insightSLICE, the AI in Social Media market report 2021-2031 provides crucial"
+    publishedDateTime: 2021-11-16T04:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-size-volume-share-demand-growth-business-opportunity-by-2031"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
     images:
-      - url: "https://cdn.openpr.com/U/b/Ub15187274_g.jpg"
-        width: 640
-        height: 360
+      - url: "https://www.abnewswire.com/uploads/1636982022.jpeg"
+        width: 889
+        height: 695
         isCached: true
 
 secured: "pFXyQbV8qEBL5R3zdqLRXmGNp/gPIfAKbK+mKSI5cLW/I/pgwWwx++Xf00conWYv93vVhKfHsdVYAy4Hcm4u2rNejA/t3kh2SVMVphwcRHTQGJBm1yXRTXR23xg1/BXhdTVQqbIUyBdujb076ezlaFzFF07Vx84jUW2lg/TyDpwtFnK4p6yTG8LANSbyG66qVI0bm+WbaM+2pL/Xm+//jAmBStZemW9sWTtdJ6lWdHB6Xv62dEj5wKWaDO0zrUWyJjox1SedyFzDcCz6Xbc3v/+czRgFYbh7bfheh7xVEOFS6B/ZtRSfIOXaSjmNpbmkerzug5TTImFBdi/yoNAQoEkcAa0QcBFzqzetPJ2nONY=;42HiNt3jUfM8CkecG5Sm7A=="

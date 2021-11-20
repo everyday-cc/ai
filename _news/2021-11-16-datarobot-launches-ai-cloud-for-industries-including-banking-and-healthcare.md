@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
 type: article
 quality: 119
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -125,20 +125,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/11/Tamper-evident-Packaging-Reassures-Product-Safety-in-Infant-Formula-Packaging-Market-1-scaled.jpg"
         width: 2560
         height: 1280
-        isCached: true
-  - title: "BigBear.ai And Palantir Announce Strategic Partnership, Combining AI-powered Products With Next Generation Operating Platform"
-    excerpt: "BigBear.ai, a leading provider of artificial intelligence, machine learning, big data analytics, and cyber solutions, and Palantir Technologies Inc. , a software company that builds enterprise data platforms for use by organizations with complex"
-    publishedDateTime: 2021-11-15T12:12:00Z
-    webUrl: "https://www.lelezard.com/en/news-20102911.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "d/W+HZ2Z5j5NKk5zmRVuN+Osr+WdE+J4Iw7oqTMNFW6dEqpqN5xAGHTHrNL7Sdv0SEP6JjLoJeXlHHlTMgF2nZZYSSI8F7gkwGejkKd7FJm/sa56HOxaicAI/q2o3FJ//MRvcFJ0jugsV8vstSZ4W0lVLtIVi8/vJUzSQLZIGYsQ1hVdzbugIBLSA3obBkjQ0YRKdHXcJuTulW1BanMDqrxF9OnWxev2KjXOoZy8SA2AnZKjSAc35USm96lXeA/C6YWjsnpIytmxmhuakp2Yhywf6F6tGn9qxVG8iZE4HG9qheYIAO5QIs2HMiIiACffqpnNgh+lJvjxhJj9rOV9Bn+aQ7NWjgFPHekcKsli+oMKKjGgnVk/Hw7H633SV6dcdjuFR4vvrpkQJmXijDV/KBlYHbulrV1UmHhumQUxHsFbdxcWpaYrs09v12mYuF1unixuCl1wn1BY6ujQmweRkatlZNL6vEL7UFA6L+zRalHq7lQP7med/j/l6j2dFtC6QZizccYHRiXcAjhYmJW0HA==;VBdcAEC9gmhySKgUawEVUA=="

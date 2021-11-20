@@ -41,22 +41,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Space Robots Market Showing Immnese Growth due to the Dynamic Innovation in Technology and Latest Research Study"
-    excerpt: "Space Robots are capable of withstanding extreme space conditions and are particularly capable of performing activities such as assembling maintaining and repairing space satellites Furthermore emerging technologies such as deep learning DL and artificial intelligence AI are extensively being used"
-    publishedDateTime: 2021-11-15T11:15:00Z
-    webUrl: "https://www.openpr.com/news/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
-    ampWebUrl: "https://www.openpr.com/amp/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462270/space-robots-market-showing-immnese-growth-due-to-the-dynamic"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub15665424_g.jpg"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "NGfCP5peOjc0qf10kwawm2a4U4TBAFWjEYmkJLdJGXq0uJhxmoysibLHZc7wlCBmBj1V76nE4WhdzmmyCW4+BJFLFVzA8vL8//XshIkifcx/2rN3+ShbGlwfAHJnbinFlhmfT6ViOWtcrW6TFDB5xRwT57eiFueco70bpcIraW1aY9/5oEYSw9UFNG1FFtx1tZ55fAa8MFDN2FAT3f+D67pcFHZQWEEAQlTlmz/VkgANvBcU4Ymsawnw13Nsgin6m/NFIXTuxN+bpPg1JJ4ZNeNzYRb4kNdRReU18bi1HLTyqwqwKf05s3lQF/vh+j/dcsnFKU5XRjklGOxWA8GxgzJFS/aDOgW8zg3K+4rtoDY=;3l/Tntv9By/y0yZrJOluHA=="
 ---

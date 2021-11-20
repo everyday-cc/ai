@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pagaya to Participate in Citi's 2021 Virtual FinTech Conference"
-    excerpt: "Pagaya Technologies Ltd. (\"Pagaya\"), a financial technology company that enables financial institutions to expand access to more customers through its artificial intelligence network, today announced that Gal Krubiner,"
-    publishedDateTime: 2021-11-15T12:13:00Z
-    webUrl: "https://www.lelezard.com/en/news-20103018.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/theme/lezard2.png"
-        width: 500
-        height: 414
-        isCached: true
 
 secured: "8Hofm7XnkHvJaR7ZqBNM4Ad2cnXGF26nFZRCSqxWlBBV8nRYLET+ibO168LPnh844eVpKc7q/LqQ0g2ueTEYcMrUJhmF+ahWy95ySLAI3/nowF4J6Qt6qkhlZsEPJfcwdlMTpEqCro1+q5SlOnyLaWRr8KJtCDORhIYeACcFA4M5Cg3i+TxuQd3+VamQzPUbKMhZo3hQUdCYyFLiwbSqayn1YVWEkFh7huEzvBmwLdeGB7N3tdISnoqkNo4vJgCxM8c5yC3pq0Oj9TMeRfkIDONw5C2VK5fQfG5pMMFQNJc3OWKJGTCLQUwRRXT8w48Jc2JpRSjbJc7jmB5rtePaUu0eUaYXLtHKbagPa/1A7MU=;ngb5wQ1+G6O1US/BebEGow=="
 ---

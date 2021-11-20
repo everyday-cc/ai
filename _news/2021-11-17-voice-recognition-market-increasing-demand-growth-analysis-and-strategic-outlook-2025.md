@@ -45,21 +45,19 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Bigger Opportunities on Self-Reconfiguring Modular Robot Market Historical Data and New Trend Analysis 2021 to 2027"
-    excerpt: "Self Reconfiguring Modular Robot Market Perspective 2021 Modular self reconfigurable robotic systems are responsible for designing controlling fabricating and motion planning of kinematic machines by using variable morphology The market for self reconfiguring modular robots in the Asia Pacific is"
-    publishedDateTime: 2021-11-15T12:59:00Z
-    webUrl: "https://www.openpr.com/news/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
-    ampWebUrl: "https://www.openpr.com/amp/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462575/bigger-opportunities-on-self-reconfiguring-modular-robot"
+  - title: "AI in Social Media Market Size Volume, Share, Demand growth, Business Opportunity by 2031"
+    excerpt: "\"AI in Social Media Market Research Report- insightSLICE\"According to insightSLICE, the AI in Social Media market report 2021-2031 provides crucial"
+    publishedDateTime: 2021-11-16T04:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-size-volume-share-demand-growth-business-opportunity-by-2031"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
     images:
-      - url: "https://cdn.openpr.com/U/b/Ub15187274_g.jpg"
-        width: 640
-        height: 360
+      - url: "https://www.abnewswire.com/uploads/1636982022.jpeg"
+        width: 889
+        height: 695
         isCached: true
   - title: "2021 Report on the Use of AI for Wellbeing & Comfort in the Automotive Industry - ResearchAndMarkets.com"
     excerpt: "The “AI in Wellbeing & Comfort in Automotive Industry” report has been added to ResearchAndMarkets.com’s offering. The report forecasts that artificial intelligence will transform the cars in the near future as many companies such as Hyundai,"

@@ -41,20 +41,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Pagaya to Participate in Citi's 2021 Virtual FinTech Conference"
-    excerpt: "Pagaya Technologies Ltd. (\"Pagaya\"), a financial technology company that enables financial institutions to expand access to more customers through its artificial intelligence network, today announced that Gal Krubiner,"
-    publishedDateTime: 2021-11-15T12:13:00Z
-    webUrl: "https://www.lelezard.com/en/news-20103018.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/theme/lezard2.png"
-        width: 500
-        height: 414
-        isCached: true
   - title: "Fintech collaborations boost the credit union advantage"
     excerpt: "The focus for credit unions will always be on their members, including their members’ experience. But how does this translate in an ever-changing, technology-driven landscape? I sat down recently with Upstart’s Jeff Keltner to discuss a wide variety of topics,"
     publishedDateTime: 2021-11-17T07:30:00Z

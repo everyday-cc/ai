@@ -119,6 +119,38 @@ related:
         width: 1500
         height: 809
         isCached: true
+  - title: "Apple accelerates work on car, aims for fully autonomous vehicle"
+    excerpt: "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
+    publishedDateTime: 2021-11-19T18:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
+    ampWebUrl: "https://www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/Apple-CEO-Tim-Cook-File-Image-IOL?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/aff6062f-b216-56b4-a440-acdad69f102d&operation=CROP&offset=0x182&resize=3500x1969"
+        width: 650
+        height: 366
+        isCached: true
+  - title: "Apple accelerates work on electric car project, aiming for fully autonomous vehicle"
+    excerpt: "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to"
+    publishedDateTime: 2021-11-18T16:26:00Z
+    webUrl: "https://www.mercurynews.com/2021/11/18/apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle/"
+    ampWebUrl: "https://www.mercurynews.com/2021/11/18/apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 53
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/sjm-urity-Patch-Instructions_88014743.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "11 Best Autonomous Vehicle Stocks To Buy Now"
     excerpt: "In this article, we will take a look at the 11 best autonomous vehicle stocks to buy now. To skip our detailed analysis of the self-driving car industry and its growth potential, you can go directly to the 5 Best Autonomous Vehicle Stocks To Buy Now."
     publishedDateTime: 2021-11-19T07:51:00Z

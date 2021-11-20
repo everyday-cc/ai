@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Automobile Acceptance Corporation Goes Live with Scienaptic's AI-Powered Credit Decisioning Platform"
-    excerpt: "Scienaptic, a leading AI-powered credit decision platform provider, announced today Automobile Acceptance Corporation (AAC) has deployed its solution, positioning AAC to streamline its lending processes while helping dealers approve more loans to underserved buyers."
-    publishedDateTime: 2021-11-15T12:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-automobile-acceptance-corporation-goes-live-with-scienaptics-ai-/2021/11/15/9491744.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "JkZexLeS5T/mT0MHf5EBAwktcM0/YjOvdFPk/gx1tGMfUmnN71QKAJ3Z8oTlvRhzJd/RdhYD+by337c6m3crjSq31QoGHIQ/djLk2COtVHDWrlpp5YmqViv6dxHEyhyfZWYwQ7A9Z2I+bE40jgQrsjFmeV7iSEPnJ+NWPtGtJK6WEZrX5EnwmCqgN92Iz8xYH4UiFofTKrlCi3BTCAbOgTMa+HJhuC7aQcwyzly42X1nPC8EebkWO2orgQL6VFuefEqQZVXiakjXQathvDY0xy97a14o8Lrv0/LQufACyjnNIi7OyEVNbMi2NfsnMr6eAlhI4BZJi3NBqVSDD2imrArdiBTy5CShsSAB+pIeulI=;WhkdFyjG8GZnbftSRt7gtg=="
 ---

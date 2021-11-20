@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://cdn.openpr.com/U/6/U611953622_g.jpg"

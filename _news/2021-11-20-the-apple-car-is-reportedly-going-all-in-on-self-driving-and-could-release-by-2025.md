@@ -117,6 +117,38 @@ related:
         width: 1500
         height: 809
         isCached: true
+  - title: "Apple accelerates work on car, aims for fully autonomous vehicle"
+    excerpt: "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
+    publishedDateTime: 2021-11-19T18:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
+    ampWebUrl: "https://www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/Apple-CEO-Tim-Cook-File-Image-IOL?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/aff6062f-b216-56b4-a440-acdad69f102d&operation=CROP&offset=0x182&resize=3500x1969"
+        width: 650
+        height: 366
+        isCached: true
+  - title: "Apple accelerates work on electric car project, aiming for fully autonomous vehicle"
+    excerpt: "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to"
+    publishedDateTime: 2021-11-18T16:26:00Z
+    webUrl: "https://www.mercurynews.com/2021/11/18/apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle/"
+    ampWebUrl: "https://www.mercurynews.com/2021/11/18/apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 53
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/sjm-urity-Patch-Instructions_88014743.jpg?w=1024&#038;h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Apple Speeds up Self-Driving Car Project"
     excerpt: "Apple wants to ramp up the development of its electric car with a new focus on making a fully self-driving vehicle."
     publishedDateTime: 2021-11-18T23:06:00Z
@@ -176,6 +208,6 @@ related:
         height: 600
         isCached: true
 
-secured: "uYSHO07Tmv++pbPENnbwwVH5G5+Vbg/7iUOLZ20XZxbAHyFQsaIegsi1BLqzYiIy7QmB51vadyHp6ewd4FxlITPx37Lrv36QHNJTexf2Qp0iG7W3MeCtei38uZb+BjvuansJsFigW+mm9PmgF4G19Kz35hRqZ3sC4WxiDSaf5f4j5kcIrQYzr8+guw7NtWy3WQGcHwPRxBLc3qKiwvEegLFKigmykjRL4FLsDf7toMiTVC3X4AzzhYaUW8gL8MO1sXXRnAbP0K3znTwPlmbW3sZKDU5RF0Jcr+UiNYv4vTobyGubYTD20cbu9/hG4xjQNM7xUa0/0QhcxtJAbOPQ5X3XjWfJWSmE2bdcYMdfxTw=;o5IG+FtRiPROidrbmj46ww=="
+secured: "xHFWs4W+4+tyiWZxlj6lO5DPhgNqaKAFRznUU/Y/Ojf+6wNHVwd8dQT/GMpCQbdhSWRv/72duaZFd5TNlTX/gEIp7mMhYlvYZD23SgaCxmZvNkBKOT9ET3nEwZV31IzuIVJRx3ZwXU+WxFVKXWaBLniNGZQan6wWpPHFRbCc1r8Xk0P6NWoKxz4GOCe7yem+a45ihgWEYORBzZxQ34PKQmJ9r8GCoFftrDBNd/9CdmkVa6F+T6zcm+NcjQyO2wuqImlx54RiNgbZR1dobWNTTHdQis/wmx+SFFyw6mN7aGcbbojegGCMUXE7CAUoyGz4lOyddcNVHl2tQYDWzO9BeIP6a+0qG2L8lvJXGhXr2fZzFTnyKH1GjtjGbD3XfU6OjTlmoxBePZGvVvvQJxPiE7K0cxyJ1/zR5G6rEIaKKQ+kpJOfFkembpNNv6wbpTpE2hhCaRl3WA+aMlYTZDtboaSzfiAn7zjjptest9YG0LTatTV0rlMPcJcQjXCWb5sKuwdRVY4aTnTJAWQvO2UweQ==;5ylJPb2mrntGGHR0c0vx8Q=="
 ---
 

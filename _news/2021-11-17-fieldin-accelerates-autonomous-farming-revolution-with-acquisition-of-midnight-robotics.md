@@ -33,6 +33,20 @@ related:
         width: 400
         height: 309
         isCached: true
+  - title: "DDN Launches Next Generation of High Performance NVMe and Hybrid Storage for AI and Advanced Computing Acceleration"
+    excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced the availability of its next generation of NVMe platforms, the SFA® 400NVX2 and 200NVX2."
+    publishedDateTime: 2021-11-15T16:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ddn-launches-next-generation-of-high-performance-nvme-and-hybrid-storage-for-ai-and-advanced-computing-acceleration-1030977122"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
+        width: 283
+        height: 400
+        isCached: true
   - title: "Beautiful.ai Doubles Down on Growth and Design, Promotes Jason Lapp to CEO"
     excerpt: "Beautiful.ai, the presentation platform that enables anyone to build beautiful presentations, announced today the promotion of its president and chief operating officer (COO), Jason Lapp, to chief executive officer."
     publishedDateTime: 2021-11-18T15:43:00Z

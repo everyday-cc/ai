@@ -42,21 +42,19 @@ related:
         width: 1200
         height: 593
         isCached: true
-  - title: "Microsoft Teams: If your video meeting is laggy, our AI might be able to help"
-    excerpt: "Microsoft details how its artificial intelligence allows for better video meetings, even on bandwidth-constrained networks."
-    publishedDateTime: 2021-11-15T12:52:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/"
+  - title: "Microsoft's Recent AI News"
+    excerpt: "Microsoft has built itself up into a Cloud and Corporate Metaverse leader in recent years and that's staring to really show in its artificial intelligence ambitions. We have to give credit where it is"
+    publishedDateTime: 2021-11-20T03:53:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsofts-recent-ai-news-michael-spencer-"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
     images:
-      - url: "https://www.zdnet.com/a/img/resize/e683aa03ba74a7aeb58f9976bd08489e193044fa/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp"
-        width: 1200
-        height: 675
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG76zDBdVzusw/article-cover_image-shrink_600_2000/0/1637379894170?e=1642636800&v=beta&t=dhkM2hx5V8sJI5zzejNfTYGIz3-87ipBigZgVOdvuMg"
+        width: 696
+        height: 392
         isCached: true
   - title: "Concentric AI Becomes Member of Microsoft Intelligent Security Association"
     excerpt: "MISA is an ecosystem of independent software vendors and managed security services providers that have integrated their security products with Microsoft’s to defend against increasing cyber-threats. Concentric AI was nominated to MISA for seamlessly integrating its award-winning,"

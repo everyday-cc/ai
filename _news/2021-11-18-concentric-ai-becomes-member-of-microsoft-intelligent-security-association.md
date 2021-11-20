@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 593
         isCached: true
-  - title: "Microsoft Teams: If your video meeting is laggy, our AI might be able to help"
-    excerpt: "Microsoft details how its artificial intelligence allows for better video meetings, even on bandwidth-constrained networks."
-    publishedDateTime: 2021-11-15T12:52:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-if-your-video-meeting-is-laggy-our-ai-might-be-able-to-help/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e683aa03ba74a7aeb58f9976bd08489e193044fa/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Azure Vision AI Principal Manager to keynote TMA virtual event"
     excerpt: "Virtual OPSTech is Mr. Rouzbeh Aminpour, Microsoft Azure Artificial Intelligence Platform's Computer Vision Business & Strategy Principal"
     publishedDateTime: 2021-11-15T19:26:00Z
@@ -65,6 +49,20 @@ related:
       - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Microsoft's Recent AI News"
+    excerpt: "Microsoft has built itself up into a Cloud and Corporate Metaverse leader in recent years and that's staring to really show in its artificial intelligence ambitions. We have to give credit where it is"
+    publishedDateTime: 2021-11-20T03:53:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsofts-recent-ai-news-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG76zDBdVzusw/article-cover_image-shrink_600_2000/0/1637379894170?e=1642636800&v=beta&t=dhkM2hx5V8sJI5zzejNfTYGIz3-87ipBigZgVOdvuMg"
+        width: 696
+        height: 392
         isCached: true
   - title: "Microsoft Azure launches space data and technology team at Lot Fourteen"
     excerpt: "South Australia has firmly established itself as the centre of gravity for the country’s burgeoning space sector, and now yet another global giant has touched down in Adelaide, with Microsoft launching its space data and technology team at Lot Fourteen in September this year."
