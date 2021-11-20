@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-countr
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://www.startupdaily.net/wp-content/uploads/2021/11/Silva-Morrison.jpg"
         width: 766
         height: 531
-        isCached: true
-  - title: "Oosto endorses the Australian Government's decision to delete pictures scraped from the net for facial recognition app"
-    excerpt: "As a vendor of AI based facial recognition products for private companies and government agencies it is important for me to emphasise - facial recognition apps should be"
-    publishedDateTime: 2021-11-15T10:50:00Z
-    webUrl: "https://www.sourcesecurity.com/news/oosto-endorses-australian-government-decision-delete-co-1536229326-ga-co-1602588840-ga.1636962489.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/oosto-endorses-australian-government-decision-delete-co-1536229326-ga-co-1602588840-ga.1636962489.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/oosto-endorses-australian-government-decision-delete-co-1536229326-ga-co-1602588840-ga.1636962489.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 35
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/synectics-release-tech-note-webinar-cloud-storage-partnership-cctv-user-group-920x533.jpg"
-        width: 612
-        height: 355
         isCached: true
   - title: "The Artificial Intelligence conundrum facing Australian industry"
     excerpt: "A leading researcher is calling for greater collaboration between industry and universities, to grow Australia's Artificial Intelligence workforce. Australia accounts for just two percent of the world's AI experts,"

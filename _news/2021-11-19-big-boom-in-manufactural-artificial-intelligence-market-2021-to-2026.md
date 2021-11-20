@@ -59,22 +59,6 @@ related:
         width: 764
         height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Report Up to 2031"
-    excerpt: "Visiongain has published a new report on Artificial Intelligence AI in Construction Market Report to 2031 Forecasts by offering Solution Services by stage Pre construction Construction Stage Post construction by deployment type Cloud On premises by technology Machine Learning Deep"
-    publishedDateTime: 2021-11-15T09:28:00Z
-    webUrl: "https://www.openpr.com/news/2461984/artificial-intelligence-ai-in-construction-market-report-up"
-    ampWebUrl: "https://www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 72
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub15145183_g.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Artificial Intelligence (AI) Market 2021-2028"
     excerpt: "The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360.36 billion by 2028 while exhibiting a CAGR of 33.6% between 2021 to 2028. In its report titled, “Artificial Intelligence (AI) Market,"
     publishedDateTime: 2021-11-18T07:52:00Z

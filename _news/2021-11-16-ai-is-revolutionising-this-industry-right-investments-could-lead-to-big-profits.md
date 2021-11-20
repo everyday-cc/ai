@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/industry/ai-is-revolutionising-this-industr
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/ai-is-revolutionising-this-industry-right-investments-could-lead-to-big-profits/amp-11636973147972.html"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Why AI investments fail to deliver"
+    excerpt: "According to two recent Gartner reports, 85 per cent of AI and machine learning projects fail to deliver, and only 53 per cent of projects make it from prototypes to production. Yet the same reports indicate little sign of a slowdown in AI investments."
+    publishedDateTime: 2021-11-16T04:58:00Z
+    webUrl: "https://www.reseller.co.nz/article/693078/why-ai-investments-fail-deliver/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 37
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-orig_1.jpgautowebp"
+        width: 472
+        height: 315
+        isCached: true
 
 secured: "owIeghodaumUvhsfI23OiQV3RMx4sCAmdnTyfTzc8HDFWSxHp1XrpYjcszdAtIpAOjdhO7M08wugA3dsGM7P6hUhm1FCMAT7Yy5Qg+bAQdo0dUduX+7Cn+ttyQuUhAlKCLPCZlUolWfdeFvnzn2TDlDTMT0J0C1sWd0hrvrXHGlaE7KR0g2JxHJWjgboHw6lfBkehGxvBnUUe8zuQ2Bv/d8A+mcY22vOrq7yF8tTd2i6CjjWD5rL+4wis5Wtktn/xk2fnOFZ4hGSUzlCjCsH1C5p4bfjMSl70wlp7KUYU9ivkXp3gs0DHO8cykXOAphHj7LXDn3ki0Qn0P9GEOH6cH6KeVA/ppJXCDjPhLSuW7ELQ9PRaj00e1ncihsvvxdaONcVaftG1tMJX0jGUBxzBJHqEnAb8efuwCjnVgHrJoz14ilsNs8kYHiWsG7Le6+VIFZGpApBRbSBLzpHKx7CX19qGCuBcQwRYxmA0MbwSrhpwWX4leKbPphtVU2spzGQpcIBPIEvYiHrG0j8AFCpdg==;LmYlkD2SFc+IjlP0UOhPpw=="
 ---

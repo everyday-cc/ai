@@ -161,6 +161,20 @@ related:
         width: 825
         height: 413
         isCached: true
+  - title: "The Apple Car is reportedly going all-in on self-driving and could release by 2025"
+    excerpt: "The Apple Car could be available by as early as 2025. Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
+    publishedDateTime: 2021-11-19T17:55:00Z
+    webUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 18
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "RqyaRFtpTmtpQJWYcHXNrSgF2Qryqzb+sWzP80NBBTcofA7+IHP3yj0WKZMEIN8NszzhvRdzlCG7rI/clHAAcjrKohs2yrKA++Wte5pm+GzU+Lq36UVijctnRsUl+uhjF0w7Db0m62MkX17vpDdMNVHO4nbYdYIVoElQjBTAz81f92FXFt4BDiLjx+e/hWHOKvs8PRFaHXdpfsJsJuP5vD/DjWczDWM827N24QtJpoBQCvyISsO7dT8zfsqgKdlZJHPGH9zWvqHvL1aeTeL0QMrXLk/7tFDwIZ03XCaNhAR7k/irAKPHibQYu1M86FqfUEQ9DqRsyMIvuGTWyyaYj2SvIG/Fkxq+PdyanCnK+m4FFbR0h/uhWFSTq4fE6oQoOx+lcvB62SxIlyEEx6zIgWKr7Q6IGVyeo8WRZLOd/nkWA2H7rPaY+zSIaM6xVMfqNqpaOmBvjQSZr0Ighv5f3qfmqS8SxSXPxuRY5e4pbhRxNfTECn8b5KT7Pe1X/s9ttU5PedYCI/Vv85qgkiX8Jw==;J7OItk/wt2ndYIWzJrP6WQ=="
 ---

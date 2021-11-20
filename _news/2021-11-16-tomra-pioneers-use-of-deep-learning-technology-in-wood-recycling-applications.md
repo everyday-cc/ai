@@ -53,20 +53,6 @@ related:
         width: 4058
         height: 2710
         isCached: true
-  - title: "Tomra targets wood recycling with artificial intelligence"
-    excerpt: "The Tomra Recycling business unit of Norway-based Tomra Group says it has strengthened its offering for the global wood recycling sector by becoming “the first in the world to use deep learning, a subset of artificial intelligence (AI),"
-    publishedDateTime: 2021-11-15T10:23:00Z
-    webUrl: "https://www.woodworkingnetwork.com/news/woodworking-industry-news/tomra-targets-wood-recycling-artificial-intelligence"
-    type: article
-    provider:
-      name: Woodworking Network
-      domain: woodworkingnetwork.com
-    quality: 37
-    images:
-      - url: "https://www.woodworkingnetwork.com/sites/default/files/2021-11/tomrawoodseparationweb.jpg"
-        width: 736
-        height: 414
-        isCached: true
   - title: "TOMRA Uses Deep Learning Technology to Distinguish Between Different Types of Wood-Based Materials"
     excerpt: "The primary application for TOMRA Recycling’s new solution is sorting Wood A – non-processed wood – from Wood B."
     publishedDateTime: 2021-11-16T13:31:00Z

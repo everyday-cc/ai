@@ -1,24 +1,26 @@
 ---
 category: news
 title: "ElectrifAi Announces Computer Vision and MLaaS for Oil, Gas and Energy at ADIPEC"
-excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-publishedDateTime: 2021-11-15T04:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-1030972298"
-webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-1030972298"
+excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (Ai) and pre-built machine learning (ML) models,"
+publishedDateTime: 2021-11-15T03:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-301423688.html"
+webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-301423688.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Q2r9Sl1yi13tgJC+mJ8Qg6PyDapUtdJIhsvWOBJ70w+ikogvfka4ZMnuja0i1cp08E8l0188Vp7Ve/1Pr5cFzdU3tdmdV1pYfhQbMKtFcPHl0mZsi/wMhUip12dhbYRoz8WmT7IgOP0BLuvoAKngjyQWRfzw2WYF2Ah2OayhrLD66WyxCYWDdKwmzvvL6wr+1xZjm0pQPzOTUTPjQYaX3YwJtEfj9G7XMv5nA7GoVPdTYmx7hW5YqKbzjRUWKPxOQsn8xZleWuX5pqNFP5Og5lJY7yF6cQzH/hG61knwjMUe3phVjspsf2Skn40TaHQ41kWylRGJDDXdbT2Xw3qdmtuEIm5L77dqGV55p3jaFoY=;SNYV/1dY9NuMzNW8+bq/MA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
+    width: 594
+    height: 315
+    isCached: true
+
+secured: "QbcG32751tT3c0SyTg3aRyYea4u+e0N0Gdz6K5kuUqGCU1VL7Ea6yNv3MhULu1kqwxPwb3pUedSzlU7R09sM1fxcA0IALA/0ybJbC3vOMpR4DYvHXM4IMJgZHgNG/3cCQOMKinT9PdY9PR+C0JnJREOTPRexBt9uXw0JUiVd/kXhQj0uLzzo94z+T0m2JCNWLtOTzdJuZJXtMvEnbZftP6TJxKaDNuSEE5z1MUkO2GWTVZE+LzMCO9qH3ffCoQ7f61fzdsllqLyBE/+oV2VSoQkLPutzvwasL+mO17Y08feETrS8OEq2f051a3c3lwi67dbX3+m2Lapv2P5wEyViwOGB3N8DyZnT90L3nXgt0EE=;CCv7yTiX+YreM1+pnr9NIA=="
 ---
 

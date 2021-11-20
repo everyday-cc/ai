@@ -57,22 +57,6 @@ related:
         width: 764
         height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Report Up to 2031"
-    excerpt: "Visiongain has published a new report on Artificial Intelligence AI in Construction Market Report to 2031 Forecasts by offering Solution Services by stage Pre construction Construction Stage Post construction by deployment type Cloud On premises by technology Machine Learning Deep"
-    publishedDateTime: 2021-11-15T09:28:00Z
-    webUrl: "https://www.openpr.com/news/2461984/artificial-intelligence-ai-in-construction-market-report-up"
-    ampWebUrl: "https://www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2461984/artificial-intelligence-ai-in-construction-market-report-up"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 72
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub15145183_g.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Big Boom in Manufactural Artificial Intelligence Market 2021 to 2026"
     excerpt: "Portland United States Big Market Research newly added a research report on the Manufactural Artificial Intelligence Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario and"
     publishedDateTime: 2021-11-19T09:25:00Z

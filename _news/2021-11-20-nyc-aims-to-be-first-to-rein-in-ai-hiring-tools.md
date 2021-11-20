@@ -2,19 +2,19 @@
 category: news
 title: "NYC aims to be first to rein in AI hiring tools"
 excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-publishedDateTime: 2021-11-19T18:39:00Z
-originalUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-webUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-ampWebUrl: "https://www.chron.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+publishedDateTime: 2021-11-19T22:29:00Z
+originalUrl: "https://www.timesunion.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+webUrl: "https://www.timesunion.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "NYC aims to be first to rein in AI hiring tools"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews."
+    publishedDateTime: 2021-11-19T14:05:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/nyc-aims-first-rein-ai-hiring-tools-rcna6113"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna6113"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna6113"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/tdy_sun_spotlight_molly_211024-b9wbhs.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "NYC Aims to Be First to Rein in Artificial Intelligence Hiring Tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the com"
     publishedDateTime: 2021-11-19T17:20:00Z
@@ -85,6 +101,6 @@ related:
         height: 720
         isCached: true
 
-secured: "zsd4XtZHn3odcokB/ZVg0xh+8WVBStnwGuAcWSABgcds3PPmO/5eCCxa64es0j4MYoGv69qkE5BXtZfUXmGlCt5DpzvSfMDyoA6lPVzeoUU1Qi52988Gz2H9m96I/P/HCw+xKSPTzeuNhFCsEMK7UNnORB6gTD9MXm+0lm2LSmMouEwqI++XdkV5rls/q3TZUaq/mRcz0eHd9nzXMMgPJr28ifkhrGmLY+ZgzBLrjzuKRSZN3AO9bb1XsCfPF6MTrQ2hvig/dxEYNMeCNWHhYc2JVrXva3hsWyV0oIQnPCW0GjzZpgeqVLzm9A7sg7MTu6BlnzD3/XiU5kTQOb3KYdUQuoc0ALWPoXepaWNtjBc=;ZHdpWGImbDrJnQZIiLYvxA=="
+secured: "T6fx64suIgtQSZGocM9zWdxK8Qm0Bb7iLrJOIovXDhKAq0+mcMKch5ak1ewiI9UPl45IK/shbNRd6MrWDIMWlb1vyRphzxRJ8CWsbYuQuxH//6/Bp26hYjFtkQNM8d9hnYMf9dfZtuOEtY/hD/tH4XZkhu1W8uOWdqkEQYZ9VLDq69WKBMgA89rmyKJg+pcgU59G3sQv077FtTkK6G5qZJHCIh04Jv7FNr5YeB3L5GwrrrTgWxBluTUkKCXq2C+/NJeysnvgQnrMHbiHfqCv3p83QC8AzH/U/HFMjzUucnwm+qjw+Mus2ZqUvRdPTs++dAWROqN8ON+xYbC5ndlskdcWspiLHmODyR1n2b0r5Rs=;WrAmBXZi92c3pwptRHjclA=="
 ---
 
