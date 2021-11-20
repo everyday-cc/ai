@@ -130,22 +130,6 @@ related:
         width: 790
         height: 466
         isCached: true
-  - title: "Artificial Intelligence (AI) In Drug Discovery Market 2021 - Industry Outlook, Growth Factors, Demand Drivers, Trends Analysis, And Forecast"
-    excerpt: "Artificial Intelligence AI In Drug Discovery Global Market Report 2021 COVID 19 Growth And Change by Research Company is the most comprehensive report available on this market with analysis of the market s historic and forecast growth drivers"
-    publishedDateTime: 2021-11-16T04:17:00Z
-    webUrl: "https://www.openpr.com/news/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2462965/artificial-intelligence-ai-in-drug-discovery-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub16875132_g.jpg"
-        width: 800
-        height: 2000
-        isCached: true
   - title: "Artificial Intelligence (AI) in Agriculture Market 2021-2027 skyrocketed revenue with key players John Deere, Trimble, Iteris, AGCO, IBM, Intel"
     excerpt: "Latest research on Artificial Intelligence AI in Agriculture Market report covers forecast and analysis on a worldwide regional and country level The study provides historical information of 2015 2021 together with a forecast from 2021 to 2027 supported by both"
     publishedDateTime: 2021-11-20T07:12:00Z

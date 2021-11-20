@@ -2,6 +2,58 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-10-14-execs-from-github-and-microsoft-azure-invest-in-new-ai-startup-that-helps-devs-build-intelligent-apps.md",
+      "title": "Execs from GitHub and Microsoft Azure invest in new AI startup that helps devs build intelligent apps",
+      "excerpt": "Aseem Datar, a former Microsoft Azure General Manager who just joined Madrona as a partner, said Spice AI is “going after a large and significantly important mission as the world sees more and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/",
+      "originalUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/71A491DF-68A5-42E4-A1A4-27C8831D7F45_1_201_a-630x450.jpeg",
+          "width": 630,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/amp/",
+      "publishedDateTime": "2021-10-14T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-ai-paints-a-picasso-nude-just-like-pablo-did.md",
       "title": "AI paints a Picasso nude, just like Pablo did",
       "excerpt": "\"Lost\" Picasso nude comes out of hiding, thanks to artificial intelligence and 3D printing. Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists,",
@@ -1142,50 +1194,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-what-are-the-threats-and-opportunities-of-data-science-and-machine-learning.md",
-      "title": "What are the threats and opportunities of data science and machine learning?",
-      "excerpt": "As with most things, many of the threats and challenges in using data science, artificial intelligence and machine learning ... working in financial services, to have access to reams of data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
-      "originalUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F6%2F2%2F2%2F2632266-11-eng-GB%2Fpexels-hitesh-choudhary-693859.jpg%3Fv1?source=ftadviser",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FTAdviser",
-        "domain": "ftadviser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

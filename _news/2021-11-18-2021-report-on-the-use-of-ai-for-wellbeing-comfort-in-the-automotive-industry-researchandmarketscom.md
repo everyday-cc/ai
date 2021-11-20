@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Social Media Market Size Volume, Share, Demand growth, Business Opportunity by 2031"
-    excerpt: "\"AI in Social Media Market Research Report- insightSLICE\"According to insightSLICE, the AI in Social Media market report 2021-2031 provides crucial"
-    publishedDateTime: 2021-11-16T04:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-size-volume-share-demand-growth-business-opportunity-by-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.abnewswire.com/uploads/1636982022.jpeg"
-        width: 889
-        height: 695
-        isCached: true
 
 secured: "pFXyQbV8qEBL5R3zdqLRXmGNp/gPIfAKbK+mKSI5cLW/I/pgwWwx++Xf00conWYv93vVhKfHsdVYAy4Hcm4u2rNejA/t3kh2SVMVphwcRHTQGJBm1yXRTXR23xg1/BXhdTVQqbIUyBdujb076ezlaFzFF07Vx84jUW2lg/TyDpwtFnK4p6yTG8LANSbyG66qVI0bm+WbaM+2pL/Xm+//jAmBStZemW9sWTtdJ6lWdHB6Xv62dEj5wKWaDO0zrUWyJjox1SedyFzDcCz6Xbc3v/+czRgFYbh7bfheh7xVEOFS6B/ZtRSfIOXaSjmNpbmkerzug5TTImFBdi/yoNAQoEkcAa0QcBFzqzetPJ2nONY=;42HiNt3jUfM8CkecG5Sm7A=="
 ---

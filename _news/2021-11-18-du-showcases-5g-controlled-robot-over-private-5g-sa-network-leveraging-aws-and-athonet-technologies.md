@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies"
+    excerpt: "ADIPEC, Abu Dhabi: du, from Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, pow"
+    publishedDateTime: 2021-11-20T20:40:00Z
+    webUrl: "https://menafn.com/1103211311/du-showcases-5G-controlled-robot-over-private-5G-SA-Network-leveraging-AWS-and-Athonet-technologies"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?388455"
+        width: 531
+        height: 250
+        isCached: true
   - title: "UAE - du Showcases 5G Controlled Robot Over Private 5G SA Network Leveraging AWS and Athonet Technologies"
     excerpt: "Abu Dhabi, 18th November, 2021:  du, from Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use cas"
     publishedDateTime: 2021-11-18T13:29:00Z

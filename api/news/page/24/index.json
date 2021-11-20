@@ -832,6 +832,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-31-a-robot-to-top-up-your-tesla.md",
+      "title": "A Robot To Top Up Your Tesla",
+      "excerpt": "Everything is controlled ... While robot won’t be winning any interior design contests, it does the job well, and adds a bit of convenience and peace of mind.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
+      "originalUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/06/2021-06-21-3.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-10-31-security-ai-is-the-next-big-thing.md",
       "title": "Security AI is the next big thing",
       "excerpt": "This isn't a takeover by cybersecurity AI; it's a force multiplier for security teams and doing a lot of work behind the scenes.",
@@ -1121,57 +1165,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-att-and-h2o-collab-on-feature-store-for-ai-developers.md",
-      "title": "AT&T and H2O collab on feature store for AI developers",
-      "excerpt": "Telecom giant AT&T and AI cloud firm H2O have jointly launched an AI feature store to help organizations accelerate AI development.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/",
-      "originalUrl": "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2012/07/att-logo.jpg?w=1200&strip=all",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/",
-      "publishedDateTime": "2021-10-29T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

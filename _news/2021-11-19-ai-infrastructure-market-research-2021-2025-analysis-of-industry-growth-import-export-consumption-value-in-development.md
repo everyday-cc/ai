@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Social Media Market Size Volume, Share, Demand growth, Business Opportunity by 2031"
-    excerpt: "\"AI in Social Media Market Research Report- insightSLICE\"According to insightSLICE, the AI in Social Media market report 2021-2031 provides crucial"
-    publishedDateTime: 2021-11-16T04:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-size-volume-share-demand-growth-business-opportunity-by-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.abnewswire.com/uploads/1636982022.jpeg"
-        width: 889
-        height: 695
-        isCached: true
   - title: "2021 Report on the Use of AI for Wellbeing & Comfort in the Automotive Industry - ResearchAndMarkets.com"
     excerpt: "The “AI in Wellbeing & Comfort in Automotive Industry” report has been added to ResearchAndMarkets.com’s offering. The report forecasts that artificial intelligence will transform the cars in the near future as many companies such as Hyundai,"
     publishedDateTime: 2021-11-18T14:39:00Z

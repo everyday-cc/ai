@@ -45,6 +45,40 @@
       ]
     },
     {
+      "path": "_news/2021-11-16-does-artificial-intelligence-for-it-operations-pay-off.md",
+      "title": "Does artificial intelligence for IT operations pay off?",
+      "excerpt": "Rodrigo de la Parra, AIOps Domain Leader at IBM Automation ... AIOps is the application of artificial intelligence to enhance IT operations, explained de la Parra. It spots issues by using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off-2/464875",
+      "originalUrl": "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off-2/464875",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-why-ai-investments-fail-to-deliver.md",
       "title": "Why AI investments fail to deliver",
       "excerpt": "The success or failure of AI initiatives has more to do with people than with technology. If you want to put AI into practice in a way that improves business outcomes, you must avoid these 6 mistakes.",
@@ -1335,59 +1369,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand.md",
-      "title": "Artificial Intelligence Myth Vs Reality: Where Do Healthcare Experts Think We Stand?",
-      "excerpt": "I think of it as a maturation process,” says Dr. John Halamka . “You’re asking why your three-year-old isn’t doing calculus. But can your three-year-old add a column of numbers? That’s actually not so bad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/",
-      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155c2ffe2958456f319f3ed%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/amp/",
-      "publishedDateTime": "2021-09-30T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
       ]
     }
   ],
