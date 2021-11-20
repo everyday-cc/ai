@@ -24,33 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "Zero Density adds AI-powered talent tracking solution"
-    excerpt: "Zero Density has added a markerless, stereoscopic talent tracking system to its growing lineup of ... Read More"
-    publishedDateTime: 2021-11-16T17:50:00Z
-    webUrl: "https://www.newscaststudio.com/2021/11/16/zero-density-adds-ai-powered-talent-tracking-solution/"
+  - title: "How Artificial Intelligence Is Revolutionizing Retail Market"
+    excerpt: "The digitization and technical progress, especially artificial intelligence (AI), are changing retail market in numerous industrial sectors, including tech, agriculture, studios, product testing, inspection,"
+    publishedDateTime: 2021-11-20T09:58:00Z
+    webUrl: "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/"
+    ampWebUrl: "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1"
     type: article
     provider:
-      name: Newscast Studio
-      domain: newscaststudio.com
-    quality: 39
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 72
     images:
-      - url: "https://www.newscaststudio.com/wp-content/uploads/2021/11/zero-density-traxis.jpg"
-        width: 1100
-        height: 621
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/11/rtrt.jpg"
+        width: 1600
+        height: 700
         isCached: true
-  - title: "Avoiding shortcut solutions in artificial intelligence"
-    excerpt: "Control Engineering - If your Uber driver takes a shortcut, you might get to your destination faster. If a machine learning model takes a shortcut, it might fail in unexpected"
-    publishedDateTime: 2021-11-18T06:03:00Z
-    webUrl: "https://www.controleng.com/articles/avoiding-shortcut-solutions-in-artificial-intelligence/"
+  - title: "Artificial Intelligence in Energy Market is set to Experience a Revolutionary growth by 2026"
+    excerpt: "A SWOT Analysis of Artificial Intelligence in Energy Professional Survey Report Including Top Most Global Players Analysis with CAGR and Stock Market Up and Down By thinking from the customer point of view a team of researchers analysts and industry"
+    publishedDateTime: 2021-11-17T18:08:00Z
+    webUrl: "https://www.openpr.com/news/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
+    ampWebUrl: "https://www.openpr.com/amp/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
     type: article
     provider:
-      name: Control Engineering
-      domain: controleng.com
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub17748437_g.jpg"
+        width: 640
+        height: 400
+        isCached: true
+  - title: "The Payments Association finds huge value in AI in revolutionising payments"
+    excerpt: "Financial Services organisations with over 5,000 employees have adopted AI It is forecast that AI Market to Hit USD 360.36 Billion by 2028 The Payments Association (formerly The Emerging Payments Association (EPA)) today announces the release of its latest research,"
+    publishedDateTime: 2021-11-17T09:54:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/payments-association-finds-huge-value-ai-revolutionising-payments"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
     quality: 37
     images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/11/CTL2111_WEB_IMG_MIT_AIMachine_Contrastive-Slider.jpeg"
-        width: 645
-        height: 350
+      - url: "https://financialit.net/sites/default/files/dbfhgysuydfbsuydf.png"
+        width: 733
+        height: 414
+        isCached: true
+  - title: "Metabolic Disorders Drugs Market Players Revolutionize Treatment With AI Integration"
+    excerpt: "Metabolic Disorders Drugs Global Market Report 2021 - COVID-19 Impact And Recovery The Business Research Company's Metabolic Disorders Dru"
+    publishedDateTime: 2021-11-17T10:44:00Z
+    webUrl: "https://menafn.com/1103190355/Metabolic-Disorders-Drugs-Market-Players-Revolutionize-Treatment-With-AI-Integration"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/17/EP_7f859image_story.png"
+        width: 967
+        height: 493
         isCached: true
 
 secured: "lx7fXziZHiz3L9FKzMrOTKi7SUo5qNqUw9tiEdW4G6eRbgHUDbCXE29+U/ff2TWE2Qu365g7rq52s0mDMVVnr1Qq/x76B2iwto5UufRKdtiZa+/iqSEb0Ryn6U+yh/PizNwFVYNgfPIjGEBgAgNSRgdQ0LpR/Cej3IbnVL3t2n6UY4DYxDzVgW0n7jjV6ebkqbtsgIia9WqEc/boQ9JOOKW0z9HK83dbg3cmXu4+Cz+ezv0TZkzJ2/b4VCF4Z2yuJE0qxl1X+5NQpfyL2N7AWgm3ao8jSUYaFhwi4pdNFahMk5dR1yyyE/85LUCje+Mo+XFyRLatTbgNpp534MvLdiVUK6YQ2mcRbSQ3m++Mvb35YuPY8L3QtP1xtL5d3MwkJALo9tCoIlMkn3hm9vzYQ7rellmvgrLPBhl63h6M4/QK1blgf9abhZGKJwfC1aQpmZ+yNj1nA8KgME+QVybxuzfAUX2jAn08BzeHKRAJSJgbqUHGajNho/qIHBk6VzN0JzPq6kL5Csw2oz35JkSWUQ==;biV7fC8H6SdC03WHTc52ew=="

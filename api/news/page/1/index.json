@@ -54,6 +54,48 @@
       ]
     },
     {
+      "path": "_news/2021-11-20-how-artificial-intelligence-is-revolutionizing-retail-market.md",
+      "title": "How Artificial Intelligence Is Revolutionizing Retail Market",
+      "excerpt": "The digitization and technical progress, especially artificial intelligence (AI), are changing retail market in numerous industrial sectors, including tech, agriculture, studios, product testing, inspection,",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/",
+      "originalUrl": "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/11/rtrt.jpg",
+          "width": 1600,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1",
+      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1",
+      "publishedDateTime": "2021-11-20T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv-viewing-experience.md",
       "title": "MediaTek unveils Pentonic 2000 chip for next-level 8K 120Hz TV viewing experience",
       "excerpt": "MediaTek today lifted the curtains on its new Pentonic smart TV family of processors with the introduction of the Pentonic 2000 chip.",
@@ -102,6 +144,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-best-new-cars-cheaper-than-40000.md",
+      "title": "Best new cars cheaper than $40,000",
+      "excerpt": "You definitely don't need to spend $40,000 on a new car. But, if you're prepared to drop that kind of cash on a vehicle, you've come to the right place. With this kind of budget, the options open to some luxury cars and even plush SUVs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/kGrbx7FCExYNdGnJvXn5pKDbKxg=/2021/11/19/783f4edb-3cff-46b4-8346-0e6a9679761a/ogi-rdx.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-new-car-cheaper-40000/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-new-car-cheaper-40000/",
+      "publishedDateTime": "2021-11-19T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -487,7 +581,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -683,7 +777,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -829,6 +923,48 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-sensetime-gets-green-light-from-hong-kong-exchange-to-proceed-with-us2-billion-ipo-sources-say.md",
+      "title": "SenseTime gets green light from Hong Kong exchange to proceed with US$2 billion IPO, sources say",
+      "excerpt": "SenseTime has got the green light from the Hong Kong stock exchange to proceed with its flotation, according to people familiar with the transaction, taking the largest artificial intelligence (AI) company in China a step closer to its US$2 billion initial public offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
+      "originalUrl": "https://www.msn.com/en-xl/money/other/sensetime-gets-green-light-from-hong-kong-exchange-to-proceed-with-us-2-billion-ipo-sources-say/ar-AAQU7Bm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/19/c27a751e-493e-11ec-88c2-0bacf4eabd5b_image_hires_215158.jpg?itok=D_CZNEt0&v=1637329925",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
+      "publishedDateTime": "2021-11-19T05:11:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
+        "domain": "scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1062,152 +1198,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-automation-ai-key-to-optimising-application-performance.md",
-      "title": "Automation, AI key to optimising application performance",
-      "excerpt": "Automation and AI are the only way to ensure optimal performance of the applications that organisations depend on, according to IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ",
-      "originalUrl": "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ",
-      "publishedDateTime": "2021-11-19T00:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-mediatek-announces-new-filogic-130-series-chips-will-bring-wi-fi-6-bluetooth-52-to-iot-devices.md",
-      "title": "MediaTek announces new Filogic 130 series chips: will bring Wi-Fi 6 & Bluetooth 5.2 to IoT devices",
-      "excerpt": "MediaTek has announced new Filogic 130 and Filogic 130A single-chip solutions to bring Wi-Fi 6 and Bluetooth 5.2 connectivity to IoT devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/08/MediaTek-Dimensity-5G-Chipset-Featured.jpg",
-          "width": 1920,
-          "height": 1171,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/?amp=1",
-      "publishedDateTime": "2021-11-18T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe.md",
-      "title": "Japan should work with Aukus on cybersecurity and AI, says Shinzo Abe",
-      "excerpt": "Former Japanese PM welcomed the creation of Aukus in the midst of an ‘increasingly severe’ security environment",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe",
-      "originalUrl": "https://www.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/57a0056f52d055439a96dbad78e22f0ec638bc3d/0_0_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=c676b80163e10b65a679bcc75b5cf400",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe",
-      "publishedDateTime": "2021-11-18T20:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

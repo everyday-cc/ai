@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -182,6 +182,20 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fapple-fully-self-driving-car-2025-bloomberg-TW.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
+        isCached: true
+  - title: "Apple shares at record high after reports of a self-driving car"
+    excerpt: "Apple shares closed on a high note following reports that iPhone maker is accelerating plans to build a self-driving car. Apple stock rose 3.04% to a new intraday record of $158.32 in early afternoon trading."
+    publishedDateTime: 2021-11-20T06:41:00Z
+    webUrl: "https://mybigplunge.com/business/auto/electric-vehicle/apple-shares-at-record-high-after-reports-of-a-self-driving-car/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 24
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/11/Apple-Car-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Report: Apple could launch self-driving electric car in 2025"
     excerpt: "Apple Inc. could bring its long-rumored electric car to market as soon as 2025 and with a “full self-driving system” onboard, Bloomberg reported today. The 2025 target launch date is said to represent an acceleration of Apple’s development roadmap."

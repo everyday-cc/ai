@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Infrastructure Market Research 2021-2025 | Analysis of Industry Growth, Import-Export, Consumption Value in Development"
+    excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “AI Infrastructure Market” Report 2021"
+    publishedDateTime: 2021-11-19T04:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market-research-2021-2025-analysis-of-industry-growth-import-export-consumption-value-in-development-2021-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2021 Report on the Use of AI for Wellbeing & Comfort in the Automotive Industry - ResearchAndMarkets.com"
     excerpt: "The “AI in Wellbeing & Comfort in Automotive Industry” report has been added to ResearchAndMarkets.com’s offering. The report forecasts that artificial intelligence will transform the cars in the near future as many companies such as Hyundai,"
     publishedDateTime: 2021-11-18T14:39:00Z

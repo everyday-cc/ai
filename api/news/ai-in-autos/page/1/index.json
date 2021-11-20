@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-20-best-new-cars-cheaper-than-40000.md",
+      "title": "Best new cars cheaper than $40,000",
+      "excerpt": "You definitely don't need to spend $40,000 on a new car. But, if you're prepared to drop that kind of cash on a vehicle, you've come to the right place. With this kind of budget, the options open to some luxury cars and even plush SUVs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/kGrbx7FCExYNdGnJvXn5pKDbKxg=/2021/11/19/783f4edb-3cff-46b4-8346-0e6a9679761a/ogi-rdx.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-new-car-cheaper-40000/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-new-car-cheaper-40000/",
+      "publishedDateTime": "2021-11-19T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-self-driving-stocks-join-evs-as-next-retail-trader-obsession.md",
       "title": "Self-Driving Stocks Join EVs as Next Retail Trader Obsession",
       "excerpt": "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Friday on high volume.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -271,7 +323,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -766,7 +818,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1369,49 +1421,6 @@
       "provider": {
         "name": "fierceelectronics",
         "domain": "fierceelectronics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-today-in-retail-walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool.md",
-      "title": "Today in Retail: Walmart Manages Fully Driverless Deliveries; Lowe’s to Launch Room-Scanning Tool",
-      "excerpt": "Walmart has achieved daily deliveries without a safety driver, and Amazon is promoting the use of its payment service on other merchants’ sites.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/Lowes_Companies_Inc_Room_Measurements-457x274.jpeg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/",
-      "publishedDateTime": "2021-11-08T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
         "images": null,
         "publishers": null,
         "authors": null

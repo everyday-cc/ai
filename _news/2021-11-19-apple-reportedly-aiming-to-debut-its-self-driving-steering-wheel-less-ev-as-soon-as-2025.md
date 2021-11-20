@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple’s Self-Driving Test Fleet Adds More Drivers, Apple Car Still Due in 2025"
-    excerpt: "As far as Apple is concerned, there’s no such thing as an Apple Car currently in development, and the company’s automotive strategy comes down to other solutions like CarPlay."
-    publishedDateTime: 2021-11-15T21:50:00Z
-    webUrl: "https://www.autoevolution.com/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 20
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246_1.jpg"
-        width: 1500
-        height: 808
-        isCached: true
   - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
     excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."
     publishedDateTime: 2021-11-18T21:45:00Z

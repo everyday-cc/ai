@@ -21,6 +21,19 @@ topics:
   - AI
   - AI in Finance
 
+related:
+  - title: "Artificial Intelligence in Energy Market to Witness Significant Growth in Coming Years - Exclusive Report by ReportsnReports"
+    excerpt: "World Artificial Intelligence in Energy market study offers an all inclusive analysis of the major strategies corporate models and market shares of the most noticeable players in this market The report evaluated key market features revenue price capacity capacity utilization"
+    publishedDateTime: 2021-11-18T05:59:00Z
+    webUrl: "https://www.openpr.com/news/2466043/artificial-intelligence-in-energy-market-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2466043/artificial-intelligence-in-energy-market-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466043/artificial-intelligence-in-energy-market-to-witness"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
+
 secured: "VbrWRfILhW7cDS9VPcSFRJPKr+BKI+LAB0/wrmH+yNaiZPdIQvHANv3iB3VndooYGuEwCAkBkd4T0y/mmIwZEpGF3j6xREen0dGNF9QJ9yVQph87e1fvY6cS3ACMSugOLxGF5k5uMgj01GrylKEcDm9aPCl4hgKgARoGrBVNPGQ4pd9fzf8uQlmKqSIj6IZCsmoQA9w8hPH1a9rt1XnuTQvRGMD4P1YW0/tLxCYRrq8hzYtYl1ZhQQclIIGeywYZuqSul5m2j8YZi8rK0KeMcY86Fu4M9uLWRXI+QAapW5QJV1WPL9UUXD07JfApz89CUcNKP3aO11qJnrK7BrrzvCPM75q6vMpWL70IIHEHbh4=;MoqqC8BT7IXwpTi18gExRA=="
 ---
 

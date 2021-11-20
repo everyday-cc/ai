@@ -2,6 +2,152 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-10-22-aws-makes-its-panorama-appliance-generally-available.md",
+      "title": "AWS makes its Panorama Appliance generally available",
+      "excerpt": "Customers can update their computer vision application in Amazon SageMaker and deploy the model to the AWS Panorama Appliance, thanks to the device's full integration with Amazon SageMaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
+      "originalUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570814329/itpro/aws_logo.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp",
+      "publishedDateTime": "2021-10-22T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai.md",
+      "title": "AI And Data At Dow Jones: Why Humans Are The Machine Behind AI",
+      "excerpt": "Dow Jones is a data company. I speak to Dow Jones’ head of data strategy to explore the important role of humans to leverage data and artificial intelligence (AI) in order to create authentic intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61727575baf82c128aa7d180%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/22/ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai/amp/",
+      "publishedDateTime": "2021-10-22T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-facebook-ai-wants-to-see-the-world-through-your-eyes-and-thats-scary.md",
+      "title": "Facebook AI Wants To See The World Through Your Eyes, And That’s Scary",
+      "excerpt": "Facebook recently kicked off a research project that portrays the company’s ambition to push the limits of first-person perception. The Ego4D project offers a massive collection of first-person video and supporting data along with a set of challenges for researchers to feed computers to learn and extract useful information from it.",
+      "sourceUrl": null,
+      "webUrl": "https://ai.facebook.com/research/publications/ego4d-unscripted-first-person-video-from-around-the-world-and-a-benchmark-suite-for-egocentric-perception",
+      "originalUrl": "https://www.gizbot.com/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/244780342_592679151865430_7743889725254708657_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=BengilrXQCUAX_Uvykc&_nc_oc=AQmZr38mh6v7c_2e-JzUAVeRsEoTjr1z7UuZoUJWgB02Fr1EMJDNt2Pa6dT4pS7A87A&_nc_ht=scontent-sea1-1.xx&oh=0c975663f9e499ef91f0dc81ef4edb56&oe=61829BD2",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-saving-seaweed-with-machine-learning.md",
       "title": "Saving seaweed with machine learning",
       "excerpt": "Charlene Xia, a PhD candidate at MIT, is using machine learning to monitor the microbiome of seaweed farms in an effort to predict and prevent diseases before they destroy livestock.",
@@ -963,137 +1109,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker.md",
-      "title": "Accelerate computer vision training using GPU preprocessing with NVIDIA DALI on Amazon SageMaker",
-      "excerpt": "AWS customers are increasingly training and fine-tuning large computer vision (CV) models with hundreds of terabytes of data and millions of parameters. For example, advanced driver assistance systems (ADAS) train perception models to detect pedestrians, road signs, vehicles, traffic lights, and other",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/15/ML-4888-image001-1252x630.png",
-          "width": 1252,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T14:25:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-deep-learning-for-reticular-opacity-on-chest-radiographs-with-interstitial-lung-disease.md",
-      "title": "Deep learning for reticular opacity on chest radiographs with interstitial lung disease",
-      "excerpt": "According to ARRS’ American Journal of Roentgenology (AJR), radiologists’ sensitivity on chest radiographs for reticular opacity in patients with interstitial lung disease (ILD)—including those with mild disease—improved using a commercially available deep learning algorithm (DLA) from VUNO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/932237",
-      "originalUrl": "https://www.eurekalert.org/news-releases/932237",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z.md",
-      "title": "IBM Q3 report shows gains in cloud revenue, declines in IBM Z",
-      "excerpt": "IBM said total cloud and cognitive software revenue was $5.7 ... Global Technology services, or GTS, posted $6.2 billion in revenue, down 4.8%. Global Business Services revenue (which includes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
-      "publishedDateTime": "2021-10-20T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

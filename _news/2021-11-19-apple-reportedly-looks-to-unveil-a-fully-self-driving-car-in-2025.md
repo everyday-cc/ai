@@ -179,6 +179,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Apple shares at record high after reports of a self-driving car"
+    excerpt: "Apple shares closed on a high note following reports that iPhone maker is accelerating plans to build a self-driving car. Apple stock rose 3.04% to a new intraday record of $158.32 in early afternoon trading."
+    publishedDateTime: 2021-11-20T06:41:00Z
+    webUrl: "https://mybigplunge.com/business/auto/electric-vehicle/apple-shares-at-record-high-after-reports-of-a-self-driving-car/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 24
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/11/Apple-Car-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Report: Apple could launch self-driving electric car in 2025"
     excerpt: "Apple Inc. could bring its long-rumored electric car to market as soon as 2025 and with a “full self-driving system” onboard, Bloomberg reported today. The 2025 target launch date is said to represent an acceleration of Apple’s development roadmap."
     publishedDateTime: 2021-11-18T21:53:00Z

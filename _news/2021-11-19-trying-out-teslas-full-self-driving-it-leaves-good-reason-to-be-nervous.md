@@ -75,17 +75,22 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
-    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
-    publishedDateTime: 2021-11-15T22:24:00Z
-    webUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
-    ampWebUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
+  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
+    excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
+    publishedDateTime: 2021-11-19T21:20:00Z
+    webUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
+    ampWebUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
     type: article
     provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 41
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
     excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
     publishedDateTime: 2021-11-16T20:00:00Z

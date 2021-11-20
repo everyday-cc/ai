@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervis
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Helm.ai Raises $26M in Series B Funding"
+    excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
+    publishedDateTime: 2021-11-20T12:55:00Z
+    webUrl: "https://www.finsmes.com/2021/11/helm-ai-raises-26m-in-series-b-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/helm-1.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "ngyW5QBeC6Kf0Q7E72JUYhsIjFvAH6+Zxok7d+qzsLeff8BIgS2KN+ovrqn3i2DR80N0DEEKvwLCIEdiDtFIInnWXyevIg4HykN/0kiPMv36AcFiUbc/aaZnGXbHXQDtXMbYPYfjK6rliueUIgOZ1kt9GJ9BGVSWjGSwEUp35eXnFZkaL71QhZSdkeofcpMb3QysRtuvWRotMz51at7+h4Dahs7lMKYod3/rf2dGXENZoeZxL/YApJYIUwX/Th1PD4GGP5dqjsMrsy89MH2AKLTGiwhJ5laEiScpPOQ3PyVzvMqBsv5M24khHGxMl1/9Hr4BUN9hd1sVIOxAnCWjb5zTI5pGA15QmqE/enFRDnO5LQueoCiE/Q7xiEQ2y83ja7Ks7lkEYCadOce19yK0k6m+RaIipYO7NdQnu/29SoQGl1JX1uGCAtcbb0KqE0Lnhjx+TrAUagiSbB4QRTLoDNAH7hkGkYbE8aFBQ5CRlWSyo7dX40AUnZoVWKi4BXJJCbNatRwaE/vRsnCXOs4rVg==;5YwWgsrY/lDFGRzpgI+aPw=="

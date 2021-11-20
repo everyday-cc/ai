@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-16-thoughts-on-artificial-intelligence-conferences-for-business-audiences.md",
+      "title": "Thoughts On Artificial Intelligence Conferences For Business Audiences",
+      "excerpt": "If you are a business line manager or in the CxO suite, you want to hear what is actually being accomplished with artificial intelligence, with strong examples that are relatable. You also want to hear about the non-technical implications of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D23%26cropY2%3D516",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/amp/",
+      "publishedDateTime": "2021-11-16T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-big-data-privacy-for-machine-learning-just-got-100-times-cheaper.md",
+      "title": "Big data privacy for machine learning just got 100 times cheaper",
+      "excerpt": "Rice University computer scientists have discovered an inexpensive way for tech companies to implement a rigorous form of personal data privacy when using or sharing large databases for machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-big-privacy-machine-cheaper.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-big-privacy-machine-cheaper.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/big-data-privacy-for-m.jpg",
+          "width": 1650,
+          "height": 1098,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-big-privacy-machine-cheaper.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-big-privacy-machine-cheaper.amp",
+      "publishedDateTime": "2021-11-16T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-ai-code-discovery-platform-catalyzex-raises-164m.md",
+      "title": "AI code discovery platform CatalyzeX raises $1.64M",
+      "excerpt": "CatalyzeX, a startup enabling AI code discovery for developers and data scientists, has raised $1.64 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/amp/",
+      "publishedDateTime": "2021-11-16T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-ge-pounces-on-surging-healthcare-demand-with-spinoff.md",
       "title": "GE Pounces on Surging Healthcare Demand With Spinoff",
       "excerpt": "In spinning off its healthcare business, GE is betting on the fast-growing diagnostic-imaging-equipment market, a sector facing disruption from artificial intelligence and growing competition from startups.",
@@ -356,7 +502,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1071,144 +1217,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-how-waymos-self-driving-cars-handle-fog-in-sf.md",
-      "title": "How Waymo’s self-driving cars handle fog in SF",
-      "excerpt": "Waymo's robotaxis face unique challenges driving in San Francisco, where there's a one in three chance of fog every day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/",
-      "originalUrl": "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/11/waymo-radar-fog.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-artificial-intelligencebased-method-predicts-risk-of-atrial-fibrillation.md",
-      "title": "Artificial intelligence–based method predicts risk of atrial fibrillation",
-      "excerpt": "Atrial fibrillation—an irregular and often rapid heart rate—is a common condition that often leads to the formation of clots in the heart that can travel to the brain to cause a stroke. As described in a study published in Circulation,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/atrialfibril.jpg",
-          "width": 850,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.amp",
-      "publishedDateTime": "2021-11-15T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-datarobot-launches-ai-cloud-for-industries-including-banking-and-healthcare.md",
-      "title": "DataRobot launches AI Cloud for industries including banking and healthcare",
-      "excerpt": "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
-      "originalUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
-      "publishedDateTime": "2021-11-15T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

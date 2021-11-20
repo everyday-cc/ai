@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Helm.ai Raises $26M in Series B Funding"
+    excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
+    publishedDateTime: 2021-11-20T12:55:00Z
+    webUrl: "https://www.finsmes.com/2021/11/helm-ai-raises-26m-in-series-b-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/helm-1.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "NUQU4bD85io2mh+Z5QZsWNpjA3e0M5ZBJgnAraGzziB4PeL+VHcz1W4jZhYysjRQQhOAko2qIrUS8QQJU07IFerEcL7vTy8gVfIwMMkCxYpp/8oGvAzrhk1ZTIS6SPS6AfXDu6s5RRaLhXvP3qW7pP3YY1txqDlZWChUuKejnVVbOk3Hparwjf2woOoa8pdHTu218V117mlHSD0/aGdiohBrmPxAk/xtgEmPtuA+v351Nz/LA8oUtNxSraG0nG6jF8GlJKz3BDMbybFZ6chSVB4/MeqUPK1GXIotoo/GjgtczWehdHxXoaXhkvkpOaYIdmqR93BWo2K2WPbEHnYvjARr7pCEBZEXembgS721fRo=;HzqTr81Aun4qKPQEDb4mZQ=="
 ---

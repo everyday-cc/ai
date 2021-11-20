@@ -5,6 +5,8 @@ excerpt: "Israel’s military is utilising facial recognition software to monito
 publishedDateTime: 2021-11-09T01:42:03Z
 originalUrl: "https://www.msn.com/en-gb/news/world/israel-escalates-surveillance-of-palestinians-with-facial-recognition-program-in-west-bank/ar-AAQtj3m"
 webUrl: "https://www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html"
+ampWebUrl: "https://www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html"
 type: article
 quality: 146
 heat: 186
@@ -87,6 +89,6 @@ related:
         height: 461
         isCached: true
 
-secured: "Bh3rRwdaL9QGTGRXxZMzx2qsT4/2+XBbZ8MrKrHR1rM2R/hClSZy+cjBEW593J5Nqpmum2GEINdjlWkEYIJckFsWj9ejxg2EHjHaFTF0aqCs9u6zsjxPpftIQyklqhR12FM1r5H7FnuldXNIHn2qgdZ/hS2qSVoiyklL+oq9do4TC8US9irzwmj9SVGmg45EvjOBlWQDBeDg6pg/ndaAMUJwOWggyEsEk6XLN71ie/Ib6ijq5IqZk+Edow7qJEmQuAHz+etmAdC+h9RZ+/60o6fJbSM8brCgW2aW8l2zLU9GMJuV5Xft8xjR6bhsgPJZHoyeFDGO7h1LUpUVhmnobaW/MWXZKDr67qmCmwWejT3jlK9DlF+T28iIAi+G9zU6//cr7NKz1Ps/WtUXXJ3dSkhMbYWqbmtLORPKzCTSP5xyFmc4C8GWeMvE7M0EjqPibJBKN9Rm3Eav5ElJWQODvacb24G9ffHNOaZ0IkuJnhuiHOHjBwMKzJ32pk3WWEG2zp5SXX4syyRKMaO0p+SEZI3tDV7lGzqP0nvDvrshhGc=;6EXCC1eM0jDfgQYVCrrWiA=="
+secured: "0BO3HjkygwiwhNKAXYJdG5qqDrhT/sBZCocbDJzY4uxhNMsaukc1dX+4s/vMFwnApbATy23Az12Ro+3Ip5tMjylR3oz3qncaBe4tj69Tv5DRHiUzXOQehrydCvENg06IdhPa3CmHMzrOSJIy1Z0FcJdKUhTFeksFoUuPa/WQQn3EQSa4xFjKoXG7S/48qa0oWF2gBvsb1mLY3WeWzmtyAbipF1wmcCI7mOgEIiPzl+DfQIcQNV4ONC+EJCwIaF3Z1NJdyl1RprsqLFSz2kLBphN0G15InYpcs3lNlwNoPWeN4UuOey3X3PiYdFpYcsRx0YBsphiAZuKtYwvamm3xgDaEPRIB65vy5xYf9ka+Wt2zN1Y6W0FdGyp2gaH+Jad1exNGbLCo+rA/mDZB0To2OZ9Z+3g2XwAFK7QB/tDO1FJo2DtOOf9fk+GNxVG1rQ2X6nzYtbYqpHW4ZFAH7Wjy7wFgWilJ4SYPZiG611zAAl77Imc/GPYa+v1gfMIyGmkXeS8XfmKQdzFkyhuJB86Lz2qy319h6xLXSn6TMDPxIs4=;HpCdEfscq/kiLffJ/asvAg=="
 ---
 

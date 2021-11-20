@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Apple shares hit record after report says the company wants to build self-driving car as soon as 2025"
+    excerpt: "Apple shares hit a record on Friday following a report that the company is accelerating efforts to launch a self-driving vehicle. As of early afternoon on Friday, Apple’s stock was up more than 1% to above $160."
+    publishedDateTime: 2021-11-20T01:35:00Z
+    webUrl: "https://www.cnbc.com/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106922846-1628199611258-gettyimages-1328996608-210715a1_070_20210716123027717.jpeg?v=1629365705"
+        width: 4483
+        height: 2984
+        isCached: true
 
 secured: "pQTWgXweapYwehN6yOM77FSABcA9H9tsm55+G2Ct22GfNDTsC/kt7n0GIBROlpJZXoJ4iv4ZB56KwTX+PBh3kMediu+JhSioE9liGipM9vOX04G+KPjUUszdXleSUnvY6fAi+/k6mnZa6rbMNBZs8SLGciaBvLY3gCYNQqYWbvIba6KzXDDcKNG/gfPR5JtVErPoB/nAZ8E8UbNgsfjnEx2llf8Ekz7FUfr3/qf5FyDj4wtM3ROJvOnYFIiOigmXPoFh5i/SsDPP+/SqwcMMo6j82HjxUsE3Pm8mq19sS/R7JPKQsxNLWl8G1g4oyY4e4/kB+9go0XUfTgI79Aav8lhznOg0+RCfCMSoUSdqS0ILScE03UfeJAW0FRYo002an9xc2a9EPqMBaYC+FdQM/V9fS2WMag4mnZ6snosTGLpGk3NH1MfZ1m5Lpjr1/3lB+kCq66eyFzCj1GS+vv3+2M5mNbcoxIjbygaSzqyZ2nQDkhbmd7HEWFeM0SsXE7TMqjEt1Gc60NaA5SnZvk6XBQ==;9A6Vd5HtFyiMghIGVpCjwg=="
 ---

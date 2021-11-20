@@ -2,6 +2,134 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-09-28-egypts-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico.md",
+      "title": "Egypt's Ministry of Supply and Internal Trade Automates Wheat Silos Processes in Collaboration with IBM and ACME SAICO",
+      "excerpt": "By offering IBM's AI and hybrid cloud approach ... Authority for Supply Commodities through IBM Cognos Analytics with Watson connected to the automation platform in use. As part of the sustainable ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102867697/Egypts-Ministry-of-Supply-and-Internal-Trade-Automates-Wheat-Silos-Processes-in-Collaboration-with-IBM-and-ACME-SAICO",
+      "originalUrl": "https://menafn.com/1102867697/Egypts-Ministry-of-Supply-and-Internal-Trade-Automates-Wheat-Silos-Processes-in-Collaboration-with-IBM-and-ACME-SAICO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?470707",
+          "width": 444,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-how-to-join-the-connected-world-with-data-and-ai.md",
+      "title": "How to join the connected world with data and AI",
+      "excerpt": "If there was one key fact for data and analytic professionals to learn in the past year, it's that our data and AI foundations weren't as ready for this challenge as they could have been.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-join-the-connected-world-with-data-and-ai/",
+      "publishedDateTime": "2021-09-27T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.md",
+      "title": "China vows further curbs on ‘disorderly expansion’ by tech firms",
+      "excerpt": "China has ramped up the campaign with a series of monopoly probes into internet companies, a record fine for Alibaba Group Holding Ltd. and new demands on leading digital firms like Tencent Holdings L",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/world/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms-11632731815245.html",
+      "originalUrl": "https://www.livemint.com/news/world/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms-11632731815245.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/09/27/600x338/Hong-Kong-Financial-Markets-3_1632732188484_1632732285081.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/world/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/amp-11632731815245.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/amp-11632731815245.html",
+      "publishedDateTime": "2021-09-27T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-astera-labs-secures-50m-in-series-c-funding-at-a-950m-valuation-to-accelerate-product-and-customer-momentum.md",
       "title": "Astera Labs Secures $50M in Series-C Funding at a $950M Valuation to Accelerate Product and Customer Momentum",
       "excerpt": "Astera Labs secures $50M Series-C funding round at a $950M valuation to rapidly scale worldwide operations and launch multiple new product lines.",
@@ -1057,134 +1185,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-half-of-people-say-they-are-better-drivers-than-computers-will-be.md",
-      "title": "Half of people say they are better drivers than computers will be",
-      "excerpt": "A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence. Regionally ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050",
-      "originalUrl": "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coventry Telegraph",
-        "domain": "coventrytelegraph.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon.md",
-      "title": "How a pet subscription startup is outfoxing giants like Chewy and Amazon",
-      "excerpt": "How do you build a subscription box business to rival major brands? PetFriendly, a startup that sells vet-quality flea & tick medication on a subscription model, has found success through personalization,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
-      "originalUrl": "https://www.zdnet.com/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/24/a2d68c1a-71cd-4586-b855-19681a8742f9/resize/1200xauto/4e5c19dae51ada923f1f3e2d32cbfcec/dog-and-laptop.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
-      "publishedDateTime": "2021-09-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-worried-about-facial-recognition-big-tech-wants-your-anal-prints-too.md",
-      "title": "Worried About Facial Recognition? Big Tech Wants Your Anal Prints Too",
-      "excerpt": "Privacy concerns related to the implications of facial recognition have been raised several times but you may not have thought much about a very different part of your body being scanned. Sanjiv Gambhir,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
-      "originalUrl": "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg",
-          "width": 745,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
-      "publishedDateTime": "2021-09-27T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

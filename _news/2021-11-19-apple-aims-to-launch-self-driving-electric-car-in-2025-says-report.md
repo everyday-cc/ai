@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/18/apple-aims-to-lau
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://media.pocketnow.com/styles/medium/public/2021/08/20210809_Samsung_11805351920px.jpg?itok=3KdE7DuX"
         width: 600
         height: 451
-        isCached: true
-  - title: "Apple’s Self-Driving Test Fleet Adds More Drivers, Apple Car Still Due in 2025"
-    excerpt: "As far as Apple is concerned, there’s no such thing as an Apple Car currently in development, and the company’s automotive strategy comes down to other solutions like CarPlay."
-    publishedDateTime: 2021-11-15T21:50:00Z
-    webUrl: "https://www.autoevolution.com/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 20
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apples-self-driving-test-fleet-adds-more-drivers-apple-car-still-due-in-2025-174246_1.jpg"
-        width: 1500
-        height: 808
         isCached: true
   - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
     excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."

@@ -42,14 +42,14 @@ related:
   - title: "Gindi TLV, a smart residential complex in Tel Aviv, deploys Oosto’s facial recognition technology to protect tenants from COVID-19 infection"
     excerpt: "Gindi TLV, a residential complex in the heart of Tel Aviv, Israel, maintains the safety of its community, by using Oosto’s face and object recognition, to reduce contact with surfaces"
     publishedDateTime: 2021-11-18T10:07:00Z
-    webUrl: "https://www.sourcesecurity.com/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
+    webUrl: "https://www.sourcesecurity.com/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html?ref=nav"
     ampWebUrl: "https://www.sourcesecurity.com/amp/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
     type: article
     provider:
       name: SourceSecurity
       domain: sourcesecurity.com
-    quality: 26
+    quality: 24
     images:
       - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/artificial-intelligence-and-machine-learning-offer-actionable-risk-intelligence-920x533.jpg"
         width: 612

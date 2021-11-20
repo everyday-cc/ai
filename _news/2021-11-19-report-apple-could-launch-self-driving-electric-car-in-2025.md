@@ -187,6 +187,20 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Apple shares at record high after reports of a self-driving car"
+    excerpt: "Apple shares closed on a high note following reports that iPhone maker is accelerating plans to build a self-driving car. Apple stock rose 3.04% to a new intraday record of $158.32 in early afternoon trading."
+    publishedDateTime: 2021-11-20T06:41:00Z
+    webUrl: "https://mybigplunge.com/business/auto/electric-vehicle/apple-shares-at-record-high-after-reports-of-a-self-driving-car/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 24
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/11/Apple-Car-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "1gjRPzEqmLVj3tbCtjHeVjnb8sUCYNv9p6uETc/SgPursbMbuD6AJptwaP3B0GnjFlTbHglwieLoRPWmKe1GPtpxaSYlSosoZIlRh4wTKXxJ9bruZ3W9ybht9l0XMTYtROCymtgVQ35VTyQw8WaxmtvfUvMJRXvngDIcuUoDk2wsvXdHEEucZNvCjFIz0wAJxQZjGyfkfXdIR1pupvTTwzFvfbjK8eOVkxImsu+WxqQPJbAWBXBdhWMk5/4J+HVgbDs2ClpKAYYgZ6quE/6Ukh2n6h2ojFiFU0K3oT0I7h4BknKDo+IxYrIcysYE6LqN2U5tvy5oqOWnOzT22Hsh7m5Qz04cMT3UyPbs4nW5wAs=;fkfeot/FUKjenJ94+JkcoQ=="
 ---

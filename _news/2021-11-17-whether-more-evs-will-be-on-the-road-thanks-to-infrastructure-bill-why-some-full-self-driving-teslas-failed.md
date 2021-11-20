@@ -73,6 +73,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
+    excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
+    publishedDateTime: 2021-11-19T21:20:00Z
+    webUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
+    ampWebUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trying out Tesla’s ‘full self-driving’ – it leaves good reason to be nervous"
     excerpt: "When a dozen small children crossed in front of our Tesla with \"full self-driving,\" I had good reason to be nervous. Here's what happened."
     publishedDateTime: 2021-11-18T18:41:00Z
@@ -89,17 +105,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "US Regulators Investigate Tesla Driver’s Complaint Of ‘Full Self-Driving’ Software Causing Crash"
-    excerpt: "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash."
-    publishedDateTime: 2021-11-15T22:24:00Z
-    webUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/"
-    ampWebUrl: "https://detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2021/11/15/us-regulators-investigate-tesla-drivers-complaint-of-full-self-driving-software-causing-crash/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 41
 
 secured: "pyezGh9ldaqG/vKvYL7S7i+Vo6iVq6GA0ahPqganoC9DWabqjpzyl3sLBdsskDhSOCv4WGS+FMrFcKOmSmLFRsyKD9bbsyrOf2+DpJfh+smB7QEHP6hCJQg6YSE35LDs7I+MQHEsHX054918A/0BPtFwMBBgZ1vqePyT1qm31WPvuvDKvaWzkHqNNBFYFjRuTzROjvzwzvMKpkMjLqcZSwBUGNlY7oMusOmDH+wV4l6sCCUd+DpGiMSbxc8PPUJQ9PeQ0wQsXP9jTGpbXf8mBvUDLWfs0klPJnmCr6ZyoLkM0HRE6ZaYJOxizHeMpASojhvvDiRPrzrIltI1QnPcUJU2ukcmKm3s2YY7TQ8Y4XeIizDkIfArDr3Matk3SM2nnaGOQBEWOWoE+SLiiSVe3QKrF1o5sz+z5T57Q7QOjy4zMlPf36mfXBBxSJJkPnF6/MytarGguW6MDT9BI0B86gsJ++Ve3CigTSvyhtkWPPzxQkv0Bs8DOgDOrGtISj9qamNci+rKZ5zW5Aqr29Z+9Q==;FeeyG4km8XMkwifBs51Osg=="
 ---
