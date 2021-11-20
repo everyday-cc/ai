@@ -1,29 +1,25 @@
 ---
 category: news
-title: "NYC aims to be first to rein in AI hiring tools"
-excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews."
-publishedDateTime: 2021-11-19T14:05:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/nyc-aims-first-rein-ai-hiring-tools-rcna6113"
-webUrl: "https://www.nbcnews.com/tech/tech-news/nyc-aims-first-rein-ai-hiring-tools-rcna6113"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna6113"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna6113"
+title: "NYC Aims to Be First to Rein in AI Hiring Tools"
+excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the computers making behind-the-scenes decisions about their careers."
+publishedDateTime: 2021-11-19T13:03:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-11-19/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-11-19/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools"
 type: article
-quality: 87
-heat: 137
-published: true
+quality: 47
+heat: -1
+published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/tdy_sun_spotlight_molly_211024-b9wbhs.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "NYC Aims to Be First to Rein in Artificial Intelligence Hiring Tools"
@@ -101,6 +97,6 @@ related:
         height: 720
         isCached: true
 
-secured: "v7i4keq53936PSV1LjegtAcYDduEAeoN3JTXBzTvdbSZH3VpO/cX3/TiHSs6x7ypc0cUzHjF3Dkh7yhOdGcVVf96n/EqT5EFurpGMll5qn0X5H04zbiWpg0dITm3IynKoYX+5ZZlq3fetqQsUXgyo7AvyG9KXUf0FViamRtT8ZXkTFDkN+eHRbOG7KLQ5/twroB3fuqCgGVKB2vj2cx0X/vMb4Po9Pk77Pv0TXytVv4aTUKLlmn7qaTKYdRUNV9Xzn8DwI+W0YfQL32oTRsuQqfcfRrGOavgIhHI6erHtZpkIAakmISPSitokk7bxGyW2wIz/iowh2g3ewaqt3jdA+sDS6i2aozDVkzdNu+mHGUeivB0XKaeo8bgLQfNhG8GEBf7OGCJT2szPpMv2EX304p0JMQw8gLwnwk9Hc6O8iCERj+I9Jl/p9jVQhW7frZwxKwkQzGt0k+GxfwGWsPbpVZt5f3X/sAEx/WdRJpybOOUuX70I5tCxTMfzyu10aMZ11FbllFNGsTkswxn0vBVcg==;H+PHjX2OuRt7QlifSUOUsw=="
+secured: "hQKOVuMVyqObu+is6zRr1VYPPjcKaGc/vn4glNV7NaQwA5RcT2pr08LDL/CgosFaTOyOgz7gRWPnI1N8cRQq/3cSZiVxYBoqh7dAy9BZ9bSQgHbxgdDXuHhXmOOiChAWD3Xml4YYo+rHUIdbytr7+orMhuwWC91B1rWbuFqyaNbiBX6B/9QvtloYi8VnVLmhQggzI33BRVG5L3SJdjh8aeEvmkrWnyiAHg+UbC7dByJdl/LuLHFvAsqxIcbL9M9cPgjQ1c4afJOVSnfjK2IHqsVnUiXoFSrmshLUi01uiRThHenn0eXwbiYogWS6VJqbQKNZGzi6KSG7IuNcsZpg1UkHrsKTcME71N8v+7lPNv/wAZE9lTL93nQp0YR+LQLCWd3w5lqaLh7wxzb1FQajAz2ltZDcsypznUuSwNpalOoEZjR6jK1yT0Vwb9qWdfliZNBJEMLIPa74/KpTdkJQYAo7lLEACToEBImNfNa6wwreDZcEKvGkFoaKqNz3wK11x5IUgAUd6ogD8OWGSUcR0A==;d0y9Od05Pj1GPgb9929jOQ=="
 ---
 

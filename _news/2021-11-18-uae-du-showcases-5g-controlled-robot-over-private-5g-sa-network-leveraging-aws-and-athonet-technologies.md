@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "du Showcases 5G Controlled Robot over Private 5G SA Network Leveraging AWS and Athonet Technologies"
-    excerpt: "Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, powered by du’s 5G Private"
-    publishedDateTime: 2021-11-18T09:01:00Z
-    webUrl: "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet"
+  - title: "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies"
+    excerpt: "G Private Network with Athonet's cloud native 5G Standalone core network, and running on Amazon Web Services Snowball Edge"
+    publishedDateTime: 2021-11-18T10:40:00Z
+    webUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/"
+    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
+      name: Zawya
+      domain: zawya.com
     quality: 62
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-11/du%20at%20ADIPEC.jpg?itok=lmEA8m_3"
-        width: 2259
-        height: 1694
+      - url: "https://images.zawya.com/pr/images/2021/FPR_1367_2021_11_18.jpg"
+        width: 450
+        height: 337
         isCached: true
 
 secured: "h2gcEySQOplLE6o9vEySynxBDBt2cM7WA6bZnxHqtm83avzaf0+26II1jhyny/Ghad8rHQU//KqiHkfDUUawND2IWEEh9MQ0YzJbysIfK5OGBFMuDO7CNKbpmVYV261PG15hYQhLZxYYZ2VyTq13Lh9RZRbyeeDuWs9lxZMMBwjz7JYNQEslZ0IFUkZ4B2um/yKisrBAn40ojD5qQAW1C54XBF8jOyHyHC22gGWab2INROK8GHd38uXiS5GRjZ4S1mj4G0DYTbK15ll0mtm1c19dqxqCr+DfFdpW5+gwImAVD7xfpMs2Fk/9ewhjKVyKgSHBQFhY/ezWmkYy43cdnwLPnPRD5qAgvst14ZGyGjcPVeNNGRItrXpJcMOG2bXK6xSz0/ZtaSOmllEk0kvAQcfLxjcOvS/m6uEkD/3q2EhHTZHrcs1KY2nt3e+XqLqWH/fFGox/9baAKdrmnfNAz5rIhRZvGRPA0oLwerK1zYGCNAy2WnQcIxEg3mJ44bg6wC784HjB0kKVNyWwggpr6g==;2ClaXU0r1XAWxqb+OYOMyg=="

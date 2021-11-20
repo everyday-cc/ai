@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "NYC aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews."
-    publishedDateTime: 2021-11-19T14:05:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/nyc-aims-first-rein-ai-hiring-tools-rcna6113"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna6113"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna6113"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/tdy_sun_spotlight_molly_211024-b9wbhs.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "NYC Aims to Be First to Rein in Artificial Intelligence Hiring Tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the com"
     publishedDateTime: 2021-11-19T17:20:00Z
@@ -86,6 +70,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "NYC Aims to Be First to Rein in AI Hiring Tools"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the computers making behind-the-scenes decisions about their careers."
+    publishedDateTime: 2021-11-19T13:03:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-19/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "NYC wants to rein in AI hiring tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
     publishedDateTime: 2021-11-19T14:07:00Z
