@@ -39,20 +39,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "Cruise line patent suggests face biometrics for stateroom access, personalization"
-    excerpt: "The multifunction smart door device patent authors include three Royal Caribbean executives, and Tascent Co-founder and CEO Alastair Partington."
-    publishedDateTime: 2021-11-15T17:54:00Z
-    webUrl: "https://www.biometricupdate.com/202111/cruise-line-patent-suggests-face-biometrics-for-stateroom-access-personalization"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/23131916/patents-ideas.jpg"
-        width: 848
-        height: 339
-        isCached: true
   - title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
     excerpt: "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services"
     publishedDateTime: 2021-11-19T23:30:00Z

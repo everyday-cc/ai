@@ -2,19 +2,19 @@
 category: news
 title: "NYC aims to be first to rein in AI hiring tools"
 excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-publishedDateTime: 2021-11-19T18:39:00Z
-originalUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-webUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-ampWebUrl: "https://www.chron.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+publishedDateTime: 2021-11-19T22:29:00Z
+originalUrl: "https://www.timesunion.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+webUrl: "https://www.timesunion.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
@@ -101,6 +101,6 @@ related:
         height: 720
         isCached: true
 
-secured: "2qIucrTZ7wejbTVwu2x8rL3kDJ932lIj7hbMvcdmQ168EHCBUEdWX5N+OnmnhjQdII67gh1CvoGqOtBNLkJxk0jzlTHe3aWiLtRGBmA9TJkN86jEQjg0+lCYFBU96ifnrn0+33SVNl7F2qze/YGgnRZR0SImlZHlzb44sihi66EiVkBZYDIE3jFIN+fjCNbLEZdwSwYvGDgCjfqOab08zfcNajlKIdV6zaDxAyZSkQfmxJ+qevP11OZJn0pXh+PwtRPiJp/ww9eMnCx2tOtV5qKuVFR1tigdzQPnwdPE4SjC4nuKFLp4fpWD90N69TLp40joZIKkHw9p3Qv0gvk4SQc4ugBxseWpSdPH3aRu/I4=;CXwtew/IzKwhrgH+Qu102g=="
+secured: "+ut1GaxwcOOSN+NE0yw4z3s4QhIvt3ZsBmvczyx8tupZEYnHpTggGn0WiHZ5nzL8+O9eDEXRPgBkgduswPm1XkbFHyhBFlodhC/Nnxjx/0xxHXG/Sg+IGIlZ3RXAijeuquxca9Nw96Axb1mfuh2bPSmU5pBAUuZYP3c9LEJiNM3w3Z3Uv4P8+7IigQGgHq+iN0zYM+bTTe8BNXbuPcCheqKWbu5VrFtmaxagUn/DCm+ne5xyvHbd3yeXg+3pXGly66kDWsYy60QTKNTCNMflDkC8NYEJs/lwLOb6YRoQtLtHTY2ZKplpzOmbv3eoinSpLLnCrKeh0QYSN0hOpdOLrMk/N+ThcS2SdDmjNbPDHGY=;iQem1L/WCBdmQyoPoOrmDw=="
 ---
 

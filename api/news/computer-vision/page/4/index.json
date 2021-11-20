@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-15-survey-more-than-half-of-us-adults-wary-about-facial-recognition-tech-in-healthcare.md",
+      "title": "Survey: More than half of U.S. adults wary about facial recognition tech in healthcare",
+      "excerpt": "Many adults in the United States are concerned about the use of facial recognition technology in hospitals, medical practices and other healthcare settings, a survey published Thursday by PLOS ONE found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
+      "originalUrl": "https://www.upi.com/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/4971634236004/2021/1/16342373043805/v1.5/Survey-More-than-half-of-US-adults-wary-about-facial-recognition-tech-in-healthcare.jpg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
+      "publishedDateTime": "2021-10-14T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-facial-recognition-market-size-worth-102-billion-globally-by-2028-at-1592-cagr-verified-market-research.md",
       "title": "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research",
       "excerpt": "The facial recognition system is increasingly being used to control access by governments and law enforcement agencies to identify a person for better safety of valuable assets and therefore",
@@ -1333,49 +1377,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-when-do-babies-play-peekaboo.md",
-      "title": "When Do Babies Play Peekaboo?",
-      "excerpt": "Is there a perfect peekaboo age? Not necessarily. Object recognition develops around month 3, and babies start to better understand the concept of object permanence by month 8. By months 9 to 12, your baby will likely be able to play peekaboo on her own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.whattoexpect.com/first-year/peek-a-boo/",
-      "originalUrl": "https://www.whattoexpect.com/first-year/peek-a-boo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.agoramedia.com/wte3.0/gcms/When-Do-Babies-Play-Peek-a-Boo-722x406.jpg?width=574",
-          "width": 574,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "What To Expect",
-        "domain": "whattoexpect.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

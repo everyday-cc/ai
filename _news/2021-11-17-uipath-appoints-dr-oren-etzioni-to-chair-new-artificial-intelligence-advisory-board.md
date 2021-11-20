@@ -1,22 +1,28 @@
 ---
 category: news
 title: "UiPath Appoints Dr. Oren Etzioni to Chair New Artificial Intelligence Advisory Board"
-excerpt: "UiPath (NYSE: PATH), a leading enterprise automation software company, today announced the appointment of Dr. Oren Etzioni to chair its new Artificial Intelligence (AI) Advisory Board. The Advisory Board,"
-publishedDateTime: 2021-11-17T13:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-uipath-appoints-dr-oren-etzioni-chair-new-artificial-/2021/11/17/9494456.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-uipath-appoints-dr-oren-etzioni-chair-new-artificial-/2021/11/17/9494456.htm"
+excerpt: "UiPath , a leading enterprise automation software company, today announced the appointment of Dr. Oren Etzioni to chair its new Artificial Intelligence (AI) Advisory Board. The Advisory Board, to be comprised of AI leaders and experts from academia,"
+publishedDateTime: 2021-11-17T13:06:00Z
+originalUrl: "https://www.lelezard.com/en/news-20109751.html"
+webUrl: "https://www.lelezard.com/en/news-20109751.html"
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI Ethics
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "AI2 CEO Oren Etzioni to chair UiPath’s new AI advisory board"
@@ -36,6 +42,6 @@ related:
         height: 300
         isCached: true
 
-secured: "zsEvRqsGmcEEjp6VOWmTxcgHhj33tkZb5+1Ddb7jSqhTc6bq1xiPhcBp43sz4tp/tCmqe75mTH//3UMRjzUELL5wQbDaW1stkbdit4jbkR2MNCSKVf32AuNKK6tb052nYaP+pRpV/4+BCBv87qnVnsTiU+rpgC4pTyR4A5yFEwb+7pkNtmg7gyV2HUkBRp6v934XYXMP0oEVPrHsN0njbnrX7251OaLbunum+zYu9hxPtg80sASebn2uMnRP5FFPzcU6wTISQtMIhuY5TQwiBhCnRrzjR/4c6+J6JeLOwUg60fPT5knzzikSx5H7BK0oM3mvc8i7NhI96+5UGxsyEMkEEdGvG7P+EhaSNHLEy5c=;RRBRHcmOoGZ9TwJzUn4lIg=="
+secured: "tdAeU1KZlB97tyavatDcWZH8O/SrR8fXPTqCnRMn0kjV9lDj9U9e/NwkJ8zmTfeqFTvdWcOGrY9/AakgYbNhXX1pUapmwUepUgnZhZW/1kLdHKZx+whmkOjOHvugyM3JvaUtmYMpWOMEF/hm6hf6x8Hn/9gS58Ajt6Qi7LzaCLGM0fDWHhyMDdwml9jN3hUcqFR5y3r0SRyrGQf4G7TpX6692BReXzSUKbpi29Pevp/lq3jmKSpJ8Tl/aQD7mtsO2e7EjfaMBsYJ9tvTAlsAXKCLcCyDrERvwG14tBXpHNqus1G4ZSExOIL+/1SfyqV6LoixAiIN6bHULyMZlpv+lzUgjdMw+IYGYTL1v8SgnHE=;uLwaibqFyaMBn7kRWhCxNQ=="
 ---
 

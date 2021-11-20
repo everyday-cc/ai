@@ -2,6 +2,187 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-10-18-general-availability-livedata-platform-for-azure.md",
+      "title": "General Availability – LiveData Platform for Azure",
+      "excerpt": "General Availability of LiveData Platform for Azure. Significant step achieved in converting pipeline customers, provid",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure",
+      "originalUrl": "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sharesmagazine.co.uk/images/logos/youinvest.png",
+          "width": 800,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-17T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sharesmagazine",
+        "domain": "sharesmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-artificial-intelligence-in-big-data-analytics-and-iot-market-is-booming-worldwide-amazon-google-inc-ibm-corporation.md",
+      "title": "Artificial Intelligence in Big Data Analytics and IoT Market Is Booming Worldwide [Amazon, Google Inc., IBM Corporation]",
+      "excerpt": "Artificial Neural Network] and Product Applications [Smart Machine, Self Driving Vehicles, Cyber Security Intelligence], etc. Additionally, this market report focuses on offering key business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-big-data-analytics-and-iot-market-is-booming-worldwide-amazon-google-inc-ibm-corporation",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-big-data-analytics-and-iot-market-is-booming-worldwide-amazon-google-inc-ibm-corporation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/09/Washington-Capitol-AFP-1K-1-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-17T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-machine-learning-can-yield-proxy-measures-for-brain-related-health-issues.md",
+      "title": "Machine learning can yield \"proxy measures\" for brain-related health issues",
+      "excerpt": "A study published today by an interdisciplinary collaboration, directed by Denis Engemann from Inria, demonstrates that machine learning from large population cohorts can yield \"proxy measures\" for brain-related health issues without the need for a specialist's assessment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20211018/Machine-learning-can-yield-proxy-measures-for-brain-related-health-issues.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20211018/Machine-learning-can-yield-proxy-measures-for-brain-related-health-issues.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Abstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20211018/Machine-learning-can-yield-proxy-measures-for-brain-related-health-issues.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211018/Machine-learning-can-yield-proxy-measures-for-brain-related-health-issues.aspx",
+      "publishedDateTime": "2021-10-17T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-how-ai-is-transforming-the-future-of-digital-marketing.md",
+      "title": "How AI Is Transforming The Future Of Digital Marketing",
+      "excerpt": "In business today, the term AI is used to describe software that is capable of learning and getting better at doing its job without input from humans. Current predictions state AI will end up creating more jobs than it destroys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616cf42b6d301735d937fa4a%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/amp/",
+      "publishedDateTime": "2021-10-17T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-waymos-self-driving-cars-cant-get-enough-of-one-dead-end-street.md",
       "title": "Waymo’s self-driving cars can’t get enough of one dead-end street",
       "excerpt": "Waymo's autonomous cars keep showing up in a dead-end street in a quiet part of San Francisco, causing residents there to wonder what on earth is going on.",
@@ -940,187 +1121,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-what-to-invest-in-right-now-4-fintech-stocks-for-your-watchlist.md",
-      "title": "What To Invest In Right Now? 4 Fintech Stocks For Your Watchlist",
-      "excerpt": "As we approach the end of the week, financial stocks have been under scrutiny this past week as most of the companies within the industry reported their earnings. Top banks such a",
-      "sourceUrl": null,
-      "webUrl": "https://www.fwbusiness.com/news/national/article_6844f7b9-185f-57e0-958a-cbec94aadf4b.html",
-      "originalUrl": "https://www.fwbusiness.com/news/national/article_6844f7b9-185f-57e0-958a-cbec94aadf4b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-16T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fort Wayne Business Weekly",
-        "domain": "fwbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-artificial-intelligences-data-problem-meets-ais-people-problem.md",
-      "title": "Artificial intelligence's data problem meets AI's people problem",
-      "excerpt": "Enterprises are learning that AI implementation 'is not the field of dreams. It is not a build-it-and-they-will-come effort.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligences-data-problem-meets-ais-people-problem/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligences-data-problem-meets-ais-people-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/caa9a12fbf1a70fca9bfda077e9bc11da1ed7016/2021/10/15/e28a79a3-c1cc-46cf-be99-cdbf369bea60/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1168,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligences-data-problem-meets-ais-people-problem/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligences-data-problem-meets-ais-people-problem/",
-      "publishedDateTime": "2021-10-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-unsupervised-learning-market-to-see-generated-opportunities-2021-2027-microsoft-fair-isaac-ibm.md",
-      "title": "Unsupervised Learning Market to See Generated Opportunities 2021-2027 | Microsoft, Fair Isaac, IBM",
-      "excerpt": "Unsupervised learning also known as unsupervised machine learning is a market that analyses and organises unlabeled information using machine learning algorithms according to Infinity Business Insights Unsupervised Learning Markets are the future frontiers in the IT and development industries These",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2430121/unsupervised-learning-market-to-see-generated-opportunities",
-      "originalUrl": "https://www.openpr.com/news/2430121/unsupervised-learning-market-to-see-generated-opportunities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua16579177_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2430121/unsupervised-learning-market-to-see-generated-opportunities",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430121/unsupervised-learning-market-to-see-generated-opportunities",
-      "publishedDateTime": "2021-10-16T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots.md",
-      "title": "Life keeps getting in the way of my quest to turn my family into robots",
-      "excerpt": "Dinner, bath, book, bedtime: every school year we stick to the timetable – for a few days, says Guardian columnist Emma Brockes",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/67fb223568575d994010faf6950cd6896a705184/0_0_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=55a1c719a4c15bbd3a79c41ec6a581e2",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
-      "publishedDateTime": "2021-10-15T23:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

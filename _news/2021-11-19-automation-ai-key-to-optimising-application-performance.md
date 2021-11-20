@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: ITWeb
@@ -27,22 +27,59 @@ images:
     isCached: true
 
 related:
-  - title: "Does artificial intelligence for IT operations pay off?"
-    excerpt: "Rodrigo de la Parra, AIOps Domain Leader at IBM Automation ... AIOps is the application of artificial intelligence to enhance IT operations, explained de la Parra. It spots issues by using ..."
-    publishedDateTime: 2021-11-15T17:44:00Z
-    webUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334"
-    ampWebUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334?amp=1"
+  - title: "New AI application reads eye movements"
+    excerpt: "Eye movements read by a new AI application can reveal thoughts, memories, goals — and brain diseases. A new tool developed at the Kavli Institute for Systems Neuroscience in Norway and described in an article in Nature Neuroscience,"
+    publishedDateTime: 2021-11-17T01:38:00Z
+    webUrl: "https://www.news-medical.net/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 59
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/11/c-g900f5c19e_1920.jpg"
-        width: 1850
-        height: 950
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Magnetic_Resonance_Imaging-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
+  - title: "The Payments Association finds huge value in AI in revolutionising payments"
+    excerpt: "Financial Services organisations with over 5,000 employees have adopted AI It is forecast that AI Market to Hit USD 360.36 Billion by 2028 The Payments Association (formerly The Emerging Payments Association (EPA)) today announces the release of its latest research,"
+    publishedDateTime: 2021-11-17T09:54:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/payments-association-finds-huge-value-ai-revolutionising-payments"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 37
+    images:
+      - url: "https://financialit.net/sites/default/files/dbfhgysuydfbsuydf.png"
+        width: 733
+        height: 414
+        isCached: true
+  - title: "Embracing Socratic Paradox May Lead to More Reliable Predictions from AI Models"
+    excerpt: "Next-generation artificial intelligence (AI) models used in public health, IoT, and other critical applications will soon be able to make better decisions and more accurate predictions thanks to a bit of philosophical wisdom being instilled in them at Georgia Tech."
+    publishedDateTime: 2021-11-19T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/embracing-socratic-paradox-may-lead-more-reliable-predictions-ai-models"
+    type: article
+    provider:
+      name: Georgia Tech News Center
+      domain: gatech.edu
+    quality: 35
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/prakash-zhang-portrait-composite-cse-nov21.png"
+        width: 850
+        height: 478
+        isCached: true
+  - title: "Artificial Intelligence Drives Innovation In Building Security Solutions"
+    excerpt: "The application of artificial intelligence (AI) in digital building solutions continues to grow. Vendors across the market are turning to AI and machine learning to launch advanced offerings that drive greater automation and improved outcomes."
+    publishedDateTime: 2021-11-18T15:36:00Z
+    webUrl: "https://www.publicnow.com/view/05E803A5AE820849AB4D0A6773AEE40ADB1F4D34"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 33
 
 secured: "5cde95o7wm0v013ZhRsBVp9NFZ+22dTTL6AwUyngIR5jm+o43XFLmkHp8+jUNkCiP8QYY+M1101OPR9mJ5KGLrJKJZ5Fh4yTG+ieBHoaO8sucNQk703o7SM9EOa01oYkjNEb45mKkA+Ktmit25SMLNa7V0QD0hL5tO+E40ypU/vNW7ImTB70q6qbXIGRaHrJ4lYMgGOcqnIGR6Uynm3HB+1wFcVsRdbLYYjByDa7AJjteuNCHRbqOlHtWU0LsNp6Xizd1XA3lVg9EeJtGXo4utT0+aP0bkDR36DSqxPR3WMqbfzM2QrdTIBpQFpbSaG/998NHkjzsf3Wnxq3X2oqYn3vZxPJmG9cLbg0u3O/NrjJyTCEQDd35cJBdb326bFPSGcnf7iTiWG7JKDJTWddCIIi8M4e5jtntHXqqTfAOikBkQ90VoFxRsJKNs98KoEMidJY9iwqFEy4XguMhZkB6RSDzto3XgFOOD+9GWxbPDqiY6jKHKu9hGKKsHEPZBnQGjEVU/7y3HRq4XlwicQ3nQ==;3oTrtX9hb2gXD1SW80XNiw=="
 ---

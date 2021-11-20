@@ -2,6 +2,135 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-10-data-society-launches-ai-driven-meldr-platform-for-data-science-training.md",
+      "title": "Data Society launches AI-driven meldR platform for data science training",
+      "excerpt": "Data Society has announced the launch of meldR, a social learning platform that allows L&D teams to deliver AI-generated data science learning courses.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/",
+      "originalUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/amp/",
+      "publishedDateTime": "2021-11-10T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-northern-trust-launches-machine-learning-module-for-asset-owner-research-management.md",
+      "title": "Northern Trust Launches Machine Learning Module for Asset Owner Research Management",
+      "excerpt": "As part of its initiative to bring greater efficiency and transparency to alternatives asset servicing, Northern Trust (Nasdaq: NTRS) has launched a feature within its Front Office Solutions platform that utilizes machine learning to empower sophisticated asset allocators with better oversight of their research process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/northern-trust-launches-machine-learning-module-for-asset-owner-research-management/",
+      "originalUrl": "https://www.financialbuzz.com/northern-trust-launches-machine-learning-module-for-asset-owner-research-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-honesty-and-ethics-not-well-explained-by-managers-in-new-zealand.md",
+      "title": "Honesty and ethics not well explained by managers in New Zealand",
+      "excerpt": "The majority of employees in New Zealand are confident their organizations are honest and there is no misconduct at work, but their line managers don't always explain the importance of honesty and ethics in the work they are leading.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.html",
+      "originalUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/workplace-2.jpg",
+          "width": 2880,
+          "height": 1922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-11-honesty-ethics-zealand.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-honesty-ethics-zealand.amp",
+      "publishedDateTime": "2021-11-10T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-how-the-eus-flawed-artificial-intelligence-regulation-endangers-the-social-safety-net-questions-and-answers.md",
       "title": "How the EU’s Flawed Artificial Intelligence Regulation Endangers the Social Safety Net: Questions and Answers",
       "excerpt": "Summary In April 2021, the European Commission released its 108-page proposal to regulate artificial intelligence (“AI”), describing it as an attempt to ensure a “well-functioning interna",
@@ -1025,152 +1154,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-timnit-gebru-says-artificial-intelligence-needs-to-slow-down.md",
-      "title": "Timnit Gebru Says Artificial Intelligence Needs to Slow Down",
-      "excerpt": "Artificial intelligence researchers are facing a problem of accountability: How do you try to ensure decisions are responsible when the decision maker is not a responsible person, but rather an algorithm?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
-      "originalUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6189c83d08983f9bcb06800e/master/pass/Timnit-Gebru.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rewired-2021-timnit-gebru/amp",
-      "publishedDateTime": "2021-11-09T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai.md",
-      "title": "TechCrunch+ roundup: Deep tech predictions, HashiCorp’s IPO, enterprise-wide AI",
-      "excerpt": "If you believe you have a good idea for a startup, go for it. When venture capitalists say this is a good time to be a founder, you know they absolutely mean it.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/",
-      "originalUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-906726726-1.jpg?w=1024",
-          "width": 1024,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/",
-      "publishedDateTime": "2021-11-09T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-meta-to-halt-use-of-facial-recognition-technology-on-facebook.md",
-      "title": "Meta to Halt Use of Facial Recognition Technology on Facebook",
-      "excerpt": "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/",
-      "originalUrl": "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2021/08/OculusHorizonWorkroomsHero-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/media/meta-to-halt-use-of-facial-recognition-technology-on-facebook/amp/",
-      "publishedDateTime": "2021-11-09T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

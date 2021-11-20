@@ -37,20 +37,6 @@ related:
         width: 801
         height: 474
         isCached: true
-  - title: "Design a compelling record filtering method with Amazon SageMaker Model Monitor"
-    excerpt: "As artificial intelligence (AI) and machine learning (ML) technologies continue to proliferate, using ML models plays a crucial role in converting the insights from data into actual business impacts. Operational ML means streamlining every step of the ML lifecycle and deploying the best models within"
-    publishedDateTime: 2021-11-15T18:44:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/design-a-compelling-record-filtering-method-with-amazon-sagemaker-model-monitor/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/02/ML-5968-image001.jpg"
-        width: 739
-        height: 1059
-        isCached: true
   - title: "Accelerate data preparation using Amazon SageMaker Data Wrangler for diabetic patient readmission prediction"
     excerpt: "Patient readmission to hospital after prior visits for the same disease results in an additional burden on healthcare providers, the health system, and patients. Machine learning (ML) models, if built and trained properly, can help understand reasons for readmission, and predict readmission accurately."
     publishedDateTime: 2021-11-17T22:45:10Z

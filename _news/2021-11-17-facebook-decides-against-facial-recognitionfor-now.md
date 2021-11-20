@@ -7,8 +7,8 @@ originalUrl: "https://www.smallbiztechnology.com/archive/2021/11/facebook-facial
 webUrl: "https://www.smallbiztechnology.com/archive/2021/11/facebook-facial-recognition.html/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: smallbiztechnology.com
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Strange News: Virgin Condor Births, Ethical AI, Facebook and Facial Recognition"
-    excerpt: "Check out this great listen on Audible.com. Scientists discover that the endangered California Condor is capable of producing offspring without the presence of male condors, prompting troubling questions for the future."
-    publishedDateTime: 2021-11-15T18:52:00Z
-    webUrl: "https://www.audible.com/pd/B09LVW43PR"
+  - title: "Swiss petition takes aim at face recognition"
+    excerpt: "(MENAFN- Swissinfo) The Swiss NGOs are concerned that the state and the private sector could use biometric face recognition devices and video cameras for a systematic 24/7 surveillance of the ..."
+    publishedDateTime: 2021-11-18T09:41:00Z
+    webUrl: "https://menafn.com/1103197773/Swiss-petition-takes-aim-at-face-recognition"
     type: article
     provider:
-      name: Audible
-      domain: audible.com
-    quality: 67
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
     images:
-      - url: "https://m.media-amazon.com/images/I/61CIjwuBRcS._SL500_.jpg"
-        width: 500
-        height: 500
+      - url: "https://menafn.com/updates/pr/2021-11/18/S_6b91eimage_story.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Five Times Facial Recognition Was In News In 2021 For The Wrong Reasons"
+    excerpt: "While it is a great technological innovation, FRT is often seen as a tool for surveillance and breach of privacy in the name of increased security."
+    publishedDateTime: 2021-11-19T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/five-times-facial-recognition-was-in-news-in-2021-for-the-wrong-reasons/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/FRT_AIM.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Facebook will drop is facial recognition system — But here's why we should be skeptical"
     excerpt: "Facial recognition systems, like Facebook’s, identify people by matching faces to digital representations of faces stored on a database. Facebook has more than a billion of these representations on file but now says it will delete them."

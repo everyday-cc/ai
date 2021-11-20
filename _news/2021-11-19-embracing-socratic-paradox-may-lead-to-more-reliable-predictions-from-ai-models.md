@@ -7,7 +7,7 @@ originalUrl: "https://www.cc.gatech.edu/news/embracing-socratic-paradox-may-lead
 webUrl: "https://www.cc.gatech.edu/news/embracing-socratic-paradox-may-lead-more-reliable-predictions-ai-models"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,63 @@ images:
     width: 850
     height: 478
     isCached: true
+
+related:
+  - title: "Automation, AI key to optimising application performance"
+    excerpt: "Automation and AI are the only way to ensure optimal performance of the applications that organisations depend on, according to IBM."
+    publishedDateTime: 2021-11-19T08:58:00Z
+    webUrl: "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "New AI application reads eye movements"
+    excerpt: "Eye movements read by a new AI application can reveal thoughts, memories, goals — and brain diseases. A new tool developed at the Kavli Institute for Systems Neuroscience in Norway and described in an article in Nature Neuroscience,"
+    publishedDateTime: 2021-11-17T01:38:00Z
+    webUrl: "https://www.news-medical.net/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Magnetic_Resonance_Imaging-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "The Payments Association finds huge value in AI in revolutionising payments"
+    excerpt: "Financial Services organisations with over 5,000 employees have adopted AI It is forecast that AI Market to Hit USD 360.36 Billion by 2028 The Payments Association (formerly The Emerging Payments Association (EPA)) today announces the release of its latest research,"
+    publishedDateTime: 2021-11-17T09:54:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/payments-association-finds-huge-value-ai-revolutionising-payments"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 37
+    images:
+      - url: "https://financialit.net/sites/default/files/dbfhgysuydfbsuydf.png"
+        width: 733
+        height: 414
+        isCached: true
+  - title: "Artificial Intelligence Drives Innovation In Building Security Solutions"
+    excerpt: "The application of artificial intelligence (AI) in digital building solutions continues to grow. Vendors across the market are turning to AI and machine learning to launch advanced offerings that drive greater automation and improved outcomes."
+    publishedDateTime: 2021-11-18T15:36:00Z
+    webUrl: "https://www.publicnow.com/view/05E803A5AE820849AB4D0A6773AEE40ADB1F4D34"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 33
 
 secured: "DnNeybxSF5sHD3X/K5WUz83v8Uo56DV6vXLj96wMw2eVHl/kh1QvxLYv4vQDGv5blc3+we70jFov+ZVI+gjYrn/029PFlNGrmDZhvFRmqXN+g6ceVWMOd9CLF/cpq71Z/hQcbsX0oIyDeFr5C6JjlXZXO2kIwyDG4vuW6bhD70bS6StXxP0dtWShzy7XNgC+6jW6j5yBbybOARzwG792Vx6QNPGctIhQt79CCDdX/6rIv9DPmQRbquzt7RFDmI5Exv7dCZwJ66meC/o+Dj+Ji56zhpY6aaf2Mpmlg6KQkKGUzWqM3oBhseR9HaTNKzs2iPT3d7526JUBGeGtWdX9GUTGitTNdoVZzAK3LpDnkda6lvheoNQnfOUkE5ZExHzKlIXsQildunauQ2wIUxuLwgEQYIYLkyZHPHGGk34SmEUZwR2wmFtqIidBvuIPSoX741CgXcFphVB1VO+RRdtDGsyjrd+PWiEWy5BAPioQD7tRfbgtlG+jwGHuqpjIchnQLqsAKwEm7lSquqUzlXzZZg==;PryAvB7ibzc8YlUb8zkIgw=="
 ---

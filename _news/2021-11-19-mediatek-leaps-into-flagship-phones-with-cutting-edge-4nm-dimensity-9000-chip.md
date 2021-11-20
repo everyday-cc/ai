@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-intervi
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp"
 type: article
 quality: 86
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1510
     height: 1000
     isCached: true
+
+related:
+  - title: "MediaTek Dimensity 9000 Flagship Chipset Arrives to Rival High-End Snapdragon Chips"
+    excerpt: "MediaTek, at its 2021 Summit, has announced the new Dimensity 9000 flagship chip. It is the world's first TSMC chip that is based on the 4nm process,"
+    publishedDateTime: 2021-11-20T09:45:00Z
+    webUrl: "https://beebom.com/mediatek-dimensity-9000-flagship-chipset-arrives-to-rival-high-end-snapdragon-chips/"
+    ampWebUrl: "https://beebom.com/mediatek-dimensity-9000-flagship-chipset-arrives-to-rival-high-end-snapdragon-chips/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/mediatek-dimensity-9000-flagship-chipset-arrives-to-rival-high-end-snapdragon-chips/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 53
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2021/11/mediatek-dimensity-9000.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "/aG3cekDRkJ2SnK/26SJxTlryWBl3VuWsgqA4j9REH7FfG7dT/lJU//kAyD4cgEXUCprX2XEzSXPPxMU2sKnORmgy+mICgSviuFFJxkn9uCmVBmMEmrOxOVQtJgRvoFsXP6nXVJc9mFd0XKWM04Z7C9lqcF3TJo7AUQiX1yGn5vQa+LgOPct4WQz/LcnxKmzY3A6V49SNZ94nZupbOvxvHFzX2Sv3TzGYajLKH9t8pMIjP8Pf5kiblWIsMyOebdkSIfcPBImT1LFVOZ6fUi+L7wQxL5PChRFq46v+ndzT5+anSibeEedzo+SDpoYgTpSfobknQWb7AwIEz3v30r+Kn8h7wSxRgw6wMXR6F1jIutgF/xnrVBSZ+fJWK3yuOOohc6nCcVTTy00fjseP8r6LvRV4p1yTW+ANSsrfBqqJ4aruyywT+Oso4zaBki9PwqfIh5WEL5fCQIMXGd60MKRxh60VjPMdD+YwOZ4v7zXl4F2o9jPNIyyX/pEorbsYuxxbSRSogbn9y1SrEpPj8ePFA==;TzCk253Bl029LMX1keSHJg=="
 ---

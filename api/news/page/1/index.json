@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-20-china-unleashes-might-of-ai-on-next-generation-supercomputer-to-meet-demand-for-more-power.md",
+      "title": "China unleashes might of AI on next-generation supercomputer to meet demand for more power",
+      "excerpt": "Supercomputer recorded a 75,839-fold boost in handling data for machine learning after a breakthrough in memory management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/20/674ecbd8-48f6-11ec-88c2-0bacf4eabd5b_image_hires_095916.jpg?itok=hhkvRXgA&v=1637373565",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
+      "publishedDateTime": "2021-11-20T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv-viewing-experience.md",
+      "title": "MediaTek unveils Pentonic 2000 chip for next-level 8K 120Hz TV viewing experience",
+      "excerpt": "MediaTek today lifted the curtains on its new Pentonic smart TV family of processors with the introduction of the Pentonic 2000 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/",
+      "originalUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Pentonic-2000-chipset-for-Smart-TV-featured-image.jpg",
+          "width": 1200,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1",
+      "publishedDateTime": "2021-11-20T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-aws-aiml-community-attendee-guides-to-aws-reinvent-2021.md",
       "title": "AWS AI/ML Community attendee guides to AWS re:Invent 2021",
       "excerpt": "The AWS AI/ML Community has compiled a series of session guides to AWS re:Invent 2021 to help you get the most out of re:Invent this year. They covered four distinct categories relevant to AI/ML. With a number of our guide authors attending re:Invent virtually, you will find a balance between virtually",
@@ -977,6 +1081,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-19-automation-ai-key-to-optimising-application-performance.md",
+      "title": "Automation, AI key to optimising application performance",
+      "excerpt": "Automation and AI are the only way to ensure optimal performance of the applications that organisations depend on, according to IBM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ",
+      "originalUrl": "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ",
+      "publishedDateTime": "2021-11-19T00:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-mediatek-announces-new-filogic-130-series-chips-will-bring-wi-fi-6-bluetooth-52-to-iot-devices.md",
       "title": "MediaTek announces new Filogic 130 series chips: will bring Wi-Fi 6 & Bluetooth 5.2 to IoT devices",
       "excerpt": "MediaTek has announced new Filogic 130 and Filogic 130A single-chip solutions to bring Wi-Fi 6 and Bluetooth 5.2 connectivity to IoT devices.",
@@ -1061,161 +1208,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-next-gen-stats-decision-guide-predicting-fourth-down-conversion.md",
-      "title": "Next Gen Stats Decision Guide: Predicting fourth-down conversion",
-      "excerpt": "It is fourth-and-one on the Texans’ 36-yard line with 3:21 remaining on the clock in a tie game. Should the Colts’ head coach Frank Reich send out kicker Rodrigo Blankenship to attempt a 54-yard field goal or rely on his offense to convert a first down? Frank chose to go for it, leading to a […]",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/03/ML-5940-image003.png",
-          "width": 674,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T16:14:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-mediatek-leaps-into-flagship-phones-with-cutting-edge-4nm-dimensity-9000-chip.md",
-      "title": "MediaTek leaps into flagship phones with cutting-edge 4nm Dimensity 9000 chip",
-      "excerpt": "The Dimensity 9000 is MediaTek's first true flagship phone processor, and the world's first built using a 4nm process. The company talked to us about it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mediatek-dimensity-9000.jpg",
-          "width": 1510,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp",
-      "publishedDateTime": "2021-11-18T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "These two stocks are built on artificial intelligence, and this foundation could enable them to redefine their space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
-      "originalUrl": "https://www.fool.com/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F653598%2Fai-button-on-a-circuit-board.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
-      "publishedDateTime": "2021-11-18T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -53,20 +53,6 @@ related:
         width: 4058
         height: 2710
         isCached: true
-  - title: "TOMRA Pioneers Use of Deep Learning Technology in Wood Recycling Applications"
-    excerpt: "Sensor-based sorting specialist, TOMRA Recycling, has further strengthened its offering for the global wood recycling sector by using deep learning, a subset of artificial intelligence, in wood recycling applications."
-    publishedDateTime: 2021-11-15T17:19:00Z
-    webUrl: "https://www.constructionequipmentguide.com/tomra-pioneers-use-of-deep-learning-technology-in-wood-recycling-applications/54428"
-    type: article
-    provider:
-      name: Construction
-      domain: constructionequipmentguide.com
-    quality: 36
-    images:
-      - url: "https://dmt55mxnkgbz2.cloudfront.net/900x0_s3-54428-MNSW-RE-TOMRA-SORT-1.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "vtNw660CGULg6/mn/i5uK5tUOAiLxicrP+5THKDAyG2YA3NLLCIEWdMMdCUiwtN/QKQREW9ATg+70he+qcp4tFjPJWYVU1JgeHGKv9SB97JmgBjYt27MJbERP5mjzxScaIrav+/tK9QfuvmN2Ijj2A49MaKkKr7xA5ZnRXjtCkDn3r6HnRSzW5Ha8JxOYFfFM6TOMPuHIDQuwx8qqa06caTvsr5Vv6SlMJ7L+TTOY6UR8PyhOYTeUKO6DOkykJm6ATBUD7eSxLtVGUVSMPD3o9xUg3urG0cteyWmoWli/7BvYmjfhYcbPYrbhg4LPTbgu25VhT5hiK43o1AkoX1X1PFs8grc8t2SwY++EKNsXGJnOmWYLTFC/8y3Z5FVv17GuWbXEXIncp62rjOptoswx0GaIzTjgYKxFwpJmzCCCtX3ycIaqo8PEGTkxmtb2YXeL7Q2o2aYsnscbY334xjkx0M3SMbDGb6fgWn4JZVEQ3IyynQYzi2CdoUmIPHG1Hr/VdVCvyJQzmDQtHf6rXyZ2g==;1lI70RqwC/sKECXMpQfHOw=="
 ---

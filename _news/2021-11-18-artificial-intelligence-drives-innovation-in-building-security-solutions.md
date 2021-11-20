@@ -19,43 +19,66 @@ topics:
   - AI in Security
 
 related:
-  - title: "Neptune Retail Solutions Doubles Down On In-Store Innovation, AI and First-Party Data With Acquisition Of RevTrax"
-    excerpt: "Neptune Retail Solutions (NRS), a leading omnichannel retail marketing company, announced today that it has acquired RevTrax®, the leading promotions marketing platform.  The RevTrax founding leadership team will join the NRS executive team long-term to help accelerate the integration of its Offer Management Platform (OMP),"
-    publishedDateTime: 2021-11-18T19:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/neptune-retail-solutions-doubles-down-on-in-store-innovation-ai-and-first-party-data-with-acquisition-of-revtrax-1030989430"
+  - title: "Automation, AI key to optimising application performance"
+    excerpt: "Automation and AI are the only way to ensure optimal performance of the applications that organisations depend on, according to IBM."
+    publishedDateTime: 2021-11-19T08:58:00Z
+    webUrl: "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1572356/neptune_Logo.jpg"
-        width: 400
-        height: 309
+      - url: "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428"
+        width: 761
+        height: 428
         isCached: true
-  - title: "Beautiful.ai Doubles Down on Growth and Design, Promotes Jason Lapp to CEO"
-    excerpt: "Beautiful.ai, the presentation platform that enables anyone to build beautiful presentations, announced today the promotion of its president and chief operating officer (COO), Jason Lapp, to chief executive officer."
-    publishedDateTime: 2021-11-18T15:43:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-b92b2c3834dff660b072598015732ebc"
+  - title: "New AI application reads eye movements"
+    excerpt: "Eye movements read by a new AI application can reveal thoughts, memories, goals — and brain diseases. A new tool developed at the Kavli Institute for Systems Neuroscience in Norway and described in an article in Nature Neuroscience,"
+    publishedDateTime: 2021-11-17T01:38:00Z
+    webUrl: "https://www.news-medical.net/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Magnetic_Resonance_Imaging-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "The Payments Association finds huge value in AI in revolutionising payments"
+    excerpt: "Financial Services organisations with over 5,000 employees have adopted AI It is forecast that AI Market to Hit USD 360.36 Billion by 2028 The Payments Association (formerly The Emerging Payments Association (EPA)) today announces the release of its latest research,"
+    publishedDateTime: 2021-11-17T09:54:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/payments-association-finds-huge-value-ai-revolutionising-payments"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 37
+    images:
+      - url: "https://financialit.net/sites/default/files/dbfhgysuydfbsuydf.png"
+        width: 733
+        height: 414
+        isCached: true
+  - title: "Embracing Socratic Paradox May Lead to More Reliable Predictions from AI Models"
+    excerpt: "Next-generation artificial intelligence (AI) models used in public health, IoT, and other critical applications will soon be able to make better decisions and more accurate predictions thanks to a bit of philosophical wisdom being instilled in them at Georgia Tech."
+    publishedDateTime: 2021-11-19T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/embracing-socratic-paradox-may-lead-more-reliable-predictions-ai-models"
+    type: article
+    provider:
+      name: Georgia Tech News Center
+      domain: gatech.edu
     quality: 35
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/prakash-zhang-portrait-composite-cse-nov21.png"
+        width: 850
+        height: 478
         isCached: true
-  - title: "Fieldin Accelerates Autonomous Farming Revolution with Acquisition of Midnight Robotics"
-    excerpt: "Fieldin, the world's largest smart farm operations management company for high-value crops, announced today that it has acquired"
-    publishedDateTime: 2021-11-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fieldin-accelerates-autonomous-farming-revolution-with-acquisition-of-midnight-robotics-301426754.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
 
 secured: "ZWKCsnodArbWlqRyBgJzdUvnAR5NNrJTI970XKL3OfoLPUjH+PXZs4IyZcsBFw9ERdwjPH4TFBCBV2Py46AuWQQPpMwsLx1myqkQPWTKO+3tC76HLZYrx3IeBX9QMnsux+2cKLy/bp4s9OTJ0wMc+AeiGI9u7Al/jTyDDfLVwxLjb6FaVfuTD4BreHuKry4m3SJovv/XbDfMNUtX0X97wQCbQLexs38F7dYnEjWucpsYnxuvig2+qM7TJx2KZMsHhzPvAwClvvU/SGhEdsub5nZIPK825VBNjY0Hca82163FzbRWGFXU/9u/1h8hGYXKKX4ax7C3ufK/sU6kEaMBDmpg5DHO7KsTqsBW8rV/Gt8=;81d7xsFgULVdsaum3Y/JGg=="
 ---

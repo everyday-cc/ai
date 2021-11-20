@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/five-times-facial-recognition-was-in
 webUrl: "https://analyticsindiamag.com/five-times-facial-recognition-was-in-news-in-2021-for-the-wrong-reasons/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,50 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Facebook Decides Against Facial Recognition…For Now"
+    excerpt: "The company has become more aware of privacy concerns by banning facial recognition, but critics say that it has not altered its DNA."
+    publishedDateTime: 2021-11-17T09:15:00Z
+    webUrl: "https://www.smallbiztechnology.com/archive/2021/11/facebook-facial-recognition.html/"
+    type: article
+    provider:
+      name: smallbiztechnology.com
+      domain: smallbiztechnology.com
+    quality: 54
+    images:
+      - url: "https://www.smallbiztechnology.com/wp-content/uploads/2021/11/facebook-facial-recognition.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Swiss petition takes aim at face recognition"
+    excerpt: "(MENAFN- Swissinfo) The Swiss NGOs are concerned that the state and the private sector could use biometric face recognition devices and video cameras for a systematic 24/7 surveillance of the ..."
+    publishedDateTime: 2021-11-18T09:41:00Z
+    webUrl: "https://menafn.com/1103197773/Swiss-petition-takes-aim-at-face-recognition"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/18/S_6b91eimage_story.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Facebook will drop is facial recognition system — But here's why we should be skeptical"
+    excerpt: "Facial recognition systems, like Facebook’s, identify people by matching faces to digital representations of faces stored on a database. Facebook has more than a billion of these representations on file but now says it will delete them."
+    publishedDateTime: 2021-11-17T05:06:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17423/facebook-will-drop-is-facial-recognition-system-but-here-s-why-we-should-be-skeptical"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 33
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/423/17423/6943972882_7b31832852_c_Hero_Main.jpg"
+        width: 750
+        height: 420
+        isCached: true
 
 secured: "PffhWUQqyizMDH7+sAboyoRhM5giUfF105Gq57rlHSL2GEYYWZhurSDcqsykf0ev3DOBhhQyuxTlGWpa82rbXJNOthspj0RFENPTxe0JwfYecYwZ0ctStDC8NKiEAiz3C6MQjTdMTNoGpquGiJWjKfDpVGINFgSxSROrWmFR/JxIqnlVcx8+QQNhUlXophUPk+oz9Sinlhzux+eN97IQj4vLckXM8INHqCiGzwGzieRsADbxFYYUq2qu7W+/eAudx3/j5zTeeUrMGS0Spg8kvzlo7C5Ixm5Lx90dJxon0cQdDuSMwB0gCzJlMdd44J1yUtsmKotD5pyfidG/dnr3pgucd2fCCscd0QrVfqSnlAkRRHdLKXhJ5H4sFT0XrqhRKo3cWUz480AjZT9KP1snhccrnyH84CVhIDma0DHMetszA4e7kU0osoUB1pWMARUXbLahbCnD2WSJAkJSn+NxQhoFjPxaN/wKQ9/oObYqWi0q7g8gvLUHzwM5vIYe2TkFAtyZCB2eggnhN3l03XhAxw==;EoN2n2h3X0gI7kXhAm7pQQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/"
 type: article
 quality: 117
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Design a compelling record filtering method with Amazon SageMaker Model Monitor"
-    excerpt: "As artificial intelligence (AI) and machine learning (ML) technologies continue to proliferate, using ML models plays a crucial role in converting the insights from data into actual business impacts. Operational ML means streamlining every step of the ML lifecycle and deploying the best models within"
-    publishedDateTime: 2021-11-15T18:44:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/design-a-compelling-record-filtering-method-with-amazon-sagemaker-model-monitor/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/02/ML-5968-image001.jpg"
-        width: 739
-        height: 1059
-        isCached: true
   - title: "Chain custom Amazon SageMaker Ground Truth jobs for image processing"
     excerpt: "Amazon SageMaker Ground Truth supports many different types of labeling jobs, including several image-based labeling workflows like image-level labels, bounding box-specific labels, or pixel-level labeling. For situations not covered by these standard approaches, Ground Truth also supports custom image-based"
     publishedDateTime: 2021-11-18T22:27:14Z

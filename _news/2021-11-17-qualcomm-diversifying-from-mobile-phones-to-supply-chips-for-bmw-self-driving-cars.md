@@ -77,20 +77,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Apple Now Has 69 Cars, 137 Drivers in its Self-Driving Car Fleet"
-    excerpt: "With 69 self-driving vehicles, Apple has not yet applied for a driverless permit, as there are several manufacturers which already have driverless permits for their fleets. After reporting one additional collision in its latest report,"
-    publishedDateTime: 2021-11-15T18:33:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-self-driving-car-fleet-cars-and-drivers/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 24
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/25694662556_a4f9e40693_b.jpg"
-        width: 640
-        height: 320
-        isCached: true
   - title: "BMW to use chips from Qualcomm for self-driving technology"
     excerpt: "Semiconductors from Qualcomm will appear in driver-assistance and self-driving technology in BMW's Neue Klasse vehicles, starting in 2025. The chipmakers is diversifying from a reliance on mobile phones."
     publishedDateTime: 2021-11-16T12:54:00Z

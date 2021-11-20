@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence–based method predicts risk of atrial fibrillation"
-    excerpt: "Atrial fibrillation—an irregular and often rapid heart rate—is a common condition that often leads to the formation of clots in the heart that can travel to the brain to cause a stroke. As described in a study published in Circulation,"
-    publishedDateTime: 2021-11-15T17:38:00Z
-    webUrl: "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/atrialfibril.jpg"
-        width: 850
-        height: 413
-        isCached: true
   - title: "Researchers develop AI-based method for identifying patients at risk of atrial fibrillation"
     excerpt: "Atrial fibrillation-;an irregular and often rapid heart rate-;is a common condition that often leads to the formation of clots in the heart that can travel to the brain to cause a stroke."
     publishedDateTime: 2021-11-16T02:18:00Z
