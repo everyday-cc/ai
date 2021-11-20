@@ -82,15 +82,6 @@ related:
       name: FDAnews
       domain: fdanews.com
     quality: 34
-  - title: "GE Healthcare Receives FDA Clearance for First X-ray AI to Help Assess Endotracheal Tube Placement"
-    excerpt: "GE Healthcare today announced it has received Food and Drug Administration (FDA) 510(k) clearance for an artificial intelligence (AI) algorithm to hel"
-    publishedDateTime: 2021-11-16T00:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211115006197/en/GE-Healthcare-Receives-FDA-Clearance-for-First-X-ray-AI-to-Help-Assess-Endotracheal-Tube-Placement"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
 
 secured: "2IDR5tzXytigGfnZs/81dA431HfgXkxclTeBDJj/q32fEOfWUw2ZoOc5HXcILbd6zd8pnRSWSlPFLZXmPN9g7O3KNs+8PQB78Se2Vg2uvmpS8IkcwkyLyDNTrfKMl1Zvnc3ySyiL0sDX4TElCwgcIOU6DzUfbMuY93QrVw8GBGQJ3eT5JHGRjXZsgBuKonZBFeOW9HkXdCVHwcc+1WATULu330KMstcJiYY2mJ+cNEp9u0YN02Hp0WtyI03hNATBkFcmMXSBZLUvCXRM2LTXh99EMArxB2XsbIbCNQ7gzn5aKiPG/wYUOoy6W5Baz0tz57te0RpN3AEiOSKiUWQV72QGHSFzlbH6HESX4zkVCwUI13JISAIkkJkAZxcK+iqJCLokAVs3fpO1OI4qoMDTAHYfLff6r99zkazeo45zS6V/M0xH8a9tUhlBQR8dZ8RPDNZ9xEjE6fWDwawYsq/26RRlJmM49MKrHs1M19esx6GBM69Qd/ttNZ5N2YsRI2imaZStglFSowhXTYqNne6uZA==;DYNn4rgA6LA5sFWSJwqlKA=="
 ---

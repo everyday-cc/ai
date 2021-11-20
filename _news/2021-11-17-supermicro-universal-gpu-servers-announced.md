@@ -9,7 +9,7 @@ ampWebUrl: "https://www.storagereview.com/news/supermicro-universal-gpu-servers-
 cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 7
-  - title: "Supermicro Accelerates Delivery of HPC Clusters for Total IT Solutions with a Broad Portfolio of Servers, Storage, AI Solutions, and Liquid Cooling"
-    excerpt: "Super Micro Computer, Inc. (SMCI), a global leader in high-performance computing, storage, networking solutions, and green"
-    publishedDateTime: 2021-11-15T23:35:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of-servers-storage-ai-solutions-and-liquid-cooling-851524346.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 1
-    images:
-      - url: "https://mma.prnewswire.com/media/1687582/Supermicro_SC21_Image.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "wOCMsdr/YwHO/mJHJMcNjb9KyQmkCpxE0Vw5eFPBwa0I4PW/F00XYXNI0lJHbOZe1lCdZhu3zW+LgeycWw0EJk6QU2bIj+gjwaYg41gBjQZcuJVYzU2AkN+K5S/oBBtTtuSAyoV/46WrbbIZrl89E4Ie5sp6M6GETQ2HsBQJ4LZ4Ch/x/CWnS6QCeKSFpx/uRvQbNMJRPgoW73y7X+f8cYaBQeiVTO7nWGcaJKrdrBXShHIFdxNiA02ESukQas6e4IaVmP0D30h0G5tWXyhnKB6lhwinWRp7H5N6DHNKhNChERuvAWsZkZBuZbH0dVx6b3aM3t//80f3bEntAs9s8zCz1c9/tJA0SfQa0YI7iPA=;D43gJczvpFaqzXkKLpMHdQ=="
 ---

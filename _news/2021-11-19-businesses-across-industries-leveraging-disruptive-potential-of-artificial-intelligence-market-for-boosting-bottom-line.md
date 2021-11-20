@@ -26,51 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "DataRobot launches AI Cloud for industries including banking and health care"
-    excerpt: "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises."
-    publishedDateTime: 2021-11-15T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/"
-    ampWebUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
+  - title: "AI Can Be A Force For Good In Recruiting And Hiring New Employees"
+    excerpt: "The use of AI and machine learning in various employment processes is advancing rapidly. New products and services are entering the market at an explosive pace. These new technologies promise dramatic efficiencies and added value while pledging a healthy return on investment."
+    publishedDateTime: 2021-11-16T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192721f6684affa45047632%2F0x0.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Base64.ai Launches Cloud-Based AI for Real-Time Document Processing and Data Extraction"
-    excerpt: "Base64.ai, an innovative New York startup launches its cloud-based AI technology to offer real-time document processing and data extraction. The revolutionary technology recognizes any type of document and it instantly extracts the text,"
-    publishedDateTime: 2021-11-18T13:23:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12612"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12612"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12612"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 51
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12612_16372381171437.jpg"
-        width: 350
-        height: 215
-        isCached: true
-  - title: "Collaboration Brings AI for IoT to Smart Homes"
-    excerpt: "Infineon Technologies has announced the company has collaborated with Picovoice to jointly develop an end-to-end voice platform that brings voice AI to edge devices. This collaboration enables smart voice solutions in ultra-low power IoT devices using ..."
-    publishedDateTime: 2021-11-16T00:15:00Z
-    webUrl: "https://circuitcellar.com/newsletter/collaboration-brings-ai-for-iot-to-smart-homes/"
-    type: article
-    provider:
-      name: Circuit Cellar
-      domain: circuitcellar.com
-    quality: 37
-    images:
-      - url: "https://circuitcellar.com/wp-content/uploads/2021/11/Voice_control-compressed.jpg"
-        width: 2126
-        height: 1417
+        height: 800
         isCached: true
 
 secured: "Fz4mfLRR5jdcV/bgRB8S0MhoC2ej/Dq5ddi0AF3x+jW+/B5hzeeqbuVZbbO1JYqyrLu9GxBrMQM9Vs6uXEepa/841NxP65Mhngnr5Ny0y2uJsF+OOWHbvn0VF2y0WBcVcq0LBJbXcUYKcrPlspUX1O8xEFHwlvFg0GXoafUYpEgwnyFWGru5W/sS6PJhavSJkbPpXW0bNp5VQ9aIWkwR2ke3n+GO/c79wz8eXI1yZmW0+2Aza555tW0j9prmJxq43NMiFnkzyFF2JaaLE8KnGdSLJsclxsHokUyzSRxF4a+pm1bQeL+TuAAOBvdVPVyA+fsrAPjN3vHxSCLNlPzY+P6jE3Ev8ozVJY3lfdkqt2OQjv4iyPqWFtgy/8lhu9cuSdL1ibX3QjqyM6OM4yJ4EyaUJgMZYU+xkEy1vGnUCuiGAaGFr+cEMUkzSTae0pOujwjsFBQSd/Bg9y/jzY6IH4D8XcPPXoawfbjEtNKRqZRpOoggr5Moo0EtvGcnx/W9pMxE/CfvsCRaYYOLMOnNqA==;K4wqr67oQUygb9t2xPFwlg=="

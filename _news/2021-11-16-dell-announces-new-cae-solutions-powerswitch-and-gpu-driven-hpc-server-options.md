@@ -58,20 +58,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 7
-  - title: "Supermicro Accelerates Delivery of HPC Clusters for Total IT Solutions with a Broad Portfolio of Servers, Storage, AI Solutions, and Liquid Cooling"
-    excerpt: "Super Micro Computer, Inc. (SMCI), a global leader in high-performance computing, storage, networking solutions, and green"
-    publishedDateTime: 2021-11-15T23:35:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of-servers-storage-ai-solutions-and-liquid-cooling-851524346.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 1
-    images:
-      - url: "https://mma.prnewswire.com/media/1687582/Supermicro_SC21_Image.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "Z5ChIXmD6jkTV0+92Rw5A5gZ//0hctIV5iY8HK7m88iQMixQvj3wIRBv3EDi8qq8lA6W8l7rjQxqJ2/XCnA45XF2fBBkTTUHqFtUvqT4EfnlSTiimCYM1gzpnQa7ZRFILsQTJoOZexfIo2rwI8jUmpahjDTC1mQX0KXH0+uBCqDou4M3wN/akDAoUcGaEhDMDh1SM+5wHJrgs1J3ODfpd1W3obZktZFbH4B8agDR6qxAVySs/O8QCg9HHgDcLmgdwKOv1ugJ21XK2QVqjvYDZ5wiqCDa6T3jaob+Mne+vXBCMU4vRMK7MRucIs0yZn+NqLD/3gv8tW6hbm3mhkTw9FlnsUGwOlLQfdymXv/uNK8=;XFWEp9z05Tws6JyOv3nj6w=="
 ---

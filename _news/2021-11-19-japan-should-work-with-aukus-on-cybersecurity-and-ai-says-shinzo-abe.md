@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2021/nov/19/japan-should-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Ex-Japan PM Abe Calls for Tokyo's Cooperation With AUKUS in AI, Cyber"
+    excerpt: "Former Japanese premier Shinzo Abe, who remains influential in the ruling party, said on Friday Japan should cooperate with the AUKUS security partners the United States, Britain and Australia on artificial intelligence and cyber capabilities."
+    publishedDateTime: 2021-11-19T03:40:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-11-18/ex-japan-pm-abe-calls-for-tokyos-cooperation-with-aukus-in-ai-cyber"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Managing the Cybersecurity Vulnerabilities of Artificial Intelligence"
     excerpt: "Systems based on artificial intelligence are susceptible to adversarial attack. Vulnerability disclosure and management practices can help address the risk."
     publishedDateTime: 2021-11-17T14:55:00Z

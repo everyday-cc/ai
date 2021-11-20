@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-h
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/"
 type: article
 quality: 121
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
       name: FDAnews
       domain: fdanews.com
     quality: 34
-  - title: "GE Healthcare Receives FDA Clearance for First X-ray AI to Help Assess Endotracheal Tube Placement"
-    excerpt: "GE Healthcare today announced it has received Food and Drug Administration (FDA) 510(k) clearance for an artificial intelligence (AI) algorithm to hel"
-    publishedDateTime: 2021-11-16T00:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211115006197/en/GE-Healthcare-Receives-FDA-Clearance-for-First-X-ray-AI-to-Help-Assess-Endotracheal-Tube-Placement"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
 
 secured: "BovKsy6Kk2bhQ9A8L6N3sxF3drpyWYYERDiXvPbDQcLchOXK/IuhAJP+vUWz2gej9rZJwUnbYdlLhvPWjCyeXK2VHNTleBTTb8JkGX/zCwNgPBuAfPTG8nIBuT1Zmt8W7AM8Nujg+kh/VAg5qIOHW5D87b547pP+F5oqpgp7KQFmEfDFME0HVYqtCiNTd2nPYPXb8ldA2LntBCbiMqajFLEaZTQqAJdCk2Ku3O4D5pCM4GaYhPJFTKtIue2t1pMCc2RsAUF3uA5sJjxUh/WFQP/0nK5Ouax9Ke1P2l7PmjjCPh7T+8WIe5hD30Da4m8G0p38q7a4t9YQq5IDR7Gdmi1sfcCyEE+xgs/0oR5wGuI=;k1ysJuo7WvmRH0qQTUbuSA=="
 ---

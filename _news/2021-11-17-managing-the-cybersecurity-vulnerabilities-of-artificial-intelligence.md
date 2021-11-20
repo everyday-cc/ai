@@ -57,6 +57,15 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Ex-Japan PM Abe Calls for Tokyo's Cooperation With AUKUS in AI, Cyber"
+    excerpt: "Former Japanese premier Shinzo Abe, who remains influential in the ruling party, said on Friday Japan should cooperate with the AUKUS security partners the United States, Britain and Australia on artificial intelligence and cyber capabilities."
+    publishedDateTime: 2021-11-19T03:40:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-11-18/ex-japan-pm-abe-calls-for-tokyos-cooperation-with-aukus-in-ai-cyber"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "The Metaverse, AI Bill of Rights, Digital Twins & Simulations, Digital Identity and Decentralization and Retail Cybersecurity Threats"
     excerpt: "The Metaverse wave is spreading with tech companies including Facebook shifting towards 3D, virtual reality and augmented reality technologies. More tech companies such as Nvidia are following suit and preparing for a metaverse future."
     publishedDateTime: 2021-11-17T21:00:00Z

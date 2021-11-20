@@ -3,8 +3,8 @@ category: news
 title: "Gindi TLV, a smart residential complex in Tel Aviv, deploys Oosto’s facial recognition technology to protect tenants from COVID-19 infection"
 excerpt: "Gindi TLV, a residential complex in the heart of Tel Aviv, Israel, maintains the safety of its community, by using Oosto’s face and object recognition, to reduce contact with surfaces"
 publishedDateTime: 2021-11-18T10:07:00Z
-originalUrl: "https://www.sourcesecurity.com/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
+webUrl: "https://www.sourcesecurity.com/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
 type: article
@@ -56,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "aWovuu0hBTYASjtl7uFlbIE4Y80jH5Vd2AFR+RWCg+Oo6oB3GfeXI/dC7adZqrNKhUSrvsblBj4oVl+Xbw48z+GkB9tc8zvAXS0sPC3J5F90LhimX76DuF5ebToJMXZrYR//Ra93yzwo2noq7XXbEHSGSEA7iuZvBeEeJiwWlLrR+9kdispeAF2m+6AW96wWlErF/xU4D5u37Tm9D7FZD3YJSdc71V6W63VxIPFbsaNKD7CTe29sFKCEmbAJ0xlXV78oF8SnkuS3s6FvNVRt5cAoVzriPuW1E4nUCzLrM/+VydjEvh1GRrUTVoZ9KrGuWgobwdSQvp8vbUIY6wmJoEu31am0cuiKNOKKMFMiRvo=;YX5QawLdZcn6MPqjJYQEvg=="
+secured: "w5Q528YSlbv0yWCd3Y5yOjFPpeB+3wWyJ6WOEC2nW7WKLvlA0dNapIwbTykJDywxiTbC22rqvA1RGXy+brkBOoq9akVkXDJV9m8BBclQQlKPtj3EekdsVtTyAGnsJPAGOR1NQA4fvpSRZEXc95gZRlL2pK5RZXCHJKA9Tzw9CehuxcbEfRFPfD6AB8/S1oX9wfKTSMMki5XKjt8o7kz6R8oQHiWGUNxG3Cdzruzkwm+o7RmhgEihnppWq5m8Zlm2gd4OdHIEsm+0TjRAsasbx94LVKJlLznRBX3l2eSBExALdBhp7MERRSnIk7kcchtFIKtObQ+lB2/dumSGNY/cs1reOi0GOI5k6cgPUTpa3tw=;6Ymk4med0QrGLjyWX6Qgsg=="
 ---
 

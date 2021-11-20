@@ -1,32 +1,25 @@
 ---
 category: news
-title: "The Metaverse, AI Bill of Rights, Digital Twins & Simulations, Digital Identity and Decentralization and Retail Cybersecurity Threats"
-excerpt: "The Metaverse wave is spreading with tech companies including Facebook shifting towards 3D, virtual reality and augmented reality technologies. More tech companies such as Nvidia are following suit and preparing for a metaverse future."
-publishedDateTime: 2021-11-17T21:00:00Z
-originalUrl: "https://www.linkedin.com/pulse/metaverse-ai-bill-rights-digital-twins-simulations-david-yakobovitch"
-webUrl: "https://www.linkedin.com/pulse/metaverse-ai-bill-rights-digital-twins-simulations-david-yakobovitch"
+title: "Ex-Japan PM Abe Calls for Tokyo's Cooperation With AUKUS in AI, Cyber"
+excerpt: "Former Japanese premier Shinzo Abe, who remains influential in the ruling party, said on Friday Japan should cooperate with the AUKUS security partners the United States, Britain and Australia on artificial intelligence and cyber capabilities."
+publishedDateTime: 2021-11-19T03:40:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2021-11-18/ex-japan-pm-abe-calls-for-tokyos-cooperation-with-aukus-in-ai-cyber"
+webUrl: "https://www.usnews.com/news/world/articles/2021-11-18/ex-japan-pm-abe-calls-for-tokyos-cooperation-with-aukus-in-ai-cyber"
 type: article
-quality: 8
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: LinkedIn
-  domain: linkedin.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Facebook AI
   - AI
-
-images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGAaOpd9MHQ4g/article-cover_image-shrink_720_1280/0/1637157395688?e=1642636800&v=beta&t=s2SqPRWUyFEiXRekdUeesYjnG5YXUZat8YhwAOecnuY"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Japan should work with Aukus on cybersecurity and AI, says Shinzo Abe"
@@ -61,15 +54,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Ex-Japan PM Abe Calls for Tokyo's Cooperation With AUKUS in AI, Cyber"
-    excerpt: "Former Japanese premier Shinzo Abe, who remains influential in the ruling party, said on Friday Japan should cooperate with the AUKUS security partners the United States, Britain and Australia on artificial intelligence and cyber capabilities."
-    publishedDateTime: 2021-11-19T03:40:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-11-18/ex-japan-pm-abe-calls-for-tokyos-cooperation-with-aukus-in-ai-cyber"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Managing the Cybersecurity Vulnerabilities of Artificial Intelligence"
     excerpt: "Systems based on artificial intelligence are susceptible to adversarial attack. Vulnerability disclosure and management practices can help address the risk."
     publishedDateTime: 2021-11-17T14:55:00Z
@@ -84,7 +68,21 @@ related:
         width: 1024
         height: 701
         isCached: true
+  - title: "The Metaverse, AI Bill of Rights, Digital Twins & Simulations, Digital Identity and Decentralization and Retail Cybersecurity Threats"
+    excerpt: "The Metaverse wave is spreading with tech companies including Facebook shifting towards 3D, virtual reality and augmented reality technologies. More tech companies such as Nvidia are following suit and preparing for a metaverse future."
+    publishedDateTime: 2021-11-17T21:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/metaverse-ai-bill-rights-digital-twins-simulations-david-yakobovitch"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 8
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGAaOpd9MHQ4g/article-cover_image-shrink_720_1280/0/1637157395688?e=1642636800&v=beta&t=s2SqPRWUyFEiXRekdUeesYjnG5YXUZat8YhwAOecnuY"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "8xJ+iV/q2E3prB2K6eifvgZQ2Bc2WI2vk5vCgj0JiP2xbEWi9ziU3480I78nZ7gjnBet7NvkzjaNYb09iFtoHJE93C41wox9+6fQkk3MwhO0L5GV5eoWRn+K/5y+ecYTFOEec+1Od+jCIZXlQgiowdoPxevuOXg60tBlV5RDoodWKAB2t/9sjUDInAA2ujFgsKYNn/Hw0DvG48Fh9ej7H1TX150BZb77tQuNVJs5Ay4kXKnP0+uu14ubsiTcDDkfvtL9ZSf5Wz2La4/BZBH4/rjk8cBnXgek1Gayuq9gRI1YRHNIS87mnryEhBjQrNRzhDVaeYnwzhjcOVI1MDnRYo9GHzdrKdnJ7HMfdaWVgnwmtkwyW7gQTVCqW9GT/LhijhBOxQRVAWKuaagV9CX6DvZwoQE7u1R84k4vf9Rzzpz5tRn7edCIDdByzJWWVtmwZoZgA7sD0UuUfZCuy/KZfrSrS3JujHmu5u3Gqjnsbhs2iWI5wC3LHiLIfbmhMAo24DtoSwrqzldP7kYuvZA/3A==;M5Hl1TEeTe1ZmtJJnD0IYQ=="
+secured: "vXpB1JOhnVvjGLUyT6TZN96Mlq1g6/c/FunTzJ6mcRH/4CSoh8BkvSVMPKNqaUTPF4wYE/MJKk1/mUS3ZECYazHrHCGPy5Mu4BNKN6zni95Dte4yFRVMx6aOCEtqv/PyxmGd/ytfb+xJQ99Zk3fzeMydUUbuWCXdrJkLN80a2BtmZ3zGXubiA/StUfL/Otx/LWEIFfr/5F5sJRVj8a5VvZvqhTBLOFI9lKDKg7mU34sOgtYprGSestCc3lIKCIwTGRB0njrYCFJz7A/c1RNwkvnuO4ELe7k9d08WKNodNCQAIIQ09NWB86dv/zyQsq7R4UeB4MWed7U1PzFA6OiuVzU6Mxg0hbN0BpAfRIFOJqA3WWUKlTvDSHB2TgNtMQ6Ol/UODrdnYh0pSVUC0lDS4kF5FZykSoj7Ss4yDBXeYWd9DAXd242KbcyKo6aL75miSkwtnXYg/sqk19DCAKhROU2tUptHWLXcWYX4CzA3C4n+hS8STwbdK2nz98NjUV0+H44B0VRwilfMH5avWL0enw==;RBr7IjeNzDRWwKP6eKPEwg=="
 ---
 
