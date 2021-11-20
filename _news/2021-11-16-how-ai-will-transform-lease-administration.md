@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "Many businesses can't hire the AI talent they need"
-    excerpt: "The company argues that considerations around AI ethics are at odds with productivity, which could have a knock-on effect on the AI talent search. Most respondents (90 percent) said having ethical standards in how they develop and use emerging technologies,"
-    publishedDateTime: 2021-11-15T15:30:00Z
-    webUrl: "https://www.itproportal.com/news/many-businesses-cant-hire-the-ai-developers-they-need/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/many-businesses-cant-hire-the-ai-developers-they-need/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/many-businesses-cant-hire-the-ai-developers-they-need/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XTapa4qEh8FgPge3PDzxAa-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Transform to Outperform in The Age of AI"
     excerpt: "Most of us already live with AI, from the watches on our wrist that track our sleep and heart rate, to ads that follow us everywhere we go, from something as simple as the autocorrect on our phones or the (sometimes annoying) predictive text that pops up when we write an email – All of it is AI."
     publishedDateTime: 2021-11-17T13:11:00Z

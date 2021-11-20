@@ -35,7 +35,7 @@ related:
     provider:
       name: BBC
       domain: bbc.co.uk
-    quality: 57
+    quality: 59
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg"
         width: 1024

@@ -38,20 +38,6 @@ related:
         width: 400
         height: 309
         isCached: true
-  - title: "DDN Launches Next Generation of High Performance NVMe and Hybrid Storage for AI and Advanced Computing Acceleration"
-    excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced the availability of its next generation of NVMe platforms, the SFA® 400NVX2 and 200NVX2."
-    publishedDateTime: 2021-11-15T16:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ddn-launches-next-generation-of-high-performance-nvme-and-hybrid-storage-for-ai-and-advanced-computing-acceleration-1030977122"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
-        width: 283
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence Drives Innovation In Building Security Solutions"
     excerpt: "The application of artificial intelligence (AI) in digital building solutions continues to grow. Vendors across the market are turning to AI and machine learning to launch advanced offerings that drive greater automation and improved outcomes."
     publishedDateTime: 2021-11-18T15:36:00Z

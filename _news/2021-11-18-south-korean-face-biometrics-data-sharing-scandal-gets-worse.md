@@ -53,6 +53,20 @@ related:
         width: 1100
         height: 734
         isCached: true
+  - title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
+    excerpt: "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services"
+    publishedDateTime: 2021-11-19T23:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-10-5-valuates-reports-800406414.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
 
 secured: "1YYPWrw/hseg/NNkQoqJK5SZHpSg6JbP2mcZ8YKGaQDpmB2trdrrdJBBnffziwu65Yv4AEVd4akOEkNTK+k6vwG62UmJzp49vNFfzbuaTyJKFc/opfQeuAXxt6NGl1xZp2pcpdjAaiQRr1NxO86nNI2lRBnp6iz5ODNzbmhGVPbTZBVPUesyZOI1S6+gJE+KYKK2hRw71SxcBYJMv+5VCD4bB3BwAWKzmqqfsaAcPiiosKPUMHzbyOdRMX1FQCBNqvGwlRtf3YMxD1MHtbFmfO75m+Cg+6/RrSC22SJvsoBiA6sFsqsxl3RFstZdQSCwHwBfHctuXzDMjk+K2qJH8cVAmOzKZDAoWNIrQ6lgS6c=;sTpFHUr/Uw/Qu/cF2Qp3tA=="
 ---

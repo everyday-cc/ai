@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "DataRobot launches AI Cloud for industries including banking and healthcare"
-    excerpt: "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises."
-    publishedDateTime: 2021-11-15T16:40:00Z
-    webUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/"
-    ampWebUrl: "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DataRobot launches AI Cloud for industries including banking and health care"
     excerpt: "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises."
     publishedDateTime: 2021-11-15T23:40:00Z
@@ -57,22 +41,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Emerging Uses for AI in the Financial Services Industry"
-    excerpt: "Banks are turning to artificial intelligence to help with customer relationships and loan debt, among other uses."
-    publishedDateTime: 2021-11-15T16:44:00Z
-    webUrl: "https://biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry"
-    ampWebUrl: "https://biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/emerging-uses-ai-financial-services-industry?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 59
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/finserv%20ai%20web%20hero.jpg?itok=YnLL7cQC"
-        width: 1440
-        height: 500
         isCached: true
   - title: "Base64.ai Launches Cloud-Based AI for Real-Time Document Processing and Data Extraction"
     excerpt: "Base64.ai, an innovative New York startup launches its cloud-based AI technology to offer real-time document processing and data extraction. The revolutionary technology recognizes any type of document and it instantly extracts the text,"

@@ -25,36 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "5 Critical Ways Python Developers Contribute To A FinTech Company"
-    excerpt: "AI, scientific computing, academic research, etc. This creates countless opportunities for Python developers. In an industry like fintech that demands utmost care and focuses on security, you must vet carefully and hire Python developers who are highly ..."
-    publishedDateTime: 2021-11-15T15:13:00Z
-    webUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/"
-    ampWebUrl: "https://techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-critical-ways-python-developers-contribute-to-a-fintech-company/amp/"
+  - title: "AI enhanced Compliance Platform Sedric Secures $3.5M to Increase Consumer Protections for Fintech Firms"
+    excerpt: "Sedric, an AI-enhanced compliance platform for Fintech firms, announced that it has secured $3.5 million via a seed round in order to increase consumer protection and transform the Fintech compliance sector."
+    publishedDateTime: 2021-11-18T14:31:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 43
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/11/5-critical-ways-python-developers-contribute-to-a-fintech-company.jpg"
-        width: 700
-        height: 467
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/05/natalie-collins-unsplash-LifeGuard-Only-Beach-Safety-Protection.jpg"
+        width: 1144
+        height: 863
         isCached: true
-  - title: "Fintech collaborations boost the credit union advantage"
-    excerpt: "The focus for credit unions will always be on their members, including their members’ experience. But how does this translate in an ever-changing, technology-driven landscape? I sat down recently with Upstart’s Jeff Keltner to discuss a wide variety of topics,"
-    publishedDateTime: 2021-11-17T07:30:00Z
-    webUrl: "https://www.cuinsight.com/fintech-collaborations-boost-the-credit-union-advantage.html"
+  - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-11-18T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace/"
     type: article
     provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 24
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2021/08/bigstock-Business-Concept-Business-Peo-383458805.jpg"
-        width: 1000
-        height: 500
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 26
 
 secured: "bN7k96EDXhtNwtBW/ZOVphagPXyA4V2zRLiZBvsuvzy55CddL6iYUN+oTzZXHaBhbk9z0MukhG7H3MS4IUzOxMMPjNXCowhfIpHFrUeDUODOfLqmE+u5oMfVjUOGcf7tuwp4pYoaloajQleXtb4vBBI4Cqtsf4Liog4DPkhfZ9Qu+gQiZLRJLXKYmUkNGLdniPGFG9FJezgi2rpmT+VFlUuwlOn+N+UGIWCTdkhUpoYgz8LqJFx0bequ1HHB0vKlho/8i+OUB0ocG9jQPPKRGXk0H1PGZbdT/9i53R/zX+kFvVH/4Mb8coLe/nC/UrWReoYePDcZP7PUO0vdjQH6w9Rwb57GluR4UMkqp0656PZb76Y3NFTlD4Z2gyLrUiE264j5Jx3sz9xU5oFcPbrCa9gzWFKdGxZ3IBhWT+Sz9zmaBhBpix498OVo4+EcZv8IuTIyyf+2ikvlkS2SXMbGOiCvH+2AEubAFQEYuOVWMqtgWth9iUUbSllvnLZyG0LzLpzjsGvShmBFw1TK4W4YbQ==;j8gkP3qdWo9G5L3xjlwYiQ=="
 ---

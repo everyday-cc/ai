@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/apple-accelerates-work-on-
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle"
 type: article
 quality: 135
-heat: 255
+heat: 265
 published: true
 
 provider:
@@ -133,6 +133,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/sjm-urity-Patch-Instructions_88014743.jpg?w=1024&#038;h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Honda Autonomous Work Vehicle: self-driving that makes sense"
+    excerpt: "The Honda Autonomous Work Vehicle or AWV is a small, electric, four-wheel-drive truck that hauls building materials around construction sites."
+    publishedDateTime: 2021-11-16T15:42:00Z
+    webUrl: "https://www.autoblog.com/2021/11/16/honda-awv-autonomous-work-vehicle/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/11/16/honda-awv-autonomous-work-vehicle/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/11/16/honda-awv-autonomous-work-vehicle/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/5005x2816+538+100/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/11/15161213/Honda-Autonomous-Work-Vehicle-01.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Apple Speeds up Self-Driving Car Project"
     excerpt: "Apple wants to ramp up the development of its electric car with a new focus on making a fully self-driving vehicle."

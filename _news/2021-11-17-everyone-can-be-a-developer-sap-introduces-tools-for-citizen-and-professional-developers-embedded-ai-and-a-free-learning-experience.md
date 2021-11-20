@@ -38,20 +38,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Telenor does AI deal with Google despite its big-tech fears"
-    excerpt: "The Norwegian incumbent becomes the latest Tier 1 operator in Europe to partner with a Silicon Valley giant on AI."
-    publishedDateTime: 2021-11-15T15:28:00Z
-    webUrl: "https://www.lightreading.com/aiautomation/telenor-does-ai-deal-with-google-despite-its-big-tech-fears/d/d-id/773497"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 41
-    images:
-      - url: "https://img.lightreading.com/2021/11/773497/1747.jpg"
-        width: 500
-        height: 344
-        isCached: true
 
 secured: "cewuUPgz89kUcKpdvViQ6saLs4ssC1JM9mECtsUMuhnf+ASy6/iPkZ7WLtIGvxFUZsncROpqB7NBkJw6RkaNw4tRYVCoFsEQmn6Ar6cpq4GRGMr4+7JYJPHx0VbNjTmZgD1i9guG2NzPrGKralyngoRrAQ9e8Ww4UrnIxgg0gs7+0vsyzUJRKyTshSSeBSJ4oAXfGPQZ+hO9wloCOXhmEiThTWqXyISfjh/MxzrRINqH8whuIXIicCFJ3CZbwq2V8h4Ku7vJvktIdPBs30JzXXwN6MzZdSYVhWCEtuKzsRQYSOZiSM93McksC+ks/uhvyS6WuYJ+wbVM6ikzwqojJ38kCZAMg+InluKZIJS4XFnLBCfh2PSxCKQPz6wGE1BORf7ESW9X2ha4mWd7Cqegfts/AqRH2jyvxaWhWUhS9Dqukx3tdx1yq5LwqtxbnlkQEHcR7c6PTtgjzel0LEtQeuNRDJNeUPLwm6os1FZ4pYsUxFb2TNqYtIY/sOrEVogQUtBqXnJ5O3Vv/FLuGOH8pA==;r/vDDy4jxg7f3GmNHQNpSw=="
 ---

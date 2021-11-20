@@ -146,6 +146,17 @@ related:
         width: 800
         height: 2000
         isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market 2021-2027 skyrocketed revenue with key players John Deere, Trimble, Iteris, AGCO, IBM, Intel"
+    excerpt: "Latest research on Artificial Intelligence AI in Agriculture Market report covers forecast and analysis on a worldwide regional and country level The study provides historical information of 2015 2021 together with a forecast from 2021 to 2027 supported by both"
+    publishedDateTime: 2021-11-20T07:12:00Z
+    webUrl: "https://www.openpr.com/news/2468769/artificial-intelligence-ai-in-agriculture-market-2021-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2468769/artificial-intelligence-ai-in-agriculture-market-2021-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2468769/artificial-intelligence-ai-in-agriculture-market-2021-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
 
 secured: "CvYWTRo3mNdOdRpYJ02JiafngVpw1P6ZjVApUWWdPo77bBhSy8FHX15y5HE80q3JsISn2vrB2S/4cmDmXfSvijdjp5ruJkWJSCtHUm2hUSXYscxGZduvfbri/o6D+l19oOffe9jsWw2OctI5ouQaSHQXh3WWpV/38GxVhPnkx+d/5+vBfkzEeP1yvrZ+c/1MxWmnMBpnQKwOmhOkGCFHzJwnOe+Tm1FimaaUHCmuwXMsWD5aTVqSvZubwBOWdmJSAUo/fBcViM/+MUorpJ3VYhcnHbl9m2cSR1bS5MCegOJ3i24v1FNx9pFW+aZA00jnk18VDBZ4UZORzbf6zbU9Sh43nAVRLYFim1i5dPkXWBoDlCm6CjfeQnucgvDMu3+j9NwFGY0yhr7otTM+isUdHzW70hjvLJYyusdlOro/YeIJxqE0/52hyKaFW8KoLUEak1n1VRVKdn0jTYJ861WSUHKosI8yaPVVlbHwvHydJsK7zenaI9sg6+ccYK/y3Q5ARvPBiVLR6Jas1XSB05L+VA==;3NkPlL6k7DI4J28sNYh5IQ=="
 ---

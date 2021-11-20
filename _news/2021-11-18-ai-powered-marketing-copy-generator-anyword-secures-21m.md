@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 645
     isCached: true
-
-related:
-  - title: "AI Writer Startup Gets $21 Million in Series A Funding"
-    excerpt: "Writer, an AI framework capable of generating written content for marketing teams, announced today that it has secured $21 million in series A funding, in a package led by venture capital company Insight Partners."
-    publishedDateTime: 2021-11-15T15:58:00Z
-    webUrl: "https://www.unite.ai/ai-writer-startup-gets-21-million-in-series-a-funding/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-0ZTZoS4F/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/ai-writer.jpg"
-        width: 818
-        height: 514
-        isCached: true
 
 secured: "ogbxt/ZnI2uTao3fklztxiSdKafQQ2m7sTsoud5cjXx6elmGgZ6sCAShx0Kh/8dlE+bcG0Xw6IfmmQhovIYDJkveQCRcW64VPT63I80XBI7vXQDPwQZ+kvT6ZEQrY213adSUxN5XziXDqa0vETrrK+pq1t2WVj9x8SSPa5Y+tMeJotmpsHRvpZIAYQgg8op5UdA545pLRbiLiDGe+iNTxNLjCauJPx9pXX7s7PRNqHawtphlhlDj5BTLntgtEe6+CwhEV6SJxVbUk3mOgZOGcs2F8J78/Yc3dDSxYkoMdSNtIHTYKeB0U1XlsGswBfB6KK1Bk6+yz6XyfgMtEeWa3Z4q3ZmBT5d0ERLFwQ+KTBXwALoRH75vMlQjTGfI/2/9ZwQTChgLeASnJc7iVR1IZUoUCCU/L1BzBeVNQgpK4usHOi9H5JK3tIHLryqbBDI+LYrdIU629cXp7q9obeMuRGYbSRA/jzpR+YMLsc5CubKSPL7i/8ZG6fBkVfHcJepwrkaNFiiavS3dEy0XbDXcLQ==;euORf4iLdx/EEUvf+lVTNg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/machines/ai-machine-learning-palla
 webUrl: "https://www.siliconrepublic.com/machines/ai-machine-learning-pallavi-tiwari"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "'Growing virtual tumours and drugs designed by AI could be future of cancer therapy'"
-    excerpt: "Exciting work creating digital tumours, involving Bristol University, could be key to effectively targeting cancer cells, writes Dr"
-    publishedDateTime: 2021-11-15T16:14:00Z
-    webUrl: "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955"
-    ampWebUrl: "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 67
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article25460013.ece/ALTERNATES/s615/2_JS239592337.jpg"
-        width: 615
-        height: 409
-        isCached: true
 
 secured: "EMZ9wvtK+uOT8K2ISkxE5kiZFkt795hSKcI89LpNptRI5qkSZ+/6B8+hOyG32oSD1QNu/rAiH+8CnDB2FntoT0u+/eO6jHSOj7ezjUNVfLnJJg71CniFHWf6Xf61JVO7IHfO7HzK3qpJ4tWsR2rPLUo8vyh/qcr5bfMLQBan76Uo5pEtMwMTMyys5qhMiEv06gmIMqYvN6SfMPNa1JbaaQ+EDT7623tGwrAIE/RYIuRNrzABuWQzhv3Xgic9yd+/TD2ovpYLr6o243Z6BtWXkxnh57zrWqS/egXU1tHjkjSFleYkxiudt3RCCPrSxCosmi/W+a0qfDy6MW2tbK7rc+kKK4LX3iVBJdNy1Lx5Jct3ktXvS5WK73NM4W9ORGQ1vejqTsnTLgizGaumVrgoM/NMprpwNPQXhpqodljjNV2sp2KadLEwiO/F6qZCsqYAI+U9FDfFlJLBGMWGwiBP7/y4xtsWjo1oS22+MdzJ+MB6QnOVlITYCro6bVgthEWx0E82zSGWOAOFo1FlVQcYZA==;gfJHr0mhyGEvXId0xPnINw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c3.ai-as-cathie-wood-bets-big-on-artificial-intelligence?amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -20,15 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Stock: 9 Things to Know About C3.ai as Cathie Wood Bets Big on Artificial Intelligence"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) stock is getting a boost on Monday after ARK Invest CEO"
-    publishedDateTime: 2021-11-15T16:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stock-9-things-to-know-about-c3-ai-as-cathie-wood-bets-big-on-artificial-intelligence-1030977176"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
   - title: "Cathie Wood calls AI the 'next big frontier' -- here are 3 ways to profit from it"
     excerpt: "Cathie Wood knows where to find it Cathie Wood believes that she’s found the next big thing in investing — and has the data to back it up. We apologize, but this video has failed to load. Try refreshing your browser,"
     publishedDateTime: 2021-11-17T17:59:00Z

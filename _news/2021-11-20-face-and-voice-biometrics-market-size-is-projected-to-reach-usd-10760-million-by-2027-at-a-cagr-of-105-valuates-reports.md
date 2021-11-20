@@ -25,21 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Food and Beverage Market Size Forecasted to Reach Valuation of USD 62.83 Billion In 2028"
-    excerpt: "The global Artificial Intelligence (AI) in food and beverage market size is expected to reach USD 62.83 billion in 2028 and register a robust CAGR of 44.4% throughout the forecast period. Consumer shift towards fast,"
-    publishedDateTime: 2021-11-15T15:04:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-food-and-beverage-market-size-forecasted-to-reach-valuation-of-usd-62-83-billion-in-2028/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-food-and-beverage-market-size-forecasted-to-reach-valuation-of-usd-62-83-billion-in-2028/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-food-and-beverage-market-size-forecasted-to-reach-valuation-of-usd-62-83-billion-in-2028/amp/"
+  - title: "South Korean face biometrics data-sharing scandal gets worse"
+    excerpt: "Privacy advocates had already expressed their criticism towards the surveillance project, which now seems to have a scope wider than previously realized."
+    publishedDateTime: 2021-11-17T18:01:00Z
+    webUrl: "https://www.biometricupdate.com/202111/south-korean-face-biometrics-data-sharing-scandal-gets-worse"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 35
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/11/Artificial-Intelligence-in-Food-and-Beverage.png"
-        width: 1000
-        height: 600
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
+  - title: "Cruise line patent suggests face biometrics for stateroom access, personalization"
+    excerpt: "The multifunction smart door device patent authors include three Royal Caribbean executives, and Tascent Co-founder and CEO Alastair Partington."
+    publishedDateTime: 2021-11-15T17:54:00Z
+    webUrl: "https://www.biometricupdate.com/202111/cruise-line-patent-suggests-face-biometrics-for-stateroom-access-personalization"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/23131916/patents-ideas.jpg"
+        width: 848
+        height: 339
+        isCached: true
+  - title: "Toppan iDGate ranks among top 20 in face biometrics accuracy in NIST verification test"
+    excerpt: "Toppan iDGate face biometric verification algorithm has taken a top-20 spot in the National Institute of Standards and Technology’s FRVT 1:1."
+    publishedDateTime: 2021-11-17T23:18:00Z
+    webUrl: "https://www.biometricupdate.com/202111/toppan-idgate-ranks-among-top-20-in-face-biometrics-accuracy-in-nist-verification-test"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
         isCached: true
 
 secured: "DLA/IYrogNW+9dRVccjqtvQlOe8mQHignh9N9f76jB4RlfPJ0AZKccwORGV2PtaR+5oC9kZRWMY8k7n21AWq0wcaPMsXAdJu9XXEMdeT+BL+/vqq5F/CgH92VouG+1NHtuI/tSNeFHWFFP+/vmvJnTXRJ1Sbq55++3CgcppH1diXZNVKuGRdNHCac2vxxOLY8pQ+E/5Pzo3/zURKUrtUmEUxjIUfrHwMNh4yK3nZngaqA02kadcO4wTgBepLGFgDOzQaDQBpBGWMiqyFoBqrbHu9Cxw9XQrco9OuEdxcnVQv4v+fqSkdNMqA7kVBzK5Rkzs0vLDkgXoI6Ub5q8oy55oGujuhbpjAL5VfzF7tJiJEKGYnDqiOJdpsJ+ANyYbuEeIURdwnuWB9nWT1TtYHK93vTqvlHQQ7MCAQfztqk+yciPDgcUB2K8Zv8y6wtQ0pW1Ot1Mm+HEXT9HbGBozyNiQSEbxQKTh/6uSRfNy9JGweaUijG1fc2SxJaptVdQ7vYwxk3eHAPV9Ss4UQ7/a2Hw==;jMKfK50f5QuX7eJWc7cC9A=="

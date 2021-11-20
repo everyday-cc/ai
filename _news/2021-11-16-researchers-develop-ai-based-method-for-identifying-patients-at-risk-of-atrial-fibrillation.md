@@ -53,15 +53,6 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 37
-  - title: "Artificial intelligence–based method predicts risk of atrial fibrillation"
-    excerpt: "Investigators have developed and tested an artificial intelligence–based method for predicting an individual’s five-year risk of developing atrial fibrillation, or an irregular heartbeat. The method could be used to identify patients who might benefit from preventative measures."
-    publishedDateTime: 2021-11-15T15:48:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/934931"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 16
 
 secured: "oSLl8ANHsTaCIGnayPpmOJg2KDHyUgEXZlMJZEyretEwkN5/1tK9ANoo4PtkftX/NShiuLMIeikEgP6YU99+yH1j2Pd//+gBNNWIr4y7kuXe2/OeWr3DnCm0+HiOnyDTOzv28XafTwUWC44tBXJI2hiVVmfxK8xjCo9oL1IeDCwiStPoCNpsyI1Bn25G/OD7syhAeXfESbLG3bCi9CwUB/m2a6Zp1FpkBRvtx+X614MjwEeHACiIBp9wLeFvSAoyuCiH9/qvoUFD74V8L1G+oTgVbTzR/xd2scJMVYps28nu3nxtNdcCYad8c1poecVMZYmAJPdCMfivxMk37VSWVVtZw6Gqno7euMbF/fvxq58=;kbrVgHZGEm5wVV4Xw6yJIg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 652
     isCached: true
+
+related:
+  - title: "How artificial intelligence is shaping the latest trends in baggage handling"
+    excerpt: "In this thought-leadership piece, BagsID Network discusses how AI can be instrumental in revolutionising baggage handling."
+    publishedDateTime: 2021-11-19T10:39:00Z
+    webUrl: "https://www.futuretravelexperience.com/2021/11/how-artificial-intelligence-is-shaping-the-latest-trends-in-baggage-handling/"
+    type: article
+    provider:
+      name: Future Travel Experience
+      domain: futuretravelexperience.com
+    quality: 34
+    images:
+      - url: "https://www.futuretravelexperience.com/wp-content/uploads/2021/11/Bags-ID-baggage-technology.jpg"
+        width: 768
+        height: 403
+        isCached: true
 
 secured: "J7lF4Z1I3/8rqUlzLioVunrYa2ynP94Euc4HLte/nOvYgF9yxcgSg/5x0SstPhMUsBzwIDkNLry5H5lkHJCmXfOJCrn2wKMnukXoakkTXKUg/i6g1ZTPhSOAqM7QoDXed92e01i+fZ0L2VkO5yZeWQjHaL57pGD+qU+HRdRqcHcvkJxpyjItxZvDaBKv/YL4TVo8VrgzFYkQfb+pf461JYyIdGHolOEohDbujD7yi9MPj5bHYpDj47a1bblC5FWae1orjKpsZpToA9tCCipUUTaWlgN2Xc+RAkzkqRUY965un03Asoa8+f1LWzxtjE6rsAYRhIqizN/wjX7vpSgzWSS04YY9bdDw33H+8R4z45ffNFB7q4trqOBokYkIuGRDBJly6raKZICg0VL0ccjqyN+nUmQ2AePwo3q9IMck1RswElZ1hlLhQbwYrOSS5npjYazrIWrrKoJ9BPh4+ApQdPR2VNKat8BsrAD2m6mY6uFRipODhO5uciYsb4XobaPQzPgWz4SGivaqJEhChsfYag==;2po75Ft7bmcHwWLThWwi8w=="
 ---

@@ -36,15 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 73
-  - title: "AI Stock: 9 Things to Know About C3.ai as Cathie Wood Bets Big on Artificial Intelligence"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) stock is getting a boost on Monday after ARK Invest CEO"
-    publishedDateTime: 2021-11-15T16:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stock-9-things-to-know-about-c3-ai-as-cathie-wood-bets-big-on-artificial-intelligence-1030977176"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
 
 secured: "OtM3a1UrRqAiiw+jUn06CcpbaJql3N16BXSBJG1HQLxJkcmiQCaOQhyGfgjolcXOSCQ3/DVscoIwacFAKVYNG8FeeAfFHMWAkW7H/hS1RsHNbIIB/hVqnYht7zu+ynM/NQarYAuVW8tD+mCVZVDSHVmQfouKL7xIjPEXS+R9iK5eq7cI0Trmoh9P6naogL2dT3tgmr+Q/7n+28UyuhJd04KFlBoysET6qWmuk9ZDnCprHEQnQBP4JmUInRDpJReDfEO++xdKXYDR637oIT3DJwDuS/4Fxzfpn4MXt03dCZikc9uP7xAkx1AlStDkFjiwNPH8GGOo/4tnkV3KAG384PDUZwnOWsHla1cdVPD1zoWKSSJx/p0wiirqIw+HP9UAG7ib81AxN+tOnYL4mPzFfUQaMZSigX8U3KxLBLCZn9371R8TRVXT3CXYNyoezszDjAwbv3ePUpq2fa2JOfmC2nvD4NuvS3iJCRWo0TAG8xjBfHwu50IiyxE3NUBfwqgNPXYBbgdZ+vSe8QloY3DRMw==;LNijO8+sBQC4+OmvHJeOoQ=="
 ---

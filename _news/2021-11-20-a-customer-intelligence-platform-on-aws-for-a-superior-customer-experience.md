@@ -24,31 +24,6 @@ images:
     height: 625
     isCached: true
 
-related:
-  - title: "Qualtrics and AWS Expand Relationship to Transform Customer Feedback into Enhanced Experiences"
-    excerpt: "(NASDAQ: AMZN), and Qualtrics (NASDAQ: XM) announced they are expanding their relationship, with Qualtrics migrating its internal IT systems and customer-facing workloads to the world’s leading cloud."
-    publishedDateTime: 2021-11-15T21:00:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Amazon Web Services and Qualtrics Expand Relationship to Utilize Customer Feedback to Enhance Experiences"
-    excerpt: "(NASDAQ: AMZN) company, Amazon Web Services, Inc. and Qualtrics (NASDAQ: XM) reported expansion on their relationship with Qualtrics migrating its internal IT systems and customer facing workloads to the world’s leading cloud."
-    publishedDateTime: 2021-11-16T19:05:00Z
-    webUrl: "https://www.financialbuzz.com/amazon-web-services-and-qualtrics-expand-relationship-to-utilize-customer-feedback-to-enhance-experiences/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 4
-
 secured: "ra6FZ4M27sv6GUOQOwZTb9N/dEeVp0GguU4QZxtbYAyfeMBqmpDGtu/9/6f2YrolwYRpIAQXjFaoiLdk6+raSF0Y2AJS6dg06swd5v1puob/JB055peuaItpa+y5G1xtWTRpHmQH8+QBv6W2QJiRr8o4IMQ3iD+yWCAByZBTUxdojwmfxg8Uo2kxxaaLplMa3K7ReanHrwq4vz0PTG0tulDp8As4Tut8ePAkBwccKhjTbIUORcIDBomzMGscJzjeXqyf8XHM7z/5LUhikxDzzc8a6VA/9NxMcg2s0pIS3s+SgNje9XW6jW5S6yWiF0iTI0eRbgyMPWw+z0QFAqTfC704am8K51nMic+hvTe8s3Y=;STQQenBSlYwNAGjxpW3fcA=="
 ---
 

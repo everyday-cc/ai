@@ -1,31 +1,29 @@
 ---
 category: news
 title: "New Book Discusses Essential Digital Skills In The AI Age: IQ, EQ & DQ"
-excerpt: "The new book \"IQ, EQ, DQ: New Intelligence in the AI Age\" published by Dr Yuhyun Park, a world-renown expert on"
-publishedDateTime: 2021-11-20T03:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/g24208062/new-book-discusses-essential-digital-skills-in-the-ai-age-iq-eq-dq"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/g24208062/new-book-discusses-essential-digital-skills-in-the-ai-age-iq-eq-dq"
-ampWebUrl: "https://www.benzinga.com/amp/content/24208062"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24208062"
+excerpt: "Is the China's gaming ban a right decision for children?” As the creator of Digital Intelligence (DQ) which is now the global standard for digital literacy and digital skills, Dr Park touches on a broad range of topics in the intersection between technology,"
+publishedDateTime: 2021-11-20T05:40:00Z
+originalUrl: "https://menafn.com/1103207965/New-Book-Discusses-Essential-Digital-Skills-In-The-AI-Age-IQ-EQ-DQ"
+webUrl: "https://menafn.com/1103207965/New-Book-Discusses-Essential-Digital-Skills-In-The-AI-Age-IQ-EQ-DQ"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://marketersmedia.com/wp-content/uploads/2021/11/89053615-thumb.png"
+  - url: "https://menafn.com/updates/pr/2021-11/19/GN_73b1b2f4-4_Image_In_Body.png"
     width: 480
     height: 480
     isCached: true
 
-secured: "fJs7FxxObB7SpZkq4Lnzrz2uznwdiLj57dE/yF1jgP2YsMjHSSusdwNLsZ45sI7uR19/M2UnA3yiHqNE9g1/RDYdFLloECmHOn7lKskXq+355w7HppnYExalutiQKQVaTUhux9wQqwQ5yheVHsssDeBM8WU/Y4v7TYn+SICiTnf+yjV/vFniIbvJ38pzBSQRkfMA+vwXOet7M8UnORuwxSA7zPeOLNK0MKCXCP+u3EU2/lp46Z/hBL8s31ntOZ49OAAZX4YQym9Qzb3L6d9g09Lj53h/z/umQWKVfSVya96K1hBGoJZNkjwTbFlH9oIAMk2bZfMrjYFgkyg5UqXwWXGguKh1zBBmzp+RWE1wB28=;Xi/FIU2e3xWIGZHkTqPXtw=="
+secured: "x2vK2yHeH/1fl23O1C9eFIGB+mjjYt/czNeuYhwWGZdEafN4g7O1fI31Sl8N1Xfifg9uqlk+F0Jp6hrGMIxt4QDTdUGMNV5zeeb6uQbGmD1QeU/iCxM8rpB68c8ewGUUnCXHl4a8ruK3aMBYygiscjnUAVasbZO4So9nus7YlA37mNRkFG7akRR6uvbtNlqxiCU4inwmvhq/PRq0g9hfKhUVhk7akML0QwxYK8Wa7kj4vL0gDbLdM3KRVEh4fFKczoVlk2MTZVKk8WpZv1Gxe/mS3g8L6dHOl9oy1Ud+S5FbG4NtG0OMZb9l0VLgcEPb7yZuGNBe6Txa4tyTGxWMs8Yo3Lyb8kgfEcN7Yflv2uM=;SaYxRcxFxiofDiPDTTnrIQ=="
 ---
 

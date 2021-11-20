@@ -20,19 +20,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "A Customer Intelligence Platform on AWS for a Superior Customer Experience"
-    excerpt: "Customer experience has become a strategic priority on the CEO’s agenda. Enterprises now consider customer delight to be a differentiator in the marketplace. Sentient technology is critical to serve customers better and be responsive to their needs."
-    publishedDateTime: 2021-11-19T21:04:00Z
-    webUrl: "https://www.cio.com/article/3641235/a-customer-intelligence-platform-on-aws-for-a-superior-customer-experience.html"
+  - title: "AWS becomes Qualtrics’ preferred cloud provider"
+    excerpt: "A software firm, for example, can leverage Qualtrics’ platform to gauge user responses to a new feature before deciding whether or not to release it into general availability. Qualtrics has partnered with AWS to modernize several key components of its information technology infrastructure."
+    publishedDateTime: 2021-11-15T21:00:00Z
+    webUrl: "https://siliconangle.com/2021/11/15/aws-becomes-qualtrics-preferred-cloud-provider/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://images.idgesg.net/images/article/2021/11/istock-1274394138-100911858-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 625
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Zig-Serafin-Enterprise-Connect-2016.jpg"
+        width: 1444
+        height: 963
         isCached: true
   - title: "Qualtrics and AWS Expand Relationship to Transform Customer Feedback into Enhanced Experiences"
     excerpt: "(NASDAQ: AMZN), and Qualtrics (NASDAQ: XM) announced they are expanding their relationship, with Qualtrics migrating its internal IT systems and customer-facing workloads to the world’s leading cloud."

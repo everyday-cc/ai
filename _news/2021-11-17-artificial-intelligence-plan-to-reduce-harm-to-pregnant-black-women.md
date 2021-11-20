@@ -8,8 +8,8 @@ webUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_po
 ampWebUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg"
@@ -55,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/gy9cDMe7NqeJ/jaMpsCLf9FLybc/eWqz4MMzniMzjpVGllx0vMwDQgM2UIzG1WWe3l8oau7K338h7EmdS6XEwvUMfccJCWruMDK3RvfzuFCfHAkEQnMTvuLr/Wm8XNBMh1Vg5mW/uyCgWlFJnrewVIhqmVrpr5BkMd3bjU372B6YaFbZaxwrJ2svpmnbu8f4SAAVSFgQbDQ+6162s6sAHQqfB80kOT/V6HXNHaXi8RfhxTKkXIgZCyJACgqaEXWNYjmxqqkaD80TKWXcYq1SfcfPxL6O9/Z+HFeb2oEfkLXAPMv9e/5b1T5iEvwO2K9qXvGY7yHt1hC87kNu+y9ub1nUhcTpogkv1okgU5W2MU=;c2yEluVjqPnYg+KsE1z8fg=="
+secured: "V8GTWLum1W17LC0nDfA7SohcOqikpGhmCEfY46qnxz6BYxkKEBy7vPloYjvYPefIyYiWNoeC5FW6sYu7l/INNMkBuNcBZb9Pdbv0sKv55tVj94dGdKiSbfntIMPDuoQrY4ql7aKRfV1hZ0h95c+HLnkqy80PbW2YFDTFTkCQ1qIRdRh4sTolANrvXY5F9p2hOxMS7bC0bMWGgmexKkrq565twjqjKgvFIt63sHp07CGStBsH21XWawEZwn2iFLa4MIiQuRB9/a7/WRxVvZgS3d2yqtBuPDhI9BRD1SztR2kdh0zGQRxft3d9xk+19zU4Thv9Rh5HD8zdf64v5qhFgIgumTsBcGV9KT2OPuDsgN8BJl8sZjnwbgNgnOezAucIhiFAcxrUq6IVvOFY79pT8ouF0M+8NF+XUhS9jtI/piwsOYb/lY7mFQR4mghTGk22TeXvyg3ky0HuifgdE2J4+z3sB86+2/5LvRySl9QMviE3jXkjkGOBg54R6YBLCuh7HQ38ueEN5OLa5OK/KcTZ8w==;0bC1Lj1/nHuV/7PYYDEdIA=="
 ---
 

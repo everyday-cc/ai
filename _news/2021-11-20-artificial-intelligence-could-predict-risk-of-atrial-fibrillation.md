@@ -52,15 +52,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial intelligence–based method predicts risk of atrial fibrillation"
-    excerpt: "Investigators have developed and tested an artificial intelligence–based method for predicting an individual’s five-year risk of developing atrial fibrillation, or an irregular heartbeat. The method could be used to identify patients who might benefit from preventative measures."
-    publishedDateTime: 2021-11-15T15:48:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/934931"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 16
 
 secured: "/R5gOmU2nKmtMcaeBCFMn6Xr1fl9A7QjAp0tat15FC8qpNZH7enIf5q/Yj5kBb0Ybo4LNrSSrxVag4OwLZagv43V6CJftuWE88MPbq9bM4++dp/S4VndvgIUrM1mZGUQjFFnM3ot0TK9KCfSdqsSSp5rUq84o5tWBBBF2QpRy68ORdvdatAVFQc+Km7qBiv3D35i0qSdBPJ7Jb9R8VlnbahL1jDVpQt17hzGOJTo4/Z8NpFehw+zjmRZ1/PLDj3tR+DL1PoRshYI1XjoqEKqiCgDlJVw2DmHPXpRD7eOlXjeB/UZeUFS/77OEY4jDDsdYfYtonAqz6fJ7un8nbMdvQlECYgMxwG87lfcgUv+zNZ3xno3ojZyagDuckSKJbsC8TfNHIgsHW+Q1T8Z2Y1CFKSYT6btnwNoO9gItrs/sCEo+74P8B0Ydsa7tqRBcuWmAnI8qMjusP53KevsbQsIx3E82YlZ2Knzf3ZOOERsFTvB2carnwT92tn0lDr664SyiMNT6sBQ1We6CR4y4qTh1Q==;v6oVzqWFj+DD5T9qjBWSzg=="
 ---
