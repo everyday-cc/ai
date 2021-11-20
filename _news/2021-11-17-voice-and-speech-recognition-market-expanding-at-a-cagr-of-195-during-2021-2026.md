@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 782
         isCached: true
-  - title: "Facial Recognition Has Its Limits. Just Ask the ‘Super-Recognizers’"
-    excerpt: "Its inhabitants are caught on camera about 300 times a day on average and the British capital has become a testbed for police use of live facial recognition. But the technology, which powers a mu"
-    publishedDateTime: 2021-11-16T05:30:00Z
-    webUrl: "https://english.aawsat.com/home/article/3306766/parmy-olson/facial-recognition-has-its-limits-just-ask-‘super-recognizers’"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 41
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "su7kCdPeFWx8bFV+hkfrDY00nxXFQZwjT69l8wj3LSw7t+ms7XHAg4lv+YO+UtkgQN/uTCx9NoYLDyS6ghuUy/NXq0aro76iNDeEm6LoJadR2oIMHhV8OTLwgDNNe3im/GGEcWZB8qQACFmr/fslR7HQsk97gszR/PXUEiwypI2qnGvhSGoe1HKUvbELyYu8jG5ErXOOa/VRQmfmQm8ghL49BlImSnXbF1yIoNpmQAV9fUeryF7rUAJxyJx/6TZ0qyxN6BmsJLdfJ3JAlew0TsjL8VOnlXXrjeXXa04uQdbZ2Suyd4eRUt9L6vNMqx4IlgSRazi7LXT0f5bowCNWbJsHiSV2p+h4kUGDwI4qIcQ=;yB/qCbe09WrGk5BQX9jazg=="
 ---

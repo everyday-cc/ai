@@ -9,8 +9,8 @@ ampWebUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intellige
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: BizTech
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Improvising claims processing for the insurance industry by use of artificial intelligence"
-    excerpt: "Eventually the use of artificial intelligence in the immediate years is expected to help claims organizations adopt a more proactive mindset"
-    publishedDateTime: 2021-11-16T06:09:00Z
-    webUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/"
-    ampWebUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 62
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "Ways AI and Machine Learning Transform the Food and Beverage Industry"
     excerpt: "Artificial intelligence frameworks produce more secure, precise production line results at a faster rate and with greater consistency than human"
     publishedDateTime: 2021-11-17T15:33:00Z
@@ -69,6 +53,20 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2019/04/online-shopping-reviews-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "ExdionACE Platform Revolutionizes Use of Artificial Intelligence in Medical Coding"
+    excerpt: "A new AI-driven optimization platform developed by Exdion Solutions is pioneering new ways for medical practices to optimize coding and increase revenue. Known as ExdionACE, the platform interfaces with a medical practice’s EMR systems either through a process automatic route using bots,"
+    publishedDateTime: 2021-11-17T18:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-texas-plano-artificial-intelligence-f478bc88ca5a4580b5c525d18a4125b4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "WymUXRQRzNvOrLc/Ly3XwRWowSD5u55u3n+BcC8tsLUpEkOvbPT3OLDR9E09WX3pVjZ/OKJlew2JMYK87lYLdA6eQ0Fo1qhVMx00TG6eeKp5RXANSJ2jTmUayCXbXuEhGBA9xQkjP94AY55c4BYUZuaXP0zjZAYizK9DLXF3V69p6q/mdZIfVVhz2jZaVYstp9nz9YyWalZaXScpzKnk+zVdLieQLiEsXlzEzjuqAK+cEVHoCET0LjLOl0ccWiLlRbugRQrrHfGkYEYGTA7/RdkQBd64PhUwaXuZpIyFW4nbmUAhvP7Ik8MKX9nFi8OAzBKYTHJrCj0+Pc9zjHhhP9flRYFQ+wUH026hBdMRHeBC8IyPL4U5naohORS4NhVQlVA53dGIlY+Jrhr8mtsI6Pe/3FYWlup8W7FDL0N+6ZbfM5/dKvGrAPMVeoLxAvDC87Ujtx/mfoKHS/0f//N9AFwDtf9THFr3fWjiWBt7UEgz4o5v68N1cNZtrXfLyy0ZUiLboGVESIXA/DR98BMyaQ==;24LXvzI8vCdC+0ZMeLYx5A=="

@@ -51,6 +51,17 @@ related:
         width: 2560
         height: 2560
         isCached: true
+  - title: "An agony aunt for the AI era answers your ethical questions"
+    excerpt: "App created by artificial-intelligence experts tries to help morally conflicted humans."
+    publishedDateTime: 2021-11-20T22:00:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times/opinion-and-analysis/insight/2021-11-21-an-agony-aunt-for-the-ai-era-answers-your-ethical-questions/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/opinion-and-analysis/insight/2021-11-21-an-agony-aunt-for-the-ai-era-answers-your-ethical-questions/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/opinion-and-analysis/insight/2021-11-21-an-agony-aunt-for-the-ai-era-answers-your-ethical-questions/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 54
   - title: "2 Artificial Intelligence Stocks to Buy for the Rest of the Year"
     excerpt: "And investors’ interest in artificial intelligence stocks is evident in the Global X Robotics & Artificial Intelligence ETF’s (BOTZ) 38.1% gains over the past year. Given this backdrop, we think fundamentally sound AI stocks Gartner,"
     publishedDateTime: 2021-11-18T14:30:00Z

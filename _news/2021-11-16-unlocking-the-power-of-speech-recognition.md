@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Has Its Limits. Just Ask the ‘Super-Recognizers’"
-    excerpt: "Its inhabitants are caught on camera about 300 times a day on average and the British capital has become a testbed for police use of live facial recognition. But the technology, which powers a mu"
-    publishedDateTime: 2021-11-16T05:30:00Z
-    webUrl: "https://english.aawsat.com/home/article/3306766/parmy-olson/facial-recognition-has-its-limits-just-ask-‘super-recognizers’"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 41
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Voice and Speech Recognition Market Expanding at a CAGR of 19.5% During 2021-2026"
     excerpt: "Voice and Speech Recognition Market The voice and speech recognition market reached a value of US$ 9.9 Billion in 2020. IMARC Group expect"
     publishedDateTime: 2021-11-17T11:42:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Improvising claims processing for the insurance industry by use of artificial intelligence"
-    excerpt: "Eventually the use of artificial intelligence in the immediate years is expected to help claims organizations adopt a more proactive mindset"
-    publishedDateTime: 2021-11-16T06:09:00Z
-    webUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/"
-    ampWebUrl: "https://www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 62
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "How Artificial Intelligence Could Revolutionize the Insurance Industry"
     excerpt: "The introduction of usage-based insurance, however, has created an effective means to provide the right insurance for the right price — based on specifics, not assumptions. Now, UBI is about to gain a power-up through the robust computation capabilities of artificial intelligence."
     publishedDateTime: 2021-11-16T21:25:00Z
@@ -70,6 +54,20 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2019/04/online-shopping-reviews-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "ExdionACE Platform Revolutionizes Use of Artificial Intelligence in Medical Coding"
+    excerpt: "A new AI-driven optimization platform developed by Exdion Solutions is pioneering new ways for medical practices to optimize coding and increase revenue. Known as ExdionACE, the platform interfaces with a medical practice’s EMR systems either through a process automatic route using bots,"
+    publishedDateTime: 2021-11-17T18:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-texas-plano-artificial-intelligence-f478bc88ca5a4580b5c525d18a4125b4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "h1RrBrsKP7P3alOXiBDdJ9TiKIIDaw/5B8C4vjM+Uy7Db+gZssfWHmzUAqy3jkSt4oFDZIyZagAOS3NulK1QyzsWxPEHsKuJ3UU8Z6MVVs3hhzYpaLhJ6YvMTPCmX0ZK8MYhf/dBjUoAY6W3SHCMf9H8fkT4gj4fucdNny3e79pj4qjniMfcxL663ZCeTiN2GBJTJdBfUm40s4IZLsX8x9t/+fAmUa+YdX98OLns0KIqC3O1z8mx9ggFP/SBBEvkq9qIJQc3UZsm17gU5UZfRDevJakOQJEME7jS2GH5CpE/t6TWsuhfrr9WM3d/hTSR01mJpJa6lcvPcNms6JHscu2eDdY3OL5TJu/1sGoDiCIXRV2K/WPSp/NcvYPPOP3vIwlik5PgD7A0elK2KJPCNTuFcBphtn5Lms5zcD7+ChVDYwyPg2JHaqyxV1JX42q5wldoF41Qjxeg4p7xCAC49Vks3HFIo0uT86a9n7ltTvn8DxJaWLsXkOrWMaJua8HDJWKpDbrweq76gba3/+JqKA==;krRT424MVl2FwUG4zhnS1Q=="

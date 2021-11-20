@@ -1,39 +1,41 @@
 ---
 category: news
 title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
-excerpt: "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services & Insurance"
-publishedDateTime: 2021-11-19T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html"
+excerpt: "The global Face and Voice Biometrics market size is projected to reach USD 10760 million by 2027, from USD 5294.1 million in 2020, at a CAGR of 10.5% during 2021-2027. Major factors driving the growth of the face and voice biometrics market are: Face & Voice biometrics solutions are being adopted around the world because of factors such as rising demand for effective fraud detection and prevention systems in the Banking,"
+publishedDateTime: 2021-11-19T14:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-face-voice-biometrics-market-size-projected-reach-usd-/2021/11/19/9496927.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-face-voice-biometrics-market-size-projected-reach-usd-/2021/11/19/9496927.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
 related:
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market To Reach USD 4,799.6 Million By 2028"
-    excerpt: "Reports And Data The increasing use of connected devices in the healthcare sector. NEW YORK, NY, UNITED STATES, November 19, 2021 /"
-    publishedDateTime: 2021-11-19T06:55:00Z
-    webUrl: "https://menafn.com/1103203315/Natural-Language-Processing-NLP-in-Healthcare-and-Life-Sciences-Market-To-Reach-USD-47996-Million-By-2028"
+  - title: "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR"
+    excerpt: "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which"
+    publishedDateTime: 2021-11-17T08:37:00Z
+    webUrl: "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
+    ampWebUrl: "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 52
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
     images:
-      - url: "https://menafn.com/updates/pr/2021-11/19/EP_9c3dbimage_story.jpeg"
-        width: 300
-        height: 300
+      - url: "https://cdn.openpr.com/U/b/Ub17570915_g.jpg"
+        width: 800
+        height: 800
         isCached: true
 
-secured: "dnF69QWezgP/fHZ/Ns0+wUZJBBYM2fgeDEYjkQIVJIUg1boLRA+2cUPEKjmbqWfrjwHKYdt4W29GsW84ECzjIvtXznPUdwSCCA2w2CRinN4X5FoIWpaCh6xVujMAOVIMplRDe6i8UzM2jALmsYndKxyghiKDMf7e7RpveYiW1axez+WZj7NCjgct7sJVZnjRkgXQfBlqdhfHyLwtOCqf8UZ+tobMVeLq71rGcYfLBDn7qUhbZEVBLlEWrj2Pr+4A5D0BoqCisTrsBreeUsySwtL1+B6lWifICd5tftFP2Al03+kpNdyn2qBZhEB78GqISrMdWH8pRlVjkdGJNhw1vw5fOgzkBV/rElICsR768oE=;X1tGFG+bkmDZKx2zQV4iQw=="
+secured: "+J86QR+2HjYuzrvNPE5D+DYVe6kKwmp6Lblb1Vi6WofsNodmOEvRlBALmZ/uO4QhFPG2xFrPEPVjR/RpzdglLcIKYO0mGSV5gbvUiLk6zoJ+WewpkOww5a/lceTlOA262niQKwzC+IExGVwDGRzmaK5Poy4BMbQ7//rboKLsUvH+pXe9mtqBkjm++GIUEw55g5/sGUFiniNTF335YJmrQGk3vE6WcOpzw3NyOhQZizSSoTnQJzROPqnZLHMYpR+jB33phHRor6hFQbFHL1fwHXgjIHNJR6DOUwajiHl0yo7LmyxGPyuXd1UJCEVtHrmVlqk0EQIAJ/RzMFNMFX5jPFD5P57fikAayMRYGuD82Pk=;p4WNve0pfJfjBSVKyT4MIQ=="
 ---
 

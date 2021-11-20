@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
-excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
-publishedDateTime: 2021-11-16T20:00:00Z
-originalUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving"
-webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving"
+title: "CNN Tried Tesla’s Full Self Driving Beta In New York City And It Didn’t Go Well"
+excerpt: "CNN Business published a video of its transportation editor, Michael Ballaban, attempting to use Tesla’s FSD advanced driver assistance system through the streets of New York City. On a number of occasions,"
+publishedDateTime: 2021-11-20T20:48:00Z
+originalUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/"
+webUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/"
+ampWebUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
+cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
 type: article
-quality: 34
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: KCRW
-  domain: kcrw.com
+  name: Carscoops
+  domain: carscoops.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving/@@images/rectangular_image/page-header?v=1637102384.82"
-    width: 1460
-    height: 821
-    isCached: true
 
 related:
   - title: "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great"
@@ -105,18 +101,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "CNN Tried Tesla’s Full Self Driving Beta In New York City And It Didn’t Go Well"
-    excerpt: "CNN Business published a video of its transportation editor, Michael Ballaban, attempting to use Tesla’s FSD advanced driver assistance system through the streets of New York City. On a number of occasions,"
-    publishedDateTime: 2021-11-20T20:48:00Z
-    webUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/"
-    ampWebUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
+  - title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
+    excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
+    publishedDateTime: 2021-11-16T20:00:00Z
+    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 50
+      name: KCRW
+      domain: kcrw.com
+    quality: 34
+    images:
+      - url: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving/@@images/rectangular_image/page-header?v=1637102384.82"
+        width: 1460
+        height: 821
+        isCached: true
 
-secured: "pyezGh9ldaqG/vKvYL7S7i+Vo6iVq6GA0ahPqganoC9DWabqjpzyl3sLBdsskDhSOCv4WGS+FMrFcKOmSmLFRsyKD9bbsyrOf2+DpJfh+smB7QEHP6hCJQg6YSE35LDs7I+MQHEsHX054918A/0BPtFwMBBgZ1vqePyT1qm31WPvuvDKvaWzkHqNNBFYFjRuTzROjvzwzvMKpkMjLqcZSwBUGNlY7oMusOmDH+wV4l6sCCUd+DpGiMSbxc8PPUJQ9PeQ0wQsXP9jTGpbXf8mBvUDLWfs0klPJnmCr6ZyoLkM0HRE6ZaYJOxizHeMpASojhvvDiRPrzrIltI1QnPcUJU2ukcmKm3s2YY7TQ8Y4XeIizDkIfArDr3Matk3SM2nnaGOQBEWOWoE+SLiiSVe3QKrF1o5sz+z5T57Q7QOjy4zMlPf36mfXBBxSJJkPnF6/MytarGguW6MDT9BI0B86gsJ++Ve3CigTSvyhtkWPPzxQkv0Bs8DOgDOrGtISj9qamNci+rKZ5zW5Aqr29Z+9Q==;FeeyG4km8XMkwifBs51Osg=="
+secured: "+QSV7WQHYNbZdW/GzUvAk/B4YmpVDkvE/adfAt5JpgH9mgvnNmmwOTQ/PRe+Zn7HKX3zWqTB1UMP3NVE8PhHV8YxzMkkdTLD5VOWhOgGYEJaf34IU94DNjrYbLD965hEhRvd1ABLxeSfVxkWZ2xvtqiqh7EOV1Cz977D8kHriCt+WcF0LyhpcTZ6FsGy7Y0CaYZZ0VF0l7UqF85WIytn3gM9r9/OQem/ykPLvLVszo5yDQCk5R4uNdtQJH6vZiJ4LkL+hfBMCJ/OYSwxLEOQl+x8BN1Ga5V4W/OTUkE2wRa+gHL1oouAVcboaSyLs6UahlHJW6MqYcxtmM4/nAc83gahNFnIt3OZOyBoy+hKiH888hqG0K4nOruVApUjMmeaL86vfQyGBggCRmrEjMRY0rIF1v4cr/MhRb1L/G8obQY40wTKSSz/C/TrbsPtdCWIiX+Ay20kMM6oK8XYsYFrd+iptAdmM42WFj/X9PprfXhtVkOZZJGZA/NDPZTsDx62SsYA0U24QUwjXuuSLWociw==;wIAgJFbQegkvbS1jduU6kw=="
 ---
 

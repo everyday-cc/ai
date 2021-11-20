@@ -2,25 +2,25 @@
 category: news
 title: "Global Demand for Technical Talent Transforms Mexico into Advanced Technology Development Hub"
 excerpt: "NDS Cognitive Labs, a leading digital transformation solutions provider serving the U.S., Latin America and Europe, announced today that NDS Technical Talent is now available to enterprises worldwide."
-publishedDateTime: 2021-11-09T13:50:00Z
-originalUrl: "https://www.lelezard.com/en/news-20092166.html"
-webUrl: "https://www.lelezard.com/en/news-20092166.html"
+publishedDateTime: 2021-11-09T13:32:00Z
+originalUrl: "https://www.citizentribune.com/news/business/global-demand-for-technical-talent-transforms-mexico-into-advanced-technology-development-hub/article_c9709e40-01e4-52f4-b716-c0f6be15f593.html"
+webUrl: "https://www.citizentribune.com/news/business/global-demand-for-technical-talent-transforms-mexico-into-advanced-technology-development-hub/article_c9709e40-01e4-52f4-b716-c0f6be15f593.html"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Citizen Tribune
+  domain: citizentribune.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/2/6e/26e26558-38ef-11ec-94f9-ebf5308e1754/617c4caf79471.image.jpg?resize=1200%2C800"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "und9mjSqCRSnwCmdA3s6yMSKAymyWlCA0uCqJQw5lxgBb5sSsU6S2pOO80HaUQ/FdhplXrxcDrVe6uTOu/qie9IaoddR2WvbbFA0Hx72CTJUu2kJH4EvzR+7BCpRc0Et9lB4DTuGiOq6pPYi+/o3K4GxoNGLY4VTuAA41sDEcO0EGM7qg//AmU+tcjxYG2xcUFPu2Y/WcYtDrYpeLr32qt3wu0AUaLcvoNARNO2C2P6wXXV6/XrZNzlppI1hsRSjKUYTtY5SyZmrQ8Qv9/blwP+ANd6erpsFXNMSPrYDnnQFn465uBgmCaEeQtcBpGg+APDOMoHsOp4lMXcSTY2Z+yR8qNxDM2bhN0aoxwOQnGY=;DLkK9zFUq7WHDlldgXInxg=="
+secured: "9tPpvKnJedVK4N6m+AG5bjLElbrabzRFPwa1ciXswrpN8QGPjIgJo7r39EETsVFn+p2Zef0ylxt6q+SIz3wT5T5G02sLCXmnd9NEoPbTdzrOdCHFtCE+RT4hTuXmJgre8wamhlwJDD740o4Zp1v+3uUhxKzSw3pjLS4yAYky6eFNCNkXisC5s7eNJ04ly4gG8Zbwj4S9O2ixSly5OcZI0w8J21PWKzCJs4YE6QSSfwjYMhXbR1Er03mu7i/bDySEX3YWja/IVkuzo9uHFAiLIG+iUd1BjAmTTQMw29SCBqlXZ+d6TAUHdSKAO/iaBCJMWqJrDtDPp8H8mmG0yjJuVEqBb0+p33Xo8YX4R7P9SlY=;TBoRARtJVcuXPTXAAytBPw=="
 ---
 

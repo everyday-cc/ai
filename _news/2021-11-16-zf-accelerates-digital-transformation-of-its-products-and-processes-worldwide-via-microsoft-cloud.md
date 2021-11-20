@@ -3,8 +3,8 @@ category: news
 title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
 excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain managementCloud-based infrastructure and collaboration to improve speed and efficiency across business operationsDigit"
 publishedDateTime: 2021-11-16T13:00:00Z
-originalUrl: "https://www.dailyrecordnews.com/news/state/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_b56e6143-eeba-587a-aecb-3cfeca03147d.html"
-webUrl: "https://www.dailyrecordnews.com/news/state/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_b56e6143-eeba-587a-aecb-3cfeca03147d.html"
+originalUrl: "https://www.dailyrecordnews.com/news/state/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_1afc3858-acb3-50f7-a05e-2e9e40fba6f4.html"
+webUrl: "https://www.dailyrecordnews.com/news/state/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_1afc3858-acb3-50f7-a05e-2e9e40fba6f4.html"
 type: article
 quality: 26
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/a/43/a4316266-1765-50c2-8705-7274ff032ce8/6193bdca44495.image.jpg?resize=800%2C566"
-    width: 800
-    height: 566
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/a76e5080-ce26-11eb-9a1f-6bcc37d0e88c.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -72,6 +72,6 @@ related:
       domain: newswiretoday.com
     quality: 19
 
-secured: "bDjFE2ByVU2vdLuu+0GrWZQozUyRpjzg/aWKKxaEiGwy8hPJLYSfA6Ax7Q4dRXLnvgzt5FRfFRV4NKCcICUUWYjYVP0aiSQeWv6GUFc3b74V8kaoOFxHU8ZGkWiU8aU0bzK1/6CpR10oUJTT11EWcnjEnhAxObyz0C2cZJvCbqQqPNYLdZsnSHOM84SbPZOuIiW1uC+fNdhKbqaJ4FLmcb1KJNGZlDDh0a9tgakDWQRIyEfbP+fg0+hheZBEzGmwX+sWiCEexfdtVDL26f54YZPpKaGxkycx7Qn1LBFuznVHEH/oTU4g5U5LbKyb6HCLRr5zzO7nniqtALUgGxXc0vv7RDK5nRJ7blhSoClxJ74FrrlEGb9PH2PRFbwqb9am4Y5kV/XVlzzbeF0Iy9cx9rShNA3HRx1546QUkux6iXS7+BNtxY1s8qpICZkmCGnUUykoDW8w1/uoM8DvMrcwUdR1G+kbneE6qW7CMO7PrZ/P3yhBbOiwH2Jw/67m0YGGviT+e4iIaZhEDVexNX8C9Q==;2MjCiGNrDwqIuhK1HFJ1bw=="
+secured: "NLfKrG+SIPNYbC/eJDPulGaNWSM9kdFUYknkzmHmK0kdH7P/EZPC4u1g6zUBHwUooQC5rofM55EXTg6VNGeHav2lKVjjWcaHmZJsb0hcSVkxAb71CP/+m2DZpgddjQdT9WnYmrtLmz2enziJrF+psQqIGfQDb36LQWiFykd7wPyc92MMuqgOhUezEWYCMWb+gaXSNeVhqp371HddljjndaH5H7oxfbBqiA1KsQeC+IS+QF2ncFIdI904fIYQLiQIK3JE95ND1igJDhi3jdgX7FNNps1uaOlLCYlFALHtAzz9v8XjWIf6Vy4jfUKlu3xECZ4rXMTOzmpPzF/C00L/meJEiaN8gJPN4Jf8V4Wujwk=;cpHQp4SgFChqZdDIQ6Sf2Q=="
 ---
 

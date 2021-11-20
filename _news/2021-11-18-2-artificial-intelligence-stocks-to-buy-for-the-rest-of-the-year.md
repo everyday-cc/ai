@@ -66,6 +66,17 @@ related:
         width: 2560
         height: 2560
         isCached: true
+  - title: "An agony aunt for the AI era answers your ethical questions"
+    excerpt: "App created by artificial-intelligence experts tries to help morally conflicted humans."
+    publishedDateTime: 2021-11-20T22:00:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times/opinion-and-analysis/insight/2021-11-21-an-agony-aunt-for-the-ai-era-answers-your-ethical-questions/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/opinion-and-analysis/insight/2021-11-21-an-agony-aunt-for-the-ai-era-answers-your-ethical-questions/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/opinion-and-analysis/insight/2021-11-21-an-agony-aunt-for-the-ai-era-answers-your-ethical-questions/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 54
 
 secured: "zALk3ippXKOTFclyMA+NkkMyKKjf4rt5pSO6Z2BKV3CVg8HBU9OooN4c4dJY9V4WqAWpGz9cVuYltVs50RYhxCg8EdcluqDqoMoUFq9L/YVqOQxkqbtOcAliDDhhkFUkUrWTA1Mxf7bxN/npM083Uanw0RR1Re4MpDLEbA6YxozxVttWgNKwM/v1z8uT7Kof20J/+Y2EJ/lR++3OtZ6ked+BsG1ZNlS1b//uEXu9ipldCjkmtDYvLUMh/9bjNlahnYI45Ck9OGYb0iqdDSizCTA/5B+rxogR2VAhMw+DFXyDqq4acqEHbKw1PQRJi6HkCBBFqEFd890HX7Kul01kSBNm5YMrPvAf39vegjhOivk=;HhheY3HOIxrQ2O4x+P47KA=="
 ---
