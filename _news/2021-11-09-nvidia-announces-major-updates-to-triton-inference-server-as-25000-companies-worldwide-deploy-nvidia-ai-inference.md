@@ -2,25 +2,27 @@
 category: news
 title: "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference"
 excerpt: "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,"
-publishedDateTime: 2021-11-09T09:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2"
+publishedDateTime: 2021-11-09T08:59:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi"
+webUrl: "https://www.benzinga.com/pressreleases/21/11/g23974757/nvidia-announces-major-updates-to-triton-inference-server-as-25-000-companies-worldwide-deploy-nvi"
+ampWebUrl: "https://www.benzinga.com/amp/content/23974757"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23974757"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "PH0Y3wJZkIS0MXbLFAjjzwEMY1RGEAxtG3c/N+6AQj7QWwJSlr3InqNChHuyeAyukrtu/oi62kfa6wNwTEheutJCM+HgtrR+gsHwV4o6xhXWn5pj89ExbAPpoBS6mtotbu+vbd7YEnuJejL53Sga/bS4ojDF88i0bruuQXQ94AnX7m+rmwPK0pjX1oUCksLeABgB4WuU5Bv85E+iCn/p2G1+2x2f6DDdtHBPHcalB3kmeqzxgHT+BpvUc8kK2PcsJAqYzneupv8XVXeJRCtct5O2GhG25dgeVEgk+OpCLptBIJcXyhX38dkD/YmlQZK3KTKjex3gey/fnjtMLzAI3RxDEwi1w2a7fFT2VMl+ooU=;oHZCdTMUWAA+5fHPUCeCPw=="
+secured: "1NfP6rLciDN2PDTLorknexItA+oihn0CKcDYSl2Lk9eu7FCWV8wZcBJVa1sK4yaF9DPsJYZp/8LasqvpGUVeREUglMM7MbnT/8itnZwbbvAfjkjfLRxeMMQAiN9Ax27nNHeV2LPEFfRMn1ZHKAp1DsBbmVzODav/j73b1CweQOdA4SvJUvZcGqEc35Ivgj7kRqOfr2X8IKxvNgnyznwNLq+/iupUP1EDoHudO26oh8YtObKm7IcVnceG2kQ3uEneNHJemnoVG6nYUgG+DtebRycoXYPSWS0K/BbPYnszR6KgKN4r3Li/daGZT8pJWBD+V5orurUIv9UEQGu8coz55G496iEGNSfaI3MtqtFUf0o=;OMd8e2l8akskh4j88RDLpA=="
 ---
 

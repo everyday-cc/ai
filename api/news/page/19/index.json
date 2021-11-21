@@ -2,6 +2,197 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-11-05-alphabet-is-launching-a-company-that-uses-ai-for-drug-discovery.md",
+      "title": "Alphabet is launching a company that uses AI for drug discovery",
+      "excerpt": "It’ll build off of the work done by DeepMind, another Alphabet subsidiary that has done groundbreaking work using AI to predict the structure of proteins. The new company, called Isomorphic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "originalUrl": "https://www.theverge.com/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/kdddLIUWJSyu7gOt6TTdsILtLKw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70094151/msingleton_180612_2663_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "publishedDateTime": "2021-11-04T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms.md",
+      "title": "Tesla's handling of braking bug in public self-driving test raises alarms",
+      "excerpt": "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/tesla.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp",
+      "publishedDateTime": "2021-11-04T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok.md",
+      "title": "“Ethical AI” Trained To Offer Moral Advice Descends Into Giving Genocide The OK",
+      "excerpt": "Artificial intelligence (AI) is changing our world, whether it's making historic breakthroughs in medicine, or taking our fast-food orders at the drive-thr",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
+      "originalUrl": "https://www.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/246f484d-f6bd-53e1-a6dd-e9f7dd44605f/default-1636040776-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
+      "publishedDateTime": "2021-11-04T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-tensorflow-decision-forests-and-tensorflow-serving.md",
+      "title": "TensorFlow Decision Forests and TensorFlow Serving",
+      "excerpt": "TensorFlow Serving is a serving system for TensorFlow models in production environments. The TF-Serving team publishes a pre-compiled release containing only Core TensorFlow ops. TensorFlow Decision Forests (TF-DF) models use custom Ops for inference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/decision_forests/tensorflow_serving",
+      "originalUrl": "https://www.tensorflow.org/decision_forests/tensorflow_serving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform.md",
       "title": "Propelo raises $12M for its AI-driven engineering excellence platform",
       "excerpt": "The number of DevOps tools has increased exponentially over the last few years and, with that, the amount of data these tools can produce to help businesses improve their software development processes.",
@@ -964,195 +1155,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-enjoy-an-extra-15-percent-discount-on-these-diy-kits-this-pre-black-friday-sale.md",
-      "title": "Enjoy an extra 15 percent discount on these DIY kits this pre-Black Friday sale",
-      "excerpt": "you can even control your drone and see a live bird’s eye view. Its normal retail price is $99, but you can grab it on sale for $25.48 with the code SAVE15NOV. Put both your hands and mind to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/sponsored-post/discount-diy-kits/",
-      "originalUrl": "https://www.popsci.com/sponsored-post/discount-diy-kits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2021/11/01/sale_68872_primary_image_wide.jpg?auto=webp",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/sponsored-post/discount-diy-kits/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-post/discount-diy-kits/?amp",
-      "publishedDateTime": "2021-11-03T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai.md",
-      "title": "Microsoft says all business will be collaborative, and infused with data and AI",
-      "excerpt": "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Satya-Nadella-ignite-nov-2021.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/",
-      "publishedDateTime": "2021-11-03T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-clearview-ai-forced-to-cease-data-scraping-operations-in-australia.md",
-      "title": "Clearview AI Forced to Cease Data Scraping Operations in Australia",
-      "excerpt": "Australia's national privacy regulator determined Clearview AI breached users' privacy and violated the Australian Privacy Act 1988.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895",
-      "originalUrl": "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/95da1f03aebf41e4a0369aa2ecfddc6c.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-forced-to-cease-data-scraping-operations-i-1847991895/amp",
-      "publishedDateTime": "2021-11-03T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-developing-the-ultimate-open-source-radio-control-transmitter.md",
-      "title": "Developing The Ultimate Open Source Radio Control Transmitter",
-      "excerpt": "While we’ve come a long way in terms of opening up the world of radio control to open source software ... ve got something a bit more advanced in mind? An in-development version of the hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/04/03/developing-the-ultimate-open-source-radio-control-transmitter/",
-      "originalUrl": "https://hackaday.com/2019/04/03/developing-the-ultimate-open-source-radio-control-transmitter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/04/alphav1_feat.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

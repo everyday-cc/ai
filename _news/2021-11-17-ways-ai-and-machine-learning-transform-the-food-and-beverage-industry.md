@@ -7,8 +7,8 @@ originalUrl: "https://www.cioapplications.com/news/ways-ai-and-machine-learning-
 webUrl: "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: CIO Applications
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 ways AI is redefining the future of the e-commerce industry"
-    excerpt: "In this article, we’ll explain more about how AI is redefining the e-commerce industry and what to expect in the future. AI gathers data from online users, which provides essential insights into their needs."
-    publishedDateTime: 2021-11-17T13:23:00Z
-    webUrl: "https://knowtechie.com/7-ways-ai-is-redefining-the-future-of-the-e-commerce-industry/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2019/04/online-shopping-reviews-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Businesses Across Industries Leveraging Disruptive Potential of Artificial Intelligence Market for Boosting Bottom-line"
     excerpt: "Artificial intelligence (AI) is getting seemingly integrated with business processes, opening new horizon in human thinking capabilities. Business processes across the industries have witnessed the game-changing potential of AI tools,"
     publishedDateTime: 2021-11-19T11:28:00Z

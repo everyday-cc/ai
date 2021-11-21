@@ -43,20 +43,6 @@ related:
         width: 1144
         height: 863
         isCached: true
-  - title: "Fintech Compliance: AI's New Role in Combatting Corruption"
-    excerpt: "Discover how AI has started to be used as a tool for fighting corruption, what these technologies are, and why they are so important"
-    publishedDateTime: 2021-11-16T23:32:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-compliance-ais-new-role-combatting-corruption"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
     excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
     publishedDateTime: 2021-11-18T14:00:00Z
@@ -66,15 +52,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 26
-  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
-    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
-    publishedDateTime: 2021-11-16T23:48:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211116/3857665.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "DqLFVLwrfDlS78JaJCAOLCndyiFkPpMRFUbfLQCNFzMPGySqcWFF2WD3hPh9Y3dUEeXwDlwif+nR+UMki9fb1L9isxV81aGA0zXLGQK9DeAyKlLFbyE/Cxqg6hRppARiiI7TxRIxtzKQ5thsrF8tVOyTEFALYapUVQVwW3JYFv6rqv+PX8mT7HHKrzB/evO2jpi/aFkUA6rUjyOg+FXVWZ7ytnhEeUu1U33hqBtZOS86aJUK3OwY9qqi9qkjm7HJOetSpjOxDoWL/k6qM5IIK02YXy3MklTkw/czUpTMTtqnu3ifq6S8L1Hg7uwB3zFjvYmZJ3C26kKIPdgJqYzgM/xOK7Vh7KAmMy2b/Gauf5/b6PbLsEVHtMp3v68Q8LWpeCdF7w6gExSr93A1iPMTtKDri4bwCz1gVIsh+49Re+gJyhfHTUKwJmQXhi6eYV+K1dWPuFrZeaHzUrKO0QGH8Z32i1vPVAqYYXpo3BeXsGS9Mn6x7ACK4Vh4HIaCUplos5bnQCrNS5jZFYNBxf8gIA==;r6C3s8CpmZp/WVimzkfLYg=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 1144
         height: 863
         isCached: true
-  - title: "Fintech Compliance: AI's New Role in Combatting Corruption"
-    excerpt: "Discover how AI has started to be used as a tool for fighting corruption, what these technologies are, and why they are so important"
-    publishedDateTime: 2021-11-16T23:32:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-compliance-ais-new-role-combatting-corruption"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Justt, a Chargeback Mitigation Fintech, Secures $70M to Take On Outdated Chargeback System"
     excerpt: "Justt, a chargeback mitigation pioneer, has announced that it has secured $70 million in funding as it further expands its mission to assist merchants with combating false chargebacks with smart tech."
     publishedDateTime: 2021-11-17T11:48:00Z
@@ -65,15 +51,6 @@ related:
         width: 1164
         height: 1280
         isCached: true
-  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
-    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
-    publishedDateTime: 2021-11-16T23:48:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211116/3857665.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "2EBdnIMY5gsYtBA3DZZwAjJqnOzrSXGGd0sqGAid3bMwUUpHCzmgAaVzIWDccpnMt2SHQd+7rDJqslcAtdEXc11BVnNHpR8Jz3A8xfMMZFgcyMqlGgAVz7buU3kK0NehLGm6xaiLuUFUxhOiAwlbi5kkrKu56S0dQsHBZLfPkz9r5o3AZrSZbj46aef9gO8CfcucgkvaBjQ+XT6DvXj+V1aY8lxg7LiV8aCl43oTz5VjN5Va29xx4EfG+HTkAHo4CEXSwtSgOnqb9OHgK96HabPHoCgvGRy5wBwD1PGr6LVEgaby6yabd8lppezytYJL8ghqhkEBCuwcQVnHNin5+0BsAxhwtS0/d1oRLjE3RM4=;iFlKSDaam1rYL4b/xrFsVg=="
 ---

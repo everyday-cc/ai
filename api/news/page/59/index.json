@@ -2,6 +2,195 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-10-07-databricks-acquires-bamboolib-creator-8080-labs.md",
+      "title": "Databricks acquires bamboolib creator 8080 Labs",
+      "excerpt": "Databricks has acquired 8080 Labs, creator of bamboolib, for an undisclosed sum. Bamboolib is a popular UI-based data exploration and transformation tool. The flagship data science solution also facilitates no-code workflows that seamlessly synchronize with the Python ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816297/itpro/2017/02/big_databigstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp",
+      "publishedDateTime": "2021-10-06T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-vmware-partners-its-way-deeper-into-cloud-edge-and-ai.md",
+      "title": "VMware Partners Its Way Deeper into Cloud, Edge, And AI",
+      "excerpt": "Software maker VMware has always been about tight partnerships with other tech vendors. When you are middleware between hardware and operating systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/",
+      "originalUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/vmware-logo.jpg",
+          "width": 776,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/",
+      "publishedDateTime": "2021-10-06T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition.md",
+      "title": "Databricks Boosts No-Code Data Analytics, AI Capabilities With Acquisition",
+      "excerpt": "Databricks has acquired 8080 Labs and its Bamboolib data science tool to bolster the Databricks data engineering, data analytics and AI product portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
+      "originalUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-google-wants-to-use-ai-to-time-traffic-lights-more-efficiently.md",
+      "title": "Google wants to use AI to time traffic lights more efficiently",
+      "excerpt": "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/",
+      "originalUrl": "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/bv8rcqIS1zr-l_bcEZJF0h4_YL4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SZOE3SA4JFIABGHM7BKAVFD63Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-brain-cell-differences-could-be-key-to-learning-in-humans-and-ai.md",
       "title": "Brain cell differences could be key to learning in humans and AI",
       "excerpt": "Researchers have found that variability between brain cells might speed up learning and improve the performance of the brain and future AI.",
@@ -945,195 +1134,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-psa-announces-the-addition-of-viisights-to-their-approved-technology-partners-during-isc-east.md",
-      "title": "PSA announces the addition of viisights to their approved technology partners during ISC East",
-      "excerpt": "“We go further than simple object recognition by analysing full-motion video for objects and their behaviour in the context that they operate in. Our real-time behavioural analytics transform video streams into actionable insights by autonomously ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/psa-announces-addition-viisights-approved-technology-co-3292-ga-co-1565673901-ga.1633515621.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/psa-announces-addition-viisights-approved-technology-co-3292-ga-co-1565673901-ga.1633515621.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/psa-allen-riggs-chief-financial-officer-aggressive-financial-targets-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/psa-announces-addition-viisights-approved-technology-co-3292-ga-co-1565673901-ga.1633515621.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/psa-announces-addition-viisights-approved-technology-co-3292-ga-co-1565673901-ga.1633515621.html",
-      "publishedDateTime": "2021-10-06T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase.md",
-      "title": "'Are we willing to pull the plug?' Tech projects are under scrutiny as digital ethics concerns increase",
-      "excerpt": "Tech analysis firm anticipates a shift towards privacy that might mean some tough decisions ahead. By Daphne Leprince-Ringuet | October 6, 2021 | Topic: Artificial Intelligence For now, instead of architecting ethics directly into the product to avoid future harms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase/",
-      "originalUrl": "https://www.zdnet.com/article/are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e74ad53f57166489aae254aa3b57879c4135607b/2021/09/21/9ace91bb-15e2-4b5f-90dc-a721785f2af9/shutterstock-129038348.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/are-we-willing-to-pull-the-plug-tech-projects-are-under-scrutiny-as-digital-ethics-concerns-increase/",
-      "publishedDateTime": "2021-10-06T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-google-owned-ai-firm-deepmind-turns-profit-for-first-time.md",
-      "title": "Google owned AI firm DeepMind turns profit for first time",
-      "excerpt": "Google owned AI Lab DeepMind turned a profit for the first time in 2020 according to Companies' House filings (Photo by Sean Gallup/Getty Images) Google’s AI department DeepMind turned a profit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/",
-      "originalUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/09/Google-Announces-EUR-1-Billion-Investment-In-Germany-Including-Renewable-Energies-1337404394.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/amp/",
-      "publishedDateTime": "2021-10-06T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-european-parliament-backs-ban-on-remote-biometric-surveillance.md",
-      "title": "European Parliament backs ban on remote biometric surveillance",
-      "excerpt": "The European Parliament has voted to back a total ban on biometric mass surveillance. AI-powered remote surveillance technologies such as facial recognition have huge implications for fundamental rights and freedoms like privacy but are already creeping into use in public in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/",
-      "publishedDateTime": "2021-10-06T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -92,15 +92,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "NYC Aims to Be First to Rein in AI Hiring Tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T13:03:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-19/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "NYC Tries to Rein in AI Hiring Tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
     publishedDateTime: 2021-11-19T14:54:00Z
@@ -129,6 +120,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NYC aims to be first to rein in AI hiring tools"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
+    publishedDateTime: 2021-11-19T14:39:00Z
+    webUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "iDzdoXdJVyalDREpyyNa5vbX7iEk5k0OqJAldfVmj6PJZ7d6QRjaso98QvMILRAmTKbzeQpKSzQDpDbaMwvAy2lD4Z4IlYmrPAzjInogl7BtEr9lS9WMoHYcsxjWuRY3nw2CfeP5oN8z+/wJig7tkzbxE+X2uneA5nNQ+KjNoQ2sCE8YcBdcTzWkCpbtbA1lr9bMq79WuUl2sXCu43w0sXM/T3bSBbEIyLAj4YdxvkZR1Nyd6/CK1bhtfLgB6aLk9UveWSMHifbWfkbZ9KFzO09AMN6B6SuUNhz9c8FHZEpmCJrfH6SGnAQRGNUBO4L7TLPaRYAH/5bZjnno0bY4OmLM97XIUZzBeN3mQ+FM1Df1MCGYVjQmZRYvrzuM9W2JSAyDT4s1FD1zIExaMdIsG1qkIaNeJuIUzuhxP4KMcGyNcmYXHoiUAq7NKqzkBmDpj4l5sZLTzbE3L4Z3i/WMKNeOFNYEhJ98BJl7qyl1gfAMNtUT4yKTKD1VtZaAdfv6+e0RILwkRkW2xPD1JXz/Xw==;PRwiywXcZGoUlEthG1sT5w=="
 ---

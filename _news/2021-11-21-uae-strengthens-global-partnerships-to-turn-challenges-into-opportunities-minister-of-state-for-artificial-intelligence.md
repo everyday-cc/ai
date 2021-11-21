@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-21T15:00:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/271774046/uae-strengthens-global-partnerships-to-turn-challenges-into-opportunities-minister-of-state-for-artificial-intelligence"
 webUrl: "https://www.bignewsnetwork.com/news/271774046/uae-strengthens-global-partnerships-to-turn-challenges-into-opportunities-minister-of-state-for-artificial-intelligence"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Big News Network.com

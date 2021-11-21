@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-21T15:48:00Z
 originalUrl: "https://www.theguardian.com/society/2021/nov/21/from-oximeters-to-ai-where-bias-in-medical-devices-may-lurk"
 webUrl: "https://www.theguardian.com/society/2021/nov/21/from-oximeters-to-ai-where-bias-in-medical-devices-may-lurk"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Guardian

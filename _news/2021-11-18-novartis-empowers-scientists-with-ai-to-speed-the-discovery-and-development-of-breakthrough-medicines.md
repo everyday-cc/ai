@@ -1,33 +1,23 @@
 ---
 category: news
 title: "Novartis empowers scientists with AI to speed the discovery and development of breakthrough medicines"
-excerpt: "The post Novartis empowers scientists with AI to speed the discovery and development of breakthrough medicines appeared first on The AI Blog.\n"
-publishedDateTime: 2021-11-18T16:24:30Z
-originalUrl: "https://news.microsoft.com/transform/novartis-empowers-scientists-ai-speed-discovery-development-breakthrough-medicines/"
-webUrl: "https://news.microsoft.com/transform/novartis-empowers-scientists-ai-speed-discovery-development-breakthrough-medicines/"
+excerpt: "\"Here, AI can actually help to do this in a few clicks and bring the relevant information back to the user for further use, informing them how to design future experiments to find new ways to create a formulation for a new drug,"
+publishedDateTime: 2021-11-18T14:11:00Z
+originalUrl: "https://www.publicnow.com/view/C7A400251D302C81DB9600A0B3DAB13CDB812301"
+webUrl: "https://www.publicnow.com/view/C7A400251D302C81DB9600A0B3DAB13CDB812301"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 4
+heat: 4
+published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: publicnow.com
+  domain: publicnow.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
-images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2021/11/Novartis-image-4-scaled.jpg"
-    width: 2560
-    height: 1707
-    isCached: true
-
-secured: "6g4rfO72P1c2WLvUBKk0nwAm7HAIIvyasXxU/DZHCtcytdMAaDhS2LDh4t12lUMLJFd4YbxIgXagXdorn9hTXQDSbjItNnANFfJ3fW3Vd1zCHLmfePpFCTsmuFZyJxkezJa4Eos/djzFNQSwK5yXzOy8Dna/TUQB3DIjTmGn0KfaEbwaBy3GjWEXpLnSFcafnhdoix/W2zey1k0pZXp/3QbPgycEp+sjmKKK29YtlYq1Aw8UUJP/NBtaexV+QAQ64/K2upc5H0+7+f0reuSY4+ZPrvm+NQ2ZK1p9Kjn1xEXq0nXpS5zcbsaQWrgucSC4BgTBHSJvfuTLIw1McOwpCU1AJn8rvj/f97Em27wfjyA=;OyIG2+/iLJHIzTDV/bDD4Q=="
+secured: "lGkjF/gfmold/jSz2q/JiPWJaGdva4r2qvBugOfxxUwUYRZusgI41BAgPGUvepIgbUVLzhJdMxLMWIQBpxbpFLUfu0ePHZ8BMgjNICZS1aFDtb6P6UYoDwdI0WtSVlZGzNljXudI3bByImC9wK9396sc8p3lJry7wubNQQCM4aFnBEQozoM/9XL3fO2GzNMv81n82ndgjy8PohlOQzRMyqmSsHCcK60NtK0KC0Qw1XUcqPNpsstm4QLiIjLlJawV/09tIouUcm/XjtvLHxsXFrg1sAqUuLAG6e9j0pJj72kjoklwXtMz2hRkxzcfb5iH/zeOZ1QKNR1IovYPCu+5pSjm5f+/QvSFOTlo0RnNcD8=;NmZC+q9ZBVn3zg8d6GwohQ=="
 ---
 

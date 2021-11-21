@@ -6,6 +6,9 @@ publishedDateTime: 2021-11-19T16:04:00Z
 originalUrl: "https://www.geekwire.com/2021/spam-smackdown-hiya-claims-massive-step-forward-using-ai-against-illegal-phone-calls/"
 webUrl: "https://www.geekwire.com/2021/spam-smackdown-hiya-claims-massive-step-forward-using-ai-against-illegal-phone-calls/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: GeekWire

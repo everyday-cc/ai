@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/turning-machine-learning-insights-a
 webUrl: "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Texans in major need of driving instruction"
-    excerpt: "A historically inefficient offense has defined a rebuilding Texans franchise that insists it is trying to be competitive. Drives end swiftly — mostly without points, often with a turnover — and when the offense returns to the sideline,"
-    publishedDateTime: 2021-11-17T00:18:00Z
-    webUrl: "https://www.houstonchronicle.com/texas-sports-nation/texans/article/Texans-in-major-need-of-driving-instruction-16626779.php"
-    ampWebUrl: "https://www.houstonchronicle.com/texas-sports-nation/texans/amp/Texans-in-major-need-of-driving-instruction-16626779.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/texas-sports-nation/texans/amp/Texans-in-major-need-of-driving-instruction-16626779.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/65/27/21714417/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "Pcs8wGoPE8eQlXNYzHsUQMxc8cA4PyT7DQIL1foH66PgVCbRImr2du8704Of1agPOkqtX7DJQFCUBaH8nrxnuKkve48Qn7YinTjy+8mZ/M8scgroMrbe7bcDXeJOTLVAilWimaTAtAOAxatCEgojogKeii3xh8e5JOvufTkUSupVp5Bw9/96eL3P8nRpnK9hqKmcVgk3tMwUWv0jyg2F99kReNE8KpaT73H/4/xxFmXgIW8xUlXiWYMMnnM0gOV43jssCQE/yJaRt4lt0zGg3OCELZtZ+Jufeism7/teWmjJ7mOqUXr/44ewAwxstj0BkzjbjpKa89BYRxPgn/eTIE4pyjeWoqBkhny3Sd+ixGGsw4xe2MYyISU34bSJbax2pLiII6IluXhH7zAntV2eTY+JNaQyZN/k1YzZNr7XvlU0iSdw+IfnJ3idFt/5E1tqmjJeLn8DGkf5X88Nyn3gbGlLncGBHxeATjQjGLsfe2ZbbFVJGCR8fEe6EdiAHIpPvqbolSPzg1KuCFKXbASzig==;9GDBKz9DeA2xY+oDU4mvjw=="
 ---
