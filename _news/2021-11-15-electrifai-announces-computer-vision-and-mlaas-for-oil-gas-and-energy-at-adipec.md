@@ -1,10 +1,10 @@
 ---
 category: news
 title: "ElectrifAi Announces Computer Vision and MLaaS for Oil, Gas and Energy at ADIPEC"
-excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (Ai) and pre-built machine learning (ML) models,"
-publishedDateTime: 2021-11-15T03:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-301423688.html"
-webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-301423688.html"
+excerpt: "\"We're pleased to introduce our Computer Vision and Machine Learning as a Service offerings to the global energy industry. Every company can now easily achieve the benefits of computer vision and ..."
+publishedDateTime: 2021-11-15T04:07:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-805648369.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-805648369.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 315
     isCached: true
 
-secured: "R4cy+j/8UWh+bVUoBrRYd01Lrnue/dG4BOF5VCA44Gtsegu4aikAgR+C1CFVOJ5tq/pXfO99RMjP/3roE3iIiCInSN/htfOgbGKASBA4wjLiFs8Cq9O3TAA+T85uOZmFMgrEsWaLMTg3Go2SGD8tznQ4I2Q0MG2mXsFp0tNmY26ZibwqveqfTAuZNPJns2de/yYsTHW6kb31xR+u6T+/GNw8gd5svQ7bqE7xTCAMZOzjYuOjg8vKKwF4qiOXRBq9M+p0tLoyxvJxRKcgR1NqEK7jdXMdb8mkA+T6UmORpUsvumLvM0g1wuzQ2vfnqF9Dlc0t6yXoDGmvzlAeCS30yvYG1XMM3LZGWjFfqBw0f28=;TzBGZYsOpO3W9HA64b8CKg=="
+secured: "MOUazN3AtpittjvNr8apuutocTwsae32qhoGOM+DcQcd8m5kLbIsOVWBqQXYOFT8upCtNbyywcBM4u7spQ6oJG71IzZyOfnetigQoBPXA7yzzAoRZTDuFHpbkkYkG1bF6Ul2TCddcKkzhchpPaPI9TI4QL84hzdMV/WnrXLFFv5/u85KJjA69fSFKPlODPkcPqLuPG/K4TRN49qcmC5Dx5EZusM2jPgSUkcwhgd7/YsEuup1paiifw3Qqz9EQJMZ0hwTwGB0kwA9BtIOsDF6L6GYmM8CXnIwfs8/L91+U2mg2v9/WFIPgBaajZqZkPv53TkFGzYIo/is1N0ix7h7w/gJDO8LM1PNE4vlMsEgKts=;wQMcLn8AmJRXropzUUD0tg=="
 ---
 

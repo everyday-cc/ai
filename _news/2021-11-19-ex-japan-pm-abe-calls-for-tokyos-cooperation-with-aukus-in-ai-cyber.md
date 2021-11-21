@@ -38,22 +38,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Israel To Build Artificial Intelligence Research Laboratory For Dealing With Cybersecurity"
-    excerpt: "The INCD recently announced that Israel is going to establish a laboratory for researching as well as learning more about AI in the sector of cybersecurity."
-    publishedDateTime: 2021-11-16T08:27:00Z
-    webUrl: "https://www.republicworld.com/world-news/middle-east/israel-to-build-artificial-intelligence-research-laboratory-for-dealing-with-cybersecurity.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/middle-east/israel-to-build-artificial-intelligence-research-laboratory-for-dealing-with-cybersecurity.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/middle-east/israel-to-build-artificial-intelligence-research-laboratory-for-dealing-with-cybersecurity.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 47
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/njxsvzmub7tdbbiu_1637049441.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Managing the Cybersecurity Vulnerabilities of Artificial Intelligence"
     excerpt: "Systems based on artificial intelligence are susceptible to adversarial attack. Vulnerability disclosure and management practices can help address the risk."
     publishedDateTime: 2021-11-17T14:55:00Z

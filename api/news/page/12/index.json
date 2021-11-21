@@ -671,6 +671,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-09-hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store.md",
+      "title": "Hashtag Trending Nov. 9- FTC Amazon drivers; Walmart’s driverless trucks; Meta store",
+      "excerpt": "The FTC reimburses Amazon drivers for tips the company withheld, Walmart is rolling out driverless trucks for grocery services, and is a Meta store in the works? That’s all the tech news that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459",
+      "originalUrl": "https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png",
+          "width": 1500,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459?amp=1",
+      "publishedDateTime": "2021-11-09T02:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-nvidias-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor.md",
       "title": "NVIDIA's new AI brain for robots is six times more powerful than its predecessor",
       "excerpt": "NVIDIA has launched the Jetson AGX Orin, its new AI brain for robots with six times the processing power of its predecessor..",
@@ -1077,49 +1120,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidia-announces-major-updates-to-triton-inference-server-as-25000-companies-worldwide-deploy-nvidia-ai-inference.md",
-      "title": "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference",
-      "excerpt": "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-593b6416504b934fdad2ed87c542b1d2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {

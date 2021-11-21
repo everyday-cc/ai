@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20211117-robots-big-data-as-
 cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20211117-robots-big-data-as-gulf-nations-bet-on-ai"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots, big data as Gulf nations bet on artificial intelligence"
+    excerpt: "Robots puttering around Dubai’s hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core. The 5G-enabled Expo,"
+    publishedDateTime: 2021-11-20T23:41:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 74
+    images:
+      - url: "https://media2.malaymail.com/uploads/articles/2021/2021-11/20211121_AI_Expo_Dubai_AFP.jpg"
+        width: 1000
+        height: 668
+        isCached: true
   - title: "Common Misconceptions About Robots and Artificial Intelligence"
     excerpt: "Where does robotics end and artificial intelligence begin? Can your robot vacuum take over the world? Answers to those questions and more."
     publishedDateTime: 2021-11-19T10:30:00Z

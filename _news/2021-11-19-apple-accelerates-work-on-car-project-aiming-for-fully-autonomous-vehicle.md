@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/apple-accelerates-work-on-
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle"
 type: article
 quality: 135
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -165,6 +165,31 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/apple-self-driving-car-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Apple aiming to launch self-driving car by 2025"
+    excerpt: "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, aiming to solve a technical challenge that has bedeviled the auto industry."
+    publishedDateTime: 2021-11-19T05:54:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/423538-apple-aiming-to-launch-self-driving-car-by-2025.html"
+    ampWebUrl: "https://mybroadband.co.za/news/motoring/423538-apple-aiming-to-launch-self-driving-car-by-2025.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/423538-apple-aiming-to-launch-self-driving-car-by-2025.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
+  - title: "Apple accelerates work on car as it aims for fully autonomous vehicle"
+    excerpt: "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
+    publishedDateTime: 2021-11-20T07:57:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2021/11/20/business/tech/apple-self-driving-goal/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/11/np_file_124959-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
   - title: "11 Best Autonomous Vehicle Stocks To Buy Now"
     excerpt: "In this article, we will take a look at the 11 best autonomous vehicle stocks to buy now. To skip our detailed analysis of the self-driving car industry and its growth potential, you can go directly to the 5 Best Autonomous Vehicle Stocks To Buy Now."

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/18/solving-entertainments-globalizati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and machine learning can streamline surgical documentation and streamline reimbursement"
-    excerpt: "During a recent session in The Business & Operations of ASCs conference hosted by Becker's ASC Review, Lucian Newman III, MD, chief medical information officer of Nuance Communications, and Tanya Fengel,"
-    publishedDateTime: 2021-11-16T07:34:00Z
-    webUrl: "https://www.beckersasc.com/leadership/how-ai-and-machine-learning-can-streamline-surgical-documentation-and-streamline-reimbursement.html?tmpl=component"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 37
   - title: "Sketching the Sun with AI"
     excerpt: "These track the Sun and reflect its light to the scope’s objective lens, which projects a 17-inch-wide (43 centimeters) image of the solar disk onto a piece of paper on a table in a ground-level observing room below."
     publishedDateTime: 2021-11-16T16:00:00Z

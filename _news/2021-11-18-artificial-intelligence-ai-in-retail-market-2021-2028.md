@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
 type: article
 quality: 74
-heat: 158
+heat: 154
 published: true
 
 provider:

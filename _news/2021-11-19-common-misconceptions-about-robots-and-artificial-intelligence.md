@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Robots, big data as Gulf nations bet on artificial intelligence"
+    excerpt: "Robots puttering around Dubai’s hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core. The 5G-enabled Expo,"
+    publishedDateTime: 2021-11-20T23:41:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 74
+    images:
+      - url: "https://media2.malaymail.com/uploads/articles/2021/2021-11/20211121_AI_Expo_Dubai_AFP.jpg"
+        width: 1000
+        height: 668
+        isCached: true
 
 secured: "KMWeDfoVKxQgWHtEL5HlUxFtbq0J45mxh5Xuu4PxoEVaApttrwcJStj8WUeJTTS5ruZaigMqFOK9Rpzq1K2puY+enDLsfNQxFYhJkfZAnxTS60Bi2tRuXjr5jv6vHNu29cyLQPAjV5Naxl40H7YMq1Sro2JQRYDwn8ZZfRZIf4ss0HxiFKYntyB/u/vlgpX237HjzFsKndePaN74UTHHzQ33s3iBc4JeTLZYYSTW9APQudiU8VBnZbYVC9SrHlH9KPqPJc+gYZpT+m8GLHqLjxRrcu2Tz4cTUPJ99XIA1+Z4lhIQ3eb3/slYuSYcHak8e3ibw8cERbkw/R2Ef+/8BfG1fgwF1b4Tb2ONyMSbXjWYw6eds0T8tvi48PwsOEFGqrKGhf2Ej1mhqrsmcgYC2nEAlga+xZvHU0BIo+v2ioX5ZS8bp9HPab3IEbwllfHyFbAh+Z56FnMJcoFkKRRyWiGDzqJ/TbYfvGN9NAfbtmdt8Kc5jS/osa3P3E/FVxM4vpsGLHI7wgoY/ua0KorMMw==;GdUdN0u8di+8i7+IpDth/A=="
 ---

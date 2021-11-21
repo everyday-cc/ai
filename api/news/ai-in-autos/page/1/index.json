@@ -480,7 +480,7 @@
       "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1392,21 +1392,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-09-nvidia-as-full-stack-provider-puts-focus-on-autonomy-for-vehicles-and-everything-that-moves.md",
-      "title": "Nvidia as ‘full stack’ provider puts focus on autonomy for vehicles and ‘everything that moves’",
-      "excerpt": "With so much attention focused by automakers on autonomous and electric vehicles, Nvidia has pushed out two new AI platforms to boost the digital experience inside the vehicle. In a GTC keynote on Tuesday,",
+      "path": "_news/2021-11-09-hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store.md",
+      "title": "Hashtag Trending Nov. 9- FTC Amazon drivers; Walmart’s driverless trucks; Meta store",
+      "excerpt": "The FTC reimburses Amazon drivers for tips the company withheld, Walmart is rolling out driverless trucks for grocery services, and is a Meta store in the works? That’s all the tech news that ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fierceelectronics.com/electronics/nvidia-as-full-stack-provider-puts-focus-autonomy-for-vehicles-and-everything-moves",
-      "originalUrl": "https://www.fierceelectronics.com/electronics/nvidia-as-full-stack-provider-puts-focus-autonomy-for-vehicles-and-everything-moves",
+      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459",
+      "originalUrl": "https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://qtxasset.com/fierceelectronics/1636406028/nvidia%20drive%20dashboard%20image.jpg?VersionId=XHqJf7gkR6fdQiMZfZ01ffKyL58CoQuw",
-          "width": 774,
-          "height": 428,
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png",
+          "width": 1500,
+          "height": 1500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1414,13 +1414,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T00:30:00-08:00",
+      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459?amp=1",
+      "publishedDateTime": "2021-11-09T02:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "fierceelectronics",
-        "domain": "fierceelectronics.com",
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
         "images": null,
         "publishers": null,
         "authors": null
