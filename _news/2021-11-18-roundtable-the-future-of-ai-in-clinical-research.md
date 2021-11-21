@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Low Code and No Code: The Future of Artificial Intelligence"
+    excerpt: "Will low code apps go any higher? The jury is still out on how high this will all go. Low code and no code might even help business users build AI-driven applications, according to some experts. “Low and no code platforms make it feasible for businesses to deploy artificial intelligence without having to hire an army of pricey developers and data scientists,"
+    publishedDateTime: 2021-11-21T10:50:00Z
+    webUrl: "https://bestgamingpro.com/low-code-and-no-code-the-future-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Low-code-and-no-code-may-open-more-doors-to-artificial-intelligence-.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "5 takeaways from the Global AI Virtual Conference Model Risk Management workshops and roundtable"
     excerpt: "Much was learned during these discussions, so we felt it was important to summarize some of the key takeaways  to help broaden the discussion around AI and the future. Without further ado, here are the big ideas: Many AI models make too many assumptions – Finance Professor Nikola Gradojevic from University of Guelph spoke in detail about current algorithms used to predict and trade securities for financial institutions."
     publishedDateTime: 2021-11-17T22:11:00Z

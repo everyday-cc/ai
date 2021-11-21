@@ -2,6 +2,49 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2021-09-19-uaeu-turns-to-artificial-intelligence-and-robotics-as-part-of-the-fourth-industrial-revolution.md",
+      "title": "UAEU turns to Artificial Intelligence and Robotics as part of the Fourth Industrial Revolution",
+      "excerpt": "The UAEU's Artificial Intelligence and Robotics Laboratory (AIRL) aligns its work to the UAE's strategic vision. Its initial focus is on education and health technologies. Dr Fady Al-Najjar ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102819811/UAEU-turns-to-Artificial-Intelligence-and-Robotics-as-part-of-the-Fourth-Industrial-Revolution",
+      "originalUrl": "https://menafn.com/1102819811/UAEU-turns-to-Artificial-Intelligence-and-Robotics-as-part-of-the-Fourth-Industrial-Revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-09/18/M_7a69eimage_story.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-19-facepalm-as-researchers-crack-advanced-facial-recognition-tech-with-simple-makeup.md",
       "title": "Facepalm As Researchers Crack Advanced Facial Recognition Tech With Simple Makeup",
       "excerpt": "The concerning part of all of this is that the research also explained this “attack has a high level of inconspicuousness and thus can be launched in the real world.”",
@@ -1111,49 +1154,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-hinge-health-acquires-the-most-advanced-computer-vision-technology-for-tracking-human-motion.md",
-      "title": "Hinge Health Acquires the Most Advanced Computer Vision Technology for Tracking Human Motion",
-      "excerpt": "Hinge Health, the world’s #1 Digital Musculoskeletal Clinic™, has acquired wrnch, developer of the leading computer vision platform for measuring human motion. wrnch’s three-dimensional motion-tracking technology enables the same precise tracking of full-body movement used by elite athletes and the motion picture industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_6c2fade9-44e0-544b-a867-2c04b7ee7558.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_6c2fade9-44e0-544b-a867-2c04b7ee7558.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/b/d4/bd4061e2-8e51-546c-8b3b-f9eb21045938/6144795b2a632.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

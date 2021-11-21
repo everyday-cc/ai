@@ -52,20 +52,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "AWS Touts Partners’ Conversational AI Solutions"
-    excerpt: "A new AWS initiative puts the spotlight on partners’ conversational artificial intelligence (CAI) solutions that allow organizations to deploy chatbots, virtual assistants and interactive voice respon"
-    publishedDateTime: 2021-11-16T20:38:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-touts-partners-conversational-ai-solutions"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/026f-13bd00028ceb-657cc4c9b807-1000/sherry-comes-deloitte.jpg"
-        width: 610
-        height: 458
-        isCached: true
 
 secured: "xj9lrt2K/Ffejwpy53bq+hufUz0FBNn5fWFGHfSlevWqYkao3P+s1GqRGdsmVu3NtbROkXizkcvaf8Uvni+/q8s+0XA6yoayMw7RY2rNJ7wZ6Ca2Ndj5DuL7T7K7+wumA/sMnY7HgHHRhwk1GSdFZ6VgTgMBkW9Lco2z9pBJfmx12oyl2uoeHNk7XNuPD0a8Cg5iMYux75EVLD2jUt4/hZtZkbsAYSEQMO64zCCdWGaNsi87J2e71awHyIPU6lv8yZZCx/DJfLBxTJUbm+XG91r+1vI+Pmu4WzOiipZEFQQoI3fjOK2ef2Sk3fNK3gP52ebRpeJ2XjX6lqNdoPW567uBoRQ46PPIMxRtPx/Vu8g=;MI9nfaqym5geqSSSvWMc9A=="
 ---

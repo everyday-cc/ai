@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 50
-  - title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
-    excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
-    publishedDateTime: 2021-11-16T20:00:00Z
-    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 34
-    images:
-      - url: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving/@@images/rectangular_image/page-header?v=1637102384.82"
-        width: 1460
-        height: 821
-        isCached: true
 
 secured: "79DVEDaxjsBdj/HkOicDaBbZLv1fw8r3YlNH/p/sKQS9GoBTOkGwDZ4ooBzcZMPeznIHRrZ4Bxp9aB/Mm6dbWURiAdN67Y0wc8qIHAV81gUOMs8DtKKPXdaXq/LNcruMVfmAqiUcA+aY3jAzwsGFiRlHYV/GTgmF2g2108azV5JC+uogys7fWYqESKn8gUXVXUbjmgYVYUoSSTmv3LDJ+YHFHl9u0mJeDtqJxgkPqDIopVgn2IzKORetXSMlyD1iGkjFKbW/epTDjOo15ZFpl2YEtpsIl+E0lYzeZ46pkGzDOMoOOUNaJyayzjYaLwwx5LWAGmS/vkQkQjP+HRjZsal+eS+XwRPUvcfq2v4+zmpyt41fDEupFzmxV77GhAEuYNwpJReWSpl2zSceUZ9p612HyAKB7mSELoXdHJXbFzeK89sqOSwubLQs0zWiOoBSKKDvuwajyY7jviEpabZQ4w2mGo4hLbKT0eFfm4W1CZ4FcfZzJSVCp9t71/NM8NHZDuG790vCmcSoQb7jNGLArw==;flDP3jO6PFimewOhdtKUig=="
 ---

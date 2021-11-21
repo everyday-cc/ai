@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 593
         isCached: true
+  - title: "It's Official. Microsoft Will Build Advanced Chips for the US Military"
+    excerpt: "The US National Security Technology Accelerator (NSTXL) announced on Thursday that it has chosen Microsoft to build advanced chips for the military. \"Historically, the security requirements associated with developing microelectronics have limited the U."
+    publishedDateTime: 2021-11-21T11:13:00Z
+    webUrl: "https://interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military"
+    ampWebUrl: "https://amp.interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 59
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DRjoNOx/sizes/microsoft-chip_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Microsoft's Recent AI News"
     excerpt: "Microsoft has built itself up into a Cloud and Corporate Metaverse leader in recent years and that's staring to really show in its artificial intelligence ambitions. We have to give credit where it is"
     publishedDateTime: 2021-11-20T03:53:00Z

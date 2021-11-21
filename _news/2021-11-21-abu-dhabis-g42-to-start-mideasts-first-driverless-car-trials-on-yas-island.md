@@ -43,20 +43,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "UAE: Region's first driverless bus launched in Ajman"
-    excerpt: "The Middle East's first operational driverless bus was launched in Ajman on Tuesday morning. Sheikh Rashid bin Humaid Al Nuaimi, director of Ajman Municipality and Planning Department, and Omar Al Olama,"
-    publishedDateTime: 2021-11-16T19:40:00Z
-    webUrl: "https://menafn.com/1103184351/UAE-Regions-first-driverless-bus-launched-in-Ajman"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/16/KT_d0e96image_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Abu Dhabi’s G42 to Start First Driverless Car Trials in Mideast"
     excerpt: "An Abu Dhabi firm backed by Mubadala Investment Co. plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the United Arab Emirates."
     publishedDateTime: 2021-11-21T07:53:00Z
@@ -81,6 +67,6 @@ related:
       domain: arabianbusiness.com
     quality: 19
 
-secured: "jSB1pfCP/8nV40CTeQw/tbicut7YeKLgPnEdp2uGI1FL/W+D+/KEDpdxZZXdunBOWe+p46KHs+PHR4n2CZ90Ug8dCcA86VApt5FfBiYUOfNKAhC+wKP6Y9IcAJR7HsHH0dz08JsLnPuXJHDb8gR/uVRFsw3YS04JTEo4IP8hc9YBudanT73lPm7g2/BGX9i0LkN66uniXzo2NGn2ky8ND1zQbPu90YW9Tz5F5d6ETfq659mZ8RvZ4iav+4KlwQ4jCZacbn3UE4Waq1dSJthFeH8nkqXY9nMO2cIlVhsD8JOuQJtLulTb1PO9rTxi40yvgw2e8pwG3fzqacuJaz788pd0b+T/qtN6Zm0+2GxbPbo=;eqosPNf3hHW8Kx+vcAlabg=="
+secured: "Eo+f90HjcxzOgmS4+RKkJOOAe+xJy39BbW2JZbLPs3BP24BkQMPELUHP5o48erOn0eTR4YmJigrhMSuGfa9KZGakUPapeujcM8A9ulp/GmJop53FH0H3Oeg+YrlFAIC2kNJJVHxeVp+8/+Fr1n2/kHocprzRDRoxLdzif0qcG+ziq0YadEXSaYy+0IMurXlW7n+syFRDgIAMlc+9oRljS01lK1WucaHoXtSWa6fSkbQGJkTPUN847qxWYInTvqy/xHSMf2c05zrzBpADa58GnRPE5ae8Z7gEyiCjU83XFf0EBvy566zlu57aUsNy4RTu2KE+GvIabyWZmc4JW099nvcdBn1KEMTgTb612VMmUlSOTEMJVu2KZcyK7wLQBfQR6esW0YMWXF4fowB0IcEiJEhJuFi0+hBMeGCXT6E//TSGmzGJ5DXlqrUC9bPOBLn3MhpagdPJV/1l3LggZ1iN1hn+RYxKtSFEuWi6XHiT34dDJcvHetGvI0HpMJ3BsvKGuTrs8S5y3H9fa9H8aYLYtA==;I54tHk72uS6FrzVKN6hhDQ=="
 ---
 

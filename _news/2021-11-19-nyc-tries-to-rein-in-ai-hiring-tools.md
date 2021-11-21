@@ -70,6 +70,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Use of artificial intelligence in hiring raises concerns"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the"
+    publishedDateTime: 2021-11-21T11:00:00Z
+    webUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
+    type: article
+    provider:
+      name: The Montana Standard
+      domain: mtstandard.com
+    quality: 52
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/2/c5/2c5c1a89-8999-557f-970a-8801833d26fc/6197bb0619dad.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "NYC Aims to Be First to Rein in AI Hiring Tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the computers making behind-the-scenes decisions about their careers."
     publishedDateTime: 2021-11-19T13:03:00Z

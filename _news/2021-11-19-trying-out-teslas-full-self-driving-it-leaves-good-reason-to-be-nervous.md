@@ -86,20 +86,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 50
-  - title: "Whether more EVs will be on the road thanks to infrastructure bill, why some ‘Full Self-Driving’ Teslas failed"
-    excerpt: "The $1.2 trillion infrastructure package President Biden signed on Monday allocates more than $7 billion to build a network of electric vehicle charging stations across the country."
-    publishedDateTime: 2021-11-16T20:00:00Z
-    webUrl: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 34
-    images:
-      - url: "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/biden-vp-electric-cars-foreign-tv/ev-charging-tesla-self-driving/@@images/rectangular_image/page-header?v=1637102384.82"
-        width: 1460
-        height: 821
-        isCached: true
 
 secured: "XLdWD0lqDs34varP1XRMPtRSxXFkV8ZSl+WIKfE0+VPqicuJNt1va6yH7n2WAJ1VR88o86JjI9aN4ta2idTU9LQZfScWp9CavkXeAjxXElqt4AK2dHeJ8R96xnGiF50IN8eV8XGzJ5ywEr0aHhrcNj/HOs7yFmxWlDp9F8wi1KfEfQRPMiTVZ1eFNgg3nO6iGuHcSpfcWSW5X8OAocBaXc2PEEQAr9crctNtatFoqEu6oFb1yNNdbwBRMyoTtrdYusa4v96CLDpc4v4X6jUvr6uwOfwGvf252curov2CKWiG22pvRN9QvyGAzGSpjbjsw25xHoViO+YY2S5uKurf4fwhYMOZ93snUAlceLPjbWDY+mPH4iCMKCavOZYQ0gMpa/uumQU4D/bSi2Zdx2LyH3h31xTMSsWsnOYpryb36EoLwFeF3gpe+tmtIqOvS7p30LTYPTjPkvbXdKT3XVhXj9jQEdZXP/UA8IcDsUw6pHxhyszB0wrjsQfFLFMyv0wgrswfoYTZTSrCeao726h41g==;TFs0y2nV1/o1hpFGn0Tprw=="
 ---

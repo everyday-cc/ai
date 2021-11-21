@@ -41,22 +41,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Warning as Facebook ‘is STILL tracking teens for advertising’ contradicting own claims company would limit reach to kid"
-    excerpt: "FACEBOOK is allegedly still tracking teens for advertising, research states, contradicting the social media giant’s claims it would limit reach to kids. The accusations come in a research"
-    publishedDateTime: 2021-11-16T19:35:00Z
-    webUrl: "https://www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/"
-    ampWebUrl: "https://www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 35
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/KB_OFF-PLAT_Facebook-Warning.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facebook parent company Meta still collecting personal data from teens for ads, report says"
     excerpt: "A new report claims Facebook and its parent company, Meta, are still collecting and harvesting your kids’ data — from what they like, to what they search — to target them with ads. Fairplay, Reset Australia and Global Action Plan released the report."
     publishedDateTime: 2021-11-16T21:34:00Z

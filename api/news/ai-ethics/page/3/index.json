@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-15-us-house-mulls-ethical-ai-frameworks-for-financial-sector.md",
+      "title": "U.S. House Mulls Ethical AI Frameworks for Financial Sector",
+      "excerpt": "The U.S. House Committee on Financial Services’ Task Force on Artificial Intelligence is considering how to prevent AI from perpetuating old forms of discrimination or introducing new ones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/computing/u-s-house-mulls-ethical-ai-frameworks-for-financial-sector",
+      "originalUrl": "https://www.govtech.com/computing/u-s-house-mulls-ethical-ai-frameworks-for-financial-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/43b0724/2147483647/strip/true/crop/512x267+16+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F39%2Fdb%2F37636d3f41a481cc6762593ec1b3%2Fmbroussard.png",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/computing/u-s-house-mulls-ethical-ai-frameworks-for-financial-sector?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/u-s-house-mulls-ethical-ai-frameworks-for-financial-sector?_amp=true",
+      "publishedDateTime": "2021-10-14T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-building-better-startups-with-responsible-ai.md",
       "title": "Building better startups with responsible AI",
       "excerpt": "Tom Zick is a researcher in AI ethics at the Berkman Klein Center for Internet and Society at Harvard University, where she is also a J.D. candidate. She holds a Ph.D. from UC Berkeley and was ...",
@@ -1411,51 +1454,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks.md",
-      "title": "New UT program puts focus on ethical AI, building robots to do ‘helpful tasks’",
-      "excerpt": "How does society approach the ethical use of artificial intelligence and building robots? It’s a question students at the University of Texas at Austin will soon have to take a deeper look into. Called CREATE (Convergent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
-      "originalUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2021/09/University-of-Texas-taking-closer-look-at-ethical-AI.png?w=1280",
-          "width": 566,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
-      "publishedDateTime": "2021-09-22T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

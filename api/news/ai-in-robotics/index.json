@@ -543,49 +543,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-17-iit-madras-marine-robotics-startup-raises-16-million-in-pre-series-a-funding.md",
-      "title": "IIT Madras Marine Robotics Startup Raises $1.6 Million In Pre-Series A Funding",
-      "excerpt": "Planys is currently working with Shell on digital transformations for marine assets using robotics, NDT, and data.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/iit-madras-marine-robotics-startup-raises-1-6-million-in-pre-series-a-funding/",
-      "originalUrl": "https://analyticsindiamag.com/iit-madras-marine-robotics-startup-raises-1-6-million-in-pre-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/11/131A3238.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T23:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-17-robotics-powered-by-cloud-to-pave-way-to-smart-robots.md",
       "title": "Robotics Powered by Cloud to Pave Way to Smart Robots",
       "excerpt": "Cloud computing technologies is poised to become pivot for next-gen robotics technologies. The intersection of robotics with cloud computing hardware, with deep learning technologies, IoT, and big data chipping in,",
@@ -1461,6 +1418,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-sourceless-blockchain-board-at-larnaca-conferences-2021-the-reality-of-tomorrows-ai-robotics.md",
+      "title": "Sourceless Blockchain Board at Larnaca Conferences 2021 – The reality of tomorrow’s AI & Robotics",
+      "excerpt": "Sourceles Blockchain Board will be present at Larnaca Conferences, where various topics on AI & Robotics will be discussed ... founder of Sourceless Blockchain, Ccoin Network Fintech and Wisp Communication. - Iulian Bondari, graphic and web designer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
+      "originalUrl": "https://www.openpr.com/news/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub11664540_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
+      "publishedDateTime": "2021-11-11T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

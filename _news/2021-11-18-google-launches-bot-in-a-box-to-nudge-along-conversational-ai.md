@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-launches-bot-in-a-bo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "AWS Touts Partners’ Conversational AI Solutions"
-    excerpt: "A new AWS initiative puts the spotlight on partners’ conversational artificial intelligence (CAI) solutions that allow organizations to deploy chatbots, virtual assistants and interactive voice respon"
-    publishedDateTime: 2021-11-16T20:38:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-touts-partners-conversational-ai-solutions"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/026f-13bd00028ceb-657cc4c9b807-1000/sherry-comes-deloitte.jpg"
-        width: 610
-        height: 458
-        isCached: true
   - title: "IBM’s conversational AI garners recognition from analyst firms"
     excerpt: "IDC has positioned IBM in the Leaders category for worldwide conversational artificial intelligence software platforms. But what sets IBM apart from the others, according to this report? In this analyst report,"
     publishedDateTime: 2021-11-21T07:10:00Z

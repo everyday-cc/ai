@@ -259,7 +259,7 @@
       "originalUrl": "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -662,49 +662,6 @@
         "AI in Robotics",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-iit-madras-marine-robotics-startup-raises-16-million-in-pre-series-a-funding.md",
-      "title": "IIT Madras Marine Robotics Startup Raises $1.6 Million In Pre-Series A Funding",
-      "excerpt": "Planys is currently working with Shell on digital transformations for marine assets using robotics, NDT, and data.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/iit-madras-marine-robotics-startup-raises-1-6-million-in-pre-series-a-funding/",
-      "originalUrl": "https://analyticsindiamag.com/iit-madras-marine-robotics-startup-raises-1-6-million-in-pre-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/11/131A3238.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T23:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1172,6 +1129,48 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-how-artificial-intelligence-could-revolutionize-the-insurance-industry.md",
+      "title": "How Artificial Intelligence Could Revolutionize the Insurance Industry",
+      "excerpt": "The introduction of usage-based insurance, however, has created an effective means to provide the right insurance for the right price — based on specifics, not assumptions. Now, UBI is about to gain a power-up through the robust computation capabilities of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry",
+      "originalUrl": "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/q421%20ubi%20insurance%20hero.jpg?itok=455opSSf",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp",
+      "publishedDateTime": "2021-11-16T13:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

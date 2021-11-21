@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-f
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/kid%20facebook.jpg"
         width: 821
         height: 462
-        isCached: true
-  - title: "Warning as Facebook ‘is STILL tracking teens for advertising’ contradicting own claims company would limit reach to kid"
-    excerpt: "FACEBOOK is allegedly still tracking teens for advertising, research states, contradicting the social media giant’s claims it would limit reach to kids. The accusations come in a research"
-    publishedDateTime: 2021-11-16T19:35:00Z
-    webUrl: "https://www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/"
-    ampWebUrl: "https://www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 35
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/KB_OFF-PLAT_Facebook-Warning.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Facebook parent company Meta still collecting personal data from teens for ads, report says"
     excerpt: "A new report claims Facebook and its parent company, Meta, are still collecting and harvesting your kids’ data — from what they like, to what they search — to target them with ads. Fairplay, Reset Australia and Global Action Plan released the report."

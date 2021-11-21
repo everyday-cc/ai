@@ -2,6 +2,51 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-11-08-interesting-ai-ml-nlp-applications-in-finance-and-insurance.md",
+      "title": "Interesting AI, ML, NLP Applications in Finance and Insurance",
+      "excerpt": "Many blogs address the effect of AI in the financial and insurance industries, but many of them focus on far-fetched AI and machine learning concepts that have yet to be proven or implemented in either.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/",
+      "originalUrl": "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Learning_AIM.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-at-171-cagr-ai-in-fintech-market-size-set-to-register-89849-million-usd-by-2025.md",
       "title": "At 17.1% CAGR, AI in Fintech Market Size Set to Register 8984.9 million USD by 2025",
       "excerpt": "The global AI in Fintech market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 17.1% in the forecast period of 2020 to 2025 and will expected to reach USD 8984.",
@@ -1144,50 +1189,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-sber-to-open-rd-centre-in-berlin-to-expand-horizons-in-machine-learning.md",
-      "title": "Sber to open R&D centre in Berlin “to expand horizons in machine learning”",
-      "excerpt": "Sber, the Russian financial and digital giant, is preparing to open an R&D centre in Berlin — its first one in Western Europe. These plans were",
-      "sourceUrl": null,
-      "webUrl": "https://intellinews.com/index.php/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/",
-      "originalUrl": "https://intellinews.com/index.php/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/Screenshot_2021-11-07_at_13.41.59_Cropped.png",
-          "width": 900,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-07T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business New Europe",
-        "domain": "intellinews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -1,40 +1,23 @@
 ---
 category: news
 title: "AWS Expands Access to Free Cloud Skills Training on its Mission to Educate 29 Million People by 2025"
-excerpt: "These initiatives come as newly released research shows that the need for digital skills training is greater than ever. The AWS Global Digital Skills Study surveyed employers and workers on their perceptions of digital skills training across 12 countries."
-publishedDateTime: 2021-11-18T12:01:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_e215383d-0d3e-5aff-8dc9-a00e712c272d.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_e215383d-0d3e-5aff-8dc9-a00e712c272d.html"
+excerpt: "(NASDAQ: AMZN), announced four initiatives to empower learners and make it even easier for anyone with a desire to learn to access free cloud computing skills training and unlock new career possibilities in the cloud."
+publishedDateTime: 2021-11-18T13:00:00Z
+originalUrl: "https://www.financialbuzz.com/aws-expands-access-to-free-cloud-skills-training-on-its-mission-to-educate-29-million-people-by-2025/"
+webUrl: "https://www.financialbuzz.com/aws-expands-access-to-free-cloud-skills-training-on-its-mission-to-educate-29-million-people-by-2025/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/a/ab/aabff8c1-0421-50b6-85e5-f8ec30143c58/619653a682348.image.jpg?resize=700%2C630"
-    width: 700
-    height: 630
-    isCached: true
-
-related:
-  - title: "Times Professional Learning partners with Nuvepro Hands-on Labs to Enhance its Digital Skills Training"
-    excerpt: "Nuvepro, the leader in Hands-On Labs solution, today announced that Times Professional Learning (TPL), an education initiative by The Times of India Group, has selected Nuvepro to provide the real-world practice environment to the TPL learners to enhance their digital skills."
-    publishedDateTime: 2021-11-17T07:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/17/9494146.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
-
-secured: "yurtpZsXP7t3O9B8bF2VjPgQ5YxIjSddZf3G25BT1Qppo0CwRqBNaoW0yZ8Nh2ALzeQ5/tPqNfiw8DD9wSn0LmuwxEOvue6eqpJ6sAGVTZPBmH3mFnBF9h7wMe8/J1yYbwEtR/KlzPv/As/dewb5YDQ4VVKIv53UQSnwoVuZdtOPVARPJMe96tv3T0PKTo2Ivu+eUswjhdkGc/XPqoj2hh/fhFLmdUwn0FrFkUJJ2nSzWdVFJOT6a/2OVywqF27pR7Kjdv5Pb5Z+5LqgtRgj4FxGW4EXLOOn6VQX6lhgAsJnYIndSqlDWNqKcsLvfYr2iC0yrhLT0W9ciWAYx60B+vsG+9f8VxcVnnl0tpcNpaGGZvO2VTD6FCFoJ6hm3uiBBm8o35skSQc8RzPcJRASPFpTHwxouMYCcVRymAsCEwonBSYQeS24/eRRXjKwc6nZzI2u08QssGdtOFNLumfx4ptWl77Ewbe/ryWz9qu9Qs1rSFv6B3HYIwNIwxjMzxiuo/Rk2JBne92OPCuDWNKijg==;84NLfIZulz+L+2oUpBvrYA=="
+secured: "Rm3g3YAn9XDMwYUUZU1yB969H9Vllz/l/v0QVaS1Zqxlm5gBr+61Kq8BZg0PmrVoK7A+gFgzVm4zfr3VDe76h3EG7e/12PLXcu8A1zGj2hXzd1I/xZh4Gn65udxTrf2/9LScnVgimJAIYluBsXfF6xg4KwpgwY6SmYDp6JnkJHSxe9V3P2rtSZhqLay8ftIU2Q43yExT232ixAxOT3ozuhiAz1xtpGngh5x0RpxSWf4kGZukvm3LsDWrVhO23VVjgarVjdy1il3DJAtTKff/qOxXa9sjgaImtq7gKQF+X+OtLT7TnM20DmHPtr/DuJAjPZObzgxYOJyc2ZPU8Bgip+Img2y5z1EDtDY5gtepkOUUVe3Vs3nk3t6eP7tvP0rQ7MtIc4954mpSmbbp80HdUuceIi/vns2dCAw/ptSMyyNzobBohhdTAV2ftnngIJFYXPEdLpYNM/HIKVE513/7vxk3GWeZXPIAhosd0d+UMPtvqGbrLRn+DOo85JN2Z2kDyLSLLwm7fvVmTOqXDnBgvQ==;D7dYrE/B6gr/JgVl24SHgA=="
 ---
 

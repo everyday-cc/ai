@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-h
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/"
 type: article
 quality: 121
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GE Healthcare’s Endotracheal X-Ray AI Cleared"
-    excerpt: "GE has been offering the algorithm since November 2020 based on the FDA’s COVID-19 emergency guidance for imaging, citing its potential to help clinicians treating critically ill COVID-19 patients who require ventilation."
-    publishedDateTime: 2021-11-16T20:47:00Z
-    webUrl: "https://www.fdanews.com/articles/205385-ge-healthcares-endotracheal-x-ray-ai-cleared"
-    type: article
-    provider:
-      name: FDAnews
-      domain: fdanews.com
-    quality: 34
 
 secured: "BovKsy6Kk2bhQ9A8L6N3sxF3drpyWYYERDiXvPbDQcLchOXK/IuhAJP+vUWz2gej9rZJwUnbYdlLhvPWjCyeXK2VHNTleBTTb8JkGX/zCwNgPBuAfPTG8nIBuT1Zmt8W7AM8Nujg+kh/VAg5qIOHW5D87b547pP+F5oqpgp7KQFmEfDFME0HVYqtCiNTd2nPYPXb8ldA2LntBCbiMqajFLEaZTQqAJdCk2Ku3O4D5pCM4GaYhPJFTKtIue2t1pMCc2RsAUF3uA5sJjxUh/WFQP/0nK5Ouax9Ke1P2l7PmjjCPh7T+8WIe5hD30Da4m8G0p38q7a4t9YQq5IDR7Gdmi1sfcCyEE+xgs/0oR5wGuI=;k1ysJuo7WvmRH0qQTUbuSA=="
 ---

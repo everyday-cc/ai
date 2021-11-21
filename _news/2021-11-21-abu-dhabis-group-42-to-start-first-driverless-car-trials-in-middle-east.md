@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/abu-dhabis-group-42-to-start-first
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/abu-dhabis-group-42-to-start-first-driverless-car-trials-in-middle-east-1.83854370"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "UAE: Region's first driverless bus launched in Ajman"
-    excerpt: "The Middle East's first operational driverless bus was launched in Ajman on Tuesday morning. Sheikh Rashid bin Humaid Al Nuaimi, director of Ajman Municipality and Planning Department, and Omar Al Olama,"
-    publishedDateTime: 2021-11-16T19:40:00Z
-    webUrl: "https://menafn.com/1103184351/UAE-Regions-first-driverless-bus-launched-in-Ajman"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/16/KT_d0e96image_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Abu Dhabi’s G42 to Start First Driverless Car Trials in Mideast"
     excerpt: "An Abu Dhabi firm backed by Mubadala Investment Co. plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the United Arab Emirates."
     publishedDateTime: 2021-11-21T07:53:00Z
@@ -81,6 +67,6 @@ related:
       domain: arabianbusiness.com
     quality: 19
 
-secured: "VmW+HBkYTSdM+Ymmql85jkgnK4V5ibrqbpsFzhzlyHiFIIsryyTpIj+iFxDlOY3aPedVzvE5AIXAXop9+x/EPH/tqZM+whU1ZU44GiR9Zdf3se2QM9ESdv0tlDq0GHcpQdVMSomWsRHebW6InpkJl5BdKLutzmT7XjEZ6pl1W379Ihm5IG8YqSrT2g+NsUsIMp+DKjXkT86oluaTWODz+DCRGp3ia8Xw6pwgMSCOkKFmJRXvqIxBohlHOKk5HZ/6qF2yss53ZXX5feIZfoQTUsW/2Rg7qy9rtWHpiof7X+0D1WbraL6HR1DdZ/ximPuBMokwG+EdiLYYlcxAgbSOiRz/lghmqL/cBUfVv3AJhrk=;W3rcgTkRv/5xU6AuM4rbGw=="
+secured: "RI9v2+i+gA+E3onSKMj2v+tVU8L+JDvw7PsqLFbpnLLIKr/uJKxbPFnBJpoV62GeLUEVDmRUjlBR/fKwsIwlgS3wl/iSTwjNHhNHsa2qHlAHrTHdyesfjtQGUaofAqqwN5nGGVm4IMgQ+8YmwkeYbQGygQPgrcdehCREgDml53qO0k+83Skj4F8Uinhaxfqsft9DYqy5NHKavnRQ3XwIGwAgrtvTuV19ciZzPSzxkobauoyaq6PqesgHWPeIy6NJK6J2wPUBJT8WJt6UpzbLYefA5P59AvvTurCfFi7SRaaCQdDRFGJ5QepyqANau06S7O1ufiqkQYg9qTs8YF1j0BTB9ylJiM/BVUegDMvwWjEIe89Am9FSyCPeFDz37HWMucWD8KEz45G+ZmLWtOVmKt5Z/OZugTLwI2+M3XWCscvFpeO+6VINeoWj41Bjy2tf8sXHn5nP62Eb6l9XztxxqfrtUkoinmDmUC5KK+1JPk24ef2rdmI5lnQDlj4VEBH5uYfHQm+o78cy8XM/diq/Og==;5/bZ9BPJtaeT/PrITO0/tQ=="
 ---
 

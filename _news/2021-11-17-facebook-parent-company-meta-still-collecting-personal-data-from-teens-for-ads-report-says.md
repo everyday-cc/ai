@@ -57,22 +57,6 @@ related:
         width: 821
         height: 462
         isCached: true
-  - title: "Warning as Facebook ‘is STILL tracking teens for advertising’ contradicting own claims company would limit reach to kid"
-    excerpt: "FACEBOOK is allegedly still tracking teens for advertising, research states, contradicting the social media giant’s claims it would limit reach to kids. The accusations come in a research"
-    publishedDateTime: 2021-11-16T19:35:00Z
-    webUrl: "https://www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/"
-    ampWebUrl: "https://www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/tech/4079489/warning-facebook-still-tracking-teens-for-advertising/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 35
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/KB_OFF-PLAT_Facebook-Warning.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "0v00IPedTAi5ShW57BmpbnTrmnrE0dKAINQk9QK6bmFTb/lqdG8wpttRKnh7VJgqr96myttWZtFLHBOmXIof2nPPCtK6b+2pfJjIQxP4WzoVzkVDMQIqp1Pz3IIaA7oA6UvkFhM5YTWLoJ8vmTLTUoNBgsY14mGyuQIJ2FtAb5Wso+BEjvsfyBWk9gyoiFQYndWAC5Uroym4KMEyfzOZCg+GMzvSfjpJC29gEtIcnR4zmKWb0oprdLllwpVOg9c9o11cxdA8LQADnzSo2pX3UPAINRYFqUv1NQbZzaUdMZbA+oGTDgBBt33ETxCFKLDkSpLFhYMlQH7P3Cl7cC+/MYZUAv0re9RxJlN6JzdnWpFyuNDCK3Ln1aoPRuEZw4YpYSFFiuKz4yy/+jrvZe8rzhWjio12oXOUlDRpVRWwFmC+UhoNVSnNIySMOtbzscWjft7IgMpzFwsLsVXK27FNDHY57lrwnnRaalvyjpnufwZ7dCPgd9gXCSxrs7VY2QAygLupIDIJJcbKi5ZGUBtw/A==;HOwbFhBcLddOyKD/GnCTDw=="
 ---

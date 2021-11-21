@@ -51,20 +51,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "UAE: Region's first driverless bus launched in Ajman"
-    excerpt: "The Middle East's first operational driverless bus was launched in Ajman on Tuesday morning. Sheikh Rashid bin Humaid Al Nuaimi, director of Ajman Municipality and Planning Department, and Omar Al Olama,"
-    publishedDateTime: 2021-11-16T19:40:00Z
-    webUrl: "https://menafn.com/1103184351/UAE-Regions-first-driverless-bus-launched-in-Ajman"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/16/KT_d0e96image_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Abu Dhabi’s G42 to Start First Driverless Car Trials in Mideast"
     excerpt: "An Abu Dhabi firm backed by Mubadala Investment Co. plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the United Arab Emirates."
     publishedDateTime: 2021-11-21T07:53:00Z

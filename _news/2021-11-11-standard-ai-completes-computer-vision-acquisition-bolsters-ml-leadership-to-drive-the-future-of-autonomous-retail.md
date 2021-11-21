@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail"
-excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based ..."
-publishedDateTime: 2021-11-10T17:17:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail"
-webUrl: "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail"
+excerpt: "Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based computer vision company, ThirdEye Labs (“ThirdEye”); and added Sameer Qureshi, who joins from ..."
+publishedDateTime: 2021-11-10T17:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
   - Machine Learning
 
-secured: "vRc5Ikr31CJtY/R2cGD1W1gzgEuRMKNQp+qlG4f7+NOFzv9DJK0LlPKZntZ830WxmOOXAy/wivqRuu1X5q26oDCMpO0bEuf+7wKMKWLW0GGQqc7J5lESILcWrtZzMhQc4MXGI7uo3KuUeHKDK8XMHHtp6DyyUJ1sXNraRHQOduH3sM+nP11nPqpBZupQwvyg33X8wYauEkdQY9eJxtgI7Uxs8cY14sdusX7fm0gd98gRqFjQOvHeE5TurgfwMmwAslvD0U96BkyTl+X3lyH3jmPqFr4WKCBXyf1CIGXNBx8vHNzQinGT1QXxUcakJ1f42MY+mRxG19uZovJV1DYQ+gca3D7p+5JDPkqWsOThVgk=;y+Nm2IprotZaGUQbbxXCeA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "sbr9QmiJ4Ji55vlhI6RhUelH7+BSxG6MbM6LfPSvS+n2D0N2uTW5vyVhkXhp3RI5m0ryr/ABmA8dL0xBhGybl0JbVkAs6GVRudMxouzOqY1JQjbWcB9JOwO022gqdLAyCP6YQa25uErPNTtnNCPdHLMNpx5mWjDDSczXB/iyEbi5wZ5PogQdQm8joa75tsl/KmlJ1YEgSEJqS5Xx3vIghcw/VdnxmDdwHj1D4A0Dy+NkzYOjhRIfkpAhK04addzORGW+Fp6xqAzYNr0gDehq7z4mqRf8nx9nvjf+YBmCup+5pYkTTOGSRt6qaCpLpC3QKMHQkaNXu0nTgapBGk1LVRUA39rkT7WC+teGhdozHhQ=;jZhj8OJ1xigagq64LE0aWw=="
 ---
 

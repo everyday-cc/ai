@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GE Healthcare’s Endotracheal X-Ray AI Cleared"
-    excerpt: "GE has been offering the algorithm since November 2020 based on the FDA’s COVID-19 emergency guidance for imaging, citing its potential to help clinicians treating critically ill COVID-19 patients who require ventilation."
-    publishedDateTime: 2021-11-16T20:47:00Z
-    webUrl: "https://www.fdanews.com/articles/205385-ge-healthcares-endotracheal-x-ray-ai-cleared"
-    type: article
-    provider:
-      name: FDAnews
-      domain: fdanews.com
-    quality: 34
 
 secured: "tTfLaxacYX37QS3p6XJIfIYlg1i0a7efG2cUuUG5FnLG+bRFNN4fqZ5MfHJXJTixUn/64l9e4nKXkHS91c59rK8420qLHRcNmDNZJ0bMtpYLHoUfhV6D6ku3UEG+rMIzJn9jvV1frW8sPjFgq+Y+xNqm3/6Limg268mgrkYgAWTaMg5U997LVj4i95TKwBFKkC3zDa4xxwMZ0nq05kyTH4MxHFYEHQkuYzuJtO2Lnkv5bOMorJXndp+ZrZr5Q6Ht8iK5rbuRvuD6b8rCCDKKh0U3qsuSe6m7AG6j1eLFqamJskDuRksOAOt3rPfzpX3Nz7LzaemNOfQPu5AO4jO+lkwPxdvoJJI18XTEpZ+6hdE=;YKkU3oSTBTB+aEPD/f5Q/w=="
 ---

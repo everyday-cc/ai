@@ -1,30 +1,26 @@
 ---
 category: news
-title: "AI Hiring Tools Can Discriminate Based on Race and Gender. A New NYC Bill Would Fight That"
-excerpt: "A bill passed by the city council in would ban employers from using AI hiring tools unless a bias audit can show they won’t discriminate."
-publishedDateTime: 2021-11-19T14:16:00Z
-originalUrl: "https://time.com/6121581/nyc-ai-hiring-bias-bill/"
-webUrl: "https://time.com/6121581/nyc-ai-hiring-bias-bill/"
+title: "Use of artificial intelligence in hiring raises concerns"
+excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the"
+publishedDateTime: 2021-11-21T11:00:00Z
+originalUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
+webUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
 type: article
-quality: 57
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Time
-  domain: time.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Montana Standard
+  domain: mtstandard.com
 
 topics:
   - AI
 
 images:
-  - url: "https://api.time.com/wp-content/uploads/2021/11/nyc-ai-hiring-bias-bill.jpg"
-    width: 5363
-    height: 3575
+  - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/2/c5/2c5c1a89-8999-557f-970a-8801833d26fc/6197bb0619dad.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -44,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Hiring Tools Can Discriminate Based on Race and Gender. A New NYC Bill Would Fight That"
+    excerpt: "A bill passed by the city council in would ban employers from using AI hiring tools unless a bias audit can show they won’t discriminate."
+    publishedDateTime: 2021-11-19T14:16:00Z
+    webUrl: "https://time.com/6121581/nyc-ai-hiring-bias-bill/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 57
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/11/nyc-ai-hiring-bias-bill.jpg"
+        width: 5363
+        height: 3575
+        isCached: true
   - title: "NYC aims to be first to rein in AI hiring tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
     publishedDateTime: 2021-11-19T22:29:00Z
@@ -59,20 +69,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/22/71/74/21733140/3/ratio3x2_400.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "Use of artificial intelligence in hiring raises concerns"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the"
-    publishedDateTime: 2021-11-21T11:00:00Z
-    webUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
-    type: article
-    provider:
-      name: The Montana Standard
-      domain: mtstandard.com
-    quality: 52
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/2/c5/2c5c1a89-8999-557f-970a-8801833d26fc/6197bb0619dad.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
         isCached: true
   - title: "NYC Aims to Be First to Rein in AI Hiring Tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the computers making behind-the-scenes decisions about their careers."
@@ -112,6 +108,6 @@ related:
         height: 720
         isCached: true
 
-secured: "iDzdoXdJVyalDREpyyNa5vbX7iEk5k0OqJAldfVmj6PJZ7d6QRjaso98QvMILRAmTKbzeQpKSzQDpDbaMwvAy2lD4Z4IlYmrPAzjInogl7BtEr9lS9WMoHYcsxjWuRY3nw2CfeP5oN8z+/wJig7tkzbxE+X2uneA5nNQ+KjNoQ2sCE8YcBdcTzWkCpbtbA1lr9bMq79WuUl2sXCu43w0sXM/T3bSBbEIyLAj4YdxvkZR1Nyd6/CK1bhtfLgB6aLk9UveWSMHifbWfkbZ9KFzO09AMN6B6SuUNhz9c8FHZEpmCJrfH6SGnAQRGNUBO4L7TLPaRYAH/5bZjnno0bY4OmLM97XIUZzBeN3mQ+FM1Df1MCGYVjQmZRYvrzuM9W2JSAyDT4s1FD1zIExaMdIsG1qkIaNeJuIUzuhxP4KMcGyNcmYXHoiUAq7NKqzkBmDpj4l5sZLTzbE3L4Z3i/WMKNeOFNYEhJ98BJl7qyl1gfAMNtUT4yKTKD1VtZaAdfv6+e0RILwkRkW2xPD1JXz/Xw==;PRwiywXcZGoUlEthG1sT5w=="
+secured: "Dv0uzKf+3n701SwRUAyIEyBTkL5gzvlwYq+pPnPkreKEpSJ3jhBTSohBeYLQHT5774EDfaY/fS6WDLwCETJl9DR6V4NRhXQ9aWNtDlzq+9YwuTlGWfVT+cfsgm6vaaPGlOZpiiHtv2ebBgkfJGa94BOPwBGE2ZDiNusLEzKqB8LlNQwe3dXQQO+R9TgQYUD4MUKZwimGYlA0y44IjKpJ5UtEhKdtOIJaIEbJrlj7v/8e9/MfwgcyZRTNbCEyCZRMcSVaB63fIVhymI5WJvh5c9ET09/M+pXWvjGSzpFWQbHspmOC1xXpSUUMywrJl9BfYcRA53Cv3WofaO8gaNkOGltD/V9Qs2GyTeC+UOIfJR8=;YO5ltIuf17EPhDP0PEDbpQ=="
 ---
 

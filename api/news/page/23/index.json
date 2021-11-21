@@ -2,6 +2,48 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-11-02-israeli-ai-mobility-company-autobrains-raises-101m-in-series-c-funding.md",
+      "title": "Israeli AI Mobility Company Autobrains Raises $101M In Series C Funding",
+      "excerpt": "Autobrains is disrupting advanced driver-assistance systems and the autonomous vehicle marketplace with its approach to AI for automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/11/autobrains-raises-101m-in-series-c-funding.html",
+      "originalUrl": "https://nocamels.com/2021/11/israeli-mobility-autobrains-101m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/11/image-1.jpeg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-artificial-intelligence-could-be-about-to-replace-your-doctor.md",
       "title": "Artificial Intelligence Could Be About To Replace Your Doctor",
       "excerpt": "The US health and medical insurance industry is a $1.1-trillion maze that is impossible to navigate. And in the bigger scenario of a",
@@ -1096,58 +1138,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-the-challenge-of-being-human-in-the-age-of-ai.md",
-      "title": "The Challenge of Being Human in the Age of AI",
-      "excerpt": "Reason is our primary means of understanding the world. How does that change if machines think?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
-      "originalUrl": "https://www.wsj.com/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-427090/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/being-human-artifical-intelligence-ai-chess-antibiotic-philosophy-ethics-bill-of-rights-11635795271",
-      "publishedDateTime": "2021-11-01T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
