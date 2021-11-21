@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-launches-bot-in-a-bo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.crn.com/resources/026f-13bd00028ceb-657cc4c9b807-1000/sherry-comes-deloitte.jpg"
         width: 610
         height: 458
+        isCached: true
+  - title: "IBM’s conversational AI garners recognition from analyst firms"
+    excerpt: "IDC has positioned IBM in the Leaders category for worldwide conversational artificial intelligence software platforms. But what sets IBM apart from the others, according to this report? In this analyst report,"
+    publishedDateTime: 2021-11-21T07:10:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1636703013_916.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1636703013_916_lg.jpg"
+        width: 315
+        height: 408
         isCached: true
 
 secured: "lAYZj4Bjz+ir0qbVPXEhRZ6Ssu/s9LZmUDLZK+IfolA0GK1FKy/ODRfYY1vhkt8ojXuzbZAkYNBzfzbpQ9bkKjrhXsL/7GSu60/+CQ3ljVbCYIMtXEMeWxkgXOQeCvDnWZ+7OmcDcvdJdEvoy3U2AZQm7Y5pe7HahA9yLVWbEA4pMIpQcwl/nS4eY67umiWRN1Fa5FUs8fgFppev3uBMQocfOKP6HFTuq2mNwetygONRWNwVEmS1VFDLbYZG8Ru5QzW42rPDLhxhU5umBsFSaCY1xtFRjGw4A+kRDahWHO22KQodD8K8w3SnWwQZEEBorfIaXNnwJQtTNhzBc+oxxBVSCsiAWfLrVC6pkMUnKAFrwKiRK+Bu45xcRvQkanZH/uO43CeGC0xkUtJexgfB7FMg5jekW2oEfdt8ii6o65iHkv50Ans+Qtt0TQu3I3BgXLznp06wKUl8H2+a37a4AyaN6CTp/jsKyjE1Td8RF/HQ/rEd2n1BDUFu0wwjF6qQoFerj/rTD0jsDoyqPQ5Wiw==;cM7hzF7BZgYnpG0prIUMZw=="

@@ -2,6 +2,50 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-10-16-scarce-chips-may-pinch-apples-iphone-holiday-sales.md",
+      "title": "Scarce chips may pinch Apple's iPhone holiday sales",
+      "excerpt": "According to Refinitiv IBES, analyst are expecting about 45 million units for the fourth quarter and 79.4 million units in the key holiday quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/articleshow/87056292.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/articleshow/87056292.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-87056292,imgsize-23630,width-800/87056292.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/amp_articleshow/87056292.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/amp_articleshow/87056292.cms",
+      "publishedDateTime": "2021-10-15T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-can-ai-help-prevent-natural-disasters.md",
       "title": "Can AI Help Prevent Natural Disasters?",
       "excerpt": "With the power of big data, advanced analytics, and AI geospatial companies can play a critical role in understanding factors contributing to natural disasters like wildfires, the associated risks, and impacts on communities.",
@@ -1116,57 +1160,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-extraordinary-ai-motorcycle-hud-highlights-hazards-and-cornering-lines.md",
-      "title": "Extraordinary AI motorcycle HUD highlights hazards and cornering lines",
-      "excerpt": "The head-up display for motorcyclists: it's the great white whale of the technology world. Over the years, we've seen at least a dozen different attempts to put information into the eyeline of the motorcycle rider,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
-      "originalUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/e991b46/2147483647/strip/true/crop/1983x1322+282+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2Fd7%2Fb28d9cd849b49549acc2945a2c16%2Fscreen-shot-2021-10-15-at-5.25.26%20pm.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
-      "publishedDateTime": "2021-10-15T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

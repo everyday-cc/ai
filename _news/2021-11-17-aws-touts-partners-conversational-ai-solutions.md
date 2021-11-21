@@ -52,6 +52,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "IBM’s conversational AI garners recognition from analyst firms"
+    excerpt: "IDC has positioned IBM in the Leaders category for worldwide conversational artificial intelligence software platforms. But what sets IBM apart from the others, according to this report? In this analyst report,"
+    publishedDateTime: 2021-11-21T07:10:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1636703013_916.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1636703013_916_lg.jpg"
+        width: 315
+        height: 408
+        isCached: true
 
 secured: "oTPAVRGBxsSD7bW9Hgiwr3JkiGe6H9j9AccPeRmLFikJNijA8DW8uVfbftCIP3PZqs9SbJdbOsMrgHixmJXo5aEGylasoTyUxZWNpmO1zYkxIDZ+vghHVK8uElfrXkyMAzrzBypqj4SudlAQ+B+s0vKzrnY7TGslckQjkD7kwAbJMy7cYpTeVPXKQ5RhYGJBD2fNa4qaFRUfBEUaU3HfLI88ZnNlKJR2er0YqocBHeXCjDqYxZgHG8PKQ4PtAJHbXcQWuLzikHS13rJL0D0H1zBLDHDp8XJ+xVT8D2JPJDZ9UDydLsQNt8gpH1T3oQOmiMw3swc9PaYDrH30jbqGZzWuUXfyJ7rhQ9Fotb/m+IiKs/78spy/xhtKKKpTnwQveAOu/EprCHRdDMGUXkH7SVoxwBIy9IX0Me+K9KdhiksujNHJV1aWXdbePxV+fH9AYtTwYlluyOgfhNMS4iO+JTdXvM7881Kl1hqETQbqGcSJQQmdMmeQvTsRc8gvryE8Kq/8mUFFAr9Hs5guwpKa5w==;sg5ycz2Uw+K8ElO+GzQ4kw=="
 ---

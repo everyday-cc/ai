@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-21-deloitte-evaluates-ai-readiness-in-the-middle-east.md",
+      "title": "Deloitte Evaluates AI Readiness in the Middle East",
+      "excerpt": "Are organizations in the Middle East truly prepared for an Artificial Intelligence (AI) transformation? Deloitte’s latest survey of over 150 GCC leaders",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/are-organizations-middle-east-truly-prepared-artificial-intelligence-ai-transformation",
+      "originalUrl": "https://www.albawaba.com/business/pr/are-organizations-middle-east-truly-prepared-artificial-intelligence-ai-transformation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/Deloitte.jpg?itok=EY2MS5sJ",
+          "width": 960,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/are-organizations-middle-east-truly-prepared-artificial-intelligence-ai-transformation",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/are-organizations-middle-east-truly-prepared-artificial-intelligence-ai-transformation",
+      "publishedDateTime": "2021-11-20T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-21-how-sms-marketing-continues-to-evolve-via-ai.md",
       "title": "How SMS marketing continues to evolve via AI",
       "excerpt": "SMS is exceeding different forms of marketing communication including social media messages and emails. It is mainly because consumers are moving to mobile purchases with online shoppers in India expected to reach 220 million by 2025,",
@@ -53,7 +96,7 @@
       "originalUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -253,7 +296,7 @@
       "originalUrl": "https://siliconangle.com/2021/11/19/alphabets-x-lab-shares-new-details-everyday-robots-robotics-initiative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -348,7 +391,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -400,7 +443,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -452,7 +495,7 @@
       "originalUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -495,7 +538,7 @@
       "originalUrl": "https://virtualizationreview.com/articles/2021/11/19/ieee-tech-study.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1081,7 +1124,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1133,7 +1176,7 @@
       "originalUrl": "https://www.bloombergquint.com/business/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1163,58 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving.md",
-      "title": "Overcoming The Technological Speed Bumps On The Road To Autonomous Driving",
-      "excerpt": "Three years ago, fully autonomous vehicles (AVs) that could take passengers 'anywhere' were supposed to have arrived on the market — at least according (paywall) to a 2015 prediction from Elon Musk. Musk was hardly alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df26da339f52ef6e9735e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/amp/",
-      "publishedDateTime": "2021-11-19T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

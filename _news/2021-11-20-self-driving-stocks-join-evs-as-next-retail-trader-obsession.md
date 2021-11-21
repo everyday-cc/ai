@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-st
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession"
 type: article
 quality: 69
-heat: 90
+heat: 89
 published: true
 
 provider:

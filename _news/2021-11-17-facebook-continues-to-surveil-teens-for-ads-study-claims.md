@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-f
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 99
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/11/02/219700-fb1111.JPG"
         width: 918
         height: 506
-        isCached: true
-  - title: "New study says Facebook and Instagram harvesting data about children"
-    excerpt: "This practice is especially concerning, given ‘optimisation’ might mean weight loss ads served to teens with emerging eating disorders or an ad being served when, for instance, a teen’s mood suggests they are particularly vulnerable,"
-    publishedDateTime: 2021-11-16T16:16:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/mental-health/581721-new-study-says-facebook-and-instagram-harvesting"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/mental-health/581721-new-study-says-facebook-and-instagram-harvesting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/581721-new-study-says-facebook-and-instagram-harvesting?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_facebookkids_istock.jpg"
-        width: 1440
-        height: 880
         isCached: true
   - title: "Facebook leans on AI to target ads at kids"
     excerpt: "The social media giant that now goes by Meta has been accused of lying, and continuing to target advertising using their personal data, and prioritising profits over the wellbeing of children. This appears to contradict the company’s announcement that it would limit how advertisers reach kids in an apparent bid to be a better corporate citizen."
@@ -105,26 +89,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Facebook misled lawmakers about teen ad targeting"
-    excerpt: "A report from advocacy groups has shown that Facebook is still harvesting data from users under 18 for ad targeting purposes."
-    publishedDateTime: 2021-11-16T15:11:00Z
-    webUrl: "https://mybroadband.co.za/news/internet/423008-facebook-misled-lawmakers-about-teen-ad-targeting.html"
-    ampWebUrl: "https://mybroadband.co.za/news/internet/423008-facebook-misled-lawmakers-about-teen-ad-targeting.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/internet/423008-facebook-misled-lawmakers-about-teen-ad-targeting.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 24
-  - title: "Facebook is Still Surveilling Teens for Ads, Says Report"
-    excerpt: "According to new research by Fairplay, Global Action Plan, and Reset Australia, despite Facebook’s claim this summer that it would be limiting how companies may target children on its social media platforms,"
-    publishedDateTime: 2021-11-16T16:50:00Z
-    webUrl: "https://bestgamingpro.com/facebook-is-still-surveilling-teens-for-ads-says-report/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 4
 
 secured: "4ZxVwIvbAB32+K01H4setoaumpLWbWCUJWSKN1xUDLUp9tVWth1ge5wiXJEyN/io+CLWbiwhRHAXRZDBIOU1zjRuOmAWORdXuW8F+8jSx4I7BYto6t8XNp6SjKefD2Njc4qMnF+oqg/YeG22A5zFOMg558LA9tR0/6uqQwz5EyL623ohEwxKn1sTia9YAuiJVeDFmIvNjomwz1vOTm4wWGpwY+mUL32bhvWy8q4kB8k2TDSyR55yzxN3TtZmu9lAwqsmhfN61jca/IhlnX5MsW+Y9TabauodMV5rmL7rt8wZ41kFWY7riRCyfyNsCrjRE+/tb1LMqSUxnODe9+1jNZxomXYng/j7N6e6hAt9PIw=;I5t7jamxh9rgZ9ictkMSjg=="
 ---

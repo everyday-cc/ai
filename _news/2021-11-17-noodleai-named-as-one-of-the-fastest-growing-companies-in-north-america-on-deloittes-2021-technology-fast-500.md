@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24143698"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24143698"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "BluWave-ai and City of Summerside Deliver First AI-Optimized Utility Smart Grid in North America"
-    excerpt: "PRNewswire/ - BluWave-ai and the City of Summerside have announced the first end-to-end AI-optimized smart grid in North America, the first industry proof point of a scalable system applicable to entire states and countries for moving their energy networks towards maximized use of renewable assets."
-    publishedDateTime: 2021-11-18T13:22:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-north-america-7f87b79354497c3328aecbcb246da441"
+  - title: "Deloitte Evaluates AI Readiness in the Middle East"
+    excerpt: "Are organizations in the Middle East truly prepared for an Artificial Intelligence (AI) transformation? Deloitte’s latest survey of over 150 GCC leaders"
+    publishedDateTime: 2021-11-21T07:33:00Z
+    webUrl: "https://www.albawaba.com/business/pr/are-organizations-middle-east-truly-prepared-artificial-intelligence-ai-transformation"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/are-organizations-middle-east-truly-prepared-artificial-intelligence-ai-transformation"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/are-organizations-middle-east-truly-prepared-artificial-intelligence-ai-transformation"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 59
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/Deloitte.jpg?itok=EY2MS5sJ"
+        width: 960
+        height: 682
         isCached: true
   - title: "Iterate.ai Ranks as the One of the Fastest-Growing Technology Companies in North America on the 2021 Deloitte Technology Fast 500™"
     excerpt: "Iterate.ai, whose innovation ecosystem enables customers to build production-ready low-code applications up to 17x faster than traditional programming, today announced that it has ranked 407 on the Deloitte Technology Fast 500 ™,"

@@ -59,6 +59,22 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "MediaTek's unveils Pentonic 2000, World's first 7nm TV chip, decodes 8K@120Hz"
+    excerpt: "Following the release of its flagship Dimensity 9000 SoC for smartphones, the company is now releasing its flagship TV chipset, the Pentonic 2000."
+    publishedDateTime: 2021-11-21T08:28:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 56
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/ampfront/public/alia_neetu_jug_jugg_jeeyo_main.jpg?itok=QSHfsmA_"
+        width: 375
+        height: 240
+        isCached: true
 
 secured: "KzLcomGQtQt9rtYEzVWno2Txi3GBASfHkaBh28CtEiIVuxppBVokCYTnl+ZcSVvSCwZbOw5X62zUwtikfKutR75ozPBuk9XxEC52HhiKO0HG8mMrNf954/mdrb8jX/PItA2s0jJzDVDPlKTveMy75Fsyr4ZhuG0XdNFAKY+Y9OIbol47Dn/TLkLbcbSYeG5O7hPNZRSButp4VdnIcc1IigZlDMIwSIgQW4PkqtVs6SMx4ujZzjmElj2nUHUkoZ8h5t5M4fVTt7Z6pJk0zqDhvrN2sDe0+wvuG12cRZtkcrv/jURM+DWgJTHlWPlMDmuZzQ4uRpOXxT07EuUJV0mYBLFgOol7fxF2iD4ntS6EmwOH92wL0eBSe3EoIXgFD8Kji8nU+5dA+3VcbUJNCzdbMpdYsTvDaG463LH86x3j+TBzst5veDSw5nmqzXkxFS4fzMhvEKgON8b6GCY3oFsf5gkABa6FmH+BTdzxio4hmWi5OyshNpoSZDH5+DnLjvEUO/08XDu+08BIF2AGwcsC8w==;B5e6LfFmT9hOheMkkG4EQQ=="
 ---

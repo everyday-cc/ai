@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Deloitte Evaluates AI Readiness in the Middle East"
+    excerpt: "Are organizations in the Middle East truly prepared for an Artificial Intelligence (AI) transformation? Deloitte’s latest survey of over 150 GCC leaders"
+    publishedDateTime: 2021-11-21T07:33:00Z
+    webUrl: "https://www.albawaba.com/business/pr/are-organizations-middle-east-truly-prepared-artificial-intelligence-ai-transformation"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/are-organizations-middle-east-truly-prepared-artificial-intelligence-ai-transformation"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/are-organizations-middle-east-truly-prepared-artificial-intelligence-ai-transformation"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 59
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/rubaAbdelhadi/Deloitte.jpg?itok=EY2MS5sJ"
+        width: 960
+        height: 682
+        isCached: true
   - title: "Noodle.ai Named As One of The Fastest-Growing Companies in North America on Deloitte's 2021 Technology Fast 500™"
     excerpt: "Noodle.ai, the world leader in Supply Chain Flow, enables the frictionless flow of goods from raw materials to consumer by"
     publishedDateTime: 2021-11-17T12:05:00Z
@@ -34,20 +50,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "BluWave-ai and City of Summerside Deliver First AI-Optimized Utility Smart Grid in North America"
-    excerpt: "PRNewswire/ - BluWave-ai and the City of Summerside have announced the first end-to-end AI-optimized smart grid in North America, the first industry proof point of a scalable system applicable to entire states and countries for moving their energy networks towards maximized use of renewable assets."
-    publishedDateTime: 2021-11-18T13:22:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-north-america-7f87b79354497c3328aecbcb246da441"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "A+ib1oeQKsAHiL4qOA6fg6zpRH9H6kmCpM8W4REQO/ktnnNawAea25z5ue1h07dkvVRVRMjjAAvoFqJyKOyv7XlErRp0x3c050j/xvSVV3sJR/3HiUtMD4mHegbQxTWNsm66GS5mUMhKB/Bpa7Iy/lfTTITi8FjxKlSm5R+EEO54JfHziaI4DGLXYuoAPKK53hU1EU5XFO9exyQAYyTCwCm64s4I+CqAcymobzqKkMXRNd1AqpRXmS1RJlBGo+G8QPmshOHnf1xNEWcCCzJUrnHzQNdniy+MWwTrDlv7yr+vj/DYa4aZlMHfwHhJK1jTL11Y1zHu02/wLA3mnDHk/n2PypZdRKCj/Z5L496LggY=;IHjDuQ1i0q5UCLUiEobXvw=="

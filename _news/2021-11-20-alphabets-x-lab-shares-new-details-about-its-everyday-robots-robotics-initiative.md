@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/11/19/alphabets-x-lab-shares-new-det
 webUrl: "https://siliconangle.com/2021/11/19/alphabets-x-lab-shares-new-details-everyday-robots-robotics-initiative/"
 type: article
 quality: 64
-heat: 74
+heat: 76
 published: true
 
 provider:

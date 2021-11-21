@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/"
 type: article
 quality: 86
-heat: 134
+heat: 126
 published: true
 
 provider:

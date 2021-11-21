@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-17-ai-customer-service-startup-netomi-raises-30-million.md",
+      "title": "AI Customer-Service Startup Netomi Raises $30 Million",
+      "excerpt": "The new round of funding values the company at $210 million, up from a valuation of $67.5 million in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "originalUrl": "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-436249/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "publishedDateTime": "2021-11-17T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-facebook-continues-to-surveil-teens-for-ads-study-claims.md",
       "title": "Facebook continues to surveil teens for ads, study claims",
       "excerpt": "A new study has found that teens and children’s accounts still receive targeted advertising based on data collected from surveilling their browsing history. Facebook is using data about children’s online behaviour to feed their machine learning-enabled ‘Delivery System’ to optimise targeting in children’s feeds,",
@@ -10,7 +61,7 @@
       "originalUrl": "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1122,58 +1173,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai-trends-for-2022-how-will-ai-affect-you.md",
-      "title": "AI Trends For 2022 - How Will AI Affect You?",
-      "excerpt": "The year is almost at an end, and so it is once again time for the obligatory trends articles (Trends for 2022).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193e8bc87af81b55839db27%2F0x0.jpg",
-          "width": 919,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/amp/",
-      "publishedDateTime": "2021-11-16T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

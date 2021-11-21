@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-intervi
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/21/11/mediatek-pentonic-2000-offic/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "MediaTek's unveils Pentonic 2000, World's first 7nm TV chip, decodes 8K@120Hz"
+    excerpt: "Following the release of its flagship Dimensity 9000 SoC for smartphones, the company is now releasing its flagship TV chipset, the Pentonic 2000."
+    publishedDateTime: 2021-11-21T08:28:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 56
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/ampfront/public/alia_neetu_jug_jugg_jeeyo_main.jpg?itok=QSHfsmA_"
+        width: 375
+        height: 240
         isCached: true
   - title: "MediaTek Dimensity 9000 Flagship Chipset Arrives to Rival High-End Snapdragon Chips"
     excerpt: "MediaTek, at its 2021 Summit, has announced the new Dimensity 9000 flagship chip. It is the world's first TSMC chip that is based on the 4nm process,"
