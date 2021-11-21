@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-21T16:18:00Z
 originalUrl: "https://www.manufacturingtomorrow.com/article/2021/11/transforming-legacy-manufacturing-enterprises-with-ai-on-the-edge/17886"
 webUrl: "https://www.manufacturingtomorrow.com/article/2021/11/transforming-legacy-manufacturing-enterprises-with-ai-on-the-edge/17886"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.manufacturingtomorrow.com/images/articles/17886.jpg"

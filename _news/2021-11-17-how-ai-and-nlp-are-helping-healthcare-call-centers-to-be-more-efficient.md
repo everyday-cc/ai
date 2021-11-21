@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-h
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/"
 type: article
 quality: 121
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/67eb29774477fdfb5a6bd6f1e0df24ed724e881d/2021/11/20/91e4f4e4-4221-45fe-9094-2aa6ccf22d2b/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 1168
-        isCached: true
-  - title: "FDA clears GE Healthcare X-ray artificial intelligence aid for endotracheal tube placement"
-    excerpt: "The U.S. Food and Drug Administration has cleared an artificial intelligence algorithm from GE Healthcare that aids physicians in assessing endotracheal tube placement via X-rays. It’s part of a suite of five solutions from the Chicago-based technology giant,"
-    publishedDateTime: 2021-11-17T03:07:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 59
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-01/carestream_3.jpg?h=84d12988&itok=A6p-gaLn"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "BovKsy6Kk2bhQ9A8L6N3sxF3drpyWYYERDiXvPbDQcLchOXK/IuhAJP+vUWz2gej9rZJwUnbYdlLhvPWjCyeXK2VHNTleBTTb8JkGX/zCwNgPBuAfPTG8nIBuT1Zmt8W7AM8Nujg+kh/VAg5qIOHW5D87b547pP+F5oqpgp7KQFmEfDFME0HVYqtCiNTd2nPYPXb8ldA2LntBCbiMqajFLEaZTQqAJdCk2Ku3O4D5pCM4GaYhPJFTKtIue2t1pMCc2RsAUF3uA5sJjxUh/WFQP/0nK5Ouax9Ke1P2l7PmjjCPh7T+8WIe5hD30Da4m8G0p38q7a4t9YQq5IDR7Gdmi1sfcCyEE+xgs/0oR5wGuI=;k1ysJuo7WvmRH0qQTUbuSA=="

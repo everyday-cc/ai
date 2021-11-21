@@ -35,22 +35,6 @@ related:
         width: 1024
         height: 588
         isCached: true
-  - title: "BMW to use Qualcomm’s Soc for self-driving cars. Know more"
-    excerpt: "BMW will utilize Qualcomm Technologies to bring a full spectrum of ADAS/AD functions, including front, rear and surround view camera computer vision"
-    publishedDateTime: 2021-11-17T03:46:00Z
-    webUrl: "https://www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more-11637079056915.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more/amp-11637079056915.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/bmw-to-use-qualcomm-s-soc-for-self-driving-cars-know-more/amp-11637079056915.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2021/11/16/600x338/cq5dam.resized.img.1680.large.time1601620546255_1637057024335_1637079144170.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Qualcomm chips supply for BMW self-driving cars"
     excerpt: "Qualcomm has made a major announcement regarding its new strategy to advance autonomous drive capabilities. Qualcomm and BMW have announced a new agreement to collaborate on the development of chips for future generations of driver-assistance and self-driving systems."
     publishedDateTime: 2021-11-17T07:50:00Z

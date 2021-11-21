@@ -97,26 +97,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "L&T Technology Services to support Mavenir and NVIDIA for adoption of AI-on-5G"
-    excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform AI is already transforming many industries across the globe. When combined with the power of 5G networks,"
-    publishedDateTime: 2021-11-17T04:20:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
-  - title: "L&T Technology Services chosen by NVIDIA and Mavenir as Engineering Partner for AI-on-5G platform"
-    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
-    publishedDateTime: 2021-11-17T04:08:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=302433"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 6
 
 secured: "Y6OX4c2cHZ8nZAbJ8VxlXBGvX0kAXJTeFoUBbaskYt12lllr09xKn0zuvrhmdpa3DTPTQeIaZmwXd+/YAr4o1Bkpmaj9IFkG+4uj8AgewrfMKIdbd8wkla7dqgkoEBufVx2VjGk/KWElZH5A4iOYhvJiC7pdCPEWh651XwXSg8IamdlQA5gtZXFvrtCbZO8uO3uDB7uikmfhqw1i1gj6uDA0lwbRaJgTbUfja62CH0yMMqopDhksJ6bHHPa8wuubpVVmkiXS941hqkWw/PrRrO7OxUA3VjReDpjZTofJffIDFWeUr8Ijo/NUPls617VpIQu08AWaLkm2k/6TiWd3bIW9/UoG9taCq7qzn+yPNK8m0ImvG1pUN3pUWQx9piRUL68Qf5zPSS2cPrbdkywv9RtHCVQAWJFzUu8jaFXeax5TRyEh06CFFUxgj2oTYKOX+WgBNQym4pSMSKnbJ7tEVeUGaQgny1TYi98D2Mf+z22RPpEl7aZahMs7aJdFJoAURnY7ark32B7oIyNNFrW4MA==;vZjF0EtmVg8X7QVCReZjWQ=="
 ---

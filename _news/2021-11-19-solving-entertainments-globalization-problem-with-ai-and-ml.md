@@ -40,7 +40,7 @@ related:
     provider:
       name: Manufacturing
       domain: manufacturingtomorrow.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.manufacturingtomorrow.com/images/articles/17886.jpg"
         width: 680

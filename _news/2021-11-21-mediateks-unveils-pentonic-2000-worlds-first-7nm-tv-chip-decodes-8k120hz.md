@@ -59,6 +59,22 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "Dimensity 9000: American users are worried, they wont be able to use this chip"
+    excerpt: "MediaTek officially released the Dimensity 9000 flagship processor. This chip has been attracting a lot of attention because its theoretical specification"
+    publishedDateTime: 2021-11-21T20:13:00Z
+    webUrl: "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/"
+    ampWebUrl: "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 55
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "MediaTek Dimensity 9000 Flagship Chipset Arrives to Rival High-End Snapdragon Chips"
     excerpt: "MediaTek, at its 2021 Summit, has announced the new Dimensity 9000 flagship chip. It is the world's first TSMC chip that is based on the 4nm process,"
     publishedDateTime: 2021-11-20T09:45:00Z

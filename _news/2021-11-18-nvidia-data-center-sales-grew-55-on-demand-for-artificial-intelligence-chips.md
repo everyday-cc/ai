@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.htm
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
 type: article
 quality: 103
-heat: 173
+heat: 153
 published: true
 
 provider:
@@ -101,26 +101,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "L&T Technology Services to support Mavenir and NVIDIA for adoption of AI-on-5G"
-    excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform AI is already transforming many industries across the globe. When combined with the power of 5G networks,"
-    publishedDateTime: 2021-11-17T04:20:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
-  - title: "L&T Technology Services chosen by NVIDIA and Mavenir as Engineering Partner for AI-on-5G platform"
-    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
-    publishedDateTime: 2021-11-17T04:08:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=302433"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 6
 
 secured: "EKxU+77DEBDrQ2sfj7W/wiUNgQk4KRyblAMpANOtmoWt183LVGmmCcJk3oOd44vJVWfGxzaWyaKVIVw4ZtMWrGgMoARU3S/RER7tXhdGF8mziMXXbGbXcnog+1EurRnID36GoO9NhPFZXc8rdQ76ofCxExgVqXV5WHsh4f2xC1xbJtwBbNE27dAAdxOBXToRxCfgkH0AWlqhm2qUxbOMl1EkM7D9E4vNPA3ZIVvU4ETGxBRSyrgdDTosSpAUMKaxFX//bfgAAmbW+XvoeAj6sJe2qKPY0UO4ByBdxizBHxcsyIDr3qzzsRtBbDSmJNbpGsuo2sWG3ymTii0cRUKUtnNv83Oe2X0yYjZmQHjR/qX1bTA8KiICe0syAb4XqGwQ30qJ5SeJcvjZnSab4Z+vOttUFa8YhuWyONKr9QXYL4FHpajOg4hFcP1LH6OPKihFcufRWmaMzi+khNVUex9vbWMwQQUujYb1kDJKkx+5t5Mc3YnYM6Bung0B1q3TbWWEC3nw4IsVDOXyh72dwQ3MFg==;Uxw7Ex5+jkbIvh/Vrv5i0A=="
 ---

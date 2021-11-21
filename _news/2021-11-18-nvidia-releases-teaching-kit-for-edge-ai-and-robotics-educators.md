@@ -97,26 +97,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "L&T Technology Services to support Mavenir and NVIDIA for adoption of AI-on-5G"
-    excerpt: "LTTS will support Mavenir with customization, integration and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform AI is already transforming many industries across the globe. When combined with the power of 5G networks,"
-    publishedDateTime: 2021-11-17T04:20:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/l-t-technology-services-to-support-mavenir-and-nvidia-for-adoption-of-ai-on-5g-121111700215_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
-  - title: "L&T Technology Services chosen by NVIDIA and Mavenir as Engineering Partner for AI-on-5G platform"
-    excerpt: "L&T Technology Services Limited (BSE: 540115, NSE: LTTS), a leading global pure-play engineering services company, announced that it has been selected as an engineering partner by Mavenir and NVIDIA,"
-    publishedDateTime: 2021-11-17T04:08:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=302433"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 6
 
 secured: "+jKdGuAcIIUsDrnhm1gXye1W6wOf0aRojdn576wW7fvTNwjEUccM5IkYCxIQSsrDrwq6w9eC1Kp/I7kIYeftb+/wZ0uyLH+Wc5oSyEP3MZVW8acHhJT00nZRMMFtS8euZm+1NRbrBnvCBAjNMcAWTliJf2T7LPsmuNEf4+oH1EzU4IvpP8v4qm0ILaZxwT8eSDlwfS0OP150D/dwSuftrSNDA+pM0/vGgxYd77ymv+nS+jBrSFL54YYisUP32MrxVKrbOdDpTmQ0q/ae4yhaqCdftYVTJtL6vZRLOyhJFMPocn6mqunIX+Cr4D14xFXoBb4IFx5olW+/XIJdqN9fG/xZLeusPHzQlA8aXJqenTi4IAxMsPsgi6pvQLVupLUs03iqvRC1OnUQ2wTDOI5Ylo053CJOihSIJOKb69A5I5NoEspQ45YZqetTP+tmz4h/QFR24NXkhhsdfkcPV7OCtrc/MCnVb9Zb0SCOU7X4tqaqNY3jwtOOo+5EjCTa06oS9i3QUVbngOHR6Ai8se2ndQ==;LgUurY3jL/d5QYUpmxIO7A=="
 ---
