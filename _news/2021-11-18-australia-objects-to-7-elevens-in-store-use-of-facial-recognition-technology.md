@@ -66,15 +66,6 @@ related:
       name: Nine News Australia
       domain: 9news.com.au
     quality: 17
-  - title: "UK and Australian Commission to investigate Clearview’s facial recognition technology"
-    excerpt: "The Australian Information Commissioner (OAIC) and the UK Information Commissioner’s Office (ICO) have recently conducted a joint probe in order to investigate Clearview’s facial recognition technology."
-    publishedDateTime: 2021-11-16T10:44:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/uk-and-australian-commission-to-investigate-clearviews-facial-recognition-technology/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 12
 
 secured: "Vt8IplXjL+MPGEuhF1X0lMoKlmwWR2g4yG3YMLfIZmQuUYLEKaRKtB8l2Is+hrBKRAIW9qh6RzpoVmnLW0UF1Uq8+fbgDt09X0tIlPch31xb/LLSHXwdj04gzxEUrPu5oKbI1Uc+WWJL1h7zkRyjZSvjyaUGubNt//l4YqpADWT2wb5/SOgfqQl+QP+0hZlcvywxMUNlR1eCoDmwZUVka2mIV5IB5j2Scclcrkp07xZYZrLta+1733MvBG7B21jaccjxu1oQhBy+u1bD3mI1WOf67pVYzIt+G0D7KrDZd6nt3G+TuwvPVBI93mv9bWcG9gHwvKpZZkqcZ/4BEpuLujfjcxfw2U4k+2sGLF/0OpwYOZkljisw90IrQiKHLzXs3BZunVVBGyMDeKhLrV3XEquWuZmr3T32V+uOeFXXy4Iut010tuIxWr/34OWrBsaMyfEZGGjqjQIbe6q4lCNCjKMAAIjJFU9x7o8/6SMYgM8euO9CZWgqfMFNIbiF40QqoMcTfoc3VWU5ZQHngN6zoQ==;ERBRB4ax/tyIX9mBrn52Fg=="
 ---

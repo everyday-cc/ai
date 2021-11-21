@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-7
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/justt-emerges-from-stealth-with-70m-to-fight-chargeback-fraud-with-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Justt comes out of stealth with $70M in funding to help online merchants fight false chargebacks with AI"
-    excerpt: "Justt, a Tel Aviv-based chargeback mitigation startup, is emerging out of stealth today with $70 million in total funding. Founded in February 2020 by Roenen Ben-Ami and Ofir Tahor, Justt says it fully automates chargeback disputes on behalf of online merchants."
-    publishedDateTime: 2021-11-16T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 170
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Justt-product-screeshot-1.jpg?w=680"
-        width: 680
-        height: 466
-        isCached: true
   - title: "Justt, a Chargeback Mitigation Fintech, Secures $70M to Take On Outdated Chargeback System"
     excerpt: "Justt, a chargeback mitigation pioneer, has announced that it has secured $70 million in funding as it further expands its mission to assist merchants with combating false chargebacks with smart tech."
     publishedDateTime: 2021-11-17T11:48:00Z

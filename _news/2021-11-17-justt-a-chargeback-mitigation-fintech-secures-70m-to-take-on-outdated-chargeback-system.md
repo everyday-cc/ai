@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Justt comes out of stealth with $70M in funding to help online merchants fight false chargebacks with AI"
-    excerpt: "Justt, a Tel Aviv-based chargeback mitigation startup, is emerging out of stealth today with $70 million in total funding. Founded in February 2020 by Roenen Ben-Ami and Ofir Tahor, Justt says it fully automates chargeback disputes on behalf of online merchants."
-    publishedDateTime: 2021-11-16T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/16/justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 170
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Justt-product-screeshot-1.jpg?w=680"
-        width: 680
-        height: 466
-        isCached: true
   - title: "Justt emerges from stealth with $70M to fight chargeback fraud with AI"
     excerpt: "Justt, a startup developing a platform to fight chargeback with AI, has emerged from stealth with $70 million in venture capital."
     publishedDateTime: 2021-11-16T14:46:00Z

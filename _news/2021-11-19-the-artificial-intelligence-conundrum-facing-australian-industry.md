@@ -64,15 +64,6 @@ related:
         width: 766
         height: 531
         isCached: true
-  - title: "UK and Australian Commission to investigate Clearview’s facial recognition technology"
-    excerpt: "The Australian Information Commissioner (OAIC) and the UK Information Commissioner’s Office (ICO) have recently conducted a joint probe in order to investigate Clearview’s facial recognition technology."
-    publishedDateTime: 2021-11-16T10:44:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/uk-and-australian-commission-to-investigate-clearviews-facial-recognition-technology/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 12
 
 secured: "+jHXAX4Od9H1f2bbcGz8fvXrmTpVXoMPKXSLwRp6nf/6lyBuNVN8eIir3GhJ2rd3O/AJGSlFVYv4qnK2U+wHAjcpIKRWIQca5OJrgogLgTl046TRNR7kpK8mPREzh/KT1if15pRWpEIItczrCS5H4cTa7QWTbnQFOCGPehGXS6N2m9Ow+kbcbx8awqaweW+T3xVfwDMSqxnXgBJd+rQ6E3ACClXslboSPHGFac6A9OaTPJrIXGNLdlig8Pr2suD/W2DQxC/E7JWvnCRMb7OLtdI16qwy3Oif1QGzdbDpGuZQqbdWGPGh2rSGoKwKFNwMQ7PjWX8NvwqTFu5dGWXIFGnhCreOPNqoGZiwDQzQv/S64ms4f4ofTqeXgfbdHM8QrKWFxAW/Nr1gxwsZC6/sSmhbRekbCRDLOTmvfOQTUZuuhCHn5xwpIOsJmFxS/QPV9687HAZyDRM7y+6Thzdc8tqOcE052pWCsURvNjLSbak25sWm6lTxbxHngRBaxbiXJzbI58QAa70HACApAG8asw==;HhavbDGIZdNsFMSaN+u7zA=="
 ---

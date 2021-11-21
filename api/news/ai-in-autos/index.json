@@ -62,7 +62,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1392,21 +1392,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-09-hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store.md",
-      "title": "Hashtag Trending Nov. 9- FTC Amazon drivers; Walmart’s driverless trucks; Meta store",
-      "excerpt": "The FTC reimburses Amazon drivers for tips the company withheld, Walmart is rolling out driverless trucks for grocery services, and is a Meta store in the works? That’s all the tech news that ...",
+      "path": "_news/2021-11-09-motional-and-lyft-to-launch-fully-driverless-ride-hail-service-in-las-vegas-in-2023-will-mark-first-city-in-multimarket-deployment.md",
+      "title": "Motional And Lyft To Launch Fully Driverless Ride-Hail Service In Las Vegas In 2023 - Will Mark First City In Multimarket Deployment",
+      "excerpt": "The service will be the first time fully driverless robotaxis are available to public riders in Nevada, and will use Motional's next generation robotaxi, the all-electric Hyundai IONIQ 5-based ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459",
-      "originalUrl": "https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459",
+      "webUrl": "https://www.prnewswire.com/news-releases/motional-and-lyft-to-launch-fully-driverless-ride-hail-service-in-las-vegas-in-2023---will-mark-first-city-in-multimarket-deployment-301419623.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/motional-and-lyft-to-launch-fully-driverless-ride-hail-service-in-las-vegas-in-2023---will-mark-first-city-in-multimarket-deployment-301419623.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png",
-          "width": 1500,
-          "height": 1500,
+          "url": "https://mma.prnewswire.com/media/1682516/Lyft_Motional_Start_Ride.jpg?p=facebook",
+          "width": 1467,
+          "height": 767,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1414,13 +1414,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store/464459?amp=1",
-      "publishedDateTime": "2021-11-09T02:06:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T06:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,29 +1,28 @@
 ---
 category: news
 title: "SensiML Teams with onsemi for Industrial Edge AI Sensing Applications"
-excerpt: "SensiML™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced that it"
-publishedDateTime: 2021-11-04T12:07:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sensiml-teams-with-onsemi-for-industrial-edge-ai-sensing-applications-301416342.html"
-webUrl: "https://www.prnewswire.com/news-releases/sensiml-teams-with-onsemi-for-industrial-edge-ai-sensing-applications-301416342.html"
+excerpt: "\"Other AutoML solutions for the edge rely only on neural network classification models with only rudimentary AutoML provisions, yielding suboptimal code for a given application,\" said Chris Rogers ..."
+publishedDateTime: 2021-11-04T12:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/11/n23886346/sensiml-teams-with-onsemi-for-industrial-edge-ai-sensing-applications"
+webUrl: "https://www.benzinga.com/pressreleases/21/11/n23886346/sensiml-teams-with-onsemi-for-industrial-edge-ai-sensing-applications"
+ampWebUrl: "https://www.benzinga.com/amp/content/23886346"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23886346"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1678512/SensiML_onsemi.jpg?w=400"
-    width: 400
-    height: 300
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "Y0CRKCEvsQln6MQL7kdFqm1myZCqdS4ImAbK/cqv+fPh1CXmSZdSFBvIb1KGyNEYpGUbOP6o+lGfyhdE/FJV9SdIc185+Jw/mvGysTYGXwTv8q8E5Un76TSVXgmgwB0kDqHw11+FpkWOUGFyUb+DEDNIC+Tabteo1spRhrYEdcTMDv2AyTZEz7QPj2WFPtqHerFWhIqC8qwVEjzd3XqDvt0qQrVCosb+gL7jZOoW1vw2aPc+cnb6+UNWWK2bqE/RZgw6Rb6wu7Wkll5oxF8OxuDze452nWY+femw3wbw53m11Clijk9ItRGs1j2fZgeMSs4khYSSCjrWg1HAiSQX+IDhzPlWE0AADs91cTrrVFzsS/kOU0RD/Lu0as/HwNpYyTzRawIEzXKNYbnDPeWmc2Ai7AmZh2FggUUBoLk2+OvTo6Gu8nIeuwt1cwIszfuhUJ01viVGYv631Y49RzTFC2YZmZhk85KcoqxNB9StNX85yZgPFg4E49eQNtzBQJoSBFMgUF8mCjvAW+2TOYMF0A==;69LUooWNwEZYlBOdGgixfw=="
+secured: "i4BaNuplG7QnyY7y4dwTTUcZA3y/T2gQ4LWIcIpiatJWhvdAvnoGSHoI9as7kIgQp3CVopeZq7jfEcIEd2eksNjT2o8Oh4URJgo4PxTAzuZLqZtZiX/ejjvoQtX5qr3d2Zij8/3LUmqrOKIAT2pR+dKlFtC+fhB0x1OF9TPl+OMkGYWR60nluUV9ZK95vXjuiJYQVW47E6I9JrIASv9CkNWy70dmVJwmb+3GSUAXVzCBH+h4AYDyHvJyM0fW3Ub00COSgumigKdOm9gxlrfG+qpMCezfwaiuy+lXGtM5J9btLoRsLSR2bNMPhhlV/BX7PiKiysUlLJkbwjkr1+LuPWfRUGXioHmXLoYadtvBfWo=;xk+5NurzU6T3OkPDtw9YqA=="
 ---
 

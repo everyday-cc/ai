@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-countr
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
       name: Nine News Australia
       domain: 9news.com.au
     quality: 17
-  - title: "UK and Australian Commission to investigate Clearview’s facial recognition technology"
-    excerpt: "The Australian Information Commissioner (OAIC) and the UK Information Commissioner’s Office (ICO) have recently conducted a joint probe in order to investigate Clearview’s facial recognition technology."
-    publishedDateTime: 2021-11-16T10:44:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/uk-and-australian-commission-to-investigate-clearviews-facial-recognition-technology/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 12
 
 secured: "4zOUv4VplBB8vrptiCPKUKRm78eY+EX0dUjad8QAjSxwzGDJRjWEfb9Jpoz2mdQYhj7P1fHomA5pVv3M6Ix/exzhGbUbkr2uef6jSWlWYHlcM0rNx6dYNwyJyc1bkxglupyjDJebyUSQCg6sj8JqYQUfUgBYpRZ3IxJRSMH9PXkQNEJLNSdYceAtBDKcpYFfEp92hNcm14l5Ok1C2nlSIDz9a/SV+0dpfSGfKxeWptzacfdMxU/utgXVTcyynpuj3tp3nT3wCkFqnSV/KvdoLxNLOHzdzWhzCjrUZqTavG+7a0sTsrk9MN9bQESTw3P3CADVzKiUkZf5folCUStylHM010FzE9VEYE7WoWqS9uvxygyJFSddLR81+a7XxNBdlOONGabiao5uyhACIhQi6ReX8V16pshWX6baOWKH1beS4E2JwrnIwTMGBHtMcjCuLnMhMdJlZ0ibK9y4tbmNp0eEhJZSECTvQjw9eqkKHMsvjeFhvsrGDrEVN4GcmSvtLZW4KxfnCATaDuOH2NqeOg==;c2NVcJr/HSuU4EScgImQkw=="
 ---
