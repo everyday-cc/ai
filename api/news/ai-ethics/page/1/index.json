@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-20-ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies.md",
+      "title": "AI Weekly: Defense Department proposes new guidelines for developing AI technologies",
+      "excerpt": "The U.S. Defense Department's Defense Innovation Unit has proposed new ethics guidelines for private contractors developing AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/",
+      "originalUrl": "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-160989986.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/amp/",
+      "publishedDateTime": "2021-11-19T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-policymakers-want-to-regulate-ai-but-lack-consensus-on-how.md",
       "title": "Policymakers want to regulate AI but lack consensus on how",
       "excerpt": "Commentary: AI is considered \"world changing\" by policymakers, but it's unclear how to ensure positive outcomes.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1368,58 +1420,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask.md",
-      "title": "Google unveils 'Pathways', a next-gen AI that can be trained to multitask",
-      "excerpt": "Today's AI models, according to Google's AI lead and co-founder of the Google Brain project, Jeff Dean, are at the one-trick pony phase – they are \"typically trained to do only one thing\". But a new approach called Pathways could provide something akin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "originalUrl": "https://www.zdnet.com/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/58190d3b9be2f10b7c067e98f461e75b3a4c0dc0/2021/10/29/4802e0e3-058c-4b9b-bd4e-9761f806c7be/google-pathways-ai.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "publishedDateTime": "2021-10-29T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

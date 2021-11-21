@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SoundHound Inc., Global Leader in Voice AI Technology, to Become Publicly Traded Through Proposed Merger With Archimedes Tech SPAC Partners Co."
-    excerpt: "SoundHound Inc. (\"SoundHound\"), a global leader in voice artificial intelligence (\"voice AI\"), and Archimedes Tech SPAC Partners Co. (NASDAQ: \"ATSPU\" units, \"ATSPT\" subunits and \"ATSPW\" warrants) (\"Archimedes\"),"
-    publishedDateTime: 2021-11-16T12:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-soundhound-inc-global-leader-voice-ai-technology-become-/2021/11/16/9492877.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "qCXrxyqk/qRSv8TRjxGG8ucCoY7uabn6MVh1RKRNQGCz9a3AlIDn26D1MbeBWdRBDelp+SrNv21NyN3U+pN6TEB4oKwlcn/eYfRyCv/T3cRwLbkhnZgs1LhU9vugIQ8S32UN0H8zTa/ExraMdBZ1veK0TYtSVSuIyYyd59RvYxobztA2HROjXnXwTgxTObJzXbPowW2eJ0bGDUiawbdFuV3eiITRff1u2WKCB1gFat9HuYGb5B4s5pMGgtuNHIYhiRXnb4Hf3oKLZ7KNv5AiyzrThwxabvmO9ikeBpNr2kKY9ELGD+wPXHykbzienZ4YrXbmHpCl3pGYUnJSmz6XqWKoXeXcowE0D/lO8Vt6b5k=;YjKH/x9nE/iNOcOv596mPw=="
 ---

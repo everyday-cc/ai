@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-17-ai-customer-service-startup-netomi-raises-30-million.md",
+      "title": "AI Customer-Service Startup Netomi Raises $30 Million",
+      "excerpt": "The new round of funding values the company at $210 million, up from a valuation of $67.5 million in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "originalUrl": "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-436249/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "publishedDateTime": "2021-11-17T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-facebook-continues-to-surveil-teens-for-ads-study-claims.md",
+      "title": "Facebook continues to surveil teens for ads, study claims",
+      "excerpt": "A new study has found that teens and children’s accounts still receive targeted advertising based on data collected from surveilling their browsing history. Facebook is using data about children’s online behaviour to feed their machine learning-enabled ‘Delivery System’ to optimise targeting in children’s feeds,",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/",
+      "originalUrl": "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2021/10/PRI_203392101.jpg?quality=90&strip=all&zoom=1&resize=600%2C399",
+          "width": 600,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/amp/",
+      "publishedDateTime": "2021-11-17T03:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-five-ai-strategies-cxos-can-use-to-transform-their-business.md",
       "title": "Five AI Strategies CXOs Can Use To Transform Their Business",
       "excerpt": "CEO and Co-Founder at Affine, an AI evangelist, business builder, and entrepreneur at heart. Ensuring growth by transformative solutions. $15.7 trillion: That is the figure we predict artificial intelligence is going to contribute to the global economy by 2030.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -62,7 +156,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -251,7 +345,7 @@
       "originalUrl": "https://www.smallbiztechnology.com/archive/2021/11/facebook-facial-recognition.html/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -325,6 +419,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-tmr.md",
+      "title": "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR",
+      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "originalUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub17570915_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "publishedDateTime": "2021-11-17T00:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AWS AI"
       ]
     },
     {
@@ -549,7 +688,7 @@
       "originalUrl": "https://www.bignewsnetwork.com/news/271743051/artificial-intelligence-ai-market-next-big-thing--major-giants-ibm-microsoft-hanson-robotics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -888,7 +1027,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1033,145 +1172,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai-trends-for-2022-how-will-ai-affect-you.md",
-      "title": "AI Trends For 2022 - How Will AI Affect You?",
-      "excerpt": "The year is almost at an end, and so it is once again time for the obligatory trends articles (Trends for 2022).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193e8bc87af81b55839db27%2F0x0.jpg",
-          "width": 919,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/amp/",
-      "publishedDateTime": "2021-11-16T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.md",
-      "title": "SIU 2021: Ethical and Legal Considerations of Using Artificial Intelligence in Healthcare",
-      "excerpt": "In a Hot Topic session during the Société Internationale D’Urologie (SIU) 2021 annual meeting focused on the role of artificial intelligence (AI) in urology, Dr. Quoc-Dien Trinh discussed bias in AI and important ethical and legal considerations in the use of AI in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.html",
-      "originalUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.urotoday.com/images/com-doc-importer/31-siu-2021/siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare/image-1.jpg",
-          "width": 1200,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.amp.html",
-      "cdnAmpWebUrl": "https://www-urotoday-com.cdn.ampproject.org/c/s/www.urotoday.com/conference-highlights/siu-2021/133935-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.amp.html",
-      "publishedDateTime": "2021-11-16T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UroToday",
-        "domain": "urotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-supermicro-universal-gpu-servers-announced.md",
-      "title": "Supermicro Universal GPU Servers Announced",
-      "excerpt": "Supermicro has announced Universal GPU modular servers, which will allow users to configure systems for their specific applications and workloads, giving them the choice of mixing and matching components like GPUs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced",
-      "originalUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.storagereview.com/wp-content/uploads/2021/11/StorageReview-supermicro-Total-IT-Solutions-universal-GPU-front2.jpg",
-          "width": 964,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp",
-      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp",
-      "publishedDateTime": "2021-11-16T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StorageReview",
-        "domain": "storagereview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

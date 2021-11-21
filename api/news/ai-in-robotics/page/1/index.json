@@ -10,7 +10,7 @@
       "originalUrl": "https://siliconangle.com/2021/11/19/alphabets-x-lab-shares-new-details-everyday-robots-robotics-initiative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -149,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -446,6 +446,51 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-tmr.md",
+      "title": "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR",
+      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "originalUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub17570915_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
+      "publishedDateTime": "2021-11-17T00:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-iit-madras-marine-robotics-startup-raises-16-million-in-pre-series-a-funding.md",
       "title": "IIT Madras Marine Robotics Startup Raises $1.6 Million In Pre-Series A Funding",
       "excerpt": "Planys is currently working with Shell on digital transformations for marine assets using robotics, NDT, and data.",
@@ -540,7 +585,7 @@
       "originalUrl": "https://www.bignewsnetwork.com/news/271743051/artificial-intelligence-ai-market-next-big-thing--major-giants-ibm-microsoft-hanson-robotics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1408,58 +1453,6 @@
         "AI in Finance",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-robot-flips-burgers-for-california-restaurant-better-than-a-human.md",
-      "title": "Robot Flips Burgers for California Restaurant Better Than a Human",
-      "excerpt": "In fact, one California burger restaurant has hired a machine named Flippy to cook its patties. CaliBurger in Pasadena has a robotic arm doing the flipping in its kitchen. According to a report from KTLA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human",
-      "originalUrl": "https://www.newsweek.com/sponsored/robot-flips-burgers-california-restaurant-better-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/45685/0cachedpng.png",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking The Power Of Speech Recognition"
-    excerpt: "Speech recognition software isn’t simply about asking your digital assistant for a weather forecast or to play your favorite soundtrack. It is a vital tool for business, ensuring relevance and competitiveness in the future business landscape."
-    publishedDateTime: 2021-11-16T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/"
+  - title: "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR"
+    excerpt: "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which"
+    publishedDateTime: 2021-11-17T08:37:00Z
+    webUrl: "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
+    ampWebUrl: "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192654873177e8882f0f689%2F0x0.jpg"
-        width: 1200
-        height: 782
+      - url: "https://cdn.openpr.com/U/b/Ub17570915_g.jpg"
+        width: 800
+        height: 800
         isCached: true
+  - title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
+    excerpt: "The global Face and Voice Biometrics market size is projected to reach USD 10760 million by 2027, from USD 5294.1 million in 2020, at a CAGR of 10.5% during 2021-2027. Major factors driving the growth of the face and voice biometrics market are: Face & Voice biometrics solutions are being adopted around the world because of factors such as rising demand for effective fraud detection and prevention systems in the Banking,"
+    publishedDateTime: 2021-11-19T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-face-voice-biometrics-market-size-projected-reach-usd-/2021/11/19/9496927.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "su7kCdPeFWx8bFV+hkfrDY00nxXFQZwjT69l8wj3LSw7t+ms7XHAg4lv+YO+UtkgQN/uTCx9NoYLDyS6ghuUy/NXq0aro76iNDeEm6LoJadR2oIMHhV8OTLwgDNNe3im/GGEcWZB8qQACFmr/fslR7HQsk97gszR/PXUEiwypI2qnGvhSGoe1HKUvbELyYu8jG5ErXOOa/VRQmfmQm8ghL49BlImSnXbF1yIoNpmQAV9fUeryF7rUAJxyJx/6TZ0qyxN6BmsJLdfJ3JAlew0TsjL8VOnlXXrjeXXa04uQdbZ2Suyd4eRUt9L6vNMqx4IlgSRazi7LXT0f5bowCNWbJsHiSV2p+h4kUGDwI4qIcQ=;yB/qCbe09WrGk5BQX9jazg=="
 ---

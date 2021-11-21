@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1272
         isCached: true
-  - title: "Developers can now add real-time analytics to Azure Digital Twins"
-    excerpt: "ScaleOut Software is extending its Digital Twin Streaming Service to add real-time analytics to Azure Digital Twins."
-    publishedDateTime: 2021-11-16T12:27:00Z
-    webUrl: "https://developer-tech.com/news/2021/nov/16/developers-can-now-add-real-time-analytics-to-azure-digital-twins/"
-    type: article
-    provider:
-      name: Developer Tech
-      domain: developer-tech.com
-    quality: 39
-    images:
-      - url: "https://developer-tech.com/wp-content/uploads/sites/3/2021/11/developer-scaleout-software-digital-twin-streaming-service-microsoft-azure-cloud-analytics.jpg"
-        width: 2376
-        height: 1424
-        isCached: true
   - title: "St. Louis digital health startup acquired by fast-growing health care analytics firm"
     excerpt: "A fast-growing health care analytics firm headquartered outside of Dallas has expanded with the acquisition of a St. Louis startup. Irving, Texas-based Lightbeam Health Solutions Inc. has purchased CareSignal in a deal the companies said will bring together two technology firms focused on lowering medical costs and improving patient outcomes for health care providers."
     publishedDateTime: 2021-11-17T21:03:00Z

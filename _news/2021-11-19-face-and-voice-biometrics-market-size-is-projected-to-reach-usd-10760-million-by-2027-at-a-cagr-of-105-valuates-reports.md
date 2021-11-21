@@ -1,39 +1,55 @@
 ---
 category: news
 title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
-excerpt: "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services & Insurance"
-publishedDateTime: 2021-11-19T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html"
+excerpt: "The global Face and Voice Biometrics market size is projected to reach USD 10760 million by 2027, from USD 5294.1 million in 2020, at a CAGR of 10.5% during 2021-2027. Major factors driving the growth of the face and voice biometrics market are: Face & Voice biometrics solutions are being adopted around the world because of factors such as rising demand for effective fraud detection and prevention systems in the Banking,"
+publishedDateTime: 2021-11-19T14:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-face-voice-biometrics-market-size-projected-reach-usd-/2021/11/19/9496927.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-face-voice-biometrics-market-size-projected-reach-usd-/2021/11/19/9496927.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
 related:
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market To Reach USD 4,799.6 Million By 2028"
-    excerpt: "Reports And Data The increasing use of connected devices in the healthcare sector. NEW YORK, NY, UNITED STATES, November 19, 2021 /"
-    publishedDateTime: 2021-11-19T06:55:00Z
-    webUrl: "https://menafn.com/1103203315/Natural-Language-Processing-NLP-in-Healthcare-and-Life-Sciences-Market-To-Reach-USD-47996-Million-By-2028"
+  - title: "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR"
+    excerpt: "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which"
+    publishedDateTime: 2021-11-17T08:37:00Z
+    webUrl: "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
+    ampWebUrl: "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub17570915_g.jpg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "Voice and Speech Recognition Market Expanding at a CAGR of 19.5% During 2021-2026"
+    excerpt: "Voice and Speech Recognition Market The voice and speech recognition market reached a value of US$ 9.9 Billion in 2020. IMARC Group expect"
+    publishedDateTime: 2021-11-17T11:42:00Z
+    webUrl: "https://menafn.com/1103191302/Voice-and-Speech-Recognition-Market-Expanding-at-a-CAGR-of-195-During-2021-2026"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 52
+    quality: 34
     images:
-      - url: "https://menafn.com/updates/pr/2021-11/19/EP_9c3dbimage_story.jpeg"
-        width: 300
-        height: 300
+      - url: "https://menafn.com/updates/pr/2021-11/17/EP_3e9f6image_story.jpeg"
+        width: 1000
+        height: 667
         isCached: true
 
-secured: "C6I7fIMdf28bh0Oh9o6htEvczlirHCtK20Gb7IfXkB8tji4TSCV30n82M8Yca4/jBL0ZRb/70h4/FbHIK9kA3x9k321HFRkJfdFWi7H5v+jB8pRE4qD5pe3YVEgU+bIXv8qKrfgVKv20flkYvLPe99vuimwkoiIhjWpAFgD6I+qMN1owDnf35KcGDz65FK2NF3G32fg2ewWFXmMLozLF0abJ2fQ3MYJU5n5QXUzFP9kjsl4PvOdd7eYFu2e9JTEtUxfkOt80u3UPf5v2H0rYbIK1dbyXWYUYgSJSMuZ85AHmLliYZ31l2sIcGrkXG7B9/Spg4L8xgz7LGFKvdJums8i5viPU/ljfSmvszB++Ch4=;BoGZHxZ4F07eqkKcX5v9lQ=="
+secured: "WPQyo9Xt62rtWhPYlDw3pLbKP/QF7TAd0GY4IQf+Y05ZNaBH+1SHIJle/UnIDoRfGYyBv8kUtl5FEfS9PNM9Wx/wUkrR5ZIW+1VGox+F5KiF23moLlzp4BfUfgymYftI0qg3ATzcCrqQv2rUFEyK6ChaZnv0Jo7r2q/QuKKzjhj2JTMuKTPVDrgMJst0T4VXXKxarA1DbRZRlG51uxB8Ii+SjjExYlB47pqIDys5OMre7zIdmcvLwofgFuNAwBQ6TDKpxxTZSuSxjs0itXn0kdlcCtDPQpGN+V7K7WZ4MMCPAsuiP8P+Tb1JHuLRmlfSVsF5QdLJTRNLkwmMJ6irVkQoECSsNBdY8TLyWClCIdM=;dldx9KHmltRagsEhTdDlqw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20107794.html"
 webUrl: "https://www.lelezard.com/en/news-20107794.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software"
-    excerpt: "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million."
-    publishedDateTime: 2021-11-16T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/"
-    ampWebUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "Helm.ai Raises $26M in Series B Funding"
     excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
     publishedDateTime: 2021-11-20T12:55:00Z

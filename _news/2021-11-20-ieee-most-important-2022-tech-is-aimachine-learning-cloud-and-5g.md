@@ -7,7 +7,7 @@ originalUrl: "https://virtualizationreview.com/articles/2021/11/19/ieee-tech-stu
 webUrl: "https://virtualizationreview.com/articles/2021/11/19/ieee-tech-study.aspx"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

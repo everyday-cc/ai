@@ -7,7 +7,7 @@ originalUrl: "https://www.iotglobalnetwork.com/iotdir/2021/11/18/scaleout-softwa
 webUrl: "https://www.iotglobalnetwork.com/iotdir/2021/11/18/scaleout-software-announces-machine-learning-capabilities-for-its-scaleout-digital-twin-streaming-services-33789/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 678
     height: 494
     isCached: true
-
-related:
-  - title: "ScaleOut Software gives real-time analytics to Azure Digital Twins"
-    excerpt: "ScaleOut Software is extending its Digital Twin Streaming Service to help customers get powerful real-time analytics from Azure Digital Twins."
-    publishedDateTime: 2021-11-16T12:40:00Z
-    webUrl: "https://iottechnews.com/news/2021/nov/16/scaleout-software-gives-real-time-analytics-to-azure-digital-twins/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 39
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/11/iot-scaleout-software-digital-twin-streaming-service-microsoft-azure-cloud-analytics.jpg"
-        width: 2048
-        height: 1228
-        isCached: true
 
 secured: "Pqh9QJw10ufuJ+V+eakbj0Qz0u9GYqHa1H9CFXTwhLwy6rQc6vA/GYQMeO/VwZTMTh/K9t6JO1iuryJaVN38f2b+TDrl+0oPrxfHRDdl8Tb2Ze1wnQ3MccwlmJQF++IY2Q9a35MfVkzlu+c+EQ4D1WhyjE9I+BN+Ha7jexeaO9NFHPNzUEUV6nFYhIzy3B9tIJRoAzWhtsd6quSgw0J3LmI1HywMM75R8eF6GWcmsXbLxsLS7DSvw5IuWGSoXQ/ceEU90FKjDUk6vZqoeLSKR9FDTtxPXAJpKKkdXKIFmFAFIoOAgm5piPGnpd8QewPHxIacWMNO9DdMF5Sxfid4U7V701nPhUF1M9fkmSUlvSFsiwL6Am7taV8bsXQt0rkY34Yb7hX/y+lFQ/Pq4i9TuRss/7gehklpQ+VfViOS7Lq+6CHfJTelaH7ZKPIQLvgJ3R6/7zojoEXaBiDLmbhCLp4WfIyeETSYU5DhoHbp4TBRRctltYHnBd0gRqQiYCNjx/xwRKYUsveL44U/62ZidQ==;6xFZD7aFCivPXVwDBlJrjQ=="
 ---

@@ -39,6 +39,17 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Tech Expert Explains Why Facebook Is Not Completely Getting Rid Of Facial Recognition"
+    excerpt: "Facebook said they would shut down their facial recognition technology, deleting the faceprints of more than 1 billion people. However, tech expert Carla Franklin says they are still using it in some ways."
+    publishedDateTime: 2021-11-19T10:25:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 47
   - title: "Five Times Facial Recognition Was In News In 2021 For The Wrong Reasons"
     excerpt: "While it is a great technological innovation, FRT is often seen as a tool for surveillance and breach of privacy in the name of increased security."
     publishedDateTime: 2021-11-19T09:30:00Z

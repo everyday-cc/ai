@@ -53,6 +53,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Tech Expert Explains Why Facebook Is Not Completely Getting Rid Of Facial Recognition"
+    excerpt: "Facebook said they would shut down their facial recognition technology, deleting the faceprints of more than 1 billion people. However, tech expert Carla Franklin says they are still using it in some ways."
+    publishedDateTime: 2021-11-19T10:25:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 47
   - title: "Facebook will drop is facial recognition system — But here's why we should be skeptical"
     excerpt: "Facial recognition systems, like Facebook’s, identify people by matching faces to digital representations of faces stored on a database. Facebook has more than a billion of these representations on file but now says it will delete them."
     publishedDateTime: 2021-11-17T05:06:00Z

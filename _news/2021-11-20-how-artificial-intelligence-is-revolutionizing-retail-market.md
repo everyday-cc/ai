@@ -9,7 +9,7 @@ ampWebUrl: "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-
 cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1"
 type: article
 quality: 72
-heat: 112
+heat: 113
 published: true
 
 provider:

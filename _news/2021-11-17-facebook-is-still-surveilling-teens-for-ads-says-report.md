@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facebook accused of continuing to surveil teens for ad targeting"
-    excerpt: "The adtech giant formerly known as Facebook is still tracking teens for ad targeting on its social media platforms, according to new research by Fairplay, Global Action Plan and Reset Australia — apparently contradicting Facebook’s announcement this summer when the tech giant claimed"
-    publishedDateTime: 2021-11-16T11:48:00Z
-    webUrl: "https://techcrunch.com/2021/11/16/facebook-accused-of-still-targeting-teens-with-ads/"
-    ampWebUrl: "https://techcrunch.com/2021/11/16/facebook-accused-of-still-targeting-teens-with-ads/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/16/facebook-accused-of-still-targeting-teens-with-ads/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-rotate-pattern.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Facebook continues to surveil teens for ads, study claims"
     excerpt: "A new study has found that teens and children’s accounts still receive targeted advertising based on data collected from surveilling their browsing history. Facebook is using data about children’s online behaviour to feed their machine learning-enabled ‘Delivery System’ to optimise targeting in children’s feeds,"
     publishedDateTime: 2021-11-17T11:37:00Z
@@ -51,17 +35,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Tech Expert Explains Why Facebook Is Not Completely Getting Rid Of Facial Recognition"
-    excerpt: "Facebook said they would shut down their facial recognition technology, deleting the faceprints of more than 1 billion people. However, tech expert Carla Franklin says they are still using it in some ways."
-    publishedDateTime: 2021-11-19T10:25:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 47
   - title: "Facebook still harvesting teen data to fuel ads, warns research"
     excerpt: "Despite announcing changes to its advertising rules for children in July this year, Facebook (now called Meta) is still tracking and harvesting children`s personal data to fuel their advertising delivery system,"
     publishedDateTime: 2021-11-16T17:53:00Z
@@ -108,20 +81,6 @@ related:
         width: 821
         height: 462
         isCached: true
-  - title: "Facebook AI Releases XLS-R, Self-Supervised Model For Speech Tasks"
-    excerpt: "XLS-R was evaluated on four major multilingual speech recognition benchmarks, outperformed prior work on most of the 37 languages tested."
-    publishedDateTime: 2021-11-19T06:40:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-ai-releases-xls-r-self-supervised-model-for-speech-tasks/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/74906660_1344982945678655_4412778871699537920_n.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Warning as Facebook ‘is STILL tracking teens for advertising’ contradicting own claims company would limit reach to kid"
     excerpt: "FACEBOOK is allegedly still tracking teens for advertising, research states, contradicting the social media giant’s claims it would limit reach to kids. The accusations come in a research"
     publishedDateTime: 2021-11-16T19:35:00Z
@@ -165,29 +124,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 24
-  - title: "Facebook still harvesting teen data to fuel ads, warns research"
-    excerpt: "Despite announcing changes to its advertising rules for children in July this year, Facebook (now called Meta) is still tracking and harvesting children's"
-    publishedDateTime: 2021-11-16T13:00:00Z
-    webUrl: "https://www.canindia.com/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-2/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 24
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2021/08/CIPLACEHOLDER.png"
-        width: 586
-        height: 390
-        isCached: true
-  - title: "Trending: Facebook Plans to Shut Down Facial Recognition System"
-    excerpt: "Facebook plans to shut down its decade-old facial recognition system this month, deleting the face scan data of more than one billion users. The move, notes The New York Times, effectively eliminates a feature that has fueled privacy concerns,"
-    publishedDateTime: 2021-11-16T11:07:00Z
-    webUrl: "https://www.ai-ap.com/publications/article/29186/trending-facebook-plans-to-shut-down-facial-recog.html"
-    type: article
-    provider:
-      name: ai-ap.com
-      domain: ai-ap.com
-    quality: 19
 
 secured: "OQ61XL2NMkDr9ri908oOwYUBkWP0sw7Bi44+9EPT+BSa4/FTxoA/nJFsNIiouLyXxKLKz8e7gB2thKyyZRmHhTtBdVROKdV//xdgwQOWQYAJF8nvP3p/2PSqAtLPFoG9bbNmd+uQjVXr2+eQll48g4wSfPhLLhOybHJMssEK8wdhTmXf1GdsVW92/RBmhCnoqKY5WGJp6TW5wl8FWI0w2jcEk8Xfz2Q47JpwvmzWjgq4WXv2fjL8eZEVEsQdTbJWdYkolhsdXkZVwvRkxeSQ371kcS+V5uWpY/ttZ8bOKg3k3kcmj6A/7mz4tPiDMBfatkxrnrqIcbBOlkM8gjUGX+bel/BEIFaK7247x3VKFNM=;Fe2YMQr88Qvk8UeXz5j5bg=="
 ---

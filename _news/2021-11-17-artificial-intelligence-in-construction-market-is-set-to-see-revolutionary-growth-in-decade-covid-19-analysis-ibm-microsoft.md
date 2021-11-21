@@ -41,20 +41,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "AI in Fintech Market is Going to Boom | Microsoft, IBM, Intel"
-    excerpt: "Advance Market Analytics published a new research publication on “AI in Fintech Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new evolving Trends,"
-    publishedDateTime: 2021-11-16T11:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-fintech-market-going-boom-microsoft-ibm-intel-ajay-jadhav"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFdAPUZxbyoHg/article-cover_image-shrink_600_2000/0/1637060454952?e=1642636800&v=beta&t=cVuTmAi3vnZhnywtGEHaPJoJPDUk1RMlv79tuu4jWXs"
-        width: 1024
-        height: 549
-        isCached: true
 
 secured: "pzgolgB62VWA7yCYn7fZaCZsTFOg6UYDRmImvyleumw8IRRiIrZmUdaU+GYCCXd1HCkjpKToFU2uJFtF9NyDzGajjgser9zTWNyV9rOo0vEp2cOfhSoMF9FOqUBDnFTvNVTNRg3C77UQ4esbKGHEXiqy2Uv+J6c987T2RInSq9zZpuq0LAgpZKQsJFIzetCbSdpuAOY3tENs0l2OT5KjGgTvfvJH/mMuFeT/w9TbTpSm1CixxYtJhaN+Mn2Gq0Vtx31AuG4ug9G/L8K5S9uGjcZF//nI2B+Nz904TqBSvO8OqD0yUKdEB1ej/WFDYa/NTNtbY2I7W5WoNFrjH0ErM4TXxPq++3KCsbLtjEVuEic=;zSGMQw3dQzLAEOQWGr/5JQ=="
 ---

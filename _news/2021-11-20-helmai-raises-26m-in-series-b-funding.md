@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software"
-    excerpt: "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million."
-    publishedDateTime: 2021-11-16T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/"
-    ampWebUrl: "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "Helm.ai Raises $26 Million in New Funding"
     excerpt: "Helm.ai Raises $26 Million in New Funding Series B round led by Amplo will support team growth and product expansion of its high-end ADAS and L4 autonomous driving software Helm.ai, creator of next-generation AI software for autonomous driving,"
     publishedDateTime: 2021-11-16T16:08:00Z

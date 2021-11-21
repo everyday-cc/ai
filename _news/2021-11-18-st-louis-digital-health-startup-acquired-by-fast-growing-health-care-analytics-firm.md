@@ -63,20 +63,6 @@ related:
         width: 1920
         height: 1272
         isCached: true
-  - title: "Developers can now add real-time analytics to Azure Digital Twins"
-    excerpt: "ScaleOut Software is extending its Digital Twin Streaming Service to add real-time analytics to Azure Digital Twins."
-    publishedDateTime: 2021-11-16T12:27:00Z
-    webUrl: "https://developer-tech.com/news/2021/nov/16/developers-can-now-add-real-time-analytics-to-azure-digital-twins/"
-    type: article
-    provider:
-      name: Developer Tech
-      domain: developer-tech.com
-    quality: 39
-    images:
-      - url: "https://developer-tech.com/wp-content/uploads/sites/3/2021/11/developer-scaleout-software-digital-twin-streaming-service-microsoft-azure-cloud-analytics.jpg"
-        width: 2376
-        height: 1424
-        isCached: true
 
 secured: "qYddmGTePZMfwZenNGXisCIY8cIPa21orUajeKyH4xuA80WQ16RfDdloPxFxZV1e+xhv80uHW/KbkRze3aT17dldmYWmTV0FAWfO0JhJRyNakSY/K5G4lvFOuy0KSAjOFoqgGomvnRsLp2/nRp9wqQu+ctS3pplcT32WBn2vuys900z/YPULxYIWRnVKSMHd7EQdo5VQOofyaCbzQN6Dj4QDwV3XIDrV+nOmkM8J956I3ByPoRIkKuac7oErOzwKypogm8DE/0ahDQTgH84bu3FCubf1cPFcIn4XTKJl2aGDFn1YN8E0hQTPqO/MWAlAeUDRBH+KoNfjzLz71h1C80XzautrTln2+vrFz4wDm9KBFJLxw/ZSp/OIH/0QxRJuy2UhbKgJVn9upcDqRTD39otEIEImO3Z8r30fv0u/I6Qmy1NwAaDBnl2TInXVZA0HiHLWRTHB7ZdafOD/fBqj+DLiAC85Z5drchNF0LVc6Wk+Si+pp1YgnncgTSGK+jgV7GRQbz3a4JWPNyFWpkbqJQ==;iXDWlnLIseyDkh86rxjrpg=="
 ---

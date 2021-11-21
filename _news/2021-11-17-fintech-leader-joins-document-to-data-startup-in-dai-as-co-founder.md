@@ -32,22 +32,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
-    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO."
-    publishedDateTime: 2021-11-16T12:00:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/16/full/20211116165343.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "3 Fintech Stocks That Would Make Great Additions to Your Portfolio"
     excerpt: "Fintech has been gaining steam lately due to innovations in the sector. Moreover, fintech usage has increased significantly over the past year. And because the industry has immense growth potential, we think fundamentally sound fintech stocks Sapiens International (SPNS),"
     publishedDateTime: 2021-11-19T18:00:00Z

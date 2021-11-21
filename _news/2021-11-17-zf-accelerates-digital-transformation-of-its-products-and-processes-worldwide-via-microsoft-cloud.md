@@ -39,20 +39,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
-    excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain managementCloud-based infrastructure and collaboration to improve speed and efficiency across business operationsDigit"
-    publishedDateTime: 2021-11-16T13:00:00Z
-    webUrl: "https://www.dailyrecordnews.com/news/state/zf-accelerates-digital-transformation-of-its-products-and-processes-worldwide-via-microsoft-cloud/article_1afc3858-acb3-50f7-a05e-2e9e40fba6f4.html"
-    type: article
-    provider:
-      name: Ellensburg Daily Record
-      domain: dailyrecordnews.com
-    quality: 26
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/a76e5080-ce26-11eb-9a1f-6bcc37d0e88c.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
     excerpt: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
     publishedDateTime: 2021-11-19T10:30:00Z
