@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 588
         isCached: true
-  - title: "Qualcomm, diversifying from mobile phones, to supply chips for BMW self-driving cars"
-    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
-    publishedDateTime: 2021-11-16T17:47:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/qualcomm-diversifying-mobiles-supply-chips-bmw-self-driving-cars-2021-11-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-    images:
-      - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "BMW to use Qualcomm’s Soc for self-driving cars. Know more"
     excerpt: "BMW will utilize Qualcomm Technologies to bring a full spectrum of ADAS/AD functions, including front, rear and surround view camera computer vision"
     publishedDateTime: 2021-11-17T03:46:00Z

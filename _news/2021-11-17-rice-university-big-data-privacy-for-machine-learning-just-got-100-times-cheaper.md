@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/rice-university-big-data-privacy-for-
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rice-university-big-data-privacy-for-machine-learning-just-got-100-times-cheaper/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Big data privacy for machine learning just got 100 times cheaper"
-    excerpt: "Computer scientists have discovered an inexpensive way for tech companies to implement a rigorous form of personal data privacy when using or sharing large databases for machine learning."
-    publishedDateTime: 2021-11-16T17:42:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/11/211116103110.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "uJPMGwLu+kEtkwa8M6PvpE0fWPGBkFlRIIcMCrIIzW0ybjc4fobH+/zqX8SQGRzKA6yv6CkbYSBGGoWhOmlYCNxgeoyhrV6y2sjHdpcE2INGHKJMJMOedQYUqSZ+U+VeugTTMI7Zb7Wlg9D0rWoE7p4eG6Vyi7ZtNBpOp+XCVGCY11gdrAQfbh0l+A+TJHrEHMZfuWLUY990XQRJY5PBaZQtCrcJpYzOiTOqd4ma92JMn8X1yqeKJCIssbNxrHAYG02U/Vr3bWFWhCxTRwnPkNO8x71RMEgwcQfvHCecKLBni/Eaes2uksuPMudJxqZsfzVxp99Rxy3/AF7u728YDQx5PBQHkhhPacWluI3jkIo=;yNw834Bw/hGsuuGMA2usNw=="
 ---

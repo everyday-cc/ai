@@ -7,7 +7,7 @@ originalUrl: "https://www.bozemandailychronicle.com/news/state/privacy-concerns-
 webUrl: "https://www.bozemandailychronicle.com/news/state/privacy-concerns-prompt-mt-leg-study-of-facial-recognition-technology/article_586d3ab3-f874-5627-8751-400db968af3a.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "India's tech hub Hyderabad zooms in on facial recognition technology"
-    excerpt: "BANGALORE - The city of Hyderabad in southern India is trying to use facial recognition technology for everything, from stopping traffic violations to distributing subsidised food-grain, leading privacy activists to warn about a \"total surveillance city\"."
-    publishedDateTime: 2021-11-18T04:00:00Z
-    webUrl: "https://www.straitstimes.com/asia/south-asia/indias-tech-hub-hyderabad-zooms-in-on-facial-recognition-technology"
+  - title: "Privacy concerns prompt state Legislature to study facial recognition"
+    excerpt: "Most Montanans probably do not know that when they go to get their driver’s license picture taken, it is entering a system that feeds into a larger database used by national law enforcement agencies."
+    publishedDateTime: 2021-11-19T17:56:00Z
+    webUrl: "https://missoulacurrent.com/government/2021/11/privacy-concerns-facial/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: Missoula Current
+      domain: missoulacurrent.com
     quality: 39
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/11/17/img-20191202-wa0020.jpg?itok=1sCKDI1q"
-        width: 763
-        height: 509
+      - url: "https://missoulacurrent.com/wp-content/uploads/2021/07/Capitol.jpg"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Meghalaya clarifies on controversial app: ‘Facial Recognition Technology does require any anchoring legislation’"
+    excerpt: "The Pensioner’s Life Certification Verification app, launched by Meghalaya CM Conrad Sangma in July, is aimed at offering pensioners a “secure, easy and hassle-free interface” to obtain life certificates by verifying their identity using FRT on their smartphones."
+    publishedDateTime: 2021-11-18T13:55:00Z
+    webUrl: "https://indianexpress.com/article/north-east-india/meghalaya/meghalaya-pensioner-app-facial-recognition-7629818/"
+    ampWebUrl: "https://indianexpress.com/article/north-east-india/meghalaya/meghalaya-pensioner-app-facial-recognition-7629818/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/north-east-india/meghalaya/meghalaya-pensioner-app-facial-recognition-7629818/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 38
+    images:
+      - url: "https://images.indianexpress.com/2021/11/Congrad-Sangma.jpeg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "Gindi TLV, a smart residential complex in Tel Aviv, deploys Oosto’s facial recognition technology to protect tenants from COVID-19 infection"
     excerpt: "Gindi TLV, a residential complex in the heart of Tel Aviv, Israel, maintains the safety of its community, by using Oosto’s face and object recognition, to reduce contact with surfaces"

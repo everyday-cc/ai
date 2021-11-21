@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Habana Labs Announces Turnkey AI Training Solution Featuring Habana Gaudi Platform and DDN AI400X2 Storage System"
-    excerpt: "TEL-AVIV, Israel and SANTA CLARA, Calif., Nov. 16, 2021 /PRNewswire/ -- Habana Labs, an Intel Company and leading developer of AI processors,"
-    publishedDateTime: 2021-11-16T18:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/habana-labs-announces-turnkey-ai-training-solution-featuring-habana-gaudi-platform-and-ddn-ai400x2-storage-system-1030981654"
+  - title: "Osaka University Creates AI Supercomputer with Supermicro SuperBlades Utilizing 3 rd Gen Intel® Xeon® Scalable Processors"
+    excerpt: "Osaka University chose systems from Supermicro that consisted of Supermicro SuperBlades utilizing the 3rd Gen Intel® Xeon® Scalable processors. In addition to the CPU computing capacity, GPU nodes are also made available to researchers that require specialized hardware."
+    publishedDateTime: 2021-11-16T19:13:00Z
+    webUrl: "https://www.datacenterknowledge.com/manage/osaka-university-creates-ai-supercomputer-supermicro-superblades-utilizing-3-rd-gen-intel"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 14
     images:
-      - url: "https://mma.prnewswire.com/media/1690018/Habana_Gaudi_HL_205_Mezzanine_Card_photo_only.jpg"
-        width: 400
-        height: 351
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/mktg-webinar-nolabel3.jpg"
+        width: 1540
+        height: 800
         isCached: true
 
 secured: "ZG7ULDzGJdT/Sn60f+ISbS52xmA09x0eXzJUo1JbARXQn6Lu+srbl4eRzM6uBo5XOiNjoP+YVpXUxJlI7ffm5p7OxkciDgV/NQ9Dq8oMlFKi6eTixfsm2JEIOB2POh9loxXGWdeRJluWRmCHOoujrS+ND/HzrHjMYYX+FKmsyXPg5/+9OQEk6oHfciezyclj6KzqgXBkbrneSHUcp11GZhflHU79LrSfOgz2mYhCJHUXeKJ8MqNm0PcWL4cGKGoGiOKY9qwC5i3ykugD5P3oQYNK372BYU54gANdiLGb2mysdD/MqcF2o5Aj3/NNwGnEZKcJDH1nbN1iqTXgpnsA6XmALpU2FFPDhLCewShLaNE=;3Fic3KPU7QNXNWZqGZXsPw=="

@@ -41,22 +41,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Facebook still harvesting teen data to fuel ads, warns research"
-    excerpt: "Despite announcing changes to its advertising rules for children in July this year, Facebook (now called Meta) is still tracking and harvesting children`s personal data to fuel their advertising delivery system,"
-    publishedDateTime: 2021-11-16T17:53:00Z
-    webUrl: "https://www.wionews.com/science/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-429863"
-    ampWebUrl: "https://www.wionews.com/science/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-429863/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/facebook-still-harvesting-teen-data-to-fuel-ads-warns-research-429863/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 44
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/11/02/219700-fb1111.JPG"
-        width: 918
-        height: 506
-        isCached: true
   - title: "Warning as Facebook ‘is STILL tracking teens for advertising’ contradicting own claims company would limit reach to kid"
     excerpt: "FACEBOOK is allegedly still tracking teens for advertising, research states, contradicting the social media giant’s claims it would limit reach to kids. The accusations come in a research"
     publishedDateTime: 2021-11-16T19:35:00Z

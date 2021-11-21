@@ -39,6 +39,20 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Assessments for image quality in face biometrics improving, new standard TBD"
+    excerpt: "The European Association for Biometrics held the three-day workshop on face image quality to explore key topics and themes relating to facial recognition."
+    publishedDateTime: 2021-11-19T19:24:00Z
+    webUrl: "https://www.biometricupdate.com/202111/assessments-for-image-quality-in-face-biometrics-improving-new-standard-tbd"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
     excerpt: "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services"
     publishedDateTime: 2021-11-19T23:30:00Z

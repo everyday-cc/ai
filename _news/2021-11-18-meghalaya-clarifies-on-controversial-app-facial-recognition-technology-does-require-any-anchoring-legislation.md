@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Privacy concerns prompt MT leg study of facial recognition technology"
+    excerpt: "Most Montanans probably do not know that when they go to get their driver’s license picture taken, it is entering a system that feeds into a larger database used by"
+    publishedDateTime: 2021-11-18T21:45:00Z
+    webUrl: "https://www.bozemandailychronicle.com/news/state/privacy-concerns-prompt-mt-leg-study-of-facial-recognition-technology/article_586d3ab3-f874-5627-8751-400db968af3a.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/d9969000-ede9-11e4-9d40-37211b15ad91.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Privacy concerns prompt state Legislature to study facial recognition"
     excerpt: "Most Montanans probably do not know that when they go to get their driver’s license picture taken, it is entering a system that feeds into a larger database used by national law enforcement agencies."
     publishedDateTime: 2021-11-19T17:56:00Z
@@ -40,6 +54,22 @@ related:
       - url: "https://missoulacurrent.com/wp-content/uploads/2021/07/Capitol.jpg"
         width: 1536
         height: 1024
+        isCached: true
+  - title: "Gindi TLV, a smart residential complex in Tel Aviv, deploys Oosto’s facial recognition technology to protect tenants from COVID-19 infection"
+    excerpt: "Gindi TLV, a residential complex in the heart of Tel Aviv, Israel, maintains the safety of its community, by using Oosto’s face and object recognition, to reduce contact with surfaces"
+    publishedDateTime: 2021-11-18T10:07:00Z
+    webUrl: "https://www.sourcesecurity.com/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 24
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/artificial-intelligence-and-machine-learning-offer-actionable-risk-intelligence-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
 
 secured: "C7N5P8wQUdAKYVpf/hlMbnSrZ7Cw8NREVFo5dMFbVu6EMn5D/Aty3VwKENRKg/Stdz1FIGqnXFePDQwGuWoLay3lpwtdCuHbSzc0eu+LVVFIQGL5Ve+bWUKKVSKDxHZxSo/Dp5oZaTpGfKD7LLmXhtwJfGp9LMiQqC4zDOF7yu2sUHd3GsYDknZcc1eR4+KJZcWNfcWm2A03UenaZDQvjTtnlGn/SF/5tOqAN6lhf3HmmkIUehJBNLcNKrc+udsK0NnlZMv+MdSGQDobdmxykjzIr+Zim/ASNWi+iGJ/f6v1IdoHN2HqS8Eqkl7Be//v3Da6yx0MJOV/vY7HFCMQZCcBroNAkaKmasRAa/NUrE3fSo+7B/H1/eWxKDtjcji8S+HUsLESKa8iBmOMCnPGgI/Q4ViSjm0eALHsZzs4VYd/Tfu9UO9cW8D6LGRz1/SoGweSLUxD2eCX/imAPSnFNZBCCPM8rbbu1jVV1AKLybmidEgXdNzjzBf0nhy35pCaX0FYmg1Olc1GGIyiMGRD3Q==;L3I2gOCBzP41rY/2+VTH9w=="

@@ -39,6 +39,20 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Assessments for image quality in face biometrics improving, new standard TBD"
+    excerpt: "The European Association for Biometrics held the three-day workshop on face image quality to explore key topics and themes relating to facial recognition."
+    publishedDateTime: 2021-11-19T19:24:00Z
+    webUrl: "https://www.biometricupdate.com/202111/assessments-for-image-quality-in-face-biometrics-improving-new-standard-tbd"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Toppan iDGate ranks among top 20 in face biometrics accuracy in NIST verification test"
     excerpt: "Toppan iDGate face biometric verification algorithm has taken a top-20 spot in the National Institute of Standards and Technology’s FRVT 1:1."
     publishedDateTime: 2021-11-17T23:18:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Robotics in knee replacement"
-excerpt: "Mrs. Sukhjit Sandhu (Name Changed) was quite sceptical about getting her knee replacement surgery after she witnessed how her husband always had some muscle pain when he walked or stood for a long time."
-publishedDateTime: 2021-11-21T07:53:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=896003"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=896003"
+excerpt: "Sandhu is one of the hundreds of happy patients to have successfully undergone robotics-assisted total knee replacement surgery since the launch of the internationally acclaimed and proven NAVIO Robotics Surgical System in India."
+publishedDateTime: 2021-11-21T09:39:00Z
+originalUrl: "https://menafn.com/1103218038/Robotics-in-knee-replacement"
+webUrl: "https://menafn.com/1103218038/Robotics-in-knee-replacement"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/kasturba_sq_nov21.jpg"
-    width: 280
-    height: 250
+  - url: "https://menafn.com/updates/pr/2021-11/21/I_32154image_story.jpg"
+    width: 400
+    height: 214
     isCached: true
 
-secured: "VFqW+50e3KdEIbB8x7Ft8yFWxUk+4b2h6H1x5N/solaYHQMMbbdg0GFFKJqPwsBFqQmt5DsHHxuCK15Pw7mCOaWUCyoIw5pnWrH7IKdoyVTDE9j7ZXQc+XbwiFKwsDZiJaeCZ6wQThwOCRsk8HHBo4oQY3dv6fzS3K39d5HUJ8MepEhHw4/ov63CwQOOclnd1kmkVXMYPnOu6cn/K51+xPqkkjy2a0yS2hpJAqkqqWobDfWDA8gVZXOttzX89vCSG+FdHJR1TBi7v7Gf38ZXb9vtmpGeEYT7TNufEXQ59HSaXRtlzXG65LR3RBOxUkRZz80EXv1+XG7Wy5EJreZic7+R5RDVNO4m5Dr3KW0LtFM=;MV+8qfpyVlQKL5xjLNbKRw=="
+secured: "SwJxqUcMt+NG1RP+Jngx5XnGp2MNRntQ0aSe0XyCnk31VrBpOBHOsAv9dMQm4enCyPBlYKUMDhhP3AIb1koRTl/c6Bo24diq+jrVJACiieCm2R2eAcuBXY/yguLkuqwOgO+dZxOaCCnFb4bgjdaJeHd8+0cNgpuovdI+9Ywh7VDoMsfZfPtc5p1NGlGxBZP1PRM2HRDKlCMMtxxRvL2hg67fZ9BrBW7ckz5tZ59Rax+TZjxSk0QKtFstN/z8XS4OxCVXR8QFxr5xwEYW6IhaI1D5vdRvPbcfmxcVxOM7N/LpQD5AGNS0JClsiiuSzxAqzeFeqxnHhUhXCI52uUEbZCRpSdq5Z88Uo3sgB/6NkC8=;ta9TsNxtpvCDS+03WYSY1A=="
 ---
 

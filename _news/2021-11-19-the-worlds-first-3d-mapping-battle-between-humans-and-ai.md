@@ -24,22 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "How the World’s Leading Brands are Finally Winning with Digital and Artificial Intelligence"
-    excerpt: "If we’re honest, digital capabilities in both sales and service channels have fallen short of their potential over the last two decades. The world’s largest companies have seen little reduction in CX spend,"
-    publishedDateTime: 2021-11-16T17:44:00Z
-    webUrl: "https://customerthink.com/how-the-worlds-leading-brands-are-finally-winning-with-digital-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 29
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay_technology-2025795_1280-robot-human.jpg"
-        width: 1280
-        height: 851
-        isCached: true
-
 secured: "dvMnJBLIF8IyxeKOKmS0wL3kwrENrVCtMdpux85nmt9JXu/tbwFhULtdB2iHKAafxUrsZcp9HayeZBYdKwqHUQbqZMIW6rbLIlUzsva7HiiWDBHHr1wNjLujqgxHc24ElL0izTEDBN5VrzQT9x1ezZus6N50gjRfZhDRE/KcWVfAsrS3VuVurK3anB938QaUh6xml1k0kYF122TgEBE5cN0xx/oXyrm8BJixRMnUyg1BIWyTnnX32+qAtx6hFwSSjlM5YR7XyBTZjwX9qbjR5axY998/1rMl+pmaSt0LZ8az3MOa18c2c6K/rkIT0c9I1mJekOoY4Ii/WNmilko/9am+TB2B0slf4edjA0cNSnA=;7wdZODrmiw11pjTRaigJRA=="
 ---
 

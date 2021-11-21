@@ -2,9 +2,9 @@
 category: news
 title: "FDA clears GE Healthcare X-ray artificial intelligence aid for endotracheal tube placement"
 excerpt: "The U.S. Food and Drug Administration has cleared an artificial intelligence algorithm from GE Healthcare that aids physicians in assessing endotracheal tube placement via X-rays. It’s part of a suite of five solutions from the Chicago-based technology giant,"
-publishedDateTime: 2021-11-17T03:06:00Z
-originalUrl: "https://www.radiologybusiness.com/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
-webUrl: "https://www.radiologybusiness.com/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
+publishedDateTime: 2021-11-17T03:07:00Z
+originalUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
+webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
 type: article
 quality: 59
 heat: -1
@@ -67,6 +67,6 @@ related:
       domain: fdanews.com
     quality: 34
 
-secured: "cgqj0fWdtVzXVMxoVJvf8gSjiJlmdXEPB+7W6d8UzgCNt6uNIkvVl1v6ymrVJIW6h5gasNzZxbQhXRsEeVIw+635oSfp7KOS7aFeUaX2iiKrseclA7srxSn4RDQcYXvdtEaf8FTC57vFt6F/EyP27DCAL0JiGZKLqSEtiDHD5wYQ0Sj+cKlaUEIQaSZcCbvC3IPUFepmS1W/llFN5S53/BpCs1U3uBg6tJUUt/f5WH8fFe68/XSWVSRMe487DhqCn+LXz6LWvjOU2o7ZF/KDsYqw8S4GB03cPiWZPWkZTySqX17Jy9g8eMP6gB8Sr2aXwlVR0FKmTknryWggDQ3CXe5h5S93/mRAXf1KcAivUYr+WFbvGeE4/t+cn8IJkc3LiSNIAXBZZCJtkupoOpGX9QvlcbIzhctWU6ZrogseFDkdeujFRK4x2onARtDCKRBAt8b/Y1MFZ8dbMgjO1DH2FFUQfbSdU4AAWtcuxckGrnCBwYdVWqVPMvnjRde5bbfr/dD3+ah5Meop4Ybe0EMwaA==;XayQ614OYC9Wl/wIVezxwA=="
+secured: "EmeXAad4tApXrfkj/Tz2eC5g1+ywsxMq7j8l6P8IM1Ub1ueYVg1/XZ3gFRAnrzHz7BVN9RSX/SavVkd1jr6FvH/ScjUbllAI4xbjQOKL1Z/RQjCUFm1UbF49K/SDojaXxuven+m++62fypSJbQa0OCOVilCmThzGxZJXcYxzDOFqZmE6dkGIYXLPDn38Rz+l/NlCt2OF4OgVmxxxhL37DI9N+WuFYkLa1oKRAnTwPZRgA8vSR/IRFJMsmFXnez7hc5wVq49axVWrw+6J3wfKpRgON1v/J+Z2RH5iwAsxNsagQwf/jcoXzlv+Hz9u1nLA2gISaQ5Cp7a9nKMUsjQlpEa0BgItExObf+eUmoWE5AM=;uww48uwcms0+PkGmKA/EjQ=="
 ---
 

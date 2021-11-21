@@ -40,20 +40,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Voice Recognition Market Increasing Demand, Growth Analysis, and Strategic Outlook 2025"
-    excerpt: "To Know How COVID-19 Pandemic Will Impact Market Request a sample Report at:  Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11."
-    publishedDateTime: 2021-11-16T17:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-increasing-demand-growth-analysis-and-strategic-outlook-2025-2021-11-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Infrastructure Market Research 2021-2025 | Analysis of Industry Growth, Import-Export, Consumption Value in Development"
     excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “AI Infrastructure Market” Report 2021"
     publishedDateTime: 2021-11-19T04:21:00Z
