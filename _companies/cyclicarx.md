@@ -2,7 +2,7 @@
 name: "Cyclica"
 overview: "Cyclica is a Toronto-based, globally recognized biotechnology company that leverages artificial intelligence and computational biophysics to reshape the drug discovery process. Cyclica provides the pharmaceutical industry with an integrated, holistic, and end-to-end enabling platform focused on polypharmacology that enhances how scientists design, screen, and personalize medicines for patients while minimizing off-target side effects. By doing more with artificial intelligence, Cyclica aims to revolutionize a system troubled with attrition and costly failures, accelerate the drug discovery process, and develop medicines with greater precision."
 type: "profile"
-heat: 72
+heat: 50
 
 website: https://cyclicarx.com/
 
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=UHArUciCDH4"
 
-secured: "y5CmJ+xPIIe/aBJokwW158g2wcWmESrZKLNQ2XMrU5U93RwtO+XZE5ggN0FqwdPAWabeQkAODDKapiJgCAsM/SslObp+0UIl9UK0GC9A12SBIK5n8sgH7JOTeVpVw7d7Tt4RXNtxGI3F2vWaXPrI+pP/JU9yrDD0P/6O/fVyY5sUSNvhMA0xpfe0Jy73zNPmvKD8MqzWOYqvDE5cmiHp4ImsND91h7dt/vv5XDAf6vI/8tyOuSJYP2ZmegS/F3+oka7LYRPTZj6TRAWkPIJddYjnojQcjOCQEd+oT8+bs7i30bSwif++sFkzrVXxy95r4v4O5DBBOmqzgzMUo/27dLXP9WUkKop+Xo50BwnxBdQlkn8HRUsRWd/D3asJC8wwwGaNFJ0TqnJzkyLl3ug74V4cKR1M5wcpxBScj//jZFE=;wnHRxUoeyd9rLpoSC5HoSg=="
+secured: "AsRbZzP8Prh4Jim86eEtXvkVoYnjLYw5qA1+TEkQpfbmjoCgebFUHCKGnfkb5C8aMsgrRFgBjMVOpvpjP5efc4o32Hgeh+aXAs8ReEVkpOuLUh3BLWyHRRAx4gAAzx6nPxVkap2kXxDvPdBLcE/XssBTEUXDnSIhzxyNXnLe+3D4Y8qivlfUtY9dgTbDGYj3aGtCmbasGItaLbSC4znDDCrmz2WzvVpqfkOzFGxY9mpdYlqyNOeeuDB5xPu/fhUzsmL4x59wSXecEAWVm8aiUSKbBJ3WLmq65zo+FkhjE7H9p4RC19mhOCN6Ogx7rRodE51NUq8MEbHUwwm5Avo4v8UzWn5yV6C4kVTGGcWHneKV+JsTxOfnu0aebGwpe9dUvVLRi/9myu/btNYUHoiBQQ==;qrRZyY/paUmbb2qSWjUjsQ=="
 ---
 

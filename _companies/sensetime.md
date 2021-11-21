@@ -6,7 +6,7 @@ otherNames:
   - "Shangtang Keji"
 overview: "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity."
 type: "profile"
-heat: 50
+heat: 83
 
 website: https://www.sensetime.com/
 
@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: "sensetime_ai"
   url: "https://twitter.com/sensetime_ai"
-  followers: 1533
+  followers: 1536
 
 size: 1,001-5,000 employees
 yearFounded: 2018
@@ -53,6 +53,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=wMUmPumXtpw"
 
-secured: "vSvgY46EFh7OM+Dx9AlATqtT6ui7RBQ/57sDlqh5BGwCxtrFjM93LG1AWtU+0ROtWFsLKqQ+rLlNk1PN0LjqJssUQzMyevkFuTfRGUwK8b61UFftfZKfYzEhIq5cYrotKwdpURhkjJ0V4Pf5U25FGXX398PL6VFo9MoTrNfC60Xq0jxAy2y+88sbReYts99rtngInD6TtuOgCRLAWN83LJK0UZVZhyz5uLipERazcmmiqzRlb7Jd7ZxatIj12nP60+68Dl8dMlZizMzz7S7YmyMfOvfY+G7Ma0AC8D9AgwvliM/1vG8QTfHX7x+jq0CFzgg0t8xEHglcWtGm0v7nhoMbQq7qUCcLTg8LqIAWlOsJTRVPi1x0rlYrgJNk28RpQGZLw/H3JDZ1UMizmDaHfpbh3kgi0+EYkxEhFp0EgV0=;tx04S/zpR/o9n7Padzw6sw=="
+secured: "WL3DnY2+csQmR4TKlhxh1L2qCQwyn8olegs6sjTNrVBY93TwAuyUTjkWxn3KXtg/XZ3r3UUyLFIUd95iZ3m0FJwF7Sv6xhUT1FbX5iP2Y05yuvGWE5fMbXUJDk1rZ71yllTRymQVp9RFT+q4FrnLev8GLsIgyLIBGUE2MQ+P4+D+YnSZGxXGP8o0BlygfTSKJHDSA6y3DnUgxlG7aU3uzDAo621EB55+zbfTkU90/vrS9f2YsqtpVKJgULoJYYwX1czzCzEuJ52a+8tu/mdkmTyW8taUqIlVszuNaDDZAmRxg0woVeCvpQBb0i1JK5vnsqvkLhUIFaYj9CzdEDwluoVQKl3oLsndQcEIPl6AwyvjeF11aH2DdTRa3XKuY/f9JAzT98nYXfYWfTuZ5AgsYTSSjRxUOIEfa+o55PhVVR4=;CL6WMnjKKthCkmbf0dvC2w=="
 ---
 

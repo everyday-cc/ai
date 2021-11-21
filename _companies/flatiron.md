@@ -2,7 +2,7 @@
 name: "Flatiron Health"
 overview: "Flatiron Health’s mission is to improve lives by learning from the experience of every cancer patient. Please visit our website for our open positions."
 type: "profile"
-heat: 83
+heat: 41
 
 website: https://flatiron.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "flatironhealth"
   url: "https://twitter.com/flatironhealth"
-  followers: 10677
+  followers: 10676
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=AishSTITOq4"
 
-secured: "SI7buji8hJHIyEsKOxGPgqkvpmNpv1xsF5PFLF6Yp1tKU/qjEKYubYCdI5yt7+RPpWfwgL0aScUlO34c8F7EsebdOKKyVNbtjqBUTejN4k85l2rgH2C5ZabbOoRW9H/E4UhIa2TcVqyS6Fltr6Bnm2povF8du2XPkOnijrAffXi4n7AIie3v0zLYUi/BMXkJc0+VbCrENQYPMi/1cik4s5XfSV7YchcA0hcnEzBCTlpRGWfsZ9phlDcZOIeYsCd7Kh8qfmlfgeBMcYPmaR5FxOGDQQl1XlAYF6qlU3ZjUXPFBCsz0VYQyhEnY2PJoxDodkjRGGcqL882i85TxiyU2UT/PrAI/S42OCkX+o/jeAl+nhsoRrVY/GXqfLZue/Uj0S1v9SRH40WSl00k0mfD1RhYC0lNU54QMamvds2WcYg=;WBiNwDVl58qQFzJlmDXrcA=="
+secured: "IYJosCswOtIEXWbI7vgO639wqBN1v1qFc1ZMvAgNu4pr2Nx7lZ4Xugp5fhsdKxjUaVwnWmjCWhvzQlnw82qXlnqZYrjSP8gTzhA+PHeQ//OtGGaw/uqQBJ1u/w7lK/zgo04WvCVRHBZPRCGJLoTi4QCqGHgKJ2VHftZnVqh88dH5N1jfCf7OcXf8xf4btoZb1Wis92Y6G/HRKZgRjuHH5xM4FHKSLnoB97xs2H6aozkWeVG/DTmYMtrSjjgXI7euymvaZEKMBuYJeuleFBTczPWnTs3104csWHQLuCmKOWqOFQBwaOtSPQY/jU99NPCT2swnd5hhn2i6cXXNQksONYblejyJ3znRANC2lZWWAdhtSYAdMvgX+IFbWpPmpBOl5sBXYHSS0vVuBAYfyeCQYnavwy07C+K4gLsfzy0ysws=;om6eCTdrDhh3MUSURZ3Lcg=="
 ---
 

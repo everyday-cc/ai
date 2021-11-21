@@ -2,7 +2,7 @@
 name: "Google"
 overview: "Our mission: Organize the world’s information and make it universally accessible and useful."
 type: "profile"
-heat: 351
+heat: 383
 
 website: https://www.google.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "GoogleAI"
   url: "https://twitter.com/GoogleAI"
-  followers: 1648117
+  followers: 1648159
 
 size: 10,001+ employees
 yearFounded: 1998
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Google"
 
-secured: "1LjlwIrz6bAMQPqrVmNuEKfG5UActJ7JhqgCfooKxwDH/1wd9WHLWxXEnLT6IU9JAh4dD0kyUaQwrAfMynPXkOQYkg87cTewfRm/zTTZH6eYUKOzveB89Hcgpf6Avin7oQyV+Q5DSpyyoIheAnDZCxGPelq0y28xnyto0ECn0hQGO8RH3zhhX+UOOWw4lJK+JXfEiufC31LSCSL7L8BAoFsjdFmJ3yf65Qw7lxLToaLMi12yUqu/1OKwLyqd2F0mqcGwLIzWCJeFV/0ovV6mwTazYxzb6+Sjde/0M344YQlXJfp29qz7gUAOTeJchxvlETvtMdUxiaw8fsnHYsDypC72Hz0uLB+P3jaxmw/5H0AtZRiphriotDgbNDMPOOVQGFhQSIgmXB4gdKlb4siZWlICmqvJHbvDa5rco2uwinA=;kLnRHoTzlNoyfw9SwjZqqw=="
+secured: "62JJYyVy0K9Zo1/P+sQLWLGnPqAS8eSx7z0+g4VNAcnxmjSrzOd0bKDWykNIUlpdVi3Qj+7gBP+BFo8pJXCRqRXLUUwXC5oAN4ZBBDRAksGgB7I+O6RmC/MAUqAWgOkgjRrpmER5n42qmLT+86j52AjwurUHNkIwP3sW6QU+xwauJmYOhXFFV8ZuEZa8fd3QKmjiDnZyScVJDVrFp8fjH6Y3Cy0s78Qtw/scrmthZSCjSGLokiRVfCAfBbxyyXCxXNWAgJ8gd+9CqG/hy1Fx4NTgq/waeZo4ooii28+ESOgQQSv9zabLH/cFReesx5bDSQ5G7PzN7mT/efgZ1tL9Q1onDfiHUxcYLhcwlhxkd72fPe64w9P0BcSMLUAy149nJypRYEEBdFsY3RMD2wlmOWTdZgfzDNtSRctAjAsT/n8=;s83VSGM9bhvu4jBnrZCGIw=="
 ---
 
