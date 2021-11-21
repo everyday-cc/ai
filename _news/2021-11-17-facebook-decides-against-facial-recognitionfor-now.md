@@ -7,7 +7,7 @@ originalUrl: "https://www.smallbiztechnology.com/archive/2021/11/facebook-facial
 webUrl: "https://www.smallbiztechnology.com/archive/2021/11/facebook-facial-recognition.html/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/FRT_AIM.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Facebook will drop is facial recognition system — But here's why we should be skeptical"
-    excerpt: "Facial recognition systems, like Facebook’s, identify people by matching faces to digital representations of faces stored on a database. Facebook has more than a billion of these representations on file but now says it will delete them."
-    publishedDateTime: 2021-11-17T05:06:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17423/facebook-will-drop-is-facial-recognition-system-but-here-s-why-we-should-be-skeptical"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 33
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/423/17423/6943972882_7b31832852_c_Hero_Main.jpg"
-        width: 750
-        height: 420
         isCached: true
 
 secured: "x5Nl6vKPhWJY+F23CNHRKpmN6NOrUxEV9HyKqGMlFVeVxjmk3BFCDSvodlTdIkCLQlCszOoIXR/JqLe9jLp1wJ3H0XdGXwWnsw128K1IQ86LXpwknvv5+8+M4oDPOdUqswg300zpX7/IJNoiReSRg0U1vYmj5fXZR0zDMWRem/z802vXAwyJAifnMH4e0xy0Hfjr++ZE2OELVoe6TyuLSG1DxvQge92mMiRQC5TezQqpPl1uuM977Ceqb5ocqatbrrehzx1SnVJOWJXikQvfrdYzGhoB32S0uxALnC3esx56PJOUrzUtQV5D0oB9iIV5TmO0sUMnIIbbOInc0p6P5Z7TXHEk+LrNYvo9b23sxpjz42Oau65IgUApCXEEpYhXTG6f4k4LayZSIkmAft6tMwB5qYWHqU88V1iZy1y93PvswQ4nCHusoFmoSrLmFePEQQmoDbd4m6te7mBELrDlj7gPv/hCcMVfGviLDjFDPURFBie+lQ6nCf4Yo108mfeYkmWd+123Jb7SLfYu2aqo6Q==;89QZPFmFCzuxiCF/tpqNQg=="

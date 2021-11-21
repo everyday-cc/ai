@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Baidu Q3 Adj. Net Income Declines; AI Cloud Revenue Up 73%"
-excerpt: "(BIDU) reported third quarter non-GAAP net income of RMB 5.09 billion, a decline of 27% from a year ago. Non-GAAP earnings per ADS was RMB 14.66 compared to RMB 20.35, prior year. Baidu Core recorded third quarter non-GAAP net income of RMB 5."
-publishedDateTime: 2021-11-17T08:29:00Z
-originalUrl: "https://www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73"
-webUrl: "https://www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73"
-ampWebUrl: "https://www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73?amp"
+excerpt: "Rong Luo, CFO of Baidu, said: \"With a diversified AI portfolio, including cloud services, smart transportation, smart devices, self-driving, smart EV and robotaxi, we are well positioned for long ..."
+publishedDateTime: 2021-11-17T09:37:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-q3-adj-net-income-declines-ai-cloud-revenue-up-73-1030983319"
+webUrl: "https://markets.businessinsider.com/news/stocks/baidu-q3-adj-net-income-declines-ai-cloud-revenue-up-73-1030983319"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -61,6 +63,6 @@ related:
         height: 473
         isCached: true
 
-secured: "Yo16jsYX4D0PKiBauIQiGYy0Y1x53WKr1gBKM4cBUzU00qEcy8S3TqIqjPxA1zFeqiAZijI30NadujUvMALBzgjA3er08tWRy09QuUdMk/iyOxHczhNb2MIjFofYXz5O21KqPwp2qoJhTAXsrToJIwD4fP8xxo4UNIxIGWh6lyJsmoshwJRIOQikVtR2dczG1sHofM75I+L/tlwdsEap76aht2aE4P1+kd1u+zn66R5ZW8im31LhUvyXC+mpPfCEn0Jku4r3cc5ZTwHlU5a3bcKNprCS4gUE/2bitlYD6Iim19proG4od0uRTwUOlDpY92cYwq8V0S13q2RsrDoI5qX8MwfIRGt+NN2NLNKVbB8=;XNfE3sONvQ+NpycjPGXdWA=="
+secured: "w2+RGxMOC732j0hmHgYfzNLf5kAAt5IChHhaq7gn3iNgKeom/Hnvv0BT9jySBfDDKRZNyDZQgPPMymrG274MK7qdui8i2foI5pfwH7BxaxhUZITrBVd81MbSAgL88UyjIoR18CqeZPnth6wKCbUiwj8Ng8EKtPUPDUxd6xvicpElfDM40zQ6X8cVkaYvaF8WQkWOkGOIXWmLLFeuvj7bzkDEo5m2QeVuGWLFY4GEhCcVm2Xw9Xikkb2gm0L8SJsixV4gb+lZUhdygLn0rZfOvQNWNkmgQlJHiqBQWq/A4z1Cy9X33bdci76fJIJLctDs6EJtpA/GTcHSKvxKUHpYuSTOaE//invIJ3VMF0jhMH0=;RxwCCokBxoaANfUPdRfLCw=="
 ---
 

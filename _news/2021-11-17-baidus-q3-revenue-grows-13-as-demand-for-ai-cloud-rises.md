@@ -39,16 +39,14 @@ related:
         height: 630
         isCached: true
   - title: "Baidu Q3 Adj. Net Income Declines; AI Cloud Revenue Up 73%"
-    excerpt: "(BIDU) reported third quarter non-GAAP net income of RMB 5.09 billion, a decline of 27% from a year ago. Non-GAAP earnings per ADS was RMB 14.66 compared to RMB 20.35, prior year. Baidu Core recorded third quarter non-GAAP net income of RMB 5."
-    publishedDateTime: 2021-11-17T08:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-q3-adj.-net-income-declines-ai-cloud-revenue-up-73?amp"
+    excerpt: "Rong Luo, CFO of Baidu, said: \"With a diversified AI portfolio, including cloud services, smart transportation, smart devices, self-driving, smart EV and robotaxi, we are well positioned for long ..."
+    publishedDateTime: 2021-11-17T09:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-q3-adj-net-income-declines-ai-cloud-revenue-up-73-1030983319"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Baidu reports revenue, R&D increases in Q3"
     excerpt: "Chinese tech giant Baidu Inc reported its total revenue reached 31.9 billion yuan ($4.95 billion) in the third quarter of this year, an increase of 13 percent year-on-year, yielding a non-GAAP (generally accepted accounting principles) net profit of 5."
     publishedDateTime: 2021-11-17T13:27:00Z

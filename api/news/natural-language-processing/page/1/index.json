@@ -1233,6 +1233,40 @@
       ]
     },
     {
+      "path": "_news/2021-11-09-yellowai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience.md",
+      "title": "Yellow.ai Launches INBOX - an Omnichannel Agent Assist Platform to Elevate Customer and Agent Experience",
+      "excerpt": "DUBAI, UAE, Nov. 9, 2021 /PRNewswire/ -- Yellow.ai, the world's leading customer ... to handle requests from a single dashboard in any language, offering complete customer history with superior ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-11/54431714-yellow-ai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-11/54431714-yellow-ai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan.md",
       "title": "AI being employed to translate sign language to assist deaf in Japan",
       "excerpt": "Local governments in Japan are turning to artificial intelligence to improve communication with people who are deaf or hard of hearin",
@@ -1424,49 +1458,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-henry-kissinger-says-ai-is-as-consequential-but-less-predictable-than-nuclear-weapons.md",
-      "title": "Henry Kissinger Says AI Is 'as Consequential' but 'Less Predictable' Than Nuclear Weapons",
-      "excerpt": "\"AI isn't novel because it's trying to take over the world (it isn't); it's novel because it's imprecise, dynamic, emergent and capable of learning all at the same time.\" Eric Schmidt, Hernry Kissinger and Daniel Huttenlocher talk about their new book and the promises and perils of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-says-ai-consequential-less-predictable-nuclear-weapons-1644508.html",
-      "originalUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-says-ai-consequential-less-predictable-nuclear-weapons-1644508.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/2021/11/12/henry-kissinger-says-ai-consequential-less-predictable-nuclear-weapons-1644508.html?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/11/12/henry-kissinger-says-ai-consequential-less-predictable-nuclear-weapons-1644508.html?amp=1",
-      "publishedDateTime": "2021-11-05T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

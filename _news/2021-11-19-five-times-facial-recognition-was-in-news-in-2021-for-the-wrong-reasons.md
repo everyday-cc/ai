@@ -64,20 +64,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 47
-  - title: "Facebook will drop is facial recognition system — But here's why we should be skeptical"
-    excerpt: "Facial recognition systems, like Facebook’s, identify people by matching faces to digital representations of faces stored on a database. Facebook has more than a billion of these representations on file but now says it will delete them."
-    publishedDateTime: 2021-11-17T05:06:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17423/facebook-will-drop-is-facial-recognition-system-but-here-s-why-we-should-be-skeptical"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 33
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/423/17423/6943972882_7b31832852_c_Hero_Main.jpg"
-        width: 750
-        height: 420
-        isCached: true
 
 secured: "PffhWUQqyizMDH7+sAboyoRhM5giUfF105Gq57rlHSL2GEYYWZhurSDcqsykf0ev3DOBhhQyuxTlGWpa82rbXJNOthspj0RFENPTxe0JwfYecYwZ0ctStDC8NKiEAiz3C6MQjTdMTNoGpquGiJWjKfDpVGINFgSxSROrWmFR/JxIqnlVcx8+QQNhUlXophUPk+oz9Sinlhzux+eN97IQj4vLckXM8INHqCiGzwGzieRsADbxFYYUq2qu7W+/eAudx3/j5zTeeUrMGS0Spg8kvzlo7C5Ixm5Lx90dJxon0cQdDuSMwB0gCzJlMdd44J1yUtsmKotD5pyfidG/dnr3pgucd2fCCscd0QrVfqSnlAkRRHdLKXhJ5H4sFT0XrqhRKo3cWUz480AjZT9KP1snhccrnyH84CVhIDma0DHMetszA4e7kU0osoUB1pWMARUXbLahbCnD2WSJAkJSn+NxQhoFjPxaN/wKQ9/oObYqWi0q7g8gvLUHzwM5vIYe2TkFAtyZCB2eggnhN3l03XhAxw==;EoN2n2h3X0gI7kXhAm7pQQ=="
 ---
