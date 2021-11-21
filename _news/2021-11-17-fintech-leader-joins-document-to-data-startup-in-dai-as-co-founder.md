@@ -18,45 +18,61 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Lender Oportun to Buy Online Banking Platform Digit"
-    excerpt: "Oportun Financial Corp., a fintech lender, agreed to buy online banking platform Digit to boost its artificial-intelligence and digital capabilities. Oportun will pay about $212.9 million in equity and cash,"
-    publishedDateTime: 2021-11-16T21:15:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit"
+  - title: "AI enhanced Compliance Platform Sedric Secures $3.5M to Increase Consumer Protections for Fintech Firms"
+    excerpt: "Sedric, an AI-enhanced compliance platform for Fintech firms, announced that it has secured $3.5 million via a seed round in order to increase consumer protection and transform the Fintech compliance sector."
+    publishedDateTime: 2021-11-18T14:31:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 43
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iql_JVcP1zx8/v0/1200x800.jpg"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/05/natalie-collins-unsplash-LifeGuard-Only-Beach-Safety-Protection.jpg"
+        width: 1144
+        height: 863
+        isCached: true
+  - title: "Fintech Compliance: AI's New Role in Combatting Corruption"
+    excerpt: "Discover how AI has started to be used as a tool for fighting corruption, what these technologies are, and why they are so important"
+    publishedDateTime: 2021-11-16T23:32:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-compliance-ais-new-role-combatting-corruption"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/human-using-ai-for-research.jpg.png?itok=-jaGq6pM"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "3 Fintech Stocks That Would Make Great Additions to Your Portfolio"
-    excerpt: "Fintech has been gaining steam lately due to innovations in the sector. Moreover, fintech usage has increased significantly over the past year. And because the industry has immense growth potential, we think fundamentally sound fintech stocks Sapiens International (SPNS),"
-    publishedDateTime: 2021-11-19T18:00:00Z
-    webUrl: "https://stocknews.com/news/spns-mitk-qiwi-3-fintech-stocks-that-would-make-great-additions-to-your/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+  - title: "Justt, a Chargeback Mitigation Fintech, Secures $70M to Take On Outdated Chargeback System"
+    excerpt: "Justt, a chargeback mitigation pioneer, has announced that it has secured $70 million in funding as it further expands its mission to assist merchants with combating false chargebacks with smart tech."
+    publishedDateTime: 2021-11-17T11:48:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183012-justt-a-chargeback-mitigation-fintech-secures-70m-to-take-on-outdated-chargeback-system/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183012-justt-a-chargeback-mitigation-fintech-secures-70m-to-take-on-outdated-chargeback-system/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183012-justt-a-chargeback-mitigation-fintech-secures-70m-to-take-on-outdated-chargeback-system/amp/"
     type: article
     provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
-  - title: "Global Industry Study Reveals Fintech Lenders are Evolving Fast and Moving Up Market"
-    excerpt: "Holdings, Inc. , a leading provider of digital transformation solutions for banking, today released a global research study conducted by Economist Impact in collaboration with Salesforce. Entitled What is shaping the ecosystem of small"
-    publishedDateTime: 2021-11-17T13:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-20109952.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 17
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/06/Benjamin-Money-Dollars-100.jpg"
+        width: 1164
+        height: 1280
         isCached: true
+  - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-11-18T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 26
 
 secured: "lipBX835VHnlME0nVez4pwUE5BzkuFd0QaRlkAqCoHEarvfNi0HNEqj0WDqd6+TtfuRbVDSUdEA3YkoLT758p0hoG6sg1XX8Kjc6/qH8qO2qjOpZyvLrn6a3qAu+7rq1Ff5KjmoXCUdcuJGEO+C4lvXpD4Nd74L8HjXOv50QAIohnenQVORJTEsqr6SPrQRFabaTTpQKS1KvLNTlI/mFlBge8xzUkdhGZbbg9I9M68FMRAKoX0RGgcgNvLL9souh9hnS3OiEUjL2Gni9NjB+VXRecLCJcOTCbDrLOgBSz2yUbPL3fO29H+FGmlqm7uyKkmVcgdrCYDuE22QK117A68rzw1NHK2vQm6r69LMwJ68=;/HcJSVcvNMa9cU3MSAvKjg=="
 ---

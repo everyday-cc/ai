@@ -7,7 +7,7 @@ originalUrl: "https://mtstandard.com/business/technology/use-of-artificial-intel
 webUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -24,90 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "NYC Aims to Be First to Rein in Artificial Intelligence Hiring Tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the com"
-    publishedDateTime: 2021-11-19T17:20:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/nyc-aims-to-be-first-to-rein-in-artificial-intelligence-hiring-tools/3411736/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/nyc-aims-to-be-first-to-rein-in-artificial-intelligence-hiring-tools/3411736/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/nyc-aims-to-be-first-to-rein-in-artificial-intelligence-hiring-tools/3411736/?amp"
+  - title: "Helm.ai Raises $26M in Series B Funding"
+    excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
+    publishedDateTime: 2021-11-20T12:55:00Z
+    webUrl: "https://www.finsmes.com/2021/11/helm-ai-raises-26m-in-series-b-funding.html"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 72
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
     images:
-      - url: "https://media.nbcnewyork.com/2019/09/jobsAP_16230695166503-1.jpg?quality=85&strip=all&fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI Hiring Tools Can Discriminate Based on Race and Gender. A New NYC Bill Would Fight That"
-    excerpt: "A bill passed by the city council in would ban employers from using AI hiring tools unless a bias audit can show they won’t discriminate."
-    publishedDateTime: 2021-11-19T14:16:00Z
-    webUrl: "https://time.com/6121581/nyc-ai-hiring-bias-bill/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 57
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/11/nyc-ai-hiring-bias-bill.jpg"
-        width: 5363
-        height: 3575
-        isCached: true
-  - title: "NYC aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T22:29:00Z
-    webUrl: "https://www.timesunion.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/71/74/21733140/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "NYC Aims to Be First to Rein in AI Hiring Tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T13:03:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-19/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "NYC Tries to Rein in AI Hiring Tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T14:54:00Z
-    webUrl: "https://www.manufacturing.net/automation/news/21903855/nyc-tries-to-rein-in-ai-hiring-tools"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 37
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/11/16x9/AI_Hiring_Bias_AP.6197ba7de8efc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "NYC wants to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T14:07:00Z
-    webUrl: "https://www.fox5ny.com/news/nyc-wants-to-rein-in-ai-hiring-tools"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 37
-    images:
-      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/05/1280/720/Computer-hacker.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/helm-1.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
-secured: "Dv0uzKf+3n701SwRUAyIEyBTkL5gzvlwYq+pPnPkreKEpSJ3jhBTSohBeYLQHT5774EDfaY/fS6WDLwCETJl9DR6V4NRhXQ9aWNtDlzq+9YwuTlGWfVT+cfsgm6vaaPGlOZpiiHtv2ebBgkfJGa94BOPwBGE2ZDiNusLEzKqB8LlNQwe3dXQQO+R9TgQYUD4MUKZwimGYlA0y44IjKpJ5UtEhKdtOIJaIEbJrlj7v/8e9/MfwgcyZRTNbCEyCZRMcSVaB63fIVhymI5WJvh5c9ET09/M+pXWvjGSzpFWQbHspmOC1xXpSUUMywrJl9BfYcRA53Cv3WofaO8gaNkOGltD/V9Qs2GyTeC+UOIfJR8=;YO5ltIuf17EPhDP0PEDbpQ=="
+secured: "npMAZW6sUQTnAqPbyxL94lzb3jQ9RW3A/6h6haUNZ0ZpNV8BrEp8Ey2F/mAVU1DJQ1Hy3eZW7cajC9S//OeHVs4K3Wl3MdU+s1Zg3xV058t9pghkuuvp4xSH4cb+VzX2OuY3Nm38zFyP8bcCy9l2vnn1WsX8M33OV4UEFQhztcLDO2isYt2N5oxGcbdBbUquoICzwxuYAaz7uxncTnL76MoVgnYaSbcRWLg5MmCqsPDLrdYSKLumMP89aay3si6i+Mc47h1OmsD/1633PHg9eoMrUYNo9IF01LgQqfGqtr45GgJ3Bu9ipBMwuNhxDpsVkGgNYZEVoqlbWgwoYIIaJcpK/+SD5rc/qXz1VMMXTRPh7FR6wZP9UAGy0nPqO5DndJ9PyB6AfOPbGQRj3VuRRLijzVEYbG45CjLMj5F7BHkMpjjEumUeZFJ6Ud4QoB9ZEVpBub89nBKlH+kI33ch0KAYAm9RjwTD8bC8iHMnQFrV/6KV6XriRadxdPw2yx/pkGJreCA7vT3wo145W8Xc6w==;430ZEvC0+xarKip4qbqjeg=="
 ---
 

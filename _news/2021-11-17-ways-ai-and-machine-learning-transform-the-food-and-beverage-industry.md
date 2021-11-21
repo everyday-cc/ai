@@ -7,8 +7,8 @@ originalUrl: "https://www.cioapplications.com/news/ways-ai-and-machine-learning-
 webUrl: "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: CIO Applications
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Could Revolutionize the Insurance Industry"
-    excerpt: "The introduction of usage-based insurance, however, has created an effective means to provide the right insurance for the right price — based on specifics, not assumptions. Now, UBI is about to gain a power-up through the robust computation capabilities of artificial intelligence."
-    publishedDateTime: 2021-11-16T21:25:00Z
-    webUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry"
-    ampWebUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/q421%20ubi%20insurance%20hero.jpg?itok=455opSSf"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "7 ways AI is redefining the future of the e-commerce industry"
     excerpt: "In this article, we’ll explain more about how AI is redefining the e-commerce industry and what to expect in the future. AI gathers data from online users, which provides essential insights into their needs."
     publishedDateTime: 2021-11-17T13:23:00Z
@@ -55,33 +39,21 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "ExdionACE Platform Revolutionizes Use of Artificial Intelligence in Medical Coding"
-    excerpt: "A new AI-driven optimization platform developed by Exdion Solutions is pioneering new ways for medical practices to optimize coding and increase revenue. Known as ExdionACE, the platform interfaces with a medical practice’s EMR systems either through a process automatic route using bots,"
-    publishedDateTime: 2021-11-17T18:19:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-texas-plano-artificial-intelligence-f478bc88ca5a4580b5c525d18a4125b4"
+  - title: "Businesses Across Industries Leveraging Disruptive Potential of Artificial Intelligence Market for Boosting Bottom-line"
+    excerpt: "Artificial intelligence (AI) is getting seemingly integrated with business processes, opening new horizon in human thinking capabilities. Business processes across the industries have witnessed the game-changing potential of AI tools,"
+    publishedDateTime: 2021-11-19T11:28:00Z
+    webUrl: "https://techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/"
+    ampWebUrl: "https://techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Impacts
+      domain: techbullion.com
     quality: 33
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Metabolic Disorders Drugs Market Players Revolutionize Treatment With AI Integration"
-    excerpt: "Metabolic Disorders Drugs Global Market Report 2021 - COVID-19 Impact And Recovery The Business Research Company's Metabolic Disorders Dru"
-    publishedDateTime: 2021-11-17T10:44:00Z
-    webUrl: "https://menafn.com/1103190355/Metabolic-Disorders-Drugs-Market-Players-Revolutionize-Treatment-With-AI-Integration"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/17/EP_7f859image_story.png"
-        width: 967
-        height: 493
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Tamper-evident-Packaging-Reassures-Product-Safety-in-Infant-Formula-Packaging-Market-1-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
 
 secured: "h1RrBrsKP7P3alOXiBDdJ9TiKIIDaw/5B8C4vjM+Uy7Db+gZssfWHmzUAqy3jkSt4oFDZIyZagAOS3NulK1QyzsWxPEHsKuJ3UU8Z6MVVs3hhzYpaLhJ6YvMTPCmX0ZK8MYhf/dBjUoAY6W3SHCMf9H8fkT4gj4fucdNny3e79pj4qjniMfcxL663ZCeTiN2GBJTJdBfUm40s4IZLsX8x9t/+fAmUa+YdX98OLns0KIqC3O1z8mx9ggFP/SBBEvkq9qIJQc3UZsm17gU5UZfRDevJakOQJEME7jS2GH5CpE/t6TWsuhfrr9WM3d/hTSR01mJpJa6lcvPcNms6JHscu2eDdY3OL5TJu/1sGoDiCIXRV2K/WPSp/NcvYPPOP3vIwlik5PgD7A0elK2KJPCNTuFcBphtn5Lms5zcD7+ChVDYwyPg2JHaqyxV1JX42q5wldoF41Qjxeg4p7xCAC49Vks3HFIo0uT86a9n7ltTvn8DxJaWLsXkOrWMaJua8HDJWKpDbrweq76gba3/+JqKA==;krRT424MVl2FwUG4zhnS1Q=="

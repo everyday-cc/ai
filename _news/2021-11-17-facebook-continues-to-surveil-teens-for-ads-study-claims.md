@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-f
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Metro
@@ -40,22 +40,6 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/kid%20facebook.jpg"
         width: 821
         height: 462
-        isCached: true
-  - title: "Facebook parent company Meta still collecting personal data from teens for ads, report says"
-    excerpt: "A new report claims Facebook and its parent company, Meta, are still collecting and harvesting your kids’ data — from what they like, to what they search — to target them with ads. Fairplay, Reset Australia and Global Action Plan released the report."
-    publishedDateTime: 2021-11-16T21:34:00Z
-    webUrl: "https://www.wtsp.com/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
-    ampWebUrl: "https://www.wtsp.com/amp/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 34
-    images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/f15d4d63-c687-4217-ab98-89965eb4d230/f15d4d63-c687-4217-ab98-89965eb4d230_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
 
 secured: "4ZxVwIvbAB32+K01H4setoaumpLWbWCUJWSKN1xUDLUp9tVWth1ge5wiXJEyN/io+CLWbiwhRHAXRZDBIOU1zjRuOmAWORdXuW8F+8jSx4I7BYto6t8XNp6SjKefD2Njc4qMnF+oqg/YeG22A5zFOMg558LA9tR0/6uqQwz5EyL623ohEwxKn1sTia9YAuiJVeDFmIvNjomwz1vOTm4wWGpwY+mUL32bhvWy8q4kB8k2TDSyR55yzxN3TtZmu9lAwqsmhfN61jca/IhlnX5MsW+Y9TabauodMV5rmL7rt8wZ41kFWY7riRCyfyNsCrjRE+/tb1LMqSUxnODe9+1jNZxomXYng/j7N6e6hAt9PIw=;I5t7jamxh9rgZ9ictkMSjg=="

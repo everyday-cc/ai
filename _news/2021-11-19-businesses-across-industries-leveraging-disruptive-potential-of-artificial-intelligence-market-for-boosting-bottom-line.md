@@ -26,35 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Turning machine learning insights into AI-powered actions with Cooling Advisor"
-    excerpt: "We’ve seen how comprehensive monitoring combined with machine learning algorithms can uncover and continually track the cooling zones within a data center – presenting a core foundation for effective automated cooling within critical facilities."
-    publishedDateTime: 2021-11-17T06:34:00Z
-    webUrl: "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong"
+  - title: "Ways AI and Machine Learning Transform the Food and Beverage Industry"
+    excerpt: "Artificial intelligence frameworks produce more secure, precise production line results at a faster rate and with greater consistency than human"
+    publishedDateTime: 2021-11-17T15:33:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 50
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGqT973IWCyBg/article-cover_image-shrink_720_1280/0/1637130532152?e=1642636800&v=beta&t=QMXlfweJHenMNy_WSANrdWLQC4jrZ8jEVFVGDHgNUVE"
-        width: 1200
-        height: 628
+      - url: "https://www.cioapplications.com/newstransfer/upload/i312c450308.jpg"
+        width: 450
+        height: 308
         isCached: true
-  - title: "Texans in major need of driving instruction"
-    excerpt: "A historically inefficient offense has defined a rebuilding Texans franchise that insists it is trying to be competitive. Drives end swiftly — mostly without points, often with a turnover — and when the offense returns to the sideline,"
-    publishedDateTime: 2021-11-17T00:18:00Z
-    webUrl: "https://www.houstonchronicle.com/texas-sports-nation/texans/article/Texans-in-major-need-of-driving-instruction-16626779.php"
-    ampWebUrl: "https://www.houstonchronicle.com/texas-sports-nation/texans/amp/Texans-in-major-need-of-driving-instruction-16626779.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/texas-sports-nation/texans/amp/Texans-in-major-need-of-driving-instruction-16626779.php"
+  - title: "7 ways AI is redefining the future of the e-commerce industry"
+    excerpt: "In this article, we’ll explain more about how AI is redefining the e-commerce industry and what to expect in the future. AI gathers data from online users, which provides essential insights into their needs."
+    publishedDateTime: 2021-11-17T13:23:00Z
+    webUrl: "https://knowtechie.com/7-ways-ai-is-redefining-the-future-of-the-e-commerce-industry/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 44
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/01/22/65/27/21714417/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://knowtechie.com/wp-content/uploads/2019/04/online-shopping-reviews-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "Fz4mfLRR5jdcV/bgRB8S0MhoC2ej/Dq5ddi0AF3x+jW+/B5hzeeqbuVZbbO1JYqyrLu9GxBrMQM9Vs6uXEepa/841NxP65Mhngnr5Ny0y2uJsF+OOWHbvn0VF2y0WBcVcq0LBJbXcUYKcrPlspUX1O8xEFHwlvFg0GXoafUYpEgwnyFWGru5W/sS6PJhavSJkbPpXW0bNp5VQ9aIWkwR2ke3n+GO/c79wz8eXI1yZmW0+2Aza555tW0j9prmJxq43NMiFnkzyFF2JaaLE8KnGdSLJsclxsHokUyzSRxF4a+pm1bQeL+TuAAOBvdVPVyA+fsrAPjN3vHxSCLNlPzY+P6jE3Ev8ozVJY3lfdkqt2OQjv4iyPqWFtgy/8lhu9cuSdL1ibX3QjqyM6OM4yJ4EyaUJgMZYU+xkEy1vGnUCuiGAaGFr+cEMUkzSTae0pOujwjsFBQSd/Bg9y/jzY6IH4D8XcPPXoawfbjEtNKRqZRpOoggr5Moo0EtvGcnx/W9pMxE/CfvsCRaYYOLMOnNqA==;K4wqr67oQUygb9t2xPFwlg=="

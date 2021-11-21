@@ -483,21 +483,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-17-turning-machine-learning-insights-into-ai-powered-actions-with-cooling-advisor.md",
-      "title": "Turning machine learning insights into AI-powered actions with Cooling Advisor",
-      "excerpt": "We’ve seen how comprehensive monitoring combined with machine learning algorithms can uncover and continually track the cooling zones within a data center – presenting a core foundation for effective automated cooling within critical facilities.",
+      "path": "_news/2021-11-17-ways-ai-and-machine-learning-transform-the-food-and-beverage-industry.md",
+      "title": "Ways AI and Machine Learning Transform the Food and Beverage Industry",
+      "excerpt": "Artificial intelligence frameworks produce more secure, precise production line results at a faster rate and with greater consistency than human",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong",
-      "originalUrl": "https://www.linkedin.com/pulse/turning-machine-learning-insights-ai-powered-actions-cooling-yong",
+      "webUrl": "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html",
+      "originalUrl": "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGqT973IWCyBg/article-cover_image-shrink_720_1280/0/1637130532152?e=1642636800&v=beta&t=QMXlfweJHenMNy_WSANrdWLQC4jrZ8jEVFVGDHgNUVE",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.cioapplications.com/newstransfer/upload/i312c450308.jpg",
+          "width": 450,
+          "height": 308,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -507,21 +507,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T22:34:00-08:00",
+      "publishedDateTime": "2021-11-17T07:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

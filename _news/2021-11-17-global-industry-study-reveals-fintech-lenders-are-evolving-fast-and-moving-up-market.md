@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20109952.html"
 webUrl: "https://www.lelezard.com/en/news-20109952.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,42 +23,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "Fintech Lender Oportun to Buy Online Banking Platform Digit"
-    excerpt: "Oportun Financial Corp., a fintech lender, agreed to buy online banking platform Digit to boost its artificial-intelligence and digital capabilities. Oportun will pay about $212.9 million in equity and cash,"
-    publishedDateTime: 2021-11-16T21:15:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iql_JVcP1zx8/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "3 Fintech Stocks That Would Make Great Additions to Your Portfolio"
-    excerpt: "Fintech has been gaining steam lately due to innovations in the sector. Moreover, fintech usage has increased significantly over the past year. And because the industry has immense growth potential, we think fundamentally sound fintech stocks Sapiens International (SPNS),"
-    publishedDateTime: 2021-11-19T18:00:00Z
-    webUrl: "https://stocknews.com/news/spns-mitk-qiwi-3-fintech-stocks-that-would-make-great-additions-to-your/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
-  - title: "Fintech leader joins document-to-data startup IN-D.AI as Co-founder"
-    excerpt: "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO. Abhishek will work closely with founder and Chairman,"
-    publishedDateTime: 2021-11-16T23:48:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211116/3857665.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "HWUdq3+rtVjbH4NyzXZW9lvv7z1mkFYcWm8LqwXOMuO6qUh4QuQfkevdHUipYdjlLZMC4XcFGtjy0UBrWr/e/hsbToi6Usi1o5SsFRDE7EtBhDXs3b18/661EapqdkgK/9VB9Q/2uRgfvJUDVgtMAH3Wu773KEyHT5/yG1Telseuh3NdLph0msdbYl0VV9KTE78S9/w71tuqX4NNt6RaM6Sg6xjFfROYsRfi5BXsRfHfGQJ73TWEaNleKiA2waKwXzKfBBoXAUKcAGxqgaaQBxSwpYrtVkxPdIPoNo9s+qEZyzzAfScjl2yEPL7/XnSDvMUQDrfWiIOsKQkVh5p1ebdFhCF4RPjGzWcqhiT7fVI=;HAb7GmKzrSeEVnlob9lbHw=="
 ---

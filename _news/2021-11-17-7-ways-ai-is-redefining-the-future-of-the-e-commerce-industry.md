@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Could Revolutionize the Insurance Industry"
-    excerpt: "The introduction of usage-based insurance, however, has created an effective means to provide the right insurance for the right price — based on specifics, not assumptions. Now, UBI is about to gain a power-up through the robust computation capabilities of artificial intelligence."
-    publishedDateTime: 2021-11-16T21:25:00Z
-    webUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry"
-    ampWebUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/q421%20ubi%20insurance%20hero.jpg?itok=455opSSf"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Ways AI and Machine Learning Transform the Food and Beverage Industry"
     excerpt: "Artificial intelligence frameworks produce more secure, precise production line results at a faster rate and with greater consistency than human"
     publishedDateTime: 2021-11-17T15:33:00Z
@@ -55,33 +39,21 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "ExdionACE Platform Revolutionizes Use of Artificial Intelligence in Medical Coding"
-    excerpt: "A new AI-driven optimization platform developed by Exdion Solutions is pioneering new ways for medical practices to optimize coding and increase revenue. Known as ExdionACE, the platform interfaces with a medical practice’s EMR systems either through a process automatic route using bots,"
-    publishedDateTime: 2021-11-17T18:19:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-texas-plano-artificial-intelligence-f478bc88ca5a4580b5c525d18a4125b4"
+  - title: "Businesses Across Industries Leveraging Disruptive Potential of Artificial Intelligence Market for Boosting Bottom-line"
+    excerpt: "Artificial intelligence (AI) is getting seemingly integrated with business processes, opening new horizon in human thinking capabilities. Business processes across the industries have witnessed the game-changing potential of AI tools,"
+    publishedDateTime: 2021-11-19T11:28:00Z
+    webUrl: "https://techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/"
+    ampWebUrl: "https://techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Impacts
+      domain: techbullion.com
     quality: 33
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Metabolic Disorders Drugs Market Players Revolutionize Treatment With AI Integration"
-    excerpt: "Metabolic Disorders Drugs Global Market Report 2021 - COVID-19 Impact And Recovery The Business Research Company's Metabolic Disorders Dru"
-    publishedDateTime: 2021-11-17T10:44:00Z
-    webUrl: "https://menafn.com/1103190355/Metabolic-Disorders-Drugs-Market-Players-Revolutionize-Treatment-With-AI-Integration"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/17/EP_7f859image_story.png"
-        width: 967
-        height: 493
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Tamper-evident-Packaging-Reassures-Product-Safety-in-Infant-Formula-Packaging-Market-1-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
 
 secured: "iicpnT7ZfnC5ta5mWlzhtwAKoNdHCTHer8ERhuuC+GLvxMQBeVuqtGWGmb6LBvS3gWk8KLvjiV3nMKsmU4siP2w6hPtrTnV8HGayw290fnnDkeO6UiyD5014RLoH1IWVSSwexKgHtC6BAqs3VsY2Ohh/lPhBl0M1jnQEfiQjuDVFNKDps+jUM6TgxVJ5J4ljxZ0mrm/hjYDN63s/VoonYPve6+8bgSMHy2cX3jMDkv12NpSRHeh5luYNSCGEdkZVBHOEJfnL/F7LYR/s0zEJmU2sa7w5pjxk4rSQ4m7MUiRZoAEZq1lPNjwP6ZZ4ptluFKhRXkBRnSTDjrqGCGyod5AHzzKIaYQWZrIpH2Te+WnYqLYkPpE+IXOsW/PIx0biVi6xLg6dN1GwMYnqrL4b0sTfHR4sflczAorGgdj8J2EiG5ecp8KskceMq6AQoYE2y+1lulVtBMkTSH8vxqbRsfVipqtWoxWmk/dCZeGWn9vVS2GdGH15RULCFXGJBPqrWjg37r5eqCaSxXrb5JZnNQ==;fGKZ52XiiGxCIB7aBwNgCw=="

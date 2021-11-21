@@ -33,8 +33,8 @@ images:
 related:
   - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
     excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
-    publishedDateTime: 2021-11-18T18:45:00Z
-    webUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened"
+    publishedDateTime: 2021-11-18T16:45:00Z
+    webUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
     ampWebUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
     cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
     type: article

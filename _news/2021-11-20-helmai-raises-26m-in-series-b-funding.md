@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/11/helm-ai-raises-26m-in-series-b-fun
 webUrl: "https://www.finsmes.com/2021/11/helm-ai-raises-26m-in-series-b-funding.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "Use of artificial intelligence in hiring raises concerns"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the"
+    publishedDateTime: 2021-11-21T11:00:00Z
+    webUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
+    type: article
+    provider:
+      name: The Montana Standard
+      domain: mtstandard.com
+    quality: 52
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/2/c5/2c5c1a89-8999-557f-970a-8801833d26fc/6197bb0619dad.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "iPqPSRSKKE87K0s2z2m90qXMBqvymVaDj97oKPvViqcAY3Gwesa80DRdwEOb6IN8yD6qtGx5e02Yb9p32EunJV0dkcviLQVNBxVBjPZu1U6e3GcsVX+WV89Glxym5M6kYmkenLsLdb+DEFHLBmlpUPEyp78/iIn0ckB6PUWrZXOnZ8GbqqvQQHpTerhVJf82ORob98n1Nhz/gzXQsktT92Lei4owVEJqnpS/1+YNlJZkC1bqFitV65BQCmmTnODvW5JEBjTfBUzwQfp5krPIa+4m8xg9JAUaSqp9cW6/GHVu/qrWykKl5pkd4Cb+FmbwUruj7wbb8p82rywwwKxAAUk75uSeRi5rnkRSd7YI7EkDWFh9+c6cXgE9wZ7PCrz6I/bTPms/R3Bc/Y9bMjtOnhrC6gNtpa60iV2mI6eMJZZ4n9XubQ65Oq66m5YMpHNEeOJzv73ymSL1AccypuTqFYGZoisM9Mu3lSi9X55ZynQkI4gWnhtBNRjiCuc2SW5zsBoHwm+gD6uJxpcbfPUaqg==;VA6bf1/rrgWe3VRvJqUpHA=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
 excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
-publishedDateTime: 2021-11-18T18:45:00Z
-originalUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened"
-webUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened"
+publishedDateTime: 2021-11-18T16:45:00Z
+originalUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
+webUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
 ampWebUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
 type: article
@@ -87,6 +87,6 @@ related:
       domain: carscoops.com
     quality: 50
 
-secured: "qKBVZ9iCZoTiJ+0F4J+Kg0pigak5ndofb32ixEnHSeX7/anJA1TK3HF37Du02iiImbrBwIQmLSaCOxsii0lpin/NeEgLfRnkum50TKCJ00lFvYNY041ZvRfeIzvMkGqCKZHnqz7u1e8qSZ9RwBRULDwj6ScX4IxPtZ6kvnL0/TWB612Gv83NCQp789eLpOXg9kEW7f4VjSH3qtrISPCq47WfAHvSjLByIEITCXm2VbF6r67EtqvZ7vCX5Y4LimdeDEDduiz7/n+HLNOdDkZr8Jz/JoMn8j9qfi8yO2RM/lka8lR58Sqn05MQYDVtoi2S7lrQosF6BJPLdfvALUVJ8wSnOAfaM2+lri+4RwIAxlLqlop8NtoDsDmX4sd5bsJG2Xt3IyOBGhFr5/JQHKdeGqKKYeQaFD49RR5UA6L7jBEvqIpaahZmdSrXKAt8+S7fFPaaacMyL5d6S/uge6TX0E+GigD5hBTOeA/awplphTiQZlbdESvVLwP3OM5r5lt62mDDcAQwMHmFg4KnJP1ivQ==;QV1NXPY5iqdR3iDmSaY9qQ=="
+secured: "lWhSdZgxENKGeOj0SqTwxFAx9xKFOMx+lvKI6P8hvEPqye3DzTOEujUSsQVzK7IW0/Rq6U0C7zGBwGttgaugCbTunhZUaagHka7oUS3NOJ8FLFb7Yne1dVE8qZGm/TnjTCntHUzvxhKUCPk2RxOc2JoRcRxmtFDlFf83XcKzhxnVDD65vfX0lmmuviuVD2znK0qyHgO46b+5HMesJB9TEYO3TR7HSLu+2ZaJnqjWox+1U/pJwR7d2Dc5hprtuUI8sjPQpQaqjDBXOW9s7DMmlusYOGyC4xbOLAtCUpWW6ftTB28THecZFWyLwOYH+TtqxjobO5GuFiiMGCXmmUptIv9i2zpbAq2Dc+rm3Nchh44=;8UWlcghGP2gfMW0XfJQebw=="
 ---
 

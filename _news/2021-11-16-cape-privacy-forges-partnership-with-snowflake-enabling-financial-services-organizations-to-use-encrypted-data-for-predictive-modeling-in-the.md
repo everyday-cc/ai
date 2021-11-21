@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Cape Privacy Forges Partnership with Snowflake, Enabling Financial Services Organizations to Use Encrypted Data for Predictive Modeling in the Cloud"
-excerpt: "Cape Privacy has joined the Snowflake Partner Network to partner with Snowflake, the Data Cloud company. As a Snowflake partner, Cape Privacy enables the unique ability for financial services firms to run predictive machine learning models"
-publishedDateTime: 2021-11-16T14:12:00Z
-originalUrl: "https://www.lelezard.com/en/news-20107081.html"
-webUrl: "https://www.lelezard.com/en/news-20107081.html"
+excerpt: "Cape Privacy has joined the Snowflake Partner Network to partner with Snowflake, the Data Cloud company. As a Snowflake partner,"
+publishedDateTime: 2021-11-16T13:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/11/n24121501/cape-privacy-forges-partnership-with-snowflake-enabling-financial-services-organizations-to-use-en"
+webUrl: "https://www.benzinga.com/pressreleases/21/11/n24121501/cape-privacy-forges-partnership-with-snowflake-enabling-financial-services-organizations-to-use-en"
+ampWebUrl: "https://www.benzinga.com/amp/content/24121501"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24121501"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "TiMyo588f7FiLsCQudIB1WiPF2p1GiXj2vjCa5quXO7LyWMxXfAVmnlFlibasaLYMvf9AJJwPqxUO7sKiPpiWJb7D11T88tXONrfIaJECVtnKiHV4ZSTgm15sfdYCJeIMXimPWepUi0ITvI5zdT8wPDa65Ub1VAMEE16CGj5fGJQXgTxInTSmpurAFTFB3Y4bMP78JPz1zS0I2bytlCkTzqJKCAwkX15Jf9m7lq/voEWqWlWOfzLYmEzuNtAIueWZYrFrG1+9JRtGcwDlE9RF0I+y1BY0/76y2mAv7L+U31QbL1mYi6QEgSU/FBneHUxe2poOJdzq0LDsuKjqLigQ6IsTRCTXNJxRaRNBPjD8+U=;n+JgsjiExcb4vVs98eC/bw=="
+secured: "nhnZXJ/hm9b/RNl2hj8eVzo5u1UNQbmB3S/d6Sy7xxE47ViTM1sijgG94QdlZXBYB7DGGcDcv/C8gCBWQepTYYV9OiUhUZXeM/XhRmQnKEhKGkRSSn3QH8jKZ/6xB14hRcmxGB2eT/qgxJvqsT59xaGoNYrpqjj3UTfOb5qSgxZBtunOzVqnuAQWS9Rz7wB8uRjEWrkfmQwxMK976RxSjwiNLc8VRsjHIdUG3D2wMUaS8i67uGnRWBWNqBmVgXj+sdC+E9SrXU7B3F/mct6SJenPAogZH5faC+CFqyZZmc5XBv0AlOwLO/ZfAfKHb4VgHa8ZGohTFt5/7P6aJdsIBX+pVnN8Z+hBt2t9kztEXtc=;wDpn4UiaOY7q/OrqkRMs+g=="
 ---
 

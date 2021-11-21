@@ -41,22 +41,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Facebook parent company Meta still collecting personal data from teens for ads, report says"
-    excerpt: "A new report claims Facebook and its parent company, Meta, are still collecting and harvesting your kids’ data — from what they like, to what they search — to target them with ads. Fairplay, Reset Australia and Global Action Plan released the report."
-    publishedDateTime: 2021-11-16T21:34:00Z
-    webUrl: "https://www.wtsp.com/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
-    ampWebUrl: "https://www.wtsp.com/amp/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/facebook-report-teen-data/67-457034e6-f374-40e9-9239-49fc9e5a8975"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 34
-    images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/f15d4d63-c687-4217-ab98-89965eb4d230/f15d4d63-c687-4217-ab98-89965eb4d230_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "fixEZKMZLL5z5Ti9LvpHop6xkj9hfj8zhX8338v1E/sjb9JthT9dZqN1JyCSFlvS0IWSn+sqdS5oxy/AIWqYCpTSNdBlvOTxLQI+m7JSkwp5GrmqX6DT8NRxOlQSwWp5tMoqjcMD1+mJxP5+sv+BhJE1m4SV0RuFk4hyC0arqnHbn6EqshjJkAoLKgDokVTvS27CwQk+GuIVD0EioXpizBju5TFpQGdCbDv7/QuJpwqOsKFP7kQESsb6xyWXIg4Ms33Xr6PFOtiRWMj1UCvA9YjgrmKHl34tXNMVXQRBfALT56DuT+P34rDtFeEa1o1e5zO/Bmt8brSth9ru2LxHz7OYLFe9Klxt9U9KDkOjx8Ro0ebFpNIquH3/3AmJHVKOmeNGFB4Dr/WSTYKcpuH4OM7Zi4bf7sdNj6z6YfwNVaZnWoyGur13+Rb/YUiTGKyS0RGaOeBPQM0JbTds6ini+riuA2LfHrQ4FTK59kOLQm0ZY1vgLy6AFS9N0wf1CQ8XlKEMO88W+PEyTArKcnt8ow==;ikzTvNvooWXZ4wbvcOBQxg=="
 ---

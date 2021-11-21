@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York City Passes Bill to Address Bias in AI-Based Hiring Tools"
+    excerpt: "The New York City Council has passed a bill meant to address bias in AI-based hiring tools. The bill was introduced in February 2020; the NYCC passed it on Nov. 10. New York City"
+    publishedDateTime: 2021-11-21T13:30:00Z
+    webUrl: "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools"
+    ampWebUrl: "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03TmzGcHJj6gOoz7jg8a3Aw-1.fit_lim.size_1200x630.v1637501264.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "NYC Aims to Be First to Rein in Artificial Intelligence Hiring Tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the com"
     publishedDateTime: 2021-11-19T17:20:00Z
@@ -60,19 +76,21 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Use of artificial intelligence in hiring raises concerns"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the"
-    publishedDateTime: 2021-11-21T11:00:00Z
-    webUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
+  - title: "New York City Regulates Workplace Artificial Intelligence Recruitment and Selection Tools"
+    excerpt: "Joining Illinois and Maryland, on November 10, 2021, the New York City Council approved a measure, Int. 1894-2020A (the “Bill”),  to regulate employers’"
+    publishedDateTime: 2021-11-18T23:34:00Z
+    webUrl: "https://www.natlawreview.com/article/new-york-city-regulates-workplace-artificial-intelligence-recruitment-and-selection"
+    ampWebUrl: "https://www.natlawreview.com/article/new-york-city-regulates-workplace-artificial-intelligence-recruitment-and-selection?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/new-york-city-regulates-workplace-artificial-intelligence-recruitment-and-selection?amp"
     type: article
     provider:
-      name: The Montana Standard
-      domain: mtstandard.com
-    quality: 52
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 48
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/2/c5/2c5c1a89-8999-557f-970a-8801833d26fc/6197bb0619dad.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
   - title: "NYC Aims to Be First to Rein in AI Hiring Tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the computers making behind-the-scenes decisions about their careers."
