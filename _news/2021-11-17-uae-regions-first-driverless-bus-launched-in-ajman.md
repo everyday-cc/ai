@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ajman: Driverless vehicle hits the roads, takes tourists sight-seeing"
-    excerpt: "The vehicle is equipped with 5G technology, has facial recognition features and provides high-speed WiFi access"
-    publishedDateTime: 2021-11-16T13:22:00Z
-    webUrl: "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing"
-    ampWebUrl: "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 59
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=909defb0-8bfa-5b88-8bc1-7541e695a2e0&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Era of driverless delivery on the way to reality"
     excerpt: "Students were astounded to find the courier was a yellow unmanned delivery vehicle that stopped right in front of them. With no driver, steering wheel, accelerator or brake pedal, the artificial intelligence-enabled vehicle said: “Enjoy your meal”,"
     publishedDateTime: 2021-11-16T16:02:00Z

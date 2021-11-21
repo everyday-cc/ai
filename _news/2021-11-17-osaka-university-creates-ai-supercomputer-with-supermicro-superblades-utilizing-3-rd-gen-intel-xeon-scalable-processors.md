@@ -41,15 +41,6 @@ related:
         width: 964
         height: 471
         isCached: true
-  - title: "Dell Announces New CAE Solutions, PowerSwitch and GPU-Driven HPC Server Options"
-    excerpt: "At SC21, Dell has announced new computer-aided engineering and design solutions, expanded HPC/AI managed services, a Dell EMC PowerSwitch and GPU accelerator options for PowerEdge servers, all designed for modeling and simulation-intensive workloads."
-    publishedDateTime: 2021-11-16T14:45:00Z
-    webUrl: "https://insidehpc.com/2021/11/dell-announces-new-cae-solutions-powerswitch-and-gpu-driven-hpc-server-options/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 15
   - title: "Habana Labs Announces Turnkey AI Training Solution Featuring Supermicro Server and DDN Storage"
     excerpt: "TEL-AVIV, ISRAEL and SANTA CLARA, Calif.–November 16, 2021– Habana Labs, an Intel Company and developer of AI processors, today announced the availability of a turnkey, enterprise-class AI training solution featuring the Supermicro X12 Gaudi AI Training Server with the DDN AI400X2 Storage system."
     publishedDateTime: 2021-11-16T20:22:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Associated Press
@@ -38,20 +38,6 @@ related:
       - url: "https://cdn.newswire.com/files/x/00/7f/49464d790dd93f82d1d3aec6089e.jpg"
         width: 512
         height: 510
-        isCached: true
-  - title: "Viz.ai launches AI-powered modules for pulmonary embolism, aortic disease"
-    excerpt: "Viz.ai announced today that it launched its artificial intelligence-based modules for managing pulmonary embolism and aortic disease."
-    publishedDateTime: 2021-11-16T14:34:00Z
-    webUrl: "https://www.massdevice.com/viz-ai-launches-ai-powered-modules-for-pulmonary-embolism-aortic-disease/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 36
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2021/11/Viz.Ai-pulmonary-embolism-aortic-disease-module.jpg"
-        width: 770
-        height: 500
         isCached: true
 
 secured: "TF//uTV01cn0rRddm5iMg1pNbpGda67eduAXGjjwWDY6ur++hNSgjFrbWPeAmiZz6T7QxKPtLlopVSI3VY6DZ4C1t8R1o/4zDBjXf/kB5pcBLKErq1g4XMJEl+GCNnsFRNhkT/60EDviFcbmwns3aI50ks2EizhBrVJT4/0UeaGzB8KSnXWvXm40kIl4HFfSrtVLG74h15Bio7Uw5IiHXbSctIGsucnwd4ybu+Wl+5QGIKPA8ZDEdrNBi7rCsk6FPyRh/RrltCMtBbjpVjyxYDeaCNUS6hNv7vjMf0aAQKaEmD659rtThj1bawW+/8b33hmCrE5VXgrjR9wXBif8H4dDHf3ZTPW64HRHr+5rTns=;7tIZW3GNGqsOrM0YxJX5Ug=="

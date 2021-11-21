@@ -25,66 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Revolutionizing Retail Market"
-    excerpt: "The digitization and technical progress, especially artificial intelligence (AI), are changing retail market in numerous industrial sectors, including tech, agriculture, studios, product testing, inspection,"
-    publishedDateTime: 2021-11-20T09:58:00Z
-    webUrl: "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/"
-    ampWebUrl: "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1"
+  - title: "Automation, AI key to optimising application performance"
+    excerpt: "Automation and AI are the only way to ensure optimal performance of the applications that organisations depend on, according to IBM."
+    publishedDateTime: 2021-11-19T08:58:00Z
+    webUrl: "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 72
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/11/rtrt.jpg"
-        width: 1600
-        height: 700
+      - url: "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428"
+        width: 761
+        height: 428
         isCached: true
-  - title: "Artificial Intelligence in Energy Market is set to Experience a Revolutionary growth by 2026"
-    excerpt: "A SWOT Analysis of Artificial Intelligence in Energy Professional Survey Report Including Top Most Global Players Analysis with CAGR and Stock Market Up and Down By thinking from the customer point of view a team of researchers analysts and industry"
-    publishedDateTime: 2021-11-17T18:08:00Z
-    webUrl: "https://www.openpr.com/news/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
-    ampWebUrl: "https://www.openpr.com/amp/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
+  - title: "New AI application reads eye movements"
+    excerpt: "Eye movements read by a new AI application can reveal thoughts, memories, goals — and brain diseases. A new tool developed at the Kavli Institute for Systems Neuroscience in Norway and described in an article in Nature Neuroscience,"
+    publishedDateTime: 2021-11-17T01:38:00Z
+    webUrl: "https://www.news-medical.net/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211116/New-AI-application-reads-eye-movements.aspx"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
     images:
-      - url: "https://cdn.openpr.com/U/b/Ub17748437_g.jpg"
-        width: 640
-        height: 400
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Magnetic_Resonance_Imaging-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "How AI is driving up density requirements"
-    excerpt: "One of the technologies that are driving this need for increased density is Artificial Intelligence (AI), a technology reliant upon high-performance computing (HPC), and not showing any signs of slowing down."
-    publishedDateTime: 2021-11-18T09:52:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/marketwatch/how-ai-is-driving-up-density-requirements/"
+  - title: "Embracing Socratic Paradox May Lead to More Reliable Predictions from AI Models"
+    excerpt: "Next-generation artificial intelligence (AI) models used in public health, IoT, and other critical applications will soon be able to make better decisions and more accurate predictions thanks to a bit of philosophical wisdom being instilled in them at Georgia Tech."
+    publishedDateTime: 2021-11-19T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/embracing-socratic-paradox-may-lead-more-reliable-predictions-ai-models"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
+      name: Georgia Tech News Center
+      domain: gatech.edu
+    quality: 35
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-871148930.2e16d0ba.fill-1200x630.jpg"
-        width: 788
-        height: 415
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2021/prakash-zhang-portrait-composite-cse-nov21.png"
+        width: 850
+        height: 478
         isCached: true
-  - title: "Metabolic Disorders Drugs Market Players Revolutionize Treatment With AI Integration"
-    excerpt: "Metabolic Disorders Drugs Global Market Report 2021 - COVID-19 Impact And Recovery The Business Research Company's Metabolic Disorders Dru"
-    publishedDateTime: 2021-11-17T10:44:00Z
-    webUrl: "https://menafn.com/1103190355/Metabolic-Disorders-Drugs-Market-Players-Revolutionize-Treatment-With-AI-Integration"
+  - title: "Artificial Intelligence Drives Innovation In Building Security Solutions"
+    excerpt: "The application of artificial intelligence (AI) in digital building solutions continues to grow. Vendors across the market are turning to AI and machine learning to launch advanced offerings that drive greater automation and improved outcomes."
+    publishedDateTime: 2021-11-18T15:36:00Z
+    webUrl: "https://www.publicnow.com/view/05E803A5AE820849AB4D0A6773AEE40ADB1F4D34"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/17/EP_7f859image_story.png"
-        width: 967
-        height: 493
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 33
 
 secured: "JMofgVKIMv4Vd7meF917k4IFxKQoSHDT2TfTo3JrSeU37pYTmEOMQpJp9plxnbe7GPr2yH8doXpAUGgbLXoI4Mt3oc+/XG4LIq53bnNaFwDABwAQrElQaghM4WIzOLp7IU9Xg7ldRsvIT3Xd0SXD8kmDcOnKLsaRQL7ynspHCWbCBYzi/MYso7VjuVESH3cnbi/X98TmsMVUCcDI1ldr26ku8xSKdN7ve8OEC7Ks5Vx1afYRhnVvHsjRO4fK7+5kXsMq+7P63BGww4IL/t1b3lU00OljzoqPk6COnKVZXDLdwB1M9/YSPf1JdzM9ohHsaSCmyOTCadoc3HcxTyYdaPJJ5F8FAfdFOCVitHb9JnGRTkgbzIkczjdgm+5NlWgUg92HEyK3/uxy+LEa3YsLEbLg6lup2sX0kMx6EbM3c94LSLVOdbgYuoVqy3Tzck+3zsJHh4k26oFI7GMBmv5EHURcICiTREG1zSU9LlP/5sFy5K9G85ZvpHgNuyCMKDMFYCjh/6pLGTfI9KBgC2omXQ==;OPC+WoK1gncgwx48KC8zJg=="
 ---

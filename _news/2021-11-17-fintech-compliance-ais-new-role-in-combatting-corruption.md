@@ -41,6 +41,22 @@ related:
         width: 1144
         height: 863
         isCached: true
+  - title: "Justt, a Chargeback Mitigation Fintech, Secures $70M to Take On Outdated Chargeback System"
+    excerpt: "Justt, a chargeback mitigation pioneer, has announced that it has secured $70 million in funding as it further expands its mission to assist merchants with combating false chargebacks with smart tech."
+    publishedDateTime: 2021-11-17T11:48:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183012-justt-a-chargeback-mitigation-fintech-secures-70m-to-take-on-outdated-chargeback-system/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183012-justt-a-chargeback-mitigation-fintech-secures-70m-to-take-on-outdated-chargeback-system/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183012-justt-a-chargeback-mitigation-fintech-secures-70m-to-take-on-outdated-chargeback-system/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/06/Benjamin-Money-Dollars-100.jpg"
+        width: 1164
+        height: 1280
+        isCached: true
   - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
     excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
     publishedDateTime: 2021-11-18T14:00:00Z

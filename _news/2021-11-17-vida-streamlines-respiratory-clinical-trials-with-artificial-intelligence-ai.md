@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-h
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-clinical-trials-artificial-intelligence-124f7b430edde48f763d841a1fc6942a"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "VIDA Streamlines Respiratory Clinical Trials with Artificial Intelligence (AI)"
-    excerpt: "VIDA Diagnostics, Inc. (VIDA) is further removing friction in respiratory clinical trials with the introduction of a new AI-powered portal. The cloud-based VIDA Intelligence Portal (VIP) streamlines challenges often associated with imaging in trials such as site onboarding,"
-    publishedDateTime: 2021-11-16T14:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vida-streamlines-respiratory-clinical-trials-with-artificial-intelligence-ai-1030980685"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
 
 secured: "mSWPqt4JdT6KyBV5XJS2IyD5XHZj0B6VIk3EV8+Y5nso0y+W1W4Is3kdZ3pF0DtoUbHfA3Pii0CRb9fPVN86+0BrJV1fQT4DPcUQLBOr7WTs3FIGtwSa9maAWwSYfUmQCCn6jfm4bimD7nrVyyR/ZumCuBL6gIf/Tt+JW+z0E8zm2GVgwbxtZ/htDEor1A2uR5pZwdBBwmczcd/ta8pOgyLzViThu9ytkt063EoViUoI3aYsLkMqCu6QZDW/iOtX4ESK3QMEVgTvRhGi15SkpyHVQ13xoPB0fkAXsXJGOEyAT85Vsd9KfZO/QQtEhSkWV+1ItKeYbJH2v3l/a8CbIvNZCta9fUUkFiBVy9uqrGo=;XXvqDu3Gnd1yNY1VFx4dEg=="
 ---

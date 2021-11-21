@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Informatica and Microsoft unveil program to launch Modern Cloud Analytics on Microsoft Azure"
+    excerpt: "The new offering from Informatica and Microsoft provides customers with automated migration, and financial incentives for Azure modernisation."
+    publishedDateTime: 2021-11-17T09:35:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/nov/17/informatica-and-microsoft-unveil-program-to-launch-modern-cloud-analytics-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 43
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/11/adeolu-eletu-unRkg2jH1j0-unsplash.jpg"
+        width: 1920
+        height: 1272
+        isCached: true
   - title: "ZF to digitise production processes with help of Microsoft"
     excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
     publishedDateTime: 2021-11-18T16:02:00Z
@@ -39,24 +53,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
-    publishedDateTime: 2021-11-19T10:30:00Z
-    webUrl: "https://www.businesswireindia.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace-76082.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 26
-  - title: "Arista Joins Microsoft Intelligent Security Association for Integration with Microsoft Azure Sentinel to Help Improve Customer Security"
-    excerpt: "NewswireToday - /newswire/ - Santa Clara, CA, United States, 2021/11/16 - Integration of Arista AI-driven network detection and response with Microsoft Azure Sentinel optimizes security operations - Microsoft."
-    publishedDateTime: 2021-11-16T16:55:00Z
-    webUrl: "https://www.newswiretoday.com/news/176634/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 19
 
 secured: "Wf1NSPTSdzBmAWbIOZOk99mbo4rm8jUjl0qSTJkFHLktzp32U0Ze7WrGEmU+gnC/CRzWy6wu3xSBcyWKsZpKaUgeJc3DH5mgqrkY8iem3HP1HM3ERC0h8H9vXRSj79mAMBU4c5VtWytF6gg4o1A1sVbRGfo9wcWphD07efofHnilQO/KROacr3J6A1Lx4jhvmZwSCIuh3goKcwSXqb+WL+IdxJ9fzdqZEHS6C81NuhyrM71TKlu12R+McJQTp3Xz2+ROawFscaZ5HL4F8nE8AEXaJkraLBnu/qN+7m+eBwChw1pVKIXRmmOpnnJrkLeszQXsZkKrmf/hfhZkcPhj7O1MAwex5Pf80M4r655bdyM=;mFLkK3HhmNFo1kmk1Dtbjw=="
 ---

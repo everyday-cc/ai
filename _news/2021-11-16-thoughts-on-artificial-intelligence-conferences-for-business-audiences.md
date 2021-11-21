@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artif
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Hour One Accelerates Scalability Through AI-Powered Digital Cloning for Small Businesses and Entrepreneurs"
-    excerpt: "Hour One, an end-to-end video creation platform powered by AI and photoreal presenters, announced today that attorney and CPA David Fritch is using its AI-driven enterprise solution to scale his business while saving time and resources to stay ahead of the competition."
-    publishedDateTime: 2021-11-16T14:00:00Z
-    webUrl: "https://www.financialbuzz.com/hour-one-accelerates-scalability-through-ai-powered-digital-cloning-for-small-businesses-and-entrepreneurs/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 1
 
 secured: "TGzXeiPifZyiRtoSQRslJvFuFT7aWJfKDkjGkepJaEhlffog6lWK4ThuikOLPDIWWOZjF4ywaJzRIysTqRlI7WKp9IzIoM3OX0VmavX9v5ilWpR+fW1MLiKq0rRX3EgVxdRzLkZQHAmVjfYFVzGNejw+KBeFtuT5xTBpu/MJSWzugNVhcVTwSNZ+pDCkO7/E1vi6L/99aaTDJHWtXN76D68wc+Y4JoEiZX+BH8wEipU3cpBoSYAvNSah2ZTq1ApxbFZ6ntMOB0/s2KVOTFYImOlFXwp+anB+HacSBwHKcOzHETCGTJS27cVy/jSFJBpPAHiSluMZIxrEKC/+uUiuDRNpv839S1wxoMQ7txHlHhmFMtUO2q7BdPl5zVxHxVR+AcgTZNhysPGvoXSx8F02Ept7YcUR/Hsv7Deieer42FRXKMkn9qgkj3Eui65C5baM/xO3MR8I2ikBycJvUFRpvaRVEsSc98TxX+IKICbAdUYq6fi42oOvsztG04pijnnBPnF3s7UnPYwDznG1O2iRWA==;GR0pEhFoxiyBs5vQjCgrgw=="
 ---

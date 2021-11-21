@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-10-27-uk-spy-agencies-supercharge-espionage-efforts-with-aws-data-deal.md",
-      "title": "UK spy agencies supercharge espionage efforts with AWS data deal",
-      "excerpt": "which reports that the deal has been made so the UK spy agencies can harness the data analytics and artificial intelligence (AI) tools the AWS platform provides. AWS will also reportedly equip ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361353/gchq-mi5-sign-aws-cloud-deal",
-      "originalUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361353/gchq-mi5-sign-aws-cloud-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1626261079/itpro/shutterstock_mi5.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361353/gchq-mi5-sign-aws-cloud-deal?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361353/gchq-mi5-sign-aws-cloud-deal?amp",
-      "publishedDateTime": "2021-10-27T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-27-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network.md",
       "title": "Insurtech: AI enhanced Platform Arturo Joins Amazon Web Services Partner Network",
       "excerpt": "an artificial intelligence-powered platform that derives property insights and predictive analytics from aerial and satellite imagery, announced that it has joined the Amazon Web Services (AWS ...",
@@ -1372,6 +1320,42 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with-microsoft-google-ibm-aws.md",
+      "title": "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS",
+      "excerpt": "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
+      "originalUrl": "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
+      "publishedDateTime": "2021-10-14T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://cloudcomputing-news.net/news/2021/nov/17/informatica-and-m
 webUrl: "https://cloudcomputing-news.net/news/2021/nov/17/informatica-and-microsoft-unveil-program-to-launch-modern-cloud-analytics-on-microsoft-azure/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,45 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Noteable expands analytics tools for programming with new $21M"
-    excerpt: "Noteable, a startup developing tools for data analytics and organization, has raised $21 million in venture capital."
-    publishedDateTime: 2021-11-16T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/"
-    ampWebUrl: "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/"
+  - title: "ZF to digitise production processes with help of Microsoft"
+    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
+    publishedDateTime: 2021-11-18T16:02:00Z
+    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1318171140.jpg?w=1200&strip=all"
-        width: 1200
-        height: 562
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
+        width: 940
+        height: 443
         isCached: true
-  - title: "Smith.ai Releases New Call Analytics Tool for Legal Marketing Business Development"
-    excerpt: "While Smith.ai is far from the only virtual receptionist service that offers a call analytics tool, its co-founder and CEO believes its new offering provides more granular detail than others in the market."
-    publishedDateTime: 2021-11-16T14:05:00Z
-    webUrl: "https://www.law.com/legaltechnews/2021/11/16/smith-ai-releases-new-call-analytics-tool-for-firm-legal-marketing-business-development/"
+  - title: "ZF accelerates digital transformation of its products and processes worldwide via Microsoft Cloud"
+    excerpt: "Added value for autonomous driving, vehicle connectivity, and global supply chain management Cloud-based infrastructure and collaboration to improve speed and efficiency across business operations Digital Manufacturing Platform rollout to all ZF factories ZF investing billions of euros in digitalization over the next years REDMOND,"
+    publishedDateTime: 2021-11-16T16:31:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-b9656082dffab4560a4b38874facc292"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 48
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/11/AI-business-intelligence-tool-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "St. Louis digital health startup acquired by fast-growing health care analytics firm"
-    excerpt: "A fast-growing health care analytics firm headquartered outside of Dallas has expanded with the acquisition of a St. Louis startup. Irving, Texas-based Lightbeam Health Solutions Inc. has purchased CareSignal in a deal the companies said will bring together two technology firms focused on lowering medical costs and improving patient outcomes for health care providers."
-    publishedDateTime: 2021-11-17T21:03:00Z
-    webUrl: "https://www.bizjournals.com/stlouis/inno/stories/news/2021/11/17/caresignal-acquired-by-lightbeam-health.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "g5H6R+tivKGrlJ4X9qzwIuUNM5tAD8pksRFv1rakq2gaKP3zIrsSWHHFVaRmKBI7+byUYMMA0/6/xg8YReNw3DvidZE9prO5YyYBEItA5wpfu23JpgQi+wJubcPyi8YFvI8gYQQ0ttCJgRkLv/RV0KCaJ4TvaavzvSQ4OPO+nAGUq3X2Kd0bqqzm5nza48Z+fJNyKdBt8CWjoIE8098KSZxXoEdqU/qnoffOYQnSVUkaw+larohoaGI+MQ3lS5VXgHzCoMah+8u4vMt3CVn2ehc2YTZMrzXrQSw6tY1NHXGk7AIY+ZDZMkjLOrde3sbnGNsXF+XgI6uFGBsQDwP5M+EvQoCE/oE/IY7GD0dR/ujbjuiUheOVlinT/+NECU1mc0qxwFgBy4/u195q9z4GfV16zmjVzpY2ijK+Og0gX8+LKb2mijZmV4iZIQY2rVkyBxCJQlG5J5J2SQ7ltJmjRTkdnQp/NQo7WAUNgBTTa7PYYNSTchHuC3cBKBKPjVhhC5PIfO4x94yF3YOIyTHVUQ==;DOOiJHVQbT4NEOYuWEwpew=="
 ---

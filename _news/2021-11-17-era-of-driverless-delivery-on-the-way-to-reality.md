@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/asia/china/china-daily/driverless-de
 webUrl: "https://www.independent.co.uk/asia/china/china-daily/driverless-delivery-harbin-engineering-university-b1958167.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ajman: Driverless vehicle hits the roads, takes tourists sight-seeing"
-    excerpt: "The vehicle is equipped with 5G technology, has facial recognition features and provides high-speed WiFi access"
-    publishedDateTime: 2021-11-16T13:22:00Z
-    webUrl: "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing"
-    ampWebUrl: "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 59
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=909defb0-8bfa-5b88-8bc1-7541e695a2e0&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UAE: Region's first driverless bus launched in Ajman"
     excerpt: "The Middle East's first operational driverless bus was launched in Ajman on Tuesday morning. Sheikh Rashid bin Humaid Al Nuaimi, director of Ajman Municipality and Planning Department, and Omar Al Olama,"
     publishedDateTime: 2021-11-16T19:40:00Z

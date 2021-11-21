@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-b
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.reuters.com/resizer/Ur44jWJk2_S6IpoNw4y2tH_H4fU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VSXHZH36FJLWFAWYMGA7T264JM.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Qualcomm to supply chips for BMW's self-driving cars"
-    excerpt: "Qualcomm Inc on Tuesday said that German automaker BMW will use its chips in its next generation of driver-assistance and self-driving systems."
-    publishedDateTime: 2021-11-16T13:52:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/articleshow/87741075.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/amp_articleshow/87741075.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/qualcomm-to-supply-chips-for-bmws-self-driving-cars/amp_articleshow/87741075.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87741075,imgsize-18838,width-800/87741075.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "BMW to use Qualcomm’s Soc for self-driving cars. Know more"
     excerpt: "BMW will utilize Qualcomm Technologies to bring a full spectrum of ADAS/AD functions, including front, rear and surround view camera computer vision"

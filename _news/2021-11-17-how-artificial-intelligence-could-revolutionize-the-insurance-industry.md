@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intellige
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Metabolic Disorders Drugs Market Players Revolutionize Treatment With AI Integration"
+    excerpt: "Metabolic Disorders Drugs Global Market Report 2021 - COVID-19 Impact And Recovery The Business Research Company's Metabolic Disorders Dru"
+    publishedDateTime: 2021-11-17T10:44:00Z
+    webUrl: "https://menafn.com/1103190355/Metabolic-Disorders-Drugs-Market-Players-Revolutionize-Treatment-With-AI-Integration"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/17/EP_7f859image_story.png"
+        width: 967
+        height: 493
         isCached: true
 
 secured: "WymUXRQRzNvOrLc/Ly3XwRWowSD5u55u3n+BcC8tsLUpEkOvbPT3OLDR9E09WX3pVjZ/OKJlew2JMYK87lYLdA6eQ0Fo1qhVMx00TG6eeKp5RXANSJ2jTmUayCXbXuEhGBA9xQkjP94AY55c4BYUZuaXP0zjZAYizK9DLXF3V69p6q/mdZIfVVhz2jZaVYstp9nz9YyWalZaXScpzKnk+zVdLieQLiEsXlzEzjuqAK+cEVHoCET0LjLOl0ccWiLlRbugRQrrHfGkYEYGTA7/RdkQBd64PhUwaXuZpIyFW4nbmUAhvP7Ik8MKX9nFi8OAzBKYTHJrCj0+Pc9zjHhhP9flRYFQ+wUH026hBdMRHeBC8IyPL4U5naohORS4NhVQlVA53dGIlY+Jrhr8mtsI6Pe/3FYWlup8W7FDL0N+6ZbfM5/dKvGrAPMVeoLxAvDC87Ujtx/mfoKHS/0f//N9AFwDtf9THFr3fWjiWBt7UEgz4o5v68N1cNZtrXfLyy0ZUiLboGVESIXA/DR98BMyaQ==;24LXvzI8vCdC+0ZMeLYx5A=="

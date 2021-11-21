@@ -51,26 +51,10 @@ related:
         width: 1200
         height: 1168
         isCached: true
-  - title: "Still a Way to Go Before AI Can Help Patients on Ventilators"
-    excerpt: "Computers aren’t ever going to replace doctors completely. Instead, artificial intelligence (AI) has the potential to better support clinical work, a | Clinical And Molecular Dx"
-    publishedDateTime: 2021-11-16T15:00:00Z
-    webUrl: "https://www.labroots.com/trending/clinical-and-molecular-dx/21680/ai-help-patients-ventilators"
-    ampWebUrl: "https://www.labroots.com/trending/clinical-and-molecular-dx/21680/ai-help-patients-ventilators/amp"
-    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/clinical-and-molecular-dx/21680/ai-help-patients-ventilators/amp"
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 59
-    images:
-      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/pexels-tima-miroshnichenko-5452221_6bf08c69c4caa82d3f41d868c65ca3a4.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "FDA clears GE Healthcare X-ray artificial intelligence aid for endotracheal tube placement"
     excerpt: "The U.S. Food and Drug Administration has cleared an artificial intelligence algorithm from GE Healthcare that aids physicians in assessing endotracheal tube placement via X-rays. It’s part of a suite of five solutions from the Chicago-based technology giant,"
-    publishedDateTime: 2021-11-17T03:07:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
+    publishedDateTime: 2021-11-17T03:06:00Z
+    webUrl: "https://www.radiologybusiness.com/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
     type: article
     provider:
       name: Radiology Business

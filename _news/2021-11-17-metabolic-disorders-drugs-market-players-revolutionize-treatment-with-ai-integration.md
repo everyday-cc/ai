@@ -25,65 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Revolutionizing Retail Market"
-    excerpt: "The digitization and technical progress, especially artificial intelligence (AI), are changing retail market in numerous industrial sectors, including tech, agriculture, studios, product testing, inspection,"
-    publishedDateTime: 2021-11-20T09:58:00Z
-    webUrl: "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/"
-    ampWebUrl: "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1"
+  - title: "How Artificial Intelligence Could Revolutionize the Insurance Industry"
+    excerpt: "The introduction of usage-based insurance, however, has created an effective means to provide the right insurance for the right price — based on specifics, not assumptions. Now, UBI is about to gain a power-up through the robust computation capabilities of artificial intelligence."
+    publishedDateTime: 2021-11-16T21:25:00Z
+    webUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry"
+    ampWebUrl: "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 72
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/11/rtrt.jpg"
-        width: 1600
-        height: 700
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/q421%20ubi%20insurance%20hero.jpg?itok=455opSSf"
+        width: 1440
+        height: 500
         isCached: true
-  - title: "Artificial Intelligence in Energy Market is set to Experience a Revolutionary growth by 2026"
-    excerpt: "A SWOT Analysis of Artificial Intelligence in Energy Professional Survey Report Including Top Most Global Players Analysis with CAGR and Stock Market Up and Down By thinking from the customer point of view a team of researchers analysts and industry"
-    publishedDateTime: 2021-11-17T18:08:00Z
-    webUrl: "https://www.openpr.com/news/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
-    ampWebUrl: "https://www.openpr.com/amp/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2465926/artificial-intelligence-in-energy-market-is-set-to-experience"
+  - title: "Ways AI and Machine Learning Transform the Food and Beverage Industry"
+    excerpt: "Artificial intelligence frameworks produce more secure, precise production line results at a faster rate and with greater consistency than human"
+    publishedDateTime: 2021-11-17T15:33:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/b/Ub17748437_g.jpg"
-        width: 640
-        height: 400
+      - url: "https://www.cioapplications.com/newstransfer/upload/i312c450308.jpg"
+        width: 450
+        height: 308
         isCached: true
-  - title: "The Payments Association finds huge value in AI in revolutionising payments"
-    excerpt: "Financial Services organisations with over 5,000 employees have adopted AI It is forecast that AI Market to Hit USD 360.36 Billion by 2028 The Payments Association (formerly The Emerging Payments Association (EPA)) today announces the release of its latest research,"
-    publishedDateTime: 2021-11-17T09:54:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/payments-association-finds-huge-value-ai-revolutionising-payments"
+  - title: "7 ways AI is redefining the future of the e-commerce industry"
+    excerpt: "In this article, we’ll explain more about how AI is redefining the e-commerce industry and what to expect in the future. AI gathers data from online users, which provides essential insights into their needs."
+    publishedDateTime: 2021-11-17T13:23:00Z
+    webUrl: "https://knowtechie.com/7-ways-ai-is-redefining-the-future-of-the-e-commerce-industry/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 37
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
     images:
-      - url: "https://financialit.net/sites/default/files/dbfhgysuydfbsuydf.png"
-        width: 733
-        height: 414
+      - url: "https://knowtechie.com/wp-content/uploads/2019/04/online-shopping-reviews-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "How AI is driving up density requirements"
-    excerpt: "One of the technologies that are driving this need for increased density is Artificial Intelligence (AI), a technology reliant upon high-performance computing (HPC), and not showing any signs of slowing down."
-    publishedDateTime: 2021-11-18T09:52:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/marketwatch/how-ai-is-driving-up-density-requirements/"
+  - title: "ExdionACE Platform Revolutionizes Use of Artificial Intelligence in Medical Coding"
+    excerpt: "A new AI-driven optimization platform developed by Exdion Solutions is pioneering new ways for medical practices to optimize coding and increase revenue. Known as ExdionACE, the platform interfaces with a medical practice’s EMR systems either through a process automatic route using bots,"
+    publishedDateTime: 2021-11-17T18:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-texas-plano-artificial-intelligence-f478bc88ca5a4580b5c525d18a4125b4"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-871148930.2e16d0ba.fill-1200x630.jpg"
-        width: 788
-        height: 415
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "lqMjRMjeErb9e9bvbh0lwfYOwaF7T0jH2w7JXno4iunCHK/ZybQcgQAzmAAADIfC7SusNjp94IFRGJW7UfwCi0SqkrP2jXoDPHi+YHxESGOR4xx990aq7hrK/HkKfGyVEFx2hu+Hlr8A4SD5FDWTUJJcWIOxcs3HICwTQmf9y3J/ibF5e+dCsrMz2CvDZlL7Y9EXJXFVAmqKIdNIWBN7mIYdevHrzPRiERUZufO+s9WJWRd/eP5cIvah/3QYb38aIUi/vW99vxh9fpMHl27VowjlGCYEXBBgImjTIvtDjeFqQS4HEF45RzaFcy8Bij+dCgvc2y4jnm2uU39SGpKVsVHQVV7K2xa5NPcjrA1ricA=;8DiySJHzd+f8RDo9Def2mA=="

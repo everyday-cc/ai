@@ -43,6 +43,22 @@ related:
         width: 1510
         height: 1000
         isCached: true
+  - title: "MediaTek's Pentonic 2000 is the world's first 7nm TV chip, decodes 8K@120Hz"
+    excerpt: "After announcing its flagship Dimensity 9000 SoC for smartphones, the company is now announcing its flagship TV chipset - the Pentonic 2000. And it appears that this silicon is the world's first in many aspects."
+    publishedDateTime: 2021-11-21T05:44:00Z
+    webUrl: "https://www.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-news-51935.php"
+    ampWebUrl: "https://m.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-amp-51935.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-amp-51935.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 57
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/21/11/mediatek-pentonic-2000-offic/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
+        isCached: true
 
 secured: "KzLcomGQtQt9rtYEzVWno2Txi3GBASfHkaBh28CtEiIVuxppBVokCYTnl+ZcSVvSCwZbOw5X62zUwtikfKutR75ozPBuk9XxEC52HhiKO0HG8mMrNf954/mdrb8jX/PItA2s0jJzDVDPlKTveMy75Fsyr4ZhuG0XdNFAKY+Y9OIbol47Dn/TLkLbcbSYeG5O7hPNZRSButp4VdnIcc1IigZlDMIwSIgQW4PkqtVs6SMx4ujZzjmElj2nUHUkoZ8h5t5M4fVTt7Z6pJk0zqDhvrN2sDe0+wvuG12cRZtkcrv/jURM+DWgJTHlWPlMDmuZzQ4uRpOXxT07EuUJV0mYBLFgOol7fxF2iD4ntS6EmwOH92wL0eBSe3EoIXgFD8Kji8nU+5dA+3VcbUJNCzdbMpdYsTvDaG463LH86x3j+TBzst5veDSw5nmqzXkxFS4fzMhvEKgON8b6GCY3oFsf5gkABa6FmH+BTdzxio4hmWi5OyshNpoSZDH5+DnLjvEUO/08XDu+08BIF2AGwcsC8w==;B5e6LfFmT9hOheMkkG4EQQ=="
 ---

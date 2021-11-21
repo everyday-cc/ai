@@ -39,20 +39,6 @@ related:
         width: 4058
         height: 2710
         isCached: true
-  - title: "TOMRA Uses Deep Learning Technology to Distinguish Between Different Types of Wood-Based Materials"
-    excerpt: "The primary application for TOMRA Recycling’s new solution is sorting Wood A – non-processed wood – from Wood B."
-    publishedDateTime: 2021-11-16T13:31:00Z
-    webUrl: "https://www.waste360.com/recycling/tomra-uses-deep-learning-technology-distinguish-between-different-types-wood-based"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 25
-    images:
-      - url: "https://www.waste360.com/sites/waste360.com/files/tomrawood.png"
-        width: 1540
-        height: 800
-        isCached: true
 
 secured: "jLMqVE9HrGghPF/VIHIZve0xCTJZzkAznqeI/O5YiNZoIpp1qxCuX9OCgHN2nlo/xrpFidXl6+ctaUSLHqgqdcCgTpME7LvPfxjupmJ+U6kzF/+1/LUa3UAWw+QHVGIkrJNaFA0g0vDgEOjWUCD4qoWj449Kf4mvGRp2zGrI9LYTKuBRvA1AqH6vjYqadhOMctnIk7Y3sF0ziO0s/bZ5cleuUQQP/hbNyL6Ja1KOzsYjF5w7teXQaq1U0lScsvBY+cjhhJTepaKlF9Vu+jr0iD0Dc8rh6fnizyQSxg96JmNtm7RddHcvCJAN+Ca9us3CHnZlEsM3YhK3so2VqFitfiZLQ3/pL/RWn+h+hv9+IHYuIvqXdhXqHp/e2jFeh3y9mhaYvMAildeYo96fFjZfswjo3VQim27ewwjNI97zuZ8f88vRunWJqJV47SVfkAw9Psaguii0jBmmmtmTniJfnru9fyPx6WPD5zUkDExY1G+Gq4p/MSrNfvBk1F2NtMqvXhJvrKm3t2vViLn7adc3XA==;V6AzqLxS78CkFj+ek4He2Q=="
 ---

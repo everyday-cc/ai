@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/11/16/how-offerfit-uses-self-learning-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/how-offerfit-uses-self-learning-ai-to-stop-customer-churn/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 599
     isCached: true
-
-related:
-  - title: "Bringing AI To A/B: OfferFit’s Founders Solve A MarTech Problem"
-    excerpt: "This idea of automated AI-driven experimentation is something that every single large company in the world needs."
-    publishedDateTime: 2021-11-16T13:38:00Z
-    webUrl: "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/"
-    ampWebUrl: "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192a35c0a9b64037c834d26%2F0x0.jpg"
-        width: 1200
-        height: 656
-        isCached: true
 
 secured: "wWOe9mizO4jhm8Nl1BJsW+DXPHRlB0sL4Xdz5HwQNrI+RJOB1tenNzrtkRQBVr4JvhESBWMUZXAyr9zI0hRlhlLI0EKucy5JpkJSz0+QFbmiF1X2NtBSUGEBzBZO1WnYk3BcXRwCeYgB9leY9g97iQXE/AIY7cTPLzpw69SC5LSBwY7k+kXt3s2GBAiyPaNuJ67aHf5RnScB++6hsiVPf8yTqtfQWW8VdizwSK/QwMUPOeh5vqDEKxVJigi1uhozf9DraBGH+JlTE9O9YbQ4dWy3rCQ3LrfTNF/fZApDJh6gBaS65TPWVFSTPtXVVr6yHEVJF4xs21n4IeBxHOAOXvrmklDFO4Lh4InYuioEy1wOogplg82eCvMCXdo2Xs+E8tkqz9Zr0a09mzunm+t3GjO6dQhTC9Ulcmkci5ew3mABJNV5Lz0Ff90CtReNXPJXL0FeKzVGX8Ba4mwqbMR0lQ7fPM1KYZHZHjZXWD4HdJ/NY8uqT/K0OKqaZs5H8xAA6tRP53i0cpSrVzMe6hQEGw==;cZSEgCaj240Jc4F9S6ZLdw=="
 ---
