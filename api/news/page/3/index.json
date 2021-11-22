@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-19-mediatek-announces-new-filogic-130-series-chips-will-bring-wi-fi-6-bluetooth-52-to-iot-devices.md",
+      "title": "MediaTek announces new Filogic 130 series chips: will bring Wi-Fi 6 & Bluetooth 5.2 to IoT devices",
+      "excerpt": "MediaTek has announced new Filogic 130 and Filogic 130A single-chip solutions to bring Wi-Fi 6 and Bluetooth 5.2 connectivity to IoT devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/",
+      "originalUrl": "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/08/MediaTek-Dimensity-5G-Chipset-Featured.jpg",
+          "width": 1920,
+          "height": 1171,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/?amp=1",
+      "publishedDateTime": "2021-11-18T23:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-next-gen-stats-decision-guide-predicting-fourth-down-conversion.md",
+      "title": "Next Gen Stats Decision Guide: Predicting fourth-down conversion",
+      "excerpt": "It is fourth-and-one on the Texans’ 36-yard line with 3:21 remaining on the clock in a tie game. Should the Colts’ head coach Frank Reich send out kicker Rodrigo Blankenship to attempt a 54-yard field goal or rely on his offense to convert a first down? Frank chose to go for it, leading to a […]",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/03/ML-5940-image003.png",
+          "width": 674,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T16:14:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-chain-custom-amazon-sagemaker-ground-truth-jobs-for-image-processing.md",
       "title": "Chain custom Amazon SageMaker Ground Truth jobs for image processing",
       "excerpt": "Amazon SageMaker Ground Truth supports many different types of labeling jobs, including several image-based labeling workflows like image-level labels, bounding box-specific labels, or pixel-level labeling. For situations not covered by these standard approaches, Ground Truth also supports custom image-based",
@@ -712,7 +816,7 @@
       "originalUrl": "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -753,6 +857,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet-technologies.md",
+      "title": "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies",
+      "excerpt": "G Private Network with Athonet's cloud native 5G Standalone core network, and running on Amazon Web Services Snowball Edge",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/",
+      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2021/FPR_1367_2021_11_18.jpg",
+          "width": 450,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/",
+      "publishedDateTime": "2021-11-18T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -896,50 +1044,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-18-du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet-technologies.md",
-      "title": "du Showcases 5G Controlled Robot over Private 5G SA Network Leveraging AWS and Athonet Technologies",
-      "excerpt": "Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, powered by du’s 5G Private",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
-      "originalUrl": "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-11/du%20at%20ADIPEC.jpg?itok=lmEA8m_3",
-          "width": 2259,
-          "height": 1694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
-      "publishedDateTime": "2021-11-18T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-11-18-optima-recruit-ai-pioneer-to-boost-customer-service-in-banking-sector.md",
       "title": "Optima recruit AI pioneer to boost customer service in banking sector",
       "excerpt": "Optima Partners have recruited an AI pioneer at their Edinburgh HQ to work on improved customer service in the banking industry.",
@@ -1026,6 +1130,57 @@
       ]
     },
     {
+      "path": "_news/2021-11-18-corrected-drugmaker-sanofi-invests-180-mln-in-french-ai-startup-owkin.md",
+      "title": "CORRECTED-Drugmaker Sanofi invests $180 mln in French AI startup Owkin",
+      "excerpt": "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/sanofi-owkin-idCNL8N2S85QE",
+      "originalUrl": "https://www.reuters.com/article/sanofi-owkin-idCNL8N2S85QE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20211118&t=2&i=1581774667&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHAH08L",
+          "width": 858,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL8N2S85QE",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL8N2S85QE",
+      "publishedDateTime": "2021-11-17T23:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-sanofi-inks-270m-cancer-ai-deal-with-rd-platform-developer-owkin.md",
       "title": "Sanofi inks $270M cancer AI deal with R&D platform developer Owkin",
       "excerpt": "The two-part deal includes a $180 million equity investment in the company alongside a $90 million discovery and development partnership that spans the next three years.",
@@ -1056,151 +1211,6 @@
         "name": "FierceBiotech",
         "domain": "fiercebiotech.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-baidus-robotaxi-service-aims-to-be-in-100-cities-by-2030.md",
-      "title": "Baidu’s robotaxi service aims to be in 100 cities by 2030",
-      "excerpt": "Baidu keeps ramping up its autonomous driving ambitions. The Chinese tech company made its name in search engines and still relies greatly on search ads for revenues. But it’s hoping that its heavy bet on autonomous driving will pay off down the road.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/",
-      "originalUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/image001-2.jpg?w=1024",
-          "width": 1024,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/",
-      "publishedDateTime": "2021-11-17T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-using-ai.md",
-      "title": "Grammarly raises $200M at a $13B valuation to make you an even better writer using AI",
-      "excerpt": "Grammarly, the popular auto-editing tool for writing, has raised $200 million in funding at a $13 billion valuation from new investors including Baillie Gifford and funds and accounts managed by BlackRock,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
-      "originalUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Grammarly-Abstract.jpg?w=1024",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/",
-      "publishedDateTime": "2021-11-17T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-why-conversational-ai-is-now-ready-for-prime-time.md",
-      "title": "Why conversational AI is now ready for prime time",
-      "excerpt": "Conversational artificial intelligence serves as the interface between a person and a computer, through which organizations can achieve engaging two-way interactions. The technology is usually associated with call centers and virtual assistants/chatbots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "originalUrl": "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "publishedDateTime": "2021-11-17T16:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

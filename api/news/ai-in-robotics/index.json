@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-23-the-retail-robot-battle-continues.md",
+      "title": "The Retail Robot Battle Continues",
+      "excerpt": "In this second installment of a four-part series, Georges Mirza looks at the robots powering Schnucks and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
+      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-11/background/400x600/Robotsshutterstock_0.jpg?VersionId=8789rnVJ8sKdSKhNKYay7TUlYg5eHrO.",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
+      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
+      "publishedDateTime": "2021-11-22T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winsight Grocery Business",
+        "domain": "winsightgrocerybusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-ai-combines-advanced-ability-to-learn-patterns-using-traditional-machine-learning.md",
       "title": "AI Combines Advanced Ability to Learn Patterns Using Traditional Machine Learning",
       "excerpt": "A new research center focusing on next-generation artificial intelligence (AI) technology will create the high-caliber expertise that Australia needs to be competitive in the approaching machine learning-enabled global economy.",
@@ -375,6 +418,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-18-du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet-technologies.md",
+      "title": "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies",
+      "excerpt": "G Private Network with Athonet's cloud native 5G Standalone core network, and running on Amazon Web Services Snowball Edge",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/",
+      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2021/FPR_1367_2021_11_18.jpg",
+          "width": 450,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/",
+      "publishedDateTime": "2021-11-18T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-driverless-car-start-up-weride-partners-with-major-chinese-automaker-gac-on-robotaxis-as-competition-rises.md",
       "title": "Driverless car start-up WeRide partners with major Chinese automaker GAC on robotaxis as competition rises",
       "excerpt": "WeRide and Guangzhou Automobile Group (GAC Group) plan to make the robotaxis available via ride-hailing app Ontime to the public by 2022.",
@@ -425,50 +512,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet-technologies.md",
-      "title": "du Showcases 5G Controlled Robot over Private 5G SA Network Leveraging AWS and Athonet Technologies",
-      "excerpt": "Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, powered by du’s 5G Private",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
-      "originalUrl": "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-11/du%20at%20ADIPEC.jpg?itok=lmEA8m_3",
-          "width": 2259,
-          "height": 1694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
-      "publishedDateTime": "2021-11-18T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1407,50 +1450,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics.md",
-      "title": "Role of technology in healthcare and how robotics has transformed the ever-evolving field of Orthopaedics",
-      "excerpt": "Dr Miten Sheth, Orthopaedic Knee Surgeon & Director, The Knee Clinic highlights the role of technology in orthopaedics",
-      "sourceUrl": null,
-      "webUrl": "https://www.expresshealthcare.in/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
-      "originalUrl": "https://www.expresshealthcare.in/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.expresshealthcare.in/wp-content/uploads/2021/11/DR.-MITEN-SHETH-MS-DNB-Orthopaedics-Knee-Surgeon-The-Knee-Clinic-1.png",
-          "width": 750,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
-      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
-      "publishedDateTime": "2021-11-11T21:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "expresshealthcare",
-        "domain": "expresshealthcare.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI",
         "AI in Robotics"
       ]

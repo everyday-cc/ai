@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore ranked world's 4th most ready country for self-driving transport"
-    excerpt: "With driverless transport becoming more popular and self-driving vehicles closer to mainstream reality than ever, it appears as if many countries around the world are preparing for a future where people rely increasingly less on private transport options (like their own cars)."
-    publishedDateTime: 2021-11-18T05:31:00Z
-    webUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport"
-    ampWebUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
-    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 72
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/singapore-top-4-country-self-driving-cars-header_eypn.620.png"
-        width: 620
-        height: 310
-        isCached: true
   - title: "Apple targets 2025 to launch self-driving car without steering wheel"
     excerpt: "Apple is reportedly accelerating development of its electric car, targeting 2025 as a possible launch date — and now wants to make it fully self-driving."
     publishedDateTime: 2021-11-18T19:38:00Z

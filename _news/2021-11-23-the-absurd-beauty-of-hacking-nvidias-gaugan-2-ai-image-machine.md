@@ -47,34 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "NVIDIA Releases Teaching Kit For Edge AI And Robotics Educators"
-    excerpt: "The Teaching Kit is freely available for educators as an open-source package to integrate into their courses and teaching curricula."
-    publishedDateTime: 2021-11-18T06:50:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-releases-teaching-kit-for-edge-ai-and-robotics-educators/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/new-teaching-kit-3c33-p@2x.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia stock on big run, rides on the tide of demand for AI chips"
-    excerpt: "Nvidia, graphics chips major, recorded 5% growth in extended trading after it reported earnings on Wednesday for its third fiscal quarter. The company expects to report about $7.4 billion in the current quarter,"
-    publishedDateTime: 2021-11-18T05:18:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/technology/nvidia-stock-on-big-run-rides-on-the-tide-of-demand-for-ai-chips/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 54
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/11/pexels-jordan-harrison-343239-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "NVIDIA Research unveils GauGAN2, a new AI art demo that generates scarily-accurate images from text"
     excerpt: "NVIDIA showed off GauGAN, an AI-powered demo that generates images from sketches. NVIDIA has been training GauGAN since then, and the AI can now respond to semantics, generating images from"
     publishedDateTime: 2021-11-22T17:39:00Z
@@ -106,6 +78,6 @@ related:
         height: 400
         isCached: true
 
-secured: "9X9kDC4HfJYnKl81WfqtuX8pcxddsNE4W3tv11nFiH/ODBrXZrB8R9lPBZJTMvGtre9V2jfkhb+XcISIoj4m6oJJ+W2QGMHUV8qFcLCEyjr38j3p2KNRxYTZ6svM8Q4BzbkNGEaRQmgHnjkxKKUBcitWKmY/a/698xXMKXWugZzzya/gW6U7XC4QBucBJ5IwZsg1D2t0PVS7WC8v6pZ1wTCF/s4rxMTeNQxVVzj+MdHVEKdb0Yd+wBh64jnBmBadUs234MLgjLq0N0w9fG/PlCTIkC7miGMt/mJprO+Z/vsRCKHOEcSFROFeePBmBn7SmzpOKJkVP+L0GWgjLSPDNTc/ZYiyN8FgoYx0vNIJbW0=;2olKUSoZgOJdbeeBvP6EQg=="
+secured: "JYLvhgspZtSTi0a3ihG+gpZguCwmcmTgBE/JCs0ciA9WtmNJc1F3NAqKUr48kuSLQye6YCDufaal/c612/2cAkANTjRE1gMFs2PfD3Rlpy8Lgyl4zpqm49rZSfA3QbHSUSNBRhJ70XZBAEyTyKqwe3S7RcFBqaSqk7gDg9wNrHUDMeURFCSxB99wiRaA/XTNf7VjJouQShDoK8geoXTMYM4793COjyx0GDYSQhI7UvEEyk7QyaQaV7pmoFLjgGaCZYb0K+/fx9p1KRligyZ+ssrq1HZbDPw3Y7S7ukUfLxVPdn327eg5EBVm1ICPIO2IBM0trruRxIUF8VVwar2xPrOKatOtBgNlknLbmmHK8eV5ltVaWOI0cxpsg64SnoCCkNlOih59ym4RqG7V0vqsAhZnC26Tjs/2tMvuLsz4wPG6XFBFKXNKcu5We4HbzTWJKBCQeEtFWvO8wv4kwAgFVVo9bZ+Ur0WwJPEJ7Adgce3JXgVeRRjwbFqcXNA3C4MwH/rCEblIKxesQao5uixQ3A==;M1a5ON2j1/j7wVG46X/lTg=="
 ---
 

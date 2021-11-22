@@ -65,15 +65,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
-    excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding."
-    publishedDateTime: 2021-11-22T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lifevoxelai-raises-5-million-seed-round-for-its-ai-diagnostic-visualization-platform-301429314.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
 
 secured: "srId7uKAXpcKiAK7yfu4PDW6w5WLpaTiJzo9tBvpTIyz0edZliOe2YNFNRTrIXBLWCdeandLLgdiHDYsKqzr5ai9nLfMhQnR9kaZg/KUfCUZQig0srfzNlTCHHnbK8yU1cvgeaMuw6U8lXAq3f+J9o2L5+hbLlK5+eGEe8lEJQ5gT6U/3m8U9OPQYFDgr09vJhQ8azzqKsybIoTC1LIaZkEChBGZEM+uQCZljtC7m+hT26GsK4saOigN8ZQT1joLSWfdeFlGX30psKAgL//Qi8RcGMUjYo2vLsCx7TnX2BfwADaXqVCrynHu+3ivRDO2nxafZ+g4Vui9vxdZXxOXn6ah3hmo/i7+LOaKkI+EwBQ=;M0nE46D0Cc6Z4c7JjGFWaw=="
 ---

@@ -2,6 +2,206 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-11-04-boxworks-2021-advancing-security-mobile-and-integrated-offerings.md",
+      "title": "BoxWorks 2021: Advancing Security, Mobile, And Integrated Offerings",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as a few weeks ago, Box held its annual BoxWorks conference, where it announced new and what I consider exciting collaboration and security capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61830a5471a7a35817e9678c%2F0x0.png",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/11/03/boxworks-2021-advancing-security-mobile-and-integrated-offerings/amp/",
+      "publishedDateTime": "2021-11-03T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-how-adobe-uses-deep-learning-to-improve-its-products.md",
+      "title": "How Adobe uses deep learning to improve its products",
+      "excerpt": "Adobe is leveraging deep learning to improve its apps and solidify its position in the video and image editing market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/",
+      "originalUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/",
+      "publishedDateTime": "2021-11-03T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025.md",
+      "title": "Cloud datacenters anticipated to become largely robot-dependent by 2025",
+      "excerpt": "In a strong endorsement to the value of artificial intelligence and machine learning, research firm Gartner predicts that half of cloud datacenters will be leveraging advanced robots by 2025. Gartner believes these AI-centered deployments will ramp up the operating efficiency of datacenters by a margin of 30%.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/",
+      "originalUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/human_robot_collaboration-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/amp/",
+      "publishedDateTime": "2021-11-03T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
+      "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
+      "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/",
+      "originalUrl": "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/oracle-cloud-on-building-100730618-orig_1.jpgautowebp8570",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-privacy-commission-demands-clearview-ai-delete-all-facial-recognition-data-collected-in-australia.md",
       "title": "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia",
       "excerpt": "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on",
@@ -1007,186 +1207,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice.md",
-      "title": "As the Arctic Warms, AI Forecasts Scope Out Shifting Sea Ice",
-      "excerpt": "Global warming is making it harder to predict the movement and location of the ice cover, crucial information for fishing and global shipping.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/",
-      "originalUrl": "https://www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61815c5652f8603efdd43b1d/master/pass/Science_boat_GettyImages-1281894263.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/amp",
-      "publishedDateTime": "2021-11-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-archtis-nc-protect-data-connector-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "archTIS NC Protect Data Connector Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "TIS Limited , a global technology provider of innovative solutions for secure collaboration of sensitive information, today announced the availability of the NC Protect Data Connector for Azure Sentinel in the Microsoft Azure Marketplace,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20080682.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20080682.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-zillow-just-gave-up-on-ibuying-whats-the-deal-with-the-algorithmic-home-sales.md",
-      "title": "Zillow just gave up on ibuying. What’s the deal with the algorithmic home sales?",
-      "excerpt": "Zillow, OpenDoor and similar companies pledge a fast, hassle-free way to sell or buy a home. Are they raising home prices, and can technology keep up?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zillow.com/",
-      "originalUrl": "https://www.msn.com/en-us/finance/realestate/hi-or-bye-to-ibuyers-algorithmic-home-sales-growing-in-popularity-hit-early-hurdles/ar-AAQgQ35",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T04:00:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "zillow.com/",
-        "domain": "zillow.com/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-3-ways-robots-won-in-2021.md",
-      "title": "3 ways robots won in 2021",
-      "excerpt": "For all its ups and downs, 2021 has been a phenomenally important year for automation. Robots had a big year. Amid uncertainties related to the pandemic, chronic labor shortages, supply chain catastrophes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
-      "originalUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7e09bb766f67616acc2732d695a17f0ff180c967/2021/11/01/65cc6183-2683-4c96-b7d9-dda44927a628/ubtech-walker.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
-      "publishedDateTime": "2021-11-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

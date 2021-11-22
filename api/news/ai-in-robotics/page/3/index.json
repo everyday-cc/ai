@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-05-pro-and-con-artificial-intelligence.md",
+      "title": "Pro and Con: Artificial Intelligence",
+      "excerpt": "Some people contend artificial intelligence can improve workplace safety, offer accessibility for people with disabilities, and make everyday life more convenient and enjoyable; others contend artificial intelligence poses dangerous privacy risks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
+      "originalUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.britannica.com/10/228410-131-1A428140/motion-abstract-background-binary-code.jpg",
+          "width": 900,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Britannica",
+        "domain": "britannica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-cobi-robot-autonomously-performs-needle-less-vaccinations.md",
       "title": "Cobi robot autonomously performs needle-less vaccinations",
       "excerpt": "It goes without saying that a lot of people are receiving the COVID-19 vaccine these days, and will continue to do so for some time. A new robot is designed to help streamline the process, by autonomously – and needle-lessly – vaccinating human patients.",
@@ -1306,49 +1350,6 @@
       "provider": {
         "name": "Government Technology",
         "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-turning-to-robots-for-career-advice.md",
-      "title": "Turning to Robots for Career Advice",
-      "excerpt": "According to new research commissioned by Oracle, 80% of employees say they’re not satisfied with employer support and 72% of the US workforce think robots and artificial intelligence can support their careers better than humans. Joining us to explain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
-      "originalUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/596/45bf940c346f431c9be273b8942ab6eb/59640f3b51cd412a9b3c3b83a2107ec5/poster_da477495870d4fc9a826480e882ccebe.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
-      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/morning-blend/turning-to-robots-for-career-advice?_amp=true",
-      "publishedDateTime": "2021-10-29T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC Action News",
-        "domain": "abcactionnews.com",
         "images": null,
         "publishers": null,
         "authors": null

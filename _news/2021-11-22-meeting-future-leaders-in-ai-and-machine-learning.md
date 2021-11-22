@@ -19,20 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Avoiding shortcut solutions in artificial intelligence"
-    excerpt: "Control Engineering - If your Uber driver takes a shortcut, you might get to your destination faster. If a machine learning model takes a shortcut, it might fail in unexpected"
-    publishedDateTime: 2021-11-18T06:03:00Z
-    webUrl: "https://www.controleng.com/articles/avoiding-shortcut-solutions-in-artificial-intelligence/"
+  - title: "FNB: Future of banking is embedded in Artificial Intelligence"
+    excerpt: "First National Bank says Artificial Intelligence and other technologies are changing banking trends across the world and are already being embraced in South Africa."
+    publishedDateTime: 2021-11-19T12:30:00Z
+    webUrl: "https://www.cnbcafrica.com/media/6282764051001/"
+    ampWebUrl: "https://www.cnbcafrica.com/media/6282764051001/amp"
+    cdnAmpWebUrl: "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/media/6282764051001/amp"
     type: article
     provider:
-      name: Control Engineering
-      domain: controleng.com
+      name: CNBC Africa
+      domain: cnbcafrica.com
     quality: 37
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/11/CTL2111_WEB_IMG_MIT_AIMachine_Contrastive-Slider.jpeg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "7t1OTUiyBIQ/0i9YuuRBV/ti02Ef7nBrilc6FvN9Iqxh01wwi4tdQ+2hhE3PdG9O/UUr9b2N4NwQaVNdd4RJCoO6fiBRdeSOFCNRHdAswe8GRUPD/gpje/ZzA2qacOzJITWIOosKqRM/sQwnZ0qxrFWH5Jvl+hayK35Rr0Pzn7NSPKqgR3g5RxPb6epeFrhRqKoFUDG0gwOE7zA3QmOeEBnqY20B+LYCtTR+CNReK5M4ilTg0r8Gim4IFjUuIf9quBsBPEhnip1UbjMa2FQnoOy323yX2Q0rl1eOkFKnsSReNylpma9MM8UyuFduI5x/6B5/NFq8IklBJHnZ7PwqcwcshrG5BrmVg/595a3yRtU=;yX/YVt9HWWMUYRH401aYkw=="
 ---

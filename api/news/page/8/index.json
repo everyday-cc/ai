@@ -2,6 +2,196 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-16-artificial-intelligencebased-method-predicts-risk-of-atrial-fibrillation.md",
+      "title": "Artificial intelligence–based method predicts risk of atrial fibrillation",
+      "excerpt": "Atrial fibrillation—an irregular and often rapid heart rate—is a common condition that often leads to the formation of clots in the heart that can travel to the brain to cause a stroke. As described in a study published in Circulation,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/atrialfibril.jpg",
+          "width": 850,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.amp",
+      "publishedDateTime": "2021-11-15T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-datarobot-launches-ai-cloud-for-industries-including-banking-and-healthcare.md",
+      "title": "DataRobot launches AI Cloud for industries including banking and healthcare",
+      "excerpt": "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
+      "publishedDateTime": "2021-11-15T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-how-machine-learning-is-skewing-the-odds-in-online-gambling.md",
+      "title": "How machine learning is skewing the odds in online gambling",
+      "excerpt": "Commentary: The house always wins in gambling, and the house is getting even tougher through machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
+      "publishedDateTime": "2021-11-15T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-growing-virtual-tumours-and-drugs-designed-by-ai-could-be-future-of-cancer-therapy.md",
+      "title": "'Growing virtual tumours and drugs designed by AI could be future of cancer therapy'",
+      "excerpt": "Exciting work creating digital tumours, involving Bristol University, could be key to effectively targeting cancer cells, writes Dr",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955",
+      "originalUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article25460013.ece/ALTERNATES/s615/2_JS239592337.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp",
+      "publishedDateTime": "2021-11-15T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs.md",
       "title": "AI can quickly identify structure of drugs designed for legal highs",
       "excerpt": "Artificial intelligence can quickly identify the chemical structure of new drugs that have similar effects to substances such as cocaine and heroin, but have been designed to evade detection by existi",
@@ -149,19 +339,19 @@
     {
       "path": "_news/2021-11-15-supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of-servers-storage-ai-solutions-and-liquid-cooling.md",
       "title": "Supermicro Accelerates Delivery of HPC Clusters for Total IT Solutions with a Broad Portfolio of Servers, Storage, AI Solutions, and Liquid Cooling",
-      "excerpt": "SAN JOSE, Calif., Nov. 15, 2021 /PRNewswire/ -- (SMCI), a global leader in high-performance computing, storage, networking solutions, and green computing technology, is expanding its HPC",
+      "excerpt": "(SMCI), a global leader in high-performance computing, storage, networking solutions, and green computing technology, is expanding its HPC market reach for a broad range of industries by innovating at the system and cluster level.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of/article_865cc186-9aa1-5a5b-b872-4ee8f9d03101.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of/article_865cc186-9aa1-5a5b-b872-4ee8f9d03101.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of-servers-storage-ai-solutions-and-liquid-cooling-1030976654",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of-servers-storage-ai-solutions-and-liquid-cooling-1030976654",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/3a/53a81a4e-073d-5103-880b-c68e54128eb4/6050c59ad4951.image.jpg?resize=1200%2C617",
-          "width": 1200,
-          "height": 617,
+          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
+          "width": 400,
+          "height": 206,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,12 +361,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T05:05:00-08:00",
+      "publishedDateTime": "2021-11-15T07:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -973,204 +1172,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028.md",
-      "title": "Passenger Vehicle Voice Recognition: Market 2021 Qualitative Insights, Key Enhancement, Share Analysis To 2028",
-      "excerpt": "Passenger Vehicle Voice Recognition Market Size, share 2021 by Global Demand, Regional Analysis, Market Trends, Top",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028-2021-11-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028-2021-11-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-unity-moves-robotics-training-to-the-metaverse.md",
-      "title": "Unity Moves Robotics Training to the Metaverse",
-      "excerpt": "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/unity-moves-robotics-training-to-the-metaverse/",
-      "originalUrl": "https://bestgamingpro.com/unity-moves-robotics-training-to-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2021/11/Unity-moves-robotics-design-and-training-to-the-metaverse.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-embedding-artificial-intelligence-at-work-from-efficiency-gains-to-leadership-expertise.md",
-      "title": "Embedding Artificial Intelligence At Work: From Efficiency Gains To Leadership Expertise",
-      "excerpt": "Despite the positive benefits of AI technologies in the workplace, further research is needed on the ethical, moral, and legal matters related to adopting such technologies and how disruption may even redefine how traditional business and management functions are organized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6190da3008ee75ea9193c0c6%2F0x0.jpg%3FcropX1%3D269%26cropX2%3D1664%26cropY1%3D0%26cropY2%3D784",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
-      "publishedDateTime": "2021-11-14T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-25-tech-gifts-you-and-your-kids-will-go-crazy-over.md",
-      "title": "25 Tech Gifts (You and) Your Kids Will Go Crazy Over",
-      "excerpt": "This guide has gadgets for every kid on your list this year—to help them to play, learn, code, rock out and roll down the street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809",
-      "originalUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1929915/kid-tech-holiday-gift-guide-2021.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809?amp=1",
-      "publishedDateTime": "2021-11-14T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

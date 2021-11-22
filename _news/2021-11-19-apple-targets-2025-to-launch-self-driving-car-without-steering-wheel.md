@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "Singapore ranked world's 4th most ready country for self-driving transport"
-    excerpt: "With driverless transport becoming more popular and self-driving vehicles closer to mainstream reality than ever, it appears as if many countries around the world are preparing for a future where people rely increasingly less on private transport options (like their own cars)."
-    publishedDateTime: 2021-11-18T05:31:00Z
-    webUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport"
-    ampWebUrl: "https://sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
-    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18285/singapore-ranked-worlds-4th-most-ready-country-for-self-driving-transport?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 72
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/singapore-top-4-country-self-driving-cars-header_eypn.620.png"
-        width: 620
-        height: 310
-        isCached: true
   - title: "What's Up with Apple: Self-driving iCar, Grateful Dead Biopic, and More"
     excerpt: "Citing people familiar with the matter, Bloomberg reported that Apple is accelerating development of an all-electric Apple car (iCar?) that will come with full self-driving capability. Not only did Apple weigh on other EV stocks,"
     publishedDateTime: 2021-11-19T11:58:00Z

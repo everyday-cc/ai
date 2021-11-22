@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL8N2S85QE"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL8N2S85QE"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Reuters
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sanofi inks $270M cancer AI deal with R&D platform developer Owkin"
-    excerpt: "The two-part deal includes a $180 million equity investment in the company alongside a $90 million discovery and development partnership that spans the next three years."
-    publishedDateTime: 2021-11-18T05:30:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/sanofi-inks-270m-cancer-ai-deal-r-d-platform-developer-owkin"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 137
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1637187670/GettyImages-1226985345.jpg/GettyImages-1226985345.jpg?VersionId=H84OC4OBu58E__a.nTqoWmU7AUJCVZ6G"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Drugmaker Sanofi invests $180 mln in French AI startup Owkin"
     excerpt: "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday."
     publishedDateTime: 2021-11-18T07:52:00Z
@@ -58,17 +44,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Sanofi Invests $180 Mln Equity In AI Startup Owkin To Develop Oncology Pipeline"
-    excerpt: "French drug major Sanofi (SNYNF, SNY) announced Thursday an equity investment of $180 million and a new strategic collaboration with Owkin, a French American startup that specializes in artificial intelligence or AI and federated learning for medical research."
-    publishedDateTime: 2021-11-18T06:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline"
-    ampWebUrl: "https://www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sanofi-invests-%24180-mln-equity-in-ai-startup-owkin-to-develop-oncology-pipeline?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
   - title: "Drugmaker Sanofi Invests $180 Million in French AI Startup Owkin"
     excerpt: "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday."
     publishedDateTime: 2021-11-18T08:52:00Z
@@ -91,20 +66,6 @@ related:
       - url: "https://medcitynews.com/uploads/5715460701_81518af4d8_z.jpg"
         width: 640
         height: 426
-        isCached: true
-  - title: "Sanofi invests $180 million equity in Owkin’s artificial intelligence and federated learning to advance oncology pipeline"
-    excerpt: "Combined efforts will work to build robust disease models while preserving privacy of large data sets from various research institutions and hospitals Collaboration to focus on four types of cancer PARIS – November 18,"
-    publishedDateTime: 2021-11-18T06:32:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/coronavirus-pandemic-technology-science-business-health-e222121a2d6e2926567955bde994e496"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "NWK8L/llPL0PtUpnWuzLizuz7SBzYTgYGcqcDytebMyIIYljNp+jtjrECox1kDgjDv9YYE5haXl8DMBkvOReOU4OliEIe4SIdV+Ybn0fkPZlN+a4ZPch3X1BBHXK2BvzicI/etotPfbeakYX6CQ6XRbVh3JcyPkY201AarK3WW7TDZWSacTr+ZqK6Ofzmqyayzek1wOZq8aEYt0ahvKlei/cECeL5MNNrb9DcOaG0GI5c5ftOeKAPDUgwOor4UmW+sRMAdFNeXc5zTGSIfBfZPwc0qv3oL9C1WNwc82061g8EARMG2elH+o+P4VQDguTg/1/FAvx1qCdPk0sQUmh+7FwbqKSt1/o4XRMmzc8590=;vgwJ8uzZtCAVAG+AKFYG4w=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -46,34 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/3e885468188c045e4dd84aa7899b97241a7a79eb/2021/11/22/96c59f65-5b07-4d16-9335-38a95e9eb6da/zdnet-superb-reporting.png?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "NVIDIA Releases Teaching Kit For Edge AI And Robotics Educators"
-    excerpt: "The Teaching Kit is freely available for educators as an open-source package to integrate into their courses and teaching curricula."
-    publishedDateTime: 2021-11-18T06:50:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-releases-teaching-kit-for-edge-ai-and-robotics-educators/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/new-teaching-kit-3c33-p@2x.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia stock on big run, rides on the tide of demand for AI chips"
-    excerpt: "Nvidia, graphics chips major, recorded 5% growth in extended trading after it reported earnings on Wednesday for its third fiscal quarter. The company expects to report about $7.4 billion in the current quarter,"
-    publishedDateTime: 2021-11-18T05:18:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/technology/nvidia-stock-on-big-run-rides-on-the-tide-of-demand-for-ai-chips/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 54
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/11/pexels-jordan-harrison-343239-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "NVIDIA Research unveils GauGAN2, a new AI art demo that generates scarily-accurate images from text"
     excerpt: "NVIDIA showed off GauGAN, an AI-powered demo that generates images from sketches. NVIDIA has been training GauGAN since then, and the AI can now respond to semantics, generating images from"

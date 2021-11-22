@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/article/3156756/sensetime-gets-green-l
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo"
 type: article
 quality: 129
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "SenseTime approved for potential $2B facial recognition IPO in Hong Kong"
+    excerpt: "Despite continued momentum including impressive accuracy in NIST’s facial recognition tests, the company lost US$579 million in the first half of 2021."
+    publishedDateTime: 2021-11-22T22:26:00Z
+    webUrl: "https://www.biometricupdate.com/202111/sensetime-approved-for-potential-2b-facial-recognition-ipo-in-hong-kong"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/29145639/sensetime-large.jpeg"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "SoftBank-backed AI startup SenseTime receives nod for Hong Kong IPO"
     excerpt: "Reuters reported in August the company was planning to raise up to $2 billion in the deal, based on information from sources."
     publishedDateTime: 2021-11-19T11:33:00Z

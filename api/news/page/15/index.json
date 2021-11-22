@@ -2,6 +2,196 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-11-09-supermicro-enhances-broadest-portfolio-of-edge-to-cloud-ai-systems-with-accelerated-inferencing-and-new-intelligent-fabric-support.md",
+      "title": "Supermicro Enhances Broadest Portfolio of Edge to Cloud AI Systems with Accelerated Inferencing and New Intelligent Fabric Support",
+      "excerpt": "Supermicro's latest NVIDIA-Certified Systems deliver ten times more AI inference performance than previous generations, ensuring that AI enabled applications such as Image Classification, Object Detection,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-supermicro-enhances-broadest-portfolio-edge-cloud-ai-systems-/2021/11/09/9487111.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-supermicro-enhances-broadest-portfolio-edge-cloud-ai-systems-/2021/11/09/9487111.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
+          "width": 400,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-carbon-robotics-manufactures-ai-powered-weeding-robots.md",
+      "title": "Carbon Robotics Manufactures AI-Powered Weeding Robots",
+      "excerpt": "Concept: Seattle-based agricultural robotics startup Carbon Robotics has developed an autonomous robot that lasers to zap weeds. Integrated with computer vision, the weeders can clear out around 100,000 weeds an hour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/",
+      "originalUrl": "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/11/shutterstock_651441412.jpg",
+          "width": 500,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T01:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pharmaceutical Technology",
+        "domain": "pharmaceutical-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more.md",
+      "title": "Everything announced at Nvidia's Fall GTC 2021: Omniverse Avatar, CuQuantum, Clara Holoscan and more",
+      "excerpt": "During the GTC keynote, Nvidia CEO Jensen Huang showcased a range of new Nvidia products and initiatives, spanning virtual reality, enterprise AI, cybersecurity, quantum computing, advances in automotive and healthcare and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
+      "originalUrl": "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f3093f55db1b12000c82b7534e35491a88175dbc/2021/11/09/2859cd08-d3cd-48bc-a1b6-ee39f3b82f30/doca-zero-trust-image.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
+      "publishedDateTime": "2021-11-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai.md",
+      "title": "Nvidia debuts ReOpt to optimize supply chain routing with AI",
+      "excerpt": "Nvidia's new ReOpt service employs AI to help shippers optimize the routing of packages bound for customers' doorsteps.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/11/Delivery-Truck.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/",
+      "publishedDateTime": "2021-11-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-nvidia-launches-modulus-a-framework-for-developing-physics-grounded-ai-models.md",
       "title": "Nvidia launches Modulus, a framework for developing ‘physics-grounded’ AI models",
       "excerpt": "Nvidia's Modulus framework, announced at the company's fall 2021 GTC conference, enables companies to develop 'physics-grounded' AI models.",
@@ -969,206 +1159,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk.md",
-      "title": "Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK",
-      "excerpt": "Domestic infrastructure issues are a pain for everyone involved. Not only does it negatively affect customer satisfaction, it also has a cascading effect on businesses and their bottom line in terms of financials. Electric utility poles, for example, are an example of a cumbersome infrastructure issue",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/08/damaged-pole-2.jpg",
-          "width": 801,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T16:02:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond.md",
-      "title": "How Enterprise AI Architecture Is Transforming Every Industry From Commerce To Wealth Management, And Beyond",
-      "excerpt": "Artificial intelligence (AI) has big promise to solve problems in almost every industry. AI-supported, AI-fueled, AI-based technologies are now present and capable of automating tasks in retail businesses and wealth management,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189c74dde35cc6195fc7a9d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D627%26cropY1%3D72%26cropY2%3D425",
-          "width": 627,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/08/how-enterprise-ai-architecture-is-transforming-every-industry-from-commerce-to-wealth-management-and-beyond/amp/",
-      "publishedDateTime": "2021-11-08T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-ai-chipmaker-hailo-raises-136-million.md",
-      "title": "AI Chipmaker Hailo Raises $136 Million",
-      "excerpt": "AI chipmaker Hailo raised $136 million in its latest funds round, representing one of the largest investments ever in the AI chip space. It comes amid the ongoing global chip shortage, and a surge in demand for the company's technology,",
-      "sourceUrl": null,
-      "webUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million",
-      "originalUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.chdrstatic.com/media/e275f4bd-3682-4dbc-9167-97e654817f8f.jpg?width=1200&source=backend&auto=webp",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million.amp",
-      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/ai-chipmaker-hailo-raises-136-million.amp",
-      "publishedDateTime": "2021-11-08T14:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cheddar",
-        "domain": "cheddar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-global-mobile-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027.md",
-      "title": "Global Mobile Speech Recognition Software Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2027",
-      "excerpt": "Global Mobile Speech Recognition Software Market 2021-2027 offers an in-depth analysis of the market share, growth prospects, value & volume, and market prediction is given in the research report. The major aim of the report is to identify,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027-2021-11-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027-2021-11-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -2,6 +2,178 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-16-bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem.md",
+      "title": "Bringing AI To A/B: OfferFit’s Founders Solve A MarTech Problem",
+      "excerpt": "This idea of automated AI-driven experimentation is something that every single large company in the world needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/",
+      "originalUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192a35c0a9b64037c834d26%2F0x0.jpg",
+          "width": 1200,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/",
+      "publishedDateTime": "2021-11-16T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-ajman-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing.md",
+      "title": "Ajman: Driverless vehicle hits the roads, takes tourists sight-seeing",
+      "excerpt": "The vehicle is equipped with 5G technology, has facial recognition features and provides high-speed WiFi access",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing",
+      "originalUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=909defb0-8bfa-5b88-8bc1-7541e695a2e0&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1",
+      "publishedDateTime": "2021-11-16T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-concentric-ai-becomes-member-of-microsoft-intelligent-security-association-misa.md",
+      "title": "Concentric AI Becomes Member of Microsoft Intelligent Security Association (MISA)",
+      "excerpt": "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it has joined the Microsoft Intelligent Security Association (MISA). The Microsoft (News - Alert) Intelligent Security Association is an ecosystem of independent software vendors and Managed Security Services providers that have integrated their security products with Microsoft's to better defend against increasing cyber-threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-concentric-ai-becomes-member-microsoft-intelligent-security-association-/2021/11/16/9493036.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-concentric-ai-becomes-member-microsoft-intelligent-security-association-/2021/11/16/9493036.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-cape-privacy-forges-partnership-with-snowflake-enabling-financial-services-organizations-to-use-encrypted-data-for-predictive-modeling-in-the.md",
+      "title": "Cape Privacy Forges Partnership with Snowflake, Enabling Financial Services Organizations to Use Encrypted Data for Predictive Modeling in the Cloud",
+      "excerpt": "Cape Privacy has joined the Snowflake Partner Network to partner with Snowflake, the Data Cloud company. As a Snowflake partner,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n24121501/cape-privacy-forges-partnership-with-snowflake-enabling-financial-services-organizations-to-use-en",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n24121501/cape-privacy-forges-partnership-with-snowflake-enabling-financial-services-organizations-to-use-en",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24121501",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24121501",
+      "publishedDateTime": "2021-11-16T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-helmai-raises-26m-for-unsupervised-autonomous-driving-software.md",
       "title": "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software",
       "excerpt": "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million.",
@@ -718,15 +890,24 @@
     {
       "path": "_news/2021-11-16-qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences.md",
       "title": "Qualtrics and AWS Expand Relationship to Transform Customer Feedback into Enhanced Experiences",
-      "excerpt": "Qualtrics’ cloud-native technology aggregates customer and employee feedback and enables companies to analyze it and take action. Qualtrics is now moving its customer-facing workloads to AWS. For example,",
+      "excerpt": "(NASDAQ: AMZN), and Qualtrics (NASDAQ: XM) announced they are expanding their relationship, with Qualtrics migrating its internal IT systems and customer-facing workloads to the world’s leading cloud.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences/",
-      "originalUrl": "https://www.financialbuzz.com/qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences/",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -734,8 +915,8 @@
       "publishedDateTime": "2021-11-15T13:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -971,196 +1152,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-artificial-intelligencebased-method-predicts-risk-of-atrial-fibrillation.md",
-      "title": "Artificial intelligence–based method predicts risk of atrial fibrillation",
-      "excerpt": "Atrial fibrillation—an irregular and often rapid heart rate—is a common condition that often leads to the formation of clots in the heart that can travel to the brain to cause a stroke. As described in a study published in Circulation,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/atrialfibril.jpg",
-          "width": 850,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.amp",
-      "publishedDateTime": "2021-11-15T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-datarobot-launches-ai-cloud-for-industries-including-banking-and-healthcare.md",
-      "title": "DataRobot launches AI Cloud for industries including banking and healthcare",
-      "excerpt": "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
-      "originalUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/datarobot-launches-ai-cloud-for-industries-including-banking-healthcare/amp/",
-      "publishedDateTime": "2021-11-15T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-how-machine-learning-is-skewing-the-odds-in-online-gambling.md",
-      "title": "How machine learning is skewing the odds in online gambling",
-      "excerpt": "Commentary: The house always wins in gambling, and the house is getting even tougher through machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "publishedDateTime": "2021-11-15T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-growing-virtual-tumours-and-drugs-designed-by-ai-could-be-future-of-cancer-therapy.md",
-      "title": "'Growing virtual tumours and drugs designed by AI could be future of cancer therapy'",
-      "excerpt": "Exciting work creating digital tumours, involving Bristol University, could be key to effectively targeting cancer cells, writes Dr",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955",
-      "originalUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article25460013.ece/ALTERNATES/s615/2_JS239592337.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp",
-      "publishedDateTime": "2021-11-15T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

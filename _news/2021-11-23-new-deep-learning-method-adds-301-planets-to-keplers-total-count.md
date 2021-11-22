@@ -1,13 +1,13 @@
 ---
 category: news
 title: "New Deep Learning Method Adds 301 Planets to Kepler's Total Count"
-excerpt: "Scientists have added a whopping 301 newly confirmed exoplanets to the total exoplanet tally. Scientists recently added a whopping 301 newly validated exoplanets to the total exoplanet tally. The throng of planets is the latest to join the 4,"
-publishedDateTime: 2021-11-22T18:30:00Z
-originalUrl: "https://www.jpl.nasa.gov/news/new-deep-learning-method-adds-301-planets-to-keplers-total-count"
-webUrl: "https://www.jpl.nasa.gov/news/new-deep-learning-method-adds-301-planets-to-keplers-total-count"
+excerpt: "The Kepler Mission continuously observed more than 100,000 stars for four years, and more than 200,000 stars over the course of the mission, searching for signals of planets orbiting their parent stars."
+publishedDateTime: 2021-11-22T22:06:00Z
+originalUrl: "https://exoplanets.nasa.gov/news/1696/new-deep-learning-method-adds-301-planets-to-keplers-total-count/"
+webUrl: "https://exoplanets.nasa.gov/news/1696/new-deep-learning-method-adds-301-planets-to-keplers-total-count/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "vecFvPY3ZDGF+X9syUBkZacQZlzFFCc8qP2rVw4O81IKHcL7MjOxZgidje/svqJlmmMX30oDn3btR2V2YgGnHxCgnOXoimFBhLc0xNL73BecKDLKHc0KYGB61JtJ4TiXsg1xlrxmBJZVYiz1EDyXD7nDv53D6nrVHpcPylDG3HwTgJTj5vBes7HnfxDfvZvgfv0yZcRzwFN9qsjSeSsO1vedS2qGDFhLgwhJzenkgXftkmH6t/G1M6d5I+RNJgcdi9HI/wNnZ1LNFdW1wTZ442ZLsnR/ozBOF0JPfF/cbBzUTiujUVTS6t4BqVVp2xb6++DDQ212a+RZqiti7LLo5MuSn7hp+IYOy40hxeb7WLnPtS+TQ/6j3QZi6BAHhxyFiZpZb84Uv2xCRwZ/LtxqAJQ3Yky4gYODXgX9nMuFBBQvvTvpoXq0nbSkOkgr1MzERL2QTQwNmiH/PmjWHwry8g9hSTm/+OKNpmMPE+w+3XVRoNiAE51FgNzexfY6a74NVRBsBGhQkHWKfJtXXtOjsw==;KtuJOyHFSym+k7RrwbtyRA=="
+images:
+  - url: "https://exoplanets.nasa.gov/system/news_items/main_images/1696_deeplearn1280.jpeg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "xoHAbkaeDzclh+ZO5defBoDvkIST5+fA3qD6ovro079NdwyR0qcvQxPsU0e3h62UbnNGwmygxSFTD+X8ympkoyhPm9jeDirCtzvxhBPJI5XCq8bWM8rEWRP8BPGgemvxHj5opCSNLTiAQ/L4zrph/3ih8sCzOwgSJdPHZgahD6V6NNhUImoUBRiwjIqWaK04xlz4zZVSeCXr/shf34dq6B2hMvL9N68PE76hiBo3IRyOfhz16WObdHHpQAa95oDHVcQTUQWi6ylTlS4C2be/J2KcVa2KGKluu581Po7l5RaoCnqW3SFUmM9OtVUrkrUD5n0wZdJYbw194WnstJvmTDvcPwL0O21OyypyQ+MTKCI=;N6/QHDJJHyCsKmHfGd+ZyQ=="
 ---
 

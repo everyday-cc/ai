@@ -2,6 +2,186 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-10-26-artificial-intelligence-models-predict-how-the-brain-processes-language.md",
+      "title": "Artificial Intelligence Models Predict How the Brain Processes Language",
+      "excerpt": "Neuroscientists find the internal workings of next-word prediction models resemble those of language-processing centers in the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/bilingualism-and-cognitive-function.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "publishedDateTime": "2021-10-26T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers.md",
+      "title": "Why Many People Are Turning Toward Robots And AI To Help Support Their Mental Health And Careers",
+      "excerpt": "I interviewed Yvette Cameron, Oracle Cloud HCM senior vice-president, to learn more about how technology, artificial intelligence and robots can help workers with their mental health matters and careers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61781b53d924acaeb26729d0%2F0x0.jpg",
+          "width": 1087,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/",
+      "publishedDateTime": "2021-10-26T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-ai-driven-3d-animation-startup-plask-raises-us256-million-in-pre-series-a-funding.md",
+      "title": "AI-Driven 3D Animation Startup Plask Raises US$2.56 million in Pre-Series A Funding",
+      "excerpt": "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to c",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding",
+      "originalUrl": "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-qualcomm-unveils-latest-mobile-chips-for-mid-range-and-budget-devices.md",
+      "title": "Qualcomm unveils latest mobile chips for mid-range and budget devices",
+      "excerpt": "Qualcomm has added four new Snapdragon mobile chips to its portfolio for both 4G and 5G-capable handsets at varying budget ranges. The Snapdragon 778G Plus 5G, 695 5G, 480 Plus 5G, and 680 4G chips are now official,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
+      "originalUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1635255685/itpro/Qualcomm_Snapdragon_Refresh_Oct_2021.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
+      "publishedDateTime": "2021-10-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-teaching-robots-to-think-like-us-brain-cells-electrical-impulses-steer-robot-though-maze.md",
       "title": "Teaching robots to think like us: Brain cells, electrical impulses steer robot though maze",
       "excerpt": "Can intelligence be taught to robots? Advances in physical reservoir computing, a technology that makes sense of brain signals, could contribute to creating artificial intelligence machines that think like us.",
@@ -979,185 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-snapap-adds-four-members-to-leadership-team.md",
-      "title": "SnapAP Adds Four Members to Leadership Team",
-      "excerpt": "The B2B finance automation company SnapAP has named four new hires to its senior management team. The Canadian firm said in a news release on Tuesday (Oct. 26) that the new hires are: Roshni Wijayasinha as its chief marketing officer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/",
-      "originalUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/snapap-457x274.png",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/personnel/2021/snapap-adds-four-members-to-leadership-team/amp/",
-      "publishedDateTime": "2021-10-26T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-this-startup-uses-ai-and-satellite-imagery-to-preserve-trees-moose-habitat-in-minnesota.md",
-      "title": "This startup uses AI and satellite imagery to preserve trees, moose habitat in Minnesota",
-      "excerpt": "NCX pays Minnesota landowners to delay harvesting trees for timber one year at a time, hoping to reduce the effects of climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.desmoinesregister.com/story/news/2021/10/26/ncx-pays-owners-preserve-trees-carbon-credits-minnesota-ai-microsoft-satellites-forest-management/5906505001/",
-      "originalUrl": "https://www.desmoinesregister.com/story/news/2021/10/26/ncx-pays-owners-preserve-trees-carbon-credits-minnesota-ai-microsoft-satellites-forest-management/5906505001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/10/11/PSTC/f77e289f-856c-418b-8a58-8e3bd9a835bf-MN_12x18.png?auto=webp&crop=815,458,x9,y244&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5906505001",
-      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5906505001",
-      "publishedDateTime": "2021-10-26T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Des Moines Register",
-        "domain": "desmoinesregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-amazon-gets-contract-from-british-spy-agencies-to-increase-use-of-ai-for-espionage.md",
-      "title": "Amazon gets contract from British spy agencies to increase use of AI for espionage",
-      "excerpt": "British spy agencies have signed a deal with Amazon Web Services to host classified material in a deal to boost the use of AI for espionage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/10/26/amazon-gets-contract-from-british-spy-agencies-for-ai-espionage/",
-      "originalUrl": "https://www.gizmochina.com/2021/10/26/amazon-gets-contract-from-british-spy-agencies-for-ai-espionage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/02/Amazon-Logo.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-visionary-global-fintech-companies-invest-in-customer-service-experience-by-partnering-with-helpshift.md",
-      "title": "Visionary Global Fintech Companies Invest in Customer Service Experience by Partnering with Helpshift",
-      "excerpt": "Helpshift, the established leader for in-app customer service in the mobile gaming industry, has set its sights on expanding its services to the rapidly growing fintech industry. Helpshift had long predicted an all-mobile shift of payments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/26/visionary-global-fintech-companies-invest-customer-service-experience-by-partnering-with-helpshift/",
-      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/26/visionary-global-fintech-companies-invest-customer-service-experience-by-partnering-with-helpshift/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/LEGaG8bqRHIOwshaD5h71_c42RI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/NXTVMD3MEAEFUHBC7ZES5QXHIM.jpg",
-          "width": 980,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAW",
-        "domain": "wsaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

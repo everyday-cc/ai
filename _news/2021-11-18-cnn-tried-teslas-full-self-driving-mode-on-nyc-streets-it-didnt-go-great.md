@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 50
+  - title: "Video: Tesla Full Self-Driving system takes a driving test"
+    excerpt: "Tesla's Full Self-Driving beta system has made headlines in recent months, both positive and negative – but how does it stack up in a learner driver"
+    publishedDateTime: 2021-11-22T22:43:00Z
+    webUrl: "https://www.drive.com.au/news/video-tesla-full-self-driving-system-takes-a-driving-test/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/pcsakwljpekbv7d49pmp"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "79DVEDaxjsBdj/HkOicDaBbZLv1fw8r3YlNH/p/sKQS9GoBTOkGwDZ4ooBzcZMPeznIHRrZ4Bxp9aB/Mm6dbWURiAdN67Y0wc8qIHAV81gUOMs8DtKKPXdaXq/LNcruMVfmAqiUcA+aY3jAzwsGFiRlHYV/GTgmF2g2108azV5JC+uogys7fWYqESKn8gUXVXUbjmgYVYUoSSTmv3LDJ+YHFHl9u0mJeDtqJxgkPqDIopVgn2IzKORetXSMlyD1iGkjFKbW/epTDjOo15ZFpl2YEtpsIl+E0lYzeZ46pkGzDOMoOOUNaJyayzjYaLwwx5LWAGmS/vkQkQjP+HRjZsal+eS+XwRPUvcfq2v4+zmpyt41fDEupFzmxV77GhAEuYNwpJReWSpl2zSceUZ9p612HyAKB7mSELoXdHJXbFzeK89sqOSwubLQs0zWiOoBSKKDvuwajyY7jviEpabZQ4w2mGo4hLbKT0eFfm4W1CZ4FcfZzJSVCp9t71/NM8NHZDuG790vCmcSoQb7jNGLArw==;flDP3jO6PFimewOhdtKUig=="
 ---

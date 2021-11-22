@@ -68,15 +68,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
-    excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding."
-    publishedDateTime: 2021-11-22T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lifevoxelai-raises-5-million-seed-round-for-its-ai-diagnostic-visualization-platform-301429314.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
 
 secured: "FpC/gwayiPAJ0H+DaQe9BZut+ZDyqhFQTcMzWYh6fTIDt4LJuCoVTq/LyI6tUyhCdfPLksxc3ZsNfkAnvR94ukyZyt7BHtL2RIYH4Jnux4/YvIYIpYqjQKVJDjOjgkWgIVk03aR5VYDodtsjmgr1tvSPMTz5zGrbRqdOycG+Ci6+UaKbxiP0GGbsuXflATKxfkcfXKS2iqF3O42a51A60x5DT30qDguam77BlNFuIozrwYTk5skmgF9TitmJRnLF1P+RVQ1DtAHRWS0eLsf6aEB2NSkC2wVA6CyFdQ+mWOgnGvUg3qoGkPrePoAa1a9+YVuaOH7EVcBJuxwumMwCJS+VFAZBT+doEkBeoOJpnNeLgfSxTSUO504eL8U8tG21yHo3DrTe28vC9oZeGke3VzrV1pxg5lwovVZuuq0p0LRlVlLkYNUlE/ZvsjMF1v26EkGxSYALZ9C1weA4hapUystj4ZVnrIVZp9OZeJPDODq+PUwxV3sdswDwVlNywqbp6G8s05j8YzquckZ40+5IQQ==;IPA2dNxO/K95GETE/rtyzQ=="
 ---

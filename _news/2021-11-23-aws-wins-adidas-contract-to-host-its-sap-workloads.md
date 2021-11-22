@@ -54,13 +54,13 @@ related:
       domain: nasdaq.com
     quality: 69
   - title: "adidas Migrates SAP Environments to AWS"
-    excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP ( News - Alert) workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
-    publishedDateTime: 2021-11-22T05:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/22/9497335.htm"
+    excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
+    publishedDateTime: 2021-11-22T07:29:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 19
 
 secured: "GYfY967Gyn/VDwcg8eqRoJ0YSRAqNIyywoAb5Vc/FGvtTPknoUTzuOhGhZuQTJfVRuTgnSVLO+dM596VdgONGpdPl66Vq90O2tq7x2XRyHpYtooIB8NkEMGZDzfNha0CZRConjHt7vD1ZiXzhvMgHB4aD7hlhd7RKxzqVRRVQpK31pU9gSAgP3FGaQbeJM/rzWh5I6+OYLdVifF0MTGQtCa06tyDKQjmbyI421oDrdJ/2laBuXjta3agGVsuf6dFBbPOE1mLuFjJXVgPwwkYkEm7JstVEXKK3QiY9fCFaztWvLssCSdUXl+16p69+ZTmtjhOmAL6fQPHJMW44S+vHXdJW3sSPvNS29fVHD3QTcVF24BETZr1ZYKKlD347mpYMlM4y0HfLvGiJOhbMz8Vv4tlq3izDljG3xmSAOGLfbpGnw3zlm8auEdG58gh3dw6o8+N4k6H9HamUoZEzdCHGldC9csoSn7lfBHEF1gXqSYLU16jtiCPPNOn5CL7B4EYlN25EHiE4XU+brRWWnjiWw==;0enz4ChzLHaCSphxumAwDg=="

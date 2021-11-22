@@ -106,6 +106,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 50
+  - title: "Video: Tesla Full Self-Driving system takes a driving test"
+    excerpt: "Tesla's Full Self-Driving beta system has made headlines in recent months, both positive and negative – but how does it stack up in a learner driver"
+    publishedDateTime: 2021-11-22T22:43:00Z
+    webUrl: "https://www.drive.com.au/news/video-tesla-full-self-driving-system-takes-a-driving-test/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/pcsakwljpekbv7d49pmp"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "yZsxXGrmboQvKotURtBdrcGYYyEWaYfwmr0MJM6PUqcboPQLpSokP60em8Mw6HkcIMQfAE3AaAhvpO92BaED2cCt1dTBHfDC5cdoVSsO49SbIISzUv4UqSBCD+1ClMbKSxKjGsWzaWaulFeL2Vu6PQ1bXa9tMVacwhUHfnyRrMVgnDaaLRYorotKiSEJYRYAo1wErRIuzHa/jolYGFX1BPkukvttRPd8FUFUjmE0Y6TNNDc1fTtyYPBqdckHKzaxelpixASt1EjCSya3vRBO1S6NQqYLm+QNMf6XU8QUssyz2nBGghPDBHU4u7HOwoOHkK3uPyahVOLcxx8TWBmStbW2etRG4XQ+B6OUtEikr8kAVSc2DEhVKkUOWJg40060Z7XcaGFBVRFK5ofGLTm8R+MlptV+lNpw5PUlyKN6NJzEi6sSH4tWp3vxr5fyBx/pDq8KUMlwtDo7PLVMOOF/1pEinMZmFb0JlA/Le9vXqof8XxYeCPXapsRMJL3m8sfJP7iomnao1lwT7w4uVkcwFA==;ntT0fYb1WW0zgWw+8sWbiQ=="
 ---

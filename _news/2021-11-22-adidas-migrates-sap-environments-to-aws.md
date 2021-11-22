@@ -1,18 +1,18 @@
 ---
 category: news
 title: "adidas Migrates SAP Environments to AWS"
-excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP ( News - Alert) workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
-publishedDateTime: 2021-11-22T05:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/11/22/9497335.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/11/22/9497335.htm"
+excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
+publishedDateTime: 2021-11-22T07:29:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
+webUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
@@ -58,6 +58,6 @@ related:
       domain: nasdaq.com
     quality: 69
 
-secured: "chvs/r0gENhJjQillIxRIAdhYkh1goytvazu7PvXZ5k2yyVwXmOyj9V+LTaOsqKwQNFeUE89tTVm+acSKCacGd0FW28oYC9jUf960zrumS2Atp6lx4gdzvamrHNdwwCuInqV/ij9zD0g0clLtK5oe1UiZuYzrA8N7VoGei+bBw+L2tw1RPgD+fcjw+D2CO4WEw34KkJQyGokYtWhx3Ouz7OeCQp4WZ89EW7Ur967CKFDFn5HZi8f+kDEQ7Cth+cFD9Dj/x+jCzFZuJESLKIsHwFfzDUZuyKY4FP0zbPHBJWt+ALbapRL3QHeAP0+8vnuEFvF/Ny1a7cMASLRm5x3A0stPlud5itnz8JO5JRayJU=;3MGYgjs/hTxo6pNRnCMQDw=="
+secured: "AY/2Fd0Y9I0EXQbEKm59rK7rIA70kTNGCDuWzbsBw0doVLyx+Vpnp+648qQsKOTgawoRfhl5KFgZqN/5oomvD5GW4OD7Vd4gyfFeHr32tW7iuhFUyCpi6+MiikpbP0+SGLrurmMIKwT3XHlVCTeU3HofEFKE/+WKG2wci/F/q7M08mZI4I4Hbx+uZ4s7CXxDjwa6uSYIzYZ6ZDr2rvRbkDdyRsoL4lynwqgSaY1JfHfHfj3Iik+RvhVh1s9a1PLVTFuRxjoUZ06KKdQNXEJ1vriJNpF4NuxHYymJWMEUUBty3PA7ZZaAjPUldQRGcjDcYcPDIKLDOsufJ7QH0fl1jrnXk7LmR992OK/JTcUyjIamSeqGljg9pC2V+pGLIoOl3yOayXHte7D7siN4u/GcW9LZXcaCDT7vu8eSc5E5mLO2WZVrOqiMzN9qtAO8JwL60mCpYFHNAdviAK3DH7L1DSeK/RQ590Ld44slTG+KhzvkCMwvxCiAZ1sqm8Rd15gq5w5Ug6ZaQ/a9GiJZmx5hyQ==;VWvw4xpkXn+Rg/Uh/BW/1w=="
 ---
 
