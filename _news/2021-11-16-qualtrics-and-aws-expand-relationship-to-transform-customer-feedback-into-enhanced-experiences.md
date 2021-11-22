@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Qualtrics and AWS Expand Relationship to Transform Customer Feedback into Enhanced Experiences"
-excerpt: "Qualtrics’ cloud-native technology aggregates customer and employee feedback and enables companies to analyze it and take action. Qualtrics is now moving its customer-facing workloads to AWS. For example,"
+excerpt: "(NASDAQ: AMZN), and Qualtrics (NASDAQ: XM) announced they are expanding their relationship, with Qualtrics migrating its internal IT systems and customer-facing workloads to the world’s leading cloud."
 publishedDateTime: 2021-11-15T21:00:00Z
-originalUrl: "https://www.financialbuzz.com/qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences/"
-webUrl: "https://www.financialbuzz.com/qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences/"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "Nn4ewvx9bxcmaUFzS592kwUo5edhprV2BvnwbNEEP5Z9qiBy3LEdpYzN1wQArEqlI1YA+r5trSzUq1l7kZ0op2v+lmtSqh5o8R/fRwFO+QvslH6+u0F3auU8BzESWd42tCo74DFii1Is3NuUdpai72VczX/CdN5yVwyucV5wHA9NmDvnmZNGvdfjGa2HyXExK2GKq41t82a/YKY5SfHd5Bd7QWJZ1IGmrzBJaoYx5F3Krrc3fqNUcP5i1aIE+xYeMd1wSupzWNrmIsG4uSN3N8DNP5yLnbKZC9PJxjlFvb/T76BGVqjV99j1cmcdPJBQc36fVhbk7YYVfqR5HcDHAj2LkgtSydOMUZgExepk2Dg=;iGZRIJiL2I5oZkBpVHRdZg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ngwMRhf2sxGFzKxeUZB+kyV3r8iHWz76BOUcIrnqZQdZN6xWgMgv7eaEMvG3iE97M7rn7jUS6uJGV2snB4O1VlXbeez6Sixw7V5+dvPNItAdg/Do0R4C/UpAeSVOou1qW/nMtQrom6tQCLUFVQ1JqGujrhrKmNaeGPjw3diqHA1rezezNJoxddQSLLCZZk59W3YrhaR1q/sN7M0txCEDR4ieZVDWHPYzU7x2Opr3bR+I9uYBTl2LA1DmtCxxb+icRD2afUSX5P7i+TIPfrrCleClg4B837ic/JgAF+Xx54Y5BNnm81g6e1LKpL2DVBSv/Ww9FofIaKN4PFbZB/hrbpgNoEdecP8SxezDcMAlKBs=;tmeVG7tDdlqw7ZvCDszd/w=="
 ---
 

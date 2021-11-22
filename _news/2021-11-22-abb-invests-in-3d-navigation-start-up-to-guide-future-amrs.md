@@ -3,8 +3,8 @@ category: news
 title: "ABB invests in 3D navigation start-up to guide future AMRs"
 excerpt: "ABB is taking a stake in a Swiss start-up that has developed a technology that allows mobile robots to navigate autonomously through complex,"
 publishedDateTime: 2021-11-22T09:55:00Z
-originalUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6887/"
-webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6887/"
+originalUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6887/ABB_invests_in_3D_navigation_start-up_to_guide_future_AMRs.html"
+webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6887/ABB_invests_in_3D_navigation_start-up_to_guide_future_AMRs.html"
 type: article
 quality: 24
 heat: 24
@@ -28,13 +28,13 @@ related:
   - title: "ABB partners with start-up Sevensense to drive next generation autonomous mobile robots"
     excerpt: "ABB invests in Swiss start-up and ETH Zurich spin-off Sevensense Robotics (Sevensense), a leading provider of artificial intelligence (AI) and 3D visual technology • Integrating Sevensense AI and navigation technology will enable future autonomous mobile robots (AMR) to work in more dynamic,"
     publishedDateTime: 2021-11-18T17:12:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/"
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17816"
     type: article
     provider:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 11
 
-secured: "Rs0SWFjBwUd24MXTs8X0h17UmKzADdl/utocTMCQoqwXYgMVrWtHUt+HEEuMkhNJ+MGenko6M+FbEnF+STRuRsKM7VnSQgLgvzQJMfMzUz3jX5GXtJ7/jWdPXDJyoNGGx3xp4AXlvJA3Wh1A3SQl5SulWJZ2/5fbFqaGYNgcUX5jP9PVPgVzpqcev+bcDPLlhzgdeX7fHn9Gau2lBSgFBqfgEqGuuyxP3ZG9Nrpc1/Q95RkVTS6YOiUx8J6M/F0eV0fAqwVbclrr1MSPfD/3JqjP9TM+4OnojEDXNOn7bfdCjSNrgca4O2xO2UdPpHiuhG8bYIY3G+ifayCFerAAEyvUUlm1E1mp4vH3EAFt1x8=;TIwQtfDTBI2YCUAamXy3+Q=="
+secured: "kcQGtBlaMwsBEOW00IhvxEJhQfFCSN7b45/N2mt21tKt7aLuzcWfzTkkngrO2hEVCmJplNMI6y4UP6idCrSWFiS7EhZbpAQhvvNxfSJlXH6OV0skhKLSSk0LRngGr9U76v2BXly02Lkp8unYxfk+AC1++DjiJSF7mPLknMdldwv8/1GMOWADhOPMOUlGGhUFqtqLXMcdIoWXT7N6nyrR+8nblfjBMc+d9nlmSvRtjxiaOG2/g0E7w1PlHXiMccCU+9uJtXUpdv1SOfOLTv3txNBsHsI5lbJt0neEbn7cOQNeKasrzlvbU6UzVm0RbBRYhMIfpXfE5BhCkedtkNeJONKdtOwM+Z9m6s1ii2LduSc=;1cxdiqsLwr6Opq902OSgDg=="
 ---
 

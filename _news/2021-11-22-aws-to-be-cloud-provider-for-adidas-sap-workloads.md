@@ -1,30 +1,24 @@
 ---
 category: news
 title: "AWS to be Cloud Provider for adidas SAP Workloads"
-excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. (AMZN) company, has been selected as the preferred cloud provider for SAP workloads by adidas AG, one of"
-publishedDateTime: 2021-11-22T11:27:00Z
-originalUrl: "https://www.smarteranalyst.com/yahoo/aws-to-be-cloud-provider-for-adidas-sap-workloads/"
-webUrl: "https://www.smarteranalyst.com/yahoo/aws-to-be-cloud-provider-for-adidas-sap-workloads/"
-ampWebUrl: "https://www.smarteranalyst.com/yahoo/aws-to-be-cloud-provider-for-adidas-sap-workloads/amp/"
-cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/aws-to-be-cloud-provider-for-adidas-sap-workloads/amp/"
+excerpt: "( AMZN ) company, has been selected as the preferred cloud provider for SAP workloads by adidas AG, one of the largest sports brands in the world. With the implementation of the modern SAP S/4HANA platform,"
+publishedDateTime: 2021-11-22T10:19:00Z
+originalUrl: "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads"
+webUrl: "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads"
+ampWebUrl: "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads?amp"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Smarter Analyst
-  domain: smarteranalyst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/Amazon-AWS-750x406-1.jpg"
-    width: 750
-    height: 406
-    isCached: true
 
 related:
   - title: "Adidas Migrates SAP Environments To Amazon Web Services"
@@ -38,16 +32,23 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "Adidas migrates SAP Environments to AWS"
-    excerpt: "Amazon Web Services (AWS) has announced that adidas has selected AWS as its preferred cloud provider for SAP workloads. Adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
-    publishedDateTime: 2021-11-22T13:39:00Z
-    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
+  - title: "adidas Migrates SAP Environments to AWS"
+    excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
+    publishedDateTime: 2021-11-22T04:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
-secured: "pCGEdbFKKk7k7ecBQE9/0Ec1pUWbx7lFTpW95XJjzUy6CKFHidLhaWzR388p15Ir/HLfxeVS4k6EQYgd4etqNFB5a1EY/8m8idIMgAqAf45+V2fek6i8DTwgBx7I67/Sx+h6BUxAgySyS3u9+4TvRQL4s0x71BaWNNp+rnxXYq/IsmiV6At79SzDvi1tk00h/XfAp0BIB0aLnbwNSwY0q8hESWqStgQebmY59MmleHog6BE601kkCQiKCQYvuum78whNKYnAZPCsHtk233Z2ODwshQmV5f330LIvLLKf4hXGeHoEJoNOfnck7X7MAU6VDduJPryBhzrNU+39ZWlm0tnWBtdsyiONEKXbUaUM02shNv7XWQAk8k4hRFuBBkg68xGkpgg5xW2NLTH/I8QSrKWs7anDX5OC6mUljj9qiybKWJ8P8fzYA9Ltodmg3g+VHVTCxBt1uQo0Ci5Ms4+5S/vVRiyCeZwSrMWziqHarNtWpFBwsgq3VhkIllBWOWnkw4fupWf07MIrPQi7OInk1g==;7WULdhBSxaDBmam+ktH+cg=="
+secured: "Aaafg0wOIlaCwRej65ZKWcCDjrPLuxV1fy2UO50DHRRi22DRAEh99iIG7ZEd44MS8FqZgEkX0IoK6tWapga/UTIij1xaL0d2tPdywVcWkJER0wbOnNj1tY3bF6Akxy3GsJOjZgjzA1SafVZvhOm0Vh8ruGTG64KJtUTOVORgB6x53H5i+2JIHaTuehE5yi1xF4KyIYrabFAFUPvLZG7YTN8VQKs0k16QEJ29w4TqpNdrHYsCBPasda3+rHPl3aiVIUiKOGCkTQvm1dLmswBz4m/Snldq5munhfcAr5Psc1AuYsoNlFJIATciOGfEUIsOclbahdHCbX5ru2ML5+K97q1CUTd/EN5UWuyrDwo+4Ao=;8NAQNwiHuApAB3KrkX95vA=="
 ---
 

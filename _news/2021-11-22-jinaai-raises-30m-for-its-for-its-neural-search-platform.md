@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -55,15 +55,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
-    excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding. LifeVo"
-    publishedDateTime: 2021-11-22T13:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lifevoxel-ai-raises-5-million-seed-round-for-its-ai-diagnostic-visualization-platform-1030994765"
+  - title: "The Briefing: Deliverr Bags $250M, Jina AI Lands $30M, And More"
+    excerpt: "Berlin-based Jina AI, a startup focused on open-source neural search, announced that it raised $30 million in a Series A funding round led by Canaan Partners . Founded in 2020, the company has raised a total of $39 million to date."
+    publishedDateTime: 2021-11-22T13:48:00Z
+    webUrl: "https://news.crunchbase.com/news/briefing-11-22-21/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2021/09/The_Briefing-rs.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
+    excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding."
+    publishedDateTime: 2021-11-22T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/lifevoxelai-raises-5-million-seed-round-for-its-ai-diagnostic-visualization-platform-301429314.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
 
 secured: "UUx9omhUpbd9ict3hL41sm1BWs72RR65JTad5EjzmhYhlxsGq7UvWlKO77jX3+ysCTY4RvGOfUhHuhHJ5Fh0lCZD0Ihf5ID/dtEtzOz2oixHlPRu65Z2gjbT08Hi8+A9ZHVSGe8CPsMuDUh6G3MmaAp9KOHUBErlsl4+/DYhfrdSyR2qUxMrvD2hD5uyzh+u1VXDQJJeUpBWligkhN2HDz532VXk8w6M9QiJYuIyi+ZR/9C7QwnhU/DxE01M47kpqpT6lasBdiz73xROQPJ3ASZAg/NrihnxaeiiAxasiy0GAKRW44Ip1L35Nl5/WxWc1IcwLrRPyn/nwnpiL3anXX/fK7rS4reCigYkrRiA/Y0=;iugNPyRqL7ZMfFzj3qqYFQ=="
 ---

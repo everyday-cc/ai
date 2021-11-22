@@ -18,6 +18,17 @@ topics:
   - AI
   - Computer Vision
 
+related:
+  - title: "Deep tech startup Humans.ai announces upcoming token sale on Polkastarter"
+    excerpt: "Deep tech blockchain startup Humans.ai announces public token sale on December 6th, which will launch on the Polkastarter IDO platform, to"
+    publishedDateTime: 2021-11-22T15:45:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/deep-tech-startup-humans-ai-announces-upcoming-token-sale-on-polkastarter-862307555.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 16
+
 secured: "v9z35BBMVTglCQe1uAPN6aHv6tMqUVfQLp5Edz6nd9rH8FEqiWL32/lvVsHFS+IB75RFRS/39fedbBwkjKPBtZ7Yeqnj79cedIH54HyYb8fvObW/ZAQOJQ+FHGu18KtIfx/3+EL1lBPCH//SpJTh1BFgjgTIJtYfMqswy0qHItqkC1QRGIy2Ns5KfY1TRZjREbo5Yzy9WgkZ95v8IheO5xKxdIhrbB0NPhvbMVsoWjE2GyXqqLAjQy4KFwJBcY0jdKF2Q3qmWH7eqWoASRj5ikIl42rzAxCC9RRMSIraHLABMOjWHL0c8vMTOxLmSytC58IVlqM5ElhaQeJNmnEP6PQ5tG92Fnn3KAo5yWHD0CI=;UT76U4uq6/aoxYNHFV4I0A=="
 ---
 

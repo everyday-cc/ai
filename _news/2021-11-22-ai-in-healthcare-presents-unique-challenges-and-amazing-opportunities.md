@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-he
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "How do you scale AI in Healthcare?"
+    excerpt: "Sunny Dosanjh, Director lead for Deloitte’s Healthcare AI and Data team, explores the three key aspects in scaling AI in healthcare"
+    publishedDateTime: 2021-11-22T16:47:00Z
+    webUrl: "https://www.openaccessgovernment.org/how-do-you-scale-ai-in-healthcare/124827/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 54
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/11/dreamstime_xxl_163033011-scaled.jpg"
+        width: 2000
+        height: 1108
+        isCached: true
   - title: "UAE strengthens global partnerships to turn challenges into opportunities: Minister of State for Artificial Intelligence"
     excerpt: "Omar bin Sultan Al Olama, Minister of State for Artificial Intelligence, Digital Economy, and Teleworking Applications, has said that the UAE government is keen to strengthen its global partnerships with various countries to transform challenges into opportunities that support the development process and build a better future,"
     publishedDateTime: 2021-11-21T15:00:00Z
@@ -39,6 +53,6 @@ related:
       domain: bignewsnetwork.com
     quality: 0
 
-secured: "Z+ATO7c8AFEV6gm+ioS10oLcnbdKCMyiwzSHrQ3FQozxHFpxFqD4ItSmz5fNSW+UBEHdMpao7vMstS2tPLhWxBn3sHtA4Yx+ib0Nsw0TZQxc+tVNDquhF3c90vSqi/6CDpqs+P+7Uh+VlmeK+WYNb12T0fhpNa+J9Qt5ot69AShvGpKsktcaRvRusPFzXbyDanBckZVEYWhs8PvJetdgUVj2qEGauVSLKSYzJr438Zd16D3W+IGOZfW/XRcOYu9TV6ds8IVsikNi63bY7G6ZBzG4ZhtCFqnePMmLzd3qi/qv6pghAZhl5OlNUGRETAvM0ZMDzWc82F+MfIxAFStAvvI3241j3nJ986cqp1I3Yq4=;835q1uCmjNVz3Gxdp9mxLg=="
+secured: "GS/dMaHHScHgXZuQOKI4L7RL6+4oFAUCjjYEWfaPwhLui0jHkx5fjZ8WnEMjiFUvBDcVtPTp3nN/ZPGj9orZ8VgJaGi0nIU39/T6ZtD6bFMi/VEoiZENOqZJMDIA34FkykYUMmESz1nBvw2rpfqwns+UAo7+ofK4aMBlx2JrotSEDs0m10+sIfb1Wql+vLVec07M17lz72z4GEgIxu4qdF2VDyBAT/SOX9+yl/BASJOFaiygYLwtAJlH0Tzd2q1uaQqKM+pIU6/gXyZJglVHWRTYIFbTVscdPODqDCaELwfJEjPp2qnUm0oOUBoQlnVG1p6QEZ/LQMUmMrFt+OW7LWCQSIXFJsW+qiPAOMV4TKKm2XmRyS91GAdMNCwCkYZhA6bMfDI8VX0pZAu+8EGFdLnC/3xpnSZrTsBIXduMEQd6sNazS5tU43gFJpMRUkdkotHQZYUMyrzoCAJrFuTbAYjhqJPA6AxD4M03E0gbjEAWX7xHMpiG0CL8G4wBGWRyyD4JhXsi4NWEFdJo+1c80A==;Gf1r2UqBm52Wc6tFrDv3aQ=="
 ---
 

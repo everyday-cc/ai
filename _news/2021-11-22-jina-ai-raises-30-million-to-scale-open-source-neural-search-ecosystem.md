@@ -54,15 +54,29 @@ related:
         width: 1024
         height: 481
         isCached: true
-  - title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
-    excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding. LifeVo"
-    publishedDateTime: 2021-11-22T13:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lifevoxel-ai-raises-5-million-seed-round-for-its-ai-diagnostic-visualization-platform-1030994765"
+  - title: "The Briefing: Deliverr Bags $250M, Jina AI Lands $30M, And More"
+    excerpt: "Berlin-based Jina AI, a startup focused on open-source neural search, announced that it raised $30 million in a Series A funding round led by Canaan Partners . Founded in 2020, the company has raised a total of $39 million to date."
+    publishedDateTime: 2021-11-22T13:48:00Z
+    webUrl: "https://news.crunchbase.com/news/briefing-11-22-21/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2021/09/The_Briefing-rs.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
+    excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding."
+    publishedDateTime: 2021-11-22T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/lifevoxelai-raises-5-million-seed-round-for-its-ai-diagnostic-visualization-platform-301429314.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
 
 secured: "FpC/gwayiPAJ0H+DaQe9BZut+ZDyqhFQTcMzWYh6fTIDt4LJuCoVTq/LyI6tUyhCdfPLksxc3ZsNfkAnvR94ukyZyt7BHtL2RIYH4Jnux4/YvIYIpYqjQKVJDjOjgkWgIVk03aR5VYDodtsjmgr1tvSPMTz5zGrbRqdOycG+Ci6+UaKbxiP0GGbsuXflATKxfkcfXKS2iqF3O42a51A60x5DT30qDguam77BlNFuIozrwYTk5skmgF9TitmJRnLF1P+RVQ1DtAHRWS0eLsf6aEB2NSkC2wVA6CyFdQ+mWOgnGvUg3qoGkPrePoAa1a9+YVuaOH7EVcBJuxwumMwCJS+VFAZBT+doEkBeoOJpnNeLgfSxTSUO504eL8U8tG21yHo3DrTe28vC9oZeGke3VzrV1pxg5lwovVZuuq0p0LRlVlLkYNUlE/ZvsjMF1v26EkGxSYALZ9C1weA4hapUystj4ZVnrIVZp9OZeJPDODq+PUwxV3sdswDwVlNywqbp6G8s05j8YzquckZ40+5IQQ==;IPA2dNxO/K95GETE/rtyzQ=="
 ---

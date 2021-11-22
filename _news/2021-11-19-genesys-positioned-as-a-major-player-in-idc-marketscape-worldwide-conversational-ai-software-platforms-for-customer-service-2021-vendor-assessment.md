@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/genesys-positioned
 webUrl: "https://markets.businessinsider.com/news/stocks/genesys-positioned-as-a-major-player-in-idc-marketscape-worldwide-conversational-ai-software-platforms-for-customer-service-2021-vendor-assessment-1030991403"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "IBM’s conversational AI garners recognition from analyst firms"
+    excerpt: "IDC has positioned IBM in the Leaders category for worldwide conversational artificial intelligence software platforms. But what sets IBM apart from the others, according to this report? In this analyst report,"
+    publishedDateTime: 2021-11-21T07:10:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1636703013_916.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1636703013_916_lg.jpg"
+        width: 315
+        height: 408
+        isCached: true
 
 secured: "3r2W+E5G+g8byarn8JBYA2i4ZVPBn5EGh66SOsNWF7f+L9l4x6Ta3WqIiiILr2l08Pe+34PL0vDKq4HBZXRKPJJUFX/2rnwbIV5WLdUbPmcIfCr7caGWU42qOs579VEj1+UxpspRbTygelQtNMZpFASxUT5UBa/eD90HAMGwMK4Lww7NEGs88+W2DerEHw06AjF1/sLjrjU12e7JvAZUCehBeLYUs4NBAJHw7NBHEV7ousPxoZT7W3sqYKEBcFSbR54zNGx2mjRuzqOZeqzVyjOMlAHfgA7yZVCrRGFNwIApyhZi+/8YyGcs8r56JykzbbdctfuIGjHa0ZthxXfygGZHcIOOsSqoRfHcBSZALJQvkLlXEMDWBUqC+qnL8n675lqmcFBDEmhl8Ek0+cHH9c4XYafMOXzpOJhO7f3++ClfGYjFotryXPa2JpkK2H4VuA3xjJQ88xZbzclP3QeTMpWxHe+g+cmdrpca1nZfdbC20HED3GUYg/Zx6xvV8Pl4a3yt6nblgEUSXQ4+7lssIg==;n3Ymk+s37F75zq5VgzIkKQ=="
 ---

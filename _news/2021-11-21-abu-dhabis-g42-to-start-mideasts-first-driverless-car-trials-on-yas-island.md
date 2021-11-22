@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless car trials at Abu Dhabi's Yas Island soon"
+    excerpt: "Group 42’s Bayanat unit will begin with five cars on Yas Island Dubai: Mubadala backed Group 42 plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the UAE."
+    publishedDateTime: 2021-11-21T09:17:00Z
+    webUrl: "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370"
+    ampWebUrl: "https://gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
+    images:
+      - url: "https://imagevars.gulfnews.com/2019/02/20/autonomous_car,_driverless_car,_self-driving_car_resources1_16a4a16589d_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Abu Dhabi’s Group 42 to start first driverless car trials in Middle East"
     excerpt: "Dubai: Mubadala backed Group 42 plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the UAE. Group 42’s Bayanat unit will begin with five cars on Yas Island,"
     publishedDateTime: 2021-11-21T09:03:00Z

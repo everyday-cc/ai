@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3156717/china-unleas
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet"
 type: article
 quality: 79
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Raising The Bar With The Next Generation Of AI For Chip Design"
+    excerpt: "Using a reinforcement learning (RL) based approach, similar to the one that beat the world’s GO champion way back in 2016, Samsung announced that they now have a chip back from their factory that was optimized by the Synopsys DSO.ai platform we discussed ..."
+    publishedDateTime: 2021-11-22T15:57:00Z
+    webUrl: "https://semiengineering.com/raising-the-bar-with-the-next-generation-of-ai-for-chip-design/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 54
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/2019/09/iStock-927247700-Brain-AI.jpg"
+        width: 787
+        height: 443
+        isCached: true
 
 secured: "Y906wjlGKY3QX6gmFhOqrkC/IdSouIaqufXSQd+8MqQemBlOMlTCbeapyuq3PuqnrhPVvmuLmqm34RxGU3E9qgP/BjN8OS7+4aRnm/H3TCK326/s/M+vV3lynpy4DaWNlsEr6CG4Ls+FNk7/F6fyjnW99X9/r8GVeJKLl4rX4Zix8wLRQf9qZrh+XR6I7fhzOWfNG3i3VNtwC4ogycPrEeoINB+98p9jirTyEqA1+KuO8DTGOkceHzS/zvpb1ViiK6izD6/OGmxqbFvs2N5GBZta+y/3xNkMUpx2TA+BiJ7VElJqsvs03nzjWoBubk79nyndbwvL/KcX/pnnqV/9luJMAVcBYgj7/58CIEJI7RE=;t+unRmzkHVZVxUlLPkmbEw=="
 ---

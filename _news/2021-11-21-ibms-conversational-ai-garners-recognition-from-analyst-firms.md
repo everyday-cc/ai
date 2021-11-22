@@ -7,7 +7,7 @@ originalUrl: "https://www.bitpipe.com/detail/RES/1636703013_916.html"
 webUrl: "https://www.bitpipe.com/detail/RES/1636703013_916.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Why conversational AI is now ready for prime time"
-    excerpt: "Conversational artificial intelligence serves as the interface between a person and a computer, through which organizations can achieve engaging two-way interactions. The technology is usually associated with call centers and virtual assistants/chatbots,"
-    publishedDateTime: 2021-11-18T00:14:00Z
-    webUrl: "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/"
+  - title: "Genesys Positioned as a Major Player in IDC MarketScape: Worldwide Conversational AI Software Platforms for Customer Service 2021 Vendor Assessment"
+    excerpt: "Genesys®, a global cloud leader in customer experience orchestration, has been positioned in the Major Players category in the IDC MarketScape: Worldwide Conversational Artificial Intelligence (AI) Software Platforms for Customer Service Use Cases 2021 Vendor Assessment (doc #US48340721,"
+    publishedDateTime: 2021-11-19T13:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-positioned-as-a-major-player-in-idc-marketscape-worldwide-conversational-ai-software-platforms-for-customer-service-2021-vendor-assessment-1030991403"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 9
 
 secured: "xj9lrt2K/Ffejwpy53bq+hufUz0FBNn5fWFGHfSlevWqYkao3P+s1GqRGdsmVu3NtbROkXizkcvaf8Uvni+/q8s+0XA6yoayMw7RY2rNJ7wZ6Ca2Ndj5DuL7T7K7+wumA/sMnY7HgHHRhwk1GSdFZ6VgTgMBkW9Lco2z9pBJfmx12oyl2uoeHNk7XNuPD0a8Cg5iMYux75EVLD2jUt4/hZtZkbsAYSEQMO64zCCdWGaNsi87J2e71awHyIPU6lv8yZZCx/DJfLBxTJUbm+XG91r+1vI+Pmu4WzOiipZEFQQoI3fjOK2ef2Sk3fNK3gP52ebRpeJ2XjX6lqNdoPW567uBoRQ46PPIMxRtPx/Vu8g=;MI9nfaqym5geqSSSvWMc9A=="
 ---

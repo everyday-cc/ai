@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-attendee-guides-to-aws-reinvent-2021/"
 type: article
 quality: 101
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 19
+  - title: "AWS Re:Invent 2021 guide: Multicloud modernization and digital transformation"
+    excerpt: "Invent 2021 guide, we explore the benefits of AI-enabled observability on AWS and other cloud environments. These resources examine new approaches to AIOps that tame cloud complexity, improve application reliability and resiliency,"
+    publishedDateTime: 2021-11-22T15:00:00Z
+    webUrl: "https://www.publicnow.com/view/6A1A7586522351BB49F2D50A7DA3E88469043696"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 16
 
 secured: "bmeiYhnXZVQQojXEDTtl4iDcDSbN08ms3Qj/D7kPTX2yMW9fFs01xCyQiyiWZAh38KPIJPegYRpCxILvET3OL82j++/NyQpf3xgwBm+Ad5Ge9Iv+X+p+TMex85+kGTrICURNPS8v2/CZTBrdRuhI0RmmRRT5dJ5XWrqTS/fpxG/zjk9m5yUsrENEIjAake90nkHHMQ8VTHpsKglLPKRDOczEAoJc7SI7cMEALnjUTTnGvqMSxR+k6xc+jGEwhnH8pibeA4Smom/ZTwSbzPEf2RyWlaf7T9HqxWohV4OSiI4OQgarANdwTOuP3xCqTgU4ZLhoO9y213TvNbAVOxNxbEKhq1VyKhn1WdXtSSqwDYE=;H7nL6azN3Rt5dvYcEnmljw=="
 ---

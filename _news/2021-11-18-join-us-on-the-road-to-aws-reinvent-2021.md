@@ -37,6 +37,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 101
+  - title: "AWS Re:Invent 2021 guide: Multicloud modernization and digital transformation"
+    excerpt: "Invent 2021 guide, we explore the benefits of AI-enabled observability on AWS and other cloud environments. These resources examine new approaches to AIOps that tame cloud complexity, improve application reliability and resiliency,"
+    publishedDateTime: 2021-11-22T15:00:00Z
+    webUrl: "https://www.publicnow.com/view/6A1A7586522351BB49F2D50A7DA3E88469043696"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 16
 
 secured: "gqfJ+I6URE74kTSDi6P5t8oUMtSNeZLTVdyQwC8XQ+IFlRc9Nmt3FIaPwo/PhOTCCv1qMK1KlpvNUKhm193pRn5f83lvL8+WomWOIanV5QZnvXq+0c0mA+IdwU2OE4WHVSzYe0DQzGvkuRFDaLvC77r8Dn+WDUVK9zfaajmGc9WiFEAGkWfnr2ZVW37vXFKI/TuftbIUMWJJobKgqNZIMrZEzQyvlMQ0TaksrR/WBLs8sZZDT6mbZwEVXEU4XLc5ltAg/nSexrZ6xTnq0PiQStoKc9I+saLGr6XhZ18/t5h7lvRFz9YwrBB9OPif/NloWO8OoKC39ZNpR9YBr4YROH+2x/EGz2vF17TSkb5AHNE=;jYvN/wRY+U5fVlVRDVEFZg=="
 ---

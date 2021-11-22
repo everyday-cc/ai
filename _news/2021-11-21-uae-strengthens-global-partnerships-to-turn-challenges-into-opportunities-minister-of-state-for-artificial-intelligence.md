@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How do you scale AI in Healthcare?"
+    excerpt: "Sunny Dosanjh, Director lead for Deloitte’s Healthcare AI and Data team, explores the three key aspects in scaling AI in healthcare"
+    publishedDateTime: 2021-11-22T16:47:00Z
+    webUrl: "https://www.openaccessgovernment.org/how-do-you-scale-ai-in-healthcare/124827/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 54
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/11/dreamstime_xxl_163033011-scaled.jpg"
+        width: 2000
+        height: 1108
+        isCached: true
 
 secured: "FEaC2qta0UTXildmXuWs8ISUtXSHyHkjsNH+tvkBp5zfoR6xdyKe7SdC2t8DQbcsB6m/cu+dPkIwDGq/OyBRNXLmxN414XUIdnWFs7bwGDi2aSdcyNy1J4ePgsGD68pAyRBGB4+1qtkAInGQdy0TBA3kYeNbtvPu9MeXgEMF3QBMNl+BN7JGh4H3jYvB+DrZvnwiWWTllT0UyztY0CEhiZWqT/usYVaMxJWzd+WoyoA/qYjqFKUDL6ddYvGef5zuhNkKO200ciaTNJmK22pGRj0DnMhKdSfpK+RDSPX0YxZmDYIbULzj6JDO5VqA9CGF0ifpHagFo+4vMv9j8ZvNyBCHh9kCFBiT9mQt0ztjxPL1OmbYNxOReTiOKAI5ljX6Ph9xCj8uWwXGCMsnzLYXYM+ztNHvgQzvgG90vQ09KXapGC7jWIqDtf3Otbde/G+drqZ1seuqH/BYgcI+zvJ8WQWb4J1An6nIPgvUzi8v++P3luK7bGVqBCRKvVxBtuJi3NZlFRGS26tKNEOHZghRpA==;A8kbEpkz5FJbO93+SUD1Ag=="
 ---

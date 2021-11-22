@@ -1,24 +1,21 @@
 ---
 category: news
 title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
-excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding. LifeVo"
-publishedDateTime: 2021-11-22T13:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lifevoxel-ai-raises-5-million-seed-round-for-its-ai-diagnostic-visualization-platform-1030994765"
-webUrl: "https://markets.businessinsider.com/news/stocks/lifevoxel-ai-raises-5-million-seed-round-for-its-ai-diagnostic-visualization-platform-1030994765"
+excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding."
+publishedDateTime: 2021-11-22T12:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/lifevoxelai-raises-5-million-seed-round-for-its-ai-diagnostic-visualization-platform-301429314.html"
+webUrl: "https://www.prnewswire.com/news-releases/lifevoxelai-raises-5-million-seed-round-for-its-ai-diagnostic-visualization-platform-301429314.html"
 type: article
-quality: 39
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Hardware
   - AI
 
 related:
@@ -63,7 +60,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "The Briefing: Deliverr Bags $250M, Jina AI Lands $30M, And More"
+    excerpt: "Berlin-based Jina AI, a startup focused on open-source neural search, announced that it raised $30 million in a Series A funding round led by Canaan Partners . Founded in 2020, the company has raised a total of $39 million to date."
+    publishedDateTime: 2021-11-22T13:48:00Z
+    webUrl: "https://news.crunchbase.com/news/briefing-11-22-21/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2021/09/The_Briefing-rs.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
-secured: "DicPVZGSmY4cWNZ72YWfK595oFXWA37umBlbMU9PGDriWMEkVxMknXW+XsCVB7aISFnPsHkveli+1uaE8sv/JEcSVIM92Zww7nlghNhSBuTTurmeqkWm2ZoBOIp+VquhfQ+cPqgE0LvGsisTFOExzyE4RQy68GaT7/Q7buSwiB/DWnbhRoNRropD9DS253E1uFcr/88OugbRSIZsK7OULg0ovHayHZf2RnNnpQ/XPt9zOXODVhvAbfE00sUIRFCHfUnMOpR6z8DkjGzlm/tg0yWTdaW4BvbwmYkhE2z7BAOW45IOxo4pIynqEtrluUzADxzf3v3Qv5t0M1gRkOaJpFoQnb0JjCSp2gnKmNO0Dvs=;kggrArbyd1kAi7mC2FjbfQ=="
+secured: "we+qVNvx2t5CjFSU7c4EbpuABvUnIo8R3U11Deo8KFnTlBm5AveISHVDShqtY7P4LxyRc85dnWfsmnix6aQ9OrF7DGDIo+xvji5jOpXlipoYarWK3Fv1U04Ppypf7o0Hdu1ankikXSQoT69zhO2WBVylc1NEkM8QbW+29UeHMOff6pvy3lol8SLu0Dcb/3BpPwzn7YeBbJw8S2O8ayryxfH2GyqkjYDiBgNM7Er6Lv+CTZ7wmhPbUBp+11qA4Au8uXwQS76Hm5pvg5FqFWz3qjqVrkHbfqJx/+6iqQfAaaMHs9fFSi8vfUJIfTeK8YcaAwwpQ4bKKogfxIrrcRZlFA1z6O+4yueBZu5Bt+qbekA=;x5lNMmsZKKLu5qcAkDKTWg=="
 ---
 

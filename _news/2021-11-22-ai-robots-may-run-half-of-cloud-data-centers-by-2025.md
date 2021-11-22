@@ -55,6 +55,20 @@ related:
         width: 870
         height: 597
         isCached: true
+  - title: "Epic bets on Hype’s AI animation approach"
+    excerpt: "The prodco will use the grant to automate its pipeline and invest in artificial intelligence for new show Kaia's Discoveries, says Gabriel Garcia."
+    publishedDateTime: 2021-11-22T16:56:00Z
+    webUrl: "https://kidscreen.com/2021/11/22/epic-bets-on-hypes-ai-animation-approach/"
+    type: article
+    provider:
+      name: Kidscreen
+      domain: kidscreen.com
+    quality: 37
+    images:
+      - url: "https://cdn.kidscreen.com/wp/wp-content/uploads/2021/11/Kaias-Discoveries-Hype-Animation.jpg?53c0ff"
+        width: 680
+        height: 510
+        isCached: true
 
 secured: "JyYndbE06Y83WY9eqP3AEc5pR7ocVfIw4WsYslGDqMBvheFY/v9lKya9FKU0DGXzBdg8LTPPoK6h0aosFvzw4u+zRHPsITZVAgbiP9dDtQKhBVeh5nynJyhlZbgYyf3FINhizxm92vDcpHe09uxeg44U0BTt/7Iu9lh6rb+zQCkJFy+JvP+JqijeLfukHCLiGyiGOLNIyDay9i2X5XgmHoE4GbSFMwz8j+FYkT4/Wye6iIigQpnqdPxa/ooVn86su3gPYPenYT2Gd2GiopTvm1/0z+WVbrh2J6578+LkC3ojfevmmkBLbsIxzWTqaeImYmYTkBy82+8CdKPEZJr0PmRJJ12g4hB/bhLzj4HtLRoGyMH1lOy5Px6skT4nqGU0Pq5ebSFBktWS/NazHS6etjAXUABVzAxh+HBy4aMAYt4CpgC6Z/6dP9UnV8K3nSzej8nGNSkEim02j6AVrBEE2MmKh5GqxWYHTSdUzMiVSgogwAGYJhHPyVWQIBABEG5oein8grVNg5dq0fyrPydBJA==;diNhmyWVr24ZoHxd7/pU1g=="
 ---
