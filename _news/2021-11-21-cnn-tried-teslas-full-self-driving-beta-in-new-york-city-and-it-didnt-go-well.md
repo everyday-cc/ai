@@ -37,6 +37,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tesla releases new Full Self-Driving Beta 10.5 update with interesting new features"
+    excerpt: "Tesla has started pushing a new Full Self-Driving Beta software update (10.5) to the fleet this weekend. It includes some interesting new features based on the release notes, which you can find below."
+    publishedDateTime: 2021-11-22T11:11:00Z
+    webUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/"
+    ampWebUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
+    excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
+    publishedDateTime: 2021-11-19T15:37:00Z
+    webUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
+    ampWebUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+    cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+    type: article
+    provider:
+      name: Silicon Valley
+      domain: siliconvalley.com
+    quality: 59
+    images:
+      - url: "https://www.siliconvalley.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
     excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
     publishedDateTime: 2021-11-19T21:20:00Z
@@ -68,20 +100,6 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2021/11/tesla-autodrive-cnn-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
-    excerpt: "\"text/javascript\" src=\" data-newsource-publisher=\"853\" data-player-data=\"e800453986f268ba75724ad1a453c9b\" data-max-width=\"auto\" data-autoplay=\"1\" data-player-type=\"1010\" data-embed-type=\"3020\">When a dozen small children crossed in front of our Tesla with “full self-driving,"
-    publishedDateTime: 2021-11-18T16:18:00Z
-    webUrl: "https://www.channel3000.com/i/we-tried-teslas-full-self-driving-heres-what-happened-2/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/11/o/t/ec43b8c8a56fa00e3a94d72328c68aba7ae9c626.jpg"
-        width: 576
-        height: 324
         isCached: true
 
 secured: "+QSV7WQHYNbZdW/GzUvAk/B4YmpVDkvE/adfAt5JpgH9mgvnNmmwOTQ/PRe+Zn7HKX3zWqTB1UMP3NVE8PhHV8YxzMkkdTLD5VOWhOgGYEJaf34IU94DNjrYbLD965hEhRvd1ABLxeSfVxkWZ2xvtqiqh7EOV1Cz977D8kHriCt+WcF0LyhpcTZ6FsGy7Y0CaYZZ0VF0l7UqF85WIytn3gM9r9/OQem/ykPLvLVszo5yDQCk5R4uNdtQJH6vZiJ4LkL+hfBMCJ/OYSwxLEOQl+x8BN1Ga5V4W/OTUkE2wRa+gHL1oouAVcboaSyLs6UahlHJW6MqYcxtmM4/nAc83gahNFnIt3OZOyBoy+hKiH888hqG0K4nOruVApUjMmeaL86vfQyGBggCRmrEjMRY0rIF1v4cr/MhRb1L/G8obQY40wTKSSz/C/TrbsPtdCWIiX+Ay20kMM6oK8XYsYFrd+iptAdmM42WFj/X9PprfXhtVkOZZJGZA/NDPZTsDx62SsYA0U24QUwjXuuSLWociw==;wIAgJFbQegkvbS1jduU6kw=="

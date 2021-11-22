@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/chain-custom-amazon-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/chain-custom-amazon-sagemaker-ground-truth-jobs-for-image-processing/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: AWS
@@ -23,20 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Use Amazon SageMaker ACK Operators to train and deploy machine learning models"
-    excerpt: "AWS recently released the new Amazon SageMaker Operators for Kubernetes using the AWS Controllers for Kubernetes (ACK). ACK is a framework for building Kubernetes custom controllers, where each controller communicates with an AWS service API. These controllers allow Kubernetes users to provision AWS"
-    publishedDateTime: 2021-11-17T19:43:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 117
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/13/4371-Architecture.jpg"
-        width: 801
-        height: 474
-        isCached: true
   - title: "Accelerate data preparation using Amazon SageMaker Data Wrangler for diabetic patient readmission prediction"
     excerpt: "Patient readmission to hospital after prior visits for the same disease results in an additional burden on healthcare providers, the health system, and patients. Machine learning (ML) models, if built and trained properly, can help understand reasons for readmission, and predict readmission accurately."
     publishedDateTime: 2021-11-17T22:45:10Z

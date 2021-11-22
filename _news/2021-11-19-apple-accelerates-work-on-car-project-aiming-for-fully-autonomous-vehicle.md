@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/apple-accelerates-work-on-
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle"
 type: article
 quality: 135
-heat: 296
+heat: 295
 published: true
 
 provider:

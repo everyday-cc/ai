@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft open-sources SynapseML for developing AI pipelines"
-    excerpt: "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines."
-    publishedDateTime: 2021-11-17T20:50:00Z
-    webUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/"
-    ampWebUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 108
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
-        width: 1200
-        height: 593
-        isCached: true
   - title: "It's Official. Microsoft Will Build Advanced Chips for the US Military"
     excerpt: "The US National Security Technology Accelerator (NSTXL) announced on Thursday that it has chosen Microsoft to build advanced chips for the military. \"Historically, the security requirements associated with developing microelectronics have limited the U."
     publishedDateTime: 2021-11-21T11:13:00Z
@@ -74,6 +58,20 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 49
+  - title: "ZF to digitise production processes with help of Microsoft"
+    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
+    publishedDateTime: 2021-11-18T16:02:00Z
+    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
+        width: 940
+        height: 443
+        isCached: true
 
 secured: "o4BzkipT1uLYfi0FAzptYpjtwxDdoWkEE2I/RW5r4ZCs4SgAuD8dknF23QNGPvwqk4oopVBZvDui9KRK3ClTIpouMn5lL+bSoRCF42r//ZG7dRUmOEWG3mDymmOgZLEm+rJygtCZ5mVUjBGXCn4PKaMbg1wWgHKuOhqJrupGAgDjWC2v83zscC2THaUORKU3V3zOx3nW65FoIlsehkKTfubFfN12OK8mh5Vam/NSSk6Yxh0gb0qFEpwbe60Y/yoNsmH28kbWKlR2Zm1PhXxENPND1brJ4lsoUjI5uhuQ6vYJo50C36DF6mzw9z85mlchPtR/xZ3WEap+XkISz+E1hpMLcEeoA55RJic6vDaeN7PoAVA1CxaMaEi8eKVjqyUUrQiG5kO6cn4vWbBez+O99fY8ZA+RgBzf7ntGWdhrFFmxPHgpDRbCSp+0r5oXCidRUwOfOW7Vha+A4TwPaWmWYMmoNunOHgMjMGSzVSXF0H3XuKnbx/Np4VOZIp5cF/kMDEa1F5zsu7+GRnVBRMha+Q==;RfdIhX0fmoEuI3R0fp9X8A=="
 ---

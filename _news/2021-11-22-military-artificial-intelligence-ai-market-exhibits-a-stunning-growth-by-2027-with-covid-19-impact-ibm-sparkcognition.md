@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2469744/military-artificial-intelligence-ai
 ampWebUrl: "https://www.openpr.com/amp/2469744/military-artificial-intelligence-ai-market-exhibits"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469744/military-artificial-intelligence-ai-market-exhibits"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.openpr.com/U/b/Ub22682399_g.jpg"
@@ -25,6 +26,6 @@ images:
     height: 457
     isCached: true
 
-secured: "1B/tTEAOBT1mzhjDxyh+YSXsKlrt/gNAziAvLMDjwpm7QTX/GMa/tpDpunsTfEHjVHmghWHPBWNqRCu4+yIlMt2LQdh8xvpG75e9Q20qAOuA9c/vTTf4XGhZqn86ZfAsGzOnu+1CjII9qYN+2HerS1P89J2F8o8MrnJ9VHFD9m7CGdIsu4+JDiBHmzgEnxjLBLEX6GkYMD3q8bBIEbOAO4FzrNBFIC8gY4QhA4uBZ65xtCqwf+Ta16bbh8eb7Kw2+xwRSYZpovk3bq+OM4VeSXHHIpy5VTFvwwus4saLxtA7l39fVx0htDPS568ox+ldqafyIgA0ZHvaI1JJWqxlsCzOSXPNeGYr3UVOTGE8xkY=;KqfGwY6zuwdFrBFIwVU5VA=="
+secured: "2anEbUlmZ6iOr9IAVaEGq7GTZGhuzfpH/YOsqW87lbD4NaDQxo5BT7b+3ebRyqsOFSlOlcuBK4YvYSHPldv4xrLzKw6EBfizIZGKXj1euJ9De4+DK6Ssoyxqk7V43CfnxHKrHkYM5T8rW3RKkRXYUOVdqHhDXMcQh+afjcssXHLbN/K99Lg8TgtwQyq5GEkzrggDiO09XtFTN4gQ1Va5vwx6xcbl3+1PHcarM5t2yGhNaEoIcEHdtXu4UxJKLEunXYrslZKxv/Y/ZVm4it89pyvVmR+xV5e857m7FjExyBwJlCUgghO7eK+tmhHvZ/9Z9UMD+RZL1xiEHY6dmUvOW6cE07K7/2WTWLvTaOkBn6iEQN8PXY7FDvEtJTVMj2C1xunbeg4nvi2kuq26dGqNnmtwYJUDfFMKFHDoZVJnk74GlKYvgJWA9YMhWJCaDzj0+YrkmumcpEefGB58maTXv1V2srcKA5FSkNoaqfdqL8HziIKoBZe8DGOyGkO9oT4Bv7ueWuc9FOllz/qIj/dgzw==;x4+5UamDIoqHUVFDG7V5NA=="
 ---
 

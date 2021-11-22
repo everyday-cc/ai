@@ -118,6 +118,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI in Drug Discovery Market 2021 Development Status and Future Statistics by 2031"
+    excerpt: "AI in Drug Discovery Market Introduction According to the report the global AI in drug discovery market was valued at US 0 35 Bn in 2020 and is projected to expand at a CAGR of 36 1 from 2021 to"
+    publishedDateTime: 2021-11-22T11:46:00Z
+    webUrl: "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
+    ampWebUrl: "https://www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub22142087_g.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Mobile Artificial Intelligence (AI) Market Size to Reach $84.80 Billion by 2030"
     excerpt: "PORTLAND, OREGON, UNITED STATES, November 18, 2021 /EINPresswire.com / -- Allied Market Research published a new report, titled, \"Mobile Artificial Intelligence (AI) Market by Technology Node (20–28nm,"
     publishedDateTime: 2021-11-19T05:44:00Z

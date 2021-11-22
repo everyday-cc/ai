@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/microsoft-will-build-advanced
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Interesting Engineering
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft open-sources SynapseML for developing AI pipelines"
-    excerpt: "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines."
-    publishedDateTime: 2021-11-17T20:50:00Z
-    webUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/"
-    ampWebUrl: "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 108
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
-        width: 1200
-        height: 593
-        isCached: true
   - title: "Microsoft's Recent AI News"
     excerpt: "Microsoft has built itself up into a Cloud and Corporate Metaverse leader in recent years and that's staring to really show in its artificial intelligence ambitions. We have to give credit where it is"
     publishedDateTime: 2021-11-20T03:53:00Z
@@ -66,6 +50,20 @@ related:
       name: ChannelVision Magazine
       domain: channelvisionmag.com
     quality: 49
+  - title: "ZF to digitise production processes with help of Microsoft"
+    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
+    publishedDateTime: 2021-11-18T16:02:00Z
+    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "Microsoft Azure launches space data and technology team at Lot Fourteen"
     excerpt: "South Australia has firmly established itself as the centre of gravity for the country’s burgeoning space sector, and now yet another global giant has touched down in Adelaide, with Microsoft launching its space data and technology team at Lot Fourteen in September this year."
     publishedDateTime: 2021-11-18T14:37:00Z

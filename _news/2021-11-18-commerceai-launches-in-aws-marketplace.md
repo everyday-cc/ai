@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Associated Press
@@ -39,6 +39,15 @@ related:
         width: 512
         height: 510
         isCached: true
+  - title: "LR launches industry-first Artificial Intelligence Register."
+    excerpt: "Lloyd's Register (LR) has launched an Artificial Intelligence (AI) Register, a standardised digital register of LR certified AI providers and solutions, a first of its kind for the maritime industry."
+    publishedDateTime: 2021-11-22T11:43:00Z
+    webUrl: "https://www.publicnow.com/view/AA2CE3FAE272E3567C30BA0F73F5B9EA403B3F98"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
 secured: "TF//uTV01cn0rRddm5iMg1pNbpGda67eduAXGjjwWDY6ur++hNSgjFrbWPeAmiZz6T7QxKPtLlopVSI3VY6DZ4C1t8R1o/4zDBjXf/kB5pcBLKErq1g4XMJEl+GCNnsFRNhkT/60EDviFcbmwns3aI50ks2EizhBrVJT4/0UeaGzB8KSnXWvXm40kIl4HFfSrtVLG74h15Bio7Uw5IiHXbSctIGsucnwd4ybu+Wl+5QGIKPA8ZDEdrNBi7rCsk6FPyRh/RrltCMtBbjpVjyxYDeaCNUS6hNv7vjMf0aAQKaEmD659rtThj1bawW+/8b33hmCrE5VXgrjR9wXBif8H4dDHf3ZTPW64HRHr+5rTns=;7tIZW3GNGqsOrM0YxJX5Ug=="
 ---

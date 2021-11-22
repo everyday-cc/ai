@@ -22,7 +22,7 @@ related:
   - title: "ABB invests in 3D navigation start-up to guide future AMRs"
     excerpt: "ABB is taking a stake in a Swiss start-up that has developed a technology that allows mobile robots to navigate autonomously through complex,"
     publishedDateTime: 2021-11-22T09:55:00Z
-    webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6887/ABB_invests_in_3D_navigation_start-up_to_guide_future_AMRs.html"
+    webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6887/"
     type: article
     provider:
       name: drivesncontrols.com

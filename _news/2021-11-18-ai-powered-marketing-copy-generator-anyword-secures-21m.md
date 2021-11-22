@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/"
 type: article
 quality: 204
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/09/41625afd-8ff1-4cec-b654-c0fc3e35ad58-e1568994939289.png?w=1200&strip=all"
         width: 1200
         height: 628
+        isCached: true
+  - title: "AI-powered music platform Aimi raises $20m in Series B funding round"
+    excerpt: "AI-Powered Music Platform Aimi has raised $20 million in a Series B round of funding. The fund raise was led by entertainment and media-focused investment firm Great Mountain Partners, which also holds what it says is “a significant stake” in Concord."
+    publishedDateTime: 2021-11-22T11:42:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/ai-powered-music-platform-aimi-raises-20m-in-series-b-funding-round/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 37
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2021/11/Edward_Balassanian_by_Ismael_Quintanilla_III-e1637584085911.jpeg"
+        width: 1537
+        height: 864
         isCached: true
 
 secured: "EBZdUkW3N24wQbI7BRbPNHM0b34N8MEFnVam3Yai3JNU4hFeAPsMaxiQtxeAjWLd+RyFxf6HJdXjs8fiKcuaCDENhR0Lm0+WxJOC4h5X9JfNoIt6Mzhfm59A6+UFOCkKFj8xJ8XKlxMhXu7Ocw/tfYjdZ/9hT37kLe7MGZjcfx69w37rJHw/iQwVlOYRIMXuwcj9Ao5YbrxrpWY53shRIlNwqs6FKRBW0iztIL/ORYQ4OCnqDoIiLkn09vCuUS/60aBZ3MgJ53pnLEdgdSWd2lPm2IolXRgjpRjLw46cSAuj9WfuWJVTHnbWVYahjRE6d/8F3wzk9zB1Xeov/VEbn79Ezdc57fINjkhkpbJyRrq8J5+siIyYsiJv6iMY7hDtpmMPrbdhotaglDkXbViQqdBRTn832JhM0F7w2XdSF93od6Fz9mrXoMCNShY2VzAtBuFFTxG4gyjcLjBrwmGt+LjMk9jQCIHPeAJkuVro8P/SWXGdWqJ5K8C3Uxmm3VWWC2u9ulk+b2d3UcZosY4XcmECiaAU9FCe+d2tCnAeQFc=;jYy5XoYWSsOAwubnSMCcGA=="

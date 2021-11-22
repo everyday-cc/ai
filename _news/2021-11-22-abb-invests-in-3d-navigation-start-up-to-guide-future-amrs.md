@@ -3,8 +3,8 @@ category: news
 title: "ABB invests in 3D navigation start-up to guide future AMRs"
 excerpt: "ABB is taking a stake in a Swiss start-up that has developed a technology that allows mobile robots to navigate autonomously through complex,"
 publishedDateTime: 2021-11-22T09:55:00Z
-originalUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6887/ABB_invests_in_3D_navigation_start-up_to_guide_future_AMRs.html"
-webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6887/ABB_invests_in_3D_navigation_start-up_to_guide_future_AMRs.html"
+originalUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6887/"
+webUrl: "https://drivesncontrols.com/news/fullstory.php/aid/6887/"
 type: article
 quality: 24
 heat: 24
@@ -35,6 +35,6 @@ related:
       domain: roboticstomorrow.com
     quality: 11
 
-secured: "lcnytc8nxq7LRkaFhd6FER977JsmLCbTLF5Iq9Tz494L6KIgoFTWyF/TVu7l5JiG0gtGPi1S56Dv1AEoKWG8Yf3z+jRLrivvT9SSpMZAF+3iUif0YmKIR/zom0leCeH5bbhaAkzG8AvytozlNAAxi5+GBQQzcIl5Z/pd5G60t1D0S2RyaDMAohHVcK5IY+8xTOumCuBZiCTgxwcDSaOYPsaCyRGVCoxA/wsqRkTH+q+Tax/hqAGpF1OXetKk4zUhoChtuwSUSahr6D2VF5vUar8i7BM5tpIgmEYW8TBimCFqDz1CtHyfkIGGHid4SFvP0EOZrPYsJM6We7kasDKrba9Q/OJmTV1euEWNVGfh7G4=;vnIr1aYuyoC2LClGyCoVAQ=="
+secured: "Rs0SWFjBwUd24MXTs8X0h17UmKzADdl/utocTMCQoqwXYgMVrWtHUt+HEEuMkhNJ+MGenko6M+FbEnF+STRuRsKM7VnSQgLgvzQJMfMzUz3jX5GXtJ7/jWdPXDJyoNGGx3xp4AXlvJA3Wh1A3SQl5SulWJZ2/5fbFqaGYNgcUX5jP9PVPgVzpqcev+bcDPLlhzgdeX7fHn9Gau2lBSgFBqfgEqGuuyxP3ZG9Nrpc1/Q95RkVTS6YOiUx8J6M/F0eV0fAqwVbclrr1MSPfD/3JqjP9TM+4OnojEDXNOn7bfdCjSNrgca4O2xO2UdPpHiuhG8bYIY3G+ifayCFerAAEyvUUlm1E1mp4vH3EAFt1x8=;TIwQtfDTBI2YCUAamXy3+Q=="
 ---
 

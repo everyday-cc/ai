@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Use Amazon SageMaker ACK Operators to train and deploy machine learning models"
-    excerpt: "AWS recently released the new Amazon SageMaker Operators for Kubernetes using the AWS Controllers for Kubernetes (ACK). ACK is a framework for building Kubernetes custom controllers, where each controller communicates with an AWS service API. These controllers allow Kubernetes users to provision AWS"
-    publishedDateTime: 2021-11-17T19:43:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 117
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/13/4371-Architecture.jpg"
-        width: 801
-        height: 474
-        isCached: true
   - title: "Chain custom Amazon SageMaker Ground Truth jobs for image processing"
     excerpt: "Amazon SageMaker Ground Truth supports many different types of labeling jobs, including several image-based labeling workflows like image-level labels, bounding box-specific labels, or pixel-level labeling. For situations not covered by these standard approaches, Ground Truth also supports custom image-based"
     publishedDateTime: 2021-11-18T22:27:14Z

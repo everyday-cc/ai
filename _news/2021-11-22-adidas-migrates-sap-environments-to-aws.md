@@ -30,6 +30,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
+  - title: "AWS to be Cloud Provider for adidas SAP Workloads"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. (AMZN) company, has been selected as the preferred cloud provider for SAP workloads by adidas AG, one of"
+    publishedDateTime: 2021-11-22T11:27:00Z
+    webUrl: "https://www.smarteranalyst.com/yahoo/aws-to-be-cloud-provider-for-adidas-sap-workloads/"
+    ampWebUrl: "https://www.smarteranalyst.com/yahoo/aws-to-be-cloud-provider-for-adidas-sap-workloads/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/aws-to-be-cloud-provider-for-adidas-sap-workloads/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 59
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/Amazon-AWS-750x406-1.jpg"
+        width: 750
+        height: 406
+        isCached: true
 
 secured: "cRB9pz7IuqDhcARIISu7A5CJvYj4ov1xjRogqtFBQ3kQ+RxP5PTlSxgiaDP5aF7Nsua6Mr7z6960bd1Ci5EjXC4mdbalkFV1KeHQCj1Vj8LOyAGFZVyZiX3ESfmHqxG+56wotTERzNQB6StaG/130TpiN71tC3Pdmg75DIUCk3o56gAJJnsfOgY7+iGUYkLH87VhZdPDXaZym1+0fl2WB0wzwrkB5ghxdavaoKd1H7H/jtQ8jRQ7hcZSMUHZ2fMHrZ4sl0UloQMyT1nBqTFASod2ndm6QLcMskpR2ztPaYyQAlmjtUkxG87Q8xQZYkYjbfK4ipB3ycC4ziEGZM9aoHByKA2S5AW433wS2kw1B6kJNDY9X+Xeg1Wxp50R54rGaqDGfrXl9/19fadzLUjF9mAwzVshNKjKCKZFwRCg8FM31LaT3hbSvejROrilIuW1F2EYzFqBzE2LcCJVy4o1RNMnJtFeXdVMZq7ZQH8HA3oMpmDCYiHKfbgzhdyaZTfyNAYvYmL7fa09chmgan2dJw==;S32x+QsLqqVZvWfr7uIUVw=="
 ---

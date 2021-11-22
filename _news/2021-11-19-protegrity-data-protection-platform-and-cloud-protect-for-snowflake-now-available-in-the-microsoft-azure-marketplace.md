@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "ZF to digitise production processes with help of Microsoft"
-    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
-    publishedDateTime: 2021-11-18T16:02:00Z
-    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
+  - title: "Togal.ai Integration Now Available on the Procore Marketplace"
+    excerpt: "Togal.ai is now available for use with the Procore’s construction management software platform. Togal.ai’s software, which automates the estimating process in construction, is now available for use with the Procore’s construction management platform."
+    publishedDateTime: 2021-11-18T15:14:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21903465/togalai-togalai-integration-now-available-on-the-procore-marketplace"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 37
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
-        width: 940
-        height: 443
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/11/16x9/Togal.AI_product_screen.61966c0953344.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
     excerpt: "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."

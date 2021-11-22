@@ -113,6 +113,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI in Drug Discovery Market 2021 Development Status and Future Statistics by 2031"
+    excerpt: "AI in Drug Discovery Market Introduction According to the report the global AI in drug discovery market was valued at US 0 35 Bn in 2020 and is projected to expand at a CAGR of 36 1 from 2021 to"
+    publishedDateTime: 2021-11-22T11:46:00Z
+    webUrl: "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
+    ampWebUrl: "https://www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub22142087_g.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Trending Report on AI and Operations Automation in 5G Networks Market, 2021-2026"
     excerpt: "Portland United States Big Market Research newly added a research report on the AI and Operations Automation in 5G Networks Market which represents a study for the period from 2021 to 2026 The research study provides a near look at"
     publishedDateTime: 2021-11-22T03:50:00Z

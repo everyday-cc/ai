@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radica
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Ryan Bertrand – defender to fintech entrepreneur"
+    excerpt: "Leicester City left-back Ryan Bertrand co-founded his own forex currency trading app aimed at retail traders back in 2015."
+    publishedDateTime: 2021-11-22T11:10:00Z
+    webUrl: "https://smallbusiness.co.uk/ryan-bertrand-2558326/"
+    type: article
+    provider:
+      name: Small Business
+      domain: smallbusiness.co.uk
+    quality: 24
+    images:
+      - url: "https://s37564.pcdn.co/wp-content/uploads/2021/11/Ryan-Bertrand_landscape_v2.jpg.optimal.jpg"
+        width: 868
+        height: 489
+        isCached: true
 
 secured: "SNdnnRBl43GykoJb5FaFn0zPuf2uWFObbMFoocxNweIjSCKlFuOesGVQsnYxqQs6IYom8JZFO5tft5jHXMfGyB8srWdntPhd1gScZmKMXeAX3KetZjvEEtcz+26wQjn3ha+2JnzxbL3YWMz3KfsOJ1v4JnxcUPKZRL4BJVa2VhptT0UOBTJaWzG9hRgYT6MbjWa2j6W0wsK807SXb5vLPBlnBpz9rX+poMrmMAXdmL6P57PM20/cBtPoRFGdd8UllbF7Z/Nfsgwl16keauQypoVoVfBi0ayrby/IAKT6i7j/XOuo7tCKu/iSqyuYA4WIcT6V3qILsJVXqGqiLxoSy82XpQDIem0bzbnk+ijyKjgoAzWSEO77T+EwT48slHJYWoQ+73fa44dezGiDIlDpBb8QSZVJ7TY6BllC4SZqebydpIpHyb56xgEr4+dWjO4EGMSJEghA4eI7TIzB4O5or30NHKPS+KQENgOtkEtd86ZOwOOGQUo9btrhVBmzcF11Hfmi9keB/7v9GjWs+jX+dA==;UHFbAuT01s0evGHab4Kq7Q=="
 ---
