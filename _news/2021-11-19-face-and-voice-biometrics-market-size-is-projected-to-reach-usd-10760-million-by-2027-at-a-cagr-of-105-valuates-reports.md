@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR"
-    excerpt: "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which"
-    publishedDateTime: 2021-11-17T08:37:00Z
-    webUrl: "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
-    ampWebUrl: "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub17570915_g.jpg"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "Voice and Speech Recognition Market Expanding at a CAGR of 19.5% During 2021-2026"
-    excerpt: "Voice and Speech Recognition Market The voice and speech recognition market reached a value of US$ 9.9 Billion in 2020. IMARC Group expect"
-    publishedDateTime: 2021-11-17T11:42:00Z
-    webUrl: "https://menafn.com/1103191302/Voice-and-Speech-Recognition-Market-Expanding-at-a-CAGR-of-195-During-2021-2026"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market To Reach USD 4,799.6 Million By 2028"
+    excerpt: "Reports And Data The increasing use of connected devices in the healthcare sector. NEW YORK, NY, UNITED STATES, November 19, 2021 /"
+    publishedDateTime: 2021-11-19T06:55:00Z
+    webUrl: "https://menafn.com/1103203315/Natural-Language-Processing-NLP-in-Healthcare-and-Life-Sciences-Market-To-Reach-USD-47996-Million-By-2028"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 34
+    quality: 52
     images:
-      - url: "https://menafn.com/updates/pr/2021-11/17/EP_3e9f6image_story.jpeg"
-        width: 1000
-        height: 667
+      - url: "https://menafn.com/updates/pr/2021-11/19/EP_9c3dbimage_story.jpeg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "w/S7X4ook+YocktHwPFz1YZ/U+JD6kg+4vl0B95GEXu5bCOWJ4tbWjh4zk3t3iKS1Ef86iMBKSfOhpJGziGSPfyvBq6CQaDs7dsPFEeW2mf7Idg8o0rfiyzQTTx0BGsjhGiyV1tg9XvT0n1ssqLcVg39QE+HJRcRTfJ5TGfVN6/BUc5OtZfmlDO1KaQpfUKjS0HnVd8VVF4YgsfcSRNe+imxFuwKCaNlc32cJBYR4VjdLWrnb0fvoxvBWTyP/z4fIz1bt1qP3dD2IvB4/zTwXrZMY7kWRp++vPvYY1bkutFzxAg5PP0aiAnP149CzOGlPbk2JCY1qnkcm3Ah7aiV4A0dvIR7G/jfVEEQk+CdcRM=;c4tZXNMXtyZszH5jFQlqig=="

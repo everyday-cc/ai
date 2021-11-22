@@ -62,15 +62,6 @@ related:
       name: academy
       domain: newswit.com
     quality: 4
-  - title: "Times Professional Learning partners with Nuvepro Hands-on Labs to Enhance its Digital Skills Training"
-    excerpt: "Nuvepro, the leader in Hands-On Labs solution, today announced that Times Professional Learning (TPL), an education initiative by The Times of India Group, has selected Nuvepro to provide the real-world practice environment to the TPL learners to enhance their digital skills."
-    publishedDateTime: 2021-11-17T07:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/17/9494146.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "dl2Mq3fDbL8vuZv07vS5MeYbs/gN+KOMIzFVtJPCav6cUgeV3VSqpzCqnGe7/ENPjIgEFRNxVjp0asKyxxlQ++T3lNEI3Vit2a3cTnZh+mqq5939M5srUBcJ5vwllvspCxjEAJod3ihPZmbWfh1MQmmKEUUD0lt6PbWmr2juK0GmAl52l36eeQ3bBdQ3aHTbPXj7fEZgHBIiBD8HdRui0LO+5k86c7lzTSCyj9Kf4SeT2uP0O8n5mOxljO6uBRcafkrGHu75VCM0YTkOf5ENK7ueeenFqTvFwPeopedzJiVKvE4xeie/Lep90/lmAroFgJKqATDAmIjT8LTsvtjrZLwlWwVfH9GBpAIpJiazHcbauivT91F4r8Q/xik6P1SSh6hgshsGal//ipQbSTHWZN+W5iBBPzXu7lue3sdzv2atOt+VHMiBEM/1pS9NEnFskQPYtwIgCe3+gK/m1pVUEQTbxrIJfpZUNJl7i9V9ReJqmEWf6VkV52E5fBzotqRRR7AnHEIziO9SQUW3fZvI8A==;suxeRTkOsyZbk0L2GTxcsA=="
 ---

@@ -511,7 +511,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -563,7 +563,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1131,21 +1131,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-17-darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year.md",
-      "title": "Darktrace aims to expand into ‘proactive’ security AI by end of year",
-      "excerpt": "Darktrace, a provider of security powered by artificial intelligence, says it plans to expand into AI-based attack prevention by year's end.",
+      "path": "_news/2021-11-17-ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge.md",
+      "title": "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge",
+      "excerpt": "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge-827720479.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge-827720479.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/darktrace.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://i1.ytimg.com/vi/aivIalSrqtE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1153,23 +1153,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/amp/",
-      "publishedDateTime": "2021-11-16T17:26:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T17:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1178,8 +1169,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Security"
+        "IBM AI",
+        "AI"
       ]
     }
   ],

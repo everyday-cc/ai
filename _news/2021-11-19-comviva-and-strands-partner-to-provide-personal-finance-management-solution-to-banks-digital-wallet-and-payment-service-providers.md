@@ -47,15 +47,6 @@ related:
         width: 1152
         height: 603
         isCached: true
-  - title: "Times Professional Learning partners with Nuvepro Hands-on Labs to Enhance its Digital Skills Training"
-    excerpt: "Nuvepro, the leader in Hands-On Labs solution, today announced that Times Professional Learning (TPL), an education initiative by The Times of India Group, has selected Nuvepro to provide the real-world practice environment to the TPL learners to enhance their digital skills."
-    publishedDateTime: 2021-11-17T07:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/17/9494146.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
   - title: "VoiceSage partners with Capital Platform to Provide Technology Services for their Platform for UK, European and International Clients."
     excerpt: "VoiceSage partners with Capital Platform to provide technology services for their platform for UK, European and International clients. With flagship sales in eight new countries, six global reseller partnerships,"
     publishedDateTime: 2021-11-17T16:28:00Z

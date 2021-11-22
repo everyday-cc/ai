@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-b
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm chips supply for BMW self-driving cars"
-    excerpt: "Qualcomm has made a major announcement regarding its new strategy to advance autonomous drive capabilities. Qualcomm and BMW have announced a new agreement to collaborate on the development of chips for future generations of driver-assistance and self-driving systems."
-    publishedDateTime: 2021-11-17T07:50:00Z
-    webUrl: "https://bestgamingpro.com/qualcomm-chips-supply-for-bmw-self-driving-cars/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 24
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Qualcomm-to-supply-chips-for-BMWs-self-driving-cars.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Qualcomm to make self-driving chips for BMW"
     excerpt: "Qualcomm Technologies, Inc. will build automotive semiconductors for BMW Group’s next generation of advanced driver assistance systems (ADAS) and self-driving platforms. BMW’s next-generation automated driving stack will be powered by the Snapdragon Ride vision system-on-chip (SoC),"
     publishedDateTime: 2021-11-17T13:39:00Z

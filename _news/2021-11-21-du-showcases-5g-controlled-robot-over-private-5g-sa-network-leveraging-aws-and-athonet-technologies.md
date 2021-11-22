@@ -42,6 +42,20 @@ related:
         width: 450
         height: 337
         isCached: true
+  - title: "du Demo 5G Controlled Robot over Private 5G SA Network with AWS and Athonet"
+    excerpt: "Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, powered by du’s 5G Private Network with Athonet’s cloud native 5G Standalone (5G SA) core network,"
+    publishedDateTime: 2021-11-22T00:51:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/21485-du-demo-5g-controlled-robot-over-private-5g-sa-network-with-aws-and-athonet"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 54
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/3c9de9f34cc7c89fc4bf6054bcc42366.jpg?t=20211122_004952"
+        width: 752
+        height: 408
+        isCached: true
   - title: "UAE - du Showcases 5G Controlled Robot Over Private 5G SA Network Leveraging AWS and Athonet Technologies"
     excerpt: "Abu Dhabi, 18th November, 2021:  du, from Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use cas"
     publishedDateTime: 2021-11-18T13:29:00Z

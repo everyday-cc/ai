@@ -23,22 +23,6 @@ images:
     height: 815
     isCached: true
 
-related:
-  - title: "Federated learning is a governance problem"
-    excerpt: "RegulAItion’s data science team take a moment to chat through why Governance is key to the application of Federated Learning. Federated learning is a powerful technological solution for preserving privacy and data integrity while developing AI models."
-    publishedDateTime: 2021-11-17T08:03:00Z
-    webUrl: "https://www.linkedin.com/pulse/federated-learning-governance-problem-regulaition"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE29b3LGgXqOA/article-cover_image-shrink_600_2000/0/1636683085451?e=1642636800&v=beta&t=IVVJNZ8A_1L-BBqg-j1ot_J6ml3zgNVl4Cq9DnRAfk8"
-        width: 800
-        height: 350
-        isCached: true
-
 secured: "CSpHTtPNmfI3Ib6l4MlkRG/wkT2b2wIl53cV2qAGrR29n9L9Y5xiR1oYwAdq0+9oy2TwMrwrfvJwBsVYbwMGBf2FAOCLcuymCRxoL0m9/4HahKHrtpikUs23E4WoCNmU6GUTZYxudYSsZlu5/0Wl36ymNCAvkdUkqAYOfctW3tTRoj2LFo77oRifMub3+G/mCqPfEDqSYBnKSIkqPOAXZ/p8VMPO4+bYws7NoeDDr5dEVWpwQCpMTt2v8eAIo8DHucuqiIcd88Ywb1jese7QuFLaZaljecGoHkpgQoW2F6AhqbkjVWk5I4Ny0Cr7T2P/qv6/5kPq46eEa6KZuQfiepyoUT+1ldFNgzSHy2TgypE=;6nmSS1t22PK8rGpiI+lVPQ=="
 ---
 

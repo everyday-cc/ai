@@ -9,7 +9,7 @@ ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
 cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,19 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "3 Fintech Stocks That Would Make Great Additions to Your Portfolio"
+    excerpt: "Fintech has been gaining steam lately due to innovations in the sector. Moreover, fintech usage has increased significantly over the past year. And because the industry has immense growth potential, we think fundamentally sound fintech stocks Sapiens International (SPNS),"
+    publishedDateTime: 2021-11-19T18:00:00Z
+    webUrl: "https://stocknews.com/news/spns-mitk-qiwi-3-fintech-stocks-that-would-make-great-additions-to-your/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
 
 secured: "cEq05Q+eZye+J4eNzScFH0wv1jGxcL7zJYmI5M6FjV7JUwVpP2uKmBNx6kn7aZbg50BH7vWdaTCiMddy8zF9xkONQCh5wnhCTt+gR9IgycJ5f28QbQqaVnOZhZUpouAxU1Vbh5T/V7BUkM64YyqEjKITZGPsVUGsGNuKB1skQIOaNN8LF0BGNlxEHKFz4wMNPZdaqaQpQq9oT532TU1xdafFA7bRhQhVs9voa70zAxTyp39COUjnndvPISHYbvLSuJDuwa6PzBFlyPEGryV0ZmZdTW+nHoeqgbVdGzprx/wXNRYPbHjCtfLOAIts7wNTpynpj8EsMsEdHBBPokE3SALW9yLW8b0m6xdfFhZPt1MfsYtWMUWKrbl9eCBAmyeBqt9I+SdXlwYrw+rv7BeElGcSX8CaZrGDBrP6q9jlI8aVgLc0n8oqo5AnryPX+csZ9uOcgbaNFP8uNTlIhMnZ0xT+mKMP65HsLUCLmjOjL3HxWgQHv+AcfSWXSLWVIHBa3eFJn/dPVSoN/pZW+HqFyA==;HWW7oYRC/GxTSuqZ5In5FQ=="
 ---

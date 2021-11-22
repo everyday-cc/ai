@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "South Korean face biometrics data-sharing scandal gets worse"
-    excerpt: "Privacy advocates had already expressed their criticism towards the surveillance project, which now seems to have a scope wider than previously realized."
-    publishedDateTime: 2021-11-17T18:01:00Z
-    webUrl: "https://www.biometricupdate.com/202111/south-korean-face-biometrics-data-sharing-scandal-gets-worse"
+  - title: "Voice and Speech Recognition Market Expanding at a CAGR of 19.5% During 2021-2026"
+    excerpt: "Voice and Speech Recognition Market The voice and speech recognition market reached a value of US$ 9.9 Billion in 2020. IMARC Group expect"
+    publishedDateTime: 2021-11-17T11:42:00Z
+    webUrl: "https://menafn.com/1103191302/Voice-and-Speech-Recognition-Market-Expanding-at-a-CAGR-of-195-During-2021-2026"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-  - title: "Assessments for image quality in face biometrics improving, new standard TBD"
-    excerpt: "The European Association for Biometrics held the three-day workshop on face image quality to explore key topics and themes relating to facial recognition."
-    publishedDateTime: 2021-11-19T19:24:00Z
-    webUrl: "https://www.biometricupdate.com/202111/assessments-for-image-quality-in-face-biometrics-improving-new-standard-tbd"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-  - title: "Toppan iDGate ranks among top 20 in face biometrics accuracy in NIST verification test"
-    excerpt: "Toppan iDGate face biometric verification algorithm has taken a top-20 spot in the National Institute of Standards and Technology’s FRVT 1:1."
-    publishedDateTime: 2021-11-17T23:18:00Z
-    webUrl: "https://www.biometricupdate.com/202111/toppan-idgate-ranks-among-top-20-in-face-biometrics-accuracy-in-nist-verification-test"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 16
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
-        height: 734
+      - url: "https://menafn.com/updates/pr/2021-11/17/EP_3e9f6image_story.jpeg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "DLA/IYrogNW+9dRVccjqtvQlOe8mQHignh9N9f76jB4RlfPJ0AZKccwORGV2PtaR+5oC9kZRWMY8k7n21AWq0wcaPMsXAdJu9XXEMdeT+BL+/vqq5F/CgH92VouG+1NHtuI/tSNeFHWFFP+/vmvJnTXRJ1Sbq55++3CgcppH1diXZNVKuGRdNHCac2vxxOLY8pQ+E/5Pzo3/zURKUrtUmEUxjIUfrHwMNh4yK3nZngaqA02kadcO4wTgBepLGFgDOzQaDQBpBGWMiqyFoBqrbHu9Cxw9XQrco9OuEdxcnVQv4v+fqSkdNMqA7kVBzK5Rkzs0vLDkgXoI6Ub5q8oy55oGujuhbpjAL5VfzF7tJiJEKGYnDqiOJdpsJ+ANyYbuEeIURdwnuWB9nWT1TtYHK93vTqvlHQQ7MCAQfztqk+yciPDgcUB2K8Zv8y6wtQ0pW1Ot1Mm+HEXT9HbGBozyNiQSEbxQKTh/6uSRfNy9JGweaUijG1fc2SxJaptVdQ7vYwxk3eHAPV9Ss4UQ7/a2Hw==;jMKfK50f5QuX7eJWc7cC9A=="

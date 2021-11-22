@@ -32,19 +32,14 @@ images:
 
 related:
   - title: "UiPath Appoints Dr. Oren Etzioni to Chair New Artificial Intelligence Advisory Board"
-    excerpt: "UiPath , a leading enterprise automation software company, today announced the appointment of Dr. Oren Etzioni to chair its new Artificial Intelligence (AI) Advisory Board. The Advisory Board, to be comprised of AI leaders and experts from academia,"
-    publishedDateTime: 2021-11-17T13:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-20109751.html"
+    excerpt: "UiPath (NYSE: PATH), a leading enterprise automation software company, today announced the appointment of Dr. Oren Etzioni to chair its new Artificial Intelligence (AI) Advisory Board. The Advisory Board,"
+    publishedDateTime: 2021-11-17T13:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-uipath-appoints-dr-oren-etzioni-chair-new-artificial-/2021/11/17/9494456.htm"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 47
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
 
 secured: "qzuPv7pmVlTRkaQZ44/pRvrkmHw4NgPjZeEjWBnWxWS+r4sfkcKk/pgPVZVEiRKzmZYWkpH5DXbYyVVzehZInEBUykTFNw6+eAT9iEFRhzPAIC77p6Cxw18JdAN3ryMaRUVbxt5sKd24aKa1ATMWAidaJclh+QOFpluBno2qoRKvVfjMx3QezD4/FjZszvqtvn9gzkCHGXLPNWS6EOpzU4mdMGafO3mvsZ6PlhKRR+mQhaIyTUrE6pvLGR7eKbxApqrx2y0QoVZGwliZx4d7B0pD+kHIQ/XjFl7+5NVPdsAMokWDpVBj4p7/D/7r7pgeEiJai1mRuOeFc3jJrjciJVRgNR7lYb7RRjEddCTrS0A=;5TXQgea67MLLY1ZcaQMQ3g=="
 ---

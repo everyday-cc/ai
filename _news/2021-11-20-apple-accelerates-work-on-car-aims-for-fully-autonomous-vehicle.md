@@ -151,6 +151,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Apple reportedly accelerates plans for electric, self-driving car"
+    excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
+    publishedDateTime: 2021-11-21T13:00:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 44
+    images:
+      - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Apple aiming to launch self-driving car by 2025"
     excerpt: "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, aiming to solve a technical challenge that has bedeviled the auto industry."
     publishedDateTime: 2021-11-19T05:54:00Z

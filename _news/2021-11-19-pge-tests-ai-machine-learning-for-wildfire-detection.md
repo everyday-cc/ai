@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/pg-e-tests-ai-machine-learning
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:
