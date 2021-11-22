@@ -9,7 +9,7 @@ ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-bi
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
 type: article
 quality: 74
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1000
     height: 668
     isCached: true
+
+related:
+  - title: "UK - Robots, big data as Gulf nations bet on AI"
+    excerpt: "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scra"
+    publishedDateTime: 2021-11-22T05:49:00Z
+    webUrl: "https://menafn.com/1103222216/UK-Robots-big-data-as-Gulf-nations-bet-on-AI"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/21/JT_4a4c7image_story.jpg"
+        width: 870
+        height: 597
+        isCached: true
 
 secured: "mK1wo1HM+PbAlLKvvBwZSREaira+ARyZr9+esKsopGTsy+fYzNF0iyBVj2+AqMPFdXu6rJxa/M1CBsOiIBc7kXFQIVomYCDzR7ISwyir7Zrg5BvuszuS0QJqZVCXOamMHv48O/zW82IPAAtkDV0nFs7KdMPXVcZtbGCyh1sMvEHYDxPjGqEEO0lF29jY427mxZJUM1d2H+5p8cP9W2gGmbFoihj6hom3IQZYEXFqnDH2lEEYmiTDEDYhbGqdNB5fJKl2ySoabdoZowr2BXEHoQV7JXMybIs5wpEjNVbcX5aQ7hL3sRGxrCn+Tlbhe0cqAGV5y7TwgKooTPSjHc9HXLbtGjMxO98DhAH6dHhElBPoaejy/7UqOj+BfOV8N8EjjM9Y65Zvun3xxQCXbL7KYtr+qbghgVA+x1P6rTat8PJBeA012ujdQ1ObKfK8d3+P9/4/Z6HzD0kEyQnIEoXhZBdfC1XWKkb/aJAov/4A7vB+rh1kAa7XS1YKWLKT0Yv97SbqrdzZtQwCebVXPR5JoA==;620XBQMiTAsMF3Wb5fDWMg=="
 ---

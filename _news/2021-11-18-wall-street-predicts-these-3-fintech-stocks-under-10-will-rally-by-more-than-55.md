@@ -32,6 +32,20 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
+  - title: "Fintech platform reaches two-million membership milestone"
+    excerpt: "Toronto-based fintech Borrowell has announced that total membership in its platform has exceeded two million. Borrowell is one of the forerunners in Canada when it comes to financial marketplace operations and credit education,"
+    publishedDateTime: 2021-11-22T06:15:00Z
+    webUrl: "https://www.mpamag.com/ca/news/general/fintech-platform-reaches-two-million-membership-milestone/317308"
+    type: article
+    provider:
+      name: Mortgage
+      domain: mpamag.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0305_637731584961714112.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "cEq05Q+eZye+J4eNzScFH0wv1jGxcL7zJYmI5M6FjV7JUwVpP2uKmBNx6kn7aZbg50BH7vWdaTCiMddy8zF9xkONQCh5wnhCTt+gR9IgycJ5f28QbQqaVnOZhZUpouAxU1Vbh5T/V7BUkM64YyqEjKITZGPsVUGsGNuKB1skQIOaNN8LF0BGNlxEHKFz4wMNPZdaqaQpQq9oT532TU1xdafFA7bRhQhVs9voa70zAxTyp39COUjnndvPISHYbvLSuJDuwa6PzBFlyPEGryV0ZmZdTW+nHoeqgbVdGzprx/wXNRYPbHjCtfLOAIts7wNTpynpj8EsMsEdHBBPokE3SALW9yLW8b0m6xdfFhZPt1MfsYtWMUWKrbl9eCBAmyeBqt9I+SdXlwYrw+rv7BeElGcSX8CaZrGDBrP6q9jlI8aVgLc0n8oqo5AnryPX+csZ9uOcgbaNFP8uNTlIhMnZ0xT+mKMP65HsLUCLmjOjL3HxWgQHv+AcfSWXSLWVIHBa3eFJn/dPVSoN/pZW+HqFyA==;HWW7oYRC/GxTSuqZ5In5FQ=="
 ---

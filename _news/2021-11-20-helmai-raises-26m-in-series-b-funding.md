@@ -39,6 +39,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Humanity in the Age of AI"
+    excerpt: "The Age of AI” does not break new ground on AI but it raises key questions about how AI will change the way we live and work, and it is clear that we are just barely scratching the surface of what AI means for society and humanity."
+    publishedDateTime: 2021-11-21T14:24:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/humanity-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 39
+    images:
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/6199141097b981f8c67fadef_AdobeStock_339380253.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "iPqPSRSKKE87K0s2z2m90qXMBqvymVaDj97oKPvViqcAY3Gwesa80DRdwEOb6IN8yD6qtGx5e02Yb9p32EunJV0dkcviLQVNBxVBjPZu1U6e3GcsVX+WV89Glxym5M6kYmkenLsLdb+DEFHLBmlpUPEyp78/iIn0ckB6PUWrZXOnZ8GbqqvQQHpTerhVJf82ORob98n1Nhz/gzXQsktT92Lei4owVEJqnpS/1+YNlJZkC1bqFitV65BQCmmTnODvW5JEBjTfBUzwQfp5krPIa+4m8xg9JAUaSqp9cW6/GHVu/qrWykKl5pkd4Cb+FmbwUruj7wbb8p82rywwwKxAAUk75uSeRi5rnkRSd7YI7EkDWFh9+c6cXgE9wZ7PCrz6I/bTPms/R3Bc/Y9bMjtOnhrC6gNtpa60iV2mI6eMJZZ4n9XubQ65Oq66m5YMpHNEeOJzv73ymSL1AccypuTqFYGZoisM9Mu3lSi9X55ZynQkI4gWnhtBNRjiCuc2SW5zsBoHwm+gD6uJxpcbfPUaqg==;VA6bf1/rrgWe3VRvJqUpHA=="
 ---

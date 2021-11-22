@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Fintech platform reaches two-million membership milestone"
+    excerpt: "Toronto-based fintech Borrowell has announced that total membership in its platform has exceeded two million. Borrowell is one of the forerunners in Canada when it comes to financial marketplace operations and credit education,"
+    publishedDateTime: 2021-11-22T06:15:00Z
+    webUrl: "https://www.mpamag.com/ca/news/general/fintech-platform-reaches-two-million-membership-milestone/317308"
+    type: article
+    provider:
+      name: Mortgage
+      domain: mpamag.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0305_637731584961714112.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Wall Street Predicts These 3 Fintech Stocks Under $10 Will Rally by More Than 55%"
     excerpt: "With continuing digitization worldwide, fintech has gained significant importance over the past year. Analysts see immense growth prospects for the industry. That is why Wall Street analysts expect fintech stocks priced at less than $10,"
     publishedDateTime: 2021-11-17T18:03:00Z

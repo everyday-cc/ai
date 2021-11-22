@@ -2,26 +2,26 @@
 category: news
 title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
 excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
-publishedDateTime: 2021-11-18T16:45:00Z
-originalUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
-webUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
-ampWebUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+publishedDateTime: 2021-11-19T15:37:00Z
+originalUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
+webUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
+ampWebUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Silicon Valley
+  domain: siliconvalley.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
+  - url: "https://www.siliconvalley.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
     width: 1024
     height: 576
     isCached: true
@@ -87,6 +87,6 @@ related:
       domain: carscoops.com
     quality: 50
 
-secured: "St/tnM8ZHqbESVMZxX+CuQoMTuLTIY4/yPXK5wz/LxRgOoyk2Y1Ond2g++D2XtOeuXiP4fOcCZmTZMcJ9foGILPt7++0rExLr76yVMeQLP+Wevqz8lGSbq9l0q9D/crxwZhkZWJc4C62jUBhevsqEfNmRjohR7jYT6SggWa0Cvd6AlOKUztJ0LgkniLUxj7go6ZauRRTb4TqSOFaVVKY79YDycYPCAzTCIf2m6szyj2D2wSq1m0eKsewiwA3C07uLxDsy+4EsqMXlSRYUUlkRHxKX2Z1T6XtfuUOVZBajQF4V9o+Pz9jQs5zs6Jn86/LdjNUAZy6oh1WYKB7MI57IjwZlTuSOum97YJBbO+XQdR4byTAhhJUjQXbcVbA+jqPN852eZf011UD2DNZ2Dq4/C1F5zxYN5o+K9CCpE12qURnFmEK4iLl5Wsfvcm+oIugdZP/m7smBz5V3jSUUWWv19sufx/mVZTTIK0Hl8/gDrdwkvFBuD+xt4lChMqw8fqD14lGzEU30p8519WEgXpZ9w==;PAZL3R864qrhDUQBYyMw0w=="
+secured: "qvuewUdo7TW8T37GBit5uXpv/Z5xXElE5JglGEUTDX7jC4tcsXpFtRvzaJVtLP4tsG9x+e4CmG6+UrLowFbu/E4sPdc2LoPxpTzD7rtF2d8sJa2gCjaU6VhIUsH6+EuNTPYEyn6RVdQGNXBNgEw55w1e4JtVk/Qrthy5ZyCfs5nrgmyuZjaxWCLSs4m+JVh6HyCHkjsw6RVIW49DDQ4cj5S+/uffs/mCceg0isU2PekLn/QA9yttq21gtRsUS3TxceItY52hodCG7QfrL2I6+yGdkz36DKPAPUgt1KdEYCHmiPBD5WHuyeNfWUhJhTYIxpmJpd9jjJo2DWR+VxFpJRTB3xRkOvOcIMp0X18+BGA=;3tR8iT/IXJaUwoTOtNx87g=="
 ---
 

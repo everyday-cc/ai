@@ -25,29 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "The Impact Of Climate Change And How AI Can Help"
-    excerpt: "Embracing and implementing artificial intelligence in our organizations is a huge step toward adjusting to our harsh reality."
-    publishedDateTime: 2021-11-17T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/"
+  - title: "Use of artificial intelligence in hiring raises concerns"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the"
+    publishedDateTime: 2021-11-21T11:00:00Z
+    webUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: The Montana Standard
+      domain: mtstandard.com
+    quality: 52
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193b6e4c36862f21d707d2e%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/2/c5/2c5c1a89-8999-557f-970a-8801833d26fc/6197bb0619dad.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Artificial intelligence, the new frontier in climate change risks assessment"
-    excerpt: "Large amounts of data and new methods and technologies with which to analyze them. The new frontier of machine learning - a branch of artificial intelligence - at the service of climate studies, in re"
-    publishedDateTime: 2021-11-17T14:22:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/935221"
+  - title: "Helm.ai Raises $26M in Series B Funding"
+    excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
+    publishedDateTime: 2021-11-20T12:55:00Z
+    webUrl: "https://www.finsmes.com/2021/11/helm-ai-raises-26m-in-series-b-funding.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 14
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/helm-1.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "l2gg1E1LfbrPXSJ5nmMIJ9PwZMX17NIbgGplF8LyKwX38p4+LVkbqP2AVJDh5phsfKduLRNx0e4wtBQEYsrvpAj9+wt5OJkTlcWT2lS/mIzcxfgXRd3ZtmcxEYMtLY+e+Q3FDTWIUo5PMN1AQKzESW0Xt0IvUMT5L2XHD279n+ywmoHv928IKQfsA3ZFeig2/EqY3lFlXD1xH4UaTZWTYlPOA2gMNrmi+vfV/dk+rF4d4SINlnFWz39zwLSjLgrtZoqnK00cIs6uhM7pGyYtcdeE79TaC2KymP139uUQ1Xgs/nJ5EHWGj5PikcoirnSGGFwffGGug6V4oUl3I3BuDtDvCTwqdXCsS9KCUO4nkQqn58nLVIOemQRDUCRG9v9WnWculaIT/yuw8ZUu3a+kqPmUniFjumapVxQtNEhXeDFQgl0V39KNOOt6ZLDcDZFhckvVkoJ6p7490wuJvbZKGmGkDq/daJdTZLdWrhEaJkE+jUey6KSSjd4+MEbqQS6ITZQmBwvfyxtfcbr81HJPtA==;CHEuYSGxjwGXeFb/9FxjMw=="
 ---

@@ -151,20 +151,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How self-driving cars perform in fog"
-    excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
-    publishedDateTime: 2021-11-17T13:45:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17435/how-self-driving-cars-perform-in-fog"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/435/17435/Waymo_Fog_11-21.png"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Apple shares at record high after reports of a self-driving car"
     excerpt: "Apple shares closed on a high note following reports that iPhone maker is accelerating plans to build a self-driving car. Apple stock rose 3.04% to a new intraday record of $158.32 in early afternoon trading."
     publishedDateTime: 2021-11-20T06:41:00Z

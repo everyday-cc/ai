@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Comviva and Strands Partner to Provide Personal Finance Management Solution to Banks, Digital Wallet and Payment Service Providers"
-    excerpt: "Comviva, one of the global leaders in providing digital financial solutions today announced a strategic partnership with Strands to provide an integrated suite of intelligent digital banking, wallet and payment solutions."
-    publishedDateTime: 2021-11-17T13:12:00Z
-    webUrl: "https://financialit.net/news/payments/comviva-and-strands-partner-provide-personal-finance-management-solution-banks-digital"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/comviva_technologies_ltd.png"
-        width: 990
-        height: 660
-        isCached: true
   - title: "Comviva and Strands Partner to Provide Personal Finance Management Solution to Banks, digital wallet and payment service providers"
     excerpt: "Comviva, one of the global leaders in providing digital financial solutions today announced a strategic partnership with Strands to provide"
     publishedDateTime: 2021-11-17T18:50:00Z
@@ -62,6 +48,20 @@ related:
       name: academy
       domain: newswit.com
     quality: 4
+  - title: "ComplySci Acquires illumis, Premier Technology Provider To Financial Services Firms And Aggregator Of Political Contribution Data"
+    excerpt: "NEW YORK, Nov. 18, 2021 /PRNewswire/ -- ComplySci (the \"Company\"), the leading provider of regulatory technology and compliance solutions for the financial services ... Diego-based company that provides machine learning solutions to lenders, announced ..."
+    publishedDateTime: 2021-11-18T16:34:00Z
+    webUrl: "https://www.lelezard.com/en/news-20113930.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "dl2Mq3fDbL8vuZv07vS5MeYbs/gN+KOMIzFVtJPCav6cUgeV3VSqpzCqnGe7/ENPjIgEFRNxVjp0asKyxxlQ++T3lNEI3Vit2a3cTnZh+mqq5939M5srUBcJ5vwllvspCxjEAJod3ihPZmbWfh1MQmmKEUUD0lt6PbWmr2juK0GmAl52l36eeQ3bBdQ3aHTbPXj7fEZgHBIiBD8HdRui0LO+5k86c7lzTSCyj9Kf4SeT2uP0O8n5mOxljO6uBRcafkrGHu75VCM0YTkOf5ENK7ueeenFqTvFwPeopedzJiVKvE4xeie/Lep90/lmAroFgJKqATDAmIjT8LTsvtjrZLwlWwVfH9GBpAIpJiazHcbauivT91F4r8Q/xik6P1SSh6hgshsGal//ipQbSTHWZN+W5iBBPzXu7lue3sdzv2atOt+VHMiBEM/1pS9NEnFskQPYtwIgCe3+gK/m1pVUEQTbxrIJfpZUNJl7i9V9ReJqmEWf6VkV52E5fBzotqRRR7AnHEIziO9SQUW3fZvI8A==;suxeRTkOsyZbk0L2GTxcsA=="
 ---

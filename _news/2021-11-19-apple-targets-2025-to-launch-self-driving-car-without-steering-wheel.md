@@ -137,20 +137,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How self-driving cars perform in fog"
-    excerpt: "In San Francisco, fog is something that happens quite often. In fact, according to the National Oceanic and Atmospheric Administration (NOAA) there is a one-third chance a person will see clouds and fog in the forecast."
-    publishedDateTime: 2021-11-17T13:45:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17435/how-self-driving-cars-perform-in-fog"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/435/17435/Waymo_Fog_11-21.png"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Apple Reportedly Looks to Unveil a Fully Self-Driving Car in 2025"
     excerpt: "Apple is looking to refocus its long-awaited electric car project on self-driving capabilities, instead of its previously planned semi-autonomous features, according to sources via Bloomberg. Additionally,"
     publishedDateTime: 2021-11-18T20:33:00Z

@@ -142,20 +142,6 @@ related:
         width: 790
         height: 466
         isCached: true
-  - title: "Artificial intelligence and Advanced Machine Learning Market Size, Share, Trend and Forecast Till 2028"
-    excerpt: "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2"
-    publishedDateTime: 2021-11-17T14:44:00Z
-    webUrl: "https://menafn.com/1103192538/Artificial-intelligence-and-Advanced-Machine-Learning-Market-Size-Share-Trend-and-Forecast-Till-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934797"
-        width: 539
-        height: 249
-        isCached: true
 
 secured: "04R45jdajlk9pZsbe21b6n61z452Mu3//iIANTHc8SfFl1qJDaAmrlP9LQ7iT96TIFYlk+SRND19RCPioG0UR7GBXxJk++HiwHaWB9YZ/Fazn9fWUiVNPHsbzm6F/lEvE9H0d1DXiy3k6uFoTG27uR26OfqhryHWNqlKDvGjIKuBYavx8g9zejnH4lT/nERx4M8M9TEmoE17sFLZ+oXCb/ZhddkpFL4WnIQVyH75kH9F/175Eo52AsZKh5u6z/oFbUPZuA5UoMuYuYbwgqVN43rkTpFebtRGWOz5UORDNf4CVltDINSh12q52rbaywVFCyxJOxUGyrV0TXjEPjjf2hzDlW1jSR8Wgw32GE5vI5A=;ZLPbV9C4gBGPQqi24yB2tg=="
 ---

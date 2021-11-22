@@ -54,20 +54,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Managing the Cybersecurity Vulnerabilities of Artificial Intelligence"
-    excerpt: "Systems based on artificial intelligence are susceptible to adversarial attack. Vulnerability disclosure and management practices can help address the risk."
-    publishedDateTime: 2021-11-17T14:55:00Z
-    webUrl: "https://www.lawfareblog.com/managing-cybersecurity-vulnerabilities-artificial-intelligence"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 39
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/1024px-Eric_Schmidt_MSC_2018.jpg"
-        width: 1024
-        height: 701
-        isCached: true
 
 secured: "8xJ+iV/q2E3prB2K6eifvgZQ2Bc2WI2vk5vCgj0JiP2xbEWi9ziU3480I78nZ7gjnBet7NvkzjaNYb09iFtoHJE93C41wox9+6fQkk3MwhO0L5GV5eoWRn+K/5y+ecYTFOEec+1Od+jCIZXlQgiowdoPxevuOXg60tBlV5RDoodWKAB2t/9sjUDInAA2ujFgsKYNn/Hw0DvG48Fh9ej7H1TX150BZb77tQuNVJs5Ay4kXKnP0+uu14ubsiTcDDkfvtL9ZSf5Wz2La4/BZBH4/rjk8cBnXgek1Gayuq9gRI1YRHNIS87mnryEhBjQrNRzhDVaeYnwzhjcOVI1MDnRYo9GHzdrKdnJ7HMfdaWVgnwmtkwyW7gQTVCqW9GT/LhijhBOxQRVAWKuaagV9CX6DvZwoQE7u1R84k4vf9Rzzpz5tRn7edCIDdByzJWWVtmwZoZgA7sD0UuUfZCuy/KZfrSrS3JujHmu5u3Gqjnsbhs2iWI5wC3LHiLIfbmhMAo24DtoSwrqzldP7kYuvZA/3A==;M5Hl1TEeTe1ZmtJJnD0IYQ=="
 ---

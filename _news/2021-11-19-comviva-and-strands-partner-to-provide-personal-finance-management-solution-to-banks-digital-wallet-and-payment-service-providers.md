@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Comviva and Strands Partner to Provide Personal Finance Management Solution to Banks, Digital Wallet and Payment Service Providers"
-    excerpt: "Comviva, one of the global leaders in providing digital financial solutions today announced a strategic partnership with Strands to provide an integrated suite of intelligent digital banking, wallet and payment solutions."
-    publishedDateTime: 2021-11-17T13:12:00Z
-    webUrl: "https://financialit.net/news/payments/comviva-and-strands-partner-provide-personal-finance-management-solution-banks-digital"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/comviva_technologies_ltd.png"
-        width: 990
-        height: 660
-        isCached: true
   - title: "Comviva and Strands Partner to Provide Personal Finance Management Solution to Banks, digital wallet and payment service providers"
     excerpt: "Comviva, one of the global leaders in providing digital financial solutions today announced a strategic partnership with Strands to provide"
     publishedDateTime: 2021-11-17T18:50:00Z
@@ -60,6 +46,20 @@ related:
       - url: "https://financialit.net/sites/default/files/screenshot_2_0_1.png"
         width: 1366
         height: 768
+        isCached: true
+  - title: "ComplySci Acquires illumis, Premier Technology Provider To Financial Services Firms And Aggregator Of Political Contribution Data"
+    excerpt: "NEW YORK, Nov. 18, 2021 /PRNewswire/ -- ComplySci (the \"Company\"), the leading provider of regulatory technology and compliance solutions for the financial services ... Diego-based company that provides machine learning solutions to lenders, announced ..."
+    publishedDateTime: 2021-11-18T16:34:00Z
+    webUrl: "https://www.lelezard.com/en/news-20113930.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "NeRZ3sD0zfy7pajz01cB58xIjvTATbeg6ZA0nbxltAIQraHn4w+9WG/ssZruzMu1Zl8Bft97xKCwZHXyfLtDgG+nx0OSfWT41bX47+EX2yQ13gy6davqR4NUW8IEO10GxpTOOb45Caj4gsTbwkH5KjiApRdXxycLDkusaUgsidcdGotghTBZu6+SsCgrqu0Od8dZaw4GFLdgV+EEgGuTTwWMTZStk5k5JWXyOJWPrDFnXPuZlSm5Ubz6dRUX1Q0WxnQ3VKPLrK//lV0sq1ztMTk/Q80lNfAp1QiNB3Wl1OD55+oKs7X90fMuoV/Oz7E1yh6h4vXDY7OBfES9GpHeLiMezmD+RAOOMNzIT55cGK4=;L/UJT46NEGPdQoQgiHBMZQ=="

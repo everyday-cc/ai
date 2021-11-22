@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/05/1280/720/Computer-hacker.jpg?ve=1&tl=1"
         width: 1280
         height: 720
+        isCached: true
+  - title: "New York City aims to be first to rein in AI hiring tools"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analysing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
+    publishedDateTime: 2021-11-22T06:56:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/22/new-york-city-aims-to-be-first-to-rein-in-ai-hiring-tools"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/22/1377129.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "NYC aims to be first to rein in AI hiring tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."

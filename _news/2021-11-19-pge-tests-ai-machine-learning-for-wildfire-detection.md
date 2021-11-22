@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/pg-e-tests-ai-machine-learning
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 624
         height: 468
         isCached: true
+  - title: "PG&E Testing Artificial Intelligence Which Could Expand Wildfire Detection Capabilities to Growing Network of High-Definition Cameras"
+    excerpt: "Highlights 138 new HD cameras installed in 2021 and 487 cameras are now in operation: 46 with AI test software Eyes in the sky across most of High Fire-Threat Districts in Northern and Cen. . ."
+    publishedDateTime: 2021-11-22T06:04:00Z
+    webUrl: "https://electricenergyonline.com/article/energy/category/ot-it/53/931753/pg-e-testing-artificial-intelligence-which-could-expand-wildfire-detection-capabilities-to-growing-network-of-high-definition-cameras.html"
+    type: article
+    provider:
+      name: Electric Energy Online
+      domain: electricenergyonline.com
+    quality: 0
 
 secured: "zO4aUwvGO49zk/EKLjworqMLjnycIy8Obj/ZKY0RwP9OPhpq4qeW4m2BSbSF56+fAmRQ4GDU/rb8vuJQ3ScgdgTz8zOwLaqB2RA6V7cXUE1fRwZmG1np2XVu8sIVBS43mrMMLgsTPDTZPM72S5+VM8M2VHb4U986sI/vniekaftUD0i/3+BKFYIBs2RLz7wpAginsN3k3mS37TuBcpdB/q988DP2AaLIs+PVhf3duKdvMKCIOJ09DVbH2/wPUVj2J20GeLLqhvp3tx+Dyk+mZK4wa2R1z0rxSt/PA6Nlt8wSDhaItRdXdNaaSzzMtvkmqMaVcDcXEErqJHSSDusDtrGNuZvu/FmYqV9ZlMhMiPM=;tJLLwyxaI4Pufv8Gz1fyZA=="
 ---

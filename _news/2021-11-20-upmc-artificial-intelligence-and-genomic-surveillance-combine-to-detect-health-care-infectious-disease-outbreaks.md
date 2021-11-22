@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/upmc-artificial-intelligence-and-geno
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/upmc-artificial-intelligence-and-genomic-surveillance-combine-to-detect-health-care-infectious-disease-outbreaks/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning, Whole Genome Sequencing Detect Disease Outbreaks"
-    excerpt: "To prevent healthcare-quired infections, researchers are using machine learning and whole-genome sequencing to better identify potential infectious disease outbreaks."
-    publishedDateTime: 2021-11-17T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-whole-genome-sequencing-detect-disease-outbreaks"
+  - title: "Pitt study uses AI, genomic sequencing to detect hospital-acquired infections"
+    excerpt: "A team from the University of Pittsburgh School of Medicine and Carnegie Mellon University have developed a new system that can quickly detect outbreaks and put a stop to them."
+    publishedDateTime: 2021-11-20T19:29:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2021/11/20/hospital-acquired-infections-pitt.html"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Data_funnel.jpg"
-        width: 690
-        height: 400
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "qEJA6CmMYRhQaAILA49BFX/jxEdO0Owaxb/0DA/b+B3Z3kKOpc9V2KPGx46O/del30QYSf55B634NWt4tbEvFnQZUt4qjoNxIn5F4lYdJCA/u4w29eFaCOqE0AaCGaKiHtDCeLuE7ie3pnHqFBPVVLfeCQgDD+0rZn5iOUux+zE3Yn8oSk/SFVZwGTnks4nzFYE7JYjXio0JOSMP35b6Q7HAxrlvRPFgyUlpe6jyFikhtQd8PNRJ6GVecMop1J7hm4AIUGKgHcHpeAHAWV3+MIuj9KFkic0gnhr19YN1aR2g92k18l3y1BHPkYsCvhBdf6QDM6xYV0rYBAXu2GSt+aYlgydBQryYtEvX9egV70NzeOdjeAMg0AtzU6nEhp0WEVo8wy2olzhwqLiHj7FGLWWQIS7f7cIeTvWBmpiQ9z48Z0o+gBZDx8mS5LhCmZ7FeYzvbSfvH9doXYHSAV9wXkzsbKT7yXAbWGyyY8Hj1NSyWrroY+qY0GXtYfYu64cVdiukJ3O5PIfIPoosRC1P+w==;cbgwoKo8QQ/jABpENwigYA=="
 ---

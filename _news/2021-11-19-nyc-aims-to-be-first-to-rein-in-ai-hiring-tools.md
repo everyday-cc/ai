@@ -124,6 +124,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New York City aims to be first to rein in AI hiring tools"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analysing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
+    publishedDateTime: 2021-11-22T06:56:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/22/new-york-city-aims-to-be-first-to-rein-in-ai-hiring-tools"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/22/1377129.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "5F/zuHulj3qKGwWNu9fLzDDKD50jJHcxNZk7PWgWz1eqgsyzkQxcWPpZUDdCwQqAI4Ta2l9rV7khlwZVp/g9DF15YA+ABB9Is9RzaPD96QDbe4Bf5q+x9sFQY03li5O+CoBTPTLQATXlyPJA+93eZKfFZBPhtkAKnOJUe30aJe2NEKGJkMnILRcLxVJMnuv2mPgJPGmkASg90L3fLnScYoAt2cJ2ogPNMM4l0xEG6pyvQeu5ZqAtef8Syc/Q8CMcTQou+ZBxibfczQ3g0xxXCiJfzr5ADxNtTlK74+eZAQNqi7DsKOWH/A538BCDHnpNfZByJffyVB+cSyfRKf2dlOmjF5IQEtVi4LHWBtFYZS8bzoIOP2SVkt7Sul4CGxnSxJuyTrKXesLBNozwhY8/Ak9jHY6UHJzlGI6MU9zFjgBNyakDNbvCQ2zk/oSwbLt7QyboEVV1ZAGBw6FBOdOz/7K7sivadsvoO4UXtKeRsJWduL6htI1wgfJKIjgIBr34m6/zXVQCirtAIoQYNTHr2A==;ClgGU2Kwflyg1CVBEK/cCA=="
 ---

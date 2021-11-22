@@ -19,22 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "AI enhanced Compliance Platform Sedric Secures $3.5M to Increase Consumer Protections for Fintech Firms"
-    excerpt: "Sedric, an AI-enhanced compliance platform for Fintech firms, announced that it has secured $3.5 million via a seed round in order to increase consumer protection and transform the Fintech compliance sector."
-    publishedDateTime: 2021-11-18T14:31:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183062-ai-enhanced-compliance-platform-sedric-secures-3-5m-to-increase-consumer-protections-for-fintech-firms/amp/"
+  - title: "ZF to digitise production processes with help of Microsoft"
+    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
+    publishedDateTime: 2021-11-18T16:02:00Z
+    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 43
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/05/natalie-collins-unsplash-LifeGuard-Only-Beach-Safety-Protection.jpg"
-        width: 1144
-        height: 863
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
+        width: 940
+        height: 443
         isCached: true
+  - title: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace"
+    publishedDateTime: 2021-11-19T10:30:00Z
+    webUrl: "https://www.businesswireindia.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace-76082.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 26
 
 secured: "2EBdnIMY5gsYtBA3DZZwAjJqnOzrSXGGd0sqGAid3bMwUUpHCzmgAaVzIWDccpnMt2SHQd+7rDJqslcAtdEXc11BVnNHpR8Jz3A8xfMMZFgcyMqlGgAVz7buU3kK0NehLGm6xaiLuUFUxhOiAwlbi5kkrKu56S0dQsHBZLfPkz9r5o3AZrSZbj46aef9gO8CfcucgkvaBjQ+XT6DvXj+V1aY8lxg7LiV8aCl43oTz5VjN5Va29xx4EfG+HTkAHo4CEXSwtSgOnqb9OHgK96HabPHoCgvGRy5wBwD1PGr6LVEgaby6yabd8lppezytYJL8ghqhkEBCuwcQVnHNin5+0BsAxhwtS0/d1oRLjE3RM4=;iFlKSDaam1rYL4b/xrFsVg=="
 ---

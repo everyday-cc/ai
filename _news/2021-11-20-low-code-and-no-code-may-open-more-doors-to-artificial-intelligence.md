@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/low-code-and-no-code-may-op
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: ZDNet
@@ -30,23 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and NLP are helping healthcare call centers to be more efficient"
-    excerpt: "AI has the potential to help healthcare call centers—and it couldn't come at a better time. Callers are frustrated and needing help more than ever, so this solution could make a big difference."
-    publishedDateTime: 2021-11-17T14:38:00Z
-    webUrl: "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/"
+  - title: "Low Code and No Code: The Future of Artificial Intelligence"
+    excerpt: "Will low code apps go any higher? The jury is still out on how high this will all go. Low code and no code might even help business users build AI-driven applications, according to some experts. “Low and no code platforms make it feasible for businesses to deploy artificial intelligence without having to hire an army of pricey developers and data scientists,"
+    publishedDateTime: 2021-11-21T10:50:00Z
+    webUrl: "https://bestgamingpro.com/low-code-and-no-code-the-future-of-artificial-intelligence/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 121
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2019/12/04/f6895991-70f5-431a-a04a-4450b0104d05/resize/1200x/9a0404ccf9a3aeb492f2e23c9c681a0b/istock-1027578950.jpg"
-        width: 1200
-        height: 801
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Low-code-and-no-code-may-open-more-doors-to-artificial-intelligence-.png"
+        width: 1000
+        height: 600
         isCached: true
 
-secured: "tTfLaxacYX37QS3p6XJIfIYlg1i0a7efG2cUuUG5FnLG+bRFNN4fqZ5MfHJXJTixUn/64l9e4nKXkHS91c59rK8420qLHRcNmDNZJ0bMtpYLHoUfhV6D6ku3UEG+rMIzJn9jvV1frW8sPjFgq+Y+xNqm3/6Limg268mgrkYgAWTaMg5U997LVj4i95TKwBFKkC3zDa4xxwMZ0nq05kyTH4MxHFYEHQkuYzuJtO2Lnkv5bOMorJXndp+ZrZr5Q6Ht8iK5rbuRvuD6b8rCCDKKh0U3qsuSe6m7AG6j1eLFqamJskDuRksOAOt3rPfzpX3Nz7LzaemNOfQPu5AO4jO+lkwPxdvoJJI18XTEpZ+6hdE=;YKkU3oSTBTB+aEPD/f5Q/w=="
+secured: "WcCjLPuMtPPF9CYVYa3hf32W+agq9Y2octya4+qFTpffmK+iMi1qHvYRKplYEgKKxcr11toqR2SYYQy8u6L5KOCivyg2PQDL6W+QGQoTrG38ZKVoCHXyyenMbxkM+qmA9NlKd36AyS9mJxFwOnEDAno+VqMiemwVhmIlPAnmrkmd+m5hbxfetx1fk5pGJnXUSaLp4vWIIqDoY2jTuDuF07Crj8cFKTgSfApk+UesMcB0NWKsBT1JArfg+WZ1WGyyW8L9HiFJNI/x23FbKjF0UhgoVFvnUxb9OAyOMKr7xSZdlsMU6mtVFIzQTpdmKKBw77GC4AjKv1cj8Wti3CoGsdc1mCU2FdXwS7DOBovHop7kn0Bh4cO30w71/s7MYzVghnIK0FUzAi304IbJIzkG8Rs347ft0yELUAKXNE0aI2oF1Q1oPOZdzNYgAVIIQ1KqiRTXzSwRxTVqGkZaZGwyek3RPsJ/NBEBkilsI1Q5elOIOGOihpmv8NlT8bz9nBunMtMOE9AX6Q6kKBQa5b7dvA==;6aTuQPxdy1/BlJ1sktNcCA=="
 ---
 

@@ -38,20 +38,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Managing the Cybersecurity Vulnerabilities of Artificial Intelligence"
-    excerpt: "Systems based on artificial intelligence are susceptible to adversarial attack. Vulnerability disclosure and management practices can help address the risk."
-    publishedDateTime: 2021-11-17T14:55:00Z
-    webUrl: "https://www.lawfareblog.com/managing-cybersecurity-vulnerabilities-artificial-intelligence"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 39
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/1024px-Eric_Schmidt_MSC_2018.jpg"
-        width: 1024
-        height: 701
-        isCached: true
   - title: "The Metaverse, AI Bill of Rights, Digital Twins & Simulations, Digital Identity and Decentralization and Retail Cybersecurity Threats"
     excerpt: "The Metaverse wave is spreading with tech companies including Facebook shifting towards 3D, virtual reality and augmented reality technologies. More tech companies such as Nvidia are following suit and preparing for a metaverse future."
     publishedDateTime: 2021-11-17T21:00:00Z

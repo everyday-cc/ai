@@ -132,20 +132,6 @@ related:
         width: 790
         height: 466
         isCached: true
-  - title: "Artificial intelligence and Advanced Machine Learning Market Size, Share, Trend and Forecast Till 2028"
-    excerpt: "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2"
-    publishedDateTime: 2021-11-17T14:44:00Z
-    webUrl: "https://menafn.com/1103192538/Artificial-intelligence-and-Advanced-Machine-Learning-Market-Size-Share-Trend-and-Forecast-Till-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?934797"
-        width: 539
-        height: 249
-        isCached: true
   - title: "Artificial Intelligence (AI) in Agriculture Market 2021-2027 skyrocketed revenue with key players John Deere, Trimble, Iteris, AGCO, IBM, Intel"
     excerpt: "Latest research on Artificial Intelligence AI in Agriculture Market report covers forecast and analysis on a worldwide regional and country level The study provides historical information of 2015 2021 together with a forecast from 2021 to 2027 supported by both"
     publishedDateTime: 2021-11-20T07:12:00Z
