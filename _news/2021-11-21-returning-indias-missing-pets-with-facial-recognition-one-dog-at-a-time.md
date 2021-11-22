@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/re
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Time to draw the line on facial recognition"
+    excerpt: "If you recently signed up for unemployment benefits or renewed your Montana driver’s license, your face is being logged into a facial recognition database and could be scanned countless times"
+    publishedDateTime: 2021-11-21T13:00:00Z
+    webUrl: "https://helenair.com/opinion/columnists/time-to-draw-the-line-on-facial-recognition/article_fad1aab2-2ca6-564a-b377-75dece1727ec.html"
+    type: article
+    provider:
+      name: Independent Record
+      domain: helenair.com
+    quality: 41
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/7/cf/7cf7815e-1cb9-5e1e-b642-d52126a1f822/5fa1e87333c87.image.jpg?crop=1050%2C591%2C4%2C103&resize=1050%2C591&order=crop%2Cresize"
+        width: 1050
+        height: 591
+        isCached: true
   - title: "India's tech hub Hyderabad zooms in on facial recognition technology"
     excerpt: "BANGALORE - The city of Hyderabad in southern India is trying to use facial recognition technology for everything, from stopping traffic violations to distributing subsidised food-grain, leading privacy activists to warn about a \"total surveillance city\"."
     publishedDateTime: 2021-11-18T04:00:00Z

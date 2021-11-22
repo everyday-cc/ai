@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-conversational-ai-is-no
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: ZDNet
@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Google launches Bot-in-a-Box to nudge along conversational AI"
-    excerpt: "The new feature from Google Cloud makes it easier for businesses to launch chatbots using existing customer FAQs."
-    publishedDateTime: 2021-11-17T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3d1e5183f434477463f6546bcdf2e2e2eb8717ac/2021/06/28/554d89ed-c8e3-43bf-b77e-354982cb4942/thumb.jpg?width=1200&height=675&fit=crop&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM’s conversational AI garners recognition from analyst firms"
     excerpt: "IDC has positioned IBM in the Leaders category for worldwide conversational artificial intelligence software platforms. But what sets IBM apart from the others, according to this report? In this analyst report,"
     publishedDateTime: 2021-11-21T07:10:00Z

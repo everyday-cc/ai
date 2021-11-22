@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Canon's £450 camera uses facial recognition to automatically take photos"
-    excerpt: "The PowerShot PX, which is released in the UK and Europe today for £450 (€500), is like having 'your own personal photographer', but scaled down into a five-inch-tall device."
-    publishedDateTime: 2021-11-17T15:35:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10212821/Canons-450-camera-uses-facial-recognition-automatically-photos.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10212821/amp/Canons-450-camera-uses-facial-recognition-automatically-photos.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10212821/amp/Canons-450-camera-uses-facial-recognition-automatically-photos.html"
+  - title: "Returning India’s missing pets with facial recognition, one dog at a time"
+    excerpt: "ForPAWS is an app that will soon allow you to find a lost puppy's home using just your smartphone. Here's how it aims to make things easier for pet families down the road."
+    publishedDateTime: 2021-11-21T09:58:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
+      name: The Indian Express
+      domain: indianexpress.com
     quality: 60
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/11/17/16/50614429-0-image-a-14_1637165765360.jpg"
-        width: 636
-        height: 382
+      - url: "https://images.indianexpress.com/2021/11/ForPAWS-1.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "India's tech hub Hyderabad zooms in on facial recognition technology"
+    excerpt: "BANGALORE - The city of Hyderabad in southern India is trying to use facial recognition technology for everything, from stopping traffic violations to distributing subsidised food-grain, leading privacy activists to warn about a \"total surveillance city\"."
+    publishedDateTime: 2021-11-18T04:00:00Z
+    webUrl: "https://www.straitstimes.com/asia/south-asia/indias-tech-hub-hyderabad-zooms-in-on-facial-recognition-technology"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/11/17/img-20191202-wa0020.jpg?itok=1sCKDI1q"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "a5UtEdHv3o8Vde+g/L9xJiJeIvvIUBN8qnMnxaYgXRMXhmCcWmvFLVH5igH08O0wfxvzSpbpFiJnHiP6jcp1MXiIwgviNpxmCCQKukIs2vV1Ow6753Nd2rp03uld3XFMg1P1QOe0KhjsDD7JK6orhK8szVA/uE/IblXRBK3x9LL+BJMM2KJc4/l2dq3PX4Xf7lFP3xqo2Ciq+a/1MXY5CkpJYjKmTSB5ucKnPgf7G8+Dyh8rdT4j3JCCd2aRQiTVcRGSROm2xRIT1RJTvARg5ij27uVCZoqNW9qrWKcQGV+i3cZRL90NpssTrsS8j+f3BTBMMVrlA9uq/bralKsQKYq7CuZpNn1hFLMr98U1lmWvb6gHRD9YLEsTr9iqSDb+GusnoxwDiKdFd0ST5l+5UFrXW01P/0u+10AFBJouPiBh8WkclG6vfspehcJbEKHFf4BOQYEBNPb+T2lbrxtxz4pd0i9Q3pCF+Ba979Fh/SURMxbrupcUq7pkHt1A0rbXyCcnMHV4VEX3swZJJ24UQQ==;5YGIC7UafPXZHzgpiGCFag=="

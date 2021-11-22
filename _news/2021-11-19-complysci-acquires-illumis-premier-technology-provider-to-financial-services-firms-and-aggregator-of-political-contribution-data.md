@@ -48,20 +48,6 @@ related:
       name: academy
       domain: newswit.com
     quality: 4
-  - title: "VoiceSage partners with Capital Platform to Provide Technology Services for their Platform for UK, European and International Clients."
-    excerpt: "VoiceSage partners with Capital Platform to provide technology services for their platform for UK, European and International clients. With flagship sales in eight new countries, six global reseller partnerships,"
-    publishedDateTime: 2021-11-17T16:28:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/voicesage-partners-capital-platform-provide-technology-services-their"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
-    images:
-      - url: "https://financialit.net/sites/default/files/screenshot_2_0_1.png"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "evrIr3p2alsCzMjlheFDV9n/+TB7xTkd0BwjcYnH5Vi107FhzxiB8dQNppA5WjR5dn++CnFeavq7YJkH6keP8iYHsFTGAgPIAZVqhR8wkMAIfUo9YyTAo+UX+L3dTJn8Dl4MHNv8R3YU6VbAzX4VLi9/NkiS7ozhC2LxAbTJuHKUL3W9A+wNV0J2dE575MzY7z04TlOLEaF6utntpYlbsHdkoWMxW0qngew1q3+mNpAxIRNXynAzg5hlyQi4XmMJeFKt4+VH4T3VbKQCS61VfZs01JMy01jVDVXK1NkgVpyh3fMDIyqPxidHjTxwZfN5OjUiVvOGg6PQrHKZ1tHhsciex05HBHxhigD2MV7WFtA=;/mHYjGryisR3pdW6HsPptg=="
 ---

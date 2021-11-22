@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-10-30-new-covid-19-treatment-being-tested-in-riverside-county.md",
+      "title": "New COVID-19 Treatment Being Tested In Riverside County",
+      "excerpt": "The testing will involve patients with mild-to-moderate COVID-19 and who do not require hospitalization, county health officials said.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/california/temecula/new-oral-covid-19-treatment-being-tested-riverside-county",
+      "originalUrl": "https://patch.com/california/temecula/new-oral-covid-19-treatment-being-tested-riverside-county",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/98363/20211029/020505/styles/patch_image/public/lab-testing-shutterstock-203211934___29140344059.jpg?width=984",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/california/temecula/amp/30062438/new-covid-19-treatment-being-tested-in-riverside-county",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/temecula/amp/30062438/new-covid-19-treatment-being-tested-in-riverside-county",
+      "publishedDateTime": "2021-10-29T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-global-radar-system-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts.md",
       "title": "Global Radar System Market (2021 to 2026) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts",
       "excerpt": "For E.S.T Office Hours Call +1-917-300-0470",
@@ -1116,49 +1159,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-focusing-on-the-human-shop4cf-offers-an-online-course-in-ai-and-ethics.md",
-      "title": "Focusing on the human: SHOP4CF offers an online course in AI and ethics",
-      "excerpt": "There’s been a lot of talk about the best way to apply ethics principles to the AI and machine learning algorithms that influence our daily lives more and more. With […]",
-      "sourceUrl": null,
-      "webUrl": "https://tech.eu/free/42967/focusing-on-the-human-shop4cf-offers-an-online-course-in-ai-and-ethics/",
-      "originalUrl": "https://tech.eu/free/42967/focusing-on-the-human-shop4cf-offers-an-online-course-in-ai-and-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tech.eu/wp-content/uploads/2021/10/possessed-photography-jIBMSMs4_kA-unsplash-scaled-e1635429832996.jpg",
-          "width": 2560,
-          "height": 1548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-29T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech.eu",
-        "domain": "tech.eu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

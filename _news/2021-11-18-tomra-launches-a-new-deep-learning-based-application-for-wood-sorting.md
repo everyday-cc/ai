@@ -24,22 +24,6 @@ images:
     height: 648
     isCached: true
 
-related:
-  - title: "TOMRA unveils deep learning technology for sorting wood"
-    excerpt: "TOMRA has announced that it will be implementing deep learning technology in its wood recycling operations in order to distinguish between different types of material. The recycling company claims that the use of artificial intelligence will ‘boost yield and purity’ across its activity,"
-    publishedDateTime: 2021-11-17T16:45:00Z
-    webUrl: "https://resource.co/article/tomra-unveils-deep-learning-technology-sorting-wood"
-    type: article
-    provider:
-      name: Resource
-      domain: resource.co
-    quality: 39
-    images:
-      - url: "https://resource.co/sites/default/files/article_teaser_image/TOMRA_AUTOSORT%20and%20GAIN%20processing%20wood.jpeg"
-        width: 4058
-        height: 2710
-        isCached: true
-
 secured: "jLMqVE9HrGghPF/VIHIZve0xCTJZzkAznqeI/O5YiNZoIpp1qxCuX9OCgHN2nlo/xrpFidXl6+ctaUSLHqgqdcCgTpME7LvPfxjupmJ+U6kzF/+1/LUa3UAWw+QHVGIkrJNaFA0g0vDgEOjWUCD4qoWj449Kf4mvGRp2zGrI9LYTKuBRvA1AqH6vjYqadhOMctnIk7Y3sF0ziO0s/bZ5cleuUQQP/hbNyL6Ja1KOzsYjF5w7teXQaq1U0lScsvBY+cjhhJTepaKlF9Vu+jr0iD0Dc8rh6fnizyQSxg96JmNtm7RddHcvCJAN+Ca9us3CHnZlEsM3YhK3so2VqFitfiZLQ3/pL/RWn+h+hv9+IHYuIvqXdhXqHp/e2jFeh3y9mhaYvMAildeYo96fFjZfswjo3VQim27ewwjNI97zuZ8f88vRunWJqJV47SVfkAw9Psaguii0jBmmmtmTniJfnru9fyPx6WPD5zUkDExY1G+Gq4p/MSrNfvBk1F2NtMqvXhJvrKm3t2vViLn7adc3XA==;V6AzqLxS78CkFj+ek4He2Q=="
 ---
 

@@ -132,6 +132,17 @@ related:
         width: 790
         height: 466
         isCached: true
+  - title: "Artificial intelligence (AI) in Logistics Market Recent Developments, Research Analysis Forecast 2027"
+    excerpt: "The Global Artificial intelligence AI in Logistics Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the"
+    publishedDateTime: 2021-11-22T07:24:00Z
+    webUrl: "https://www.openpr.com/news/2469421/artificial-intelligence-ai-in-logistics-market-recent"
+    ampWebUrl: "https://www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "Artificial Intelligence (AI) in Agriculture Market 2021-2027 skyrocketed revenue with key players John Deere, Trimble, Iteris, AGCO, IBM, Intel"
     excerpt: "Latest research on Artificial Intelligence AI in Agriculture Market report covers forecast and analysis on a worldwide regional and country level The study provides historical information of 2015 2021 together with a forecast from 2021 to 2027 supported by both"
     publishedDateTime: 2021-11-20T07:12:00Z

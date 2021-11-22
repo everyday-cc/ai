@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Robotics in knee replacement"
-excerpt: "People will be quite sceptical for getting knee replacement surgery because of the opinions from various people"
-publishedDateTime: 2021-11-21T19:48:00Z
-originalUrl: "https://www.thehansindia.com/life-style/robotics-in-knee-replacement-716377"
-webUrl: "https://www.thehansindia.com/life-style/robotics-in-knee-replacement-716377"
-ampWebUrl: "https://www.thehansindia.com/amp/life-style/robotics-in-knee-replacement-716377"
-cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/robotics-in-knee-replacement-716377"
+excerpt: "Mrs. Sukhjit Sandhu (Name Changed) was quite sceptical about getting her knee replacement surgery after she witnessed how her husband always"
+publishedDateTime: 2021-11-22T08:06:00Z
+originalUrl: "https://telanganatoday.com/robotics-in-knee-replacement"
+webUrl: "https://telanganatoday.com/robotics-in-knee-replacement"
 type: article
-quality: 74
-heat: 85
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: The Hans India
-  domain: thehansindia.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://assets.thehansindia.com/h-upload/2021/11/21/1122874-knee.jpg"
-    width: 1000
-    height: 600
+  - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/11/14e292c02509bf5abe36cc15e40.jpg"
+    width: 1200
+    height: 650
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 214
         isCached: true
 
-secured: "RC/t8Q98lR3NtHWaD8W6tdhBnZX+A3ER8Pp3lnlbIy8rKR1/GKju7GIDmmatByFzdZV/wXfMXJ6CLHFhz9ia8ahywhVgDFpPNcLP3axF3YPdnTSTkge8beVnvyM+w0jl/fRVrNbUdWwcdkxUSKho68PFvd7ILWtHLJWobQULopwow/NtWPsondC42ps14Ml6RcLGxR/fjrbpfKnwfJA0Uvch/lwNrrrNoD+jupVSrUrLvhoVOZsMz17rWZK79O7B69ulQHT6Rq/SCH16nIiTbgsz9PcRxVrlSXjYCWflrmaQys3DwLKDfGkdO7OW9MSJpomBRx966QMyGmIMjZuBjtasIifhFXgt2W7//FLO9rlKG+nXvIRn6+bxni94meQrBk5SehgbhEKkGUj/hrCf3vtp+nwbrJf5vOif3C9857NSGC8yy3ihLj8dY5q/c5jorewhlVdfWPVieGLsO+/Ri9AXICp4f+nAFjMhgRDZE1n9ryJO0FkxR0DiqraE9ZyI33mALbyxIwSvfEdjdGAFZw==;HoGsx0bqZH88CP5Jii1RcA=="
+secured: "4CLqqvA+Q8XcG6vi7uH7iZc8x/zVBMkrPr+tmNt5Km2aA4vjdMFVcpfIEckIn1dEr84RAq+aseUOd1brVtRptAJNtnMQvHn3hfgzqxjFv0IBp1cJDu3MoVBVZ97IAOkwyOZHQ3fPF/21ZC83lbl+vvuWYGHM3Vi3hsqMkigZs2dt5Hn7wk5nY0/q97wjJYq3rznm/Gnboonomq0fzXiaI0/ZpTL32Uo0Ji6P9QXv5UMPfNGxzaU2VcX/ZLXWo2Wu7FXIohdWsAYXy5ZAPcCZm+Xb5DZduH/bhqLnNej4AEWDd4+WVLjceDpJqOfvGMBqXBIl6GTe0dvPahU1RW5PgLNgI2ZehUE6URqbK5+ft9A=;WZRpTTpIRODN/K0YqNZx9g=="
 ---
 

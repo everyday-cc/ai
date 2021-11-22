@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/abu-dhabis-group-42-to-start-first
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/abu-dhabis-group-42-to-start-first-driverless-car-trials-in-middle-east-1.83854370"
 type: article
 quality: 58
-heat: 88
+heat: 90
 published: true
 
 provider:

@@ -33,20 +33,6 @@ related:
         width: 1152
         height: 603
         isCached: true
-  - title: "VoiceSage partners with Capital Platform to Provide Technology Services for their Platform for UK, European and International Clients."
-    excerpt: "VoiceSage partners with Capital Platform to provide technology services for their platform for UK, European and International clients. With flagship sales in eight new countries, six global reseller partnerships,"
-    publishedDateTime: 2021-11-17T16:28:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/voicesage-partners-capital-platform-provide-technology-services-their"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
-    images:
-      - url: "https://financialit.net/sites/default/files/screenshot_2_0_1.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "ComplySci Acquires illumis, Premier Technology Provider To Financial Services Firms And Aggregator Of Political Contribution Data"
     excerpt: "NEW YORK, Nov. 18, 2021 /PRNewswire/ -- ComplySci (the \"Company\"), the leading provider of regulatory technology and compliance solutions for the financial services ... Diego-based company that provides machine learning solutions to lenders, announced ..."
     publishedDateTime: 2021-11-18T16:34:00Z

@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Ways AI and Machine Learning Transform the Food and Beverage Industry"
-    excerpt: "Artificial intelligence frameworks produce more secure, precise production line results at a faster rate and with greater consistency than human"
-    publishedDateTime: 2021-11-17T15:33:00Z
-    webUrl: "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html"
+  - title: "MIKE GINGERICH: The best AI chatbots for business in 2022"
+    excerpt: "Chatbots are one of the fastest growing communication tools for businesses. According to Startup Bonsai, 24.9% of buyers used chatbots in 2020, a 92% increase from 2019. Indeed, 67% of"
+    publishedDateTime: 2021-11-20T03:15:00Z
+    webUrl: "https://www.heraldbulletin.com/indiana/news/mike-gingerich-the-best-ai-chatbots-for-business-in-2022/article_232e994d-7655-5723-8100-33f9c397a388.html"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
+      name: The Herald Bulletin
+      domain: heraldbulletin.com
+    quality: 39
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/i312c450308.jpg"
-        width: 450
-        height: 308
+      - url: "https://bloximages.chicago2.vip.townnews.com/heraldbulletin.com/content/tncms/assets/v3/editorial/7/8e/78e027a8-0250-583a-b8e9-981895776669/6195941ae7307.image.jpg?resize=700%2C400"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "How AI-Powered Chatbots Can Improve Service Level Agreements (SLAs)"
+    excerpt: "When we hear the term AI chatbot, a picture of a cool humanoid-looking bot might come to mind. While AI chatbots don’t look like humanoids, they work like a smarter version of a human."
+    publishedDateTime: 2021-11-17T17:08:00Z
+    webUrl: "https://www.itbriefcase.net/how-ai-powered-chatbots-can-improve-service-level-agreements-slas"
+    type: article
+    provider:
+      name: itbriefcase.net
+      domain: itbriefcase.net
+    quality: 37
+    images:
+      - url: "https://www.itbriefcase.net/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "Fz4mfLRR5jdcV/bgRB8S0MhoC2ej/Dq5ddi0AF3x+jW+/B5hzeeqbuVZbbO1JYqyrLu9GxBrMQM9Vs6uXEepa/841NxP65Mhngnr5Ny0y2uJsF+OOWHbvn0VF2y0WBcVcq0LBJbXcUYKcrPlspUX1O8xEFHwlvFg0GXoafUYpEgwnyFWGru5W/sS6PJhavSJkbPpXW0bNp5VQ9aIWkwR2ke3n+GO/c79wz8eXI1yZmW0+2Aza555tW0j9prmJxq43NMiFnkzyFF2JaaLE8KnGdSLJsclxsHokUyzSRxF4a+pm1bQeL+TuAAOBvdVPVyA+fsrAPjN3vHxSCLNlPzY+P6jE3Ev8ozVJY3lfdkqt2OQjv4iyPqWFtgy/8lhu9cuSdL1ibX3QjqyM6OM4yJ4EyaUJgMZYU+xkEy1vGnUCuiGAaGFr+cEMUkzSTae0pOujwjsFBQSd/Bg9y/jzY6IH4D8XcPPXoawfbjEtNKRqZRpOoggr5Moo0EtvGcnx/W9pMxE/CfvsCRaYYOLMOnNqA==;K4wqr67oQUygb9t2xPFwlg=="
