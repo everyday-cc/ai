@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "In the push for development, is the U.S. prepared to regulate AI?"
-    excerpt: "For ethical and unbiased AI to be the way of the future, we need to regulate AI now to address today's research and development challenges."
-    publishedDateTime: 2021-11-17T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/amp/"
+  - title: "Can The Board Truly Govern AI?"
+    excerpt: "The Growing Dilemma of the Board's Grasp of Artificial Intelligence Risk (Originally appeared in the November 17th, 2021 'Across the Board' digital publication, a Board Director, Board Advisor, C-Level,"
+    publishedDateTime: 2021-11-18T03:48:00Z
+    webUrl: "https://www.linkedin.com/pulse/can-board-truly-govern-ai-mark-a-pfister-the-board-architect-"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF4jH2xpcr4wQ/article-cover_image-shrink_720_1280/0/1637205077482?e=1642636800&v=beta&t=nk8JMAiuipW5qMAnYSnUQKoZankYeo5J4JnJMGLskE0"
+        width: 959
+        height: 622
         isCached: true
 
 secured: "2YlnafpA0GjhQQVFcme6iJFPL56Bf5NOyx5RbtqIaQGXoqfkqLoJTQLqRvQzQ/BZB3rP1A28SU2oGvrDjZqeHzhVaj805BlY2NX7XadSe4NYOzowWzI3sMpPxkkp7H7krLRn0JOqioCegjnngHw5+RtKnwBKIxeIb8AbUhxw4We5FEMYoXWK4Qw7lkWWyrYILEdyPseNtWkB7yELObSDq/DeO/vev2KgV+Cddp8pvpCLKWGX5wtw4bLGheCDGzsWUCqvst0oxZroque06H8TSxEuFu2lEG3Fgwcegfp25epxhkbe4u99/wEMEgkvATD83QXVGXdPfls5PpNxNm75YXEDeQz8+QYVpRC3m79Dat02VhoLtxdfluRP1crJehWhWdwv2tAGIRDff47CzJ7tXJzg7QwYf+9kd5wZyiX3mRiXD3J4HHle9UlJ1E0gp4RkCqhRXWarMQz2M5/Kj8G3Dp6IInxlUhT1qFcB3pEPXLI0bekl9ewqmKK85KkKsDILr5Y4uC5EWdnrLmDQom1Naw==;JxdPh0dGCIaCzTLnWC4VSQ=="

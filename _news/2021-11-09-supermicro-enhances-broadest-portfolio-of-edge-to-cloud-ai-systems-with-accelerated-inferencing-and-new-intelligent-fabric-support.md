@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Supermicro Enhances Broadest Portfolio of Edge to Cloud AI Systems with Accelerated Inferencing and New Intelligent Fabric Support"
-excerpt: "Super Micro Computer, Inc. (SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, announces the enhancement of"
-publishedDateTime: 2021-11-09T08:35:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/supermicro-enhances-broadest-portfolio-of-edge-to-cloud-ai-systems-with-accelerated-inferencing-and-new/article_ef439956-8a80-5a43-bf6f-83f93b4be250.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/supermicro-enhances-broadest-portfolio-of-edge-to-cloud-ai-systems-with-accelerated-inferencing-and-new/article_ef439956-8a80-5a43-bf6f-83f93b4be250.html"
+excerpt: "Supermicro's latest NVIDIA-Certified Systems deliver ten times more AI inference performance than previous generations, ensuring that AI enabled applications such as Image Classification, Object Detection,"
+publishedDateTime: 2021-11-09T09:37:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-supermicro-enhances-broadest-portfolio-edge-cloud-ai-systems-/2021/11/09/9487111.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-supermicro-enhances-broadest-portfolio-edge-cloud-ai-systems-/2021/11/09/9487111.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/3a/53a81a4e-073d-5103-880b-c68e54128eb4/6050c59ad4951.image.jpg?resize=1200%2C617"
-    width: 1200
-    height: 617
+  - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
+    width: 400
+    height: 206
     isCached: true
 
-secured: "hlzady15gxzUxlB0U3FoP1etnzi3XuAOrTJLhf2JA2g3iqGqttloiiHCvkkyHhxX3Ej0+mdWWWOmU+L+MTsd5m6cY+IosJbe5LgWOGtjvG/inlj7m4sst8Ar1DE3FyGd5zLvGPiNXs9LyLvPEWIsOwRfJC7YnRNZHJ8NWSWlhkRIArCEg6IVyZejNkuLhOP23O1kz/8dkTevdFYaTqTL87e/Orkq5LMapIrNySOz4c6wFpO1Ru0NLAZyBXpeEnx0Oe4WwoIXP/lmOWnQVPACQsbM1Oaq7Yqh7lA01xB6Y1R0pWouzgL9CJ3PIc/qWF+Zxx3g+I4mwjQlFRizPaJUe/mHbSQa3Pp6MF/T5nn3ndOkJRmBUQjRBRmsp5qEw373OxX8fhBXXBnVeIKHHj2OuIWqXXR7qKupGC940L0cV6hF/glnrkROmn3Aaq6JYLC0OU+F6clhBce87oMP5l4qJS7jMMHDd/XQV5zUQGk5a2lA2TxK1yoA06I7W+ciI6+9ZVo2s/rDqvqIrDRADDPJJg==;i9rZiX/wnyJre8naw51GjA=="
+secured: "+DqzCNwTcFf0///h/3vty9WEWL/lsebIsRGdFdHTpqJsPYDiLp4MVmZi5lP+FfgqVj+7REs6fnXnZA6bSJrFhR7OaUzNVCU6wv9TH3uW3NKjDNxnMG/Dhv4GTxZhkmMXUzblCnphJJIp6KTfQyYT/bOzhw23cq55799m0EXtBIpuo9BhemICcOr6M0CaA0tU9BWP3IOHEAQuO6cj3/LjaQy0W/PDTvXG83EWFuOT+2/8HKgtKL7hfh1EN765K7T8DFoE8ASSH+ek5PWASTdzxqctg42n+fw9MyfQFGZcrRlgT4kY70nor6Vu7EC6BH9htg+obYLh+2NKsKEJogCFRvsBZfm9x3NaevWC9xFYtWk=;YROoKymN7On6o7GdSZVM3A=="
 ---
 

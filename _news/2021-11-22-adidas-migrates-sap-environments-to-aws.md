@@ -1,18 +1,18 @@
 ---
 category: news
-title: "adidas Migrates SAP Environments to AWS"
-excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
-publishedDateTime: 2021-11-22T07:29:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
-webUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
+title: "Adidas migrates SAP Environments to AWS"
+excerpt: "Amazon Web Services (AWS) has announced that adidas has selected AWS as its preferred cloud provider for SAP workloads. Adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
+publishedDateTime: 2021-11-22T13:39:00Z
+originalUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
+webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - AWS AI
@@ -47,6 +47,6 @@ related:
         height: 406
         isCached: true
 
-secured: "cRB9pz7IuqDhcARIISu7A5CJvYj4ov1xjRogqtFBQ3kQ+RxP5PTlSxgiaDP5aF7Nsua6Mr7z6960bd1Ci5EjXC4mdbalkFV1KeHQCj1Vj8LOyAGFZVyZiX3ESfmHqxG+56wotTERzNQB6StaG/130TpiN71tC3Pdmg75DIUCk3o56gAJJnsfOgY7+iGUYkLH87VhZdPDXaZym1+0fl2WB0wzwrkB5ghxdavaoKd1H7H/jtQ8jRQ7hcZSMUHZ2fMHrZ4sl0UloQMyT1nBqTFASod2ndm6QLcMskpR2ztPaYyQAlmjtUkxG87Q8xQZYkYjbfK4ipB3ycC4ziEGZM9aoHByKA2S5AW433wS2kw1B6kJNDY9X+Xeg1Wxp50R54rGaqDGfrXl9/19fadzLUjF9mAwzVshNKjKCKZFwRCg8FM31LaT3hbSvejROrilIuW1F2EYzFqBzE2LcCJVy4o1RNMnJtFeXdVMZq7ZQH8HA3oMpmDCYiHKfbgzhdyaZTfyNAYvYmL7fa09chmgan2dJw==;S32x+QsLqqVZvWfr7uIUVw=="
+secured: "cBrFHOCar/nWtSISpLEBTGgFhRdeMaoLkp90eadEPY/K9IzO1cS+n38gLs3r6QSMO4SmjxcmrIrPE6Gx9IP7djcUmY1stt8Fr+7wwpq55TutRnN79nDYLCn4d329HjC2UL/71bXAV4Z4IUW7Recn4LYwkrING6plXq5046viVmfXwc3pfyuTC3v1n4exkaAc4BG8hQBEGm5cp88ED88sGQ/7zK6FzJf46cNfNJr0NbuPGrD25GScylnC5nLEp/3CijzgAGD6NGVdU7fp5f0R/LJ+9WbTWO08FhAKu2UT7NkCnae4qdW62l77ez/L0UgJke5/Ay9Bz0xm06TX6OR7bI7mpcRchoNvKW9hWmHHAWI=;SZPYzqoVt4I2VM7IhcQnIg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/chain-custom-amazon-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/chain-custom-amazon-sagemaker-ground-truth-jobs-for-image-processing/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-related:
-  - title: "Accelerate data preparation using Amazon SageMaker Data Wrangler for diabetic patient readmission prediction"
-    excerpt: "Patient readmission to hospital after prior visits for the same disease results in an additional burden on healthcare providers, the health system, and patients. Machine learning (ML) models, if built and trained properly, can help understand reasons for readmission, and predict readmission accurately."
-    publishedDateTime: 2021-11-17T22:45:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-data-preparation-using-amazon-sagemaker-data-wrangler-for-diabetic-patient-readmission-prediction/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 70
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/08/ML-5155-image021-1260x600.png"
-        width: 1260
-        height: 600
-        isCached: true
 
 secured: "kOsXU2bF9m+FGOJZvLWyCaADkZhDVsPaw7LzoChXjsGrcA/bnQOFBjzv+Cajd9WjIx4PrfVOBfsN4d8firOKtwXxsiPaUWjNHItpISrNSGQDzb4i1h+uaJE5orb5kB5GUWRJ7ozjlK1B7v705zy52MnpyuJzCxULG8d98HXBiJtzelFDVQw/8B7HgIcEKEG4cNKxMtaKJhZ1kzspfFWXtxp8yRnPOTt6tpz8MJDL875avqr3OH20ypoeFW7p28Y+p0LW82kPIlvy6XXP3/Lg80IqmiyMIXCCZUotSCWdZOsrBri2fgFfvZn3S0cMQDbrTGLf/bfLSBHC3rNHHJN7ePiI6sGkgztvo4RmpjBt4Dw=;Ucci7vuLc+x6Fke8fiFJQQ=="
 ---

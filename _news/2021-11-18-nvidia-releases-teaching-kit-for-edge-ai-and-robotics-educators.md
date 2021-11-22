@@ -26,46 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia data center sales grew 55% on demand for artificial intelligence chips"
-    excerpt: "Nvidia stock rose more than 5% in extended trading after it reported third-quarter earnings Wednesday that beat expectations for both earnings and sales."
-    publishedDateTime: 2021-11-17T22:29:00Z
-    webUrl: "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html"
+  - title: "Nvidia’s latest AI tech translates text into landscape images"
+    excerpt: "Nvidia today detailed an AI system called GauGAN2, the successor to its GauGAN model, that lets users create lifelike landscape images that don’t exist. Combining techniques like segmentation mapping,"
+    publishedDateTime: 2021-11-22T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/"
+    ampWebUrl: "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 103
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106668816-1597783026604-gettyimages-1177538055-347713477_1-8.jpeg?v=1602189731"
-        width: 4000
-        height: 2667
-        isCached: true
-  - title: "Nvidia shares rise as FYQ3 results top expectations, forecast higher, as demand for AI chips 'surges'"
-    excerpt: "Nvidia said it had record revenue for its data center group as demand for AI chips is \"surging\" Graphics chip powerhouse Nvidia this afternoon reported fiscal Q3 revenue and profit that both topped Wall Street's expectations,"
-    publishedDateTime: 2021-11-17T21:30:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "Nvidia easily beats expectations as data center chip sales grow 55%"
-    excerpt: "Computer graphics chipmaker Nvidia Corp. posted strong third-quarter results that topped Wall Street’s expectations today, driven by record sales of chips for data centers, especially those designed for artificial intelligence workloads."
-    publishedDateTime: 2021-11-18T01:22:00Z
-    webUrl: "https://siliconangle.com/2021/11/17/nvidia-easily-beats-expectations-data-center-chip-sales-grow-55/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/40162981845_12925780b4_k.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Nvidia stock on big run, rides on the tide of demand for AI chips"
     excerpt: "Nvidia, graphics chips major, recorded 5% growth in extended trading after it reported earnings on Wednesday for its third fiscal quarter. The company expects to report about $7.4 billion in the current quarter,"

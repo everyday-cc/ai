@@ -25,17 +25,6 @@ images:
     height: 1173
     isCached: true
 
-related:
-  - title: "5 takeaways from the Global AI Virtual Conference Model Risk Management workshops and roundtable"
-    excerpt: "Much was learned during these discussions, so we felt it was important to summarize some of the key takeaways  to help broaden the discussion around AI and the future. Without further ado, here are the big ideas: Many AI models make too many assumptions – Finance Professor Nikola Gradojevic from University of Guelph spoke in detail about current algorithms used to predict and trade securities for financial institutions."
-    publishedDateTime: 2021-11-17T22:11:00Z
-    webUrl: "https://www.finextra.com/blogposting/21278/5-takeaways-from-the-global-ai-virtual-conference-model-risk-management-workshops-and-roundtable"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 6
-
 secured: "Z32HGXp6HIT0YX3PstEm2BRzBwWVsUpIjQoY278fEEqbmfppTEhfDXkFtf7SQbeugFZj6vjxCb7Yz1xkBAQL+BVi6u7sOLIS78smiBPvIEAdhIFHUWIJqFud5x95uPm9Zw4W42Smef9YuQApW5ers1eQTEwY2F1Sgxv0aka6qsb4ZXiWhR7gxdwLReaY455nrv6AIdiQr6kjbyikizW69VG7GJOdsDoighuv5SIN06FAvhfbamNsI0dIadyfFQaZdQNDXATbs600r2JAwe0bfWzlbDtp9EoieOf6pNrbXU5hq/J9N230uB3PhbJLLyKibAWrwC/AEBvJYxAWzLJ+59h1UW44ZxK/OMaeWZtIJdNXqotHjdAbOgL/1vIcVajPxZJkxQerv3ZIVvcNMM1Z7bIMHgt2tAOtOcrU2jaMGVitw+QuRMAGhFKFDmHjDp3MDUXt7li1/n5Alb0DBLfI7TFnSougCZ/Wc49iPXvvI5jFhcEbZ5vb99oiMSvgkmjG2iivZfk6nK+C0TorwdDDzA==;6UnXXxfcMm+9xIvYKAiEhQ=="
 ---
 

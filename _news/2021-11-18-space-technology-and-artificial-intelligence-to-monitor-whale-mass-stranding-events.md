@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-11-space-technology-artificial-intelligen
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-space-technology-artificial-intelligence-whale.amp"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 736
     height: 736
     isCached: true
+
+related:
+  - title: "AI Medicine Software Market to rise as a Worldwide Trendsetter in Technology and Development"
+    excerpt: "The latest research on Global AI Medicine Software Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges impeding"
+    publishedDateTime: 2021-11-22T14:10:00Z
+    webUrl: "https://www.openpr.com/news/2470260/ai-medicine-software-market-to-rise-as-a-worldwide-trendsetter"
+    ampWebUrl: "https://www.openpr.com/amp/2470260/ai-medicine-software-market-to-rise-as-a-worldwide-trendsetter"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470260/ai-medicine-software-market-to-rise-as-a-worldwide-trendsetter"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub22348672_g.jpg"
+        width: 800
+        height: 378
+        isCached: true
 
 secured: "mywkB39Trr3P6Vu6m3qQ4/ZflxXed1T6g/q/OIVR7bvqJTV7cD35Dby9cnbYhBviBur8KNNINLWpA3wfshYaJ164QSBsBVl8DqY5GpkDZ79MoGVpiAhkprsgSp1OUOnWLAPWub3NZUnBh03BA+KCljnBXE7/GSdllny6lTNbZWCDuDIQ1tv7aEx7pbgiscU9BKBUROb8gp/vv+jI1UsYQsiQaGEmrgjiK0VfUjCVep7Bf6qesJqB4FCmnxA1TPDcRUQjnAOhL7WhK5qH2KXSVK1YqbWu9uwcqzV/lIQNCzHDzRmOsnb9bMDjQXW03XaE/kr2gY6EKllN36vmpUutjOhc8wNPvfbOrasEn9Dvoqcr0WPoEm1rgGaQRX8xOu285LsCbfV+RqzVRZMn1tT0ZScDFcqIaTaQIbzE1/kudfftWMyg3Fah8MUGywKNY0s5Q0NuvY7EFftzc9R2NbyGCdEinJpwSCJ3+o9PtY70urVjcpKDy74AdsRKLp3NKwNDgbSA9LqJAVIWJj7GpW8PaQ==;eq7u3Ac7sKcSM+TyCNxMaw=="
 ---

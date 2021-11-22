@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-17-azure-cosmos-db-htap-using-synapse-analytics.md",
+      "title": "Azure Cosmos DB – HTAP using Synapse Analytics",
+      "excerpt": "using AutoML to develop a Regression/Classification/Time Series Forecasting model using the Azure Machine Learning linked service, and multi language support for advanced analytics using the Spark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sqlservercentral.com/blogs/azure-cosmos-db-htap-using-synapse-analytics",
+      "originalUrl": "https://www.sqlservercentral.com/blogs/azure-cosmos-db-htap-using-synapse-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sqlroadie.files.wordpress.com/2021/10/blog-stats-2021.jpg?w=1024",
+          "width": 1024,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-17T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SQL Server Central",
+        "domain": "sqlservercentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-unsupervised-learning-market-to-see-generated-opportunities-2021-2027-microsoft-fair-isaac-ibm.md",
       "title": "Unsupervised Learning Market to See Generated Opportunities 2021-2027 | Microsoft, Fair Isaac, IBM",
       "excerpt": "Unsupervised learning also known as unsupervised machine learning is a market that analyses and organises unlabeled information using machine learning algorithms according to Infinity Business Insights Unsupervised Learning Markets are the future frontiers in the IT and development industries These",
@@ -1307,49 +1350,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer.md",
-      "title": "CognitiveScale Names AI Industry Veteran Robert J. Picciano New Chief Executive Officer",
-      "excerpt": "Investors include Norwest Venture Partners, Intel Capital, M12 (Microsoft Ventures), IBM Corporation ... sales and marketing for IBM’s Cognitive Systems portfolio, including IBM’s multi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer",
-      "originalUrl": "https://www.digitaljournal.com/pr/cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/25101d9c67bcfd9c900922678552493eb1c32a42-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

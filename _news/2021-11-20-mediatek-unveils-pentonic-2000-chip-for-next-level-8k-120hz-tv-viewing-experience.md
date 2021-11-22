@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1402
         height: 704
         isCached: true
+  - title: "MediaTek, TSMC unveil first 7nm 8K digital TV system-on-chip"
+    excerpt: "MediaTek and TSMC have unveiled what they call the world's first 7-nanometer 8K digital TV flagship system-on-chip (SoC), the MediaTek Pentonic 2000. The MediaTek Pentonic 2000 features artificial intelligence (AI) engines,"
+    publishedDateTime: 2021-11-22T14:08:00Z
+    webUrl: "https://www.telecompaper.com/news/mediatek-tsmc-unveil-first-7nm-8k-digital-tv-system-on-chip--1405054"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "Dxn9M9ocX0LSwJ3SUNnDpCBiZeILEbwRxPf/RHAzmAwwQ7zVevV3tC0B49v/OfvFS2MSKvxzNCVI8eO833dOV4AotK6UD+IiWmSTJtH+jqoGMdXBya0n6l/VZNRuAJs5lyfxc1JO2pPZrQiKsJBJzi79Bl3IpT7M/J33eHpR1Cgx9TSb6BtATCEIlp0VmweCi7U1sVZR2GT2NTtNR8Xr/rPb3QsGqtOWq1J4TfggnzSi7aKwfQbxdHqT6fEYQwxZhD3ADVUMuiz8jiiH853CzV3q0BlyzqGvukocZOi3U071Yj/qRJn1YDyPWGNSwUApI9AepUTDxXk6LxAiohex3q+XCWZjYTgAibVeQgWBbPIeyCmDgosadbM57max9zP2qrmptqsbzo7g1cl5Lhei6KwCsSfGFsCq5wdm2C9ihHNOW9SgNrcjWyw9RvaMcHCT3o0oL/yLwlqnwPqtl2nIlFm5IhuqJk18gkmxvzNLyt6cOuIF8R2cgdr545GVQP8ADaUAJDmpq81LVdLctisT5Q==;s0FhKd1tMTfNw9sGgYutig=="
 ---

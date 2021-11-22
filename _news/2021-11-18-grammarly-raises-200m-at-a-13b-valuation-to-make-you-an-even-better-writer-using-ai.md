@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-val
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/"
 type: article
 quality: 180
-heat: 200
+heat: 190
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Imaging AI startup raises $5M"
-    excerpt: "Medical imaging artificial intelligence (AI) and advanced visualization startup LifeVoxel.AI has raised $5 million in seed funding."
-    publishedDateTime: 2021-11-17T21:34:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=134168"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2020_02_20_18_12_3118_money_bills_400.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "yOwMbkIs9qMbjHIQeM3fFmPH72HWkx5Mg3LEywsWUGW5Nf0eUCqx2LGbe7ix/iKoiBRT9goEtC1A1VKmibqSv+F6FHBUnyZQ7++K5Dv/NBAewya2/86n+mnBloU6W+il03xRpqaQLG3AqOVTbfjGgSAR4WtSKTI8bVVxAU4f0oKyoSveTqmwUIjQ/OWLOwqsMvyhlxelZ/GHm3Z1cF3r7ZrtTDctVIA4343BPOW82TFxvqaI3kSziQkx1DwvME0UQICnINBF57f+KYxSjkkouyP7YYajf+HdBaZYE/c2tOIZT9SOzNSW4eJRW+LzZ6SKVkSXYAen7THdCahd01jQREwbYs3L4GuoD8od4hZFTtr5frxnEVzdiYmd6rImXyqD8EmTOm/BKuWieflhi2qc++mBw+f00phi+46pT81QTO/cipAqJLi7AeovRt9/6wXHyyniQdnShdPRaLER21vnMGcGdEfJ3ZvG+suA7mSaxBW7PoKwkRRn0izSfha1dD5NtVvVrcYphmcXNYK/UnsO4FT+5Zq5JO+DR+KAIr7s96Q=;aHcU7XRy6lrPk+cyMNzxdA=="

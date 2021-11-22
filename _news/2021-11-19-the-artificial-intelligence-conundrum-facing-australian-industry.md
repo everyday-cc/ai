@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Unwelcome in Another Country, Clearview AI Forced to Delete Facial Recognition Data in Australia"
-    excerpt: "Australia's privacy commissioner has ruled that Clearview AI has violated the privacy of the country's residents, and that means it will be forced to delete its cache of their facial recognition data."
-    publishedDateTime: 2021-11-17T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 61
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/11/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
   - title: "Google’s $1 billion Australian plan is really just a cloud and AI play"
     excerpt: "Google has announced a $1 billion investment in Australia over five years, bringing with it thousands of new jobs, along with ‘digital infrastructure’ to help businesses in the post-COVID recovery period."
     publishedDateTime: 2021-11-18T06:26:00Z

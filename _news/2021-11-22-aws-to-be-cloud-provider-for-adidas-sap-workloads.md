@@ -38,16 +38,16 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "adidas Migrates SAP Environments to AWS"
-    excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
-    publishedDateTime: 2021-11-22T07:29:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
+  - title: "Adidas migrates SAP Environments to AWS"
+    excerpt: "Amazon Web Services (AWS) has announced that adidas has selected AWS as its preferred cloud provider for SAP workloads. Adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
+    publishedDateTime: 2021-11-22T13:39:00Z
+    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
 
-secured: "JMBLsBQ9ym5ikjlDje7RTAujJFY9lZjEImhI8dixg/aVvi80tYnELQJQLHvsB+wMRFC5KkRsdeZg5kWuXIRIrA9ndfhAvHyYRDO6T6KXVCGYODUHshHXoZnsY325GAgDjVPbixYbcziiknfDIdUZImyJN6+isUomCReZSzFrMhypPJtN1dTgPnTIv00wz0bHpGggbLy7gvD4MR90YivX2iBBiVZ2Y+6f+En98HW3a5lQQr3OTu2KZI/N3wakGmt/I2X27zHPmeEWy5dAEi3zypU/1zSZRt9koXP7lb56ICwS1bYRTZdk45pwWTtPUHiTfV0yxxE24rZhpFIP5xSxB8jxq3BUJ21nUxKCO6hH5Mk=;NeUDtdjjn52CDTmLhc1aag=="
+secured: "pCGEdbFKKk7k7ecBQE9/0Ec1pUWbx7lFTpW95XJjzUy6CKFHidLhaWzR388p15Ir/HLfxeVS4k6EQYgd4etqNFB5a1EY/8m8idIMgAqAf45+V2fek6i8DTwgBx7I67/Sx+h6BUxAgySyS3u9+4TvRQL4s0x71BaWNNp+rnxXYq/IsmiV6At79SzDvi1tk00h/XfAp0BIB0aLnbwNSwY0q8hESWqStgQebmY59MmleHog6BE601kkCQiKCQYvuum78whNKYnAZPCsHtk233Z2ODwshQmV5f330LIvLLKf4hXGeHoEJoNOfnck7X7MAU6VDduJPryBhzrNU+39ZWlm0tnWBtdsyiONEKXbUaUM02shNv7XWQAk8k4hRFuBBkg68xGkpgg5xW2NLTH/I8QSrKWs7anDX5OC6mUljj9qiybKWJ8P8fzYA9Ltodmg3g+VHVTCxBt1uQo0Ci5Ms4+5S/vVRiyCeZwSrMWziqHarNtWpFBwsgq3VhkIllBWOWnkw4fupWf07MIrPQi7OInk1g==;7WULdhBSxaDBmam+ktH+cg=="
 ---
 
