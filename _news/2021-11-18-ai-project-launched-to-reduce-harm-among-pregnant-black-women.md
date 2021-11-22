@@ -7,7 +7,7 @@ originalUrl: "https://www.irishexaminer.com/world/arid-40747107.html"
 webUrl: "https://www.irishexaminer.com/world/arid-40747107.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI project aims to reduce harm among pregnant black women"
-    excerpt: "Researchers will use artificial intelligence (AI) to analyse maternity investigation reports in the hope of reducing the disproportionate levels of harm among black mothers and babies."
-    publishedDateTime: 2021-11-17T12:32:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-project-aims-to-reduce-harm-among-pregnant-black-women/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/17161/larry-crayton-fwx91orbr6e-unsplash.jpg?crop=0,0.16625,0,0.34156249999999994&cropmode=percentage&width=1200&height=450&rnd=132816242610000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "kgDQ+sxAQXto3nxDEQRDu4N/q8m22cssO8cwq/VeGAMnJhqZnNHv5/90gF1xfUBhOvakX9GWK0azBe4WNoEgquTqUOUYXQcBb67Tji5AJBu1uBa2Djcz4udZdyrLRt8Wyfb33FT0HoH0QuZ95nkk0RB9pCo+AmdxxvvHwHqGMpgo7zzPV6Hayef/s2dko2ZqKxnyM5s7qkLzfHXWTC7/LAqYRYFGcCyuNLJwYYKIXnh4OtqEkSv6tTzHtsrXx9+9FT40cLmn4DJfBIQm8sJrgzUeqVWQwM0BqizzHri8wvPv60vT4siDQNwTyXpFPx1mzE7/mskuyjaFayabwu8pZaWhDu3rbygGlrewvmEw4Yw=;Vuh3l6gjHr540zhDtp1Dgw=="
 ---

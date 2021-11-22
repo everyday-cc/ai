@@ -28,6 +28,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Pharma: Striding Towards the Digital-only Reality with AI"
+    excerpt: "As industries across the board move towards a digital-only world, pharma companies must account for the different technologies that are transforming the R&D process."
+    publishedDateTime: 2021-11-22T04:56:00Z
+    webUrl: "https://www.managedhealthcareexecutive.com/view/pharma-striding-towards-the-digital-only-reality-with-ai"
+    type: article
+    provider:
+      name: Managed Healthcare Executive
+      domain: managedhealthcareexecutive.com
+    quality: 37
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/mhe/280fc669171ce5f3f389b2d8ed469332854863b9-1000x568.png?fit=crop&auto=format"
+        width: 1000
+        height: 568
+        isCached: true
+
 secured: "CV973p1YJkYrxvSTe/PxJBsn9f3Z1PWkZkX2VGLkjtAFTpEacw7tQMeBo7YaJeTWT1Kfy5A+7qSTe5MXXatRuKXYiFNQdhMCDD/Ei8/4FLgYhElIebGnYCwaSCpzQpU9xukijMjf3WgJA7SEgXv0TSwHWJfVojjPFGaxfDivAuW8ehRpcCiNqk0dKDRnEDBlpp4OtbNFPGU5nVPfHWCi4Y6uCuvTcZrRQsPiwSbA5NbPmQJHQt5fiTrgksIhl0VKXka39iCv8bZZMZjD8Rjo5iTRcrCshjP/IHtOvHdawRo6orVyg4fG+oWY61T8TIpb6UYq3VNOooFkT/bnEE7qfyaANOwbaqVpFTfwjB4TBEm8EE+fBinKlkQQRoIdZixM+5yY20JMl44CQS0HahNhe5Txew8VwT38H8MuBljw4XjYiQnYPHnfPNIXxU1C7wPIY7opEaFWnBZdYqKp/VkwBV+RjPWkGUf4Eix4My+jTlp6C5cF9B3NL/D1Vs6mrAwJlykJ9l03x3kTTkY9PPXF+g==;cEs8mXjSa6t9F7xH5YxcZA=="
 ---
 

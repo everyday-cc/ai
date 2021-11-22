@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-22T01:32:00Z
 originalUrl: "https://www.forbes.com/sites/anniebrown/2021/11/21/how-the-overlap-between-artificial-intelligence-and-stem-cell-research-is-producing-exciting-results/"
 webUrl: "https://www.forbes.com/sites/anniebrown/2021/11/21/how-the-overlap-between-artificial-intelligence-and-stem-cell-research-is-producing-exciting-results/"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619b006834fcd4d72af6a570%2F0x0.jpg"
@@ -27,6 +28,6 @@ images:
     height: 795
     isCached: true
 
-secured: "O2wq4+dl/xYEnQ9ETAINRNdV/zGjABtzLr9c/TTgvmGZ/y/gYOvM5JKXzOXL0Z/ljd2Xwf4XNWpS78KhH+5LLqixsTsya6Zlx4rHa1PyL34V+ojcr927B+61uUJ+oD8xdhTJ0uh/Z8LKtcW291pFRID9EfEixgOvk19ySGMeIlhRheHMtB+UQOTYIaO2hWbh7azTo8D2dpqQbZOpQ2Mg3aPFD1W8DR96U637UMSUsAhKQIs4nRprG4pKIOkAGn7WCR2fMAQso2heZ7Q7YrX9odCBn1+ldaKlOipwDKFidnxWyUbpqIQ3ajalwNtuTOmxLUYdvd9fswSVjxVMEbg7sDXLVT6xoffsU1BCFzRKE5A=;NUAsSKRiK0fX7yI8o8QCAQ=="
+secured: "ft6Fp9s+z2+lA+zEigEfKo8k/GG3dPLGTiworLYFeYx8pTWBhoE80OeaOJBqv1rFQlZfxd/iTyHnEZAsCuD39dHKC4r2F3ifCpCCP/E2fmU1abt2gQdKWUHlJBAhrfsfDjkgsIbvzAXOhqv+hPj3zASSqiNy4NQoGEyMZ7Yh+xyoetiaP4KwXb4B/ljfWXMbf3V2lHenHZErSSStq7KzIWO5HPyOnq97oubzssrkWQtX/qn3x9mVrI8jug67huLzPkOGP9SSaB2gQKOwdaXlgrbGai3HpGj056XPK30y2sKfI7EQ/ymtYJSNNYpsyzJdoNzIthwUtgz/ta50i68MVzrmnDyi2JBZOzL9ezdqf1j4rWE8yKW8/pPSmXvrllQv9+TPLaZOBZKzJwlZCC+vajaQozccNEvWNcrScschXMhZx/2jHQ+T98O16naKEhDATc3rj/a5UVJ1YchjM4qrRZKvyLK/aYDducHDEznsZVc/qHYNlXm4F7B0Q6DC/oqEz/j4fOyIw60FK9ilCnX0EA==;RZDzd6PNleaUdBNX8LvCZA=="
 ---
 

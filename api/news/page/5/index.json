@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-17-ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge.md",
+      "title": "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge",
+      "excerpt": "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge-827720479.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge-827720479.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.ytimg.com/vi/aivIalSrqtE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T17:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year.md",
       "title": "Darktrace aims to expand into ‘proactive’ security AI by end of year",
       "excerpt": "Darktrace, a provider of security powered by artificial intelligence, says it plans to expand into AI-based attack prevention by year's end.",
@@ -356,6 +399,49 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart.md",
+      "title": "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart",
+      "excerpt": "There are already more than a billion people interacting with businesses via either text or voice-based conversational tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/phildavis/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "originalUrl": "https://www.thestreet.com/phildavis/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg1NDUyMzY2ODM1NzU0NTEx/file-20211109-15-ll83na.jpg",
+          "width": 620,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/phildavis/.amp/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/phildavis/.amp/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "publishedDateTime": "2021-11-16T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1123,109 +1209,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment.md",
-      "title": "SVT Robotics nabs $25M to simplify industrial robotics deployment",
-      "excerpt": "SVT Robotics, a company developing products to automate robotics deployment, has raised $25 million in a funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1309328951-e1631103778206.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/svt-robotics-nabs-25m-to-simplify-industrial-robotics-deployment/amp/",
-      "publishedDateTime": "2021-11-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem.md",
-      "title": "Bringing AI To A/B: OfferFit’s Founders Solve A MarTech Problem",
-      "excerpt": "This idea of automated AI-driven experimentation is something that every single large company in the world needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/",
-      "originalUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192a35c0a9b64037c834d26%2F0x0.jpg",
-          "width": 1200,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenwalker/2021/11/16/bringing-ai-to-ab-offerfits-founders-solve-a-martech-problem/amp/",
-      "publishedDateTime": "2021-11-16T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

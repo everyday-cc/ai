@@ -42,15 +42,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Fieldin Accelerates Autonomous Farming Revolution with Acquisition of Midnight Robotics"
-    excerpt: "Fieldin, the world's largest smart farm operations management company for high-value crops, announced today that it has acquired"
-    publishedDateTime: 2021-11-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fieldin-accelerates-autonomous-farming-revolution-with-acquisition-of-midnight-robotics-301426754.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
 
 secured: "hiJbgrRfmzMc+ljFgQLCQaPc4NojGUfz+O9qvN1lDdF/savJd9IeA2oCuk6ElaZcxYQ1rTmsXne2BULNvdYKjHE6VHxmpec3YtaKSVSEWPEu8kQqhGnQNJ79gojC3i7bpVH1FS87EU2uPrDa8Nf2A2anGXR8K0MRWCHubnY4CcqPHDqe6Q8k7HMstl3e6HZyZSxhmyyk8tB6hJUb0D7WcfV0uwDrGu2gqdteI7ujmtIkQyZnPWxPmtPh0DmL2E+vUKGNa/iQ3TsevjLQ/0JFEn2yMeda56bj3JctPiTYzga+bqEwlxvRGS4JDjBNXnz1sdQDju9qr8H2f5EJ++C1fC0mv7nmzlvXjPZh6YzVGkRnEngZS29Fbvmv/3MgxmfHhWU/8myMBjy2C+b0pTVr8DU6wnnGe8/HzQctfkAcnJ7a1WL55rtypbS4XHMW4RDHsi8BSLGYODoVg+OsKA70HalZLzfmZB6V+gZhw2iHDLvmjw96Ze12+dJkT34U/JquODrNYUkFI4vaF1fgjC5aSQ==;c+nt+Lucii7z3DjQub8u2w=="
 ---

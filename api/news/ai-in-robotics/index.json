@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-22-haptics-ai-and-robots-to-rent-will-make-up-business-of-the-future.md",
+      "title": "Haptics, AI, and robots-to-rent will make up business of the future",
+      "excerpt": "Humans will lunch at insect restaurants, experience holidays through virtual reality and see robot hire and servicing shops appear on high streets within the next 15 years, a panel of futurists have predicted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics",
+      "originalUrl": "https://www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/22/590x/natwest-1524613.jpg?r=1637449573171",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp",
+      "publishedDateTime": "2021-11-21T15:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-robotics-in-knee-replacement.md",
       "title": "Robotics in knee replacement",
       "excerpt": "People will be quite sceptical for getting knee replacement surgery because of the opinions from various people",
@@ -1407,50 +1450,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-self-driving-truck-startup-kodiak-robotics-raises-125-million.md",
-      "title": "Self-Driving Truck Startup Kodiak Robotics Raises $125 Million",
-      "excerpt": "Self-driving truck startup Kodiak Robotics recently announced a $125 million funding round as the trucking industry is facing major challenges, including growing shipping demand and driver shortages.",
-      "sourceUrl": null,
-      "webUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million",
-      "originalUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.chdrstatic.com/media/4d811bbb-96df-46b3-885f-771caf17ad34.jpg?width=1200&source=backend&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp",
-      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp",
-      "publishedDateTime": "2021-11-11T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cheddar",
-        "domain": "cheddar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI in Robotics"
       ]

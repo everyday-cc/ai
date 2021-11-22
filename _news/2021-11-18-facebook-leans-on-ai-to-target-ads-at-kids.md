@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook continues to surveil teens for ads, study claims"
-    excerpt: "A new study has found that teens and children’s accounts still receive targeted advertising based on data collected from surveilling their browsing history. Facebook is using data about children’s online behaviour to feed their machine learning-enabled ‘Delivery System’ to optimise targeting in children’s feeds,"
-    publishedDateTime: 2021-11-17T11:37:00Z
-    webUrl: "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/"
-    ampWebUrl: "https://metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/17/facebook-continues-to-surveil-teens-for-ads-says-study-15616220/amp/"
+  - title: "Tech Expert Explains Why Facebook Is Not Completely Getting Rid Of Facial Recognition"
+    excerpt: "Facebook said they would shut down their facial recognition technology, deleting the faceprints of more than 1 billion people. However, tech expert Carla Franklin says they are still using it in some ways."
+    publishedDateTime: 2021-11-19T10:25:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/11/19/tech-expert-explains-why-facebook-is-not-completely-getting-rid-of-facial-recognition/?amp"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/10/PRI_203392101.jpg?quality=90&strip=all&zoom=1&resize=600%2C399"
-        width: 600
-        height: 399
-        isCached: true
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 47
 
 secured: "fixEZKMZLL5z5Ti9LvpHop6xkj9hfj8zhX8338v1E/sjb9JthT9dZqN1JyCSFlvS0IWSn+sqdS5oxy/AIWqYCpTSNdBlvOTxLQI+m7JSkwp5GrmqX6DT8NRxOlQSwWp5tMoqjcMD1+mJxP5+sv+BhJE1m4SV0RuFk4hyC0arqnHbn6EqshjJkAoLKgDokVTvS27CwQk+GuIVD0EioXpizBju5TFpQGdCbDv7/QuJpwqOsKFP7kQESsb6xyWXIg4Ms33Xr6PFOtiRWMj1UCvA9YjgrmKHl34tXNMVXQRBfALT56DuT+P34rDtFeEa1o1e5zO/Bmt8brSth9ru2LxHz7OYLFe9Klxt9U9KDkOjx8Ro0ebFpNIquH3/3AmJHVKOmeNGFB4Dr/WSTYKcpuH4OM7Zi4bf7sdNj6z6YfwNVaZnWoyGur13+Rb/YUiTGKyS0RGaOeBPQM0JbTds6ini+riuA2LfHrQ4FTK59kOLQm0ZY1vgLy6AFS9N0wf1CQ8XlKEMO88W+PEyTArKcnt8ow==;ikzTvNvooWXZ4wbvcOBQxg=="
 ---

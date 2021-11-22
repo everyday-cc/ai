@@ -74,6 +74,22 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Massive Opportunities in The Edge AI Ecosystem Market, 2021-2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the The Edge AI Ecosystem Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario"
+    publishedDateTime: 2021-11-22T04:08:00Z
+    webUrl: "https://www.openpr.com/news/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
+    ampWebUrl: "https://www.openpr.com/amp/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub22592201_g.jpg"
+        width: 780
+        height: 405
+        isCached: true
   - title: "AI Chips That Made It To The Market In 2021"
     excerpt: "The success of any modern AI technique relies on computation, on a scale unimaginable even a few years ago. Therefore, more advanced chips and hardware are being developed and released to match the processing capabilities of complex neural networks."
     publishedDateTime: 2021-11-18T12:00:00Z
@@ -87,6 +103,22 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trending Report on AI and Operations Automation in 5G Networks Market, 2021-2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the AI and Operations Automation in 5G Networks Market which represents a study for the period from 2021 to 2026 The research study provides a near look at"
+    publishedDateTime: 2021-11-22T03:50:00Z
+    webUrl: "https://www.openpr.com/news/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
+    ampWebUrl: "https://www.openpr.com/amp/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub22461176_g.jpg"
+        width: 780
+        height: 405
         isCached: true
   - title: "Mobile Artificial Intelligence (AI) Market Size to Reach $84.80 Billion by 2030"
     excerpt: "PORTLAND, OREGON, UNITED STATES, November 18, 2021 /EINPresswire.com / -- Allied Market Research published a new report, titled, \"Mobile Artificial Intelligence (AI) Market by Technology Node (20–28nm,"

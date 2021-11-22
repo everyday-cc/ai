@@ -25,107 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of AI-Powered Document Processing"
-    excerpt: "Through intelligent document processing (IDP), the process of data extraction automation from unstructured and semi-structured documents and conversion into structured and usable data, AI has tangibly amplified extracting data with high accuracy."
-    publishedDateTime: 2021-11-17T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/"
+  - title: "Ways AI and Machine Learning Transform the Food and Beverage Industry"
+    excerpt: "Artificial intelligence frameworks produce more secure, precise production line results at a faster rate and with greater consistency than human"
+    publishedDateTime: 2021-11-17T15:33:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdcc3472c78ec67b5540bbc%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.cioapplications.com/newstransfer/upload/i312c450308.jpg"
+        width: 450
+        height: 308
         isCached: true
-  - title: "Haptics, AI, and robots-to-rent will make up business of the future"
-    excerpt: "Humans will lunch at insect restaurants, experience holidays through virtual reality and see robot hire and servicing shops appear on high streets within the next 15 years, a panel of futurists have predicted."
-    publishedDateTime: 2021-11-21T23:01:00Z
-    webUrl: "https://www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics"
-    ampWebUrl: "https://www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp"
+  - title: "Transform to Outperform in The Age of AI"
+    excerpt: "Most of us already live with AI, from the watches on our wrist that track our sleep and heart rate, to ads that follow us everywhere we go, from something as simple as the autocorrect on our phones or the (sometimes annoying) predictive text that pops up when we write an email – All of it is AI."
+    publishedDateTime: 2021-11-17T13:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/transform-outperform-age-ai-zycus"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 74
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/22/590x/natwest-1524613.jpg?r=1637449573171"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "Base64.ai Launches Cloud-Based AI for Real-Time Document Processing and Data Extraction"
-    excerpt: "Base64.ai, an innovative New York startup launches its cloud-based AI technology to offer real-time document processing and data extraction. The revolutionary technology recognizes any type of document and it instantly extracts the text,"
-    publishedDateTime: 2021-11-18T13:23:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12612"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12612"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12612"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 51
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12612_16372381171437.jpg"
-        width: 350
-        height: 215
-        isCached: true
-  - title: "AI’s predictive power on the big stage"
-    excerpt: "For all the good things AI, machine learning and big data have brought to the world of pharmaceuticals and the practice of healthcare, there is still a strong sentiment out there that these tools have yet to put a dent into the high rates of clinical trial failures."
-    publishedDateTime: 2021-11-18T18:09:00Z
-    webUrl: "https://www.pharmaceuticalcommerce.com/view/ai-s-predictive-power-on-the-big-stage"
-    type: article
-    provider:
-      name: pharmaceuticalcommerce
-      domain: pharmaceuticalcommerce.com
-    quality: 39
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/pharma_commerce/05c627fcd9cf877126a398fcb126e8d7d2bc73fc-2100x1500.jpg?fit=crop&auto=format"
-        width: 2100
-        height: 1500
-        isCached: true
-  - title: "Humanity in the Age of AI"
-    excerpt: "The Age of AI” does not break new ground on AI but it raises key questions about how AI will change the way we live and work, and it is clear that we are just barely scratching the surface of what AI means for society and humanity."
-    publishedDateTime: 2021-11-21T14:24:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/humanity-in-the-age-of-ai"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 39
-    images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/6199141097b981f8c67fadef_AdobeStock_339380253.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Low Code and No Code: The Future of Artificial Intelligence"
-    excerpt: "Will low code apps go any higher? The jury is still out on how high this will all go. Low code and no code might even help business users build AI-driven applications, according to some experts. “Low and no code platforms make it feasible for businesses to deploy artificial intelligence without having to hire an army of pricey developers and data scientists,"
-    publishedDateTime: 2021-11-21T10:50:00Z
-    webUrl: "https://bestgamingpro.com/low-code-and-no-code-the-future-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Low-code-and-no-code-may-open-more-doors-to-artificial-intelligence-.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "FNB: Future of banking is embedded in Artificial Intelligence"
-    excerpt: "First National Bank says Artificial Intelligence and other technologies are changing banking trends across the world and are already being embraced in South Africa."
-    publishedDateTime: 2021-11-19T12:30:00Z
-    webUrl: "https://www.cnbcafrica.com/media/6282764051001/"
-    ampWebUrl: "https://www.cnbcafrica.com/media/6282764051001/amp"
-    cdnAmpWebUrl: "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/media/6282764051001/amp"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGIQNrWRobf7w/article-cover_image-shrink_720_1280/0/1627314958690?e=1642636800&v=beta&t=yqoVmLeB-gcuxmn0ovXNU_UPgaRFpKy1q_dP_YkBK1A"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Businesses Across Industries Leveraging Disruptive Potential of Artificial Intelligence Market for Boosting Bottom-line"
+    excerpt: "Artificial intelligence (AI) is getting seemingly integrated with business processes, opening new horizon in human thinking capabilities. Business processes across the industries have witnessed the game-changing potential of AI tools,"
+    publishedDateTime: 2021-11-19T11:28:00Z
+    webUrl: "https://techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/"
+    ampWebUrl: "https://techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/businesses-across-industries-leveraging-disruptive-potential-of-artificial-intelligence-market-for-boosting-bottom-line/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 33
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Tamper-evident-Packaging-Reassures-Product-Safety-in-Infant-Formula-Packaging-Market-1-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
 
 secured: "iicpnT7ZfnC5ta5mWlzhtwAKoNdHCTHer8ERhuuC+GLvxMQBeVuqtGWGmb6LBvS3gWk8KLvjiV3nMKsmU4siP2w6hPtrTnV8HGayw290fnnDkeO6UiyD5014RLoH1IWVSSwexKgHtC6BAqs3VsY2Ohh/lPhBl0M1jnQEfiQjuDVFNKDps+jUM6TgxVJ5J4ljxZ0mrm/hjYDN63s/VoonYPve6+8bgSMHy2cX3jMDkv12NpSRHeh5luYNSCGEdkZVBHOEJfnL/F7LYR/s0zEJmU2sa7w5pjxk4rSQ4m7MUiRZoAEZq1lPNjwP6ZZ4ptluFKhRXkBRnSTDjrqGCGyod5AHzzKIaYQWZrIpH2Te+WnYqLYkPpE+IXOsW/PIx0biVi6xLg6dN1GwMYnqrL4b0sTfHR4sflczAorGgdj8J2EiG5ecp8KskceMq6AQoYE2y+1lulVtBMkTSH8vxqbRsfVipqtWoxWmk/dCZeGWn9vVS2GdGH15RULCFXGJBPqrWjg37r5eqCaSxXrb5JZnNQ==;fGKZ52XiiGxCIB7aBwNgCw=="
 ---

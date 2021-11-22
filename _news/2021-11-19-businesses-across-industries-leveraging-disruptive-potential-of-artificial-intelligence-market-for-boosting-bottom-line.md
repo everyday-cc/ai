@@ -40,6 +40,34 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "7 ways AI is redefining the future of the e-commerce industry"
+    excerpt: "In this article, we’ll explain more about how AI is redefining the e-commerce industry and what to expect in the future. AI gathers data from online users, which provides essential insights into their needs."
+    publishedDateTime: 2021-11-17T13:23:00Z
+    webUrl: "https://knowtechie.com/7-ways-ai-is-redefining-the-future-of-the-e-commerce-industry/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2019/04/online-shopping-reviews-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Transform to Outperform in The Age of AI"
+    excerpt: "Most of us already live with AI, from the watches on our wrist that track our sleep and heart rate, to ads that follow us everywhere we go, from something as simple as the autocorrect on our phones or the (sometimes annoying) predictive text that pops up when we write an email – All of it is AI."
+    publishedDateTime: 2021-11-17T13:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/transform-outperform-age-ai-zycus"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGIQNrWRobf7w/article-cover_image-shrink_720_1280/0/1627314958690?e=1642636800&v=beta&t=yqoVmLeB-gcuxmn0ovXNU_UPgaRFpKy1q_dP_YkBK1A"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "Fz4mfLRR5jdcV/bgRB8S0MhoC2ej/Dq5ddi0AF3x+jW+/B5hzeeqbuVZbbO1JYqyrLu9GxBrMQM9Vs6uXEepa/841NxP65Mhngnr5Ny0y2uJsF+OOWHbvn0VF2y0WBcVcq0LBJbXcUYKcrPlspUX1O8xEFHwlvFg0GXoafUYpEgwnyFWGru5W/sS6PJhavSJkbPpXW0bNp5VQ9aIWkwR2ke3n+GO/c79wz8eXI1yZmW0+2Aza555tW0j9prmJxq43NMiFnkzyFF2JaaLE8KnGdSLJsclxsHokUyzSRxF4a+pm1bQeL+TuAAOBvdVPVyA+fsrAPjN3vHxSCLNlPzY+P6jE3Ev8ozVJY3lfdkqt2OQjv4iyPqWFtgy/8lhu9cuSdL1ibX3QjqyM6OM4yJ4EyaUJgMZYU+xkEy1vGnUCuiGAaGFr+cEMUkzSTae0pOujwjsFBQSd/Bg9y/jzY6IH4D8XcPPXoawfbjEtNKRqZRpOoggr5Moo0EtvGcnx/W9pMxE/CfvsCRaYYOLMOnNqA==;K4wqr67oQUygb9t2xPFwlg=="
 ---

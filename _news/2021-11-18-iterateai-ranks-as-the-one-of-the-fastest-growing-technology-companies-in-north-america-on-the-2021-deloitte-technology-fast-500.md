@@ -35,22 +35,6 @@ related:
         width: 960
         height: 682
         isCached: true
-  - title: "Noodle.ai Named As One of The Fastest-Growing Companies in North America on Deloitte's 2021 Technology Fast 500™"
-    excerpt: "Noodle.ai, the world leader in Supply Chain Flow, enables the frictionless flow of goods from raw materials to consumer by"
-    publishedDateTime: 2021-11-17T12:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/n24143698/noodle-ai-named-as-one-of-the-fastest-growing-companies-in-north-america-on-deloittes-2021-technol"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24143698"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24143698"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "A+ib1oeQKsAHiL4qOA6fg6zpRH9H6kmCpM8W4REQO/ktnnNawAea25z5ue1h07dkvVRVRMjjAAvoFqJyKOyv7XlErRp0x3c050j/xvSVV3sJR/3HiUtMD4mHegbQxTWNsm66GS5mUMhKB/Bpa7Iy/lfTTITi8FjxKlSm5R+EEO54JfHziaI4DGLXYuoAPKK53hU1EU5XFO9exyQAYyTCwCm64s4I+CqAcymobzqKkMXRNd1AqpRXmS1RJlBGo+G8QPmshOHnf1xNEWcCCzJUrnHzQNdniy+MWwTrDlv7yr+vj/DYa4aZlMHfwHhJK1jTL11Y1zHu02/wLA3mnDHk/n2PypZdRKCj/Z5L496LggY=;IHjDuQ1i0q5UCLUiEobXvw=="
 ---

@@ -526,6 +526,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-ways-ai-and-machine-learning-transform-the-food-and-beverage-industry.md",
+      "title": "Ways AI and Machine Learning Transform the Food and Beverage Industry",
+      "excerpt": "Artificial intelligence frameworks produce more secure, precise production line results at a faster rate and with greater consistency than human",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html",
+      "originalUrl": "https://www.cioapplications.com/news/ways-ai-and-machine-learning-transform-the-food-and-beverage-industry-nid-8711.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/i312c450308.jpg",
+          "width": 450,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready.md",
       "title": "Artificial intelligence: everyone wants it, but not everyone is ready",
       "excerpt": "Artificial intelligence technologies have reached impressive levels of adoption, and are seen as a competitive differentiator. But there comes a point when a technology becomes so ubiquitous that it is no longer a competitive differentiator -- think of cloud.",
@@ -1397,50 +1440,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-microsoft-india-proposes-varuna-scalable-low-cost-training-of-massive-deep-learning-models.md",
-      "title": "Microsoft India Proposes Varuna: Scalable, Low-Cost Training of Massive Deep Learning Models",
-      "excerpt": "The performance of contemporary AI systems on natural language processing (NLP) tasks would have been difficult to imagine just a few years ago. The 2017 debut of massive language model BERT was a game-changer,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/",
-      "originalUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/amp/",
-      "publishedDateTime": "2021-11-10T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

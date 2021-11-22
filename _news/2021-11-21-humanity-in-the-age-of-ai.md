@@ -25,107 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of AI-Powered Document Processing"
-    excerpt: "Through intelligent document processing (IDP), the process of data extraction automation from unstructured and semi-structured documents and conversion into structured and usable data, AI has tangibly amplified extracting data with high accuracy."
-    publishedDateTime: 2021-11-17T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/"
+  - title: "The Impact Of Climate Change And How AI Can Help"
+    excerpt: "Embracing and implementing artificial intelligence in our organizations is a huge step toward adjusting to our harsh reality."
+    publishedDateTime: 2021-11-17T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 67
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdcc3472c78ec67b5540bbc%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193b6e4c36862f21d707d2e%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "Haptics, AI, and robots-to-rent will make up business of the future"
-    excerpt: "Humans will lunch at insect restaurants, experience holidays through virtual reality and see robot hire and servicing shops appear on high streets within the next 15 years, a panel of futurists have predicted."
-    publishedDateTime: 2021-11-21T23:01:00Z
-    webUrl: "https://www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics"
-    ampWebUrl: "https://www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp"
+  - title: "Artificial intelligence, the new frontier in climate change risks assessment"
+    excerpt: "Large amounts of data and new methods and technologies with which to analyze them. The new frontier of machine learning - a branch of artificial intelligence - at the service of climate studies, in re"
+    publishedDateTime: 2021-11-17T14:22:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/935221"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 74
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/22/590x/natwest-1524613.jpg?r=1637449573171"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "Base64.ai Launches Cloud-Based AI for Real-Time Document Processing and Data Extraction"
-    excerpt: "Base64.ai, an innovative New York startup launches its cloud-based AI technology to offer real-time document processing and data extraction. The revolutionary technology recognizes any type of document and it instantly extracts the text,"
-    publishedDateTime: 2021-11-18T13:23:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12612"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12612"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12612"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 51
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12612_16372381171437.jpg"
-        width: 350
-        height: 215
-        isCached: true
-  - title: "7 ways AI is redefining the future of the e-commerce industry"
-    excerpt: "In this article, we’ll explain more about how AI is redefining the e-commerce industry and what to expect in the future. AI gathers data from online users, which provides essential insights into their needs."
-    publishedDateTime: 2021-11-17T13:23:00Z
-    webUrl: "https://knowtechie.com/7-ways-ai-is-redefining-the-future-of-the-e-commerce-industry/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2019/04/online-shopping-reviews-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "AI’s predictive power on the big stage"
-    excerpt: "For all the good things AI, machine learning and big data have brought to the world of pharmaceuticals and the practice of healthcare, there is still a strong sentiment out there that these tools have yet to put a dent into the high rates of clinical trial failures."
-    publishedDateTime: 2021-11-18T18:09:00Z
-    webUrl: "https://www.pharmaceuticalcommerce.com/view/ai-s-predictive-power-on-the-big-stage"
-    type: article
-    provider:
-      name: pharmaceuticalcommerce
-      domain: pharmaceuticalcommerce.com
-    quality: 39
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/pharma_commerce/05c627fcd9cf877126a398fcb126e8d7d2bc73fc-2100x1500.jpg?fit=crop&auto=format"
-        width: 2100
-        height: 1500
-        isCached: true
-  - title: "Low Code and No Code: The Future of Artificial Intelligence"
-    excerpt: "Will low code apps go any higher? The jury is still out on how high this will all go. Low code and no code might even help business users build AI-driven applications, according to some experts. “Low and no code platforms make it feasible for businesses to deploy artificial intelligence without having to hire an army of pricey developers and data scientists,"
-    publishedDateTime: 2021-11-21T10:50:00Z
-    webUrl: "https://bestgamingpro.com/low-code-and-no-code-the-future-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Low-code-and-no-code-may-open-more-doors-to-artificial-intelligence-.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "FNB: Future of banking is embedded in Artificial Intelligence"
-    excerpt: "First National Bank says Artificial Intelligence and other technologies are changing banking trends across the world and are already being embraced in South Africa."
-    publishedDateTime: 2021-11-19T12:30:00Z
-    webUrl: "https://www.cnbcafrica.com/media/6282764051001/"
-    ampWebUrl: "https://www.cnbcafrica.com/media/6282764051001/amp"
-    cdnAmpWebUrl: "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/media/6282764051001/amp"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
-    quality: 37
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 14
 
 secured: "l2gg1E1LfbrPXSJ5nmMIJ9PwZMX17NIbgGplF8LyKwX38p4+LVkbqP2AVJDh5phsfKduLRNx0e4wtBQEYsrvpAj9+wt5OJkTlcWT2lS/mIzcxfgXRd3ZtmcxEYMtLY+e+Q3FDTWIUo5PMN1AQKzESW0Xt0IvUMT5L2XHD279n+ywmoHv928IKQfsA3ZFeig2/EqY3lFlXD1xH4UaTZWTYlPOA2gMNrmi+vfV/dk+rF4d4SINlnFWz39zwLSjLgrtZoqnK00cIs6uhM7pGyYtcdeE79TaC2KymP139uUQ1Xgs/nJ5EHWGj5PikcoirnSGGFwffGGug6V4oUl3I3BuDtDvCTwqdXCsS9KCUO4nkQqn58nLVIOemQRDUCRG9v9WnWculaIT/yuw8ZUu3a+kqPmUniFjumapVxQtNEhXeDFQgl0V39KNOOt6ZLDcDZFhckvVkoJ6p7490wuJvbZKGmGkDq/daJdTZLdWrhEaJkE+jUey6KSSjd4+MEbqQS6ITZQmBwvfyxtfcbr81HJPtA==;CHEuYSGxjwGXeFb/9FxjMw=="
 ---

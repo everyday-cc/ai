@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2467265/artificial-neural-network-market-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467265/artificial-neural-network-market-expected-to-reach-296-million"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 625
     height: 375
     isCached: true
-
-related:
-  - title: "Image Recognition Market to Reach USD 73.344 Billion by 2026 – TechSci Research"
-    excerpt: "Rise in online gaming introduction of driverless cars increased usage of social media platforms to drive the growth of Global Image Recognition Market through 2026 According to TechSci Research report Global Image Recognition Market was valued at USD27 764 billion"
-    publishedDateTime: 2021-11-17T12:07:00Z
-    webUrl: "https://www.openpr.com/news/2465582/image-recognition-market-to-reach-usd-73-344-billion-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2465582/image-recognition-market-to-reach-usd-73-344-billion-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2465582/image-recognition-market-to-reach-usd-73-344-billion-by-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub17581154_g.jpg"
-        width: 500
-        height: 305
-        isCached: true
 
 secured: "BoOxXgKjyxnKUPiJG//hIRKRvaUc8G58+TMQh+rfs6/ON/fC5mN7torS5r2s6MpkYNE1wxoXoV94fBuppGJKofPvSKYBvzdnct8j+k/Bo10pWbm9wcUTLoIvZ9qWIKhY0Wh0yyHfu5/IYS2JRI8uXtFDunlzNtSFv9s8zz18r96R/OtvrhYGc1QukWCJq4NVO9rQiTOJXI+VSr5frGtulzaJbenFC8V8Wrx4syW9Oey7lO8btb3e684fpUTKFttftdslAjwdB/fvJIYebflTnIntNZLZQc3AJFVD5rMIoCIl+KcBIMcDBJ89+ThvgjFPNEtLLSIlfZZuhXuGHakKgv4FCLS+dmph1bZ4m1IczT2hHFkGsoKxo3c3i1oMgWxvIw8Q4VaeiT3cYyNIrZq8hRFFkDaahoMJ/+c6bhob7WX5c8TX3wb/h1ve66fEYS8B6+DLY5xlKtbsJaRLHEV+iTGXj0+EfjSfImzTesxzYf6jMhV5BaUK8qLdK6DmILRM8ZBJFaeYHFH/xqtJHnp/hg==;vCOzIWm8c7BiN9APWltVzA=="
 ---

@@ -73,6 +73,22 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Massive Opportunities in The Edge AI Ecosystem Market, 2021-2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the The Edge AI Ecosystem Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario"
+    publishedDateTime: 2021-11-22T04:08:00Z
+    webUrl: "https://www.openpr.com/news/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
+    ampWebUrl: "https://www.openpr.com/amp/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub22592201_g.jpg"
+        width: 780
+        height: 405
+        isCached: true
   - title: "Artificial Intelligence (AI) Market 2021-2028"
     excerpt: "The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360.36 billion by 2028 while exhibiting a CAGR of 33.6% between 2021 to 2028. In its report titled, “Artificial Intelligence (AI) Market,"
     publishedDateTime: 2021-11-18T07:52:00Z
@@ -100,6 +116,22 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trending Report on AI and Operations Automation in 5G Networks Market, 2021-2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the AI and Operations Automation in 5G Networks Market which represents a study for the period from 2021 to 2026 The research study provides a near look at"
+    publishedDateTime: 2021-11-22T03:50:00Z
+    webUrl: "https://www.openpr.com/news/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
+    ampWebUrl: "https://www.openpr.com/amp/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub22461176_g.jpg"
+        width: 780
+        height: 405
         isCached: true
   - title: "Artificial intelligence and Advanced Machine Learning Market Size, Share, Trend and Forecast Till 2028"
     excerpt: "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2"

@@ -26,17 +26,6 @@ images:
     height: 384
     isCached: true
 
-related:
-  - title: "TCS Study Finds More Than 50% of Global Senior Financial Leaders Get Short-Term Forecasts Wrong"
-    excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, published the TCS 2021 Global Financial Leadership Study: The Next Era in FP&A,"
-    publishedDateTime: 2021-11-17T11:35:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=302457"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 0
-
 secured: "0gud+05pO6Eune2+lZ8x959SabqLZtM89zhcqPedCj9xTMIx2A7HaK5IodhCZzrCqjELsGzqtLgSDK4ysbdsVLUsZ561xueIvQW7fxVsK7dtkBLzENbrinTwodSx+n3EU449Q+R8ra6/y2ICBv4eR8GMZgOBEdpOCRUwAgcC1WW7nB0BuplZBI4qoBNv7ls977OO/lRlZI4GO4I0XFVAuIRJpQDm/6H13z+gjZzehtxS+OCwMYn1J5eP6zfe4QOpLq/qSF2Ptj8AswZ6zuyo7+FMdDRbuuAJQWFD3vxYCVxio2l8OXBtO4yRqMUMr+2Knng6GhJRTkKAqZjdNguD5O4ntvblyAa/EJ1oDFH5/QVRU9Qtb1+gqP7Hi0mYFhgYOOT6c+sgxDZYQjeDPMecdEUKV1y2k1eLULBCr7aijfBKDxAi2zEBAySUns+CnQaQZYbtQjHQlk6YuStI+WrZllfnOC6bdX6YsjUOKvenwk3cJhHA/FFaFpkLKLnK4X3CDAzpA9pzYK0pyn8aqZF86g==;JPMi/xoEB9bFB66O8TEjgQ=="
 ---
 

@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "China’s Baidu pulls in near $5bn revenue as AI turnover surges"
-    excerpt: "Internet services giant Baidu pulled in nearly $5bn in revenue in its latest quarter, climbing past analyst forecasts, despite China’s ongoing technology"
-    publishedDateTime: 2021-11-17T12:18:00Z
-    webUrl: "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/"
-    ampWebUrl: "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1"
+  - title: "Baidu cuts revenue forecast on Covid-19 uncertainty"
+    excerpt: "Baidu lowered its full-year revenue growth forecast citing limited business visibility caused by the Covid-19 (coronavirus) pandemic."
+    publishedDateTime: 2021-11-18T09:53:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-cuts-revenue-forecast-on-covid-19-uncertainty"
+    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-cuts-revenue-forecast-on-covid-19-uncertainty/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-cuts-revenue-forecast-on-covid-19-uncertainty/amp"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 159
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/04/Baidu_Apollo-e1558072369462.jpg"
+        width: 650
+        height: 399
         isCached: true
-  - title: "Baidu’s Q3 revenue grows 13% as demand for AI cloud rises"
-    excerpt: "Baidu, the Chinese search giant, posted a 13% year-on-year revenue growth for the quarter ended September 30 on the back of its strong AI cloud business. The company registered over US$4.9 billion in revenue for the quarter."
-    publishedDateTime: 2021-11-17T14:53:00Z
-    webUrl: "https://www.techinasia.com/baidus-q3-2021-revenue-grows-13-demand-ai-cloud-rises"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
 
 secured: "hlAc45NgDgDryaWSfq/b7JL/ATNANqn4DZ+wP7sDoBf9l7X5ip7hCKPNy3/8it6iIjCnFxfYrJ37z4CjTmejitjggsov5EB7X6TG6mtIcS5UFewz7KHtooDMpboYgxoq4EI5rGoF3LSL63ExvWf07q5iSdmumvzdZpAmRrTju1zlbgY0UkXLlwSUaIZchzkl52c8KxMzLbDsXgHzb4bDLJpMV/33AKdgGME2+3vyjou1/o6vRFVARAMNCwiXA1dnosDlT3TkGAuTSV+Ycvzswuc1h25WxQGMlmAVWrbMNY9JkfJew+IxevicKuQfTyT1BqwJ9I4rHptKSKDni9FfVAvjHEsKR6mDw7oxwFcM2xCFgOQA7f8ULgI34dxwXDsQvIBdZFz6O84FLCp4u7ukQDqKT4bwTmOWRkJMfKva34KlJN/j4QbXkTlHvtnw0Qc1mVS+rbZHWKcm/HHeFFAEup5Ihpm8e5cEMHn7F/biRrWIlEOQfLLZkpJAN9EaBBVApxD06kFOPYFURd7DOwh57g==;hzs9dwH5y8FWqbsq4cpIYA=="
 ---
