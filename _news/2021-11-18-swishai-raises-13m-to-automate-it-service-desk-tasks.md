@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Grammarly raises $200M at a $13B valuation to make you an even better writer using AI"
-    excerpt: "Grammarly, the popular auto-editing tool for writing, has raised $200 million in funding at a $13 billion valuation from new investors including Baillie Gifford and funds and accounts managed by BlackRock,"
-    publishedDateTime: 2021-11-18T03:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 180
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Grammarly-Abstract.jpg?w=1024"
-        width: 1024
-        height: 538
-        isCached: true
 
 secured: "JsJ3zVMaZn5Qm9apyvMAtr+2GzsQh20lgQlk71MAaNKxNEkRg7AI61xwAI0Mmjgy+JSZgujP88V+xyuMdIecsM2/ZNJUSzEP0hkztm5iMi3m3mCyQr/lYSTYU4ssdKB4H2JDqkiEVpcFGYh3BMzSevp+H1VRZJMTcgBeeJBseETqlaOW+r91GiOFgcn5DjzLa5ZOM/0PWw2YAQnoUfGCvdCuDmbYIxMz3ZLYRU4DaNJsNH0BvxAeJ88Ej+EjHj3G1YoLkF26DjGH58KR9QUBcKjMHUDOO03mlbe1p0GCkB+oXfr9V+vUHO+dCeIW3jxRw5YuqWu/fzRMDZeDb4GT2+uOjSYzyb9Z5R1r1ocSBhBkqHwCP/daHkfc+/OIIl7mOT5fj8f9UZMrLNwlu8q882yIex4tM86+DSnp19T8utgNlVKr95PackV9aJrzjaaXsLt97qMhfe9vFbfGUI2r54bKnRTruxOWkWZoM+YceTxBGmGyXwF6yxMg3sTQqv+JKq3EZ4zgN/CexqkC1GpyPg==;6kcU3USxrpg9P3RqaVwDFA=="
 ---

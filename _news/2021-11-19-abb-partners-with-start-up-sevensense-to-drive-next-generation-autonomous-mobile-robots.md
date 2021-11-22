@@ -3,8 +3,8 @@ category: news
 title: "ABB partners with start-up Sevensense to drive next generation autonomous mobile robots"
 excerpt: "ABB invests in Swiss start-up and ETH Zurich spin-off Sevensense Robotics (Sevensense), a leading provider of artificial intelligence (AI) and 3D visual technology • Integrating Sevensense AI and navigation technology will enable future autonomous mobile robots (AMR) to work in more dynamic,"
 publishedDateTime: 2021-11-18T17:12:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=17816"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=17816"
+originalUrl: "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/"
+webUrl: "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/"
 type: article
 quality: 11
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 380
         isCached: true
 
-secured: "/5qNZbwK6bsWlFRpr97xEf1Tnb/ztv42uqOFXVwTaMYGgf3DqCg61mQ0Y6CQrxGmiGJgnDzfz5NtPx3UARHe9zx7iYIim+f6W1Pv9+E/qJpHsMGQwcdYtocsxJvV4zf17cdi8sByqtWnYmCGgAXajd0fWiprGwqW3a2slSOgXwOT/3Bqw5muYfY94HAbQzYe7ztM30goLoCl01Xoe2S4Qzq7P+shqkt3gqPDhErvRxkcZ/9ihx/X1RIyN/DkydctY9e/UvNYhTV0+deHbiwyL518DzHziBZznnxjRxAgrTmdROvpDaUSDUBvDci6Pqw9q1O9sh2UGcOgpWGbDWFotJPSql/zeCGpZ2dMBF9WMuQ=;sY2bCD0W0qjd7owMaGcqbw=="
+secured: "QVP7MiwXwq9ugNWVbaLTOVjsBlGimaz3yz9FxAOx1j1fnrpncGOFCDI2aYNCHGkaBAY+4fi4WCkhC3oMzx6oDMJgEsu6BxjZERHUD1aWgIDr2iPHreM++bH7Tv475o5FT45vNVRvqWiABAxMVK5J2SR6FUSrgKD0qal7tA3ch2vLqJ7v236ALDMjWySgrcIZvH+D8J66/gLe5TT0S+NEHC6o8u+EjSUgIFRCqRRYzZw11mGjPxgfexaXahAw7yYkaz4YsRVv1wPICxc73I9+b6rhlE1rq/PFCSQDy5wnAfVFKRAvwt10NNvBd0JkyPbT1V6zUpj0HJyeAaYZYbccjhkMJXuMEphf2kNOXhDf8Y0=;NT9DaKUnOSCBLLiOMtSSOw=="
 ---
 

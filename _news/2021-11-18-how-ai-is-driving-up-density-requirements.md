@@ -23,22 +23,6 @@ images:
     height: 415
     isCached: true
 
-related:
-  - title: "How the Pentagon Is Bringing Artificial Intelligence to Its Cameras"
-    excerpt: "How can seemingly unmanageable volume of data be organized efficiently for human decisionmakers? Here's What You Need to Remember: The new DARPA system, called Fast Event-based Neuromorphic Camera and Electronics (FENCE),"
-    publishedDateTime: 2021-11-19T03:30:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/how-pentagon-bringing-artificial-intelligence-its-cameras-196484"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/army_12.jpg"
-        width: 1222
-        height: 815
-        isCached: true
-
 secured: "lx7fXziZHiz3L9FKzMrOTKi7SUo5qNqUw9tiEdW4G6eRbgHUDbCXE29+U/ff2TWE2Qu365g7rq52s0mDMVVnr1Qq/x76B2iwto5UufRKdtiZa+/iqSEb0Ryn6U+yh/PizNwFVYNgfPIjGEBgAgNSRgdQ0LpR/Cej3IbnVL3t2n6UY4DYxDzVgW0n7jjV6ebkqbtsgIia9WqEc/boQ9JOOKW0z9HK83dbg3cmXu4+Cz+ezv0TZkzJ2/b4VCF4Z2yuJE0qxl1X+5NQpfyL2N7AWgm3ao8jSUYaFhwi4pdNFahMk5dR1yyyE/85LUCje+Mo+XFyRLatTbgNpp534MvLdiVUK6YQ2mcRbSQ3m++Mvb35YuPY8L3QtP1xtL5d3MwkJALo9tCoIlMkn3hm9vzYQ7rellmvgrLPBhl63h6M4/QK1blgf9abhZGKJwfC1aQpmZ+yNj1nA8KgME+QVybxuzfAUX2jAn08BzeHKRAJSJgbqUHGajNho/qIHBk6VzN0JzPq6kL5Csw2oz35JkSWUQ==;biV7fC8H6SdC03WHTc52ew=="
 ---
 

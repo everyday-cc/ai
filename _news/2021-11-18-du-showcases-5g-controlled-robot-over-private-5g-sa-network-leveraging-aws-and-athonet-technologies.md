@@ -1,20 +1,20 @@
 ---
 category: news
-title: "du Showcases 5G Controlled Robot over Private 5G SA Network Leveraging AWS and Athonet Technologies"
-excerpt: "Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, powered by du’s 5G Private"
-publishedDateTime: 2021-11-18T09:01:00Z
-originalUrl: "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet"
-webUrl: "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet"
+title: "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies"
+excerpt: "G Private Network with Athonet's cloud native 5G Standalone core network, and running on Amazon Web Services Snowball Edge"
+publishedDateTime: 2021-11-18T10:40:00Z
+originalUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/"
+webUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/"
+ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/"
 type: article
 quality: 62
 heat: 92
 published: true
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AWS AI
@@ -22,9 +22,9 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-11/du%20at%20ADIPEC.jpg?itok=lmEA8m_3"
-    width: 2259
-    height: 1694
+  - url: "https://images.zawya.com/pr/images/2021/FPR_1367_2021_11_18.jpg"
+    width: 450
+    height: 337
     isCached: true
 
 related:
@@ -71,6 +71,6 @@ related:
         height: 380
         isCached: true
 
-secured: "EztYynnGZB+8R0peOU+34v7VBdcDUq6ajw7xXX7UWmSh2uDOMn0uX+x58rNXKHASC8ygY5yMOo7WxkEQ2+YITW5mkU8c7AyTiynghd7XaUoACZNHJZWypvYdGC9CKgUEh9yBURW9JBM6zJPj+aK6uUq7dFHTQvSYRhGi5e/AUcqIIahQA62WvZ7bawOjzjM6amW6LAyoq3+ZKym0M6fS6Z7E4XgQMFiGw66i7GkixxifwNk47UjbYojcVdaUZ2yG7UPM9bRNXdIIMzVeC/OlFkcIXyvkENd04nGA9C1LKUwunqoEimu+TbM0thjzDGsjho+Ahts/kodhoNtrAx3YifhdxppCh9LC/pIpWvnU/1M=;TcbEu++NQN2y+FM5/IjXZQ=="
+secured: "aaScRsV6nQbMJxDMKC6PMuf+ABS5rHZ0A+AXs3UsiZ38BSJ++gPDFwiqQLqs3MGUvy0xbD2Gb5nAumqFgfNvSKxJyUUOsvtjj6GNEFIoG0ki5xb0jDhHQwz5UTGDE7KwiyL4YUyTgVuu4Jq47NzruSUaPvyznhwGl/GYqfYwVduyXmH6Ve2N30KIHu4SfmxWTOKurgIs4gpNXQpLC89oWQUyOUjM8IZyqoKhUfMewqbuEuqqo3Yct0XFGwkkO8s7uf7Rb1SEbomjlKIVe8tPynF9ggNIPOnR/kwcZW3wbXTRYCPFIK4wrjWxdQyGrLUUEIeeWPrBGSQPeeg0pZmaMSETPIybbD5JEvq7Baq25KQ=;/fOKca903AckoLZRiKpe1w=="
 ---
 

@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Top Machine Learning Research Papers Released In 2021"
-    excerpt: "Advances in the machine and deep learning in 2021 could lead to new technologies utilised by billions of people worldwide."
-    publishedDateTime: 2021-11-18T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-ml-research-articles/"
+  - title: "AMF releases major report on responsible use of artificial intelligence in finance"
+    excerpt: "The digital transformation, which has only gained speed during the pandemic, is unfolding in all sectors of our society and economy. Personalized financial product and service offerings, made possible in part by artificial intelligence (AI) systems,"
+    publishedDateTime: 2021-11-22T18:31:00Z
+    webUrl: "https://www.lelezard.com/en/news-20119313.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 50
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Top-Machine-Learning-Research-Papers-Released-In-2021.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "BgA8Ga3ZpemDOafmp1njp8JbkKZOXwj423jxOz8T8nYVxVd6dhumU4c77XnBN0vxJXUfOF1WYKVlH4RqBXI6e7ewTHTeTw8Z41711Iudq3CxoayRQBsc9w1hwqH+GJr6USAXLswOs2bxwpqgAmXTaWj5Z+GzvTpEQpbJNAa6l0i15RcuLovGcw27kVMBPrdG67ESsGVneAG6K7IixlIWpbesP/Dzy1CBPj80aM0n7DJZZGkijHz3Rvu89MFZIrx4JbasN1M9XdH0OxvVEDPgMDJIWow8FTWkH5u5ivmV4oPDvnqo8qEZsc3Sl8zAFTFQlfOOsf+m524tX0eghiezBb8JcDqg8NCmauWTwBgMQck=;upI2Dl62gD5FNrE1vbLnDA=="

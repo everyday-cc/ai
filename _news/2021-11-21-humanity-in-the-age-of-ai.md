@@ -53,6 +53,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Appreciating the Potential of AI"
+    excerpt: "Mohammed Alam was recently hired as the deputy director of Northwestern Engineering’s Master of Science in Artificial Intelligence (MSAI) program, where he will collaborate with students to shape their experience and explore future possibilities of what AI can and will be."
+    publishedDateTime: 2021-11-22T18:51:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/appreciating-the-potential-of-ai.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 37
+    images:
+      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/appreciating-the-potential-of-ai-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "l2gg1E1LfbrPXSJ5nmMIJ9PwZMX17NIbgGplF8LyKwX38p4+LVkbqP2AVJDh5phsfKduLRNx0e4wtBQEYsrvpAj9+wt5OJkTlcWT2lS/mIzcxfgXRd3ZtmcxEYMtLY+e+Q3FDTWIUo5PMN1AQKzESW0Xt0IvUMT5L2XHD279n+ywmoHv928IKQfsA3ZFeig2/EqY3lFlXD1xH4UaTZWTYlPOA2gMNrmi+vfV/dk+rF4d4SINlnFWz39zwLSjLgrtZoqnK00cIs6uhM7pGyYtcdeE79TaC2KymP139uUQ1Xgs/nJ5EHWGj5PikcoirnSGGFwffGGug6V4oUl3I3BuDtDvCTwqdXCsS9KCUO4nkQqn58nLVIOemQRDUCRG9v9WnWculaIT/yuw8ZUu3a+kqPmUniFjumapVxQtNEhXeDFQgl0V39KNOOt6ZLDcDZFhckvVkoJ6p7490wuJvbZKGmGkDq/daJdTZLdWrhEaJkE+jUey6KSSjd4+MEbqQS6ITZQmBwvfyxtfcbr81HJPtA==;CHEuYSGxjwGXeFb/9FxjMw=="
 ---

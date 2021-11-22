@@ -50,6 +50,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "MediaTek and TSMC Unveil the World’s First 7nm 8K Digital TV System-on-Chip"
+    excerpt: "November 22, 2021 - MediaTek (TWSE: 2454) and TSMC (TWSE: 2330, NYSE: TSM) today unveiled the world's first 7-nanometer 8K digital TV flagship system-on-chip (SoC), the MediaTek Pentonic 2000. Built with TSMC's N7 advanced process technology,"
+    publishedDateTime: 2021-11-22T07:59:00Z
+    webUrl: "https://www.publicnow.com/view/F80BC1F80A7206022B654EAE2DBE7F627CA97614"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
 secured: "b6aEcu3Gw4geMF6CrrXW2UN8PG+4oDkXIhtR7KwCGGh5x2+54rlf3ma2qmkWONPLwLJBMWpM3X6yL9p/nGBuoDPfowkgiaW1adbGC8MIni/xa9ecoNgZepfcOs0JqOYefYTqFnaduXRSdwMKPVZjypB+aa5shrpJRe8eGb03TgOD19gZWQ6T/PAMT1kurXFPOWy272992aNlKR78ho/gQdVb+SR8ZGAoQYgP+MyI63xPyTH0gu8oL4UOBHmow0PXzyJWmQuaOHSZAbHGkN60L6xoQIg8qXXNfRMmUXL2ruZ2NC+rZRthQ56nlJVg+nO6ir/4CjtRJhQPXgXQ9kAWj83Vvfr1H+OlLCkH9CiZmiM=;Bo+oP5Gb4kTWGKCjRFnNQg=="
 ---
