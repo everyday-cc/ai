@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "clarifyhealth"
   url: "https://twitter.com/clarifyhealth"
-  followers: 670
+  followers: 671
 
 size: 51-200 employees
 yearFounded: 2015
