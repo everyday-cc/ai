@@ -33,15 +33,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 101
-  - title: "Join Us on the Road to AWS re:Invent 2021"
-    excerpt: "Invent with you in-person and online! As an AWS Premier Consulting Partner and Gold Sponsor of AWS re:Invent 2021, Onica by Rackspace Technology has exciting activities for everyone with a packed schedule of hands-on activities,"
-    publishedDateTime: 2021-11-18T04:49:00Z
-    webUrl: "https://www.publicnow.com/view/D2CE26316801F75BABDD80F211E58118C28B905A"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
   - title: "AWS Re:Invent 2021 guide: Multicloud modernization and digital transformation"
     excerpt: "Invent 2021 guide, we explore the benefits of AI-enabled observability on AWS and other cloud environments. These resources examine new approaches to AIOps that tame cloud complexity, improve application reliability and resiliency,"
     publishedDateTime: 2021-11-22T15:00:00Z

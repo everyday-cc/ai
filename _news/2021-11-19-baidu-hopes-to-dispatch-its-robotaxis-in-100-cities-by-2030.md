@@ -7,7 +7,7 @@ originalUrl: "https://www.caixinglobal.com/2021-11-19/baidu-hopes-to-dispatch-it
 webUrl: "https://www.caixinglobal.com/2021-11-19/baidu-hopes-to-dispatch-its-robotaxis-in-100-cities-by-2030-101807336.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu’s robotaxi service aims to be in 100 cities by 2030"
-    excerpt: "Baidu keeps ramping up its autonomous driving ambitions. The Chinese tech company made its name in search engines and still relies greatly on search ads for revenues. But it’s hoping that its heavy bet on autonomous driving will pay off down the road."
-    publishedDateTime: 2021-11-18T04:04:00Z
-    webUrl: "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/"
-    ampWebUrl: "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/09/image001-2.jpg?w=1024"
-        width: 1024
-        height: 661
-        isCached: true
   - title: "China’s Baidu to dispatch robotaxis in 100 cities by 2030"
     excerpt: "GUANGZHOU: Chinese tech group Baidu looks to expand its driverless taxi service to 100 cities by the end of the decade, turning the fleet into the company’s second-biggest profit generator after online ad revenue."
     publishedDateTime: 2021-11-19T02:32:00Z

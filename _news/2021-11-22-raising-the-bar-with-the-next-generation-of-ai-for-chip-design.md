@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The limitations of AI-generated text"
+    excerpt: "Capabilities of autoregressive AI models will always be limited by their inability to reason like humans, says PhD candidate Chu-Cheng Lin"
+    publishedDateTime: 2021-11-22T19:05:00Z
+    webUrl: "https://hub.jhu.edu/2021/11/22/limitations-of-artificial-intelligence-generated-text/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 37
+    images:
+      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/chatbot_112221.jpg?itok=1HUofnNI"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "ZtG/JusIzNKFmf9ygSOwPCevYcpagJxRcR8Uj0YitriMvWTnjhP+s9U5fl4xsHNfitKgnEG/XjQnIwEh+dl30aOu0uOd4PePPjx1JvzttdHCZdwaHF5J8UaXstYU6CdAl31EEQkq32gIYj37uIHbkplSKXY4BlVC4aOo8Xx0D+oS9itjQPmdAbvXqMQwTcbcLWfdLF1X9zGtSDQRPiBd9ig0mPcPazmVb7ubu1UbslOaiR0y5veCfqTA1gCDvKBEvKXgiF7GMTiPJ3SBkmcrHA6OWe8MWgEO6vxN6y1nmObHcf7369Et35xiKa3BJ41KlB3y1zvGVH5JozZrKDAUqSxSAq3KCdEzVUdFRGJruQqkaXb9S3xTJHTOh9Q7BTZXnYYdLVBKRoh9KNzSCVHZGqWoeC86b9WHeARPIauCYl5BmtpW6KXoL5yIlxyZNhsmgoNkSLgLa4IU465VojQB7AIfaQXrjXaxPAK+mciiOccUuwO1p5zWJUq2M/G0OqmRQ3sf5Ro9thhQjbQh2hiO6Q==;CFuUJM/MA5VX1P+cbqJ2dg=="
 ---

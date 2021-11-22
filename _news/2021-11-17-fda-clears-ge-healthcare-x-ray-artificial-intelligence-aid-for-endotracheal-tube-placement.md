@@ -3,8 +3,8 @@ category: news
 title: "FDA clears GE Healthcare X-ray artificial intelligence aid for endotracheal tube placement"
 excerpt: "The U.S. Food and Drug Administration has cleared an artificial intelligence algorithm from GE Healthcare that aids physicians in assessing endotracheal tube placement via X-rays. It’s part of a suite of five solutions from the Chicago-based technology giant,"
 publishedDateTime: 2021-11-17T03:07:00Z
-originalUrl: "https://www.radiologybusiness.com/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
-webUrl: "https://www.radiologybusiness.com/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
+originalUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
+webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "FIw/x74ZPkkTSxwsvJ8fsWbIv7mIM3cd7ishDiQfa3+k6rqVyqch8zFHt12tZl9s3h0GBYALhtXmFLYN2Ov/qXrsPolnFlnw1V60k+PaEjdHEUB8y/HnzJPnba5SHhjWrid5ZPrJLDviQf+1QYvAN4QqOjsZGvmGV4OJKxAltJHi5vqFkOsEK8fYNotfKDb1CWOtLO2m+vcRPeE+nRdSN2cu7uSX5dXu+h68LhFt6VkTuSyPi7ylkHd0Df4J45rwKccVwfAzY+frzZODP55tKawU6ewZucgGIqoM695FU5FG2aJWcDr4ggXgp6LB7w16CGK3uZc7T5bCs/4AfbnKQW32ctk91X+v46dl84d/ETg=;kFy8OVaypZpuDifqDJ/UWw=="
+secured: "B+Zvp2cezSQP/lrqswGZrXnRHAwbyeXYWg1SyLD8K0K3R1NGSm6e9DN6JH1eLXVWdWDH9BHdwvhwqRIbImTdlpLB2awqAIMk8jdNIpyKyOhCEDjtCNYVcnBMa0BRNGK4uOXOZrsNYLPV78mBKuSI7y65ZhFlzwv96UwlvIuLg06Mr0MFkZQKJtmC1caZODxZ64/OEZiLhQ+1OMRXAoCFkRWxAr1xTnHuUZ+6NYBHJB7T59YuLspDKLmyymHIiwYRw34lbQoY3jvz1/6jmedOX+gaNcoVZfwHnHL/gZjKu69SOWDPf4zRa06g69bxdqABZaNB5A420nAYcHSZLZzooV4C3hyGYDi3HD/QvzKIXEE=;KIYoeiV3KKZQEgS9yVNtOg=="
 ---
 

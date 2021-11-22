@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://media.nbcnewyork.com/2019/09/jobsAP_16230695166503-1.jpg?quality=85&strip=all&fit=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "NYC bill to rein in AI hiring tools looks like it was meant to backfire"
+    excerpt: "New York's passed a bill to purportedly curb the use of biased AI software for hiring, but one glance at the document shows it's feckless."
+    publishedDateTime: 2021-11-22T19:30:00Z
+    webUrl: "https://thenextweb.com/news/nyc-bill-rein-in-ai-hiring-tools-looks-like-was-meant-to-backfire"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Frobots-work.jpg&signature=ea7f72b96f4da757f5cf14c1969e9bad"
+        width: 1280
+        height: 640
         isCached: true
   - title: "AI Hiring Tools Can Discriminate Based on Race and Gender. A New NYC Bill Would Fight That"
     excerpt: "A bill passed by the city council in would ban employers from using AI hiring tools unless a bias audit can show they won’t discriminate."

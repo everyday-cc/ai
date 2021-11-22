@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Qualtrics and AWS Expand Relationship to Transform Customer Feedback into Enhanced Experiences"
-excerpt: "(NASDAQ: AMZN), and Qualtrics (NASDAQ: XM) announced they are expanding their relationship, with Qualtrics migrating its internal IT systems and customer-facing workloads to the world’s leading cloud."
+excerpt: "Qualtrics’ cloud-native technology aggregates customer and employee feedback and enables companies to analyze it and take action. Qualtrics is now moving its customer-facing workloads to AWS. For example,"
 publishedDateTime: 2021-11-15T21:00:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-3492bdff2f664c3b8afca00b501bcbbe"
+originalUrl: "https://www.financialbuzz.com/qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences/"
+webUrl: "https://www.financialbuzz.com/qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ngwMRhf2sxGFzKxeUZB+kyV3r8iHWz76BOUcIrnqZQdZN6xWgMgv7eaEMvG3iE97M7rn7jUS6uJGV2snB4O1VlXbeez6Sixw7V5+dvPNItAdg/Do0R4C/UpAeSVOou1qW/nMtQrom6tQCLUFVQ1JqGujrhrKmNaeGPjw3diqHA1rezezNJoxddQSLLCZZk59W3YrhaR1q/sN7M0txCEDR4ieZVDWHPYzU7x2Opr3bR+I9uYBTl2LA1DmtCxxb+icRD2afUSX5P7i+TIPfrrCleClg4B837ic/JgAF+Xx54Y5BNnm81g6e1LKpL2DVBSv/Ww9FofIaKN4PFbZB/hrbpgNoEdecP8SxezDcMAlKBs=;tmeVG7tDdlqw7ZvCDszd/w=="
+secured: "gE1Jwleupo6VdnmNu6DoRP5EzZjrrDOgsktZZR9qS/6zOvJytHlu47Wh89Lo9W6d9XiXSqHKbLD+ZHKQrVkOyEf8jGH36bYsm9rCIr6JTy2QUWSuamGCLYZHjBJLDA7PUPOOyltUn6al1I84RIp6hlPajMhsK+HUaCq0m9O4wGI5wByxRLFdP2K1dwkro0aoSH45jAHOoghq0Tb51kpQhp6i+oLVUOhWRIH9qEQtHGi/eCPytR6OueHPXkgXW++jmaDON9DDbm12sCyWYw3EFW8j1MrPniffRU2MPa5Z5x64KWZNq/YBUDwCKXHZnUF9VSX7OYxrExyryh1GhBIoGi/BfmtjxqGeqKE6dKMm6a4=;5goOmK5YjhX8yegShaSyOw=="
 ---
 

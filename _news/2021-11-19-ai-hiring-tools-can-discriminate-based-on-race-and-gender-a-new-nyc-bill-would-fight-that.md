@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NYC bill to rein in AI hiring tools looks like it was meant to backfire"
+    excerpt: "New York's passed a bill to purportedly curb the use of biased AI software for hiring, but one glance at the document shows it's feckless."
+    publishedDateTime: 2021-11-22T19:30:00Z
+    webUrl: "https://thenextweb.com/news/nyc-bill-rein-in-ai-hiring-tools-looks-like-was-meant-to-backfire"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Frobots-work.jpg&signature=ea7f72b96f4da757f5cf14c1969e9bad"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "NYC aims to be first to rein in AI hiring tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
     publishedDateTime: 2021-11-19T22:29:00Z

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "India's tech hub Hyderabad zooms in on facial recognition technology"
-    excerpt: "BANGALORE - The city of Hyderabad in southern India is trying to use facial recognition technology for everything, from stopping traffic violations to distributing subsidised food-grain, leading privacy activists to warn about a \"total surveillance city\"."
-    publishedDateTime: 2021-11-18T04:00:00Z
-    webUrl: "https://www.straitstimes.com/asia/south-asia/indias-tech-hub-hyderabad-zooms-in-on-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/11/17/img-20191202-wa0020.jpg?itok=1sCKDI1q"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "a5UtEdHv3o8Vde+g/L9xJiJeIvvIUBN8qnMnxaYgXRMXhmCcWmvFLVH5igH08O0wfxvzSpbpFiJnHiP6jcp1MXiIwgviNpxmCCQKukIs2vV1Ow6753Nd2rp03uld3XFMg1P1QOe0KhjsDD7JK6orhK8szVA/uE/IblXRBK3x9LL+BJMM2KJc4/l2dq3PX4Xf7lFP3xqo2Ciq+a/1MXY5CkpJYjKmTSB5ucKnPgf7G8+Dyh8rdT4j3JCCd2aRQiTVcRGSROm2xRIT1RJTvARg5ij27uVCZoqNW9qrWKcQGV+i3cZRL90NpssTrsS8j+f3BTBMMVrlA9uq/bralKsQKYq7CuZpNn1hFLMr98U1lmWvb6gHRD9YLEsTr9iqSDb+GusnoxwDiKdFd0ST5l+5UFrXW01P/0u+10AFBJouPiBh8WkclG6vfspehcJbEKHFf4BOQYEBNPb+T2lbrxtxz4pd0i9Q3pCF+Ba979Fh/SURMxbrupcUq7pkHt1A0rbXyCcnMHV4VEX3swZJJ24UQQ==;5YGIC7UafPXZHzgpiGCFag=="
 ---

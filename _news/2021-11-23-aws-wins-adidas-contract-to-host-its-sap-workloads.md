@@ -54,22 +54,15 @@ related:
       domain: nasdaq.com
     quality: 69
   - title: "adidas Migrates SAP Environments to AWS"
-    excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
-    publishedDateTime: 2021-11-22T04:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
+    excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP ( News - Alert) workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
+    publishedDateTime: 2021-11-22T05:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/11/22/9497335.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
-secured: "CjCXqRj5smxG8ZqCQr+XNqlkI+zn1zMQ/F/2stI8w8mq9gn0mWntrSkYro4s+C/Yk4Gpv/cLu3hum7nCU66RhLnFlJVNtMvoXVy+kbSL0gVHzRG93gr3xqK0Pnl9T7wV0Y/xoc4GPuU6Rebr91CbmpaUOBcGfj5YqGuIGTorwqZVpuVn3Vz41yXkuucpOir+LCMg22C9KVpCcLA/3EUqzPxp1uchw2Hx/91/GMCSLTS/v/G52wg2yq8aVGiIBOsR14h+vOZgylcQO6YYKUzZM6cNsSG+oEcrjWaqaKtv3QRqpava7VdDuTGf9v1ZlBILAfI9YNslzB103iSWydZ7+r3XGSasH5SZoGs8DXz0kgI=;mG1GyAyhlMb9a2b0Ca7w6A=="
+secured: "GYfY967Gyn/VDwcg8eqRoJ0YSRAqNIyywoAb5Vc/FGvtTPknoUTzuOhGhZuQTJfVRuTgnSVLO+dM596VdgONGpdPl66Vq90O2tq7x2XRyHpYtooIB8NkEMGZDzfNha0CZRConjHt7vD1ZiXzhvMgHB4aD7hlhd7RKxzqVRRVQpK31pU9gSAgP3FGaQbeJM/rzWh5I6+OYLdVifF0MTGQtCa06tyDKQjmbyI421oDrdJ/2laBuXjta3agGVsuf6dFBbPOE1mLuFjJXVgPwwkYkEm7JstVEXKK3QiY9fCFaztWvLssCSdUXl+16p69+ZTmtjhOmAL6fQPHJMW44S+vHXdJW3sSPvNS29fVHD3QTcVF24BETZr1ZYKKlD347mpYMlM4y0HfLvGiJOhbMz8Vv4tlq3izDljG3xmSAOGLfbpGnw3zlm8auEdG58gh3dw6o8+N4k6H9HamUoZEzdCHGldC9csoSn7lfBHEF1gXqSYLU16jtiCPPNOn5CL7B4EYlN25EHiE4XU+brRWWnjiWw==;0enz4ChzLHaCSphxumAwDg=="
 ---
 

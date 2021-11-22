@@ -1,30 +1,22 @@
 ---
 category: news
 title: "adidas Migrates SAP Environments to AWS"
-excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
-publishedDateTime: 2021-11-22T04:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
-ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
+excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP ( News - Alert) workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
+publishedDateTime: 2021-11-22T05:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/11/22/9497335.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/11/22/9497335.htm"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "AWS wins Adidas contract to host its SAP workloads"
@@ -66,6 +58,6 @@ related:
       domain: nasdaq.com
     quality: 69
 
-secured: "D8iApYbdQeYuqh04TiPfqQLXNejT9qqixUpBQIhQfni8bcfXD0+I9hIrxKboKFwJwGi+alZ/H9TskTOzLGKnkR1+DZopCrnuOY7qFwxoB8ae9YqrtSJ3Y9Yp8GrBivf8/IIs1EKFnkGvzZllsQYERNQYgxxCbD+4ZHV7YYpoPCiyGtLTUR0A/ghg/d3hRJrjJe2cexslQlduBmTxd+2pXe/PDJl3pzPp6nhIoM376ZHpoNsCgLUnzyRsUqCDpstG7SwI7h/C4VIsGwpUxVlTsfZcCTBfIProTSShEy3TddXxUsWySGv+4FJa3APeZlncqn8BWb9xPjP8OpY7JbyJ2q8AG7e2C24KI9zB3sYNsic=;9hBQvGqpQSKpNz3QsTz1rA=="
+secured: "chvs/r0gENhJjQillIxRIAdhYkh1goytvazu7PvXZ5k2yyVwXmOyj9V+LTaOsqKwQNFeUE89tTVm+acSKCacGd0FW28oYC9jUf960zrumS2Atp6lx4gdzvamrHNdwwCuInqV/ij9zD0g0clLtK5oe1UiZuYzrA8N7VoGei+bBw+L2tw1RPgD+fcjw+D2CO4WEw34KkJQyGokYtWhx3Ouz7OeCQp4WZ89EW7Ur967CKFDFn5HZi8f+kDEQ7Cth+cFD9Dj/x+jCzFZuJESLKIsHwFfzDUZuyKY4FP0zbPHBJWt+ALbapRL3QHeAP0+8vnuEFvF/Ny1a7cMASLRm5x3A0stPlud5itnz8JO5JRayJU=;3MGYgjs/hTxo6pNRnCMQDw=="
 ---
 

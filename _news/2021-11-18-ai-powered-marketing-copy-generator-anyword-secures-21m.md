@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/"
 type: article
 quality: 204
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Grammarly raises $200M to expand its AI-powered writing suggestions platform"
-    excerpt: "Grammarly, a startup developing an AI-powered writing aid, has raised $200 million in venture capital, valuing it at $13 billion."
-    publishedDateTime: 2021-11-18T03:11:00Z
-    webUrl: "https://venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/"
-    ampWebUrl: "https://venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/grammarly-ai-writing-suggestions-startup-raises-200m-at-13b-valuation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/41625afd-8ff1-4cec-b654-c0fc3e35ad58-e1568994939289.png?w=1200&strip=all"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI-powered music platform Aimi raises $20m in Series B funding round"
     excerpt: "AI-Powered Music Platform Aimi has raised $20 million in a Series B round of funding. The fund raise was led by entertainment and media-focused investment firm Great Mountain Partners, which also holds what it says is “a significant stake” in Concord."
     publishedDateTime: 2021-11-22T11:42:00Z
