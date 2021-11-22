@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/apple-accelerates-work-on-
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle"
 type: article
 quality: 135
-heat: 286
+heat: 296
 published: true
 
 provider:
@@ -232,6 +232,20 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Apple's fully self-driving electric car may be launched as early as 2025"
+    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
+    publishedDateTime: 2021-11-22T09:01:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2021/11/22/apple-s-fully-self-driving-electric-car-may-be-launched-as-early.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 23
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/2020/images/2021/1/13/Apple-Inc-logo-Apple-store-Manhattan-New-York-reu.jpg"
+        width: 760
+        height: 443
         isCached: true
   - title: "The Apple Car is reportedly going all-in on self-driving and could release by 2025"
     excerpt: "The Apple Car could be available by as early as 2025. Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"

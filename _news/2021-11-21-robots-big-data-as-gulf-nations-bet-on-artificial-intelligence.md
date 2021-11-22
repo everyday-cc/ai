@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Robots May Run Half of Cloud Data Centers by 2025"
+    excerpt: "A new report says robots with artificial intelligence (AI) are coming to help run cloud data centers. See how here:"
+    publishedDateTime: 2021-11-22T07:07:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/ai-robots-may-run-half-cloud-data-centers/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 54
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
+        width: 1024
+        height: 389
+        isCached: true
   - title: "UK - Robots, big data as Gulf nations bet on AI"
     excerpt: "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scra"
     publishedDateTime: 2021-11-22T05:49:00Z
@@ -40,20 +54,6 @@ related:
       - url: "https://menafn.com/updates/pr/2021-11/21/JT_4a4c7image_story.jpg"
         width: 870
         height: 597
-        isCached: true
-  - title: "AI Robots May Run Half of Cloud Data Centers by 2025"
-    excerpt: "A new report says robots with artificial intelligence (AI) are coming to help run cloud data centers. See how here:"
-    publishedDateTime: 2021-11-22T07:07:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-robots-may-run-half-cloud-data-centers/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-        width: 1024
-        height: 389
         isCached: true
 
 secured: "mK1wo1HM+PbAlLKvvBwZSREaira+ARyZr9+esKsopGTsy+fYzNF0iyBVj2+AqMPFdXu6rJxa/M1CBsOiIBc7kXFQIVomYCDzR7ISwyir7Zrg5BvuszuS0QJqZVCXOamMHv48O/zW82IPAAtkDV0nFs7KdMPXVcZtbGCyh1sMvEHYDxPjGqEEO0lF29jY427mxZJUM1d2H+5p8cP9W2gGmbFoihj6hom3IQZYEXFqnDH2lEEYmiTDEDYhbGqdNB5fJKl2ySoabdoZowr2BXEHoQV7JXMybIs5wpEjNVbcX5aQ7hL3sRGxrCn+Tlbhe0cqAGV5y7TwgKooTPSjHc9HXLbtGjMxO98DhAH6dHhElBPoaejy/7UqOj+BfOV8N8EjjM9Y65Zvun3xxQCXbL7KYtr+qbghgVA+x1P6rTat8PJBeA012ujdQ1ObKfK8d3+P9/4/Z6HzD0kEyQnIEoXhZBdfC1XWKkb/aJAov/4A7vB+rh1kAa7XS1YKWLKT0Yv97SbqrdzZtQwCebVXPR5JoA==;620XBQMiTAsMF3Wb5fDWMg=="

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
-excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
-publishedDateTime: 2021-11-19T15:37:00Z
-originalUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
-webUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
-ampWebUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
-cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+excerpt: "\"text/javascript\" src=\" data-newsource-publisher=\"853\" data-player-data=\"e800453986f268ba75724ad1a453c9b\" data-max-width=\"auto\" data-autoplay=\"1\" data-player-type=\"1010\" data-embed-type=\"3020\">When a dozen small children crossed in front of our Tesla with “full self-driving,"
+publishedDateTime: 2021-11-18T16:18:00Z
+originalUrl: "https://www.channel3000.com/i/we-tried-teslas-full-self-driving-heres-what-happened-2/"
+webUrl: "https://www.channel3000.com/i/we-tried-teslas-full-self-driving-heres-what-happened-2/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Silicon Valley
-  domain: siliconvalley.com
+  name: Channel 3000
+  domain: channel3000.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.siliconvalley.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
-    width: 1024
-    height: 576
+  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/11/o/t/ec43b8c8a56fa00e3a94d72328c68aba7ae9c626.jpg"
+    width: 576
+    height: 324
     isCached: true
 
 related:
@@ -87,6 +85,6 @@ related:
       domain: carscoops.com
     quality: 50
 
-secured: "qCGsIzOabDzq+Tje4xYq4FZ1rvpnR1LGco7xshGPk+mPaWHDDUMcjW2iGnYcacXqSpdN2dmFku/VJqxrSTezbdvpeT/h4l93dyaVOdAVvnW/zVqZiZS1vtFz9zf0KVSAZVR0euSZV9PKcKxlbz5wEshGy3x/shtGsGYOH6qvhWBn1XpvEsTNzUGFUdJ1TG3IUxGQMwj0oZsRkmAWVwsGL53BvFdJEvupZ1zhxr6A+fCFmqbbgHzOco1fSs/GgTKEOr+hlLasTHJ2wYUfVJg4CSNa0+zXsHNi7l8QZN6b1On8yACzB46GYIqX0KQ9jy4A4gONomA6hEqxMaT+iBPdxUBV42F646nGUvqejrrfjE/RHw0fx1Ku06oMZOgspShF5vK1fBmAcidwnond9HxhuWdCViYvvvz/Ngmf4qzPnPY2QxOqvDUa6T4qAN4jOW3Y2HC6pw7JmMWNHAN0sUAMazjtI3jXIA7fjYmfhbkOOgXdIWNKx0kyr46ZAVtZ88HR/Gc9oODKFD+s/HWCn++2Jg==;lGGEICFEllyx10Yn21n0kA=="
+secured: "VsyIaUYmtvEhZM0hUe/DV6GRqTIVXg/SIXxWuhqaW8uBJuVqAIoD/VnTVSohnA34visBrboKFsybn/hLuUYqkYl/3CpXTGJ6qvERtU0K8i6wUxCPhVpdm+LcB9pdew6W+CB5G532nmovgmgzw0CVOMGcZOp4o7q/FE2N9hDoOaBWE9hipJZEtCNv8Uaq/Zbh4uXXa5JALYgw2ObPOxQHoA/EOsOK9qNItTbyCqShmiaEbbElvorc0O0GdLRIWj+yVIG9vvcWlJhacyTSl7RLbEp6zVrRHntNmQsMYqdDVwUbsIrd+j2iveN6mqcaCHL5muc79lnTgKAKg8yMOYZlBIck7qaF3Q5BcB9q6ddOE0g=;bZd1k8FvlZLeq+9hH9p0pA=="
 ---
 

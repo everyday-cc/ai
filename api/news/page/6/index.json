@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-16-ge-pounces-on-surging-healthcare-demand-with-spinoff.md",
+      "title": "GE Pounces on Surging Healthcare Demand With Spinoff",
+      "excerpt": "In spinning off its healthcare business, GE is betting on the fast-growing diagnostic-imaging-equipment market, a sector facing disruption from artificial intelligence and growing competition from startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "originalUrl": "https://www.wsj.com/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-434791/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ge-pounces-on-surging-healthcare-demand-with-spinoff-11637077092",
+      "publishedDateTime": "2021-11-16T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-rethinking-ai-dire-warnings-and-imperfect-results.md",
       "title": "Rethinking AI: Dire Warnings And Imperfect Results",
       "excerpt": "AI has been in the news a lot lately, and not all for good reasons. What are the issues? I am write about some of them here.",
@@ -915,6 +967,48 @@
       ]
     },
     {
+      "path": "_news/2021-11-16-latest-release-artificial-intelligence-ai-in-insurance-industry-growth-potential-analysis-2021-2030.md",
+      "title": "Latest Release: Artificial Intelligence (AI) in Insurance Industry Growth Potential Analysis (2021-2030)",
+      "excerpt": "Market.Biz –:Recently released a new research report on the Artificial Intelligence (AI) in Insurance Market By Market.Biz, which uncovered accurate information about the long-term prospects of the global and regional market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/latest-release-artificial-intelligence-ai-in-insurance-industry-growth-potential-analysis-2021-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/latest-release-artificial-intelligence-ai-in-insurance-industry-growth-potential-analysis-2021-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/c8bbb64fe2b17c021c3ff1d93a3036bd1b16ce8b-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content.md",
       "title": "Deep tech, no-code tools will help future artists make better visual content",
       "excerpt": "The future creator economy will offer incredible business opportunities in visual platforms and tools that enable a focus on content.",
@@ -1092,92 +1186,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-strange-news-virgin-condor-births-ethical-ai-facebook-and-facial-recognition.md",
-      "title": "Strange News: Virgin Condor Births, Ethical AI, Facebook and Facial Recognition",
-      "excerpt": "Check out this great listen on Audible.com. Scientists discover that the endangered California Condor is capable of producing offspring without the presence of male condors, prompting troubling questions for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/B09LVW43PR",
-      "originalUrl": "https://www.audible.com/pd/B09LVW43PR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/61CIjwuBRcS._SL500_.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-wfans-steve-somers-signs-off-jerry-seinfeld-helps-say-goodbye-defends-mets-steve-cohen.md",
-      "title": "WFAN’s Steve Somers signs off: Jerry Seinfeld helps say goodbye, defends Mets’ Steve Cohen",
-      "excerpt": "Longtime WFAN host Steve “The Schmoozer” Somers is leaving the station. Somers said it will be a mutual parting after he declined WFAN’s offer to return to his old overnight job full-time",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/profile/steve-cohen/?sh=7b1407a363f8",
-      "originalUrl": "https://www.nj.com/sports/2021/11/wfans-steve-somers-signs-off-jerry-seinfeld-helps-say-goodbye-defends-mets-steve-cohen.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5a8d946e4bbe6f2652f61ca6%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D703%26cropX2%3D3292%26cropY1%3D80%26cropY2%3D2667",
-          "width": 416,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NJ.com",
-        "domain": "nj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

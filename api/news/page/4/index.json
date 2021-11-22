@@ -549,33 +549,24 @@
     {
       "path": "_news/2021-11-17-uipath-appoints-dr-oren-etzioni-to-chair-new-artificial-intelligence-advisory-board.md",
       "title": "UiPath Appoints Dr. Oren Etzioni to Chair New Artificial Intelligence Advisory Board",
-      "excerpt": "UiPath , a leading enterprise automation software company, today announced the appointment of Dr. Oren Etzioni to chair its new Artificial Intelligence (AI) Advisory Board. The Advisory Board, to be comprised of AI leaders and experts from academia,",
+      "excerpt": "UiPath (NYSE: PATH), a leading enterprise automation software company, today announced the appointment of Dr. Oren Etzioni to chair its new Artificial Intelligence (AI) Advisory Board. The Advisory Board,",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20109751.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20109751.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-uipath-appoints-dr-oren-etzioni-chair-new-artificial-/2021/11/17/9494456.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-uipath-appoints-dr-oren-etzioni-chair-new-artificial-/2021/11/17/9494456.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T05:06:00-08:00",
+      "publishedDateTime": "2021-11-17T05:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -585,7 +576,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI Ethics",
         "AI"
       ]
     },
@@ -840,6 +831,39 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-artificial-intelligence-and-bias-what-one-investor-considers.md",
+      "title": "Artificial Intelligence and Bias: What One Investor Considers",
+      "excerpt": "Fool c, Brian Withers, and Trevor Jennewine answer a member's question about making investment choices in the artificial intelligence space that are not only sound from a financial perspective but address personal ethical concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-bias%3A-what-one-investor-considers",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-bias%3A-what-one-investor-considers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-bias%3A-what-one-investor-considers?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-and-bias%3A-what-one-investor-considers?amp",
+      "publishedDateTime": "2021-11-17T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-cutting-through-prejudice-ai-and-diversity-recruiting.md",
       "title": "Cutting Through Prejudice: AI And Diversity Recruiting",
       "excerpt": "As a result, AI has become largely meaningless in recruiting conversations, even as we see the technology being used with increased frequency. Recognizing the gap between understanding and application,",
@@ -977,6 +1001,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-robots-big-data-as-gulf-nations-bet-on-ai.md",
+      "title": "Robots, big data as Gulf nations bet on AI",
+      "excerpt": "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/gulf-countries-are-inv.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robots-big-gulf-nations-ai.amp",
+      "publishedDateTime": "2021-11-17T01:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-facebook-decides-against-facial-recognitionfor-now.md",
       "title": "Facebook Decides Against Facial Recognition…For Now",
       "excerpt": "The company has become more aware of privacy concerns by banning facial recognition, but critics say that it has not altered its DNA.",
@@ -1104,82 +1171,6 @@
         "AI in Robotics",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-robotics-powered-by-cloud-to-pave-way-to-smart-robots.md",
-      "title": "Robotics Powered by Cloud to Pave Way to Smart Robots",
-      "excerpt": "Cloud computing technologies is poised to become pivot for next-gen robotics technologies. The intersection of robotics with cloud computing hardware, with deep learning technologies, IoT, and big data chipping in,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/",
-      "originalUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/11/Cloud-Robotics-Market.jpg",
-          "width": 1336,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/amp/",
-      "publishedDateTime": "2021-11-16T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai-stock-9-things-to-know-about-c3ai-as-cathie-wood-bets-big-on-artificial-intelligence.md",
-      "title": "AI Stock: 9 Things to Know About C3.ai as Cathie Wood Bets Big on Artificial Intelligence",
-      "excerpt": "C3.ai (NYSE: AI) stock is getting a boost on Monday after ARK Invest CEO Cathie Wood singles out artificial intelligence ( AI) as the next big move in investing. Here’s what Wood had to say on the matter at the Milken Institute conference in October,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c3.ai-as-cathie-wood-bets-big-on-artificial-intelligence",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c3.ai-as-cathie-wood-bets-big-on-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c3.ai-as-cathie-wood-bets-big-on-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c3.ai-as-cathie-wood-bets-big-on-artificial-intelligence?amp",
-      "publishedDateTime": "2021-11-16T20:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

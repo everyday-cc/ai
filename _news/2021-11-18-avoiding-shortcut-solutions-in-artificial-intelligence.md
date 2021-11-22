@@ -23,6 +23,17 @@ images:
     height: 350
     isCached: true
 
+related:
+  - title: "Meeting Future Leaders in AI and Machine Learning"
+    excerpt: "Discussions ranged from defining AI and machine learning to practical 'real-life' uses to illustrate the prevalence of analytics and how it touches all of our lives in the modern world. We also discussed the ever-increasing range of career opportunities and pathways in this space."
+    publishedDateTime: 2021-11-22T10:36:00Z
+    webUrl: "https://www.publicnow.com/view/2C5AD73F8672FFBDC223D72145F755D84312E552"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
+
 secured: "QgPILuxak7jr3Co1P/KZmwXz5tCs50i0afzkydWFgY8hDPDtg3NMYcKhJOlhPYvCmq2aphjiEvEH6caS3lmxIT6I7HfDR88hiVv4+XH6o7fF5omweF7VbUxREy8AahdQom9xrZtDQFUGkscEPgdAIDZa5rCsALUBqSlkmLaKF1FQLQ/fqT+UA7wO8iUc/TuzSKa1r/JgAxqcSGAUCtk6f9SEI4ERKvfl8rBu3BJPqK76pVLFEbfXOQqwpsVcIBaD3V9JWo+LwhcUxvPi66ciSR9JdwLWSoGHefq79hYvkNW67Mb5sJVrRhOWB826cDCQaaBHyyLCZC4R57aYTsc5k5RjVd017hVa93ilAQXZo/dW3QhM1hTNl16xf+zCOamzTvf9YHPmpbPuauUIKLivzIa3gaikeVd9DEwDjGStmvODnCPCaW2xW8xzB5kO8rVWXh8jwOOQhu7ZEtNiF7LaTXs/Mj7guWcnOt59oc92YD5j/oKjnNK0UpmB85NUAYdDxbE0oHJDokXFlpMj/WDYLw==;/TA+pYQFI5Yz97wLdtroFQ=="
 ---
 

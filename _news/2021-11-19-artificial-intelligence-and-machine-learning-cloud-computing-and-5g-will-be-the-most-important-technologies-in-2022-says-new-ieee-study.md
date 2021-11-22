@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, ML, cloud, 5G to be most important technologies in 2022: Study"
+    excerpt: "Because of the global pandemic, technology leaders surveyed said in 2021 they accelerated adoption of cloud computing (60%), AI and ML (51%), and 5G (46%), among others"
+    publishedDateTime: 2021-11-22T10:54:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2021/11/22/600x338/AI-kkGH--621x414@LiveMint_1637577527809.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "IEEE: Most Important 2022 Tech Is AI/Machine Learning, Cloud and 5G"
     excerpt: "Because of the global pandemic, technology leaders surveyed said in 2021 they accelerated adoption of cloud computing (60 percent), AI and machine learning (51 percent), and 5G (46 percent), among others."
     publishedDateTime: 2021-11-19T19:05:00Z

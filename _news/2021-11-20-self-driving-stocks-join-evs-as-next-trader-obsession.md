@@ -1,0 +1,73 @@
+---
+category: news
+title: "Self-Driving Stocks Join EVs as Next Trader Obsession"
+excerpt: "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Nov. 19 on high volume."
+publishedDateTime: 2021-11-19T22:15:00Z
+originalUrl: "https://www.ttnews.com/articles/self-driving-stocks-join-evs-next-trader-obsession"
+webUrl: "https://www.ttnews.com/articles/self-driving-stocks-join-evs-next-trader-obsession"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Transport Topics
+  domain: ttnews.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aurora-peterbilt-1200.jpg?itok=W-IJcayB"
+    width: 470
+    height: 246
+    isCached: true
+
+related:
+  - title: "Self-Driving Stocks Join EVs as Next Retail Trader Obsession"
+    excerpt: "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Friday on high volume."
+    publishedDateTime: 2021-11-19T19:48:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaaSmj6nsYe8/v2/1200x675.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving is the defining software of EVs, says MIH"
+    excerpt: "MIH is an open platform for software-defined vehicles, says CTO William Wei, speaking at the TCCNA Taiwan and US EV Summit. EVs without level 2 self-driving are basically incompetent in 2023 and MIH will open APIs in the future,"
+    publishedDateTime: 2021-11-18T07:16:00Z
+    webUrl: "https://digitimes.com/news/a20211118PD212.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://digitimes.com/newsshow/20211118PD212_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "UPS to Test Self-Driving Semi-Trucks"
+    excerpt: "Waymo, the Google autonomous driving affiliate, announced an expansion of its partnership with UPS into Class 8 trucks. The company’s self-driving semi-trucks will transport cargo between UPS’ air freight facilities in Dallas-Fort Worth and Houston."
+    publishedDateTime: 2021-11-18T16:43:00Z
+    webUrl: "https://www.manufacturing.net/home/video/21903503/ups-to-test-selfdriving-semitrucks"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/11/16x9/upstn.61968074a048a.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
+
+secured: "IN1v0CjyvNZIP5Ol+1FQR5h41+k9DLl9Rr5OfKXrq6EaoMoMtUzxJUfGwVpM31CDag8O/pUZr9UEH2Nrn5OoXSDulAHXqyLtS8P3UWO8oNpk0WIjMKdGLRLU/qmLPJuSM7hiUqe3pyzXDBWkDX5y1C4/Z6WmTfp6bqL0AiwFoSv39cUEQ/kAadylB6OsTbP94vVtWQGMTEFzcxHUul7jN8Uk8gawdOQrGPL5yzgAeoJVhoRL2CNe63hx47sFhtk6lmsen63W/4x+lLPsuahxc0RQT+854aWhUejjtyoeKXi1w587Krywr8z1PcKbs8xnrp8PtBlma53Nt07cgppgPfLYoG2FnXGRbmg5nhsjKXo=;NmxpGBkI4yY3eMYCUYnUhA=="
+---
+

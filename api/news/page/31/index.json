@@ -2,6 +2,135 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-10-27-intuition-robotics-named-in-fast-companys-first-annual-list-of-brands-that-matter.md",
+      "title": "Intuition Robotics Named in Fast Company's First Annual List of \"Brands That Matter\"",
+      "excerpt": "New recognition program honors companies and nonprofits that give people compelling reasons to care about them, and offer inspiration for others to buy in",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/prnewswire/2021/10/27/intuition-robotics-named-fast-companys-first-annual-list-brands-that-matter/",
+      "originalUrl": "https://www.wowt.com/prnewswire/2021/10/27/intuition-robotics-named-fast-companys-first-annual-list-brands-that-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT.com",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-good-machine-learning-practice-for-medical-device-development-guiding-principles.md",
+      "title": "Good Machine Learning Practice for Medical Device Development: Guiding Principles",
+      "excerpt": "The U.S. Food and Drug Administration (FDA ... the development of Good Machine Learning Practice (GMLP). These guiding principles will help promote safe, effective, and high-quality medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
+      "originalUrl": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Center for Food Safety and Applied Nutrition",
+        "domain": "fda.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-robot-taxi-boats-take-to-the-water-in-amsterdam.md",
+      "title": "Robot taxi boats take to the water in Amsterdam",
+      "excerpt": "The self-driving boat, dubbed Roboat III, is the creation of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the Senseable City Laboratory, and the Amsterdam Institute for Advanced Metropolitan Solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
+      "originalUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b28ff8b30f4357577c4bd78f6367cfa9959b5b56/2021/10/25/c75fd06e-1512-4c6e-9770-86eb11d8f1cc/screenshot-2021-10-25-at-10-58-37.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
+      "publishedDateTime": "2021-10-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-unpacking-ai-and-key-drivers-for-modern-business-environments.md",
       "title": "Unpacking AI And Key Drivers For Modern Business Environments",
       "excerpt": "C-level business leaders such as chief information officers, chief technology officers and chief financial officers must strive to understand that. How quickly the adoption, efficiency and efficacy of these technologies work depends on the approach and blueprint that are developed.",
@@ -1070,135 +1199,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-the-future-of-workspaces-is-flexible-secure-and-collaborative-20-quotes-of-the-week-on-digital-transformation.md",
-      "title": "‘The future of workspaces is flexible, secure, and collaborative’ – 20 quotes of the week on digital transformation",
-      "excerpt": "Innovation can be greatly accelerated with AI capabilities that are on par with those of humans in areas such as object recognition, speech recognition, reading comprehension, and language ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
-      "originalUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/ving-hybrid-1635242078838.png ",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
-      "publishedDateTime": "2021-10-26T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network.md",
-      "title": "Insurtech: AI enhanced Platform Arturo Joins Amazon Web Services Partner Network",
-      "excerpt": "an artificial intelligence-powered platform that derives property insights and predictive analytics from aerial and satellite imagery, announced that it has joined the Amazon Web Services (AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/amp/",
-      "publishedDateTime": "2021-10-26T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-nightly-news-full-broadcast-october-26th.md",
-      "title": "Nightly News Full Broadcast (October 26th)",
-      "excerpt": "FDA panel recommends Pfizer’s Covid vaccine for kids ages 5 to 11, powerful nor’easter hits East Coast, and how facial recognition will change the way you travel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-october-26th-124680261894",
-      "originalUrl": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-october-26th-124680261894",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/NY-NN-XXXXXXXX_CLN_18_30_19_00_Nightly_News_with_Lester_Holt_AS_frame_5770-shy7m3.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo124680261894",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124680261894",
-      "publishedDateTime": "2021-10-26T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

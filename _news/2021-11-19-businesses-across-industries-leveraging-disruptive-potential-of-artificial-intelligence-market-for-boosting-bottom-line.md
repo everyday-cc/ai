@@ -40,20 +40,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "How AI-Powered Chatbots Can Improve Service Level Agreements (SLAs)"
-    excerpt: "When we hear the term AI chatbot, a picture of a cool humanoid-looking bot might come to mind. While AI chatbots don’t look like humanoids, they work like a smarter version of a human."
-    publishedDateTime: 2021-11-17T17:08:00Z
-    webUrl: "https://www.itbriefcase.net/how-ai-powered-chatbots-can-improve-service-level-agreements-slas"
-    type: article
-    provider:
-      name: itbriefcase.net
-      domain: itbriefcase.net
-    quality: 37
-    images:
-      - url: "https://www.itbriefcase.net/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "Fz4mfLRR5jdcV/bgRB8S0MhoC2ej/Dq5ddi0AF3x+jW+/B5hzeeqbuVZbbO1JYqyrLu9GxBrMQM9Vs6uXEepa/841NxP65Mhngnr5Ny0y2uJsF+OOWHbvn0VF2y0WBcVcq0LBJbXcUYKcrPlspUX1O8xEFHwlvFg0GXoafUYpEgwnyFWGru5W/sS6PJhavSJkbPpXW0bNp5VQ9aIWkwR2ke3n+GO/c79wz8eXI1yZmW0+2Aza555tW0j9prmJxq43NMiFnkzyFF2JaaLE8KnGdSLJsclxsHokUyzSRxF4a+pm1bQeL+TuAAOBvdVPVyA+fsrAPjN3vHxSCLNlPzY+P6jE3Ev8ozVJY3lfdkqt2OQjv4iyPqWFtgy/8lhu9cuSdL1ibX3QjqyM6OM4yJ4EyaUJgMZYU+xkEy1vGnUCuiGAaGFr+cEMUkzSTae0pOujwjsFBQSd/Bg9y/jzY6IH4D8XcPPXoawfbjEtNKRqZRpOoggr5Moo0EtvGcnx/W9pMxE/CfvsCRaYYOLMOnNqA==;K4wqr67oQUygb9t2xPFwlg=="
 ---

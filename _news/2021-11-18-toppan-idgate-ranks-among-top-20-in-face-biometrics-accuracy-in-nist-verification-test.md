@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "South Korean face biometrics data-sharing scandal gets worse"
-    excerpt: "Privacy advocates had already expressed their criticism towards the surveillance project, which now seems to have a scope wider than previously realized."
-    publishedDateTime: 2021-11-17T18:01:00Z
-    webUrl: "https://www.biometricupdate.com/202111/south-korean-face-biometrics-data-sharing-scandal-gets-worse"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
   - title: "Assessments for image quality in face biometrics improving, new standard TBD"
     excerpt: "The European Association for Biometrics held the three-day workshop on face image quality to explore key topics and themes relating to facial recognition."
     publishedDateTime: 2021-11-19T19:24:00Z
@@ -52,20 +38,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
         width: 1800
         height: 734
-        isCached: true
-  - title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
-    excerpt: "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services"
-    publishedDateTime: 2021-11-19T23:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-10-5-valuates-reports-800406414.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
         isCached: true
 
 secured: "pyP9kR9cCj1pSLcd9uNS6d8VT2k4ow7rqRqPDkvlDQzvMRx8OfmHg+r9kcSfHYGhvxFqmesZlmMZNnPxdvJNOFnDbH0IgAL2GGiFI9eRID1FVeX3qxRM2wKFrhcdOZk5Go9nMSCDfynwZAKW1lTISLqWVd3Jc0ngIsHATHKP5BQ4EcQby1uiUHmpV4VxnMMq+GcyHBBMx3rkfCAPpHqclL6nLAD39lvkjR3VpO7xrgSzyPdIyEgx01Cb1h5WnaeQc5nrkZKkVj4V9N1cNQzJhO5+7zhc2ZVRoqjgGCbBIgOuMBSqotMjuQNrLYlHaT+6V7HjyTqmTbPYwB9REd4s35ioOgZznNyvVrkd3tuiWecDOK1351LL6YgjRfdSEJ2LatBQUamV2AY4vGWZQJPk4aBbRVHLjlk9Ta8ldBI1ey1XlCnsLuuwbLGFWu5qwjd7rR7niNs53M30dWTcQRO0felG3Ksl3BbrxM7ZDy0AQNF8Nw7sXgxkChAy/8K8cY3+9yRL8TsVRxX17VlD3vrlPg==;KAyTiF67aBghm+JJZ7zqtw=="

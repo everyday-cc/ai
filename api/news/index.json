@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-22-ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study.md",
+      "title": "AI, ML, cloud, 5G to be most important technologies in 2022: Study",
+      "excerpt": "Because of the global pandemic, technology leaders surveyed said in 2021 they accelerated adoption of cloud computing (60%), AI and ML (51%), and 5G (46%), among others",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/22/600x338/AI-kkGH--621x414@LiveMint_1637577527809.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html",
+      "publishedDateTime": "2021-11-22T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-amazon-web-services.md",
       "title": "Adidas Migrates SAP Environments To Amazon Web Services",
       "excerpt": "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,",
@@ -795,7 +838,7 @@
       "originalUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -890,7 +933,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1025,49 +1068,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-ieee-most-important-2022-tech-is-aimachine-learning-cloud-and-5g.md",
-      "title": "IEEE: Most Important 2022 Tech Is AI/Machine Learning, Cloud and 5G",
-      "excerpt": "Because of the global pandemic, technology leaders surveyed said in 2021 they accelerated adoption of cloud computing (60 percent), AI and machine learning (51 percent), and 5G (46 percent), among others.",
-      "sourceUrl": null,
-      "webUrl": "https://virtualizationreview.com/articles/2021/11/19/ieee-tech-study.aspx",
-      "originalUrl": "https://virtualizationreview.com/articles/2021/11/19/ieee-tech-study.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CityWithLIghtsSmall.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T11:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virtualization Review",
-        "domain": "virtualizationreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

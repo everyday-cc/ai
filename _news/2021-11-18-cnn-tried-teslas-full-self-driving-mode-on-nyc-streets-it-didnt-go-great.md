@@ -33,22 +33,6 @@ images:
 related:
   - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
     excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
-    publishedDateTime: 2021-11-19T15:37:00Z
-    webUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
-    ampWebUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
-    cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
-    type: article
-    provider:
-      name: Silicon Valley
-      domain: siliconvalley.com
-    quality: 59
-    images:
-      - url: "https://www.siliconvalley.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
-    excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
     publishedDateTime: 2021-11-19T21:20:00Z
     webUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
     ampWebUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
@@ -90,6 +74,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 50
+  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
+    excerpt: "\"text/javascript\" src=\" data-newsource-publisher=\"853\" data-player-data=\"e800453986f268ba75724ad1a453c9b\" data-max-width=\"auto\" data-autoplay=\"1\" data-player-type=\"1010\" data-embed-type=\"3020\">When a dozen small children crossed in front of our Tesla with “full self-driving,"
+    publishedDateTime: 2021-11-18T16:18:00Z
+    webUrl: "https://www.channel3000.com/i/we-tried-teslas-full-self-driving-heres-what-happened-2/"
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/11/o/t/ec43b8c8a56fa00e3a94d72328c68aba7ae9c626.jpg"
+        width: 576
+        height: 324
+        isCached: true
 
 secured: "79DVEDaxjsBdj/HkOicDaBbZLv1fw8r3YlNH/p/sKQS9GoBTOkGwDZ4ooBzcZMPeznIHRrZ4Bxp9aB/Mm6dbWURiAdN67Y0wc8qIHAV81gUOMs8DtKKPXdaXq/LNcruMVfmAqiUcA+aY3jAzwsGFiRlHYV/GTgmF2g2108azV5JC+uogys7fWYqESKn8gUXVXUbjmgYVYUoSSTmv3LDJ+YHFHl9u0mJeDtqJxgkPqDIopVgn2IzKORetXSMlyD1iGkjFKbW/epTDjOo15ZFpl2YEtpsIl+E0lYzeZ46pkGzDOMoOOUNaJyayzjYaLwwx5LWAGmS/vkQkQjP+HRjZsal+eS+XwRPUvcfq2v4+zmpyt41fDEupFzmxV77GhAEuYNwpJReWSpl2zSceUZ9p612HyAKB7mSELoXdHJXbFzeK89sqOSwubLQs0zWiOoBSKKDvuwajyY7jviEpabZQ4w2mGo4hLbKT0eFfm4W1CZ4FcfZzJSVCp9t71/NM8NHZDuG790vCmcSoQb7jNGLArw==;flDP3jO6PFimewOhdtKUig=="
 ---

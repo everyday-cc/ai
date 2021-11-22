@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Self-Driving Stocks Join EVs as Next Trader Obsession"
+    excerpt: "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Nov. 19 on high volume."
+    publishedDateTime: 2021-11-19T22:15:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-stocks-join-evs-next-trader-obsession"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aurora-peterbilt-1200.jpg?itok=W-IJcayB"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "KpaqTnp5zLIVNtSO+jidtupfhHZMYms/PW6p36UdIdR5y5MmRgToOsnZ8Ys4YYi80OZOdYujlRFRQ5oXvfbwncE5sdAeqyhTSaAIH29+g0uzRlZfkCIXIuexyzZKRBVqIDRDTVAKyMVUm8F6dTnlpL1FamJcXmAFnUq6t5pRwiZNJFTC+LAtnFhu4EEA/RhCZY4ZoucgWefWH7IrGvjETJWF7AeS6yypxU3F9E4rkbtdtUDKCli+3V/1lAdyW8TSoPRuoEQui8yC8XxmKqo1j7DQtToDNLloVPqsHwoffNlpu0hiQFnx55aafMCkj4jVEA6fY0EMYPF/7l437xXIEBb78nYHMSIqLZMweTVdMlGVZZ9nDblcsBfhodyxPvhbvS61GDSSlSWgIOL1qgSWDRy4B8K9oh+nslHpUCcNMXvpBl+nBUaCGjj5Qlcbd1pcUtkpURiL3REklYCFBRlhmDKwdO49UlNd75+yqpNEzVQ5OYFjrxs0sOdZHDrwvXr8AcnQ2bRP1ioOzw1pAdirCg==;VQ28g/lxjwQCATeeRK1wuA=="
 ---

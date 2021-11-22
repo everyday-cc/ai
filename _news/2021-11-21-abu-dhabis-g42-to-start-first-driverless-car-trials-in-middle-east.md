@@ -53,8 +53,8 @@ related:
         isCached: true
   - title: "Abu Dhabi’s G42 to Start First Driverless Car Trials in Mideast"
     excerpt: "An Abu Dhabi firm backed by Mubadala Investment Co. plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the United Arab Emirates."
-    publishedDateTime: 2021-11-21T07:53:00Z
-    webUrl: "https://www.bloombergquint.com/onweb/abu-dhabi-s-g42-to-start-first-driverless-car-trials-in-mideast"
+    publishedDateTime: 2021-11-21T14:23:00Z
+    webUrl: "https://www.bloombergquint.com/business/abu-dhabi-s-g42-to-start-first-driverless-car-trials-in-mideast"
     type: article
     provider:
       name: BloombergQuint

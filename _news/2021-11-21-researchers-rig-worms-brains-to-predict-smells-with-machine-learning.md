@@ -35,6 +35,15 @@ related:
         width: 1880
         height: 1495
         isCached: true
+  - title: "Scientists Use Machine Learning to Read the Mind of a Worm"
+    excerpt: "It sounds like a party trick: scientists can now look at the brain activity of a tiny worm and tell you which chemical the animal smelled a few seconds before. But the findings of a new study, led by"
+    publishedDateTime: 2021-11-22T06:00:00Z
+    webUrl: "https://www.realclearscience.com/2021/11/22/scientists_use_machine_learning_to_read_the_mind_of_a_worm_804586.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 19
 
 secured: "tg0rdJ2G6Zdb9rztnVSzxFnTOk6G4kmWAAvTIm1PNswIvX50jtN7jpzUGTSmRzfqOBWdMNVEHIOqrVCNqqai16INpAcHkoCt3bmXhSFcnCoMibsN4ypwrTcI92iLJmw9hSDifqnpATNV1rKm1yKBw7OEVOkXasEEnj+E7MS/f4YGkZ4wPPfrFJkPt7bJXWgHsw54f9yEYXaMljOG8j1QcCu9wn/bym0NkErp9lR7PcT5kL1gxDJEhg4NUZO6TstWcz80Ts5qibykoFzhiQeKGA4P0X2RgRnlW1pZ4WsXmf9BUZ7gtjZfnc9LkTEDbzWN5eqRc4rCaDtctbws6e+TDuZyUFU1n8hNZKTHKuvXYIZmiJeFXuP+ofm4YBzukEBgb3gRB/73Kl16NeRAbjbKgSQ5U6r5Jj7fzlg2yz6AEssVNJZSRhIz4vk7KZ7hBovFV/lqQ9/UHxEgz5UW4cdEX9DcGHhMHPPhWJEAFRsidzK1DTpHej2SyZ4vYhWJYw95VlaGJ5RCRNYWeqlJaYJooA==;Tmh8iG8AYGD9w/2kFWv0jw=="
 ---

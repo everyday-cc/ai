@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-22T07:00:00Z
 originalUrl: "https://www.pr.com/press-release/849411"
 webUrl: "https://www.pr.com/press-release/849411"
 type: article
-quality: 2
-heat: 2
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://img.pr.com/release/2111/497932/pressrelease_497932_1637307462.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 1000
     isCached: true
 
-secured: "ubUgwx2ypwG8o6u/NOuk4FvRLYaiQImMOcmS7VcPwVJFEj+KXj3hgItirC+aHtH3glVABRPTxhwGO3beCrxDdtmtQW5pKunnxKF4My2+0XV7HOXy2AK97v1gDlROVIhAwO1/H80Go19FufJqfeImEs+fT4kYfzukg18O5ngGrmmpZ55ltTp1zCEeA/49/dtkHJ+Azo4u5lVzyKTeNTVWTpqa3Ffa2xrFOp+jPTkxlnN36zPQzYwwBKiVRunfrPJzMVkdAR+uS5VMKh9jd+CeHVhYbx1JMrr8OKgL6jn83I9DZxzXFvRmPBzjyMwhsQOLUSfYXNm7fmfCUjwKzt4WnJviBTLF053+FTKAiFpJR6g=;X8W1GAKDtxSZEc14sKLu2w=="
+secured: "J3nguaCOCfJEVcOlu5cBb+Nxtd/T1Awgc6lAm55gbCgRiMjDWTNAFO99Yrvq640Le9As4wD7HfYYFaC46Fk4ZSxu9D8rxJVraRAMaOcoN5aqjjfWSIrseEahVFTx021zuj7Cv0fheNhRKrEjDfi8pzHcrL6jMEd/xJXjHVOLtty5aUGhkhw2/MnOzj3gn7/o5bzAgKkdSkJtJcINvPzpE8aupYE202Pxspzq7KvlYDLwwfsz+Nqh6dFAg1k+wlTgo8G/WbbozAyD/IutMNJo867G6fDAKlZYgdOCv2/K9pzZW8f/drazXaHE1SGj7oUbhP/RuSD4C3wZmQU4I3fUVkhNgKUuFeeAaASVIhJmwmQKLZ8Oxty2xaAv/9wn8fFHCeuF3rA/0lrK+QOAEuNapCiHyijldbtgCy/xwRxGllaWDfdip8Jq5gfyJZHGqKSyTljto0iAN7agDfJKxKdU0eOjm0kNpftWCw5ojbrPSwUc8R1HPtclMVTa1PXIepJWUix0aWIqElfcoa/wJA+WrQ==;+lGDv3gY8pWsOMP7zz4luw=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 568
         isCached: true
+  - title: "How do we distribute the wealth created by AI machines? - Do we need a Policy"
+    excerpt: "Should the Government of India come up with a Policy regarding distribution of wealth created by AI systems? The world economic forum in its article"
+    publishedDateTime: 2021-11-20T12:40:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-do-we-distribute-wealth-created-ai-machines-need-jaykrishnan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 36
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
 
 secured: "CV973p1YJkYrxvSTe/PxJBsn9f3Z1PWkZkX2VGLkjtAFTpEacw7tQMeBo7YaJeTWT1Kfy5A+7qSTe5MXXatRuKXYiFNQdhMCDD/Ei8/4FLgYhElIebGnYCwaSCpzQpU9xukijMjf3WgJA7SEgXv0TSwHWJfVojjPFGaxfDivAuW8ehRpcCiNqk0dKDRnEDBlpp4OtbNFPGU5nVPfHWCi4Y6uCuvTcZrRQsPiwSbA5NbPmQJHQt5fiTrgksIhl0VKXka39iCv8bZZMZjD8Rjo5iTRcrCshjP/IHtOvHdawRo6orVyg4fG+oWY61T8TIpb6UYq3VNOooFkT/bnEE7qfyaANOwbaqVpFTfwjB4TBEm8EE+fBinKlkQQRoIdZixM+5yY20JMl44CQS0HahNhe5Txew8VwT38H8MuBljw4XjYiQnYPHnfPNIXxU1C7wPIY7opEaFWnBZdYqKp/VkwBV+RjPWkGUf4Eix4My+jTlp6C5cF9B3NL/D1Vs6mrAwJlykJ9l03x3kTTkY9PPXF+g==;cEs8mXjSa6t9F7xH5YxcZA=="
 ---

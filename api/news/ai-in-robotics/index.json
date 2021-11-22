@@ -234,7 +234,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -584,6 +584,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-robots-big-data-as-gulf-nations-bet-on-ai.md",
+      "title": "Robots, big data as Gulf nations bet on AI",
+      "excerpt": "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/gulf-countries-are-inv.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robots-big-gulf-nations-ai.amp",
+      "publishedDateTime": "2021-11-17T01:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-tmr.md",
       "title": "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR",
       "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which",
@@ -713,49 +756,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-robots-big-data-as-gulf-nations-bet-on-ai.md",
-      "title": "Robots, big data as Gulf nations bet on AI",
-      "excerpt": "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rfi.fr/en/business-and-tech/20211117-robots-big-data-as-gulf-nations-bet-on-ai",
-      "originalUrl": "https://www.rfi.fr/en/business-and-tech/20211117-robots-big-data-as-gulf-nations-bet-on-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.rfi.fr/media/display/c938956a-474b-11ec-b79f-005056a97e36/w:1280/p:16x9/e0406b7e9b30fa57edcfb6b6574e29467861f72c.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.rfi.fr/en/business-and-tech/20211117-robots-big-data-as-gulf-nations-bet-on-ai",
-      "cdnAmpWebUrl": "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20211117-robots-big-data-as-gulf-nations-bet-on-ai",
-      "publishedDateTime": "2021-11-16T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFI",
-        "domain": "www.rfi.fr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

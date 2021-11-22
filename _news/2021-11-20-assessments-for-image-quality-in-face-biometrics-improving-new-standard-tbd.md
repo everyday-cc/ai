@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/assessments-for-image-quali
 webUrl: "https://www.biometricupdate.com/202111/assessments-for-image-quality-in-face-biometrics-improving-new-standard-tbd"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "South Korean face biometrics data-sharing scandal gets worse"
-    excerpt: "Privacy advocates had already expressed their criticism towards the surveillance project, which now seems to have a scope wider than previously realized."
-    publishedDateTime: 2021-11-17T18:01:00Z
-    webUrl: "https://www.biometricupdate.com/202111/south-korean-face-biometrics-data-sharing-scandal-gets-worse"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
   - title: "Toppan iDGate ranks among top 20 in face biometrics accuracy in NIST verification test"
     excerpt: "Toppan iDGate face biometric verification algorithm has taken a top-20 spot in the National Institute of Standards and Technology’s FRVT 1:1."
     publishedDateTime: 2021-11-17T23:18:00Z
@@ -52,20 +38,6 @@ related:
       - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
         width: 1100
         height: 734
-        isCached: true
-  - title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
-    excerpt: "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services"
-    publishedDateTime: 2021-11-19T23:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-10-5-valuates-reports-800406414.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
         isCached: true
 
 secured: "7TPyzfT0Jxr9H5Qwi9CNYi8bmFAxbEDkJI9YUQkGdT8UbvH+rk73hJdZP+fDD3AvnbQjpibMBnSCNSeH12BqXZm11BbMqGIWB9DsXOOw2kFsDVc/5U8UVHGX+CRcphm9Wm1qvgyr+GXY3zECIt1yojRyG1VPL+3lL+sl6yuovTBYjDXikAp0mYCituCPMNufmpwS/nqSnm7sgu3+VhIMokes01a2cCUSQkX0dMLZJfjtXMMA+MaeWr8l/xAmo5lSCPOJXJ3lnFJeIVF8A5UGv07gu1nAl5eYTaL5gqoXYfwUqPjQAHOSBboeZd/zxbPXLGSvYgC1BUYoCia8r7ZqawBoIa4e3SDyFDQ7dSCcODY=;pshKVvM1hgiYNI1Yn0AbNQ=="

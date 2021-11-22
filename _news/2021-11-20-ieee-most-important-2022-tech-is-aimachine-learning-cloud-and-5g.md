@@ -7,8 +7,8 @@ originalUrl: "https://virtualizationreview.com/articles/2021/11/19/ieee-tech-stu
 webUrl: "https://virtualizationreview.com/articles/2021/11/19/ieee-tech-study.aspx"
 type: article
 quality: 54
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Virtualization Review
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, ML, cloud, 5G to be most important technologies in 2022: Study"
+    excerpt: "Because of the global pandemic, technology leaders surveyed said in 2021 they accelerated adoption of cloud computing (60%), AI and ML (51%), and 5G (46%), among others"
+    publishedDateTime: 2021-11-22T10:54:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2021/11/22/600x338/AI-kkGH--621x414@LiveMint_1637577527809.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Artificial Intelligence and Machine Learning, Cloud Computing, and 5G Will Be the Most Important Technologies in 2022, Says New IEEE Study"
     excerpt: "Chief information officers, chief technology officers, and technology leaders globally surveyed on key technology trends, priorities, and predictions for 2022 and beyond."
     publishedDateTime: 2021-11-18T20:55:00Z
