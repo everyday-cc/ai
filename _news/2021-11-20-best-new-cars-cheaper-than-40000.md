@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/best-new-car-cheaper-40000/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-new-car-cheaper-40000/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

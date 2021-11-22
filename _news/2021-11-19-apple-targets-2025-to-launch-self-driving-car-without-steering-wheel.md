@@ -59,20 +59,6 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "If this self-driving library came to my town, maybe I’d read a damn book"
-    excerpt: "Seongnam City in South Korea will trial self-driving library robots, aiming to make book rental services easy and accessible."
-    publishedDateTime: 2021-11-17T09:23:00Z
-    webUrl: "https://thenextweb.com/news/if-this-self-driving-library-came-to-town-maybe-i-would-read-a-damn-book"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 53
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-33-7.jpg&signature=ee32d524fbbdb9dd52232fd977e44f5c"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "What's Up with Apple: Self-driving iCar, Grateful Dead Biopic, and More"
     excerpt: "Citing people familiar with the matter, Bloomberg reported that Apple is accelerating development of an all-electric Apple car (iCar?) that will come with full self-driving capability. Not only did Apple weigh on other EV stocks,"
     publishedDateTime: 2021-11-19T11:58:00Z

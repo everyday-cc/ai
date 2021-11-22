@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-attendee-guides-to-aws-reinvent-2021/"
 type: article
 quality: 101
-heat: 121
+heat: 122
 published: true
 
 provider:

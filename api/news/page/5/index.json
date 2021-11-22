@@ -497,6 +497,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-video-va-transformed-into-race-track-to-showcase-dundee-digital-skills.md",
+      "title": "VIDEO: V&A transformed into race track to showcase Dundee digital skills",
+      "excerpt": "An icon of a desk calendar. An icon of a circle with a diagonal line across. An icon of a block arrow pointing to the right. An icon of a paper envelope. An icon of the Facebook \"f\" mark. An icon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
+      "originalUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thecourier.co.uk/wp-content/uploads/sites/12/2021/11/KSMI_Perth_Speed_Racer-19_41540986-2uholcjel-scaled-e1637082819668.jpg",
+          "width": 2560,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Courier",
+        "domain": "thecourier.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-siu-2021-ethical-and-legal-considerations-of-using-artificial-intelligence-in-healthcare.md",
       "title": "SIU 2021: Ethical and Legal Considerations of Using Artificial Intelligence in Healthcare",
       "excerpt": "In a Hot Topic session during the Société Internationale D’Urologie (SIU) 2021 annual meeting focused on the role of artificial intelligence (AI) in urology, Dr. Quoc-Dien Trinh discussed bias in AI and important ethical and legal considerations in the use of AI in health care.",
@@ -1183,49 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-ajman-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing.md",
-      "title": "Ajman: Driverless vehicle hits the roads, takes tourists sight-seeing",
-      "excerpt": "The vehicle is equipped with 5G technology, has facial recognition features and provides high-speed WiFi access",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing",
-      "originalUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=909defb0-8bfa-5b88-8bc1-7541e695a2e0&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1",
-      "publishedDateTime": "2021-11-16T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

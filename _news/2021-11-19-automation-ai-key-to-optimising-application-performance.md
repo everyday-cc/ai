@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Payments Association finds huge value in AI in revolutionising payments"
-    excerpt: "Financial Services organisations with over 5,000 employees have adopted AI It is forecast that AI Market to Hit USD 360.36 Billion by 2028 The Payments Association (formerly The Emerging Payments Association (EPA)) today announces the release of its latest research,"
-    publishedDateTime: 2021-11-17T09:54:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/payments-association-finds-huge-value-ai-revolutionising-payments"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 37
-    images:
-      - url: "https://financialit.net/sites/default/files/dbfhgysuydfbsuydf.png"
-        width: 733
-        height: 414
-        isCached: true
   - title: "Embracing Socratic Paradox May Lead to More Reliable Predictions from AI Models"
     excerpt: "Next-generation artificial intelligence (AI) models used in public health, IoT, and other critical applications will soon be able to make better decisions and more accurate predictions thanks to a bit of philosophical wisdom being instilled in them at Georgia Tech."
     publishedDateTime: 2021-11-19T12:00:00Z

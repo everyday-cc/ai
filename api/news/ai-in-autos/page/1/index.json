@@ -53,7 +53,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/best-new-car-cheaper-40000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -105,7 +105,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -157,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -661,7 +661,7 @@
       "originalUrl": "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -766,7 +766,7 @@
       "originalUrl": "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1123,6 +1123,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-14-hotspotting-the-opioid-crisis-heres-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose.md",
+      "title": "'Hotspotting the Opioid Crisis': Here's how artificial intelligence will identify those at-risk for an overdose",
+      "excerpt": "Using artificial intelligence, the SI PPS and the MIT Sloan School of Management developed a predictive analytic program that will pull data from more than 70 providers and partners on Staten Island to identify who is at highest risk of an overdose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/14/039hotspotting-the-opioid-crisis039-here039s-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/14/039hotspotting-the-opioid-crisis039-here039s-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/11/12/1366132.jpg",
+          "width": 1240,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-13T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-11-14-regulators-looking-into-complaint-about-teslas-full-self-driving-software.md",
       "title": "Regulators looking into complaint about Tesla's 'Full Self-Driving' software",
       "excerpt": "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash.",
@@ -1377,49 +1421,6 @@
       "provider": {
         "name": "China Daily",
         "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to.md",
-      "title": "ZONE DEFENSE: These self-driving, AI-powered drones do recon so soldiers don’t have to",
-      "excerpt": "Today, the brothers are cofounders of Shield AI, a rapidly growing artificial intelligence company based in San Diego, with offices in Washington, DC, and Pittsburgh, and Shield AI’s unmanned Nova drones are used in war zones around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.alumni.hbs.edu/careers/blog/post/zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to",
-      "originalUrl": "https://www.alumni.hbs.edu/careers/blog/post/zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudinary.hbs.edu/hbsit/image/upload/s--4h9UIwGH--/f_auto,c_fill,h_375,w_880,/v20200101/C7FD1A04C9CC32757626E4E144C43021.jpg",
-          "width": 880,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business School",
-        "domain": "hbs.edu",
         "images": null,
         "publishers": null,
         "authors": null

@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies"
-    excerpt: "G Private Network with Athonet's cloud native 5G Standalone core network, and running on Amazon Web Services Snowball Edge"
-    publishedDateTime: 2021-11-18T10:40:00Z
-    webUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/"
-    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/"
+  - title: "du Showcases 5G Controlled Robot over Private 5G SA Network Leveraging AWS and Athonet Technologies"
+    excerpt: "Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, powered by du’s 5G Private"
+    publishedDateTime: 2021-11-18T09:01:00Z
+    webUrl: "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
+      name: Al Bawaba News
+      domain: albawaba.com
     quality: 62
     images:
-      - url: "https://images.zawya.com/pr/images/2021/FPR_1367_2021_11_18.jpg"
-        width: 450
-        height: 337
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-11/du%20at%20ADIPEC.jpg?itok=lmEA8m_3"
+        width: 2259
+        height: 1694
         isCached: true
   - title: "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies"
     excerpt: "ADIPEC, Abu Dhabi: du, from Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, pow"
@@ -71,6 +71,6 @@ related:
         height: 380
         isCached: true
 
-secured: "exvh2WgpFh0OrqPporc71ir5FU4N73OI5kdjSoo1eCPyb+vSd92Hr8BwCYOe04cb2cIzCNGT+PqRMQwi6Ij1dhZlCqOjVYRU/tBpO+jSDcBKlysd50Fh29NzwPR5oJnWichJSnOOm8VZIXdhzy8lz4bpG+e3PT8w8lK8Kq8Ax0xFRwHQL8o3tkuVKWQou5si+thDvIGk9F80YSyKDhXVw4aIMDLAsQFgSn7goYSVBm4wP1NwpUM9jaKBAUM4xJnVgLcdGYCRdp/0XkvRAo+qKR13byjWlx/bqBYkxqcy9Aqpb9MEGM2wr8dE1xY189XsdWnl+RQbpe55lFlHRhWGbMK4nqzoVKvmgThtX0eSJTM=;d2w7Rw6C/NGUN9TKTTnRwg=="
+secured: "3ALak1q0RBr2ZZueWJp3l3vLBpM/utvDasi/EJhMejKZLuvhFUew8x69Tjp5XPb6RzVvWvs6O42gPGSVvPzNjgB2DPKK9isBq/qAT6mzz9kqgHsvViVexiow7UwjLzxLtoBBgNxPtHLs+65eayS3hpDbHHmhpoIbYQFjXRt+10PcxBEki9tfN8gIHQti7bvBz49recp6Lw+wZRnEVn0UsVzX3yLyqdGbV7cp0mVp86dTqxxBev/cLsP0/brF8D9e4k0i4dwSw2xC2KGpra9PGcgJrscjcqwFr957Qn81cw5Jg8nb4LPJgqVxGo0SrJaLFpYkMTLi9HYvHZEE2DWqj+0di5pOJ6G2uDurRev37dbUzjasQ2EjoD7AQIvAS/y0LyxUBRX5hgHQKle78FC5HioNj1YkuD8nMvU1gjM6Ez/vWOC7g7pmO6fJkXwErqnQQM68fT1jgF4Yu9NabhEGTU8V7u62fQLjqk6JdzwR/WYupR0GjsT7yELgXd2Jq+QObm7JMAktmhcqmcy3HGq63w==;BfRPXjnAdVrUKpC8ERFsuA=="
 ---
 

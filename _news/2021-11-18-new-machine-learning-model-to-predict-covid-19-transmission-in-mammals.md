@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/new-machine-learning-model-to-pred
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-machine-learning-model-to-predict-covid-19-transmission-in-mammals-204338-1.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "AI predicts which mammals are most likely to spread covid-19"
-    excerpt: "Water buffalo, Sunda pangolins and mink are among the 540 mammals predicted to be likely to spread the coronavirus based on their biology and where they live"
-    publishedDateTime: 2021-11-17T10:18:00Z
-    webUrl: "https://www.newscientist.com/article/2297811-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19/"
-    ampWebUrl: "https://www.newscientist.com/article/2297811-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2297811-ai-predicts-which-mammals-are-most-likely-to-spread-covid-19/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 157
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/11/16160559/pri210570719.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "K4pdRIF1BL3hmOENIemFw0uno90249VI7A44WFfAiaqOGfj+0PulREQurg1cpoWyUxd9Ty/D2Vo1VEnilUve9Cv2d7Ou/YH16bWFtAxQBVA+2cC8oD1K7qoSluyZ5JtrpQyxbGPMcJeN4l1flSCEPKCu2XslXJjuoUlk9wyxSL2p/nVST8zkEvTWxFXSzBvyQaw10GVkdQIHZJPYHcEyI2rPTcVXMeuUWIYjg8HwJglt2IVN9cp6eyi+4zL9c6gjtWQk+3pG3xjtY4jhMCcNh8vby3zY9ZRIUZo68NN2j6ywGEe0Yp1Jg9xzkwHtXy3qfS9nQBt+Ka1SLLRWsQWkC2aWkggY9AHm0tYCNFqyVnW8AmXZr2ZVlxeRoJVpvixl0pzpnksup+RgtOklO79xYmQHy3u4mlwlUYhUbZZNzyKA6ByQVlb826JTUG6WSy1iADjwBIPKhX2OVgMKCxZteP8Ys+NErFpZ+/gKJ/gYXS+l3W3IqUN4qw45HYwtooA7wwf1uEj8EeD4RK4aJ8BlRw==;tvBLu+7jYJTDE0H23i21fA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-intervi
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "MediaTek Dimensity 9000: next-gen SoC with 5G, AI, and TSMC 4nm node"
+    excerpt: "MediaTek has just unveiled its new 5G-powered Dimensity 9000 SoC which features 8 cores of CPU power, an ARM Mali-G710 MC10 GPU, ray tracing abilities, 5G connectivity, and it's made on TSMC's new 4nm process node."
+    publishedDateTime: 2021-11-22T01:44:00Z
+    webUrl: "https://www.tweaktown.com/news/82877/mediatek-dimensity-9000-next-gen-soc-with-5g-ai-and-tsmc-4nm-node/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "/aG3cekDRkJ2SnK/26SJxTlryWBl3VuWsgqA4j9REH7FfG7dT/lJU//kAyD4cgEXUCprX2XEzSXPPxMU2sKnORmgy+mICgSviuFFJxkn9uCmVBmMEmrOxOVQtJgRvoFsXP6nXVJc9mFd0XKWM04Z7C9lqcF3TJo7AUQiX1yGn5vQa+LgOPct4WQz/LcnxKmzY3A6V49SNZ94nZupbOvxvHFzX2Sv3TzGYajLKH9t8pMIjP8Pf5kiblWIsMyOebdkSIfcPBImT1LFVOZ6fUi+L7wQxL5PChRFq46v+ndzT5+anSibeEedzo+SDpoYgTpSfobknQWb7AwIEz3v30r+Kn8h7wSxRgw6wMXR6F1jIutgF/xnrVBSZ+fJWK3yuOOohc6nCcVTTy00fjseP8r6LvRV4p1yTW+ANSsrfBqqJ4aruyywT+Oso4zaBki9PwqfIh5WEL5fCQIMXGd60MKRxh60VjPMdD+YwOZ4v7zXl4F2o9jPNIyyX/pEorbsYuxxbSRSogbn9y1SrEpPj8ePFA==;TzCk253Bl029LMX1keSHJg=="
 ---

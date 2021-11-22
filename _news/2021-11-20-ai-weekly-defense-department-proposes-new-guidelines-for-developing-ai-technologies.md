@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-prop
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/amp/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

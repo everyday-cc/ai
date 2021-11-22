@@ -41,20 +41,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "The Payments Association finds huge value in AI in revolutionising payments"
-    excerpt: "Financial Services organisations with over 5,000 employees have adopted AI It is forecast that AI Market to Hit USD 360.36 Billion by 2028 The Payments Association (formerly The Emerging Payments Association (EPA)) today announces the release of its latest research,"
-    publishedDateTime: 2021-11-17T09:54:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/payments-association-finds-huge-value-ai-revolutionising-payments"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 37
-    images:
-      - url: "https://financialit.net/sites/default/files/dbfhgysuydfbsuydf.png"
-        width: 733
-        height: 414
-        isCached: true
   - title: "Artificial Intelligence Drives Innovation In Building Security Solutions"
     excerpt: "The application of artificial intelligence (AI) in digital building solutions continues to grow. Vendors across the market are turning to AI and machine learning to launch advanced offerings that drive greater automation and improved outcomes."
     publishedDateTime: 2021-11-18T15:36:00Z

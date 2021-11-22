@@ -9,7 +9,7 @@ ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-bi
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

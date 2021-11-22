@@ -91,6 +91,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "MediaTek Dimensity 9000: next-gen SoC with 5G, AI, and TSMC 4nm node"
+    excerpt: "MediaTek has just unveiled its new 5G-powered Dimensity 9000 SoC which features 8 cores of CPU power, an ARM Mali-G710 MC10 GPU, ray tracing abilities, 5G connectivity, and it's made on TSMC's new 4nm process node."
+    publishedDateTime: 2021-11-22T01:44:00Z
+    webUrl: "https://www.tweaktown.com/news/82877/mediatek-dimensity-9000-next-gen-soc-with-5g-ai-and-tsmc-4nm-node/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "/hutPhyev7pScP4EhVWT9+M2CgZfOt+79wewAN94dQByoA8ac4bdYBHZ+/R1BN7Dv4wB/U9mCsWh+6arPRuomWAxfORmW9D5ekLpIP1DeYIYgI5HCwJktO3fHjZlZT1G28Pnq64vMY6/v3cKCekVZdDZLbtNIJrdyjqi4Hv7zN55IHb28rZKMBOxkNsG9I/Ou444O4MUbidK093UmAt4QGUHZJfsgjoXrw4Orp26+Bcx4U/x16kKiCPaS/07qMr6R8xrRBmmcp9seUqD0Sycwtug9aJGXNWf9Qagdy6HJqe24YcUIZ+zxG+Q6harXKnJ3fo18ekv2IW0ywMr74KqAmoEmq+CZuIRqNBWyw2F4kk=;BB31QkoAaz9A90SQqbRzMg=="
 ---

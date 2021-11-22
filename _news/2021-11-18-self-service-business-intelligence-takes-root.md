@@ -26,6 +26,24 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "The future of business intelligence: Six key trends"
+    excerpt: "Nearly all BI elements, including data sources and models, analytics, data storage and computing power, have moved to the cloud, says Stephen Coull, sales director at Keyrus."
+    publishedDateTime: 2021-11-18T06:46:00Z
+    webUrl: "https://www.itweb.co.za/content/nWJadvbemA9qbjO1"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/nWJadvbemA9qbjO1"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/nWJadvbemA9qbjO1"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/DJ-E5f5EKcctYIDISWCZdHYLan-BwaBAB78NgsWbMEd6ToUAvSz4FU4YDqss90fLnvUl3wmgndM9RylQpqAXRiFwifXmI0aXSQNK=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+
 secured: "Yl8YsZFdXeQr0SQUocfsZJhAfjnV7kRrBVFngTd4p84iJaTulc6djTLJMmxmu05ivHhEZMlE+5D6vXBod/892/tfV6P84CJ3JaZQyKaMGYBg0kKsdzvJ3JzcoysJDpwZHvJrWzTm8W8x/R/k1bh25Z9CaaWpiJCNH2AYqp+JXbSfQmGVL4LVYRwl4aeIovN9mI8G+NNa561VONVpktrEtwJLhL+8VmiVw4HVwQAxc+FtYny9q3UO/vHi8RNoXb/uu8p96+JDhqF0wURHt93y3uYFX1I+vPLfCANoQYQflWIfOlLuuZji9gbqDc2KKp5nvYET7jKnPTAcKoKzTq0oofL+cAEOgy9uKFU3P7DN07E=;DdSlyKL2NNiFVKzQCF4Rmg=="
 ---
 

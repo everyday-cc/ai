@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1"
 type: article
 quality: 159
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Q3 Adj. Net Income Declines; AI Cloud Revenue Up 73%"
-    excerpt: "Rong Luo, CFO of Baidu, said: \"With a diversified AI portfolio, including cloud services, smart transportation, smart devices, self-driving, smart EV and robotaxi, we are well positioned for long ..."
-    publishedDateTime: 2021-11-17T09:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-q3-adj-net-income-declines-ai-cloud-revenue-up-73-1030983319"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Baidu’s Q3 revenue grows 13% as demand for AI cloud rises"
     excerpt: "Baidu, the Chinese search giant, posted a 13% year-on-year revenue growth for the quarter ended September 30 on the back of its strong AI cloud business. The company registered over US$4.9 billion in revenue for the quarter."
     publishedDateTime: 2021-11-17T14:53:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-project-aims-
 webUrl: "https://eandt.theiet.org/content/articles/2021/11/ai-project-aims-to-reduce-harm-among-pregnant-black-women/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence plan to reduce harm to pregnant black women"
-    excerpt: "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations."
-    publishedDateTime: 2021-11-17T10:52:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_post_locator=urn:bbc:cps:curie:asset:26c1a88e-0fff-4b72-967d-3262e6c7fffb&pinned_post_asset_id=59306908&pinned_post_type=share"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI project launched to reduce harm among pregnant black women"
     excerpt: "The maternal mortality rates of women from Asian and mixed ethnicity backgrounds around twice as high compared with white women."
     publishedDateTime: 2021-11-18T08:39:00Z

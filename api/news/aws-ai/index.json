@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-attendee-guides-to-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 122,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -151,20 +151,20 @@
     },
     {
       "path": "_news/2021-11-18-du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet-technologies.md",
-      "title": "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies",
-      "excerpt": "G Private Network with Athonet's cloud native 5G Standalone core network, and running on Amazon Web Services Snowball Edge",
+      "title": "du Showcases 5G Controlled Robot over Private 5G SA Network Leveraging AWS and Athonet Technologies",
+      "excerpt": "Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, powered by du’s 5G Private",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/",
-      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/",
+      "webUrl": "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
+      "originalUrl": "https://www.albawaba.com/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
       "featuredContent": null,
       "highlight": null,
       "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://images.zawya.com/pr/images/2021/FPR_1367_2021_11_18.jpg",
-          "width": 450,
-          "height": 337,
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-11/du%20at%20ADIPEC.jpg?itok=lmEA8m_3",
+          "width": 2259,
+          "height": 1694,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -172,13 +172,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/",
-      "publishedDateTime": "2021-11-18T02:40:00-08:00",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet",
+      "publishedDateTime": "2021-11-18T01:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -439,6 +439,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-video-va-transformed-into-race-track-to-showcase-dundee-digital-skills.md",
+      "title": "VIDEO: V&A transformed into race track to showcase Dundee digital skills",
+      "excerpt": "An icon of a desk calendar. An icon of a circle with a diagonal line across. An icon of a block arrow pointing to the right. An icon of a paper envelope. An icon of the Facebook \"f\" mark. An icon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
+      "originalUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thecourier.co.uk/wp-content/uploads/sites/12/2021/11/KSMI_Perth_Speed_Racer-19_41540986-2uholcjel-scaled-e1637082819668.jpg",
+          "width": 2560,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Courier",
+        "domain": "thecourier.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1415,52 +1458,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "Google AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/life-style/robotics-in-knee-replace
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/robotics-in-knee-replacement-716377"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         height: 214
         isCached: true
 
-secured: "I5ChHjuDN8Cy3GKiOc1gWfgfS0eZnDxJT2tWgZlJKLjzrHuBtNaz/Pjflb7qU75LHryg1RtlQyQYU0w1e7w+OimbtcNUlB1Oty6USrTEh8R79nVrSKUBLom3fEM/fM4bcv2NENA2Nli0w7LlV1jXsahSU1RoSzV/1WCtSh+UayM0vc0LmUkPPV0GWziZz1W33bI9A4LMle47iICLDHKC95PB25Nrs8a2QO12pYxj/UarP+iztK38dziqLAxG5AXk5U4Rfns/5nT2DFfxzzmrW5P3ExevzJ2GzRsRdu0eDhjpyFGIAVesWDYveOfrCrqGj1IusdGOjuEGgHkfO64Jq6rZkQNfsL2GmY4wlnFJZpk=;H2bvwVD1CSI0lx52XRYZHg=="
+secured: "VchEtWdUt3OeI4RsoWelL7B0cL6VlS0bF8apmb6b5nEGdZyPD8NNNUv9GCCI8TCXe73xXEpcD7OZocDTIklQvXTtgMkAXpanNVkfKgS0YwUzsXRb1mWarYOBOnIoJAySFISBRm7+/Di0yr3AUv9sxFAB/kKZjcBjxZFNtd4qb/kIbrejHZue9EZorPx4/4Ru2I+Urm9Ypx4GsFF5Bw4CTcQazKfpiRWU72w69Ds6TR1d9YvF033H6NNss6BQwb/IxWTnSSblx3LUgAKq1wvsd0PDMNlqFICt3xz+iom6bje/pVQbQZ46TF4/hZDYLnrMkCH7G190jDH/GLNGbsB/v5oMB+hKmzVK+n0u3fWVedWdjNdkkL5VnTR/gZibv8uJnZL9VNi9WqnzSagrALn8Aamxw9eV5MPqbJxkqOTjeML5Cizr3Vp6hQ6QMXOxvT3cuKU8d9Wk/+fMtAXYE1GFuXv720XsQikotRORq3DONjwbQXusXDzK+bf/n+8co9yBARbSLcs+0cvILX3NX1wSxg==;XuvSfHmbuV3ex6OfqheTqg=="
 ---
 
