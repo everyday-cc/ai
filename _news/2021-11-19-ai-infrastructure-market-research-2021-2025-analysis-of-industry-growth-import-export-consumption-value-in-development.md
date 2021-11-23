@@ -29,47 +29,44 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chipset Market 2021 To 2031 | Increasing Demand And Opportunities For Machine Learning & AI Industry"
-    excerpt: "The report published on the MarketResearch.Biz titled Deep Learning Chipset market brings an analytical view of the Deep Learning Chipset market performance in the global as well as the regional scenario. In a detailed chapter-wise format, the Deep ..."
-    publishedDateTime: 2021-11-18T18:02:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
+  - title: "AI in Drug Discovery Market 2021 Development Status and Future Statistics by 2031"
+    excerpt: "AI in Drug Discovery Market Introduction According to the report the global AI in drug discovery market was valued at US 0 35 Bn in 2020 and is projected to expand at a CAGR of 36 1 from 2021 to"
+    publishedDateTime: 2021-11-22T11:46:00Z
+    webUrl: "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
+    ampWebUrl: "https://www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
     type: article
     provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 67
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
     images:
-      - url: "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png"
-        width: 400
-        height: 400
+      - url: "https://cdn.openpr.com/U/b/Ub22142087_g.jpg"
+        width: 800
+        height: 800
         isCached: true
-  - title: "AI Chipsets Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2026"
-    excerpt: "The AI Chipsets Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the AI Chipsets market It particularly sheds light on market fluctuations pricing"
-    publishedDateTime: 2021-11-22T10:41:00Z
-    webUrl: "https://www.openpr.com/news/2469924/ai-chipsets-market-key-players-industry-demand-overview"
-    ampWebUrl: "https://www.openpr.com/amp/2469924/ai-chipsets-market-key-players-industry-demand-overview"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469924/ai-chipsets-market-key-players-industry-demand-overview"
+  - title: "Artificial intelligence (AI) in Logistics Market Recent Developments, Research Analysis Forecast 2027"
+    excerpt: "The Global Artificial intelligence AI in Logistics Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the"
+    publishedDateTime: 2021-11-22T07:24:00Z
+    webUrl: "https://www.openpr.com/news/2469421/artificial-intelligence-ai-in-logistics-market-recent"
+    ampWebUrl: "https://www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "2021 Report on the Use of AI for Wellbeing & Comfort in the Automotive Industry - ResearchAndMarkets.com"
-    excerpt: "The “AI in Wellbeing & Comfort in Automotive Industry” report has been added to ResearchAndMarkets.com’s offering. The report forecasts that artificial intelligence will transform the cars in the near future as many companies such as Hyundai,"
-    publishedDateTime: 2021-11-18T14:39:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-artificial-intelligence-stress-3ae390d345f14a7b914ed86b5daa56f4"
+  - title: "Artificial Intelligence in Security Market Shares SWOT Analysis, Key Development Strategies and Forecasts Till 2026"
+    excerpt: "The Artificial Intelligence in Security Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence in Security market It particularly sheds light"
+    publishedDateTime: 2021-11-22T11:34:00Z
+    webUrl: "https://www.openpr.com/news/2470035/artificial-intelligence-in-security-market-shares-swot"
+    ampWebUrl: "https://www.openpr.com/amp/2470035/artificial-intelligence-in-security-market-shares-swot"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470035/artificial-intelligence-in-security-market-shares-swot"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
 
 secured: "1+phHAR0DzhOe9glbT4+DrV87cQsIZfT5i1XNwaLD5XyTstpwc4+jdjfKEynhHKSxMgtoddI7IAsyOOJWPR34G4fSgxl/bfcUkJv9w/AjYTYLynXdgna2U1Wt95kJ6F7Fik54cibK78viTEPgoCr9hXgAGpnEjMLVfn2YuaGRuziL95lag0G2VqGbIR5Y0HGSLlzCBqpLRCKIAcnZDKEab/VgNK5bAhGzNtHzTqwJts3mlKAcJ2aPZEJzb+ThUdqbEA+6DYARx9YcOvBSThkPusm2wC4MDnpttomYOVHb5aCJAXzuGfH+wpGzCc7zoayeQrsSKbb5Qed3xch9S50ENof1m7MWzGBOkeYKp9Q9I4=;5lFQgTvc0uEZvoIXOI/55Q=="
 ---

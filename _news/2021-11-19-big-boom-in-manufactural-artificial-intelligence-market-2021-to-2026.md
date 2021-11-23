@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market 2021-2028"
-    excerpt: "New study report \" Artificial Intelligence (AI) in Retail Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30."
-    publishedDateTime: 2021-11-18T09:39:00Z
-    webUrl: "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
-    ampWebUrl: "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub18124618_g.jpg"
-        width: 800
-        height: 428
-        isCached: true
   - title: "Trending Report on Very Edge AI Chipset Market 2021 to 2026"
     excerpt: "Portland United States Big Market Research newly added a research report on the Very Edge AI Chipset Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario"
     publishedDateTime: 2021-11-19T08:15:00Z
@@ -57,6 +41,22 @@ related:
     images:
       - url: "https://cdn.openpr.com/U/b/Ub19106275_g.jpg"
         width: 764
+        height: 400
+        isCached: true
+  - title: "Deep Learning Chipset Market 2021 To 2031 | Increasing Demand And Opportunities For Machine Learning & AI Industry"
+    excerpt: "The report published on the MarketResearch.Biz titled Deep Learning Chipset market brings an analytical view of the Deep Learning Chipset market performance in the global as well as the regional scenario. In a detailed chapter-wise format, the Deep ..."
+    publishedDateTime: 2021-11-18T18:02:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 67
+    images:
+      - url: "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png"
+        width: 400
         height: 400
         isCached: true
   - title: "Massive Opportunities in The Edge AI Ecosystem Market, 2021-2026"
@@ -89,22 +89,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI in Drug Discovery Market 2021 Development Status and Future Statistics by 2031"
-    excerpt: "AI in Drug Discovery Market Introduction According to the report the global AI in drug discovery market was valued at US 0 35 Bn in 2020 and is projected to expand at a CAGR of 36 1 from 2021 to"
-    publishedDateTime: 2021-11-22T11:46:00Z
-    webUrl: "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
-    ampWebUrl: "https://www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub22142087_g.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "Trending Report on AI and Operations Automation in 5G Networks Market, 2021-2026"
     excerpt: "Portland United States Big Market Research newly added a research report on the AI and Operations Automation in 5G Networks Market which represents a study for the period from 2021 to 2026 The research study provides a near look at"
     publishedDateTime: 2021-11-22T03:50:00Z
@@ -121,42 +105,17 @@ related:
         width: 780
         height: 405
         isCached: true
-  - title: "Mobile Artificial Intelligence (AI) Market Size to Reach $84.80 Billion by 2030"
-    excerpt: "PORTLAND, OREGON, UNITED STATES, November 18, 2021 /EINPresswire.com / -- Allied Market Research published a new report, titled, \"Mobile Artificial Intelligence (AI) Market by Technology Node (20–28nm,"
-    publishedDateTime: 2021-11-19T05:44:00Z
-    webUrl: "https://menafn.com/1103203187/Mobile-Artificial-Intelligence-AI-Market-Size-to-Reach-8480-Billion-by-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 50
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/19/EP_d781eimage_story.jpeg"
-        width: 790
-        height: 466
-        isCached: true
-  - title: "Artificial intelligence (AI) in Logistics Market Recent Developments, Research Analysis Forecast 2027"
-    excerpt: "The Global Artificial intelligence AI in Logistics Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the"
-    publishedDateTime: 2021-11-22T07:24:00Z
-    webUrl: "https://www.openpr.com/news/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    ampWebUrl: "https://www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
+  - title: "AI Chipsets Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2026"
+    excerpt: "The AI Chipsets Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the AI Chipsets market It particularly sheds light on market fluctuations pricing"
+    publishedDateTime: 2021-11-22T10:41:00Z
+    webUrl: "https://www.openpr.com/news/2469924/ai-chipsets-market-key-players-industry-demand-overview"
+    ampWebUrl: "https://www.openpr.com/amp/2469924/ai-chipsets-market-key-players-industry-demand-overview"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469924/ai-chipsets-market-key-players-industry-demand-overview"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "Artificial Intelligence (AI) in Agriculture Market 2021-2027 skyrocketed revenue with key players John Deere, Trimble, Iteris, AGCO, IBM, Intel"
-    excerpt: "Latest research on Artificial Intelligence AI in Agriculture Market report covers forecast and analysis on a worldwide regional and country level The study provides historical information of 2015 2021 together with a forecast from 2021 to 2027 supported by both"
-    publishedDateTime: 2021-11-20T07:12:00Z
-    webUrl: "https://www.openpr.com/news/2468769/artificial-intelligence-ai-in-agriculture-market-2021-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2468769/artificial-intelligence-ai-in-agriculture-market-2021-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2468769/artificial-intelligence-ai-in-agriculture-market-2021-2027"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
 
 secured: "zleOvp4PTgLVe/m93azI0I8KB3L1EvUtK+8uMDID7aUJSRXeoHutfiQerdC5tMbAbWPO8bfIaMw3oDVWDisa7DP7GdkFGT+GUEatmQG2PZMKLVkvvlXeXQNmuZH+mCRBKogx+0tdqJOVQNa8XTBxVTLJd9m1v1Ixyu0wI0pL0z5VQwcIIN/mL1u+nRFU75p9y1bk556XaSf6fwT8uMoJBydeWJibU3/Cnclv6REOZYqg9P+PmKP9nz6i+HQOX5cHueiB8tO66xdAYbltm2bdrrh301nKViXvH4C3yewY5gH8D+Fqv1cP2nJN1Usqz7IRDKR1Qzz+us4OrLkgmSpERdAXZrCvydJyhpC8ye9VTyLsI715K27nqQetbjZX78fMI3WLR4L8RQyBf1G7OQvY7q54x2DmCAzxJglwvIiid5GcqTRokRtSAH3toSiezRdfOGlav66IEDxTEQodLS2uOQ1dgZTwATrKZfWRgQsDFnIW4bdPOJ7jkA7XVLoo6+SUDnGkIwVu7cY4xyVyFVCLAA==;A6w8EP2a/9xNGX4+wlTy1g=="
 ---

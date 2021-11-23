@@ -10,7 +10,7 @@
       "originalUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -418,49 +418,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.md",
-      "title": "Deep Learning Chipset Market 2021 To 2031 | Increasing Demand And Opportunities For Machine Learning & AI Industry",
-      "excerpt": "The report published on the MarketResearch.Biz titled Deep Learning Chipset market brings an analytical view of the Deep Learning Chipset market performance in the global as well as the regional scenario. In a detailed chapter-wise format, the Deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm",
-      "publishedDateTime": "2021-11-18T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1431,6 +1388,58 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets.md",
+      "title": "Why AI Teams Need A Unified Data Format For Machine Learning Datasets",
+      "excerpt": "Data is the most important commodity today, yet we are still processing data in primitive ways. We need to break free of conventional tools and techniques for data processing. The Rise Of Unstructured Data: The Main Difference Between Structured And Unstructured data Structured data represented in rows and columns while unstructured data includes images,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618bcb2c313ebe533783e35f%2F0x0.jpg%3FcropX1%3D438%26cropX2%3D3217%26cropY1%3D0%26cropY2%3D1563",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/amp/",
+      "publishedDateTime": "2021-11-11T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

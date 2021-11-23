@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-19-jensen-huang-gets-chip-industrys-highest-honor-28-years-after-founding-nvidia.md",
+      "title": "Jensen Huang gets chip industry’s highest honor 28 years after founding Nvidia",
+      "excerpt": "About 38 years after he started Nvidia, CEO Jensen Huang received the chip industry's highest honor, the Robert N. Noyce Award.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/",
+      "originalUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/omni-6-Making-of-NVIDIA-GTC-NVIDIA-Omniverse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/amp/",
+      "publishedDateTime": "2021-11-19T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle.md",
+      "title": "Apple Accelerates Work on Car Project, Aiming for Fully Autonomous Vehicle",
+      "excerpt": "Apple is internally targeting a launch of its self-driving car in four years, faster than the five- to seven-year timeline that some engineers had been planning for earlier this y",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle",
+      "originalUrl": "https://www.bloombergquint.com/business/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imunUg3M6pRI/v1/1200x793.jpg",
+          "width": 1200,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving.md",
       "title": "Overcoming The Technological Speed Bumps On The Road To Autonomous Driving",
       "excerpt": "Three years ago, fully autonomous vehicles (AVs) that could take passengers 'anywhere' were supposed to have arrived on the market — at least according (paywall) to a 2015 prediction from Elon Musk. Musk was hardly alone.",
@@ -187,6 +281,49 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-trending-report-on-very-edge-ai-chipset-market-2021-to-2026.md",
+      "title": "Trending Report on Very Edge AI Chipset Market 2021 to 2026",
+      "excerpt": "Portland United States Big Market Research newly added a research report on the Very Edge AI Chipset Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026",
+      "originalUrl": "https://www.openpr.com/news/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub19106275_g.jpg",
+          "width": 764,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026",
+      "publishedDateTime": "2021-11-19T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -553,49 +690,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.md",
-      "title": "Deep Learning Chipset Market 2021 To 2031 | Increasing Demand And Opportunities For Machine Learning & AI Industry",
-      "excerpt": "The report published on the MarketResearch.Biz titled Deep Learning Chipset market brings an analytical view of the Deep Learning Chipset market performance in the global as well as the regional scenario. In a detailed chapter-wise format, the Deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm",
-      "publishedDateTime": "2021-11-18T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1144,92 +1238,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-artificial-intelligence-ai-in-retail-market-2021-2028.md",
-      "title": "Artificial Intelligence (AI) in Retail Market 2021-2028",
-      "excerpt": "New study report \" Artificial Intelligence (AI) in Retail Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub18124618_g.jpg",
-          "width": 800,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "publishedDateTime": "2021-11-18T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-optima-recruit-ai-pioneer-to-boost-customer-service-in-banking-sector.md",
-      "title": "Optima recruit AI pioneer to boost customer service in banking sector",
-      "excerpt": "Optima Partners have recruited an AI pioneer at their Edinburgh HQ to work on improved customer service in the banking industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
-      "originalUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deadlinenews.co.uk/wp-content/uploads/2021/11/Danilo-Blagojevich-e1637227266740.jpeg",
-          "width": 803,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
-      "cdnAmpWebUrl": "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
-      "publishedDateTime": "2021-11-18T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline News",
-        "domain": "deadlinenews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

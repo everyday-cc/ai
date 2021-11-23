@@ -23,6 +23,17 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "Improved intelligence: Transitioning to an enterprise intelligent asset management system"
+    excerpt: "Asset management systems are evolving quickly, and these guidelines will help your team keep up with the tech."
+    publishedDateTime: 2021-11-23T02:20:00Z
+    webUrl: "https://www.plantservices.com/articles/2021/improved-intelligence-transitioning-to-an-enterprise-intelligent-asset-management-system/"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 0
+
 secured: "m2aoyYaUPbJB1hhqpNclSeUGGRq2HGseGeo0fxkuc6YAtOQu6+YwiHrZ1QsQ3PgEqTALXkKY33BNXz0mg5qL3/qcJ6Vt00M911MIsoA3QOXFn26kvTGkd8HKQ9Vv4J5riHnP9D1crnyFfK/Zhf90HXONMYVZOwy9CjOlVraYmoosXw4Vnz42r3PnY6rHRXfI3VPJQ0rAMzg5llOjGfSW7/vnFCbnW8q6sKPE4OYgbS3tsQr/VQtoHc1B7yfFt0IrNxkrfOAY70lBJdymtnJFLa3tGzz7knTPQaKwHr+WyrWmNQOEd6piRm4fLldIgOMA0v7vkk8fX2cb67/VzcjatDQlDjZsboU8spAB0Qv0WVNv9ckDugytzSSSXrmY7MF4yJQ/Q1MkMDGJMLnsTvsi9IiOAiFFkYKBCB0IUuCYsVSa1g9PdgKPDFgIb6LqRRbx3A2kx/3XPBxrgOM4ohS06iGBvnO48eThANtSRaXxTlrwDUz5Zw/VaoLg6gAPUBNGPzTXf+OSd//VNjEh2WXXAQ==;2bWVMobr6RkJ1g7y/Sp+WA=="
 ---
 

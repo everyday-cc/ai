@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-amazon-sagemaker-model-into-amazon-redshift-for-remote-inference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -103,6 +103,50 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-du-demo-5g-controlled-robot-over-private-5g-sa-network-with-aws-and-athonet.md",
+      "title": "du Demo 5G Controlled Robot over Private 5G SA Network with AWS and Athonet",
+      "excerpt": "Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, powered by du’s 5G Private Network with Athonet’s cloud native 5G Standalone (5G SA) core network,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/21485-du-demo-5g-controlled-robot-over-private-5g-sa-network-with-aws-and-athonet",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/21485-du-demo-5g-controlled-robot-over-private-5g-sa-network-with-aws-and-athonet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/3c9de9f34cc7c89fc4bf6054bcc42366.jpg?t=20211122_004952",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-21T16:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1416,59 +1460,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk.md",
-      "title": "Automate detection of broken utility poles using the Amazon Rekognition Custom Labels SDK",
-      "excerpt": "Domestic infrastructure issues are a pain for everyone involved. Not only does it negatively affect customer satisfaction, it also has a cascading effect on businesses and their bottom line in terms of financials. Electric utility poles, for example, are an example of a cumbersome infrastructure issue",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-detection-of-broken-utility-poles-using-the-amazon-rekognition-custom-labels-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/08/damaged-pole-2.jpg",
-          "width": 801,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T16:02:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

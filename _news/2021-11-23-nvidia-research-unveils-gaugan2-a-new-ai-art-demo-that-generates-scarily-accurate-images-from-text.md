@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "NVIDIA’s new AI eats words, spits out photos and feels borderline magical"
+    excerpt: "NVIDIA has as generative art system that uses AI to turn words into visually spectacular works of art. This isn’t the first time this sort of concept has been postulated, or even produced."
+    publishedDateTime: 2021-11-23T02:33:00Z
+    webUrl: "https://www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255/"
+    ampWebUrl: "https://www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 86
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/oceanrockes.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "NVIDIA and Mavenir Tap L&T Technology to Accelerate Adoption of AI-on-5G Platform"
     excerpt: "LTTS will support Mavenir with customization, integration, and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform."
     publishedDateTime: 2021-11-22T16:27:00Z

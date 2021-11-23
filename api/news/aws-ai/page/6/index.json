@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-24-aws-announces-general-availability-of-amazon-quicksight-q.md",
+      "title": "AWS Announces General Availability of Amazon QuickSight Q",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon QuickSight Q, a new capability in Amazon QuickSight that gives anyone in an organization the ability to ask business questions using natural language and receive accurate answers with relevant visualizations that help them gain insights from the data.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/nfl-business-technology-sports-amazoncom-inc-4503228a75bc449b9ac6fa96e29053f4",
+      "originalUrl": "https://apnews.com/press-release/business-wire/nfl-business-technology-sports-amazoncom-inc-4503228a75bc449b9ac6fa96e29053f4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-cluster-time-series-data-for-use-with-amazon-forecast.md",
       "title": "Cluster time series data for use with Amazon Forecast",
       "excerpt": "In the era of Big Data, businesses are faced with a deluge of time series data. This data is not just available in high volumes, but is also highly nuanced. Amazon Forecast Deep Learning algorithms such as DeepAR+ and CNN-QR build representations that effectively capture common trends and patterns across",
@@ -1370,50 +1413,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-enterprise-artificial-intelligence-market-next-big-thing-major-giants-ibm-microsoft-aws-hpe.md",
-      "title": "Enterprise Artificial Intelligence Market Next Big Thing | Major Giants IBM, Microsoft, AWS, HPE",
-      "excerpt": "Latest Study on Industrial Growth of Worldwide Enterprise Artificial Intelligence Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Worldwide Enterprise Artificial Intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/271082758/enterprise-artificial-intelligence-market-next-big-thing--major-giants-ibm-microsoft-aws-hpe",
-      "originalUrl": "https://www.bignewsnetwork.com/news/271082758/enterprise-artificial-intelligence-market-next-big-thing--major-giants-ibm-microsoft-aws-hpe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1632214028757.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

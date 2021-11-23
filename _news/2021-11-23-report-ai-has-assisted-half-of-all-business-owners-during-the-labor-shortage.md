@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-al
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 95
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
       domain: siliconangle.com
     quality: 4
 
-secured: "ZyZY80ZnONUvfdNki/SCL7bFEC0amV1xA2BOI7UUyqu0GPkDn4mku9ju59JYYRIrzQ8nzQCAlaPH0D8npNv3t4oDa/MSwobEhlp+8zct3Tlk/dJ4lNNFLA6BcAtkEJL2ySXc7moWl4gYO2r4yf5W+h2UelNXfBayHfoJgE5ah2GgLTOJBRYqq/tN2MY3SZQIoMhot+7cuxRNdVWg56gQgYjZOqgJJ1PCUWP8QpWaAXFN3+3nEPMHRfitf+Kt23T+a+FW4ZBOJL0CyJROiN7Rk+w55r6jRpeD1lTvuvVa/EfH7myy7yJMq2hpbzw3r8AYTimWSU2lbnTXhPk+x+ODlX9QPCaHVMn6sPje+TAPdcU=;cq2xR98on462ug2K/Z7U+w=="
+secured: "0hEX8VJ02GIXGzh3McovnTPanm307Nj1zIlNdvO5wc8fXKtU044S7jFOXGmCFZYPq502kfQP2YFnlYua9FVHSyDaDP0kwAZpiWkY+CcAgfzP94VBVSgJJFXeF1QwgMTE9AQNjXSlisymLV8wOZGkM2KJLLtTHCYmTSzR8cuiWOeu47pZd4ZmP+kSfi7ocuyiInKIgxTs5wgDaOVlgQdi5VUNsIbA3JPGuEgkQ/KvD8k2aBs6hltBnO3lk5QjIXdRJRN/4UO6mIC31l7h616DBSv5oLRZkm+N2nVeqgtTRgLLDo3bdZDdJzGVdCx8uRRcCNvi4Qp3cW66n6b9PUfQbvt93hmE6LRCee/FAepX6YWUCxFF+d/Hztwn98eelBnwTUNZCRj4EZ6dhJ1tVS+ripPJc4EL/eclsXSEzLfBqkKRdlncg07unvaH7nlzURWwc00YlSKSVPPfGy6k0UExfcHjDAvxNN023evN5Fi3xHS3cfHgblKaBZCHO4x7237KHUg76jUMYiNWYdQziAmIDA==;vJha8pc07yaf02EeOh7VXw=="
 ---
 

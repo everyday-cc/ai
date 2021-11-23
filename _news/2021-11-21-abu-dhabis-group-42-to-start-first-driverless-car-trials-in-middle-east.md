@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless ride-sharing coming to ME"
+    excerpt: "G42, an artificial intelligence company backed by Mubadala, announced plans to test a driverless ride-sharing service in Abu Dhabi."
+    publishedDateTime: 2021-11-21T11:28:00Z
+    webUrl: "https://www.linkedin.com/news/story/driverless-ride-sharing-coming-to-me-5190236/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQEL-xxcRQRilQ/storylineheaderimage-shrink_400_400/0/1637491945216?e=1637726400&v=beta&t=7A0ywOGl_efkqB1A87d5QcYSl2M0EZsoOXGOwmt6Mjc"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Abu Dhabi’s G42 to start first driverless car trials in Middle East"
     excerpt: "Launching on Yas Island, cars will have a safety officer on board and transport passengers between nine stops, including hotels and shopping malls. Abu Dhabi’s G42 to start first driverless car trials in Middle East."
     publishedDateTime: 2021-11-21T08:42:00Z

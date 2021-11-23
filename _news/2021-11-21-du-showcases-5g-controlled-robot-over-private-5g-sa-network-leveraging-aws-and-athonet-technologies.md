@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies"
-    excerpt: "G Private Network with Athonet's cloud native 5G Standalone core network, and running on Amazon Web Services Snowball Edge"
-    publishedDateTime: 2021-11-18T10:40:00Z
-    webUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/"
-    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 62
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/FPR_1367_2021_11_18.jpg"
-        width: 450
-        height: 337
-        isCached: true
   - title: "du Demo 5G Controlled Robot over Private 5G SA Network with AWS and Athonet"
     excerpt: "Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, powered by du’s 5G Private Network with Athonet’s cloud native 5G Standalone (5G SA) core network,"
     publishedDateTime: 2021-11-22T00:51:00Z

@@ -2,6 +2,151 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-10-31-the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all.md",
+      "title": "The D-Link Eagle Pro AI Router Brings Affordable WiFi 6 For All",
+      "excerpt": "D-Link is the latest brand to join the affordable WiFi 6 party with the new R15 Eagle Pro AI AX1500 smart router. This surprisingly small and lightweight router combines Wi-Fi 6 technology and artificial intelligence in a router that offers strong wireless coverage and higher speeds,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6168429acae3598d883ce0e8%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/10/31/the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all/amp/",
+      "publishedDateTime": "2021-10-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-neuron-bursts-can-mimic-a-famous-ai-learning-strategy.md",
+      "title": "Neuron Bursts Can Mimic a Famous AI Learning Strategy",
+      "excerpt": "A new model of learning centers on blasts of neural activity that act as teaching signals—approximating an algorithm called backpropagation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/neuron-bursts-can-mimic-a-famous-ai-learning-strategy/?bxid=6135c198731d496fb67b3e85&esrc=HeaderAndFooter&hashc=18e94e742165e1e48bd754cfafae708b7c59852fea2bbdbc2c3c14f17738af58&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
+      "originalUrl": "https://www.wired.com/story/neuron-bursts-can-mimic-a-famous-ai-learning-strategy/?bxid=6135c198731d496fb67b3e85&esrc=HeaderAndFooter&hashc=18e94e742165e1e48bd754cfafae708b7c59852fea2bbdbc2c3c14f17738af58&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/617bf827cb9b28f739668a86/191:100/w_1280,c_limit/Science_branbackprop_2880x1620_lede.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-31-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder.md",
+      "title": "Use Of Artificial Intelligence (AI) In Content Marketing Was Huge In 2022, Says Scalenut Founder",
+      "excerpt": "Scalenut is a next-gen AI-powered platform for content research and content creation. From short-form to long-form, its AI writes everything.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "originalUrl": "https://www.outlookindia.com/website/story/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/31/Mayank-Jain-Co-Founder-Scalenut1_550_550.jpg",
+          "width": 550,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/feature-use-of-artificial-intelligence-ai-in-content-marketing-was-huge-in-2022-says-scalenut-founder/399365",
+      "publishedDateTime": "2021-10-31T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-10-31-ai-weiweis-artistic-rebellion.md",
       "title": "Ai Weiwei’s Artistic Rebellion",
       "excerpt": "The artist-activist on his most beloved objects and his new memoir, “1000 Years of Joys and Sorrows,” which charts his father’s life, and his own, as an “enemy of the state.”",
@@ -1050,142 +1195,6 @@
       "provider": {
         "name": "Volume One",
         "domain": "volumeone.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-labor-shortages-outrank-cyber-threats-as-biggest-concern-for-tech-companies.md",
-      "title": "Labor shortages outrank cyber threats as biggest concern for tech companies",
-      "excerpt": "57% of tech executives responding to CNBC's Technology Executive Council survey said finding qualified employees is the biggest concern for their company right now. Respondents ranked it higher than supply chain issues and cyber security threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103681763-GettyImages-532200478.jpg?v=1635369654",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/29/labor-outranks-cyber-threats-as-biggest-concern-for-tech-companies-.html",
-      "publishedDateTime": "2021-10-29T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-expert-warns-that-human-beings-are-going-to-start-getting-hacked.md",
-      "title": "Expert Warns That Human Beings Are Going to Start Getting Hacked",
-      "excerpt": "Yuval Harari, a world-renowned social philosopher and the bestselling author of “Sapiens,” has a stark warning: we need to start regulating AI, because otherwise big companies are going to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/yuval-harari-human-hack",
-      "originalUrl": "https://futurism.com/the-byte/yuval-harari-human-hack",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/10/genehack-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/yuval-harari-human-hack/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/yuval-harari-human-hack/amp",
-      "publishedDateTime": "2021-10-29T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-robots-deliver-food-at-north-carolina-at-state-university.md",
-      "title": "Robots Deliver Food at North Carolina A&T State University",
-      "excerpt": "The knee-high robots use machine learning, artificial intelligence and sensors to navigate the campus ... Joe Burdi, who oversees food services at A&T for Sodexo, said the decision to start using the robots was not caused by a labor shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/2f5990f/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F1c%2Ffa%2F359e4dd58737b5bfcee5c940058c%2Fshutterstock-622400270.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/robots-deliver-food-at-north-carolina-a-t-state-university?_amp=true",
-      "publishedDateTime": "2021-10-29T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null

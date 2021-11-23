@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Trending Report on Very Edge AI Chipset Market 2021 to 2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the Very Edge AI Chipset Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario"
+    publishedDateTime: 2021-11-19T08:15:00Z
+    webUrl: "https://www.openpr.com/news/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub19106275_g.jpg"
+        width: 764
+        height: 400
+        isCached: true
   - title: "Deep Learning Chipset Market 2021 To 2031 | Increasing Demand And Opportunities For Machine Learning & AI Industry"
     excerpt: "The report published on the MarketResearch.Biz titled Deep Learning Chipset market brings an analytical view of the Deep Learning Chipset market performance in the global as well as the regional scenario. In a detailed chapter-wise format, the Deep ..."
     publishedDateTime: 2021-11-18T18:02:00Z
@@ -37,33 +53,67 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI Infrastructure Market Research 2021-2025 | Analysis of Industry Growth, Import-Export, Consumption Value in Development"
-    excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “AI Infrastructure Market” Report 2021"
-    publishedDateTime: 2021-11-19T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market-research-2021-2025-analysis-of-industry-growth-import-export-consumption-value-in-development-2021-11-19"
+  - title: "Big Boom in Manufactural Artificial Intelligence Market 2021 to 2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the Manufactural Artificial Intelligence Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario and"
+    publishedDateTime: 2021-11-19T09:25:00Z
+    webUrl: "https://www.openpr.com/news/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/b/Ub19446944_g.jpg"
+        width: 640
+        height: 400
         isCached: true
-  - title: "2021 Report on the Use of AI for Wellbeing & Comfort in the Automotive Industry - ResearchAndMarkets.com"
-    excerpt: "The “AI in Wellbeing & Comfort in Automotive Industry” report has been added to ResearchAndMarkets.com’s offering. The report forecasts that artificial intelligence will transform the cars in the near future as many companies such as Hyundai,"
-    publishedDateTime: 2021-11-18T14:39:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-artificial-intelligence-stress-3ae390d345f14a7b914ed86b5daa56f4"
+  - title: "Massive Opportunities in The Edge AI Ecosystem Market, 2021-2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the The Edge AI Ecosystem Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario"
+    publishedDateTime: 2021-11-22T04:08:00Z
+    webUrl: "https://www.openpr.com/news/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
+    ampWebUrl: "https://www.openpr.com/amp/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.openpr.com/U/b/Ub22592201_g.jpg"
+        width: 780
+        height: 405
+        isCached: true
+  - title: "AI Chips That Made It To The Market In 2021"
+    excerpt: "The success of any modern AI technique relies on computation, on a scale unimaginable even a few years ago. Therefore, more advanced chips and hardware are being developed and released to match the processing capabilities of complex neural networks."
+    publishedDateTime: 2021-11-18T12:00:00Z
+    webUrl: "https://analyticsindiamag.com/ai-chips-that-made-it-to-the-market-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trending Report on AI and Operations Automation in 5G Networks Market, 2021-2026"
+    excerpt: "Portland United States Big Market Research newly added a research report on the AI and Operations Automation in 5G Networks Market which represents a study for the period from 2021 to 2026 The research study provides a near look at"
+    publishedDateTime: 2021-11-22T03:50:00Z
+    webUrl: "https://www.openpr.com/news/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
+    ampWebUrl: "https://www.openpr.com/amp/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub22461176_g.jpg"
+        width: 780
+        height: 405
         isCached: true
 
 secured: "fcx0CAXJ3HUhk0DrL+nilDj6u3cjHEDasbGjiDhP0Q45/lZq1Sie8j2/l7jN9icSaKwbcmmagn4XsL9wsaTr0EEr46oEjask1ND2/9jlEQR/0etRGDZKR6jPhh1AW/DtwgW1/5zfRNjrEdS5mPFCwby6mZoqwoMtZ7/RrRxrQG0NP/s81sFn+73zPrBgq3pbU5UqFZHhjC41bf1yet7K+0LFovh58hOtL+/ZBdYKl7Ckm60AMhhBTPliD9P1Rx2TqnyHGizsPX6QZAreKgYxj10U3kInuZ8daZidd5Fuw09NfM2VhPJFnedpmZtmrFIndsxS7ILrfJ0NH0e0ox76xCfTIOVCgog4WDhpUNQbOvY=;TdFxsdvBmZ+bJlW4j8D8SA=="

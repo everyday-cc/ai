@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Gindi TLV, a smart residential complex in Tel Aviv, deploys Oosto’s facial recognition technology to protect tenants from COVID-19 infection"
-    excerpt: "Gindi TLV, a residential complex in the heart of Tel Aviv, Israel, maintains the safety of its community, by using Oosto’s face and object recognition, to reduce contact with surfaces"
-    publishedDateTime: 2021-11-18T10:07:00Z
-    webUrl: "https://www.sourcesecurity.com/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/gindi-tlv-smart-residential-complex-tel-aviv-oosto-facial-recognition-technology-covid-19-co-1536229326-ga-co-1637219925-ga.1637221016.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 24
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/artificial-intelligence-and-machine-learning-offer-actionable-risk-intelligence-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
 
 secured: "7PSEE8B17XzJtY4AyEUWLTDDzb2J5rSnPG4lhcE4nAUqTgn4hAoDoRwVgJSkuOppaHfHymeCgaxY3/HPNztUK52WHSYAbp7elKUUwaONjwXXsZPkM1k2T9Ajpn9B+8wX8PiUSZX2mHbyGY/ofTNABVR8TQUWR5gof36NUmsX1IU+iaQErGYMZsQiX1V9bmWZsGgxndj/u/I/fp0KxYvo92ttMmBaXeMN+d4vNQhfEozKulsAQ6OEYFpd2pgkekG4UYCnyqHWsOouEfv2jOsWdmSf2RJ9c3yoCVjzRqaAf9mMMx0IjNvEE+BX2XtA+fXktPtDdF6d/18UlPVTGYVGS8ZMbZIxcmnlHf36OGigxAiBnRGKNeMjXJImayLvhEfqwnV5WPnHONO+S32dG0qXYb1WnqLG5ViqUeCpFcxpFdiA/yM/iLozjzNJGX9++ihLgWTBpwh4lmULXpbCfKk1fOIq3+fFDTx4b/YfxANouQcrfhZw+JPZpQhqLEo72LGscIpnGstmmlV1TDWPMvxuHg==;uuDYyzo9PlWPMoe5yjl+oQ=="
 ---

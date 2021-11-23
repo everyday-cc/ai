@@ -2,6 +2,143 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-10-18-pagaya-partners-with-sofi-to-expand-access-to-financial-services-and-create-opportunities-for-customers.md",
+      "title": "Pagaya Partners With SoFi to Expand Access to Financial Services and Create Opportunities for Customers",
+      "excerpt": "Pagaya Technologies Ltd. (“Pagaya”), a financial technology company that enables financial institutions to expand access to more customers through its",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211018005244/en/Pagaya-Partners-With-SoFi-to-Expand-Access-to-Financial-Services-and-Create-Opportunities-for-Customers",
+      "originalUrl": "https://www.businesswire.com/news/home/20211018005244/en/Pagaya-Partners-With-SoFi-to-Expand-Access-to-Financial-Services-and-Create-Opportunities-for-Customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts.md",
+      "title": "How AI-Powered Call Centers Can Help With Your Digital Transformation Efforts",
+      "excerpt": "There is a huge opportunity for marketers to harness AI-driven insights using first-party data from phone calls that can connect the dots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616993c95f7a5281d84c7233%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/amp/",
+      "publishedDateTime": "2021-10-18T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes.md",
+      "title": "Facebook AI moderator confused videos of mass shootings and car washes",
+      "excerpt": "Facebook CEO Mark Zuckerberg sounded an optimistic note three years ago when he wrote about the progress his company was making in automated moderation tools powered by artificial intelligence. “Through the end of 2019,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/GettyImages-1074353570-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-how-iot-and-ai-are-helping-keep-truck-drivers-safe.md",
       "title": "How IoT and AI are helping keep truck drivers safe",
       "excerpt": "Truck safety is a major focus for the trucking industry. Now there is artificial intelligence that can make a real-time difference in lives, money and on-road safety.",
@@ -1007,137 +1144,6 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-galvin-widjaja-consultants-vs-founders-computer-vision-ai-digital-privacy.md",
-      "title": "Galvin Widjaja: Consultants vs. Founders, Computer Vision AI & Digital Privacy",
-      "excerpt": "Check out this great listen on Audible.com. Galvin is the CEO and Co-founder of Lauretta.io, a profitable Techstars company that builds bleeding edge military grade computer vision technologies that are now available to commerical buyers with no AI capability of them own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/Galvin-Widjaja-Consultants-vs-Founders-Computer-Vision-AI-Digital-Privacy-Podcast/B09JNCSXSW",
-      "originalUrl": "https://www.audible.com/pd/Galvin-Widjaja-Consultants-vs-Founders-Computer-Vision-AI-Digital-Privacy-Podcast/B09JNCSXSW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/51Xznq5hwFL._SL10_UR1600,800_CR200,50,1200,630_CLa%7C1200,630%7C51Xznq5hwFL.jpg%7C0,0,1200,630+107,79,402,402_PJAdblSocialShare-Gradientoverlay-smallasin-0to70,TopLeft,0,0_PJAdblSocialShare-AudibleLogo-Large,TopLeft,576,270_OU01_ZBLISTENING%20ON,593,216,52,500,AudibleSansMd,30,255,255,255_PJAdblSocialShare-PodcastIcon-Small,TopLeft,1094,50_ZBGalvin%20Widjaja%3A%20Consult...,106,519,48,404,AudibleSansMd,24,255,255,255.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts.md",
-      "title": "Facebook is counting on AI to clean up its platform, but its own engineers have doubts",
-      "excerpt": "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=andrea-coombes-working-retirement",
-      "originalUrl": "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=andrea-coombes-working-retirement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-411503/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-deep-learning-market-size-outlook-and-key-companies-amazon-web-services-aws-google-ibm-intel-micron-technology-microsoft.md",
-      "title": "Deep Learning Market Size, Outlook and Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft",
-      "excerpt": "The report analyzes the major players of the Deep Learning Market by inspecting their market share, recent developments, new product launches, partnerships, mergers or acquisitions, and their target markets.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-market-size-outlook/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-market-size-outlook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-market-size-outlook/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-market-size-outlook/?amp=1",
-      "publishedDateTime": "2021-10-17T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],
