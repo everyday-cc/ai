@@ -3,10 +3,10 @@ category: news
 title: "Clearview AI does well in another round of facial recognition accuracy tests."
 excerpt: "This time, a federal agency assessed the ability to pick the right person out of millions of photos. Clearview’s app still faces legal hurdles."
 publishedDateTime: 2021-11-23T12:38:00Z
-originalUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-facial-recognition-accuracy.html"
-webUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-facial-recognition-accuracy.html"
-ampWebUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-facial-recognition-accuracy.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/23/technology/clearview-facial-recognition-accuracy.amp.html"
+originalUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.html"
+webUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.html"
+ampWebUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.amp.html"
 type: article
 quality: 101
 heat: 101
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
   - url: "https://static01.nyt.com/images/2021/11/23/multimedia/23clearview-photo/23clearview-photo-facebookJumbo.jpg"
@@ -30,6 +30,6 @@ images:
     height: 550
     isCached: true
 
-secured: "iykY+GMrigj5Wvj8zaQryu46MdoRM5lxrGLhjyjAuOReo3/LZdOS6sl4Y3uiW9eI+0xoWsQVduwGlzYM85Nqx10R62/ytJfcs4JoOebBZCPAghCF3NbVcx0QbXDQMxC5jKs3bdMtrKrAnC8v0B9BcCDCTbBEMOFczr2QGNPGlKiUW//IO1npCd2/tyC++s/snQsrsB0NWO92FZUf/I/Y2xqmyo0dqT2tXREUizSWg00s35P4b/cGjwsJYKfXFdg68H96LJjyoFWzTK1MXey5nmJUsWTX7LmHTEar/vLbj47pGvWUyh9ewjRppLfN9ld6UIbL6YpKrwkA6VlUqmhp2zC/kgjdcGAAIom9EXbGxKzHqSdrvudALOpE0c8PQt7nXAWFV74N/dd6stB5VusQQNC7JfQSwhfUAZJJ1ios6r5aulf30mJCOfA/P6GGqvhReRw5yUWWKXfZ49cMyq2OUhZ/+KFNEsIy3zmEXTtnwZiZF+QvQtjT1HhCo1oDQUrhRlZnnIoOXwbMzKaP1BuWsw==;EsbbbaasGEXhdBjWCUhV8w=="
+secured: "9cRSb2Kk+a2W/opn6KDXjGNv90nkKV4I87o1bjQhUcWBJv5uph3G+KzY04XaxKnMw/jpLBhIympPBy9ZfaHOFx0+VXMJ04vture1Gd7K+EYGFZJJr3UThfBqCPjU/KLTDQFNN7ZLMo5PEie/ngK6Mbw+fKdbWHHQsblZqfcsUFWGTXsXqiLgM+tKwjqwCARMXyIyaxvO3esBRecyoB5Qu7pBFwC7q5zF5l5QNR5CIu2HYQ/cASKrXV/Fn/24rr82QdkF3l12TixbuI9i4xm69a8It2CwSFh0EH1+XaswchFjIdZkLSNF+9VOC0Dniloz6IGQudiDVvdqOQcTQH3GqRW+EZwHK5/oKSDkcbn6Vto=;9oS+NbvB4dTXMq3Meds+Xg=="
 ---
 

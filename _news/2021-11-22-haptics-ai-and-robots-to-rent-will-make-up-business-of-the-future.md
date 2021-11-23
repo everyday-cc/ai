@@ -9,8 +9,8 @@ ampWebUrl: "https://www.express.co.uk/finance/city/1524613/natwest-future-busine
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Daily Express
@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nimble Robotics details uptake for its AI-enabled picking robots"
-    excerpt: "Nimble robots have picked more than 15 million objects, across 500,000 unique products, in production for several well-known brands.{/exp:eehive_hacksaw"
-    publishedDateTime: 2021-11-23T16:43:00Z
-    webUrl: "https://www.scmr.com/article/nimble_robotics_details_uptake_for_its_ai_enabled_picking_robots"
+  - title: "Robotics and artificial intelligence to improve health rehabilitation"
+    excerpt: "A Universidad Carlos III de Madrid (UC3M) spin-off, Inrobics Social Robotics, S.L.L., has developed a robotic device that provides an innovative motor and cognitive rehabilitation service that can be used at health centers as well as at home."
+    publishedDateTime: 2021-11-23T17:47:00Z
+    webUrl: "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp"
     type: article
     provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 69
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 91
     images:
-      - url: "https://www.mmh.com/images/2021_article/Nimble_Thumb2.jpg"
-        width: 1500
-        height: 844
-        isCached: true
-  - title: "Robot repairs, virtual reality retailing and AI tailors predicted for future businesses"
-    excerpt: "High streets soon could be filled with robot repair shops, bug burger bars and virtual reality travel agents, a report by NatWest suggests.The Future Business"
-    publishedDateTime: 2021-11-22T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/robot-repairs-virtual-reality-retailing-and-ai-tailors-predicted-for-future-businesses-tjccht7mp"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 46
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F90cf82b0-4af7-11ec-9bc6-5abf98655bc4.jpg?crop=3708%2C2086%2C0%2C193&resize=1200"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/robotics-and-artificia.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "MQyrOopeHnldhjCIQTF/3D/dcAqBObX43h4oDp7aaWiko+XDyNXrGZ5bNjnqsq3p6bLKaVoICFE7EA5A/LNoAMoxRKP6Wi+3zQs2dkWAGFySLL5WI3fuudpORyFFxRJ/tjrI6mL24svyDGYe2qJwOuWp5wKn832OvXjkmwTOUMwtq5uvRKSmqXy4M7d34rkCcVGY/IXUx3/TTzbzFcO57jngQcOW8J4L/2lgBwc4ptByJyTYoEwoxwoNtEsOzMrXXun6gH60re6mesSWZeT06Fo1H5xlKRtOYdrdJJ9wWU56/QJjjMx4cSuVEdpvSKD2rGKjiJ34myNNbtLAaWfd+N4+E9j+XJneC8orh9uxPZJZ4e6rL3Qn76Ukw7h7mKaHhv4obyGtQMStCWxCwJLHwH6/oGy62foXacDWoTR43pUKUuJ2woq8gNxnDCUisXKmCqO88w/xfP5OOQ4meiE+Vukr4dsX76jJA/hN6eg5AVAxBJPqZcD+dJk+hGQCCJQ2aDZq+CjDevnWRmJWZR0eYg==;PqSQ6H/8Rj9kCPLqfB9AwQ=="

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/23/ai-powered-voice-transcription-start
 ampWebUrl: "https://venturebeat.com/2021/11/23/ai-powered-voice-transcription-startup-verbit-secures-250m/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/ai-powered-voice-transcription-startup-verbit-secures-250m/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/speaker.intelligent-assitant.GettyImages-1251676603-e1625601995343.jpg?w=1200&strip=all"
@@ -65,6 +66,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "rk2wCD5VKKcpWXbCEADDakOExkAjok5RZaR15iXlTzBQUtOb4IOm0ADhe0sf2tCOxCRTUD9h218if+8RIfOveO+SiU0oChrnEKtnLrRFN4MHICYDohFrtglKDJh6MHBoNJ1VQv0CVBAAbxhUuJ+p3RORHRH0/bTAkaN5W9oGvy05G7pQK1tnITsHDQX6Xqo7x4jwh3lNPvfynATSkOGkxTxPMT+ICm+6LWNxTexJLpvqsqm/ekVjADNMGMoDXIIGNKuCdRiZebZuwk6RxVUjVFvhS/TXxeakGnfGithaqijfMbMU7EtVoxTfLcSyuoDO3R7ZSGnDZv6sMXy/kv7lWCFvLtr8lev7sT7/M7IUWpA=;TdqzeK68i1ycr1fS3Ni63A=="
+secured: "Z2SWx/MOidxBhPzsqsqYo6QIlBVILqVeOH+h2NHUs2dCufzU5mx/OMd4kEByufDISUCiufsvf8kFrnxp8PJamxGkX78ooqu9B3pmMWhYUvcA1UasDEJSw/jRoYuxZjEq6Wq1MP0UqQSfDWraGiD5UvSKMg0i8S+DT4bLwUvXqy/vS5ufK23RrOqfBeVzeA1dm5+v/biojumrPQM185wbpdNHfN9uw+nIr0CBp50eDEHoxwGpmkMUORLrNSmeujBL6FR8nhYu+EydcgRfvOw5XjYO6GViKDkXAKuP1HRhVcLH6QzjvCkst6SC1ApSvdWpyFAuOYDzep0VHMx8c/E4HBCkMDGyNA25JtbuhKDxL7SjikWbl7MgKURM8jOVVRKP3KePvhu+iY+OAvEH3wmUofRKxBBUFjZEZ/fkg5ZefS/T61blZLb6Sf4U06f2L3Tzfm27vn5rfJrB8Z/iOD4P0om+BSFiIsSnOE9P1S20UHFgXmehf9dKJNhwNzNuug5GYsKNCAH0dKyIFj4m15/cbA==;VqIKV8l9FuCSci5LaoLgQw=="
 ---
 

@@ -24,17 +24,6 @@ images:
     height: 373
     isCached: true
 
-related:
-  - title: "China’s Baidu to dispatch robotaxis in 100 cities by 2030"
-    excerpt: "GUANGZHOU: Chinese tech group Baidu looks to expand its driverless taxi service to 100 cities by the end of the decade, turning the fleet into the company’s second-biggest profit generator after online ad revenue."
-    publishedDateTime: 2021-11-19T02:32:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/11/19/chinas-baidu-to-dispatch-robotaxis-in-100-cities-by-2030/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
-
 secured: "mel0COLt5RauJS+fg8JDLTVqaJ7epsj+d2WZJkYhYxWvzgORDRoLI5m7BEyA1yb95uVMmSf6+Npiz6i8V9A9Y3M6fLn6t1tTMq6cdGc7Gtzm4nzody0mxXSKhhL9SHwYeEhcLImyDXsyTBKu2PY8cIKyjtPPdAUo0DXcSTGnt+EwAiACHzJvCvpmXuc+EDTxixJT7DbmzUEHqEf3cHsuYZTj8UIBDV/bHc5bhIkmWW3HSiNuMD9ZdfdE8yK4lOplf8PPWHzyVYf7otPJvf2dp0o3wAruBv2J8W/tXgMcR4mVvnGs2BvK8hSTrh1utfet+cbdZQHcfN7ypP7Li4GbJF/xLcbCBbPb++a1sr1B1UaXIPZHoR4zMIfERnEDVQ/w6X8GlnjNplaOB7Z1bYMW3mBIcooc/1FjOD9WQY+Ud84R22KCxMyZC71wnOIO5UScweZxGf9p4kcZI5huJM67oJbWKMc+x/ls9C6Nc1nljx5lngLUMYXjZ/E3b407JZE9mHKZygnBD1q26cMT0QUWeA==;LBC5MUV9kJ9Ub7m6HsxgXQ=="
 ---
 

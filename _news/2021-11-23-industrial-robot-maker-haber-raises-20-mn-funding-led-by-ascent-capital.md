@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Industrial robot maker Haber raises $20 mln"
+    excerpt: "Industrial robot maker Haber on Tuesday announced raising USD 20 million (about Rs 149 crore) in a funding round led by Ascent Capital. Accel, Elevation Capital, Beenext, Temasek partner Mukul Chawla and the founders of GreyOrange,"
+    publishedDateTime: 2021-11-23T18:30:00Z
+    webUrl: "https://www.dailyexcelsior.com/industrial-robot-maker-haber-raises-20-mln/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 54
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Helm.ai Raises $26M in Series B Funding"
     excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
     publishedDateTime: 2021-11-20T12:55:00Z

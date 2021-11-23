@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Kore.ai Extends Its Financing to $73.5 Million"
-excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In conjunction with the investment, Kore.ai and NVIDIA will collaborate on accelerating innovation"
-publishedDateTime: 2021-11-23T13:44:00Z
-originalUrl: "https://www.lelezard.com/en/news-20121000.html"
-webUrl: "https://www.lelezard.com/en/news-20121000.html"
+excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In"
+publishedDateTime: 2021-11-23T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Jina AI Raises $30 Million to Scale Open-Source Neural Search Ecosystem"
@@ -70,6 +64,6 @@ related:
         height: 506
         isCached: true
 
-secured: "vlWoUjuUpLuxQwhighzArcBKFHR0LaJSZLBu5RaLxdRBZWQHWKZu2WdV2lveGmoNtgGI79Ys59FF8VhSdFaNor6WTlG98EST2RoJSp79kpl9shkt7oUHg1+dv14S4dxcui0cTsMLnGaasf/tlrzZiuHe6G7RGxE4n8BLhjxQp97Am/2BwepeTRShS9FR1FO1dGFxQcBc+9xr0w/Guwbj/XygMiDz3VewCzsKzrKff4e2B2kgLoqvBHzBItd0IA/RQfIdtukq698qtMskG6U5kZSIT/6rO4fhH0iO8znAsxG+Wr1CMbXdwcZ4Gb+9olsBrSWNqkIze2qWNPNZGt/GfCXb8hwZV1nD0xdgEepP27E=;AFDtQ5iTa+DATdxdiBA+9g=="
+secured: "R0w0tn5IJijAMIbneBbyJpd36nIiY30hqq3/NbYxvuYfq8f9MTZd+cZW3IV2SwS196eWADAEUGsM5Rojo8Dq3VC2CyOLOci4252hq4pTFhDK9xsiBtRd49sjQyR7YS6okHyLlkyizqvn6Fqcy//OMenq6A9gcFcARP4PcqpycoUPWlUgcV6bl2feQ5sK2Np290JRja9MOufgU2u9gBcU5l5WQc/w5U/nOlktLvf0OhjqSW+IGz/4zZ3ma2qLAZCWUn+0g3MtZiU2XTI2PKkLlXjHdk3oVj7T0VxMK8iDMla/EeezolcO1fj9d0omh6IkkC3l5GF8ZlIHA4ptkmcfMifXhaTP3OYN3HqmsXmD7FhKWkqQnlKFLysteJCkE6DoL+jwP5kIdJ2c4iujYZrKgPEBXY/SEgRhQi/1EgfMc9mMGIAxk/1s0KKZig4secAlRBnIU0XRvsl9Ph3UAQgG9dPvbwRqRbSKatLoLn1nz8BwqeNiR/rsIOcKO98ebkwHQAz+dASXHl5x70uNOQzUWQ==;IkGW9WiJqK47xi3RPT+NVQ=="
 ---
 

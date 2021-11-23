@@ -29,7 +29,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/speaker.intelligent-assitant.GettyImages-1251676603-e1625601995343.jpg?w=1200&strip=all"
         width: 1200

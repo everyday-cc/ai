@@ -55,19 +55,14 @@ related:
         height: 376
         isCached: true
   - title: "Kore.ai Extends Its Financing to $73.5 Million"
-    excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In conjunction with the investment, Kore.ai and NVIDIA will collaborate on accelerating innovation"
-    publishedDateTime: 2021-11-23T13:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-20121000.html"
+    excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In"
+    publishedDateTime: 2021-11-23T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "srId7uKAXpcKiAK7yfu4PDW6w5WLpaTiJzo9tBvpTIyz0edZliOe2YNFNRTrIXBLWCdeandLLgdiHDYsKqzr5ai9nLfMhQnR9kaZg/KUfCUZQig0srfzNlTCHHnbK8yU1cvgeaMuw6U8lXAq3f+J9o2L5+hbLlK5+eGEe8lEJQ5gT6U/3m8U9OPQYFDgr09vJhQ8azzqKsybIoTC1LIaZkEChBGZEM+uQCZljtC7m+hT26GsK4saOigN8ZQT1joLSWfdeFlGX30psKAgL//Qi8RcGMUjYo2vLsCx7TnX2BfwADaXqVCrynHu+3ivRDO2nxafZ+g4Vui9vxdZXxOXn6ah3hmo/i7+LOaKkI+EwBQ=;M0nE46D0Cc6Z4c7JjGFWaw=="
 ---

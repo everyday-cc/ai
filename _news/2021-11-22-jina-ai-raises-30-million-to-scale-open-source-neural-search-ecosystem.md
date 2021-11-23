@@ -44,20 +44,6 @@ related:
         width: 1094
         height: 376
         isCached: true
-  - title: "Kore.ai Extends Its Financing to $73.5 Million"
-    excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In conjunction with the investment, Kore.ai and NVIDIA will collaborate on accelerating innovation"
-    publishedDateTime: 2021-11-23T13:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-20121000.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "The Briefing: Deliverr Bags $250M, Jina AI Lands $30M, And More"
     excerpt: "Berlin-based Jina AI, a startup focused on open-source neural search, announced that it raised $30 million in a Series A funding round led by Canaan Partners . Founded in 2020, the company has raised a total of $39 million to date."
     publishedDateTime: 2021-11-22T13:48:00Z
@@ -72,6 +58,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Kore.ai Extends Its Financing to $73.5 Million"
+    excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In"
+    publishedDateTime: 2021-11-23T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "dwr4NeS3DdxyfsYHUcBzyX6y4f8Ug0w1WTI43ZRzxPLdEgDAfNwXzOfXMQSgDDaokbnt7sJ0DI8KFpGKop0GJiS8/wU4Uqbl6Y6GY0KkrpICsk0BFCMQeOQ9MMthWH7XqrOEAk54IFIAnBnQ4hw7aRWu75PPeAXis14HR3hNSf/4DZEUmVjh6snP/jCmGgWJ1Fm1g9w35wN+gwujqOcWsu88avgcw5IzQb+M+RgWPFLyPbZi6Fqjf+eL9k+xe9zwkFeeLnF4gdz7VDUx1B3wA5F8GvA7Wji9obYrvttRg2jEApUByiChKTmRe9cJETumMAgjpF/PHQFB4p/TGd+/oQrNAUbIOLkonxYIQfXPQGg=;x989DOofHzqgE1K4Qq8T8Q=="
 ---

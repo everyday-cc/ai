@@ -40,7 +40,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/speaker.intelligent-assitant.GettyImages-1251676603-e1625601995343.jpg?w=1200&strip=all"
         width: 1200
@@ -65,6 +65,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "Gh8TD/RbgNnRs6/sRJZ4dpFAgRjwOdukWFlPV02RLwJxtDlojTtRkn8AsLxa3AMDV19DU1ypkzMPK3CS82awGRaprzER9wyGVeCE2nRki4s6xKqncdUH9Aqa3z38PW+46I2ZrVkaoWm609WZMQhuLf2hdCMNHbI9au4GsXmNq66YnBPebLer+3z13fCndM9o/rEtxXfY5R655JYh52RJLLxfcogn7iCzFHZ6qSdIuRh8gw67qT1wXiid7jRxqxThfkHhVJGg13klhaabAKAjlw5bxcBdLa9rVSii7NNFTbp3WWNIX9uLy9rsp90ebMT/Akp0S/4vWJMPK9HqDi0kgFb2otT1lMrxRSbcrtSlCRo=;SEhmPYG3MQlIWMhS3zAr9g=="
+secured: "LnGsluhKA8RqGlxltGJFPeREQpAohvyYX+4RiMSl45QD4x+hqCzxeSmi9uGh2ShOFIXbUCxndnrb433vkJ+G346xdEgwENbqoyd/u74NUJwG5ORW09hALByTr0CIOfCs9jT2Y3x7Qoh7OMSCEe//fic4XQacIbHs/d/CFbFHDGvBDaQMvn2sQ0l6HhWXXjqB78EAr4kRh06tFnVq3mNy1nkQj3jaC21SI5xTRx2yjXJwWTrNL5D6UgceS4077JD9en9fYg9Y+LFNDt2/NyCwH03IWd54Ajz8sT8S40+rSwkrXDLA8Sf32CpZ+MveLASWvdMyRqEyIwlIEeOEQT+QNoNHj8dR3QL/wx0vcAxO3fEgCu7ay482mWf7KWVTMtkCGmCF3RZpbIKqZmdSWn8w5/0d7naZaCKe2IlVqECq5BvQ7ybByTQSHIPPM+wvZUPBQ+QjABrat5LLpZjQPiwp/zsq8LUffwwdJFCNAx1ZDKSBaMEz9UAN0vv9SUpTbealReqhzESsPhht5KZb66d8YA==;EqpaOQSYbj7OCN3EijsRbg=="
 ---
 

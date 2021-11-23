@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-attendee-guides-to-aws-reinvent-2021/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 101
+  - title: "Watch live: AI, edge and custom silicon innovations on deck for AWS re:Invent 2021"
+    excerpt: "Invent became the most important physical event in enterprise tech. And re:Invent will now become the most important hybrid event in enterprise tech,” said Dave Vellante, host of theCUBE, SiliconANGLE Media’s livestreaming studio,"
+    publishedDateTime: 2021-11-23T17:17:00Z
+    webUrl: "https://siliconangle.com/2021/11/23/watch-live-ai-edge-custom-silicon-innovations-deck-aws-reinvent-2021-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/AWS-reInvent-2021.png"
+        width: 1182
+        height: 666
+        isCached: true
   - title: "AWS Re:Invent 2021 guide: Multicloud modernization and digital transformation"
     excerpt: "Invent 2021 guide, we explore the benefits of AI-enabled observability on AWS and other cloud environments. These resources examine new approaches to AIOps that tame cloud complexity, improve application reliability and resiliency,"
     publishedDateTime: 2021-11-22T15:00:00Z
