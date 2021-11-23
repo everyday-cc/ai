@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/policymakers-want-to
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Dangers of unregulated artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is often touted as the most exciting technology of our age, promising to transform our economies, lives, and capabilities. Some even see AI as making steady progress towards the development of ‘intelligence machines’ that will soon surpass human skills in most areas."
+    publishedDateTime: 2021-11-23T03:06:00Z
+    webUrl: "https://voxeu.org/article/dangers-unregulated-artificial-intelligence"
+    type: article
+    provider:
+      name: Vox
+      domain: voxeu.org
+    quality: 17
 
 secured: "Hsi8fmOEY6Fn4uByDV6XDtawFnhm3+YwVcAcr8SSCDIFZjm5Unae7ayJof5glKW6Xhc6XFl0H7+hBbfye7AmdtB3tAVB2AdSFW9bki9tYFVbJglwLhssAw/GqWra8Zms7iB3vbmusbH91OhhnH9JQ98shuqR6tGRBkuQPNyE0w5Hb4y80adqohTYFmFYUTmU5AIKQYY8dDMyQvtFC4d5jrKtEDmBTGVj3HHkGru7/Dh7Y0Zc94i24jrdf1NkAI0Ww3wwtHk/UbQoegTgw2IyU7fsEYPmB6rWD5DQnYKN4euy/O3l9R/TL5nCuW0CHN9jW6Kb/VcvMO9CeiFuVZl2qS3bi4xmQ0Om38BRwIm26pc=;L1DCSE1eXU6CCLYE5wu1DQ=="
 ---

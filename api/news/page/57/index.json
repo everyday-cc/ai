@@ -2,6 +2,49 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-10-10-nasa-chief-says-artificial-intelligence-will-affect-every-aspect-of-our-lives.md",
+      "title": "NASA Chief Says Artificial Intelligence Will Affect Every Aspect of Our Lives",
+      "excerpt": "Artificial Intelligence (AI), Advanced Robotics ... governance and technology, citing driverless car and robots as two examples to be featured in the near future. He discussed the pros and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
+      "originalUrl": "https://www.albawaba.com/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/Do_zBs_W4AAcDBS.jpg?itok=9QIKtEOB",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
+      "publishedDateTime": "2021-10-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-10-no-humans-allowed-artificial-intelligence-for-faster-smarter-testing-tomorrow.md",
       "title": "No humans allowed: Artificial intelligence for faster, smarter testing tomorrow",
       "excerpt": "Artificial Intelligence (AI) is reshaping our day ... involved in our lives from listening devices in our homes to driverless cars on the road. AI has delivered personalized content in useful ...",
@@ -1120,48 +1163,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-artificial-intelligence-can-help-halve-road-deaths-by-2030-say-un-envoys.md",
-      "title": "Artificial intelligence can help halve road deaths by 2030, say UN envoys",
-      "excerpt": "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://news.un.org/en/story/2021/10/1102522",
-      "originalUrl": "https://www.khaleejtimes.com/world/americas/artificial-intelligence-can-help-halve-road-deaths-by-2030-say-un-envoys",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/08-12-2020-AI-autonomous-vehicle.jpg/image770x420cropped.jpg",
-          "width": 770,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-08T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

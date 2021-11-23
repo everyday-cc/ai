@@ -2,6 +2,50 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-10-18-gitex-2021-this-robot-can-see-hear-feel-like-a-human.md",
+      "title": "Gitex 2021: This robot can see, hear, feel like a human",
+      "excerpt": "German firm Neura Robotics is displaying a range of such robots at the Gulf Information Technology Exhibition (Gitex) in Dubai, with cognitive abilities that enables them to think (like a human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "originalUrl": "https://www.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20211018/ARTICLE/211019099/AR/0/AR-211019099.jpg&NCS_modified=20211019044142&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/gitex-2021-this-robot-can-see-hear-feel-like-a-human",
+      "publishedDateTime": "2021-10-17T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-galvin-widjaja-consultants-vs-founders-computer-vision-ai-digital-privacy.md",
       "title": "Galvin Widjaja: Consultants vs. Founders, Computer Vision AI & Digital Privacy",
       "excerpt": "Check out this great listen on Audible.com. Galvin is the CEO and Co-founder of Lauretta.io, a profitable Techstars company that builds bleeding edge military grade computer vision technologies that are now available to commerical buyers with no AI capability of them own.",
@@ -1077,40 +1121,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-googles-deepmind-faces-suit-over-uk-health-data.md",
-      "title": "Google’s DeepMind faces suit over UK health data",
-      "excerpt": "Google's AI department secures lawsuit over 1.6 million confidential NHS patient medical records. DeepMind Faces: Google's AI department, otherwise known as",
-      "sourceUrl": null,
-      "webUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
-      "originalUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
-      "cdnAmpWebUrl": "https://micky-com-au.cdn.ampproject.org/c/s/micky.com.au/googles-deepmind-faces-suit-over-uk-health-data/",
-      "publishedDateTime": "2021-10-15T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Micky",
-        "domain": "micky.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

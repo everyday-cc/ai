@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-al
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/amp/"
 type: article
 quality: 84
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Business Owners Flourish with the Help of AI"
+    excerpt: "According to a new Unsupervised study, one in two company owners using AI claim that it has aided their business during the labor shortage. As firms continue to experience high turnover rates, business owners can profit from AI automating tasks that previously required human workers,"
+    publishedDateTime: 2021-11-23T03:20:00Z
+    webUrl: "https://bestgamingpro.com/business-owners-flourish-with-the-help-of-ai/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 37
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Report-AI-has-assisted-half-of-all-business-owners-during-the-labor-shortage.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Report: Apple could launch self-driving electric car in 2025"
     excerpt: "Apple Inc. could bring its long-rumored electric car to market as soon as 2025 and with a “full self-driving system” onboard, Bloomberg reported today. The 2025 target launch date is said to represent an acceleration of Apple’s development roadmap."
     publishedDateTime: 2021-11-18T21:53:00Z

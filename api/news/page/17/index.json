@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-11-08-worldwide-cognitive-computing-in-retail-industry-to-2026-rollout-of-5g-is-influencing-growth.md",
+      "title": "Worldwide Cognitive Computing in Retail Industry to 2026 - Rollout of 5G is Influencing Growth",
+      "excerpt": "DUBLIN, Nov. 8, 2021 /PRNewswire/ -- The \"Global Cognitive Computing in Retail Market, By Component (Platform, Services (Managed ... IBM Corporation, Microsoft Corporation, Google LLC, Teradata ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n23952968/worldwide-cognitive-computing-in-retail-industry-to-2026-rollout-of-5g-is-influencing-growth",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n23952968/worldwide-cognitive-computing-in-retail-industry-to-2026-rollout-of-5g-is-influencing-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23952968",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23952968",
+      "publishedDateTime": "2021-11-08T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-landing-ai-brings-in-57m-for-its-machine-learning-operations-tools.md",
       "title": "Landing AI brings in $57M for its machine learning operations tools",
       "excerpt": "CEO Andrew Ng says industries should adopt a data-centric approach to building AI, which provides a more efficient way for manufacturers to teach an AI model what to do.",
@@ -1135,59 +1178,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-h2oai-secures-100m-lands-partnership-with-australian-bank.md",
-      "title": "H2O.ai secures $100M, lands partnership with Australian bank",
-      "excerpt": "H2O.ai, an AI development platform, has raised a fresh $100 million, bringing its total to over $250 million at a $1.6 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
-      "originalUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
-      "publishedDateTime": "2021-11-07T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

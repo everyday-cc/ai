@@ -35,6 +35,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Business Owners Flourish with the Help of AI"
+    excerpt: "According to a new Unsupervised study, one in two company owners using AI claim that it has aided their business during the labor shortage. As firms continue to experience high turnover rates, business owners can profit from AI automating tasks that previously required human workers,"
+    publishedDateTime: 2021-11-23T03:20:00Z
+    webUrl: "https://bestgamingpro.com/business-owners-flourish-with-the-help-of-ai/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 37
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Report-AI-has-assisted-half-of-all-business-owners-during-the-labor-shortage.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "1gjRPzEqmLVj3tbCtjHeVjnb8sUCYNv9p6uETc/SgPursbMbuD6AJptwaP3B0GnjFlTbHglwieLoRPWmKe1GPtpxaSYlSosoZIlRh4wTKXxJ9bruZ3W9ybht9l0XMTYtROCymtgVQ35VTyQw8WaxmtvfUvMJRXvngDIcuUoDk2wsvXdHEEucZNvCjFIz0wAJxQZjGyfkfXdIR1pupvTTwzFvfbjK8eOVkxImsu+WxqQPJbAWBXBdhWMk5/4J+HVgbDs2ClpKAYYgZ6quE/6Ukh2n6h2ojFiFU0K3oT0I7h4BknKDo+IxYrIcysYE6LqN2U5tvy5oqOWnOzT22Hsh7m5Qz04cMT3UyPbs4nW5wAs=;fkfeot/FUKjenJ94+JkcoQ=="
 ---

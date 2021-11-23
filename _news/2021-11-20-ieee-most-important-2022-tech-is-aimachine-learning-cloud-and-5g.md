@@ -55,20 +55,6 @@ related:
         width: 342
         height: 342
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning, Cloud Computing and 5G Will be the Most Important Technologies in 2022, Says New IEEE Study"
-    excerpt: "IEEE, the world's largest technical professional organization dedicated to advancing technology for humanity, today released the results"
-    publishedDateTime: 2021-11-18T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study-301428086.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1017741/IEEE_Advanced_Technology_Logo_Logo.jpg?p=facebook"
-        width: 894
-        height: 469
-        isCached: true
 
 secured: "qocGagAvqRY+boEmtfHKctT2PCZH18kOU/WouAaETYUa8ruCDtQsqoAS02PDoF9UGxnkucbGxJUHTwX4s7hLH1KWiJKdnFduBARTehO7pCooLg/3gCxBBpx8Usbn1PXE4Z7xgxIMflORGTiaXk1qtbrsdoibvJrNxMR6VT9wE9NjP5Gm1vgs9Gl38uZUqNnWvXlUouOq4MfoRVU8Uq6Onr5wFN2bI1RrJ8g9+xoAnLlQFbv7Prjt5TlnHplLPgcQMX/OvVgJuODNRfGigcg79V0DkY+Wj80/c05D9xVVaPWRINYX1UnueoGKE+ZFg2P0OBRwCeO1va30SlQkaUGGGu4I/HZLQY2Bg70crP/Ikyr+R6o/op+UWb7Rqp93N82PmmH0zsEgZ8KRdQSfBkkHJtaVI+yWhw0ESnIsqY3ibrud0XTupodSm8cn6EFuOKDFvldyxk+VwtQ5GCzXwH77akVm8HCsEvc3Xbea4pgPPI9qF5cO90JMYQjMvtJbQYoFYcDvfj6ZaC0zqoNuMYkqlQ==;NKsOOOy7IGcsgHjlRvAZ5Q=="
 ---

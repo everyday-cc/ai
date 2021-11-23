@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great"
-    excerpt: "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works."
-    publishedDateTime: 2021-11-18T11:49:00Z
-    webUrl: "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 86
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Tesla releases new Full Self-Driving Beta 10.5 update with interesting new features"
     excerpt: "Tesla has started pushing a new Full Self-Driving Beta software update (10.5) to the fleet this weekend. It includes some interesting new features based on the release notes, which you can find below."
     publishedDateTime: 2021-11-22T11:11:00Z

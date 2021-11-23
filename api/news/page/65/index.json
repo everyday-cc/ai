@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-10-05-bot-framework-composer-video-series-with-ayca-bas-and-bob-german.md",
+      "title": "Bot Framework Composer Video series with Ayça Baş and Bob German",
+      "excerpt": "Ayca and Bob return to the show to talk about a new video series that discusses the Who's Online bot created using Bot Framework Composer and Cognitive Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.audible.com/pd/Bot-Framework-Composer-Video-series-with-Ayca-Ba-and-Bob-German-Podcast/B09HSJ98ZK",
+      "originalUrl": "https://www.audible.com/pd/Bot-Framework-Composer-Video-series-with-Ayca-Ba-and-Bob-German-Podcast/B09HSJ98ZK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41jMG3+T0hL._SL10_UR1600,800_CR200,50,1200,630_CLa%7C1200,630%7C41jMG3+T0hL.jpg%7C0,0,1200,630+107,79,402,402_PJAdblSocialShare-Gradientoverlay-smallasin-0to70,TopLeft,0,0_PJAdblSocialShare-AudibleLogo-Large,TopLeft,576,270_OU01_ZBLISTENING%20ON,593,216,52,500,AudibleSansMd,30,255,255,255_PJAdblSocialShare-PodcastIcon-Small,TopLeft,1094,50_ZBBot%20Framework%20Composer%20...,106,519,48,404,AudibleSansMd,24,255,255,255.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Audible",
+        "domain": "audible.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-microsoft-and-darktrace-partner-on-azure-and-ai-security-solutions.md",
       "title": "Microsoft and Darktrace Partner on Azure and AI Security Solutions",
       "excerpt": "Additionally, the deal includes a technology integration with Azure Sentinel, Microsoft's security information and event management solution. Also, the partnership is enabling Darktrace's AI to ...",
@@ -1036,49 +1079,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-meet-the-10-year-olds-breaking-the-glass-ceiling-and-inspiring-other-girls-to-get-into-stem.md",
-      "title": "Meet the 10-year-olds breaking the glass ceiling and inspiring other girls to get into STEM",
-      "excerpt": "But when studies are not keeping them busy, they love to spend time expanding their knowledge of Microsoft Azure Machine Learning and AI. Adeel and his wife often keep a close eye on their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem",
-      "originalUrl": "https://www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/20211004_zara_zaar.jpg?itok=9UEFO3t7",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem?amp",
-      "publishedDateTime": "2021-10-04T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

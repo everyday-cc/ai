@@ -90,20 +90,6 @@ related:
         width: 780
         height: 405
         isCached: true
-  - title: "AI Chips That Made It To The Market In 2021"
-    excerpt: "The success of any modern AI technique relies on computation, on a scale unimaginable even a few years ago. Therefore, more advanced chips and hardware are being developed and released to match the processing capabilities of complex neural networks."
-    publishedDateTime: 2021-11-18T12:00:00Z
-    webUrl: "https://analyticsindiamag.com/ai-chips-that-made-it-to-the-market-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI Chipsets Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2026"
     excerpt: "The AI Chipsets Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the AI Chipsets market It particularly sheds light on market fluctuations pricing"
     publishedDateTime: 2021-11-22T10:41:00Z

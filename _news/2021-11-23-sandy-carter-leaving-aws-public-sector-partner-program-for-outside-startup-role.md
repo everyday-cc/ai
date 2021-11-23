@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS names new global public sector partner lead"
+    excerpt: "Amazon Web Services Monday named nine-year AWS veteran Jeffrey Kratz as the general manager of its worldwide public sector partner program. Kratz has been serving as general manager and regional head of AWS’ public sector partner sales in Latin America,"
+    publishedDateTime: 2021-11-23T00:54:00Z
+    webUrl: "https://www.crn.com.au/news/aws-names-new-global-public-sector-partner-lead-573044"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/Jeffrey_Kratz.jpeg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "AWS Taps Jeffrey Kratz To Lead Public Sector Partner Program"
     excerpt: "Amazon Web Services has named nine-year AWS veteran Jeffrey Kratz as its new worldwide public sector partner program leader, replacing Sandy Carter, who is leaving the cloud computing provider for a s"
     publishedDateTime: 2021-11-22T17:01:00Z

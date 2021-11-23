@@ -46,15 +46,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Concentric AI Becomes Member of Microsoft Intelligent Security Association"
-    excerpt: "MISA is an ecosystem of independent software vendors and managed security services providers that have integrated their security products with Microsoft’s to defend against increasing cyber-threats. Concentric AI was nominated to MISA for seamlessly integrating its award-winning,"
-    publishedDateTime: 2021-11-18T12:48:00Z
-    webUrl: "https://channelvisionmag.com/concentric-ai-becomes-member-of-microsoft-intelligent-security-association/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 49
   - title: "ZF to digitise production processes with help of Microsoft"
     excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
     publishedDateTime: 2021-11-18T16:02:00Z

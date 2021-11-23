@@ -2,6 +2,58 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-10-11-tesla-officially-starts-its-wider-release-of-full-self-driving-beta-in-the-us.md",
+      "title": "Tesla officially starts its ‘wider release’ of Full Self-Driving Beta in the US",
+      "excerpt": "Tesla has officially started its ‘wider release’ of Full Self-Driving Beta in the US, which consists of slowly allowing more owners to download based on their ‘safety score’. Tesla Full Self-Driving Beta Tesla’s Full Self-Driving Beta (FSD) enables Tesla vehicles to virtually drive themselves both on highways and city streets by simply entering a location",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
+      "originalUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/",
+      "publishedDateTime": "2021-10-11T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-ai-doesnt-explain-itself-machine-learning-has-a-deus-ex-machina-problem.md",
       "title": "AI doesn't explain itself - machine learning has a \"Deus ex Machina\" problem",
       "excerpt": "Too often, AI vendors tell us - \"Machine learning handles that.\" So what exactly does that mean? Vendors are making what I call Deux es Machina claims about AI - now it's time to back those claims up.",
@@ -1098,49 +1150,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-10-nasa-chief-says-artificial-intelligence-will-affect-every-aspect-of-our-lives.md",
-      "title": "NASA Chief Says Artificial Intelligence Will Affect Every Aspect of Our Lives",
-      "excerpt": "Artificial Intelligence (AI), Advanced Robotics ... governance and technology, citing driverless car and robots as two examples to be featured in the near future. He discussed the pros and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
-      "originalUrl": "https://www.albawaba.com/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/Do_zBs_W4AAcDBS.jpg?itok=9QIKtEOB",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editorchoice/jordanian-nasa-academic-teaches-focuses-artificial-intelligence-1197702",
-      "publishedDateTime": "2021-10-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

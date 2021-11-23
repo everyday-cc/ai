@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-c
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub22592201_g.jpg"
         width: 780
         height: 405
-        isCached: true
-  - title: "AI Chips That Made It To The Market In 2021"
-    excerpt: "The success of any modern AI technique relies on computation, on a scale unimaginable even a few years ago. Therefore, more advanced chips and hardware are being developed and released to match the processing capabilities of complex neural networks."
-    publishedDateTime: 2021-11-18T12:00:00Z
-    webUrl: "https://analyticsindiamag.com/ai-chips-that-made-it-to-the-market-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Trending Report on AI and Operations Automation in 5G Networks Market, 2021-2026"
     excerpt: "Portland United States Big Market Research newly added a research report on the AI and Operations Automation in 5G Networks Market which represents a study for the period from 2021 to 2026 The research study provides a near look at"

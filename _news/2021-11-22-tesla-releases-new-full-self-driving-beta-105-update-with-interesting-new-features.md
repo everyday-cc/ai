@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: Electrek
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great"
-    excerpt: "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works."
-    publishedDateTime: 2021-11-18T11:49:00Z
-    webUrl: "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 86
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
     excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
     publishedDateTime: 2021-11-19T15:37:00Z

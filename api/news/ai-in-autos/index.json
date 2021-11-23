@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-22-tesla-releases-new-full-self-driving-beta-105-update-with-interesting-new-features.md",
+      "title": "Tesla releases new Full Self-Driving Beta 10.5 update with interesting new features",
+      "excerpt": "Tesla has started pushing a new Full Self-Driving Beta software update (10.5) to the fleet this weekend. It includes some interesting new features based on the release notes, which you can find below.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/",
+      "originalUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/",
+      "publishedDateTime": "2021-11-22T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-21-driverless-car-trials-at-abu-dhabis-yas-island-soon.md",
       "title": "Driverless car trials at Abu Dhabi's Yas Island soon",
       "excerpt": "Group 42’s Bayanat unit will begin with five cars on Yas Island Dubai: Mubadala backed Group 42 plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the UAE.",
@@ -1380,49 +1432,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-baidu-3-trades-to-take-advantage-of-recent-price-slip.md",
-      "title": "Baidu: 3 Trades To Take Advantage Of Recent Price Slip",
-      "excerpt": "Although Baidu is known for its internet services and as the leading search engine in China, management’s focus has been shifting to artificial intelligence and autonomous driving. Despite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/analysis/baidu-3-trades-to-take-advantage-of-recent-price-slip-200607994",
-      "originalUrl": "https://www.investing.com/analysis/baidu-3-trades-to-take-advantage-of-recent-price-slip-200607994",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-          "width": 500,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

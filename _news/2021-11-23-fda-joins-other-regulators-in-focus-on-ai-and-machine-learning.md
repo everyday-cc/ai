@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/fda-joins-other-regulators-focu
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp"
 type: article
 quality: 74
-heat: 85
+heat: 86
 published: true
 
 provider:

@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-11-09-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan.md",
+      "title": "AI being employed to translate sign language to assist deaf in Japan",
+      "excerpt": "Local governments in Japan are turning to artificial intelligence to improve communication with people who are deaf or hard of hearin",
+      "sourceUrl": null,
+      "webUrl": "https://mainichi.jp/english/articles/20211109/p2g/00m/0sc/030000c",
+      "originalUrl": "https://mainichi.jp/english/articles/20211109/p2g/00m/0sc/030000c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mainichi.jp/vol1/2021/11/09/20211109p2g00m0sc029000p/0c10.jpg?2",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mainichi.jp",
+        "domain": "mainichi.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence.md",
       "title": "Landing AI: Unlocking The Power Of Data-Centric Artificial Intelligence",
       "excerpt": "There is normally an assumption that Artificial Intelligence (AI) requires huge volumes of data. Here, we explore a data-centric approach to AI, which instead focuses on data quality and domain expertise - an approach advocated by Dr.",
@@ -1112,49 +1155,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-worldwide-cognitive-computing-in-retail-industry-to-2026-rollout-of-5g-is-influencing-growth.md",
-      "title": "Worldwide Cognitive Computing in Retail Industry to 2026 - Rollout of 5G is Influencing Growth",
-      "excerpt": "DUBLIN, Nov. 8, 2021 /PRNewswire/ -- The \"Global Cognitive Computing in Retail Market, By Component (Platform, Services (Managed ... IBM Corporation, Microsoft Corporation, Google LLC, Teradata ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n23952968/worldwide-cognitive-computing-in-retail-industry-to-2026-rollout-of-5g-is-influencing-growth",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n23952968/worldwide-cognitive-computing-in-retail-industry-to-2026-rollout-of-5g-is-influencing-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23952968",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23952968",
-      "publishedDateTime": "2021-11-08T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

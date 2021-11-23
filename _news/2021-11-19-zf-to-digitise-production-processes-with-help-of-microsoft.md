@@ -55,15 +55,6 @@ related:
         width: 696
         height: 392
         isCached: true
-  - title: "Concentric AI Becomes Member of Microsoft Intelligent Security Association"
-    excerpt: "MISA is an ecosystem of independent software vendors and managed security services providers that have integrated their security products with Microsoft’s to defend against increasing cyber-threats. Concentric AI was nominated to MISA for seamlessly integrating its award-winning,"
-    publishedDateTime: 2021-11-18T12:48:00Z
-    webUrl: "https://channelvisionmag.com/concentric-ai-becomes-member-of-microsoft-intelligent-security-association/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 49
   - title: "Microsoft Azure launches space data and technology team at Lot Fourteen"
     excerpt: "South Australia has firmly established itself as the centre of gravity for the country’s burgeoning space sector, and now yet another global giant has touched down in Adelaide, with Microsoft launching its space data and technology team at Lot Fourteen in September this year."
     publishedDateTime: 2021-11-18T14:37:00Z
