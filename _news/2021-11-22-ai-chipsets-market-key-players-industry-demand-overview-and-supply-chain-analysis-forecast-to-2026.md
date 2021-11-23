@@ -101,6 +101,20 @@ related:
         width: 780
         height: 405
         isCached: true
+  - title: "Worldwide Artificial Intelligence Chip Market Size to Reach $91.18 Billion by 2025"
+    excerpt: "Allied Market Research published a research report on the artificial intelligence chip market. The findings of the report states that the global market for artificial intelligence chip is expected to reach $91."
+    publishedDateTime: 2021-11-23T06:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/worldwide-artificial-intelligence-chip-market-size-reach-nil-behor/?published=t"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 48
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHK1LJtrya6HA/article-cover_image-shrink_600_2000/0/1637648624681?e=1643241600&v=beta&t=PpUZU1dOAV_DOD6v0tdoQ1z2LeHWVpTGweHIsHZvSC0"
+        width: 790
+        height: 468
+        isCached: true
 
 secured: "fcx0CAXJ3HUhk0DrL+nilDj6u3cjHEDasbGjiDhP0Q45/lZq1Sie8j2/l7jN9icSaKwbcmmagn4XsL9wsaTr0EEr46oEjask1ND2/9jlEQR/0etRGDZKR6jPhh1AW/DtwgW1/5zfRNjrEdS5mPFCwby6mZoqwoMtZ7/RrRxrQG0NP/s81sFn+73zPrBgq3pbU5UqFZHhjC41bf1yet7K+0LFovh58hOtL+/ZBdYKl7Ckm60AMhhBTPliD9P1Rx2TqnyHGizsPX6QZAreKgYxj10U3kInuZ8daZidd5Fuw09NfM2VhPJFnedpmZtmrFIndsxS7ILrfJ0NH0e0ox76xCfTIOVCgog4WDhpUNQbOvY=;TdFxsdvBmZ+bJlW4j8D8SA=="
 ---

@@ -37,31 +37,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "AI Infrastructure Market Research 2021-2025 | Analysis of Industry Growth, Import-Export, Consumption Value in Development"
-    excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “AI Infrastructure Market” Report 2021"
-    publishedDateTime: 2021-11-19T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market-research-2021-2025-analysis-of-industry-growth-import-export-consumption-value-in-development-2021-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence (AI) in Logistics Market Recent Developments, Research Analysis Forecast 2027"
-    excerpt: "The Global Artificial intelligence AI in Logistics Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the"
-    publishedDateTime: 2021-11-22T07:24:00Z
-    webUrl: "https://www.openpr.com/news/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    ampWebUrl: "https://www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
 
 secured: "2XamXyR4qu6NqOAk9pkHOARFs+ZIuNWRU6ZltaSHSh3y3HIR8/EeJ8PvjQRVolAtF9/nfHpJXhGq0uUDkaazJyR/apxpOMa//7jTVOw0pKzaOCRWUpOwtLQ7vF3tbZTT+VHB5y9Ja1GIIfLZ09wMz5ViPfZHzpVpGxzGf4BMmaC9vU4JMQP2stJ4EcXr8lxsTgOKfvGMA47Fq4Q69LQKZhO+JBoxQjCdbEE9e5HP4N7G74yuIW3DMxs8EzDo++OnPvAOtw00O+vk0F1A+dqJGNvjeJJkvFbNSmtSyWoXrj86UrIz/oyw3DTHPCPeQB0oQ5HOzt+jvA1ajQexmwxXKM7xkmZ2CRGMNZKd/CfsSE0=;L2vgGnw1StPwRNYMhY956A=="
 ---

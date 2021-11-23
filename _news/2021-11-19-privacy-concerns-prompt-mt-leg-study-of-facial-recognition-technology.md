@@ -39,22 +39,6 @@ related:
         width: 1536
         height: 1024
         isCached: true
-  - title: "Meghalaya clarifies on controversial app: ‘Facial Recognition Technology does require any anchoring legislation’"
-    excerpt: "The Pensioner’s Life Certification Verification app, launched by Meghalaya CM Conrad Sangma in July, is aimed at offering pensioners a “secure, easy and hassle-free interface” to obtain life certificates by verifying their identity using FRT on their smartphones."
-    publishedDateTime: 2021-11-18T13:55:00Z
-    webUrl: "https://indianexpress.com/article/north-east-india/meghalaya/meghalaya-pensioner-app-facial-recognition-7629818/"
-    ampWebUrl: "https://indianexpress.com/article/north-east-india/meghalaya/meghalaya-pensioner-app-facial-recognition-7629818/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/north-east-india/meghalaya/meghalaya-pensioner-app-facial-recognition-7629818/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 38
-    images:
-      - url: "https://images.indianexpress.com/2021/11/Congrad-Sangma.jpeg"
-        width: 1200
-        height: 667
-        isCached: true
 
 secured: "cV5YDAG24FXxZnbhuhm2CYHRaeyMxdfEg2BiT0gr4dBkNNH8Z4eBQMig0r8g3urXMnRZdin7bXhGeFdxVesC246rxJVvSIhwLVEqlOqFPzfq+bsEUPVFLJ6nknAytMGAhykE2SWnS4aJD1NqnxpWZSDn4Xwp9bOukU09XStyVwGqrJAY4HvoXi/SgoWKCHZqbvqBmFW8HJuwHoKtiSYWl62gUL2f701QnYUAAIC7N6Lmr1jHQPYruTxM53Nc0je1x6kOAzyRqQjvVgh4oms+tQpOJfXx1/J1uJXje4b8HZv/4jZsN924rYu9LSG9PlsLM0iPGt80YS4xu1h59Hf/fjxGofc+yF8gjZDf49oRYeI=;tJjlrwcfUhxS3dyfSJ9D0w=="
 ---

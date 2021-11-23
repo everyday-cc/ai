@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 145
 published: true
 
 provider:

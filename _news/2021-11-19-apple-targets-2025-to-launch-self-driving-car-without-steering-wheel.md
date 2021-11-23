@@ -149,6 +149,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "What makes uni students steer clear of self-driving cars?"
+    excerpt: "What makes uni students steer clear of self-driving cars? Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case."
+    publishedDateTime: 2021-11-23T06:17:00Z
+    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=758566"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 24
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
+        width: 1490
+        height: 990
+        isCached: true
 
 secured: "g1t4dENmCUlx5fvt+MDOF8+SLn6+kNyhcQOq6nh5Ulacuop6dGZZE/KvNIPjdC9nONblrhgKw3TuBhL8fX7oWvmPq85JmElph1JRaB98LcXt14z75OeYYxiolAPKvbRwn5Mtfkjex/kyu1qXYlbQuxwp100zBQ8+5T/eymc717yuWh62NuJvHMcrC5qlB/jhNPejMZljtPYc9Ph1NV3cy4XteNAk/WcVYPQZqcVAGv61/vn5zWemNOTLD+KWveNxsIMgF7ipTChcZmwYVBE3nodDBGPRaR9QqySwYNi3C1sV5sHDHIDyGwTK26FnJYHSBmTduSEwYYsTkyoDF2yF/veur3Yn6LTyyugPDfA8fMv6tK230DG3WTCD9aA74hzHResDW9KDBlmSOef/7JQu5Q0rnxIEIv5BG5oBYIUgOLjUpLsBA6VGV9EUJwKS/NlR92ktD/pczTMrU+CwlulOa9x8voxze00r6vItH+QVTJ+zkwsI2cR9rXmHNIKM+M/CO0QoHjkakBAACZOwqY1cww==;B+5N5+WN654j3op8EN/TJA=="
 ---

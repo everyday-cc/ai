@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/business/amp/Self-driving-trucks-fr
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/amp/Self-driving-trucks-from-Google-s-Waymo-to-16641563.php"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 400
     height: 267
     isCached: true
-
-related:
-  - title: "Waymo to transport goods using self-driving semi-trailer truck"
-    excerpt: "Called Waymo Via, the delivery service is already in operation in some parts using Waymo's self-driving vans based on the Chrysler Pacifica. Now Waymo is ready to add its self-driving semi-trailer trucks."
-    publishedDateTime: 2021-11-18T14:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1134209_waymo-to-transport-goods-using-self-driving-semi-trailer-truck"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: "https://images.hgmsites.net/hug/waymo-via-self-driving-semi-trailer-truck_100815686_h.jpg"
-        width: 1920
-        height: 1078
-        isCached: true
 
 secured: "cXIyv+2+aYTfsQvmyAfvDOE9CtkXHASl8OfyIm08vq8vMMjS4pcvXghOdV7N2SQrgL1MUavcVzorEYDu2BAxzPDGAb3vgJXP6yAIg6HoLOOjJEe4wQSh1/OD5b3m6J3FMO81qsHJY2G1lISltYQAuR5upiuRvf+/059+lmZgcX3NOT6uWUDgpAPAvxObWZHQE8boPBq7wkDbd6ofsFaGIQJuQDZl8e6wjn2IvP2njOEf2UD6ZPii5DndSbOEZcjfw5Acq7FeUyGGhJHR82aGl0QH1A20nXMzd4OleoSA9JQ+ZgMY1RPqO+uSOQLgzNtR0uRH1xh9ov0r7DokHixM9ZMKD3UyNXEVvtzrIk/T8bUpUpO731zudmpYC2VY39J1VcVC7gxG6d2w6zaQ8obxkmQa2KCSjF8vGWOmnoFC+DGB0ANGKpsmAzth+Qg57KnkMF0gUvn6VaJQrhBLH1CWe5TIlfb9aBFLfCVvt9NGp6/PHW5EV+HQ4nyqVXNaHzLgVyvHF00itTlucZ/HDiPYTw==;9027wpYD/qpxnEI4mFrJzw=="
 ---

@@ -66,20 +66,6 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 54
-  - title: "2 Artificial Intelligence Stocks to Buy for the Rest of the Year"
-    excerpt: "And investors’ interest in artificial intelligence stocks is evident in the Global X Robotics & Artificial Intelligence ETF’s (BOTZ) 38.1% gains over the past year. Given this backdrop, we think fundamentally sound AI stocks Gartner,"
-    publishedDateTime: 2021-11-18T14:30:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/2-artificial-intelligence-stocks-to-buy-for-the-rest-of-the-year-2684236"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 39
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEA601E0_L.jpg"
-        width: 800
-        height: 537
-        isCached: true
 
 secured: "I1bdPVfLvMmW7zVn9rfCESampM3jhD/VWcRcoWvilf1IvNkS7FvcYInt4fm0VPh7Cs0UNJGUdh4qGB5hitdQBjZaX3SVVFfmX0HEABnOdHYq5GmOe+xnLAmadrW1t7Kg5ES7SBNY2d8Fihm6o07lBEG4lRPKHPZhAhjwvH7KzjlekEpwjiSV46mxZZFezZRPERFzqeX/gc0pY0vIsAHY5L1u4XHkm7sE8w4AfLNk08Nsd+dY1qzq43QXVVuc/7Arc2PK1VSVb+KaXs9UfSuTjJNbA615klzuMH7RILnWXBg5N8h0xAPlfum218yrRCBW1qhehrjaAw7Swnl1GnRoNBUFZYflkljkMZfSn7biiaueqngyiRvvx9lC1dKxXdZ7+eUc7a8LX1FnqXngMk/9wjuiQhnD2m1J9ZqXkgoTzObknccAUCURCYqzBTTX567hHVkPFLXsmaMwm8hLBzj/2xV/FyhY+uv8nkVFjT4llwTQn2TfxOqLeugM9sEPhES6WNyqotmozp+pKy0kDU6VIQ==;YyTSreDtEBQQhy8+e0pjZg=="
 ---

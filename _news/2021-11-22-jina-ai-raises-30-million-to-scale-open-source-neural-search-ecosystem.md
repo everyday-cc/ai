@@ -54,6 +54,20 @@ related:
         width: 1024
         height: 481
         isCached: true
+  - title: "AI-powered music platform Aimi raises $20m in Series B funding round"
+    excerpt: "AI-Powered Music Platform Aimi has raised $20 million in a Series B round of funding. The fund raise was led by entertainment and media-focused investment firm Great Mountain Partners, which also holds what it says is “a significant stake” in Concord."
+    publishedDateTime: 2021-11-22T11:42:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/ai-powered-music-platform-aimi-raises-20m-in-series-b-funding-round/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 37
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2021/11/Edward_Balassanian_by_Ismael_Quintanilla_III-e1637584085911.jpeg"
+        width: 1537
+        height: 864
+        isCached: true
   - title: "The Briefing: Deliverr Bags $250M, Jina AI Lands $30M, And More"
     excerpt: "Berlin-based Jina AI, a startup focused on open-source neural search, announced that it raised $30 million in a Series A funding round led by Canaan Partners . Founded in 2020, the company has raised a total of $39 million to date."
     publishedDateTime: 2021-11-22T13:48:00Z

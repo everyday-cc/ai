@@ -53,6 +53,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Apple must wade through obstacles to catch up with next wave of self-driving EVs"
+    excerpt: "The Apple Car saga continues, with new reports revealing Apple is determined to ship an EV within the next four years, per Bloomberg. How we got here: Apple’s car project has had various starts and stops,"
+    publishedDateTime: 2021-11-23T05:05:00Z
+    webUrl: "https://www.emarketer.com/content/apple-must-wade-through-obstacles-catch-up-with-next-wave-of-self-driving-evs"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 19
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/b8fd72fc6659e815db338b052a7ffda3/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "w+49Wzx2SWZbm1xJPJHb71t8KOrpAuEhT+zQ6Sp99uHRdVDU/QuVOo3mKivu9p9WY4XohQRvtwTZsqoQzd7g/y9vrNFfApbd4GsmXRpefTv8pxsBzNXpk52udjggxBt/MwgUUVnN9N53a9iwX/cUli5+G5msLaZYxFTfWD101QagWgO1bafmtUwonjC6IjSDY+6G+2UgQUebCP9owGAyXQI/ariwQZ8cjNKG34nyoHNKztXA/eWfqEbntnQx+L52BtHxqOpwtQoU3awXbcV3SQfY8nhY6PWHP/4kfmfMvKq4xXFHeyg1rPrgzOGOwe036jL2phYW7l0sO7NCElsvJjuJ+5KODW5r51kTLAFx16mF0ZEeTI4yFbU6A2/CQbDFiX1g4WZBrx+G/NWSPEwgiwH2ZeUigz5TGOhFgvBUoHUgFIYJMD4NcvKam2yvoru15ooKbcWNDVUCcRomSNfT41YibNbNDv1WfgZSoNAyWcOMDAuA+vUw7xpSebFQF+RpGbrG3dUq7PVmDPuikFQBSw==;C43Uc/3xV7iInuKvYPhhtA=="
 ---

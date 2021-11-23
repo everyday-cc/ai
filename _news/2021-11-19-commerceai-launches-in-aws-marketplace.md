@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/commerce-ai-launches-in-aws-mark
 webUrl: "https://www.digitaljournal.com/pr/commerce-ai-launches-in-aws-marketplace"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Commerce.AI Launches In AWS Marketplace"
-    excerpt: "Commerce.AI, a leading CX AI platform, announced today that it is available in AWS Marketplace, a digital catalog with listings from independent software vendors that make it easy to find, test, buy and deploy software."
-    publishedDateTime: 2021-11-18T14:42:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "LR launches industry-first Artificial Intelligence Register."
     excerpt: "Lloyd's Register (LR) has launched an Artificial Intelligence (AI) Register, a standardised digital register of LR certified AI providers and solutions, a first of its kind for the maritime industry."
     publishedDateTime: 2021-11-22T11:43:00Z

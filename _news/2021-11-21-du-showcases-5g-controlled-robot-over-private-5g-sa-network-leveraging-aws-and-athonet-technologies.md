@@ -40,20 +40,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "UAE - du Showcases 5G Controlled Robot Over Private 5G SA Network Leveraging AWS and Athonet Technologies"
-    excerpt: "Abu Dhabi, 18th November, 2021:  du, from Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use cas"
-    publishedDateTime: 2021-11-18T13:29:00Z
-    webUrl: "https://menafn.com/1103198572/UAE-du-Showcases-5G-Controlled-Robot-Over-Private-5G-SA-Network-Leveraging-AWS-and-Athonet-Technologies"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/18/DPN_57991image_story.jpg"
-        width: 580
-        height: 380
-        isCached: true
 
 secured: "ueNEvbVR27Jv4/X12A607NYqnThYcejcwjuLq/M7J+hG8VF4MowMtdg3F4JPd1GzPuZMZC2fIiecQ1DEerMIWLIVS9aXBQU/kHSyMHLVgmWkVy5buhFK4xGvc9/cC1U6stvvZld0BW5lqXVCYSepDVA/P7Xd/G2b8KqH5Rm2g60DJ92Kkd9IGGzYYbyw7577A3DBFYCBV0URD8D7WvScVgoBf+cEm1NBR2Ymw/t2uBkxlrKRviTLBlMQ0qaIPGJaMNfLzn9GFAUqjS0gUB7gJnq0Yj3Ur8+e2kbOmgmduDVhRj45GPp33QasqoS3XyEVIaEqFB+C9Ftp1kBu9SP+NimpAaXevDJWKiLhjhry3J8=;41OAWZWu1pSXEANtiRLaBQ=="
 ---

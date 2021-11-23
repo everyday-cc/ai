@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -152,6 +152,20 @@ related:
       - url: "https://mybigplunge.com/wp-content/uploads/2021/11/Apple-Car-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "What makes uni students steer clear of self-driving cars?"
+    excerpt: "What makes uni students steer clear of self-driving cars? Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case."
+    publishedDateTime: 2021-11-23T06:17:00Z
+    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=758566"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 24
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
+        width: 1490
+        height: 990
         isCached: true
 
 secured: "FnT6NImrpDM3nGxenx+j7sAkIMpuz8w1Ed6uPVaAoS05rLk04Txhaw9foVismeN/aYYwY6atKUfKz+ezzEOCB4BC/l28Astyn6nz8QuLPkY+w8j/p+Pa5daW4kRjWJkd9yZ/Uk9MoOmQYWivfeiFV8/8USj2Dc70c3QCJ1YqrQYVSw2crwXryQ3L1YJjOLAASMKpyR24pAWNQBH2FJ9S70PsjljSKv6d/ZRpUGHASjDRr9yTlcjIotizYqbp10K2eaxEbrvc5KDIuYI1qAm1SqZdsJ4fTZ7/iByDojVPRvwJsddhdgrXeBJ6BPXsgHv3olmGSR7YUFKIgpojjqFghpKyh6ag2QmLMKDz8txg+YzYrqkhB/YKSIKU9O9hwv9+raTdkG9V8IdAMKij+8FZCZsAapt6yI2wA7rBCTL1LnzSCWqcwgAuKY16RJbBhdwC5y0i0KIp/7Si7QpsHx5jjNr9eA0Lr1k0vrGAy2pGUeRxju3mxYOpU9tJvpM9hZE4ezhhnDJwzSJcmqeeQY6QoQ==;nXCyBSPxNDMom48L6fQQlg=="

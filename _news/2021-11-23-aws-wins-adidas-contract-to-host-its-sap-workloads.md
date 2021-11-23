@@ -54,18 +54,20 @@ related:
       domain: nasdaq.com
     quality: 69
   - title: "adidas Migrates SAP Environments to AWS"
-    excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
-    publishedDateTime: 2021-11-22T06:08:00Z
-    webUrl: "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/"
+    excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
+    publishedDateTime: 2021-11-22T04:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
     type: article
     provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1637560622/press_release/assets/company_logos/AWS_logo_RGB_zwql0q.png"
-        width: 400
-        height: 400
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "GYfY967Gyn/VDwcg8eqRoJ0YSRAqNIyywoAb5Vc/FGvtTPknoUTzuOhGhZuQTJfVRuTgnSVLO+dM596VdgONGpdPl66Vq90O2tq7x2XRyHpYtooIB8NkEMGZDzfNha0CZRConjHt7vD1ZiXzhvMgHB4aD7hlhd7RKxzqVRRVQpK31pU9gSAgP3FGaQbeJM/rzWh5I6+OYLdVifF0MTGQtCa06tyDKQjmbyI421oDrdJ/2laBuXjta3agGVsuf6dFBbPOE1mLuFjJXVgPwwkYkEm7JstVEXKK3QiY9fCFaztWvLssCSdUXl+16p69+ZTmtjhOmAL6fQPHJMW44S+vHXdJW3sSPvNS29fVHD3QTcVF24BETZr1ZYKKlD347mpYMlM4y0HfLvGiJOhbMz8Vv4tlq3izDljG3xmSAOGLfbpGnw3zlm8auEdG58gh3dw6o8+N4k6H9HamUoZEzdCHGldC9csoSn7lfBHEF1gXqSYLU16jtiCPPNOn5CL7B4EYlN25EHiE4XU+brRWWnjiWw==;0enz4ChzLHaCSphxumAwDg=="

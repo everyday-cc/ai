@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-c
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub22461176_g.jpg"
         width: 780
         height: 405
+        isCached: true
+  - title: "Worldwide Artificial Intelligence Chip Market Size to Reach $91.18 Billion by 2025"
+    excerpt: "Allied Market Research published a research report on the artificial intelligence chip market. The findings of the report states that the global market for artificial intelligence chip is expected to reach $91."
+    publishedDateTime: 2021-11-23T06:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/worldwide-artificial-intelligence-chip-market-size-reach-nil-behor/?published=t"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 48
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHK1LJtrya6HA/article-cover_image-shrink_600_2000/0/1637648624681?e=1643241600&v=beta&t=PpUZU1dOAV_DOD6v0tdoQ1z2LeHWVpTGweHIsHZvSC0"
+        width: 790
+        height: 468
         isCached: true
   - title: "AI Chipsets Market Key Players, Industry Demand, Overview And Supply Chain Analysis, Forecast To 2026"
     excerpt: "The AI Chipsets Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the AI Chipsets market It particularly sheds light on market fluctuations pricing"

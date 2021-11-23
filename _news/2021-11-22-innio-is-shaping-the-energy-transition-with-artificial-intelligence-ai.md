@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/innio-is-shap
 webUrl: "https://www.joplinglobe.com/region/national_business/innio-is-shaping-the-energy-transition-with-artificial-intelligence-ai/article_667a8b7e-1234-5864-9f74-cfbbf29bb571.html"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 945
     height: 630
     isCached: true
+
+related:
+  - title: "INNIO Is Shaping the Energy Transition With Artificial Intelligence (AI)"
+    excerpt: "Highlights Energy management is an increasingly important part of the energy transition The myPlant Optimization solution from INNIO uses AI for comprehensive overall plant operation Pot. . ."
+    publishedDateTime: 2021-11-23T06:47:00Z
+    webUrl: "https://electricenergyonline.com/article/energy/category/ot-it/53/932028/innio-is-shaping-the-energy-transition-with-artificial-intelligence-ai-.html"
+    type: article
+    provider:
+      name: Electric Energy Online
+      domain: electricenergyonline.com
+    quality: 31
 
 secured: "+Se5Y8/p/hI0rGdebYmd5kfIaA8pDOUy4M59kgG46v19kNIzPj/ywzPE1pom7zt5vDP/LDRFHvrO+WmcdoiMCJ0KAxktFBNqFvVsLYfjgembE1TwGyejz8+Y0EXt1H7MRFvDKLC/1SON/nNPkl8bgbr7Ubcl4duZ+JXArCSBTP3bjswjsxT4LVgleexyRCgAjdx6UAwJPDjIzhuhimHfj9isLhqdGu05KnWpz+7jNTrBwSfxiPODY3gZ3/dQ7eB6c6fl1hE9AETDfH4NEpo2xEKc7ubrHxDUzi4yiHP0mxhz0UGLTPcj8/Y7iP+FkgR08BDN3klu2Zu3zUgYSCvMQZEMbG9RmdvZFOGBNrXohd4=;m8Nn+mjcFtIMr2nWpV7rBA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.airspacemag.com/airspacemag/next-robots-moon-180978706
 webUrl: "https://www.airspacemag.com/airspacemag/next-robots-moon-180978706/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1599
     height: 1004
     isCached: true
-
-related:
-  - title: "Agricultural robots on the march"
-    excerpt: "Agriculture robots are getting deployed to do farming work, from seeding and harvesting to plant inspection. These robots use specially designed grippers and 3D cameras to determine"
-    publishedDateTime: 2021-11-18T13:33:00Z
-    webUrl: "https://www.freshplaza.com/article/9374940/agricultural-robots-on-the-march/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 39
-    images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/11/18/You.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1IeNjIyejaqCAjkPFYG+tPHCyFiyy77cjIBg3Q2JR9I904URDzj6DHDmsRZr7UQi/2VT5W32B3diLLcNFJdqqEQu8txE+ZwG4Xud5Xp0Qo8WTNxavcjWzjYa48rZ5l18/0sjxb0lZzUVLJX83obi/DM88EjMCZ6AAUwlQOwnfS/NQQp+lEsnODNHh+78/qNBbTzBcxjFD/KvXXPalUthaQGdZj2wnqq/0lBgw3H5hSEOIuFtskCZObCECdDduxJgjGTvfiNLaNpldmzEoP3mQ41HC33lkbEiRhrvYdNdesJBqUg03ObCH1Wh5KF74A/9bpn8aI7uZOdMyk48o73Tn9Uj0Hu3DaIS027/UaAx6J+qf2YC6chBAqOhbsIDnym8tFsgiUd8otfCV2MUcxGVZqfiMLEWaE8EonjbdgI2qAJz/ZCZBQDGOm1lX12SsP6qx3RuReDCdyTkVnGpP8OGiPH+N+DxL6LZEqDABYE1iFQE7nuKucioyhG3AamvKam4uHxa/+wperlLN+IgoOX6Lg==;sVzd4oTQigIH35pIspv5iw=="
 ---

@@ -60,15 +60,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Microsoft Azure launches space data and technology team at Lot Fourteen"
-    excerpt: "South Australia has firmly established itself as the centre of gravity for the country’s burgeoning space sector, and now yet another global giant has touched down in Adelaide, with Microsoft launching its space data and technology team at Lot Fourteen in September this year."
-    publishedDateTime: 2021-11-18T14:37:00Z
-    webUrl: "https://www.adelaidenow.com.au/news/future-adelaide/microsoft-azure-launches-space-data-and-technology-team-at-lot-fourteen/news-story/c18aba71ec39f3ca86b114b9244d0b81"
-    type: article
-    provider:
-      name: Adelaide Now
-      domain: adelaidenow.com.au
-    quality: 34
 
 secured: "3FWXKSxw2vq42C3Mq3fNPnFb7krZpn/d3EojlifNjLqpXJGJ4Mw3rEqGutcZoPDUBqzlCZSKBOa6MDAsYzilS5xc/ARekg/ZX3Uj1LSZ0PzlxFNgYtaLTnzrwuE8FlUUwzvGSHOyeF8+rzoVmdpv0i8+Ej1Gnyoej2yBJBUP6/4z8EIPHPOxrHCir7yfKuCe7zuNB+y/izrJxeoxulLk2nA10Ffqu8Yh4vpGSHksgJaPAwxA0kKgPlZIGQjgDl1WHlcrKLz6K5CenuVmRYiMM6oir+bFFCqsHhrw5So3QfjM6wJn69HI19bpywB9n56AvaGfgcCN0lx4ZFmljZF2fkwYBsdD/Fk19nxUU1sDZKBzdv0WRThQS66FuS0DPHr2fbl2h822dGqJzFsDoDtyMaV4QwF7SRrhREcZxyBWPdsVPc26VYt+GXS6nR4ARuwbzYp2fFm2tGcat59ue3tgH4Joi9kvxIxWnlsBb5lxdmiRmkfVLMEnt0wcHVB5rt348ltNUNgrBCo+aF2ehQ4Usw==;ChnE2cqETw7mifV9EXI5rQ=="
 ---

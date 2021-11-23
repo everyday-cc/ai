@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -147,6 +147,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/11/22/1377129.jpg"
         width: 1240
         height: 826
+        isCached: true
+  - title: "UK government orders probe into bias in medical devices, artificial intelligence tools"
+    excerpt: "The British government has ordered a probe into racial bias creeping into medical devices and AI-based tools, according to a press release."
+    publishedDateTime: 2021-11-23T05:28:00Z
+    webUrl: "https://www.medianama.com/2021/11/223-medical-devices-uk-probe-racial-bias/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 29
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-09-at-3.47.57-PM1-e1594290213278.jpeg.jpeg"
+        width: 1280
+        height: 758
         isCached: true
   - title: "NYC aims to be first to rein in AI hiring tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."

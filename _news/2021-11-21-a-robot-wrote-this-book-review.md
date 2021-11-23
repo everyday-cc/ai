@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/11/21/books/review/the-age-of-ai-henry-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/21/books/review/the-age-of-ai-henry-kissinger-eric-schmidt-daniel-huttenlocher.amp.html"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

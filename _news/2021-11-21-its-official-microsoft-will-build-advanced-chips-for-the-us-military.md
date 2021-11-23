@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/microsoft-will-build-advanced
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Microsoft Azure launches space data and technology team at Lot Fourteen"
-    excerpt: "South Australia has firmly established itself as the centre of gravity for the country’s burgeoning space sector, and now yet another global giant has touched down in Adelaide, with Microsoft launching its space data and technology team at Lot Fourteen in September this year."
-    publishedDateTime: 2021-11-18T14:37:00Z
-    webUrl: "https://www.adelaidenow.com.au/news/future-adelaide/microsoft-azure-launches-space-data-and-technology-team-at-lot-fourteen/news-story/c18aba71ec39f3ca86b114b9244d0b81"
-    type: article
-    provider:
-      name: Adelaide Now
-      domain: adelaidenow.com.au
-    quality: 34
 
 secured: "WOjd9o1hXSKkoUkROMgysT6iqbgAxuYVvvpTxv89Mcgw249eVbPIWd0J6jNv/T7u6cfVqRlpjOQJ+GRtiqgPA1l2Ev4GsqiMcSML38jpfNaLbjRPooJ5kW2OwM9p2GnssILUk6q+f/ZumBHJy69QSDzKfE2QT/vDNJrU7e+cNKVpH6x8ocMXmw8crV0pJI9y4vsewVeZyepPNZqrFNKlkr/x5sPOG0XvIM70EN18wJ9L9IfUjum+nxFA0jRn17id16MckZBD5AcxV1rezYhKsYUzcK3d2q7s7E988X5damJ0bCABOWeU5pzpvviPCDUSJC7sO0aU2Y1QRI4fCLaN6RTneoqxdMMQReOtseqdQKSrQreQCUzJRCPO+/dcFTHOdyWfSIk3wo3c3wOVXVMA2qrlGJ7ONHG0Rma3cDviBchaeoe213lmmP52b3uAGH83ODMRPmxmH5Dtxke4EQVCNB6GQY0mKIw0CJ+H1rvNch92FIT96Jk49bLxhHyoXIDmNtHLE0Nrav5HD09XGzOuYw==;SdDhDa9rEtlSUjBbzhVvag=="
 ---

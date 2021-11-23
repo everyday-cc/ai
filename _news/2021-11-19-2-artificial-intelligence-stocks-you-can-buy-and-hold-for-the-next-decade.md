@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 54
-  - title: "2 Artificial Intelligence Stocks to Buy for the Rest of the Year"
-    excerpt: "And investors’ interest in artificial intelligence stocks is evident in the Global X Robotics & Artificial Intelligence ETF’s (BOTZ) 38.1% gains over the past year. Given this backdrop, we think fundamentally sound AI stocks Gartner,"
-    publishedDateTime: 2021-11-18T14:30:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/2-artificial-intelligence-stocks-to-buy-for-the-rest-of-the-year-2684236"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 39
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEA601E0_L.jpg"
-        width: 800
-        height: 537
-        isCached: true
 
 secured: "vjEaJBzf4mH7oQ5M7RY8oQANoj1ECCcdmtN/mjt3RpE6Z7XmRbrEsCojzuwdHZpj9ya1uOWtqlKDojwLHb7R7f2vDj8zGlmuiHAOMvzPxboCqWANK291aEYC9DmYla/z4yCWTGx06WPFNFJLQfdpp22QFHoUhBmUPn+nFqtv2kKh1XMUkATa5j85pnjBu+kKtcHEFd3rKpOfC+EaggL80S9aekz32ul5KXC5DLtljvx5VY27wNmRhKE44UM4cRgY+0/tlIutXGbs74yOEIFrQSCOSetpfoRi8LdLHXVP5YO4gzzO5bPq8XuHDv4xXMhqfMKUtldZOAUjz+xXxHY+5bTEM20lxNDJvikVhS+m0mPjAZq3KDWhfuEG/N1V5e4pWoxliEl/EJj1aD3iW20EYIp4svRHxeZUkI34m6Q98y8OjZi5CzEnYntNe5rGps4+KbcK6wGZyzfHEYI9uPLBt0ijheS1MOLimMP2gB0X7voRYKNDyZB/5tODLBTTlVvXmNjxH0JowHyktP27dxC/Bg==;m+mbkXrkxSmDzYa3RK2OAw=="
 ---

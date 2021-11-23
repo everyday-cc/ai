@@ -152,6 +152,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "UK government orders probe into bias in medical devices, artificial intelligence tools"
+    excerpt: "The British government has ordered a probe into racial bias creeping into medical devices and AI-based tools, according to a press release."
+    publishedDateTime: 2021-11-23T05:28:00Z
+    webUrl: "https://www.medianama.com/2021/11/223-medical-devices-uk-probe-racial-bias/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 29
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-09-at-3.47.57-PM1-e1594290213278.jpeg.jpeg"
+        width: 1280
+        height: 758
+        isCached: true
 
 secured: "5F/zuHulj3qKGwWNu9fLzDDKD50jJHcxNZk7PWgWz1eqgsyzkQxcWPpZUDdCwQqAI4Ta2l9rV7khlwZVp/g9DF15YA+ABB9Is9RzaPD96QDbe4Bf5q+x9sFQY03li5O+CoBTPTLQATXlyPJA+93eZKfFZBPhtkAKnOJUe30aJe2NEKGJkMnILRcLxVJMnuv2mPgJPGmkASg90L3fLnScYoAt2cJ2ogPNMM4l0xEG6pyvQeu5ZqAtef8Syc/Q8CMcTQou+ZBxibfczQ3g0xxXCiJfzr5ADxNtTlK74+eZAQNqi7DsKOWH/A538BCDHnpNfZByJffyVB+cSyfRKf2dlOmjF5IQEtVi4LHWBtFYZS8bzoIOP2SVkt7Sul4CGxnSxJuyTrKXesLBNozwhY8/Ak9jHY6UHJzlGI6MU9zFjgBNyakDNbvCQ2zk/oSwbLt7QyboEVV1ZAGBw6FBOdOz/7K7sivadsvoO4UXtKeRsJWduL6htI1wgfJKIjgIBr34m6/zXVQCirtAIoQYNTHr2A==;ClgGU2Kwflyg1CVBEK/cCA=="
 ---

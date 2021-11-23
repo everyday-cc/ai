@@ -19,20 +19,6 @@ topics:
 
 related:
   - title: "Commerce.AI Launches In AWS Marketplace"
-    excerpt: "Commerce.AI, a leading CX AI platform, announced today that it is available in AWS Marketplace, a digital catalog with listings from independent software vendors that make it easy to find, test, buy and deploy software."
-    publishedDateTime: 2021-11-18T14:42:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Commerce.AI Launches In AWS Marketplace"
     excerpt: "AWS customers worldwide now gain access to Commerce.AI, giving companies and their teams an easy way to leverage the power of unstructured data to build"
     publishedDateTime: 2021-11-18T16:27:00Z
     webUrl: "https://www.digitaljournal.com/pr/commerce-ai-launches-in-aws-marketplace"
