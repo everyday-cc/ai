@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/kisspr/technology-business-473550
 webUrl: "https://apnews.com/press-release/kisspr/technology-business-473550330e3218bab42fa94296fe70fa"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Globally Awarded AI Startup Receives USD 1.4 Million In Seed Funding"
+    excerpt: "Mindsmiths to make next step in developing their autonomous support system platform with a proven social impact track record ZAGREB, Croatia, Nov."
+    publishedDateTime: 2021-11-23T08:46:00Z
+    webUrl: "https://www.iltempo.it/adnkronos/2021/11/23/news/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-29544350/"
+    ampWebUrl: "https://www.iltempo.it/adnkronos/2021/11/23/news/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-29544350/amp/"
+    cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2021/11/23/news/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-29544350/amp/"
+    type: article
+    provider:
+      name: Il Tempo
+      domain: iltempo.it
+    quality: 37
 
 secured: "kTpWwq2bx4tprpCZKLlt7dzSzGur5aDJUiE60uh/E9VxaTpb7AwHwADX9E35/iLVj+GimIvC8t1D0mayngB1yKTKmClkwp6MhjnN7r8S8MZ/LrcuLpUV5Wt4nzG/LPLOqHcdJkQsVaa69Uj3zyrH53jBAzpoRMzmYc1DEcBGUAV+34JNILQxtdhQq3s+/TP1MMhAlvDS8baSKm4Zky3YWBEhrn/fZa/35QfkQSm+qJfC4B3ESD9yC9YDiwpmSveAyfXBU3c7/M4AOIvrQhW8guei1S3kaTY6tTSys7YEv+CQTrd+qXBOktzkTCi+PV+pKBKBxGwqJwrKtjSFJHDTl692bTD+rEuMpoXvrP8vBJY=;Q9t4646BYHN/Lx0H8/HAzg=="
 ---

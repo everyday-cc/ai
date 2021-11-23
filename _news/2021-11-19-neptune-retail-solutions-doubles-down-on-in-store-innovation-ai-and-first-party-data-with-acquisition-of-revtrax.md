@@ -27,22 +27,6 @@ images:
     height: 309
     isCached: true
 
-related:
-  - title: "Beautiful.ai Doubles Down on Growth and Design, Promotes Jason Lapp to CEO"
-    excerpt: "Beautiful.ai, the presentation platform that enables anyone to build beautiful presentations, announced today the promotion of its president and chief operating officer (COO), Jason Lapp, to chief executive officer."
-    publishedDateTime: 2021-11-18T15:43:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-b92b2c3834dff660b072598015732ebc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "hiJbgrRfmzMc+ljFgQLCQaPc4NojGUfz+O9qvN1lDdF/savJd9IeA2oCuk6ElaZcxYQ1rTmsXne2BULNvdYKjHE6VHxmpec3YtaKSVSEWPEu8kQqhGnQNJ79gojC3i7bpVH1FS87EU2uPrDa8Nf2A2anGXR8K0MRWCHubnY4CcqPHDqe6Q8k7HMstl3e6HZyZSxhmyyk8tB6hJUb0D7WcfV0uwDrGu2gqdteI7ujmtIkQyZnPWxPmtPh0DmL2E+vUKGNa/iQ3TsevjLQ/0JFEn2yMeda56bj3JctPiTYzga+bqEwlxvRGS4JDjBNXnz1sdQDju9qr8H2f5EJ++C1fC0mv7nmzlvXjPZh6YzVGkRnEngZS29Fbvmv/3MgxmfHhWU/8myMBjy2C+b0pTVr8DU6wnnGe8/HzQctfkAcnJ7a1WL55rtypbS4XHMW4RDHsi8BSLGYODoVg+OsKA70HalZLzfmZB6V+gZhw2iHDLvmjw96Ze12+dJkT34U/JquODrNYUkFI4vaF1fgjC5aSQ==;c+nt+Lucii7z3DjQub8u2w=="
 ---
 

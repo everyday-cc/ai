@@ -2,49 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2021-11-03-an-enterprise-ai-platform-as-a-path-toward-intelligence-process-automation.md",
-      "title": "An Enterprise AI Platform as a Path Toward Intelligence Process Automation",
-      "excerpt": "In this article we take a look new technology that can overcome common problems that contribute to struggles with AI projects. Project delays, budget limitations, scarcity of needed skills, changing data sources,",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2021/11/02/an-enterprise-ai-platform-as-a-path-toward-intelligence-process-automation/",
-      "originalUrl": "https://insidebigdata.com/2021/11/02/an-enterprise-ai-platform-as-a-path-toward-intelligence-process-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2020/01/AI_shutterstock_1069670762.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-03-swedish-self-driving-start-up-einride-expands-into-us-market.md",
       "title": "Swedish self-driving start-up Einride expands into U.S. market",
       "excerpt": "Swedish electric self-driving truck start-up Einride said on Wednesday it has launched operations in the U.S. market and signed up GE Appliances, Swedish vegan milk maker and Oatly and tiremaker Bridgestone as customers.",
@@ -1163,6 +1120,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-azure-cosmos-db-htap-using-azure-synapse-link.md",
+      "title": "Azure Cosmos DB – HTAP using Azure Synapse Link",
+      "excerpt": "AutoML to develop a Regression/Classification/Time Series Forecasting model using the Azure Machine Learning linked service, and multi language support for advanced analytics using the Spark pool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sqlservercentral.com/articles/azure-cosmos-db-htap-using-azure-synapse-link",
+      "originalUrl": "https://www.sqlservercentral.com/articles/azure-cosmos-db-htap-using-azure-synapse-link",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sqlroadie.files.wordpress.com/2021/10/image-2.png?w=1024",
+          "width": 1024,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T17:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SQL Server Central",
+        "domain": "sqlservercentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

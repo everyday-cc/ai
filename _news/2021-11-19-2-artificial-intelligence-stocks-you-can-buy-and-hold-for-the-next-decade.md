@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/"
 type: article
 quality: 86
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -30,31 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
-    excerpt: "Artificial intelligence likely won't take over the world and put every human out of employment, but rather it will assist humans so they can be more efficient. Two prime examples of artificial intelligence stocks that are doing this are UiPath (NYSE: PATH) and Docebo (NASDAQ: DCBO)."
-    publishedDateTime: 2021-11-18T15:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade"
-    ampWebUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 68
-  - title: "2 Artificial Intelligence Stocks to Buy for the Rest of the Year"
-    excerpt: "Amid fast-paced digitalization, organizations’ desire to develop smart operations and quick-problem-solving capacity is driving the growth of the artificial intelligence (AI) market. So, we think it could be wise"
-    publishedDateTime: 2021-11-18T16:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/397989"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-397989.jpeg"
-        width: 2560
-        height: 2560
-        isCached: true
   - title: "An agony aunt for the AI era answers your ethical questions"
     excerpt: "App created by artificial-intelligence experts tries to help morally conflicted humans."
     publishedDateTime: 2021-11-20T22:00:00Z

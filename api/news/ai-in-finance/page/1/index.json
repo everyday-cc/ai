@@ -297,6 +297,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-16-fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder.md",
+      "title": "Fintech leader joins document-to-data startup IN-D.AI as Co-founder",
+      "excerpt": "IN-Dai Emulya Fintech Pte Ltd today announced that Abhishek Mishra a fintech leader with global experience is joining as the Co-founder and CEO",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/271738945/fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder",
+      "originalUrl": "https://www.bignewsnetwork.com/news/271738945/fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1637072197.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-cape-privacy-forges-partnership-with-snowflake-enabling-financial-services-organizations-to-use-encrypted-data-for-predictive-modeling-in-the.md",
       "title": "Cape Privacy Forges Partnership with Snowflake, Enabling Financial Services Organizations to Use Encrypted Data for Predictive Modeling in the Cloud",
       "excerpt": "Cape Privacy has joined the Snowflake Partner Network to partner with Snowflake, the Data Cloud company. As a Snowflake partner,",
@@ -326,49 +369,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-fintech-leader-joins-document-to-data-startup-in-dai-as-co-founder.md",
-      "title": "Fintech leader joins document-to-data startup IN-D.AI as Co-founder",
-      "excerpt": "IN-D.ai (Emulya Fintech Pte Ltd.) today announced that Abhishek Mishra, a fintech leader with global experience, is joining as the Co-founder and CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-11/16/full/20211116165343.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/fintech-leader-joins-document-to-data-startup-in-d-ai-as-co-founder-121111601030_1.html",
-      "publishedDateTime": "2021-11-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
         "images": null,
         "publishers": null,
         "authors": null

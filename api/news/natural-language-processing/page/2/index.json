@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-09-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan.md",
+      "title": "AI being employed to translate sign language to assist deaf in Japan",
+      "excerpt": "Local governments in Japan are turning to artificial intelligence to improve communication with people who are deaf or hard of hearin",
+      "sourceUrl": null,
+      "webUrl": "https://mainichi.jp/english/articles/20211109/p2g/00m/0sc/030000c",
+      "originalUrl": "https://mainichi.jp/english/articles/20211109/p2g/00m/0sc/030000c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mainichi.jp/vol1/2021/11/09/20211109p2g00m0sc029000p/0c10.jpg?2",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mainichi.jp",
+        "domain": "mainichi.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-global-mobile-speech-recognition-software-market-2021-major-players-competitive-spectrum-revenue-share-and-sales-projections-by-2027.md",
       "title": "Global Mobile Speech Recognition Software Market 2021 Major Players, Competitive Spectrum, Revenue Share and Sales Projections by 2027",
       "excerpt": "Global Mobile Speech Recognition Software Market 2021-2027 offers an in-depth analysis of the market share, growth prospects, value & volume, and market prediction is given in the research report. The major aim of the report is to identify,",
@@ -1381,58 +1424,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex.md",
-      "title": "Cisco launches new AI-powered and hybrid event features for Webex",
-      "excerpt": "Cisco has launched a range of new features for Webex, including AI-powered noise reduction and a 'wellness' portal for teams.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/cisco-fullwidth-mw-12120.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/amp/",
-      "publishedDateTime": "2021-10-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

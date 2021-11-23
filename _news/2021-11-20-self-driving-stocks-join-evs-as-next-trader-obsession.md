@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UPS to Test Self-Driving Semi-Trucks"
-    excerpt: "Waymo, the Google autonomous driving affiliate, announced an expansion of its partnership with UPS into Class 8 trucks. The company’s self-driving semi-trucks will transport cargo between UPS’ air freight facilities in Dallas-Fort Worth and Houston."
-    publishedDateTime: 2021-11-18T16:43:00Z
-    webUrl: "https://www.manufacturing.net/home/video/21903503/ups-to-test-selfdriving-semitrucks"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/11/16x9/upstn.61968074a048a.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "Apple must wade through obstacles to catch up with next wave of self-driving EVs"
     excerpt: "The Apple Car saga continues, with new reports revealing Apple is determined to ship an EV within the next four years, per Bloomberg. How we got here: Apple’s car project has had various starts and stops,"
     publishedDateTime: 2021-11-23T05:05:00Z

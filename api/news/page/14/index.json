@@ -2,57 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-11-10-report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai.md",
-      "title": "Report: 40% of execs say increasing business process efficiency is top benefit of AI",
-      "excerpt": "The need to boost customer service, employee efficiency, and innovation are three main factors driving an increase in AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cognitivescale.com/survey_drivingadoption/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/report-40-of-execs-say-increasing-business-process-efficiency-is-top-benefit-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cognitivescale.com/wp-content/uploads/2020/08/News-Banners-e1636510765124.png",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-09-bushfire-mitigation-through-machine-learning-with-ausnet-and-aws.md",
       "title": "Bushfire mitigation through Machine Learning with AusNet and AWS",
       "excerpt": "Eastern Australia is among the most fire-prone regions in the world. Although bushfires are a regular occurrence in Australia, the 2019–2020 bushfire crisis set ablaze over 17 million hectares of land (larger than the size of England), costing the Australian economy more than $100 billion between property,",
@@ -1184,6 +1133,48 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering.md",
+      "title": "Lemonade buys US data science firm to boost car insurance offering",
+      "excerpt": "Israeli-founded, NY-based company makes first acquisition with MetroMile, a San Francisco outfit that leverages AI for personalized insurance policies",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/",
+      "originalUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/11/DanielShai2019-1-640x400.jpeg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/lemonade-buys-us-data-science-firm-to-boost-car-insurance-offering/amp/",
+      "publishedDateTime": "2021-11-09T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-23T06:39:00Z
 originalUrl: "https://www.linkedin.com/pulse/worldwide-artificial-intelligence-chip-market-size-reach-nil-behor/?published=t"
 webUrl: "https://www.linkedin.com/pulse/worldwide-artificial-intelligence-chip-market-size-reach-nil-behor/?published=t"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQHK1LJtrya6HA/article-cover_image-shrink_600_2000/0/1637648624681?e=1643241600&v=beta&t=PpUZU1dOAV_DOD6v0tdoQ1z2LeHWVpTGweHIsHZvSC0"
@@ -121,6 +122,6 @@ related:
       domain: openpr.com
     quality: 39
 
-secured: "Wxy9Z0bjaz+ovp7Iifd4cTOxWVrWsx/d8Rv7ZCv0stIemicMjtPDxhUsUEQBEH4zQNQFpY/FfpV8d1qDTVXYJWja7exlJ/1SKWV7be2mI7CXUCVhj3kx8xMhAfKHBG3jph7YMtn6Gyr0rNuUIDHLBD6HD3DAjgrcyihSWkiuurxUeatgINuqNPhAGmoeEPV9sU23JoqCqfH5aHKyeQz5MC3NM2DUXgJEwj8VzkG1Ln7L6fbNolxikyyv7WhNeEZDWXwT4Ih6/UoVZ5aLHej0ISKPHL/WMe9L9ydIY9AcYavBwSAQo+RSnzc6rZLFKBjWbW3au2uaIqX9PaLwGMA1IEUxc3iNDVh5JBTUBUSB1UM=;qTvRbjpVGBoE5tnf7LUZbw=="
+secured: "TdhKfljqTlVxH/QYlVFCuWM0nh1oBn+73uSJWN5SJhbQTIVIT/s37csUFZnr4O5nEcYmbxicBTCAdr+Kb+K3RVdm26b/zl2OfMv1ZWyPbdFyVUEUYT3VDnUFK7eV/i8Gtmtp4RTqZYXRDiYdQnXeliBq/EvrxhkQO0n3KX2pW6FgITPs4q/mGIwMf/Huoo2FSXDJ8pEJubSbJLPn+GsQKWtNzGgvESBnHI5NP6JrjiksfZzqjD0jDP1SQZ5UYUM5qAWndOqh+7yfKoIU3JnTvtK2qNggPdqTAeErjsEwAoHCuq60hUr4y0gyDLgbjvnI4BEnvjAJ3EomacD80Opy/MD+Zxcq6Ugm4pTY9SdWdk6+DD3ud+arvoGaTC2FQNKBk6iAayKta+6/atVxHd9UMzrfSmUEyJmXwt6yYFSJdqwH/MRa+GMgCDaHSMYnCwH74yg//9JheZ/HIDoecE9CicHh7MgHwXjKkvooZGMzKnxRNVstjFjPv5ilpy0DwTkS6gENeIimjNHOEAWa041Pzw==;75Qla1X7pJnUVg9Wwo6R8g=="
 ---
 

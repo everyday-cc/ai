@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/microsoft-will-build-advanced
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Interesting Engineering
@@ -40,20 +40,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG76zDBdVzusw/article-cover_image-shrink_600_2000/0/1637379894170?e=1642636800&v=beta&t=dhkM2hx5V8sJI5zzejNfTYGIz3-87ipBigZgVOdvuMg"
         width: 696
         height: 392
-        isCached: true
-  - title: "ZF to digitise production processes with help of Microsoft"
-    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
-    publishedDateTime: 2021-11-18T16:02:00Z
-    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
-        width: 940
-        height: 443
         isCached: true
 
 secured: "WOjd9o1hXSKkoUkROMgysT6iqbgAxuYVvvpTxv89Mcgw249eVbPIWd0J6jNv/T7u6cfVqRlpjOQJ+GRtiqgPA1l2Ev4GsqiMcSML38jpfNaLbjRPooJ5kW2OwM9p2GnssILUk6q+f/ZumBHJy69QSDzKfE2QT/vDNJrU7e+cNKVpH6x8ocMXmw8crV0pJI9y4vsewVeZyepPNZqrFNKlkr/x5sPOG0XvIM70EN18wJ9L9IfUjum+nxFA0jRn17id16MckZBD5AcxV1rezYhKsYUzcK3d2q7s7E988X5damJ0bCABOWeU5pzpvviPCDUSJC7sO0aU2Y1QRI4fCLaN6RTneoqxdMMQReOtseqdQKSrQreQCUzJRCPO+/dcFTHOdyWfSIk3wo3c3wOVXVMA2qrlGJ7ONHG0Rma3cDviBchaeoe213lmmP52b3uAGH83ODMRPmxmH5Dtxke4EQVCNB6GQY0mKIw0CJ+H1rvNch92FIT96Jk49bLxhHyoXIDmNtHLE0Nrav5HD09XGzOuYw==;SdDhDa9rEtlSUjBbzhVvag=="

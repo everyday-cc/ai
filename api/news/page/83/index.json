@@ -2,49 +2,6 @@
   "page": 83,
   "value": [
     {
-      "path": "_news/2021-09-22-facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company.md",
-      "title": "Facebook CTO Mike Schroepfer to Step Down in 2022 After 13 Years With Company",
-      "excerpt": "Schroepfer had been leading Facebook’s artificial intelligence efforts and other ... to the Wall Street Journal revealing that it had research confirming the harmful effects of its services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/",
-      "originalUrl": "https://www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewrap.com/wp-content/uploads/2021/09/Mike-Schroepfer-facebook.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/amp/",
-      "cdnAmpWebUrl": "https://www-thewrap-com.cdn.ampproject.org/c/s/www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/amp/",
-      "publishedDateTime": "2021-09-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheWrap",
-        "domain": "thewrap.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-22-iphones-may-detect-depression.md",
       "title": "iPhones may detect depression",
       "excerpt": "Apple is reportedly working on technology to help diagnose depression and cognitive decline ... fell despite heavy use of telco and internet services during the Covid pandemic, it wasn't all ...",
@@ -1146,6 +1103,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-ssc-services-for-education-launches-national-employee-recognition-program.md",
+      "title": "SSC Services for Education Launches National Employee Recognition Program",
+      "excerpt": "SSC Services for Education (SCC), a leading national facilities and grounds management provider for K-12 schools and universities across the country, has announced a new employee recognition program,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/business-education-knoxville-4c5b6b85b06ad39a3960db2ec798e4f5",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/business-education-knoxville-4c5b6b85b06ad39a3960db2ec798e4f5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
       ]
     }
   ],

@@ -18,20 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "Commerce.AI Launches In AWS Marketplace"
-    excerpt: "AWS customers worldwide now gain access to Commerce.AI, giving companies and their teams an easy way to leverage the power of unstructured data to build"
-    publishedDateTime: 2021-11-18T16:27:00Z
-    webUrl: "https://www.digitaljournal.com/pr/commerce-ai-launches-in-aws-marketplace"
+  - title: "Lloyd’s Register launches industry-first Artificial Intelligence Register"
+    excerpt: "Lloyd’s Register (LR) has launched an Artificial Intelligence (AI) Register, a standardised digital register of LR certified AI providers and solutions, a first of its kind for the maritime industry."
+    publishedDateTime: 2021-11-22T20:00:00Z
+    webUrl: "https://www.hellenicshippingnews.com/lloyds-register-launches-industry-first-artificial-intelligence-register/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/lloyds-register-launches-industry-first-artificial-intelligence-register/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/lloyds-register-launches-industry-first-artificial-intelligence-register/amp/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 54
-    images:
-      - url: "https://cdn.newswire.com/files/x/00/7f/49464d790dd93f82d1d3aec6089e.jpg"
-        width: 512
-        height: 510
-        isCached: true
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 36
 
 secured: "HM9TYcQg37tlg+U9idoqt45Xv9E6yrMleuaYUkq29KrGeh5cWxxeCgk/mNIgzqmc1oJk4Fh0YQ9Rzg2PVkgdhcHNwdH96wP4PHSFVW3jrLAi2zBedNU/akjliMnYNWiJ06dcXXQhPr9f8gMVEeDB6e8CJETw7Jno1IA4ljohkPu6dLUdYtTAaRDRE8+tx1nClz3O54EhJMRbGhfBjD2bdNr9mFbzjrsHV+jV9lt6r5WoW7+4JjiDMAH7GFJfNSYECJKGrQLPWSrMg+1L0xS1iD4Nyx7WGo7J4uZugE/RqTjv/LxovoNpCFdpRrd6OjguSfS7wulGxUypuP0Y1dzvAHNz1miyZAuvNljXHytGB7k=;LVZUpdiuls1F6cElLTEESg=="
 ---

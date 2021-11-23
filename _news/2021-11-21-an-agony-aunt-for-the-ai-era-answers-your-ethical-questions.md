@@ -37,31 +37,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
-    excerpt: "Artificial intelligence likely won't take over the world and put every human out of employment, but rather it will assist humans so they can be more efficient. Two prime examples of artificial intelligence stocks that are doing this are UiPath (NYSE: PATH) and Docebo (NASDAQ: DCBO)."
-    publishedDateTime: 2021-11-18T15:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade"
-    ampWebUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 68
-  - title: "2 Artificial Intelligence Stocks to Buy for the Rest of the Year"
-    excerpt: "Amid fast-paced digitalization, organizations’ desire to develop smart operations and quick-problem-solving capacity is driving the growth of the artificial intelligence (AI) market. So, we think it could be wise"
-    publishedDateTime: 2021-11-18T16:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/397989"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-397989.jpeg"
-        width: 2560
-        height: 2560
-        isCached: true
 
 secured: "cWK4H7yLuoADyPqORlV61U+W+a22LgwAohTxQTARzOClnn5PbcRX8q+nSZND4uDF+lgVF922aX8DHo7Q0xQwUCe/y1LM6g/wbW8uywjmhptRnPoEQopUBeXf2Yw14NxpLpsrehtSO0OXnoThzgbn2SWiHmXBQKRbfdg6QTf3RFA8KpiLBAL97uA86FBlD5Xf2i/An+9MAScwA86yUnFWxo+CsiwKMWf77s2iwXNcxKhWhVvcqd+5l1oOpchHaV1GUAFhVphkbHPji9wsf7Rf3rj/lKypsHpZfhE5AX3/U80lZsJV0cAhF4+GGxsHqB1JfK6N2AWV/NEpJ2LVbVKMtXWoAiBjrp07ryLn0Cl4BYlA5jd43UrCuY3NqLSi7jYerWJuLJtrOY8D2Fjj+UxdLxDA/PmexEwWCgSEIx/v2/ILqElWfZdsDQtmfi3giEGrZHQto3wwZCweBZL2zOBxYzZULGNiTaBtgZVHOikzzq2Qtp7G8CT3kNRc8RSTbQU6e9pB4VyUlYX0k9RDyicTLg==;N9IpDH24uYzwt6fbRntCBA=="
 ---

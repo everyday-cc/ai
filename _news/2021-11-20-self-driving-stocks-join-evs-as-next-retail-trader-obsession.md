@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-st
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "UPS to Test Self-Driving Semi-Trucks"
-    excerpt: "Waymo, the Google autonomous driving affiliate, announced an expansion of its partnership with UPS into Class 8 trucks. The company’s self-driving semi-trucks will transport cargo between UPS’ air freight facilities in Dallas-Fort Worth and Houston."
-    publishedDateTime: 2021-11-18T16:43:00Z
-    webUrl: "https://www.manufacturing.net/home/video/21903503/ups-to-test-selfdriving-semitrucks"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/11/16x9/upstn.61968074a048a.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "Self-Driving Stocks Join EVs as Next Trader Obsession"
     excerpt: "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Nov. 19 on high volume."
     publishedDateTime: 2021-11-19T22:15:00Z

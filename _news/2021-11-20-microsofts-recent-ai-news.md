@@ -46,20 +46,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "ZF to digitise production processes with help of Microsoft"
-    excerpt: "Mobility technology company ZF is to expand its collaboration with Microsoft to create a holistic data and integration platform, the ZF Cloud, to digitise its industrial and operational production and business processes on the Microsoft Azure cloud platform."
-    publishedDateTime: 2021-11-18T16:02:00Z
-    webUrl: "https://www.technologyrecord.com/Home/zf-to-digitise-production-processes-with-help-of-microsoft-127123"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10608/img-Autonomous-shuttle-940x443.jpg"
-        width: 940
-        height: 443
-        isCached: true
 
 secured: "3FWXKSxw2vq42C3Mq3fNPnFb7krZpn/d3EojlifNjLqpXJGJ4Mw3rEqGutcZoPDUBqzlCZSKBOa6MDAsYzilS5xc/ARekg/ZX3Uj1LSZ0PzlxFNgYtaLTnzrwuE8FlUUwzvGSHOyeF8+rzoVmdpv0i8+Ej1Gnyoej2yBJBUP6/4z8EIPHPOxrHCir7yfKuCe7zuNB+y/izrJxeoxulLk2nA10Ffqu8Yh4vpGSHksgJaPAwxA0kKgPlZIGQjgDl1WHlcrKLz6K5CenuVmRYiMM6oir+bFFCqsHhrw5So3QfjM6wJn69HI19bpywB9n56AvaGfgcCN0lx4ZFmljZF2fkwYBsdD/Fk19nxUU1sDZKBzdv0WRThQS66FuS0DPHr2fbl2h822dGqJzFsDoDtyMaV4QwF7SRrhREcZxyBWPdsVPc26VYt+GXS6nR4ARuwbzYp2fFm2tGcat59ue3tgH4Joi9kvxIxWnlsBb5lxdmiRmkfVLMEnt0wcHVB5rt348ltNUNgrBCo+aF2ehQ4Usw==;ChnE2cqETw7mifV9EXI5rQ=="
 ---

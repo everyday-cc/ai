@@ -119,22 +119,6 @@ related:
         width: 1500
         height: 809
         isCached: true
-  - title: "Apple accelerates work on electric car project, aiming for fully autonomous vehicle"
-    excerpt: "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to"
-    publishedDateTime: 2021-11-18T16:26:00Z
-    webUrl: "https://www.mercurynews.com/2021/11/18/apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle/"
-    ampWebUrl: "https://www.mercurynews.com/2021/11/18/apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 53
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/09/sjm-urity-Patch-Instructions_88014743.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Apple Speeds up Self-Driving Car Project"
     excerpt: "Apple wants to ramp up the development of its electric car with a new focus on making a fully self-driving vehicle."
     publishedDateTime: 2021-11-18T23:06:00Z
@@ -166,6 +150,22 @@ related:
       - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
+    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
+    publishedDateTime: 2021-11-23T07:29:00Z
+    webUrl: "https://www.udayavani.com/english-news/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025"
+    ampWebUrl: "https://english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
+    cdnAmpWebUrl: "https://english-udayavani-com.cdn.ampproject.org/c/s/english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
+    type: article
+    provider:
+      name: Udayavani
+      domain: udayavani.com
+    quality: 43
+    images:
+      - url: "https://mcmscache.epapr.in/post_images/website_326/post_25578185/full.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Apple aiming to launch self-driving car by 2025"
     excerpt: "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, aiming to solve a technical challenge that has bedeviled the auto industry."

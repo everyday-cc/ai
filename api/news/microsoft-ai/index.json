@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-21-its-official-microsoft-will-build-advanced-chips-for-the-us-military.md",
-      "title": "It's Official. Microsoft Will Build Advanced Chips for the US Military",
-      "excerpt": "The US National Security Technology Accelerator (NSTXL) announced on Thursday that it has chosen Microsoft to build advanced chips for the military. \"Historically, the security requirements associated with developing microelectronics have limited the U.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military",
-      "originalUrl": "https://interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DRjoNOx/sizes/microsoft-chip_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military",
-      "publishedDateTime": "2021-11-21T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-18-microsoft-open-sources-synapseml-for-developing-ai-pipelines.md",
       "title": "Microsoft open-sources SynapseML for developing AI pipelines",
       "excerpt": "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines.",
@@ -1370,6 +1327,58 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai.md",
+      "title": "Microsoft says all business will be collaborative, and infused with data and AI",
+      "excerpt": "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Satya-Nadella-ignite-nov-2021.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/",
+      "publishedDateTime": "2021-11-03T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

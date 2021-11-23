@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-al
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/amp/"
 type: article
 quality: 84
-heat: 105
+heat: 104
 published: true
 
 provider:

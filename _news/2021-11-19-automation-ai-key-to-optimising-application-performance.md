@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ITWeb
@@ -41,15 +41,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "Artificial Intelligence Drives Innovation In Building Security Solutions"
-    excerpt: "The application of artificial intelligence (AI) in digital building solutions continues to grow. Vendors across the market are turning to AI and machine learning to launch advanced offerings that drive greater automation and improved outcomes."
-    publishedDateTime: 2021-11-18T15:36:00Z
-    webUrl: "https://www.publicnow.com/view/05E803A5AE820849AB4D0A6773AEE40ADB1F4D34"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 33
 
 secured: "5cde95o7wm0v013ZhRsBVp9NFZ+22dTTL6AwUyngIR5jm+o43XFLmkHp8+jUNkCiP8QYY+M1101OPR9mJ5KGLrJKJZ5Fh4yTG+ieBHoaO8sucNQk703o7SM9EOa01oYkjNEb45mKkA+Ktmit25SMLNa7V0QD0hL5tO+E40ypU/vNW7ImTB70q6qbXIGRaHrJ4lYMgGOcqnIGR6Uynm3HB+1wFcVsRdbLYYjByDa7AJjteuNCHRbqOlHtWU0LsNp6Xizd1XA3lVg9EeJtGXo4utT0+aP0bkDR36DSqxPR3WMqbfzM2QrdTIBpQFpbSaG/998NHkjzsf3Wnxq3X2oqYn3vZxPJmG9cLbg0u3O/NrjJyTCEQDd35cJBdb326bFPSGcnf7iTiWG7JKDJTWddCIIi8M4e5jtntHXqqTfAOikBkQ90VoFxRsJKNs98KoEMidJY9iwqFEy4XguMhZkB6RSDzto3XgFOOD+9GWxbPDqiY6jKHKu9hGKKsHEPZBnQGjEVU/7y3HRq4XlwicQ3nQ==;3oTrtX9hb2gXD1SW80XNiw=="
 ---

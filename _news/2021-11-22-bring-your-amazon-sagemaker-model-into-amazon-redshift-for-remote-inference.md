@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-amazon-sa
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-amazon-sagemaker-model-into-amazon-redshift-for-remote-inference/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

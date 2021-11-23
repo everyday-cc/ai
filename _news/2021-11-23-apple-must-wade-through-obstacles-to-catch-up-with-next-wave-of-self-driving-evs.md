@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UPS to Test Self-Driving Semi-Trucks"
-    excerpt: "Waymo, the Google autonomous driving affiliate, announced an expansion of its partnership with UPS into Class 8 trucks. The company’s self-driving semi-trucks will transport cargo between UPS’ air freight facilities in Dallas-Fort Worth and Houston."
-    publishedDateTime: 2021-11-18T16:43:00Z
-    webUrl: "https://www.manufacturing.net/home/video/21903503/ups-to-test-selfdriving-semitrucks"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/11/16x9/upstn.61968074a048a.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "Self-Driving Stocks Join EVs as Next Trader Obsession"
     excerpt: "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Nov. 19 on high volume."
     publishedDateTime: 2021-11-19T22:15:00Z
@@ -68,6 +54,6 @@ related:
         height: 246
         isCached: true
 
-secured: "urZwNlCxqQwkqZo6v3pSfujdQTUExh+xkJdAqkND3cYo0SmxGDrxb3+dArBNPiIUxg647TVubwe5ppUliEnuQ4cLlzwrMF1wLjbf57AUd9SsZeTQWbW1VUS3/RINNJR4TXQgZOk76rQCNmPH8WSWpC3dxGe8A0IwWfRoVQvFxvQqn2XD3a4qZUTbTo0XNE8TQajhfy6R9gB1KCu7IUS4HpUIR1YFKG/TZ5dA6M/KsAv6dbWNGvOb32Z/yNlHAW8fsiKrqe2IyCIGwzqpbp5s2QT0NthRDx8UcQvPXXAfK9EYg2pIJv9H/3bpFAiMWNeapVjnOCl7SurR1MvT+caKPdr6V00QKGXvYCkrBqVytjs=;rfMBhA6S8FGZ5wbQZ/XPkw=="
+secured: "LExY/oH/nPFEe9ouTD6aiRyvPKg5d286gaaV4uIq0zkSUMGzsOpYxZfu5hQKP1fX7xHOtZU0r7fEwVMZQwUFE2clZSpR1BoFptO+Z2Z82YNzLFelchEPXd39+0QDxmzFSDJl0kqmimmAOYcezwbqxBXytJqfE7X3ZRJRnAFec416aOv0JvnVe4fNxR1325BDxub9wFROQ9SBAUa3wxv5vAh3IYAAEOBDgY+qEFs8L/9BljSHomsgbZh+vNgj29DlE6hvlnFNa5Mf4P3mBE2TISu0kk607RZLNNYRpB3z85Vgbv6E/ZYir4AdCGB0fvyiI3iiYeposMKtSzW8MT7fD6Rp4k3KOTOxhhl5/xOyF7Yhto6g1NoBzXDiqVcojrrrXWHLGcEuGDAxGHZtl15WJESgpXR172ZFOWKqbb+AL4Qp6I8zX0OmUdLRF0Pcnn78FDXP6yUJlvELoumhjencwrZmZlaPf+Abc/NpJJ8ITEqP6luXm+kCZqZCHmVcFkOaa1oUUcKAo07m4olVwWMcqQ==;BcIxIds1DRw4fDcCVNiEQw=="
 ---
 
