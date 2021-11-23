@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-23-can-a-machine-learning-model-tame-your-cloud-costs.md",
+      "title": "Can a Machine Learning model tame your cloud costs?",
+      "excerpt": "There are plenty of third-party services that promise to babysit your cloud footprints to keep your monthly bills in check. But each year, when we hit the expo floor in Vegas, we've wondered when somebody would come up with a solution for training a machine learning model on the job to perform the job more systematically.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "originalUrl": "https://www.zdnet.com/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5ccc61ecbef222f8da0a071eb63be2a750ac28cb/2021/11/23/b468fe8a-dc17-4d2f-af02-3d46acdea242/cloud-data-center.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "publishedDateTime": "2021-11-23T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-fda-joins-other-regulators-in-focus-on-ai-and-machine-learning.md",
       "title": "FDA Joins Other Regulators in Focus on AI and Machine Learning",
       "excerpt": "The Food and Drug Administration recently sought comments on the role of transparency for artificial intelligence and machine learning-enabled medical devices. The FDA invited comments in follow up to",
@@ -1378,59 +1430,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-university-of-washington-study-deep-learning-reveals-3d-models-of-protein-machines.md",
-      "title": "University of Washington study: Deep learning reveals 3D models of protein machines",
-      "excerpt": "A new study peers into the structure of hundreds of protein complexes, tiny machines in cells that control everything from energy use to DNA replication. Researchers at the University of",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
-      "originalUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-11-at-10.40.14-AM-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/",
-      "publishedDateTime": "2021-11-11T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

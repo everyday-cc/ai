@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 1214
         isCached: true
-  - title: "Comet Raises $50M in Series B Funding"
-    excerpt: "Comet, a NYC-based provider of the development platform for enterprise machine learning (ML) teams, raised $50m in Series B funding"
-    publishedDateTime: 2021-11-18T22:08:00Z
-    webUrl: "https://www.finsmes.com/2021/11/comet-raises-50m-in-series-b-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/Comet_Model_Production_Monitoring1.jpg"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "AI-powered music platform Aimi raises $20m in Series B funding round"
     excerpt: "AI-Powered Music Platform Aimi has raised $20 million in a Series B round of funding. The fund raise was led by entertainment and media-focused investment firm Great Mountain Partners, which also holds what it says is “a significant stake” in Concord."
     publishedDateTime: 2021-11-22T11:42:00Z

@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Comet Raises $50M in Series B Funding"
-    excerpt: "Comet, a NYC-based provider of the development platform for enterprise machine learning (ML) teams, raised $50m in Series B funding"
-    publishedDateTime: 2021-11-18T22:08:00Z
-    webUrl: "https://www.finsmes.com/2021/11/comet-raises-50m-in-series-b-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/Comet_Model_Production_Monitoring1.jpg"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Helm.ai Raises $26M in Series B Funding"
     excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
     publishedDateTime: 2021-11-20T12:55:00Z

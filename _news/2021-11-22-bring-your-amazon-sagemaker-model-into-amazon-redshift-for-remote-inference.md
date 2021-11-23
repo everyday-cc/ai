@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-amazon-sa
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-your-amazon-sagemaker-model-into-amazon-redshift-for-remote-inference/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Chain custom Amazon SageMaker Ground Truth jobs for image processing"
-    excerpt: "Amazon SageMaker Ground Truth supports many different types of labeling jobs, including several image-based labeling workflows like image-level labels, bounding box-specific labels, or pixel-level labeling. For situations not covered by these standard approaches, Ground Truth also supports custom image-based"
-    publishedDateTime: 2021-11-18T22:27:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/chain-custom-amazon-sagemaker-ground-truth-jobs-for-image-processing/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
 
 secured: "eyWAtX2jMaU31g0u8wopiIPH0V99VX89L19zsqIvZa7qoJO5QLAhsAfrpcUGJPTDWgJnAFzVFvXq4gQERwHVZlRqYJgT7zH2w4JoDlU63cIT8mU5MXhJ2/LKSK8EM+Dr9yO/bGUCjBqPxCK0r4jrliVWmFG3thgAcmNuKFZeFNxuI5yA9+BtMJ8MdLcqa7GHlijBBuAbQJgN3H1WkQ5v9dpT67F34O5uavSVMJIL50b1Iiquf/KMlQLLh9yveT5uTJXkX65dlyUE8PdS8kH2wcbDUuFEbr4vFt2KjaxKvrZdrsTq/wyXVALkYE6zRg7BHTkLAFB8+0g3UhVRwUV/6zqof2MB6tn5+dnEBrdtYYk=;NAqZt6wMeUh1U1Do1AWi9g=="
 ---

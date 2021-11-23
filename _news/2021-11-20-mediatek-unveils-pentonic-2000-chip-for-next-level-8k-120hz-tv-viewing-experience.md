@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1"
 type: article
 quality: 84
-heat: 114
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,52 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek's Pentonic 2000 is the world's first 7nm TV chip, decodes 8K@120Hz"
+    excerpt: "After announcing its flagship Dimensity 9000 SoC for smartphones, the company is now announcing its flagship TV chipset - the Pentonic 2000. And it appears that this silicon is the world's first in many aspects."
+    publishedDateTime: 2021-11-21T05:44:00Z
+    webUrl: "https://www.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-news-51935.php"
+    ampWebUrl: "https://m.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-amp-51935.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/mediateks_pentonic_2000_is_the_worlds_first_7nm_tv_chip_decodes_8k120hz-amp-51935.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 57
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/21/11/mediatek-pentonic-2000-offic/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
+        isCached: true
+  - title: "MediaTek's unveils Pentonic 2000, World's first 7nm TV chip, decodes 8K@120Hz"
+    excerpt: "Following the release of its flagship Dimensity 9000 SoC for smartphones, the company is now releasing its flagship TV chipset, the Pentonic 2000."
+    publishedDateTime: 2021-11-21T08:28:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 56
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/ampfront/public/alia_neetu_jug_jugg_jeeyo_main.jpg?itok=QSHfsmA_"
+        width: 375
+        height: 240
+        isCached: true
+  - title: "MediaTek unveils first 7 nm 8 K TV chip"
+    excerpt: "MediaTek has introduced what it claims is the world’s first 7 nm 8 K digital TV system-on-chip (SoC) build using Taiwan Semiconductor Manufacturing Corp.’s (TSMC's) manufacturing process. Called the Pentonic 2000,"
+    publishedDateTime: 2021-11-23T13:19:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17454/mediatek-unveils-first-7-nm-8-k-tv-chip"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/454/17454/penonic_2000.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "MediaTek and TSMC Unveil the World's First 7nm 8K Resolution Digital TV System-on-Chip"
     excerpt: "MediaTek and TSMC today unveiled the world’s first 7-nanometer 8K digital TV flagship system-on-chip (SoC), the MediaTek Pentonic 2000. Built with TSMC’s N7 advanced process technology, the MediaTek Pentonic 2000 offers unparalleled performance and power efficiency with features including powerful artificial intelligence (AI) engines,"
     publishedDateTime: 2021-11-22T12:29:00Z

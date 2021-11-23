@@ -2,6 +2,379 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-10-27-intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu.md",
+      "title": "Intel partners with Google to deploy ‘Mount Evans’ ASIC-based GPU",
+      "excerpt": "Intel has announced that it partnered with Google to deploy the chipmaker's IPU across Google Cloud infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
+      "originalUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1208499003-e1631641886627.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/intel-partners-with-google-to-deploy-mount-evans-asic-based-gpu/amp/",
+      "publishedDateTime": "2021-10-27T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster.md",
+      "title": "Mux Partner Program Launches to Help Companies Bring Modern Video Experiences to Market Faster",
+      "excerpt": "SAN FRANCISCO, Oct. 27, 2021 /PRNewswire/ -- Mux, the leading video platform for developers, today announced the Mux Partner Program to help new and existing customers quickly build and launch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster-301409656.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster-301409656.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1611559/Mux_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-abacusai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases.md",
+      "title": "Abacus.ai snags $50M Series C as it expands into computer vision use cases",
+      "excerpt": "Abacus.ai wants to build an AI platform that simplifies machine learning model creation, while still leaving room for power users. Today the company announced a $50 million Series C. At the same time,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
+      "originalUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-imsev208-063.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/abacus-ai-snags-50m-series-c-as-it-expands-into-computer-vision-use-cases/amp/",
+      "publishedDateTime": "2021-10-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-intel-challenges-amd-and-nvidia-with-new-ai-technologies-amid-renewed-developer-commitments.md",
+      "title": "Intel Challenges AMD And NVIDIA With New AI Technologies Amid Renewed Developer Commitments",
+      "excerpt": "Intel renews AI Technologies with Sapphire Rapids CPU and Ponte Vecchio GPUs. But can they do better than AMD and NVIDIA?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178729f3f1896228c1e3a3e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2687%26cropY1%3D0%26cropY2%3D1512",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
+      "publishedDateTime": "2021-10-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022.md",
+      "title": "Self-driving company Cruise on track for early commercial operations in 2022",
+      "excerpt": "General Motors CEO Mary Barra is “pretty confident” that the driver will be out of Cruise vehicles by 2022, as the company looks to enter early commercial operations for autonomous robotaxi and delivery services.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/",
+      "originalUrl": "https://techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Cruise-car-in-San-Francisco-streets.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/27/self-driving-company-cruise-on-track-for-early-commercial-operations-in-2022/amp/",
+      "publishedDateTime": "2021-10-27T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-scientists-are-working-on-an-ai-to-let-us-talk-to-whales.md",
+      "title": "Scientists Are Working on an AI to Let Us Talk to Whales",
+      "excerpt": "An interdisciplinary team of scientists have launched a project with the goal of decoding and potentially communicating with sperm whales.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/scientists-ai-whale-language",
+      "originalUrl": "https://futurism.com/the-byte/scientists-ai-whale-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/10/decode-whale-language-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/scientists-ai-whale-language/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-whale-language/amp",
+      "publishedDateTime": "2021-10-27T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-intuition-robotics-named-in-fast-companys-first-annual-list-of-brands-that-matter.md",
+      "title": "Intuition Robotics Named in Fast Company's First Annual List of \"Brands That Matter\"",
+      "excerpt": "New recognition program honors companies and nonprofits that give people compelling reasons to care about them, and offer inspiration for others to buy in",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/prnewswire/2021/10/27/intuition-robotics-named-fast-companys-first-annual-list-brands-that-matter/",
+      "originalUrl": "https://www.wowt.com/prnewswire/2021/10/27/intuition-robotics-named-fast-companys-first-annual-list-brands-that-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT.com",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-good-machine-learning-practice-for-medical-device-development-guiding-principles.md",
+      "title": "Good Machine Learning Practice for Medical Device Development: Guiding Principles",
+      "excerpt": "The U.S. Food and Drug Administration (FDA ... the development of Good Machine Learning Practice (GMLP). These guiding principles will help promote safe, effective, and high-quality medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
+      "originalUrl": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Center for Food Safety and Applied Nutrition",
+        "domain": "fda.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-robot-taxi-boats-take-to-the-water-in-amsterdam.md",
       "title": "Robot taxi boats take to the water in Amsterdam",
       "excerpt": "The self-driving boat, dubbed Roboat III, is the creation of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the Senseable City Laboratory, and the Amsterdam Institute for Advanced Metropolitan Solutions.",
@@ -827,377 +1200,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-kontron-launches-a-new-35-single-board-computer-to-help-developers-build-an-ai-enabled-system.md",
-      "title": "Kontron Launches A New 3.5\" Single Board Computer To Help Developers Build An AI-enabled System",
-      "excerpt": "Kontron, a leading global provider of IoT / Embedded Computing Technology, launches a new 3.5\" single board computer, named 3.5\"-SBC-TGL, powered by 11th Generation Intel® Core™ U-Series processors (Tiger Lake UP3),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-kontron-launches-new-35-single-board-computer-help-/2021/10/27/9478289.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-kontron-launches-new-35-single-board-computer-help-/2021/10/27/9478289.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1668800/3_5_sbc_tgl.jpg",
-          "width": 400,
-          "height": 244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-microsoft-powers-transformation-at-nvidia-gtc-fallgpu-technology-conference.md",
-      "title": "Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference",
-      "excerpt": "This year during NVIDIA GTC 21, we’re spotlighting some of the most transformational applications powered by NVIDIA accelerated computing that highlights our commitment to edge, on-premises, and cloud computing. Registration is free, so sign up to learn how Microsoft is powering transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T02:00:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-qualcomm-unveils-new-snapdragon-700-600-and-400-series-chips-for-affordable-5g-phones.md",
-      "title": "Qualcomm Unveils New Snapdragon 700, 600, and 400-Series Chips for Affordable 5G Phones",
-      "excerpt": "Global chipmaker Qualcomm has introduced four new Snapdragon chipsets under its 700, 600, and 400-series SoC. Check them out here.",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/qualcomm-snapdragon-700-600-and-400-series-chips-affordable-5g-phones/",
-      "originalUrl": "https://beebom.com/qualcomm-snapdragon-700-600-and-400-series-chips-affordable-5g-phones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2021/10/Qualcomm-unveils-new-chipsets-feat.-min.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/qualcomm-snapdragon-700-600-and-400-series-chips-affordable-5g-phones/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/qualcomm-snapdragon-700-600-and-400-series-chips-affordable-5g-phones/amp/",
-      "publishedDateTime": "2021-10-26T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-facial-recognition-market-size-2021-outlook-opportunity-and-demand-analysis-report-by-2026.md",
-      "title": "Facial Recognition Market Size 2021 Outlook, Opportunity and Demand Analysis Report by 2026",
-      "excerpt": "Facial Recognition Market size is set to surpass USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. All the major mobile phone companies including Samsung, Apple,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-outlook-opportunity-and-demand-analysis-report-by-2026-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-outlook-opportunity-and-demand-analysis-report-by-2026-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-gpu-market-size-2021-industry-analysis-size-share-growth-by-2024.md",
-      "title": "GPU Market Size 2021: Industry Analysis, Size, Share, Growth by 2024",
-      "excerpt": "The overall GPU Market Size is projected to surpass $80 billion mark by 2024, according to a report by Global Market Insights, Inc. The accelerated adoption of AI & IoT technologies across a plethora of industrial sectors is expected to turn graphic processing unit (GPU) market into an extremely lucrative investment ground over the forthcoming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-size-2021-industry-analysis-size-share-growth-by-2024-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-market-size-2021-industry-analysis-size-share-growth-by-2024-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales.md",
-      "title": "Report: 81% of online retailers increase AI budget to boost holiday sales",
-      "excerpt": "AI is becoming an essential tool in ecommerce, used to enable targeted campaigns and improve supply chain management.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-6228-000619-e1634748179549.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/amp/",
-      "publishedDateTime": "2021-10-26T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-the-future-of-workspaces-is-flexible-secure-and-collaborative-20-quotes-of-the-week-on-digital-transformation.md",
-      "title": "‘The future of workspaces is flexible, secure, and collaborative’ – 20 quotes of the week on digital transformation",
-      "excerpt": "Innovation can be greatly accelerated with AI capabilities that are on par with those of humans in areas such as object recognition, speech recognition, reading comprehension, and language ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
-      "originalUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/ving-hybrid-1635242078838.png ",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
-      "publishedDateTime": "2021-10-26T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network.md",
-      "title": "Insurtech: AI enhanced Platform Arturo Joins Amazon Web Services Partner Network",
-      "excerpt": "an artificial intelligence-powered platform that derives property insights and predictive analytics from aerial and satellite imagery, announced that it has joined the Amazon Web Services (AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182127-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network/amp/",
-      "publishedDateTime": "2021-10-26T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,9 +2,9 @@
 category: news
 title: "Globally Awarded AI Startup Receives USD 1.4 Million In Seed Funding"
 excerpt: "Globally awarded Croatian AI startup Mindsmiths received USD 1.4 million in seed funding from Feelsgood investment fund which"
-publishedDateTime: 2021-11-23T09:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-812201362.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-812201362.html"
+publishedDateTime: 2021-11-23T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-301429571.html"
+webUrl: "https://www.prnewswire.com/news-releases/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-301429571.html"
 type: article
 quality: 37
 heat: 37
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - AI
@@ -39,6 +39,6 @@ related:
         height: 450
         isCached: true
 
-secured: "wTghw7yOgH4PB4zf45awXP+V31xQdsMdMwJHvpK3HyjiAc/4JOYw4V5rtf4FVCJSdv1gv45UzLgPm5O1IfG/My17hh8vL8luVGCqf2K7ZZvg35FREWDWHIKm5ZzS/ATsPns5JWpUQUou88DCndVqUO98Aib4PtzzaYwdfdyBqYvZivvYdIArw+U271oPWgk/ZQz7+bEBP4ZVBppQLfbzTu7El9DzeoRHUjxDs79s1HE7688foWgFSt6qDWtcHNjcC2dO2p1IQhj/JwM5hTVL0toYEp1iwxwLnafZY28oPdWPiD0PKvfeU2taJsK1tOVPlQ8OIK5r5UsPmh4XGLwYuUWsd6mxy0y85ysCzJoSfMScDK7lw423mkNMtA615HprimXbl3M9bhsWChkauxWbyiWdfPnQcRbi6axpPHOxegTEBtMAEaPNcFqxzoZr1JmBc+kONhsVUTxcmWAGXtdfAbVNoVmNznAYAEBrJuiJOWhbq/RpACuCcgmEIQ27v30U1adQP8FQ5m5QDsOvjFUgkw==;XjZL22E3aQYKGAmE8ckyzg=="
+secured: "7BEzBT1i9ggypKK+KK115LBGJ4lLao/xnvQY/dCTqR1VKJA7kyrh/DaF4esT5KMGvZR+GKsrOfwFwwhHde9EvZ7Y+7QnXcEoAdTw60UVpQBpKjifbPQt8KpIGczMb8tXzoHyKmYo3C/QKs+Itku4PsBpvwIrn9C+aShy9ysJsfBwXVmGRt+5St8YiPsroGu73oWt4BTaY/QN1numWe0iit5i/MZpGV5VYGAy905PuKDWfCeXZ0nYrJqNRQsHPyEsIk+CdityB4rQ35UUOUVqmGf+gNMhEwW6ZQRPni3cOOdGGClxedyTdXZVT7lvq+V2s+XruevTyBQO57ELpzhlCpvPcsydAKKLe3dPzdk/d2c=;vcsBgiJyi2dZO8B4AWbRmA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103223337/The-Modular-Analytics-Company-Raises
 webUrl: "https://menafn.com/1103223337/The-Modular-Analytics-Company-Raises-c15-Million-to-Become-Market-leading-AI-Company-in-Manchester-and-the-Midlands"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 972
     height: 972
     isCached: true
-
-related:
-  - title: "Artificial intelligence-driven video analytics makes banking safer"
-    excerpt: "Artificial intelligence-based solutions can optimize operations and crowd management inside branches while regular CCTVs fail to live up to the mark"
-    publishedDateTime: 2021-11-22T05:19:00Z
-    webUrl: "https://www.ciol.com/artificial-intelligence-driven-video/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 17
 
 secured: "usrALQmkfmAP83NITLriXBzsPDhfHs8OuND+BasX1YWhpAHiKOwjoz/wY7QTrKYtJbT8/hWQ37J+KGDYLXRVPAaOorQGI1nJMIAscSiBliMZnJTMnvX8AhQJKdwePyo4LgHNjtiLIX23nlevXySSwiQJzhoLuZBfwoSqcKn9IX+mDPXATVfX2b1k8iIyR4zyzNFIgsQD3ElV3blg5Ws1bjthwlnDZDcsrxrBwp71EKETYzwGrVAbCZ6qXUuPGrJwrGjKjGu5bE0X0h3PXQGd9JjofIfJZkn4lY44Z8xrG0h6fg/FK4AqkMPFkvQ7Y2sHnL7/taHKads5G646uS77/e5COCuHgL0pDe7bfUGByJE=;cJZtb5NAq1Fl1GYf6F9ORA=="
 ---

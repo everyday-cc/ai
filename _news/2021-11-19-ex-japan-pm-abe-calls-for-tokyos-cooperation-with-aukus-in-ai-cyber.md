@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/world/articles/2021-11-18/ex-japan-pm-
 webUrl: "https://www.usnews.com/news/world/articles/2021-11-18/ex-japan-pm-abe-calls-for-tokyos-cooperation-with-aukus-in-ai-cyber"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Japan should work with Aukus on cybersecurity and AI, says Shinzo Abe"
-    excerpt: "Former Japanese PM welcomed the creation of Aukus in the midst of an ‘increasingly severe’ security environment"
-    publishedDateTime: 2021-11-19T04:14:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/57a0056f52d055439a96dbad78e22f0ec638bc3d/0_0_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=c676b80163e10b65a679bcc75b5cf400"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "vXpB1JOhnVvjGLUyT6TZN96Mlq1g6/c/FunTzJ6mcRH/4CSoh8BkvSVMPKNqaUTPF4wYE/MJKk1/mUS3ZECYazHrHCGPy5Mu4BNKN6zni95Dte4yFRVMx6aOCEtqv/PyxmGd/ytfb+xJQ99Zk3fzeMydUUbuWCXdrJkLN80a2BtmZ3zGXubiA/StUfL/Otx/LWEIFfr/5F5sJRVj8a5VvZvqhTBLOFI9lKDKg7mU34sOgtYprGSestCc3lIKCIwTGRB0njrYCFJz7A/c1RNwkvnuO4ELe7k9d08WKNodNCQAIIQ09NWB86dv/zyQsq7R4UeB4MWed7U1PzFA6OiuVzU6Mxg0hbN0BpAfRIFOJqA3WWUKlTvDSHB2TgNtMQ6Ol/UODrdnYh0pSVUC0lDS4kF5FZykSoj7Ss4yDBXeYWd9DAXd242KbcyKo6aL75miSkwtnXYg/sqk19DCAKhROU2tUptHWLXcWYX4CzA3C4n+hS8STwbdK2nz98NjUV0+H44B0VRwilfMH5avWL0enw==;RBr7IjeNzDRWwKP6eKPEwg=="
 ---

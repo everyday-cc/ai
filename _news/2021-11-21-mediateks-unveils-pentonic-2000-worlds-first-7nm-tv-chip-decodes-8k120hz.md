@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek leaps into flagship phones with cutting-edge 4nm Dimensity 9000 chip"
-    excerpt: "The Dimensity 9000 is MediaTek's first true flagship phone processor, and the world's first built using a 4nm process. The company talked to us about it."
-    publishedDateTime: 2021-11-18T22:00:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/"
-    ampWebUrl: "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp"
+  - title: "MediaTek unveils Pentonic 2000 chip for next-level 8K 120Hz TV viewing experience"
+    excerpt: "MediaTek today lifted the curtains on its new Pentonic smart TV family of processors with the introduction of the Pentonic 2000 chip."
+    publishedDateTime: 2021-11-20T09:52:00Z
+    webUrl: "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/"
+    ampWebUrl: "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 86
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
     images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/mediatek-dimensity-9000.jpg"
-        width: 1510
-        height: 1000
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Pentonic-2000-chipset-for-Smart-TV-featured-image.jpg"
+        width: 1200
+        height: 739
         isCached: true
   - title: "MediaTek's Pentonic 2000 is the world's first 7nm TV chip, decodes 8K@120Hz"
     excerpt: "After announcing its flagship Dimensity 9000 SoC for smartphones, the company is now announcing its flagship TV chipset - the Pentonic 2000. And it appears that this silicon is the world's first in many aspects."
@@ -59,47 +59,52 @@ related:
         width: 1220
         height: 526
         isCached: true
-  - title: "Dimensity 9000: American users are worried, they wont be able to use this chip"
-    excerpt: "MediaTek officially released the Dimensity 9000 flagship processor. This chip has been attracting a lot of attention because its theoretical specification"
-    publishedDateTime: 2021-11-21T20:13:00Z
-    webUrl: "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/"
-    ampWebUrl: "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/"
+  - title: "MediaTek unveils first 7 nm 8 K TV chip"
+    excerpt: "MediaTek has introduced what it claims is the world’s first 7 nm 8 K digital TV system-on-chip (SoC) build using Taiwan Semiconductor Manufacturing Corp.’s (TSMC's) manufacturing process. Called the Pentonic 2000,"
+    publishedDateTime: 2021-11-23T13:19:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17454/mediatek-unveils-first-7-nm-8-k-tv-chip"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 55
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://electronics360.globalspec.com/images/assets/454/17454/penonic_2000.jpg"
+        width: 752
+        height: 423
         isCached: true
-  - title: "MediaTek Dimensity 9000 Flagship Chipset Arrives to Rival High-End Snapdragon Chips"
-    excerpt: "MediaTek, at its 2021 Summit, has announced the new Dimensity 9000 flagship chip. It is the world's first TSMC chip that is based on the 4nm process,"
-    publishedDateTime: 2021-11-20T09:45:00Z
-    webUrl: "https://beebom.com/mediatek-dimensity-9000-flagship-chipset-arrives-to-rival-high-end-snapdragon-chips/"
-    ampWebUrl: "https://beebom.com/mediatek-dimensity-9000-flagship-chipset-arrives-to-rival-high-end-snapdragon-chips/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/mediatek-dimensity-9000-flagship-chipset-arrives-to-rival-high-end-snapdragon-chips/amp/"
+  - title: "MediaTek and TSMC Unveil the World's First 7nm 8K Resolution Digital TV System-on-Chip"
+    excerpt: "MediaTek and TSMC today unveiled the world’s first 7-nanometer 8K digital TV flagship system-on-chip (SoC), the MediaTek Pentonic 2000. Built with TSMC’s N7 advanced process technology, the MediaTek Pentonic 2000 offers unparalleled performance and power efficiency with features including powerful artificial intelligence (AI) engines,"
+    publishedDateTime: 2021-11-22T12:29:00Z
+    webUrl: "https://www.design-reuse.com/news/50991/mediatek-tsmc-7nm-8k-digital-tv-soc.html"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 53
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 31
     images:
-      - url: "https://beebom.com/wp-content/uploads/2021/11/mediatek-dimensity-9000.jpg"
-        width: 750
-        height: 500
+      - url: "https://www.design-reuse.com/news_img2/homepage50991/tsmc2b.jpg"
+        width: 1402
+        height: 704
         isCached: true
-  - title: "MediaTek Dimensity 9000: next-gen SoC with 5G, AI, and TSMC 4nm node"
-    excerpt: "MediaTek has just unveiled its new 5G-powered Dimensity 9000 SoC which features 8 cores of CPU power, an ARM Mali-G710 MC10 GPU, ray tracing abilities, 5G connectivity, and it's made on TSMC's new 4nm process node."
-    publishedDateTime: 2021-11-22T01:44:00Z
-    webUrl: "https://www.tweaktown.com/news/82877/mediatek-dimensity-9000-next-gen-soc-with-5g-ai-and-tsmc-4nm-node/index.html"
+  - title: "MediaTek, TSMC unveil first 7nm 8K digital TV system-on-chip"
+    excerpt: "MediaTek and TSMC have unveiled what they call the world's first 7-nanometer 8K digital TV flagship system-on-chip (SoC), the MediaTek Pentonic 2000. The MediaTek Pentonic 2000 features artificial intelligence (AI) engines,"
+    publishedDateTime: 2021-11-22T14:08:00Z
+    webUrl: "https://www.telecompaper.com/news/mediatek-tsmc-unveil-first-7nm-8k-digital-tv-system-on-chip--1405054"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
+  - title: "MediaTek and TSMC Unveil the World’s First 7nm 8K Digital TV System-on-Chip"
+    excerpt: "November 22, 2021 - MediaTek (TWSE: 2454) and TSMC (TWSE: 2330, NYSE: TSM) today unveiled the world's first 7-nanometer 8K digital TV flagship system-on-chip (SoC), the MediaTek Pentonic 2000. Built with TSMC's N7 advanced process technology,"
+    publishedDateTime: 2021-11-22T07:59:00Z
+    webUrl: "https://www.publicnow.com/view/F80BC1F80A7206022B654EAE2DBE7F627CA97614"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
 secured: "/hutPhyev7pScP4EhVWT9+M2CgZfOt+79wewAN94dQByoA8ac4bdYBHZ+/R1BN7Dv4wB/U9mCsWh+6arPRuomWAxfORmW9D5ekLpIP1DeYIYgI5HCwJktO3fHjZlZT1G28Pnq64vMY6/v3cKCekVZdDZLbtNIJrdyjqi4Hv7zN55IHb28rZKMBOxkNsG9I/Ou444O4MUbidK093UmAt4QGUHZJfsgjoXrw4Orp26+Bcx4U/x16kKiCPaS/07qMr6R8xrRBmmcp9seUqD0Sycwtug9aJGXNWf9Qagdy6HJqe24YcUIZ+zxG+Q6harXKnJ3fo18ekv2IW0ywMr74KqAmoEmq+CZuIRqNBWyw2F4kk=;BB31QkoAaz9A90SQqbRzMg=="
 ---

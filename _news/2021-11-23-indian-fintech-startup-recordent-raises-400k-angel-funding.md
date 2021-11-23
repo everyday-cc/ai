@@ -34,15 +34,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "3 Fintech Stocks To Buy on Any Dip"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The Covid-19 pandemic has accelerated the broader adoption of financial"
-    publishedDateTime: 2021-11-23T11:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-to-buy-on-any-dip-1030997362"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Investment to drive growth and create jobs at fintech"
     excerpt: "A Belfast-based fintech is investing more than £2m with plans to grow exports and create 18 jobs. Datactics - a Queen's University Belfast (QUB) spinout - provides data quality applications to the financial services sector and central government,"
     publishedDateTime: 2021-11-23T10:59:00Z

@@ -40,15 +40,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Report: Apple could launch self-driving electric car in 2025"
-    excerpt: "Apple Inc. could bring its long-rumored electric car to market as soon as 2025 and with a “full self-driving system” onboard, Bloomberg reported today. The 2025 target launch date is said to represent an acceleration of Apple’s development roadmap."
-    publishedDateTime: 2021-11-18T21:53:00Z
-    webUrl: "https://siliconangle.com/2021/11/18/report-apple-launch-self-driving-electric-car-2025/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 4
 
 secured: "+onXSHrU47Vo+aDy4rHRgm8nIs1YbmQFWZVbRjVpK9r0AxLj0rgjWunP3E+YLnnBlbTL2Ze3zkcLmmJ6Gcf3Crh7PAs4dOsu+DkrIXA8g/zO0uU8r8L3reYZ2Rfmo3ijZkCpsnp7M1mBr0Jv1iHpiE/86l6p8ixtMxmD5Up3LrIEyGq/DoHcH7OpMtgZgD/ql4SJ1oRbCkMRXdWhqyejUEdwFOAsWNmNeyGcrekAq5WF2mKTTzihC/rRmTJ/2a/5z9gfz8P2VJVEOF42TsnwYdig0mP+yuEFAWjXw4OrqIZg6zO9qtmDqd8NSxfIwe3VS3PHn4QDU1F3K34Joz5t1AtX+32m4QZupaRC0ygce3nl45LK4NmeVETGQtwEQQm3Tgb0M6h6d5gvNSQskPGp8eaLOybpuPu74qwy0LC60pgSRreHdsTjquwwRATvlpcbrKAfxfG0ZlX+ixc2NoZxGJAEu2n2SpHj8TmCcSHqjBfsdC7mqarKBzHrGnI/w3WxO3+ZlQOZGh6YlhKa+Cmc9w==;U6MB5nkWiNE8Hu43IH9iNQ=="
 ---

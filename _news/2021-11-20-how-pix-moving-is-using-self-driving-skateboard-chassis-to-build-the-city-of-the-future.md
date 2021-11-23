@@ -59,20 +59,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Apple Plans Debut Of Self Driving Car For 2025"
-    excerpt: "A Bloomberg News report cites sources familiar with the matter saying that Apple plans the launch a self-driving car by 2025."
-    publishedDateTime: 2021-11-18T22:21:00Z
-    webUrl: "https://www.ibtimes.com/apple-plans-debut-self-driving-car-2025-3340876"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/11/10/epic-filed-the-lawsuit-to-break-apples-grip.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Self-Driving Apple Car Could Finally Roll Off The Lot In 2025 Sans Steering Wheel Or Pedals"
     excerpt: "Apple is aiming to produce self-driving cars by 2025 that could debut without a steering wheel or pedals. It seems the company has finally settled on creating an automobile that will not require any human intervention."
     publishedDateTime: 2021-11-19T16:07:00Z
@@ -132,6 +118,20 @@ related:
       - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
         width: 1490
         height: 990
+        isCached: true
+  - title: "Yandex Self-Driving Cars Rely On In-House Sensor to See the Road"
+    excerpt: "The self-driving company founded by Russian technology giant Yandex NV said Tuesday its new generation of vehicles will rely on sensors developed in-house to better see the road in the country's often harsh driving conditions."
+    publishedDateTime: 2021-11-23T14:16:00Z
+    webUrl: "https://www.bloombergquint.com/business/yandex-has-developed-its-own-lidar-for-self-driving-cars"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idGB5ffNLTgE/v4/560x-1.jpg"
+        width: 560
+        height: 373
         isCached: true
 
 secured: "kHL6znSQ2i4SHss3IASV84E6O/2s/6y5uAUOBFDKK2r/Z751GdOvdb7YsEFDAHnVAicS8L48892m6BgkzIKBsnW3ItyKt25nKXudN64zNsW5ZwoY+QxZYPkSXOwyytdJORvjcRVPlg+WGzlOlW3RP7fB1ZF9ynV5OircvX2LdOMJSz1361/0l9BjQhwZZprtoIC4syEKt9RQVWDyyx3L0g4SZi8AZqiI8FKYoYjNRxFpwJbvoeU+/xO1H6YofFWbMvoJQZeungm74tEzuObAdRII25FGq/UxjWfTQanf5aEephAQHOkmYyFczROp3wko9f2TXp3V6jIuarCrKZgdDva34Jmjh+5a9wJlOsxKpzxH28KycOnyn9W5CDxZM41QV2HzrrVH7OEftyWv3kI73uTZsYiQHeudA9vsNvFaECmSyVJY5rDR7XISg2ZwVQ7h4k0FTyaMRaJfS5HzTyfhzxoK7OzaaZaJ64CZIhgElcf1zE5Os9kjfOQaLL3D6HFrdUoW2CNuhuuNik+7cvMuwg==;YjIFvi4YBHKbjUBJ2D8pDA=="

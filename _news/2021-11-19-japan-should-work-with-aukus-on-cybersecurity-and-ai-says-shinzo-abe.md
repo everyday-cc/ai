@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2021/nov/19/japan-should-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2021/nov/19/japan-should-work-with-aukus-on-cybersecurity-and-ai-says-shinzo-abe"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -30,15 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Japan PM Abe Calls for Tokyo's Cooperation With AUKUS in AI, Cyber"
-    excerpt: "Former Japanese premier Shinzo Abe, who remains influential in the ruling party, said on Friday Japan should cooperate with the AUKUS security partners the United States, Britain and Australia on artificial intelligence and cyber capabilities."
-    publishedDateTime: 2021-11-19T03:40:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-11-18/ex-japan-pm-abe-calls-for-tokyos-cooperation-with-aukus-in-ai-cyber"
+  - title: "Top Healthcare Cybersecurity Challenges, How to Overcome Them"
+    excerpt: "With a multitude of critical data and patient safety hanging in the balance, there is a unique set of healthcare cybersecurity challenges that must be carefully considered."
+    publishedDateTime: 2021-11-23T13:30:00Z
+    webUrl: "https://healthitsecurity.com/features/top-healthcare-cybersecurity-challenges-how-to-overcome-them"
+    ampWebUrl: "https://healthitsecurity.com/features/amp/top-healthcare-cybersecurity-challenges-how-to-overcome-them"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/top-healthcare-cybersecurity-challenges-how-to-overcome-them"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 59
+    images:
+      - url: "https://healthitsecurity.com/images/site/features/2019-12-20-GettyImages-1058262630.png"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "FVqZqdA7gbQ2zaMyKT1qDLyrs3YzenDKkgn+qY/spXEADptq2AKdDES5zHoq/mdSOKhEmI2/idir8J8/jzML01ajGld4a2vK+jX7DzOIowUvLkg3xsOBy/m7OiIp/rf8yOqrizxVArhELwpyR2XBzUIfAWEfS2b55HKW8c72LZhTERK1ESoG3p7M4xWtHF9msuvfEC/CEQFWD59a8RWBJVf2wNUoz32l7PhKdf7zkxdhKniWlPxxmAaSIm/P3ZrHitc+sPfAEkg4JG5BXOr+C8ce6lKd9fk678Fo6L4VRWCcLVnyUF/Q/xoBxuV/ubb54vwvwMy4ErNDNmPjQvuTnzH4ErJJ1x7IgCrPj8X2Us4wsEGj7LrJgerdsZYFgtqBUtlQfkr7w+dEUSUC6Tu/ZjAf5IF2sIHurna1Cqvgu2m1Eq/mBIPQaodIpmccvKuppGcqnIuTYawWTwqOXDOegS0mURvMOo0buP651/jeZC+QumKWi4JtIqZtlyVsndcIacjKKFQbGa7qYoEicvDO4A==;ZaC/sADjEtRaifr6+DemNA=="
 ---

@@ -48,15 +48,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "3 Fintech Stocks To Buy on Any Dip"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The Covid-19 pandemic has accelerated the broader adoption of financial"
-    publishedDateTime: 2021-11-23T11:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-to-buy-on-any-dip-1030997362"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Investment to drive growth and create jobs at fintech"
     excerpt: "A Belfast-based fintech is investing more than £2m with plans to grow exports and create 18 jobs. Datactics - a Queen's University Belfast (QUB) spinout - provides data quality applications to the financial services sector and central government,"
     publishedDateTime: 2021-11-23T10:59:00Z
@@ -72,6 +63,6 @@ related:
         height: 466
         isCached: true
 
-secured: "uHziCuHiwh3tgnmF1PLi040j5Yua7J+FUZ/RhnDsqe8v7N4Bh3HR2S4yKOc1r4inNgxtFI+YDkGh9j6VOJdkRtJlwPrQFFPhzGy54vU1dEYzk8mOAFatdZeobhAytFhPCbTMr6+jMYpWO9e4Mx79C5Pxc82ddcujpo4WlN2v1hvDcOmHBcZcu4/W5QK9pu/7i4i88+KFLapkxaSPYSDhMT0CaniTQszOirjSsHv3funkUpDxx8dyWbQtUNOTdZCcxOJwMN3rzViLOK2olG/xpcPenAn0bGAIgYBQ1BirbsPANIJzHsrWNIqwluFa1lqcn1MVVH4FlrylMYJQBHtlHZu/tSeM1kViIe9ygxnsB8c=;jcnDprU879Bhdac09/cRSw=="
+secured: "NtVJvOa8eyGYRAqTIO3e8rpinARsyOWmtQwx6vQGvrIuo097/TC2x/IRN+OwElLSXoWSABaogBPhrcLX4+rlVqLTnObdOVEKH7f/btgEQcKIeqE+a5bKWxhjw14w83YWD+3yZ1X3CVKw2JB54ZikTMTrXypcqoaGkSkqykl3UzgwwyyhHyylKUzWDo2ltLAhEHnZfkIwLchENYA5dgvKgDSPGR2TzBqnF2hB/YeIDTZ7uqUvi+9/98X8m+OwUUQABntjH4/7VgDgf1leBJ41mGBN+YpGSp1+B6teBmSoeZbiiSdzxvFUzugHK1a7dFFSRYc0XozW5aX+9LxHGLYZm8g920P6N+r693lGSc/E232Gh4L+N3uU9i6H0uQKJp1Lo6gluWSWN4PZ0MjX2ePP7jt6fNwPnfKirtN6gMzkWrOsM9ThTKJ3U+vfL/utuqVfURFtGiqn72NrVrlX9xAezdM/EBSVHPu+dEL55zfEGZqzFLlvTTtidXkaF83Mky04wJMPfyDXxqHrX/bKBy9ipQ==;yII3FlzLt1M7HzMtNHcB/Q=="
 ---
 

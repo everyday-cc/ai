@@ -7,7 +7,7 @@ originalUrl: "https://missoulacurrent.com/government/2021/11/privacy-concerns-fa
 webUrl: "https://missoulacurrent.com/government/2021/11/privacy-concerns-facial/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1536
     height: 1024
     isCached: true
-
-related:
-  - title: "Privacy concerns prompt MT leg study of facial recognition technology"
-    excerpt: "Most Montanans probably do not know that when they go to get their driver’s license picture taken, it is entering a system that feeds into a larger database used by"
-    publishedDateTime: 2021-11-18T21:45:00Z
-    webUrl: "https://www.bozemandailychronicle.com/news/state/privacy-concerns-prompt-mt-leg-study-of-facial-recognition-technology/article_586d3ab3-f874-5627-8751-400db968af3a.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/d9969000-ede9-11e4-9d40-37211b15ad91.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7PSEE8B17XzJtY4AyEUWLTDDzb2J5rSnPG4lhcE4nAUqTgn4hAoDoRwVgJSkuOppaHfHymeCgaxY3/HPNztUK52WHSYAbp7elKUUwaONjwXXsZPkM1k2T9Ajpn9B+8wX8PiUSZX2mHbyGY/ofTNABVR8TQUWR5gof36NUmsX1IU+iaQErGYMZsQiX1V9bmWZsGgxndj/u/I/fp0KxYvo92ttMmBaXeMN+d4vNQhfEozKulsAQ6OEYFpd2pgkekG4UYCnyqHWsOouEfv2jOsWdmSf2RJ9c3yoCVjzRqaAf9mMMx0IjNvEE+BX2XtA+fXktPtDdF6d/18UlPVTGYVGS8ZMbZIxcmnlHf36OGigxAiBnRGKNeMjXJImayLvhEfqwnV5WPnHONO+S32dG0qXYb1WnqLG5ViqUeCpFcxpFdiA/yM/iLozjzNJGX9++ihLgWTBpwh4lmULXpbCfKk1fOIq3+fFDTx4b/YfxANouQcrfhZw+JPZpQhqLEo72LGscIpnGstmmlV1TDWPMvxuHg==;uuDYyzo9PlWPMoe5yjl+oQ=="
 ---

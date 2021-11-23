@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ITWeb
@@ -41,6 +41,15 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
+    excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
+    publishedDateTime: 2021-11-23T13:02:00Z
+    webUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
+    type: article
+    provider:
+      name: Kentucky New Era
+      domain: kentuckynewera.com
+    quality: 35
 
 secured: "5cde95o7wm0v013ZhRsBVp9NFZ+22dTTL6AwUyngIR5jm+o43XFLmkHp8+jUNkCiP8QYY+M1101OPR9mJ5KGLrJKJZ5Fh4yTG+ieBHoaO8sucNQk703o7SM9EOa01oYkjNEb45mKkA+Ktmit25SMLNa7V0QD0hL5tO+E40ypU/vNW7ImTB70q6qbXIGRaHrJ4lYMgGOcqnIGR6Uynm3HB+1wFcVsRdbLYYjByDa7AJjteuNCHRbqOlHtWU0LsNp6Xizd1XA3lVg9EeJtGXo4utT0+aP0bkDR36DSqxPR3WMqbfzM2QrdTIBpQFpbSaG/998NHkjzsf3Wnxq3X2oqYn3vZxPJmG9cLbg0u3O/NrjJyTCEQDd35cJBdb326bFPSGcnf7iTiWG7JKDJTWddCIIi8M4e5jtntHXqqTfAOikBkQ90VoFxRsJKNs98KoEMidJY9iwqFEy4XguMhZkB6RSDzto3XgFOOD+9GWxbPDqiY6jKHKu9hGKKsHEPZBnQGjEVU/7y3HRq4XlwicQ3nQ==;3oTrtX9hb2gXD1SW80XNiw=="
 ---

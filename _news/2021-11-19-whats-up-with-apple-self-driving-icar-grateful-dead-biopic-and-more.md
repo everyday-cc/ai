@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "Apple Plans Debut Of Self Driving Car For 2025"
-    excerpt: "A Bloomberg News report cites sources familiar with the matter saying that Apple plans the launch a self-driving car by 2025."
-    publishedDateTime: 2021-11-18T22:21:00Z
-    webUrl: "https://www.ibtimes.com/apple-plans-debut-self-driving-car-2025-3340876"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/11/10/epic-filed-the-lawsuit-to-break-apples-grip.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "How PIX Moving is Using Self-Driving Skateboard Chassis to Build the City of the Future"
     excerpt: "The benefits promised by self-driving cars are hard to ignore. Who doesn’t want less accidents, less congestion, and less pollution? Unfortunately, recent studies show those benefits may be a long way off as most drivers are not yet ready to trust a self-driving car."
     publishedDateTime: 2021-11-19T16:18:00Z
@@ -132,6 +118,20 @@ related:
       - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
         width: 1490
         height: 990
+        isCached: true
+  - title: "Yandex Self-Driving Cars Rely On In-House Sensor to See the Road"
+    excerpt: "The self-driving company founded by Russian technology giant Yandex NV said Tuesday its new generation of vehicles will rely on sensors developed in-house to better see the road in the country's often harsh driving conditions."
+    publishedDateTime: 2021-11-23T14:16:00Z
+    webUrl: "https://www.bloombergquint.com/business/yandex-has-developed-its-own-lidar-for-self-driving-cars"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idGB5ffNLTgE/v4/560x-1.jpg"
+        width: 560
+        height: 373
         isCached: true
 
 secured: "YE1B0G7PD192aBPRzbhBHv8HN5Is68tUjg9oI9u7IUCOgjMxFzUzC3eWn+YQToGeQzCynWxsmWrJaPuWxCsRc9Dy1TWZTLEfNkyIkZifio6k3AHMpBGVW1LPZQgsc/NSfm5405rTt8IMyI18O9pIAWcnM4U+0ma2xRt+ILIjkGBGmt1NjBImwA/CmYtaBnJP5dP1/kqmKuo9NnzxeHyjrBh0Nzg+9F4uugFZjTp6mPVsh2Y1z7y4V2eOYy9xIgO80Oiuv0vM/p+5FJCQwWzbIf4tQpVqvG7O2MvXXsydCTV8/hmEKktU+sVfBkYKi9a/nM/3deA0EvV1WDKh4cOUBZ/7b8iWEng9LKpFDOTHocA3NWwAWB5mEBMtxGBLmUSVhiKodlNxEvspvRpEf/Yfe5UGQMmcXXfGXPX6EEocQkhxjZak2teiwMCGnt42mZK96PcpORXwz+XcD/ZmAD2TNcI3KVMdw0g6YBNxtTazxWKLPxL4UWjU7OkGJFKXrPB7HOjf/f1x9RkdCAjTrH0Fpg==;jainA0enai/b1VYyraLhOQ=="

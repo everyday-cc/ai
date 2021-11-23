@@ -48,15 +48,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "3 Fintech Stocks To Buy on Any Dip"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The Covid-19 pandemic has accelerated the broader adoption of financial"
-    publishedDateTime: 2021-11-23T11:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-fintech-stocks-to-buy-on-any-dip-1030997362"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Local fintech startup GIMO bags $1.9 million in Seed+ round led by Integra Partners"
     excerpt: "GIMO, a Vietnam-based fintech startup offering on-demand payment firm for blue-collar workers, has secured $1.9 million in a Seed+ round."
     publishedDateTime: 2021-11-23T11:52:00Z

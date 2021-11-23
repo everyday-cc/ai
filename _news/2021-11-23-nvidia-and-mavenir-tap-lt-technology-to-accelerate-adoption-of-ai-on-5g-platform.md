@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The absurd beauty of hacking Nvidia's GauGAN 2 AI image machine"
-    excerpt: "Typing nonsense phrases into Nvidia's algorithm produces some fascinating \"errors,\" by times beautiful, by times wretched, in most cases fascinating."
-    publishedDateTime: 2021-11-22T18:32:00Z
-    webUrl: "https://www.zdnet.com/article/the-absurd-beauty-of-hacking-nvidias-gaugan-2-ai-image-machine/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-absurd-beauty-of-hacking-nvidias-gaugan-2-ai-image-machine/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-absurd-beauty-of-hacking-nvidias-gaugan-2-ai-image-machine/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3e885468188c045e4dd84aa7899b97241a7a79eb/2021/11/22/96c59f65-5b07-4d16-9335-38a95e9eb6da/zdnet-superb-reporting.png?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "NVIDIA’s new AI eats words, spits out photos and feels borderline magical"
     excerpt: "NVIDIA has as generative art system that uses AI to turn words into visually spectacular works of art. This isn’t the first time this sort of concept has been postulated, or even produced."
     publishedDateTime: 2021-11-23T02:33:00Z
@@ -72,22 +56,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/oceanrockes.jpg"
         width: 1440
         height: 810
-        isCached: true
-  - title: "NVIDIA Research unveils GauGAN2, a new AI art demo that generates scarily-accurate images from text"
-    excerpt: "NVIDIA showed off GauGAN, an AI-powered demo that generates images from sketches. NVIDIA has been training GauGAN since then, and the AI can now respond to semantics, generating images from"
-    publishedDateTime: 2021-11-22T17:39:00Z
-    webUrl: "https://www.dpreview.com/news/9101147300/nvidia-research-unveils-gaugan2-the-ai-art-demo-generates-images-from-text"
-    ampWebUrl: "https://m.dpreview.com/news/9101147300/nvidia-research-unveils-gaugan2-the-ai-art-demo-generates-images-from-text.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/9101147300/nvidia-research-unveils-gaugan2-the-ai-art-demo-generates-images-from-text.amp"
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 43
-    images:
-      - url: "https://1.img-dpreview.com/files/p/E~TS590x0~articles/9101147300/viewing-endless-tall-mountains-in-a-sunny-day_out.jpeg"
-        width: 590
-        height: 590
         isCached: true
 
 secured: "59OMh/J5pdkbPsuqDNhSHaaBCzMlYpJQqbctGINqCyxS3xMVx0BrKGfA8E5ojXyEGfTzAY4eyCQAujL8hlv4tlsF801GS2ChaIBhPUzQVdBt09o8Cog/zdfDPummVUjVmuyV3ymkmDaciOBa2JFVGyKpAN9ftefTLNnPzNMlRSEm3bZkDdZoveIonI4J/rXmc/vKxKETc33ldJAy/tSpotJ35FLJnDkjXVP3oGOZjR6CybucF5ejp+6B/EbJXSllVi6N09n7WDngpCITYpaD8D8Rq7dwwl5m7mEfTUSEOz73Nb9MFVb/telOl4VpLR9o+PD3b3xzrimlxDo274vc22xyoCzCK9UU6r0us6ft8e6XdKtQATJa4WvUAjucCD7uPgEAZaKsEbh7mRlYwGL60Uo3MRy11MG/xy5OQu21moBirjrNF/saQkSlpCmef+xb9bYEeHC+Rmm3piEnRxyq/i9J0T1Y4zflnwwiJ6Dj+EoQEYJx0GX1JBjdPNOfmWdqVvSTmeQwJS2BVlaaRkswYg==;cv7eG4uDz6vBk43/zG0BWg=="

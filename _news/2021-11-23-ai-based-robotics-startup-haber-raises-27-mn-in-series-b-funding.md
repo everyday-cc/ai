@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 1214
         isCached: true
-  - title: "Comet Raises $50M in Series B Funding"
-    excerpt: "Comet, a NYC-based provider of the development platform for enterprise machine learning (ML) teams, raised $50m in Series B funding"
-    publishedDateTime: 2021-11-18T22:08:00Z
-    webUrl: "https://www.finsmes.com/2021/11/comet-raises-50m-in-series-b-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/Comet_Model_Production_Monitoring1.jpg"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Helm.ai Raises $26M in Series B Funding"
     excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
     publishedDateTime: 2021-11-20T12:55:00Z
@@ -102,6 +88,6 @@ related:
         height: 864
         isCached: true
 
-secured: "2k2xCRlmngneroQxhWt/Z+ypmCzBzUv08+qs6J3wUi8Sd35vbrj/rwMA7JTvzwQoE8CHpL9x6xsKWzgtdzSzMG8LF9+1/K5VD2FcaSOKxybzItxtmQkFpZp/rgIyZRkNiQHWktij1zJ9XuYIVtfqDHp2JgFZaeV2c/Cf6Q6LcEor5ssIJ8Q7DszTODq0hF9WJArwUCsJiYGnjC1lePx0krYXp7F4Z0fKyZ4ZMDlwnn6PS3oPWr7Qg3W5uUXmg0YAMXOi72HetIz5FnkPv5TBWW5LhHJ2eMHi/1VjNjT5PBMfR5ac1YoQAuAvN2y+AWUP/+imp5BL9SkO8yhjLh8ftbW3hUnLT/sBzx4rmtzeKnE=;lnD/Y2FxW0uYACFPQ1wyWg=="
+secured: "oT8Dllv7RLSx+r3gsLetUk02PM2nKEMG7Iiq1U3wIwIniljG0opXUss6/b+wv3XoNHZ4JgbH9ME/MQ1pksy9+SC/VvnF3fhvazAbcaG+Z7TS9FqaKrWmCa0FNlu00VM5mCiTmbqZj8247ZAxhx+LiADsxqe26qJuntO4iORdViXNLWBIymlil7+uiPUrrTW/d1qROWyJ/oNj4ccbtvByvpRD3FnMeovJ8XYVLkTXLaPoWko0XFLOWO+hSRdyMOARiAVUIdJDRe703OgYKQuzIE2kWUtle8dj8ukjTuZGPT0kgYhmQYS6xEjiAXOstEOnQ9+FPmHuraFzRM2WuvgWjJyITgq0AC5DEKMx1PcpK/HEVyoV8BRoNYhKeiIcY16d2xLaPNizIVIoUAtq0jd/t/0uRKwMXbZp9Uhl5dpEoaW2oUATT8xFWJp5Q240SbOw+dgihwpfaIEWocxYih8kyNTDWInIsYHgSAhnCapk110+f+64R8i7nTAxazNIlQ/Xry//nIvKuvIDD8rQkoa42g==;l0eIYNRGHDtztBZBTrBuXw=="
 ---
 

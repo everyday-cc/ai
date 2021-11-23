@@ -8,8 +8,8 @@ webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/apollo-tyr
 ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/apollo-tyres-sets-the-way-to-make-factories-smarter-with-iot-and-machine-learning/87869046"
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/apollo-tyres-sets-the-way-to-make-factories-smarter-with-iot-and-machine-learning/87869046"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-87869046,imgsize-10774,width-1200,height-628,overlay-etcio/apollo-tyres-sets-the-way-to-make-factories-smarter-with-iot-and-machine-learning.jpg"
@@ -26,6 +27,22 @@ images:
     height: 628
     isCached: true
 
-secured: "wXR6qu2NtjkVpjoqP2B3biiuSY+ECkoDwsJooL5t2CkV85xVFlYy/fXIt78TNLGmHBoSVA1R/nI3CE8M73uxA5J7IeAkn2yrVRobbjPkB03fIzqJuxhFpwz7wKuvmDMpMqf1BCykP3kj16UDLjqweS9AtmiIGEa0nklr+clYvzXT3k/kiZCcpGyyYpbUbM6cl8NJKSZ67kEFIpXm8mdGftNyJTbN4X9YnXvHjhvbaogV+w3Nehbf/A4FNeHhFJS9MT4FgXINvsbCl6DImPkAWvwRV3KzkGuKhJNqdHljl7uT9lEgAG7+0CyLtI5vxP135pf23KR//MYj+Cd7y4gvBFUxZF2lLs4bGkmBPdGY8EI=;LJ3w4OJMCOv9uV2XAD9DAg=="
+related:
+  - title: "Apollo Tyres Collaborates With AWS To Make Factories Smarter"
+    excerpt: "Apollo Tyres also launched an automated tyre inspection program that checks for tyre defects using photos of the tyres."
+    publishedDateTime: 2021-11-23T13:27:00Z
+    webUrl: "https://analyticsindiamag.com/apollo-tyres-collaborates-with-aws-to-make-factories-smarter/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/DSC_6825.jpg"
+        width: 1972
+        height: 1312
+        isCached: true
+
+secured: "dssiRiT9uGGuFY5BSgKn1sh1rb+VGR1rNzwKeXOYDyA0w/skRj+xcn20bjFQHh2X1KbgjEi0baeBNU4MfYq7w1HRl1Zgd68CPRhXK3Ti8JbG+ETCJByjtQm2d6wyLmIxS+rY1yngyH4sKhF1oVi+dqXRSgOGXv6qxgVVv49nyII5p7ZIyCwZyZ1Mrw7FYogS0ELyNGnhzL/FFSHEHPrZc7kv5Tv2caa+Orv5+MXCfgLYF9dhSnWuzN3XetEPByvbQmdwEqFXI4OzVE1ekvXy0vezcZ0CIUQ+9zPIP7fXaj7X1xJ1BlONc5GsJryaSpLQnB/rrG8YJIalFBW+Mp50dXwbsaXUkRk+WViHrSazFBH86OPWtmhbUIdO2ovLTV7iH/pV5bj2zroOp86cpj6aWrJot0yhpo5qIllYsX/l6BZKk3b5RgaMfFuOglAMK0HDW4kth4m6CVJ7JC+tbvUT5KgVvUG5j0ztLFFLBYu7fX0//PAnHO4pgTDK/jslfXzBKTVo7P6LH6no+A9dYmy9BQ==;TuFG01Jj4mkMr5GIBHUp3w=="
 ---
 

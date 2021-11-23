@@ -2,6 +2,396 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-10-20-ai-meets-autonomous-vehicles-and-calls-for-ai-ethics-to-make-it-inclusive.md",
+      "title": "AI meets Autonomous Vehicles and calls for AI Ethics to make it Inclusive",
+      "excerpt": "I believe in Steve Job's advice to keep doing what we are passionate about and connect the dots later. I am excited to see how my passion for Autonomous Vehicles and my recent work with teaching Artificial Intelligence to Product and Business users is coming together now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-meets-autonomous-vehicles-calls-ethics-make-inclusive-sudha-jamthe",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-meets-autonomous-vehicles-calls-ethics-make-inclusive-sudha-jamthe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFmzzOHAWq63Q/article-cover_image-shrink_720_1280/0/1634712849105?e=1640822400&v=beta&t=__zTcIj5fTCXYt-VaP6qSFTRuMf_kKUf6XsUu-QOXfs",
+          "width": 1038,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.md",
+      "title": "Google Cloud tools aim to ease machine learning, cross-cloud analytics",
+      "excerpt": "GCP is offering new data and machine learning tools designed to clear up data inefficiencies and ease application development for enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/692337/google-cloud-tools-aim-ease-machine-learning-cross-cloud-analytics/",
+      "originalUrl": "https://www.reseller.co.nz/article/692337/google-cloud-tools-aim-ease-machine-learning-cross-cloud-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_15.jpg",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-debug-tf2-migrated-training-pipeline.md",
+      "title": "Debug TF2 Migrated Training Pipeline",
+      "excerpt": "One assumption is you have TF1.x code and trained models for comparison, and you want to build a TF2 model that achieves similar validation accuracy. This notebook does NOT cover debugging performance issues for training/inference speed or memory usage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/migration_debugging",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/migration_debugging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-convinced-your-dog-is-a-genius-scientists-want-to-hear-from-you.md",
+      "title": "Convinced Your Dog Is a Genius? Scientists Want To Hear From You",
+      "excerpt": "The 'Finding Rico' project is looking for gifted dogs all over the world to better understand canine intelligence and their capacity for learning human words",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531",
+      "originalUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/7ed387a19a8ae16ace7b83575d455501.jpg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531/amp",
+      "publishedDateTime": "2021-10-19T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-pixel-6-tensor-cpu-design-revolves-around-machine-learning.md",
+      "title": "Pixel 6 Tensor CPU design revolves around Machine Learning",
+      "excerpt": "This shouldn’t really come as much of a surprise. Google is arguably one of the kings of machine learning (ML) and AI, technologies that it relies on to make sense of all the data it",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/",
+      "originalUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/google-tensor-1.jpg",
+          "width": 1441,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/amp/",
+      "publishedDateTime": "2021-10-19T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-the-challenge-of-applying-ethics-to-ai.md",
+      "title": "The Challenge of Applying Ethics to AI",
+      "excerpt": "As digital technology plays a greater role in our day to day lives, the Venn diagram demonstrating the overlap between digital technologies and ethical decision-making has increasingly merged. In the age of artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/challenge-applying-ethics-ai-diane-gutiw-phd",
+      "originalUrl": "https://www.linkedin.com/pulse/challenge-applying-ethics-ai-diane-gutiw-phd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGx0wxEw6nnBA/article-cover_image-shrink_720_1280/0/1634691558427?e=1640217600&v=beta&t=XqY4VgSq1frwU371BVRM1hhLDBNXeK9wKqx2kfoqGsU",
+          "width": 721,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-inaugural-indy-autonomous-challenge-to-bring-shock-and-awe-to-brickyard.md",
+      "title": "Inaugural Indy Autonomous Challenge to Bring 'Shock and Awe' to Brickyard",
+      "excerpt": "Teams will program the cars to run laps around IMS using artificial intelligence ... it's not just about making a driverless car, or going around the Indianapolis Motor Speedway, it's about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/racing/more-racing/a38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "originalUrl": "https://www.autoweek.com/racing/more-racing/a38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/418-pd6-0642-min-1634674255.jpg?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoweek.com/racing/more-racing/amp38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/racing/more-racing/amp38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "publishedDateTime": "2021-10-19T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-does-the-future-of-robotics-lie-in-the-imagination.md",
+      "title": "Does The Future Of Robotics Lie In The Imagination?",
+      "excerpt": "But a mind-controlled robotic arm that doesn't require a brain implant could have been a stretch of the imagination even for Dr. Seuss. Don't miss the MD&M West conference and expo, February 7-9, 2017, in Anaheim, CA. Eight study participants at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "originalUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-meituan-raises-10-billion-for-self-driving-cars-drone-delivery.md",
       "title": "Meituan raises $10 billion for self-driving cars, drone delivery",
       "excerpt": "It said it plans to spend the money it raised on research and development of self-driving vehicles ... including Tencent and Baidu, were fined for failing to disclose takeovers or investments ...",
@@ -753,412 +1143,6 @@
         "AI Ethics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6.md",
-      "title": "With Tensor, Google bets on its own chip design for the Pixel 6",
-      "excerpt": "I’m not sure there’s ever been a phone we knew more about before its official launch than Google’s Pixel 6 and Pixel 6 Pro. But in a world of samey Android phones, Google made some interesting choices,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/",
-      "originalUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Screenshot-2021-10-19-100548.jpg?w=1024",
-          "width": 1024,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/amp/",
-      "publishedDateTime": "2021-10-19T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer.md",
-      "title": "Google's Tensor chip aims to make the Pixel 6 smarter and last longer",
-      "excerpt": "In an interview with CNET, Google executives talk about why they went through the trouble of building a chip for the newest Pixel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/9KBAW8InGVbWcaoh_mZAkq5ZeJQ=/1200x630/2021/10/17/57b1bbc8-52d9-484a-a190-1a411d6cf8f4/google-tensor-jpeg.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/",
-      "publishedDateTime": "2021-10-19T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-library-teen-workshop-studies-facial-recognition-technology.md",
-      "title": "Library teen workshop studies facial recognition technology",
-      "excerpt": "The workshop, \"Makeup vs. AI,\" will teach youth about facial recognition and how they are affected by makeup and masks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.longmontleader.com/local-news/library-teen-workshop-studies-facial-recognition-technology-4526832",
-      "originalUrl": "https://www.longmontleader.com/local-news/library-teen-workshop-studies-facial-recognition-technology-4526832",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/longmontleader/images/longmont-facilitiesservices/longmont-library-pre-opening-(1-of-5).jpg;w=1200;h=800;mode=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.longmontleader.com/amp/local-news/library-teen-workshop-studies-facial-recognition-technology-4526832",
-      "cdnAmpWebUrl": "https://www-longmontleader-com.cdn.ampproject.org/c/s/www.longmontleader.com/amp/local-news/library-teen-workshop-studies-facial-recognition-technology-4526832",
-      "publishedDateTime": "2021-10-19T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longmont Leader",
-        "domain": "longmontleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-announcing-the-orbit-dataset-advancing-real-world-few-shot-learning-using-teachable-object-recognition.md",
-      "title": "Announcing the ORBIT dataset: Advancing real-world few-shot learning using teachable object recognition",
-      "excerpt": "The post Announcing the ORBIT dataset: Advancing real-world few-shot learning using teachable object recognition appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/research/blog/announcing-the-orbit-dataset-advancing-real-world-few-shot-learning-using-teachable-object-recognition",
-      "originalUrl": "https://www.microsoft.com/en-us/research/blog/announcing-the-orbit-dataset-advancing-real-world-few-shot-learning-using-teachable-object-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2021/10/1200x627_Orbit_Blog_with_logo.png",
-          "width": 2500,
-          "height": 1307,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T09:39:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds.md",
-      "title": "Amazon SageMaker rated as top AI Service Cloud in analyst firm KuppingerCole’s evaluation of AI Service Clouds",
-      "excerpt": "As more European organizations move from experimentation to production for AI projects, the importance of running these projects on a scalable, secure, and cost-efficient platform becomes clear. Building AI solutions from scratch is often beyond the capabilities of many organizations, especially because",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T09:38:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model.md",
-      "title": "SambaNova Systems releases enterprise-grade GPT AI-powered language model",
-      "excerpt": "The company's latest offering allows organizations to launch their own customized language model in less than one month.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/",
-      "originalUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1271697775-e1634657414701.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/",
-      "publishedDateTime": "2021-10-19T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-hireds-ai-platform-released-its-2021-state-of-tech-salaries.md",
-      "title": "Hired’s AI Platform Released Its 2021 State Of Tech Salaries",
-      "excerpt": "The results disclose how the shift to remote work impacted tech salaries across different markets, roles and industries. The report provides insights on compensation, benefits and remote work trends in tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616ecd091976a1918a4d178e%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/amp/",
-      "publishedDateTime": "2021-10-19T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-instacart-buys-caper-ai-company-for-smart-grocery-carts.md",
-      "title": "Instacart buys Caper AI company for smart grocery carts",
-      "excerpt": "With the $350 million deal, Instacart looks to integrate smart cart tech into its app.  Instacart is buying Caper AI, makers of smart grocery carts, for $350 million in cash and stock. In a Tuesday release,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/smart-home/instacart-buys-caper-ai-company-for-smart-grocery-carts/",
-      "originalUrl": "https://www.cnet.com/home/smart-home/instacart-buys-caper-ai-company-for-smart-grocery-carts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/StHkeQvZ_riD0mjW9yQZ7GLm_TU=/1200x630/2021/01/21/0667012b-6963-4e27-81d7-1aa9ffa48b13/960x0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/instacart-buys-caper-ai-company-for-smart-grocery-carts/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/instacart-buys-caper-ai-company-for-smart-grocery-carts/",
-      "publishedDateTime": "2021-10-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

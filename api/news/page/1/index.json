@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-23-defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans.md",
+      "title": "Defining what’s ethical in artificial intelligence needs input from Africans",
+      "excerpt": "There is already a substantial body of research about ethics in AI. This highlights the importance of principles to ensure technologies do not simply worsen biases or even introduce new social harms.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans-171837",
+      "originalUrl": "https://theconversation.com/defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans-171837",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/431918/original/file-20211115-25-jk2xnt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=209&fit=crop",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans-171837",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans-171837",
+      "publishedDateTime": "2021-11-23T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-can-a-machine-learning-model-tame-your-cloud-costs.md",
+      "title": "Can a Machine Learning model tame your cloud costs?",
+      "excerpt": "There are plenty of third-party services that promise to babysit your cloud footprints to keep your monthly bills in check. But each year, when we hit the expo floor in Vegas, we've wondered when somebody would come up with a solution for training a machine learning model on the job to perform the job more systematically.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "originalUrl": "https://www.zdnet.com/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5ccc61ecbef222f8da0a071eb63be2a750ac28cb/2021/11/23/b468fe8a-dc17-4d2f-af02-3d46acdea242/cloud-data-center.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "publishedDateTime": "2021-11-23T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-1-disruptive-ai-stock-to-put-on-your-watchlist.md",
       "title": "1 Disruptive AI Stock To Put on Your Watchlist",
       "excerpt": "Docebo is bringing AI and modern technology to the learning management system (LMS) space, allowing businesses to quickly develop pieces of training. Creating training can be extremely time-consuming and difficult to develop and the results can be dull and boring for a subset of employees.",
@@ -113,7 +208,7 @@
       "originalUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -196,6 +291,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-keycorp-key-continues-fintech-buyouts-acquires-xup-payments.md",
+      "title": "KeyCorp (KEY) Continues Fintech Buyouts, Acquires XUP Payments",
+      "excerpt": "Continuing with its efforts to offer the best payment and banking services to clients, KeyCorp KEY has acquired a business-to-business (B2B) focused digital platform, XUP Payments. The XUP platform provides a seamless connection between merchants,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments",
+      "originalUrl": "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments?amp",
+      "publishedDateTime": "2021-11-23T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -337,7 +466,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/23/sama-tea-using-artificial-intelligence-ai-to-launch-a-new-brand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -388,7 +517,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -439,7 +568,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-amazon-sagemaker-model-into-amazon-redshift-for-remote-inference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -758,6 +887,48 @@
       ]
     },
     {
+      "path": "_news/2021-11-23-paint-me-a-picture-nvidia-research-shows-gaugan-ai-art-demo-now-responds-to-words.md",
+      "title": "‘Paint Me a Picture’: NVIDIA Research Shows GauGAN AI Art Demo Now Responds to Words",
+      "excerpt": "A picture worth a thousand words now takes just three or four words to create, thanks to GauGAN2, the latest version of NVIDIA Research's wildly popular AI painting demo. The deep learning model behind GauGAN allows anyone to channel their imagination into photorealistic masterpieces - and it's easier than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.nvidia.com/blog/2021/11/22/gaugan2-ai-art-demo/",
+      "originalUrl": "https://www.publicnow.com/view/AAC0B6DF22A2C0B9F33DD6624F69AA6415F7FE4F",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2021/11/gaugan2-corp-blog-128-adaptive-1280x680-1-672x381.gif",
+          "width": 672,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "publicnow.com",
+        "domain": "publicnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-the-pentagon-needs-a-new-ai-strategy-to-catch-up-with-china.md",
       "title": "The Pentagon needs a new AI strategy to catch up with China",
       "excerpt": "Defence leaders unfamiliar with artificial intelligence, cyber or hypersonics should educate themselves or get out of the way",
@@ -986,205 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales.md",
-      "title": "Retailers Use AI to Build Trust in Secondhand Luxury, Sneaker Sales",
-      "excerpt": "Vidyuth Srinivasan, CEO of high-value goods authentication platform Entrupy, told PYMNTS counterfeit items are a $3 trillion problem for the retail industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/luxury-retail-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/amp/",
-      "publishedDateTime": "2021-11-22T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-nvidias-latest-ai-tech-translates-text-into-landscape-images.md",
-      "title": "Nvidia’s latest AI tech translates text into landscape images",
-      "excerpt": "Nvidia today detailed an AI system called GauGAN2, the successor to its GauGAN model, that lets users create lifelike landscape images that don’t exist. Combining techniques like segmentation mapping,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/",
-      "originalUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/",
-      "publishedDateTime": "2021-11-22T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities.md",
-      "title": "AI In Healthcare Presents Unique Challenges And Amazing Opportunities",
-      "excerpt": "Artificial intelligence is a hot topic in almost every industry right now, and healthcare is no exception. The big data revolution has transformed manufacturing supply chains, retail advertising and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197aa507ff6dfc8338aedb0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-tesla-releases-new-full-self-driving-beta-105-update-with-interesting-new-features.md",
-      "title": "Tesla releases new Full Self-Driving Beta 10.5 update with interesting new features",
-      "excerpt": "Tesla has started pushing a new Full Self-Driving Beta software update (10.5) to the fleet this weekend. It includes some interesting new features based on the release notes, which you can find below.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/",
-      "originalUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/",
-      "publishedDateTime": "2021-11-22T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
