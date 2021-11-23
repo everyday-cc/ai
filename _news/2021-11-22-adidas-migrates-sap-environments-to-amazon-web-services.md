@@ -50,14 +50,21 @@ related:
       domain: nasdaq.com
     quality: 69
   - title: "adidas Migrates SAP Environments to AWS"
-    excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
-    publishedDateTime: 2021-11-22T07:29:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
+    excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
+    publishedDateTime: 2021-11-22T04:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "NrO6BFzqGi2+RNSk3Vf0SVoZQDVxtHfkhMm4M0mIywn6Nxp9fw5Zhy7APq7GyS+LyRhMbBUczfFNZkE7u+wXPjkxmHX06JWRYBPU/FfZvdG485Ymy+V4zAGDq80sA2rgUdbmTgvbTSimnTWucsD38J7DmHTccRsAPmsaZUI3spQjUknlXfD37cIw/Ixqv036QJHfZmfEOj0nKzbaEv4t1G4wOQhklBmMXVeaVzBr/OX4BDl4JEt0wAzHL+mob0qB34EYo79AChHuQ0tQP+n3B0KC/aHnOLvcq0YpCIn+UQ31GatlZ/ntIE5ULs/Uz0xz1ioPn9WPddmTlQcPxIGX5YhWVa6nEHaiunTLYispScs=;0dNFCftMO61qOqML5kf3fg=="
 ---

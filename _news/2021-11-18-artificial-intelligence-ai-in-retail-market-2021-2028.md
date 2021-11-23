@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub22592201_g.jpg"
         width: 780
         height: 405
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market 2021-2028"
-    excerpt: "The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360.36 billion by 2028 while exhibiting a CAGR of 33.6% between 2021 to 2028. In its report titled, “Artificial Intelligence (AI) Market,"
-    publishedDateTime: 2021-11-18T07:52:00Z
-    webUrl: "https://www.openpr.com/news/2466240/global-artificial-intelligence-ai-market-2021-net-worth-is-us"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 56
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub18726066_g.jpg"
-        width: 800
-        height: 428
         isCached: true
   - title: "AI Chips That Made It To The Market In 2021"
     excerpt: "The success of any modern AI technique relies on computation, on a scale unimaginable even a few years ago. Therefore, more advanced chips and hardware are being developed and released to match the processing capabilities of complex neural networks."

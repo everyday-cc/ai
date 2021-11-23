@@ -2,6 +2,195 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-23-report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage.md",
+      "title": "Report: AI has assisted half of all business owners during the labor shortage",
+      "excerpt": "As companies continue to see high turnover rates, business owners can benefit from AI handling the duties traditionally managed by humans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/",
+      "originalUrl": "https://venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1269240296-e1637596014626.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/amp/",
+      "publishedDateTime": "2021-11-22T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-bring-your-amazon-sagemaker-model-into-amazon-redshift-for-remote-inference.md",
+      "title": "Bring Your Amazon SageMaker model into Amazon Redshift for remote inference",
+      "excerpt": "Amazon Redshift, a fast, fully managed, widely used cloud data warehouse, natively integrates with Amazon SageMaker for machine learning (ML). Tens of thousands of customers use Amazon Redshift to process exabytes of data every day to power their analytics workloads. Data analysts and database developers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-amazon-sagemaker-model-into-amazon-redshift-for-remote-inference/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-amazon-sagemaker-model-into-amazon-redshift-for-remote-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/22/1-5967-Model.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T15:30:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.md",
+      "title": "Blink Black Friday Amazon Bundles Bring Security, AI At Up To 58% Off",
+      "excerpt": "Amazon's Black Friday sales are already underway and Blink has some great deals, up to 58-percent off, on security camera bundles. So if you're looking to",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/11/blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/11/blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/11/Black-Friday-Deals-Blink-Amazon-Bundles-presser.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/11/blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/11/blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.html/amp",
+      "publishedDateTime": "2021-11-22T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-fda-joins-other-regulators-in-focus-on-ai-and-machine-learning.md",
+      "title": "FDA Joins Other Regulators in Focus on AI and Machine Learning",
+      "excerpt": "The Food and Drug Administration recently sought comments on the role of transparency for artificial intelligence and machine learning-enabled medical devices. The FDA invited comments in follow up to",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning",
+      "originalUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp",
+      "publishedDateTime": "2021-11-22T15:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-why-enterprises-should-build-ai-infrastructure-first.md",
       "title": "Why enterprises should build AI infrastructure first",
       "excerpt": "Looking forward, it’s clear that AI infrastructure will be more than just a competitive advantage, but an operational necessity.",
@@ -577,7 +766,7 @@
       "originalUrl": "https://www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -672,7 +861,7 @@
       "originalUrl": "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -851,7 +1040,7 @@
       "originalUrl": "https://www.nytimes.com/2021/11/21/books/review/the-age-of-ai-henry-kissinger-eric-schmidt-daniel-huttenlocher.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -978,195 +1167,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-how-sms-marketing-continues-to-evolve-via-ai.md",
-      "title": "How SMS marketing continues to evolve via AI",
-      "excerpt": "SMS is exceeding different forms of marketing communication including social media messages and emails. It is mainly because consumers are moving to mobile purchases with online shoppers in India expected to reach 220 million by 2025,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/",
-      "originalUrl": "https://www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/11/Mr.-Tushar-Agarwal.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/lite/",
-      "publishedDateTime": "2021-11-20T22:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-robots-big-data-as-gulf-nations-bet-on-artificial-intelligence.md",
-      "title": "Robots, big data as Gulf nations bet on artificial intelligence",
-      "excerpt": "Robots puttering around Dubai’s hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core. The 5G-enabled Expo,",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.malaymail.com/uploads/articles/2021/2021-11/20211121_AI_Expo_Dubai_AFP.jpg",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "publishedDateTime": "2021-11-20T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-low-code-and-no-code-may-open-more-doors-to-artificial-intelligence.md",
-      "title": "Low code and no code may open more doors to artificial intelligence",
-      "excerpt": "The jury is still out on whether low and no code platforms can blaze a path to high-end application development -- at least not yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/67eb29774477fdfb5a6bd6f1e0df24ed724e881d/2021/11/20/91e4f4e4-4221-45fe-9094-2aa6ccf22d2b/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1168,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "publishedDateTime": "2021-11-20T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-china-unleashes-might-of-ai-on-next-generation-supercomputer-to-meet-demand-for-more-power.md",
-      "title": "China unleashes might of AI on next-generation supercomputer to meet demand for more power",
-      "excerpt": "Supercomputer recorded a 75,839-fold boost in handling data for machine learning after a breakthrough in memory management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/20/674ecbd8-48f6-11ec-88c2-0bacf4eabd5b_image_hires_095916.jpg?itok=hhkvRXgA&v=1637373565",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
-      "publishedDateTime": "2021-11-20T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

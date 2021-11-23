@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/robots-at-your-service-at-this-uae-vehi
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/robots-at-your-service-at-this-uae-vehicle-licensing-centre-1.83842996"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 540
     height: 405
     isCached: true
+
+related:
+  - title: "Mining gets AI boost with new research centre"
+    excerpt: "A new research centre to focus on next-generation AI technology has been launched at the AIML at the University of Adelaide."
+    publishedDateTime: 2021-11-23T00:41:00Z
+    webUrl: "https://www.australianmining.com.au/news/mining-gets-ai-boost-with-new-research-centre/"
+    type: article
+    provider:
+      name: australianmining.com.au
+      domain: australianmining.com.au
+    quality: 37
+    images:
+      - url: "https://www.australianmining.com.au/wp-content/uploads/2020/07/Alternative-2-TI-Mining-Image-1-scaled-e1594258151202.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "vqu9cZqMuIypyP3MaMMZkPZuQkYGip6nnoYlxaP2e93fNpNETXWpKQnbhupF9pzHXlwQ4p4tfM+b+EnOF7yqwg3yYWqBWj/Hj03d+jQ4O4aX6vgS/pGlmilMZkvsL3mX9fhmzjbsELPrge4N4RXwmgQ+9hBM8BfRO2L8t6B9YvtJt595TfNUvynLgIkagBKJWXIMAe5g0kR3yPAfje4+KGstDwOKQCRtxGHHc5rdtwjlFd3YSbJi8+IHBX7rdHUglUjVSzu/eSUdjQ399NbF9k7s5tVQGYezNo4Md3EFdrLItE06h7A5k6ky2q5ZH2aY+J3IP0216crHjkl7VPTG4jK242QP1iXoKu3ACbKuxDU=;oG22M2v3S70uJdRCX1Qkuw=="
 ---

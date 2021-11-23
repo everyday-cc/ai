@@ -24,6 +24,22 @@ images:
     height: 209
     isCached: true
 
+related:
+  - title: "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021"
+    excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who"
+    publishedDateTime: 2021-11-22T23:02:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/india-fintech-forum-unveils-28-high-potential-fintech-startups-for-ifta-2021-822897170.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1693934/FInalists_at_IFTA_2021.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+
 secured: "vRWcSlhmfPSVX78kbIV4+7CRl6DOYVTLcw/snmDoZ4aNwqm29P3smx3fSyu1L7ywK0tCSGIWnfSJ1UMJjRmYnapK8sRuLmVK5a4GF1VkJl6OYXYKfgJVBtO1lLKjsakgfiAPfjGgfw68EDWRRo+LV6dBVRbdVbABGnNdVShlBrdf0X8JmC+Jlxvrc9ZrKNJaDL+Dj1h7cR6wepxYAROBdeVtKlAsYNC58W/XmGVVBDNK/sCGm1o/qkZQs7DgGXjSl3HcyI1pF46cL/BjgsSvixRDYgXz+rVzZntUWIk+FoKh9kAzXMx1qrdbTtThfwRCoUkn7EM7WyZNKQbHo24isi5FxP1rVOiax8OBjbaIaMI=;4VK3MMSnUTZcf6XxLnLatg=="
 ---
 

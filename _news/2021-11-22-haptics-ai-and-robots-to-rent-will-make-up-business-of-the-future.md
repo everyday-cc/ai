@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/finance/city/1524613/natwest-future-busine
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -19,17 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "FNB: Future of banking is embedded in Artificial Intelligence"
-    excerpt: "First National Bank says Artificial Intelligence and other technologies are changing banking trends across the world and are already being embraced in South Africa."
-    publishedDateTime: 2021-11-19T12:30:00Z
-    webUrl: "https://www.cnbcafrica.com/media/6282764051001/"
-    ampWebUrl: "https://www.cnbcafrica.com/media/6282764051001/amp"
-    cdnAmpWebUrl: "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/media/6282764051001/amp"
+  - title: "FDA Joins Other Regulators in Focus on AI and Machine Learning"
+    excerpt: "The Food and Drug Administration recently sought comments on the role of transparency for artificial intelligence and machine learning-enabled medical devices. The FDA invited comments in follow up to"
+    publishedDateTime: 2021-11-22T23:13:00Z
+    webUrl: "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning"
+    ampWebUrl: "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp"
     type: article
     provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
-    quality: 37
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 74
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
 
 secured: "7t1OTUiyBIQ/0i9YuuRBV/ti02Ef7nBrilc6FvN9Iqxh01wwi4tdQ+2hhE3PdG9O/UUr9b2N4NwQaVNdd4RJCoO6fiBRdeSOFCNRHdAswe8GRUPD/gpje/ZzA2qacOzJITWIOosKqRM/sQwnZ0qxrFWH5Jvl+hayK35Rr0Pzn7NSPKqgR3g5RxPb6epeFrhRqKoFUDG0gwOE7zA3QmOeEBnqY20B+LYCtTR+CNReK5M4ilTg0r8Gim4IFjUuIf9quBsBPEhnip1UbjMa2FQnoOy323yX2Q0rl1eOkFKnsSReNylpma9MM8UyuFduI5x/6B5/NFq8IklBJHnZ7PwqcwcshrG5BrmVg/595a3yRtU=;yX/YVt9HWWMUYRH401aYkw=="
 ---

@@ -2,6 +2,206 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-17-canons-450-camera-uses-facial-recognition-to-automatically-take-photos.md",
+      "title": "Canon's £450 camera uses facial recognition to automatically take photos",
+      "excerpt": "The PowerShot PX, which is released in the UK and Europe today for £450 (€500), is like having 'your own personal photographer', but scaled down into a five-inch-tall device.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10212821/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10212821/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/11/17/16/50614429-0-image-a-14_1637165765360.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10212821/amp/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10212821/amp/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
+      "publishedDateTime": "2021-11-17T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient.md",
+      "title": "How AI and NLP are helping healthcare call centers to be more efficient",
+      "excerpt": "AI has the potential to help healthcare call centers—and it couldn't come at a better time. Callers are frustrated and needing help more than ever, so this solution could make a big difference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/12/04/f6895991-70f5-431a-a04a-4450b0104d05/resize/1200x/9a0404ccf9a3aeb492f2e23c9c681a0b/istock-1027578950.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
+      "publishedDateTime": "2021-11-17T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-the-impact-of-climate-change-and-how-ai-can-help.md",
+      "title": "The Impact Of Climate Change And How AI Can Help",
+      "excerpt": "Embracing and implementing artificial intelligence in our organizations is a huge step toward adjusting to our harsh reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193b6e4c36862f21d707d2e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board.md",
+      "title": "AI2 CEO Oren Etzioni to chair UiPath’s new AI advisory board",
+      "excerpt": "UiPath, a publicly traded \"robotic automation process\" company, announced that Allen Institute for Artificial Intelligence (AI2) CEO Oren Etzioni will chair its new artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/",
+      "originalUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/12/Oren-Etzioni-298x300.png",
+          "width": 298,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/amp/",
+      "publishedDateTime": "2021-11-17T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform.md",
       "title": "PayZen secures $15M Series A for ‘care now, pay later’ healthcare platform",
       "excerpt": "Healthcare costs in the U.S. are steadily rising, and the share patients must pay out-of-pocket has increased in tandem. Nearly one in three American households have delayed medical care due to its cost,",
@@ -926,206 +1126,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-fda-clears-ge-healthcare-x-ray-artificial-intelligence-aid-for-endotracheal-tube-placement.md",
-      "title": "FDA clears GE Healthcare X-ray artificial intelligence aid for endotracheal tube placement",
-      "excerpt": "The U.S. Food and Drug Administration has cleared an artificial intelligence algorithm from GE Healthcare that aids physicians in assessing endotracheal tube placement via X-rays. It’s part of a suite of five solutions from the Chicago-based technology giant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence",
-      "originalUrl": "https://www.radiologybusiness.com/topics/artificial-intelligence/fda-clears-ge-healthcare-x-ray-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-01/carestream_3.jpg?h=84d12988&itok=A6p-gaLn",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T19:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Radiology Business",
-        "domain": "radiologybusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready.md",
-      "title": "Artificial intelligence: everyone wants it, but not everyone is ready",
-      "excerpt": "Artificial intelligence technologies have reached impressive levels of adoption, and are seen as a competitive differentiator. But there comes a point when a technology becomes so ubiquitous that it is no longer a competitive differentiator -- think of cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e467d20ab93256ec3385659485e2cb180cb921e0/2021/11/16/2fc00959-58e2-434c-8181-1b1bd9708138/javits-center-november-2019.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "publishedDateTime": "2021-11-16T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year.md",
-      "title": "Darktrace aims to expand into ‘proactive’ security AI by end of year",
-      "excerpt": "Darktrace, a provider of security powered by artificial intelligence, says it plans to expand into AI-based attack prevention by year's end.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/darktrace.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/amp/",
-      "publishedDateTime": "2021-11-16T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-postprocessing-with-amazon-textract-multi-page-table-handling.md",
-      "title": "Postprocessing with Amazon Textract: Multi-page table handling",
-      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts printed text, handwriting, and other data from scanned documents that goes beyond simple optical character recognition (OCR) to identify and extract data from forms and tables. Currently, thousands of customers are using Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/postprocessing-with-amazon-textract-multi-page-table-handling/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/postprocessing-with-amazon-textract-multi-page-table-handling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/16/3-3668-Table2_new.jpg",
-          "width": 800,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T16:56:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

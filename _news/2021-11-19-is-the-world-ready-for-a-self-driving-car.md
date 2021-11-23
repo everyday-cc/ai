@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -153,15 +153,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Report: Apple could launch self-driving electric car in 2025"
-    excerpt: "Apple Inc. could bring its long-rumored electric car to market as soon as 2025 and with a “full self-driving system” onboard, Bloomberg reported today. The 2025 target launch date is said to represent an acceleration of Apple’s development roadmap."
-    publishedDateTime: 2021-11-18T21:53:00Z
-    webUrl: "https://siliconangle.com/2021/11/18/report-apple-launch-self-driving-electric-car-2025/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 4
 
 secured: "FnT6NImrpDM3nGxenx+j7sAkIMpuz8w1Ed6uPVaAoS05rLk04Txhaw9foVismeN/aYYwY6atKUfKz+ezzEOCB4BC/l28Astyn6nz8QuLPkY+w8j/p+Pa5daW4kRjWJkd9yZ/Uk9MoOmQYWivfeiFV8/8USj2Dc70c3QCJ1YqrQYVSw2crwXryQ3L1YJjOLAASMKpyR24pAWNQBH2FJ9S70PsjljSKv6d/ZRpUGHASjDRr9yTlcjIotizYqbp10K2eaxEbrvc5KDIuYI1qAm1SqZdsJ4fTZ7/iByDojVPRvwJsddhdgrXeBJ6BPXsgHv3olmGSR7YUFKIgpojjqFghpKyh6ag2QmLMKDz8txg+YzYrqkhB/YKSIKU9O9hwv9+raTdkG9V8IdAMKij+8FZCZsAapt6yI2wA7rBCTL1LnzSCWqcwgAuKY16RJbBhdwC5y0i0KIp/7Si7QpsHx5jjNr9eA0Lr1k0vrGAy2pGUeRxju3mxYOpU9tJvpM9hZE4ezhhnDJwzSJcmqeeQY6QoQ==;nXCyBSPxNDMom48L6fQQlg=="
 ---

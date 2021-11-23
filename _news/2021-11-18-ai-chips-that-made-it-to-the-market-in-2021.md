@@ -89,20 +89,6 @@ related:
         width: 780
         height: 405
         isCached: true
-  - title: "Artificial Intelligence (AI) Market 2021-2028"
-    excerpt: "The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360.36 billion by 2028 while exhibiting a CAGR of 33.6% between 2021 to 2028. In its report titled, “Artificial Intelligence (AI) Market,"
-    publishedDateTime: 2021-11-18T07:52:00Z
-    webUrl: "https://www.openpr.com/news/2466240/global-artificial-intelligence-ai-market-2021-net-worth-is-us"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 56
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub18726066_g.jpg"
-        width: 800
-        height: 428
-        isCached: true
   - title: "AI in Drug Discovery Market 2021 Development Status and Future Statistics by 2031"
     excerpt: "AI in Drug Discovery Market Introduction According to the report the global AI in drug discovery market was valued at US 0 35 Bn in 2020 and is projected to expand at a CAGR of 36 1 from 2021 to"
     publishedDateTime: 2021-11-22T11:46:00Z

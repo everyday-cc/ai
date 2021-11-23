@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Gr
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:

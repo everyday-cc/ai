@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-st
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving is the defining software of EVs, says MIH"
-    excerpt: "MIH is an open platform for software-defined vehicles, says CTO William Wei, speaking at the TCCNA Taiwan and US EV Summit. EVs without level 2 self-driving are basically incompetent in 2023 and MIH will open APIs in the future,"
-    publishedDateTime: 2021-11-18T07:16:00Z
-    webUrl: "https://digitimes.com/news/a20211118PD212.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://digitimes.com/newsshow/20211118PD212_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "UPS to Test Self-Driving Semi-Trucks"
     excerpt: "Waymo, the Google autonomous driving affiliate, announced an expansion of its partnership with UPS into Class 8 trucks. The company’s self-driving semi-trucks will transport cargo between UPS’ air freight facilities in Dallas-Fort Worth and Houston."
     publishedDateTime: 2021-11-18T16:43:00Z

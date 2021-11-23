@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true"
 type: article
 quality: 87
-heat: 177
+heat: 178
 published: true
 
 provider:

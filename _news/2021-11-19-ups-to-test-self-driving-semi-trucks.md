@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving is the defining software of EVs, says MIH"
-    excerpt: "MIH is an open platform for software-defined vehicles, says CTO William Wei, speaking at the TCCNA Taiwan and US EV Summit. EVs without level 2 self-driving are basically incompetent in 2023 and MIH will open APIs in the future,"
-    publishedDateTime: 2021-11-18T07:16:00Z
-    webUrl: "https://digitimes.com/news/a20211118PD212.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://digitimes.com/newsshow/20211118PD212_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Self-Driving Stocks Join EVs as Next Trader Obsession"
     excerpt: "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Nov. 19 on high volume."
     publishedDateTime: 2021-11-19T22:15:00Z
