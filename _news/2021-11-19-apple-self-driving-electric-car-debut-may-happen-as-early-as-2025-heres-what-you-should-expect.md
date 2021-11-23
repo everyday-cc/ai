@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple aims to launch self-driving electric car in 2025, says report"
-    excerpt: "The vehicle is rumoured to have no steering wheel or pedals, and the interior has a U-shaped seating plan"
-    publishedDateTime: 2021-11-18T20:03:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/4448db54e2ba2aed4090188ec80a459152b5e269/33_121_1983_1190/master/1983.jpg?width=620&quality=85&auto=format&fit=max&s=b7867d39ae37de046a18f46673bf80e2"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Apple’s self-driving electric car may come in 2025"
     excerpt: "Apple's automotive efforts, known as Project Titan, have proceeded unevenly since 2014 when it first started to design a vehicle from scratch. Its ideal car would have no steering wheel and pedals, with interiors designed around hands-off driving."
     publishedDateTime: 2021-11-19T06:28:00Z
@@ -73,15 +57,6 @@ related:
         width: 600
         height: 451
         isCached: true
-  - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
-    excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."
-    publishedDateTime: 2021-11-18T21:45:00Z
-    webUrl: "https://www.imore.com/apple-has-achieved-key-milestone-self-driving-tech-apple-car"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 4
   - title: "Apple chooses a path in its work to build a self-driving electric vehicle"
     excerpt: "Apple is still in the race to build its own car — here's where its road seems to be leading. #SiliconValley #autotech #electriccar #selfdriving"
     publishedDateTime: 2021-11-19T14:30:00Z

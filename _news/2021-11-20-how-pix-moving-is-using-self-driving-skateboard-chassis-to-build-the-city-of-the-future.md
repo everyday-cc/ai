@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "Apple targets 2025 to launch self-driving car without steering wheel"
-    excerpt: "Apple is reportedly accelerating development of its electric car, targeting 2025 as a possible launch date — and now wants to make it fully self-driving."
-    publishedDateTime: 2021-11-18T19:38:00Z
-    webUrl: "https://nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/"
-    ampWebUrl: "https://nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/11/18/apple-reportedly-working-on-self-driving-car-for-2025/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/11/apple-car_30.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 552
-        isCached: true
   - title: "What's Up with Apple: Self-driving iCar, Grateful Dead Biopic, and More"
     excerpt: "Citing people familiar with the matter, Bloomberg reported that Apple is accelerating development of an all-electric Apple car (iCar?) that will come with full self-driving capability. Not only did Apple weigh on other EV stocks,"
     publishedDateTime: 2021-11-19T11:58:00Z
@@ -120,20 +104,6 @@ related:
       - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Artboard-Copy-7-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Apple Reportedly Looks to Unveil a Fully Self-Driving Car in 2025"
-    excerpt: "Apple is looking to refocus its long-awaited electric car project on self-driving capabilities, instead of its previously planned semi-autonomous features, according to sources via Bloomberg. Additionally,"
-    publishedDateTime: 2021-11-18T20:33:00Z
-    webUrl: "https://hypebeast.com/2021/11/apple-fully-self-driving-car-2025-bloomberg"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 24
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fapple-fully-self-driving-car-2025-bloomberg-TW.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
         isCached: true
   - title: "Apple shares at record high after reports of a self-driving car"
     excerpt: "Apple shares closed on a high note following reports that iPhone maker is accelerating plans to build a self-driving car. Apple stock rose 3.04% to a new intraday record of $158.32 in early afternoon trading."

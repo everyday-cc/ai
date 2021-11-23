@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "India Roundup: Paytm’s lackluster IPO drags fintech valuations lower, and more"
+    excerpt: "Also, Cred may raise fresh funds at a valuation of up to US$6 billion, SoftBank bets on fintech startup Juspay, and more."
+    publishedDateTime: 2021-11-23T11:34:00Z
+    webUrl: "https://www.techinasia.com/india-roundup-paytm-ipo-drags-fintech-valuations"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 30
   - title: "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021"
     excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who will be showcasing their product demos to a high-profile jury from 23 rd  November – 25 th  November 2021 to compete for the Fintech Startup of the Year trophy at the 6 th  edition of India FinTech Awards (IFTA)."
     publishedDateTime: 2021-11-22T13:25:00Z

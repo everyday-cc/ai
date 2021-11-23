@@ -38,20 +38,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Helm.ai Raises $26M in Series B Funding"
-    excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
-    publishedDateTime: 2021-11-20T12:55:00Z
-    webUrl: "https://www.finsmes.com/2021/11/helm-ai-raises-26m-in-series-b-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/helm-1.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Humanity in the Age of AI"
     excerpt: "The Age of AI” does not break new ground on AI but it raises key questions about how AI will change the way we live and work, and it is clear that we are just barely scratching the surface of what AI means for society and humanity."
     publishedDateTime: 2021-11-21T14:24:00Z

@@ -24,74 +24,81 @@ images:
     isCached: true
 
 related:
-  - title: "Jina.ai raises $30M for its for its neural search platform"
-    excerpt: "Berlin-based Jina.ai, an open-source startup that uses neural search to help its users find information in their unstructured data (including videos and images), today announced that it has raised a $30 million Series A funding round led by Canaan Partners."
-    publishedDateTime: 2021-11-22T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/amp/"
+  - title: "AI-based Robotics Startup Haber Raises $27 Mn In Series B Funding"
+    excerpt: "Haber develops AI-driven robots which automate the manual process of sample collection, measurement, analysis, and intervention at factories."
+    publishedDateTime: 2021-11-23T12:00:00Z
+    webUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/"
+    ampWebUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: inc42.com
+      domain: inc42.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Screenshot-2021-11-21-165941.jpg"
-        width: 1094
-        height: 376
+      - url: "https://inc42.com/wp-content/uploads/2021/11/trademo-ft-social-02-1-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
-  - title: "San Diego-based startup LifeVoxel raises $5 million seed funding for its AI diagnostic visualization platform"
-    excerpt: "San Diego-based startup LifeVoxel has raised $5 million in a seed round to bolster data intelligence of its AI diagnostic visualization platform for faster and precise prognosis. The platform, dubbed Prescient,"
-    publishedDateTime: 2021-11-22T00:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/amp/"
+  - title: "AI-driven robot developer Haber raises $20 million in Series B funding"
+    excerpt: "Ascent Capital, the lead investor in the Series B funding, was joined by Elevation Capital, Accel, Beenext, Temasek partner Mukul Chawla and several others."
+    publishedDateTime: 2021-11-23T12:26:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/ai-driven-robot-developer-haber-raises-20-million-in-series-b-funding/2374550/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/ai-driven-robot-developer-haber-raises-20-million-in-series-b-funding/2374550/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/ai-driven-robot-developer-haber-raises-20-million-in-series-b-funding/2374550/lite/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 68
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024"
-        width: 1024
-        height: 481
+      - url: "https://images.financialexpress.com/2021/11/Artificial-Intelligence-Haber.png"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Jina AI Raises $30 Million to Scale Open-Source Neural Search Ecosystem"
-    excerpt: "Jina AI, an open-source neural search company, today announced $30 million in Series A financing. Canaan Partners led the round with participation from new investors including Mango Capital, as well as existing partners GGV Capital,"
-    publishedDateTime: 2021-11-22T11:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem-1030994301"
+  - title: "Industrial robot maker Haber raises $20 mn funding led by Ascent Capital"
+    excerpt: "Industrial robot maker Haber on Tuesday announced raising $20 million (about Rs 149 crore) in a funding round led by Ascent Capital. Accel, Elevation Capital, Beenext, Temasek partner Mukul Chawla and the founders of GreyOrange,"
+    publishedDateTime: 2021-11-23T10:12:00Z
+    webUrl: "https://www.freepressjournal.in/business/industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "The Briefing: Deliverr Bags $250M, Jina AI Lands $30M, And More"
-    excerpt: "Berlin-based Jina AI, a startup focused on open-source neural search, announced that it raised $30 million in a Series A funding round led by Canaan Partners . Founded in 2020, the company has raised a total of $39 million to date."
-    publishedDateTime: 2021-11-22T13:48:00Z
-    webUrl: "https://news.crunchbase.com/news/briefing-11-22-21/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 37
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 73
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2021/09/The_Briefing-rs.jpg"
-        width: 900
-        height: 506
+      - url: "https://images.assettype.com/freepressjournal/2021-10/ac1f0b53-8abb-405a-8c96-a2d218e4e20e/Capture.PNG?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 1214
         isCached: true
-  - title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
-    excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding. LifeVoxel’s patented technologies empower instant and ubiquitous access to interactive imaging studies and data,"
-    publishedDateTime: 2021-11-22T13:36:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-health-patents-e9ffa0c143116c98614c10aaad9f215d"
+  - title: "Comet Raises $50M in Series B Funding"
+    excerpt: "Comet, a NYC-based provider of the development platform for enterprise machine learning (ML) teams, raised $50m in Series B funding"
+    publishedDateTime: 2021-11-18T22:08:00Z
+    webUrl: "https://www.finsmes.com/2021/11/comet-raises-50m-in-series-b-funding.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/Comet_Model_Production_Monitoring1.jpg"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Helm.ai Raises $26M in Series B Funding"
+    excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
+    publishedDateTime: 2021-11-20T12:55:00Z
+    webUrl: "https://www.finsmes.com/2021/11/helm-ai-raises-26m-in-series-b-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/helm-1.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "CDu69obFYnQNgz27+5AKiUycQ1sO0YUDW5ZksWtbjIxyuQNWob0es//Tz8g4zVzp1ueqtvz9hO7uS7PQ5MqQ2bbvVifrMMgolDS0zC0gkTL2ghOVbpyteB1sjup/7Q+vnAfNN1E0vledPmqkhBM8LStvrjQGLx/I5Eshh2nd3tfoxngA0VAx/o989hTJXswN+wXwu3HfC+zHaU2vMyf7ViiZdFRFC51rRcNJ0ARJ4kXEgJhdbiMZK/6YuWrnkUz9CQhulE1gt6qmJVJJAloKXuD/1YrpY6mFGKWDRTqWtX+wyWVs1aF/GvTlp1Db4q2uU5I59RZ5bFIAWzOY1Mn443u6M4bhiLhjPXUKg2RVPeY=;R+l787hnfS2jjdCUOWPSaw=="

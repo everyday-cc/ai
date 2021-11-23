@@ -65,20 +65,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "AI-powered music platform Aimi raises $20m in Series B funding round"
-    excerpt: "AI-Powered Music Platform Aimi has raised $20 million in a Series B round of funding. The fund raise was led by entertainment and media-focused investment firm Great Mountain Partners, which also holds what it says is “a significant stake” in Concord."
-    publishedDateTime: 2021-11-22T11:42:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/ai-powered-music-platform-aimi-raises-20m-in-series-b-funding-round/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 37
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2021/11/Edward_Balassanian_by_Ismael_Quintanilla_III-e1637584085911.jpeg"
-        width: 1537
-        height: 864
-        isCached: true
   - title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
     excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding. LifeVoxel’s patented technologies empower instant and ubiquitous access to interactive imaging studies and data,"
     publishedDateTime: 2021-11-22T13:36:00Z

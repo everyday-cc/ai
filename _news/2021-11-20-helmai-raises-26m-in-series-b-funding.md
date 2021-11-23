@@ -25,47 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Use of artificial intelligence in hiring raises concerns"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the"
-    publishedDateTime: 2021-11-21T11:00:00Z
-    webUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
+  - title: "AI-based Robotics Startup Haber Raises $27 Mn In Series B Funding"
+    excerpt: "Haber develops AI-driven robots which automate the manual process of sample collection, measurement, analysis, and intervention at factories."
+    publishedDateTime: 2021-11-23T12:00:00Z
+    webUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/"
+    ampWebUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
     type: article
     provider:
-      name: The Montana Standard
-      domain: mtstandard.com
-    quality: 52
+      name: inc42.com
+      domain: inc42.com
+    quality: 89
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/2/c5/2c5c1a89-8999-557f-970a-8801833d26fc/6197bb0619dad.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://inc42.com/wp-content/uploads/2021/11/trademo-ft-social-02-1-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
-  - title: "Humanity in the Age of AI"
-    excerpt: "The Age of AI” does not break new ground on AI but it raises key questions about how AI will change the way we live and work, and it is clear that we are just barely scratching the surface of what AI means for society and humanity."
-    publishedDateTime: 2021-11-21T14:24:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/humanity-in-the-age-of-ai"
+  - title: "AI-driven robot developer Haber raises $20 million in Series B funding"
+    excerpt: "Ascent Capital, the lead investor in the Series B funding, was joined by Elevation Capital, Accel, Beenext, Temasek partner Mukul Chawla and several others."
+    publishedDateTime: 2021-11-23T12:26:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/ai-driven-robot-developer-haber-raises-20-million-in-series-b-funding/2374550/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/ai-driven-robot-developer-haber-raises-20-million-in-series-b-funding/2374550/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/ai-driven-robot-developer-haber-raises-20-million-in-series-b-funding/2374550/lite/"
     type: article
     provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://images.financialexpress.com/2021/11/Artificial-Intelligence-Haber.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Industrial robot maker Haber raises $20 mn funding led by Ascent Capital"
+    excerpt: "Industrial robot maker Haber on Tuesday announced raising $20 million (about Rs 149 crore) in a funding round led by Ascent Capital. Accel, Elevation Capital, Beenext, Temasek partner Mukul Chawla and the founders of GreyOrange,"
+    publishedDateTime: 2021-11-23T10:12:00Z
+    webUrl: "https://www.freepressjournal.in/business/industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 73
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-10/ac1f0b53-8abb-405a-8c96-a2d218e4e20e/Capture.PNG?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 1214
+        isCached: true
+  - title: "Comet Raises $50M in Series B Funding"
+    excerpt: "Comet, a NYC-based provider of the development platform for enterprise machine learning (ML) teams, raised $50m in Series B funding"
+    publishedDateTime: 2021-11-18T22:08:00Z
+    webUrl: "https://www.finsmes.com/2021/11/comet-raises-50m-in-series-b-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
     quality: 39
     images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/6199141097b981f8c67fadef_AdobeStock_339380253.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/Comet_Model_Production_Monitoring1.jpg"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Appreciating the Potential of AI"
-    excerpt: "Mohammed Alam was recently hired as the deputy director of Northwestern Engineering’s Master of Science in Artificial Intelligence (MSAI) program, where he will collaborate with students to shape their experience and explore future possibilities of what AI can and will be."
-    publishedDateTime: 2021-11-22T18:51:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/appreciating-the-potential-of-ai.html"
+  - title: "AI-powered music platform Aimi raises $20m in Series B funding round"
+    excerpt: "AI-Powered Music Platform Aimi has raised $20 million in a Series B round of funding. The fund raise was led by entertainment and media-focused investment firm Great Mountain Partners, which also holds what it says is “a significant stake” in Concord."
+    publishedDateTime: 2021-11-22T11:42:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/ai-powered-music-platform-aimi-raises-20m-in-series-b-funding-round/"
     type: article
     provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
+      name: Spotify
+      domain: musicbusinessworldwide.com
     quality: 37
     images:
-      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/appreciating-the-potential-of-ai-1200.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.musicbusinessworldwide.com/files/2021/11/Edward_Balassanian_by_Ismael_Quintanilla_III-e1637584085911.jpeg"
+        width: 1537
+        height: 864
         isCached: true
 
 secured: "iPqPSRSKKE87K0s2z2m90qXMBqvymVaDj97oKPvViqcAY3Gwesa80DRdwEOb6IN8yD6qtGx5e02Yb9p32EunJV0dkcviLQVNBxVBjPZu1U6e3GcsVX+WV89Glxym5M6kYmkenLsLdb+DEFHLBmlpUPEyp78/iIn0ckB6PUWrZXOnZ8GbqqvQQHpTerhVJf82ORob98n1Nhz/gzXQsktT92Lei4owVEJqnpS/1+YNlJZkC1bqFitV65BQCmmTnODvW5JEBjTfBUzwQfp5krPIa+4m8xg9JAUaSqp9cW6/GHVu/qrWykKl5pkd4Cb+FmbwUruj7wbb8p82rywwwKxAAUk75uSeRi5rnkRSd7YI7EkDWFh9+c6cXgE9wZ7PCrz6I/bTPms/R3Bc/Y9bMjtOnhrC6gNtpa60iV2mI6eMJZZ4n9XubQ65Oq66m5YMpHNEeOJzv73ymSL1AccypuTqFYGZoisM9Mu3lSi9X55ZynQkI4gWnhtBNRjiCuc2SW5zsBoHwm+gD6uJxpcbfPUaqg==;VA6bf1/rrgWe3VRvJqUpHA=="

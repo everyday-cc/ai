@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true"
 type: article
 quality: 87
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -89,6 +89,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/22/71/74/21733140/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "New York City cracks down on use of artificial intelligence in job screenings"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the compu"
+    publishedDateTime: 2021-11-23T11:21:00Z
+    webUrl: "https://www.wraltechwire.com/2021/11/23/new-york-city-cracks-down-on-use-of-artificial-intelligence-in-job-screenings/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/11/23/new-york-city-cracks-down-on-use-of-artificial-intelligence-in-job-screenings/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/23/new-york-city-cracks-down-on-use-of-artificial-intelligence-in-job-screenings/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 54
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/10/artificial-intelligence-2167835__480-e1570218339962.jpg"
+        width: 702
+        height: 396
         isCached: true
   - title: "New York City Regulates Workplace Artificial Intelligence Recruitment and Selection Tools"
     excerpt: "Joining Illinois and Maryland, on November 10, 2021, the New York City Council approved a measure, Int. 1894-2020A (the “Bill”),  to regulate employers’"

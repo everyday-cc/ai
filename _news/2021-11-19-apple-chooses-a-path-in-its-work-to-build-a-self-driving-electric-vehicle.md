@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Apple aims to launch self-driving electric car in 2025, says report"
-    excerpt: "The vehicle is rumoured to have no steering wheel or pedals, and the interior has a U-shaped seating plan"
-    publishedDateTime: 2021-11-18T20:03:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/4448db54e2ba2aed4090188ec80a459152b5e269/33_121_1983_1190/master/1983.jpg?width=620&quality=85&auto=format&fit=max&s=b7867d39ae37de046a18f46673bf80e2"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Apple’s self-driving electric car may come in 2025"
     excerpt: "Apple's automotive efforts, known as Project Titan, have proceeded unevenly since 2014 when it first started to design a vehicle from scratch. Its ideal car would have no steering wheel and pedals, with interiors designed around hands-off driving."
     publishedDateTime: 2021-11-19T06:28:00Z
@@ -81,15 +65,6 @@ related:
         width: 600
         height: 451
         isCached: true
-  - title: "Apple has achieved a 'key milestone' in self-driving tech for Apple Car"
-    excerpt: "According to a new report, Apple is going for the holy grail of full self-driving technology for its long-rumored Apple Car."
-    publishedDateTime: 2021-11-18T21:45:00Z
-    webUrl: "https://www.imore.com/apple-has-achieved-key-milestone-self-driving-tech-apple-car"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 4
 
 secured: "/cRipRBK/jgfVCXOAjwaDVwEvKJYzuVHWlJ8unmcMCExcFzb+IS0R3AE+7xNSspudCbSM1/FxOThZ66Xs60Vdu7fHqSjdHYopve3GxM9a8CZV5rQerq7v7w73MxUELCAwNUVEI3up8DWfib0j0B1fWgn+K2tXgqSAAgvENHXbt75QLAj7W6lMuXTtzbxP0MJb83+Y9Setz/V+Srz35Ej7zABc/63D/fGI3FcJv/U6NbxguXAR155KsMKrzOrhZevDKks+6kf/ZyS6RnOrcmj4R8TFTI+9B6DAd4XvtqA3kOgUXKW+HVLhr/DiSn0FdPj7N6fU8gXbLMattM2wj4pBquXGCQILYQXYjvW96evWsp87OiIe02BbKa4zaDK6R7s3xjskD1nr+nK/s0XpQ2hEIq8TQ7pNmZ4hB3O3+9maaeNb508ZaYS968y33KzNerA+/Mnc/q+sH2T3nSUDTJgrKQC+GPehLyuNbfRAv3kZ99OcpZF4f4Mpnmq6WwICNfPxz1bbLXlkDteBv4c2njbYw==;fP5GBSW9SDGErgLTzwULgA=="
 ---

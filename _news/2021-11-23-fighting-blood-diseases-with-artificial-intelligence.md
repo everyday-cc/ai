@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-int
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -42,6 +42,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Transforming Legacy Manufacturing Enterprises With AI on the Edge"
+    excerpt: "This article discusses how legacy manufacturing enterprises can harness the latest technologies, to optimize factory operations without having to ramp up infrastructure investment."
+    publishedDateTime: 2021-11-21T16:18:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/article/2021/11/transforming-legacy-manufacturing-enterprises-with-ai-on-the-edge/17886"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 39
+    images:
+      - url: "https://www.manufacturingtomorrow.com/images/articles/17886.jpg"
+        width: 680
+        height: 340
         isCached: true
 
 secured: "qxSE6Rvkh77snSk2ccDJiQozdlG6uOGii0jaCJr0m2tNwfDoum3NIrxmKcXhkJS9GEoovmouurpwlBLaiOOGdePO4ABBDuUd3zVUjPW7sV59/9j4jpPz3j4CAfueQtybfzNpWaMc0oOf7wAtCnILM2cN0oqUPggbhYciPU4VI6MnuqbiIFBQ5U1J7W9JWegyU7uWVIUzjXMZh72S6gtOFsmZUbElINa7jtahOSrqZgoVniK3ujD2MFKGpZPYm4o6Oejot3HiJZCnEJv6FTZoWjDgZzJJFEHnwcuDpb685G85spTKeygZcWGXxTN+7xawfYHT/7KyMchrApMVqnXfHkjFx6BO2ceNU1S/ddQCizcnrRjDYLf5vDpDEXCW8OLquTdngSrHwgFUZtJpUHttWi5gkErw5n/5k3lSkdrqqPBL5U1Zyp8ZndzAXdvylSZO6hWdgf7tGyucJI/c+hIl3Z+jBbHtZi8st3gEl67TMlTlQXjiy8RiSXSjA/B6Rx8eX67KzbTNbpjkHXYpi+l1RA==;O9ugRbOlpPO6TiA8Mu/jWQ=="

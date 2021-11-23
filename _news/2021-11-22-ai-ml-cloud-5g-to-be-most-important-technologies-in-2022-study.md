@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-m
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CityWithLIghtsSmall.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Artificial Intelligence and Machine Learning, Cloud Computing, and 5G Will Be the Most Important Technologies in 2022, Says New IEEE Study"
-    excerpt: "Chief information officers, chief technology officers, and technology leaders globally surveyed on key technology trends, priorities, and predictions for 2022 and beyond."
-    publishedDateTime: 2021-11-18T20:55:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 26
-    images:
-      - url: "https://beta.darkreading.com/images/og-image.jpg"
-        width: 342
-        height: 342
         isCached: true
 
 secured: "ai36rQzx//rtWvLS6TcFtyxcyb/fNdD3R5om81v99Zo7QVe7jkRUgyzI7WWlTjBhOQEPKuTQf/lJ+heUj4Glpf0PhQMeL6+BedxOv5mo4gbO/TFmes1vgsp2y+I41UlR/3Bj6nhfjgd4+6afMCCT4vc9VfsSyoBNyWtFyQiVeFJdqad5k/K0sPniX8DhYl6hnSR/GRO9ogaf34OzmHHHJAyDG/hdPr3ZV4WId+zK//c50VNX1I5Tqbm5+zBclClvjjjiCs51VlzXAKaM6GhK/LjtLNz8NniGcmvOTAEpDsjRoQ5gyspwW/r2CQGQXxT6x0rWYRjj86IpEM9l4T+XKWh6tPagfVoaJIl5Ze+IvkM=;enIn6uFK8rqEti8cHLX7UA=="

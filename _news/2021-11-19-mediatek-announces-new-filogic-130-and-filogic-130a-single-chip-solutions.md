@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1171
         isCached: true
-  - title: "MediaTek Announces New Filogic 130 and Filogic 130A Single-chip Solutions to Bring Wi-Fi 6 and Bluetooth 5.2 Connectivity to IoT Devices"
-    excerpt: "MediaTek today announced the new MediaTek Filogic 130 and Filogic 130A system-on-chips (SoCs) which both integrate a microprocessor (MCU), AI engine, Wi-Fi 6 and Bluetooth 5.2 subsystems, and a power management unit (PMU) into a single chip."
-    publishedDateTime: 2021-11-18T21:02:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-wi-fi-878da229a274d9575e159cd184467f2e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "IFy7cFwgsYTimz7tZT6Xj6MHQAW+YvUfFwa0ChuZblQvuHwJm7lCKyDfG3h8OoEqEqRQpiHXyLAbJiL7dbM95DdoELzt72iyzm6x7qRLG5kbLRytDMOvbXw6YSMteWO4oxHZPS2oMrKeXKSL72e+TtDkA9SwEeSxb6pnNo5kSph/gF6opXASplAlY8kFQul55siX/FC76Jv9Lj0TGoBHtUBIY1omOd6nL6ZhZCJivq1o2XxW+MG3PiLMxw6T2e34UgCCunrXgI4gGAOLObkFSe5yw3JQE1SqPGizNWnZy2BwSunI/PEYoRjkEV6aShxzkviLm2iC4d73nEG5O7qnnV0oadgCIHBSR8rmit931sCcCcBh6zav7FT2YLf+XCD2YKgMiKKLRf7oPUonx/vFihuISc8pHcHTranrMxPyhSzuHBJEFdtDAR7esQz9AnyQH+Z/UBD+T5sJC2X+onfFvdv6dclZGJShR0faIKE29hRQF3qocSrVXohrEV5IyR30pAnbIBv6/fzly9icWfBMsA==;b1eqMW1aMZ0az/xZ904tow=="
 ---

@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Solving entertainment’s globalization problem with AI and ML"
-    excerpt: "Fully autonomous translation solutions are some ways off, but that doesn’t mean AI/ML cannot reduce the workload today. It can."
-    publishedDateTime: 2021-11-18T20:12:00Z
-    webUrl: "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/"
-    ampWebUrl: "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/"
+  - title: "Fighting blood diseases with artificial intelligence"
+    excerpt: "Every day, cytologists around the world use optical microscopes to analyze and classify samples of bone marrow cells thousands of times. This method to diagnose blood diseases was established more than 150 years ago,"
+    publishedDateTime: 2021-11-22T20:23:00Z
+    webUrl: "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095494266.jpg?w=1024"
-        width: 1024
-        height: 676
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/fighting-blood-disease.jpg"
+        width: 1300
+        height: 1300
+        isCached: true
+  - title: "AI could help better diagnose blood diseases"
+    excerpt: "How can we better diagnose blood diseases? A research group led by Helmholtz Munich aims to answer this question with artificial intelligence (AI)."
+    publishedDateTime: 2021-11-23T01:00:00Z
+    webUrl: "https://www.news-medical.net/news/20211122/AI-could-help-better-diagnose-blood-diseases.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211122/AI-could-help-better-diagnose-blood-diseases.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211122/AI-could-help-better-diagnose-blood-diseases.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "VPrdXGryOO7hZeCnabS6w5MlbnxXh9gWI72X0fyq28c3VJgdQ6SbHaSZFexSCONM7S37T4lF1kTg9OSjkHrp1gm3jHPfiLcMbU9vf/5cziUtJ5DhrQssLdnHv383LIoPjurBGoXqEutDlScKTiXpNKjihjCLFk6WVb+CJEA/vz+kKeDgmnHMptLU3xiWXRkRtqEXflYYxUwI90kfUPxRkvwFp/ZbBx54m725M1rSZU7jnPDHNpNsMbAIH516K98OWN52lFWh8ynGrQl7peILT2NSUqfkCKF12II4mB23NaipPnZS6p1ktf52PGvKNjz8lITDhncYk0u0rcn0vboIXCqydn6yTmr8eNbiyTGQAeI=;g9kawek/FNlrV2zHEIzCdg=="

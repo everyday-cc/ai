@@ -43,54 +43,6 @@ related:
         width: 1200
         height: 793
         isCached: true
-  - title: "Apple ramping up work on developing self-driving car, report says"
-    excerpt: "Apple is trying to speed up the development of its self-driving electric car, according to a report from Bloomberg on Monday. The project has reportedly been refocused around the car's potential for autonomy,"
-    publishedDateTime: 2021-11-18T20:43:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-ramping-up-work-on-developing-self-driving-car-report-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-ramping-up-work-on-developing-self-driving-car-report-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-ramping-up-work-on-developing-self-driving-car-report-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/g5rWOb9Rr44hYJB8m6Lcxbeqdlw=/1200x630/2021/06/02/84926090-2476-4020-9708-2d79e8bbc315/ogi-apple-car-render.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Report: Apple accelerating plans to make a fully self-driving car"
-    excerpt: "According to a new report from Bloomberg’s Mark Gurman, Apple is stepping up its car ambitions. The company now aims to launch a fully autonomous vehicle in four years, though that 2025 target date is fluid."
-    publishedDateTime: 2021-11-18T19:20:00Z
-    webUrl: "https://www.macworld.com/article/553055/apple-car-self-driving-release.html"
-    ampWebUrl: "https://www.macworld.com/article/553055/apple-car-self-driving-release.html/amp"
-    cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/553055/apple-car-self-driving-release.html/amp"
-    type: article
-    provider:
-      name: Macworld
-      domain: macworld.com
-    quality: 74
-    images:
-      - url: "https://www.macworld.com/wp-content/uploads/2021/11/apple-car-steering-wheel.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Apple renews interest in vehicle project, shifts focus to self-driving capabilities"
-    excerpt: "Sources familiar with the matter tell Bloomberg (paywalled, via MacRumors) that Apple has renewed interest in the project and has shifted its focus to self-driving capabilities. Apple has been interested in getting into the automotive industry since at ..."
-    publishedDateTime: 2021-11-18T19:46:00Z
-    webUrl: "https://www.techspot.com/news/92290-apple-renews-interest-vehicle-project-shifts-focus-self.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92290-apple-renews-interest-vehicle-project-shifts-focus-self.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92290-apple-renews-interest-vehicle-project-shifts-focus-self.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-18-image-19.jpg"
-        width: 1500
-        height: 809
-        isCached: true
   - title: "Apple accelerates work on car, aims for fully autonomous vehicle"
     excerpt: "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
     publishedDateTime: 2021-11-19T18:00:00Z
