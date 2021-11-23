@@ -95,6 +95,20 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "UAE - Look: Abu Dhabi rolls out free driverless taxis as part of pilot project"
+    excerpt: "Driverless taxis have been rolled out in Abu Dhabi as part of the pilot project for the new technology. Txai, the region's first driverless taxi service, was launched on Tuesday at the Abu Dhabi Smart City Summit,"
+    publishedDateTime: 2021-11-23T19:24:00Z
+    webUrl: "https://menafn.com/1103237724/UAE-Look-Abu-Dhabi-rolls-out-free-driverless-taxis-as-part-of-pilot-project"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/23/KT_30499image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "gLfXudyq72m+ej3tW02/YWUt+TCTtQ/MkG4Cup/OEdDa8WOCktXQnmkpLG9tMCl9/79dlqXrgMsguF5UQV5O0HTSCrQ61vk4pPn8SRUOxtxORI81f4/Jewi2ZvCceJWYDycsPcOxR0PDfvqiA7pK2KojfkuDw30GlB3AwG5EHU7frJGD0r4Vqx9Pc4D3108dM90h8ixbld+2Z9LwlB6xxq4FCPSKY6r2zl2lNGpTU7hpCfzeXOcSVJuL7buTVvuc6BqT0R4dU0C2Wumo1j5/Bvv7Ezw7VSMwNg5EHVtf9vqXiQMfimgoyTX9aZKbCP/P+Vy1eotGlX7sICqFKbi+pnstGBgAH53KXiN4i5RJgJE=;28AnVSJ5OznfopLXUgJtmQ=="
 ---

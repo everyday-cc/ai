@@ -49,6 +49,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
+    excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
+    publishedDateTime: 2021-11-23T20:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/398836"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
+        width: 635
+        height: 400
+        isCached: true
   - title: "AWS wins Adidas contract to host its SAP workloads"
     excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
     publishedDateTime: 2021-11-23T15:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabi
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C561AAQEL-xxcRQRilQ/storylineheaderimage-shrink_400_400/0/1637491945216?e=1637726400&v=beta&t=7A0ywOGl_efkqB1A87d5QcYSl2M0EZsoOXGOwmt6Mjc"
         width: 400
         height: 266
+        isCached: true
+  - title: "UAE - Look: Abu Dhabi rolls out free driverless taxis as part of pilot project"
+    excerpt: "Driverless taxis have been rolled out in Abu Dhabi as part of the pilot project for the new technology. Txai, the region's first driverless taxi service, was launched on Tuesday at the Abu Dhabi Smart City Summit,"
+    publishedDateTime: 2021-11-23T19:24:00Z
+    webUrl: "https://menafn.com/1103237724/UAE-Look-Abu-Dhabi-rolls-out-free-driverless-taxis-as-part-of-pilot-project"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/23/KT_30499image_story.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Abu Dhabi’s G42 to start first driverless car trials in Middle East"
     excerpt: "Launching on Yas Island, cars will have a safety officer on board and transport passengers between nine stops, including hotels and shopping malls. Abu Dhabi’s G42 to start first driverless car trials in Middle East."

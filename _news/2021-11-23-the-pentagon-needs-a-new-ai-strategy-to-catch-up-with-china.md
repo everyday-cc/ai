@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/3eb428d4-3551-4215-904e-863f1c1a56ea"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/3eb428d4-3551-4215-904e-863f1c1a56ea"
 type: article
 quality: 57
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How the Pentagon Is Bringing Artificial Intelligence to Its Cameras"
-    excerpt: "How can seemingly unmanageable volume of data be organized efficiently for human decisionmakers? Here's What You Need to Remember: The new DARPA system, called Fast Event-based Neuromorphic Camera and Electronics (FENCE),"
-    publishedDateTime: 2021-11-19T03:30:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/how-pentagon-bringing-artificial-intelligence-its-cameras-196484"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/army_12.jpg"
-        width: 1222
-        height: 815
-        isCached: true
   - title: "Artificial Intelligence Can Give the U.S. the Speed It Needs to Beat China"
     excerpt: "Speed will be essential in any conflict with China. Here's What You Need to Remember: This kind of real-time combat networking, particularly across domains, is something the Army has been working on for decades."
     publishedDateTime: 2021-11-22T00:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-terminal-market-2021-to-2027-existing-and-future-insights-growth-2021-11-22"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Infrastructure Market Research 2021-2025 | Analysis of Industry Growth, Import-Export, Consumption Value in Development"
-    excerpt: "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “AI Infrastructure Market” Report 2021"
-    publishedDateTime: 2021-11-19T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-infrastructure-market-research-2021-2025-analysis-of-industry-growth-import-export-consumption-value-in-development-2021-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence (AI) in Logistics Market Recent Developments, Research Analysis Forecast 2027"
     excerpt: "The Global Artificial intelligence AI in Logistics Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the"
     publishedDateTime: 2021-11-22T07:24:00Z

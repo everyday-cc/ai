@@ -46,6 +46,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nvidia’s new text-to-image tool shows how AI could render stock photos obsolete"
+    excerpt: "Stock image providers may be concerned about their future after Nvidia showed AI's potential to generate realistic images"
+    publishedDateTime: 2021-11-23T20:06:00Z
+    webUrl: "https://thenextweb.com/news/nvidia-gaugan2-text-to-art-tool-shows-ai-could-replace-stock-photos"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-3-3.jpg&signature=5e49d582b9b8913cdfc8efca89446184"
+        width: 796
+        height: 398
+        isCached: true
+  - title: "Kore.ai Extends Series C Funding to $73.5M With NVIDIA"
+    excerpt: "Kore.ai, an Orlando, Fla.-based conversational AI software company, extended its Series C funding round to $73.5m with participation from NVIDIA (NASDAQ: NVDA)"
+    publishedDateTime: 2021-11-23T18:58:00Z
+    webUrl: "https://www.finsmes.com/2021/11/kore-ai-extends-series-c-funding-to-73-5m-with-nvidia.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/kore.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "NVIDIA and Mavenir Tap L&T Technology to Accelerate Adoption of AI-on-5G Platform"
     excerpt: "LTTS will support Mavenir with customization, integration, and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform."
     publishedDateTime: 2021-11-22T16:27:00Z

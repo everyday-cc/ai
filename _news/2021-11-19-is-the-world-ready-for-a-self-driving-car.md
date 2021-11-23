@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -136,6 +136,34 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idGB5ffNLTgE/v4/560x-1.jpg"
         width: 560
         height: 373
+        isCached: true
+  - title: "Apple wants to launch their self-driving car in 2025"
+    excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
+    publishedDateTime: 2021-11-23T19:30:00Z
+    webUrl: "https://omaha.com/news/national/apple-wants-to-launch-their-self-driving-car-in-2025/video_ed29d3cd-9850-5f31-b032-5356012a5614.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed29d3cd-9850-5f31-b032-5356012a5614/619d28a3d9226.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
+        width: 640
+        height: 336
+        isCached: true
+  - title: "Self-driving cars: Are they actually safe to drive?"
+    excerpt: "Self-driving cars aren’t some crazy future tech … They’re here now. That raises some questions. Does it actually work? Is it safe? Is it work shelling out"
+    publishedDateTime: 2021-11-23T19:39:00Z
+    webUrl: "https://www.komando.com/episode/self-driving-cars-are-they-actually-safe-to-drive/817085/"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 24
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2021/03/kk-img-20210303-kim-komando-explains-1400x1400-1.jpg"
+        width: 1400
+        height: 1400
         isCached: true
 
 secured: "FnT6NImrpDM3nGxenx+j7sAkIMpuz8w1Ed6uPVaAoS05rLk04Txhaw9foVismeN/aYYwY6atKUfKz+ezzEOCB4BC/l28Astyn6nz8QuLPkY+w8j/p+Pa5daW4kRjWJkd9yZ/Uk9MoOmQYWivfeiFV8/8USj2Dc70c3QCJ1YqrQYVSw2crwXryQ3L1YJjOLAASMKpyR24pAWNQBH2FJ9S70PsjljSKv6d/ZRpUGHASjDRr9yTlcjIotizYqbp10K2eaxEbrvc5KDIuYI1qAm1SqZdsJ4fTZ7/iByDojVPRvwJsddhdgrXeBJ6BPXsgHv3olmGSR7YUFKIgpojjqFghpKyh6ag2QmLMKDz8txg+YzYrqkhB/YKSIKU9O9hwv9+raTdkG9V8IdAMKij+8FZCZsAapt6yI2wA7rBCTL1LnzSCWqcwgAuKY16RJbBhdwC5y0i0KIp/7Si7QpsHx5jjNr9eA0Lr1k0vrGAy2pGUeRxju3mxYOpU9tJvpM9hZE4ezhhnDJwzSJcmqeeQY6QoQ==;nXCyBSPxNDMom48L6fQQlg=="

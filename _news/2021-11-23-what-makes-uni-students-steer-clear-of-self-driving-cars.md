@@ -133,6 +133,34 @@ related:
         width: 560
         height: 373
         isCached: true
+  - title: "Apple wants to launch their self-driving car in 2025"
+    excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
+    publishedDateTime: 2021-11-23T19:30:00Z
+    webUrl: "https://omaha.com/news/national/apple-wants-to-launch-their-self-driving-car-in-2025/video_ed29d3cd-9850-5f31-b032-5356012a5614.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed29d3cd-9850-5f31-b032-5356012a5614/619d28a3d9226.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
+        width: 640
+        height: 336
+        isCached: true
+  - title: "Self-driving cars: Are they actually safe to drive?"
+    excerpt: "Self-driving cars aren’t some crazy future tech … They’re here now. That raises some questions. Does it actually work? Is it safe? Is it work shelling out"
+    publishedDateTime: 2021-11-23T19:39:00Z
+    webUrl: "https://www.komando.com/episode/self-driving-cars-are-they-actually-safe-to-drive/817085/"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 24
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2021/03/kk-img-20210303-kim-komando-explains-1400x1400-1.jpg"
+        width: 1400
+        height: 1400
+        isCached: true
 
 secured: "YZLQ6E7JQVKJ5JKepMoA08O5YqEafEmfqC4rYtFQ0pUu5ANHYgdMK2MJ1eEETvrUtU/OFFCkU1WQ4dKdv0HyOQ6829LC2ghFOwNGkAUJxYWvckSjKOcAI6c113/4HLB/yfGnP1eO8g3B4vd+ZfwvjSPDtmywuQVJaBkXaOaOOAsriYdTxun6rnBS1N07CynLQ/Y5KiGkVnuKGNkF7ki43Na1ia/weNqxr1n/Sq7LfkmnIir+YvudRJVWT7NtdzNcSermbAbU2w1dPsFZBh99EVKCAQV2lRZqg2yMjJCfKrJPqWZlxpPho9UPYz+xiCFkF3eTfDyQBpXtXjNWQj1cLAhkFvIDv/isdCxRSUWxPXVAAPotmv0LiJKsRBKiEwVVq4SgbcAF7kSEyzCS4MsN6hZTeh5cKr/+LvN7YK6gaM4CxDHvZO5p4tCmAEfutpl7d+pCw222XefMhp/eSaMJC7E9U7HypRMLHUlGG9Al9OLarjgsINptgirbXlwkeiNUg/N6kvCEAzRLcXhhmM2Wyg==;3pViK38sa6ommt5r44m/WA=="
 ---

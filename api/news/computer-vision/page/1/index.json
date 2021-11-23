@@ -63,7 +63,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/23/streetlogic-launches-computer-vision-based-e-bike-collision-warning-system-raises-2-1m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -167,7 +167,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-terminal-market-2021-to-2027-existing-and-future-insights-growth-2021-11-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -691,19 +691,19 @@
     {
       "path": "_news/2021-11-15-electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec.md",
       "title": "ElectrifAi Announces Computer Vision and MLaaS for Oil, Gas and Energy at ADIPEC",
-      "excerpt": "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (Ai) and pre-built machine learning (ML) models, today announced availability of Computer Vision (CV) and Machine Learning as a Service (MLaaS) for the Oil ...",
+      "excerpt": "ElectrifAi, one of the world's leading companies in practical artificial intelligence (Ai) and pre-built machine learning (ML) models,",
       "sourceUrl": null,
-      "webUrl": "https://www.thaipr.net/en/general_en/3121807",
-      "originalUrl": "https://www.thaipr.net/en/general_en/3121807",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-805648369.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-805648369.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thaipr.net/wp-content/uploads/2021/11/161164-1200x628-b405234e-768x402.jpg",
-          "width": 768,
-          "height": 402,
+          "url": "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook",
+          "width": 594,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -713,11 +713,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T20:31:00-08:00",
+      "publishedDateTime": "2021-11-15T05:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "thaipr.net",
-        "domain": "thaipr.net",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

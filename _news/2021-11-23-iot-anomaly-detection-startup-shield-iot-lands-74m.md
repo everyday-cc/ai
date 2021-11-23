@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/amp/"
 type: article
 quality: 72
-heat: 74
+heat: 75
 published: true
 
 provider:

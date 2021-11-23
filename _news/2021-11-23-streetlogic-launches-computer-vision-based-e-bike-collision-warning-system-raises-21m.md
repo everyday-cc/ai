@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/23/streetlogic-launches-computer-visi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/23/streetlogic-launches-computer-vision-based-e-bike-collision-warning-system-raises-2-1m/amp/"
 type: article
 quality: 95
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Start-Up Company Streetlogic Launches Computer Vision E-Bike Collision Warning System"
+    excerpt: "A start-up company called Streetlogic has gathered $2.1 million during its pre-seed raise, and the announcement came with the launch of its flagship product, called Streetlogic Smart Alert System. It is an advanced rider assistance technology meant for e-bikes,"
+    publishedDateTime: 2021-11-23T19:00:00Z
+    webUrl: "https://www.autoevolution.com/news/start-up-company-streetlogic-launches-computer-vision-e-bike-collision-warning-system-174875.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 32
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/start-up-company-streetlogic-launches-computer-vision-e-bike-collision-warning-system-174875-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "XW+MZ7Nu0/Pv+Hff+0sc0IlQVi6FVfOMNjoRzvX14xdWgliphfAfqzOV9aWr4cNLPI1tUVtA+NQR4qXp3Yq8ZO51NXSpNXFBnUGsn1REA2wTzhiG99WIYfOdmvTr2xsjTc32ABPpcpPKNTd5IjFhr/ijDbEFfHQaY4FvPKOr/H0RdW/0VM5MaVMgBfkmrSwjPWOqos3uUTXYO3tj0KiuvRAo86gI9vbYOi7Nbp3C3/8QlTSCZOChrHi+Ab17Hvoes8assHcJC2xZSJnYJ+LY9z0WQXyjEgPcz+CRSj4rmOHAvw6RFMyK7QMyvFcXv93EcHJ1GbIFKzaMZitqEcXo5Znv5dU9+QFhTSloHwgYtS0w0lXAg4IXqerYlGqUAaTEAMJODJ2uZMRbj/gQFdoKOKJqUNvbqQ6ZAVhWfj8C6Vh4jSZUraI8Z7SLIZ7DOp9waPj2AHjuNy2IrhtFekrgPHfI0BPI2+YIFB3QARcGa6EJ9HwnC8HpVMnPa/NUwkhHx/TXe2jhPZSlfvXhvTMOQA==;yIDCjIcRMTF7afmkMvh7fw=="
 ---
