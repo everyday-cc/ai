@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mybigplunge.com/wp-content/uploads/2021/11/pexels-jordan-harrison-343239-1000x600.jpg"

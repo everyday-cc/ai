@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-c
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467697/trending-report-on-very-edge-ai-chipset-market-2021-to-2026"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chipset Market 2021 To 2031 | Increasing Demand And Opportunities For Machine Learning & AI Industry"
-    excerpt: "The report published on the MarketResearch.Biz titled Deep Learning Chipset market brings an analytical view of the Deep Learning Chipset market performance in the global as well as the regional scenario. In a detailed chapter-wise format, the Deep ..."
-    publishedDateTime: 2021-11-18T18:02:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00528/deep-learning-chipset-market-2021-to-2031-increasing-demand-and-opportunities-for-machine-learning-ai-industry.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 67
-    images:
-      - url: "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Big Boom in Manufactural Artificial Intelligence Market 2021 to 2026"
     excerpt: "Portland United States Big Market Research newly added a research report on the Manufactural Artificial Intelligence Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario and"
     publishedDateTime: 2021-11-19T09:25:00Z

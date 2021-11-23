@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Globally Awarded AI Startup Receives USD 1.4 Million In Seed Funding"
-excerpt: "Mindsmiths to make next step in developing their autonomous support system platform with a proven social impact track record ZAGREB, Croatia, Nov."
-publishedDateTime: 2021-11-23T08:46:00Z
-originalUrl: "https://www.iltempo.it/adnkronos/2021/11/23/news/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-29544350/"
-webUrl: "https://www.iltempo.it/adnkronos/2021/11/23/news/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-29544350/"
-ampWebUrl: "https://www.iltempo.it/adnkronos/2021/11/23/news/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-29544350/amp/"
-cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2021/11/23/news/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-29544350/amp/"
+excerpt: "Globally awarded Croatian AI startup Mindsmiths received USD 1.4 million in seed funding from Feelsgood investment fund which"
+publishedDateTime: 2021-11-23T09:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-812201362.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-812201362.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Il Tempo
-  domain: iltempo.it
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1693334/1103802_image.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
 related:
   - title: "GenesisAI Shared Unique Strategies for StartUp to raise a million dollars in seed round via equity crowdfunding"
@@ -35,6 +39,6 @@ related:
         height: 450
         isCached: true
 
-secured: "r84B32W1YKrTZ0K2/On5jnN3aiZq9ZvPfEOKtVIdmyfg6cn5DTOcLYfY+YCMg/kq956+QyHjV0EcA17KnJ9eNqjCBHaTTOWETX1iBpP66ic+oEoS+Z3IHQieVuLbMf/9djvT7Nz3TypvejIulDFNc/09IN3wnqxaGrTKs6fdBTWoOaBnU+H14RWd8RP98JzqZcU8Y7zrcZrikiZx6i9/D9bd+wUdTMT40tJpLzN+5iw4+CndcwaSx0mzby/aNmoHLfNBrHmaBrmqazVrBdhF16Fv7MvfDstLa4k5nhorf9Ir7mEkmjPDtQp0PLo+JtODVfkLkIijFhE4Fbh9wVBNP0+2vpiltKLHAekDRNoa8AE=;cVTcP8ngXuEl6a2T175azg=="
+secured: "YKXCsg4GX9CG8O7MgMa2xWitRnQz/1798bzTRSClIMGyZC559r/rDGqj84CUCONDQ5V73BpHinkJgxMuoge6kmAuLQf8AQyTvK4Cve5fHd6oDPoWX6dsOtUM4jyAA/wCvwegY/y0VdCKYCEQvbyF0PmvnUl0VzIzoChPwDVloQ1/1CldEjC7gfobOnAiQKyUpm1lupkLvsuEcXW7M7Mfe98PgAT9V/1kzGUOdoFrfyl5b7FBQH0LzD7FNj6HsFV8oLhnFbiD9AHUYuFnjCul6vx5SKylhxNKrVb9tD6P6UWN88jC9lXntv7Xnack3bGpx9/QqbswY1mGLvXNmIAGDbzsccCWmWiSvnrRp28AW9s=;xnCEAY1QEhHRjkEpe+5wxg=="
 ---
 

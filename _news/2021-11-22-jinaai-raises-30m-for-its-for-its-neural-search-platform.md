@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/2021/09/The_Briefing-rs.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
+    excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding. LifeVoxel’s patented technologies empower instant and ubiquitous access to interactive imaging studies and data,"
+    publishedDateTime: 2021-11-22T13:36:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-health-patents-e9ffa0c143116c98614c10aaad9f215d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "BAM6CmNe77fkLW8WfgX16dvn7/aH8vSRULlSnTHK+txiN7SG8Oz05nJ1dG4C6aEWZZT8DdMQsEQCAguWXlA0TYyRAFcW8WTXEWAHe5Kahn8kCdHZbBM5076pFmEcQBbzKeMiVicl/yv+uNEFElptDyA2mwgUkXfWgpSs+vUN47K3Ow/dzH2emJuUHvIGSW7X8QFmyrvskXTM6egGpOzPphMurBjwR9UANWzGqAGneh0enI7reC9Zn2PGxHkdmdbxL+K75wCs1Fc2qkldWNvPY+0DMy40hiW/4qDpAoxmL0+PUIK2gRlg6YkNm/zyyATpWrpGzbFJJL+hBiMOWW9oVcb/VpLG5hWOcr/VqyX6dmfme9fqsNFvotCR4qd2ugHG/6APBWKjzSmra8br6iA9oyMfhFg3vi1IzFV2RDMPqWNjor5ZIrqpARTkq9/5kambCLX64RNpBX1mZRn2pMrUjl8hzTG91mdguexx6mgM3RiNqSgcumEJyW2DSvjFksEZLvgM2zb9gu+dA6ItPY6lMg==;b105pUS38H08C66WK19rSQ=="

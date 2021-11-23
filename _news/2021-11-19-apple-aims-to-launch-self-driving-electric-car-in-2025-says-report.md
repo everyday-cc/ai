@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/18/apple-aims-to-lau
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87795164,imgsize-14990,width-800/87795164.jpg"
         width: 800
         height: 505
-        isCached: true
-  - title: "Apple now believes it can ship self-driving EV as soon as 2025, Bloomberg reports"
-    excerpt: "Apple is currently determined to ship an electric car that can drive its passengers around within the next four years, according to reporting from Bloomberg. The latest report emphasizes both the features and pacing set by current leadership over the project at Apple."
-    publishedDateTime: 2021-11-18T18:16:00Z
-    webUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/"
-    ampWebUrl: "https://9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/18/apple-car-processor-timeline-features/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Apple self-driving electric car debut may happen as early as 2025: Here's what you should expect"
     excerpt: "Apple is not only looking to launch an electric car with some autonomous features, it is planning to launch a car that can completely drive itself"

@@ -23,6 +23,17 @@ images:
     height: 344
     isCached: true
 
+related:
+  - title: "BigBear.ai Awarded New Contracts"
+    excerpt: "BigBear.ai (“the Company”), a leading provider of artificial intelligence (“AI”), machine learning, cloud-based big data analytics, and cyber engineering solutions, today announced that it has been awarded two new government contracts."
+    publishedDateTime: 2021-11-23T10:44:00Z
+    webUrl: "https://www.financialbuzz.com/bigbear-ai-awarded-new-contracts/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 17
+
 secured: "eCEk/D95lSzm02m5v+gkY0WMJzXgG8zgfd3bvglDkR+53e69JDlixiSYYtwtLthmfsQq+z+RcEkZMKumnWJ3ChWiggcUdRbCukMtf45DvWAvjyPWDVEvvwx6D6Te1FyC86nvBpY+5ZDInRo6akKbDGIx2n/fMn6igYyaJZ6OLDahSnb2XqujYbV9ZHcTeyPZ8Cv1GVSp6FjnKTaQ0gTh8IuwsCGSCfN+Ylg+onjAvZf4Yu0ItomkeldPpMO3X71EduegjCpZf7bMLO7vqv96fGoEhWJuMYfRJCfn0fHNU0uruUDUXbPh/f0Jed6oBjagIM6UnhUwiaFIyyJSn+7BAze86WiurbzvxgIT2S+bMXPErL0fYTIJMH8icDh956JD8aNan9QjQiLOmMI/MEnehZzDTVrL4jPxtVMVDZLVa4jnbYTQq4CaKlvqUYsXwq38dL4zy8R3VbESgc48EZ1c5GUsk3mfFuLfJx3FRHEgfmKg94QKdaaRL/VXEOXY5vjD89RKR81gyupxG+2tEJs2nw==;j8cI1I9+dlrHXxJPTF3Q4w=="
 ---
 

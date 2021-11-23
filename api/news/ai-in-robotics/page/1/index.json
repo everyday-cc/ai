@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-23-industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital.md",
+      "title": "Industrial robot maker Haber raises $20 mn funding led by Ascent Capital",
+      "excerpt": "Industrial robot maker Haber on Tuesday announced raising $20 million (about Rs 149 crore) in a funding round led by Ascent Capital. Accel, Elevation Capital, Beenext, Temasek partner Mukul Chawla and the founders of GreyOrange,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital",
+      "originalUrl": "https://www.freepressjournal.in/business/industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2021-10/ac1f0b53-8abb-405a-8c96-a2d218e4e20e/Capture.PNG?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 1214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/industrial-robot-maker-haber-raises-20-mn-funding-led-by-ascent-capital",
+      "publishedDateTime": "2021-11-23T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-the-retail-robot-battle-continues.md",
       "title": "The Retail Robot Battle Continues",
       "excerpt": "In this second installment of a four-part series, Georges Mirza looks at the robots powering Schnucks and more.",
@@ -1409,49 +1452,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-carnegie-mellon-university-cmu-invites-students-to-explore-artificial-intelligence-with-opening-of-jpmorgan-chase-co-ai-maker-space.md",
-      "title": "Carnegie Mellon University: CMU Invites Students To Explore Artificial Intelligence With Opening of JPMorgan Chase & Co. AI Maker Space",
-      "excerpt": "Reid Simmons has stopped trying to guess what students will come up with next.As head of Carnegie Mellon University's undergraduate program in artificial intelligence, Simmons watches what some of the most creative minds are doing with AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmu.edu/news/stories/archives/2021/november/jp-morgan-ai-maker-space.html",
-      "originalUrl": "https://indiaeducationdiary.in/carnegie-mellon-university-cmu-invites-students-to-explore-artificial-intelligence-with-opening-of-jpmorgan-chase-co-ai-maker-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.cmu.edu/news/stories/archives/2021/november/images/jp-morgan-ai-maker-space-900x600-02-min.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-12T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

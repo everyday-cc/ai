@@ -25,16 +25,19 @@ images:
 
 related:
   - title: "Globally Awarded AI Startup Receives USD 1.4 Million In Seed Funding"
-    excerpt: "Mindsmiths to make next step in developing their autonomous support system platform with a proven social impact track record ZAGREB, Croatia, Nov."
-    publishedDateTime: 2021-11-23T08:46:00Z
-    webUrl: "https://www.iltempo.it/adnkronos/2021/11/23/news/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-29544350/"
-    ampWebUrl: "https://www.iltempo.it/adnkronos/2021/11/23/news/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-29544350/amp/"
-    cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2021/11/23/news/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-29544350/amp/"
+    excerpt: "Globally awarded Croatian AI startup Mindsmiths received USD 1.4 million in seed funding from Feelsgood investment fund which"
+    publishedDateTime: 2021-11-23T09:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-812201362.html"
     type: article
     provider:
-      name: Il Tempo
-      domain: iltempo.it
+      name: PR Newswire
+      domain: prnewswire.co.uk
     quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1693334/1103802_image.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "kTpWwq2bx4tprpCZKLlt7dzSzGur5aDJUiE60uh/E9VxaTpb7AwHwADX9E35/iLVj+GimIvC8t1D0mayngB1yKTKmClkwp6MhjnN7r8S8MZ/LrcuLpUV5Wt4nzG/LPLOqHcdJkQsVaa69Uj3zyrH53jBAzpoRMzmYc1DEcBGUAV+34JNILQxtdhQq3s+/TP1MMhAlvDS8baSKm4Zky3YWBEhrn/fZa/35QfkQSm+qJfC4B3ESD9yC9YDiwpmSveAyfXBU3c7/M4AOIvrQhW8guei1S3kaTY6tTSys7YEv+CQTrd+qXBOktzkTCi+PV+pKBKBxGwqJwrKtjSFJHDTl692bTD+rEuMpoXvrP8vBJY=;Q9t4646BYHN/Lx0H8/HAzg=="
 ---

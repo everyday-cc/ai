@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 793
         isCached: true
-  - title: "Apple reportedly aims to debut a fully self-driving car in 2025"
-    excerpt: "Apple may be sharpening the focus of its long-in-development electric car. Bloomberg sources claim Apple is now shifting its attention to a fully self-driving car — without even a steering wheel."
-    publishedDateTime: 2021-11-18T18:27:00Z
-    webUrl: "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/"
-    ampWebUrl: "https://techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/apple-reportedly-aims-to-debut-a-fully-self-driving-car-in-2025/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2015/02/apple-car.png?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Apple ramping up work on developing self-driving car, report says"
     excerpt: "Apple is trying to speed up the development of its self-driving electric car, according to a report from Bloomberg on Monday. The project has reportedly been refocused around the car's potential for autonomy,"
     publishedDateTime: 2021-11-18T20:43:00Z

@@ -22,6 +22,22 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Indian fintech startup Recordent raises $400K angel funding"
+    excerpt: "Recordent, a fintech start-up in the non-banking payment bureau sector, announced that it has raised $400,000 in angel funding from the Family Office of Kantamaneni & IIM Calcutta Innovation Park and other angel investors from India and the US."
+    publishedDateTime: 2021-11-23T10:46:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90390/indian-fintech-startup-recordent-raises-400k-angel-funding"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+
 secured: "YTwHIRDUafzWOtrLIIVxAsxNHGjaj3AajLr/K9AtH1oqJ1m+YL+EBWh5Vsh5DcDV37Zqa0OrzLohn+3ZtJUdXAYAYWCqDUlIBdPPlqWeO/E4WYc8FeBxXk/ODy8svL3CHGA/g8+pDiuy3ZxvMYv0Thy9EJISLK4mkJ33AlDhBRQErK6dW627grgEMh0cEYkSg1jTb6uuyQr2PciPeyngQNGqhCJX/9ur8SBGKGmG/AfFTLrZ45+DoPuk9uuV4nPF65gK2rV/AwlN374hQdfHwFbpzik0HqvG5dR2T7jNt8yktms5X2gdxN+ktd+oa6hQfXJRZveP4AODvaMppKjmXz709RDjIV+Ig4AoFGDCj/qCG+LHL1VlJ+tGGH2gpOUrK6ShqC3c0LgfVJE37Ji0om+ux5hev7lf8E4Vo+VW/UDmI/3c96EDDT4hooNCiP4B/HTmBUuAj82E8cNYDHRxvQ9LhPav48Ao2djzc5/ddBzWccqyHZbzVUK7MYSBykqrvP86X4utMQ8+jK2RpsUupA==;ThsPzU1FQt1dUIeCvxWRHw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 59
     images:
       - url: "https://www.bostonherald.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trying out Tesla’s ‘full self-driving’ – it leaves good reason to be nervous"
-    excerpt: "When a dozen small children crossed in front of our Tesla with \"full self-driving,\" I had good reason to be nervous. Here's what happened."
-    publishedDateTime: 2021-11-18T18:41:00Z
-    webUrl: "https://www.wraltechwire.com/2021/11/18/trying-out-teslas-full-self-driving-it-leaves-good-reason-to-be-nervous/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/11/18/trying-out-teslas-full-self-driving-it-leaves-good-reason-to-be-nervous/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/18/trying-out-teslas-full-self-driving-it-leaves-good-reason-to-be-nervous/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 56
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/11/tesla-autodrive-cnn-1024x576.jpg"
         width: 1024
         height: 576
         isCached: true

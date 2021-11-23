@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Trying out Tesla’s ‘full self-driving’ – it leaves good reason to be nervous"
-    excerpt: "When a dozen small children crossed in front of our Tesla with \"full self-driving,\" I had good reason to be nervous. Here's what happened."
-    publishedDateTime: 2021-11-18T18:41:00Z
-    webUrl: "https://www.wraltechwire.com/2021/11/18/trying-out-teslas-full-self-driving-it-leaves-good-reason-to-be-nervous/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/11/18/trying-out-teslas-full-self-driving-it-leaves-good-reason-to-be-nervous/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/18/trying-out-teslas-full-self-driving-it-leaves-good-reason-to-be-nervous/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 56
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/11/tesla-autodrive-cnn-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "CNN Tried Tesla’s Full Self Driving Beta In New York City And It Didn’t Go Well"
     excerpt: "CNN Business published a video of its transportation editor, Michael Ballaban, attempting to use Tesla’s FSD advanced driver assistance system through the streets of New York City. On a number of occasions,"
     publishedDateTime: 2021-11-20T20:48:00Z

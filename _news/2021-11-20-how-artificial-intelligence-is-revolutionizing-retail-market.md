@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The CEO’s Primer on How to Use AI in Digital Marketing"
+    excerpt: "How do companies fully take advantage of AI’s magic when it comes to marketing efforts? Although this is traditionally in the domain of marketers themselves, CEOs also need to have a basic understanding of how to use AI in this realm."
+    publishedDateTime: 2021-11-23T10:06:00Z
+    webUrl: "https://ceoworld.biz/2021/11/23/the-ceos-primer-on-how-to-use-ai-in-digital-marketing/"
+    type: article
+    provider:
+      name: CEOWORLD magazine
+      domain: ceoworld.biz
+    quality: 56
+    images:
+      - url: "https://cdn.ceoworld.biz/wp-content/uploads/2021/11/diane-keng-1.jpg"
+        width: 1200
+        height: 895
+        isCached: true
 
 secured: "Jn6KLlPj8B40Hk+CawxVj2/CAwuEXrU8s8BmMLvkJQHsfNrWczegUFXBbWiL2mOLHy/GwoboR6hNdqzpLqcW86mJTZyglX54FXQ2ri+b/sV+7ote9h0fXy0TLF+Qkogr/mJRdsBijF2ShCGEhC6wJa5X6XSoSYKdFNbiiUayQ2xD4wfKpEOHrS7bsOwDgBYRsIYim+Vhg6TZKhsPcQefg6ejdnj12X0/bJO6M+IqQVZOHtsPZFCT5tXCPSIuTegX08XH8E+c5hymXKTV0gPHUPWL+ilamVlYSyXVNYWVfGKkMrBmQavUU5z+JXfYTM+m+t/CTvRHQGixA2mOsU+abW5gK84p5MAmydiXIFgkf047GBJXrn6yqOjdYjy0aZEYqYQ6L/oWd6dRxQfw01Nui4Huz4Tyjxqf/fN1ogTnZ1+QPT04yOe+yAqlOKnT1ST/ESYrobCqDZ1ysBWWGdRuNbV+rkwWUT5utAQRk7OV01k+0fdhNH3Dk69f9fiRl079Y+GydKkNx/sNGD1yftrssQ==;ivs1mZ1tlC6i7mRmSuH+lw=="
 ---

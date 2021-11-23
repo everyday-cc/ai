@@ -9,8 +9,8 @@ ampWebUrl: "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using
 cdnAmpWebUrl: "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: CBS Local
@@ -26,36 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "PG&E Tests AI, Machine Learning For Wildfire Detection"
-    excerpt: "By Kimberly Chin PG&E Corp. is testing artificial intelligence and machine learning in some of its high-definition cameras in Northern and Central"
-    publishedDateTime: 2021-11-18T17:15:00Z
-    webUrl: "https://www.marketwatch.com/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 104
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "PG&E Testing Artificial Intelligence That Could Expand Wildfire Detection Capabilities to Growing Network of High-Definition Cameras"
-    excerpt: "PG&E began installing HD cameras in 2018 as part of its Community Wildfire Safety Program. As of October 31, 487 cameras were in operation."
-    publishedDateTime: 2021-11-21T22:29:00Z
-    webUrl: "https://www.hstoday.us/industry/emerging-innovation/pge-testing-artificial-intelligence-that-could-expand-wildfire-detection-capabilities-to-growing-network-of-high-definition-cameras/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 6
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2021/11/MtTamHDCamerasAIsoftware.jpeg"
-        width: 624
-        height: 468
-        isCached: true
   - title: "PG&E Testing Artificial Intelligence Which Could Expand Wildfire Detection Capabilities to Growing Network of High-Definition Cameras"
     excerpt: "Highlights 138 new HD cameras installed in 2021 and 487 cameras are now in operation: 46 with AI test software Eyes in the sky across most of High Fire-Threat Districts in Northern and Cen. . ."
     publishedDateTime: 2021-11-22T06:04:00Z
@@ -66,6 +36,6 @@ related:
       domain: electricenergyonline.com
     quality: 0
 
-secured: "zeblLcVLlWDqdS2ms2ayVpGHxu2Uy87UX1MoWj2l5GNgu64WcJHGmGmeRRHVpbePddJJsjIXqQpLu2QNUEYWdnXnOaJInx2TnlIMUfRupYKsRywYOoaEwNQSP8V9hPBwTDPdJxW8FVGCEL9U5HC4pbTFu31Gy0CWAlw+Uczv+bq5tU0iK8tnzJs3aceBUFYkkED92qhLy7GooDb22dKp0mHFhcajC0OGnjOdKDapJf3mc0jR998PUQPSqj3dUC7TWRFIBs1O5YcnoWLF+IMyzuqv2fW6rWqh5h87WXx3uUoVJMctoCfXdyFKBCsj+k6Fq+PPns+dxsNd69kEgqei2k9fpUVJ7Y3bWC5xysexyWo=;C3UYdvTIwIfcJiCAaLU4wA=="
+secured: "eQ6qsAbtFUjVM19llBuawA+/W5PNVccnteEYD2irUatJvtTsPXRMciv1YO5cbytYo9Ygi2PR34SxptmXq3GqL/9+j87BHWjicdkvsPze9sEe7XOUZA9BNTCg5vy5JGJdVE6p46+1KUI6G6SaNNqoVqka/YpfSUWBrvfvMXErFrLK7MxdQRca+fUcgJ17SlsiMnTNhyIP9H0+v7vxBryeu1SymWpN5I/sicdituLjTnUSOLHe+DFeJa/c2B06iXhG/uQzfH4GKTK2+AGnXLoRJXkCerbEDQp7rZdphbNgOUvvpE/C2f66CJaX0Hhk0y4dfLMCZT4TMkZk9CJmAkaiYIWkJ4BqirbjAulMKPEGpdOg4WZS5hsv8x2QKoTqK7uQ4hzQJCQbV9ALu+WYytsQxqHYQ3dggeC8WbOffyJ/avyZJNaV2+ZC4TA/vCXmLAYBdjG96DcsGZCpffIaFdosZlqX4mBpAQALszWQEICxD/cHmmlVzbFCGGEDyr5aNnqMHh3/13E4+YS5uiDfA0Ui2g==;Efl9nMn9zPfON9Oln4zzvg=="
 ---
 

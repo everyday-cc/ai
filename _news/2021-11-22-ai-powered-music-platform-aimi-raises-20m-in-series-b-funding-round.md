@@ -79,6 +79,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "LifeVoxel.AI Raises $5 Million Seed Round for its AI Diagnostic Visualization Platform"
+    excerpt: "LifeVoxel.AI, a San Diego based medical platform for AI and Visualization, today announced it has raised a $5 million seed funding. LifeVoxel’s patented technologies empower instant and ubiquitous access to interactive imaging studies and data,"
+    publishedDateTime: 2021-11-22T13:36:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-health-patents-e9ffa0c143116c98614c10aaad9f215d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "CDu69obFYnQNgz27+5AKiUycQ1sO0YUDW5ZksWtbjIxyuQNWob0es//Tz8g4zVzp1ueqtvz9hO7uS7PQ5MqQ2bbvVifrMMgolDS0zC0gkTL2ghOVbpyteB1sjup/7Q+vnAfNN1E0vledPmqkhBM8LStvrjQGLx/I5Eshh2nd3tfoxngA0VAx/o989hTJXswN+wXwu3HfC+zHaU2vMyf7ViiZdFRFC51rRcNJ0ARJ4kXEgJhdbiMZK/6YuWrnkUz9CQhulE1gt6qmJVJJAloKXuD/1YrpY6mFGKWDRTqWtX+wyWVs1aF/GvTlp1Db4q2uU5I59RZ5bFIAWzOY1Mn443u6M4bhiLhjPXUKg2RVPeY=;R+l787hnfS2jjdCUOWPSaw=="
 ---
