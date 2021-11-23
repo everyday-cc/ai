@@ -41,6 +41,20 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Nimble Robotics details uptake for its AI-enabled picking robots"
+    excerpt: "Nimble robots have picked more than 15 million objects, across 500,000 unique products, in production for several well-known brands.{/exp:eehive_hacksaw"
+    publishedDateTime: 2021-11-23T16:43:00Z
+    webUrl: "https://www.scmr.com/article/nimble_robotics_details_uptake_for_its_ai_enabled_picking_robots"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 69
+    images:
+      - url: "https://www.mmh.com/images/2021_article/Nimble_Thumb2.jpg"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "2m2cmw+IYE+iMbzVKhxcE15T7cwiHiUBggQ2y0vbKTrtoXf8c7XZL+EOEP8dFdvRKglaJcqY+DLRTj+exshY4ZTDbWKJjjX+AES4DI73glzJW9Z7PHx+ry2oQ+PSZ7dgWnZbbqG8bHCisi6oe0FPHmo3SvG5/79gFX6rWp0ZWPqj+9FJ8wp36iQrQV4tEv5uCWmchsZ50bRSR2sbR+eOvVlXVIJ2tyP5arG5hVnLULs3ZMSpPxSpwpIH75EG3ayjQSMYQAza9i16HQO4nYUlTQKAQYSJjcYUD2E54BrEnm7x3MzLUvN/DdN0Aa3sLgx+2DrVmEia0+aFMz6xucEO9utVyT7WlpmhNZFsluDZX5o=;tb4vstptdHytJoDH6pgCAA=="
 ---

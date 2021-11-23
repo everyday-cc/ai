@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Nasdaq
@@ -22,22 +22,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "AWS wins Adidas contract to host its SAP workloads"
-    excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
-    publishedDateTime: 2021-11-22T16:36:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1637598528/itpro/adidas_shoeboxes_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "AWS to be Cloud Provider for adidas SAP Workloads"
     excerpt: "( AMZN ) company, has been selected as the preferred cloud provider for SAP workloads by adidas AG, one of the largest sports brands in the world. With the implementation of the modern SAP S/4HANA platform,"
     publishedDateTime: 2021-11-22T10:19:00Z
@@ -64,6 +48,20 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "AWS wins Adidas contract to host its SAP workloads"
+    excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
+    publishedDateTime: 2021-11-23T15:54:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 39
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/11/adidas_shop_shutterstock.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "NrO6BFzqGi2+RNSk3Vf0SVoZQDVxtHfkhMm4M0mIywn6Nxp9fw5Zhy7APq7GyS+LyRhMbBUczfFNZkE7u+wXPjkxmHX06JWRYBPU/FfZvdG485Ymy+V4zAGDq80sA2rgUdbmTgvbTSimnTWucsD38J7DmHTccRsAPmsaZUI3spQjUknlXfD37cIw/Ixqv036QJHfZmfEOj0nKzbaEv4t1G4wOQhklBmMXVeaVzBr/OX4BDl4JEt0wAzHL+mob0qB34EYo79AChHuQ0tQP+n3B0KC/aHnOLvcq0YpCIn+UQ31GatlZ/ntIE5ULs/Uz0xz1ioPn9WPddmTlQcPxIGX5YhWVa6nEHaiunTLYispScs=;0dNFCftMO61qOqML5kf3fg=="

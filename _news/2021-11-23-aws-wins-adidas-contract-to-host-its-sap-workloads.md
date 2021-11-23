@@ -2,32 +2,26 @@
 category: news
 title: "AWS wins Adidas contract to host its SAP workloads"
 excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
-publishedDateTime: 2021-11-22T16:36:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads"
-webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads"
-ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
+publishedDateTime: 2021-11-23T15:54:00Z
+originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
+webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
 type: article
-quality: 89
-heat: 119
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1637598528/itpro/adidas_shoeboxes_shutterstock.jpg"
-    width: 1260
-    height: 710
+  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/11/adidas_shop_shutterstock.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -70,6 +64,6 @@ related:
         height: 336
         isCached: true
 
-secured: "GYfY967Gyn/VDwcg8eqRoJ0YSRAqNIyywoAb5Vc/FGvtTPknoUTzuOhGhZuQTJfVRuTgnSVLO+dM596VdgONGpdPl66Vq90O2tq7x2XRyHpYtooIB8NkEMGZDzfNha0CZRConjHt7vD1ZiXzhvMgHB4aD7hlhd7RKxzqVRRVQpK31pU9gSAgP3FGaQbeJM/rzWh5I6+OYLdVifF0MTGQtCa06tyDKQjmbyI421oDrdJ/2laBuXjta3agGVsuf6dFBbPOE1mLuFjJXVgPwwkYkEm7JstVEXKK3QiY9fCFaztWvLssCSdUXl+16p69+ZTmtjhOmAL6fQPHJMW44S+vHXdJW3sSPvNS29fVHD3QTcVF24BETZr1ZYKKlD347mpYMlM4y0HfLvGiJOhbMz8Vv4tlq3izDljG3xmSAOGLfbpGnw3zlm8auEdG58gh3dw6o8+N4k6H9HamUoZEzdCHGldC9csoSn7lfBHEF1gXqSYLU16jtiCPPNOn5CL7B4EYlN25EHiE4XU+brRWWnjiWw==;0enz4ChzLHaCSphxumAwDg=="
+secured: "FoqtzWW7+IY2EFROBYkMME2uH0GOTmuZMx/eDSG6STyPRPAPv1On8RaOTUrDaoxvIMMGTg2zIqE35QXfkECkWzyKFBmIRsdGON4F0Lq5r7KjoD83fEK7Iz/IGHUT4WH0HKZ4y/yXnWkzZu3ELVzRALbLfsNLLiYqfRqDjcB3IUUFKmPt3msYRdTmdWN2zxrRmymeFGJyHCy2SVOiJ/RxmXteYwbOhDDjlWm/7gWh6rwxMmPLW5jyt9JRY0sCfMPFM9x6GlXECCpWdVVaRBGyXqgDqxDSe0krhFgu4q7ZXrrVkBw0OST1BKNU6SJ3RpzvSmK6fPmVKeA6EVdhxleQsMIcPpzadT/klViK+mph5oY=;96Wi/DC/dP8iIqaZ5v7orA=="
 ---
 

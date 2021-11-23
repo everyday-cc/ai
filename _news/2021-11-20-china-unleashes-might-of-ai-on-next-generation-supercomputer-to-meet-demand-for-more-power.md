@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The limitations of AI-generated text"
+    excerpt: "Artificial intelligence has reached a point where it can compose text that sounds so human that it dupes most people into thinking it was written by another person. These AI programs—based on what are called autoregressive models—are being successfully used to create and deliberately spread everything from fake political news to AI-written blog posts that seem authentic to the average person and are published under human-sounding byline."
+    publishedDateTime: 2021-11-23T15:50:00Z
+    webUrl: "https://techxplore.com/news/2021-11-limitations-ai-generated-text.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-limitations-ai-generated-text.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-limitations-ai-generated-text.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/text-messaging.jpg"
+        width: 1920
+        height: 1439
+        isCached: true
   - title: "Raising The Bar With The Next Generation Of AI For Chip Design"
     excerpt: "Using a reinforcement learning (RL) based approach, similar to the one that beat the world’s GO champion way back in 2016, Samsung announced that they now have a chip back from their factory that was optimized by the Synopsys DSO.ai platform we discussed ..."
     publishedDateTime: 2021-11-22T15:57:00Z
@@ -44,20 +60,6 @@ related:
       - url: "https://semiengineering.com/wp-content/uploads/2019/09/iStock-927247700-Brain-AI.jpg"
         width: 787
         height: 443
-        isCached: true
-  - title: "The limitations of AI-generated text"
-    excerpt: "Capabilities of autoregressive AI models will always be limited by their inability to reason like humans, says PhD candidate Chu-Cheng Lin"
-    publishedDateTime: 2021-11-22T19:05:00Z
-    webUrl: "https://hub.jhu.edu/2021/11/22/limitations-of-artificial-intelligence-generated-text/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 37
-    images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/chatbot_112221.jpg?itok=1HUofnNI"
-        width: 2400
-        height: 1600
         isCached: true
 
 secured: "Y906wjlGKY3QX6gmFhOqrkC/IdSouIaqufXSQd+8MqQemBlOMlTCbeapyuq3PuqnrhPVvmuLmqm34RxGU3E9qgP/BjN8OS7+4aRnm/H3TCK326/s/M+vV3lynpy4DaWNlsEr6CG4Ls+FNk7/F6fyjnW99X9/r8GVeJKLl4rX4Zix8wLRQf9qZrh+XR6I7fhzOWfNG3i3VNtwC4ogycPrEeoINB+98p9jirTyEqA1+KuO8DTGOkceHzS/zvpb1ViiK6izD6/OGmxqbFvs2N5GBZta+y/3xNkMUpx2TA+BiJ7VElJqsvs03nzjWoBubk79nyndbwvL/KcX/pnnqV/9luJMAVcBYgj7/58CIEJI7RE=;t+unRmzkHVZVxUlLPkmbEw=="

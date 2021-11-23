@@ -9,7 +9,7 @@ ampWebUrl: "https://9to5mac.com/2021/11/23/pixelmator-pro-background-removal/amp
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/11/23/pixelmator-pro-background-removal/amp/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 628
     isCached: true
 
-secured: "H/fH+MueTnH5O3Y16V1qI+Qg+NK3FRlvJ2ccvrsukn93ZgovaztAlTEypTfFPlcoj8+rli7OWLnmcG3ocGpmWrE2LHtrswgmKrGxsD9/1Ts3/CX84T/v8BckKyYC/LEjwH8WJGKgHRTPNMamU+Nl6Ms4i3nVLqibWTsIbHdzWcp16Gqpx5Y20LzGtmcOh439mhBNe9AncBrmcOslNXgwmsZKkaVSDL3HY+lpfkYiY7WaZY4n3w3WSIn1fpcPxZLFR2VTHIW9pWV/6b5ivJuEv9HN1IiZPZvAKXiXZS8qDmK41xZLRSNFnLvoEa4vIkc0KEBY8UP9NNpKXjwI89eLM4zSH7J8Xm3FckGwTgU0uDU=;aCkWAy1Xw/o1JjoOEaiLHw=="
+related:
+  - title: "Pixelmator Pro Gets AI-powered Automatic Background Removal, Automatic Subject Selection, More"
+    excerpt: "Pixelmator Pro 2.3 has been released bringing a new AI-powered automatic background removal feature, automatic subject selection, a new Select and Mask tool, and more."
+    publishedDateTime: 2021-11-23T15:39:00Z
+    webUrl: "https://www.iclarified.com/83521/pixelmator-pro-gets-aipowered-automatic-background-removal-automatic-subject-selection-more"
+    ampWebUrl: "https://www.iclarified.com/83521/pixelmator-pro-gets-aipowered-automatic-background-removal-automatic-subject-selection-more/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/83521/pixelmator-pro-gets-aipowered-automatic-background-removal-automatic-subject-selection-more/amp"
+    type: article
+    provider:
+      name: iClarified
+      domain: iclarified.com
+    quality: 47
+    images:
+      - url: "https://www.iclarified.com/images/news/83521/83521/83521-640.jpg"
+        width: 640
+        height: 361
+        isCached: true
+
+secured: "f2ZWg/6gP8uLqNczzfOOap4mKik3GIztsCM+s2jVegA2oE71cFyRNTC+48U0gS3u6HAaJde5Ir7j4LQb9mVEtFfHuVdHPijltZYWVzmd+5C4iuPYTG32gyWDEftwwGpAhgKSiy0ncF/HlhFYzkGHNxUb71+CU/RUOsXHtKfRIbD3IWvWbFojpjlA2C5anJGiVcG67CtIFKHy39FXq8DOzDZn1uh1WI66pMbMuK6WXJAsfCbVb9+o58uBePsPaqKllVu++hseJ9pyhaMBNQl5lu0yQGAShL5ZPpRHXLaCwAE8sADdsZmMzQ4oTsbKLC4jfR+X3yxmrU7zWDUZf5rzYilzKJD0PGo6zcFHmXaYzNF3LG/32SMre54m94hZErXzwN+KJBoZOBfO2fpt/0qNw+5TCD3bBhixrnYdKWp3wjtvjcUpQwoFgdESCWoVRpDAJkWlQ7RXQ17/5ND2tGI81Latwk22oz6M4AxCQhNHelC0P5THsbXiQdi9VSSydNiZ5nVoqLuHqEtQGLr7UqrCwQ==;YwD8mFV+7imhlBD8oefgjg=="
 ---
 

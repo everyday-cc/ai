@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/finance/city/1524613/natwest-future-busine
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nimble Robotics details uptake for its AI-enabled picking robots"
+    excerpt: "Nimble robots have picked more than 15 million objects, across 500,000 unique products, in production for several well-known brands.{/exp:eehive_hacksaw"
+    publishedDateTime: 2021-11-23T16:43:00Z
+    webUrl: "https://www.scmr.com/article/nimble_robotics_details_uptake_for_its_ai_enabled_picking_robots"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 69
+    images:
+      - url: "https://www.mmh.com/images/2021_article/Nimble_Thumb2.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Robot repairs, virtual reality retailing and AI tailors predicted for future businesses"
     excerpt: "High streets soon could be filled with robot repair shops, bug burger bars and virtual reality travel agents, a report by NatWest suggests.The Future Business"
     publishedDateTime: 2021-11-22T00:01:00Z

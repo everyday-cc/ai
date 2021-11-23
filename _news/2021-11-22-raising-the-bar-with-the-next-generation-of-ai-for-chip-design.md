@@ -42,18 +42,20 @@ related:
         height: 630
         isCached: true
   - title: "The limitations of AI-generated text"
-    excerpt: "Capabilities of autoregressive AI models will always be limited by their inability to reason like humans, says PhD candidate Chu-Cheng Lin"
-    publishedDateTime: 2021-11-22T19:05:00Z
-    webUrl: "https://hub.jhu.edu/2021/11/22/limitations-of-artificial-intelligence-generated-text/"
+    excerpt: "Artificial intelligence has reached a point where it can compose text that sounds so human that it dupes most people into thinking it was written by another person. These AI programs—based on what are called autoregressive models—are being successfully used to create and deliberately spread everything from fake political news to AI-written blog posts that seem authentic to the average person and are published under human-sounding byline."
+    publishedDateTime: 2021-11-23T15:50:00Z
+    webUrl: "https://techxplore.com/news/2021-11-limitations-ai-generated-text.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-limitations-ai-generated-text.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-limitations-ai-generated-text.amp"
     type: article
     provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 37
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/chatbot_112221.jpg?itok=1HUofnNI"
-        width: 2400
-        height: 1600
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/text-messaging.jpg"
+        width: 1920
+        height: 1439
         isCached: true
 
 secured: "ZtG/JusIzNKFmf9ygSOwPCevYcpagJxRcR8Uj0YitriMvWTnjhP+s9U5fl4xsHNfitKgnEG/XjQnIwEh+dl30aOu0uOd4PePPjx1JvzttdHCZdwaHF5J8UaXstYU6CdAl31EEQkq32gIYj37uIHbkplSKXY4BlVC4aOo8Xx0D+oS9itjQPmdAbvXqMQwTcbcLWfdLF1X9zGtSDQRPiBd9ig0mPcPazmVb7ubu1UbslOaiR0y5veCfqTA1gCDvKBEvKXgiF7GMTiPJ3SBkmcrHA6OWe8MWgEO6vxN6y1nmObHcf7369Et35xiKa3BJ41KlB3y1zvGVH5JozZrKDAUqSxSAq3KCdEzVUdFRGJruQqkaXb9S3xTJHTOh9Q7BTZXnYYdLVBKRoh9KNzSCVHZGqWoeC86b9WHeARPIauCYl5BmtpW6KXoL5yIlxyZNhsmgoNkSLgLa4IU465VojQB7AIfaQXrjXaxPAK+mciiOccUuwO1p5zWJUq2M/G0OqmRQ3sf5Ro9thhQjbQh2hiO6Q==;CFuUJM/MA5VX1P+cbqJ2dg=="

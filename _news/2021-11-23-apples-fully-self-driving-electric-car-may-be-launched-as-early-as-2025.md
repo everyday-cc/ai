@@ -71,22 +71,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Apple Speeds up Self-Driving Car Project"
-    excerpt: "Apple wants to ramp up the development of its electric car with a new focus on making a fully self-driving vehicle."
-    publishedDateTime: 2021-11-18T23:06:00Z
-    webUrl: "https://www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/"
-    ampWebUrl: "https://www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2021/apple-speeds-up-self-driving-car-project/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/apple-self-driving-car-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Apple reportedly accelerates plans for electric, self-driving car"
     excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
     publishedDateTime: 2021-11-21T13:00:00Z

@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s Tutel optimizes mixture of experts model training"
+    excerpt: "Microsoft's Tutel library, now available in open source, optimizes the training of mixture of experts machine learning systems."
+    publishedDateTime: 2021-11-23T16:10:00Z
+    webUrl: "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/"
+    ampWebUrl: "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "It's Official. Microsoft Will Build Advanced Chips for the US Military"
     excerpt: "The US National Security Technology Accelerator (NSTXL) announced on Thursday that it has chosen Microsoft to build advanced chips for the military. \"Historically, the security requirements associated with developing microelectronics have limited the U."
     publishedDateTime: 2021-11-21T11:13:00Z

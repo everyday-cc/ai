@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/microsoft-will-build-advanced
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s Tutel optimizes mixture of experts model training"
+    excerpt: "Microsoft's Tutel library, now available in open source, optimizes the training of mixture of experts machine learning systems."
+    publishedDateTime: 2021-11-23T16:10:00Z
+    webUrl: "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/"
+    ampWebUrl: "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft's Recent AI News"
     excerpt: "Microsoft has built itself up into a Cloud and Corporate Metaverse leader in recent years and that's staring to really show in its artificial intelligence ambitions. We have to give credit where it is"
     publishedDateTime: 2021-11-20T03:53:00Z

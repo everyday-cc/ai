@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-23T14:00:00Z
 originalUrl: "https://insidebigdata.com/2021/11/23/how-edge-analytics-could-drive-the-next-wave-of-digital-transformation/"
 webUrl: "https://insidebigdata.com/2021/11/23/how-edge-analytics-could-drive-the-next-wave-of-digital-transformation/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
@@ -35,6 +36,6 @@ related:
       domain: ciol.com
     quality: 17
 
-secured: "SblyYs8m14AW3nsodcL9OXrCtXb/jlaO9y8wybhiP4+MVm3VZV6BPbwBDYEebBwKrZt+S+NWvOtWksmv/KSEToqZ+UergqQXq/jxEpjqpuNZKeUsju4u3Sx22Nx/tRleLZhnueMNeHoX8gk3O7u5x0GqHtTQo4xJ/cV0qJAXVTwBG0/lgRIrnDixvML3UH7Bj97biLsCWVcS+pAf1bz7gOoHKqKuPwmQkMIv1gwde/i4wlDKV0N+3+PYgI4G8vAJ3VIwSB8y4zxmM0D15Fjz1B/aqhItG/3PwvQTL5zHb8TUPxM+Vm9x1S2/v83Xhf/eAtCt1W4SI4ZkVZp8wqGWnJSK18UMk9zk4tK1PdpWxD8=;+l//N6Hlkp5kqTg/uBtOdA=="
+secured: "xXkGvLENyzD8Rv2WDbatEHumJ6JHYGn8QWK0AfGdvWHX7WjJreMXUyCnz7uiFtK04O6T2OPOCDPDeSY2W4CLNVJLh0BCjUu592vEhCLyQQ4S3YZUnIv1Wgt3Nmr68jv0+G3NACVcmrC6ilxuSHv7BUUfiGabFG5ZGJfiMuzhQlIBYcZToXtka5hpYvvSaocf2EKDECHtTjQnwzubDCNy/il2CiTO6yzoEf9141SPLjZE69+uktEIvG1tvhFwmTCEqi1NFbOemvhr3kgnfGAcaOEF9PO6kVPmKjq6FnfAz4a5mxzMfDulEuC8gW6rR9HUky4RPbiR89zI0LCTFTh7XexevPAYpDy6jYl1YsL8RL1zN1BAUiKmZRuwKt8g6q3vhMwxQ7aeQYZ5I3hYjIgeZzcCy4rfCsrcLFHw/7AWZY5cpt2X20g/Y46N5OquP9Z+jm4rui2vvy99H/HWbVs17TRwQorvzbC6KD/IOKYPThO6jHGFir2qHrW21Jb0Q6Mk9gidXWAUhg+x32Wov0A3vA==;FmlOiB5ant8JMYSuShNqVQ=="
 ---
 

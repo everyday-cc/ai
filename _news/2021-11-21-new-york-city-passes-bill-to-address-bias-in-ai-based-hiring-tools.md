@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true"
 type: article
 quality: 87
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -105,22 +105,6 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2019/10/artificial-intelligence-2167835__480-e1570218339962.jpg"
         width: 702
         height: 396
-        isCached: true
-  - title: "New York City Regulates Workplace Artificial Intelligence Recruitment and Selection Tools"
-    excerpt: "Joining Illinois and Maryland, on November 10, 2021, the New York City Council approved a measure, Int. 1894-2020A (the “Bill”),  to regulate employers’"
-    publishedDateTime: 2021-11-18T23:34:00Z
-    webUrl: "https://www.natlawreview.com/article/new-york-city-regulates-workplace-artificial-intelligence-recruitment-and-selection"
-    ampWebUrl: "https://www.natlawreview.com/article/new-york-city-regulates-workplace-artificial-intelligence-recruitment-and-selection?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/new-york-city-regulates-workplace-artificial-intelligence-recruitment-and-selection?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 48
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
         isCached: true
   - title: "NYC Tries to Rein in AI Hiring Tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."

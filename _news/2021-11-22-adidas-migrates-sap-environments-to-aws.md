@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS wins Adidas contract to host its SAP workloads"
-    excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
-    publishedDateTime: 2021-11-22T16:36:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1637598528/itpro/adidas_shoeboxes_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Adidas Migrates SAP Environments To Amazon Web Services"
     excerpt: "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,"
     publishedDateTime: 2021-11-22T07:20:00Z
@@ -65,6 +49,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "AWS wins Adidas contract to host its SAP workloads"
+    excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
+    publishedDateTime: 2021-11-23T15:54:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 39
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/11/adidas_shop_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "pCJrZl9f9qyNtL3ldO9KzmRmZfF6uLqLwepSS3cz5s0EczCh9ijtKs4ttr0c2aH86eilxqZ8K5Jur7ceQU+G5vC3n5JaMiYLbRoCEsmD0xqFZgJNkSHJ9qTcDnJdPMlft5znyAmIyFpNiubo+5ivbTDfzNMYshwusc7CQ5sYPmqcxfGyVu3BuFTVqz0Fn7g9sKMwipSRH6bNI8SNlLl1QdQJX9McoMVla/LW7ix1H7qAfQtPGHdo4JsOzRZI/OWKJQpWK9QUnfXpSnk5nUghEV/DkOYBuSm478NaUeBnvOM3ePs8Do9xdV6D7hjaZFw5CPdG7KjwmF8gXOGGIg8hjETGnL6Z2U7+3HlBoLdcmpg=;6KT3FvfTsYZu6Td5VJ75mQ=="
 ---
