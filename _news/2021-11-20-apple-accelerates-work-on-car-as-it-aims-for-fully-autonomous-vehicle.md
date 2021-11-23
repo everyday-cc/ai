@@ -101,17 +101,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Apple aiming to launch self-driving car by 2025"
-    excerpt: "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, aiming to solve a technical challenge that has bedeviled the auto industry."
-    publishedDateTime: 2021-11-19T05:54:00Z
-    webUrl: "https://mybroadband.co.za/news/motoring/423538-apple-aiming-to-launch-self-driving-car-by-2025.html"
-    ampWebUrl: "https://mybroadband.co.za/news/motoring/423538-apple-aiming-to-launch-self-driving-car-by-2025.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/423538-apple-aiming-to-launch-self-driving-car-by-2025.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "11 Best Autonomous Vehicle Stocks To Buy Now"
     excerpt: "In this article, we will take a look at the 11 best autonomous vehicle stocks to buy now. To skip our detailed analysis of the self-driving car industry and its growth potential, you can go directly to the 5 Best Autonomous Vehicle Stocks To Buy Now."
     publishedDateTime: 2021-11-19T07:51:00Z

@@ -70,22 +70,6 @@ related:
         width: 5363
         height: 3575
         isCached: true
-  - title: "NYC aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T22:29:00Z
-    webUrl: "https://www.timesunion.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/71/74/21733140/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "New York City cracks down on use of artificial intelligence in job screenings"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the compu"
     publishedDateTime: 2021-11-23T11:21:00Z
@@ -158,15 +142,6 @@ related:
         width: 1280
         height: 758
         isCached: true
-  - title: "NYC aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T14:39:00Z
-    webUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "yjr9dMF181wuo8p9pKTmWQh1TLuSt/lMiN9VMGqmbRq9+oz4ebVbJ2wRCjLy5sEbB/e8jwFaTGYp310htF/3vFMQGneRQIwUwcgyRwT8Bo7wi01i27qTs/4yJaJUZQsxkSgMxKKwwG07EtOzbPbtS6VUfyDk8TJZZoe1rGep60qrOZ+XTDSspY8+lnFvBp6ZLfBKOLjjRguHEbrCtAm/b/0WXT/O5a5sbZVL9VWdK1b/NCySsr7kZpLpV8gyVQlwCaFtLweeHmsZgv/oXb0dDzFaFAPDHEtE+vCBNGjLUaWEVlpQoGtCdqiQV3qVPVpSquiTS+lYalgB4zDL2y/J8AR3+nTdCAlzCV9W6u+Pr8ksEQVrEkkTBviQHLEA4aRzDChbBxfii7gPU1253gk5EJuYk6MOP4jbPtOpF/r3x3n3rkB+A1fSLil54NR14zJb0CodhRAce8GzzYnBsiFWHJ/pPCoJs4iJCZ6C7JMuESsaqOF3vv60csaBBrP/tNfHArh5f+cLOGc3ddXyUEtN2w==;1wyZpJAKQ9VQCYkJUx2yeg=="
 ---

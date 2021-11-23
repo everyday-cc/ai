@@ -54,6 +54,36 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Transcription Startup Verbit Valued at $2B Following Series E"
+    excerpt: "AI-powered transcription startup Verbit is looking to expand its workforce after raising $250 million in a Series E round that values the company at $2 billion."
+    publishedDateTime: 2021-11-23T21:52:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/transcription-startup-verbit-valued-at-2b-following-series-e/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/transcription-startup-verbit-valued-at-2b-following-series-e/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/transcription-startup-verbit-valued-at-2b-following-series-e/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/verbit-series-e-457x274.jpeg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "AI transcription startup Verbit closes $250M funding round"
+    excerpt: "Startup Verbit Inc. today announced that it has secured a $250 million funding round at a $2 billion valuation to develop more features for its namesake transcription and captioning platform. The feature development effort is part of a broader growth plan that the startup detailed this morning."
+    publishedDateTime: 2021-11-23T20:10:00Z
+    webUrl: "https://siliconangle.com/2021/11/23/ai-transcription-startup-verbit-closes-250m-funding-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/verbit.png"
+        width: 861
+        height: 483
+        isCached: true
   - title: "Verbit, the World's Leading Voice AI Platform, Raises $250 Million Series E, Achieving a $2 Billion Valuation in Less Than 5 Years | Morningstar"
     excerpt: "Verbit, the world's leading voice AI transcription and captioning company, announced today that it has closed its Series E funding round at $250 million, after securing a $150 million primary investment and $100 million in secondary transactions."
     publishedDateTime: 2021-11-23T15:04:07Z

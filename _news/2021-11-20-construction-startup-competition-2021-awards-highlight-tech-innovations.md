@@ -7,7 +7,7 @@ originalUrl: "https://www.bdcnetwork.com/construction-startup-competition-2021-a
 webUrl: "https://www.bdcnetwork.com/construction-startup-competition-2021-awards-highlight-tech-innovations"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "Atlanta-based AI firm wins global construction tech contest"
+    excerpt: "Construction Startup Competition, sponsored by materials giant Cemex, awards solutions that take on key industry challenges."
+    publishedDateTime: 2021-11-23T21:30:00Z
+    webUrl: "https://www.constructiondive.com/news/atlanta-based-ai-firm-wins-global-construction-tech-contest/610482/"
+    type: article
+    provider:
+      name: Construction Dive
+      domain: constructiondive.com
+    quality: 37
+    images:
+      - url: "https://www.constructiondive.com/user_media/cache/be/23/be236b552b3f9ed9cf5b574763291aba.jpg"
+        width: 770
+        height: 364
+        isCached: true
 
 secured: "ghC/3sFiacB7o1Sbizcf7Ockgi9f9WMQ2M59h7iwV+s5dNV+KwMtgM3gVY8DwWkH17/GvZ61VACmAUodYNQcILXnGKNhahYtJxKhdxXUZxI+ZqLkTEx5SlWADUvIgALOeoHvFaza7C/Mej8NzExUwrcveL2Zn5ja4Zz2liGFunvQd7buZV/KomG2B46AmV96X1XO0GYQNFpEmub54sTSjyy8CgTVjXSK1a8FM0e8eL8ZINqiBzns/FUfpf0160hkwnf8Rd+69mXRRFUvWG5XsOKVPWYjtE5ecB5K0ENlJNQVrjtBO2IJ01e/5SxJQs/mNp8W+ldx6kTNI1EXVi4ZJtkuEx3do2TT7KIxF8DBIVk=;MEWJuocaaxLIFuB4VwUl4Q=="
 ---

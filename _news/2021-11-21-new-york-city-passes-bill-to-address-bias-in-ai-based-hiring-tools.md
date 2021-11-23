@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true"
 type: article
 quality: 87
-heat: 188
+heat: 168
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2021/11/nyc-ai-hiring-bias-bill.jpg"
         width: 5363
         height: 3575
-        isCached: true
-  - title: "NYC aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T22:29:00Z
-    webUrl: "https://www.timesunion.com/news/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/22/71/74/21733140/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "New York City cracks down on use of artificial intelligence in job screenings"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the compu"
@@ -162,15 +146,6 @@ related:
         width: 1280
         height: 758
         isCached: true
-  - title: "NYC aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T14:39:00Z
-    webUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "2RIKiwhjkqth+lp0Dx3Jf4S9dx8g7wdxoKGSdTILnQ40zOQHmvQz/vOEE3C4V4zNCP7LQ8kJzCOyZMMoncJDRlIyQINBzvdfjDb5xlmmQpV4ea2Jw7XBq4LUyCnvWJuixZXbL/qoqUg8XuuGN+CfmsdHNewlRgSgD3ewhcASGVZA7wuPQI3ih69512wLXnHHadibJ85+CUpfjohXZH82AEuvTKpuTM3KHMQ8HI/IU5ssjovQdyLbzrlB3xjHWF1vO4mK6duYZx+R50wesPztiJBUw3Gqr+0t4Tou0ofOCpBmQMchL4litzMx2i3ozkvrvOAQsmttQELIK/EzXAx+VITwFuh1PuuS8xD5q3e+HgvXI9fxJJxGoEK8kvYH/W/NiYG7A/i9anlNmfmRK8mvHAags3AzdhiFVkorr9SorngkhqNMRqEd0fsHNo5GJht/p708g6Sl5pZ4RdyklGswDPTOa4uIMaLKAtzMfPJDZGMudu8SJF5o5spPANQsXOA0tTRKFlDQ45ndnN4VPOT4gw==;SnafHrf7r8Uz4G4FuKpuYA=="
 ---

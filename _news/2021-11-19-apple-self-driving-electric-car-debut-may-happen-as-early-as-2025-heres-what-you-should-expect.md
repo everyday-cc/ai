@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple’s self-driving electric car may come in 2025"
-    excerpt: "Apple's automotive efforts, known as Project Titan, have proceeded unevenly since 2014 when it first started to design a vehicle from scratch. Its ideal car would have no steering wheel and pedals, with interiors designed around hands-off driving."
-    publishedDateTime: 2021-11-19T06:28:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/articleshow/87795164.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/apples-self-driving-electric-car-may-come-in-2025/amp_articleshow/87795164.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87795164,imgsize-14990,width-800/87795164.jpg"
-        width: 800
-        height: 505
-        isCached: true
-  - title: "Apple reportedly aiming to debut its self-driving steering wheel-less EV as soon as 2025"
-    excerpt: "Apple has reportedly completed \"much of the core work\" for its EV's chip. The project head's now aiming to launch the Apple Car by 2025."
-    publishedDateTime: 2021-11-19T06:54:00Z
-    webUrl: "https://pocketnow.com/apple-reportedly-aiming-debut-its-self-driving-steering-wheel-less-ev-soon-2025"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 30
-    images:
-      - url: "https://media.pocketnow.com/styles/medium/public/2021/08/20210809_Samsung_11805351920px.jpg?itok=3KdE7DuX"
-        width: 600
-        height: 451
-        isCached: true
   - title: "Apple chooses a path in its work to build a self-driving electric vehicle"
     excerpt: "Apple is still in the race to build its own car — here's where its road seems to be leading. #SiliconValley #autotech #electriccar #selfdriving"
     publishedDateTime: 2021-11-19T14:30:00Z

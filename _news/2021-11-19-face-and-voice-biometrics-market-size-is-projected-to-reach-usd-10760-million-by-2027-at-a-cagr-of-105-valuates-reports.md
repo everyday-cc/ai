@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-face-voice-biometrics-market-size-
 webUrl: "https://www.tmcnet.com/usubmit/-face-voice-biometrics-market-size-projected-reach-usd-/2021/11/19/9496927.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market To Reach USD 4,799.6 Million By 2028"
-    excerpt: "Reports And Data The increasing use of connected devices in the healthcare sector. NEW YORK, NY, UNITED STATES, November 19, 2021 /"
-    publishedDateTime: 2021-11-19T06:55:00Z
-    webUrl: "https://menafn.com/1103203315/Natural-Language-Processing-NLP-in-Healthcare-and-Life-Sciences-Market-To-Reach-USD-47996-Million-By-2028"
+  - title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
+    excerpt: "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services"
+    publishedDateTime: 2021-11-19T23:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-10-5-valuates-reports-800406414.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 52
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
     images:
-      - url: "https://menafn.com/updates/pr/2021-11/19/EP_9c3dbimage_story.jpeg"
-        width: 300
-        height: 300
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
         isCached: true
 
 secured: "w/S7X4ook+YocktHwPFz1YZ/U+JD6kg+4vl0B95GEXu5bCOWJ4tbWjh4zk3t3iKS1Ef86iMBKSfOhpJGziGSPfyvBq6CQaDs7dsPFEeW2mf7Idg8o0rfiyzQTTx0BGsjhGiyV1tg9XvT0n1ssqLcVg39QE+HJRcRTfJ5TGfVN6/BUc5OtZfmlDO1KaQpfUKjS0HnVd8VVF4YgsfcSRNe+imxFuwKCaNlc32cJBYR4VjdLWrnb0fvoxvBWTyP/z4fIz1bt1qP3dD2IvB4/zTwXrZMY7kWRp++vPvYY1bkutFzxAg5PP0aiAnP149CzOGlPbk2JCY1qnkcm3Ah7aiV4A0dvIR7G/jfVEEQk+CdcRM=;c4tZXNMXtyZszH5jFQlqig=="

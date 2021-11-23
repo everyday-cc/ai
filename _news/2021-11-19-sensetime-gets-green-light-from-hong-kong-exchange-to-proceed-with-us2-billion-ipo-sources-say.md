@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/article/3156756/sensetime-gets-green-l
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo"
 type: article
 quality: 129
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1063617496.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Tip Sheet: Key Facts on China’s AI Behemoth SenseTime"
+    excerpt: "This tip sheet was compiled by Caixin Insight from the Post Hearing Information Packs submitted Nov. 22 to the Hong Kong stock exchange by artificial intelligence (AI) giant SenseTime. 1. Key people TANG Xiao’ou,"
+    publishedDateTime: 2021-11-23T21:42:00Z
+    webUrl: "https://www.caixinglobal.com/2021-11-24/tip-sheet-key-facts-on-chinas-ai-behemoth-sensetime-101809128.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2020-07-13/1594615757170236_560_373.jpg"
+        width: 527
+        height: 373
         isCached: true
   - title: "SenseTime approved for potential $2B facial recognition IPO in Hong Kong"
     excerpt: "Despite continued momentum including impressive accuracy in NIST’s facial recognition tests, the company lost US$579 million in the first half of 2021."

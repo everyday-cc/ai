@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Tip Sheet: Key Facts on China’s AI Behemoth SenseTime"
+    excerpt: "This tip sheet was compiled by Caixin Insight from the Post Hearing Information Packs submitted Nov. 22 to the Hong Kong stock exchange by artificial intelligence (AI) giant SenseTime. 1. Key people TANG Xiao’ou,"
+    publishedDateTime: 2021-11-23T21:42:00Z
+    webUrl: "https://www.caixinglobal.com/2021-11-24/tip-sheet-key-facts-on-chinas-ai-behemoth-sensetime-101809128.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2020-07-13/1594615757170236_560_373.jpg"
+        width: 527
+        height: 373
+        isCached: true
   - title: "SoftBank-backed AI startup SenseTime receives nod for Hong Kong IPO"
     excerpt: "Reuters reported in August the company was planning to raise up to $2 billion in the deal, based on information from sources."
     publishedDateTime: 2021-11-19T11:33:00Z

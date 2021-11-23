@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Brain Navi NaoTrac, the Brain Surgical Navigation Robot, Received European CE Mark Approval in 2021"
+    excerpt: "Brain Navi Biotechnology, a Taiwan-based startup specializing in innovative navigation robots, received CE mark approval for brain"
+    publishedDateTime: 2021-11-23T22:42:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/brain-navi-naotrac-the-brain-surgical-navigation-robot-received-european-ce-mark-approval-in-2021-852705053.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1695054/Brain_Navi_NaoTrac.jpg?p=facebook"
+        width: 798
+        height: 419
+        isCached: true
   - title: "Brain Navi Biotechnology Co., Ltd.: Brain Navi NaoTrac, the Brain Surgical Navigation Robot, Received European CE Mark Approval in 2021"
     excerpt: "Brain Navi Biotechnology, a Taiwan-based startup specializing in innovative navigation robots, received CE mark approval for brain surgery"
     publishedDateTime: 2021-11-23T13:19:00Z
