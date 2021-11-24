@@ -13,11 +13,6 @@ linkedin:
 crunchbase:
   url: "https://www.crunchbase.com/organization/xbird-gmbh"
 
-twitter:
-  username: "xbirdhealth"
-  url: "https://twitter.com/xbirdhealth"
-  followers: 557
-
 size: 2-10 employees
 yearFounded: 2015
 locations:
