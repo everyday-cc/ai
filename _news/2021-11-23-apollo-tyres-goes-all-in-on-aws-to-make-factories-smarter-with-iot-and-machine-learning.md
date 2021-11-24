@@ -9,7 +9,7 @@ ampWebUrl: "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-fact
 cdnAmpWebUrl: "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1972
         height: 1312
         isCached: true
+  - title: "Apollo Tyres goes all-in on AWS to make factories smarter with IoT and Machine Learning"
+    excerpt: "Apollo Tyres will draw on the breadth and depth of AWS capabilities, including Internet of Things (IoT), data and analytics, and machine learning, to transform into an agile, data-driven enterprise. Using data from the factory floor and real-time information from production machines,"
+    publishedDateTime: 2021-11-24T18:16:00Z
+    webUrl: "https://www.constructionweekonline.in/business/20980-apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning"
+    type: article
+    provider:
+      name: Construction Week Online
+      domain: constructionweekonline.in
+    quality: 28
 
 secured: "4RLjwMIU7kM6iQZ0VW/iC9XoS32aaTWWg8JgUANdrjfkq/ox2mTQWlBLrvROF3qTv0dUfOzcjiq1QKhF721QOMhSCOg1KKL/Z3XglSjWnUqPshyvdwFSOFqecbJzqZbOer2eaDGB817e6dfWsfczIIqFNhyV8f6J30wx0KwMTHNjGK9vb4I6BW7rjCeVzo/VBzGaht3wjC45kLeiBxOc9RPoN0JwEsq72Gvsv6k9vXWCQ1PtUI7souesYKpxr8dvwscAFd6BBh2udhzFUUoQT/vvf9qmCcqkCuFxIGWnSZkHQhX6oQ69nKXtEW6l/ZpHovWYYBri7qTrU59nkaNDXJcoWC0R7/GmuGfU9nOzSuH2/rf7gyudE9ufrU4u4h1i+UQKYlzebx8+zFiM/fd8tftkyTuv3jFWIpuynojavEAiZITkcTnmY8wQTCiszYcI/FRZCNbhNlmj6qhUIFUhpuDj03aJg7Klh0PRLNlEYv6d2G1w8VyIlvei4v/2toc8NJvy99T96mjvBAlMYmt1UQ==;fF8ZObnRdb1sJG3FxwUJvg=="
 ---

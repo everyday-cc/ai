@@ -7,7 +7,7 @@ originalUrl: "https://cacm.acm.org/blogs/blog-cacm/256999-ai-education-for-teens
 webUrl: "https://cacm.acm.org/blogs/blog-cacm/256999-ai-education-for-teens-lifting-the-hood-on-data-and-machine-learning/fulltext"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

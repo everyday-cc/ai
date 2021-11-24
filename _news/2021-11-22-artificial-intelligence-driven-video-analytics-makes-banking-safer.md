@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Axis launches 8th generation ARTPEC system-on-chip powered with deep-learning analytics on the edge"
+    excerpt: "Axis Communications, the market leader in network video, recently announced the 8th generation custom-designed system-on-chip (SoC) made for network video. The ARTPEC-8 SoC is designed to create new o"
+    publishedDateTime: 2021-11-24T12:53:00Z
+    webUrl: "https://indiaeducationdiary.in/axis-launches-8th-generation-artpec-system-on-chip-powered-with-deep-learning-analytics-on-the-edge/"
+    ampWebUrl: "https://indiaeducationdiary.in/axis-launches-8th-generation-artpec-system-on-chip-powered-with-deep-learning-analytics-on-the-edge/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/axis-launches-8th-generation-artpec-system-on-chip-powered-with-deep-learning-analytics-on-the-edge/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 47
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "How Edge Analytics could Drive the Next Wave of Digital Transformation"
     excerpt: "In this contributed article, Gary Ogasawara, Cloudian’s Chief Technology Officer, discusses how edge computing is still a work in progress. The first wave of digital transformation helped IT-focused companies gain a competitive edge."
     publishedDateTime: 2021-11-23T14:00:00Z

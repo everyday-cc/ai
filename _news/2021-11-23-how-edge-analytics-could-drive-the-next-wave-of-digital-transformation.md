@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2021/11/23/how-edge-analytics-could-driv
 webUrl: "https://insidebigdata.com/2021/11/23/how-edge-analytics-could-drive-the-next-wave-of-digital-transformation/"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Axis launches 8th generation ARTPEC system-on-chip powered with deep-learning analytics on the edge"
+    excerpt: "Axis Communications, the market leader in network video, recently announced the 8th generation custom-designed system-on-chip (SoC) made for network video. The ARTPEC-8 SoC is designed to create new o"
+    publishedDateTime: 2021-11-24T12:53:00Z
+    webUrl: "https://indiaeducationdiary.in/axis-launches-8th-generation-artpec-system-on-chip-powered-with-deep-learning-analytics-on-the-edge/"
+    ampWebUrl: "https://indiaeducationdiary.in/axis-launches-8th-generation-artpec-system-on-chip-powered-with-deep-learning-analytics-on-the-edge/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/axis-launches-8th-generation-artpec-system-on-chip-powered-with-deep-learning-analytics-on-the-edge/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 47
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "Artificial intelligence-driven video analytics makes banking safer"
     excerpt: "Artificial intelligence-based solutions can optimize operations and crowd management inside branches while regular CCTVs fail to live up to the mark"
     publishedDateTime: 2021-11-22T05:19:00Z

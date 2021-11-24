@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Use of artificial intelligence in hiring raises concerns"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the"
-    publishedDateTime: 2021-11-21T11:00:00Z
-    webUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
+  - title: "The shape of edge AI to come"
+    excerpt: "Making chips work in this new world of edge AI requires new ways of setting up neurals, designing memory paths, and compiling to hardware."
+    publishedDateTime: 2021-11-24T17:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/"
+    ampWebUrl: "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/"
     type: article
     provider:
-      name: The Montana Standard
-      domain: mtstandard.com
-    quality: 52
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/2/c5/2c5c1a89-8999-557f-970a-8801833d26fc/6197bb0619dad.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1197264259-1-e1637768065636.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Appreciating the Potential of AI"
     excerpt: "Mohammed Alam was recently hired as the deputy director of Northwestern Engineering’s Master of Science in Artificial Intelligence (MSAI) program, where he will collaborate with students to shape their experience and explore future possibilities of what AI can and will be."
@@ -53,6 +55,43 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Impact of Artificial Intelligence on Branding"
+    excerpt: "According to Oxford, AI technologies are expected to contribute $15 billion to the world economy by 2030.  Today’s big companies like Amazon, Netflix, Google, Facebook, Uber have been using artificial intelligence as a part of their branding and marketing strategies,"
+    publishedDateTime: 2021-11-22T22:06:00Z
+    webUrl: "https://www.linkedin.com/pulse/impact-artificial-intelligence-branding-rami-gayam"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFNotHH5QHLBA/article-cover_image-shrink_600_2000/0/1637618541963?e=1643241600&v=beta&t=c0DgUmbDl5kkUYf63BPAklM8pIUvvKRNC9q-5Izr-ks"
+        width: 671
+        height: 526
+        isCached: true
+  - title: "A Strange AI Achievement"
+    excerpt: "We are seeing AI and ML becoming used in more and more industries, but one that seems to be a place where it is embraced with some success. From speech recognition and transcription to analyzing imaging,"
+    publishedDateTime: 2021-11-24T00:00:00Z
+    webUrl: "https://www.sqlservercentral.com/editorials/a-strange-ai-achievement"
+    type: article
+    provider:
+      name: SQL Server Central
+      domain: sqlservercentral.com
+    quality: 37
+    images:
+      - url: "https://www.sqlservercentral.com/wp-content/uploads/2021/11/sidebar-2021-monitoring-report.png"
+        width: 320
+        height: 320
+        isCached: true
+  - title: "One Stop Systems Releases AI Transportable Compute Server for Edge Computing"
+    excerpt: "One Stop Systems (OSS) is introducing a server for vehicle, maritime, and aerospace applications in the edge computing market:"
+    publishedDateTime: 2021-11-22T06:22:00Z
+    webUrl: "https://www.enterprisestorageforum.com/hardware/one-stop-systems-ai-transportable-compute-server-edge-computing/"
+    type: article
+    provider:
+      name: Enterprise Storage Forum
+      domain: enterprisestorageforum.com
+    quality: 16
 
 secured: "l2gg1E1LfbrPXSJ5nmMIJ9PwZMX17NIbgGplF8LyKwX38p4+LVkbqP2AVJDh5phsfKduLRNx0e4wtBQEYsrvpAj9+wt5OJkTlcWT2lS/mIzcxfgXRd3ZtmcxEYMtLY+e+Q3FDTWIUo5PMN1AQKzESW0Xt0IvUMT5L2XHD279n+ywmoHv928IKQfsA3ZFeig2/EqY3lFlXD1xH4UaTZWTYlPOA2gMNrmi+vfV/dk+rF4d4SINlnFWz39zwLSjLgrtZoqnK00cIs6uhM7pGyYtcdeE79TaC2KymP139uUQ1Xgs/nJ5EHWGj5PikcoirnSGGFwffGGug6V4oUl3I3BuDtDvCTwqdXCsS9KCUO4nkQqn58nLVIOemQRDUCRG9v9WnWculaIT/yuw8ZUu3a+kqPmUniFjumapVxQtNEhXeDFQgl0V39KNOOt6ZLDcDZFhckvVkoJ6p7490wuJvbZKGmGkDq/daJdTZLdWrhEaJkE+jUey6KSSjd4+MEbqQS6ITZQmBwvfyxtfcbr81HJPtA==;CHEuYSGxjwGXeFb/9FxjMw=="
 ---

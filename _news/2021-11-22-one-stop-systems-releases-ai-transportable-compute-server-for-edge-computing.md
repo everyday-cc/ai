@@ -19,21 +19,77 @@ topics:
   - AI
 
 related:
-  - title: "Cerebras Systems and G42 to Partner to Bring High-Performance AI Compute to the Middle East"
-    excerpt: "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, and G42, the leading UAE-based AI and cloud computing company, today announced at GMIS the signing of a memorandum of understanding (MOU) under which they will bring high ..."
-    publishedDateTime: 2021-11-22T07:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24215657/cerebras-systems-and-g42-to-partner-to-bring-high-performance-ai-compute-to-the-middle-east"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24215657"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24215657"
+  - title: "The shape of edge AI to come"
+    excerpt: "Making chips work in this new world of edge AI requires new ways of setting up neurals, designing memory paths, and compiling to hardware."
+    publishedDateTime: 2021-11-24T17:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/"
+    ampWebUrl: "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1197264259-1-e1637768065636.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Humanity in the Age of AI"
+    excerpt: "The Age of AI” does not break new ground on AI but it raises key questions about how AI will change the way we live and work, and it is clear that we are just barely scratching the surface of what AI means for society and humanity."
+    publishedDateTime: 2021-11-21T14:24:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/humanity-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 39
+    images:
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/6199141097b981f8c67fadef_AdobeStock_339380253.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Appreciating the Potential of AI"
+    excerpt: "Mohammed Alam was recently hired as the deputy director of Northwestern Engineering’s Master of Science in Artificial Intelligence (MSAI) program, where he will collaborate with students to shape their experience and explore future possibilities of what AI can and will be."
+    publishedDateTime: 2021-11-22T18:51:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/appreciating-the-potential-of-ai.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 37
+    images:
+      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/appreciating-the-potential-of-ai-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Impact of Artificial Intelligence on Branding"
+    excerpt: "According to Oxford, AI technologies are expected to contribute $15 billion to the world economy by 2030.  Today’s big companies like Amazon, Netflix, Google, Facebook, Uber have been using artificial intelligence as a part of their branding and marketing strategies,"
+    publishedDateTime: 2021-11-22T22:06:00Z
+    webUrl: "https://www.linkedin.com/pulse/impact-artificial-intelligence-branding-rami-gayam"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFNotHH5QHLBA/article-cover_image-shrink_600_2000/0/1637618541963?e=1643241600&v=beta&t=c0DgUmbDl5kkUYf63BPAklM8pIUvvKRNC9q-5Izr-ks"
+        width: 671
+        height: 526
+        isCached: true
+  - title: "A Strange AI Achievement"
+    excerpt: "We are seeing AI and ML becoming used in more and more industries, but one that seems to be a place where it is embraced with some success. From speech recognition and transcription to analyzing imaging,"
+    publishedDateTime: 2021-11-24T00:00:00Z
+    webUrl: "https://www.sqlservercentral.com/editorials/a-strange-ai-achievement"
+    type: article
+    provider:
+      name: SQL Server Central
+      domain: sqlservercentral.com
+    quality: 37
+    images:
+      - url: "https://www.sqlservercentral.com/wp-content/uploads/2021/11/sidebar-2021-monitoring-report.png"
+        width: 320
+        height: 320
         isCached: true
 
 secured: "19Bm3wdbe74M4saNEFcOXcbBbriAsjxiOYkkPtG1W3j7dBqGtzfbgdRiJ3kwMLIFwxW2gwSv0t9MSgH2aoCqPsTlXFiOkNBHvEeHHEnl8bz/FnmgXW1v2wDsHHQsRvehyIMRAsRzrRKMJAB04RbGVt5eAHWKZKOijJXgbZKeAFE9myErzmTQ1lyoecnbe7MnJWVDuAT+h+zg0agjkrxT2K+nRBlVAmZQ6aEzPLsWTzwJgzpAg+9LU4PdlpTYcfuOtOb7uvAzdVzTZZCKdMtXvDGxp12P5xFnT8k8msGX3epsxS1obhV50W+0UjRMA9BOFjRv5VP5oQhYqXDg00AE5q8AIzVquiOjirhrwgdyyu72zNQ/I48yH/oVLwjylfXK1NuFuO3NRkx7rSapwsMPB3/wC7CtDRXVUgVB91g0HZaPV9eK7l1FV0/TfpH8Wsei9qKlKAVVcZUtK2EZ5lxqcpqFNzFe1VywO8ykVAmANsGuqNJ2jTOFbSOfEwjQoh8jRUURq2KYthqCZH7bnXS6Ng==;5g8svkc3GrVNRjM/p1/uRA=="

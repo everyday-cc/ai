@@ -23,6 +23,22 @@ images:
     height: 1536
     isCached: true
 
+related:
+  - title: "Alphabet to search for new drugs using artificial intelligence with Isomorphic Labs"
+    excerpt: "Alphabet announced this month the creation of a new spin-off, Isomorphic Labs, which will be a pharmaceutical research lab leveraging the artificial intelligence of the company’s DeepMind. Demis Hassabis,"
+    publishedDateTime: 2021-11-24T11:25:00Z
+    webUrl: "https://www.actuia.com/english/alphabet-to-search-for-new-drugs-using-artificial-intelligence-with-isomorphic-labs/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 33
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/11/Isomorphic-Labs-Deepmind-Demis-Hassabis.png"
+        width: 800
+        height: 400
+        isCached: true
+
 secured: "SMIRUE3Ozj2P5DLthWnRWnL2pD/BZHNIVnB5ve4iEM0iyt5Yo+e2SXPlCbHse9rPTUkL3Q6MWz9gyqashusCkBq86jn4fjoybOzYOloysUf2qS9KCc6dw6CQqwMBWaYRU04e1GNnALVy71M/XRWw2Yjw3IzthrsJhyj6+alBwNC4MYkXFllRYon5Oo4WRDncKMkwNagteOGyLvYyjnlnfSLPZW+DH0+x6ZfJJf6GcaqOjuUzpwL3Tj6xtLxLtLajGNEjc1qjkK4c8t4g2LBuU/+3RJiws/Pr98hYh+OPGqyQv4sfwq1ogYtxfbzP/xDcq3jYCHCoTOoMrmY4qmduuGZeX2eo/OtcMEIEjVoM7uU2K4uuNcdsQJFN4OSpo6SV3yVLj3t0hjEddE/ikzKYv/DJrEloFyd7hU2yOIwdceDvtNOhpTWsO+Yu/GlCf7ZrKArBcstPY6gDhEJ/nklyL71tpZtCVxKCqSg36qDu2THZdt3lWH8Mt9XrS6AmwJh9Qg7sRjx6Wd9HyZyfKmiC0g==;MDAnKteW7jLmHBgKtTnp0g=="
 ---
 

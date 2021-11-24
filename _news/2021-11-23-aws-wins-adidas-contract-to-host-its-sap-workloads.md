@@ -48,16 +48,19 @@ related:
       domain: nasdaq.com
     quality: 69
   - title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-    excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
-    publishedDateTime: 2021-11-23T17:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+    excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
+    publishedDateTime: 2021-11-23T20:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/398836"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
+        width: 635
+        height: 400
+        isCached: true
   - title: "adidas Migrates SAP Environments to AWS"
     excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
     publishedDateTime: 2021-11-22T04:01:00Z
@@ -88,6 +91,15 @@ related:
         width: 800
         height: 764
         isCached: true
+  - title: "Richemont Selects Amazon Web Services as Preferred Cloud Provider"
+    excerpt: "(NASDAQ: AMZN) company Amazon Web Services announced that Compagnie Financière Richemont SA is moving its entire enterprise IT infranstructure to WS. The company will close its European data centers and migrate additional data centers in Hong Kong and the United States to AWS by the end of 2022."
+    publishedDateTime: 2021-11-24T17:26:00Z
+    webUrl: "https://www.financialbuzz.com/richemont-selects-amazon-web-services-as-preferred-cloud-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 21
 
 secured: "LYy40XXM0zURx7EfmcujEiM27TPitMOpPpvu9qR13PV3O3is58ZMImietSkWS5lBg/MUIqzPl7L0w7B0EF8zMGfW+QLtrZ92MySnIr6Fgsc4nz9MVwGdQ8nT/qmgz+IPFuGDKN8JRiTBpL+ZxYmksJupSb7DdGTxg/K4a98YrdMwP47Q8DKSMBr4F5rhZ5CMuX2/YHJCvOIvbF9OPbkxmOxNUtPIdKLayxNfWYA9+5q2Bx13gg5tvK7NMcXmHLpSnMxf37ZLk8qxVOTAn9cY0FQs7eovDHu1fJMdP52Lw+rhOjzePzaSSLexKqiLpyRHhX1gNAyiN/wgHsdmU7/ixR9lEnmX2EPU4pqGxqy+3ui0poxKURNmi0zyXAMH6cW+SurrlvEIjioweU+FtWTq5fvLXVqTx98jozRyHGnSnenkO62+VSf/XCykP8EKXzHZmViT3wwnC171nk0v7XZ1Is3jQSIjpaBL0bQWxLHl3NMP9FWQQEEZ8kbce9rXMdBlSmjGtJFb0jTP7RTnxzI/WA==;PBqQ+nEpi7F6OL/8WXVqyA=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple shares hit record after report says the company wants to build self-driving car as soon as 2025"
-    excerpt: "Apple shares hit a record on Friday following a report that the company is accelerating efforts to launch a self-driving vehicle. As of early afternoon on Friday, Apple’s stock was up more than 1% to above $160."
-    publishedDateTime: 2021-11-20T01:35:00Z
-    webUrl: "https://www.cnbc.com/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 59
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106922846-1628199611258-gettyimages-1328996608-210715a1_070_20210716123027717.jpeg?v=1629365705"
-        width: 4483
-        height: 2984
-        isCached: true
   - title: "Apple reportedly accelerates plans for electric, self-driving car"
     excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
     publishedDateTime: 2021-11-21T13:00:00Z
@@ -73,6 +57,38 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
+    excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
+    publishedDateTime: 2021-11-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/21/heres-how-blind-curves-could-stir-up-knuckle-gripping-jitters-about-ai-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+  - title: "Apple accelerates work on car as it aims for fully autonomous vehicle"
+    excerpt: "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
+    publishedDateTime: 2021-11-20T07:57:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2021/11/20/business/tech/apple-self-driving-goal/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/11/np_file_124959-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
+  - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
+    excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
+    publishedDateTime: 2021-11-21T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/21/heres-how-blind-curves-could-stir-up-knuckle-gripping-jitters-about-ai-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 38
   - title: "Apple shares at record high after reports of a self-driving car"
     excerpt: "Apple shares closed on a high note following reports that iPhone maker is accelerating plans to build a self-driving car. Apple stock rose 3.04% to a new intraday record of $158.32 in early afternoon trading."
     publishedDateTime: 2021-11-20T06:41:00Z

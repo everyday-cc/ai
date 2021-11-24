@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-24T16:17:00Z
 originalUrl: "https://www.cybersecurityintelligence.com/blog/artificial-intelligence-could-be-as-powerful-as-a-nuclear-weapon-5987.html"
 webUrl: "https://www.cybersecurityintelligence.com/blog/artificial-intelligence-could-be-as-powerful-as-a-nuclear-weapon-5987.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20-%202021-11-24T160553.510.png"

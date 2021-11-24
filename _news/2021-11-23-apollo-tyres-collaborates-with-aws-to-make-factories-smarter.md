@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apollo Tyres goes all-in on AWS to make factories smarter with IoT and Machine Learning"
+    excerpt: "Apollo Tyres will draw on the breadth and depth of AWS capabilities, including Internet of Things (IoT), data and analytics, and machine learning, to transform into an agile, data-driven enterprise. Using data from the factory floor and real-time information from production machines,"
+    publishedDateTime: 2021-11-24T18:16:00Z
+    webUrl: "https://www.constructionweekonline.in/business/20980-apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning"
+    type: article
+    provider:
+      name: Construction Week Online
+      domain: constructionweekonline.in
+    quality: 28
 
 secured: "NOZItCPUjuM8IVikI0rMp4cfRyuxsEMQ8DET4ZQJUsTuc3I/ijdM8hGjR4e2TgA+HQYBXTGDEaQdKcijntanJBF4NeA0dpRNPhEatN10alda0v+lEU9V2YnnH+gBY+J1p/6M4berOUV5NpjLc13/hCOYYi/0AyVbQEnTK5oSPGW96YCKm6vI7NmVMcKfJeNerzJFk6oQ06AGGMSlWrBnSiEnPXJeqitpXmVSXg4PMOREXuxjzhxA9lT0wDIKmdNSZOvv1Y6cn9q3CJrZr8H/1MlLukpKuiVW3WL6J/lKsh6Tt9WA2PQVIZrbYXfyKzeplyUP2wsDGebjxJZw9jo7ypSvX3dueGmuu1CNWCuxX3A=;KaxrAjokJzqSyhVZxxQw8w=="
 ---

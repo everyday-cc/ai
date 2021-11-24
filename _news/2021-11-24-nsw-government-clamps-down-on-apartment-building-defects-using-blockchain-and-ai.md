@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-government-clamps-down-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Connecting AI with a strong Play2Earn game on Blockchain"
-    excerpt: "How dotmoovs is making you compete against others in the real world by using your smartphone The blockchain and AI company has recently being showing how the world of sports might be on the verge of a revolution The emergence and rapid popularity increase of the play-to-earn applications that enables users to benefit from the near-real-life experience and in-app benefits has given dotmoovs a recent popularity,"
-    publishedDateTime: 2021-11-20T01:04:00Z
-    webUrl: "https://themerkle.com/connecting-ai-with-a-strong-play2earn-game-on-blockchain/"
-    ampWebUrl: "https://themerkle.com/connecting-ai-with-a-strong-play2earn-game-on-blockchain/"
-    cdnAmpWebUrl: "https://themerkle-com.cdn.ampproject.org/c/s/themerkle.com/connecting-ai-with-a-strong-play2earn-game-on-blockchain/"
-    type: article
-    provider:
-      name: What Is the Flippening
-      domain: themerkle.com
-    quality: 57
-    images:
-      - url: "https://themerkle.com/wp-content/uploads-new/2021/11/dotmoovs.jpg"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "MSRCosmos Group launches AI-based blockchain startup"
     excerpt: "Hyderabad: US-based MSRCosmos Group has set up a new startup MSRVantage that will provide artificial intelligence enabled blockchain solutions that will"
     publishedDateTime: 2021-11-23T13:23:00Z

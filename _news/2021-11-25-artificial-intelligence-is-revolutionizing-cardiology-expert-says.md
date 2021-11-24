@@ -8,8 +8,8 @@ webUrl: "https://www.jpost.com/jpost-tech/artificial-intelligence-is-revolutioni
 ampWebUrl: "https://m.jpost.com/jpost-tech/artificial-intelligence-is-revolutionizing-cardiology-expert-says-686881/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/artificial-intelligence-is-revolutionizing-cardiology-expert-says-686881/amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/489038"
@@ -26,6 +27,6 @@ images:
     height: 428
     isCached: true
 
-secured: "Kg4eCtscHwsfB4/5u0ugEP8BMx0o0p/86PxKCb4364zgpKlebDhQUDjZEuubcbnU3xhgkksUfjqSizXdp0LMEA6FbfnMhtebX/WjrfP0o0xDHNDJGXrQ/ZiV3WlnN43KUD8qn76ujsC19c0n/mVcRSjXhd44ruofNJq9iv81odPYgj8BAW94OwmqM/r06WARNiEiq7YDo4PQ1KVbZZ2Ao/YbCsDWehOJs4pohi4x7ORLmZ3arzR6TgBMTLXCwBtcM98khOBOnZYD7J2k74O3OLwAl86Sj/ZykCSagriZ/qsJI5S2Zooa4fBd2BSiC+L+S9N5YCaSmU+5KFknzliphwhm7fHBVJUB47VOxgo8430=;IfAzG+cCxxYNHPXADKZJgA=="
+secured: "XXMvhXTlE+ThGZywqhxZur2PAbkJVTQCkgHiGCYfBpkE6e4+fa8Cz8GyfYAg8LsTwsPF7pxmTI+Yrb9voAZem8W+cAxZladyEh2gVNF9MCwFoNf5SHBAF23MgbN8YHMLJ2KRN8rqVe5HIvOFTbj8C8gRtdrsQ32yZFGqpWh92QE3OXCXg9TAZuNPa4F/XF+nbJ/0sJkjZ+F7wBSDFHKwFYc50W3Wh2Q+ZcQLg0GG2k3IAp2WuZVPk/RnEJmjHbioys3qDMrp5ZsswQIAs91Rn0/z16FGMv4QJqNT2tkI88Q323CLKt3EvHNbmF70X/yJl0GtuH4zwGaVCIc6SpQFQgMXdqkwC7NDTjDsDsz1GnCOj1Mh0oAyi7VAF03JOF7aGwhihrmueZXulEqfnpkB3B4Pno1wfzIT+kGiRFeapa2uM8EVCCJV6Yt1RlnA6UU3nHiGNt0ZkYjp9lqOH19wS2mEXWP4Sug/ABubgdNohCaijqNOUUp3LDVQ7smXbFd8Lu34NIW8TT0vSGXOLvsT9Q==;WgfuBFDMyGwtNZS0DSFLkQ=="
 ---
 

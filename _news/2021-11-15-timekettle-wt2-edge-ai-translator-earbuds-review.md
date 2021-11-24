@@ -3,8 +3,8 @@ category: news
 title: "TimeKettle WT2 Edge AI Translator Earbuds review"
 excerpt: "Then you might well consider using something like the TimeKettle WT2 Edge AI Translator Earbuds, providing built-for-purpose simultaneous translation between forty languages. These aren’t a cheap option,"
 publishedDateTime: 2021-11-15T13:10:00Z
-originalUrl: "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds"
-webUrl: "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds"
+originalUrl: "https://www.techradar.com/uk/reviews/timekettle-wt2-edge-ai-translator-earbuds"
+webUrl: "https://www.techradar.com/uk/reviews/timekettle-wt2-edge-ai-translator-earbuds"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 491
     isCached: true
 
-secured: "+ThXIHh6ga3cXfZ8uzop3Any8ty9VgT6ogpTzb2r2vXsqzFzGPfyS1x3L0gPoSQfQsT0U/n8aEbmqP2Bp8hvdYRsayCgngBma+OWl1J8GtcYosavZICghpyXk/YYIrHRB8GjwVkoe4y6zwV46qaCC5G+g/pWE9FkrWPbvEs4WVfcWyt2lwUsX3I+AfWHExZWEJ8WxEEeg5ThYCrIAmoyMKMvY4zBog+2ImjqEyq40Szvtcem53rbHiZkNfsJb0OjlcNXV7SCyMn+cGkRIE8lTQHKthar0cbsSvURg6IqLDATSrk1gV4Qhr2KH8tJU4ZllE/HWVB1S1zU1fgMteB/yBrEu5SSPjIf3mKS8hTCC4SY12DdcvA8NS3zRFV5S1Ufdzf2v7eeudqAu/5X9qU6PFNTnTDdLPCNmDl+J6skphPaeBALIkndD23wo40ZWefO9apktlbbTrZwxq9hMIWEaf4IuVOv+52DD1pB/FzGOSYCJP1H/jsvJnM4TLTSjgsV79T9MtXzx1J8f4bS7V6cow==;uMY3jeFqMk9w2JjufoGDyw=="
+secured: "WpGJNPT7mRjdZ6E1CRSPnKxpyFRP/jzcf8M9oTj5uoFd72ei0cSloIljsf+Hx5GPOArqIj4JL/gXZTDMpMiIpc2VWsIvXgDlAN3cjSTKQRYZI1WgjLdkhm1hEr3W+YVAmFwk5hUxz612QjJYn2Z6PVrcc6bHm72Cf5RnSzCWyjc+nmRShn7hFPqeReu2LCuYcba4+RtyInKaK/FP79xtF6ztdAhf5UANeLQ0QY73lhXlaX6NKPNqrH7jL4E6jMZ3S9M1zjqjHOiUoYkx2+zYXZ3cH1le+8qyT+3K35vrsS2mgePca3wra9h67ft3BtqjX1BZyqZ19n4WtzfH2ApOEyjlUXdhnmIQ+g7uzDslM4Q=;4lUAwb9RsoBXWS+HwwaXxw=="
 ---
 
