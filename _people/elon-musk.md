@@ -3,12 +3,12 @@ name: "Elon Musk"
 bio: "Elon Musk is the co-founder and CEO at Tesla, overseeing all product design, engineering and manufacturing of the company's electric vehicles, battery products, and Solar Roofs."
 location: Austin, TX
 type: "profile"
-heat: 0
+heat: 747
 
 twitter:
   username: elonmusk
   url: https://twitter.com/elonmusk
-  followers: 64633242
+  followers: 64638666
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Elon_Musk
