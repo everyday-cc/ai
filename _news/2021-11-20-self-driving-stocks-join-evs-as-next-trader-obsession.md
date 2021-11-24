@@ -7,7 +7,7 @@ originalUrl: "https://www.ttnews.com/articles/self-driving-stocks-join-evs-next-
 webUrl: "https://www.ttnews.com/articles/self-driving-stocks-join-evs-next-trader-obsession"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Stocks Join EVs as Next Retail Trader Obsession"
-    excerpt: "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Friday on high volume."
-    publishedDateTime: 2021-11-19T19:48:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaaSmj6nsYe8/v2/1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Apple shares at record high after reports of a self-driving car"
-    excerpt: "Apple shares closed on a high note following reports that iPhone maker is accelerating plans to build a self-driving car. Apple stock rose 3.04% to a new intraday record of $158.32 in early afternoon trading."
-    publishedDateTime: 2021-11-20T06:41:00Z
-    webUrl: "https://mybigplunge.com/business/auto/electric-vehicle/apple-shares-at-record-high-after-reports-of-a-self-driving-car/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 24
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/11/Apple-Car-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Apple must wade through obstacles to catch up with next wave of self-driving EVs"
     excerpt: "The Apple Car saga continues, with new reports revealing Apple is determined to ship an EV within the next four years, per Bloomberg. How we got here: Apple’s car project has had various starts and stops,"
     publishedDateTime: 2021-11-23T05:05:00Z

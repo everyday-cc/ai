@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-24-robotics-ai-iot-to-transform-the-global-scrubbers-and-sweepers-market-arizton.md",
+      "title": "Robotics, AI, IoT to Transform the Global Scrubbers and Sweepers Market - Arizton",
+      "excerpt": "Commercial Scrubbers and Sweepers Market - Global Outlook and Forecast 2021-2026 The global commercial scrubbers and sweepers market is expected to reach USD 6.81 billion and will grow at a CAGR of 8.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103237420/Robotics-AI-IoT-to-Transform-the-Global-Scrubbers-and-Sweepers-Market-Arizton",
+      "originalUrl": "https://menafn.com/1103237420/Robotics-AI-IoT-to-Transform-the-Global-Scrubbers-and-Sweepers-Market-Arizton",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?665822",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-robot-company-will-pay-200k-for-your-faceif-its-friendly-enough.md",
       "title": "Robot Company Will Pay $200k for Your Face—If It’s Friendly Enough",
       "excerpt": "The company is ready to pay out $200,000 to somebody willing to transfer the rights to use one’s face forever.” You could live forever. Promobot is considering people of all genders and races over 25,",
@@ -1384,58 +1428,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-13-robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem.md",
-      "title": "Robots vs. Fatbergs: High-Tech Approaches to America’s Sewer Problem",
-      "excerpt": "Cash-strapped U.S. cities are turning to drones, artificial intelligence and other innovations to help inspect and fix the country’s aging, underground arteries of waste",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "originalUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-434095/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "publishedDateTime": "2021-11-12T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

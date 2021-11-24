@@ -83,6 +83,22 @@ related:
         width: 780
         height: 405
         isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market -Industry Analysis, Size, Share, Growth, Trends, Segmentation And Forecast 2021 To 2028"
+    excerpt: "New study report” Artificial Intelligence (AI) in Retail. Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30."
+    publishedDateTime: 2021-11-24T11:04:00Z
+    webUrl: "https://www.openpr.com/news/2473071/artificial-intelligence-ai-in-retail-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2473071/artificial-intelligence-ai-in-retail-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2473071/artificial-intelligence-ai-in-retail-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub24269998_g.jpg"
+        width: 800
+        height: 428
+        isCached: true
 
 secured: "7ILCBV9b5TcAYiZfRnHo6kLSwTStjPNc5ttBe7MICcXoc9Aze0RRAQwTghhS+YL6LCs1w0wRoHZFNrZJA7PSWlI1lCuzE7J1sLBMb8Hp/5JnxZBw90Teh/2mWH1JAZZU5BLc88RAfbg3O2XPgT04yq7oF3gXkqWg/0+7EU34vxpphYeq9b7qOkZzxXrFaLoLa/tS1Y+a+xZdaxRxVNtxcf/NikK/O0yi/HFnjT23OcNyZJiSToC7pvtphQcTodEHg3Toqw3MK1XYNkqmfXqLq7YrPlsIaNZf/k0ZaREXJsPM/falg1bXoiqUQJl2zPTJpZTWY55C8brCjWCXua7icC8eUG7PHlasmJDZALr3z0E=;A5nqiGvYDjbyQ/e9L7XPfQ=="
 ---

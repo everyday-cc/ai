@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
 type: article
 quality: 83
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla’s Self-Driving Business Is Powering Ahead Despite Setbacks"
+    excerpt: "Tesla stock is up by almost 60% year-to-date, with its market cap crossing the rarefied $1 trillion mark recently. The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,"
+    publishedDateTime: 2021-11-24T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1170611911%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla asks Full Self-Driving Beta drivers to accept being recorded in case of a crash or ‘safety risk’"
     excerpt: "Tesla is now asking owners getting into the Full Self-Driving Beta program to accept that Tesla can use footage from both inside and outside the car in case of a safety risk or accident. It’s the first time that Tesla will attach footage to specific individuals."
     publishedDateTime: 2021-11-23T23:18:00Z

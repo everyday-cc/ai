@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Top tweets from the Conference on Robot Learning #CoRL2021"
-    excerpt: "The Conference on Robot Learning (CoRL) is an annual international conference specialised in the intersection of robotics and machine learning. The fifth edition took place last week in London and virtually around the globe."
-    publishedDateTime: 2021-11-20T03:18:00Z
-    webUrl: "https://robohub.org/top-tweets-from-the-conference-on-robot-learning-corl-2021/"
+  - title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
+    excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
+    publishedDateTime: 2021-11-23T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
     type: article
     provider:
-      name: Robohub
-      domain: robohub.org
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 55
     images:
-      - url: "https://robohub.org/wp-content/uploads/2021/11/1KLdb-2Nd6lJFHaceKjoiQnO8P3HQjjgLs2048-425x319.jpg"
-        width: 425
-        height: 319
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "2vpZG6gfbME2FJ/SltQ0U+0sZMDKhu55XQELuOjvF8ZOKdPf/2AsUVIE/UBZCh0nyYWXCpPO4skAuJHyPMQrG6RXOBAugK0BcV7U7G5Gu5UCORc7G79UZFy3Dh5gjBD82UAAlKOp/V2VzW/R9pBJmx0+xgZ96bOpC00ttN2++a+V5ry3nnAVX95hMptumcnR5KCVQUUDefJk/B2xVxOXxnvs9YpDPn7b6+17MIdN0wfNHpGL9UPJRwa4eV2Y/BLNsucVKAEu2iOXHkvJ6Y73r1XCFBroRYGcEXD2Q9rGl+QoZs+drRKv7u9tEINYFEh1KvoocnP2CMXgPDYkqGggcpRjlKrERgYZ5TQorHMOozE=;7e3FBhO5O24gc2PG228X+A=="

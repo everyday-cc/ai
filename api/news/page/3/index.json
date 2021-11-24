@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-22-nvidias-latest-ai-tech-translates-text-into-landscape-images.md",
+      "title": "Nvidia’s latest AI tech translates text into landscape images",
+      "excerpt": "Nvidia today detailed an AI system called GauGAN2, the successor to its GauGAN model, that lets users create lifelike landscape images that don’t exist. Combining techniques like segmentation mapping,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/",
+      "originalUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/",
+      "publishedDateTime": "2021-11-22T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities.md",
+      "title": "AI In Healthcare Presents Unique Challenges And Amazing Opportunities",
+      "excerpt": "Artificial intelligence is a hot topic in almost every industry right now, and healthcare is no exception. The big data revolution has transformed manufacturing supply chains, retail advertising and customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197aa507ff6dfc8338aedb0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-ai-in-drug-discovery-market-2021-development-status-and-future-statistics-by-2031.md",
+      "title": "AI in Drug Discovery Market 2021 Development Status and Future Statistics by 2031",
+      "excerpt": "AI in Drug Discovery Market Introduction According to the report the global AI in drug discovery market was valued at US 0 35 Bn in 2020 and is projected to expand at a CAGR of 36 1 from 2021 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "originalUrl": "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub22142087_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "publishedDateTime": "2021-11-22T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem.md",
       "title": "Jina AI Raises $30 Million to Scale Open-Source Neural Search Ecosystem",
       "excerpt": "Jina AI, an open-source neural search company, today announced $30 million in Series A financing. Canaan Partners led the round with participation from new investors including Mango Capital, as well as existing partners GGV Capital,",
@@ -49,58 +195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-tesla-releases-new-full-self-driving-beta-105-update-with-interesting-new-features.md",
-      "title": "Tesla releases new Full Self-Driving Beta 10.5 update with interesting new features",
-      "excerpt": "Tesla has started pushing a new Full Self-Driving Beta software update (10.5) to the fleet this weekend. It includes some interesting new features based on the release notes, which you can find below.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/",
-      "originalUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/",
-      "publishedDateTime": "2021-11-22T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -621,7 +715,7 @@
       "originalUrl": "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -999,7 +1093,7 @@
       "originalUrl": "https://www.cnbc.com/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1084,101 +1178,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-scientists-use-machine-learning-to-predict-smells-based-on-brain-activity-in-worms.md",
-      "title": "Scientists use machine learning to predict smells based on brain activity in worms",
-      "excerpt": "It sounds like a party trick: scientists can now look at the brain activity of a tiny worm and tell you which chemical the animal smelled a few seconds before. But the findings of a new study, led by Salk Associate Professor Sreekanth Chalasani,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.html",
-      "originalUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/reading-the-mind-of-a.jpg",
-          "width": 1880,
-          "height": 1495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-scientists-machine-based-brain-worms.amp",
-      "publishedDateTime": "2021-11-19T13:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-identifying-patients-needing-help-with-squark-automl-at-upmc.md",
-      "title": "Identifying Patients Needing Help With Squark AutoML At UPMC",
-      "excerpt": "UPMC uses automated machine learning software from Squark to identify patients who may benefit from living donor liver transplants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61981d5e16a15abc836db9ec%2F0x0.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/amp/",
-      "publishedDateTime": "2021-11-19T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

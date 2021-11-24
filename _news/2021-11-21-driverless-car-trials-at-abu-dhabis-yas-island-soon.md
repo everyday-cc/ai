@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabi
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -124,6 +124,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 19
+  - title: "Abu Dhabi launches self-driving taxis pilot project on Yas Island"
+    excerpt: "A pilot project has been launched to explore the use of self-driving taxis on Yas Island in Abu Dhabi.. Abu Dhabi launches self-driving taxis pilot project on Yas Island. Abu Dhabi, Autonomous vehicles,"
+    publishedDateTime: 2021-11-24T12:18:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabi-launches-self-driving-taxis-pilot-project-on-yas-island"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 4
 
 secured: "OEncy46cXILgTKC4me6AFLshp73pgehQucMuROw9BgoNEJz2LWHfhqyNOUXi9aDhNe9t4MWbRBjqBaobBnmwSHG0ODdtkEuHU9Jb2TFfi0YPP31p8qUwr5Juq4IrvelLq/jMaBCZTG0PH5+bQmPLabRZAFI9y98mjYiOBzoVpIundxZ5E5ZuO/FXjnHyKFlGZXt+9MHsOBjNsmnR+QOtuwBliu2P78v6VrDOO0fQVgKINlQpX4+v3zdODN8w5+4TrWBLOZCJILggnahERmFeQqyBeY6pidXo4x+lnarccKT99nRKvG1+2tCwHVr46HtgaDFlwAh7sc/VIBqEZxS7XFZVX9Kv1LA4ECzZ1kIlPm1IIE1+fGwcBzS+JZ+rc5OWKvTIKhJCjxunx2aFPbB8EmC5yop4+ahF/J74vSF59N7tfJZEnlakHpM8F4IUgv2gDINwtZfsZnVl4uNKpV2AqqMdiLbx7GHox139LoXyhFl9JG3Y6Q17qKEdnhOmh8RzCG12i+MDyhZ9oQauOZY1yw==;1UfIZhFKUfcVQgSSHnDKRA=="
 ---

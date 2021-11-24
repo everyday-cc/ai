@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-24-can-ai-truly-give-us-a-glimpse-of-lost-masterpieces.md",
+      "title": "Can AI Truly Give Us a Glimpse of Lost Masterpieces?",
+      "excerpt": "Recent projects used machine learning to resurrect paintings by Klimt and Rembrandt. They raise questions about what computers can understand about art.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/619d6ee45b2d2156d9905d6b/master/pass/Culture_TA_Rijksmuseum---De-Nachtwacht---installatie-van-de-missende-delen.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-reviving-lost-art/amp",
+      "publishedDateTime": "2021-11-24T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-machine-learning-software-market-breaks-out-to-new-high-microsoft-google-tensorflow-kount.md",
       "title": "Machine Learning Software Market Breaks Out to New High | Microsoft, Google, TensorFlow, Kount",
       "excerpt": "Global Machine Learning Software Market Status Trends and COVID 19 Impact Report 2021 Covid 19 Outbreak Impact research report added by Report Ocean is an in depth analysis of market characteristics size and growth segmentation regional and country breakdowns competitive",
@@ -45,6 +97,102 @@
         "Microsoft AI",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-teslas-self-driving-business-is-powering-ahead-despite-setbacks.md",
+      "title": "Tesla’s Self-Driving Business Is Powering Ahead Despite Setbacks",
+      "excerpt": "Tesla stock is up by almost 60% year-to-date, with its market cap crossing the rarefied $1 trillion mark recently. The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1170611911%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/",
+      "publishedDateTime": "2021-11-24T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-robotics-ai-iot-to-transform-the-global-scrubbers-and-sweepers-market-arizton.md",
+      "title": "Robotics, AI, IoT to Transform the Global Scrubbers and Sweepers Market - Arizton",
+      "excerpt": "Commercial Scrubbers and Sweepers Market - Global Outlook and Forecast 2021-2026 The global commercial scrubbers and sweepers market is expected to reach USD 6.81 billion and will grow at a CAGR of 8.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103237420/Robotics-AI-IoT-to-Transform-the-Global-Scrubbers-and-Sweepers-Market-Arizton",
+      "originalUrl": "https://menafn.com/1103237420/Robotics-AI-IoT-to-Transform-the-Global-Scrubbers-and-Sweepers-Market-Arizton",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?665822",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -107,7 +255,7 @@
       "originalUrl": "https://www.openpr.com/news/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -279,7 +427,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1049,153 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-clearview-ai-does-well-in-another-round-of-facial-recognition-accuracy-tests.md",
-      "title": "Clearview AI does well in another round of facial recognition accuracy tests.",
-      "excerpt": "This time, a federal agency assessed the ability to pick the right person out of millions of photos. Clearview’s app still faces legal hurdles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.html",
-      "originalUrl": "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/23/multimedia/23clearview-photo/23clearview-photo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.amp.html",
-      "publishedDateTime": "2021-11-23T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding.md",
-      "title": "AI-based Robotics Startup Haber Raises $27 Mn In Series B Funding",
-      "excerpt": "Haber develops AI-driven robots which automate the manual process of sample collection, measurement, analysis, and intervention at factories.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/",
-      "originalUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2021/11/trademo-ft-social-02-1-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/",
-      "publishedDateTime": "2021-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-robots-for-the-win-during-ecommerce-holiday-crunch.md",
-      "title": "Robots for the win during ecommerce holiday crunch",
-      "excerpt": "Between labor shortages, COVID continuing to wreak havoc on the supply chain, and the upcoming holiday season (in which eCommerce is expected to grow up to 15%), retailers, eCommerce, and warehouses will face a challenging few months to meet increased consumer demands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-for-the-win-during-ecommerce-crunch/",
-      "originalUrl": "https://www.zdnet.com/article/robots-for-the-win-during-ecommerce-crunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/071fc579b11fc5f8254621a0b7f3f4f4e58dbf47/2021/11/19/e111dedd-8bb2-4944-af46-19babbfc10cb/berkshire-grey-robtotic-picking-general-merchandise-1000x842.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-for-the-win-during-ecommerce-crunch/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-for-the-win-during-ecommerce-crunch/",
-      "publishedDateTime": "2021-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

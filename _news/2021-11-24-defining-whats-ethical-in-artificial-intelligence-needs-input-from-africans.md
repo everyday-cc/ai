@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Defining what's ethical in artificial intelligence needs input from Africans"
-excerpt: "Artificial intelligence (AI) was once the stuff of science fiction. But it's becoming widespread. It is used in mobile phone technology and motor ve"
-publishedDateTime: 2021-11-24T09:09:00Z
-originalUrl: "https://menafn.com/1103236806/Defining-whats-ethical-in-artificial-intelligence-needs-input-from-Africans"
-webUrl: "https://menafn.com/1103236806/Defining-whats-ethical-in-artificial-intelligence-needs-input-from-Africans"
+excerpt: "Artificial intelligence (AI) was once the stuff of science fiction. But it's becoming widespread. It is used in mobile phone technology and motor vehicles. It powers tools for agriculture and healthcare."
+publishedDateTime: 2021-11-24T11:45:00Z
+originalUrl: "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.html"
+webUrl: "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.html"
+ampWebUrl: "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.amp"
 type: article
-quality: 53
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-11/23/TC_2e738image_story.jpg"
-    width: 1249
-    height: 816
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/44-artificialin.jpg"
+    width: 1920
+    height: 1200
     isCached: true
 
 related:
@@ -43,6 +44,6 @@ related:
         height: 209
         isCached: true
 
-secured: "6aXGkTLcRTggbCjg6U1ShXvdJ168Z5QrOF+cSgSf+LD7OgpGLeB4RDjSYhNBJJNYGT7n62mMgib/6YeLbMKVH4kRsO+YShslc876/s5XVQEtLweATP5xDSdz2jBZft/5gOEBGznCugGG3q+PPvDMe02ztgdnPMmwiNZFgeOLDp5hRln0ImUSMRq8HqsuPjgYvxzhIkC8ZfmC/oNzJHOVnynMoa3qcxE/xg3MFomB9dUBoS8Zyc0BBKlicEbqEQSyhQiAKUFcdJL3tC9BWU/gjyCmYjXkJMZpg8Wr2LRPgEKZ6faOa5p2Ow/nUugL0pNj/NhL/0sDG4VeCb4V56ff6dChSjFWNy+C93bAiFy6aik=;CXQ+QlSNDq1x0r3Ljxe58Q=="
+secured: "LGRIU+6tUQ3j6+waAaaiDz37qgxr23wcsHvrXucXnSIQaZGygvgPQE8WdHq7z4BvTbSSDB2jC3us15g1cUW/Fy7YvtrgVmyWAZ78kQUzot4hZT195+0utm2QWyY2Y+yr/ua2Jazu0X7rS0+lhu7o3jS+nZJeMmtz2kzHaSKrk5yv4SWNkp8vuTdi5dwxw7TlfZR90JUh4+It8zIXpa1/r8hzp/7f362TmAOPfxgjkvkhyH6ME6+1vCuv2wXGtcPR831+94BqEkGJyNbuUBB7kpwnFpN/Kxc2Iwo/hvk8ykSf4FikiA0WWoEdV3s2hyKZ/eRLmnmMjvUtz0XVp/CDL99r5xobUG4t6d5apNNXH0g=;QerSpZSQ7uA3o9LMAXMbwA=="
 ---
 

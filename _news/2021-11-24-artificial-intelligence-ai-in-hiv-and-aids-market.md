@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub22461176_g.jpg"
         width: 780
         height: 405
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market -Industry Analysis, Size, Share, Growth, Trends, Segmentation And Forecast 2021 To 2028"
+    excerpt: "New study report” Artificial Intelligence (AI) in Retail. Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30."
+    publishedDateTime: 2021-11-24T11:04:00Z
+    webUrl: "https://www.openpr.com/news/2473071/artificial-intelligence-ai-in-retail-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2473071/artificial-intelligence-ai-in-retail-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2473071/artificial-intelligence-ai-in-retail-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub24269998_g.jpg"
+        width: 800
+        height: 428
         isCached: true
   - title: "Artificial intelligence (AI) in Logistics Market Recent Developments, Research Analysis Forecast 2027"
     excerpt: "The Global Artificial intelligence AI in Logistics Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the"

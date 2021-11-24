@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-bu
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://mcmscache.epapr.in/post_images/website_326/post_25578185/full.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Apple shares at record high after reports of a self-driving car"
+    excerpt: "Apple shares closed on a high note following reports that iPhone maker is accelerating plans to build a self-driving car. Apple stock rose 3.04% to a new intraday record of $158.32 in early afternoon trading."
+    publishedDateTime: 2021-11-20T06:41:00Z
+    webUrl: "https://mybigplunge.com/business/auto/electric-vehicle/apple-shares-at-record-high-after-reports-of-a-self-driving-car/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 24
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/11/Apple-Car-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "What makes uni students steer clear of self-driving cars?"
     excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."

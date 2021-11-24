@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market Industry Analysis, Opportunities, Segmentation & Forecast 2021 To 2028"
+    excerpt: "Market 2021 Global Market Opportunities, Challenges, Strategies, and Forecasts 2028″ has been added to Fortune Business Insights. Market Overview: The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360."
+    publishedDateTime: 2021-11-24T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2473021/artificial-intelligence-ai-market-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2473021/artificial-intelligence-ai-market-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2473021/artificial-intelligence-ai-market-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub24581473_g.jpg"
+        width: 800
+        height: 428
+        isCached: true
 
 secured: "vEaeqAksYDOLQi6Uyr9gscaNp+Qsxzk7YM9W0DSg7LOdvQGet7PS9AQDxjWH9WdeOIaND7fxpcW3TWLByHcdf6JZaxWJwW3aowS1ckxwoConKHw4UMZqH5faazAbqep2kj8MkqcNk0UV/MrkU6Prk2QeSUB9Ide0HfsWxGx+jQsc48PIQn56/CmEK5n3vGQKpyxhmL3HMgs6K7Elr90U3TnLqBU+G8IHNZoMDa0mhi6RUesrhjxxaeG6qI4KFM4Ya6bWexWCzj/YHtJg2MFBIQV9eTB9xpRyMw60d+e/E8J2SaDnXYAcjJEpUenyAbRpsD/oalLXtY9/LbNnedFN+Un5ZgN5ezS6SYyaM+gLH7Q=;NBIfrgC+vNUMo68izc8bpg=="
 ---

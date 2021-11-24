@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "Defining what's ethical in artificial intelligence needs input from Africans"
-    excerpt: "Artificial intelligence (AI) was once the stuff of science fiction. But it's becoming widespread. It is used in mobile phone technology and motor ve"
-    publishedDateTime: 2021-11-24T09:09:00Z
-    webUrl: "https://menafn.com/1103236806/Defining-whats-ethical-in-artificial-intelligence-needs-input-from-Africans"
+    excerpt: "Artificial intelligence (AI) was once the stuff of science fiction. But it's becoming widespread. It is used in mobile phone technology and motor vehicles. It powers tools for agriculture and healthcare."
+    publishedDateTime: 2021-11-24T11:45:00Z
+    webUrl: "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.amp"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 53
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 71
     images:
-      - url: "https://menafn.com/updates/pr/2021-11/23/TC_2e738image_story.jpg"
-        width: 1249
-        height: 816
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/44-artificialin.jpg"
+        width: 1920
+        height: 1200
         isCached: true
 
 secured: "BX0L2rUW2KyiPpgYVClzONLpxaTIlRHYNCiM6J5+SPlehJcXi/iWG0/383S+7ntCqOP9C6Sd3h03bBUYTZgTOe0Qfw27YN9DC6sJ/H9bmp6Ng1S8nBlwxBmmIYYd8CvBgaJmd1gbdI0AZAltdoJ1853c3W16k4LAceiqHq/tQnSFoM1PKSEh7kW/nJJYQiNIYCaAVo6s9TgabsJNKGMbCsQ3YvDSJTBuDYlif+W8nvVffNC8Q8bRXCW4m2oZPWRp/lU1y2fQylurVy85/gtKrG8Qj/txyMQhoC0W8hdZgFiw7HAnIi9h36iKFfmDqhg/fDEze6NUY/y7OT4WfBOYjJJr4bj2pUZZ0Zomb6IbqNaYeQQUSvmqhRe5dwyBCz3Gmn8nDYIV6QkWnoaArr98niqBWsiax82AW46yf3CnffGRIeUuULiN2j3APlgImnNHEmz3cqCc//P98TIVs9NdpefRbxYMAGJQ54zKCNTEHazaRFlfRddFbnbNQ8Dgw6YON0AtlcLoI4NUn1NUYQQH0g==;81p/3ZiVwCIq3t+Yx+aoyg=="

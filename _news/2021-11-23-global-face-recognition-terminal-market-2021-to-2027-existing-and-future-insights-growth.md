@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market Industry Analysis, Opportunities, Segmentation & Forecast 2021 To 2028"
+    excerpt: "Market 2021 Global Market Opportunities, Challenges, Strategies, and Forecasts 2028″ has been added to Fortune Business Insights. Market Overview: The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360."
+    publishedDateTime: 2021-11-24T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2473021/artificial-intelligence-ai-market-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2473021/artificial-intelligence-ai-market-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2473021/artificial-intelligence-ai-market-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub24581473_g.jpg"
+        width: 800
+        height: 428
+        isCached: true
   - title: "Global Military Robots Market Report, Size, Growth, Opportunity, Key Players and Industry Trends 2021-26"
     excerpt: "According to IMARC Group's latest report, titled“Military Robots Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global military robots market is expected to grow at a CAGR of around 10% during 2021-2026."
     publishedDateTime: 2021-11-22T11:54:00Z

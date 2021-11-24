@@ -1,18 +1,18 @@
 ---
 category: news
 title: "The self-driving trolley problem: how will future AI systems make the most ethical choices for all of us?"
-excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms generally still"
-publishedDateTime: 2021-11-24T09:12:00Z
-originalUrl: "https://menafn.com/1103238195/The-self-driving-trolley-problem-how-will-future-AI-systems-make-the-most-ethical-choices-for-all-of-us"
-webUrl: "https://menafn.com/1103238195/The-self-driving-trolley-problem-how-will-future-AI-systems-make-the-most-ethical-choices-for-all-of-us"
+excerpt: "What would happen if AI systems had to make independent decisions and ones that could mean life or death for humans?"
+publishedDateTime: 2021-11-24T11:29:00Z
+originalUrl: "https://www.bizcommunity.com/Article/196/852/222586.html"
+webUrl: "https://www.bizcommunity.com/Article/196/852/222586.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Bizcommunity
+  domain: bizcommunity.com
 
 topics:
   - AI in Autos
@@ -20,11 +20,11 @@ topics:
   - AI Ethics
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-11/23/TC_8ac63image_story.jpeg"
-    width: 1750
-    height: 984
+  - url: "https://biz-file.com/c/2111/636888-700x364.jpg?1"
+    width: 700
+    height: 364
     isCached: true
 
-secured: "sRd319+zbG1CQXGCGI+d5ootgKyteJWEV67HziWqFGl++P0ySC3hkXwLczyn31A+pDMDJosODdvC2S+fkAEBS+7S56nv7GzdJRyV2OQt8ShI+xtVufamJafz4TJPsXBa1tSfxFjagGQ/yIui6GVSzuUKOEJ7KhsSjVTxe5ImGDd20KXHKB0XtCYmcb3heEzj08dimCkDy7cVNhEtCraetUS+N3Kh15Don3YVTqeWj5Dq6NJ79YBp+NLogkf3E3juqMQ++sNtKcA2ocJj6XONY3LAIE7xVAlr1h+XgFvjA9NsCRZgclxAqzyxWDdIevKdDnkoLUIQhevVYsp0dZZKwgi8FBmIr08N7HTRAVhIqUg=;YaeoKSfUTZnfv5BHecSCig=="
+secured: "OcmNFrvHrDYElDDa/77/bOuZIAn/voCDNYHiD2bK0yFhUYIRMelEj1yAvg8W+RlR6JvnKOXpH8W1+WCHcDfuxIwgMv/NIRk4TQjtSjbkoGD2YhyfKzjfXXK21SFeUTXBVAxeUK1Tcg3aQIhAXnkwakCzhTmwHOLu5jhCe5cWzu3wDAPf/K3wV62vt54Xuay0xi+M4jsGT2J5HpQwKMmOY+YxMj3wA+6Rbnjj8n1qZG5Zb4NAB9ouWOfB4+qsLQSfXhZsKb/be5ocy7S0M2xTp8qnAoLvKJFa/8ExnxcfQgzdQeAgHTXpA6KQGVSQNcG0KPeRjLOM+jr78etrxM7x7V684bOFy91fFQ+bUpeEGpw=;jEce6VnKgxNIjxR0wM+Prg=="
 ---
 

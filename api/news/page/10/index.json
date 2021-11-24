@@ -2,6 +2,102 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-16-global-cognitive-services-market-key-country-data-2021-competitive-landscape-swot-analysis-opportunities-and-challenges-growth-by-2026.md",
+      "title": "Global Cognitive Services Market Key Country Data 2021 | Competitive Landscape, SWOT Analysis, Opportunities and Challenges, Growth by 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Cognitive Services Market - Analysis and Insights: Nov 15, 2021 (The Expresswire) -- The report starts with an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-services-market-key-country-data-2021-competitive-landscape-swot-analysis-opportunities-and-challenges-growth-by-2026-2021-11-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-services-market-key-country-data-2021-competitive-landscape-swot-analysis-opportunities-and-challenges-growth-by-2026-2021-11-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-strange-news-virgin-condor-births-ethical-ai-facebook-and-facial-recognition.md",
+      "title": "Strange News: Virgin Condor Births, Ethical AI, Facebook and Facial Recognition",
+      "excerpt": "Check out this great listen on Audible.com. Scientists discover that the endangered California Condor is capable of producing offspring without the presence of male condors, prompting troubling questions for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.audible.com/pd/B09LVW43PR",
+      "originalUrl": "https://www.audible.com/pd/B09LVW43PR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/61CIjwuBRcS._SL500_.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Audible",
+        "domain": "audible.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-wfans-steve-somers-signs-off-jerry-seinfeld-helps-say-goodbye-defends-mets-steve-cohen.md",
       "title": "WFAN’s Steve Somers signs off: Jerry Seinfeld helps say goodbye, defends Mets’ Steve Cohen",
       "excerpt": "Longtime WFAN host Steve “The Schmoozer” Somers is leaving the station. Somers said it will be a mutual parting after he declined WFAN’s offer to return to his old overnight job full-time",
@@ -1097,83 +1193,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-university-of-geneva-discovering-exoplanets-using-artificial-intelligence.md",
-      "title": "University of Geneva: Discovering exoplanets using artificial intelligence",
-      "excerpt": "The majority of exoplanets discovered to date have been discovered using the transit method. This technique is based on a mini eclipse caused when a planet passes in front of its star. The decrease in",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/geneva-1024x427.jpg",
-          "width": 1024,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-geneva-discovering-exoplanets-using-artificial-intelligence/",
-      "publishedDateTime": "2021-11-14T20:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-aeye-honored-as-ces-2022-innovation-award-winner-in-vehicle-intelligence-transportation-category.md",
-      "title": "AEye Honored as CES 2022 Innovation Award Winner in Vehicle Intelligence & Transportation Category",
-      "excerpt": "Previous award winners in this category have included IBM, Waymo, and Continental ... iDAR is the only software configurable LiDAR with integrated deterministic artificial intelligence, delivering industry-leading performance in range, resolution, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/11/11/aeye-honored-as-ces-2022-innovation-award-winner-in-vehicle-intelligence",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/11/11/aeye-honored-as-ces-2022-innovation-award-winner-in-vehicle-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T19:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
