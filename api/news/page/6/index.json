@@ -2,6 +2,355 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-18-nvidia-data-center-sales-grew-55-on-demand-for-artificial-intelligence-chips.md",
+      "title": "Nvidia data center sales grew 55% on demand for artificial intelligence chips",
+      "excerpt": "Nvidia stock rose more than 5% in extended trading after it reported third-quarter earnings Wednesday that beat expectations for both earnings and sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106668816-1597783026604-gettyimages-1177538055-347713477_1-8.jpeg?v=1602189731",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
+      "publishedDateTime": "2021-11-17T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia.md",
+      "title": "Unwelcome in Another Country, Clearview AI Forced to Delete Facial Recognition Data in Australia",
+      "excerpt": "Australia's privacy commissioner has ruled that Clearview AI has violated the privacy of the country's residents, and that means it will be forced to delete its cache of their facial recognition data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/",
+      "originalUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/11/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/",
+      "publishedDateTime": "2021-11-17T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-nvidia-ceo-supply-chain-mess-was-a-wake-up-call-for-everybody.md",
+      "title": "Nvidia CEO: Supply chain mess 'was a wake-up call for everybody'",
+      "excerpt": "Nvidia said it has enough supply of its own chips to meet demand, but companies should \"be more mindful about not taking the supply chain for granted.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-shares-rise-as-fyq3-results-top-expectations-forecast-higher-as-demand-for-ai-chips-surges/",
+      "publishedDateTime": "2021-11-17T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-in-the-push-for-development-is-the-us-prepared-to-regulate-ai.md",
+      "title": "In the push for development, is the U.S. prepared to regulate AI?",
+      "excerpt": "For ethical and unbiased AI to be the way of the future, we need to regulate AI now to address today's research and development challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/amp/",
+      "publishedDateTime": "2021-11-17T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-microsoft-open-sources-synapseml-for-developing-ai-pipelines.md",
+      "title": "Microsoft open-sources SynapseML for developing AI pipelines",
+      "excerpt": "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
+      "originalUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
+      "publishedDateTime": "2021-11-17T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models.md",
+      "title": "Use Amazon SageMaker ACK Operators to train and deploy machine learning models",
+      "excerpt": "AWS recently released the new Amazon SageMaker Operators for Kubernetes using the AWS Controllers for Kubernetes (ACK). ACK is a framework for building Kubernetes custom controllers, where each controller communicates with an AWS service API. These controllers allow Kubernetes users to provision AWS",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-ack-operators-to-train-and-deploy-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/13/4371-Architecture.jpg",
+          "width": 801,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T11:43:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-in-a-5g-future-physical-work-wont-require-your-physical-presence.md",
+      "title": "In A 5G Future, Physical Work Won’t Require Your Physical Presence",
+      "excerpt": "It’s from here that the operator remotely pilots the machine via a 5G connection—protected from the dirty, dangerous work outside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/",
+      "originalUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192aa14af7232fadbf0f689%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tmobile/2021/11/17/in-a-5g-future-physical-work-wont-require-your-physical-presence/amp/",
+      "publishedDateTime": "2021-11-17T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-how-visual-effects-helped-tom-hanks-robot-costar-come-to-life-in-finch.md",
       "title": "How visual effects helped Tom Hanks’ robot costar come to life in Finch",
       "excerpt": "It took a combination of visual effects, motion-capture performance, and an animatronic actor to create the breakout star of the Apple TV+ sci-fi drama Finch.",
@@ -879,342 +1228,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-five-ai-strategies-cxos-can-use-to-transform-their-business.md",
-      "title": "Five AI Strategies CXOs Can Use To Transform Their Business",
-      "excerpt": "CEO and Co-Founder at Affine, an AI evangelist, business builder, and entrepreneur at heart. Ensuring growth by transformative solutions. $15.7 trillion: That is the figure we predict artificial intelligence is going to contribute to the global economy by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616836b70b2d3470ee1e3a1a%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/amp/",
-      "publishedDateTime": "2021-11-17T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-the-future-of-ai-powered-document-processing.md",
-      "title": "The Future Of AI-Powered Document Processing",
-      "excerpt": "Through intelligent document processing (IDP), the process of data extraction automation from unstructured and semi-structured documents and conversion into structured and usable data, AI has tangibly amplified extracting data with high accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdcc3472c78ec67b5540bbc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/",
-      "publishedDateTime": "2021-11-17T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-qualcomm-aims-for-diversification-will-soon-supply-chips-for-bmw-self-driving-cars.md",
-      "title": "Qualcomm aims for diversification, will soon supply chips for BMW self-driving cars",
-      "excerpt": "Qualcomm Inc announced on Tuesday that BMW cars will utilize its chips in its driver-assistance and self-driving systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2017/09/qualcomm-chip.jpg",
-          "width": 1024,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1",
-      "publishedDateTime": "2021-11-17T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-artificial-intelligence-and-bias-what-one-investor-considers.md",
-      "title": "Artificial Intelligence and Bias: What One Investor Considers",
-      "excerpt": "Fool c, Brian Withers, and Trevor Jennewine answer a member's question about making investment choices in the artificial intelligence space that are not only sound from a financial perspective but address personal ethical concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-bias%3A-what-one-investor-considers",
-      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-bias%3A-what-one-investor-considers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-bias%3A-what-one-investor-considers?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-and-bias%3A-what-one-investor-considers?amp",
-      "publishedDateTime": "2021-11-17T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-cutting-through-prejudice-ai-and-diversity-recruiting.md",
-      "title": "Cutting Through Prejudice: AI And Diversity Recruiting",
-      "excerpt": "As a result, AI has become largely meaningless in recruiting conversations, even as we see the technology being used with increased frequency. Recognizing the gap between understanding and application,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f579a2d027e9987faa1ed1%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/amp/",
-      "publishedDateTime": "2021-11-17T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-artificial-intelligence-plan-to-reduce-harm-to-pregnant-black-women.md",
-      "title": "Artificial Intelligence plan to reduce harm to pregnant black women",
-      "excerpt": "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_post_locator=urn:bbc:cps:curie:asset:26c1a88e-0fff-4b72-967d-3262e6c7fffb&pinned_post_asset_id=59306908&pinned_post_type=share",
-      "originalUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_post_locator=urn:bbc:cps:curie:asset:26c1a88e-0fff-4b72-967d-3262e6c7fffb&pinned_post_asset_id=59306908&pinned_post_type=share",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp",
-      "publishedDateTime": "2021-11-17T02:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-global-deep-learning-in-ct-scanners-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026.md",
-      "title": "Global Deep Learning in CT Scanners Market Size, Share, Revenue & Demand | Future Opportunities | Forecast upto 2026",
-      "excerpt": "In 2022, “Deep Learning in CT Scanners Market“ revenue was Million USD in 2016, grew to Million USD in 2021, and will",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-ct-scanners-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026-2021-11-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-ct-scanners-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026-2021-11-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

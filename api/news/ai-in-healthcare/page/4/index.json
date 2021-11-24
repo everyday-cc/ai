@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
+      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
+      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "publishedDateTime": "2021-10-01T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence.md",
+      "title": "Acclarent Launches First ENT Navigation Technology Powered by Artificial Intelligence",
+      "excerpt": "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies,* and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html",
+      "originalUrl": "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/eedition/d/8e/d8e91b09-60a0-56b9-9039-7f2f620bb378/61676e748eb38.preview-300.jpg?resize=300%2C600",
+          "width": 300,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-cardinal-healths-cah-unit-to-aid-canadian-healthcare-system.md",
       "title": "Cardinal Health's (CAH) Unit to Aid Canadian Healthcare System",
       "excerpt": "Cardinal Health's (CAH) subsidiary to support the Canadian Healthcare system against COVID-19 with vaccination policy.",
@@ -1308,101 +1395,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality.md",
-      "title": "The Social Impact Case For Artificial Intelligence’s Role In Achieving Global Financial And Health Equality",
-      "excerpt": "Equality Mural.. Technology can be used for a great many things: improving people’s lives is one of them. This is achievable through AI in many sectors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144ea724d323ccd70477289%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1036%26cropY1%3D941%26cropY2%3D1524",
-          "width": 1036,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
-      "publishedDateTime": "2021-09-17T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-global-5848-billion-radiotherapy-devices-market-2021-covid-19-growth-and-change-to-2030-researchandmarketscom.md",
-      "title": "Global $5.848 Billion Radiotherapy Devices Market 2021: COVID-19 Growth and Change to 2030 - ResearchAndMarkets.com",
-      "excerpt": "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. The global radiotherapy devices market is expected to grow from $5.44 billion in 2020 to $5.848 billion in 2021 at a compound annual growth rate (CAGR) of 7.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-5bb5977a5c5942a1a6314d1adaffe917",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-5bb5977a5c5942a1a6314d1adaffe917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

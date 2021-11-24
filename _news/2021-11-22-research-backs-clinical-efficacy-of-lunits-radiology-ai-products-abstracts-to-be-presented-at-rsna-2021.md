@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/research-backs-cli
 webUrl: "https://markets.businessinsider.com/news/stocks/research-backs-clinical-efficacy-of-lunit-s-radiology-ai-products-abstracts-to-be-presented-at-rsna-2021-1030995297"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 400
     height: 261
     isCached: true
+
+related:
+  - title: "How to shop for AI, enterprise imaging, and more at RSNA 2021"
+    excerpt: "Imaging consultant Michael J. Cannavo shares his tips for how to shop for artificial intelligence (AI) software, PACS, enterprise imaging, and more at RSNA 2021."
+    publishedDateTime: 2021-11-24T07:43:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134246"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/sup_pac/2019_02_13_21_09_9034_Cannavo_Mike_2019_400.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "5Z0VcqJMdzjf/0e+Syjfvb1PjMaTtnIJs2naU4pVgaF5eqriYXEUbwZx4Sh3iNsQvcQZ/HhnsrUQ9QNbOzGyXQUmvWieRGjZVaMDVXxlAbAVUo5WUpRXp81IlxZWaFBrlanRuyrcTTaxslxG4c9LnmrAfPFesGGt2cgB+kH3MBbieOpdkrT6PAjmhgjM1AQmH8QYtEdayDjZ+8JF6/7evzYenmfBro2oemMJryhPSK69U1qkIBEfRRfg9PhHXERJEYr2Hjmn6SpNssBEwlQsDTXgB5+s0qShoCEZ7+aXYBNm5W5oBjDuFPVhDMyiHPpLEZw/hsSqA/g12QRADEuIvmKigThHQqoW5RSPFgbNF5LjPxKorz33LRnLrlu4GcQ3/ITbYdekc3ngg41QdLgSy4N2hZ9R0cwxdNBIkwCl06y4VgW5+HC+nR/QH5CFr90bJxMLRm6wknLmOfC5kxjMpDUa1kkrSSXHQYTHwUxtbqBGFuP2+FysyLmbIH2OyQZw1ozCi3MFZOqA7/TIBhYhUw==;hfsY+DL8w8vj6zoQY3vF7g=="
 ---

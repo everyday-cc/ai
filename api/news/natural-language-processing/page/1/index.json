@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-24-healthcare-triangle-selected-by-monument-health-to-automate-document-processing.md",
+      "title": "Healthcare Triangle selected by Monument Health to automate document processing",
+      "excerpt": "Securekloud Ltd-backed Healthcare Triangle Inc., USA a leading provider of cloud and data transformation platform and solutions for healthcare and life sciences, has announced that Monument Health taps Healthcare Triangle to automate their document processing through readable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-top-story/healthcare-triangle-selected-by-monument-health-to-automate-document-processing-121112400432_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/healthcare-triangle-selected-by-monument-health-to-automate-document-processing-121112400432_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/2018-12/18/full/1545110317-5609.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/healthcare-triangle-selected-by-monument-health-to-automate-document-processing-121112400432_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/healthcare-triangle-selected-by-monument-health-to-automate-document-processing-121112400432_1.html",
+      "publishedDateTime": "2021-11-23T21:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-ai-powered-voice-transcription-startup-verbit-secures-250m.md",
       "title": "AI-powered voice transcription startup Verbit secures $250M",
       "excerpt": "Verbit, a startup developing an AI-powered transcription platform, has raised $250 million in venture capital.",
@@ -695,10 +739,10 @@
     {
       "path": "_news/2021-11-15-timekettle-wt2-edge-ai-translator-earbuds-review.md",
       "title": "TimeKettle WT2 Edge AI Translator Earbuds review",
-      "excerpt": "Then you might well consider using something like the TimeKettle WT2 Edge AI Translator Earbuds, providing built-for-purpose simultaneous translation between forty languages. These aren’t a cheap option,",
+      "excerpt": "Then you might well consider using something like the TimeKettle WT2 Edge AI Translator Earbuds, providing built-for-purpose simultaneous translation between forty languages. TimeKettle WT2 Edge ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds",
-      "originalUrl": "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds",
+      "webUrl": "https://www.techradar.com/in/reviews/timekettle-wt2-edge-ai-translator-earbuds",
+      "originalUrl": "https://www.techradar.com/in/reviews/timekettle-wt2-edge-ai-translator-earbuds",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -717,7 +761,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T05:10:00-08:00",
+      "publishedDateTime": "2021-11-15T07:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -1411,49 +1455,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-creating-a-gpt-style-language-model-for-a-single-question.md",
-      "title": "Creating a GPT-Style Language Model for a Single Question",
-      "excerpt": "Researchers from China have developed an economical method for creating GPT-3-style Natural Language Processing systems while avoiding the increasingly prohibitive expense of time and money involved in training up high volume datasets – a growing trend which otherwise threatens to eventually relegate this sector of AI to FAANG players and high-level investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/creating-a-gpt-style-language-model-for-a-single-question/",
-      "originalUrl": "https://www.unite.ai/creating-a-gpt-style-language-model-for-a-single-question/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-xWccs0dj/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/moby-dick.jpg",
-          "width": 818,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
         "publishers": null,
         "authors": null
       },

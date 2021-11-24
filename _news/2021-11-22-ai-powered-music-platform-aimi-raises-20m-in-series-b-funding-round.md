@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI-Driven Industrial Robot Maker Haber Raises $20 mn In Series B Funding"
+    excerpt: "Before starting Haber, both founders worked in Nalco Water India, a water, hygiene, and infection prevention services and solutions company."
+    publishedDateTime: 2021-11-24T07:59:00Z
+    webUrl: "https://analyticsindiamag.com/ai-driven-industrial-robot-maker-haber-raises-20-mn-in-series-b-funding/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 53
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/602c64548b97330e3bcb771f_1-scaled.jpg"
+        width: 2560
+        height: 1287
+        isCached: true
   - title: "Helm.ai Raises $26M in Series B Funding"
     excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
     publishedDateTime: 2021-11-20T12:55:00Z

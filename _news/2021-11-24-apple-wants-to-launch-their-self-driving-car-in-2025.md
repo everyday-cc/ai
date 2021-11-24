@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple shares hit record after report says the company wants to build self-driving car as soon as 2025"
+    excerpt: "Apple shares hit a record on Friday following a report that the company is accelerating efforts to launch a self-driving vehicle. As of early afternoon on Friday, Apple’s stock was up more than 1% to above $160."
+    publishedDateTime: 2021-11-20T01:35:00Z
+    webUrl: "https://www.cnbc.com/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106922846-1628199611258-gettyimages-1328996608-210715a1_070_20210716123027717.jpeg?v=1629365705"
+        width: 4483
+        height: 2984
+        isCached: true
   - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
     excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
     publishedDateTime: 2021-11-23T07:29:00Z
@@ -41,21 +57,19 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Self-Driving Apple Car Could Finally Roll Off The Lot In 2025 Sans Steering Wheel Or Pedals"
-    excerpt: "Apple is aiming to produce self-driving cars by 2025 that could debut without a steering wheel or pedals. It seems the company has finally settled on creating an automobile that will not require any human intervention."
-    publishedDateTime: 2021-11-19T16:07:00Z
-    webUrl: "https://hothardware.com/news/self-driving-apple-car-could-roll-off-the-lot-in-2025"
-    ampWebUrl: "https://amp.hothardware.com/news/self-driving-apple-car-could-roll-off-the-lot-in-2025"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/self-driving-apple-car-could-roll-off-the-lot-in-2025"
+  - title: "What makes uni students steer clear of self-driving cars?"
+    excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
+    publishedDateTime: 2021-11-23T06:17:00Z
+    webUrl: "https://www.scimex.org/newsfeed/what-makes-uni-students-steer-clear-of-self-driving-cars"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 34
+      name: scimex.org
+      domain: scimex.org
+    quality: 24
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56834/content/Apple_Car.jpg"
-        width: 708
-        height: 398
+      - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
+        width: 1490
+        height: 990
         isCached: true
 
 secured: "ru/EvS8fUxxVhZPAjw7+P7+uMcq4t+zxXQk2fser5r4gNHlGmzy9iCDB1P8f/tcAVou4fUgprDv8lz+STvozyFvzyGlOOgPWUe1o/7y0DGvkp7n0xKGQIdVZ5+18iSmuH0tcJf57I4I1FWOJquXjfV8GRRRqzaJhKZxRtAGYbeXXwgYcaUVY+at+DwmFemF3Z5MUMsCBjaG7zMbnsdzBnnhuh3LQvmUNvkyW6AiY8ZO6pU7e/ZJp+xJkM6ZXIqOQsLRs/haRbg6zPNxGgDzvbxZdoroTh75nKQpmiPOtwcnNlX7Q+u8Ir6beDMuyAcb/IB83lioC7zFHvCF7exd6GZG8B39WRCDetSvBixo6I+I=;NPxropj0DRNcgUuq0OGOWw=="

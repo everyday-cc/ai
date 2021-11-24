@@ -41,20 +41,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "ICT minister, Swedish ambassador mull AI, innovation, entrepreneurship cooperation"
-    excerpt: "Minister of Communications and Information Technology Amr Talaat on Friday received Ambassador of Sweden to Egypt Hakan Emsgard."
-    publishedDateTime: 2021-11-19T16:23:00Z
-    webUrl: "https://www.sis.gov.eg/Story/160161/ICT-minister%2c-Swedish-ambassador-mull-AI%2c-innovation%2c-entrepreneurship-cooperation?lang=en-us"
-    type: article
-    provider:
-      name: sis.gov.eg
-      domain: sis.gov.eg
-    quality: 33
-    images:
-      - url: "https://www.sis.gov.eg/Content/Upload/slider/9202125154052397.jpg"
-        width: 618
-        height: 360
-        isCached: true
 
 secured: "adMvcaBg+TbOXauYxV5PhC40hxyd1wud9funEy7omkaIg2uj3qq+FB21pLG04ZVLjdbLqADaUz8mHNXFoie0EQE4uWB4oIHDIB+pY5kJWasScPCtweg+/rD4llridjzduh7mF2P2L6351dwtAKAVHAaRiHl2747WBnq2HTWwGWK7D5ptr4O61ad4937iR2iToVzF3+TvhASR2bT9k3FhZn4gQg65WbZbbyfFvTzS8CYCeePl1ZO2I/PJUd09TFLbx3GrvQovdKunI2VLgdp9xvyGeTZkVtv44W/Da6c5hQfno1tYmkJyA6ALcV3Y6CKPo86ArcNxAFwx4jdaiCFCpKHdYaQhHb53j1utieWj8pI3YTT0alpCn0e2XUzyZ2yhYi8/uztPrlGstgj2seV7OA+ax7P/QArGE8FbnUytFfdy3aJSbDaXijZN/3Mm6p7iWJSjT3oXLSF+lo6oqpkFQzIaU9KKvV+JoMakrCNlo5U3D8t8mc2Arbu6JVNFxotiE5jWnoLguNdJiI/hS4uxCA==;ADdwRY/UkGKug3BikXMb/A=="
 ---

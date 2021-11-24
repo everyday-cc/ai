@@ -59,22 +59,6 @@ related:
         isCached: true
   - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
     excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
-    publishedDateTime: 2021-11-19T15:37:00Z
-    webUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
-    ampWebUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
-    cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
-    type: article
-    provider:
-      name: Silicon Valley
-      domain: siliconvalley.com
-    quality: 59
-    images:
-      - url: "https://www.siliconvalley.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
-    excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
     publishedDateTime: 2021-11-19T21:20:00Z
     webUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
     ampWebUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
@@ -113,20 +97,6 @@ related:
       - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/pcsakwljpekbv7d49pmp"
         width: 400
         height: 225
-        isCached: true
-  - title: "Apple is diving headfirst into full self-driving with the Apple Car"
-    excerpt: "Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
-    publishedDateTime: 2021-11-19T16:57:00Z
-    webUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 24
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "The Apple Car is reportedly going all-in on self-driving and could release by 2025"
     excerpt: "The Apple Car could be available by as early as 2025. Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"

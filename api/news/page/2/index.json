@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-23-scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis.md",
+      "title": "Scaling for the future of ophthalmology with artificial intelligence powered by Azure Healthcare APIs",
+      "excerpt": "ZEISS partnered with Microsoft to power the ZEISS Medical Ecosystem with the Azure Healthcare APIs. Azure Healthcare APIs allow for data to be standardized and exchanged between the ZEISS medical centers and their devices across the world while leveraging Microsoft's geo-support for data residency requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
+      "originalUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-self-driving-cars-on-motorways-car-makers-have-new-marketing-guidelines.md",
+      "title": "Self-driving cars on motorways: Car makers have new marketing guidelines",
+      "excerpt": "New principles have been co-developed and agreed by experts within the Centre for Connected and Autonomous Vehicles and backed by road safety groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisismoney.co.uk/money/cars/article-10230257/Self-driving-cars-motorways-Car-makers-new-marketing-guidelines.html",
+      "originalUrl": "https://www.thisismoney.co.uk/money/cars/article-10230257/Self-driving-cars-motorways-Car-makers-new-marketing-guidelines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/11/22/15/32124516-0-image-a-58_1637595952479.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisismoney.co.uk/money/cars/article-10230257/amp/Self-driving-cars-motorways-Car-makers-new-marketing-guidelines.html",
+      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-10230257/amp/Self-driving-cars-motorways-Car-makers-new-marketing-guidelines.html",
+      "publishedDateTime": "2021-11-23T00:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Money",
+        "domain": "thisismoney.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-chinas-ai-giant-sensetime-readies-hong-kong-ipo.md",
       "title": "China’s AI giant SenseTime readies Hong Kong IPO",
       "excerpt": "One of China’s biggest AI solution providers SenseTime is a step closer to its initial public offering. SenseTime has received regulatory approval to list on the Hong Kong Stock Exchange, according to media reports.",
@@ -95,6 +183,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-23-facial-recognition-market-size-opportunity-analysis-report-by-2026.md",
+      "title": "Facial Recognition Market Size | Opportunity Analysis Report by 2026",
+      "excerpt": "Facial Recognition Market size is set to cross USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T21:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish.md",
       "title": "University of Helsinki: Massive open online course Ethics of AI translated in Finnish and Swedish",
       "excerpt": "The Finnish and Swedish translations for the University of Helsinki’s online course Ethics of AI will open on 23 November, in connection with a seminar on information policy at the Ministry of Finances.",
@@ -103,7 +243,7 @@
       "originalUrl": "https://indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -472,58 +612,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-23-global-face-recognition-terminal-market-2021-to-2027-existing-and-future-insights-growth.md",
-      "title": "Global Face Recognition Terminal Market 2021 to 2027: Existing and Future Insights Growth",
-      "excerpt": "MarketandResearch.biz has added a new report to its online database titled Global Face Recognition Terminal Market Growth 2021-2027. The report contains information for the confirmation and examination of the improvement of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-terminal-market-2021-to-2027-existing-and-future-insights-growth-2021-11-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-terminal-market-2021-to-2027-existing-and-future-insights-growth-2021-11-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-23-fighting-blood-diseases-with-artificial-intelligence.md",
       "title": "Fighting blood diseases with artificial intelligence",
       "excerpt": "Every day, cytologists around the world use optical microscopes to analyze and classify samples of bone marrow cells thousands of times. This method to diagnose blood diseases was established more than 150 years ago,",
@@ -746,7 +834,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -936,6 +1024,48 @@
       ]
     },
     {
+      "path": "_news/2021-11-22-ai-in-drug-discovery-market-2021-development-status-and-future-statistics-by-2031.md",
+      "title": "AI in Drug Discovery Market 2021 Development Status and Future Statistics by 2031",
+      "excerpt": "AI in Drug Discovery Market Introduction According to the report the global AI in drug discovery market was valued at US 0 35 Bn in 2020 and is projected to expand at a CAGR of 36 1 from 2021 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "originalUrl": "https://www.openpr.com/news/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub22142087_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future",
+      "publishedDateTime": "2021-11-22T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem.md",
       "title": "Jina AI Raises $30 Million to Scale Open-Source Neural Search Ecosystem",
       "excerpt": "Jina AI, an open-source neural search company, today announced $30 million in Series A financing. Canaan Partners led the round with participation from new investors including Mango Capital, as well as existing partners GGV Capital,",
@@ -995,7 +1125,7 @@
       "originalUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1035,135 +1165,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study.md",
-      "title": "AI, ML, cloud, 5G to be most important technologies in 2022: Study",
-      "excerpt": "Because of the global pandemic, technology leaders surveyed said in 2021 they accelerated adoption of cloud computing (60%), AI and ML (51%), and 5G (46%), among others",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/11/22/600x338/AI-kkGH--621x414@LiveMint_1637577527809.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html",
-      "publishedDateTime": "2021-11-22T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-amazon-web-services.md",
-      "title": "Adidas Migrates SAP Environments To Amazon Web Services",
-      "excerpt": "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
-      "originalUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp",
-      "publishedDateTime": "2021-11-21T23:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform.md",
-      "title": "San Diego-based startup LifeVoxel raises $5 million seed funding for its AI diagnostic visualization platform",
-      "excerpt": "San Diego-based startup LifeVoxel has raised $5 million in a seed round to bolster data intelligence of its AI diagnostic visualization platform for faster and precise prognosis. The platform, dubbed Prescient,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/",
-      "originalUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024",
-          "width": 1024,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/amp/",
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -25,39 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
-    excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
-    publishedDateTime: 2021-11-21T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/21/heres-how-blind-curves-could-stir-up-knuckle-gripping-jitters-about-ai-self-driving-cars/"
+  - title: "Apple shares hit record after report says the company wants to build self-driving car as soon as 2025"
+    excerpt: "Apple shares hit a record on Friday following a report that the company is accelerating efforts to launch a self-driving vehicle. As of early afternoon on Friday, Apple’s stock was up more than 1% to above $160."
+    publishedDateTime: 2021-11-20T01:35:00Z
+    webUrl: "https://www.cnbc.com/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
-  - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
-    excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
-    publishedDateTime: 2021-11-21T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/21/heres-how-blind-curves-could-stir-up-knuckle-gripping-jitters-about-ai-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 38
-  - title: "How PIX Moving is Using Self-Driving Skateboard Chassis to Build the City of the Future"
-    excerpt: "The benefits promised by self-driving cars are hard to ignore. Who doesn’t want less accidents, less congestion, and less pollution? Unfortunately, recent studies show those benefits may be a long way off as most drivers are not yet ready to trust a self-driving car."
-    publishedDateTime: 2021-11-19T16:18:00Z
-    webUrl: "https://techbullion.com/how-pix-moving-is-using-self-driving-skateboard-chassis-to-build-the-city-of-the-future/"
-    ampWebUrl: "https://techbullion.com/how-pix-moving-is-using-self-driving-skateboard-chassis-to-build-the-city-of-the-future/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-pix-moving-is-using-self-driving-skateboard-chassis-to-build-the-city-of-the-future/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 36
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
     images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://image.cnbcfm.com/api/v1/image/106922846-1628199611258-gettyimages-1328996608-210715a1_070_20210716123027717.jpeg?v=1629365705"
+        width: 4483
+        height: 2984
+        isCached: true
+  - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
+    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
+    publishedDateTime: 2021-11-23T07:29:00Z
+    webUrl: "https://www.udayavani.com/english-news/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025"
+    ampWebUrl: "https://english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
+    cdnAmpWebUrl: "https://english-udayavani-com.cdn.ampproject.org/c/s/english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
+    type: article
+    provider:
+      name: Udayavani
+      domain: udayavani.com
+    quality: 43
+    images:
+      - url: "https://mcmscache.epapr.in/post_images/website_326/post_25578185/full.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Apple wants to launch their self-driving car in 2025"
+    excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
+    publishedDateTime: 2021-11-23T19:30:00Z
+    webUrl: "https://omaha.com/news/national/apple-wants-to-launch-their-self-driving-car-in-2025/video_ed29d3cd-9850-5f31-b032-5356012a5614.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed29d3cd-9850-5f31-b032-5356012a5614/619d28a3d9226.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
+        width: 640
+        height: 336
         isCached: true
 
 secured: "+n+0FtVSegm+5bOyz4rK6mytNwuBVf1QyQlZ6Tjd+95KQ9/0hoOZYUpuYUEiyg5XEXS3VqLZKDoTniZRG/+jsPYqSX/OjfKb8NOikKwXVMs3PXSldO7WmvDJcd7rZ0rj/na5wLulWsvi0nuIihUpBMewiWOvXR3ZlhtFwa0lfJsiiEgZBHJ1kYT208U2fQo20JghKCT2MNJ9qb+obV4TSTkWgOM7cZa93rfpys/TGpbB8zVbWxncjmxi3bWXNKxGpOwBv80Ay6XRsgFIUDOAxEHX5A6tGf/wfumnA0bs1PCjqDrFlV2j/O6LGgEtBmKhaq4twXExb9hN1F8yJ3C4xa3HGHCBGfVMEmOGON0BdhzlQPRW6uZaiySN4rplwRnWt+b5NAC+fdXdghompzcsxD4cu725mxrs2WS/3JVX/mGzlGAPfF+e2ecRGs6lNEVEz+YDCsDG9S350dacmgYKmzpiu5Mw8PKvnbcIT6r8/t7090Kdq4LyINtFyf8GScLuw1RLwLx8XqUjvcqy0giEoQ==;Vgody1Cj+I0DdNKaFucVzw=="

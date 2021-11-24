@@ -2,6 +2,397 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-09-24-customize-amazon-sagemaker-studio-using-lifecycle-configurations.md",
+      "title": "Customize Amazon SageMaker Studio using Lifecycle Configurations",
+      "excerpt": "Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for machine learning (ML) that lets you build, train, debug, deploy, and monitor your ML models. It provides all the tools you need to take your models from experimentation to production while boosting your productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-sagemaker-studio-using-lifecycle-configurations/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-sagemaker-studio-using-lifecycle-configurations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T10:28:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-nvidia-lines-up-beefy-arm-cpus-to-target-x86-based-servers-touts-a100-gpus-for-ai.md",
+      "title": "NVIDIA Lines Up Beefy Arm CPUs To Target x86-Based Servers, Touts A100 GPUs For AI",
+      "excerpt": "NVIDIA is beating its chest over a round of benchmark runs highlighting the potency of its A100 accelerators paired with Arm or x86 hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers",
+      "originalUrl": "https://hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56321/content/small_nvidia_arm_server.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers",
+      "publishedDateTime": "2021-09-24T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-three-key-artificial-intelligence-applications-for-cybersecurity.md",
+      "title": "Three Key Artificial Intelligence Applications For Cybersecurity",
+      "excerpt": "We are at the doorstep of a new era of smart technology and cybersecurity is already a testing ground. The cybersecurity industry is increasingly impacted by the deployment of solutions supported by a",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e04f5dff3ebea27d194cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/",
+      "publishedDateTime": "2021-09-24T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.md",
+      "title": "Baidu DeepWay Unveils Smart Robot Truck With Advanced Self-driving Technology",
+      "excerpt": "DeepWay Smart Truck backed by Baidu has just been launched and the users are curious to know more about it. Here is all we know about this smart truck. Read",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
+      "originalUrl": "https://www.republicworld.com/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/3pop1htofhvj56ox_1632499179.jpeg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
+      "publishedDateTime": "2021-09-24T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-peritusai-automates-community-intelligence-for-cloud-native-questions.md",
+      "title": "Peritus.ai automates community intelligence for cloud-native questions",
+      "excerpt": "Peritus.ai has built a machine learning engine that helps surface the best answers to developer questions on cloud-native technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/",
+      "originalUrl": "https://venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/peritus-analytics-.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/amp/",
+      "publishedDateTime": "2021-09-24T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-deep-learning-helps-predict-new-drug-combinations-to-fight-covid-19.md",
+      "title": "Deep learning helps predict new drug combinations to fight Covid-19",
+      "excerpt": "A neural network developed at MIT and elsewhere identifies synergistic drug blends for treating viruses like SARS-CoV-2. The work was carried out primarily within the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Broad Institute of MIT and Harvard.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
+      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202109/covid-virus_0.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-thoughts-on-ai-ethics-getting-concrete-and-useful.md",
+      "title": "Thoughts on AI ethics getting concrete and useful",
+      "excerpt": "A new paper offers a solid accounting of tools that makers and end users can employ to better ensure algorithms are ethically sourced, developed and deployed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getting-concrete-and-useful",
+      "originalUrl": "https://www.biometricupdate.com/202109/thoughts-on-ai-ethics-getting-concrete-and-useful",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-todays-discover-samsung-deal-saves-you-100-on-a-jet-bot-robot-vacuum.md",
+      "title": "Today’s Discover Samsung Deal Saves You $100 On A Jet Bot Robot Vacuum",
+      "excerpt": "Today, you can save up $100 on a Samsung Jet Bot robot vacuum, complete with LiDAR. It’s part of Discover Samsung, a weeklong sale that saves you thousands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/24/discover-samsung-sale-daily-deal/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/24/discover-samsung-sale-daily-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614df988e275889a6fd5d78e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D578%26cropY1%3D314%26cropY2%3D700",
+          "width": 578,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/24/discover-samsung-sale-daily-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/09/24/discover-samsung-sale-daily-deal/amp/",
+      "publishedDateTime": "2021-09-24T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-deep-learning-in-computer-vision-market-2021-to-2027-to-see-booming-ahead-latest-study-reveals.md",
       "title": "Deep Learning in Computer Vision Market 2021 to 2027 To See Booming Ahead, Latest Study Reveals",
       "excerpt": "The Latest research study released by Data Bridge Market Research “Deep Learning in Computer Vision Market” with 100+ pages of analysis on business Strategy taken up by key and emerging ...",
@@ -818,340 +1209,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-meet-deedee-a-twin-cities-thai-restaurants-new-robot-server.md",
-      "title": "Meet ‘DeeDee,’ A Twin Cities Thai Restaurant’s New Robot Server",
-      "excerpt": "DeeDee, a server assistant robot, is the first of its type operating in the state. It can carry food, drinks, and dirty dishes between the kitchen and dining tables.",
-      "sourceUrl": null,
-      "webUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/",
-      "originalUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://minnesota.cbslocal.com/wp-content/uploads/sites/15909630/2021/09/DeeDee.jpg?w=1026",
-          "width": 1026,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/?amp",
-      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/?amp",
-      "publishedDateTime": "2021-09-24T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-nasdaq-yewno-global-artificial-intelligence-and-big-data-index.md",
-      "title": "Nasdaq Yewno Global Artificial Intelligence and Big Data Index",
-      "excerpt": "The Nasdaq Yewno Global Artificial Intelligence and Big Data Index ... In contrast, less than half of ROBO Global Robotics and Automation Index is based in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15",
-      "originalUrl": "https://www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15?amp",
-      "publishedDateTime": "2021-09-24T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-opentrons-raises-200m-in-series-c-funding.md",
-      "title": "Opentrons Raises $200M in Series C Funding",
-      "excerpt": "Opentrons Labworks Inc., a NYC-based lab platform provider, raised $200M in Series C funding. SoftBank Vision Fund 2 led the round with participation by Khosla Ventures. Other investors in Opentrons include Sands Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/09/opentrons.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-meity-and-aws-partner-to-support-deeptech-innovation-in-india.md",
-      "title": "MeitY and AWS partner to support DeepTech innovation in India",
-      "excerpt": "The MeitY Startup Hub, an initiative of the Ministry of Electronics and IT has entered into a Memorandum of Understanding (MoU) with Amazon Internet Services, which undertakes the resale",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/",
-      "originalUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/deeptech.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meity-aws-partner-support-deeptech-innovation-india/amp/",
-      "publishedDateTime": "2021-09-24T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-artificial-intelligence-tool-improves-accuracy-of-breast-cancer-imaging.md",
-      "title": "Artificial intelligence tool improves accuracy of breast cancer imaging",
-      "excerpt": "A computer program trained to see patterns among thousands of breast ultrasound images can aid physicians in accurately diagnosing breast cancer, a new study shows.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/breast.jpg",
-          "width": 1920,
-          "height": 1296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-artificial-intelligence-tool-accuracy-breast.amp",
-      "publishedDateTime": "2021-09-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-aws-to-open-data-centers-in-new-zealand.md",
-      "title": "AWS To Open Data Centers In New Zealand",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced plans to open an infrastructure region in Aotearoa New Zealand",
-      "sourceUrl": null,
-      "webUrl": "https://www.hostreview.com/news/210924-aws-to-open-data-centers-in-new-zealand",
-      "originalUrl": "https://www.hostreview.com/news/210924-aws-to-open-data-centers-in-new-zealand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Host Review",
-        "domain": "hostreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-the-impact-of-conversational-ai-on-critical-services.md",
-      "title": "The impact of conversational AI on critical services",
-      "excerpt": "AI could also be a game-changing communication tool for critical service providers. How? By empowering customer service departments",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
-      "originalUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/",
-      "publishedDateTime": "2021-09-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-in-depth-analysis-by-statistics-outlook-2027-mmodal-ip-plc-linguamatics.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market In-depth Analysis by Statistics & Outlook 2027 | Mmodal IP PLC, Linguamatics",
-      "excerpt": "This Natural Language Processing (NLP) in Healthcare and Life Sciences market report assists major companies in generating revenues by making the appropriate investments and taking the necessary ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2405411/natural-language-processing-nlp-in-healthcare-and-life",
-      "originalUrl": "https://www.openpr.com/news/2405411/natural-language-processing-nlp-in-healthcare-and-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U924311363_g.jpg",
-          "width": 800,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2405411/natural-language-processing-nlp-in-healthcare-and-life",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2405411/natural-language-processing-nlp-in-healthcare-and-life",
-      "publishedDateTime": "2021-09-24T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

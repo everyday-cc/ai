@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: openpr.com
@@ -37,6 +37,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "Automotive Self-driving Chip Market Size, Share, Statistics, Demand And Revenue, Forecast 2027"
+    excerpt: "The Automotive Self driving Chip Market report provides details on the latest recent developments trade regulations import export analysis analysis of production value chain optimization market share impact of players on the national and localized market analysis of opportunities in"
+    publishedDateTime: 2021-11-24T07:54:00Z
+    webUrl: "https://www.openpr.com/news/2472545/automotive-self-driving-chip-market-size-share-statistics"
+    ampWebUrl: "https://www.openpr.com/amp/2472545/automotive-self-driving-chip-market-size-share-statistics"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472545/automotive-self-driving-chip-market-size-share-statistics"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
 
 secured: "KmOAmYwssgn11y6eZGkppuEHtwceLvaeL3MyrnFKlzGTae6nvXb8ze0JiIaiEPN2cAE9Km07zJvoTeVPCAZgLR4MVgsYQ8y/AI09ts9pGj0UebtH/W3MDCTFDofg2OS8vXImjMfQXKWO+FLSBnDkR031la3cQROLnMXdsS/VovxrfDThfre3mWfO7Ho1J4/jGbB2J3FLTly1RqpGjbJNldKoCHxeM5PPUrPzRGWxT6FnC5GywujDA74vF4OQeXgatHIz0xv0jItwK90dJVeX/W+MA80F5I6ym2CB2yWNjmWNtZDj9GyA2EgvNlcjwuscCyJvScJo/bUPYJPKliTuH+k4o3CB2u/yM6AkD3YP2tM=;OzXbbJloFdoeuQo/wemqog=="
 ---

@@ -37,6 +37,17 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Automotive Self-driving Chip Market Size, Share, Statistics, Demand And Revenue, Forecast 2027"
+    excerpt: "The Automotive Self driving Chip Market report provides details on the latest recent developments trade regulations import export analysis analysis of production value chain optimization market share impact of players on the national and localized market analysis of opportunities in"
+    publishedDateTime: 2021-11-24T07:54:00Z
+    webUrl: "https://www.openpr.com/news/2472545/automotive-self-driving-chip-market-size-share-statistics"
+    ampWebUrl: "https://www.openpr.com/amp/2472545/automotive-self-driving-chip-market-size-share-statistics"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472545/automotive-self-driving-chip-market-size-share-statistics"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
 
 secured: "2XamXyR4qu6NqOAk9pkHOARFs+ZIuNWRU6ZltaSHSh3y3HIR8/EeJ8PvjQRVolAtF9/nfHpJXhGq0uUDkaazJyR/apxpOMa//7jTVOw0pKzaOCRWUpOwtLQ7vF3tbZTT+VHB5y9Ja1GIIfLZ09wMz5ViPfZHzpVpGxzGf4BMmaC9vU4JMQP2stJ4EcXr8lxsTgOKfvGMA47Fq4Q69LQKZhO+JBoxQjCdbEE9e5HP4N7G74yuIW3DMxs8EzDo++OnPvAOtw00O+vk0F1A+dqJGNvjeJJkvFbNSmtSyWoXrj86UrIz/oyw3DTHPCPeQB0oQ5HOzt+jvA1ajQexmwxXKM7xkmZ2CRGMNZKd/CfsSE0=;L2vgGnw1StPwRNYMhY956A=="
 ---

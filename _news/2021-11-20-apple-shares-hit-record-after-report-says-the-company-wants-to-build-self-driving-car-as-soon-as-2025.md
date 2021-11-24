@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-bu
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: CNBC
@@ -31,21 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Key executives resign after Pony.ai combines trucking and passenger car R&D units"
-    excerpt: "Pony.ai, the self-driving startup that operates in both the U.S. and China, has lost at least two executives from its trucking team following the combination of the company’s passenger car and self-driving truck R&D teams."
-    publishedDateTime: 2021-11-19T16:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/"
-    ampWebUrl: "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/amp/"
+  - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
+    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
+    publishedDateTime: 2021-11-23T07:29:00Z
+    webUrl: "https://www.udayavani.com/english-news/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025"
+    ampWebUrl: "https://english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
+    cdnAmpWebUrl: "https://english-udayavani-com.cdn.ampproject.org/c/s/english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
+      name: Udayavani
+      domain: udayavani.com
+    quality: 43
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/SJM_8934.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://mcmscache.epapr.in/post_images/website_326/post_25578185/full.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "What makes uni students steer clear of self-driving cars?"
+    excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
+    publishedDateTime: 2021-11-23T06:17:00Z
+    webUrl: "https://www.scimex.org/newsfeed/what-makes-uni-students-steer-clear-of-self-driving-cars"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 24
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
+        width: 1490
+        height: 990
+        isCached: true
+  - title: "Apple wants to launch their self-driving car in 2025"
+    excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
+    publishedDateTime: 2021-11-23T19:30:00Z
+    webUrl: "https://omaha.com/news/national/apple-wants-to-launch-their-self-driving-car-in-2025/video_ed29d3cd-9850-5f31-b032-5356012a5614.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed29d3cd-9850-5f31-b032-5356012a5614/619d28a3d9226.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
+        width: 640
+        height: 336
         isCached: true
 
 secured: "scDtBgeLUxYFstYn+ncdUjXyl1CfQZTsCKZSEoN9DIo916XCUr2rLJ5OuW5HPI9wumXUyG0YZ+mF8tsKOW8tHbNV3iUzQEkmdG+H4pLTHnTVoJvYw/MrbrbU8CB1drgp5xdHWHHJepnoMz4OvMffvqi8yawXBOPH3lW89JGFMdBKRSdTSAnuonV0JFANl33TtZ3Et/0jVL8lXjJZG+LV88/iXyVma0ereciCCe61SEpetTv8nAolC89WTeSe0wQ1z15A7ROcAmi1unqHLjRUSV/GBSlWoQa0uJ327jTVQ2L+5rtKbCbO6CF4mzDvkr0SOhSmPun2sM/8B97kug73hGYwiRcn9FzPpomn1xpCqFY=;2PSUgttdZf6wzJCpBKRhVw=="

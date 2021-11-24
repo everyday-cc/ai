@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-24-artificial-intelligence-ai-in-hiv-and-aids-market.md",
+      "title": "Artificial Intelligence (AI) in HIV and AIDS Market",
+      "excerpt": "Portland United States Big Market Research newly added a research report on the Artificial Intelligence AI in HIV and AIDS Market which represents a study for the period from 2021 to 2026 The research study provides a near look at",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "originalUrl": "https://www.openpr.com/news/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub24296920_g.jpg",
+          "width": 727,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "publishedDateTime": "2021-11-23T23:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants.md",
       "title": "Revenue NSW using AI to claw back overpaid and fraudulent COVID-19 business grants",
       "excerpt": "Revenue NSW has assured the AI system it has implemented for compliance efforts is not anything like the federal government's bungled robo-debt system.",
@@ -41,6 +84,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-healthcare-triangle-selected-by-monument-health-to-automate-document-processing.md",
+      "title": "Healthcare Triangle selected by Monument Health to automate document processing",
+      "excerpt": "Securekloud Ltd-backed Healthcare Triangle Inc., USA a leading provider of cloud and data transformation platform and solutions for healthcare and life sciences, has announced that Monument Health taps Healthcare Triangle to automate their document processing through readable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-top-story/healthcare-triangle-selected-by-monument-health-to-automate-document-processing-121112400432_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/healthcare-triangle-selected-by-monument-health-to-automate-document-processing-121112400432_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/2018-12/18/full/1545110317-5609.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/healthcare-triangle-selected-by-monument-health-to-automate-document-processing-121112400432_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/healthcare-triangle-selected-by-monument-health-to-automate-document-processing-121112400432_1.html",
+      "publishedDateTime": "2021-11-23T21:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -928,7 +1015,7 @@
       "originalUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1090,94 +1177,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis.md",
-      "title": "Scaling for the future of ophthalmology with artificial intelligence powered by Azure Healthcare APIs",
-      "excerpt": "ZEISS partnered with Microsoft to power the ZEISS Medical Ecosystem with the Azure Healthcare APIs. Azure Healthcare APIs allow for data to be standardized and exchanged between the ZEISS medical centers and their devices across the world while leveraging Microsoft's geo-support for data residency requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
-      "originalUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-self-driving-cars-on-motorways-car-makers-have-new-marketing-guidelines.md",
-      "title": "Self-driving cars on motorways: Car makers have new marketing guidelines",
-      "excerpt": "New principles have been co-developed and agreed by experts within the Centre for Connected and Autonomous Vehicles and backed by road safety groups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisismoney.co.uk/money/cars/article-10230257/Self-driving-cars-motorways-Car-makers-new-marketing-guidelines.html",
-      "originalUrl": "https://www.thisismoney.co.uk/money/cars/article-10230257/Self-driving-cars-motorways-Car-makers-new-marketing-guidelines.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/11/22/15/32124516-0-image-a-58_1637595952479.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisismoney.co.uk/money/cars/article-10230257/amp/Self-driving-cars-motorways-Car-makers-new-marketing-guidelines.html",
-      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-10230257/amp/Self-driving-cars-motorways-Car-makers-new-marketing-guidelines.html",
-      "publishedDateTime": "2021-11-23T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Money",
-        "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

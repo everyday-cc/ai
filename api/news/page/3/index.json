@@ -2,6 +2,187 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-22-ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study.md",
+      "title": "AI, ML, cloud, 5G to be most important technologies in 2022: Study",
+      "excerpt": "Because of the global pandemic, technology leaders surveyed said in 2021 they accelerated adoption of cloud computing (60%), AI and ML (51%), and 5G (46%), among others",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/22/600x338/AI-kkGH--621x414@LiveMint_1637577527809.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html",
+      "publishedDateTime": "2021-11-22T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-amazon-web-services.md",
+      "title": "Adidas Migrates SAP Environments To Amazon Web Services",
+      "excerpt": "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
+      "originalUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp",
+      "publishedDateTime": "2021-11-21T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-global-deep-learning-in-machine-vision-market-2021-future-outlook-and-research-studies-to-2027.md",
+      "title": "Global Deep Learning in Machine Vision Market 2021 Future Outlook and Research Studies to 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 21, 2021 (CDN Newswire via Comtex) -- Global Deep Learning in Machine Vision Market Growth (Status and Outlook) 2021-2027 is the fresh report by MarketandResearch.biz ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-machine-vision-market-2021-future-outlook-and-research-studies-to-2027-2021-11-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-machine-vision-market-2021-future-outlook-and-research-studies-to-2027-2021-11-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-21T19:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform.md",
+      "title": "San Diego-based startup LifeVoxel raises $5 million seed funding for its AI diagnostic visualization platform",
+      "excerpt": "San Diego-based startup LifeVoxel has raised $5 million in a seed round to bolster data intelligence of its AI diagnostic visualization platform for faster and precise prognosis. The platform, dubbed Prescient,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/",
+      "originalUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024",
+          "width": 1024,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/amp/",
+      "publishedDateTime": "2021-11-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip.md",
       "title": "Dimensity 9000: American users are worried, they wont be able to use this chip",
       "excerpt": "MediaTek officially released the Dimensity 9000 flagship processor. This chip has been attracting a lot of attention because its theoretical specification",
@@ -136,6 +317,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-21-use-of-artificial-intelligence-in-hiring-raises-concerns.md",
+      "title": "Use of artificial intelligence in hiring raises concerns",
+      "excerpt": "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the",
+      "sourceUrl": null,
+      "webUrl": "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html",
+      "originalUrl": "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/2/c5/2c5c1a89-8999-557f-970a-8801833d26fc/6197bb0619dad.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-21T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Montana Standard",
+        "domain": "mtstandard.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -665,6 +888,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-20-apple-shares-hit-record-after-report-says-the-company-wants-to-build-self-driving-car-as-soon-as-2025.md",
+      "title": "Apple shares hit record after report says the company wants to build self-driving car as soon as 2025",
+      "excerpt": "Apple shares hit a record on Friday following a report that the company is accelerating efforts to launch a self-driving vehicle. As of early afternoon on Friday, Apple’s stock was up more than 1% to above $160.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106922846-1628199611258-gettyimages-1328996608-210715a1_070_20210716123027717.jpeg?v=1629365705",
+          "width": 4483,
+          "height": 2984,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/19/apple-shares-hit-record-plans-build-self-driving-car-as-soon-as-2025.html",
+      "publishedDateTime": "2021-11-19T17:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-aws-aiml-community-attendee-guides-to-aws-reinvent-2021.md",
       "title": "AWS AI/ML Community attendee guides to AWS re:Invent 2021",
       "excerpt": "The AWS AI/ML Community has compiled a series of session guides to AWS re:Invent 2021 to help you get the most out of re:Invent this year. They covered four distinct categories relevant to AI/ML. With a number of our guide authors attending re:Invent virtually, you will find a balance between virtually",
@@ -904,291 +1179,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-motherandroid-chloe-grace-moretz-is-on-the-run-from-robots-in-new-trailer.md",
-      "title": "'Mother/Android': Chloë Grace Moretz is on the run from robots in new trailer",
-      "excerpt": "Chloë Grace Moretz is an expecting mother who is trying to survive amid a war with artificial intelligence in the new trailer for upcoming Hulu film, \"Mother/Android.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
-      "originalUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/2171637350187/2021/1/30206a0b14643694b66e2c2e76dc7c40/v1.5/MotherAndroid-Chlo-Grace-Moretz-is-on-the-run-from-robots-in-new-trailer.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
-      "publishedDateTime": "2021-11-19T11:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-google-clouds-aiml-stack-to-power-toronto-firms-nlp-platform.md",
-      "title": "Google Cloud’s AI/ML stack to power Toronto firm’s NLP platform",
-      "excerpt": "Google Cloud has announced a multi-year tech partnership with Toronto-based software firm Cohere in which Google Cloud’s artificial intelligence (AI) and machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
-      "originalUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2021/11/GettyImages-1305028662-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
-      "publishedDateTime": "2021-11-19T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle.md",
-      "title": "Apple accelerates work on car, aims for fully autonomous vehicle",
-      "excerpt": "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae",
-      "originalUrl": "https://www.iol.co.za/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/650x366/Apple-CEO-Tim-Cook-File-Image-IOL?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/aff6062f-b216-56b4-a440-acdad69f102d&operation=CROP&offset=0x182&resize=3500x1969",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae",
-      "publishedDateTime": "2021-11-19T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-new-amazon-forecast-api-that-creates-up-to-40-more-accurate-forecasts-and-provides-explainability.md",
-      "title": "New Amazon Forecast API that creates up to 40% more accurate forecasts and provides explainability",
-      "excerpt": "We’re excited to announce a new forecasting API for Amazon Forecast that generates up to 40% more accurate forecasts and helps you understand which factors, such as price, holidays, weather, or item category, are most influencing your forecasts. Forecast uses machine learning (ML) to generate more accurate",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/new-amazon-forecast-api-that-creates-up-to-40-more-accurate-forecasts-and-provides-explainability/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/new-amazon-forecast-api-that-creates-up-to-40-more-accurate-forecasts-and-provides-explainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T09:57:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-key-executives-resign-after-ponyai-combines-trucking-and-passenger-car-rd-units.md",
-      "title": "Key executives resign after Pony.ai combines trucking and passenger car R&D units",
-      "excerpt": "Pony.ai, the self-driving startup that operates in both the U.S. and China, has lost at least two executives from its trucking team following the combination of the company’s passenger car and self-driving truck R&D teams.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/",
-      "originalUrl": "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/SJM_8934.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/amp/",
-      "publishedDateTime": "2021-11-19T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-how-unity-simulation-pro-and-unity-systemgraph-use-ai-to-train-systems.md",
-      "title": "How Unity Simulation Pro and Unity SystemGraph use AI to train systems",
-      "excerpt": "Hear from CIOs, CTOs, and other C-level and senior execs on data and AI strategies at the Future of Work Summit this January 12, 2022. Learn more Last week,  at its AI Summit, Unity, a platform that aims to enable users to produce real-time 3D content,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/19/how-unity-simulation-pro-and-unity-systemgraph-use-ai-to-train-systems/",
-      "originalUrl": "https://venturebeat.com/2021/11/19/how-unity-simulation-pro-and-unity-systemgraph-use-ai-to-train-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/19/how-unity-simulation-pro-and-unity-systemgraph-use-ai-to-train-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/19/how-unity-simulation-pro-and-unity-systemgraph-use-ai-to-train-systems/amp/",
-      "publishedDateTime": "2021-11-19T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-14-hotspotting-the-opioid-crisis-heres-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose.md",
+      "title": "'Hotspotting the Opioid Crisis': Here's how artificial intelligence will identify those at-risk for an overdose",
+      "excerpt": "Using artificial intelligence, the SI PPS and the MIT Sloan School of Management developed a predictive analytic program that will pull data from more than 70 providers and partners on Staten Island to identify who is at highest risk of an overdose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/14/039hotspotting-the-opioid-crisis039-here039s-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/14/039hotspotting-the-opioid-crisis039-here039s-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/11/12/1366132.jpg",
+          "width": 1240,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-13T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-11-14-regulators-looking-into-complaint-about-teslas-full-self-driving-software.md",
       "title": "Regulators looking into complaint about Tesla's 'Full Self-Driving' software",
       "excerpt": "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash.",
@@ -1317,50 +1361,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-pro-and-con-artificial-intelligence.md",
-      "title": "Pro and Con: Artificial Intelligence",
-      "excerpt": "Some people contend artificial intelligence can improve workplace safety, offer accessibility for people with disabilities, and make everyday life more convenient and enjoyable; others contend artificial intelligence poses dangerous privacy risks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
-      "originalUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.britannica.com/10/228410-131-1A428140/motion-abstract-background-binary-code.jpg",
-          "width": 900,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Britannica",
-        "domain": "britannica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

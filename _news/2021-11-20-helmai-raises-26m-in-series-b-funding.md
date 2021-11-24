@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI-Driven Industrial Robot Maker Haber Raises $20 mn In Series B Funding"
+    excerpt: "Before starting Haber, both founders worked in Nalco Water India, a water, hygiene, and infection prevention services and solutions company."
+    publishedDateTime: 2021-11-24T07:59:00Z
+    webUrl: "https://analyticsindiamag.com/ai-driven-industrial-robot-maker-haber-raises-20-mn-in-series-b-funding/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 53
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/602c64548b97330e3bcb771f_1-scaled.jpg"
+        width: 2560
+        height: 1287
+        isCached: true
   - title: "AI-powered music platform Aimi raises $20m in Series B funding round"
     excerpt: "AI-Powered Music Platform Aimi has raised $20 million in a Series B round of funding. The fund raise was led by entertainment and media-focused investment firm Great Mountain Partners, which also holds what it says is “a significant stake” in Concord."
     publishedDateTime: 2021-11-22T11:42:00Z

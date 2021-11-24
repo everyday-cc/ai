@@ -34,6 +34,22 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Fintech Crossfin sold in R1.5-billion deal"
+    excerpt: "Crossfin Technology Holdings, a fintech investment firm, has been acquired by a consortium of investors, including Patrice Motsepe’s African Rainbow Capital."
+    publishedDateTime: 2021-11-24T05:10:00Z
+    webUrl: "https://techcentral.co.za/fintech-crossfin-sold-in-r1-5-billion-deal/205165/"
+    ampWebUrl: "https://techcentral.co.za/fintech-crossfin-sold-in-r1-5-billion-deal/205165/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/fintech-crossfin-sold-in-r1-5-billion-deal/205165/?amp=1"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 44
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/11/acquisition-2156-1120.jpg"
+        width: 2156
+        height: 1120
+        isCached: true
   - title: "Investment to drive growth and create jobs at fintech"
     excerpt: "A Belfast-based fintech is investing more than £2m with plans to grow exports and create 18 jobs. Datactics - a Queen's University Belfast (QUB) spinout - provides data quality applications to the financial services sector and central government,"
     publishedDateTime: 2021-11-23T10:59:00Z
@@ -47,6 +63,20 @@ related:
       - url: "https://www.insidermedia.com/uploads/news/resized/datactics-Nov-2021-52741-1637576131.jpg"
         width: 829
         height: 466
+        isCached: true
+  - title: "Fintech Crossfin sold in R1.5bn deal"
+    excerpt: "Crossfin Technology Holdings, a South African fintech investment firm, has been acquired by a consortium of investors, including Patrice Motsepe’s African Rainbow Capital (ARC), for R1.5 billion. The consortium is led by Ethos’s Mid-Market Fund I and includes the founding Crossfin executive management team,"
+    publishedDateTime: 2021-11-24T07:45:00Z
+    webUrl: "https://www.moneyweb.co.za/news/south-africa/fintech-crossfin-sold-in-r1-5bn-deal/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 24
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/shutterstock_163502138-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Local fintech startup GIMO bags $1.9 million in Seed+ round led by Integra Partners"
     excerpt: "GIMO, a Vietnam-based fintech startup offering on-demand payment firm for blue-collar workers, has secured $1.9 million in a Seed+ round."

@@ -1,0 +1,63 @@
+---
+category: news
+title: "Facial Recognition Market Size | Opportunity Analysis Report by 2026"
+excerpt: "Facial Recognition Market size is set to cross USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook."
+publishedDateTime: 2021-11-23T05:24:00Z
+originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23"
+webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23"
+type: article
+quality: 69
+heat: 89
+published: true
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Global Face Recognition Terminal Market 2021 to 2027: Existing and Future Insights Growth"
+    excerpt: "MarketandResearch.biz has added a new report to its online database titled Global Face Recognition Terminal Market Growth 2021-2027. The report contains information for the confirmation and examination of the improvement of the market."
+    publishedDateTime: 2021-11-22T20:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-terminal-market-2021-to-2027-existing-and-future-insights-growth-2021-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Military Robots Market Report, Size, Growth, Opportunity, Key Players and Industry Trends 2021-26"
+    excerpt: "According to IMARC Group's latest report, titled“Military Robots Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global military robots market is expected to grow at a CAGR of around 10% during 2021-2026."
+    publishedDateTime: 2021-11-22T11:54:00Z
+    webUrl: "https://menafn.com/1103223582/Global-Military-Robots-Market-Report-Size-Growth-Opportunity-Key-Players-and-Industry-Trends-2021-26"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/22/EP_e87f9image_story.jpeg"
+        width: 960
+        height: 539
+        isCached: true
+
+secured: "cXhnonwtMwrONz5CckVrGYsaPWpuEyafGjBivvtmsaLpFx7TaC3t0rSTVU2a2chkKHMWeMUQjkJ88o7gqKEDtxNEXp4ipF0EHQeZpqTZGMncnLT7R8W9WOY/QDLWL8p7YKK6dX9xMDda6GD/u10e9+foV6IagMkYh3HCQ9U8WYLgMT/ivz6XnNgKHBrhP1TwKzxYOAWa/ko0ZRarjQQ5skKvA/GzY3xwfUiNVulR9sHCvkGKswZB951EFm3aKY58d32PBU5p08UraLLrpOjyBkCS87hw0Yb0vf5WLdJjugJfqUkDcFmZUpWAuGnV3ZnNe2QjULlE04+72m1KyZL4Xzbgzb0KPfAbnw4MjCG2BPY=;j9BR0DyyY1KIYZ3o1b84DA=="
+---
+
