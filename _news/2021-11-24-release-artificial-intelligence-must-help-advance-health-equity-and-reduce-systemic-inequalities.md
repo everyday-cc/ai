@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-24T01:59:00Z
 originalUrl: "https://americanprogress.org/press/release-artificial-intelligence-must-help-advance-health-equity-and-reduce-systemic-inequalities/"
 webUrl: "https://americanprogress.org/press/release-artificial-intelligence-must-help-advance-health-equity-and-reduce-systemic-inequalities/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cf.americanprogress.org/wp-content/uploads/2021/11/cap_social_share-2.png"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "jyXIkWw/u0k4hYqAy3UF0dTcMbnWMVkNTFBZ0MnGoDBavrTn5lvg8EPMOZqXITPcyie3abIajrU3UnROwyKiomqPdxG1fWEZZXFNWouEtLKSZekIcYbbpEvfbCFJrGRd3Edoye3ox4J5BYpN1+wTa65bFwzrhOhq7m0/V5pMWBnlkIBRJ4YzSeE6DkGq67f26Tlcl8Hv1Rvxn8n0edSSDUDekUo8MzZW8ntEwCFNL+2MRsKmu2Ejq4vJMuGS888opCzGRKhYVsr/qNUTf5QAA7PKZVMD+CyM1NGdAPZuWrhotERQNsvAHhNNIZiscuUhU3alWGhSyDIxCF7rs8C74zxr1Sv/1sVNW/o/DW6Iqw4=;neI1HMC/vBCYgX6fXh2r8w=="
+secured: "oLsjNkiPKDfZMZLzU3cd66AWlw04qQ30IchX5z5FAyAjFZ1M9ojvl3Q0DyFv7ndR3uBVl2dJHKDAdBICu2ImL8qhqcVU6R9puzliW7tMhFK68xdr1mgoPevL8vMzzj3aWg6Orj88lh8Rt9dGq+1fHRn8Z5PbWksaiQ+BmfBzauT/MMXwd1t44NkBwwnNrnpF2KUYhYYvE+wxVsj2uyunHNI1ry3OYq4ebTcuSzTW5DMQmNVsVhuwikP1DIHmyJTjqmmBVTyCYl4+gpuxBAbrxlq6FZPghXNC2mH+CYObiPRuj6Pqnw5GIeegelOQCCPmy+bxcom0LAzbLJTknN3ZKfYLqCVzDOpO7YRZdqze8EBzOqpv5NQym99e67vSdmFu06OH+udBwh0mf7L6hBApCBv82wcj/2dP/6baXAi5Km4Rtt0NHsxqtCXfeG/gL1+qbao0Zz2mmn32R6rMYvJmDQc0k0PV79db40wjMq5B8aubEcETuU+miskQKjEg7ZgIubWElAaHmrtAwGX7xx+VKQ==;8vr9p8II5b4N3eeDZfJv0g=="
 ---
 

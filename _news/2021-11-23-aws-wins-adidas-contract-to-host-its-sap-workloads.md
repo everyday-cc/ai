@@ -1,27 +1,33 @@
 ---
 category: news
 title: "AWS wins Adidas contract to host its SAP workloads"
-excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
-publishedDateTime: 2021-11-23T15:54:00Z
-originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
-webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
+excerpt: "Utilizing AWS’ machine learning solutions, including Amazon SageMaker, Adidas’ data scientists can forecast seasonal demand for goods. This ensures the right product arrives at a warehouse or ..."
+publishedDateTime: 2021-11-22T16:57:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads"
+webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads"
+ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 139
+published: true
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/11/adidas_shop_shutterstock.jpg"
-    width: 1000
-    height: 667
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1637598528/itpro/adidas_shoeboxes_shutterstock.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -58,22 +64,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "adidas Migrates SAP Environments to AWS"
-    excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
-    publishedDateTime: 2021-11-22T04:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
     excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
     publishedDateTime: 2021-11-23T23:52:00Z
@@ -88,16 +78,16 @@ related:
         width: 800
         height: 764
         isCached: true
-  - title: "Richemont Selects Amazon Web Services as Preferred Cloud Provider"
-    excerpt: "(NASDAQ: AMZN) company Amazon Web Services announced that Compagnie Financière Richemont SA is moving its entire enterprise IT infranstructure to WS. The company will close its European data centers and migrate additional data centers in Hong Kong and the United States to AWS by the end of 2022."
-    publishedDateTime: 2021-11-24T17:26:00Z
-    webUrl: "https://www.financialbuzz.com/richemont-selects-amazon-web-services-as-preferred-cloud-provider/"
+  - title: "adidas Migrates SAP Environments to AWS"
+    excerpt: "By applying machine learning capabilities, such as Amazon SageMaker, AWS&CloseCurlyQuote;s service that helps developers and data scientists build, train, and deploy machine learning models quickly in the cloud and at the edge, adidas data scientists can ..."
+    publishedDateTime: 2021-11-22T05:05:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 21
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 19
 
-secured: "LYy40XXM0zURx7EfmcujEiM27TPitMOpPpvu9qR13PV3O3is58ZMImietSkWS5lBg/MUIqzPl7L0w7B0EF8zMGfW+QLtrZ92MySnIr6Fgsc4nz9MVwGdQ8nT/qmgz+IPFuGDKN8JRiTBpL+ZxYmksJupSb7DdGTxg/K4a98YrdMwP47Q8DKSMBr4F5rhZ5CMuX2/YHJCvOIvbF9OPbkxmOxNUtPIdKLayxNfWYA9+5q2Bx13gg5tvK7NMcXmHLpSnMxf37ZLk8qxVOTAn9cY0FQs7eovDHu1fJMdP52Lw+rhOjzePzaSSLexKqiLpyRHhX1gNAyiN/wgHsdmU7/ixR9lEnmX2EPU4pqGxqy+3ui0poxKURNmi0zyXAMH6cW+SurrlvEIjioweU+FtWTq5fvLXVqTx98jozRyHGnSnenkO62+VSf/XCykP8EKXzHZmViT3wwnC171nk0v7XZ1Is3jQSIjpaBL0bQWxLHl3NMP9FWQQEEZ8kbce9rXMdBlSmjGtJFb0jTP7RTnxzI/WA==;PBqQ+nEpi7F6OL/8WXVqyA=="
+secured: "W3oNmi+MX78sXC/q51ZxudWa/IJle+q016f7xMN8lYqOJMg4qkeH2xeIWSmezHwNv89tba9GM/2ER/rtBrkIacysDKB1x9ATuHDTcmdNzDLeHnMzMOCCo6SSO8WoeaLUpY5+s8qr7v7d3Fxb7f7oALAg2WDrZ5WmV9VAvJjlg7NlL1Jkb4z8NFcDYGkcLoB+kzAiDFBf/Jf2B4K/ATLx1iCdTqFwVSYlKp1OEaX3pmPcCY9MoYqAcVYSdQ+1dzXrbEriYiHNkCdsbpLTEoBJgK6TZuaUGXhezvgPrfZb64Gple0Nl3OOwS78TqhH/t4WpECUaxXCF3mURkZ2Rc/8vUPnAWMWOuVOYh2TP0SmZGU=;6DUz/vKiILQtid1TlXE/IA=="
 ---
 

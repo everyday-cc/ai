@@ -144,17 +144,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Self-driving Car Market Likely to Enjoy Explosive Growth by 2024 | Toyota, General Motors, Tesla, Volvo"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
-    publishedDateTime: 2021-11-20T05:19:00Z
-    webUrl: "https://www.openpr.com/news/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
-    ampWebUrl: "https://www.openpr.com/amp/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
 
 secured: "A+O7KeES0kUF76LVKN9sh5Rp3FuYAg1ig2k3bM3AdN4iLR1/X7qq9onFo8PQluiuULaSD4l3tuDPLEpt0wrI3d4HCuTCCJEDG3m5um0iN5rBUpitOI/EtvhXwF37n8eUGkg6EyRbYUJrAX3XXXLpwXaLVP45MEMGTXzKyoV9oXkgTXawx7nwPkuzInvKzHip+FU3TTZ9N+bFDqUVJmk4XCd7DIGQxQItFZslwJvC7KrP7xUxQJAq6px5fJaLD2iCWyADVlLXq+ECpA0Skcu7ozA0tSbQFPjaYOm+Pgta47xs/MZq9NdxbrmT5yPJhd71P2I66qEYlGZN15penX2G51ETaCU4uWcvc2eEtsv0FZ80kQTB/USGOLCvo+p9E5u2dkbx0i4yL99rWc/YuX6OhWorJptA5M1GXUAA/p1kHZY1wqKMU7Mk72E9uOXzSm4tVJNAI2+8Bats+w7y8H8y0gGc+jLnod+MeIK+qZHWNq2LmTcy7WKcwmewW2CWXl2n+aLtwEJKSH2TkYI7qtb9ig==;xPXhfA+dYFs96nvVXdZEcw=="
 ---

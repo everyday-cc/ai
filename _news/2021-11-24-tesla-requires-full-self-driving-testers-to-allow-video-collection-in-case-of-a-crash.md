@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
 type: article
 quality: 97
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -148,17 +148,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving Car Market Likely to Enjoy Explosive Growth by 2024 | Toyota, General Motors, Tesla, Volvo"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
-    publishedDateTime: 2021-11-20T05:19:00Z
-    webUrl: "https://www.openpr.com/news/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
-    ampWebUrl: "https://www.openpr.com/amp/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
 
 secured: "Nhcqx2c6H5peMo741ElJwTsPc7/WLMv4uXHmS4790m4C1SzcW1OvnaD3fMWB6wTxTQuD3RgnJuvxRtnGLff7nWhgBUdhoPWZHAo+2/E3OFV3Er+VgV+dAKHUrkWAestsIqwufOrQIbbYmCDQ0HbAYdot6YqXm8OZOhSdvI8rJGXKJMK5+9ZVSPqmmSfdQrxlBUlYwQpjMhxG6YDCEDBuIEMomh+/EezU3o0+9vJa9sqTkJdlnw5KUM5Yg3OObwXDWRs1oQDVhD0vll/OBE+VzAoEtD0ZF0NWhm0YBZTRtMG0TmwZJ7u3PCgAcqe0ICKrJWsXyMlMtC74qjjVIPeeVgCoe50IW09ytYamvnSc1B7MSszZDLPR1h2G2AO88xaKAgzLRxIwlXnaK5DJuTHO8/alOk0OTehyJT02kY9HIRztmDnYAkCpChgYj9wqI6rObFggzmCActY5Jl8GLe3h0+tkkfYa0q7leOJu1f2wGTPbj++GxpPMavLDI4eKpojsFWMcyPCsYqHNrlRC+Uh93Q==;Y6yOl0uncOtZwIJZpn3wtw=="
 ---

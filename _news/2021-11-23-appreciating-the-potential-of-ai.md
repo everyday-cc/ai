@@ -34,7 +34,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1197264259-1-e1637768065636.jpg?w=1200&strip=all"
         width: 1200
@@ -53,6 +53,20 @@ related:
       - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/6199141097b981f8c67fadef_AdobeStock_339380253.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Low Code and No Code: The Future of Artificial Intelligence"
+    excerpt: "Will low code apps go any higher? The jury is still out on how high this will all go. Low code and no code might even help business users build AI-driven applications, according to some experts. “Low and no code platforms make it feasible for businesses to deploy artificial intelligence without having to hire an army of pricey developers and data scientists,"
+    publishedDateTime: 2021-11-21T10:50:00Z
+    webUrl: "https://bestgamingpro.com/low-code-and-no-code-the-future-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Low-code-and-no-code-may-open-more-doors-to-artificial-intelligence-.png"
+        width: 1000
+        height: 600
         isCached: true
   - title: "The Impact of Artificial Intelligence on Branding"
     excerpt: "According to Oxford, AI technologies are expected to contribute $15 billion to the world economy by 2030.  Today’s big companies like Amazon, Netflix, Google, Facebook, Uber have been using artificial intelligence as a part of their branding and marketing strategies,"

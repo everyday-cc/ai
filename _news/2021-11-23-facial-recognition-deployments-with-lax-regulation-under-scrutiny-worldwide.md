@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 626
         isCached: true
+  - title: "Mass. Senate leader hopes to revive facial-recognition debate"
+    excerpt: "State Senate Majority Leader Cynthia Creem told her colleagues in the state senate this week that law enforcement use of facial-recognition software enacted last year \"did not go far enough\" to rein in the technology."
+    publishedDateTime: 2021-11-24T20:00:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/11/24/mass-senate-leader-hopes-to-revive-facial-recogni.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "lCBfVvI0jiMks3pHGPA15jgXKl7em3JQWU110nrZ4pvjnKU7VSis5isZfp6cEVVyg1xSjCEvZ0lQpW2Eq4i0zixeZ2VUsENMyb1077pHR1V1fbPhNfOHTUbCllIQiMJVqTR2nRY9IJRZKcWlI3MIJKLDH+KhI//zp3V+a0ZuObAm2eCvPMicJuWNFMsKeXR7FMgOw8oZd35NIf5wXQzscGjKkndve8DjcLDGyY8xy3iBR4ZeORINE5uar1un3rfVs1btdt3GIBmVBKW2q5gA68ckishS7+IwUNRbtj6kv/dt0WYVkPX1p59rjvqbxlOkmTrxWc6QK5FXPaPiis0b5UYkPTr5H7GDv6o4umDCwr7W94T1OkAvVXS8ZUA+oZgAWbbB0ib4bVfwq0YjOBse56THBNIdIRqWQ2W9HZhPUXLpRSb+4UFhhPzuSOeP0SyOlFg5R0TQTHR4AixUZkxmY1e2cXR3oI24s4JOl4k7pffPKJbkvEMhQGVVZjP/z/8JZ5cJudO7CMZoB5zbxKIxZA==;pxq2Dym6+yR+O3vUmfG4Aw=="
 ---
