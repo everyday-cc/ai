@@ -591,6 +591,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-11-faang-leader-microsoft-is-banking-on-4-key-trends.md",
+      "title": "FAANG-Leader Microsoft Is Banking On 4 Key Trends",
+      "excerpt": "Azure’s strength in hybrid computing has made ... Mesh introduces 2D and 3D meetings with personalized avatars that use AI to imitate movements even when the camera is off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618dec1106ea61fcfc93c0c6%2F0x0.jpg",
+          "width": 1200,
+          "height": 829,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/amp/",
+      "publishedDateTime": "2021-11-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-microsoft-india-proposes-varuna-scalable-low-cost-training-of-massive-deep-learning-models.md",
       "title": "Microsoft India Proposes Varuna: Scalable, Low-Cost Training of Massive Deep Learning Models",
       "excerpt": "The performance of contemporary AI systems on natural language processing (NLP) tasks would have been difficult to imagine just a few years ago. The 2017 debut of massive language model BERT was a game-changer,",
@@ -1329,49 +1381,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-outlook-on-the-cognitive-computing-in-retail-global-market-to-2026-featuring-expert-system-usa-ibm-and-google-among-others.md",
-      "title": "Outlook on the Cognitive Computing in Retail Global Market to 2026 - Featuring Expert System USA, IBM and Google Among Others",
-      "excerpt": "Dublin, Nov. 05, 2021 (GLOBE NEWSWIRE) -- The \"Global Cognitive Computing in Retail Market, By Component (Platform, Services (Managed ... IBM Corporation, Microsoft Corporation, Google LLC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/g23920780/outlook-on-the-cognitive-computing-in-retail-global-market-to-2026-featuring-expert-system-usa-ibm",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/g23920780/outlook-on-the-cognitive-computing-in-retail-global-market-to-2026-featuring-expert-system-usa-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23920780",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23920780",
-      "publishedDateTime": "2021-11-05T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

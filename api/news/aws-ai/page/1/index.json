@@ -263,7 +263,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1198,6 +1198,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-12-uae-aws-announces-plans-to-open-second-region-in-canada.md",
+      "title": "UAE - AWS Announces Plans to Open Second Region in Canada",
+      "excerpt": "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
+      "originalUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-11/11/A_32f2eimage_story.jpg",
+          "width": 1000,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T11:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers.md",
       "title": "FlyFin offers AI-based tax app aimed at freelancers, gig workers",
       "excerpt": "This new AI tax engine replaces the self-employed and ... A desktop version is also available for Macs with an Apple M1 chip. Android users can download FlyFin’s app here.",
@@ -1372,59 +1415,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production.md",
-      "title": "ML observability platform WhyLabs raises $10M to monitor models and data in production",
-      "excerpt": "WhyLabs, a startup developing an observability platform for machine learning projects, has raised $10 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/zero-maintenance-dc986af684be6e69821625a4dbbfc4c5.png?w=800&resize=800%2C495&strip=all",
-          "width": 800,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/amp/",
-      "publishedDateTime": "2021-11-09T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

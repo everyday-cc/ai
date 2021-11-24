@@ -25,22 +25,6 @@ images:
     height: 551
     isCached: true
 
-related:
-  - title: "Five Times Facial Recognition Was In News In 2021 For The Wrong Reasons"
-    excerpt: "While it is a great technological innovation, FRT is often seen as a tool for surveillance and breach of privacy in the name of increased security."
-    publishedDateTime: 2021-11-19T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/five-times-facial-recognition-was-in-news-in-2021-for-the-wrong-reasons/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/FRT_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "POO3zr8V4WPfltzghtjk0+sxC6QtrsLTUQz+YTN11uJJIQkTOHEaPGakQTql3P2esOU+Cg+xH8RlANen39xVcdKVznsMVSECa8vP03jl9Y3WNCIwV/sV54Yhl3Wdn4veu82V/5oL3qbA375Jiyx8elhT3oTOik4ZDS1N2z4pb7/eFjRFi2yZvNmDPzOzwAIf45Y+rb1mK9QB68+obmtiVwLynyNQzAG5Kqpmnk32wrtlJ8EyplETrapJllCAxYht/jy1JiGSNiFxwKLNogv9qcloT9XmVsaqTmyXH4OJx4hlB9vnllN4guy+Ezwjy5RwYEV+Z7M2LdKpOwJlWogi6CDf14r3DSjN/4ky9u9f9j1mKjDMBLnYz6dM21IQWVJwvwqrWWtE9iaXm06xNvXZHMakDJNblVEnhh5R1v3VgOcIf3bTfOyoPr1xm6Y2PNVMsxwxtUZRX0ntuw/kwahaU8VPSuuFSyTS2r5vgl4Iy1RqPI6pnC7P9N3VgxcKQQUAB9DWL9QICpy9T6ynDn+eTA==;lHaVtFkDhP6PuSmoRtarjA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using
 cdnAmpWebUrl: "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp"
 type: article
 quality: 72
-heat: 83
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "PG&E testing artificial intelligence locally that could provide early wildfire detection"
+    excerpt: "PG&E has installed early 500 wildfire detection cameras across Northern and Central California since 2018. Now, the utility is testing artificial intelligence on some of those cameras to improve fire watch and response capabilities."
+    publishedDateTime: 2021-11-24T01:07:00Z
+    webUrl: "https://www.kcbx.org/health-science-and-technology/2021-11-23/pg-e-testing-artificial-intelligence-locally-that-could-provide-early-wildfire-detection"
+    ampWebUrl: "https://www.kcbx.org/health-science-and-technology/2021-11-23/pg-e-testing-artificial-intelligence-locally-that-could-provide-early-wildfire-detection?_amp=true"
+    cdnAmpWebUrl: "https://www-kcbx-org.cdn.ampproject.org/c/s/www.kcbx.org/health-science-and-technology/2021-11-23/pg-e-testing-artificial-intelligence-locally-that-could-provide-early-wildfire-detection?_amp=true"
+    type: article
+    provider:
+      name: KCBX
+      domain: kcbx.org
+    quality: 48
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/5a32cc6/2147483647/strip/true/crop/3264x1837+0+304/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2018%2F03%2F21%2Fgettyimages-1583036-38f3fa27e7c045590d4a262b4e85c5a309e06022.jpg"
+        width: 430
+        height: 242
+        isCached: true
   - title: "PG&E Testing Artificial Intelligence Which Could Expand Wildfire Detection Capabilities to Growing Network of High-Definition Cameras"
     excerpt: "Highlights 138 new HD cameras installed in 2021 and 487 cameras are now in operation: 46 with AI test software Eyes in the sky across most of High Fire-Threat Districts in Northern and Cen. . ."
     publishedDateTime: 2021-11-22T06:04:00Z

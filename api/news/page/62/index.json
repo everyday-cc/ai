@@ -2,6 +2,126 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-10-07-language-imitation-games-and-the-arrival-of-broad-and-shallow-ai.md",
+      "title": "Language Imitation Games and the Arrival of Broad and Shallow AI",
+      "excerpt": "Natural language generation systems in Artificial Intelligence are currently going through a rather fertile phase of imitation themselves—only not limited to a couple of hapless parents, but rather the whole world.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/blogs/blog-cacm/256068-language-imitation-games-and-the-arrival-of-broad-and-shallow-ai/fulltext",
+      "originalUrl": "https://cacm.acm.org/blogs/blog-cacm/256068-language-imitation-games-and-the-arrival-of-broad-and-shallow-ai/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-state-farm-claims-app-adds-object-recognition-for-simple-submission.md",
+      "title": "State Farm claims app adds object recognition for simple submission",
+      "excerpt": "Furthermore, with object recognition now available to State Farm app users, the amount of typing is substantially decreased, and the possibility for discretion is eliminated. In the case of an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.retaildive.com/ex/mobilecommercedaily/state-farm-claims-app-adds-object-recognition-for-simple-submission",
+      "originalUrl": "https://www.retaildive.com/ex/mobilecommercedaily/state-farm-claims-app-adds-object-recognition-for-simple-submission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail Dive",
+        "domain": "retaildive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027.md",
+      "title": "Global AI based Edge Computing Chip Market 2021 Industry Growth, Top Players, Segmentation and Forecast to 2027",
+      "excerpt": "MarketsandResearch.biz has recently published a report titled Global AI based Edge Computing Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-what-facebook-should-change-according-to-its-whistleblower.md",
       "title": "What Facebook should change, according to its whistleblower",
       "excerpt": "She noted that Facebook’s own research has found that “engagement ... She also said that Facebook’s AI-based moderation tools were much less effective than what the company has publicly ...",
@@ -1010,145 +1130,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028.md",
-      "title": "North America Facial Recognition Market Covid-19 Impact In-Depth Industry Analysis 2028",
-      "excerpt": "According To Market Research, The North American Facial Recognition Market Is Anticipated To Rise With A Cagr Of 8.29% In The Estimated Years 2019-2028. The United States And Canada Together Shape The Market In This Region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ubers-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-claims.md",
-      "title": "Uber's 'racist' facial recognition software is firing Black and Asian drivers, former driver claims",
-      "excerpt": "Uber is facing legal action for alleged indirect racial discrimination against a driver who claims he was sacked after facial recognition software used by the company failed to recognise him. In an employment tribunal claim filed this week,",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
-      "originalUrl": "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/06/13/14/64/1000x563_cmsv2_3a714556-0f52-5d73-a4d7-5352ed7a7c5c-6131464.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
-      "publishedDateTime": "2021-10-06T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-online-marketing-platform-market-is-booming-worldwide-with-marketo-google-dataxu-baidu.md",
-      "title": "Online Marketing Platform Market is Booming Worldwide with Marketo, Google, DataXu, BaiDu",
-      "excerpt": "While emphasizing the key driving and restraining forces for this ... The Major Players Covered in this Report: Marketo, Sizmek, Hubspot, BaiDu, Facebook, Tencent, Twitter, Google, DataXu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/online-marketing-platform-market-is-booming-worldwide-with-marketo-google-dataxu-baidu",
-      "originalUrl": "https://www.digitaljournal.com/pr/online-marketing-platform-market-is-booming-worldwide-with-marketo-google-dataxu-baidu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/DDD-4-1-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

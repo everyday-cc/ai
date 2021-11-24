@@ -41,6 +41,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "University of Helsinki offers online course Ethics of AI in Finnish and Swedish"
+    excerpt: "The open and free online course Ethics of AI is designed to help us understand what it means to use AI ethically, and what it requires from society and individuals. The course uses examples of practical issues from its collaboration partners."
+    publishedDateTime: 2021-11-23T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/935681"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 50
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a0b076d8-5f57-4e78-a225-be8652690903/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "N86Pw2cn93Ht51QprsUbbexWU7a1N3BvDHb74Buz+KIXPCxlwEwJzbJ75rCz9MnE5Ox+jncLkS+/LDXXVjz8J9Bb2grlxQQwcK1ejK5bJzhZ+Ptl5DHk5whgLkIMbdyhV/BUlNKhf0OTDQvPlCtZnUkiPymyTJ0HLZwQZkubUHH9fJ6zw9qhj87r6EQ5SHEafGUQnYI/HCJua8LUTsvQ7vLRLYdlmALdCwaQchSquD6Fk4PB+ABlM1/fwnESTZDeMS5wk7N6jfVxSt1bC4gf/6RxTPnoN1uNx7f3OtsTuF8QJjsImCuGSh61HR1cdx3QfKRXLxS5JFALln7t8zyCziRzP5ORRPELJMSCyAbntnw=;vWR9R0zvSI2nis5DuTjx6w=="
 ---

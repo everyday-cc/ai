@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-18-cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it.md",
+      "title": "Cathie Wood calls AI the 'next big frontier' -- here are 3 ways to profit from it",
+      "excerpt": "“We were assuming that in the next 10 years, artificial intelligence would deliver ... also owns autonomous driving technology company Waymo. Last year, Waymo launched its fully automated ...",
+      "sourceUrl": null,
+      "webUrl": "https://edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it",
+      "originalUrl": "https://edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/11/cathie-wood-ai-stocks_financial_hero_1_564x423_v202111121130.jpg",
+          "width": 564,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Edmonton Sun",
+        "domain": "edmontonsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment.md",
       "title": "Coros raises $6.1M to bring computer vision to e-commerce parcel fulfillment",
       "excerpt": "Coros, a real-time visibility provider for e-commerce and parcel fulfillment, announced Wednesday that it has raised a $6.1 million seed round of venture capital funding led by Dynamo Ventures. Susa Ventures,",
@@ -1126,48 +1169,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-how-to-file-a-claim-for-a-piece-of-tiktoks-92-million-class-action-lawsuit.md",
-      "title": "How to file a claim for a piece of TikTok's $92 million class action lawsuit",
-      "excerpt": "Attention U.S.-based TikTok users — you may be entitled to a part of the $92 million class-action lawsuit settlement against the app. If you used either TikTok or its sister app Musical.ly before Sept.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/tiktok-settlement-claim",
-      "originalUrl": "https://mashable.com/article/tiktok-settlement-claim",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/01Qycisge8rtxZ8a5UCSI7B/hero-image.fill.size_1200x675.v1637080135.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/tiktok-settlement-claim?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tiktok-settlement-claim?amp",
-      "publishedDateTime": "2021-11-17T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

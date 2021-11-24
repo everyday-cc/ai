@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-09-14-its-best-to-wait-on-baidu-stock-in-light-of-chinas-crackdown.md",
+      "title": "It’s Best to Wait on Baidu Stock in Light of China’s Crackdown",
+      "excerpt": "I’m cautious on the name mainly because I believe that it could easily become a target for China’s zealous tech regulators. For BIDU stock, it’s a very good sign that Baidu has apparently ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/",
+      "originalUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/its-best-to-wait-on-bidu-stock-in-light-of-chinas-crackdown/amp/",
+      "publishedDateTime": "2021-09-13T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-apple-taps-more-drivers-to-test-self-driving-cars-in-california.md",
       "title": "Apple taps more drivers to test self-driving cars in California",
       "excerpt": "Apple is continuing efforts to advance internal self-driving car technology, with the iPhone maker recently registering more drivers to pilot technology test beds on California roads.",

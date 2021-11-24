@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Accelerates Work on Car Project, Aiming for Fully Autonomous Vehicle"
-    excerpt: "Apple is internally targeting a launch of its self-driving car in four years, faster than the five- to seven-year timeline that some engineers had been planning for earlier this y"
-    publishedDateTime: 2021-11-19T11:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle"
+  - title: "Tesla releases new Full Self-Driving Beta 10.5 update with interesting new features"
+    excerpt: "Tesla has started pushing a new Full Self-Driving Beta software update (10.5) to the fleet this weekend. It includes some interesting new features based on the release notes, which you can find below."
+    publishedDateTime: 2021-11-22T11:11:00Z
+    webUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/"
+    ampWebUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 135
+      name: Electrek
+      domain: electrek.co
+    quality: 83
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imunUg3M6pRI/v1/1200x793.jpg"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 793
+        height: 628
+        isCached: true
+  - title: "Tesla asks Full Self-Driving Beta drivers to accept being recorded in case of a crash or ‘safety risk’"
+    excerpt: "Tesla is now asking owners getting into the Full Self-Driving Beta program to accept that Tesla can use footage from both inside and outside the car in case of a safety risk or accident. It’s the first time that Tesla will attach footage to specific individuals."
+    publishedDateTime: 2021-11-23T23:18:00Z
+    webUrl: "https://electrek.co/2021/11/23/tesla-asks-full-self-driving-beta-to-accept-being-recorded-crash-safety-risk/"
+    ampWebUrl: "https://electrek.co/2021/11/23/tesla-asks-full-self-driving-beta-to-accept-being-recorded-crash-safety-risk/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/23/tesla-asks-full-self-driving-beta-to-accept-being-recorded-crash-safety-risk/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 73
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Apple Car Is Aiming for Full Self-Driving by 2025"
     excerpt: "Stay on top of the revolutions reshaping the auto world — from EVs to self-driving technology — by signing up for Hyperdrive’s newsletter here. Toyota's first U.S. battery plant is destined for North Carolina. Xpeng’s new SUV aims to go ..."
@@ -53,81 +71,62 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Apple accelerates work on car, aims for fully autonomous vehicle"
-    excerpt: "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
-    publishedDateTime: 2021-11-19T18:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
-    ampWebUrl: "https://www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
+  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
+    excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
+    publishedDateTime: 2021-11-19T15:37:00Z
+    webUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
+    ampWebUrl: "https://www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+    cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
+      name: Silicon Valley
+      domain: siliconvalley.com
     quality: 59
     images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Apple-CEO-Tim-Cook-File-Image-IOL?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/aff6062f-b216-56b4-a440-acdad69f102d&operation=CROP&offset=0x182&resize=3500x1969"
-        width: 650
-        height: 366
+      - url: "https://www.siliconvalley.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Apple reportedly accelerates plans for electric, self-driving car"
-    excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
-    publishedDateTime: 2021-11-21T13:00:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920"
-    ampWebUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
+    excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
+    publishedDateTime: 2021-11-19T21:20:00Z
+    webUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
+    ampWebUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
     type: article
     provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 44
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
     images:
-      - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
-        width: 1280
-        height: 720
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
-    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
-    publishedDateTime: 2021-11-23T07:29:00Z
-    webUrl: "https://www.udayavani.com/english-news/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025"
-    ampWebUrl: "https://english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
-    cdnAmpWebUrl: "https://english-udayavani-com.cdn.ampproject.org/c/s/english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
+  - title: "CNN Tried Tesla’s Full Self Driving Beta In New York City And It Didn’t Go Well"
+    excerpt: "CNN Business published a video of its transportation editor, Michael Ballaban, attempting to use Tesla’s FSD advanced driver assistance system through the streets of New York City. On a number of occasions,"
+    publishedDateTime: 2021-11-20T20:48:00Z
+    webUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/"
+    ampWebUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
     type: article
     provider:
-      name: Udayavani
-      domain: udayavani.com
-    quality: 43
-    images:
-      - url: "https://mcmscache.epapr.in/post_images/website_326/post_25578185/full.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Apple accelerates work on car as it aims for fully autonomous vehicle"
-    excerpt: "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
-    publishedDateTime: 2021-11-20T07:57:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2021/11/20/business/tech/apple-self-driving-goal/"
+      name: Carscoops
+      domain: carscoops.com
+    quality: 50
+  - title: "Video: Tesla Full Self-Driving system takes a driving test"
+    excerpt: "Tesla's Full Self-Driving beta system has made headlines in recent months, both positive and negative – but how does it stack up in a learner driver"
+    publishedDateTime: 2021-11-22T22:43:00Z
+    webUrl: "https://www.drive.com.au/news/video-tesla-full-self-driving-system-takes-a-driving-test/"
     type: article
     provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
+      name: Drive.com.au
+      domain: drive.com.au
     quality: 39
     images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/11/np_file_124959-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
-  - title: "Apple's fully self-driving electric car may be launched as early as 2025"
-    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
-    publishedDateTime: 2021-11-22T09:01:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2021/11/22/apple-s-fully-self-driving-electric-car-may-be-launched-as-early.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 23
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/2020/images/2021/1/13/Apple-Inc-logo-Apple-store-Manhattan-New-York-reu.jpg"
-        width: 760
-        height: 443
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/pcsakwljpekbv7d49pmp"
+        width: 400
+        height: 225
         isCached: true
   - title: "The Apple Car is reportedly going all-in on self-driving and could release by 2025"
     excerpt: "The Apple Car could be available by as early as 2025. Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"

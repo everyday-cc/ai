@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-19-two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire.md",
+      "title": "Two Young Roommates Are Building An Artificial Intelligence Real Estate Empire",
+      "excerpt": "It's amazing to see that the pandemic has created a boom in entrepreneurialism and shown how AI and tech, along with the human touch, can both improve the lives of people and build new innovative businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197b0ddfb2e0726828aedae%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/amp/",
+      "publishedDateTime": "2021-11-19T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-sensetime-gets-green-light-from-hong-kong-exchange-to-proceed-with-us2-billion-ipo-sources-say.md",
       "title": "SenseTime gets green light from Hong Kong exchange to proceed with US$2 billion IPO, sources say",
       "excerpt": "SenseTime has got the green light from the Hong Kong stock exchange to proceed with its flotation, according to people familiar with the transaction, taking the largest artificial intelligence (AI) company in China a step closer to its US$2 billion initial public offering.",
@@ -1190,49 +1243,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-a-new-direction-for-artificial-neural-networks.md",
-      "title": "A new direction for artificial neural networks",
-      "excerpt": "LETI’s latest project in this field focuses on how reservoir computers based on the principles of magnonics can offer a new direction for artificial neural networks. The project is headed by Mikhail Kostylev, professor in the department of physics at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeshighereducation.com/hub/p/new-direction-artificial-neural-networks",
-      "originalUrl": "https://www.timeshighereducation.com/hub/p/new-direction-artificial-neural-networks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timeshighereducation.com/sites/default/files/semenov_2_web.jpg",
-          "width": 750,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Higher Education",
-        "domain": "timeshighereducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple Car Is Aiming for Full Self-Driving by 2025"
+    excerpt: "Stay on top of the revolutions reshaping the auto world — from EVs to self-driving technology — by signing up for Hyperdrive’s newsletter here. Toyota's first U.S. battery plant is destined for North Carolina. Xpeng’s new SUV aims to go ..."
+    publishedDateTime: 2021-11-19T12:30:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-11-19/apple-car-is-aiming-for-full-self-driving-by-2025"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igsA_v1YxPYE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
     excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
     publishedDateTime: 2021-11-19T21:20:00Z
@@ -99,6 +113,34 @@ related:
       - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/pcsakwljpekbv7d49pmp"
         width: 400
         height: 225
+        isCached: true
+  - title: "Apple is diving headfirst into full self-driving with the Apple Car"
+    excerpt: "Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
+    publishedDateTime: 2021-11-19T16:57:00Z
+    webUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "The Apple Car is reportedly going all-in on self-driving and could release by 2025"
+    excerpt: "The Apple Car could be available by as early as 2025. Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
+    publishedDateTime: 2021-11-19T17:55:00Z
+    webUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 18
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "bHqL+pyFtFLis1GjeQoyeyBP+NxHh37cZBe6yuWw9TjQQRQASWSo9nZFMLs0l88gU728ZszBkNyiIjV6yKiay+orRwGJqCg1UcB3/sq8MNiTZ+6V+sakK1z6iqaFL+OpdZY/3Nw+k6pYLnwtw3DodpMxKdNZqsH8EuZbqmgLnHSjK+1NfW1KejPm878WUUx5jQ6blEMnQ7TrI6J7mihNpc5PJJTjOHzCGwkGuGuhgoIioUmBUmpXcWrpbulFEuvPpu2XuCh8pnhcFYof1Krc/ZWBX8CyCWhbAVwPquYpM9qT/lsEexOtw12inVj4v8U/bLVl1dGbNgQd4dOUhnQt9YW9iZnvY8Hh1DTvQNtZxooYl267tqAj8TUdfCzNsxpwCayPgjNRvpi4qMBlUfe5QxCuxg32LZbYZj9DI8SijO9gsWGcjqEXfI7vFSwwUTanzzpboAW8817RuudSAnQbQttU7SIi9hTfC785tTKvHdx5FlvhGj2IVCBbZnwtOxQApEIVgRuDJHslAz+wecKwMA==;SoAJU0w5ijLMMl1UM2ROEw=="

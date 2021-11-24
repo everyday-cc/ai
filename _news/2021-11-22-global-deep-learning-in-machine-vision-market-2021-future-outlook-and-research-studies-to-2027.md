@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Big Boom in Manufactural Artificial Intelligence Market 2021 to 2026"
-    excerpt: "Portland United States Big Market Research newly added a research report on the Manufactural Artificial Intelligence Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario and"
-    publishedDateTime: 2021-11-19T09:25:00Z
-    webUrl: "https://www.openpr.com/news/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub19446944_g.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "Trending Report on AI and Operations Automation in 5G Networks Market, 2021-2026"
     excerpt: "Portland United States Big Market Research newly added a research report on the AI and Operations Automation in 5G Networks Market which represents a study for the period from 2021 to 2026 The research study provides a near look at"
     publishedDateTime: 2021-11-22T03:50:00Z
@@ -75,6 +59,20 @@ related:
         width: 780
         height: 405
         isCached: true
+  - title: "Global Big Data & Machine Learning in Telecom Market 2021 Potential Growth, Competitive Landscape and Development of Industry by 2027"
+    excerpt: "A study on the Global Big Data & Machine Learning in Telecom Market Growth (Status and Outlook) 2021-2027 is disclosed by MarketandResearch.biz. It consists of various section such as research methodology,"
+    publishedDateTime: 2021-11-22T21:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-potential-growth-competitive-landscape-and-development-of-industry-by-2027-2021-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence (AI) in Logistics Market Recent Developments, Research Analysis Forecast 2027"
     excerpt: "The Global Artificial intelligence AI in Logistics Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the"
     publishedDateTime: 2021-11-22T07:24:00Z
@@ -86,20 +84,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
-  - title: "Global Big Data & Machine Learning in Telecom Market 2021 Potential Growth, Competitive Landscape and Development of Industry by 2027"
-    excerpt: "A study on the Global Big Data & Machine Learning in Telecom Market Growth (Status and Outlook) 2021-2027 is disclosed by MarketandResearch.biz. It consists of various section such as research methodology,"
-    publishedDateTime: 2021-11-22T21:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-potential-growth-competitive-landscape-and-development-of-industry-by-2027-2021-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Disinfectant Robot Market 2021: Global Analysis of Key Manufacturers, Dynamics & Forecast 2026"
     excerpt: "The Disinfectant Robot Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Disinfectant Robot market It particularly sheds light on market fluctuations pricing"
     publishedDateTime: 2021-11-22T12:10:00Z

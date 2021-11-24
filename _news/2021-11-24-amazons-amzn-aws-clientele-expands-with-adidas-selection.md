@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
-publishedDateTime: 2021-11-23T17:12:00Z
-originalUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
-webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
-ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
+publishedDateTime: 2021-11-23T20:00:00Z
+originalUrl: "https://www.entrepreneur.com/article/398836"
+webUrl: "https://www.entrepreneur.com/article/398836"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
+    width: 635
+    height: 400
+    isCached: true
 
 related:
   - title: "Adidas Migrates SAP Environments To Amazon Web Services"
@@ -59,6 +67,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
+    excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
+    publishedDateTime: 2021-11-23T23:52:00Z
+    webUrl: "https://sourcingjournal.com/topics/technology/retail-tech-klevu-adidas-aws-sap-klarna-modcloth-nimble-reissue-ltk-bolt-adobe-314911/"
+    type: article
+    provider:
+      name: sourcingjournal
+      domain: sourcingjournal.com
+    quality: 43
+    images:
+      - url: "https://i0.wp.com/sourcingjournal.com/wp-content/uploads/2021/11/AdidasUltraboost.jpg?fit=800%2C764&quality=98&ssl=1"
+        width: 800
+        height: 764
+        isCached: true
   - title: "AWS wins Adidas contract to host its SAP workloads"
     excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
     publishedDateTime: 2021-11-23T15:54:00Z
@@ -74,6 +96,6 @@ related:
         height: 667
         isCached: true
 
-secured: "afmtFfAqzhgbqOgIEXWzUif3/unEoMI9cxD8v86nXFH8at70sBoC0pkWMLI8VQCDqrGc81qrYD++LBG/Pb+tMYSl7jErhCYwG9IHdzGttdkFXkBw+4AnPBWdNGQwT2DVc0ZMq0NOpsJTzmaX1GF6e4r25+NSXMyadjy1v+MYA10l7ggv2B8wcq7/icHZ92+j9zROhd3yeAT6+lRZVg/y6A2EH8ypNXrTPSJOHfLigdvEPeZmgL8aGK4KiwV/x0xb+Ib72h8QuOyx9C5wrwYbmz4GyPOOOZvtwz1/wv36gUpuw8tixzIaWoVI82wvpcwS8Kcz1j1fgpV1KCBwSher8pZxOXRY6ErMaO6bfHWSCUA=;CuU6dFW8CYvjYmFCLhOE2A=="
+secured: "AIY63VzzuumUvRacbxPhMoSu40CKlBsOUHnSF7M6kKnZqRWn+Cxn4EykQIxIizTXej0ivxZbHYdETW3CqQr3+091t2UQHmihtFj0ymBR2tLc1PbeZXKF7t7vfO5xXllwwZJcqSt6orfaLQh04MCT6Gj0Ry6ylt7gKNhUmnL5kutJf9vJ54fLxsAHvPFtXdAc1cNJEw7R+Xu1R4M8NY/y2a/16Wm3FaEBcC6nO91qKGpXh+vhufYtT3Z4B1vJbhzcVudZMwnAWn/dA6hrPTj9KPzcQ31p21nxONjszA5ZFsueWHHWsTJB/V6Aa2IN8SsRLBw/Sis3lbEvTzs6iUFhRpxnWKpQEpWOz6Y1ZJA8q/M=;1NHt2x9O6HjGAi4Wzktk6g=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-12-role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics.md",
+      "title": "Role of technology in healthcare and how robotics has transformed the ever-evolving field of Orthopaedics",
+      "excerpt": "Dr Miten Sheth, Orthopaedic Knee Surgeon & Director, The Knee Clinic highlights the role of technology in orthopaedics",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "originalUrl": "https://www.expresshealthcare.in/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.expresshealthcare.in/wp-content/uploads/2021/11/DR.-MITEN-SHETH-MS-DNB-Orthopaedics-Knee-Surgeon-The-Knee-Clinic-1.png",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics/432055/",
+      "publishedDateTime": "2021-11-11T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats.md",
       "title": "This farm is developing a smart facial recognition system.. for its goats",
       "excerpt": "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,",
@@ -372,6 +416,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-uae-aws-announces-plans-to-open-second-region-in-canada.md",
+      "title": "UAE - AWS Announces Plans to Open Second Region in Canada",
+      "excerpt": "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
+      "originalUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-11/11/A_32f2eimage_story.jpg",
+          "width": 1000,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T11:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1108,110 +1195,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-how-fintech-companies-are-changing-the-idea-of-credit-in-india.md",
-      "title": "How Fintech Companies Are Changing the Idea Of Credit In India",
-      "excerpt": "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/396710",
-      "originalUrl": "https://www.entrepreneur.com/article/396710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1636627414-towfiqu-barbhuiya-jpqyfK7GB4w-unsplash1.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-what-tech-challenges-are-facing-the-financial-services-sector.md",
-      "title": "What tech challenges are facing the financial services sector?",
-      "excerpt": "Jenny Darmody wrote this piece Silicon Republic following our discussion that I thought I'd share on here, link to original piece is below. InterSystems Ireland’s Redmond O’Leary discusses how financial services can streamline operations using tech,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/what-tech-challenges-facing-financial-services-sector-redmond-o-leary",
-      "originalUrl": "https://www.linkedin.com/pulse/what-tech-challenges-facing-financial-services-sector-redmond-o-leary",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGMEpYBOEmzBA/article-cover_image-shrink_600_2000/0/1636567453241?e=1642636800&v=beta&t=sQB3Rwff8qvYY-GrdVPIusKiMss1wGNN-tILnLh00fs",
-          "width": 900,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

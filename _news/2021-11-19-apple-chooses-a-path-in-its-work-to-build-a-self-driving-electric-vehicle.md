@@ -19,21 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Apple self-driving electric car debut may happen as early as 2025: Here's what you should expect"
-    excerpt: "Apple is not only looking to launch an electric car with some autonomous features, it is planning to launch a car that can completely drive itself"
-    publishedDateTime: 2021-11-19T10:51:00Z
-    webUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/"
-    ampWebUrl: "https://www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/electric-vehicles/apple-self-driving-electric-car-debut-may-happen-as-early-as-2025-heres-what-you-should-expect-1022519/amp/"
+  - title: "Apple accelerates work on car, aims for fully autonomous vehicle"
+    excerpt: "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
+    publishedDateTime: 2021-11-19T18:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
+    ampWebUrl: "https://www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
     type: article
     provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 31
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
     images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/apple-logo-1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://image-prod.iol.co.za/resize/650x366/Apple-CEO-Tim-Cook-File-Image-IOL?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/aff6062f-b216-56b4-a440-acdad69f102d&operation=CROP&offset=0x182&resize=3500x1969"
+        width: 650
+        height: 366
+        isCached: true
+  - title: "Apple accelerates work on car as it aims for fully autonomous vehicle"
+    excerpt: "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
+    publishedDateTime: 2021-11-20T07:57:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2021/11/20/business/tech/apple-self-driving-goal/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/11/np_file_124959-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
+  - title: "Apple's fully self-driving electric car may be launched as early as 2025"
+    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
+    publishedDateTime: 2021-11-22T09:01:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2021/11/22/apple-s-fully-self-driving-electric-car-may-be-launched-as-early.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 23
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/2020/images/2021/1/13/Apple-Inc-logo-Apple-store-Manhattan-New-York-reu.jpg"
+        width: 760
+        height: 443
         isCached: true
 
 secured: "/cRipRBK/jgfVCXOAjwaDVwEvKJYzuVHWlJ8unmcMCExcFzb+IS0R3AE+7xNSspudCbSM1/FxOThZ66Xs60Vdu7fHqSjdHYopve3GxM9a8CZV5rQerq7v7w73MxUELCAwNUVEI3up8DWfib0j0B1fWgn+K2tXgqSAAgvENHXbt75QLAj7W6lMuXTtzbxP0MJb83+Y9Setz/V+Srz35Ej7zABc/63D/fGI3FcJv/U6NbxguXAR155KsMKrzOrhZevDKks+6kf/ZyS6RnOrcmj4R8TFTI+9B6DAd4XvtqA3kOgUXKW+HVLhr/DiSn0FdPj7N6fU8gXbLMattM2wj4pBquXGCQILYQXYjvW96evWsp87OiIe02BbKa4zaDK6R7s3xjskD1nr+nK/s0XpQ2hEIq8TQ7pNmZ4hB3O3+9maaeNb508ZaYS968y33KzNerA+/Mnc/q+sH2T3nSUDTJgrKQC+GPehLyuNbfRAv3kZ99OcpZF4f4Mpnmq6WwICNfPxz1bbLXlkDteBv4c2njbYw==;fP5GBSW9SDGErgLTzwULgA=="

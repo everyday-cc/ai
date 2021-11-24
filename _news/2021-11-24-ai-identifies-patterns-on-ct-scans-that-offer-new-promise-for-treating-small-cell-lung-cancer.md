@@ -8,8 +8,8 @@ webUrl: "https://www.news-medical.net/news/20211123/AI-identifies-patterns-on-CT
 ampWebUrl: "https://www.news-medical.net/amp/news/20211123/AI-identifies-patterns-on-CT-scans-that-offer-new-promise-for-treating-small-cell-lung-cancer.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211123/AI-identifies-patterns-on-CT-scans-that-offer-new-promise-for-treating-small-cell-lung-cancer.aspx"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
@@ -25,6 +26,6 @@ images:
     height: 480
     isCached: true
 
-secured: "TZIzAQ5J8m/PEGkwUYqMWLwmeQWjtDYFkufodpOftt/5pdV3F3AxsHxGpnLH8JX/8OakYnY6Ma5vhw4B/WcPTLP6m3A1n80i4yzCLbXr5dW60TbK2kLVeQ1CpCpIabr2YgoP9rEG88OE7158APJ4FgbQG1JDumlsfcOtclXT/gdz4yi1cPujSr/0XeMWee665BAxTsmgTXzGOUmgW5VCM/YXk5vJKUJY2Y58+osnBlaujWPrgFVyu/i1M9AgnR60Fw0XsUccVsBlOEtVa4LS7nJcqCUT74x62d3SaeOsI9gSvSXe1ySENa6YOwdRX6j1C78a0qot1N7VzsYLoYp5NP237/m32bVVbTv3qFnoGtI=;YTpMMq8wDQ5areB+8NzhgA=="
+secured: "c9H1wHCtTLuyuLVKjTHtL1RbnW9vG6+DUGI/xknvdj67M7ENBCYoUiBV4s3YFSn8S42NalhWiAg0i7kOQLeEYP9T/4FjoUyN1cWYJlzj1MpCzQl+Y8VjB7CKcNvVnl79q4yqcMElEbZ/S4i2TiotXMezQQ9pyn2KHUOgHgQD2G+Rbn7eUzSK0Wc2BNim6vLB2ThnRrUGrAFOxr9xO9vrUT4XIh6BtrK/XvrcMgfC2VFxir/l7eLMRLUjUBb6OQnB75Izxn74BjMvZQZW8zKTbI1ydYCl6bBD0TOKupLaJ+1wlTBE6cr3ByhlVNj0YCMer3sQ/ES3rf20NU7ATmv1YraqcORbETbtgs7Bs/VOc7dPGry8tJeL6uku9/BjVGAiEVeFKb0hZhYWwSwc0b3ea0ggewILohJVB59Y/jeuE7FWPEcGFwxwL//1/fKMyBoC9l9yD4qo/0YpGlK1S/70+Kt0/8VE7lFqwNK5ZpQMTSoNvkRTG/M3g35+7EHVlpsa5XbQnlswGnMo1aY7kCOVrA==;Tj6kjp9tyaDvbRKeoSo7RA=="
 ---
 

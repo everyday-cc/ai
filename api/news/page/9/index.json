@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-11-16-amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-in-the-mena-region.md",
+      "title": "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region",
+      "excerpt": "Founded in 2008 by Jordanian entrepreneur Nour Al Hassan, Tarjama is the leading language technology & services provider in the MENA region, meeting the language and localization needs of a wide roster of corporates across the region's largest markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-amethis-completes-minority-investment-tarjama-leading-language-technology-/2021/11/16/9492714.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-amethis-completes-minority-investment-tarjama-leading-language-technology-/2021/11/16/9492714.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence.md",
       "title": "Improvising claims processing for the insurance industry by use of artificial intelligence",
       "excerpt": "Eventually the use of artificial intelligence in the immediate years is expected to help claims organizations adopt a more proactive mindset",
@@ -1119,59 +1153,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-astera-labs-announces-memory-acceleration-to-clear-datacenter-aiml-bottlenecks.md",
-      "title": "Astera Labs announces memory acceleration to clear datacenter AI/ML bottlenecks",
-      "excerpt": "Astera Labs announced a memory accelerator platform based on the Compute Express Link (CXL) standard for datacenter devices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/",
-      "originalUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/amp/",
-      "publishedDateTime": "2021-11-15T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-17-hungarys-otp-bank-invests-in-ai-supercomputer.md",
+      "title": "Hungary’s OTP Bank Invests in AI Supercomputer",
+      "excerpt": "The system, developed by Silicon Valley’s SambaNova, will leverage AI language models to automate more banking services for Hungarian speakers",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/hungarys-otp-bank-invests-in-ai-supercomputer-11637084417",
+      "originalUrl": "https://www.wsj.com/articles/hungarys-otp-bank-invests-in-ai-supercomputer-11637084417",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-435898/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-how-offerfit-uses-self-learning-ai-to-stop-customer-churn.md",
       "title": "How OfferFit uses self-learning AI to stop customer churn",
       "excerpt": "OfferFit, which announced $14 million in series A funding today, replaces standard manual A/B testing with an AI implementation.",
@@ -1151,40 +1203,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-in-the-mena-region.md",
-      "title": "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region",
-      "excerpt": "Founded in 2008 by Jordanian entrepreneur Nour Al Hassan, Tarjama is the leading language technology & services provider in the MENA region, meeting the language and localization needs of a wide roster of corporates across the region's largest markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-amethis-completes-minority-investment-tarjama-leading-language-technology-/2021/11/16/9492714.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-amethis-completes-minority-investment-tarjama-leading-language-technology-/2021/11/16/9492714.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T00:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

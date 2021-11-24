@@ -849,6 +849,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-20-apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle.md",
+      "title": "Apple accelerates work on car, aims for fully autonomous vehicle",
+      "excerpt": "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae",
+      "originalUrl": "https://www.iol.co.za/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/650x366/Apple-CEO-Tim-Cook-File-Image-IOL?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/aff6062f-b216-56b4-a440-acdad69f102d&operation=CROP&offset=0x182&resize=3500x1969",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae",
+      "publishedDateTime": "2021-11-19T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-new-amazon-forecast-api-that-creates-up-to-40-more-accurate-forecasts-and-provides-explainability.md",
       "title": "New Amazon Forecast API that creates up to 40% more accurate forecasts and provides explainability",
       "excerpt": "We’re excited to announce a new forecasting API for Amazon Forecast that generates up to 40% more accurate forecasts and helps you understand which factors, such as price, holidays, weather, or item category, are most influencing your forecasts. Forecast uses machine learning (ML) to generate more accurate",
@@ -1063,7 +1106,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1156,59 +1199,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire.md",
-      "title": "Two Young Roommates Are Building An Artificial Intelligence Real Estate Empire",
-      "excerpt": "It's amazing to see that the pandemic has created a boom in entrepreneurialism and shown how AI and tech, along with the human touch, can both improve the lives of people and build new innovative businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197b0ddfb2e0726828aedae%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/amp/",
-      "publishedDateTime": "2021-11-19T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

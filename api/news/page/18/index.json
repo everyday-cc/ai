@@ -2,6 +2,155 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-11-08-use-autogluon-tabular-in-aws-marketplace.md",
+      "title": "Use AutoGluon-Tabular in AWS Marketplace",
+      "excerpt": "AutoGluon-Tabular is an open-source AutoML framework that requires only a single line of Python to train highly accurate machine learning (ML) models on an unprocessed tabular dataset. In this post, we walk you through a way of using AutoGluon-Tabular as a code-free AWS Marketplace product. We use this",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T11:42:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra.md",
+      "title": "Augment search with metadata by chaining Amazon Textract, Amazon Comprehend, and Amazon Kendra",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T10:56:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-why-is-artificial-intelligence-so-bad-at-sales-and-marketing.md",
+      "title": "Why is Artificial Intelligence So Bad at Sales and Marketing?",
+      "excerpt": "Today, I want to talk about why artificial intelligence is so bad at sales and marketing. One of the main reasons is that artificial intelligence (AI) bots need to have some contextual information in order to understand what you’re saying or what you mean.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203",
+      "originalUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/11/IMG_2460.jpe",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/why-is-artificial-intelligence-so-bad-at-sales-and-marketing-02440203/amp",
+      "publishedDateTime": "2021-11-08T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads.md",
       "title": "AMD rolls out Instinct MI200 GPUs for HPC and AI workloads",
       "excerpt": "AMD on Monday unveiled the Instinct MI200 accelerator, the latest generation of its data center GPU. The chipmaker says it's the fastest HPC and AI accelerator, surpassing records set by the MI100, rolled out last year.",
@@ -1009,153 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-the-connected-car-will-drive-the-roll-out-of-5g.md",
-      "title": "The 'Connected Car' will drive the roll-out of 5G",
-      "excerpt": "Improvements in the power and coverage of cellular networks enable these onboard systems to leverage cloud-edge processing techniques and Artificial Intelligence ... trials of vehicles such as Google’s Waymo, BMW’s Vision iNext, and Tesla’s models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-blogs/the-connected-car-will-drive-the-roll-out-of-5g/241949/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-blogs/the-connected-car-will-drive-the-roll-out-of-5g/241949/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/241949/Mark.Patrick.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-global-artificial-intelligence-ai-in-education-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027.md",
-      "title": "Global Artificial Intelligence (AI) in Education Market 2021 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2027",
-      "excerpt": "Nov 07, 2021 (CDN Newswire via Comtex) -- MarketsandResearch.biz has recently published a report titled Global Artificial Intelligence (AI) in Education Market 2021-2027 which assesses dynamic factors, growth determinants as well as information on segment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-education-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-11-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-education-market-2021-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2027-2021-11-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round.md",
-      "title": "Fidelity, Visa and Kingsway back South African fintech JUMO in $120M round",
-      "excerpt": "JUMO, a South Africa- and London-based company that offers financial services to entrepreneurs and businesses in emerging markets, has raised $120 million in a new round of funding led by Fidelity Management & Research Company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/",
-      "originalUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/Andrew-Watkins-Ball-JUMO2.jpg?w=900",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/",
-      "publishedDateTime": "2021-11-08T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

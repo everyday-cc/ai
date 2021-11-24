@@ -53,7 +53,21 @@ related:
         width: 1499
         height: 1124
         isCached: true
+  - title: "Jeffrey Kratz Named General Manager of Worldwide Public Sector Partner Program at AWS"
+    excerpt: "Amazon’s (NYSE: AMZN) cloud computing business has appointed Jeffrey Kratz, a nine-year Amazon Web Services veteran, as general manager of its worldwide public sector partner program, CRN reported Monday."
+    publishedDateTime: 2021-11-23T10:38:00Z
+    webUrl: "https://www.govconwire.com/2021/11/jeffrey-kratz-named-gm-of-worldwide-public-sector-partner-program-at-aws/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 32
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2021/11/Jeffrey-Kratz-Named-General-Manager-of-Worldwide-Public-Sector-Partner-Program-at-AWS.png"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "pjEHn4NCoTpp7OhaIlAPOgmyZSG6iiYd1mU3FAzNTh+BXqtVaHZsdQA2T6VLh8M9IcHR2H+G77Qhwqqngqi5VsM4WW5CBT+yKpFo/JDq3Di9uI2IPDJBcqN9fsZnARdbHWlBuj/HrXMktcRPT8x+L1rSHskW+LwYuI2ddI13cS20cWYIDIdOZmUZAOKPCZ0J3aaOEW5V8HdJVvd/OgzPwK1u7IZUjR1HPpSpCyNY+ymaRD7dPagxSrd2JGCb5bhD6evZW0H7xaTG55Fb0AJStvJXvRHhAx2mdGrzwcvtpAOgZ/9uGMMmFLJ3+FX5HN2d6cRPRtfQFRXNwkF/bqdbSTTndNHZj1NMM8n+jgOyIJo=;GVSYB7zK1B6HoETMMv5a7w=="
+secured: "9YvCeygOT7ATgKbuifrDBv96PlOo4m4XkLPYTFXHReW/FAQPQBw+N4ZEUVEb/RZEMscABNgha3kLQ/mGp1RdhmYVaQEGq24TwpSBHOHGvP5HHBWLQN3CTaS38S65OCaioFTs6FLRVN15NVZhMhuPlFTFK6nbOn0zUgs6uTSBdKeoq86Q2P1WIRp8wJGVlY+xFdsNxXb3Vm6a6vxD23QqiwT3OavtX/nHoNQvAu90TURSH5/YvSmkww+ec7c4FdOKqvph2gCtvWAG/TizdzvI2yInlFXe+O3YmLsDyNhhKXN/3fwGskoeeNie8kaWM6j4ZxcX77RjGVXCKACUasf3Ik9wit8x17V2Iuq0dDIBjWGgvqOdt89rS2CZHLw7ofBNXkbsMalgkJSdONdlVzIqGyJvNdtRl3cZSSAxFm+vP9cebn+s9xDgRmNmTtuQQvL0Tc3V/9yqWcBvqZZdb71MnOm7Afubf0Eb2urznVT0ZIhuKPKfGRadOi+k/uKgETbQGsUKsmjxamNhBFVvcoKV+w==;QItOnFLi8MdZWM5IBOAXpw=="
 ---
 

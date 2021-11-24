@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2020/01/imageforentry32-9xl.jpg?w=400"
         width: 400
         height: 224
+        isCached: true
+  - title: "Apple reportedly accelerates plans for electric, self-driving car"
+    excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
+    publishedDateTime: 2021-11-21T13:00:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 44
+    images:
+      - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How PIX Moving is Using Self-Driving Skateboard Chassis to Build the City of the Future"
     excerpt: "The benefits promised by self-driving cars are hard to ignore. Who doesn’t want less accidents, less congestion, and less pollution? Unfortunately, recent studies show those benefits may be a long way off as most drivers are not yet ready to trust a self-driving car."
@@ -110,9 +126,9 @@ related:
         height: 600
         isCached: true
   - title: "What makes uni students steer clear of self-driving cars?"
-    excerpt: "What makes uni students steer clear of self-driving cars? Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case."
+    excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
     publishedDateTime: 2021-11-23T06:17:00Z
-    webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=758566"
+    webUrl: "https://www.scimex.org/newsfeed/what-makes-uni-students-steer-clear-of-self-driving-cars"
     type: article
     provider:
       name: scimex.org

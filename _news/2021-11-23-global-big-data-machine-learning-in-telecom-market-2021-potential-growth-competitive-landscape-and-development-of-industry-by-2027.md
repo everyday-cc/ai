@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-22T21:48:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-potential-growth-competitive-landscape-and-development-of-industry-by-2027-2021-11-22"
 webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-potential-growth-competitive-landscape-and-development-of-industry-by-2027-2021-11-22"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -42,22 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Big Boom in Manufactural Artificial Intelligence Market 2021 to 2026"
-    excerpt: "Portland United States Big Market Research newly added a research report on the Manufactural Artificial Intelligence Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario and"
-    publishedDateTime: 2021-11-19T09:25:00Z
-    webUrl: "https://www.openpr.com/news/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2467881/big-boom-in-manufactural-artificial-intelligence-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub19446944_g.jpg"
-        width: 640
-        height: 400
         isCached: true
   - title: "Global Deep Learning in Machine Vision Market 2021 Future Outlook and Research Studies to 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 21, 2021 (CDN Newswire via Comtex) -- Global Deep Learning in Machine Vision Market Growth (Status and Outlook) 2021-2027 is the fresh report by MarketandResearch.biz ..."

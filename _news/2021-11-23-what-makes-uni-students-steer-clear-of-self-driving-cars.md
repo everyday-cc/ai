@@ -1,10 +1,10 @@
 ---
 category: news
 title: "What makes uni students steer clear of self-driving cars?"
-excerpt: "What makes uni students steer clear of self-driving cars? Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case."
+excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
 publishedDateTime: 2021-11-23T06:17:00Z
-originalUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=758566"
-webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=758566"
+originalUrl: "https://www.scimex.org/newsfeed/what-makes-uni-students-steer-clear-of-self-driving-cars"
+webUrl: "https://www.scimex.org/newsfeed/what-makes-uni-students-steer-clear-of-self-driving-cars"
 type: article
 quality: 24
 heat: -1
@@ -56,6 +56,22 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2020/01/imageforentry32-9xl.jpg?w=400"
         width: 400
         height: 224
+        isCached: true
+  - title: "Apple reportedly accelerates plans for electric, self-driving car"
+    excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
+    publishedDateTime: 2021-11-21T13:00:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 44
+    images:
+      - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How PIX Moving is Using Self-Driving Skateboard Chassis to Build the City of the Future"
     excerpt: "The benefits promised by self-driving cars are hard to ignore. Who doesn’t want less accidents, less congestion, and less pollution? Unfortunately, recent studies show those benefits may be a long way off as most drivers are not yet ready to trust a self-driving car."
@@ -162,6 +178,6 @@ related:
         height: 1400
         isCached: true
 
-secured: "YZLQ6E7JQVKJ5JKepMoA08O5YqEafEmfqC4rYtFQ0pUu5ANHYgdMK2MJ1eEETvrUtU/OFFCkU1WQ4dKdv0HyOQ6829LC2ghFOwNGkAUJxYWvckSjKOcAI6c113/4HLB/yfGnP1eO8g3B4vd+ZfwvjSPDtmywuQVJaBkXaOaOOAsriYdTxun6rnBS1N07CynLQ/Y5KiGkVnuKGNkF7ki43Na1ia/weNqxr1n/Sq7LfkmnIir+YvudRJVWT7NtdzNcSermbAbU2w1dPsFZBh99EVKCAQV2lRZqg2yMjJCfKrJPqWZlxpPho9UPYz+xiCFkF3eTfDyQBpXtXjNWQj1cLAhkFvIDv/isdCxRSUWxPXVAAPotmv0LiJKsRBKiEwVVq4SgbcAF7kSEyzCS4MsN6hZTeh5cKr/+LvN7YK6gaM4CxDHvZO5p4tCmAEfutpl7d+pCw222XefMhp/eSaMJC7E9U7HypRMLHUlGG9Al9OLarjgsINptgirbXlwkeiNUg/N6kvCEAzRLcXhhmM2Wyg==;3pViK38sa6ommt5r44m/WA=="
+secured: "dh1/w/7uFacg7qBNhUUfHMbV73/j5pW45VfOQvifXP4yhDw4xTrPKXd8OjKmamf8W1FYTtYzek4He0yau8DkiXU9MVyCuv71gqLjFyAELHlZZYe7Dp6ZirlR00Xu55Tl/gYyrBxYhRZMmicfdCfSCtdfgo0Km40XeMx4nMyXANmfWdyUATQoVN91GzSwuj4um1wijrSGxdJjmny6jmIpQ5NrCibZjo/Hwt32+TrOS28WJQ2ZbJURR8N9xzCbJdULpy6M5TFhHxEMEK4SfKcY/tQhdrHHVom0SoY0sj3lS9i/Wq3uA50Uta8ImvtvS4aNFb5eLPwGv9UGaJQ/O6KgTB7SLwfvfsOButmoHw7Lyxg=;R5qOjY4sBAvzE6kxkcABWA=="
 ---
 

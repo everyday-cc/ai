@@ -9,8 +9,8 @@ ampWebUrl: "https://www.iol.co.za/amp/business-report/international/apple-accele
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/international/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle-b7007cbe-542e-4bb4-991e-26a8622c0fae"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: IOL News
@@ -27,66 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Accelerates Work on Car Project, Aiming for Fully Autonomous Vehicle"
-    excerpt: "Apple is internally targeting a launch of its self-driving car in four years, faster than the five- to seven-year timeline that some engineers had been planning for earlier this y"
-    publishedDateTime: 2021-11-19T11:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 135
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imunUg3M6pRI/v1/1200x793.jpg"
-        width: 1200
-        height: 793
-        isCached: true
-  - title: "Apple Car Is Aiming for Full Self-Driving by 2025"
-    excerpt: "Stay on top of the revolutions reshaping the auto world — from EVs to self-driving technology — by signing up for Hyperdrive’s newsletter here. Toyota's first U.S. battery plant is destined for North Carolina. Xpeng’s new SUV aims to go ..."
-    publishedDateTime: 2021-11-19T12:30:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-11-19/apple-car-is-aiming-for-full-self-driving-by-2025"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igsA_v1YxPYE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Apple reportedly accelerates plans for electric, self-driving car"
-    excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
-    publishedDateTime: 2021-11-21T13:00:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920"
-    ampWebUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 44
-    images:
-      - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
-    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
-    publishedDateTime: 2021-11-23T07:29:00Z
-    webUrl: "https://www.udayavani.com/english-news/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025"
-    ampWebUrl: "https://english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
-    cdnAmpWebUrl: "https://english-udayavani-com.cdn.ampproject.org/c/s/english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
-    type: article
-    provider:
-      name: Udayavani
-      domain: udayavani.com
-    quality: 43
-    images:
-      - url: "https://mcmscache.epapr.in/post_images/website_326/post_25578185/full.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Apple accelerates work on car as it aims for fully autonomous vehicle"
     excerpt: "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
     publishedDateTime: 2021-11-20T07:57:00Z
@@ -100,20 +40,6 @@ related:
       - url: "https://cdn-japantimes.com/wp-content/uploads/2021/11/np_file_124959-870x489.jpeg"
         width: 870
         height: 489
-        isCached: true
-  - title: "Apple is diving headfirst into full self-driving with the Apple Car"
-    excerpt: "Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
-    publishedDateTime: 2021-11-19T16:57:00Z
-    webUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 24
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Apple's fully self-driving electric car may be launched as early as 2025"
     excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
@@ -129,20 +55,15 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "The Apple Car is reportedly going all-in on self-driving and could release by 2025"
-    excerpt: "The Apple Car could be available by as early as 2025. Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
-    publishedDateTime: 2021-11-19T17:55:00Z
-    webUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
+  - title: "Apple chooses a path in its work to build a self-driving electric vehicle"
+    excerpt: "Apple is still in the race to build its own car — here's where its road seems to be leading. #SiliconValley #autotech #electriccar #selfdriving"
+    publishedDateTime: 2021-11-19T14:30:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/19/apple-chooses-route-self-driving-electric-vehicle.html"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 18
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "R6fvNOsxjeAjKK2Jp1vVje8lC1SLJ1tvmqTNOXqTY6htDRZ+Uf3UrNQyUQZDzM24rO0VQXgfflaDUrUJb4kXbI/sh41EC4Eo6nZq2JMZHonYXpU6Ey7QJjq6xzs6IOMZjtIgOJ0kJ0qQS6W/DH1P4tQ9Osgyi9d5to5GSEHMBJHa0RfSE8Vd3MDTQFcUrfCPbccvxUTU0bvmoczYXXqImmdEITC1j+Mjmph4XqP5rM5J4UFftATXPgQxlaO3NgpsMSa0n6glpJCMK90eWlfOHHBucraGnS/Pbf0M6MbRI/5lvIxsKHoywlwbzfkzC8mbTQHjPGTTWlIXrKTZjQva8s7LC8oJtgGK4X2b5EFuuUI=;9yvc5RgYqxopp60Q1ORmpA=="
 ---

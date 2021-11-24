@@ -38,20 +38,6 @@ related:
         width: 2560
         height: 1703
         isCached: true
-  - title: "Globally Awarded AI Startup Receives USD 1.4 Million In Seed Funding"
-    excerpt: "Globally awarded Croatian AI startup Mindsmiths received USD 1.4 million in seed funding from Feelsgood investment fund which"
-    publishedDateTime: 2021-11-23T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-301429571.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1693334/1103802_image.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "Qe36NG5XjoP+c6D6GLdnXGffn2htnGNhMaoiWKMeVdP9cnu5h/pMPOE8LUfElzCNvwMssn8bOMkdbCK4OwwWjMa0HD4CSduKtgDDHkmnsmMFBmnOzGErZbEP4MwCIkBHjJDundwrlhEY7+NZKjTpR7797a08mlwS4HyiCkKssCuMSN9hni5zDqLIyXXrIXlKh4b00bOvmOE02oAHGpIxPbhUxpQA8DwbaGJPr3tx5Yj3rRrIzpffGhZqgQedVYm6tL1RDYo7eGxtA84DmylTdRyakYLzA+yA2Ty4S0H/DVmcEMhEgMcP8faY0pzpkAENsrSZ/C/fjeQdHH8CV1d2F2JfSGrTyFBzOsctWOo3sAc=;Htn8csQejpW5Ocj4nWGAug=="
 ---
