@@ -2,27 +2,27 @@
 category: news
 title: "Globally Awarded AI Startup Receives USD 1.4 Million In Seed Funding"
 excerpt: "Globally awarded Croatian AI startup Mindsmiths received USD 1.4 million in seed funding from Feelsgood investment fund which supports companies with proven positive social impact. Mindsmiths will use this investment to further develop and expand its autonomous support system (ASS) platform with a proven social impact record."
-publishedDateTime: 2021-11-23T14:17:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-europe-education-croatia-c6ae8eb7a17b7e40e0938e3774d9cdc2"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-europe-education-croatia-c6ae8eb7a17b7e40e0938e3774d9cdc2"
+publishedDateTime: 2021-11-23T09:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-globally-awarded-ai-startup-receives-usd-14-million-/2021/11/23/9498296.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-globally-awarded-ai-startup-receives-usd-14-million-/2021/11/23/9498296.htm"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1693334/1103802_image.jpg"
+    width: 400
+    height: 266
     isCached: true
 
-secured: "gbL43cCYN0JmRHDgq/L5TcprBMyuF6/ZoFrHAr1QTJMQMOpVcPN2Q/9xjrIVIFnijrORT6Nl9qNyuBLsufe1xLBfA2NN1Kkbug2rUhjueLE/8I919B5AkgW6F2w2yzCHGlQBt5eFH6/hbrApa74e6PSM8xfMSj6MXh3grSLHvvNVDT0JA2QZ200pMfOFWDUSDEo/VlkqK0i2jd8EnAiJ4RJ34ax8ByHgPd4bQt7kLFzqccRyHaYKCPuQN3yfpvU5K2bGtcZZ0OFSEysI2enVRN/DHtEqu6IkWnbq2PYhp4C9TLYQaVlZuEDvaSmJz1OebyWgd+kX//tQImmAZyI9jisn+6ooPmW8S7eHRmvxa8k=;HbyNC5MzQ7AzZkSuXsPJOQ=="
+secured: "EhgN0mJv9mtg2ka41L19TuO4nJcm/PUhIVo6b7PF/gQssprqcglputFJTmZ89wEuixmVRv0dwTJxjaJ2O4zIcDP9EpO+rdea9NgiZ8d1PxnBA26hD+EOFmrGhSYugXpsPE0P4O30okWyBE3d6jVC8eWXcGFNn9qomekpZKeKPdAcTJj+6Ve1bHR/9g/9clb9nCNo/gk0Br7uVbsRAKvjbviGNueHNX76yJL+g+IiBlJM/VPrXxDzxEww821GZFOhW3G0UwnX2R8z0qZuB6cgqMS1vcI6m7506Tqmb738pdJrUuAz7S1Pbx2ejIe+csQjEXt+2CdoJ/cexuMgt7Mb2fuozidOITEK6dVtX+ycdtw=;PetFmkaOw8l6G0miE/5szA=="
 ---
 

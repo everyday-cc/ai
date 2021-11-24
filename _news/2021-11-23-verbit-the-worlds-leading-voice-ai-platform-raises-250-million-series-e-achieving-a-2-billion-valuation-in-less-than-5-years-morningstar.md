@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Transcription firm Verbit raises $250m, doubling valuation to $2b"
+    excerpt: "Israeli firm Verbit, a hybrid AI-based and human transcription and captioning software company, said on Tuesday that it secured $250 million in Series E funding, just some six months after raising $150 million at a valuation of $1 billion and marking its entry into the “unicorn” club."
+    publishedDateTime: 2021-11-23T15:30:00Z
+    webUrl: "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/"
+    ampWebUrl: "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 157
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2021/06/Verbit-Compnay-Photo-by-Eric-Sultan-3-e1623147226939-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "AI-powered voice transcription startup Verbit secures $250M"
     excerpt: "Verbit, a startup developing an AI-powered transcription platform, has raised $250 million in venture capital."
     publishedDateTime: 2021-11-23T15:00:00Z
@@ -81,15 +97,20 @@ related:
         width: 861
         height: 483
         isCached: true
-  - title: "Verbit, the World's Leading Voice AI Platform, Raises $250 Million Series E, Achieving a $2 Billion Valuation in Less Than 5 Years"
-    excerpt: "Verbit, the world's leading voice AI transcription and captioning company, announced today that it has closed its Series E funding round at $250 million, after securing a $150 million primary investment and $100 million in secondary transactions."
-    publishedDateTime: 2021-11-23T15:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/verbit-the-world-s-leading-voice-ai-platform-raises-250-million-series-e-achieving-a-2-billion-valuation-in-less-than-5-years-1030998352"
+  - title: "Verbit, the World’s Leading Voice AI Platform, Raises $250 Million Series E, Achieving a $2 Billion Valuation in Less Than 5 Years"
+    excerpt: "Verbit, the world’s leading voice AI transcription and captioning company, announced today that it has closed its Series E funding round at $250 million, after securing a $150 million primary investment and $100 million in secondary transactions."
+    publishedDateTime: 2021-11-23T15:02:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-sapphire-119580c9dddcf0b1731386cd0aad3084"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "7JoGGl6mqNTrjPsPJ1jeObAXDxBgSJBHPR8FYhEXKUpmuzIWj4j7vnmibBJ8fSNB1a5O/VxPBL9PPKiG3mieYWobGlWedc7shQFAIDLvmUZ4opL+uRa5r/QyB7sBDnrGn+sUxaDOEGHkOpGEk6ubAuk0aMzMDf1HNaEvZb5subguSg3RUHIwQgXWv0HIuLBdWj54f6oALPAkUWP0LPZv/SBk0FuCLfXXF80/lRUv3OqyQd/zhf6eDbDfVwqqTVOtG4O8v/KLDdZOS8jtM1At+vqc8iWaKeuurVeRpH7RhcmkgIqfSTRn+EQiuahrR+/QpGlcjvL1o1fLOuOiiHKYFI+vMVrIESG5nEqTeYX0lqw=;YggPcwDxnp5SbAtmwREH9Q=="
 ---

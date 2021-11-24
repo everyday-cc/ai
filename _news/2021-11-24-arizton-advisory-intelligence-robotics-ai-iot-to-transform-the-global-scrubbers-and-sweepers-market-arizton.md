@@ -22,18 +22,13 @@ topics:
 related:
   - title: "Robotics, AI, IoT to Transform the Global Scrubbers and Sweepers Market - Arizton"
     excerpt: "Commercial Scrubbers and Sweepers Market - Global Outlook and Forecast 2021-2026 The global commercial scrubbers and sweepers market is expected to reach USD 6.81 billion and will grow at a CAGR of 8."
-    publishedDateTime: 2021-11-24T09:08:00Z
-    webUrl: "https://menafn.com/1103237420/Robotics-AI-IoT-to-Transform-the-Global-Scrubbers-and-Sweepers-Market-Arizton"
+    publishedDateTime: 2021-11-23T18:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-robotics-ai-iot-transform-global-scrubbers-sweepers-market-/2021/11/23/9498896.htm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 66
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?665822"
-        width: 375
-        height: 250
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 46
 
 secured: "smGqVMQuOJPQXDYrLedcgSjeF18YP/n2HNstWW2iVUfPZl7CEf70qnzuqRBp0DF5RC+H1QWDUlaPbFVp8RyptO3/cSGBWyDDXjlluMFAGfFnG3rIc/q8V89vgMSTMA8VxqQakL//eRpcRaly178Lj+DX2s7w27gM6bBXYDom0FFosFcWWTCacThziZ2+v4tBL9X5mnLnVP/DJQ4zDgTeuYm5MYpl+f0gTejUQokywaRH45Z4N1ahh3gmu6Azli3+6r2R1VuLsNzi42zrl4zL1FnFsKksHYqIAaghW96evZBbjy97rnMJl84P7MZxkJYW1zM780dUtmCB5+0SkwQS/jqEhg/Ns58RimlDNb+o+Z0=;G/F5RP3Gq1OLTa8RG3SnmA=="
 ---

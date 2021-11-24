@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/defining-whats-ethical-in-artificial
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans-171837"
 type: article
 quality: 71
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Conversation
@@ -37,7 +37,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/44-artificialin.jpg"
         width: 1920

@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Kore.ai Extends Its Financing to $73.5 Million"
+    excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation"
+    publishedDateTime: 2021-11-23T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/koreai-extends-its-financing-to-73-5-million-301430428.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 117
   - title: "Jina.ai raises $30M for its for its neural search platform"
     excerpt: "Berlin-based Jina.ai, an open-source startup that uses neural search to help its users find information in their unstructured data (including videos and images), today announced that it has raised a $30 million Series A funding round led by Canaan Partners."
     publishedDateTime: 2021-11-22T11:00:00Z
@@ -58,15 +67,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Kore.ai Extends Its Financing to $73.5 Million"
-    excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In"
-    publishedDateTime: 2021-11-23T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
 
 secured: "dwr4NeS3DdxyfsYHUcBzyX6y4f8Ug0w1WTI43ZRzxPLdEgDAfNwXzOfXMQSgDDaokbnt7sJ0DI8KFpGKop0GJiS8/wU4Uqbl6Y6GY0KkrpICsk0BFCMQeOQ9MMthWH7XqrOEAk54IFIAnBnQ4hw7aRWu75PPeAXis14HR3hNSf/4DZEUmVjh6snP/jCmGgWJ1Fm1g9w35wN+gwujqOcWsu88avgcw5IzQb+M+RgWPFLyPbZi6Fqjf+eL9k+xe9zwkFeeLnF4gdz7VDUx1B3wA5F8GvA7Wji9obYrvttRg2jEApUByiChKTmRe9cJETumMAgjpF/PHQFB4p/TGd+/oQrNAUbIOLkonxYIQfXPQGg=;x989DOofHzqgE1K4Qq8T8Q=="
 ---

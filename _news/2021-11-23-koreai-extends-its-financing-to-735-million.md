@@ -1,21 +1,20 @@
 ---
 category: news
 title: "Kore.ai Extends Its Financing to $73.5 Million"
-excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In"
+excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation"
 publishedDateTime: 2021-11-23T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
+originalUrl: "https://www.prnewswire.com/news-releases/koreai-extends-its-financing-to-73-5-million-301430428.html"
+webUrl: "https://www.prnewswire.com/news-releases/koreai-extends-its-financing-to-73-5-million-301430428.html"
 type: article
-quality: 19
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI Hardware
   - AI
 
 related:
@@ -64,6 +63,6 @@ related:
         height: 506
         isCached: true
 
-secured: "R0w0tn5IJijAMIbneBbyJpd36nIiY30hqq3/NbYxvuYfq8f9MTZd+cZW3IV2SwS196eWADAEUGsM5Rojo8Dq3VC2CyOLOci4252hq4pTFhDK9xsiBtRd49sjQyR7YS6okHyLlkyizqvn6Fqcy//OMenq6A9gcFcARP4PcqpycoUPWlUgcV6bl2feQ5sK2Np290JRja9MOufgU2u9gBcU5l5WQc/w5U/nOlktLvf0OhjqSW+IGz/4zZ3ma2qLAZCWUn+0g3MtZiU2XTI2PKkLlXjHdk3oVj7T0VxMK8iDMla/EeezolcO1fj9d0omh6IkkC3l5GF8ZlIHA4ptkmcfMifXhaTP3OYN3HqmsXmD7FhKWkqQnlKFLysteJCkE6DoL+jwP5kIdJ2c4iujYZrKgPEBXY/SEgRhQi/1EgfMc9mMGIAxk/1s0KKZig4secAlRBnIU0XRvsl9Ph3UAQgG9dPvbwRqRbSKatLoLn1nz8BwqeNiR/rsIOcKO98ebkwHQAz+dASXHl5x70uNOQzUWQ==;IkGW9WiJqK47xi3RPT+NVQ=="
+secured: "X2JEoHjR81mq0bMNpFyk7BZI6QrZAU/w5bWLIQMnWc63qZAgrQApctoOoAEqaXcYuTyRr/T0eVYIU1vBRkV97AyyNfHq50La4PpybjZr1As83KeFkctYsDoSe17CQoIfRs+CiOvxRb7U8f0kdgNKujwcoAXCKiG/gNvABja4GuagSUsdIPhEjwrOZBuqYwKeiEFYSJM+sNTBq/YRi/Z3Ag6xLQaEAbDl/nMaOMb3rZFW/JYt074Z7MWMkgV9WR1Th5LV+yISISb41hN0UBe56tyV5Ugc+pKRaBcw9PPcmNyv+UOCdwQgnQjki4YTfgBwtAc9cx5sAQuYum7J/30w18T6QfetneApRtSspeYX9AU=;GNGMexCroOEJnLq0uirdxA=="
 ---
 

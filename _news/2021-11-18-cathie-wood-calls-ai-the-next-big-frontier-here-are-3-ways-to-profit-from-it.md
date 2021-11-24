@@ -2,14 +2,14 @@
 category: news
 title: "Cathie Wood calls AI the 'next big frontier' -- here are 3 ways to profit from it"
 excerpt: "“We were assuming that in the next 10 years, artificial intelligence would deliver ... also owns autonomous driving technology company Waymo. Last year, Waymo launched its fully automated ..."
-publishedDateTime: 2021-11-17T17:59:00Z
-originalUrl: "https://edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it"
-webUrl: "https://edmontonsun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it"
+publishedDateTime: 2021-11-17T18:02:00Z
+originalUrl: "https://nationalpost.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it"
+webUrl: "https://nationalpost.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it"
 type: article
 
 provider:
-  name: Edmonton Sun
-  domain: edmontonsun.com
+  name: National Post
+  domain: nationalpost.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 423
     isCached: true
 
-secured: "ZHDtoh9Q1V8cLxJEacAJ3aYbgZHrHzMnPHUIu61tzrcFnKBeo8Gftx2gHLGlTSnQnEeY/xIJE3bVcYa0l8l/8obp1ux96y6oCK6dBaLeShBl8xdsUN/rDp9A6EQRTCmzzYIoR11dqeqMS8MLkh0KsuymHS4e2EpJOE7aZOprXnHbM3UA86DYhmyTc9ayuH6Ztta9yqHpR9t6/7Fh/+G7ySslpN1PT3YgZTJ1nVqDdApHHbGrQUhFPEB7UUZJx0VjCceXlu509BKNcw0w6BsOwxQeY1EQ+dHtnoGJFoaB+1wAj0HczLftkMaPu6vgOPQgaruuFPNYMBWpGU93oRA6ahO0COrC4Sj/9uzSKuS3CKg=;wEq/66ph55E2vVRMS8Vi5Q=="
+secured: "0sj/9ZL02gnM3lkdj8nbPKru/EakDOnJolbtdWDv9QCaFOuarbWcg8JQh+ulq1rapkbbGu+W+ZyzeW+tojEvGggIL1PdARuEZl87tYFS1xX/qALfySx+MH83/E9vZXXAtpeS9z7esIFLwiwV35VqmTxK1UcTYRwgjUnGS3PaAyc/vd4AEznboDJ+21uX/V7S34mMbKb5zmHvbGebN/KNP/U5G02Mo3w4de4Mt9scfeLCKudhZ2lvU98nXI11HAzaw4aGZBQQXy4sWQrhOb65huLR/Xxb/yU+G9klJr6f5cMqOggH65XKVVIVoLaOm8f+0J1pN1j0p8z+7IHTNzg3WodWjKeOOzeCcGPatm1bYHI=;RWoLPFRsU0Y1gTyoeRfokA=="
 ---
 

@@ -46,58 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-23-ai-powered-voice-transcription-startup-verbit-secures-250m.md",
-      "title": "AI-powered voice transcription startup Verbit secures $250M",
-      "excerpt": "Verbit, a startup developing an AI-powered transcription platform, has raised $250 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/23/ai-powered-voice-transcription-startup-verbit-secures-250m/",
-      "originalUrl": "https://venturebeat.com/2021/11/23/ai-powered-voice-transcription-startup-verbit-secures-250m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/speaker.intelligent-assitant.GettyImages-1251676603-e1625601995343.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/23/ai-powered-voice-transcription-startup-verbit-secures-250m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/ai-powered-voice-transcription-startup-verbit-secures-250m/amp/",
-      "publishedDateTime": "2021-11-23T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-11-22-nvidias-latest-ai-tech-translates-text-into-landscape-images.md",
       "title": "Nvidia’s latest AI tech translates text into landscape images",
       "excerpt": "Nvidia today detailed an AI system called GauGAN2, the successor to its GauGAN model, that lets users create lifelike landscape images that don’t exist. Combining techniques like segmentation mapping,",
@@ -106,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1455,6 +1403,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-creating-a-gpt-style-language-model-for-a-single-question.md",
+      "title": "Creating a GPT-Style Language Model for a Single Question",
+      "excerpt": "Researchers from China have developed an economical method for creating GPT-3-style Natural Language Processing systems while avoiding the increasingly prohibitive expense of time and money involved in training up high volume datasets – a growing trend which otherwise threatens to eventually relegate this sector of AI to FAANG players and high-level investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/creating-a-gpt-style-language-model-for-a-single-question/",
+      "originalUrl": "https://www.unite.ai/creating-a-gpt-style-language-model-for-a-single-question/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-xWccs0dj/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/moby-dick.jpg",
+          "width": 818,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
         "publishers": null,
         "authors": null
       },

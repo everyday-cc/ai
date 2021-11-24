@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/worldwide-artificial-intelligence-c
 webUrl: "https://www.linkedin.com/pulse/worldwide-artificial-intelligence-chip-market-size-reach-nil-behor/?published=t"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,31 @@ images:
     isCached: true
 
 related:
+  - title: "Worldwide AI software market to reach $62 billion in 2022 — Gartner"
+    excerpt: "Worldwide artificial intelligence (AI) software revenue will total $62.5 billion in 2022, according to a new forecast from Gartner"
+    publishedDateTime: 2021-11-22T11:38:00Z
+    webUrl: "https://www.gartner.com/en/newsroom/press-releases/2021-11-22-gartner-forecasts-worldwide-artificial-intelligence-software-market-to-reach-62-billion-in-2022"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 117
+  - title: "AI Medicine Software Market to rise as a Worldwide Trendsetter in Technology and Development"
+    excerpt: "The latest research on Global AI Medicine Software Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges impeding"
+    publishedDateTime: 2021-11-22T14:10:00Z
+    webUrl: "https://www.openpr.com/news/2470260/ai-medicine-software-market-to-rise-as-a-worldwide-trendsetter"
+    ampWebUrl: "https://www.openpr.com/amp/2470260/ai-medicine-software-market-to-rise-as-a-worldwide-trendsetter"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470260/ai-medicine-software-market-to-rise-as-a-worldwide-trendsetter"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub22348672_g.jpg"
+        width: 800
+        height: 378
+        isCached: true
   - title: "Gartner Forecasts Worldwide Artificial Intelligence Software Market to Reach $62 Billion in 2022"
     excerpt: "Market Growth Will Accelerate as Organisations Progress Their AI Maturity Worldwide artificial intelligence (AI) software revenue is forecast to total $62.5 billion in 2022, an increase of 21.3% from 2021,"
     publishedDateTime: 2021-11-22T10:43:00Z

@@ -44,6 +44,15 @@ related:
         width: 599
         height: 315
         isCached: true
+  - title: "Kore.ai Extends Its Financing to $73.5 Million"
+    excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation"
+    publishedDateTime: 2021-11-23T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/koreai-extends-its-financing-to-73-5-million-301430428.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 117
   - title: "The Briefing: Deliverr Bags $250M, Jina AI Lands $30M, And More"
     excerpt: "Berlin-based Jina AI, a startup focused on open-source neural search, announced that it raised $30 million in a Series A funding round led by Canaan Partners . Founded in 2020, the company has raised a total of $39 million to date."
     publishedDateTime: 2021-11-22T13:48:00Z
@@ -58,15 +67,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Kore.ai Extends Its Financing to $73.5 Million"
-    excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In"
-    publishedDateTime: 2021-11-23T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
 
 secured: "BAM6CmNe77fkLW8WfgX16dvn7/aH8vSRULlSnTHK+txiN7SG8Oz05nJ1dG4C6aEWZZT8DdMQsEQCAguWXlA0TYyRAFcW8WTXEWAHe5Kahn8kCdHZbBM5076pFmEcQBbzKeMiVicl/yv+uNEFElptDyA2mwgUkXfWgpSs+vUN47K3Ow/dzH2emJuUHvIGSW7X8QFmyrvskXTM6egGpOzPphMurBjwR9UANWzGqAGneh0enI7reC9Zn2PGxHkdmdbxL+K75wCs1Fc2qkldWNvPY+0DMy40hiW/4qDpAoxmL0+PUIK2gRlg6YkNm/zyyATpWrpGzbFJJL+hBiMOWW9oVcb/VpLG5hWOcr/VqyX6dmfme9fqsNFvotCR4qd2ugHG/6APBWKjzSmra8br6iA9oyMfhFg3vi1IzFV2RDMPqWNjor5ZIrqpARTkq9/5kambCLX64RNpBX1mZRn2pMrUjl8hzTG91mdguexx6mgM3RiNqSgcumEJyW2DSvjFksEZLvgM2zb9gu+dA6ItPY6lMg==;b105pUS38H08C66WK19rSQ=="
 ---

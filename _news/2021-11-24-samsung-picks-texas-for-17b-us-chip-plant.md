@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Samsung Announces $17 Billion Chip Plant In Taylor, Texas"
+    excerpt: "Samsung has announced that it will construct its new $17 billion semiconductor chip manufacturing plant in Taylor, Texas."
+    publishedDateTime: 2021-11-24T13:30:00Z
+    webUrl: "https://www.androidheadlines.com/2021/11/samsung-announces-17-billion-dollar-chip-plant-texas.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/11/samsung-announces-17-billion-dollar-chip-plant-texas.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/11/samsung-announces-17-billion-dollar-chip-plant-texas.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/11/Samsung-chip-plant-taylor-texas-governor-greg-abbott.jpg"
+        width: 2375
+        height: 1581
+        isCached: true
   - title: "Samsung to build new $17 billion chip plant in Texas"
     excerpt: "Samsung has announced that it will be building a new $17 billion semiconductor factory in Texas, the company will build the plant in Taylor, Texas. The"
     publishedDateTime: 2021-11-24T07:00:00Z

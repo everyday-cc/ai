@@ -47,6 +47,22 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "adidas Migrates SAP Environments to AWS"
+    excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
+    publishedDateTime: 2021-11-22T04:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
     excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
     publishedDateTime: 2021-11-23T23:52:00Z
@@ -75,15 +91,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "adidas Migrates SAP Environments to AWS"
-    excerpt: "By applying machine learning capabilities, such as Amazon SageMaker, AWS&CloseCurlyQuote;s service that helps developers and data scientists build, train, and deploy machine learning models quickly in the cloud and at the edge, adidas data scientists can ..."
-    publishedDateTime: 2021-11-22T05:05:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 19
 
 secured: "NrO6BFzqGi2+RNSk3Vf0SVoZQDVxtHfkhMm4M0mIywn6Nxp9fw5Zhy7APq7GyS+LyRhMbBUczfFNZkE7u+wXPjkxmHX06JWRYBPU/FfZvdG485Ymy+V4zAGDq80sA2rgUdbmTgvbTSimnTWucsD38J7DmHTccRsAPmsaZUI3spQjUknlXfD37cIw/Ixqv036QJHfZmfEOj0nKzbaEv4t1G4wOQhklBmMXVeaVzBr/OX4BDl4JEt0wAzHL+mob0qB34EYo79AChHuQ0tQP+n3B0KC/aHnOLvcq0YpCIn+UQ31GatlZ/ntIE5ULs/Uz0xz1ioPn9WPddmTlQcPxIGX5YhWVa6nEHaiunTLYispScs=;0dNFCftMO61qOqML5kf3fg=="
 ---

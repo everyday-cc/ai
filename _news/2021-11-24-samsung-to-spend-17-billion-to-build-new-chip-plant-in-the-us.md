@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-to-spend-17-billion
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/"
 type: article
 quality: 89
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung Announces $17 Billion Chip Plant In Taylor, Texas"
+    excerpt: "Samsung has announced that it will construct its new $17 billion semiconductor chip manufacturing plant in Taylor, Texas."
+    publishedDateTime: 2021-11-24T13:30:00Z
+    webUrl: "https://www.androidheadlines.com/2021/11/samsung-announces-17-billion-dollar-chip-plant-texas.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/11/samsung-announces-17-billion-dollar-chip-plant-texas.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/11/samsung-announces-17-billion-dollar-chip-plant-texas.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/11/Samsung-chip-plant-taylor-texas-governor-greg-abbott.jpg"
+        width: 2375
+        height: 1581
+        isCached: true
   - title: "Samsung picks Texas for $17B US chip plant"
     excerpt: "Samsung detailed plans for its largest investment in the US, confirming a site in Texas for a new $17 billion manufacturing facility."
     publishedDateTime: 2021-11-24T08:28:00Z

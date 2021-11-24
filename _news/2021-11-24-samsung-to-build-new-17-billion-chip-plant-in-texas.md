@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Samsung Announces $17 Billion Chip Plant In Taylor, Texas"
+    excerpt: "Samsung has announced that it will construct its new $17 billion semiconductor chip manufacturing plant in Taylor, Texas."
+    publishedDateTime: 2021-11-24T13:30:00Z
+    webUrl: "https://www.androidheadlines.com/2021/11/samsung-announces-17-billion-dollar-chip-plant-texas.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/11/samsung-announces-17-billion-dollar-chip-plant-texas.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/11/samsung-announces-17-billion-dollar-chip-plant-texas.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/11/Samsung-chip-plant-taylor-texas-governor-greg-abbott.jpg"
+        width: 2375
+        height: 1581
+        isCached: true
   - title: "Samsung picks Texas for $17B US chip plant"
     excerpt: "Samsung detailed plans for its largest investment in the US, confirming a site in Texas for a new $17 billion manufacturing facility."
     publishedDateTime: 2021-11-24T08:28:00Z
@@ -58,6 +74,6 @@ related:
         height: 399
         isCached: true
 
-secured: "QP2sY+Ymr0dYwK34J2p9bSUUWTv4CYT7+7Nw1WAyRShkCDP3fq6faI3Hu4k/+coVtxr0PW8iK8K1cGvu4JgIAfrjRPTtB8jOFveK6D8eUsP4s4t8zcnmjsbOQ2s8VodihfBQS8FMpc/JO0jbxlyOoQzvG1yieLiJMcjeDYW/RHNCgge8T4VyildwEi3vS7iO6eC4a//eTGGSJTdqc8gCfP5odAO4Cudt1L3Hx5aEEfAy2tkFVlfMfYGv6bguVwIxHTF0oXFcGzGsztoIUWvOPlAN8B3plSvHyKgLaTUtMFxbaihH813usoSmA5btvYarB602W6q+NqkGwPzyUrk/svn6QzleL1CD9otxnyG8woo=;pYxRm//vIKeyZB/GYSiqvA=="
+secured: "87s3lW0kJvO9rWAWneeJv8KAQ+YpYI+ltHenXh5tXzwot9de7qbs/AkXdl7FFyuujXstlltbUOfsUK2HbTy2hScK6OEoMZzOuyox23JbzN7dvoT5TRHKpppX8Z819lh/maS/JHWE8XqA10yPiA6on82Jmqsq1rX6c+1q9CBK+CPLx1DKa8lLDz0fxQsAY8w1u+IDWV4RyIs0Su4R+ZGo5j6ouINYqZnEWPtFgxvKpxz/mER1MgH36pEe7dKF5yV9cKvhugl+gR/rj1kEUzqZedP6qiHktS6MabeQA2ADhTmeg8VO90uc71WVXuNI7BeDraGl9DKGL1pzuvCCXUHkpcYtMvUM/hc/5DonI1VNPaYz7Ao8tXByRJ+zO0fCyhKbkorTu1Km0SS+zS4mWmrsnCn+2M7hKFRWYpLGuK+3z61g9xzPiPI8WLJe+nm0yetAOzVK9U62elpTrlZnsQhNCc60lWGb3gsX1HrAt7f7IMFV192N/G1VW3bYUi6WlYbA9VK7IBscwL69pF6Vic0Vmg==;tD/EwhfxApATx4rlCk2+lw=="
 ---
 

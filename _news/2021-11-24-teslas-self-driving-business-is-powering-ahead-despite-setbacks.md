@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-sel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
-    excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
-    publishedDateTime: 2021-11-19T21:20:00Z
-    webUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
-    ampWebUrl: "https://www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "CNN Tried Tesla’s Full Self Driving Beta In New York City And It Didn’t Go Well"
     excerpt: "CNN Business published a video of its transportation editor, Michael Ballaban, attempting to use Tesla’s FSD advanced driver assistance system through the streets of New York City. On a number of occasions,"
     publishedDateTime: 2021-11-20T20:48:00Z
@@ -119,6 +103,6 @@ related:
         height: 225
         isCached: true
 
-secured: "6Fn4Yu4l5uqQyg4jnGUlJVmriF4+zBGsMyrPEeXRjfo5H3VBWvM/aiMi15P10CCXxN1ET6romUVlmmAM0OtTbjaFgYBebwvDp/pcLgKedoU3yCZ32x0GOxNAep0PiuYtVhS9LuuWdzpjUdEthKt/N1afpX0ZmQkelUStmDiFt6Pn20Vk1OpViWlvwFssbKiC3LI17vlF/PgPzPNBg6mUCzI+X0iyHI90mX2PEvpv8Ma/oojwrZe5VZLQC4rP/qTXKdX1fKjREbJuMwR2t8AMVRhahKa5j+0R2X4cXhtRnHnsuxPiTWfu8FggH4uh/B1wuHib1Az2UkHuMVjCApqrk1fMJl8jeqBVdT72wKWxPVw=;RGIPYRuT84KpUYyImM7o+A=="
+secured: "J952AwyIZYGHYyEQVeaGAniRQfruB42Q5rG0uaGZ0CBcXkSkI6gcjbmityB+xijMbKtS4eWDmCrIDuhzrYnNbbOqRSqaLZSNXpZFFPzjKmAf42advO3/yPEawKH0mj9yMFb1u6QYQ10GVmJwE0JYLKzy9/Wwbf8MeTzFzc2D2Us4wCCTQHKEJk+9O7SA/C9hGq/8OGbJ1rWVQxeQJX+taLfCwbUnequA3GozNebb2Ns+1IuPKhlnCfPfdrTmaua9ecWVg03H3vKm1iLLsVHr4MJgvzjQ62Ed/tGtxH6TAN7aUXMSiV/S1ShMf2d3ztyUv+VprttPV9i1S+8ZBYGpnUmepwuH8gut8EzYNSpyjabc/e6XC9aNVkkRlaufDzz1Od+FsWV+fWbWvmWWM9GNlXncnztpZJITmjgpXSdYi3efNf+PYh0E2SwaCxHD9cvQrNFTQUD6k5XQ0XtJe03cy5JWVBgTWk0D48R5QE7zIZob+jttNIp0MMffx3zwTn9PHQk70MHnJAm0XtNJydXUzg==;ST6W8PY8y20bd5GlOvoBOw=="
 ---
 

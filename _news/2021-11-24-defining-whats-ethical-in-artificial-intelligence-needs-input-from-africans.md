@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-afr
 ampWebUrl: "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.amp"
 type: article
-quality: 71
-heat: -1
-published: false
+quality: 73
+heat: 83
+published: true
 
 provider:
   name: techxplore.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/44-artificialin.jpg"
@@ -44,6 +45,6 @@ related:
         height: 209
         isCached: true
 
-secured: "LGRIU+6tUQ3j6+waAaaiDz37qgxr23wcsHvrXucXnSIQaZGygvgPQE8WdHq7z4BvTbSSDB2jC3us15g1cUW/Fy7YvtrgVmyWAZ78kQUzot4hZT195+0utm2QWyY2Y+yr/ua2Jazu0X7rS0+lhu7o3jS+nZJeMmtz2kzHaSKrk5yv4SWNkp8vuTdi5dwxw7TlfZR90JUh4+It8zIXpa1/r8hzp/7f362TmAOPfxgjkvkhyH6ME6+1vCuv2wXGtcPR831+94BqEkGJyNbuUBB7kpwnFpN/Kxc2Iwo/hvk8ykSf4FikiA0WWoEdV3s2hyKZ/eRLmnmMjvUtz0XVp/CDL99r5xobUG4t6d5apNNXH0g=;QerSpZSQ7uA3o9LMAXMbwA=="
+secured: "tSKb9Oi95RtHborlT6coiQ/I1OHjwgm6Sl4dwhP06h6n0rrt7XPRGsQXn5VlolYpf7jmlXEYfbcJOx07aMrX0Pf8Ec0SDDQxHPPtjXw0143njHIjLQsXCcbVsrdoaEYymmlD0Yq7MZTcW33BNEOM/awOxE2YZ0iyk6RIgpdCxPj053dDJZ5Wi1qs4f3ZCqq0zsYsMeNWlNapmpNQyZENj1/Qgisvo2KU+QZwLaX9FpmWPjv0JG3vksH1g7WMATZ1iLrw/oiTcuzE3i7yFiLYXByXO1ir1fqTu95DMv/pAv5KNR+LefPD7sgXpNJ12g+iQ3XFWfDvhfSY5/bUIwHOg6v3jtKVleIC4nXd+Xm/onD0gPDZMsjnaC/DKMwYF4DvjBZc5Nep5M14xZJewrkAT25KlWqv7/WuK2siehP9/AYNpx98eH+d8k+R/b064Op8ZEgEGh+vBWfycOdJ1bF1giOlWndS84l+01mI/WlYLNG4X2dxeIUTV45Ncvh6rxDWKPAdGPBpMr1SsAiv7Eh5uA==;0Zfkb3jhuCVZxkztF1JZqg=="
 ---
 

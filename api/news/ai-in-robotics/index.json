@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-24-robotics-ai-iot-to-transform-the-global-scrubbers-and-sweepers-market-arizton.md",
-      "title": "Robotics, AI, IoT to Transform the Global Scrubbers and Sweepers Market - Arizton",
-      "excerpt": "Commercial Scrubbers and Sweepers Market - Global Outlook and Forecast 2021-2026 The global commercial scrubbers and sweepers market is expected to reach USD 6.81 billion and will grow at a CAGR of 8.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103237420/Robotics-AI-IoT-to-Transform-the-Global-Scrubbers-and-Sweepers-Market-Arizton",
-      "originalUrl": "https://menafn.com/1103237420/Robotics-AI-IoT-to-Transform-the-Global-Scrubbers-and-Sweepers-Market-Arizton",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?665822",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-11-24-robot-company-will-pay-200k-for-your-faceif-its-friendly-enough.md",
       "title": "Robot Company Will Pay $200k for Your Face—If It’s Friendly Enough",
       "excerpt": "The company is ready to pay out $200,000 to somebody willing to transfer the rights to use one’s face forever.” You could live forever. Promobot is considering people of all genders and races over 25,",
@@ -140,49 +96,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-nimble-robotics-details-uptake-for-its-ai-enabled-picking-robots.md",
-      "title": "Nimble Robotics details uptake for its AI-enabled picking robots",
-      "excerpt": "Nimble robots have picked more than 15 million objects, across 500,000 unique products, in production for several well-known brands.{/exp:eehive_hacksaw",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmr.com/article/nimble_robotics_details_uptake_for_its_ai_enabled_picking_robots",
-      "originalUrl": "https://www.scmr.com/article/nimble_robotics_details_uptake_for_its_ai_enabled_picking_robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mmh.com/images/2021_article/Nimble_Thumb2.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Management Review",
-        "domain": "scmr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1445,6 +1358,110 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem.md",
+      "title": "Robots vs. Fatbergs: High-Tech Approaches to America’s Sewer Problem",
+      "excerpt": "Cash-strapped U.S. cities are turning to drones, artificial intelligence and other innovations to help inspect and fix the country’s aging, underground arteries of waste",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "originalUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-434095/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "publishedDateTime": "2021-11-12T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022.md",
+      "title": "ITRI to Exhibit Innovations in AI, Robotics, ICT, and Health Tech at CES 2022",
+      "excerpt": "ITRI's CES 2022 highlight technologies include the RGB-D AI Robot, a CES 2022 Innovation Awards honoree, the first collaborative robot that integrates smart 3D vision as a built-in standard for high-precision object recognition and pick-and-place operation;",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022-1030969979",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-to-exhibit-innovations-in-ai-robotics-ict-and-health-tech-at-ces-2022-1030969979",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1686583/ITRI_CES_EDM.jpg",
+          "width": 400,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

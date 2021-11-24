@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-07-deep-learning-method-detects-disease-biomarkers.md",
+      "title": "Deep Learning Method Detects Disease Biomarkers",
+      "excerpt": "Researchers at the University of Waterloo have developed a deep learning network that can detect disease biomarkers with a high degree of accuracy. It achieves 98 percent detection of peptide features in a dataset,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/deep-learning-method-detects-disease-biomarkers/",
+      "originalUrl": "https://www.unite.ai/deep-learning-method-detects-disease-biomarkers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-SQf3vJas/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/analysis-2030261_1280.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
       "title": "AI & ML latest: Google disbands another AI ethics committee",
       "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
@@ -1324,58 +1367,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-ai-startup-abacusai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models.md",
-      "title": "AI startup Abacus.ai snags $50 million Series C to advance hybrid deep learning models",
-      "excerpt": "Read More Abacus.AI, the two-year-old startup that is developing \"hybrid\" neural network forms of deep learning, on Wednesday announced the company has obtained $50 million in venture capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/359f488c1d4da85361cfa341b0979ad30669fffc/2021/10/27/c21380a5-f9f3-4b99-b069-753e102e4472/abacus-team-photo-2021.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "publishedDateTime": "2021-10-28T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

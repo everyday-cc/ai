@@ -7,7 +7,7 @@ originalUrl: "https://www.emarketer.com/content/apple-must-wade-through-obstacle
 webUrl: "https://www.emarketer.com/content/apple-must-wade-through-obstacles-catch-up-with-next-wave-of-self-driving-evs"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Self-Driving Stocks Join EVs as Next Trader Obsession"
-    excerpt: "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Nov. 19 on high volume."
-    publishedDateTime: 2021-11-19T22:15:00Z
-    webUrl: "https://www.ttnews.com/articles/self-driving-stocks-join-evs-next-trader-obsession"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aurora-peterbilt-1200.jpg?itok=W-IJcayB"
-        width: 470
-        height: 246
-        isCached: true
 
 secured: "LExY/oH/nPFEe9ouTD6aiRyvPKg5d286gaaV4uIq0zkSUMGzsOpYxZfu5hQKP1fX7xHOtZU0r7fEwVMZQwUFE2clZSpR1BoFptO+Z2Z82YNzLFelchEPXd39+0QDxmzFSDJl0kqmimmAOYcezwbqxBXytJqfE7X3ZRJRnAFec416aOv0JvnVe4fNxR1325BDxub9wFROQ9SBAUa3wxv5vAh3IYAAEOBDgY+qEFs8L/9BljSHomsgbZh+vNgj29DlE6hvlnFNa5Mf4P3mBE2TISu0kk607RZLNNYRpB3z85Vgbv6E/ZYir4AdCGB0fvyiI3iiYeposMKtSzW8MT7fD6Rp4k3KOTOxhhl5/xOyF7Yhto6g1NoBzXDiqVcojrrrXWHLGcEuGDAxGHZtl15WJESgpXR172ZFOWKqbb+AL4Qp6I8zX0OmUdLRF0Pcnn78FDXP6yUJlvELoumhjencwrZmZlaPf+Abc/NpJJ8ITEqP6luXm+kCZqZCHmVcFkOaa1oUUcKAo07m4olVwWMcqQ==;BcIxIds1DRw4fDcCVNiEQw=="
 ---

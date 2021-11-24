@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://menafn.com/updates/pr/2021-11/22/EP_e87f9image_story.jpeg"
         width: 960
         height: 539
+        isCached: true
+  - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
+    excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"
+    publishedDateTime: 2021-11-24T13:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-8b73b6f9e2d1423db2f17585122669b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "cXhnonwtMwrONz5CckVrGYsaPWpuEyafGjBivvtmsaLpFx7TaC3t0rSTVU2a2chkKHMWeMUQjkJ88o7gqKEDtxNEXp4ipF0EHQeZpqTZGMncnLT7R8W9WOY/QDLWL8p7YKK6dX9xMDda6GD/u10e9+foV6IagMkYh3HCQ9U8WYLgMT/ivz6XnNgKHBrhP1TwKzxYOAWa/ko0ZRarjQQ5skKvA/GzY3xwfUiNVulR9sHCvkGKswZB951EFm3aKY58d32PBU5p08UraLLrpOjyBkCS87hw0Yb0vf5WLdJjugJfqUkDcFmZUpWAuGnV3ZnNe2QjULlE04+72m1KyZL4Xzbgzb0KPfAbnw4MjCG2BPY=;j9BR0DyyY1KIYZ3o1b84DA=="
