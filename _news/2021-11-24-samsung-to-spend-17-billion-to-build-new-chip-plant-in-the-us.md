@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-to-spend-17-billion
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Samsung Jet Bot AI+ robot vacuum launched in the UK"
-    excerpt: "Samsung has launched its latest robot vacuum in the UK, the Samsung Jet Bot AI+ and the device will retail for £1,299 in the UK. The new Samsung Jet Bot"
-    publishedDateTime: 2021-11-19T12:15:00Z
-    webUrl: "https://www.geeky-gadgets.com/samsung-jet-bot-ai-robot-vacuum-launched-in-the-uk/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/samsung-jetbot-ai.jpg"
-        width: 700
-        height: 525
-        isCached: true
 
 secured: "/5J0SfqrRWCv9Bq3nTs6ZdtEz0ipMS4rduzEd/OtWTEVBubFv8Q/3nNokhjAzhCrRbbVVb9d5OlxO+vvZjl/DqpzsKjJx5L7t5bjMyNIIVTBB9SlaJSQ1ZaTqedxP2zxGM6Qt6cSAl45vSm73JQn4EdtjGl+An7vldRS3j7P8J5Bo5LQQOCUWPQdHwlP79ILd9bQvaRoEhHFH0haZD1Rb9D4BYM0Kbt3dU1E7C0aWhKvnVjlcyWfeQ0YALte3S2qHXKnmDjxBuNPnAj1desZ/LzSD13jGPq6v3Iw4fu5xOaa977K1+vLOAlb/f157qnuAkTr1WVZiv5SRNGEUlmhXsMjqRqHweP7SZJ5o8ELWh5p/gAffcH6viLWeedqRGOATrvsuqfv6X78mq57xBz3Ubu5khSTJz4EIixsB+OKrxy6nMVORC+vRCr82PBM8e6FyWhASVQPJDKrZIxTgaPfrbdosJ/pHzKCYWtGl+s4snuDigaXcCTq8Hqc9pj7p7+xgsvciCtb9EEuRqOuqfVSng==;JJl3GNjadSt+7aM0Gm/OFw=="
 ---

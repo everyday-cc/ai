@@ -2,6 +2,58 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-10-20-the-challenge-of-applying-ethics-to-ai.md",
+      "title": "The Challenge of Applying Ethics to AI",
+      "excerpt": "As digital technology plays a greater role in our day to day lives, the Venn diagram demonstrating the overlap between digital technologies and ethical decision-making has increasingly merged. In the age of artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/challenge-applying-ethics-ai-diane-gutiw-phd",
+      "originalUrl": "https://www.linkedin.com/pulse/challenge-applying-ethics-ai-diane-gutiw-phd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGx0wxEw6nnBA/article-cover_image-shrink_720_1280/0/1634691558427?e=1640217600&v=beta&t=XqY4VgSq1frwU371BVRM1hhLDBNXeK9wKqx2kfoqGsU",
+          "width": 721,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-inaugural-indy-autonomous-challenge-to-bring-shock-and-awe-to-brickyard.md",
       "title": "Inaugural Indy Autonomous Challenge to Bring 'Shock and Awe' to Brickyard",
       "excerpt": "Teams will program the cars to run laps around IMS using artificial intelligence ... it's not just about making a driverless car, or going around the Indianapolis Motor Speedway, it's about ...",
@@ -1091,58 +1143,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model.md",
-      "title": "SambaNova Systems releases enterprise-grade GPT AI-powered language model",
-      "excerpt": "The company's latest offering allows organizations to launch their own customized language model in less than one month.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/",
-      "originalUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1271697775-e1634657414701.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/",
-      "publishedDateTime": "2021-10-19T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

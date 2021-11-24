@@ -2,6 +2,58 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-10-19-sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model.md",
+      "title": "SambaNova Systems releases enterprise-grade GPT AI-powered language model",
+      "excerpt": "The company's latest offering allows organizations to launch their own customized language model in less than one month.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/",
+      "originalUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1271697775-e1634657414701.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/",
+      "publishedDateTime": "2021-10-19T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-hireds-ai-platform-released-its-2021-state-of-tech-salaries.md",
       "title": "Hired’s AI Platform Released Its 2021 State Of Tech Salaries",
       "excerpt": "The results disclose how the shift to remote work impacted tech salaries across different markets, roles and industries. The report provides insights on compensation, benefits and remote work trends in tech.",
@@ -1116,49 +1168,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-language-translation-engine-devnagri-raises-600000-in-seed-round.md",
-      "title": "Language translation engine Devnagri raises $600,000 in seed round",
-      "excerpt": "The platform combines Neural Machine Translation with ML to make the internet accessible to 90% of Indians and solve the problem of \"lack of content in Indian languages\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/29/full/1624909326-5084.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
-      "publishedDateTime": "2021-10-19T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

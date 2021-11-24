@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "What's Up with Apple: Self-driving iCar, Grateful Dead Biopic, and More"
-    excerpt: "Citing people familiar with the matter, Bloomberg reported that Apple is accelerating development of an all-electric Apple car (iCar?) that will come with full self-driving capability. Not only did Apple weigh on other EV stocks,"
-    publishedDateTime: 2021-11-19T11:58:00Z
-    webUrl: "https://247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/"
-    ampWebUrl: "https://247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 44
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2020/01/imageforentry32-9xl.jpg?w=400"
-        width: 400
-        height: 224
-        isCached: true
   - title: "Apple reportedly accelerates plans for electric, self-driving car"
     excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
     publishedDateTime: 2021-11-21T13:00:00Z

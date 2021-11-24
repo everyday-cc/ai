@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-11-04-artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market (2021): Strapping Growth Analysis Based on Future Opportunities by 2030",
+      "excerpt": "Pune, Maharashtra, India, November 3 2021 (Wiredrelease) MarketResearch.Biz –:Marketresearch.biz’s Artificial Intelligence & Advanced Machine Learning Market Research Report is convincing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/c8bbb64fe2b17c021c3ff1d93a3036bd1b16ce8b-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-04T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-toward-speech-recognition-for-uncommon-spoken-languages.md",
       "title": "Toward speech recognition for uncommon spoken languages",
       "excerpt": "Automated speech-recognition technology has become more common with the popularity of virtual assistants like Siri, but many of these systems only perform well with the most widely spoken of the world's roughly 7,",
@@ -1131,49 +1174,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
-      "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
-      "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/",
-      "originalUrl": "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/oracle-cloud-on-building-100730618-orig_1.jpgautowebp8570",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

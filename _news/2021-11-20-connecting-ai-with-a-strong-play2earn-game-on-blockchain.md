@@ -9,7 +9,7 @@ ampWebUrl: "https://themerkle.com/connecting-ai-with-a-strong-play2earn-game-on-
 cdnAmpWebUrl: "https://themerkle-com.cdn.ampproject.org/c/s/themerkle.com/connecting-ai-with-a-strong-play2earn-game-on-blockchain/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "NSW government clamps down on apartment building defects using blockchain and AI"
+    excerpt: "Apartment building defects are not uncommon these days, but the NSW government has been developing new solutions using AI and blockchain to crackdown on this. Speaking at the 2021 digital.NSW event, Office of the NSW Building Commissioner digital director Yin Man explained how the state government has worked with KPMG,"
+    publishedDateTime: 2021-11-24T04:17:00Z
+    webUrl: "https://www.zdnet.com/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
   - title: "MSRCosmos Group launches AI-based blockchain startup"
     excerpt: "Hyderabad: US-based MSRCosmos Group has set up a new startup MSRVantage that will provide artificial intelligence enabled blockchain solutions that will"
     publishedDateTime: 2021-11-23T13:23:00Z

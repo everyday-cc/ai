@@ -2,6 +2,50 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-09-29-amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more.md",
+      "title": "Amazon’s new toys: From $999 robot to home security, kids entertainment and much more",
+      "excerpt": "Amazon shows off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home, an interactive video chat portal for kids, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/",
+      "originalUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/09/amazon-glow-e1632853917387-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/09/28/amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more/?amp=1",
+      "publishedDateTime": "2021-09-28T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-cloud-computing-in-education-sector-market-may-see-a-big-move-major-giants-verizon-cloud-salesforce-aliyun-google-cloud-platform-rackspace.md",
       "title": "Cloud Computing in Education Sector Market May See a Big Move : Major Giants Verizon Cloud, Salesforce, Aliyun, Google Cloud Platform, Rackspace",
       "excerpt": "Edison, NJ — (SBWIRE) — 09/28/2021 — Worldwide Cloud Computing In Education Sector Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI ...",
@@ -1136,50 +1180,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability.md",
-      "title": "Arize AI Raises $19 Million Series A Financing Led by Battery Ventures for Machine Learning Observability",
-      "excerpt": "Machine learning is the backbone of modern ... Other customers include organizations in financial services, fintech, healthcare, insurtech, ad tech, retail and other industries that rely on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-301385881.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-301385881.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook",
-          "width": 2696,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

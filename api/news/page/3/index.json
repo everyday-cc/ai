@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-21-new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools.md",
+      "title": "New York City Passes Bill to Address Bias in AI-Based Hiring Tools",
+      "excerpt": "The New York City Council has passed a bill meant to address bias in AI-based hiring tools. The bill was introduced in February 2020; the NYCC passed it on Nov. 10. New York City",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools",
+      "originalUrl": "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03TmzGcHJj6gOoz7jg8a3Aw-1.fit_lim.size_1200x630.v1637501264.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true",
+      "publishedDateTime": "2021-11-21T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-21-want-ethical-ai-hand-the-keys-to-middle-schoolers.md",
       "title": "Want ethical AI? Hand the keys to middle schoolers.",
       "excerpt": "An innovative curriculum developed at MIT takes aim at eliminating the biases inherent in our algorithms—by teaching the concept to youngsters.",
@@ -1106,7 +1157,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1146,58 +1197,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-policymakers-want-to-regulate-ai-but-lack-consensus-on-how.md",
-      "title": "Policymakers want to regulate AI but lack consensus on how",
-      "excerpt": "Commentary: AI is considered \"world changing\" by policymakers, but it's unclear how to ensure positive outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/",
-      "originalUrl": "https://www.techrepublic.com/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/",
-      "publishedDateTime": "2021-11-19T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

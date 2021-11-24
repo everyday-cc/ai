@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Apple is diving headfirst into full self-driving with the Apple Car"
-excerpt: "Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
-publishedDateTime: 2021-11-19T16:57:00Z
-originalUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
-webUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
+title: "Tesla Full Self Driving Requires You To Accept Being Recorded on Video During Use"
+excerpt: "Tesla is facing pressure from all sides with regard to its features Autopilot and Full Self-Driving. With those pressures in mind it seems to be putting itself into a position to legally leverage in-car footage of drivers using the latter."
+publishedDateTime: 2021-11-24T02:56:00Z
+originalUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-requires-you-to-accept-being-recorded-on-video-during-use-174892.html"
+webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-requires-you-to-accept-being-recorded-on-video-during-use-174892.html"
 type: article
-quality: 24
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: KnowTechie
-  domain: knowtechie.com
+  name: autoevolution.com
+  domain: autoevolution.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
-    width: 1000
-    height: 600
+  - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-requires-you-to-accept-being-video-recorded-during-use-174892_1.jpg"
+    width: 1328
+    height: 673
     isCached: true
 
 related:
@@ -100,20 +100,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 50
-  - title: "Tesla Full Self Driving Requires You To Accept Being Recorded on Video During Use"
-    excerpt: "Tesla is facing pressure from all sides with regard to its features Autopilot and Full Self-Driving. With those pressures in mind it seems to be putting itself into a position to legally leverage in-car footage of drivers using the latter."
-    publishedDateTime: 2021-11-24T02:56:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-requires-you-to-accept-being-recorded-on-video-during-use-174892.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 49
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-requires-you-to-accept-being-video-recorded-during-use-174892_1.jpg"
-        width: 1328
-        height: 673
-        isCached: true
   - title: "Video: Tesla Full Self-Driving system takes a driving test"
     excerpt: "Tesla's Full Self-Driving beta system has made headlines in recent months, both positive and negative – but how does it stack up in a learner driver"
     publishedDateTime: 2021-11-22T22:43:00Z
@@ -127,6 +113,20 @@ related:
       - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/pcsakwljpekbv7d49pmp"
         width: 400
         height: 225
+        isCached: true
+  - title: "Apple is diving headfirst into full self-driving with the Apple Car"
+    excerpt: "Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
+    publishedDateTime: 2021-11-19T16:57:00Z
+    webUrl: "https://knowtechie.com/apple-is-diving-headfirst-into-full-self-driving-with-the-apple-car/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/01/apple-car-mockup-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "The Apple Car is reportedly going all-in on self-driving and could release by 2025"
     excerpt: "The Apple Car could be available by as early as 2025. Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"
@@ -143,6 +143,6 @@ related:
         height: 600
         isCached: true
 
-secured: "RqyaRFtpTmtpQJWYcHXNrSgF2Qryqzb+sWzP80NBBTcofA7+IHP3yj0WKZMEIN8NszzhvRdzlCG7rI/clHAAcjrKohs2yrKA++Wte5pm+GzU+Lq36UVijctnRsUl+uhjF0w7Db0m62MkX17vpDdMNVHO4nbYdYIVoElQjBTAz81f92FXFt4BDiLjx+e/hWHOKvs8PRFaHXdpfsJsJuP5vD/DjWczDWM827N24QtJpoBQCvyISsO7dT8zfsqgKdlZJHPGH9zWvqHvL1aeTeL0QMrXLk/7tFDwIZ03XCaNhAR7k/irAKPHibQYu1M86FqfUEQ9DqRsyMIvuGTWyyaYj2SvIG/Fkxq+PdyanCnK+m4FFbR0h/uhWFSTq4fE6oQoOx+lcvB62SxIlyEEx6zIgWKr7Q6IGVyeo8WRZLOd/nkWA2H7rPaY+zSIaM6xVMfqNqpaOmBvjQSZr0Ighv5f3qfmqS8SxSXPxuRY5e4pbhRxNfTECn8b5KT7Pe1X/s9ttU5PedYCI/Vv85qgkiX8Jw==;J7OItk/wt2ndYIWzJrP6WQ=="
+secured: "AOJZsywisJVPqbLEht76QbH/XYivyo/A1OdYgzWb2dOC3Lrn32hwmf190cDjiILMMra7MLCwfFo1fR6BIKvz6Co0r0Ez1O2QjNuVYF/Z/CxZcy4d9srMM1Vaw5RKEE0ApYnfZwm4ryLHOxevwFc+3pUddHRr8OclnKrm4xlFTNZ8t9U43LSYgHFgudAGbd9rooinguOYYM8nl36/Pj0Q1dSeat/Yo97UySdgfPyt7EmxTJa0B7UFh6al2hrDno0RReJlnFV3fUQA9G2P+s0H6r/4pWNfYHBaC93xXlhjzOdpCTd5aZJGuu5ExQaptcp2rNJ7eUPzsiak/pEMG6wsfqACPyDiZPrMMeSILOjY1ws=;mEgdVPJ7WDv7hHIml1Svrg=="
 ---
 

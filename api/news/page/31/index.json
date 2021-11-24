@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-10-29-voice-tech-coming-soon-to-a-classroom-near-you.md",
+      "title": "Voice Tech: Coming Soon To A Classroom Near You",
+      "excerpt": "Education publishing multinational Scholastic worked on its own speech recognition software in the late 1990s, but abandoned the project in the face of technical problems. But advances in artificial intelligence and machine learning mean it is a technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/",
+      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617b19822609716213144981%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/",
+      "publishedDateTime": "2021-10-29T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-analyze-video-feeds-at-the-edge-with-aws-panorama-appliance.md",
       "title": "Analyze Video Feeds at the Edge with AWS Panorama Appliance",
       "excerpt": "AWS announced the general availability (GA) of AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras.",
@@ -1102,58 +1154,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-elon-musk-announces-tesla-full-self-driving-beta-104-update-as-rollout-slows-down.md",
-      "title": "Elon Musk announces Tesla Full Self-Driving Beta 10.4 update as rollout slows down",
-      "excerpt": "Elon Musk has announced the upcoming release of Tesla’s Full Self-Driving Beta 10.4 update as Tesla slows down the rollout. Earlier this week, Tesla started rolling out Full Self-Driving Beta 10.3. The update came after a false start last weekend when Tesla pushed the update with some problems and ended up reverting back to 10.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/",
-      "originalUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/",
-      "publishedDateTime": "2021-10-28T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

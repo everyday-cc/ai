@@ -2,6 +2,40 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-10-12-lifebio-secures-second-national-institute-on-aging-grant-research-will-use-artificial-intelligence-as-a-possible-diagnostic-tool-for-alzheimers.md",
+      "title": "LifeBio Secures Second National Institute on Aging Grant; Research Will Use Artificial Intelligence as a Possible Diagnostic Tool for Alzheimer's",
+      "excerpt": "\"Reminiscence therapy has been an effective tool in ... LifeBioALZ, will use artificial intelligence to take person-centered care and contextualized health to a new level.\" LifeBio has now secured ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/health-press-release/LifeBio-Secures-Second-National-Institute-on-Aging-Grant-Research-Will-Use-Artificial-Intelligence-as-a-Possible-Diagnostic-Tool-for--550736-1.htm",
+      "originalUrl": "https://www.medindia.net/health-press-release/LifeBio-Secures-Second-National-Institute-on-Aging-Grant-Research-Will-Use-Artificial-Intelligence-as-a-Possible-Diagnostic-Tool-for--550736-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape.md",
       "title": "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape",
       "excerpt": "\"The availability of high-quality, domain-specific language data powering MT models has become ever so significant as AI-enabled automatic translation becomes more and more common. We are pleased ...",
@@ -1136,51 +1170,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape.md",
-      "title": "How Artificial Intelligence and Machine Learning is altering the marketing landscape?",
-      "excerpt": "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "publishedDateTime": "2021-10-11T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
       ]
     }
   ],

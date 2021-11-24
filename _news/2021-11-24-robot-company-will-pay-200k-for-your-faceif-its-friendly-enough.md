@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723/amp"
 type: article
 quality: 91
-heat: 92
+heat: 93
 published: true
 
 provider:

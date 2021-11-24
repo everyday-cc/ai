@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-24-nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai.md",
+      "title": "NSW government clamps down on apartment building defects using blockchain and AI",
+      "excerpt": "Apartment building defects are not uncommon these days, but the NSW government has been developing new solutions using AI and blockchain to crackdown on this. Speaking at the 2021 digital.NSW event, Office of the NSW Building Commissioner digital director Yin Man explained how the state government has worked with KPMG,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/",
+      "originalUrl": "https://www.zdnet.com/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/",
+      "publishedDateTime": "2021-11-23T20:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us.md",
       "title": "Samsung to spend $17 billion to build new chip plant in the US",
       "excerpt": "Samsung on Wednesday said it would spend an estimated $17 billion in the US to build a new semiconductor manufacturing facility that will produce advanced logic chips. The new plant, to be built at Taylor,",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -271,7 +313,7 @@
       "originalUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1135,49 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish.md",
-      "title": "University of Helsinki: Massive open online course Ethics of AI translated in Finnish and Swedish",
-      "excerpt": "The Finnish and Swedish translations for the University of Helsinki’s online course Ethics of AI will open on 23 November, in connection with a seminar on information policy at the Ministry of Finances.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/01/university-of-helsinki-6.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish/",
-      "publishedDateTime": "2021-11-22T21:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

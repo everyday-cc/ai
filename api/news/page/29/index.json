@@ -2,6 +2,40 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-11-01-ex-wall-street-banker-hopes-to-spearhead-reverse-innovation-in-india.md",
+      "title": "Ex-Wall Street banker hopes to spearhead “reverse innovation” in India",
+      "excerpt": "Implementation of new business models are now driven by technologies such as Artificial Intelligence and Machine Learning, Invest India reported. In an exclusive interview with Jaya Vaidhyanathan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/",
+      "originalUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/ex-wall-street-banker-hopes-spearhead/amp/",
+      "publishedDateTime": "2021-11-01T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia.md",
       "title": "Machine Learning in Retail Market 2021 is Booming Globally with Top Key Players- IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA",
       "excerpt": "IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA, Google, Sentient Technologies, Salesforce, ViSenze Recently added report provided by QY Reports Machine Learning in Retail Market Presents an Analysis of Market Situation and Challenges.",
@@ -1131,57 +1165,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-att-and-h2o-collab-on-feature-store-for-ai-developers.md",
-      "title": "AT&T and H2O collab on feature store for AI developers",
-      "excerpt": "Telecom giant AT&T and AI cloud firm H2O have jointly launched an AI feature store to help organizations accelerate AI development.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/",
-      "originalUrl": "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2012/07/att-logo.jpg?w=1200&strip=all",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/att-h2o-collab-on-feature-store-for-ai-developers/amp/",
-      "publishedDateTime": "2021-10-29T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

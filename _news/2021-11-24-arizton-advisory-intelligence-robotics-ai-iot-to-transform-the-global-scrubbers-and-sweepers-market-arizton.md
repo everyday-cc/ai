@@ -23,7 +23,7 @@ related:
   - title: "Robotics, AI, IoT to Transform the Global Scrubbers and Sweepers Market - Arizton"
     excerpt: "Commercial Scrubbers and Sweepers Market - Global Outlook and Forecast 2021-2026 The global commercial scrubbers and sweepers market is expected to reach USD 6.81 billion and will grow at a CAGR of 8."
     publishedDateTime: 2021-11-23T18:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/23/9498896.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-robotics-ai-iot-transform-global-scrubbers-sweepers-market-/2021/11/23/9498896.htm"
     type: article
     provider:
       name: TMCnet

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple Car Is Aiming for Full Self-Driving by 2025"
-    excerpt: "Stay on top of the revolutions reshaping the auto world — from EVs to self-driving technology — by signing up for Hyperdrive’s newsletter here. Toyota's first U.S. battery plant is destined for North Carolina. Xpeng’s new SUV aims to go ..."
-    publishedDateTime: 2021-11-19T12:30:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-11-19/apple-car-is-aiming-for-full-self-driving-by-2025"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igsA_v1YxPYE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
     excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
     publishedDateTime: 2021-11-19T15:37:00Z
@@ -114,6 +100,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 50
+  - title: "Tesla Full Self Driving Requires You To Accept Being Recorded on Video During Use"
+    excerpt: "Tesla is facing pressure from all sides with regard to its features Autopilot and Full Self-Driving. With those pressures in mind it seems to be putting itself into a position to legally leverage in-car footage of drivers using the latter."
+    publishedDateTime: 2021-11-24T02:56:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-requires-you-to-accept-being-recorded-on-video-during-use-174892.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 49
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-requires-you-to-accept-being-video-recorded-during-use-174892_1.jpg"
+        width: 1328
+        height: 673
+        isCached: true
   - title: "Video: Tesla Full Self-Driving system takes a driving test"
     excerpt: "Tesla's Full Self-Driving beta system has made headlines in recent months, both positive and negative – but how does it stack up in a learner driver"
     publishedDateTime: 2021-11-22T22:43:00Z

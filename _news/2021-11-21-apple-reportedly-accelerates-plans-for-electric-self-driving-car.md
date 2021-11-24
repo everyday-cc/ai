@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "What's Up with Apple: Self-driving iCar, Grateful Dead Biopic, and More"
-    excerpt: "Citing people familiar with the matter, Bloomberg reported that Apple is accelerating development of an all-electric Apple car (iCar?) that will come with full self-driving capability. Not only did Apple weigh on other EV stocks,"
-    publishedDateTime: 2021-11-19T11:58:00Z
-    webUrl: "https://247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/"
-    ampWebUrl: "https://247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 44
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2020/01/imageforentry32-9xl.jpg?w=400"
-        width: 400
-        height: 224
-        isCached: true
   - title: "How PIX Moving is Using Self-Driving Skateboard Chassis to Build the City of the Future"
     excerpt: "The benefits promised by self-driving cars are hard to ignore. Who doesn’t want less accidents, less congestion, and less pollution? Unfortunately, recent studies show those benefits may be a long way off as most drivers are not yet ready to trust a self-driving car."
     publishedDateTime: 2021-11-19T16:18:00Z

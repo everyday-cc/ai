@@ -23,22 +23,6 @@ images:
     height: 223
     isCached: true
 
-related:
-  - title: "Which beverages companies are leading the way in artificial intelligence? – data"
-    excerpt: "Unilever and Suntory are among the beverage brand owners best positioned to take advantage of future artificial intelligence disruption in the industry, according to recent research."
-    publishedDateTime: 2021-11-19T12:20:00Z
-    webUrl: "https://www.just-drinks.com/features/which-beverages-companies-are-leading-the-way-in-artificial-intelligence-data/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 32
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/Artificial-Intelligence-scaled.jpg"
-        width: 2560
-        height: 1067
-        isCached: true
-
 secured: "a+jU0kB1rUWea+ORDr2/bYi81ZnsmT8UMgFJSfgDgNgfaSwAyza+7OWhwPh5z336Duv30BntO/MoF/r8N+Te5/Ca5UcxVFa4XYcBfCQrP/0UR46lfJC+HKF0+XCBRHtb5qTZguFBC8vEsobbY4en+7EKu25KF9RGzsNLFHe7NZDu+Q+GiokiXTDVngevgzbHRzsceFI80UZ11d119Je/atssRa2OJ3fUiws6O3O+uzv0kD2lhcFZ5wCfep0ze/i757sdPQajsNlMpfWaUQBtHYyMs4YmKLOMGAPMjkDpa8BYp8AmnCjo+dhvEUIF4FIykA1OacVwTRXtKxOux0GKXl0+O+qun6VZTpzPVS8lCI+rplNtpZK2oWbFBHt4PIyP8eMzV0KMlga6xyvB188SWb5dguCEtMwJHSfKwZEAnZufBvxoGAcdguyLdjse2ihxUOGKH09XUAw7u2gGDJjrZDOA+Sniu1c9Ev8tnkpNAURJGltxoApA75BF8g44qy/ni4N7gOzcv/t7dbtBvZwqZw==;8F5vcMl0ETc6+UeHDMwjDw=="
 ---
 

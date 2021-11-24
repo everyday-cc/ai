@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-17-supermicro-universal-gpu-servers-announced.md",
+      "title": "Supermicro Universal GPU Servers Announced",
+      "excerpt": "Supermicro has announced Universal GPU modular servers, which will allow users to configure systems for their specific applications and workloads, giving them the choice of mixing and matching components like GPUs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced",
+      "originalUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.storagereview.com/wp-content/uploads/2021/11/StorageReview-supermicro-Total-IT-Solutions-universal-GPU-front2.jpg",
+          "width": 964,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp",
+      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp",
+      "publishedDateTime": "2021-11-16T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StorageReview",
+        "domain": "storagereview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-hungarys-otp-bank-invests-in-ai-supercomputer.md",
       "title": "Hungary’s OTP Bank Invests in AI Supercomputer",
       "excerpt": "The system, developed by Silicon Valley’s SambaNova, will leverage AI language models to automate more banking services for Hungarian speakers",
@@ -1160,49 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-aws-claims-pivotal-role-in-creation-of-african-unicorns.md",
-      "title": "AWS claims pivotal role in creation of African unicorns",
-      "excerpt": "The Amazon subsidiary says it played an instrumental role in helping to create some of the African tech start-ups currently valued at over $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/raYAyModOkVqJ38N",
-      "originalUrl": "https://www.itweb.co.za/content/raYAyModOkVqJ38N",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/snUiZea6wjkkUVhhtf52mXdpqopiCkM3l-eRctL0yLTZTsqsetU2zehg3otSLYjGwilj4ZBWtHyIK3EmjInkLOjBKld-G79aVkXC=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/raYAyModOkVqJ38N",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/raYAyModOkVqJ38N",
-      "publishedDateTime": "2021-11-16T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

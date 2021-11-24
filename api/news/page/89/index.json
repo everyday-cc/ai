@@ -2,6 +2,40 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2021-09-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-by-2030-tmr.md",
+      "title": "Artificial Intelligence Market to grow at a CAGR of ~24.5% by 2030 – TMR",
+      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~ 29% during the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-by-2030-tmr/?amp=1",
+      "publishedDateTime": "2021-09-17T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-itri-aita-and-ucla-chips-forge-cooperation-on-ai-chip-development.md",
       "title": "ITRI, AITA, and UCLA CHIPS Forge Cooperation on AI Chip Development",
       "excerpt": "DoIT Science and Technology Advisor Xian-Yi Lin stated that the DoIT supports ITRI, ATIA, and UCLA CHIPS in inking a collaborative agreement, which will help the parties quickly grasp international system specification trends in the areas of design,",
@@ -1087,50 +1121,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-using-machine-learning-for-anomaly-detection-and-ransomware-recovery.md",
-      "title": "Using Machine Learning for Anomaly Detection and Ransomware Recovery",
-      "excerpt": "Powered by machine learning, Rubrik enables businesses to respond quickly to the latest threats automatically and minimize business disruption and data loss. They can effectively gather a clear picture and better insight into the anomalies that impact their environment regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3633171/using-machine-learning-for-anomaly-detection-and-ransomware-recovery.html",
-      "originalUrl": "https://www.cio.com/article/3633171/using-machine-learning-for-anomaly-detection-and-ransomware-recovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/09/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "NSW government clamps down on apartment building defects using blockchain and AI"
+    excerpt: "Apartment building defects are not uncommon these days, but the NSW government has been developing new solutions using AI and blockchain to crackdown on this. Speaking at the 2021 digital.NSW event, Office of the NSW Building Commissioner digital director Yin Man explained how the state government has worked with KPMG,"
+    publishedDateTime: 2021-11-24T04:17:00Z
+    webUrl: "https://www.zdnet.com/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
   - title: "Connecting AI with a strong Play2Earn game on Blockchain"
     excerpt: "How dotmoovs is making you compete against others in the real world by using your smartphone The blockchain and AI company has recently being showing how the world of sports might be on the verge of a revolution The emergence and rapid popularity increase of the play-to-earn applications that enables users to benefit from the near-real-life experience and in-app benefits has given dotmoovs a recent popularity,"
     publishedDateTime: 2021-11-20T01:04:00Z

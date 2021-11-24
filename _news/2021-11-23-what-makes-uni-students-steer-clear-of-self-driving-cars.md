@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "What's Up with Apple: Self-driving iCar, Grateful Dead Biopic, and More"
-    excerpt: "Citing people familiar with the matter, Bloomberg reported that Apple is accelerating development of an all-electric Apple car (iCar?) that will come with full self-driving capability. Not only did Apple weigh on other EV stocks,"
-    publishedDateTime: 2021-11-19T11:58:00Z
-    webUrl: "https://247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/"
-    ampWebUrl: "https://247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/11/19/whats-up-with-apple-self-driving-icar-grateful-dead-biopic-and-more/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 44
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2020/01/imageforentry32-9xl.jpg?w=400"
-        width: 400
-        height: 224
-        isCached: true
   - title: "Apple reportedly accelerates plans for electric, self-driving car"
     excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
     publishedDateTime: 2021-11-21T13:00:00Z
@@ -178,6 +162,6 @@ related:
         height: 1400
         isCached: true
 
-secured: "dh1/w/7uFacg7qBNhUUfHMbV73/j5pW45VfOQvifXP4yhDw4xTrPKXd8OjKmamf8W1FYTtYzek4He0yau8DkiXU9MVyCuv71gqLjFyAELHlZZYe7Dp6ZirlR00Xu55Tl/gYyrBxYhRZMmicfdCfSCtdfgo0Km40XeMx4nMyXANmfWdyUATQoVN91GzSwuj4um1wijrSGxdJjmny6jmIpQ5NrCibZjo/Hwt32+TrOS28WJQ2ZbJURR8N9xzCbJdULpy6M5TFhHxEMEK4SfKcY/tQhdrHHVom0SoY0sj3lS9i/Wq3uA50Uta8ImvtvS4aNFb5eLPwGv9UGaJQ/O6KgTB7SLwfvfsOButmoHw7Lyxg=;R5qOjY4sBAvzE6kxkcABWA=="
+secured: "+n+0FtVSegm+5bOyz4rK6mytNwuBVf1QyQlZ6Tjd+95KQ9/0hoOZYUpuYUEiyg5XEXS3VqLZKDoTniZRG/+jsPYqSX/OjfKb8NOikKwXVMs3PXSldO7WmvDJcd7rZ0rj/na5wLulWsvi0nuIihUpBMewiWOvXR3ZlhtFwa0lfJsiiEgZBHJ1kYT208U2fQo20JghKCT2MNJ9qb+obV4TSTkWgOM7cZa93rfpys/TGpbB8zVbWxncjmxi3bWXNKxGpOwBv80Ay6XRsgFIUDOAxEHX5A6tGf/wfumnA0bs1PCjqDrFlV2j/O6LGgEtBmKhaq4twXExb9hN1F8yJ3C4xa3HGHCBGfVMEmOGON0BdhzlQPRW6uZaiySN4rplwRnWt+b5NAC+fdXdghompzcsxD4cu725mxrs2WS/3JVX/mGzlGAPfF+e2ecRGs6lNEVEz+YDCsDG9S350dacmgYKmzpiu5Mw8PKvnbcIT6r8/t7090Kdq4LyINtFyf8GScLuw1RLwLx8XqUjvcqy0giEoQ==;Vgody1Cj+I0DdNKaFucVzw=="
 ---
 
