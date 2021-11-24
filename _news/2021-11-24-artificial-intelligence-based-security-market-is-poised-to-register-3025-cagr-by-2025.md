@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2473220/artificial-intelligence-based-sec
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2473220/artificial-intelligence-based-security-market-is-poised"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: openpr.com
@@ -26,22 +26,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports"
-    excerpt: "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services"
-    publishedDateTime: 2021-11-19T23:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-10-5-valuates-reports-800406414.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
-
-secured: "CTYiWbZBHjXSzk7sHWtbFhFIH16GcwGsWDvu3pnPM/QQB3LIG/LvbYwtBzVgkOxcGvJaJSAATloH8M6GABu1hBo1Qgshy4xTujQpknEHpvIZT87Iog5uSXsvkdL217Ebb2l6orBQQyvO6HeqWcq2dCSUxfHLsNbD9M4aSrg4xs7Zyl0csEA73z4vuftqUi9ngT4JR2UIhFppG5G0F++Ow6WhDb8C9lLu57WZ2KuAdP/0UNzyKDps/FOLgVwDVTZwxpa6PFHbnFmgIaATDCwX+d+jDSGp2hvUmJthjmg0iSlTGqO40zm1o7vdQGM20SWe/+s2Di37o+Uh0nJAvaCzjwviGR/oxDFHcAzotrpf39U=;ZL3xca11pCtB1jDlweHgCA=="
+secured: "9ddLiLnoO34HnOf3I1E1icatTqlcI60MzdsABcn6qACCztjUDTvVqTw5c5v/kk9Tl/ax9u+Ut+pD1SymUrQEWkR+3y+m4oKAlmQJdGGQ/dfnqIoeevj3FQ+bqZ8K5E8u6OucUqUK8spX27TVwFcST1NylPUtM7UETxSukbt1zrQ0on0FRgQ+UsjXJ2IVWy31utaKTMCfbtlOlGFTPs1sTVEVTR5ZJGrZxKTBDgVdw8Ck9A5TkxHML+mL+fS6r45wxvPP/P/aRmDBXOvwB5AYUODYtcZpXk00EhHBpow7AlrOFht2yRL/kA2fRg8jjfi8D2s+A3ePMPoVexfUyHFm/ljPlw40wi4vm23cicqxXCIZZ77/Odich/HGPUnQGnGfq1oMtac21Sh909XNjYeXbxpML1Ip0iyo5sWmUD7I4aH5gv29NxqsrDbumjgjaqtjGj7aGgUad/1Ls4IESR0kT71PEpVe/ZmVlc9jCV/6tHEwG4f+R4Kr7nEfBKTycrma4JBKRJ8bHYD9Xqxqi7uSPg==;Uo6LcFMjicVUo7Nf2Olr8Q=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-sel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
 type: article
 quality: 89
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla requires Full Self Driving testers to allow video collection in case of a crash"
+    excerpt: "With Tesla's latest FSD release, it's asking drivers to consent to allowing it to collect video taken by a car's exterior and interior cameras in case of an accident or \"serious safety risk.\""
+    publishedDateTime: 2021-11-24T14:50:00Z
+    webUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/"
+    ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tesla releases new Full Self-Driving Beta 10.5 update with interesting new features"
     excerpt: "Tesla has started pushing a new Full Self-Driving Beta software update (10.5) to the fleet this weekend. It includes some interesting new features based on the release notes, which you can find below."
     publishedDateTime: 2021-11-22T11:11:00Z
@@ -102,6 +118,31 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Tesla Tells Full Self-Driving Beta Testers To Accept They’ll Be Recorded"
+    excerpt: "Tesla is telling Full Self-Driving beta testers that they'll have to accept the condition that they'll be recorded. Here are the details on this."
+    publishedDateTime: 2021-11-24T16:49:00Z
+    webUrl: "https://www.redmondpie.com/tesla-tells-full-self-driving-beta-testers-to-accept-theyll-be-recorded/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 38
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving Car Market Likely to Enjoy Explosive Growth by 2024 | Toyota, General Motors, Tesla, Volvo"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
+    publishedDateTime: 2021-11-20T05:19:00Z
+    webUrl: "https://www.openpr.com/news/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
+    ampWebUrl: "https://www.openpr.com/amp/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
 
 secured: "J952AwyIZYGHYyEQVeaGAniRQfruB42Q5rG0uaGZ0CBcXkSkI6gcjbmityB+xijMbKtS4eWDmCrIDuhzrYnNbbOqRSqaLZSNXpZFFPzjKmAf42advO3/yPEawKH0mj9yMFb1u6QYQ10GVmJwE0JYLKzy9/Wwbf8MeTzFzc2D2Us4wCCTQHKEJk+9O7SA/C9hGq/8OGbJ1rWVQxeQJX+taLfCwbUnequA3GozNebb2Ns+1IuPKhlnCfPfdrTmaua9ecWVg03H3vKm1iLLsVHr4MJgvzjQ62Ed/tGtxH6TAN7aUXMSiV/S1ShMf2d3ztyUv+VprttPV9i1S+8ZBYGpnUmepwuH8gut8EzYNSpyjabc/e6XC9aNVkkRlaufDzz1Od+FsWV+fWbWvmWWM9GNlXncnztpZJITmjgpXSdYi3efNf+PYh0E2SwaCxHD9cvQrNFTQUD6k5XQ0XtJe03cy5JWVBgTWk0D48R5QE7zIZob+jttNIp0MMffx3zwTn9PHQk70MHnJAm0XtNJydXUzg==;ST6W8PY8y20bd5GlOvoBOw=="
 ---

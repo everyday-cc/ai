@@ -42,6 +42,22 @@ related:
         width: 1300
         height: 1300
         isCached: true
+  - title: "Using Artificial Intelligence to Diagnose Blood Diseases"
+    excerpt: "Researchers have found that a large amount of high-quality data to train an artificial intelligence algorithm for analyzing blood cells."
+    publishedDateTime: 2021-11-24T15:56:00Z
+    webUrl: "https://www.medindia.net/news/using-artificial-intelligence-to-diagnose-blood-diseases-204444-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-to-diagnose-blood-diseases-204444-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-to-diagnose-blood-diseases-204444-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/how-sickle-cell-disease-complication-occurs.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Transforming Legacy Manufacturing Enterprises With AI on the Edge"
     excerpt: "This article discusses how legacy manufacturing enterprises can harness the latest technologies, to optimize factory operations without having to ramp up infrastructure investment."
     publishedDateTime: 2021-11-21T16:18:00Z

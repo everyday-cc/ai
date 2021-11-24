@@ -7,8 +7,8 @@ originalUrl: "https://www.openaccessgovernment.org/healthcare-artificial-intelli
 webUrl: "https://www.openaccessgovernment.org/healthcare-artificial-intelligence/124827/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: openaccessgovernment.org
@@ -23,6 +23,36 @@ images:
     width: 2000
     height: 1108
     isCached: true
+
+related:
+  - title: "Healthcare AI raises $8.5B in 2021"
+    excerpt: "The pandemic spurred significant investment in healthcare artificial intelligence, with $8.5 billion being raised in 2021 so far, according to a CBInsights report published Nov. 24. Home diagnostic kits powered by AI,"
+    publishedDateTime: 2021-11-24T15:58:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-ai-raises-8-5b-in-2021.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Aidoc creates operating system to orchestrate and scale up AI in healthcare"
+    excerpt: "Artificial intelligence-powered medical imaging analysis startup Aidoc Medical Ltd. believes it can play a key role in helping hospitals implement their AI strategies with today’s launch of what it says is the first AI Operating System for the healthcare industry."
+    publishedDateTime: 2021-11-24T14:00:00Z
+    webUrl: "https://siliconangle.com/2021/11/24/aidoc-created-operating-system-orchestrate-scale-ai-healthcare-industry/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/49551511_1085551878294159_6337264871343652864_n.jpg"
+        width: 3320
+        height: 1263
+        isCached: true
 
 secured: "SOIwrvYt6DMjowY4z8L12/OIo8AosIhFN5eHu83y1VDirmVgYwXm+Vic/TFNMWiLiS1nf/hcs2K32U+ofwxmkJM6SIw7blFrmHSL844PTPfM7W77nBLifk87KACBfpuiWRGgPRgvva5eKu8qENyjVoB2ivkEE4JasakgC5cbSDTdMdeV0phFUKcLAZ+p2s6WkcQIiIocCKAwtuBQDEbRWBaiBZedFYAJbuyQTmQL+39zbcDM6safSnFqQqjbYjhfLd1ZIyha1t8Na+VcrfcNqzu1TV3kO9HCQcauuKy6QG+XRgx0qqch6iCMtLGaipboswD1CRpXzQG4oQSThSM51sN5ADPkvKE7XItZ0lZ2Ki34dRdk4mihdt+Oi7RGx/usIgNwW0UnVR0uDKg/zSF6c04Q6QWBEeS8OAXYZwSkYzVxlPPUiE+q9CiDQi97LGFrb9Gb+Ua3NknC2dSza/7Ikn17r69eq2VksOR5I+lq89fFNjtkVUJHLk2dV746gzKUcPbIXsynYsXIrCmDtfokFA==;5J1/TEK8m6gVaIJa0/gXFw=="
 ---

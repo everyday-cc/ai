@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-int
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using Artificial Intelligence to Diagnose Blood Diseases"
+    excerpt: "Researchers have found that a large amount of high-quality data to train an artificial intelligence algorithm for analyzing blood cells."
+    publishedDateTime: 2021-11-24T15:56:00Z
+    webUrl: "https://www.medindia.net/news/using-artificial-intelligence-to-diagnose-blood-diseases-204444-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-to-diagnose-blood-diseases-204444-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-to-diagnose-blood-diseases-204444-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/how-sickle-cell-disease-complication-occurs.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "AI could help better diagnose blood diseases"
     excerpt: "How can we better diagnose blood diseases? A research group led by Helmholtz Munich aims to answer this question with artificial intelligence (AI)."
     publishedDateTime: 2021-11-23T01:00:00Z

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "High Performance Stereo Computer Vision For The Raspberry Pi"
-    excerpt: "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick."
-    publishedDateTime: 2021-11-20T00:00:00Z
-    webUrl: "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2019/07/luxonis_10.jpg"
-        width: 3278
-        height: 2458
-        isCached: true
   - title: "One Stop Systems Releases AI Transportable Compute Server for Edge Computing"
     excerpt: "One Stop Systems (OSS) is introducing a server for vehicle, maritime, and aerospace applications in the edge computing market:"
     publishedDateTime: 2021-11-22T06:22:00Z

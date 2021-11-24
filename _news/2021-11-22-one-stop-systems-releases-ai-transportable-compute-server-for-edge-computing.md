@@ -35,20 +35,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "High Performance Stereo Computer Vision For The Raspberry Pi"
-    excerpt: "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick."
-    publishedDateTime: 2021-11-20T00:00:00Z
-    webUrl: "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2019/07/luxonis_10.jpg"
-        width: 3278
-        height: 2458
-        isCached: true
 
 secured: "19Bm3wdbe74M4saNEFcOXcbBbriAsjxiOYkkPtG1W3j7dBqGtzfbgdRiJ3kwMLIFwxW2gwSv0t9MSgH2aoCqPsTlXFiOkNBHvEeHHEnl8bz/FnmgXW1v2wDsHHQsRvehyIMRAsRzrRKMJAB04RbGVt5eAHWKZKOijJXgbZKeAFE9myErzmTQ1lyoecnbe7MnJWVDuAT+h+zg0agjkrxT2K+nRBlVAmZQ6aEzPLsWTzwJgzpAg+9LU4PdlpTYcfuOtOb7uvAzdVzTZZCKdMtXvDGxp12P5xFnT8k8msGX3epsxS1obhV50W+0UjRMA9BOFjRv5VP5oQhYqXDg00AE5q8AIzVquiOjirhrwgdyyu72zNQ/I48yH/oVLwjylfXK1NuFuO3NRkx7rSapwsMPB3/wC7CtDRXVUgVB91g0HZaPV9eK7l1FV0/TfpH8Wsei9qKlKAVVcZUtK2EZ5lxqcpqFNzFe1VywO8ykVAmANsGuqNJ2jTOFbSOfEwjQoh8jRUURq2KYthqCZH7bnXS6Ng==;5g8svkc3GrVNRjM/p1/uRA=="
 ---

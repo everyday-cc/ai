@@ -26,6 +26,17 @@ images:
     height: 233
     isCached: true
 
+related:
+  - title: "Genesys International files two patents essential for e-commerce and object recognition in 3D Maps"
+    excerpt: "Genesys International, a pioneer in advanced mapping solutions, has filed for the registration of two new patents of technologies and processes developed based on their extensive geospatial work executed over the years."
+    publishedDateTime: 2021-11-24T16:06:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=302975"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 5
+
 secured: "rUkrxUAskMbhjkpqf37OevXonApLOv9DRTKwVFJd4oWDZq3sE0rpFXca0mYvgc6eezmVHm43I2oz9wwYhXEVvCJtggvc1z7127ChiDcN0fQLi5wm9SyoIAonIBvUqMZA8cfsZuY8XeTQW75d5ekxZ7Z8wwCoxqeggQFXewd9PcienGhVN+vUDExe0bcGep2KvXHdE6VgxdZaB00Z5KevM/QUDBmfWIvoBdZxAOQVNJHaBJTWxQkwl42iOivLlCKvaiqn0a9M+yULoA415XJ6RLhQK2Bw9OAGifD5zYN79FIPfLJcB/lmHjLJBUHz8yggitNHwFFQzdYTmkoBHVgE5491YthN12f3GAvfsMbHPwy6BhjS1Vj0JA6+Ahn8Fpy0zG20UnTXy4vhmGT/RQpzOi0q3Aq/RznD8eA5brW2eTjJML47OYqemswGoarpdg9VDeDAwZ5WbCxIFXm2dpBz5u7l8PXJTX8IEzXKEslwywZxChknSqSgfaTc4L0Hw/7CSfSiGMEZBPtSsAijAkCKQw==;m77NksvnHTZRe69S99uWjA=="
 ---
 

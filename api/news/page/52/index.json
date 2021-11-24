@@ -2,6 +2,58 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-10-14-image-recognition-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2021.md",
+      "title": "Image Recognition Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2021",
+      "excerpt": "facial recognition, object recognition, pattern recognition, and optical character recognition. Based on component, the market is segmented into hardware, software, and services. Based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2021-2021-10-14?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2021-2021-10-14?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-singapore-to-develop-mobile-defence-systems-with-ghost-robotics.md",
       "title": "Singapore to develop mobile defence systems with Ghost Robotics",
       "excerpt": "Defence Science and Technology Agency says it has inked a partnership agreement with Philadelphia-based Ghost Robotics to test and develop technologies as well as use cases for legged robots for security,",
@@ -1058,57 +1110,6 @@
         "name": "Government Technology",
         "domain": "govtech.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ai-study-climate-crisis-already-impacts-at-least-85-of-people.md",
-      "title": "AI study: Climate crisis already impacts at least 85% of people",
-      "excerpt": "The study authors suspect that their figure is an underestimate, as there's a disturbing lack of climate change research on lower-income countries.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-finds-climate-change-already-impacts-at-least-85-percent-of-people",
-      "originalUrl": "https://thenextweb.com/news/ai-finds-climate-change-already-impacts-at-least-85-percent-of-people",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-2-2.jpg&signature=04f6a8aa3baa83d9872a81ead6ebbb13",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

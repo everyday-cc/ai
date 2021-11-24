@@ -1,28 +1,25 @@
 ---
 category: news
-title: "Verbit, the World’s Leading Voice AI Platform, Raises $250 Million Series E, Achieving a $2 Billion Valuation in Less Than 5 Years"
-excerpt: "Verbit, the world’s leading voice AI transcription and captioning company, announced today that it has closed its Series E funding round at $250 million, after securing a $150 million primary investment and $100 million in secondary transactions."
-publishedDateTime: 2021-11-23T15:02:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-sapphire-119580c9dddcf0b1731386cd0aad3084"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-sapphire-119580c9dddcf0b1731386cd0aad3084"
+title: "Verbit, the World's Leading Voice AI Platform, Raises $250 Million Series E, Achieving a $2 Billion Valuation in Less Than 5 Years"
+excerpt: "Verbit, the world's leading voice AI transcription and captioning company, announced today that it has closed its Series E funding round at $250 million, after securing a $150 million primary investment and $100 million in secondary transactions."
+publishedDateTime: 2021-11-23T15:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/verbit-the-world-s-leading-voice-ai-platform-raises-250-million-series-e-achieving-a-2-billion-valuation-in-less-than-5-years-1030998352"
+webUrl: "https://markets.businessinsider.com/news/stocks/verbit-the-world-s-leading-voice-ai-platform-raises-250-million-series-e-achieving-a-2-billion-valuation-in-less-than-5-years-1030998352"
 type: article
-quality: 9
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Transcription firm Verbit raises $250m, doubling valuation to $2b"
@@ -113,6 +110,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "T5EGSWggMYSyXjfLoeFkz0KeHjgeJ4KCw+/gDv/rPqHmxdpaC0AyFgtSjvWMZVg3iPq900oaJD8W4gyOXh04EKapLBtjrdr40qYzeQdowNxlPnbefiV7SVKfEFTkBn2v3jYarn/s9ZvojL20cduUvUHgFS9M9SKQaOdkawe3c8R3eOOdl+QGGR2Tx3CvXZ2VqoBGtCj+7NGak+Vf6BUEE3kCdG1LUTpbu+7zXw9EefFc0EG6ZpdUiI80WtA0v8VlqG4Y2/Q5uLKnoCtFtSXXFHUoI6JQZSv1y6RbFtGa7xk68qcgEVuM6UTYkCU41y8w1PuQs1gXtHkMOEecKQ25wvUWE/wMBuBL2hWIeJCDu84=;xjSQCKojck/4znslm3mvsw=="
+secured: "B5fifRtatE8E9Q0NL2ivpju7V5p+rnQvDrE9AHu4szc8HDbmdT/6x6QIi6HZiyjx4PWZIbHN8X5nI6R47XLVxTqwifzzotydAb86kzbfFPy7jr3lY7KOAoUDQ5wSCFNfP+zd6iyGP72JorUpca75PVWnqCUchk16jaUa0wGWopTbuXNjPtnUOuU7f0g+Pv5jR8/Li5//y0AqJkREsIFmDXqbtjoLiSK/WRAvTS2gvLKCCC8nxT28VoSdX1IdHnjxZXS+AqmhrWnVqsWc3SzREEyotw1DO3TX+uHVvRiEs9zUIXl6VvirU/V8p/26Wf1SVoeeSqpNczGytB99WwdReo7yn72PlmlxDxwe3I2MI9si6bMalwHwWlalIK2fepOlPBJU6V24cAI6If7iouGtViuMeTuO6fYT3Uu8s9DDQk76Kyz7BTCITHA8IEdEUPUbvtmHqfejoeDhv8XNS+Iep14KIkci8J7ibTS4311k+TUmMz8G8ca5eOMsJwhqJN0IX7W7LxW9Km0dN5Lbm3DAYQ==;u5BQeZovH/vY2NPeOOpAqA=="
 ---
 

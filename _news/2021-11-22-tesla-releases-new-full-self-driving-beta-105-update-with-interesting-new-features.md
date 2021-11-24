@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla requires Full Self Driving testers to allow video collection in case of a crash"
+    excerpt: "With Tesla's latest FSD release, it's asking drivers to consent to allowing it to collect video taken by a car's exterior and interior cameras in case of an accident or \"serious safety risk.\""
+    publishedDateTime: 2021-11-24T14:50:00Z
+    webUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/"
+    ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tesla’s Self-Driving Business Is Powering Ahead Despite Setbacks"
     excerpt: "Tesla stock is up by almost 60% year-to-date, with its market cap crossing the rarefied $1 trillion mark recently. The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,"
     publishedDateTime: 2021-11-24T10:00:00Z
@@ -102,6 +118,31 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Tesla Tells Full Self-Driving Beta Testers To Accept They’ll Be Recorded"
+    excerpt: "Tesla is telling Full Self-Driving beta testers that they'll have to accept the condition that they'll be recorded. Here are the details on this."
+    publishedDateTime: 2021-11-24T16:49:00Z
+    webUrl: "https://www.redmondpie.com/tesla-tells-full-self-driving-beta-testers-to-accept-theyll-be-recorded/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 38
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving Car Market Likely to Enjoy Explosive Growth by 2024 | Toyota, General Motors, Tesla, Volvo"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers."
+    publishedDateTime: 2021-11-20T05:19:00Z
+    webUrl: "https://www.openpr.com/news/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
+    ampWebUrl: "https://www.openpr.com/amp/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2468722/self-driving-car-market-likely-to-enjoy-explosive-growth-by-2024"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
 
 secured: "yZsxXGrmboQvKotURtBdrcGYYyEWaYfwmr0MJM6PUqcboPQLpSokP60em8Mw6HkcIMQfAE3AaAhvpO92BaED2cCt1dTBHfDC5cdoVSsO49SbIISzUv4UqSBCD+1ClMbKSxKjGsWzaWaulFeL2Vu6PQ1bXa9tMVacwhUHfnyRrMVgnDaaLRYorotKiSEJYRYAo1wErRIuzHa/jolYGFX1BPkukvttRPd8FUFUjmE0Y6TNNDc1fTtyYPBqdckHKzaxelpixASt1EjCSya3vRBO1S6NQqYLm+QNMf6XU8QUssyz2nBGghPDBHU4u7HOwoOHkK3uPyahVOLcxx8TWBmStbW2etRG4XQ+B6OUtEikr8kAVSc2DEhVKkUOWJg40060Z7XcaGFBVRFK5ofGLTm8R+MlptV+lNpw5PUlyKN6NJzEi6sSH4tWp3vxr5fyBx/pDq8KUMlwtDo7PLVMOOF/1pEinMZmFb0JlA/Le9vXqof8XxYeCPXapsRMJL3m8sfJP7iomnao1lwT7w4uVkcwFA==;ntT0fYb1WW0zgWw+8sWbiQ=="
 ---

@@ -92,20 +92,15 @@ related:
         width: 861
         height: 483
         isCached: true
-  - title: "Verbit, the World’s Leading Voice AI Platform, Raises $250 Million Series E, Achieving a $2 Billion Valuation in Less Than 5 Years"
-    excerpt: "Verbit, the world’s leading voice AI transcription and captioning company, announced today that it has closed its Series E funding round at $250 million, after securing a $150 million primary investment and $100 million in secondary transactions."
-    publishedDateTime: 2021-11-23T15:02:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-sapphire-119580c9dddcf0b1731386cd0aad3084"
+  - title: "Verbit, the World's Leading Voice AI Platform, Raises $250 Million Series E, Achieving a $2 Billion Valuation in Less Than 5 Years"
+    excerpt: "Verbit, the world's leading voice AI transcription and captioning company, announced today that it has closed its Series E funding round at $250 million, after securing a $150 million primary investment and $100 million in secondary transactions."
+    publishedDateTime: 2021-11-23T15:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/verbit-the-world-s-leading-voice-ai-platform-raises-250-million-series-e-achieving-a-2-billion-valuation-in-less-than-5-years-1030998352"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
   - title: "Verbit, the World's Leading Voice AI Platform, Raises $250 Million Series E, Achieving a $2 Billion Valuation in Less Than 5 Years | Morningstar"
     excerpt: "Verbit, the world's leading voice AI transcription and captioning company, announced today that it has closed its Series E funding round at $250 million, after securing a $150 million primary investment and $100 million in secondary transactions."
     publishedDateTime: 2021-11-23T15:04:07Z
