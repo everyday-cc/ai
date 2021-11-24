@@ -2,6 +2,48 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-10-25-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world.md",
+      "title": "AI can turn a collection of 2D images into an explorable 3D world",
+      "excerpt": "A neural network can turn a selection of photographs of a scene into a 3D world that can then be viewed from any angle, and could eventually be used in the movie industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/",
+      "originalUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/10/22172439/PRI_206258270.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/amp/",
+      "publishedDateTime": "2021-10-25T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-baidu-to-foster-5-million-talents-to-power-ai-growth.md",
       "title": "Baidu to foster 5 million talents to power AI growth",
       "excerpt": "Chinese tech giant Baidu Inc will cultivate 5 million artificial intelligence talents in the next 5 years, aiming to create a well-rounded tech labor force and power AI growth, said Robin Li, co-founder and CEO.",
@@ -1094,58 +1136,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-qualcomm-develops-eyes-free-smartphone-for-the-blind-and-visually-impaired-calls-it-ray.md",
-      "title": "Qualcomm develops eyes-free smartphone for the blind and visually impaired, calls it Ray",
-      "excerpt": "Qualcomm and Project Ray, however, are aiming to consolidate phone calls, text messaging with voice read-out, navigation, object recognition, audio book reading and more for the visually impaired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2012-10-23-qualcomm-ray-smartphone-eyes-free-blind-visually-impaired.html",
-      "originalUrl": "https://www.engadget.com/2012-10-23-qualcomm-ray-smartphone-eyes-free-blind-visually-impaired.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/DHoHJGG4a.E06Km02pVGTw--~B/aD00MDA7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/10/project-ray.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

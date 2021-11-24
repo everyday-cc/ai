@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-11-07-deep-learning-method-detects-disease-biomarkers.md",
+      "title": "Deep Learning Method Detects Disease Biomarkers",
+      "excerpt": "Researchers at the University of Waterloo have developed a deep learning network that can detect disease biomarkers with a high degree of accuracy. It achieves 98 percent detection of peptide features in a dataset,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/deep-learning-method-detects-disease-biomarkers/",
+      "originalUrl": "https://www.unite.ai/deep-learning-method-detects-disease-biomarkers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-SQf3vJas/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/analysis-2030261_1280.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-how-one-startup-is-shaking-up-the-consumer-trading-boom.md",
       "title": "How one startup is shaking up the consumer trading boom",
       "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday?  Happy Saturday,",
@@ -1131,58 +1174,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-apple-and-amazon-mlai-leads-to-speak-on-accessibility-at-sight-tech-global-2021.md",
-      "title": "Apple and Amazon ML/AI leads to speak on accessibility at Sight Tech Global 2021",
-      "excerpt": "Sensors and data are proliferating. Whether it’s from a phone, a car or smart home devices, astonishing amounts of data fuel the work of researchers and product developers conceiving new products and experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/",
-      "originalUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Sight-Tech-Global-machine-learning.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/amp/",
-      "publishedDateTime": "2021-11-05T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

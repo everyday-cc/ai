@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-23-how-do-you-scale-artificial-intelligence-ai-in-healthcare.md",
+      "title": "How do you scale Artificial Intelligence (AI) in Healthcare?",
+      "excerpt": "Sunny Dosanjh, Director lead for Deloitte’s Healthcare AI and Data team, explores the three key aspects in scaling AI in healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://www.openaccessgovernment.org/healthcare-artificial-intelligence/124827/",
+      "originalUrl": "https://www.openaccessgovernment.org/healthcare-artificial-intelligence/124827/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openaccessgovernment.org/wp-content/uploads/2021/11/dreamstime_xxl_163033011-scaled.jpg",
+          "width": 2000,
+          "height": 1108,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openaccessgovernment.org",
+        "domain": "openaccessgovernment.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-ai-combines-advanced-ability-to-learn-patterns-using-traditional-machine-learning.md",
+      "title": "AI Combines Advanced Ability to Learn Patterns Using Traditional Machine Learning",
+      "excerpt": "A new research center focusing on next-generation artificial intelligence (AI) technology will create the high-caliber expertise that Australia needs to be competitive in the approaching machine learning-enabled global economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12617_16375844573647560.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12617",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12617",
+      "publishedDateTime": "2021-11-22T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-brazilian-airports-expand-facial-recognition-trials.md",
       "title": "Brazilian airports expand facial recognition trials",
       "excerpt": "The domestic airports in São Paulo and Rio de Janeiro are advancing trials of a system developed by the federal government.",
@@ -550,49 +637,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-22-dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip.md",
-      "title": "Dimensity 9000: American users are worried, they wont be able to use this chip",
-      "excerpt": "MediaTek officially released the Dimensity 9000 flagship processor. This chip has been attracting a lot of attention because its theoretical specification",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/",
-      "originalUrl": "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/",
-      "publishedDateTime": "2021-11-21T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-22-europes-ai-laws-will-cost-companies-a-small-fortune-but-the-payoff-is-trust.md",
       "title": "Europe’s AI laws will cost companies a small fortune – but the payoff is trust",
       "excerpt": "No matter where you operate, the EU’s upcoming artificial intelligence legislation will likely affect you, so embrace its potential.",
@@ -1089,58 +1133,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv-viewing-experience.md",
-      "title": "MediaTek unveils Pentonic 2000 chip for next-level 8K 120Hz TV viewing experience",
-      "excerpt": "MediaTek today lifted the curtains on its new Pentonic smart TV family of processors with the introduction of the Pentonic 2000 chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Pentonic-2000-chipset-for-Smart-TV-featured-image.jpg",
-          "width": 1200,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1",
-      "publishedDateTime": "2021-11-20T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

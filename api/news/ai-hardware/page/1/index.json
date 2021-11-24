@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-25-mediatek-chips-had-faced-a-vulnerability-that-allowed-apps-to-eavesdrop-on-users.md",
+      "title": "MediaTek chips had faced a vulnerability that allowed apps to eavesdrop on users",
+      "excerpt": "Earlier today (25th November 2021), a vulnerability was spotted in the AI and audio processing components in recently launched MediaTek chipsets. This vulnerability would’ve allowed apps to eavesdrop on users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/",
+      "originalUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/gsmarena_000.jpg",
+          "width": 1220,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1",
+      "publishedDateTime": "2021-11-24T12:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us.md",
       "title": "Samsung to spend $17 billion to build new chip plant in the US",
       "excerpt": "Samsung on Wednesday said it would spend an estimated $17 billion in the US to build a new semiconductor manufacturing facility that will produce advanced logic chips. The new plant, to be built at Taylor,",
@@ -41,49 +93,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip.md",
-      "title": "Dimensity 9000: American users are worried, they wont be able to use this chip",
-      "excerpt": "MediaTek officially released the Dimensity 9000 flagship processor. This chip has been attracting a lot of attention because its theoretical specification",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/",
-      "originalUrl": "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/",
-      "publishedDateTime": "2021-11-21T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

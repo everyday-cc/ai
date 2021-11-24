@@ -27,31 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Dimensity 9000: American users are worried, they wont be able to use this chip"
-    excerpt: "MediaTek officially released the Dimensity 9000 flagship processor. This chip has been attracting a lot of attention because its theoretical specification"
-    publishedDateTime: 2021-11-21T20:13:00Z
-    webUrl: "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/"
-    ampWebUrl: "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/"
+  - title: "MediaTek chips had faced a vulnerability that allowed apps to eavesdrop on users"
+    excerpt: "Earlier today (25th November 2021), a vulnerability was spotted in the AI and audio processing components in recently launched MediaTek chipsets. This vulnerability would’ve allowed apps to eavesdrop on users."
+    publishedDateTime: 2021-11-24T20:13:00Z
+    webUrl: "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/"
+    ampWebUrl: "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 55
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/gsmarena_000.jpg"
+        width: 1220
+        height: 526
         isCached: true
-  - title: "MediaTek Dimensity 9000: next-gen SoC with 5G, AI, and TSMC 4nm node"
-    excerpt: "MediaTek has just unveiled its new 5G-powered Dimensity 9000 SoC which features 8 cores of CPU power, an ARM Mali-G710 MC10 GPU, ray tracing abilities, 5G connectivity, and it's made on TSMC's new 4nm process node."
-    publishedDateTime: 2021-11-22T01:44:00Z
-    webUrl: "https://www.tweaktown.com/news/82877/mediatek-dimensity-9000-next-gen-soc-with-5g-ai-and-tsmc-4nm-node/index.html"
+  - title: "Vulnerability in recent MediaTek chips could allow apps to eavesdrop on you, but it's been fixed"
+    excerpt: "Check Point Research has discovered a vulnerability in the AI and audio processing components for recent MediaTek chipsets, which could allow what is called a local privilege escalation attack from a third-party application."
+    publishedDateTime: 2021-11-24T11:00:00Z
+    webUrl: "https://www.androidpolice.com/mediatek-vulnerability-eavesdrop/"
+    ampWebUrl: "https://www.androidpolice.com/mediatek-vulnerability-eavesdrop/amp/"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/mediatek-vulnerability-eavesdrop/amp/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
+      name: Android Police
+      domain: androidpolice.com
+    quality: 46
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2016/01/nexus2cee_MediaTek-IC-close-up.jpg"
+        width: 5120
+        height: 3413
+        isCached: true
+  - title: "MediaTek Chip Flaw Could Have Let Attackers Spy on Android Phones"
+    excerpt: "MediaTek systems-on-a-chip are embedded in more than one-third of smartphones and IoT devices around the world."
+    publishedDateTime: 2021-11-24T17:00:00Z
+    webUrl: "https://www.darkreading.com/threat-intelligence/mediatek-chip-flaw-could-have-let-attackers-spy-on-android-phones"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
 
 secured: "KzLcomGQtQt9rtYEzVWno2Txi3GBASfHkaBh28CtEiIVuxppBVokCYTnl+ZcSVvSCwZbOw5X62zUwtikfKutR75ozPBuk9XxEC52HhiKO0HG8mMrNf954/mdrb8jX/PItA2s0jJzDVDPlKTveMy75Fsyr4ZhuG0XdNFAKY+Y9OIbol47Dn/TLkLbcbSYeG5O7hPNZRSButp4VdnIcc1IigZlDMIwSIgQW4PkqtVs6SMx4ujZzjmElj2nUHUkoZ8h5t5M4fVTt7Z6pJk0zqDhvrN2sDe0+wvuG12cRZtkcrv/jURM+DWgJTHlWPlMDmuZzQ4uRpOXxT07EuUJV0mYBLFgOol7fxF2iD4ntS6EmwOH92wL0eBSe3EoIXgFD8Kji8nU+5dA+3VcbUJNCzdbMpdYsTvDaG463LH86x3j+TBzst5veDSw5nmqzXkxFS4fzMhvEKgON8b6GCY3oFsf5gkABa6FmH+BTdzxio4hmWi5OyshNpoSZDH5+DnLjvEUO/08XDu+08BIF2AGwcsC8w==;B5e6LfFmT9hOheMkkG4EQQ=="
 ---

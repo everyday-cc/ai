@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-11-05-apple-and-amazon-mlai-leads-to-speak-on-accessibility-at-sight-tech-global-2021.md",
+      "title": "Apple and Amazon ML/AI leads to speak on accessibility at Sight Tech Global 2021",
+      "excerpt": "Sensors and data are proliferating. Whether it’s from a phone, a car or smart home devices, astonishing amounts of data fuel the work of researchers and product developers conceiving new products and experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/",
+      "originalUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Sight-Tech-Global-machine-learning.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/05/apple-and-amazon-ml-ai-leads-to-speak-on-accessibility-at-sight-tech-global-2021/amp/",
+      "publishedDateTime": "2021-11-05T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-henry-kissinger-says-ai-is-as-consequential-but-less-predictable-than-nuclear-weapons.md",
       "title": "Henry Kissinger Says AI Is 'as Consequential' but 'Less Predictable' Than Nuclear Weapons",
       "excerpt": "\"AI isn't novel because it's trying to take over the world (it isn't); it's novel because it's imprecise, dynamic, emergent and capable of learning all at the same time.\" Eric Schmidt, Hernry Kissinger and Daniel Huttenlocher talk about their new book and the promises and perils of AI.",
@@ -1147,50 +1199,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-pro-and-con-artificial-intelligence.md",
-      "title": "Pro and Con: Artificial Intelligence",
-      "excerpt": "Some people contend artificial intelligence can improve workplace safety, offer accessibility for people with disabilities, and make everyday life more convenient and enjoyable; others contend artificial intelligence poses dangerous privacy risks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
-      "originalUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.britannica.com/10/228410-131-1A428140/motion-abstract-background-binary-code.jpg",
-          "width": 900,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Britannica",
-        "domain": "britannica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

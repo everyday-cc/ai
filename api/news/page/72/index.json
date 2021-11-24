@@ -2,6 +2,40 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-09-30-amazon-amzn-bolsters-aws-portfolio-with-new-managed-service.md",
+      "title": "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service",
+      "excerpt": "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp",
+      "publishedDateTime": "2021-09-30T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2.md",
       "title": "Microsoft’s Saqib Shaikh, lead on Seeing AI, is returning to Sight Tech Global, Dec. 1-2",
       "excerpt": "At last year’s inaugural Sight Tech Global event, a virtual event dedicated to applications of AI and related tech to accessibility for people who are blind, one of the most popular sessions belonged to Saqib Shaikh.",
@@ -1186,58 +1220,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027.md",
-      "title": "At 26.3% CAGR, AI in Computer Vision Market Size is Expected to Exhibit 64.59 billion USD by 2027",
-      "excerpt": "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027-2021-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027-2021-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

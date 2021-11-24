@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-ar
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: GizChina
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek Dimensity 9000 Flagship Chipset Arrives to Rival High-End Snapdragon Chips"
-    excerpt: "MediaTek, at its 2021 Summit, has announced the new Dimensity 9000 flagship chip. It is the world's first TSMC chip that is based on the 4nm process,"
-    publishedDateTime: 2021-11-20T09:45:00Z
-    webUrl: "https://beebom.com/mediatek-dimensity-9000-flagship-chipset-arrives-to-rival-high-end-snapdragon-chips/"
-    ampWebUrl: "https://beebom.com/mediatek-dimensity-9000-flagship-chipset-arrives-to-rival-high-end-snapdragon-chips/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/mediatek-dimensity-9000-flagship-chipset-arrives-to-rival-high-end-snapdragon-chips/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 53
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/11/mediatek-dimensity-9000.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "MediaTek Dimensity 9000: next-gen SoC with 5G, AI, and TSMC 4nm node"
     excerpt: "MediaTek has just unveiled its new 5G-powered Dimensity 9000 SoC which features 8 cores of CPU power, an ARM Mali-G710 MC10 GPU, ray tracing abilities, 5G connectivity, and it's made on TSMC's new 4nm process node."
     publishedDateTime: 2021-11-22T01:44:00Z

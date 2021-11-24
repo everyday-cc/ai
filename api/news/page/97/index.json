@@ -2,6 +2,49 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2021-09-14-temenos-and-ibm-collaborate-to-accelerate-hybrid-cloud-adoption-in-the-financial-services-industry.md",
+      "title": "Temenos and IBM Collaborate to Accelerate Hybrid Cloud Adoption in the Financial Services Industry",
+      "excerpt": "Temenos (SIX: TEMN), the banking software company, today announced the availability of Temenos Transact next-generation core banking with Red Hat OpenShift on IBM Cloud, to accelerate hybrid cloud adoption within the financial services industry.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-3695e2ebdce54251b44a14855d39400c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-3695e2ebdce54251b44a14855d39400c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-artificial-intelligence-market-is-anticipated-to-expand-at-a-cagr-of-29-from-2021-to-2031.md",
       "title": "Artificial Intelligence Market is anticipated to expand at a CAGR of ~29% from 2021 to 2031",
       "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market. In terms of revenue, the global artificial intelligence market is estimated to expand at a CAGR of ~29% during the forecast period,",
@@ -1039,49 +1082,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-chinas-baidu-inc-opens-its-apollo-go-robotaxi-service-in-shanghai.md",
-      "title": "China's Baidu Inc. Opens its ‘Apollo Go' Robotaxi Service in Shanghai",
-      "excerpt": "Chinese tech giant Baidu Inc. has opened its Apollo Go robotaxi service in Shanghai, its third major city in China following the launch in Beijing and Guangzhou. With the launch of Apollo Go in Shanghai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/4866/China’s-Baidu-Inc-Opens-its-‘Apollo-Go’-Robotaxi-Service-in-Shanghai",
-      "originalUrl": "https://www.futurecar.com/4866/China’s-Baidu-Inc-Opens-its-‘Apollo-Go’-Robotaxi-Service-in-Shanghai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202109/13/l_613fbff9b6497.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

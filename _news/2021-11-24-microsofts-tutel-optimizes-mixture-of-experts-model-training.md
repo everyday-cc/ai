@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixtur
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/"
 type: article
 quality: 104
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DRjoNOx/sizes/microsoft-chip_resize_md.jpg"
         width: 744
         height: 419
-        isCached: true
-  - title: "Microsoft's Recent AI News"
-    excerpt: "Microsoft has built itself up into a Cloud and Corporate Metaverse leader in recent years and that's staring to really show in its artificial intelligence ambitions. We have to give credit where it is"
-    publishedDateTime: 2021-11-20T03:53:00Z
-    webUrl: "https://www.linkedin.com/pulse/microsofts-recent-ai-news-michael-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG76zDBdVzusw/article-cover_image-shrink_600_2000/0/1637379894170?e=1642636800&v=beta&t=dhkM2hx5V8sJI5zzejNfTYGIz3-87ipBigZgVOdvuMg"
-        width: 696
-        height: 392
         isCached: true
 
 secured: "uvC6qMeCeYWcVWooPRdsE0CnaOZztQMKH6WPyoaLdLNO+fb58FqAlWN5tRDqECTWb5MvOWOUHCmxGNreVS+ituWfF6IHMaWXIkOeVTTr8PbuzOnGMHxPc4AYjkQiE6Doep6OLmtxzHadVKP0yVQVpbngnClxPX3UnoQSbDv1Y46GgX9hpgmecoN4h68p1g4o4bbx9MVSwbgn4+O02QYCswv6noRW/r2xbLRPSFf2PzUog4YCGpmvrIzu5FZ6o0IIc5hnJs9rkOoutkThRyX/OnIYooza2c3+X3YSzfmdXi6y1Fgsm2jJ/v1Sz3NKy/fP5Vv6mpasgwXMpjOGrDoEo5QyWdXZqmU+E1zSdZguP3E=;RR1f5x2IiFcfvDYpByyh8g=="

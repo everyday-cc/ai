@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-20-mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv-viewing-experience.md",
+      "title": "MediaTek unveils Pentonic 2000 chip for next-level 8K 120Hz TV viewing experience",
+      "excerpt": "MediaTek today lifted the curtains on its new Pentonic smart TV family of processors with the introduction of the Pentonic 2000 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/",
+      "originalUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Pentonic-2000-chipset-for-Smart-TV-featured-image.jpg",
+          "width": 1200,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1",
+      "publishedDateTime": "2021-11-20T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-best-new-cars-cheaper-than-40000.md",
       "title": "Best new cars cheaper than $40,000",
       "excerpt": "You definitely don't need to spend $40,000 on a new car. But, if you're prepared to drop that kind of cash on a vehicle, you've come to the right place. With this kind of budget, the options open to some luxury cars and even plush SUVs.",
@@ -1182,57 +1234,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition.md",
-      "title": "Meet The Boundary-Breaking Jewelry Artists Showing Alongside Ai Weiwei In Force Of Nature Exhibition",
-      "excerpt": "Open today at Elisabetta Cipriani Gallery in London, Force of Nature brings together 17 contemporary artists who have vaulted the barrier between art and jewelry. Curated by jewelry editor and author Melanie Grant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/",
-      "originalUrl": "https://www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619778742c2e9fcf3d8aedae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2500%26cropY1%3D126%26cropY2%3D1532",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katematthams/2021/11/19/meet-the-boundary-breaking-jewelry-artists-showing-alongside-ai-weiwei-in-force-of-nature-exhibition/amp/",
-      "publishedDateTime": "2021-11-19T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

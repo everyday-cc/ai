@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-11-11-hello-robot-why-overly-realistic-ai-is-bad.md",
+      "title": "Hello Robot, Why Overly-Realistic AI Is Bad",
+      "excerpt": "The AI software robot ‘bots’ that have passed the Turing test so ... AI engines have been subject to abuse and even sexual harassment. A 2019 UNESCO Artificial Intelligence report demonstrated how AIs can 'reflect, reinforce and spread gender bias ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/11/11/hello-robot-why-overly-realistic-ai-is-bad/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/11/11/hello-robot-why-overly-realistic-ai-is-bad/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618bbcb2fc85269e4a83e35f%2F0x0.jpg",
+          "width": 640,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech.md",
       "title": "Toch.ai launches Rs 100 cr Startup Fund; to invest in video, audio tech",
       "excerpt": "Toch.ai, an AI-driven SaaS platform for digital content players today launched a Rs 100 crore Startup Fund to invest in video and audio tech startups globally over a period of time. The fund aims to empower early-stage startups to drive innovation and bolster growth in the industry.",
@@ -1166,57 +1218,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-data-society-launches-ai-driven-meldr-platform-for-data-science-training.md",
-      "title": "Data Society launches AI-driven meldR platform for data science training",
-      "excerpt": "Data Society has announced the launch of meldR, a social learning platform that allows L&D teams to deliver AI-generated data science learning courses.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/",
-      "originalUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/amp/",
-      "publishedDateTime": "2021-11-10T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

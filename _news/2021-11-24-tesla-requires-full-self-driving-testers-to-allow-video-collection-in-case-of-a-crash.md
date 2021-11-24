@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
 type: article
 quality: 97
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla Asks Full Self-Driving Beta Drivers to Consent to Being Recorded When They Crash"
+    excerpt: "Tesla's new requirement speaks to a larger issue around privacy trade-offs with certain types of in-car driver monitoring systems."
+    publishedDateTime: 2021-11-24T20:55:00Z
+    webUrl: "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913"
+    ampWebUrl: "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 81
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/e02a404fce0521f2a37718e625fb01e3.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Tesla asks Full Self-Driving Beta drivers to accept being recorded in case of a crash or ‘safety risk’"
     excerpt: "Tesla is now asking owners getting into the Full Self-Driving Beta program to accept that Tesla can use footage from both inside and outside the car in case of a safety risk or accident. It’s the first time that Tesla will attach footage to specific individuals."

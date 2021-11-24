@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft's Recent AI News"
-    excerpt: "Microsoft has built itself up into a Cloud and Corporate Metaverse leader in recent years and that's staring to really show in its artificial intelligence ambitions. We have to give credit where it is"
-    publishedDateTime: 2021-11-20T03:53:00Z
-    webUrl: "https://www.linkedin.com/pulse/microsofts-recent-ai-news-michael-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG76zDBdVzusw/article-cover_image-shrink_600_2000/0/1637379894170?e=1642636800&v=beta&t=dhkM2hx5V8sJI5zzejNfTYGIz3-87ipBigZgVOdvuMg"
-        width: 696
-        height: 392
-        isCached: true
 
 secured: "WOjd9o1hXSKkoUkROMgysT6iqbgAxuYVvvpTxv89Mcgw249eVbPIWd0J6jNv/T7u6cfVqRlpjOQJ+GRtiqgPA1l2Ev4GsqiMcSML38jpfNaLbjRPooJ5kW2OwM9p2GnssILUk6q+f/ZumBHJy69QSDzKfE2QT/vDNJrU7e+cNKVpH6x8ocMXmw8crV0pJI9y4vsewVeZyepPNZqrFNKlkr/x5sPOG0XvIM70EN18wJ9L9IfUjum+nxFA0jRn17id16MckZBD5AcxV1rezYhKsYUzcK3d2q7s7E988X5damJ0bCABOWeU5pzpvviPCDUSJC7sO0aU2Y1QRI4fCLaN6RTneoqxdMMQReOtseqdQKSrQreQCUzJRCPO+/dcFTHOdyWfSIk3wo3c3wOVXVMA2qrlGJ7ONHG0Rma3cDviBchaeoe213lmmP52b3uAGH83ODMRPmxmH5Dtxke4EQVCNB6GQY0mKIw0CJ+H1rvNch92FIT96Jk49bLxhHyoXIDmNtHLE0Nrav5HD09XGzOuYw==;SdDhDa9rEtlSUjBbzhVvag=="
 ---

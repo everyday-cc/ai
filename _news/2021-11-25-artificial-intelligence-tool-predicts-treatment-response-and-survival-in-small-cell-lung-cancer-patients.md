@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2021-11-artificial-intelligence-tool-tre
 ampWebUrl: "https://medicalxpress.com/news/2021-11-artificial-intelligence-tool-treatment-response.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligence-tool-treatment-response.amp"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-cancer.jpg"

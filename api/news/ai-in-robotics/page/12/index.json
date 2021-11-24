@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-09-09-this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold.md",
+      "title": "This Robot Trader Just Turned Bullish on Amazon, Facebook, and Nvidia. Here’s What It Sold.",
+      "excerpt": "An exchange-traded fund with holdings decided by artificial intelligence ... and Lam Research (LRCX), and beauty products powerhouse Estée Lauder (EL). Facebook and Nvidia’s respective pushes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900?siteid=yhoof2",
+      "originalUrl": "https://www.barrons.com/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900?siteid=yhoof2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-378016/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900",
+      "publishedDateTime": "2021-09-08T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-irobot-introduces-roomba-j7-robot-vacuum-with-geniustm-30-home-intelligence-clean-the-way-you-want-so-you-can-human.md",
       "title": "iRobot Introduces Roomba® j7+ Robot Vacuum with Geniustm 3.0 Home Intelligence - Clean the Way You Want, So You Can Human",
       "excerpt": "Robots should clean your home exactly how you want them to, understanding your specific instructions and unique preferences. iRobot Corp. , a leader in consumer robots, today is giving customers even more control over their clean with the",

@@ -1,21 +1,20 @@
 ---
 category: news
 title: "Kore.ai Extends Its Financing to $73.5 Million"
-excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In"
+excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation"
 publishedDateTime: 2021-11-23T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
+originalUrl: "https://www.prnewswire.com/news-releases/koreai-extends-its-financing-to-73-5-million-301430428.html"
+webUrl: "https://www.prnewswire.com/news-releases/koreai-extends-its-financing-to-73-5-million-301430428.html"
 type: article
-quality: 19
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI Hardware
   - AI
 
 related:
@@ -64,6 +63,6 @@ related:
         height: 506
         isCached: true
 
-secured: "v2PJai9wQZyYTo0iXPWjzfnmN/3MpIaPcfx25HS8TJzQLnHwHbzH4iWZdYnp8g1dGr6F6tHUvmYI5XUSmHG3vVu0+5BfRER2e+8ZirBK7H8Ddf11orSiaDZkc7zTHRTWHPKxfCOCu1RbDS7Jhii+vEBIl42RESC4FTjz+1k6ACboSGr9Cm+XziVzlFFFM9FK+tKA5qoEVzsa1SjgxhaRO4roX6TkmSVuxPdKLTfdHhE/HlEVNTWifRKAwxZe+SddmofPh2NTVHebpwgxwIS3rlqS4uYPAWbRut7GYD1HkMpnOy3KANa6mxMWe+DR54cEtlpdPOTvHHxKMkDCfhvJQQf8e5cHI/vV9RKhPCJ56VsvyvCvMgjXYSH5GKEDP9FZDTCfUi5e2rU99SQqtOoOdNX0w0AiOTq2S/2tz6popOvfQY3Fq5+IyOtEWZDvx5MVFcC63G9iUf9ul3G2kk7j49ibnQIcKWPzCIRDLr26VPB4puc2h5szmVeM9AnfJqi+08kcfFz7Eru12aFF9kdCmA==;9w4bMmhKbf1RGaa0s2GAWA=="
+secured: "aaEIKQmGpD5z8kz3nejBhfYV7gwXUwK3EKMaHLVB1w2a+AKCnCtY2BWVMZI9hrXVvz/T568ksBNPH7ZX82G6MYbdCpBcim8m3hExt6M+2xH4h/nsCEoP+3yqnumVaJDbQQsI+ppxqDeso4O/i+xptF7KHHrf25iKh+FD0ark07DgUKaK6W9dWNrD1UJEIGLHDrDnDjku7kX3MFhN/04/lXE8pTkWSBwm/kgjoRyGfUoDdmarkMuFOGEwY3MdF/XrUz1c6rnWYpDqXpi1AtR5nMDmqLl8ZvN8Mjd3l0XzrZmIkl5zfvo0cB17rFL/JwtbnofSvRZFnuNA/OiwQ4BUeVv3goEWFICuSQXrRjyI55Y=;xDy9GQutvgHnSiUwj7QcbA=="
 ---
 

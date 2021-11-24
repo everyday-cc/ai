@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
-publishedDateTime: 2021-11-23T20:00:00Z
-originalUrl: "https://www.entrepreneur.com/article/398836"
-webUrl: "https://www.entrepreneur.com/article/398836"
+excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
+publishedDateTime: 2021-11-23T17:12:00Z
+originalUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
+webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
+ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
-    width: 635
-    height: 400
-    isCached: true
 
 related:
   - title: "Adidas Migrates SAP Environments To Amazon Web Services"
@@ -105,6 +97,6 @@ related:
       domain: financialbuzz.com
     quality: 21
 
-secured: "DrRDAeqgT/K9OqSqSbBpAqwhcCcCgnR08ddWrBfcb4p2EXDoLnGgzumrb6tSwZNSX4GYk9evHtpwWvSxv0OI8Zh9krqVa/zFXExnKx4+t39ZVOmKCobB8pY/p1ARVhJ3Ncj2DUuAHcQw0osRDRLlxg0XN0UTfDx25p70vTMVm9XX3hNdMT0ip4RX1+cXTaPkKu1uc31hG2J8QiSxx7Bo1h+VM0sXWxYJTeyIwL7sp3r/3QeTuvc7UYoA4Ib85tnsZfyfV/onSy+9tVdiWuBU3jXcX6APaONlhn1aXkoxk+4jeSIBYIU8TKXuPMrkHHvtXPt6tgiEwlDOujMic1Qj7Ptok/GTPL2ZrbInS+WAs2w=;vyikHTf2Z6s4uZ9aKN0KKw=="
+secured: "31tovXyqCoPe7Y8B0UdjzJ4ynrhVaZR9nN/wzKm/mZse20PyEfEVN0i4ZIchOYKHAxlC3qMXMxGaD4nvAmPCq3IQUNKJNspK9cLAUa6hZgaAv4NK9FdxCwK4l75GNO13M7IA+vds/T/KFnQBOvr93Se+xCsaWSqDgYQ/oTzHjY2GQne9r/cOexSGP1/31RpDczsFdv6j2BqI6zj9wLCuCDz9G/oZF++NUiGC0gAVMvx+W0PCTbbaptraYVuhrxwC/BkY9BYyW+mQ5a5QTvoDNMVikPDyex88rd8CzwpMyBcM7yp+rWySmtKgUZaE5m6+4YLc/Pn61CyfGWwCxREs734OftyEOjiRFxRZ6ntFr3Q=;9hK/68R1A9guPWUbM2qL1Q=="
 ---
 
