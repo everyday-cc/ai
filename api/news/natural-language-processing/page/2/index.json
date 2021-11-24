@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-09-nvidia-makes-massive-language-model-available-to-enterprises.md",
+      "title": "Nvidia makes massive language model available to enterprises",
+      "excerpt": "Nvidia has made available one of the world's largest language models -- Megatron 530B -- to enterprise customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-makes-massive-language-model-available-to-enterprises/amp/",
+      "publishedDateTime": "2021-11-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-yellowai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience.md",
       "title": "Yellow.ai Launches INBOX - an Omnichannel Agent Assist Platform to Elevate Customer and Agent Experience",
       "excerpt": "DUBAI, UAE, Nov. 9, 2021 /PRNewswire/ -- Yellow.ai, the world's leading customer ... to handle requests from a single dashboard in any language, offering complete customer history with superior ...",
@@ -1360,49 +1412,6 @@
       "provider": {
         "name": "WLWT",
         "domain": "wlwt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-wolters-kluwer-announces-integration-of-its-clinical-natural-language-processing-solution-with-henry-scheins-micromd-emr-platform.md",
-      "title": "Wolters Kluwer Announces Integration of Its Clinical Natural Language Processing Solution With Henry Schein's MicroMD EMR Platform",
-      "excerpt": "Wolters Kluwer, Health announced today that MicroMD®, Henry Schein Medical Systems' practice management and electronic medical record (EMR) solution, will implement the Health Language clinical Natural Language Processing (cNLP) solution to",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20065889.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20065889.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null

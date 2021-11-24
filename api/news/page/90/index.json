@@ -2,6 +2,50 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2021-09-16-can-machine-learning-improve-client-outcomes.md",
+      "title": "Can machine learning improve client outcomes?",
+      "excerpt": "There are a number of perspectives on how data science, artificial intelligence and machine learning could ... operational efficiencies of how financial services practitioners – including ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ftadviser.com/investments/2021/09/16/can-machine-learning-improve-client-outcomes/",
+      "originalUrl": "https://www.ftadviser.com/investments/2021/09/16/can-machine-learning-improve-client-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F2%2F6%2F9%2F2599626-8-eng-GB%2Fpexels-tima-miroshnichenko-5380664.jpg%3Fv1?source=ftadviser",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FTAdviser",
+        "domain": "ftadviser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-this-restaurant-tech-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately.md",
       "title": "This restaurant tech start-up uses computer vision to get your fast-food order made accurately",
       "excerpt": "The start-up installs overhead cameras in restaurant kitchens and uses computer vision to scrutinize if workers are preparing orders correctly. The drive-thru ordering boom during the Covid pandemic has made order accuracy more difficult for fast-food ...",
@@ -1082,57 +1126,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-the-responsibilities-of-ai-first-investors.md",
-      "title": "The responsibilities of AI-first investors",
-      "excerpt": "Investors in AI-first technology companies serving the defense industry, such as Palantir, Primer and Anduril, are doing well. Anduril, for one, reached a valuation of over $4 billion in less than four years.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/15/the-responsibilities-of-ai-first-investors/",
-      "originalUrl": "https://techcrunch.com/2021/09/15/the-responsibilities-of-ai-first-investors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-962042766.jpg?w=551",
-          "width": 551,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

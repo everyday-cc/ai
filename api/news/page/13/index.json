@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-11-11-samsung-exynos-2200s-amd-gpu-exhibits-34-peak-performance-improvement-over-predecessor.md",
+      "title": "Samsung Exynos 2200’s AMD GPU exhibits 34% peak performance improvement over predecessor",
+      "excerpt": "A reliable leakster has shared that the AMD GPU on the Samsung Exynos 2200 exhibits 34% peak performance improvement over its predecessor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/",
+      "originalUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/09/Samsung-Exynos-Logo-Featured.jpg",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/?amp=1",
+      "publishedDateTime": "2021-11-11T01:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-facial-recognition-marches-forward-no-matter-what-facebook-says.md",
       "title": "Facial Recognition Marches Forward, No Matter What Facebook Says",
       "excerpt": "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore —and facial recognition has become an increasingly toxic concept in many circles.",
@@ -291,7 +343,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1173,50 +1226,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-microsoft-india-proposes-varuna-scalable-low-cost-training-of-massive-deep-learning-models.md",
-      "title": "Microsoft India Proposes Varuna: Scalable, Low-Cost Training of Massive Deep Learning Models",
-      "excerpt": "The performance of contemporary AI systems on natural language processing (NLP) tasks would have been difficult to imagine just a few years ago. The 2017 debut of massive language model BERT was a game-changer,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/",
-      "originalUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/amp/",
-      "publishedDateTime": "2021-11-10T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

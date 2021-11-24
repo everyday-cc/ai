@@ -115,20 +115,6 @@ related:
         width: 870
         height: 489
         isCached: true
-  - title: "11 Best Autonomous Vehicle Stocks To Buy Now"
-    excerpt: "In this article, we will take a look at the 11 best autonomous vehicle stocks to buy now. To skip our detailed analysis of the self-driving car industry and its growth potential, you can go directly to the 5 Best Autonomous Vehicle Stocks To Buy Now."
-    publishedDateTime: 2021-11-19T07:51:00Z
-    webUrl: "https://www.insidermonkey.com/blog/11-best-autonomous-vehicle-stocks-to-buy-now-984547/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 24
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/02024105/matthijs-waanders-iw0D_9wHnf4-unsplash.jpg"
-        width: 1920
-        height: 1171
-        isCached: true
   - title: "Apple's fully self-driving electric car may be launched as early as 2025"
     excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
     publishedDateTime: 2021-11-22T09:01:00Z

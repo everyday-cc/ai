@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-23-sama-tea-using-artificial-intelligence-ai-to-launch-a-new-brand.md",
+      "title": "Sama Tea: Using Artificial Intelligence (AI) To Launch A New Brand",
+      "excerpt": "Developing and successfully launching a product is not easy; in fact, 95% fail. But could artificial intelligence, machine learning, and big data help? In this article, we look at how Sama Tea used AI to help them launch a new brand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/23/sama-tea-using-artificial-intelligence-ai-to-launch-a-new-brand/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/23/sama-tea-using-artificial-intelligence-ai-to-launch-a-new-brand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619c82c1022d89e374d738a2%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/23/sama-tea-using-artificial-intelligence-ai-to-launch-a-new-brand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/23/sama-tea-using-artificial-intelligence-ai-to-launch-a-new-brand/amp/",
+      "publishedDateTime": "2021-11-22T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage.md",
       "title": "Report: AI has assisted half of all business owners during the labor shortage",
       "excerpt": "As companies continue to see high turnover rates, business owners can benefit from AI handling the duties traditionally managed by humans.",
@@ -250,7 +301,7 @@
       "originalUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -293,7 +344,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-terminal-market-2021-to-2027-existing-and-future-insights-growth-2021-11-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -472,7 +523,7 @@
       "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -516,7 +567,7 @@
       "originalUrl": "https://www.zdnet.com/article/brazilian-airports-expand-facial-recognition-trials/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -808,7 +859,7 @@
       "originalUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1084,7 +1135,7 @@
       "originalUrl": "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1115,48 +1166,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-use-of-artificial-intelligence-in-hiring-raises-concerns.md",
-      "title": "Use of artificial intelligence in hiring raises concerns",
-      "excerpt": "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the",
-      "sourceUrl": null,
-      "webUrl": "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html",
-      "originalUrl": "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/2/c5/2c5c1a89-8999-557f-970a-8801833d26fc/6197bb0619dad.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Montana Standard",
-        "domain": "mtstandard.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

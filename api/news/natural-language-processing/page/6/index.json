@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-22-ct-town-at-forefront-of-national-debate-over-facial-recognition-tech.md",
+      "title": "CT town at forefront of national debate over facial recognition tech",
+      "excerpt": "Joining cities including San Francisco, Baltimore and Cambridge, Mass., the comparatively small town of Hamden has placed itself at the forefront of a national issue by banning governmental use of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b",
+      "originalUrl": "https://www.nhregister.com/metro/article/CT-town-at-forefront-of-national-debate-over-16476168.php?t=073abf079b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/22/56/21048234/21/rawImage.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Haven Register",
+        "domain": "nhregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-ssc-services-for-education-launches-national-employee-recognition-program.md",
       "title": "SSC Services for Education Launches National Employee Recognition Program",
       "excerpt": "SSC Services for Education (SCC), a leading national facilities and grounds management provider for K-12 schools and universities across the country, has announced a new employee recognition program,",
@@ -1272,49 +1316,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-whatsapp-reportedly-working-on-voice-message-transcribe-feature.md",
-      "title": "WhatsApp Reportedly Working On Voice Message Transcribe Feature",
-      "excerpt": "In a recent development, soon WhatsApp users will be able to transcribe voice messages on the platform using speech recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html",
-      "originalUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/11/AH-WhatsApp-logo-11.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/09/whatsapp-reportedly-working-on-voice-message-transcribe-feature.html/amp",
-      "publishedDateTime": "2021-09-13T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

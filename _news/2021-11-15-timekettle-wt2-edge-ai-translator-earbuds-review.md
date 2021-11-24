@@ -1,14 +1,11 @@
 ---
 category: news
 title: "TimeKettle WT2 Edge AI Translator Earbuds review"
-excerpt: "Then you might well consider using something like the TimeKettle WT2 Edge AI Translator Earbuds, providing built-for-purpose simultaneous translation between forty languages. These aren’t a cheap option,"
-publishedDateTime: 2021-11-15T13:10:00Z
-originalUrl: "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds"
-webUrl: "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds"
+excerpt: "Then you might well consider using something like the TimeKettle WT2 Edge AI Translator Earbuds, providing built-for-purpose simultaneous translation between forty languages. TimeKettle WT2 Edge ..."
+publishedDateTime: 2021-11-15T15:05:00Z
+originalUrl: "https://www.techradar.com/in/reviews/timekettle-wt2-edge-ai-translator-earbuds"
+webUrl: "https://www.techradar.com/in/reviews/timekettle-wt2-edge-ai-translator-earbuds"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
   name: TechRadar
@@ -28,6 +25,6 @@ images:
     height: 491
     isCached: true
 
-secured: "s1uuKlCI4ZktxhyJc1La/MhgLVbkYwKdtV6i771Qz4meSblgUfZucNlQg8eHxpkf8Xt7Ope6/xAdhBBS6fXEj0czmIkQvxcC3hZ0Ko/PF67s5chikVMquTQa7kal6QmSQhvqhm5F3JWmDL8cR/o3wgojLQlr/QUm9Kjr0gZCJFO8PjSzHraCrny6UByQwT6GL4VNQItz4gkWlL0NrCt5/Ka1Hw5W9ccz7MCf7avIcxiVmOk6HeYDhJfzjzr/y9xiujUevtlkw3Q7QuMY9T23K1Rm7cENG3mPeiSRMae/6swsR8OKaNLRxLLlqMWWpW/x7VaMqeM7Y00jxScn4bKgny7qxru6jfDX85AlOGQ5m061J3NZp7ylcDlYmk4WG1LOjQw4+rEb6efCCYaXPCwrACqk+GSO3rndfNIjxSg/bAz5D4DoIKsy0OLcyreItLQz9BNkZzvNcm3mDQW3grPP3XNNqth8FAgo6iEnBe6dseX5HpP9rgSHtzRTFN8YCZakLiufbKLa3jZoCX93UlQ8uQ==;CRwyyaaEE8vBjc3OGUq6xw=="
+secured: "GYOEERwB0ghHzKPCqymF0CD73p33rSuK1G7y/A880AdHmEzCZ5LAijdWjzXwn7Oz7JCKC40rKzHBWNaJyoPSwol8lILB9fbg7MzJHnCR1EL2uYXOkTgTJAeEpAdMBy0xhBRWShRTvIpZI3k5jmWGpHFkJI2IwUScVRZJ5/MDAhco0iECDfliUBSnFRApff0I8Yob/YMf2ei/WxojHYNHIpDSfI3+bv+CYOGV1QxYYFpjelUO8PeghXZEGO2NkxwlRovW7VIfFwo8X0Cty6+e59IB9OHn6WgfWAMNeDOBgZyHCvn0CH1Uul3PtZj3eRobN68K9DUf4Fkht3Rme/Fk2ruRtBCplQUvIiLR/5NU21c=;ovIWawng2DQZL2lFJO2ePQ=="
 ---
 

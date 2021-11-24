@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/business/apple-accelerates-work-on-
 webUrl: "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle"
 type: article
 quality: 135
-heat: 225
+heat: 215
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://cdn-japantimes.com/wp-content/uploads/2021/11/np_file_124959-870x489.jpeg"
         width: 870
         height: 489
-        isCached: true
-  - title: "11 Best Autonomous Vehicle Stocks To Buy Now"
-    excerpt: "In this article, we will take a look at the 11 best autonomous vehicle stocks to buy now. To skip our detailed analysis of the self-driving car industry and its growth potential, you can go directly to the 5 Best Autonomous Vehicle Stocks To Buy Now."
-    publishedDateTime: 2021-11-19T07:51:00Z
-    webUrl: "https://www.insidermonkey.com/blog/11-best-autonomous-vehicle-stocks-to-buy-now-984547/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 24
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/02024105/matthijs-waanders-iw0D_9wHnf4-unsplash.jpg"
-        width: 1920
-        height: 1171
         isCached: true
   - title: "Apple is diving headfirst into full self-driving with the Apple Car"
     excerpt: "Apple wants to build a better automobile and has retooled its electric car project around focusing on full self-driving capabilities. That’s according to the usually-accurate Mark Gurman at Bloomberg,"

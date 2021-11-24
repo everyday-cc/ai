@@ -7,7 +7,7 @@ originalUrl: "https://www.cc.gatech.edu/news/embracing-socratic-paradox-may-lead
 webUrl: "https://www.cc.gatech.edu/news/embracing-socratic-paradox-may-lead-more-reliable-predictions-ai-models"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 850
     height: 478
     isCached: true
-
-related:
-  - title: "Automation, AI key to optimising application performance"
-    excerpt: "Automation and AI are the only way to ensure optimal performance of the applications that organisations depend on, according to IBM."
-    publishedDateTime: 2021-11-19T08:58:00Z
-    webUrl: "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
-  - title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
-    excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
-    publishedDateTime: 2021-11-23T13:02:00Z
-    webUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
-    type: article
-    provider:
-      name: Kentucky New Era
-      domain: kentuckynewera.com
-    quality: 35
 
 secured: "DnNeybxSF5sHD3X/K5WUz83v8Uo56DV6vXLj96wMw2eVHl/kh1QvxLYv4vQDGv5blc3+we70jFov+ZVI+gjYrn/029PFlNGrmDZhvFRmqXN+g6ceVWMOd9CLF/cpq71Z/hQcbsX0oIyDeFr5C6JjlXZXO2kIwyDG4vuW6bhD70bS6StXxP0dtWShzy7XNgC+6jW6j5yBbybOARzwG792Vx6QNPGctIhQt79CCDdX/6rIv9DPmQRbquzt7RFDmI5Exv7dCZwJ66meC/o+Dj+Ji56zhpY6aaf2Mpmlg6KQkKGUzWqM3oBhseR9HaTNKzs2iPT3d7526JUBGeGtWdX9GUTGitTNdoVZzAK3LpDnkda6lvheoNQnfOUkE5ZExHzKlIXsQildunauQ2wIUxuLwgEQYIYLkyZHPHGGk34SmEUZwR2wmFtqIidBvuIPSoX741CgXcFphVB1VO+RRdtDGsyjrd+PWiEWy5BAPioQD7tRfbgtlG+jwGHuqpjIchnQLqsAKwEm7lSquqUzlXzZZg==;PryAvB7ibzc8YlUb8zkIgw=="
 ---

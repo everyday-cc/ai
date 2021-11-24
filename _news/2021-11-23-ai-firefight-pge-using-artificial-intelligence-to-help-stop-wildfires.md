@@ -9,7 +9,7 @@ ampWebUrl: "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using
 cdnAmpWebUrl: "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp"
 type: article
 quality: 72
-heat: 82
+heat: 83
 published: true
 
 provider:

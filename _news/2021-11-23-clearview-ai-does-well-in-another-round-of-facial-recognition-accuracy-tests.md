@@ -3,10 +3,10 @@ category: news
 title: "Clearview AI does well in another round of facial recognition accuracy tests."
 excerpt: "This time, a federal agency assessed the ability to pick the right person out of millions of photos. Clearview’s app still faces legal hurdles."
 publishedDateTime: 2021-11-23T12:38:00Z
-originalUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-facial-recognition-accuracy.html"
-webUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-facial-recognition-accuracy.html"
-ampWebUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-facial-recognition-accuracy.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/23/technology/clearview-facial-recognition-accuracy.amp.html"
+originalUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.html"
+webUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.html"
+ampWebUrl: "https://www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/23/technology/clearview-ai-facial-recognition-accuracy.amp.html"
 type: article
 quality: 101
 heat: 101
@@ -30,6 +30,6 @@ images:
     height: 550
     isCached: true
 
-secured: "J6Xnm1sem++c5Qcy5fWtmZeDgAmikrgprKI4Lej6xWwTFT0JRPvow5RAMPtxXxhvTrdx9rfI9a5ln5GtVppUkhafDlsySxxxg2iNrmu03Rxh7ecBxkHXTLpTGOZQGKJ26qZnUEknzj9+nF3KoSJwuGmwLAoBqS+2hGmitmxHXNRi/jH51KPWiBZCYuz03d/yT4C3p9aT+U8jlItfNCG1nwntalUJRPbCQx+YNBsBPmKa/m143eyQ82t9W3BjtI7AhMO+Xw3dxYu/hisT1ljrLJfhmvO3riz0fRmWrv1bmAwe/EGeOJVb9V30UZIuzDAj3+W2kbonrICtQ0LxJQ0OsuhrE/qzX8bL2QusYpulGvc=;os4ZHQ7GwUnUJUVTkUm2/g=="
+secured: "hkqgOl6lUmPbRzY5iK4tVtwZ8VygFDU6YJ4Gkh4oIklTj6tlkuoQPA8Uj1QmoT1qppVP+hCqeG4iycJ6hxetlVnc7oS9fiWUHHO5H3/YdKAP/3LH2SXCLVmUdLcrzL6BnPZw0D9hSRzspKPMlXjOk+iOotIwmwmKUf7a2MU7MRJrDsavznI0k0Q1is6Mve+ykxWuutO1RdM8TasekuERhiPlRneZL2Eo60e2hDN84S8okCYTWzn/HIioXTPEszll7nrFCMs1H/dyRwa3MN9jhb0quWwmQKwhL0AlZiGIY/wUN5PqSM4tEwAuEqVnfBNjbgKIL6SOCNzP/h/MCbpXU6CUvckygGHq7WlOwHRbo80=;DFSGWz53cm7RnDdmy6Qe2g=="
 ---
 

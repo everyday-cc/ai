@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/brazilian-airports-expand-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-airports-expand-facial-recognition-trials/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

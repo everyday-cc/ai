@@ -106,7 +106,7 @@
       "originalUrl": "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1230,15 +1230,15 @@
       "title": "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution",
       "excerpt": "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level",
       "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
-      "originalUrl": "https://www.proactiveinvestors.com/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_11/1200z740_1637055115_shutterstock_1164788407.jpg",
+          "url": "https://www.proactiveinvestors.co.uk//thumbs/upload/News/Image/2021_11/1200z740_1637055115_shutterstock_1164788407.jpg",
           "width": 1200,
           "height": 740,
           "title": null,
@@ -1248,13 +1248,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/966351",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/966351",
-      "publishedDateTime": "2021-11-16T02:00:00-08:00",
+      "ampWebUrl": "https://www.proactiveinvestors.co.uk/companies/amp/news/966351",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/966351",
+      "publishedDateTime": "2021-11-15T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1266,8 +1266,7 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "Machine Learning",
-        "AI in Healthcare"
+        "Machine Learning"
       ]
     },
     {

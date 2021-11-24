@@ -21,6 +21,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQHy9R__vpLx-A/article-cover_image-shrink_600_2000/0/1636550792118?e=1642032000&v=beta&t=c25Q559zrl2KUtWvVnKyeOUjYdpOQEtPEWtIkKxEq-8"

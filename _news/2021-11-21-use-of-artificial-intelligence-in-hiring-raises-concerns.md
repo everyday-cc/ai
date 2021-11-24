@@ -7,8 +7,8 @@ originalUrl: "https://mtstandard.com/business/technology/use-of-artificial-intel
 webUrl: "https://mtstandard.com/business/technology/use-of-artificial-intelligence-in-hiring-raises-concerns/article_0850a3e2-96bf-58eb-bd19-ed5a816e9cf6.html"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: The Montana Standard
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humanity in the Age of AI"
-    excerpt: "The Age of AI” does not break new ground on AI but it raises key questions about how AI will change the way we live and work, and it is clear that we are just barely scratching the surface of what AI means for society and humanity."
-    publishedDateTime: 2021-11-21T14:24:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/humanity-in-the-age-of-ai"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 39
-    images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/6199141097b981f8c67fadef_AdobeStock_339380253.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Appreciating the Potential of AI"
     excerpt: "Mohammed Alam was recently hired as the deputy director of Northwestern Engineering’s Master of Science in Artificial Intelligence (MSAI) program, where he will collaborate with students to shape their experience and explore future possibilities of what AI can and will be."
     publishedDateTime: 2021-11-22T18:51:00Z
