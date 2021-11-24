@@ -51,6 +51,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "adidas Migrates SAP Environments to AWS"
+    excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
+    publishedDateTime: 2021-11-22T04:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
     excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
     publishedDateTime: 2021-11-23T23:52:00Z
@@ -79,15 +95,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "adidas Migrates SAP Environments to AWS"
-    excerpt: "By applying machine learning capabilities, such as Amazon SageMaker, AWS&CloseCurlyQuote;s service that helps developers and data scientists build, train, and deploy machine learning models quickly in the cloud and at the edge, adidas data scientists can ..."
-    publishedDateTime: 2021-11-22T05:05:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 19
 
 secured: "Xd2FNqcSdB9l2TaQiug97i/6wgMwh7yIpW25mnc89WsMi1FXogGhHH7skEOLt5JhoUpi6QgsZSeVkKOCfQnWRkUA+krb7IShVh8M4+3lokOK8F7GcfUpC/Eb/auukwlQqNBBu8LDe8HlvMcPvgySMXE2AGaGzrDEAOnjbfBlFkIo0Qbj9kDA/mDxMGWVaDTPncHa65inefXNucw32xQ4X7Uj1PY+hcvUkTTwuU5l8Nz/1ljXTvkJFJSBWOwKk+5oC4+0C2HuMBQ8vb61I6U7Ex6R0HgjCkiKQ2pxbijJaGpR+vnaXqQgLTOlMgiJXUhxeU9r0UjWBg2NC1N/AqcGMfUErhyvBoP13R9PwhqAZzXDYtEIu/Gaoo/t2R+sJL6DQkZEJFsa9Fa9WASOUhUutJu1heEl+e2rhE8BT//KmyFR6iOIkS0caaU8v2YVOoDe6Hk4KMJ5b1mPYgGvXrVioT6onYbArlTVyM3zmzzkAFQfLfoj+4ZA104mltSDpBcGvVqSkFCcowvlr9NJi1xQQA==;AQuzalIqpePaAagalQpkYg=="
 ---

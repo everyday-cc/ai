@@ -9,7 +9,7 @@ ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/retail-robot-
 cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

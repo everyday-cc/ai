@@ -35,6 +35,15 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Dangers of unregulated artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is often touted as the most exciting technology of our age, promising to transform our economies, lives, and capabilities. Some even see AI as making steady progress towards the development of ‘intelligence machines’ that will soon surpass human skills in most areas."
+    publishedDateTime: 2021-11-23T03:06:00Z
+    webUrl: "https://voxeu.org/article/dangers-unregulated-artificial-intelligence"
+    type: article
+    provider:
+      name: Vox
+      domain: voxeu.org
+    quality: 17
 
 secured: "7t1OTUiyBIQ/0i9YuuRBV/ti02Ef7nBrilc6FvN9Iqxh01wwi4tdQ+2hhE3PdG9O/UUr9b2N4NwQaVNdd4RJCoO6fiBRdeSOFCNRHdAswe8GRUPD/gpje/ZzA2qacOzJITWIOosKqRM/sQwnZ0qxrFWH5Jvl+hayK35Rr0Pzn7NSPKqgR3g5RxPb6epeFrhRqKoFUDG0gwOE7zA3QmOeEBnqY20B+LYCtTR+CNReK5M4ilTg0r8Gim4IFjUuIf9quBsBPEhnip1UbjMa2FQnoOy323yX2Q0rl1eOkFKnsSReNylpma9MM8UyuFduI5x/6B5/NFq8IklBJHnZ7PwqcwcshrG5BrmVg/595a3yRtU=;yX/YVt9HWWMUYRH401aYkw=="
 ---

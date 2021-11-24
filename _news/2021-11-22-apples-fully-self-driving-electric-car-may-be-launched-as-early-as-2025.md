@@ -41,6 +41,22 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Apple reportedly accelerates plans for electric, self-driving car"
+    excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
+    publishedDateTime: 2021-11-21T13:00:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 44
+    images:
+      - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Apple accelerates work on car as it aims for fully autonomous vehicle"
     excerpt: "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
     publishedDateTime: 2021-11-20T07:57:00Z
@@ -55,15 +71,6 @@ related:
         width: 870
         height: 489
         isCached: true
-  - title: "Apple chooses a path in its work to build a self-driving electric vehicle"
-    excerpt: "Apple is still in the race to build its own car — here's where its road seems to be leading. #SiliconValley #autotech #electriccar #selfdriving"
-    publishedDateTime: 2021-11-19T14:30:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/19/apple-chooses-route-self-driving-electric-vehicle.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
 
 secured: "laVsbFLw66VvFnPQicmDbIAkLTPkE+DABiUsA0/8yJ549eQiFY62V4W1nEfoZKDQBKEll1WG+LLy+AjAFnTiO1e7XJbtypj8PC3zKuL/wG55N6SAAT7+HdadZQqb7lztzHd6rCadzoMXxQ0EbCxv+3VHYGe+eAl18VoXgX42juEHMfOGTgOwuEPt3HB9MR3E02e0RgWdAE4rz0qdEuIKPkcLPtM1OtQsbJHRTrgcxgyWXf1MKW5v7EQKXBiJ5fcBoYHyAfLcSpR7N6OS4Kweo8L/pfZrR3eHagIuArPTT5Ky3g4JCzICKEB9iAado+uIgpkDML+E4G20W6T5bJECZx179S6KXWpLbc+8sS3zejkhKrebCo0PDHDFl0hgVrk1zMmJHHzY5YDUY6JtZrN40+7Tlmk5dy4quaeKYiBL/ZdGzR7bpa9eWpbZ3CeA0HBerOwxTrp1MhjZB63IUiQP5j9YmE+LaLmFsu9+XzovZ3nSevQp9sEg81HVePdRDK1PgsANOSuR4QnifH32qLmJCQ==;/vRUb+oHTBHPZwfDVEBCEw=="
 ---

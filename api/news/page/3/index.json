@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-22-dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip.md",
+      "title": "Dimensity 9000: American users are worried, they wont be able to use this chip",
+      "excerpt": "MediaTek officially released the Dimensity 9000 flagship processor. This chip has been attracting a lot of attention because its theoretical specification",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/",
+      "originalUrl": "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/21/dimensity-9000-american-users-are-worried-they-wont-be-able-to-use-this-chip/amp/",
+      "publishedDateTime": "2021-11-21T12:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-europes-ai-laws-will-cost-companies-a-small-fortune-but-the-payoff-is-trust.md",
+      "title": "Europe’s AI laws will cost companies a small fortune – but the payoff is trust",
+      "excerpt": "No matter where you operate, the EU’s upcoming artificial intelligence legislation will likely affect you, so embrace its potential.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/21/europes-ai-laws-will-cost-companies-a-small-fortune-but-the-payoff-is-trust/",
+      "originalUrl": "https://venturebeat.com/2021/11/21/europes-ai-laws-will-cost-companies-a-small-fortune-but-the-payoff-is-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1138358728.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/21/europes-ai-laws-will-cost-companies-a-small-fortune-but-the-payoff-is-trust/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/21/europes-ai-laws-will-cost-companies-a-small-fortune-but-the-payoff-is-trust/amp/",
+      "publishedDateTime": "2021-11-21T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-21-new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools.md",
       "title": "New York City Passes Bill to Address Bias in AI-Based Hiring Tools",
       "excerpt": "The New York City Council has passed a bill meant to address bias in AI-based hiring tools. The bill was introduced in February 2020; the NYCC passed it on Nov. 10. New York City",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -61,7 +156,7 @@
       "originalUrl": "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -717,7 +812,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1094,109 +1189,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-insurtech-company-kettle-is-using-ai-to-insure-against-wildfires.md",
-      "title": "Insurtech Company, Kettle, Is Using AI to Insure Against Wildfires",
-      "excerpt": "Kettle, the reinsurance startup that uses advanced deep learning to better protect people from the growing risks associated with climate change, such as California's wildfires, today announced it has been reinsuring homes during the 2021 wildfire season and that it raised a Series A financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insurtech-company-kettle-is-using-ai-to-insure-against-wildfires-1030991813",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insurtech-company-kettle-is-using-ai-to-insure-against-wildfires-1030991813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1693097/CA_Kettle_Risk_Map.jpg",
-          "width": 400,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-is-the-world-ready-for-a-self-driving-car.md",
-      "title": "Is The World Ready For A Self-Driving Car?",
-      "excerpt": "Hitting Apple's ambitious 2025 target depends entirely on the company’s ability to design, build and test its self-driving system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197b62f6a454124ca8aedb0%2F0x0.jpg",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/11/19/is-the-world-ready-for-a-self-driving-car/amp/",
-      "publishedDateTime": "2021-11-19T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "adidas Migrates SAP Environments to AWS"
-excerpt: "By applying machine learning capabilities, such as Amazon SageMaker, AWS&CloseCurlyQuote;s service that helps developers and data scientists build, train, and deploy machine learning models quickly in the cloud and at the edge, adidas data scientists can ..."
-publishedDateTime: 2021-11-22T05:05:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
-webUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
+excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
+publishedDateTime: 2021-11-22T04:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Adidas Migrates SAP Environments To Amazon Web Services"
@@ -84,6 +92,6 @@ related:
         height: 667
         isCached: true
 
-secured: "b8WjgvRhE8hd+VUe4/bznE7z+DUnvkQWYEkZYehjWFl+Gj7RE18OOGUSSRtBUkdfqXrgcB1FYCjubvGtj59dB/spb35Dlk7yXB7ytFMGxq15ixl8NaFePWjaUOagewkaNCYfSTjnmSSlWv0s67trGZ3BFYnesCPcDBTthkGnXBaTdSAn3+4o+/V5o2+jAfxFBEkWgLAwrgVO5A/xz53l5kcAYbT1AjO2uMSUskdvKq96qlWa+NX9u6OGQhxpOorVv40/aHwENBbDkLz8COWNKvTAsbDhnq+q6IiLGJDJ/aSQ+fhSg4NZaYZUxnPTidKDfmT8mjTAEgzmoUyVFuefGPlROrYcG7dCEvYz+Qmfk+w=;zSM0XEDzq9De5bbslNxPPA=="
+secured: "LtOkuoTBoQPm/fH8yoZ2//zNLGCqyWVhxoCQCtsFIScP6oo5d7Xu2eRBNsuLhB+5GbikmoylTWDYvBDP5HVvZq7kJkGHcXoczNwZsiLxQnLvA5/Qy3gT3VloT80Xx9PjQrGKy5nbgWKFVaUJgBFtEcfgt7wxA1/bBzgBSQkesuiergvpDVwEHsoIuHH+t+Mf7WXHjHzOjJ9/tRWk3wjOwnGPq1hcLyozbWeSvw/px1KhnCP2/mLDtzSAq/bgsCZbLtMwGNC+mLDp27LOi5Cq3sXQO9VItT7I9lz+IN6jJzLGEsKF7WEBEIHbkXiTiOY+YcMMiUNk4gL/PfcMLcgxLtMe1eAstddlha+6VjNS63U=;uaa0GYDoIxqKZecGn8PfpA=="
 ---
 

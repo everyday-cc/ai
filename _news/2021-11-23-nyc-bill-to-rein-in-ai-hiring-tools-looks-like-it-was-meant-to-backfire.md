@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Hiring Tools Can Discriminate Based on Race and Gender. A New NYC Bill Would Fight That"
-    excerpt: "A bill passed by the city council in would ban employers from using AI hiring tools unless a bias audit can show they won’t discriminate."
-    publishedDateTime: 2021-11-19T14:16:00Z
-    webUrl: "https://time.com/6121581/nyc-ai-hiring-bias-bill/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 57
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/11/nyc-ai-hiring-bias-bill.jpg"
-        width: 5363
-        height: 3575
-        isCached: true
   - title: "New York City cracks down on use of artificial intelligence in job screenings"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the compu"
     publishedDateTime: 2021-11-23T11:21:00Z
@@ -90,34 +76,6 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2019/10/artificial-intelligence-2167835__480-e1570218339962.jpg"
         width: 702
         height: 396
-        isCached: true
-  - title: "NYC Tries to Rein in AI Hiring Tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T14:54:00Z
-    webUrl: "https://www.manufacturing.net/automation/news/21903855/nyc-tries-to-rein-in-ai-hiring-tools"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 37
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/11/16x9/AI_Hiring_Bias_AP.6197ba7de8efc.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "NYC wants to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T14:07:00Z
-    webUrl: "https://www.fox5ny.com/news/nyc-wants-to-rein-in-ai-hiring-tools"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 37
-    images:
-      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/05/1280/720/Computer-hacker.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
         isCached: true
   - title: "New York City aims to be first to rein in AI hiring tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analysing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."

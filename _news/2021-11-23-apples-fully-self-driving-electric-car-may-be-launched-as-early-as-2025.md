@@ -26,6 +26,38 @@ images:
     height: 349
     isCached: true
 
+related:
+  - title: "Self-Driving Apple Car Could Finally Roll Off The Lot In 2025 Sans Steering Wheel Or Pedals"
+    excerpt: "Apple is aiming to produce self-driving cars by 2025 that could debut without a steering wheel or pedals. It seems the company has finally settled on creating an automobile that will not require any human intervention."
+    publishedDateTime: 2021-11-19T16:07:00Z
+    webUrl: "https://hothardware.com/news/self-driving-apple-car-could-roll-off-the-lot-in-2025"
+    ampWebUrl: "https://amp.hothardware.com/news/self-driving-apple-car-could-roll-off-the-lot-in-2025"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/self-driving-apple-car-could-roll-off-the-lot-in-2025"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 34
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56834/content/Apple_Car.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "Apple wants to launch their self-driving car in 2025"
+    excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
+    publishedDateTime: 2021-11-23T19:30:00Z
+    webUrl: "https://omaha.com/news/national/apple-wants-to-launch-their-self-driving-car-in-2025/video_ed29d3cd-9850-5f31-b032-5356012a5614.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed29d3cd-9850-5f31-b032-5356012a5614/619d28a3d9226.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
+        width: 640
+        height: 336
+        isCached: true
+
 secured: "t7UFSKarhhYndgzBTChwxP68z3X+XQ/l1G6AkW3hYVNoxg5rN4vGKe3C1tp+Sf8/CJlLK4JnKmAX7SSmMMygmxMPfFx1ESa9AQnHnXFqMOaReJ/mpPFnRe/DtJcYRDO1MiBtIUQV1e/V+udbeTPYV31/YYYcYYcAEXXKsM1cbLcwYBQpdjhxADM4m3c+W/gD9dT7UDvrtSdhLIJrHw7MevOK9FwlhEfACvr1SBA8Xr3YWaeiUrPWt11RAVdRPBrMovv8tS2S+LH7hf/7A9ojpEQBNRUcUDcroCL85FnAcK+c/prTc+4Ag1vzVfhitgx/IPPs3se53Tc83GIkT9PN0pUk4w8bJZjRrFiQvoruBXQ=;fmuXuvnmR6wQQiGW3DSyBg=="
 ---
 

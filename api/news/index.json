@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-24-revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants.md",
+      "title": "Revenue NSW using AI to claw back overpaid and fraudulent COVID-19 business grants",
+      "excerpt": "Revenue NSW has assured the AI system it has implemented for compliance efforts is not anything like the federal government's bungled robo-debt system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants/",
+      "originalUrl": "https://www.zdnet.com/article/revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants/",
+      "publishedDateTime": "2021-11-23T22:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai.md",
       "title": "NSW government clamps down on apartment building defects using blockchain and AI",
       "excerpt": "Apartment building defects are not uncommon these days, but the NSW government has been developing new solutions using AI and blockchain to crackdown on this. Speaking at the 2021 digital.NSW event, Office of the NSW Building Commissioner digital director Yin Man explained how the state government has worked with KPMG,",
@@ -52,7 +94,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -156,7 +198,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/11/23/3-top-artificial-intelligence-stocks-to-buy-right/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -313,7 +355,7 @@
       "originalUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -584,7 +626,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/23/ai-powered-voice-transcription-startup-verbit-secures-250m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1136,48 +1178,6 @@
         "AI in Autos",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires.md",
-      "title": "AI Firefight: PG&E Using Artificial Intelligence To Help Stop Wildfires",
-      "excerpt": "PG&E is trying something new to help stop wildfires. The utility is testing artificial intelligence software in some of its ALERTWildfire cameras set up around the state.",
-      "sourceUrl": null,
-      "webUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/",
-      "originalUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/1FD/FA5/1FDFA5A43B22D5E135477BB753EAEE6F.jpg?Expires=1732233600&KeyName=mcpkey1&Signature=FJUU18ZaSYcSubArBbUM3YM4nh8",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp",
-      "cdnAmpWebUrl": "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp",
-      "publishedDateTime": "2021-11-22T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

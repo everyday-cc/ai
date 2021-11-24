@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/mit-camp-teaches-ethical-ai/?amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

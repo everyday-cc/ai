@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SenseTime gets green light from Hong Kong exchange to proceed with US$2 billion IPO, sources say"
-    excerpt: "SenseTime has got the green light from the Hong Kong stock exchange to proceed with its flotation, according to people familiar with the transaction, taking the largest artificial intelligence (AI) company in China a step closer to its US$2 billion initial public offering."
-    publishedDateTime: 2021-11-19T13:11:09Z
-    webUrl: "https://www.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo"
-    ampWebUrl: "https://amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo"
-    type: article
-    provider:
-      name: scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo
-      domain: scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo
-    quality: 129
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/19/c27a751e-493e-11ec-88c2-0bacf4eabd5b_image_hires_215158.jpg?itok=D_CZNEt0&v=1637329925"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "China’s AI giant SenseTime readies Hong Kong IPO"
     excerpt: "One of China’s biggest AI solution providers SenseTime is a step closer to its initial public offering. SenseTime has received regulatory approval to list on the Hong Kong Stock Exchange, according to media reports."
     publishedDateTime: 2021-11-23T08:11:00Z

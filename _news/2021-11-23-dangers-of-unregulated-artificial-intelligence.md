@@ -18,22 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Policymakers want to regulate AI but lack consensus on how"
-    excerpt: "Commentary: AI is considered \"world changing\" by policymakers, but it's unclear how to ensure positive outcomes."
-    publishedDateTime: 2021-11-19T13:26:00Z
-    webUrl: "https://www.techrepublic.com/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/"
+  - title: "FDA Joins Other Regulators in Focus on AI and Machine Learning"
+    excerpt: "The Food and Drug Administration recently sought comments on the role of transparency for artificial intelligence and machine learning-enabled medical devices. The FDA invited comments in follow up to"
+    publishedDateTime: 2021-11-22T23:13:00Z
+    webUrl: "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning"
+    ampWebUrl: "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 74
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
+  - title: "Meeting Future Leaders in AI and Machine Learning"
+    excerpt: "Discussions ranged from defining AI and machine learning to practical 'real-life' uses to illustrate the prevalence of analytics and how it touches all of our lives in the modern world. We also discussed the ever-increasing range of career opportunities and pathways in this space."
+    publishedDateTime: 2021-11-22T10:36:00Z
+    webUrl: "https://www.publicnow.com/view/2C5AD73F8672FFBDC223D72145F755D84312E552"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
 
 secured: "Bs+rdVOIFGRvAKVLM59ol7AZilSInbH0E6BLKw2lpsguadIshHnpMr2JlBoXB3V1JD9LSnfdd1AeCO8HCtpS76E/VL7ZFYN/yPgXJBIk8uwflapckK9Teh30vrX8HJRghGARtoYVnb4E1W4APMSQ3mW9pICgSi9miIUw/TzNR0O2dVERLmfanUuOPq2Eqcg7y2kiHdxegInA9J5k0ZAgXF3jFLju1pn6UrZNDZN+RfRHJPioYweiPEVat235PmxSMHoC9vcW2tQ/a8hTp9OwG3RBnByM6qbccB+V8cvNA/oBeneOtn0haReGURKt/8/fmb+SAJ+fT4eI6cTk999O9brOy+luC3b/coBrgiRNjrw=;Okd/KA1Lv5zQjMer6AtM2Q=="
 ---

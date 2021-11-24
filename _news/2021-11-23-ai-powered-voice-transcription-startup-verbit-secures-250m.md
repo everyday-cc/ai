@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/23/ai-powered-voice-transcription-st
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/ai-powered-voice-transcription-startup-verbit-secures-250m/amp/"
 type: article
 quality: 89
-heat: 140
+heat: 139
 published: true
 
 provider:

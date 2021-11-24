@@ -41,6 +41,22 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Apple reportedly accelerates plans for electric, self-driving car"
+    excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
+    publishedDateTime: 2021-11-21T13:00:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 44
+    images:
+      - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Apple's fully self-driving electric car may be launched as early as 2025"
     excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
     publishedDateTime: 2021-11-22T09:01:00Z
@@ -55,15 +71,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "Apple chooses a path in its work to build a self-driving electric vehicle"
-    excerpt: "Apple is still in the race to build its own car — here's where its road seems to be leading. #SiliconValley #autotech #electriccar #selfdriving"
-    publishedDateTime: 2021-11-19T14:30:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/11/19/apple-chooses-route-self-driving-electric-vehicle.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
 
 secured: "l+/+ees3Z90oa3a1EAyNBkZ/AV1kqwh7yAaHWTebtqTer5JDZL5roykAsLFVtN4xSfeNN1jQT3WDW4VsxuJou+G5G/UQUu4BcU+jxf/Z+cWXGDTPBCmr3VrMnSaFEULSE4N++3qBUEBsK1r4wRV5LhDlzYKj7nnzj45H4zavuYPDCsjHSUJTvjpa6gmPg9q+6LpsKdCRm/MWZXplmiysFwnzd9faIT9HiaPLErNsfjBXAzeM7u0yvS+eFspChMB0NnIBF6k0vd4Ll2jGHIWkN4iERKDl9sMsA+0vyiNd3m3dzwGCkwd1Elr2NbtHWymhZWmB/B8o4Vc7hWfumH4OrU06ozu9hKjr6OE1kWsFq/U=;QdJyhITiHl1Yj/1s/OZLCQ=="
 ---

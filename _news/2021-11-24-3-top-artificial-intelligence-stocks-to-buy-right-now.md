@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/11/23/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/23/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "NYC aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-19T14:39:00Z
-    webUrl: "https://www.chron.com/business/article/NYC-aims-to-be-first-to-rein-in-AI-hiring-tools-16634366.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "/H/BT+7B+mXFdxJpffps3r+z3CPOB16braDnF96PXjAueN5ffLHvCIx2hH9NVH6c587U6w0WTOOTo0fAiFrffr3AMsCDXF1jziYNJPBmajkOLlOyI0meG/mXViQKmzb+W5xYGGBcubEyUVye8u+J+cbQP+S7SauQBgN+9gNv5+asaceDcW70GpB/10EApkI3wdE5XAHneFxGmXm8UwYs0nTZMbF0/bFEVl1aEYRTJvfJingSiIA/I9hrt8r4UJ/2R8aaRlg054RkpwIexeVv5sKP8iDwWrSuaJpGX1fT3qs4lkHw6TNZusoszM93QugcVXktEPiyZ6hHkoIKRBI1yIP8mIfAtuLUuQOLtluJJZjsPBL96Tthgxobqy4XPK/MWlQ7/lvZ4xWmJx8K1a/hz/00WJ13FmW1St7QcsHrf0eM1nX7OapbEJYjE9qs6ghXZ0M4q2l9xscwRZH5N3B+8/tv9Z1+lp2u25iwirw+CoVENSWBNpEQ+UJaIQ21uhkB/lhVyrbwZf/l680UrsWTXA==;gepZ0Z5TEowl1mqKrXgfsQ=="
 ---

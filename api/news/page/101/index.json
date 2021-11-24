@@ -2,6 +2,143 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2021-09-10-3-traps-companies-should-avoid-in-their-ai-journeys.md",
+      "title": "3 traps companies should avoid in their AI journeys",
+      "excerpt": "The industry is still in the early days of AI adoption, and organizations need to develop an adoption strategy specific to their organization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/",
+      "originalUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-2-e1623874115544.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/amp/",
+      "publishedDateTime": "2021-09-09T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-4-self-driving-truck-stocks-you-need-to-keep-an-eye-on.md",
+      "title": "4 Self-Driving Truck Stocks You Need to Keep an Eye On",
+      "excerpt": "The global economy is moving toward several exciting trends that lead to new and interesting investment areas like self-driving truck stocks. Driverless vehicles promise a revolution in safety and ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/",
+      "originalUrl": "https://investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2021/09/shutterstock_1850697253.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/amp/",
+      "publishedDateTime": "2021-09-09T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals.md",
+      "title": "How Artificial Intelligence Can Be Used To Augment Stem Cell Therapy In Hospitals",
+      "excerpt": "Stem cell therapy comes with its own set of challenges despite being a revolutionary discovery in modern healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "originalUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/Stem_CEll_AI.png",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "cdnAmpWebUrl": "https://www-bbntimes-com.cdn.ampproject.org/c/s/www.bbntimes.com/science/how-artificial-intelligence-can-be-used-to-augment-stem-cell-therapy-in-hospitals",
+      "publishedDateTime": "2021-09-09T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships.md",
       "title": "Orca AI begins research trial of safety system for autonomous ships",
       "excerpt": "Orca AI, has recently announced a partnership with ​​Nippon Yusen Kabushiki Kaisha (NYK Line) to test its safety system for autonomous ships.",
@@ -1026,161 +1163,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-the-best-voice-assistant.md",
-      "title": "The best voice assistant",
-      "excerpt": "Whether your voice assistant is the hub of your smart home, or simply a smartphone-based helper that tells you if it's raining, the best assistants streamline your relationship with technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/the-best-voice-assistant/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/the-best-voice-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/09/02/3b21433b-785f-4116-b615-9ffb576a6e72/amazon-alexa.jpg",
-          "width": 1000,
-          "height": 994,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/the-best-voice-assistant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/the-best-voice-assistant/",
-      "publishedDateTime": "2021-09-08T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-chinas-weride-unveils-robovan-its-first-electric-autonomous-cargo-van.md",
-      "title": "China’s WeRide unveils Robovan, its first electric, autonomous cargo van",
-      "excerpt": "Chinese autonomous driving company WeRide has unveiled its first cargo van, the vessel upon which it will self-drive into the world of urban logistics. WeRide will work with Chinese automobile manufacturer Jiangling Motors (JMC) and Chinese express delivery company ZTO Express to commercialize its",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/",
-      "originalUrl": "https://techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/WeRide-Robovan-Chinas-first-L4-self-driving-cargo-van-2-1.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/amp/",
-      "publishedDateTime": "2021-09-08T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-irobot-introduces-roomba-j7-robot-vacuum-with-genius-30-home-intelligence-clean-the-way-you-want-so-you-can-human.md",
-      "title": "iRobot Introduces Roomba® j7+ Robot Vacuum with Genius™ 3.0 Home Intelligence - Clean the Way You Want, So You Can Human",
-      "excerpt": "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence-clean-the-way-you-want-so-you-can-human-1030788791",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence-clean-the-way-you-want-so-you-can-human-1030788791",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.multivu.com/players/English/8917451-irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence/image/PetWaste_1630535359137-HR.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
