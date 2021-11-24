@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2472463/artificial-intelligence-ai-in-hiv-a
 ampWebUrl: "https://www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share"
 type: article
-quality: 74
-heat: 114
+quality: 76
+heat: 116
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.openpr.com/U/b/Ub24296920_g.jpg"
@@ -85,6 +86,6 @@ related:
       domain: openpr.com
     quality: 39
 
-secured: "iGZZrT8HQKHCqCNABsxU1z3i5EU1PZ+96l53FrzXBiI2Isz+lWMqHlV5R9DspWYS1acoEjtArmZYX+Y62fLCoLCsw/k/zwMz9DpBTdfsnKxDk9s2KwsQcr6vUtAcylMaz5CgQNq53PIRiqFnH1URFN6u8J4o+iz1zuFWbWaEB6PTdzOfvzgfe4H5hfGHm0dtjbYtF0miLhWKB2fLJaVqN+hGmkCmNnPl+4i/1j7dhv8YVSYn9OIUbFTnjwPTaZzaXMf5vf1kTQS9/dn61wxctH6I23uLvJzz2Pn3Hiybg4yL/8MLRzFwdGaSjxDXO7hHB0QWZrXgxSJ8/Z3tFZTzZAQBkGXIxOPUGcNsejQ6nyM=;UqDQKtH+h39BeZAQvWRI1g=="
+secured: "9q92CHwR2PYNHA7GoMkng7qZC92/LN6YPXMkmb/+2UXUB6maHLoKJzvJgdBl52EO3q7syNMjlxFjQy2grGuZxGuaSft4ORBp+GQEGnPgydUd0FWNa9D4O64v5iYtCbS2oW0SK0zZu+MwBy5w85DU70PXGSddi3h09yGLw2IvdBN24y4tog4HGhh7C/cdKJID+4S3MrrSesYhEe9zRDtyCnPUv+qbBauIKMe8EWkF0lq7f6Gyyy8uUPErJFZjyCWvsgnsTZAKcxFRi0aZDTEmbBUIChL7jaYW6CE9ojaAXesUO3jBJMp9TFlb4k7X07YivnjSCunNhvWmTeVLRFoX5fQYWV36/vqXBaB3RALiP+j3LPnyHbzb4Rq3LrpVRIXffBIB6cWQEb4/Q/0U8eYuq79I7WdMkLmTlA3VXH4UGLsLdvZNLBEXkexq/qlLDJNRUzuji4q1/QZdlobY5fmlRhQLdl6YbXrjxPi2+y4mCxuF3jmRG+csJUbwdIP/w0S4IEfycW70Z0qzD3N9nifT+A==;KgCMxxZBuSXMdNICVNiTeg=="
 ---
 

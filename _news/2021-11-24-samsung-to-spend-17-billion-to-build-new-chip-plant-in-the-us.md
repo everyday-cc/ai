@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-to-spend-17-billion
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/"
 type: article
 quality: 89
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Samsung picks Texas for $17B US chip plant"
+    excerpt: "Samsung detailed plans for its largest investment in the US, confirming a site in Texas for a new $17 billion manufacturing facility."
+    publishedDateTime: 2021-11-24T08:28:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/samsung-picks-texas-for-17b-us-chip-plant"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/samsung-picks-texas-for-17b-us-chip-plant/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/samsung-picks-texas-for-17b-us-chip-plant/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/09/samsung-e1630998689708.jpg"
+        width: 650
+        height: 399
+        isCached: true
 
 secured: "6tkulPQjUqtBhSalqJfBbxfTGi4wxljWpEzQt5H+no69JBOhkK1oN/AmqQRwNuXLmahGGTUAdmHxeRBOJe4wrQikCth5VvYdOGzFiWpvuKJdsR/F08f8U55tGIajQGQZSsiuxAZ+XqIXrXkXAiK8IrpgOOYGxbiiOlGty67EueBDX/jv0ZwEFQVTvTooqp8MnhkyMI/sJkYiQXIgJ2MvAUw20t/uzu+XlvCGT+b+o4E8235ZG3bDngKyZjKZQv1/a1wy7XuJu8ATVBdd5TOLtE/PjKMzoMi8T7sMrzV/v2DbAIiA1fad8YVntkmHZDKKirLdpjjROcv0uJF4wmkm9y0InBF/b/9LFkVlYV1pX4F9OMkBq2AFQnVDBRony+EDknX9wB1ZZ4C+0v2QweZVxWI/9HEmXgsOqt0DLID48k5W5BRMDtX/6OYbNxe3X5Bz6xMQShdtfd57nH1EmZUjiC4HMkLS1QL5X3+JGGst5qDs5oqD++TYTHueKENvmvEiYjJAuJLOFnNjLEkDw3Gu8g==;I4nqDkR+6yWRHd+aVXj3HA=="
 ---

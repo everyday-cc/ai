@@ -50,6 +50,22 @@ related:
         width: 2156
         height: 1120
         isCached: true
+  - title: "How Fintech Paved the Way For Simple Investing"
+    excerpt: "Advancements in technology have had a major disruption in the daily operations of businesses today. Businesses are trying as hard as they can to ensure that they keep up with technological changes and provide what their customers want."
+    publishedDateTime: 2021-11-24T10:31:00Z
+    webUrl: "https://techbullion.com/how-fintech-paved-the-way-for-simple-investing/"
+    ampWebUrl: "https://techbullion.com/how-fintech-paved-the-way-for-simple-investing/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-paved-the-way-for-simple-investing/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/fintech-investing.png"
+        width: 900
+        height: 541
+        isCached: true
   - title: "Investment to drive growth and create jobs at fintech"
     excerpt: "A Belfast-based fintech is investing more than £2m with plans to grow exports and create 18 jobs. Datactics - a Queen's University Belfast (QUB) spinout - provides data quality applications to the financial services sector and central government,"
     publishedDateTime: 2021-11-23T10:59:00Z

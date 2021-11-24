@@ -50,16 +50,19 @@ related:
       domain: nasdaq.com
     quality: 69
   - title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-    excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
-    publishedDateTime: 2021-11-23T17:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+    excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
+    publishedDateTime: 2021-11-23T20:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/398836"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
+        width: 635
+        height: 400
+        isCached: true
   - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
     excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
     publishedDateTime: 2021-11-23T23:52:00Z
@@ -89,6 +92,6 @@ related:
         height: 667
         isCached: true
 
-secured: "LtOkuoTBoQPm/fH8yoZ2//zNLGCqyWVhxoCQCtsFIScP6oo5d7Xu2eRBNsuLhB+5GbikmoylTWDYvBDP5HVvZq7kJkGHcXoczNwZsiLxQnLvA5/Qy3gT3VloT80Xx9PjQrGKy5nbgWKFVaUJgBFtEcfgt7wxA1/bBzgBSQkesuiergvpDVwEHsoIuHH+t+Mf7WXHjHzOjJ9/tRWk3wjOwnGPq1hcLyozbWeSvw/px1KhnCP2/mLDtzSAq/bgsCZbLtMwGNC+mLDp27LOi5Cq3sXQO9VItT7I9lz+IN6jJzLGEsKF7WEBEIHbkXiTiOY+YcMMiUNk4gL/PfcMLcgxLtMe1eAstddlha+6VjNS63U=;uaa0GYDoIxqKZecGn8PfpA=="
+secured: "UwRko9KHWRX+iTt5rEdyGHNjSXzBXWtkaaPCUl2lEf5HLKNmzuCUV/kBMXMtck+ck2jLuczabcWDxpUe1uHzaVCzV4ITp0rP4K7feUAmbZMzPZ/WhFCVmNBJ8MPxf9eCz8a7ZZgJuOz0vEakKyjJWT7QM3EUYQpzhfN0p4DewpMTVAksNhkGrvtFICztBi7PuJA8VxaXh479E5vN4rlqesjJ1fa6FsE+6wN3BOByh6MoxuOzCtPEBntF1KiQVJxI73Gx2+Pq2snxxValCmGjGouLyUI5tsWa0eIMRm/T3+F50OUuRmfQf9xEHU++TJ2AeqWWGcXkPu3+BLYNHw7l+axRQYxgfcDa2G7ft7Ii92E=;jhsE292XZ+ucp8TzeMTuxw=="
 ---
 

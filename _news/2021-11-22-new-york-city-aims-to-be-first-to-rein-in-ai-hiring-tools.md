@@ -40,22 +40,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "NYC Aims to Be First to Rein in Artificial Intelligence Hiring Tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews — but New York City residents could soon have more say over the com"
-    publishedDateTime: 2021-11-19T17:20:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/nyc-aims-to-be-first-to-rein-in-artificial-intelligence-hiring-tools/3411736/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/nyc-aims-to-be-first-to-rein-in-artificial-intelligence-hiring-tools/3411736/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/nyc-aims-to-be-first-to-rein-in-artificial-intelligence-hiring-tools/3411736/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 72
-    images:
-      - url: "https://media.nbcnewyork.com/2019/09/jobsAP_16230695166503-1.jpg?quality=85&strip=all&fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NYC bill to rein in AI hiring tools looks like it was meant to backfire"
     excerpt: "New York's passed a bill to purportedly curb the use of biased AI software for hiring, but one glance at the document shows it's feckless."
     publishedDateTime: 2021-11-22T19:30:00Z

@@ -109,6 +109,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "UAE - ITC launches first self-driving taxi in Abu Dhabi"
+    excerpt: "(MENAFN- Emirates News Agency (WAM)) ABU DHABI, 24th November, 2021 (WAM) -- The Integrated Transport Centre (ITC) of the Department of Municipalities and Transport (DMT) in Abu Dhabi has revealed, at the Abu Dhabi Smart City Summit,"
+    publishedDateTime: 2021-11-24T09:40:00Z
+    webUrl: "https://menafn.com/1103241124/UAE-ITC-launches-first-self-driving-taxi-in-Abu-Dhabi"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?689484"
+        width: 436
+        height: 250
+        isCached: true
 
 secured: "gLfXudyq72m+ej3tW02/YWUt+TCTtQ/MkG4Cup/OEdDa8WOCktXQnmkpLG9tMCl9/79dlqXrgMsguF5UQV5O0HTSCrQ61vk4pPn8SRUOxtxORI81f4/Jewi2ZvCceJWYDycsPcOxR0PDfvqiA7pK2KojfkuDw30GlB3AwG5EHU7frJGD0r4Vqx9Pc4D3108dM90h8ixbld+2Z9LwlB6xxq4FCPSKY6r2zl2lNGpTU7hpCfzeXOcSVJuL7buTVvuc6BqT0R4dU0C2Wumo1j5/Bvv7Ezw7VSMwNg5EHVtf9vqXiQMfimgoyTX9aZKbCP/P+Vy1eotGlX7sICqFKbi+pnstGBgAH53KXiN4i5RJgJE=;28AnVSJ5OznfopLXUgJtmQ=="
 ---

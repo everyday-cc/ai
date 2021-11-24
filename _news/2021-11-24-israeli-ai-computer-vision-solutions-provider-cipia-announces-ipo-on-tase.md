@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-24T08:41:00Z
 originalUrl: "https://nocamels.com/2021/11/israeli-ai-solutions-provider-cipia-ipo-tase/"
 webUrl: "https://nocamels.com/2021/11/israeli-ai-solutions-provider-cipia-ipo-tase/"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/11/Team_Cipia_1.jpg"
@@ -24,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "HGW80/sa6+2Uv3b0xQuFDiJbWsyseQsEdWvCmmlkAdaWrHtVwsRjHyfgZd+2AyjpWseX/cpbiraAlv0Z09mPJSt9v7qmChycciAFWWgUH+o6uUOV/y6OahykGhJZT4LRLHFAlu0YW/tctx61eIvdIK2XeL2/Lyud/9+JK+kKlZijfz25EkEVFoXK0P45/cYKIvz8a4b3+ds54vDex23pYuWRGQCOrwnGSleKs776qa3zvbR6PuDWNSPWLw4+MLTOiCeGVsXf4uvHDPt61E86s9fI3w56V5+GF8YzV53kKa1Efo/hkueIvhl3L+VEsXFrXCOCgal3l2tIuTQp+nhhdUW1Bf7GZW8D3son5LI8Omw=;0ySJYi+aJfjX7fJUobFSBw=="
+secured: "nhCifY9pHoEbZdNnDUmDig7Q/VyiSDI0gdnMYdxWkfYccRACk0RZTMoZhhfPqeX3QOjsyae9SEHDjtxQ+DfjhNEaidV/ac6eoaFNS3uqrVmHFRGkW2WgAg3q6yAxrrTof9VmWd2uI6Xasl7c543kY37o7sO7VuA7opIWdA0CMjagoiXv73c7fgMjHwnk+UWm1LpJj7gCe11PvPUgv35S0e+bKkF7/7kEzHt3IUp9wDUu76USmsQC866oL7ZQKUwA/cRy0jStNmTBJc/juzZ6dlVu1g37BVQuvwTKnI7vUm/fZ+BHCvpOLngIIUYX2uvf1sxEbjG7suMcuAtA0S6v3I/GUuMy5P7iDY7jHsTigTNGc8C16M05vFV1DkeZC4zY7phqznB0IzpjXMkvfFjpk/63KYvBKy2mMfJGBNO8qf9XeocH5BAzlaVuuWw4rYigR9uvd3xF73Xc+4byh8yYfYIPe9iehcWc0A1comZKItKWMqZlbiR8Nanbo1qiLQGAJ6E8pjtQ7p5dLs7pksrVLg==;IseyRgYisqeVOR9rX/ZOFg=="
 ---
 

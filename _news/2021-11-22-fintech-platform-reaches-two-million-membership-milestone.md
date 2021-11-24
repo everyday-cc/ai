@@ -7,7 +7,7 @@ originalUrl: "https://www.mpamag.com/ca/news/general/fintech-platform-reaches-tw
 webUrl: "https://www.mpamag.com/ca/news/general/fintech-platform-reaches-two-million-membership-milestone/317308"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Fintech Stocks That Would Make Great Additions to Your Portfolio"
-    excerpt: "Fintech has been gaining steam lately due to innovations in the sector. Moreover, fintech usage has increased significantly over the past year. And because the industry has immense growth potential, we think fundamentally sound fintech stocks Sapiens International (SPNS),"
-    publishedDateTime: 2021-11-19T18:00:00Z
-    webUrl: "https://stocknews.com/news/spns-mitk-qiwi-3-fintech-stocks-that-would-make-great-additions-to-your/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
   - title: "5 Great Ways Fintech Is Revolutionizing The Modern World"
     excerpt: "Traditional banks are disappearing from our streets at a rapid rate. ATMs are declining in numbers too, but you shouldn't be worried"
     publishedDateTime: 2021-11-22T21:55:00Z
@@ -49,6 +38,22 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech21.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "IPO Watch: Fintech loyalty platform MyRewards chases global growth through partnerships, eyes December listing"
+    excerpt: "The ASX will welcome its latest fintech entrant early next month, when customer loyalty platform MyRewards (ASX:MRI) joins the boards."
+    publishedDateTime: 2021-11-23T10:35:00Z
+    webUrl: "https://stockhead.com.au/ipo-watch/ipo-watch-fintech-loyalty-platform-myrewards-chases-global-growth-through-partnerships-eyes-december-listing/"
+    ampWebUrl: "https://stockhead.com.au/ipo-watch/ipo-watch-fintech-loyalty-platform-myrewards-chases-global-growth-through-partnerships-eyes-december-listing/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/ipo-watch/ipo-watch-fintech-loyalty-platform-myrewards-chases-global-growth-through-partnerships-eyes-december-listing/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 24
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2021/11/MRI-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "3 fintech trends that are transforming the future of business"
     excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."

@@ -50,6 +50,22 @@ related:
         width: 2156
         height: 1120
         isCached: true
+  - title: "How Fintech Paved the Way For Simple Investing"
+    excerpt: "Advancements in technology have had a major disruption in the daily operations of businesses today. Businesses are trying as hard as they can to ensure that they keep up with technological changes and provide what their customers want."
+    publishedDateTime: 2021-11-24T10:31:00Z
+    webUrl: "https://techbullion.com/how-fintech-paved-the-way-for-simple-investing/"
+    ampWebUrl: "https://techbullion.com/how-fintech-paved-the-way-for-simple-investing/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-paved-the-way-for-simple-investing/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/fintech-investing.png"
+        width: 900
+        height: 541
+        isCached: true
   - title: "Indian fintech startup Recordent raises $400K angel funding"
     excerpt: "Recordent, a fintech start-up in the non-banking payment bureau sector, announced that it has raised $400,000 in angel funding from the Family Office of Kantamaneni & IIM Calcutta Innovation Park and other angel investors from India and the US."
     publishedDateTime: 2021-11-23T10:46:00Z
@@ -93,6 +109,6 @@ related:
         height: 364
         isCached: true
 
-secured: "OplXIIja8GDohalgTb9116kWzbAJCKRj6GzxudbZOOumyBHFdPgDrbCVhm6ZOkSSOBFR1t4a06fgCGW15qHztedAA3NK6QMfWmrZMDmslj0GZobfeMYJ5K0ILgnG4Q6fouwSk2lPQVIQJA4RxAKlqR/jfwCRzX6BwGrTmyazOAh33YbE5PY+2l6/bFjC1y99oKPnCi8KAaQXNOR5Pp5Kl6x5iyaBCQokSuz8K+r/toMeOoMfiNmgpcyczJvUBrp35O7bT9dWB0QVl9nWm9ferk0aMJYACEQdaBZb25oGTyzOdJBBQA2bEyNdl04XDYCEmK/HMy+xmaarpaUCQkTgj0RQBhhjV9HpSWuVyxBjBNQ=;vVtDJCwEBbj9wc1WZ+zQyw=="
+secured: "VXFelBvbsbEsCRSLw4BbncF+AdBXgIFgFDggTVM4pyi1xw7svVmxRPGseOF8ddp162odWCRaREhIxnhAjywHpWXeV67WZ8kccpYmOh7mj6I2QnWKWX48BS6fLXnLe9Qa48X/WtbiOZP3O8P/+N/XWw+lxiq5ZVvMnjgJm/wWLf8XN8oOgGi5IEYkTfKSwqcPU+mLmJmUx6JgZTc5v3EHn94vNWXlvj4s8l8KTHzDt7hqr1RB3kNfXj1GJuMM6s1ufIZ6YEaRNXA1gxfZjDA9bGQppowiIdiAsjsUf/GvGMflnDiGCQRj3d3uCZ9YaLhNigfeiD6fiSisMl0AYCiMscK4iJfZkCWr2wrTiFMvWrYyykniVhn/wLdWu2gtjD5KHMtXvatG1inwPfrIZnzWswPEhOuKcC7nzzA4UGer6Hb0IACbUqQM133ZHIxMv9tWNLxOTITV0WfDG5TwVNRSA9k73A0II6cI7CAVB0FNltsl+RdFym4lR6KvjCzO/wON+nrw1kGiF4yvcsAuykJJ3Q==;a7Gfqpk+2C2+xwa+vD8f6Q=="
 ---
 
