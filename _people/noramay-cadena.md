@@ -10,7 +10,7 @@ website: https://t.co/t9CFIWFMbw
 twitter:
   username: noramayc
   url: https://twitter.com/noramayc
-  followers: 17593
+  followers: 17594
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     isCached: true
     title: "Noramay Cadena"
 
-secured: "ozYdFcbv3cSiW1jyfp1j3VS9qBNeIcFmTKYbwnhSX4wsLASVXwTvtqU1/wgZAgErc50xAROvTUJczeT+yNKoQH1DOqLTCcY8t11jrBl4dXdk8JfsJDqcaaMovTPUzJgW5kRaJXoLqZZVafTkW225QxzZtw3JJ6LUWHatb+A24gk+XpHM3r9kuCnhD+4XGF2sMyGJeCQj5v0xiKcBkgLaBmiFx6mlEmpjMY+vge6SiUYCaNLMsoTfrp7GplEWQeS97yrkz33GCbRFYNlWzImpcACAzxu5eDG7BhzFAwbxw5DVkZj4xrO3+x8ZBOYzsOgc33XcsaEHJbkpPTaCQLS1eRdYLyYTlWi0eLJpuwtHQFu6LWx6gSSAAoT53Hx+3n2h9Ywk3kFFRFpYe4rqhEXanv8CVl63BCFwXB/hUI2Nlg8=;ESuOWMLVUJLtALl8qxNYLQ=="
+secured: "qUL6zLZP4n1Gggz2AmFHEK/hiVo0wYvguFwheoj9ZcbY2Rg233oLbcl2BPx31oI2YrSl2vAINpuZafkOL/X44IJILF61cls+wTz7dImczj7YJAlMZiz9VcW75JcsX4qtmzZbUiXtQB5+2tsLzsf/EQXYM8BZosAS3DuT3BxqYbuinsh+9ilO8raQPWWzaHeUjzb1HkG4+BEeJHNZss41SGSEVxH3LW+UiznoOLoHC1LMoydF1lHiVvKAJn9QsidUyqHSrZSHH/9z/Kn5lLSbPYjRj+OHFmmrdrDHe4hZeP2t4UnOt8DpKPHGeJoACdHdzJE3EyAvN2Gkqytsf1L41VF7OIi6MnzgNaHoTM9mQNbNvLMjGk4y+kRKkJxp6Fkfz3TFSsUUraJuhjewZctbPcguzxaGo430aTkUegWS0As=;Bv5DXfY1k7wpHy613eQn8w=="
 ---
 

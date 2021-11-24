@@ -2,7 +2,7 @@
 name: "Skydio"
 overview: "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!"
 type: "profile"
-heat: 87
+heat: 89
 
 website: https://www.skydio.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SkydioHQ"
   url: "https://twitter.com/SkydioHQ"
-  followers: 12204
+  followers: 12205
 
 size: 51-200 employees
 yearFounded: 2014
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=gsfkGlSajHQ"
 
-secured: "8nmle/0nF07Bl+9QYIOK1PyvNO/b4slMqrIkXnSDj8fKVAz4I85iYGF1DsjwdzqCIYOysUbUKuTeQoOSsDUjY35Le/cn4gha1a/5rupWJVYV5ptdAgYl2Nke5HL80ClqSmMLuJ+GqWoL8MfJUhlXkcbBp+L7dmXtOjAJ6LfWgxphohjvH3xNPgE27UdmF6prpJO4YURurlDyTQWIucnoSdjMUgtGHDQZeihF6GuuuebecDFVNi1Eohl6GL/rVJszmUBsguL4R32PP0WGMZGeAAgfH4q4Xnu9oLpTnN230Phjo0VwbJdkFW19+u8QGuQedjjCInaCNuAxNulEsHz4R+Upu0azPkoBtkzbbIYZK7HTv9zFjXU+KR3CurgZgSEnUF0WMuaXPf1joe/oi/z9L1/9y9/xX2h6UOqENFoAmKs=;A4gi9fcn67SmbKnNvqoXFQ=="
+secured: "Ln3yUu627EVPNxH0qf3ixUpUz8wM7SeBEQ63MtmRlkwxRg1m3HVIEFF+2vfR4tRYn4MY0RRVIQhTGAsPRKkMaTlyVt3rGJryzQWXq8nRb9S/vbhlSUiCwSY427dUw+qmO3t4KpFnGfbALXpCWSIh4lkBfzv815gOA/5+wiHBI0lIlZ8fl282ELRRYKXe8H4N61HGKdNkLZyfdbCmmfbGkFS4gWzN2Ry3rbjnyt8aGlGVSGSzbgywJaqlQOJtVngkeCZsRNlpWONZm7lkW6q1DifbKSMvpYs1QA1bQceG/I2c1EUJJKMWvSq5TDdcHghq8ZQ/2wsTfN0Zl6wdjgmVejCLarhIA9WrAl0Ndua9RkgTBkux4aQ6GWL2HYDfRszxFG8VU/YCUEJZCT0LMBp1kz17fT9D/QoImiAN3JzC0T0=;5KALEeWFnhPI90G865r9hA=="
 ---
 

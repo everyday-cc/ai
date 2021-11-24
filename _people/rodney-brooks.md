@@ -14,7 +14,7 @@ website: https://rodneybrooks.com/
 twitter:
   username: rodneyabrooks
   url: https://twitter.com/rodneyabrooks
-  followers: 24702
+  followers: 24704
 
 linkedin:
   url: https://www.linkedin.com/in/rodney-brooks-1a137517/
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Rodney Brooks"
 
-secured: "rgtxKRF76LcdcNiKKaEyH2bwLk5CWVc6ieIOBTUqO63IpF2tL+I7a97QavGHx5kfEd0PasC/ch7VgxOFKaO+V7EN7UIL0c/5VPsfUymUtZjrAf2j6tPR+76mhbP48Mb6N+Rqv7EDujXs1tXXQgPPtaA8ROn5kxvZs2uPGkKi2yA1oij9Kigupb3B1atRGA+qgAuIjb7XGP0AlO++EXxCWC9ONDtwRanALpA3wnF986eQS33zRxka4p5mOHqsM8ee2hRn1mq/EsU83UfkHdm/3cNGlaXGdaA+GoYrAkQSsfBeiKC3JePoxUPyhKiyBKxafbCIBUFn97Vc2j2AK27UvCb8RUxeEBrMaA+ePx8s4LX3AjlGH5c9zPYbuH19UrimgTtb+RSvWc4lZ0SYgo6ZdElEXQBHHG6+COmegCyBGPI=;bcKcyzsUCpXg/7CfurIYBQ=="
+secured: "65ikRO6676AA+75HqDux+D7dG9bPNxmX/CGto0pzdA+cpvGW6hPWKP3sjYAjbdo/yADCt30Ua/L698j5pw67F6Yw6XafaKzhoB8XTd18yFKN2Gd+MIGwPbgo2AJVu764kgN9Afs372P22SQtz2yyhetvjaJ4n52xj/buVWLlSex46YvT4miLofbau/eH5xnTPkdBLtsCYboBqDBBGX5zJYvq703CGmE3aMkIbfWUE+EROVBzMIWuMGVEUiZIg1RfFY8738o45SLaG/J7PQon/y6nimDcvmfuZ5rbLAOxKQVMkOUMW3L2iTTGZRjFg/aq08hbPv7VI3YTFolsMtSKkHygZQjinzZfkTfzsgujWYelmFVA34u8I+rVoLlj4Fe8o7ed8w6KE63G1wFR+9p0SVTlowf6FUbg6+ZYFXU8dh4=;gMmbQ0p3eEoFuORH+z3quQ=="
 ---
 

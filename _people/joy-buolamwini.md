@@ -14,7 +14,7 @@ website: https://www.patreon.com/poetofcode
 twitter:
   username: jovialjoy
   url: https://twitter.com/jovialjoy
-  followers: 69529
+  followers: 69531
 
 linkedin:
   url: https://www.linkedin.com/in/buolamwini/
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Joy Buolamwini"
 
-secured: "zNUBVmJogjw7gd2W9jVgF0VSKnJYfYt1IKEDR/KOlNVSGuok23i6Qu6uHUUlcGWt98rjSOto5bmaDDzDnUZWLhEgPhXHM1jOqzy/UU0sDr1s/NzBxdHYsnnHvr2VrAkaEvmZ8e5M/LF9hZ+m7XNxuYGYOrMPeAsBWKeNgDEjM/YyIMyerZspF8PqBcjquzafIj5Fw/S5FeVzv7zHKYZUgw7KmsA3wBUpzOUJWycopsZLE3nYAAt+SjD2MYDoKHYTFTmiRD7vVmi6hJIH49/plyufqCI1NfjUo9Np1wVjTVfQAVGCftAnV29P1rtweaUtrKxUFWwE+p1uO3rO1FxiO2uaTm93HXkxtlhQHzu9wExdW9EOsE93QtMuQmXXNf7GgA8azWPDzItvKvUj5gdDEvWnFoHaHziuv5mDX9fUYz0=;nbsI1vaq+m+aX/B1S4iNpw=="
+secured: "SGcIrUGeL5BwZo+aFAxha0cz7lEe2o5uXReYPWzX5+Nbf43L+f2LZnKGw8IX7kjxIDJr3WrsD3V7QYYHvx8R9at+0ewjdwc705//bKenOnVbBHXdqMz11ZXifqSpL22Jhc8C0v7kTrqldCGxWiF1PQmlNH3hGIZj9cF/RmeSUdygxPpfWpeXFyH871qKCXfLM4+250ygql96wAHq5v1KWdW4KEkoTOkN439q6FkCD60NKzgWLFU3cjAWvsr3a2q2AwGPhNY8XunvYgHXxsUUiJyHOdHpOBw2D7N0fu8he5vDstYiIXDN/lF+NrqayA3UW6w4BvJPFD9zzYQeWNAa8B9i1l3/4G2o3Fg4NM5Ho5KzYXhoiFz/1e7Sfi90aLSZK4gX1j9OEKn8se1P1QAXmgFcSorLLfC+UG44oWnsFD4=;l2noSgouZ8+7iAgkaJRs6g=="
 ---
 
