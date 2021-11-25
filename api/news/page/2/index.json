@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-24-robotics-and-artificial-intelligence-to-improve-health-rehabilitation.md",
+      "title": "Robotics and artificial intelligence to improve health rehabilitation",
+      "excerpt": "A Universidad Carlos III de Madrid (UC3M) spin-off, Inrobics Social Robotics, S.L.L., has developed a robotic device that provides an innovative motor and cognitive rehabilitation service that can be used at health centers as well as at home.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/robotics-and-artificia.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp",
+      "publishedDateTime": "2021-11-23T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-how-artificial-intelligence-is-improving-cancer-research.md",
       "title": "How Artificial Intelligence is Improving Cancer Research",
       "excerpt": "Today, though, humanity has a powerful new ally in the fight to eliminate cancer: artificial intelligence. AI and machine learning algorithms gather the data needed to understand cancer holistically and support cancer researchers by providing them with a deeper level of insight than ever available before.",
@@ -528,40 +572,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-23-keycorp-key-continues-fintech-buyouts-acquires-xup-payments.md",
-      "title": "KeyCorp (KEY) Continues Fintech Buyouts, Acquires XUP Payments",
-      "excerpt": "Continuing with its efforts to offer the best payment and banking services to clients, KeyCorp KEY has acquired a business-to-business (B2B) focused digital platform, XUP Payments. The XUP platform provides a seamless connection between merchants,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments",
-      "originalUrl": "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments?amp",
-      "publishedDateTime": "2021-11-23T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-23-apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning.md",
       "title": "Apollo Tyres Goes All-In on AWS to Make Factories Smarter with IoT and Machine Learning",
       "excerpt": "Amazon Web Services (AWS) announced that Apollo Tyres, India’s leading tyre manufacturer, is going all-in on AWS to digitally transform. By moving all of its IT infrastructure to",
@@ -647,6 +657,40 @@
         "AI",
         "Microsoft AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-3-fintech-stocks-to-buy-on-any-dip.md",
+      "title": "3 Fintech Stocks To Buy on Any Dip",
+      "excerpt": "In light of this, fintech stocks should continue to see explosive growth in the post-pandemic world. Moreover, unlike the traditional financial industry, their asset-light structures could provide fintech stocks ample room to boost margins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
+      "originalUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
+      "publishedDateTime": "2021-11-23T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -795,7 +839,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -890,7 +934,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/23/sama-tea-using-artificial-intelligence-ai-to-launch-a-new-brand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1044,7 +1088,7 @@
       "originalUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1126,49 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-the-retail-robot-battle-continues.md",
-      "title": "The Retail Robot Battle Continues",
-      "excerpt": "In this second installment of a four-part series, Georges Mirza looks at the robots powering Schnucks and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
-      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-11/background/400x600/Robotsshutterstock_0.jpg?VersionId=8789rnVJ8sKdSKhNKYay7TUlYg5eHrO.",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
-      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
-      "publishedDateTime": "2021-11-22T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Winsight Grocery Business",
-        "domain": "winsightgrocerybusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

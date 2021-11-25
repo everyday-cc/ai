@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.amp"
 type: article
 quality: 73
-heat: 83
+heat: 84
 published: true
 
 provider:

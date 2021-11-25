@@ -55,20 +55,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Apple accelerates work on car as it aims for fully autonomous vehicle"
-    excerpt: "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry."
-    publishedDateTime: 2021-11-20T07:57:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2021/11/20/business/tech/apple-self-driving-goal/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/11/np_file_124959-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
   - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
     excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
     publishedDateTime: 2021-11-21T16:30:00Z

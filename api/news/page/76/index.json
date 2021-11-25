@@ -2,6 +2,99 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2021-09-29-data-breach-at-navistar-bloodystealer-info-stealing-trojan-afflicts-gamers-others-epik-doxing-clearview-abandons-subpoenas.md",
+      "title": "Data breach at Navistar. BloodyStealer info-stealing Trojan afflicts gamers, others. Epik doxing. Clearview abandons subpoenas.",
+      "excerpt": "Navistar sustains a data breach. BloodyStealer Trojan traded in criminal-to-criminal markets. Epik doxed by Anonymous. Clearview AI drops subpoenas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clearview.ai/overview",
+      "originalUrl": "https://thecyberwire.com/newsletters/privacy-briefing/3/187",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/6d87a5_9670a29232d743b2aed6b9b5c497acca%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/6d87a5_9670a29232d743b2aed6b9b5c497acca%7Emv2.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyber Wire",
+        "domain": "thecyberwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform.md",
+      "title": "Heidrick & Struggles Partners With Eightfold AI To Develop New Digital Platform",
+      "excerpt": "Heidrick & Struggles International, Inc. (NASDAQ:HSII) and Eightfold AI, an AI-driven talent development platform, have partnered to develop a new digital leadership platform inte",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform-1030829003",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform-1030829003",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/industrial_pic_690.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more.md",
       "title": "Amazon’s new toys: From $999 robot to home security, kids entertainment and much more",
       "excerpt": "Amazon shows off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home, an interactive video chat portal for kids, and",
@@ -1094,91 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-leena-ai-gets-30-million-funding-from-bessemer-b-capital.md",
-      "title": "Leena AI gets $30 million funding from Bessemer, B Capital",
-      "excerpt": "The funding will help enterprise SaaS startup Leena AI launch new products, enter new geographies like North America and Europe, and hire talent for marketing and sales.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62692,msid-86586647/adit-jain-leena-ai-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms",
-      "publishedDateTime": "2021-09-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field.md",
-      "title": "Sina Bari MD Shares 3 Ways that Computer Vision is Transforming the Medical Field",
-      "excerpt": "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphones and software that’s out there. But when it comes to the specifics and details of technology or a form of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/",
-      "originalUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://submission.icrowdmarketing.com/assets/source/users/2087/Sina%20Bari%20MD%20Shares%20How%20Computer%20Vision%20is%20Transforming%20the%20Medical%20Field.jpg?1632508900522",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1",
-      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1",
-      "publishedDateTime": "2021-09-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,22 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-23-keycorp-key-continues-fintech-buyouts-acquires-xup-payments.md",
-      "title": "KeyCorp (KEY) Continues Fintech Buyouts, Acquires XUP Payments",
-      "excerpt": "Continuing with its efforts to offer the best payment and banking services to clients, KeyCorp KEY has acquired a business-to-business (B2B) focused digital platform, XUP Payments. The XUP platform provides a seamless connection between merchants,",
+      "path": "_news/2021-11-23-3-fintech-stocks-to-buy-on-any-dip.md",
+      "title": "3 Fintech Stocks To Buy on Any Dip",
+      "excerpt": "In light of this, fintech stocks should continue to see explosive growth in the post-pandemic world. Moreover, unlike the traditional financial industry, their asset-light structures could provide fintech stocks ample room to boost margins.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments",
-      "originalUrl": "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments",
+      "webUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
+      "originalUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 234,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments?amp",
-      "publishedDateTime": "2021-11-23T03:53:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
+      "publishedDateTime": "2021-11-23T02:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -33,6 +33,41 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-amazon-web-services.md",
+      "title": "Adidas Migrates SAP Environments To Amazon Web Services",
+      "excerpt": "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
+      "originalUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp",
+      "publishedDateTime": "2021-11-21T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1304,58 +1339,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round.md",
-      "title": "Fidelity, Visa and Kingsway back South African fintech JUMO in $120M round",
-      "excerpt": "JUMO, a South Africa- and London-based company that offers financial services to entrepreneurs and businesses in emerging markets, has raised $120 million in a new round of funding led by Fidelity Management & Research Company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/",
-      "originalUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/Andrew-Watkins-Ball-JUMO2.jpg?w=900",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/",
-      "publishedDateTime": "2021-11-08T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-06-mlops-market-to-see-stunning-growth-algorithmia-google-cloud-sas.md",
+      "title": "MLOps Market to See Stunning Growth | Algorithmia, Google Cloud, SAS",
+      "excerpt": "The study includes market share analysis and profiles of players such as H2O.ai, Inc. (United States), Iguazio (United States), Algorithmia Inc. (United States), Amazon SageMaker (United States ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2303399/mlops-market-to-see-stunning-growth-algorithmia-google-cloud",
+      "originalUrl": "https://www.openpr.com/news/2303399/mlops-market-to-see-stunning-growth-algorithmia-google-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U611953622_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2303399/mlops-market-to-see-stunning-growth-algorithmia-google-cloud",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303399/mlops-market-to-see-stunning-growth-algorithmia-google-cloud",
+      "publishedDateTime": "2021-11-05T19:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-cognitive-systems-spending-market.md",
       "title": "Cognitive Systems Spending Market",
       "excerpt": "Some of the key players profiled in the study are IBM, HP, Microsoft ... Software Systems, Services Systems 7) How influencing factors driving the demand of Cognitive Systems Spending in next ...",
@@ -1345,58 +1389,6 @@
         "AI",
         "Machine Learning",
         "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-cnvrgio-develops-on-demand-service-to-run-ai-workloads-across-infrastructures.md",
-      "title": "Cnvrg.io develops on-demand service to run AI workloads across infrastructures",
-      "excerpt": "Cnvrg.io has launched a Metacloud service to help AI developers run their workloads across any mainstream infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
-      "originalUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
-      "publishedDateTime": "2021-10-29T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Microsoft AI"
       ]
     }

@@ -1406,21 +1406,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-07-sber-to-open-rd-centre-in-berlin-to-expand-horizons-in-machine-learning.md",
-      "title": "Sber to open R&D centre in Berlin “to expand horizons in machine learning”",
-      "excerpt": "Sber, the Russian financial and digital giant, is preparing to open an R&D centre in Berlin — its first one in Western Europe. These plans were",
+      "path": "_news/2021-11-08-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
+      "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
+      "excerpt": "(MENAFN- Mid-East.Info) New Seeq Azure Add-on feature enables rapid deployment of Azure Machine Learning algorithms to frontline plant employees. Seeq Corporation, a leader in manufacturing and ...",
       "sourceUrl": null,
-      "webUrl": "https://intellinews.com/index.php/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/",
-      "originalUrl": "https://intellinews.com/index.php/sber-to-open-randd-centre-in-berlin-to-expand-horizons-in-machine-learning-226136/",
+      "webUrl": "https://menafn.com/1103115716/Seeq-Announces-Expanded-Microsoft-Azure-Machine-Learning-Support",
+      "originalUrl": "https://menafn.com/1103115716/Seeq-Announces-Expanded-Microsoft-Azure-Machine-Learning-Support",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/Screenshot_2021-11-07_at_13.41.59_Cropped.png",
-          "width": 900,
-          "height": 510,
+          "url": "https://menafn.com/updates/pr/2021-11/07/M_f011cimage_story.jpg",
+          "width": 600,
+          "height": 305,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1430,11 +1430,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-07T04:43:00-08:00",
+      "publishedDateTime": "2021-11-07T11:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business New Europe",
-        "domain": "intellinews.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1444,7 +1444,7 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

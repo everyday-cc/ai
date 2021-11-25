@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS wins Adidas contract to host its SAP workloads"
-    excerpt: "Utilizing AWS’ machine learning solutions, including Amazon SageMaker, Adidas’ data scientists can forecast seasonal demand for goods. This ensures the right product arrives at a warehouse or ..."
-    publishedDateTime: 2021-11-22T16:57:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1637598528/itpro/adidas_shoeboxes_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Adidas Migrates SAP Environments To Amazon Web Services"
     excerpt: "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,"
     publishedDateTime: 2021-11-22T07:20:00Z
@@ -75,14 +59,44 @@ related:
       domain: nasdaq.com
     quality: 69
   - title: "adidas Migrates SAP Environments to AWS"
-    excerpt: "By applying machine learning capabilities, such as Amazon SageMaker, AWS&CloseCurlyQuote;s service that helps developers and data scientists build, train, and deploy machine learning models quickly in the cloud and at the edge, adidas data scientists can ..."
-    publishedDateTime: 2021-11-22T05:05:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/11/22/adidas-migrates-sap-environments-to-aws"
+    excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
+    publishedDateTime: 2021-11-22T04:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "AWS wins Adidas contract to host its SAP workloads"
+    excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
+    publishedDateTime: 2021-11-23T15:54:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 39
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/11/adidas_shop_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Richemont Selects Amazon Web Services as Preferred Cloud Provider"
+    excerpt: "(NASDAQ: AMZN) company Amazon Web Services announced that Compagnie Financière Richemont SA is moving its entire enterprise IT infranstructure to WS. The company will close its European data centers and migrate additional data centers in Hong Kong and the United States to AWS by the end of 2022."
+    publishedDateTime: 2021-11-24T17:26:00Z
+    webUrl: "https://www.financialbuzz.com/richemont-selects-amazon-web-services-as-preferred-cloud-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 21
 
 secured: "b+huMbVuqneYcj8tsHVC847kvAFFR16Alz6yPL1dMBao495RWi+M/RDQEf+VuXNxLY/N2QTSMK3ukbTo9uS0H43+Q/RSsvoDbvSi9m+VyRxmfG8Vh0duzj1XXdmclsICS21mSGF9ZvJNlblgpDSEwZlHBU5mfRRt328GAs4LsgYx2ztwsAEiGpcEUX/+LEVagqCARXNOrTMdMcQ16lxfxMCzRrYDN1XTFBzdSMpmdGxW+sm9Ge4SQzA0RS1Me17pxKlIj0R4ROKduSxkDiVE/RnmK9ll56iyW5qmdDiRvUkDhi02OW6IW6eZG2vP9E5RguadwXP9ZCnWOVmcG5zdZHOS80yfrJqVa0ofWYJdGGZnsEm6D++6lcgbK0A7p8igbVDywlepfwcRiGII/tT1ISrIOWu3JfS6Nx8+uazJQDI7E7SygsspncIbJ1mw5lBvy0VUOAzfUdv7ZcZu0WN9BnWykpY1W+EFy+d52/3oR3aUewpPcZCEb65ib76uK8gz1+fsFUPjA5U+AYJDQQdheA==;f4uW7ViS0dKSZo0RDvCcBQ=="
 ---

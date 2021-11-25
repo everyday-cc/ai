@@ -3,8 +3,8 @@ category: news
 title: "ZEISS Applies Artificial Intelligence to 3D X-ray Microscope Reconstruction Technologies"
 excerpt: "Up to 10x higher throughput plus even better image quality with new DeepRecon Pro and PhaseEvolve modules from ZEISS"
 publishedDateTime: 2021-11-23T23:29:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2021/11/23/zeiss-applies-artificial-intelligence-to-3d-x-ray-microscope-reconstruction-technologies/17841/"
-webUrl: "https://www.roboticstomorrow.com/news/2021/11/23/zeiss-applies-artificial-intelligence-to-3d-x-ray-microscope-reconstruction-technologies/17841/"
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=17841"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=17841"
 type: article
 quality: 10
 heat: 10
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "YQHDLbXVtcHdZCycoR4EC1CJhWoFOlCcSpkBqWSW8RRTAbQjBcb5cmJlPpgkJpe3C54GWFQKFL5C0wOewl3AcmgeWAHORSX9D3GrTpWEeIIc4wm81qd0pLZo/fwQf/Z+TJW4kr/kcxnfovzWbI6UwtwoirKnU4ZdQPB/KZ8jKExF6HG0P22x/kIL1KGrSU0lZ6TXbNB7pPvVvSXJ6YMdYvGKWfjksFXcQLN0vP17Z/S41daWZ23qKpmiGLnNjGxZgY5n11C73juhXSYSsve3k5uo6U3Gt/1+0C8/u41z2pdfS7dvKwiaLeRJ2axPcOlbI/g23lonffSJwAJsZJaYmV+DmfM2K75gSZyMF/4OP50=;MsVDiAkv/Sm3BXrwHGlYwg=="
+secured: "BkLrTXDzAJisB5cKZcCD2zDvl3YEe6RoU7veCleLYJpidzsr/3swqpWxRuQUIvL88TSncvIpxrnJB6DI1Ds6pZhRn1zLP6ZlTEcKxVt9ooBmgrZU641KzinXFmj24I6aucq9nBtNPY4osdwaw0RzxSCwrklpeGPj+gLXQcPkSPRrXfJFDijWKyMRvpIlPstbGe71yZWjJ7zgXSM/P+EW6751WcsHjxtIiZDCsau+fsRXbfoYeU7i2LzWDnUsXWq3FdwFfvY2WsqqvdjuYYOZhCC3OQICv42kP/sxprRyUTJgan4j8HSIMRBaw08h4ARQart1BjfWBhmXu+ic//dijLAY72tfMaX65jD1ywWDSqg=;XN7mM3/wUA+CKDlCqRf0jQ=="
 ---
 

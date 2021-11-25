@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub24581473_g.jpg"
         width: 800
         height: 428
+        isCached: true
+  - title: "Artificial Intelligence in Medical Imaging Market Size Revenue 2021 Key Companies, Geographical Analysis, Research Development, and Forecast 2027"
+    excerpt: "Artificial Intelligence in Medical Imaging Market analysis and insights available in this report which will help to take good decisions for business growth. Key players that mentioned in report help to increase growth rate by using exceptional growth strategies."
+    publishedDateTime: 2021-11-22T14:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-revenue-2021-key-companies-geographical-analysis-research-development-and-forecast-2027-2021-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Military Robots Market Report, Size, Growth, Opportunity, Key Players and Industry Trends 2021-26"
     excerpt: "According to IMARC Group's latest report, titled“Military Robots Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global military robots market is expected to grow at a CAGR of around 10% during 2021-2026."

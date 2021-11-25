@@ -2,6 +2,101 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2021-09-13-mendix-low-code-paas-adds-industry-clouds-for-key-business-sectors.md",
+      "title": "Mendix low-code PaaS adds Industry Clouds for key business sectors",
+      "excerpt": "At its Mendix World event, the low-code vendor announced ways for ISVs and partners to sell on its marketplace, as well as new AI, automation and Data Hub capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3632993/mendix-low-code-paas-adds-industry-clouds-for-key-business-sectors.html",
+      "originalUrl": "https://www.infoworld.com/article/3632993/mendix-low-code-paas-adds-industry-clouds-for-key-business-sectors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/noops_code_developer_devops_html_web-developer_by-mazimusnd-getty-100801442-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3632993/mendix-low-code-paas-adds-industry-clouds-for-key-business-sectors.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3632993/mendix-low-code-paas-adds-industry-clouds-for-key-business-sectors.amp.html",
+      "publishedDateTime": "2021-09-13T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text.md",
+      "title": "WhatsApp Likely To Launch ‘Voice Transcription’ Feature That Converts Voice Notes To Text",
+      "excerpt": "The WABetaInfo publication also stated that the transcribes messages notes will not be sent to any Whatsapp or Facebook servers for transcription, but will solely rely on the phone speech recognition tool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/",
+      "originalUrl": "https://www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.india.com/wp-content/uploads/2021/09/whatsapp-new-feature-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/whatsapp-likely-to-launch-voice-transcription-feature-that-converts-voice-notes-to-text-4954101/amp/",
+      "publishedDateTime": "2021-09-13T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-whatsapps-upcoming-transcribe-feature-lets-you-read-voice-notes.md",
       "title": "WhatsApp’s upcoming transcribe feature lets you ‘read’ voice notes",
       "excerpt": "We all have friends who insist on sending you voice notes on WhatsApp all the time. My colleague Thomas, who hates that behavior, loves the fast playback option. But what if I don’t want to listen to them at all?",
@@ -1008,92 +1103,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu.md",
-      "title": "Deep Learning in CT Scanners Industry Market to Witness Huge Growth by 2028 | Philips, GE Health, Shimadzu",
-      "excerpt": "A new business intelligence report released by JCMR with Global Deep Learning in CT Scanners Industry Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-in-ct-scanners-industry-market-to-witness-huge-growth-by-2028-philips-ge-health-shimadzu/?amp=1",
-      "publishedDateTime": "2021-09-11T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-global-ai-in-eye-scan-market-prospects-upcoming-trends-and-competitive-outlook-till-2028-deepmind-google-ibm.md",
-      "title": "Global AI in Eye Scan Market Prospects, Upcoming Trends and Competitive Outlook till 2028 | DeepMind, Google, IBM.",
-      "excerpt": "The latest study on The Global AI in Eye Scan Market 2021 helps companies increase a competitive advantage in the industry by examining serious factors for market expansion It explains the main global developments dominant strategies and perspectives in order",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
-      "originalUrl": "https://www.openpr.com/news/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U911389724_g.jpg",
-          "width": 800,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2389558/global-ai-in-eye-scan-market-prospects-upcoming-trends",
-      "publishedDateTime": "2021-09-11T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

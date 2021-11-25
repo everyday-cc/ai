@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/11/23/sama-tea-using-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/23/sama-tea-using-artificial-intelligence-ai-to-launch-a-new-brand/amp/"
 type: article
 quality: 102
-heat: 105
+heat: 102
 published: true
 
 provider:

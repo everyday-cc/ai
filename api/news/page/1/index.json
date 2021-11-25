@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-25-ai-will-soon-oversee-its-own-data-management.md",
+      "title": "AI will soon oversee its own data management",
+      "excerpt": "Many organizations are turning to AI to help scrub the data that is needed by AI in order to function properly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/",
+      "originalUrl": "https://venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/amp/",
+      "publishedDateTime": "2021-11-24T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens.md",
       "title": "Robots and AI assist in designing and building Swiss university’s ‘hanging gardens’",
       "excerpt": "Architecture and construction have always been, rather quietly, at the bleeding edge of tech and materials trends. It’s no surprise, then, especially at a renowned technical university like ETH Zurich,",
@@ -553,7 +604,7 @@
       "originalUrl": "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -597,7 +648,7 @@
       "originalUrl": "https://www.openpr.com/news/2472920/machine-learning-software-market-breaks-out-to-new-high",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1169,50 +1220,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-robotics-and-artificial-intelligence-to-improve-health-rehabilitation.md",
-      "title": "Robotics and artificial intelligence to improve health rehabilitation",
-      "excerpt": "A Universidad Carlos III de Madrid (UC3M) spin-off, Inrobics Social Robotics, S.L.L., has developed a robotic device that provides an innovative motor and cognitive rehabilitation service that can be used at health centers as well as at home.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/robotics-and-artificia.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp",
-      "publishedDateTime": "2021-11-23T09:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

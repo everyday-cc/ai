@@ -588,6 +588,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-08-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
+      "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
+      "excerpt": "(MENAFN- Mid-East.Info) New Seeq Azure Add-on feature enables rapid deployment of Azure Machine Learning algorithms to frontline plant employees. Seeq Corporation, a leader in manufacturing and ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103115716/Seeq-Announces-Expanded-Microsoft-Azure-Machine-Learning-Support",
+      "originalUrl": "https://menafn.com/1103115716/Seeq-Announces-Expanded-Microsoft-Azure-Machine-Learning-Support",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-11/07/M_f011cimage_story.jpg",
+          "width": 600,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-07T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-artificial-limbs-center-saudi-arabias-ksrelief-aid-493-yemenis-in-marib-in-october.md",
       "title": "Artificial Limbs Center, Saudi Arabia’s KSrelief aid 493 Yemenis in Marib in October",
       "excerpt": "The Artificial Limbs Center in Yemen’s Marib and Saudi Arabia’s King Salman Humanitarian Aid and Relief Center (KSrelief), in the past month offered",
@@ -1153,49 +1197,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-plans-to-turn-ntu-into-smart-campus.md",
-      "title": "Plans to turn NTU into smart campus",
-      "excerpt": "A Nanyang Technological University (NTU) student may find himself riding a driverless bus ... They include robotics, artificial intelligence, real-time and deep data generation and analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/news/education/2018/01/21/plans-to-turn-ntu-into-smart-campus/",
-      "originalUrl": "https://www.thestar.com.my/news/education/2018/01/21/plans-to-turn-ntu-into-smart-campus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

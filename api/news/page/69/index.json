@@ -2,6 +2,93 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-10-04-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap.md",
+      "title": "IBM: Loss Of Market Share And Revenue, But Valuation Is Cheap",
+      "excerpt": "It includes cognitive applications enabled by IBM’s Watson AI technology; cloud, middleware and data platform software; and mission-critical on-premise transaction processing software.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
+      "originalUrl": "https://seekingalpha.com/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319657811/medium_image_1319657811.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
+      "publishedDateTime": "2021-10-03T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-the-economy-of-the-future.md",
+      "title": "The economy of the future",
+      "excerpt": "It adds that innovations in cloud computing, quantum computing, digital manufacturing, and driverless vehicles stand to dramatically ... Advances in big data, smart products, 3D printing, artificial intelligence, robotics, medical technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
+      "originalUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/10/dig-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
+      "publishedDateTime": "2021-10-03T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-alphafold-is-the-most-important-achievement-in-aiever.md",
       "title": "AlphaFold Is The Most Important Achievement In AI—Ever",
       "excerpt": "DeepMind's AlphaFold represents the first time a significant scientific problem has been solved by ... [+] AI. It can be difficult to distinguish between substance and hype in the field of artificial intelligence.",
@@ -1026,91 +1113,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans.md",
-      "title": "AI May Predict the Next High-Risk Virus To Jump From Animals to Humans",
-      "excerpt": "Most emerging infectious diseases of humans (like COVID-19) are zoonotic – caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/",
-      "originalUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Bats-Caught-During-Zoonotic-Virus-Surveillance-777x583.jpg",
-          "width": 777,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/",
-      "publishedDateTime": "2021-10-02T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-robots-artificial-intelligence-ai.md",
-      "title": "Robots + Artificial intelligence (AI)",
-      "excerpt": "And what should they actually look like anyway? About 332 results for Robots + Artificial intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/robots+artificialintelligenceai",
-      "originalUrl": "https://www.theguardian.com/technology/robots+artificialintelligenceai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

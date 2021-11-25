@@ -2,6 +2,110 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-10-06-facebook-whistleblower-frances-haugen-testifies-before-the-senate.md",
+      "title": "Facebook whistleblower Frances Haugen testifies before the Senate",
+      "excerpt": "After revealing her identity on Sunday night, Frances Haugen — the whistleblower who leaked controversial Facebook documents to The Wall Street Journal — testified before the Senate Committee on Commerce,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/",
+      "originalUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1235713956.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/",
+      "publishedDateTime": "2021-10-05T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-robotics-pioneer-yoki-matsuoka-on-the-human-touch-in-her-new-personal-assistant-venture-yohana.md",
+      "title": "Robotics pioneer Yoki Matsuoka on the human touch in her new personal assistant venture Yohana",
+      "excerpt": "Yoki Matsuoka has served as head of innovation at Google and as chief technology officer at Nest, and she won a prestigious MacArthur “genius” award in 2007 while a professor at the University",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
+      "originalUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0395-GW-Summit-2021105-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
+      "publishedDateTime": "2021-10-05T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries.md",
       "title": "Exclusive: Amazon Adds New Speech Setting To Alexa App To Help Stutterers Finish Commands, Queries",
       "excerpt": "Amazon on Friday is adding a new feature to the Alexa app, available on iOS and Android, that tells Alexa to wait longer in order for a person to finish speaking.",
@@ -1077,99 +1181,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-artificial-intelligence-market-in-india-to-reach-78-bn-by-2025-idc.md",
-      "title": "Artificial intelligence market in India to reach $7.8 bn by 2025: IDC",
-      "excerpt": "AI software segment is expected to dominate the market and grow from USD 2.8 billion in 2020 at a CAGR of 18.1 per cent by the end of 2025, IDC said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/10/Artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-market-in-india-to-reach-7-8-bn-by-2025-idc/2344290/lite/",
-      "publishedDateTime": "2021-10-05T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development.md",
-      "title": "Nvidia and VMware team up to help enterprises scale up AI development",
-      "excerpt": "AI projects using VMware vSphere with Tanzu can now begin running trials with Nvidia AI Enterprises software suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1c3ac227b0ce47b901cd7969bdb6a3035900d68e/2021/08/24/b3e8396b-756e-4968-b5ac-1fc5d9c07b53/nvidia-ai-enterprise-image.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
-      "publishedDateTime": "2021-10-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
