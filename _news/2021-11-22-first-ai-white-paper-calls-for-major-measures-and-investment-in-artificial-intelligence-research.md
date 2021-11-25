@@ -23,6 +23,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Women Innovators And Researchers Who Made A Difference In AI In 2021"
+    excerpt: "She built and led the Language and Multimodal AI Lab, managing a team of 20 researchers and ... Her work has benefited several fields, including machine translation, quality estimate, image captioning, and text adaptation. She is currently involved ..."
+    publishedDateTime: 2021-11-25T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/women-innovators-and-researchers-who-made-a-difference-in-ai-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Women-Innovators-And-Researchers-Who-Made-A-Difference-In-AI-In-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "M4lgKpLx/knil3wo2Q2M6NMTkkyJBMrmkw2IpGcqQlsuxz3t369nEoyeFYZk+O6aNn0Bf/svWiM4/aZFwd0H1OMfo+wT70iwvuQWv8CJVAmNujQyEOw9+XnEX53DJ/ArGWswhTc5c3xa766+oEESC0+JyXWG+VGVI+eVKLbnHkwsIJo9AE94O0KNioiOfwXHzcW19/DY3TMo7XqsnQEpW/i08Y0gjuP6t294hBCCaJwn69GeeWtFH5yMZgyL+GJPTET5Yxk6xD7e/nBQUuK5UGXjh/ckGgTT2p61ubrBDueJ8pvNgc8vvpRFDkUzvHdN9Vt5yKwnF1+KvVdYTyJ9yDVV9OL6g6iEpxbrvH5g6MQ=;sssK38SqYQ9muTugzp+fhA=="
 ---
 

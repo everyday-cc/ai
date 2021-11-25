@@ -58,22 +58,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "adidas Migrates SAP Environments to AWS"
-    excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
-    publishedDateTime: 2021-11-22T04:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
     excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
     publishedDateTime: 2021-11-23T23:52:00Z
@@ -111,6 +95,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 21
+  - title: "Adidas migrates SAP Environments to AWS"
+    excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
+    publishedDateTime: 2021-11-22T13:46:00Z
+    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "Sf4B3FGyEZJspPFvGBNT9CAi4spu9GxKS4HfuX3uF85V7SZEe2E1yJpq8Drcf22rWIikxqaCqgCFm73HG85cya5k0cE9+eHYioCX+N1uPMSx00389q4XtE4lCRhIQaODwFrFqUu/2W3xg3q8KURHY4qakyTp2tPDUzFg3iSuSRhZrzWMCWFLvEzfk/hlCfa1W/reNna+xznckJvCPgMAvWaFYNR3cDD14a4WyAvMYush4YipQyT4/tMEo9RmAXNQxSqcVaIHpZzdsD6/+s+NlRVr6qZzZFZf9a/WF4ml1dPgkhXmbjNun7qWRy0W7oa/qutRRd8fqsJghP/rk+EK60LJFxFieIc93wcQV9CSfGZroAUXXF6M5nmAuSx+8NDa1fY1faIdluH71JE5gWRKJwKRsw1PAdS2mIHVCmyHQSI58Oimbs7l2QXiwlJpIqeo/R6ot08OCIxkb77a6f58uY4Db2nqMuo/PcIIhrd4cz1mYQ6LGwQ2N/wioACHiTcGE10qDRd/fnACUN5W2hbkkQ==;qVqWyd5719/jT2DIyWw6zw=="
 ---

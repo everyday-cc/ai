@@ -246,6 +246,22 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Crossfin Tech being acquired for R1.5 billion, one of the largest private equity-led deals in the local fintech sector"
+    excerpt: "Crossfin Technology Holdings, a leading fintech company, is being acquired for R1.5 billion by a consortium led by Ethos’ Mid-Market Fund I (EMMF) and which includes Crossfin’s founding management team,"
+    publishedDateTime: 2021-11-25T06:07:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
+    ampWebUrl: "https://www.iol.co.za/amp/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 20
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/Crossfin-Technology-Holdings-CXO-Anton-Gaylard-Photo-Supplied?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/90c37407-a15a-51d0-96c9-38201e4323a8&operation=CROP&offset=0x200&resize=1667x938"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Local fintech startup GIMO bags $1.9 million in Seed+ round led by Integra Partners"
     excerpt: "GIMO, a Vietnam-based fintech startup offering on-demand payment firm for blue-collar workers, has secured $1.9 million in a Seed+ round."
     publishedDateTime: 2021-11-23T11:52:00Z

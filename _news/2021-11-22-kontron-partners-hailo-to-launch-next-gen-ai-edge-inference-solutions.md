@@ -38,6 +38,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "BrainChip Partners with MegaChips to Develop Next-Generation Edge-Based AI Solutions"
+    excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY) a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,"
+    publishedDateTime: 2021-11-21T23:18:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-brainchip-holdings-ltd-7952777fbb254eb4a461e41c376abc4d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "820HrXLxkU5hwHrzO2242UNUus/trDt5Tuxx8QCU0PQowuWqpb9jqlldasPu1tRl9sfk5DFzXdqzAr8I7MAhImOsKp100u+hQoUbYeSeNxwBEMQxKClxQzKd248T9MYpt3dng1WkPdij5wRpRhXbLZxF1omU6WI+77i+Ll0k3YnE+xOB36/EzwbliiJA5gpArbph5zSPeORJiJZZWyo2+eqxtvIfX/djroKVHsZG8VpnobNcYwb2S7jdd2Py9lsjESf4R+YFK0V+Mphxp+hZWUuFoy/92oN8r5k8Ayp3tbuVDkaKJnwo5jFCU71X8fM0N11RMImY3ycQubLZmzBBm35EqQ1NCn1RA/IkjA/9NPPB6/QDW+etoKYqI0ooMcfKpfwZH/ChPAuT5+gdIneGEDZB0o68h4n9OeL05qwJPeN1TgRHlUNGacyZ5teax7MFToUGH8dcSYkVtFDTA+zpaTrrhZIpTRrCRaHvLjd+PHrGRAdzOTzp9CUlSFda7TdDrkJOc5u71Z0PreFkERGi8Q==;D+xZ0G2ovXoFtf7moVeh9w=="
 ---

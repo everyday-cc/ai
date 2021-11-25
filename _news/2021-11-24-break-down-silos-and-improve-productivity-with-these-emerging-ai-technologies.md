@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Increase production efficiency and sustainability by leveraging AI"
-    excerpt: "Cologne-based start-up Operaize has successfully closed a seed financing round with three investors: High-Tech Gründerfonds (HTGF), Fraunhofer Technologie-Transfer Fonds (FTTF) and NRW.BANK invest"
-    publishedDateTime: 2021-11-23T03:21:00Z
-    webUrl: "https://www.chemeurope.com/en/news/1173649/increase-production-efficiency-and-sustainability-by-leveraging-ai.html"
-    type: article
-    provider:
-      name: CHEMIE.DE Information Service GmbH
-      domain: chemeurope.com
-    quality: 37
-    images:
-      - url: "https://rs1.chemie.de/images//163470-76.jpg"
-        width: 832
-        height: 623
-        isCached: true
 
 secured: "oinyDE5/l73NLT1IUbGUmZcyLOXvu0BBqTfoGTeA0vDAG8f0z4uS8H664vxGN6+dytFgpoSERdUnpTuJzbojgYboTuA0wiJFiyW11jzs/wBt81JarvEQYQUapj2lgEyswLel+stx+1UUPA9ssN2YgGWBBHOdWdiK7+W7N+XUUi2BdERMrUedx5yw4fG4kSixyhosJiucLCB1HZ0w8SHlIyxAzhtMJJNa0JD7W4HHZN3U4w+QZI8SktdGoQhYWFYkGhIH4ZvW5vuWoa2SWxnUcG0XjlOp2REp3NalffNR0gyrCgCEaxROyvmDJl7ufPti9zj1I4JubnLKBDsZLXDGQ7DHMtfZ9BO7S1XC4pdU9EwBdwoRQSX/g0M5BDesp1Teo+mynS9fTrP32uSBb6ADbflnumpw/WIJn7kFZgtajIGPrB8j/epQgcdVVMno7a/yBQMAy6DZ8MT1doMgmBw0MTUyE5N+GrURvjtJcmYOB+YMuuOzPlzuCZ23OYAVWBaG7PLOJqGn7sal0tkmPEpKOw==;eA+IwvHQ0QJNtkSlCaNoHA=="
 ---

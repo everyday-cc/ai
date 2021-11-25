@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-25T04:45:00Z
 originalUrl: "https://menafn.com/1103246918/Autonomous-driving-software-startup-Helmai-raises-26-million-in-new-funding"
 webUrl: "https://menafn.com/1103246918/Autonomous-driving-software-startup-Helmai-raises-26-million-in-new-funding"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://menafn.com/updates/pr/2021-11/24/R&AN_83f03image_story.jpg"
@@ -116,6 +117,6 @@ related:
         height: 864
         isCached: true
 
-secured: "8coUK8jGKEujBavsdZoeQ2w8GwUa+qJnEp4Mp0CAyqnVVjyYkcOpZscQAUwgEYlB6Q70qdMsUtxiBhAbg6M1HETuhJJJVTcj7BNY/GMdF27rpCzNeC1Hj4FJcXOkBwGvV7sMDahVvtFW9wf3SQ2dYCREg52L/zqupc0jDERYhDZYAPPalgTtWwipP1arOuLgbw5gB8LuTeUN5fUj9ZqtPmZVlPOVXtyNRA9IE1HBgn4ch9/fFZu0IxkyLdiK2uAe1CXKYlvDumMXaK4e0zNDXyQcFh86tqmOhH6TmPZ5/6M69pMJv/lSKDrxPjK4L4vKpMPVsfdsXsghKLpYd1Cji9YMPOamILkVXNQp8sz4aYc=;eqORiRYLK1F3ZL/G7gkrxQ=="
+secured: "1lisGA8cqNQuMkWyu+aKXbFJ87G+Yq9EhAE8DxwFsgVjohF+m1QhdDUUzsk1Q41BWJHEQbNs6WgitpHBy3fTx3kjJrqXbq08uSWuDUHAHDIzQG7hcoydk1kEpN+HvKPj5IL37UGrNbUp9cm7ixtFikUHkCoo9NE6MnALFe7zU2AbV35uW5okRAVANOmDQBMeHvKj4mICxWlBGXN+nKMkyue8E8d4P5BZOf1OQYExzDIhDZcPvGjftaoJ/suekmJOS1lWDPtzi0tuCKjNV+O4TBQX0LrfSEfmp/6/9MEqPEyBNM01bqX/NvxXdDVTDUxBwP71H5j8oQ/XxqOQMZJDpG+qyHdn0wpfh0t3Q9V6vUA4GjsoCJ3kodBV8PbXU8GcFqZUMNfJ0TaLdmsvO6H31waS+eb25PE2ajFpP6+C/s0QR42p7d7XH15FzUpZMZ8BXxP3RReyGgWOBFQWX97MY0TEIe4ZR2lZiGD+gjTUU0DyP7bOAV9sFw/BujSHpbzUDOaEscnw01614PNCaPfgag==;UPMVCO5KSmV6K6lPCzpHLA=="
 ---
 

@@ -87,6 +87,20 @@ related:
         width: 2560
         height: 1287
         isCached: true
+  - title: "Autonomous driving software startup Helm.ai raises $26 million in new funding"
+    excerpt: "Autonomous driving software startup Helm.ai raises $26 million in new funding November 24, 2021 by Mark Allinson Leave a Comment   <stron"
+    publishedDateTime: 2021-11-25T04:45:00Z
+    webUrl: "https://menafn.com/1103246918/Autonomous-driving-software-startup-Helmai-raises-26-million-in-new-funding"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/24/R&AN_83f03image_story.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "AI-powered music platform Aimi raises $20m in Series B funding round"
     excerpt: "AI-Powered Music Platform Aimi has raised $20 million in a Series B round of funding. The fund raise was led by entertainment and media-focused investment firm Great Mountain Partners, which also holds what it says is “a significant stake” in Concord."
     publishedDateTime: 2021-11-22T11:42:00Z
@@ -100,20 +114,6 @@ related:
       - url: "https://www.musicbusinessworldwide.com/files/2021/11/Edward_Balassanian_by_Ismael_Quintanilla_III-e1637584085911.jpeg"
         width: 1537
         height: 864
-        isCached: true
-  - title: "Autonomous driving software startup Helm.ai raises $26 million in new funding"
-    excerpt: "Autonomous driving software startup Helm.ai raises $26 million in new funding November 24, 2021 by Mark Allinson Leave a Comment   <stron"
-    publishedDateTime: 2021-11-25T04:45:00Z
-    webUrl: "https://menafn.com/1103246918/Autonomous-driving-software-startup-Helmai-raises-26-million-in-new-funding"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/24/R&AN_83f03image_story.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "u4FVf/s+sYsAIhyUuJeQlXKesm9/isc6cHJAB7HRmXBxBzNx6ijAG7Z82XUL8Xc9hq2Fx4LiaaQg1nvZ/K4RPZpMFv8XV0B0mx6s4cX83Fu8lrAdNXxtb30G8UNjH7OZ1PZRPEYL2dTL4I3wBpF3T+IkJhw1MXZxPxg5UORS7z2AzLgvfkhsgl0Yo4QWRKP8Nci6OapsuDU5ts2l/AZ5TIhNEJerxoINraSpCFC3OFKtgMfs3ylUGRMH5KoZRKePMv/gZf4EV3IxYCc4aap98EoRGJpSIgM3TFQZj8AWozvXQ/ldLE3EQGyqDN6uZfRlz3UdXv2hyJS++bwgNd5LdNDTP9VgKoS7uqs8D/48Vzs=;Wh8dtSuio22AvIOKt3fN8g=="

@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Break Down Silos And Improve Productivity With These Emerging AI Technologies"
-    excerpt: "Work to identify areas in which AI could add the most value to operations and collaboration. When integrated successfully, these technologies can lead to noted improvements in business outcomes, customer experience and employee happiness."
-    publishedDateTime: 2021-11-24T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/"
+  - title: "Accelerate your marketing plan by leveraging AI for content creation"
+    excerpt: "Facing rapid ecommerce growth and increased customer expectations, businesses can accelerate marketing plans using AI for content creation."
+    publishedDateTime: 2021-11-25T05:20:00Z
+    webUrl: "https://venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/"
+    ampWebUrl: "https://venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60520f51e51980009c63f201%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-597317521.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 615
         isCached: true
 
 secured: "t6IPukkmF/gXF7zzL2vAmRMOJaZMGoKymRenpJiXlziS7nm/UIeE1XuzdsMETO7L/Ff7FrLrzJYqiMYuAGChadJiQXc07+cGs6fdyeberqJWVn76vgqd6SNKvdVRGcPeBnUC2zgGbF0n1W2AmV61GTsilQPPrONxXLqkJZkcZcvd9pnbeHH3cpVLchMrgRZD+gUgC3Rpk8kCVArnqRwP/C47UPjDTMzkmVGsR9rkm6QupxjnjOAr9XQUFLUORp1IE2KK9i1AO+jPx89aF+jKxGFQWQ/3Q7iOIN0cM1aAg46tQ7qT8NzvyxR304CVBgjaJCVQqgMxp+OQBzl0dXxnbVa1Xxxv/8dUT+WBmkI7o2E4h/r8s/U3dyxtsiPGYTbzyaCw7fLb20zMLYQOMZ4zXoFIFjJsbKdG640+ETCcb5XIGQfPIThSEKd+vtvKfQk341zvIXTdmOpg3barBJbwTB6N8kHgqJZ0X02cgQC4NntEkE9CksQd4OcIxi4qrtB4IR49+dl5yOJsRFhpIWBd4w==;mptzNt79u3NWKr+YX4dhdg=="
