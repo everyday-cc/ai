@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "As Facebook deletes more than a billion users’ face templates, Illinoisans still waiting on payout"
-    excerpt: "That check from Facebook for violating Illinois’ Biometric Information Privacy Act by cataloging faces without permission isn’t in the mail yet. It could still be a"
-    publishedDateTime: 2021-11-25T10:04:00Z
-    webUrl: "https://www.thecentersquare.com/illinois/as-facebook-deletes-more-than-a-billion-users-face-templates-illinoisans-still-waiting-on-payout/article_caa857ca-4d61-11ec-9690-9fb92b579afa.html"
-    ampWebUrl: "https://www.thecentersquare.com/illinois/as-facebook-deletes-more-than-a-billion-users-face-templates-illinoisans-still-waiting-on-payout/article_caa857ca-4d61-11ec-9690-9fb92b579afa.amp.html"
-    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/illinois/as-facebook-deletes-more-than-a-billion-users-face-templates-illinoisans-still-waiting-on-payout/article_caa857ca-4d61-11ec-9690-9fb92b579afa.amp.html"
+  - title: "Facebook knew its algorithms were biased against people of color"
+    excerpt: "Internal documents have revealed that Facebook was made aware of online algorithms that were biased against people of color"
+    publishedDateTime: 2021-11-22T05:04:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/11/21/facebook-algorithm-biased-race/"
     type: article
     provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 45
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 137
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/5/5d/55dea452-4d62-11ec-9f46-2fde689e66df/619e9c03396f8.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25C7JVJEQZDABIALDEFJSALEGA.jpg&w=1440"
+        width: 1440
+        height: 756
+        isCached: true
+  - title: "Facebook and India’s Paradox of Inclusion"
+    excerpt: "The bigotry evident on Facebook is less a product of its algorithms than of changes in Indian society. As more Indians gain access to the public sphere made possible by the Internet and social media companies,"
+    publishedDateTime: 2021-11-24T05:21:00Z
+    webUrl: "https://www.foreignaffairs.com/articles/india/2021-11-24/facebook-and-indias-paradox-inclusion"
+    ampWebUrl: "https://www.foreignaffairs.com/articles/india/2021-11-24/facebook-and-indias-paradox-inclusion?amp"
+    cdnAmpWebUrl: "https://www-foreignaffairs-com.cdn.ampproject.org/c/s/www.foreignaffairs.com/articles/india/2021-11-24/facebook-and-indias-paradox-inclusion?amp"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 44
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/x_large_1x/public/images/2021/11/23/RTX1SQL1%20%281%29.JPG?itok=V8MXPKEN"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Here Are All the Civil Rights Changes Facebook Has Declined or Is Still Evaluating"
     excerpt: "Meta, the social media conglomerate formerly known as Facebook, declined recommendations from a civil rights audit to direct user reports of voter interference to moderators and let users appeal voter interference content that they reported and was not taken down."

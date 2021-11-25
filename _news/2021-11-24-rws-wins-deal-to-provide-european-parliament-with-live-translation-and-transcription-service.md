@@ -1,27 +1,27 @@
 ---
 category: news
 title: "RWS Wins Deal to Provide European Parliament With Live Translation and Transcription Service"
-excerpt: "RWS, the world's leading provider of technology-enabled language, content management and intellectual property services, together with a consortium of partners, has won a highly competitive tender to provide real-time,"
-publishedDateTime: 2021-11-24T08:17:00Z
-originalUrl: "https://www.lelezard.com/en/news-20123001.html"
-webUrl: "https://www.lelezard.com/en/news-20123001.html"
+excerpt: "RWS, the world’s leading provider of technology-enabled language, content management and intellectual property services, together with a consortium of partners, has won a highly competitive tender to provide real-time,"
+publishedDateTime: 2021-11-24T08:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-england-european-parliament-7af1433719fb4015908327e4ec4d0a61"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-england-european-parliament-7af1433719fb4015908327e4ec4d0a61"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 1300
         isCached: true
 
-secured: "fZ0g+zkb+pxknQqyRKOO38+CWGKDHB0VHtGfhnuRTRdnss+ZUpf/2b6lAjGPdMrk0ZmsMbtqI/Qp8WUP432DkiWP/jF48ULrRxzxrPEON5VcRj/A9EO3vWhcn5wbMRJjH2oTUrgJ2qlwr/JmtiTelgOuuZuC1rfafNtPALPgK7b5PkkOOScHA5ef2Pm/n8fI2H0RtLsa4wIZjIgX+jrIyE3qsXw0EexJFLictOuvLXbKbLeVwXn1bAdCUUDT9EY9EaL4QkAbXbrZxZI+CH1uuQW5wNVV9926s4Xd1EamzGDkVPSXqE5QjgTLv3o5nc0TPFSOMFR3pKimcKK60ZWBTT9RSbAGEe50virucSxU47A=;36lyJfII04xtCjQUjmJheA=="
+secured: "7zn112OEJcYZrTcG0YW94c/HVI+myl8Z7iibdyTfs+/2D1BI1AFdXx/sxPm62lsbV4Z55z+ebOiQSmlT8AtMTvcx9oOC9pCZ/P8zxC8fVAbvlepzbT+GMR1o3VrG4hJRAmvdtEFkQ9JJXU2d9sH3lofJfh0MupkgSRoCsji0W0qJoYBFIVw3TS6pHktDzbG3MUZD2kkLy0K1zdD4myUDSB3ncxvtPUcGkT22U2qRCRNgX+xs9CggAfj+QW2ROa17UDsbfh4IH7Y75EAGmvDRmGxaxmYXARnhqkoxuImwciqTYm/qrJUhsKs+xZlRJKRCBAHgjOEe9QjQiSmKMsGTauB5lF2bjv4gCz081eNJCt4=;Yd237Js6OoGvmJ1WRSBqLA=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Launches Self-Driving Taxi Services, Rolls Out Over 60 Autonomous Cars"
+    excerpt: "Chinese tech giant Baidu got the green light to launch its self-driving taxi services in Beijing. Called the Apollo Go, the service will include a fleet of 67 autonomous cars and over 600 pick-up and drop-off points."
+    publishedDateTime: 2021-11-25T13:47:00Z
+    webUrl: "https://www.autoevolution.com/news/baidu-launches-self-driving-taxi-services-rolls-out-over-60-autonomous-cars-175053.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 36
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/baidu-launches-self-driving-taxi-services-rolls-out-over-60-autonomous-cars-175053-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Baidu gets approval for commercialized autonomous vehicle service on open roads in Beijing"
     excerpt: "The autonomous vehicle commercial permit, which was granted by the head office of the Beijing High-level Automated Driving Demonstration Area, allows Baidu to charge fees for autonomous services offered to the public in designated areas. Baidu and self ..."
     publishedDateTime: 2021-11-25T08:10:00Z

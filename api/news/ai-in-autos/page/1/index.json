@@ -1088,6 +1088,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-baidu-reports-revenue-rd-increases-in-q3.md",
+      "title": "Baidu reports revenue, R&D increases in Q3",
+      "excerpt": "Chinese tech giant Baidu Inc reported its total revenue reached 31.9 billion yuan ($4.95 billion) in the third quarter of this year, an increase of 13 percent year-on-year, yielding a non-GAAP (generally accepted accounting principles) net profit of 5.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202111/17/WS6194f0e0a310cdd39bc75ebb.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202111/17/WS6194f0e0a310cdd39bc75ebb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202111/17/6194f0e0a310cdd3d81b287a.jpeg",
+          "width": 710,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges.md",
       "title": "China’s Baidu pulls in near $5bn revenue as AI turnover surges",
       "excerpt": "Internet services giant Baidu pulled in nearly $5bn in revenue in its latest quarter, climbing past analyst forecasts, despite China’s ongoing technology",
@@ -1117,49 +1160,6 @@
       "provider": {
         "name": "City A.M.",
         "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-baidu-reports-revenue-rd-increases-in-q3.md",
-      "title": "Baidu reports revenue, R&D increases in Q3",
-      "excerpt": "Chinese tech giant Baidu Inc reported its total revenue reached 31.9 billion yuan ($4.95 billion) in the third quarter of this year, an increase of 13 percent year-on-year, yielding a non-GAAP (generally accepted accounting principles) net profit of 5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202111/17/WS6194f0e0a310cdd39bc75ebb.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202111/17/WS6194f0e0a310cdd39bc75ebb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202111/17/6194f0e0a310cdd3d81b287a.jpeg",
-          "width": 710,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

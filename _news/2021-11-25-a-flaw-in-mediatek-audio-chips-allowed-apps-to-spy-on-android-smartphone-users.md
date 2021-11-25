@@ -59,6 +59,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "MediaTek fixes vulnerability on its chips allowing certain apps to listen users"
+    excerpt: "MediaTek went from a controversial chipmaker to one of the most relevant in the last years. The Dimensity lineup brought the Taiwanese chipmaker big achievements"
+    publishedDateTime: 2021-11-25T14:06:00Z
+    webUrl: "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/"
+    ampWebUrl: "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 70
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/MediaTek-Dimensity-2232-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Vulnerability in recent MediaTek chips could allow apps to eavesdrop on you, but it's been fixed"
     excerpt: "Check Point Research has discovered a vulnerability in the AI and audio processing components for recent MediaTek chipsets, which could allow what is called a local privilege escalation attack from a third-party application."
     publishedDateTime: 2021-11-24T11:00:00Z

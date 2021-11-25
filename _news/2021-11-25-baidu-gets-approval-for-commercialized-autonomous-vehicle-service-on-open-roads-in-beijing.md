@@ -7,7 +7,7 @@ originalUrl: "https://www.chinadaily.com.cn/a/202111/25/WS619f1daca310cdd39bc778
 webUrl: "https://www.chinadaily.com.cn/a/202111/25/WS619f1daca310cdd39bc7782b.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Launches Self-Driving Taxi Services, Rolls Out Over 60 Autonomous Cars"
+    excerpt: "Chinese tech giant Baidu got the green light to launch its self-driving taxi services in Beijing. Called the Apollo Go, the service will include a fleet of 67 autonomous cars and over 600 pick-up and drop-off points."
+    publishedDateTime: 2021-11-25T13:47:00Z
+    webUrl: "https://www.autoevolution.com/news/baidu-launches-self-driving-taxi-services-rolls-out-over-60-autonomous-cars-175053.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 36
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/baidu-launches-self-driving-taxi-services-rolls-out-over-60-autonomous-cars-175053-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Beijing launches China's first commercial pilot for autonomous driving services"
     excerpt: "Beijing launched China's first pilot for commercial autonomous driving travel services on Thursday, with many viewing the development as marking the end of the testing phase for autonomous driving and the beginning of broader market development."
     publishedDateTime: 2021-11-25T04:36:00Z

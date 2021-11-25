@@ -57,6 +57,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "MediaTek fixes vulnerability on its chips allowing certain apps to listen users"
+    excerpt: "MediaTek went from a controversial chipmaker to one of the most relevant in the last years. The Dimensity lineup brought the Taiwanese chipmaker big achievements"
+    publishedDateTime: 2021-11-25T14:06:00Z
+    webUrl: "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/"
+    ampWebUrl: "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 70
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/MediaTek-Dimensity-2232-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "A Flaw in MediaTek Audio Chips Allowed Apps to Spy on Android Smartphone Users"
     excerpt: "Counterpoint Research has found a flaw in recent MediaTek chips that allowed apps to snoop in on users. Here are the details."
     publishedDateTime: 2021-11-25T08:02:00Z

@@ -26,36 +26,6 @@ images:
     height: 682
     isCached: true
 
-related:
-  - title: "Facebook will drop its facial recognition system — But here's why we should be skeptical"
-    excerpt: "Facial recognition systems, like Facebook’s, identify people by matching faces to digital representations of faces stored on a database. Facebook has more than a billion of thes"
-    publishedDateTime: 2021-11-23T12:56:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17423/facebook-will-drop-its-facial-recognition-system-but-here-s-why-we-should-be-skeptical"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 32
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/423/17423/6943972882_7b31832852_c_Hero_Main.jpg"
-        width: 750
-        height: 420
-        isCached: true
-  - title: "Here Are All the Civil Rights Changes Facebook Has Declined or Is Still Evaluating"
-    excerpt: "Meta, the social media conglomerate formerly known as Facebook, declined recommendations from a civil rights audit to direct user reports of voter interference to moderators and let users appeal voter interference content that they reported and was not taken down."
-    publishedDateTime: 2021-11-21T02:27:00Z
-    webUrl: "https://observer.com/2021/11/here-are-all-the-civil-rights-changes-facebook-has-declined-or-is-still-evaluating/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 18
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/11/GettyImages-1236232035.jpg?quality=80&#038;strip"
-        width: 5000
-        height: 3333
-        isCached: true
-
-secured: "zR7ShnOeQRL8MAZwn2hyspZ3BzyRy8HCqRlIe+HZPDLJ5skE5RgKjiLsEWSDoiUeZidEPtkqJHO/d2eC5NUcyjLzHqsRJHKQzK0vcJ1g4M6lgoLRPzQNSXnxESC4lkFKP/0+ujAIwYl5KADtqThkNDmf9v49P9ry+xydlqyJ73Z26m9YF6Fzu5cUhcuGz1O6EBTtY3X9jL1j9Q5pH41Kdr3O0PSZachl8HcKSGsSTsTeWj1gXgwFThCHcZOoLW9MgliSX+JcZvVg4VpJtqCK/7Sbn9wqzy99ZlDe5WSvOGyRcUNZVDsU+bEh9/HYQBN9aMsjvBnYo+LP8bmcEYiSBHNtwUNqkqmMa7gCgEE6M+k=;9cqUe9ly5cp9W95SFMyHPg=="
+secured: "SYOx/ATqB3O9TUwHIpQtduMusI+pGfPQrpjU82IiGVR6zjfxIuJNbV4eIouMf5TFRKUHakmf5vBSX9KbvUY3eanPupCy+jskYP8QXAh92snvms01dDxWs4twoTFvb44EDWteo5EVmdrzuegrOQjyHEahURsKiXgGq0WkpMGXUHTQ4hYfgCXSegTTeHhT5V+MP+5gCYT1IBJZbFmwR7zqEVKtU2cVkRkHFMAdjzJpsgmfgGaol0v1kBqUyhlkn5Mg2zdZZfsAcbwsGNyArkCAMhT32VLUt9ZBigtTXMIo0nfaNowbOiKRoLhgj2xgjyyiAXyWoBc5JuYQCvo3M/6kSEPOv/j25VJcfbGFHF7suRepbCRrPWEFqSZGosb4lKfG5Cvx/eeDMft0uB/9bxkJ8jWlLlwP+KgbMLrRkYxbbuj/GoQprLLXtFUGqRW7UqOEGcLsN41HEZ4E9m9/5+nSVVCgCUS1fDvnEGGKDid3C68Zb2K0v8NasvnSWD6g8ittW9qjTA+Ee9rzIpAhzafrkQ==;Bv2PCMxMXKPdTVPuACDjHA=="
 ---
 

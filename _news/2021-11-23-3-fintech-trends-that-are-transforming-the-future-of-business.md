@@ -284,6 +284,17 @@ related:
         width: 600
         height: 364
         isCached: true
+  - title: "Completion of the Round 1 of the Securities & Commodities Authority Fintech Megathon"
+    excerpt: "The first-of-a-kind nationwide Megathon, launched in May 2021 under the patronage of H.E. Abdullah bin Touq Al Marri, Minister of Economy (MoE) and Chairman of the Board of the Securities and Commodities Authority (SCA),"
+    publishedDateTime: 2021-11-25T13:20:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Completion_of_the_Round_1_of_the_Securities__Commodities_Authority_Fintech_Megathon-ZAWYA20211125124245/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20211125124245/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20211125124245/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 17
 
 secured: "SnF5VTDwbiG+JInHHkM8rNdz6I21yexoGbZG7z7nK2Nt2rUPEVSO19e6FqLTDx0KZFl1wVet5Uo57F7K4VKGhCOyiH6wfXFUjG3X1jiELAEKPcF4IzGLs9B5AmECsPq2uSVUqY1Qgs/fvdvjQUQQlBUAyT+GloEfDgl/hSUC6MY8rmfZ9tiCbirZKnww7mLDtfK843d2Gkiyjodcz363Bw69AXYFV97cKcyA+ZkwgmdrppQHSG+/dGgNR4krq/A3+0+drRDdWowpYrDK/U3wDxoyFMOEP9DLqL1eoIKOtCsGUmr/GH+REpXcQi7/ymj1Zn56zTXh51ct55FG1E1rOvsXz5x93dojmpB3WWwlXz6DnCfBGrVk+/ymRAxBaL5M6UW3Vm67fzJuPpV2T3n94bxuS+S1pnRJyHyvDtupgyKUMHUBgVMwo6D5xD3F/3eBXcIYL03urUjPr39oasoxCYt8h7gyncylcvpvB/NA9Umpj85vLLkZJEbmzwTGsag2wcSFf+xwivR36oi/9lvU8w==;KV7BGyogCBG94e9SCwcLXw=="
 ---

@@ -41,19 +41,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses in Beijing"
-    excerpt: "Search giant Baidu Inc. and Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
-    publishedDateTime: 2021-11-25T04:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
+  - title: "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing"
+    excerpt: "Baidu and Pony AI became the first companies to be approved by mainland Chinese authorities to launch their autonomous cab services commercially following successful trial periods."
+    publishedDateTime: 2021-11-25T14:41:00Z
+    webUrl: "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
+    ampWebUrl: "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 74
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHvjzsa8ZIk/v0/1200x800.jpg"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
   - title: "Baidu Gets Green Light for Commercial Robotaxis in Beijing. It’s Good for the Stock."
     excerpt: "Baidu’s Apollo Go service, known as Luobo Kuaipao in China, has been given authorization to pick up and drop off paying passengers in a 60 square kilometers area in Beijing."
@@ -108,7 +110,35 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu, Pony.ai nab commercial robotaxi licenses in Beijing"
+    excerpt: "Search giant Baidu Inc and Toyota Motor Corp-backed Pony.ai Inc were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+    publishedDateTime: 2021-11-25T06:50:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381163.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Baidu, Pony.ai Get Permits to Run China’s First Paid Robotaxi Services in Beijing"
+    excerpt: "Chinese internet giant Baidu and self-driving tech startup Pony.ai received approval today to launch the country’s first commercial driverless taxi services in Beijing. The two companies are cleared to offer the new services in an area of 60 square kilometers in the Beijing Economic and Technological Development Area,"
+    publishedDateTime: 2021-11-25T13:26:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-ponyai-get-permits-to-run-china-first-paid-robotaxi-services-in-beijing"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 34
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-ponyai-get-permits-to-run-china-first-paid-robotaxi-services-in-beijing/17814938783055872.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
-secured: "c8SH6cPqtYPmucPYkwOsRETv1J6lx0MRDB7hYwMYD7U7O6GY/Ybpo+c4/Fit6VfbSmFgHvx8PYKWdony+/W20tRTnE7jhHA1DKOOWajHB4zWTjwiXN/Y8wyk8FFFnYusDG9TX0mnIazB2OKrMANbt5fyi7Wy2LOjO7geBeYIT6UbNzyN1BvDuzmEDUdEOi6goQYZrA3HQmU4qwAjL+dFpkXTy9UhlTIeD/cQOoWIEq8zj3jUJm0htDrYUB3tzITmN2oUMF806RaNHduYzX8OuW8jAddqsOaqCozOfTK9fTdQQdyH+rVGBJVcjJU4VvblAcgV21sOwJtDPwl1L9sDxkCdsEwFS4Tln965SBGgGos=;7SMf7dVpe4FIiKSIXgBXdg=="
+secured: "TMWr/QKZCv8J1PoEGENYuZm2UH6ggmW9QlXqMBUE9JeVKtBAoghGOTPap4tK51vSo1886wKexWI53GaBRFhbGUJEnqKcuc7pcPUeUTaVQa09UP+OrO69UKaaFdJpZNMqAEpHU7whP45mBA9b88GwtibFAGrAROGFpBM6v204/4vAmG1th8g4pU3O5ftXwGbRqVYUOI6AqkdQEKgeZ9oJ4uhhq/lNHEjXIqDceM8i05hOuO0y1ImB2IEhPtCyCAdWYKzWdY/J1AY0OydzGgDxR3r1bL4an01YDNcklgnkQlVBu26SfdTofMqiIM/Gm8m3zxmFUYzpwWfQyQ+WeQuQou7ZqZ8FDAZOzon6PzAvYOjW6PdoKAacWK3c2h3Sf30a6njr04wuZtii6j3VtKrF+YLnOf5jPPF/we+SlXq1eknL1k7cCEzMctO6H+E3G5mklostsRAh6mIRbjKw5Hb1x7ht61JaX/omSdB1XJtIJLCU6Jx+6MHc+6yJPP0bNNlCYyuuAnvxnzTsmGY28uPFbQ==;EvvI94MzN5sXmOPkYGJv0A=="
 ---
 

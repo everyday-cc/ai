@@ -280,6 +280,17 @@ related:
         width: 600
         height: 364
         isCached: true
+  - title: "Completion of the Round 1 of the Securities & Commodities Authority Fintech Megathon"
+    excerpt: "The first-of-a-kind nationwide Megathon, launched in May 2021 under the patronage of H.E. Abdullah bin Touq Al Marri, Minister of Economy (MoE) and Chairman of the Board of the Securities and Commodities Authority (SCA),"
+    publishedDateTime: 2021-11-25T13:20:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Completion_of_the_Round_1_of_the_Securities__Commodities_Authority_Fintech_Megathon-ZAWYA20211125124245/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20211125124245/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20211125124245/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 17
   - title: "3 fintech trends that are transforming the future of business"
     excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
     publishedDateTime: 2021-11-23T14:09:00Z

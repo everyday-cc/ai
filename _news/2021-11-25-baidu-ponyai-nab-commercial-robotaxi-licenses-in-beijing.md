@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses in Beijing"
-excerpt: "Search giant Baidu Inc. and Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
-publishedDateTime: 2021-11-25T04:59:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
-webUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
+title: "Baidu, Pony.ai nab commercial robotaxi licenses in Beijing"
+excerpt: "Search giant Baidu Inc and Toyota Motor Corp-backed Pony.ai Inc were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+publishedDateTime: 2021-11-25T06:50:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
 type: article
-quality: 67
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHvjzsa8ZIk/v0/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381163.jpeg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -41,6 +38,22 @@ related:
     quality: 104
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing"
+    excerpt: "Baidu and Pony AI became the first companies to be approved by mainland Chinese authorities to launch their autonomous cab services commercially following successful trial periods."
+    publishedDateTime: 2021-11-25T14:41:00Z
+    webUrl: "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
+    ampWebUrl: "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 74
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271"
         width: 1200
         height: 630
         isCached: true
@@ -111,7 +124,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu, Pony.ai Get Permits to Run China’s First Paid Robotaxi Services in Beijing"
+    excerpt: "Chinese internet giant Baidu and self-driving tech startup Pony.ai received approval today to launch the country’s first commercial driverless taxi services in Beijing. The two companies are cleared to offer the new services in an area of 60 square kilometers in the Beijing Economic and Technological Development Area,"
+    publishedDateTime: 2021-11-25T13:26:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-ponyai-get-permits-to-run-china-first-paid-robotaxi-services-in-beijing"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 34
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-ponyai-get-permits-to-run-china-first-paid-robotaxi-services-in-beijing/17814938783055872.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
-secured: "utm6JPL1w3K+nEONBKIEN8a4pmTrF/yu6RIQhQc7KJfVdmnb1l8y+zIOBUOZ8lmvukRMtK4ELWh3emd7DMHP1XCs4W1yPNp2OecmFV3DDxQYXYQ7vnkCBg+z7gnVWuHY7pAp5VHvBG+LPUMtoLiCBoPHEJFK1+IAljleSV6qQKGqSKXInKeU1krpJ94ObFXkO98o37E3oSvv5f8RLiL6lXt4Ylrhm9yQ+OeuVR4Q0LLZNYcLUy+WIX+DsdKvUswsAZhVo6MHID4FUIxg2qrZlD1e4GqcaCf+/8K4mpWsbyg0yMDrh3DkkQPa6Hwi6V7EewAjd+Fu7GUGUowc5adFwJ0zx0rXGttt7t2hz3Z3DXi2FghMkBykOhjqn23E19Iw1wk84HOiY9HJsjP1RqquezM2+x8PgWWIcu7RFUb5NLNCmVVVp2e01d3nkb4UvQHCD7sTSC8qJ4gwNOwGTtZ8SSiv0bul3T9t+xjVwWqYPNd7HDYskHNYIkteIMt4AjsuSo/qQYYkmvkNRvh12/Tafg==;uPze6mG42tHzVRdSH3H/zA=="
+secured: "JJ2qbN569FK/8JvZy9BGv2M/drbs33+xyHgfD5DvkbyW+SJZF6veVxG3DRUyy0ARWg/tvmGF9PiopLP0aDD3o583iBq9ncsGrWgkyiX7nlSsM4Nwgn9Jviy66a9ds+vgDnS7nnJzPuj76KZ2JJsWtWRWxR5paKKkYpVHFtt9fCIkBEbEAT7m2SWPrEkQIv4d/H9ApDowoBLSzxtNFpioauRdCqqwilN65Kv1UKSQjJQlFgoYJOv6tTHneHvFuLGZU+Wo5P8kdayRgBy1Wrf5dZrIICo46GYTWJ2MPPMMF29NcsLAqF99uLqF2+FUfHlajgqQBmMu2qaVNzWVi+/eI7WT0DcDBxPSvW4Kg3zTI7w=;cXgAy608ot45fqKVAcEStA=="
 ---
 

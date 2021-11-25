@@ -24,6 +24,22 @@ images:
     height: 1586
     isCached: true
 
+related:
+  - title: "Respeecher Has Partnered with Veritone, a Leader in Enterprise AI, to Deliver Speech-to-Speech Voice Generation to Thousands of Customers"
+    excerpt: "Respeecher's proprietary speech-to-speech voice synthesis technology is now available in Veritone MARVEL.ai, a hyper-realistic synthetic voice as a"
+    publishedDateTime: 2021-11-25T14:25:00Z
+    webUrl: "https://www.pr.com/press-release/849209"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 6
+    images:
+      - url: "https://img.pr.com/release/2111/484340/pressrelease_484340_1637806129.png"
+        width: 1640
+        height: 624
+        isCached: true
+
 secured: "2tWNUmZ73qbm2v74HUOvxZw+V927zJMkFCjczdBk7M7iEfLTJ+F+MKPQiSf7tMT6wvrR8JYKFIcgO4xQ6wecZCWCLvBfVbHcvkKAqTPx+xnAWQxa5gAEsf78aOznvTM6wHGrY9For5/Onhh+T+wijyNzZBIWASeGoG0H6BoSEi1sm7+dwScq1IKwK5xRlH4WDeXWRpWDsNMKYHcPQz7A7mauRce0ZImcxnbbmM1i7lkcLq4hv9B14biRNiY08n7pk5AN+ADatGhMpWmX0TrTYzIIQiM3NPD+3AKh9RKp8+Z7D7p+8cdWXM5ZOapHXAn7o/r58egPK1keO1uSHSR2scHHqBliik8rLLUl40opwXc=;f5eI5ZWfku48inUVyGi4AQ=="
 ---
 
