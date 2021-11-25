@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lingochamp"
   url: "https://twitter.com/lingochamp"
-  followers: 1128
+  followers: 1127
 
 size: 1,001-5,000 employees
 yearFounded: 2012
