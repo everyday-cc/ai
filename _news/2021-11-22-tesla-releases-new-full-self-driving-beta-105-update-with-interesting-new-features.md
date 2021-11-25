@@ -148,6 +148,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
+    excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
+    publishedDateTime: 2021-11-25T03:40:00Z
+    webUrl: "https://www.itbusiness.ca/news/stripe-flirts-with-the-idea-of-accepting-crypto-climate-experts-call-for-european-bitcoin-ban-and-tesla-self-driving-will-require-video-collection/120081"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 17
 
 secured: "yZsxXGrmboQvKotURtBdrcGYYyEWaYfwmr0MJM6PUqcboPQLpSokP60em8Mw6HkcIMQfAE3AaAhvpO92BaED2cCt1dTBHfDC5cdoVSsO49SbIISzUv4UqSBCD+1ClMbKSxKjGsWzaWaulFeL2Vu6PQ1bXa9tMVacwhUHfnyRrMVgnDaaLRYorotKiSEJYRYAo1wErRIuzHa/jolYGFX1BPkukvttRPd8FUFUjmE0Y6TNNDc1fTtyYPBqdckHKzaxelpixASt1EjCSya3vRBO1S6NQqYLm+QNMf6XU8QUssyz2nBGghPDBHU4u7HOwoOHkK3uPyahVOLcxx8TWBmStbW2etRG4XQ+B6OUtEikr8kAVSc2DEhVKkUOWJg40060Z7XcaGFBVRFK5ofGLTm8R+MlptV+lNpw5PUlyKN6NJzEi6sSH4tWp3vxr5fyBx/pDq8KUMlwtDo7PLVMOOF/1pEinMZmFb0JlA/Le9vXqof8XxYeCPXapsRMJL3m8sfJP7iomnao1lwT7w4uVkcwFA==;ntT0fYb1WW0zgWw+8sWbiQ=="
 ---

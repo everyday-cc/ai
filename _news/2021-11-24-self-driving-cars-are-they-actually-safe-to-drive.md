@@ -25,21 +25,83 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving taxis are not arriving as soon as you think"
-    excerpt: "The road to automation has not been easy for cars, but the arrival of the Mobileye taxi could be a game-changer"
-    publishedDateTime: 2021-11-24T14:10:00Z
-    webUrl: "https://360.here.com/self-driving-taxis"
-    ampWebUrl: "https://360.here.com/self-driving-taxis?hs_amp=true"
-    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/self-driving-taxis?hs_amp=true"
+  - title: "How Will Our Ethical Choices Be Determined by Self-Driving Cars?"
+    excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms"
+    publishedDateTime: 2021-11-24T17:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/"
+    ampWebUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
     type: article
     provider:
-      name: HERE
-      domain: here.com
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 61
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/25/GettyImages-986605878-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The self-driving trolley problem: How will future AI systems make the most ethical choices for all of us?"
+    excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms generally still get help from people applying checks and making the final call."
+    publishedDateTime: 2021-11-24T13:00:00Z
+    webUrl: "https://techxplore.com/news/2021-11-self-driving-trolley-problem-future-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-self-driving-trolley-problem-future-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-self-driving-trolley-problem-future-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-self-driving-troll.jpg"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "What makes university students steer clear of self-driving cars?"
+    excerpt: "Driverless cars have been expected to revolutionize motoring, with some commentators predicting everyone would be a permanent backseat driver by now."
+    publishedDateTime: 2021-11-22T15:10:00Z
+    webUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
     quality: 44
     images:
-      - url: "https://360.here.com/hs-fs/hubfs/Arrival_van_banbury_yard_3.jpg?width=800&name=Arrival_van_banbury_yard_3.jpg"
-        width: 800
-        height: 533
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/googleselfdr.png"
+        width: 680
+        height: 451
+        isCached: true
+  - title: "Want a self-driving car? Better not rush"
+    excerpt: "Would it not be almost perfect after the day’s labor, or a night of fun, to just board your FSD (full self-driving) car, push a button and your computerized chariot takes you home while you nap at the back?"
+    publishedDateTime: 2021-11-24T16:00:00Z
+    webUrl: "https://www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush"
+    ampWebUrl: "https://www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush/amp/"
+    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush/amp/"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 44
+    images:
+      - url: "https://media.philstar.com/photos/2021/11/23/madam-tussauds-hk-pacman-1_2021-11-23_16-00-35959_thumbnail.jpg"
+        width: 686
+        height: 392
+        isCached: true
+  - title: "What makes uni students steer clear of self-driving cars?"
+    excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
+    publishedDateTime: 2021-11-23T06:17:00Z
+    webUrl: "https://www.scimex.org/newsfeed/what-makes-uni-students-steer-clear-of-self-driving-cars"
+    type: article
+    provider:
+      name: scimex.org
+      domain: scimex.org
+    quality: 24
+    images:
+      - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
+        width: 1490
+        height: 990
         isCached: true
 
 secured: "OLsQjT5sS2UbrBloG4RPG/VArP/Ef+DLTtctVFe68WCUUadPSIZ5MEUHcdSd3OPgRgPaD/xfry/44deYvdef0e2W1iE446C5QwK3QBldwAPrWKQFpJqZw8yl5zxWb3hSSkOEmESpgqZu/IFvm/sDdY+fgARbvJbdye3j4Jq3y6Yt+SJkzSzk4XuI+cYKFH4YyCmnVk5bBVJXg/57D+5rSGCSAZfVk7NwGaHNhk3MOntYXnwbOuaFQYOJEKQFfbm042YxjGuNP+z8hH99EOJ5K+eaJ739RQ7xQpDYxqLqjdSh/8aPU+ODCM56ogh0nktgSovok2PtnMuE5os7Tf1kMzkDRdBUsefEO54Rbn3ikto=;TA6axpYWM2rUwPG/fVTLVg=="

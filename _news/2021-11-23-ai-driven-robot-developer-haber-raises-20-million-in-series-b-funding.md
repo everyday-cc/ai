@@ -87,20 +87,6 @@ related:
         width: 2560
         height: 1287
         isCached: true
-  - title: "Helm.ai Raises $26M in Series B Funding"
-    excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
-    publishedDateTime: 2021-11-20T12:55:00Z
-    webUrl: "https://www.finsmes.com/2021/11/helm-ai-raises-26m-in-series-b-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/helm-1.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "AI-powered music platform Aimi raises $20m in Series B funding round"
     excerpt: "AI-Powered Music Platform Aimi has raised $20 million in a Series B round of funding. The fund raise was led by entertainment and media-focused investment firm Great Mountain Partners, which also holds what it says is “a significant stake” in Concord."
     publishedDateTime: 2021-11-22T11:42:00Z
@@ -114,6 +100,20 @@ related:
       - url: "https://www.musicbusinessworldwide.com/files/2021/11/Edward_Balassanian_by_Ismael_Quintanilla_III-e1637584085911.jpeg"
         width: 1537
         height: 864
+        isCached: true
+  - title: "Autonomous driving software startup Helm.ai raises $26 million in new funding"
+    excerpt: "Autonomous driving software startup Helm.ai raises $26 million in new funding November 24, 2021 by Mark Allinson Leave a Comment   <stron"
+    publishedDateTime: 2021-11-25T04:45:00Z
+    webUrl: "https://menafn.com/1103246918/Autonomous-driving-software-startup-Helmai-raises-26-million-in-new-funding"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/24/R&AN_83f03image_story.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "IXtud+k3Sj+4IwWuZ54FeUB4It+3xxx/2d45+BxmiFAm5L1fCKfA7YrzlLjEKmV0YIEgvDQDu3rmukTifTAy5H0hqhNgQsHXCTegpl6m90GWQ7N6tUypGy0gvksMh2TMPZlSEtR1Eo2oDl9UVmJdkP4a8NsYBYT5EcOnM2Q4GaaKDn142CyhcO1MfL9BySyP96xWW6UtsrvT022bIDIZvURJD9Rg5VJnlxVdyK6e2LVbaqgLtwczWym0AODqIU4IWcVqI3WOqbndJMC9QRGmgYLDaJeOpG80Dk+UA9CHGrUID9CVyJNtHLC/Ba7dRZi/lWaL8ibsxMVZJISf/x0If1drKmWsyVpaDMOmHzUlCIQ=;3qjBoGjK0oUjhKmxtcaIwA=="

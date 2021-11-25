@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
 type: article
 quality: 97
-heat: 177
+heat: 188
 published: true
 
 provider:
@@ -148,6 +148,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
+    excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
+    publishedDateTime: 2021-11-25T03:40:00Z
+    webUrl: "https://www.itbusiness.ca/news/stripe-flirts-with-the-idea-of-accepting-crypto-climate-experts-call-for-european-bitcoin-ban-and-tesla-self-driving-will-require-video-collection/120081"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 17
 
 secured: "Nhcqx2c6H5peMo741ElJwTsPc7/WLMv4uXHmS4790m4C1SzcW1OvnaD3fMWB6wTxTQuD3RgnJuvxRtnGLff7nWhgBUdhoPWZHAo+2/E3OFV3Er+VgV+dAKHUrkWAestsIqwufOrQIbbYmCDQ0HbAYdot6YqXm8OZOhSdvI8rJGXKJMK5+9ZVSPqmmSfdQrxlBUlYwQpjMhxG6YDCEDBuIEMomh+/EezU3o0+9vJa9sqTkJdlnw5KUM5Yg3OObwXDWRs1oQDVhD0vll/OBE+VzAoEtD0ZF0NWhm0YBZTRtMG0TmwZJ7u3PCgAcqe0ICKrJWsXyMlMtC74qjjVIPeeVgCoe50IW09ytYamvnSc1B7MSszZDLPR1h2G2AO88xaKAgzLRxIwlXnaK5DJuTHO8/alOk0OTehyJT02kY9HIRztmDnYAkCpChgYj9wqI6rObFggzmCActY5Jl8GLe3h0+tkkfYa0q7leOJu1f2wGTPbj++GxpPMavLDI4eKpojsFWMcyPCsYqHNrlRC+Uh93Q==;Y6yOl0uncOtZwIJZpn3wtw=="
 ---

@@ -25,83 +25,83 @@ images:
     isCached: true
 
 related:
-  - title: "Apple reportedly accelerates plans for electric, self-driving car"
-    excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
-    publishedDateTime: 2021-11-21T13:00:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920"
-    ampWebUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
+  - title: "How Will Our Ethical Choices Be Determined by Self-Driving Cars?"
+    excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms"
+    publishedDateTime: 2021-11-24T17:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/"
+    ampWebUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
     type: article
     provider:
-      name: News.com.au
-      domain: news.com.au
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 61
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/25/GettyImages-986605878-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The self-driving trolley problem: How will future AI systems make the most ethical choices for all of us?"
+    excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms generally still get help from people applying checks and making the final call."
+    publishedDateTime: 2021-11-24T13:00:00Z
+    webUrl: "https://techxplore.com/news/2021-11-self-driving-trolley-problem-future-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-self-driving-trolley-problem-future-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-self-driving-trolley-problem-future-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-self-driving-troll.jpg"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "What makes university students steer clear of self-driving cars?"
+    excerpt: "Driverless cars have been expected to revolutionize motoring, with some commentators predicting everyone would be a permanent backseat driver by now."
+    publishedDateTime: 2021-11-22T15:10:00Z
+    webUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
     quality: 44
     images:
-      - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
-        width: 1280
-        height: 720
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/googleselfdr.png"
+        width: 680
+        height: 451
         isCached: true
-  - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
-    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
-    publishedDateTime: 2021-11-23T07:29:00Z
-    webUrl: "https://www.udayavani.com/english-news/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025"
-    ampWebUrl: "https://english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
-    cdnAmpWebUrl: "https://english-udayavani-com.cdn.ampproject.org/c/s/english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
+  - title: "Want a self-driving car? Better not rush"
+    excerpt: "Would it not be almost perfect after the day’s labor, or a night of fun, to just board your FSD (full self-driving) car, push a button and your computerized chariot takes you home while you nap at the back?"
+    publishedDateTime: 2021-11-24T16:00:00Z
+    webUrl: "https://www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush"
+    ampWebUrl: "https://www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush/amp/"
+    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush/amp/"
     type: article
     provider:
-      name: Udayavani
-      domain: udayavani.com
-    quality: 43
+      name: philstar.com
+      domain: philstar.com
+    quality: 44
     images:
-      - url: "https://mcmscache.epapr.in/post_images/website_326/post_25578185/full.jpg"
-        width: 620
-        height: 349
+      - url: "https://media.philstar.com/photos/2021/11/23/madam-tussauds-hk-pacman-1_2021-11-23_16-00-35959_thumbnail.jpg"
+        width: 686
+        height: 392
         isCached: true
-  - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
-    excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
-    publishedDateTime: 2021-11-21T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/21/heres-how-blind-curves-could-stir-up-knuckle-gripping-jitters-about-ai-self-driving-cars/"
+  - title: "Self-driving cars: Are they actually safe to drive?"
+    excerpt: "Self-driving cars aren’t some crazy future tech … They’re here now. That raises some questions. Does it actually work? Is it safe? Is it work shelling out"
+    publishedDateTime: 2021-11-23T19:39:00Z
+    webUrl: "https://www.komando.com/episode/self-driving-cars-are-they-actually-safe-to-drive/817085/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
-  - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
-    excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
-    publishedDateTime: 2021-11-21T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/21/heres-how-blind-curves-could-stir-up-knuckle-gripping-jitters-about-ai-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 38
-  - title: "Apple wants to launch their self-driving car in 2025"
-    excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
-    publishedDateTime: 2021-11-23T19:30:00Z
-    webUrl: "https://omaha.com/news/national/apple-wants-to-launch-their-self-driving-car-in-2025/video_ed29d3cd-9850-5f31-b032-5356012a5614.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Kim Komando
+      domain: komando.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed29d3cd-9850-5f31-b032-5356012a5614/619d28a3d9226.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
-        width: 640
-        height: 336
-        isCached: true
-  - title: "Apple's fully self-driving electric car may be launched as early as 2025"
-    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
-    publishedDateTime: 2021-11-22T09:01:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2021/11/22/apple-s-fully-self-driving-electric-car-may-be-launched-as-early.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 23
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/2020/images/2021/1/13/Apple-Inc-logo-Apple-store-Manhattan-New-York-reu.jpg"
-        width: 760
-        height: 443
+      - url: "https://www.komando.com/wp-content/uploads/2021/03/kk-img-20210303-kim-komando-explains-1400x1400-1.jpg"
+        width: 1400
+        height: 1400
         isCached: true
 
 secured: "+n+0FtVSegm+5bOyz4rK6mytNwuBVf1QyQlZ6Tjd+95KQ9/0hoOZYUpuYUEiyg5XEXS3VqLZKDoTniZRG/+jsPYqSX/OjfKb8NOikKwXVMs3PXSldO7WmvDJcd7rZ0rj/na5wLulWsvi0nuIihUpBMewiWOvXR3ZlhtFwa0lfJsiiEgZBHJ1kYT208U2fQo20JghKCT2MNJ9qb+obV4TSTkWgOM7cZa93rfpys/TGpbB8zVbWxncjmxi3bWXNKxGpOwBv80Ay6XRsgFIUDOAxEHX5A6tGf/wfumnA0bs1PCjqDrFlV2j/O6LGgEtBmKhaq4twXExb9hN1F8yJ3C4xa3HGHCBGfVMEmOGON0BdhzlQPRW6uZaiySN4rplwRnWt+b5NAC+fdXdghompzcsxD4cu725mxrs2WS/3JVX/mGzlGAPfF+e2ecRGs6lNEVEz+YDCsDG9S350dacmgYKmzpiu5Mw8PKvnbcIT6r8/t7090Kdq4LyINtFyf8GScLuw1RLwLx8XqUjvcqy0giEoQ==;Vgody1Cj+I0DdNKaFucVzw=="

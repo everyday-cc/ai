@@ -1,32 +1,46 @@
 ---
 category: news
-title: "AI-based Robotics Startup Haber Raises $27 Mn In Series B Funding"
-excerpt: "Haber develops AI-driven robots which automate the manual process of sample collection, measurement, analysis, and intervention at factories."
-publishedDateTime: 2021-11-23T12:00:00Z
-originalUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/"
-webUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/"
-ampWebUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
-cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
+title: "Autonomous driving software startup Helm.ai raises $26 million in new funding"
+excerpt: "Autonomous driving software startup Helm.ai raises $26 million in new funding November 24, 2021 by Mark Allinson Leave a Comment   <stron"
+publishedDateTime: 2021-11-25T04:45:00Z
+originalUrl: "https://menafn.com/1103246918/Autonomous-driving-software-startup-Helmai-raises-26-million-in-new-funding"
+webUrl: "https://menafn.com/1103246918/Autonomous-driving-software-startup-Helmai-raises-26-million-in-new-funding"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
-  name: inc42.com
-  domain: inc42.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://inc42.com/wp-content/uploads/2021/11/trademo-ft-social-02-1-300x225.jpg"
-    width: 300
-    height: 225
+  - url: "https://menafn.com/updates/pr/2021-11/24/R&AN_83f03image_story.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
+  - title: "AI-based Robotics Startup Haber Raises $27 Mn In Series B Funding"
+    excerpt: "Haber develops AI-driven robots which automate the manual process of sample collection, measurement, analysis, and intervention at factories."
+    publishedDateTime: 2021-11-23T12:00:00Z
+    webUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/"
+    ampWebUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 89
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2021/11/trademo-ft-social-02-1-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "AI-driven robot developer Haber raises $20 million in Series B funding"
     excerpt: "Ascent Capital, the lead investor in the Series B funding, was joined by Elevation Capital, Accel, Beenext, Temasek partner Mukul Chawla and several others."
     publishedDateTime: 2021-11-23T12:26:00Z
@@ -101,21 +115,7 @@ related:
         width: 1537
         height: 864
         isCached: true
-  - title: "Autonomous driving software startup Helm.ai raises $26 million in new funding"
-    excerpt: "Autonomous driving software startup Helm.ai raises $26 million in new funding November 24, 2021 by Mark Allinson Leave a Comment   <stron"
-    publishedDateTime: 2021-11-25T04:45:00Z
-    webUrl: "https://menafn.com/1103246918/Autonomous-driving-software-startup-Helmai-raises-26-million-in-new-funding"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/24/R&AN_83f03image_story.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
-secured: "oT8Dllv7RLSx+r3gsLetUk02PM2nKEMG7Iiq1U3wIwIniljG0opXUss6/b+wv3XoNHZ4JgbH9ME/MQ1pksy9+SC/VvnF3fhvazAbcaG+Z7TS9FqaKrWmCa0FNlu00VM5mCiTmbqZj8247ZAxhx+LiADsxqe26qJuntO4iORdViXNLWBIymlil7+uiPUrrTW/d1qROWyJ/oNj4ccbtvByvpRD3FnMeovJ8XYVLkTXLaPoWko0XFLOWO+hSRdyMOARiAVUIdJDRe703OgYKQuzIE2kWUtle8dj8ukjTuZGPT0kgYhmQYS6xEjiAXOstEOnQ9+FPmHuraFzRM2WuvgWjJyITgq0AC5DEKMx1PcpK/HEVyoV8BRoNYhKeiIcY16d2xLaPNizIVIoUAtq0jd/t/0uRKwMXbZp9Uhl5dpEoaW2oUATT8xFWJp5Q240SbOw+dgihwpfaIEWocxYih8kyNTDWInIsYHgSAhnCapk110+f+64R8i7nTAxazNIlQ/Xry//nIvKuvIDD8rQkoa42g==;l0eIYNRGHDtztBZBTrBuXw=="
+secured: "8coUK8jGKEujBavsdZoeQ2w8GwUa+qJnEp4Mp0CAyqnVVjyYkcOpZscQAUwgEYlB6Q70qdMsUtxiBhAbg6M1HETuhJJJVTcj7BNY/GMdF27rpCzNeC1Hj4FJcXOkBwGvV7sMDahVvtFW9wf3SQ2dYCREg52L/zqupc0jDERYhDZYAPPalgTtWwipP1arOuLgbw5gB8LuTeUN5fUj9ZqtPmZVlPOVXtyNRA9IE1HBgn4ch9/fFZu0IxkyLdiK2uAe1CXKYlvDumMXaK4e0zNDXyQcFh86tqmOhH6TmPZ5/6M69pMJv/lSKDrxPjK4L4vKpMPVsfdsXsghKLpYd1Cji9YMPOamILkVXNQp8sz4aYc=;eqORiRYLK1F3ZL/G7gkrxQ=="
 ---
 

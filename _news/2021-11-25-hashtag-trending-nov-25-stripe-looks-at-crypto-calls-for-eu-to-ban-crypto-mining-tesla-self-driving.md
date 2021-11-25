@@ -1,34 +1,22 @@
 ---
 category: news
-title: "Tesla’s Self-Driving Business Is Powering Ahead Despite Setbacks"
-excerpt: "Tesla stock is up by almost 60% year-to-date, with its market cap crossing the rarefied $1 trillion mark recently. The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,"
-publishedDateTime: 2021-11-24T10:00:00Z
-originalUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/"
-webUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/"
-ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
+title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
+excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
+publishedDateTime: 2021-11-25T03:40:00Z
+originalUrl: "https://www.itbusiness.ca/news/stripe-flirts-with-the-idea-of-accepting-crypto-climate-experts-call-for-european-bitcoin-ban-and-tesla-self-driving-will-require-video-collection/120081"
+webUrl: "https://www.itbusiness.ca/news/stripe-flirts-with-the-idea-of-accepting-crypto-climate-experts-call-for-european-bitcoin-ban-and-tesla-self-driving-will-require-video-collection/120081"
 type: article
-quality: 89
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1170611911%2F0x0.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "Tesla requires Full Self Driving testers to allow video collection in case of a crash"
@@ -46,6 +34,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Tesla’s Self-Driving Business Is Powering Ahead Despite Setbacks"
+    excerpt: "Tesla stock is up by almost 60% year-to-date, with its market cap crossing the rarefied $1 trillion mark recently. The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,"
+    publishedDateTime: 2021-11-24T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1170611911%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Tesla releases new Full Self-Driving Beta 10.5 update with interesting new features"
     excerpt: "Tesla has started pushing a new Full Self-Driving Beta software update (10.5) to the fleet this weekend. It includes some interesting new features based on the release notes, which you can find below."
@@ -148,16 +152,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
-    excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
-    publishedDateTime: 2021-11-25T03:40:00Z
-    webUrl: "https://www.itbusiness.ca/news/stripe-flirts-with-the-idea-of-accepting-crypto-climate-experts-call-for-european-bitcoin-ban-and-tesla-self-driving-will-require-video-collection/120081"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 17
 
-secured: "J952AwyIZYGHYyEQVeaGAniRQfruB42Q5rG0uaGZ0CBcXkSkI6gcjbmityB+xijMbKtS4eWDmCrIDuhzrYnNbbOqRSqaLZSNXpZFFPzjKmAf42advO3/yPEawKH0mj9yMFb1u6QYQ10GVmJwE0JYLKzy9/Wwbf8MeTzFzc2D2Us4wCCTQHKEJk+9O7SA/C9hGq/8OGbJ1rWVQxeQJX+taLfCwbUnequA3GozNebb2Ns+1IuPKhlnCfPfdrTmaua9ecWVg03H3vKm1iLLsVHr4MJgvzjQ62Ed/tGtxH6TAN7aUXMSiV/S1ShMf2d3ztyUv+VprttPV9i1S+8ZBYGpnUmepwuH8gut8EzYNSpyjabc/e6XC9aNVkkRlaufDzz1Od+FsWV+fWbWvmWWM9GNlXncnztpZJITmjgpXSdYi3efNf+PYh0E2SwaCxHD9cvQrNFTQUD6k5XQ0XtJe03cy5JWVBgTWk0D48R5QE7zIZob+jttNIp0MMffx3zwTn9PHQk70MHnJAm0XtNJydXUzg==;ST6W8PY8y20bd5GlOvoBOw=="
+secured: "IG6h9TNSam0okEInWj28R9yA9HneCauE91GIBQ+OJGGfe1zvF/Oc8TC2hP9O9NmPWuw5r8C7OUiG6zPOr4rjNjxj5sB8CPe0dE3yO0vcezy/28IUiimNCgJI+52FjftG1AqBpFtBLDn2lsM9HBGo7uBx94pLxfQhI9ISI/PDdkU1S7AXY9Dvjrtfq+aEkPW+dZCRDQDZEag508pFByg3Vkc2o/DkL+xuPaB6/f1o0LYA8/vz+43gLTUkdrDALkFCmeJnFjxhiwurSYwZyy4sswUO8Nx7yQcHZEe24HnrS0QzFPb8NcOTKfjbF04LaEp6eBoh7hF0SWvdyE1JnW8c5MmaMeYg1CpQ3H9nUCCaGBrQHVL89kdx5mIfPNcjm7xb8HA5HLovEDR4UJavxZropKlHT+v2UWQLEbGzqdhzaBQTIc7X9iT9+1d6X4TAlJfnqytZOJWOF/G+tHUBBC5Nvv+KpShHePBKAS3sWlR/P6FYEVk32gsy1/d/YNd+NI20gU5EhcZu2cQq69MEFHKTrg==;B2qlmAX4eY0dMiKAMItE9A=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -303,6 +303,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-25-how-will-our-ethical-choices-be-determined-by-self-driving-cars.md",
+      "title": "How Will Our Ethical Choices Be Determined by Self-Driving Cars?",
+      "excerpt": "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/",
+      "originalUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/25/GettyImages-986605878-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/",
+      "publishedDateTime": "2021-11-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-senate-leader-hopes-to-revive-facial-recognition-debate.md",
       "title": "Senate leader hopes to revive facial recognition debate",
       "excerpt": "Limits on law enforcement use of facial recognition software enacted last year “did not go far enough” to rein in the technology, a top Senate Democrat told her colleagues on Tuesday.",
@@ -406,7 +450,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1167,59 +1211,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-robot-company-will-pay-200k-for-your-faceif-its-friendly-enough.md",
-      "title": "Robot Company Will Pay $200k for Your Face—If It’s Friendly Enough",
-      "excerpt": "The company is ready to pay out $200,000 to somebody willing to transfer the rights to use one’s face forever.” You could live forever. Promobot is considering people of all genders and races over 25,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723",
-      "originalUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/010771dd428e3f09f26866cbe7bd78e8.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723/amp",
-      "publishedDateTime": "2021-11-23T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

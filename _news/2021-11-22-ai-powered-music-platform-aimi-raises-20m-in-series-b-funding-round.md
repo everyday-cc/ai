@@ -100,19 +100,19 @@ related:
         width: 2560
         height: 1287
         isCached: true
-  - title: "Helm.ai Raises $26M in Series B Funding"
-    excerpt: "Helm.ai, a Menlo Park CA-based provider of AI software for autonomous driving, raised $26M in Series B funding"
-    publishedDateTime: 2021-11-20T12:55:00Z
-    webUrl: "https://www.finsmes.com/2021/11/helm-ai-raises-26m-in-series-b-funding.html"
+  - title: "Autonomous driving software startup Helm.ai raises $26 million in new funding"
+    excerpt: "Autonomous driving software startup Helm.ai raises $26 million in new funding November 24, 2021 by Mark Allinson Leave a Comment   <stron"
+    publishedDateTime: 2021-11-25T04:45:00Z
+    webUrl: "https://menafn.com/1103246918/Autonomous-driving-software-startup-Helmai-raises-26-million-in-new-funding"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/helm-1.jpg"
-        width: 1000
-        height: 667
+      - url: "https://menafn.com/updates/pr/2021-11/24/R&AN_83f03image_story.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "CDu69obFYnQNgz27+5AKiUycQ1sO0YUDW5ZksWtbjIxyuQNWob0es//Tz8g4zVzp1ueqtvz9hO7uS7PQ5MqQ2bbvVifrMMgolDS0zC0gkTL2ghOVbpyteB1sjup/7Q+vnAfNN1E0vledPmqkhBM8LStvrjQGLx/I5Eshh2nd3tfoxngA0VAx/o989hTJXswN+wXwu3HfC+zHaU2vMyf7ViiZdFRFC51rRcNJ0ARJ4kXEgJhdbiMZK/6YuWrnkUz9CQhulE1gt6qmJVJJAloKXuD/1YrpY6mFGKWDRTqWtX+wyWVs1aF/GvTlp1Db4q2uU5I59RZ5bFIAWzOY1Mn443u6M4bhiLhjPXUKg2RVPeY=;R+l787hnfS2jjdCUOWPSaw=="

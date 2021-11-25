@@ -75,20 +75,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 38
-  - title: "What makes uni students steer clear of self-driving cars?"
-    excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
-    publishedDateTime: 2021-11-23T06:17:00Z
-    webUrl: "https://www.scimex.org/newsfeed/what-makes-uni-students-steer-clear-of-self-driving-cars"
-    type: article
-    provider:
-      name: scimex.org
-      domain: scimex.org
-    quality: 24
-    images:
-      - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
-        width: 1490
-        height: 990
-        isCached: true
   - title: "Apple's fully self-driving electric car may be launched as early as 2025"
     excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
     publishedDateTime: 2021-11-22T09:01:00Z

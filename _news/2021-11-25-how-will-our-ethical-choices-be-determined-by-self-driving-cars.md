@@ -1,48 +1,33 @@
 ---
 category: news
-title: "What makes university students steer clear of self-driving cars?"
-excerpt: "Driverless cars have been expected to revolutionize motoring, with some commentators predicting everyone would be a permanent backseat driver by now."
-publishedDateTime: 2021-11-22T15:10:00Z
-originalUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.html"
-webUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.html"
-ampWebUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
+title: "How Will Our Ethical Choices Be Determined by Self-Driving Cars?"
+excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms"
+publishedDateTime: 2021-11-24T17:00:00Z
+originalUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/"
+webUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/"
+ampWebUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 61
+heat: 111
+published: true
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/googleselfdr.png"
-    width: 680
-    height: 451
+  - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/25/GettyImages-986605878-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "How Will Our Ethical Choices Be Determined by Self-Driving Cars?"
-    excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms"
-    publishedDateTime: 2021-11-24T17:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/"
-    ampWebUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 61
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/25/GettyImages-986605878-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The self-driving trolley problem: How will future AI systems make the most ethical choices for all of us?"
     excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms generally still get help from people applying checks and making the final call."
     publishedDateTime: 2021-11-24T13:00:00Z
@@ -58,6 +43,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-self-driving-troll.jpg"
         width: 1356
         height: 668
+        isCached: true
+  - title: "What makes university students steer clear of self-driving cars?"
+    excerpt: "Driverless cars have been expected to revolutionize motoring, with some commentators predicting everyone would be a permanent backseat driver by now."
+    publishedDateTime: 2021-11-22T15:10:00Z
+    webUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/googleselfdr.png"
+        width: 680
+        height: 451
         isCached: true
   - title: "Want a self-driving car? Better not rush"
     excerpt: "Would it not be almost perfect after the day’s labor, or a night of fun, to just board your FSD (full self-driving) car, push a button and your computerized chariot takes you home while you nap at the back?"
@@ -104,6 +105,6 @@ related:
         height: 1400
         isCached: true
 
-secured: "dKyz5M82pqFyu7NxYCLDHUhfCkFJ4fgxYExb09GIaLhPxVV89+Ilx1vXG2jMr3UJUxVhenZfrM0Widavf6/N/HUtKC+JDzidjWf4XYjZ3+UNvToilfzdRYnBGHB1ZvLA3dRLQBbHpDyfk9Oxm920E+uIQDcVZnZYsG2AOT0Yv+8R46A34sx+/2MW2oTlZs9URcYoUdqVKDiB5c5OWweJjY4Q+o0JLwVxijWhYBD3TnFdt2sngbB3N4r5Bjl+uHAnBzf9Q9W1iqUUDx9tpZYi79dOEO3qlRjerbzvUiIRLtKILEF4lCFS1pCWIkrbBcrf7KJPOytrr1egY3lG5EfeOkCRggvdoBE49V2oYh4P0Z6dxHGB+B8JKkJhw/8WoL+9Oluhrj8A915E+is4EPi3WuMA2YfMu/HVVVFYtus4NkDCGxIvZNdynXIT2cua6Aqi3Sq5pH8oxuNICtD/5kgSau9N+1C30RDAiy045k1zpkynoKiZqaN8N5zkIXp0+ix9nQ4oHi3tS4O8qOP41nvncQ==;d960p4joYCzNxSihRedf/Q=="
+secured: "K66YyaiE29S3PAISp7oXDk03GcLtpN2dPsnqAwMicwM9yAIjwFqr5SvS3CSoCq14b0SJrvX5/TOl9b+b4KzGxeSO5+bwXAOk1hC6GtAjxSuWTIAc8U5MfPnzIGbMMXAY318IscX4lakcSgv+jt5TTmv/LxIDMXQLJgMFnfbUBU4BTcm83a0HyHlDE4ESTY5mrr7tRDegJdRr1t5HBS25FL/N/x7lf84oBu9spmfzCHsK71UhQeWNuGRRfKnLlUVQDKW6mwoE2WdsVknPF8dXjkG/Zs59M4N7x/PyFuvGVCXCPr+aje6au+2ZkZPTb1xFlQU0OEssOpR37Ik6ULazIYu7WzJDI+A3785JhhOpeFQ=;UsAxV2fIBuhji+pPgJ6Kdw=="
 ---
 
