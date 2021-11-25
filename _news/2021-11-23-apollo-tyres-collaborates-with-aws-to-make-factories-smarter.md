@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apollo Tyres goes all out on AWS to use IoT and machine learning in factories"
+    excerpt: "Apollo Tyres moves to AWS to digitize manufacturing, overhaul customer experience, and create “smart” factories to improve productivity and compliance"
+    publishedDateTime: 2021-11-25T07:04:00Z
+    webUrl: "https://www.ciol.com/apollo-tyres-aws-use-factories/"
+    ampWebUrl: "https://www.ciol.com/apollo-tyres-aws-use-factories/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/apollo-tyres-aws-use-factories/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 53
   - title: "Apollo Tyres goes all-in on AWS to make factories smarter with IoT and Machine Learning"
     excerpt: "Apollo Tyres will draw on the breadth and depth of AWS capabilities, including Internet of Things (IoT), data and analytics, and machine learning, to transform into an agile, data-driven enterprise. Using data from the factory floor and real-time information from production machines,"
     publishedDateTime: 2021-11-24T18:16:00Z

@@ -2,6 +2,58 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-10-26-this-ai-resurrects-ancient-board-gamesand-lets-you-play-them.md",
+      "title": "This AI Resurrects Ancient Board Games—and Lets You Play Them",
+      "excerpt": "What tabletop games did our ancestors play in 1000 BCE? A new research project wants to find out, and make them playable online too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/",
+      "originalUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/617700c0a7da35fe9f08a7f7/master/pass/Games-Ancient-Games-Online-1226937967.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/amp",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey.md",
       "title": "Can Artificial Intelligence Take The Guesswork Out Of The Customer Journey?",
       "excerpt": "From shopping malls and sports arenas, to train stations and city streets, C2RO is an AI-powered video analytics platform that captures anonymized data about people’s movement so organizations can improve the customer experience.",
@@ -1091,57 +1143,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-travel-expenses-ai-startup-worth-100-million-in-fund-raiser.md",
-      "title": "Travel Expenses AI Startup Worth $100 million in Fund Raiser",
-      "excerpt": "A Switzerland-based startup that says it uses artificial intelligence to help mange travel expenses is raising funds at $100 million valuation, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-25/travel-expenses-ai-startup-worth-100-million-in-fund-raiser",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-25/travel-expenses-ai-startup-worth-100-million-in-fund-raiser",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i63.dYmgwUJw/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

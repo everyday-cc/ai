@@ -9,7 +9,7 @@ ampWebUrl: "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-fact
 cdnAmpWebUrl: "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apollo Tyres goes all out on AWS to use IoT and machine learning in factories"
+    excerpt: "Apollo Tyres moves to AWS to digitize manufacturing, overhaul customer experience, and create “smart” factories to improve productivity and compliance"
+    publishedDateTime: 2021-11-25T07:04:00Z
+    webUrl: "https://www.ciol.com/apollo-tyres-aws-use-factories/"
+    ampWebUrl: "https://www.ciol.com/apollo-tyres-aws-use-factories/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/apollo-tyres-aws-use-factories/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 53
   - title: "Apollo Tyres Collaborates With AWS To Make Factories Smarter"
     excerpt: "Apollo Tyres also launched an automated tyre inspection program that checks for tyre defects using photos of the tyres."
     publishedDateTime: 2021-11-23T13:27:00Z

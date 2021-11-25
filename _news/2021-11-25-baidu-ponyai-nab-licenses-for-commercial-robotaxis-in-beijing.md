@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses in Beijing"
-    excerpt: "Search giant Baidu Inc. and Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
-    publishedDateTime: 2021-11-25T04:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
+  - title: "Baidu, Pony.ai nab commercial robotaxi licenses in Beijing"
+    excerpt: "Search giant Baidu Inc and Toyota Motor Corp-backed Pony.ai Inc were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+    publishedDateTime: 2021-11-25T06:50:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHvjzsa8ZIk/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381163.jpeg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "TvSbY+29d84CVg2ygi5prknLcUv2oLjehKOfgDPGj+ydEdIJ3s4xQLoPd8HSmmSKQ/FI9/da6bP2GFlHTToYsl+0dq1SuOQw8JrU4fTYhUB27pCofk9a22k3DBcKFxTuhFh0YB7PGVWNa1WfY+3p9MB/AuDapuPG3BdKwC4xmG2I4GgUm4pyhdGCVTHaZ/rAPMox632BouU+cecLmaKrkxejswNqt+9c8gooRcmizyBVBNQpQD6EX8QM9svYYqmx6e0geOk8vV/Y4V+t0FVTPP4AbpYQc/oaTbo6rGwcQBosE1jFsCeoa3LyvE63j0r8IOFERsNb0WkKqLrIeaTVlxPIPmEJBmUcx9JRHaJBn/I=;OGXmDUIDVGfXo8irw/fbYQ=="

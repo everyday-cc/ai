@@ -2,17 +2,21 @@
 category: news
 title: "Globally Awarded AI Startup Receives USD 1.4 Million In Seed Funding"
 excerpt: "Globally awarded Croatian AI startup Mindsmiths received USD 1.4 million in seed funding from Feelsgood investment fund which supports companies with proven positive social impact. Mindsmiths will use this investment to further develop and expand its autonomous support system (ASS) platform with a proven social impact record."
-publishedDateTime: 2021-11-23T09:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-globally-awarded-ai-startup-receives-usd-14-million-/2021/11/23/9498296.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-globally-awarded-ai-startup-receives-usd-14-million-/2021/11/23/9498296.htm"
+publishedDateTime: 2021-11-23T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-1030998098"
+webUrl: "https://markets.businessinsider.com/news/stocks/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-1030998098"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -23,6 +27,6 @@ images:
     height: 266
     isCached: true
 
-secured: "M+NiOGHJ2yiq8IE6Jp0nUx77ZkSSXA9g7B6T+DRwHEIy60M51P+hk9h6z69k+16KIiZvZEJpVgsLJ55x+WajpPx2QubL/i7nofTqVZM2ixhRw+hUP5+JeaIiBYmGErRZMiRBT6nBeZIzYT6cXDz49sQw0diBg27PfdimssNdF4LpgDxeB+HvN6DIzJNUkookNFLuCwJfJ/nEuKmAAcpeAagqNmpgEpSC8M89eclCwVIad6plgEr9+WOk8cY1NXrj2Hi1rZpkGkGVWG5ZH3GwlfGW5QOmK95bTPybDLH/0JWeqFbX6L8c2J6Kwbk28EuPrIieIRFgrwOp7uDrKUIgC7SX4s2kwyk/11cCAYzX1lqjBa/M1FAwUMWnX/MzG5C3GUbvcm888BYE+eFMIhaFVmWYesxeQOvxfqUsU7qA/08KPEJJ6PU0B0otCIxArkykPpqFi5/+l4dLU2Mku7eWUwxik8lqVBzrpJYjgNtW5iJV8Sm3IelESYKagtQQG1v/Clr6bVImd9ZhPCqgjDYDRw==;Ikt2uYEjGLdjU+tDh2JkTA=="
+secured: "+BwWLgslyObSUwbdDebdwjNu1kXSjYISAle/T8nSmO7jrcytI4JSOJtf5/IRe1NxiYf5yORCI/gckt6x5IluBo65h3bNYhf9KJhaTeesIo6chVzaHmeAJT5KAVaxJenIazLkJa33nJuMbHb3MMYR5FC7Z49V9Hvp6SYhJXZAFEIf38XY5HxMyy/AqAQ3Z10FNK25mmsBLYJcw8z/4T4vF+NnXBEtVRP3b7PeptHZbe2Ar/GtKcd9zX18rT3xQwsg01kgeRziN/OiRDow40EKRvdOWEli5hqwZmCTtFXK1GOmoh5Q1tcnlmtP07hzuCJ3p7PXix9CRbDhORosSf7htc6aUpDA6z9N082UxRbH6Sw=;cAtPh4APP8UJGK5je0LYmg=="
 ---
 

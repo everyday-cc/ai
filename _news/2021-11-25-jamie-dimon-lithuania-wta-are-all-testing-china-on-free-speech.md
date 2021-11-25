@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "JPMorgan Chase CEO joins Lithuania and WTA in testing China on free speech"
+    excerpt: "Jamie Dimon knew right away Beijing wouldn’t like his joke about the Communist Party’s downfall, noting immediately afterward: \"I can’t say that in China.”"
+    publishedDateTime: 2021-11-25T06:33:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2021/11/25/asia-pacific/china-tested-free-speech/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 22
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/11/np_file_125815-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
+
 secured: "8IYnyOLK/6uVYPZ6ymzgs26IJUDx4BuQyx2GrxNhvd0ecPFGuBVKwDhkZFNX5UVXNIYDfbeoqrc0/v/Fstr/5/pTVQf6Ml2DQgqiQKons9HhiGtdKzfnFwQJb54eVjkmkOf+JOBOqSzZVzUXsIv4GO5X1HjqqA4PWH37k0oru5i29cQxP8w/ik96i3+b/js4fM30mlPGZZMPWw4ESbX1ny84YtImV5gb8WZJg2IeVvGc0OgOK4WyueZVlxY2qrEc/vZ9IN5ShpiiKE+qgV5iN1lnRtdQUj5IgokWbpzIVXFMUjUsmNx3cwBBDovn3SKz+WOHo3tf0e5Zdn214hGeM5z7OCtR7pkAREgfCWXmzUU=;Jw2xcVY3nyWng3iOCY/piw=="
 ---
 

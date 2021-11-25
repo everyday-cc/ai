@@ -2,6 +2,59 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-10-20-the-5-articles-you-read-in-ai-hell.md",
+      "title": "The 5 articles you read in AI hell",
+      "excerpt": "Hello! Welcome to AI hell. We're here to make your transition as seamless as possible! If you'll just log in to you Amazon account, we'll get",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/the-5-articles-you-read-ai-hell",
+      "originalUrl": "https://thenextweb.com/news/the-5-articles-you-read-ai-hell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FAIhell.jpg&signature=20e8ac69101ef3c4b1d280c0f896ba2f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-innovations-in-training-using-artificial-intelligence-and-machine-learning.md",
       "title": "Innovations in training using artificial intelligence and machine learning",
       "excerpt": "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES",
@@ -1146,57 +1199,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-cybersecurity-data-monitoring-platform-queryai-secures-15m.md",
-      "title": "Cybersecurity data monitoring platform Query.ai secures $15M",
-      "excerpt": "Query, a startup providing a security monitoring plane for enterprises, has raised $15 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/",
-      "originalUrl": "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-923872400.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/",
-      "publishedDateTime": "2021-10-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

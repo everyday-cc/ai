@@ -87,6 +87,20 @@ related:
         width: 960
         height: 539
         isCached: true
+  - title: "Global Artificial Neural Networks Market 2021 Industry Opportunities, Top Manufacturers Profiles and Regional Analysis by 2027"
+    excerpt: "MarketQuest.biz has released a Global Artificial Neural Networks Market study that forecasts fast growth from 2021 through 2027. The study estimates market share in terms of volume for"
+    publishedDateTime: 2021-11-24T17:09:00Z
+    webUrl: "https://www.wboc.com/story/45283117/global-artificial-neural-networks-market-2021-industry-opportunities-top-manufacturers-profiles-and-regional-analysis-by-2027"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 11
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
     excerpt: "The \"Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI) is transforming organizations,"
     publishedDateTime: 2021-11-24T12:43:00Z

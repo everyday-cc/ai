@@ -1,27 +1,33 @@
 ---
 category: news
 title: "AWS wins Adidas contract to host its SAP workloads"
-excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
-publishedDateTime: 2021-11-23T15:54:00Z
-originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
-webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
+excerpt: "Utilizing AWS’ machine learning solutions, including Amazon SageMaker, Adidas’ data scientists can forecast seasonal demand for goods. This ensures the right product arrives at a warehouse or ..."
+publishedDateTime: 2021-11-22T16:57:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads"
+webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads"
+ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 149
+published: true
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/11/adidas_shop_shutterstock.jpg"
-    width: 1000
-    height: 667
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1637598528/itpro/adidas_shoeboxes_shutterstock.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -86,15 +92,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Richemont Selects Amazon Web Services as Preferred Cloud Provider"
-    excerpt: "(NASDAQ: AMZN) company Amazon Web Services announced that Compagnie Financière Richemont SA is moving its entire enterprise IT infranstructure to WS. The company will close its European data centers and migrate additional data centers in Hong Kong and the United States to AWS by the end of 2022."
-    publishedDateTime: 2021-11-24T17:26:00Z
-    webUrl: "https://www.financialbuzz.com/richemont-selects-amazon-web-services-as-preferred-cloud-provider/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 21
   - title: "Adidas migrates SAP Environments to AWS"
     excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
     publishedDateTime: 2021-11-22T13:46:00Z
@@ -105,6 +102,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "Sf4B3FGyEZJspPFvGBNT9CAi4spu9GxKS4HfuX3uF85V7SZEe2E1yJpq8Drcf22rWIikxqaCqgCFm73HG85cya5k0cE9+eHYioCX+N1uPMSx00389q4XtE4lCRhIQaODwFrFqUu/2W3xg3q8KURHY4qakyTp2tPDUzFg3iSuSRhZrzWMCWFLvEzfk/hlCfa1W/reNna+xznckJvCPgMAvWaFYNR3cDD14a4WyAvMYush4YipQyT4/tMEo9RmAXNQxSqcVaIHpZzdsD6/+s+NlRVr6qZzZFZf9a/WF4ml1dPgkhXmbjNun7qWRy0W7oa/qutRRd8fqsJghP/rk+EK60LJFxFieIc93wcQV9CSfGZroAUXXF6M5nmAuSx+8NDa1fY1faIdluH71JE5gWRKJwKRsw1PAdS2mIHVCmyHQSI58Oimbs7l2QXiwlJpIqeo/R6ot08OCIxkb77a6f58uY4Db2nqMuo/PcIIhrd4cz1mYQ6LGwQ2N/wioACHiTcGE10qDRd/fnACUN5W2hbkkQ==;qVqWyd5719/jT2DIyWw6zw=="
+secured: "aZyu4zRpA4xVCYmtHPyxFladdH6PJCApR5Nxif8VD/9blNdS+2pK4Xj/Raql0WlmcLUOZHqIVGAZYF5hMOw4UI4BELShwAJHaevL0g5JwkNQ7kgplpSYVrBLJclNVN6M16a9UrHgnxmZKvHMcB9Vvq6DvIt5ZKLzQUDB1rfLCGLQ9Oc1gJANtHjFekdj79rWACB6RuL/yyYKpPfZ2SSBXDUnGl6tlkY7ceNyKKNjFveQ0lZAP0/2VaW0RRWqpt7atdxYyeQ4qmnDbEUhLVcz8dgi9UBfNndTM/XFqqh1oRftf4/B3G7HNe/WzwYmE9x+jIWhsEzq/Re3V9rOOmP57shja4Avv2Ez3xCPtbJ346A=;JgamUe/Axpiigg7HAUhzpQ=="
 ---
 

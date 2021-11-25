@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-11-02-microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers.md",
+      "title": "Microsoft’s new Azure OpenAI Service brings GPT-3 to (a few) more developers",
+      "excerpt": "Microsoft today announced the launch of the Azure OpenAI Service, which, as the name implies, makes OpenAI’s machine learning models available on the Azure platform. Specifically, that means GPT-3, OpenAI’s groundbreaking language model that can,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/",
+      "originalUrl": "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-932632280.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/02/microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers/amp/",
+      "publishedDateTime": "2021-11-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-sql-server-2022-is-the-most-cloud-connected-release-yet-now-in-preview.md",
       "title": "SQL Server 2022 is the \"most cloud-connected\" release yet, now in preview",
       "excerpt": "Microsoft has released a preview for SQL Server 2022, calling it its \"most cloud-connected\" release yet. Improvements on Azure include the introduction of Chaos Studio and OpenAI Service.",
@@ -1135,58 +1187,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-turn-your-tech-skills-into-machine-learning-expertise-with-this-book-and-class-bundle.md",
-      "title": "Turn your tech skills into machine learning expertise with this book and class bundle",
-      "excerpt": "Now that you've got mid-level tech skills, it's time to direct them into one of the tech industry's most in-demand fields. If your tech skills have reached the intermediate level and you're ready ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/turn-your-tech-skills-into-machine-learning-expertise-with-this-book-and-class-bundle/",
-      "originalUrl": "https://www.techrepublic.com/article/turn-your-tech-skills-into-machine-learning-expertise-with-this-book-and-class-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/turn-your-tech-skills-into-machine-learning-expertise-with-this-book-and-class-bundle/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/turn-your-tech-skills-into-machine-learning-expertise-with-this-book-and-class-bundle/",
-      "publishedDateTime": "2021-11-01T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
