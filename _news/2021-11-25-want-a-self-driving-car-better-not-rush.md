@@ -103,6 +103,15 @@ related:
         width: 1400
         height: 1400
         isCached: true
+  - title: "The legal challenges of self-driving cars"
+    excerpt: "The Department of Transport recently announced its intention to allow Automated Lane-Keeping Systems (ALKS) to be used on British roads by the end of 2021."
+    publishedDateTime: 2021-11-25T11:50:00Z
+    webUrl: "https://www.lawcareers.net/Explore/BlogPost/Max-Alexander-Jones/The-Legal-Challenges-of-Self-Driving-Cars"
+    type: article
+    provider:
+      name: LawCareers.Net
+      domain: lawcareers.net
+    quality: 4
 
 secured: "PFhyP8EQ1N47AjuRIerLBvgDX9ghgGpZTGmMO7IlkopymMOW//JEhc7WSX6UYOf0wICmh/shzplicJdU7/RKrfUkyu8VLXSqe9pAmqpy3ALhI0U9qHO2RMiaxXKJrp8nuCF8Bg0EbqpQ+MF920ljZKvU7n7TRKIflrq1cojPbPxAyKxVGceIlqoJinsFmjHRUxQFKocg7tVy3HPsnCVFHkjItAnTHg91nU2G+aYGsErpU4dbcNILeRIru2DdtHhOzI5+YjWHns/clC4D9M7XwqKT1dxa4fy9f8TmvqlwsJXzuZ9PAkrak0ZiUTOz79M0OYiKRl0gNPpEYDadPBE3Ki7Prwxl6aY96t248wELLto=;blEAj6KgLjgX6PeqOswg5w=="
 ---

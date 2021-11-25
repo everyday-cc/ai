@@ -103,6 +103,20 @@ related:
         width: 861
         height: 483
         isCached: true
+  - title: "Verbit Stuns Language Industry With USD 250m Series E; Startup Valued at USD 2 Billion"
+    excerpt: "Verbit closes a USD 250m series E, which valued the company at USD 2bn less than six months after its unicorn-making series D."
+    publishedDateTime: 2021-11-25T08:40:00Z
+    webUrl: "https://slator.com/verbit-stuns-language-industry-with-usd-250m-series-e/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 16
+    images:
+      - url: "https://slator.com/assets/2021/11/Transcription-Company-Verbit-Series-E.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Verbit, the World's Leading Voice AI Platform, Raises $250 Million Series E, Achieving a $2 Billion Valuation in Less Than 5 Years | Morningstar"
     excerpt: "Verbit, the world's leading voice AI transcription and captioning company, announced today that it has closed its Series E funding round at $250 million, after securing a $150 million primary investment and $100 million in secondary transactions."
     publishedDateTime: 2021-11-23T15:04:07Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202111/1239891.shtml"
 webUrl: "https://www.globaltimes.cn/page/202111/1239891.shtml"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 720
     isCached: true
+
+related:
+  - title: "Baidu gets approval for commercialized autonomous vehicle service on open roads in Beijing"
+    excerpt: "The autonomous vehicle commercial permit, which was granted by the head office of the Beijing High-level Automated Driving Demonstration Area, allows Baidu to charge fees for autonomous services offered to the public in designated areas. Baidu and self ..."
+    publishedDateTime: 2021-11-25T08:10:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202111/25/WS619f1daca310cdd39bc7782b.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 29
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202111/25/619f227aa310cdd3d81cc938.jpeg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "6H+2aG2eHk6Ow+0GrZ3XwDR/dSGJOD1Idzz+zZeSvK6cco7KZ6YXPMdYUVieOEMudsaBhgr58sQvcDt7c3xlqfL+pKL9pirdPSWGvEvFQtktKdaJOR+N/19SltyXIZifX4b+FT/Gfjm25OVE3xG3csN0cXvWzITu+7mAWtUgUeSHhlGuuhKw02uiPQ8PVTCnrgObncAZXekgdMl/qQA1Jck9CWCBy3qa90TyR1JDP3Jfd4O0KG4nK5AUT1HOfLNzfeHYfXTUnT1ycn1tgNVFq2wwLK65pMH4L+8x5UE5O5bZ24F/SO+TICwVwarG2oRDLXlRCK44STPExlymCRpcjgXAPp0+g7rFzfULHW+ubAdkKEmEVnoGaCPPOTajICYlTNhTOkeHc/Oafdz7ztZ7e0ZlfA5PqEqJ4QsII/HwZjgc6b0TodwTCMXYiOJKNooTEmBbwtNEY9u4ohgzXmH0FFV4SgPJrvoIOz4fjEq93/12xRik/3pYV++XrJx2AiG0SbWe6/OmHFAjtq+zaph71w==;fUtFVjbsZdDYASvpuwSxtw=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -54,7 +54,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -1131,6 +1131,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-baidu-reports-revenue-rd-increases-in-q3.md",
+      "title": "Baidu reports revenue, R&D increases in Q3",
+      "excerpt": "Chinese tech giant Baidu Inc reported its total revenue reached 31.9 billion yuan ($4.95 billion) in the third quarter of this year, an increase of 13 percent year-on-year, yielding a non-GAAP (generally accepted accounting principles) net profit of 5.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202111/17/WS6194f0e0a310cdd39bc75ebb.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202111/17/WS6194f0e0a310cdd39bc75ebb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202111/17/6194f0e0a310cdd3d81b287a.jpeg",
+          "width": 710,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-qualcomm-aims-for-diversification-will-soon-supply-chips-for-bmw-self-driving-cars.md",
       "title": "Qualcomm aims for diversification, will soon supply chips for BMW self-driving cars",
       "excerpt": "Qualcomm Inc announced on Tuesday that BMW cars will utilize its chips in its driver-assistance and self-driving systems.",
@@ -1406,49 +1449,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-how-waymos-self-driving-cars-handle-fog-in-sf.md",
-      "title": "How Waymo’s self-driving cars handle fog in SF",
-      "excerpt": "Waymo's robotaxis face unique challenges driving in San Francisco, where there's a one in three chance of fog every day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/",
-      "originalUrl": "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/11/waymo-radar-fog.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Hire Microsoft Power BI Specialists near Sofia"
+    excerpt: "Hire the best freelance Microsoft Power BI Specialists near Sofia on Upwork™, the world’s top freelancing website. It’s simple to post your job and we’ll quickly match you with the top Microsoft Power BI Specialists near Sofia for your Microsoft Power BI project."
+    publishedDateTime: 2021-11-25T11:12:00Z
+    webUrl: "https://www.upwork.com/hire/microsoft-power-bi-freelancers/bg/sofia/"
+    type: article
+    provider:
+      name: Upwork
+      domain: upwork.com
+    quality: 39
+    images:
+      - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WOjd9o1hXSKkoUkROMgysT6iqbgAxuYVvvpTxv89Mcgw249eVbPIWd0J6jNv/T7u6cfVqRlpjOQJ+GRtiqgPA1l2Ev4GsqiMcSML38jpfNaLbjRPooJ5kW2OwM9p2GnssILUk6q+f/ZumBHJy69QSDzKfE2QT/vDNJrU7e+cNKVpH6x8ocMXmw8crV0pJI9y4vsewVeZyepPNZqrFNKlkr/x5sPOG0XvIM70EN18wJ9L9IfUjum+nxFA0jRn17id16MckZBD5AcxV1rezYhKsYUzcK3d2q7s7E988X5damJ0bCABOWeU5pzpvviPCDUSJC7sO0aU2Y1QRI4fCLaN6RTneoqxdMMQReOtseqdQKSrQreQCUzJRCPO+/dcFTHOdyWfSIk3wo3c3wOVXVMA2qrlGJ7ONHG0Rma3cDviBchaeoe213lmmP52b3uAGH83ODMRPmxmH5Dtxke4EQVCNB6GQY0mKIw0CJ+H1rvNch92FIT96Jk49bLxhHyoXIDmNtHLE0Nrav5HD09XGzOuYw==;SdDhDa9rEtlSUjBbzhVvag=="
 ---

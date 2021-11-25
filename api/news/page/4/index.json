@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-21-want-ethical-ai-hand-the-keys-to-middle-schoolers.md",
+      "title": "Want ethical AI? Hand the keys to middle schoolers.",
+      "excerpt": "An innovative curriculum developed at MIT takes aim at eliminating the biases inherent in our algorithms—by teaching the concept to youngsters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/",
+      "originalUrl": "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/11/19/210817_PopSci_9121-811x1024.jpg",
+          "width": 811,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/mit-camp-teaches-ethical-ai/?amp",
+      "publishedDateTime": "2021-11-21T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-21-a-robot-wrote-this-book-review.md",
       "title": "A Robot Wrote This Book Review",
       "excerpt": "In “The Age of AI,” Henry Kissinger, Eric Schmidt and Daniel Huttenlocher explore how far artificial intelligence has come.",
@@ -235,7 +278,7 @@
       "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1147,57 +1190,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-insurtech-company-kettle-is-using-ai-to-insure-against-wildfires.md",
-      "title": "Insurtech Company, Kettle, Is Using AI to Insure Against Wildfires",
-      "excerpt": "Kettle, the reinsurance startup that uses advanced deep learning to better protect people from the growing risks associated with climate change, such as California's wildfires, today announced it has been reinsuring homes during the 2021 wildfire season and that it raised a Series A financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insurtech-company-kettle-is-using-ai-to-insure-against-wildfires-1030991813",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insurtech-company-kettle-is-using-ai-to-insure-against-wildfires-1030991813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1693097/CA_Kettle_Risk_Map.jpg",
-          "width": 400,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

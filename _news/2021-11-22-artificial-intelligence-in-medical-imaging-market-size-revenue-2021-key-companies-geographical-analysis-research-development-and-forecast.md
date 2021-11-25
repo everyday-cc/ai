@@ -72,6 +72,20 @@ related:
         width: 800
         height: 428
         isCached: true
+  - title: "Facial Recognition Market Insights by Emerging Trends, Growth and Forecast till 2024"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Nov 25, 2021, 06:06 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 billion in 2019 to USD 7.0 billion by 2024,"
+    publishedDateTime: 2021-11-25T12:01:00Z
+    webUrl: "https://menafn.com/1103249776/Facial-Recognition-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?240591"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Global Military Robots Market Report, Size, Growth, Opportunity, Key Players and Industry Trends 2021-26"
     excerpt: "According to IMARC Group's latest report, titled“Military Robots Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global military robots market is expected to grow at a CAGR of around 10% during 2021-2026."
     publishedDateTime: 2021-11-22T11:54:00Z
@@ -85,6 +99,20 @@ related:
       - url: "https://menafn.com/updates/pr/2021-11/22/EP_e87f9image_story.jpeg"
         width: 960
         height: 539
+        isCached: true
+  - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
+    excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"
+    publishedDateTime: 2021-11-24T13:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-8b73b6f9e2d1423db2f17585122669b1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Global Artificial Neural Networks Market 2021 Industry Opportunities, Top Manufacturers Profiles and Regional Analysis by 2027"
     excerpt: "MarketQuest.biz has released a Global Artificial Neural Networks Market study that forecasts fast growth from 2021 through 2027. The study estimates market share in terms of volume for"
@@ -100,15 +128,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
-    excerpt: "The \"Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI) is transforming organizations,"
-    publishedDateTime: 2021-11-24T12:43:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_a1f92af9-88d4-50f0-8b26-3ddad630034e.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 1
 
 secured: "VUFFXcCBomUsZbSoI35LbQPITSq2VmVEkLTqf7xLpOx9XLiIuFxfUigdJ3dXsfslAd03g1OO9esIqtJHwB9lTZGWsXyy7wHTzEC+ifYjYVrAQK6p0HZniknllLllrz+xEK74pi6PDdTyIKuH9PdUOEdr8izL9IpAj+NfRTeHKPScxtwBiXXGIPbzVWmFBGJxWU6ZyzRhVwdtdPbETSI/zYmAaicCFRer8RunrDKqHo1NN3kNJ3rgHwnuIlaKfjG15rP75K5ijXjNWPbn/QCVpUlS0IPVHmVZ21uNxdsxQSoJMvU0VLzZdUGxKOFC8J2d1rUuRl+NzPm8sbtHYrDZnN+PnQ2IBWdSGIRSdot/Efc=;fXmulzMBBF1pfV85aOhpFQ=="
 ---

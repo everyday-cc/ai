@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
 type: article
 quality: 97
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -95,17 +95,22 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "CNN Tried Tesla’s Full Self Driving Beta In New York City And It Didn’t Go Well"
-    excerpt: "CNN Business published a video of its transportation editor, Michael Ballaban, attempting to use Tesla’s FSD advanced driver assistance system through the streets of New York City. On a number of occasions,"
-    publishedDateTime: 2021-11-20T20:48:00Z
-    webUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/"
-    ampWebUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
+  - title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
+    excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
+    publishedDateTime: 2021-11-25T09:00:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659?amp=1"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 50
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 57
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
+        isCached: true
   - title: "Tesla Full Self Driving Requires You To Accept Being Recorded on Video During Use"
     excerpt: "Tesla is facing pressure from all sides with regard to its features Autopilot and Full Self-Driving. With those pressures in mind it seems to be putting itself into a position to legally leverage in-car footage of drivers using the latter."
     publishedDateTime: 2021-11-24T02:56:00Z
@@ -148,15 +153,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
-    excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
-    publishedDateTime: 2021-11-25T03:40:00Z
-    webUrl: "https://www.itbusiness.ca/news/stripe-flirts-with-the-idea-of-accepting-crypto-climate-experts-call-for-european-bitcoin-ban-and-tesla-self-driving-will-require-video-collection/120081"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 17
 
 secured: "Nhcqx2c6H5peMo741ElJwTsPc7/WLMv4uXHmS4790m4C1SzcW1OvnaD3fMWB6wTxTQuD3RgnJuvxRtnGLff7nWhgBUdhoPWZHAo+2/E3OFV3Er+VgV+dAKHUrkWAestsIqwufOrQIbbYmCDQ0HbAYdot6YqXm8OZOhSdvI8rJGXKJMK5+9ZVSPqmmSfdQrxlBUlYwQpjMhxG6YDCEDBuIEMomh+/EezU3o0+9vJa9sqTkJdlnw5KUM5Yg3OObwXDWRs1oQDVhD0vll/OBE+VzAoEtD0ZF0NWhm0YBZTRtMG0TmwZJ7u3PCgAcqe0ICKrJWsXyMlMtC74qjjVIPeeVgCoe50IW09ytYamvnSc1B7MSszZDLPR1h2G2AO88xaKAgzLRxIwlXnaK5DJuTHO8/alOk0OTehyJT02kY9HIRztmDnYAkCpChgYj9wqI6rObFggzmCActY5Jl8GLe3h0+tkkfYa0q7leOJu1f2wGTPbj++GxpPMavLDI4eKpojsFWMcyPCsYqHNrlRC+Uh93Q==;Y6yOl0uncOtZwIJZpn3wtw=="
 ---

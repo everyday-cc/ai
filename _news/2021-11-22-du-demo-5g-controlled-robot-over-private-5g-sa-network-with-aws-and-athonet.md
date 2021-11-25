@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/21485-du-demo-5g-
 webUrl: "https://www.thefastmode.com/technology-solutions/21485-du-demo-5g-controlled-robot-over-private-5g-sa-network-with-aws-and-athonet"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 752
     height: 408
     isCached: true
-
-related:
-  - title: "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies"
-    excerpt: "ADIPEC, Abu Dhabi: du, from Emirates Integrated Telecommunications Company (EITC), showcased at ADIPEC a live use case of a 5G controlled robot, pow"
-    publishedDateTime: 2021-11-20T20:40:00Z
-    webUrl: "https://menafn.com/1103211311/du-showcases-5G-controlled-robot-over-private-5G-SA-Network-leveraging-AWS-and-Athonet-technologies"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?388455"
-        width: 531
-        height: 250
-        isCached: true
 
 secured: "3ALak1q0RBr2ZZueWJp3l3vLBpM/utvDasi/EJhMejKZLuvhFUew8x69Tjp5XPb6RzVvWvs6O42gPGSVvPzNjgB2DPKK9isBq/qAT6mzz9kqgHsvViVexiow7UwjLzxLtoBBgNxPtHLs+65eayS3hpDbHHmhpoIbYQFjXRt+10PcxBEki9tfN8gIHQti7bvBz49recp6Lw+wZRnEVn0UsVzX3yLyqdGbV7cp0mVp86dTqxxBev/cLsP0/brF8D9e4k0i4dwSw2xC2KGpra9PGcgJrscjcqwFr957Qn81cw5Jg8nb4LPJgqVxGo0SrJaLFpYkMTLi9HYvHZEE2DWqj+0di5pOJ6G2uDurRev37dbUzjasQ2EjoD7AQIvAS/y0LyxUBRX5hgHQKle78FC5HioNj1YkuD8nMvU1gjM6Ez/vWOC7g7pmO6fJkXwErqnQQM68fT1jgF4Yu9NabhEGTU8V7u62fQLjqk6JdzwR/WYupR0GjsT7yELgXd2Jq+QObm7JMAktmhcqmcy3HGq63w==;BfRPXjnAdVrUKpC8ERFsuA=="
 ---

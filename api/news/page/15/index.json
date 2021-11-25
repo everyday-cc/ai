@@ -2,6 +2,161 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-11-11-coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m.md",
+      "title": "CoreWeave, a provider of cloud services for GPU-powered apps, gets $50M",
+      "excerpt": "CoreWeave, a specialized cloud services provider for GPU-based workloads, also partnered with Nvidia to enable companies to scale infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/",
+      "originalUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/cloud-6621829_1920-e1634161645991.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/amp/",
+      "publishedDateTime": "2021-11-10T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027.md",
+      "title": "Global Artificial Intelligence (AI) Robots Market 2021 by Future Developments, Upcoming Trends, Growth Drivers and Challenges 2021 to 2027",
+      "excerpt": "MarketsandResearch.biz has added a new key research report entitled Global Artificial Intelligence (AI) Robots Market 2021-2027 that depicts the present state of the industry, covering the key fundamentals of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027-2021-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-robots-market-2021-by-future-developments-upcoming-trends-growth-drivers-and-challenges-2021-to-2027-2021-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-ais-disruption-of-the-strategy-gaming-space-proves-that-machines-are-getting-smarter.md",
+      "title": "AI’s Disruption Of The Strategy Gaming Space Proves That Machines Are Getting Smarter",
+      "excerpt": "One of the most common ways for non-techies to get introduced to AI is through games, where humans are pitted against a machine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/11/10/ais-disruption-of-the-strategy-gaming-space-proves-that-machines-are-getting-smarter/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/11/10/ais-disruption-of-the-strategy-gaming-space-proves-that-machines-are-getting-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618c3c82633c775139bd8356%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/11/10/ais-disruption-of-the-strategy-gaming-space-proves-that-machines-are-getting-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/10/ais-disruption-of-the-strategy-gaming-space-proves-that-machines-are-getting-smarter/amp/",
+      "publishedDateTime": "2021-11-10T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-generate-high-quality-meeting-notes-using-amazon-transcribe-and-amazon-comprehend.md",
       "title": "Generate high-quality meeting notes using Amazon Transcribe and Amazon Comprehend",
       "excerpt": "Organizations are continuing to evaluate remote working arrangements and explore moving to a hybrid workforce model. Emerging trends suggest that not only has the number of online meetings attended by employees on a day-to-day basis increased, but also the number of attendees per meeting. One of the",
@@ -1036,144 +1191,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-why-has-artificial-intelligence-become-an-obsession-for-your-ceo-focus.md",
-      "title": "Why has Artificial Intelligence become an obsession for your CEO? – focus",
-      "excerpt": "Artificial Intelligence is the biggest trend causing business leaders sleepless nights. Business leaders are still worried about artificial intelligence (AI), but with Facebook pushing hard into the metaverse,",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-drinks.com/features/why-is-ai-an-obsession-for-business-insiders-focus/",
-      "originalUrl": "https://www.just-drinks.com/features/why-is-ai-an-obsession-for-business-insiders-focus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/11/AI-II.jpg",
-          "width": 1296,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drinks",
-        "domain": "just-drinks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-artificial-intelligence-huge-potential-if-ethical-risks-are-addressed.md",
-      "title": "Artificial intelligence: huge potential if ethical risks are addressed",
-      "excerpt": "This article is brought to you in association with the European Parliament. Artificial Intelligence regulation should focus on the level of risk associated with specific uses, a",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/",
-      "originalUrl": "https://europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/11/robotic-hand.jpg?w=1200",
-          "width": 1200,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/amp/",
-      "publishedDateTime": "2021-11-10T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-google-project-relate-android-app-helps-those-with-speech-impairments.md",
-      "title": "Google Project Relate Android app helps those with speech impairments",
-      "excerpt": "There are several medical conditions and diseases that can impact a person’s ability to communicate with others through speech. Google is working to make its apps more accessible to people",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/",
-      "originalUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/11/google-project-relate.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-project-relate-android-app-helps-those-with-speech-impairments-10698901/amp/",
-      "publishedDateTime": "2021-11-10T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

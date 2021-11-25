@@ -69,6 +69,20 @@ related:
         width: 800
         height: 428
         isCached: true
+  - title: "Facial Recognition Market Insights by Emerging Trends, Growth and Forecast till 2024"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Nov 25, 2021, 06:06 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 billion in 2019 to USD 7.0 billion by 2024,"
+    publishedDateTime: 2021-11-25T12:01:00Z
+    webUrl: "https://menafn.com/1103249776/Facial-Recognition-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?240591"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence in Medical Imaging Market Size Revenue 2021 Key Companies, Geographical Analysis, Research Development, and Forecast 2027"
     excerpt: "Artificial Intelligence in Medical Imaging Market analysis and insights available in this report which will help to take good decisions for business growth. Key players that mentioned in report help to increase growth rate by using exceptional growth strategies."
     publishedDateTime: 2021-11-22T14:20:00Z
@@ -98,14 +112,19 @@ related:
         height: 539
         isCached: true
   - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
-    excerpt: "The \"Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI) is transforming organizations,"
-    publishedDateTime: 2021-11-24T12:43:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_a1f92af9-88d4-50f0-8b26-3ddad630034e.html"
+    excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"
+    publishedDateTime: 2021-11-24T13:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-8b73b6f9e2d1423db2f17585122669b1"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 1
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "KLe7ry6h+qbsmCVHXEIrYKPNZQA5zfvLi5MinYXm/XhSn1PAafz7TA103zZgMyoP9rW3e1HPzTCpwB4Bg/YgeFsHZG1TZQMxv0BNIGXMGDauimri1vsxH0vn21ScizlJ2uLJ6FupTtOC5GAmu0UtUPUHue4tRIplQDIJAcnMxg175uo6UV3r7Y2ZxQ9BSnVqHSLA79kLIbwifoR7HQAnWlQ6TsgxqvQ6rgvTHYusssYUjtVEG1j/DYOxIUk/onf7zvNCuOJoUJgOCzt1LtoHOCJepaBYcM6+LvgMdVfjbhXo2lDKGTq5c7Qp7f74OsjzkqEZVXNSJI6oPtu/Fk9wPAZWvC+qECbTiL+9YKRq8+4=;gPSTcDJhnV98B/+oNqho5w=="
 ---

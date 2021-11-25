@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
-excerpt: "The \"Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI) is transforming organizations,"
-publishedDateTime: 2021-11-24T12:43:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_a1f92af9-88d4-50f0-8b26-3ddad630034e.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_a1f92af9-88d4-50f0-8b26-3ddad630034e.html"
+excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"
+publishedDateTime: 2021-11-24T13:43:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-8b73b6f9e2d1423db2f17585122669b1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-8b73b6f9e2d1423db2f17585122669b1"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Facial Recognition Market Size | Opportunity Analysis Report by 2026"
@@ -63,6 +69,20 @@ related:
         width: 800
         height: 428
         isCached: true
+  - title: "Facial Recognition Market Insights by Emerging Trends, Growth and Forecast till 2024"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Nov 25, 2021, 06:06 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 billion in 2019 to USD 7.0 billion by 2024,"
+    publishedDateTime: 2021-11-25T12:01:00Z
+    webUrl: "https://menafn.com/1103249776/Facial-Recognition-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?240591"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence in Medical Imaging Market Size Revenue 2021 Key Companies, Geographical Analysis, Research Development, and Forecast 2027"
     excerpt: "Artificial Intelligence in Medical Imaging Market analysis and insights available in this report which will help to take good decisions for business growth. Key players that mentioned in report help to increase growth rate by using exceptional growth strategies."
     publishedDateTime: 2021-11-22T14:20:00Z
@@ -106,6 +126,6 @@ related:
         height: 225
         isCached: true
 
-secured: "LfrPp0DBWEKH/WPr44lrGObUGeyBJ7Vi8pEn1WBQhDPM34hnDm5WYamGuWsNMr6173j3AMBVejqgEv8cUMHOD4/+CMOffdaVpmqxiixXKsAxHth9Wo88ZdJeEd4DGde7KQPKBYVOMbVd5WORRnVOBCeC/bLZsYnbsYfk7Xz6X8FpIYLJZCvcxZs68YClLYv+w9qqwNrCOYvhViAOq+abmWdCgSgQCwi1CWOK5DA4o5n+bG34p9YYrIl7/wWOfoOgu5I8M19N9RY4PYVETYy6eLjdt0yhn1rYnF06frDXYtwSsMqFgFhrFBDN3kI6tmBS++UHdGGH+JK/xlribYcNgALZ5ulLuQjtPnH43iVGSYKM8uEueK8NZAuEBFjZb/CxBvXMCV/MngUlyaShVKVScxSiFvXffZTJx7tzcgrzFkhup/rlbhpwWrlVWyHdMUvE+CA0ghfJXTrBGpXfX0d/LPoPOvtijApcXpXfvPctEQZTXrM3ez3AGBKUzMIZNUBKHlAHJEadrsxiHzcUool/zA==;VdKgUQ8AGP+ucf+pZrUrzw=="
+secured: "BMoKp7VqFWo7a3Qi10GUWKGoJQg2194+1JrAaXDElEcqW2fvYgPOPV1kdYmWUW7+c0/1hauJ5ZIwn5J6ZLScOUcQzTjzKd5KYkbe/B6kTehnqNp1HWmsS+G+WwVDZAq3hsmsAvHtLl0XFnDvBiMejgSRm25VJHyvyU/vRjb5tdgSCIIIU7vMhNHLqcvRRUOQGu1ekVUZy8DLV51GWKo8WobJx+VLMy0cC2OiI0tRWg0e+Sd+WiMzAAhVvF5LVEohDsHU75Epv4zHubiEIXAmf0bdZDgtkLpDNC4ss0EW7F/5yXr7DIlxpOekFr9C6o+PCdkpsYhJq3dSAONetps1ikJK+lngXzRw/rWfEhmkGcU=;ybObrN3I3VkZYkZr4sxxfw=="
 ---
 

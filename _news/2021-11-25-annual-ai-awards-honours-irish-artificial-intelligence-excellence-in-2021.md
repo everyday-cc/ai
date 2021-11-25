@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-25T09:07:00Z
 originalUrl: "https://www.realwire.com/releases/Annual-AI-Awards-honours-Irish-Artificial-Intelligence-excellence-in-2021"
 webUrl: "https://www.realwire.com/releases/Annual-AI-Awards-honours-Irish-Artificial-Intelligence-excellence-in-2021"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.realwire.com/twitter_writeitfiles/STATSports.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-d
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 1400
         height: 1400
         isCached: true
+  - title: "The legal challenges of self-driving cars"
+    excerpt: "The Department of Transport recently announced its intention to allow Automated Lane-Keeping Systems (ALKS) to be used on British roads by the end of 2021."
+    publishedDateTime: 2021-11-25T11:50:00Z
+    webUrl: "https://www.lawcareers.net/Explore/BlogPost/Max-Alexander-Jones/The-Legal-Challenges-of-Self-Driving-Cars"
+    type: article
+    provider:
+      name: LawCareers.Net
+      domain: lawcareers.net
+    quality: 4
 
 secured: "XI2UfSZo+i2j9f1fbfbBlM2ICPDvlBvQZ7DVF5isOgzHwhvEwS7MR3kIJBd6OnM3RMvYf1tSdNAsFTDW35ONz0DveYBCZNIx4r30kJZd1eXyxnqWI9Hr9jnmU8Zq0JQ3SV9YgSo/aDd1ewzIPA1phJxhBBJg06mizFD5gv7fq1X9MVS+aui6/QFXX8hlKB3snh0uJ6SIa+65o55yv9zr2BwqeQCe8T6YvkkLJmb22ZIVieUv+wfwA58xStYklcCiwdld+UfStgf4X4ChUTza8fc1kD7EO/ky+qAjWoYUm1fcU/aJvUhp4j7+DaLg+y2a1qSzrs8oBV0h4ohZ+MLDDDaWcaoUwfvRxeGaPQf7zFNxlKKMPSjpiTkVAgHgc5ThXcMtztOrg+2qThxzDvaU3gLMAF9murOVtL74iU3h4q2XV8RPGHBE5x8bfO/1TSnMZG+2QgNdnCs7t7z7+wd0X4H709N+iVST9t34rMpimXTi8atZMAWCa+CnFVMkmJZuXmr1daEmrV2O1PMYqaExnQ==;+NagsZmTJneXY+K/G/k4Rg=="
 ---

@@ -44,6 +44,59 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu gets green light for driverless robotaxi service in Beijing"
+    excerpt: "Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
+    publishedDateTime: 2021-11-25T07:39:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-gets-green-light-for-driverless-robotaxi-service-in-Beijing"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F0%252F5%252F5%252F37575503-6-eng-GB%252FCropped-1637825126photo_SXM2021112500004550.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Baidu Gets Green Light for Commercial Robotaxis in Beijing. It’s Good for the Stock."
+    excerpt: "Baidu’s Apollo Go service, known as Luobo Kuaipao in China, has been given authorization to pick up and drop off paying passengers in a 60 square kilometers area in Beijing."
+    publishedDateTime: 2021-11-25T11:32:00Z
+    webUrl: "https://www.barrons.com/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
+    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 52
+    images:
+      - url: "https://images.barrons.com/im-287009/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Baidu, Pony.ai get China’s first robotaxi licenses"
+    excerpt: "Search engine giant Baidu and autonomous driving firm Pony.ai got the green light from regulators for their driverless taxi operations, allowing them to charge a yet-to-be-determined rate, reported Bloomberg. As the first license recipients for self ..."
+    publishedDateTime: 2021-11-25T10:48:00Z
+    webUrl: "https://www.techinasia.com/baidu-ponyai-chinas-robotaxi-licenses"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
+  - title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses for Use in Beijing"
+    excerpt: "Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+    publishedDateTime: 2021-11-25T11:42:00Z
+    webUrl: "https://www.caixinglobal.com/2021-11-25/baidu-ponyai-nab-commercial-robotaxi-licenses-for-use-in-beijing-101809982.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 41
+    images:
+      - url: "https://img.caixin.com/2021-11-25/163783800169291_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
   - title: "Baidu, Pony.ai Nab Licenses for Commercial Robotaxis in Beijing"
     excerpt: "Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
     publishedDateTime: 2021-11-25T05:30:00Z
@@ -52,13 +105,13 @@ related:
     provider:
       name: BloombergQuint
       domain: bloombergquint.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
         isCached: true
 
-secured: "Z//xHSh5bIk6Zj+1Jp54ibUuv47Wa8VY/czhCaU4wQ7Di8v5alL8gSY92IkxabIWL4kjg3Dtm5HaD/mNvUFNgCwDcz8I1ebM3P/1vzapVgYbYFC5d51La2nDbgszA8SezqjtkSPWO4ZAAs42qrpF2fRtHSFArUtoJrsgWSDZg8NLQ3IcG8mthWCOUTPqHtCJMIcGsIx/4CdrtFiU832uG83mwxZxSmtB4rFFYlGeMqhmmlnNZMoWFA9eRa16keKb/02kmdTlBLZq8ELDuX3lkWJPHWyAOrg+tuYlwBynObosaTdeI8k2Fr/i+Hym664Wm6XilO0+4BAFIg6JSc+98TIkArpwmvuJQEYQXWYUFkc=;X36QlEbC36W6NL30uyijgQ=="
+secured: "utm6JPL1w3K+nEONBKIEN8a4pmTrF/yu6RIQhQc7KJfVdmnb1l8y+zIOBUOZ8lmvukRMtK4ELWh3emd7DMHP1XCs4W1yPNp2OecmFV3DDxQYXYQ7vnkCBg+z7gnVWuHY7pAp5VHvBG+LPUMtoLiCBoPHEJFK1+IAljleSV6qQKGqSKXInKeU1krpJ94ObFXkO98o37E3oSvv5f8RLiL6lXt4Ylrhm9yQ+OeuVR4Q0LLZNYcLUy+WIX+DsdKvUswsAZhVo6MHID4FUIxg2qrZlD1e4GqcaCf+/8K4mpWsbyg0yMDrh3DkkQPa6Hwi6V7EewAjd+Fu7GUGUowc5adFwJ0zx0rXGttt7t2hz3Z3DXi2FghMkBykOhjqn23E19Iw1wk84HOiY9HJsjP1RqquezM2+x8PgWWIcu7RFUb5NLNCmVVVp2e01d3nkb4UvQHCD7sTSC8qJ4gwNOwGTtZ8SSiv0bul3T9t+xjVwWqYPNd7HDYskHNYIkteIMt4AjsuSo/qQYYkmvkNRvh12/Tafg==;uPze6mG42tHzVRdSH3H/zA=="
 ---
 

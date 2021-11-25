@@ -2,21 +2,29 @@
 category: news
 title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
 excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
-publishedDateTime: 2021-11-25T03:40:00Z
-originalUrl: "https://www.itbusiness.ca/news/stripe-flirts-with-the-idea-of-accepting-crypto-climate-experts-call-for-european-bitcoin-ban-and-tesla-self-driving-will-require-video-collection/120081"
-webUrl: "https://www.itbusiness.ca/news/stripe-flirts-with-the-idea-of-accepting-crypto-climate-experts-call-for-european-bitcoin-ban-and-tesla-self-driving-will-require-video-collection/120081"
+publishedDateTime: 2021-11-25T09:00:00Z
+originalUrl: "https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659"
+webUrl: "https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659"
+ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659?amp=1"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+    width: 1500
+    height: 1500
+    isCached: true
 
 related:
   - title: "Tesla requires Full Self Driving testers to allow video collection in case of a crash"
@@ -99,17 +107,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "CNN Tried Tesla’s Full Self Driving Beta In New York City And It Didn’t Go Well"
-    excerpt: "CNN Business published a video of its transportation editor, Michael Ballaban, attempting to use Tesla’s FSD advanced driver assistance system through the streets of New York City. On a number of occasions,"
-    publishedDateTime: 2021-11-20T20:48:00Z
-    webUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/"
-    ampWebUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 50
   - title: "Tesla Full Self Driving Requires You To Accept Being Recorded on Video During Use"
     excerpt: "Tesla is facing pressure from all sides with regard to its features Autopilot and Full Self-Driving. With those pressures in mind it seems to be putting itself into a position to legally leverage in-car footage of drivers using the latter."
     publishedDateTime: 2021-11-24T02:56:00Z
@@ -153,6 +150,6 @@ related:
         height: 675
         isCached: true
 
-secured: "IG6h9TNSam0okEInWj28R9yA9HneCauE91GIBQ+OJGGfe1zvF/Oc8TC2hP9O9NmPWuw5r8C7OUiG6zPOr4rjNjxj5sB8CPe0dE3yO0vcezy/28IUiimNCgJI+52FjftG1AqBpFtBLDn2lsM9HBGo7uBx94pLxfQhI9ISI/PDdkU1S7AXY9Dvjrtfq+aEkPW+dZCRDQDZEag508pFByg3Vkc2o/DkL+xuPaB6/f1o0LYA8/vz+43gLTUkdrDALkFCmeJnFjxhiwurSYwZyy4sswUO8Nx7yQcHZEe24HnrS0QzFPb8NcOTKfjbF04LaEp6eBoh7hF0SWvdyE1JnW8c5MmaMeYg1CpQ3H9nUCCaGBrQHVL89kdx5mIfPNcjm7xb8HA5HLovEDR4UJavxZropKlHT+v2UWQLEbGzqdhzaBQTIc7X9iT9+1d6X4TAlJfnqytZOJWOF/G+tHUBBC5Nvv+KpShHePBKAS3sWlR/P6FYEVk32gsy1/d/YNd+NI20gU5EhcZu2cQq69MEFHKTrg==;B2qlmAX4eY0dMiKAMItE9A=="
+secured: "T4Vj2cl6dzpJB5AR88wi3VufikI3MefQ7Lw20fMIBKsk00TKqL9Obf0pON15vLqMBrytf1t+m1L7sjKtFxN1jwh93XWb3yNXjz8aB6+z7s1awUWzAAQyhCf9jkNAyXpWdRDZ6BtyOMd7X0DmrN2BH+YQLs8KENChCbGf1RyzhBCU9ncUcBNqNw+035ZGE4annqvsYtoCkB5qDFOaSyf8etpeWLRkYCrSirskZcuHRi6E8DKFfirlPQGNUv9bmg22QXMODXxfdNzGphHDFO7qVOj719cWtTVxcYuJjSWw2mgg6Ap2UqpPu5IsiFaTCyQpem4QCfkdYuoZHxGz0AHbFMfD0BmpYRLhCLOX9V2vT1o=;TzEef1GO6EDvINqK4grS9A=="
 ---
 

@@ -2,27 +2,32 @@
 category: news
 title: "When Reddit Is Your AI Language Instructor"
 excerpt: "When it was asked about bringing a Polish friend, it replied, “Yes, but you can’t bring your own booze.” Mrksic, who is Serbian, admits that the system appeared to think people from Serbia were immature."
-publishedDateTime: 2021-11-25T08:10:00Z
-originalUrl: "https://www.washingtonpost.com/business/when-reddit-is-your-ai-language-instructor/2021/11/25/e20da8ee-4dce-11ec-a7b8-9ed28bf23929_story.html"
-webUrl: "https://www.washingtonpost.com/business/when-reddit-is-your-ai-language-instructor/2021/11/25/e20da8ee-4dce-11ec-a7b8-9ed28bf23929_story.html"
+publishedDateTime: 2021-11-25T08:00:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills"
+webUrl: "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills"
 type: article
-quality: 37
-heat: 37
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEyMHEStSMhA/v1/1200x824.jpg"
+    width: 1200
+    height: 824
     isCached: true
 
-secured: "YelkLBpqZFXdt+1/tWQOwaOuYbDEwXAKXYBOK6IKTY/bt09HilLSILamVsb5taQ5/9qJxU6rHOiw/RKllRJs/GBWe7d1r+9HGdZlji95eBLaclLxM5knHCBXUEnn26qRSUrZx1eS4E6sAVVVnPDdf62BkqpdECQXhuCDbx5f6XW1gQM+bTwNGxtAi7AtflznkZfOdXFaLTdngqHO257xGHjL94LIBondmzEYV0ccuIT/E/Ka7t+S7tsOCKKKnClnJ3Wr4YZnY/ZLc57YTiWV1Ey8N6kGIfrQAV6DHCAkU5xn/2cOp6Mw+4D+BmF5zmS1BmiZ/CkipleZKYian2y7p4NCQBykvxcQcO5f4Cf/xpY=;WawHolvbb2uw7Y4/DgCh0Q=="
+secured: "0hiOFR89twqT9bziJsp1A4ti8+7ZMN2TtOrJ/JsSJ03nBFPRjfRNt9/g/+H9sOzgPG9TAL7Q8zEoZ1RhVFB+VaCGc1/5AndUgL/wDsxadFgVo21d18CDgFe4W6KgSKY7Ee1Klkq/JX5gk9KVG9lNBfkzg394Dfz147tMYTnU35ZL113JatMoGMs9BSIbCfX2aj/xWHn4eyIQ/ClImFSA+5BZpfJrxDEYeh020nyN2xO7NI/uJJoAPLavKDWMIb4lpt5YD4/OgQQTBZ7I9ETfdR9MWPs7qy6UrFk12kM/kcxxlbaErIwpIAshgQ6LBauR3tVgeJEvW2Jg6l2TYztOW8/OOniPPpgnS7g26Gc7FTM=;eLkyEitbRjUs9lyJNTHa6A=="
 ---
 

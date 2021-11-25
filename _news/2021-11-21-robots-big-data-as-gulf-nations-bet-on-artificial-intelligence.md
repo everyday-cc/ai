@@ -9,7 +9,7 @@ ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-bi
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -55,6 +55,17 @@ related:
         width: 870
         height: 597
         isCached: true
+  - title: "Self regulation of AI is not an option"
+    excerpt: "Among the areas of concern is that unlike traditional research, which is steeped heavily in academia, half of the research papers on AI are coming out of commercial research outfits. This is a double-edged sword."
+    publishedDateTime: 2021-11-25T07:09:00Z
+    webUrl: "https://www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/Self-regulation-of-AI-is-not-an-option"
+    ampWebUrl: "https://www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/Self-regulation-of-AI-is-not-an-option?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/Self-regulation-of-AI-is-not-an-option?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
   - title: "Epic bets on Hype’s AI animation approach"
     excerpt: "The prodco will use the grant to automate its pipeline and invest in artificial intelligence for new show Kaia's Discoveries, says Gabriel Garcia."
     publishedDateTime: 2021-11-22T16:56:00Z

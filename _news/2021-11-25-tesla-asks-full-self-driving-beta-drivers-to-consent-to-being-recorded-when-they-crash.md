@@ -95,17 +95,22 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "CNN Tried Tesla’s Full Self Driving Beta In New York City And It Didn’t Go Well"
-    excerpt: "CNN Business published a video of its transportation editor, Michael Ballaban, attempting to use Tesla’s FSD advanced driver assistance system through the streets of New York City. On a number of occasions,"
-    publishedDateTime: 2021-11-20T20:48:00Z
-    webUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/"
-    ampWebUrl: "https://www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/cnn-tried-teslas-fsd-beta-in-new-york-city-and-it-didnt-go-well/amp/"
+  - title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
+    excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
+    publishedDateTime: 2021-11-25T09:00:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659?amp=1"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 50
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 57
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
+        isCached: true
   - title: "Tesla Full Self Driving Requires You To Accept Being Recorded on Video During Use"
     excerpt: "Tesla is facing pressure from all sides with regard to its features Autopilot and Full Self-Driving. With those pressures in mind it seems to be putting itself into a position to legally leverage in-car footage of drivers using the latter."
     publishedDateTime: 2021-11-24T02:56:00Z
@@ -148,15 +153,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
-    excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
-    publishedDateTime: 2021-11-25T03:40:00Z
-    webUrl: "https://www.itbusiness.ca/news/stripe-flirts-with-the-idea-of-accepting-crypto-climate-experts-call-for-european-bitcoin-ban-and-tesla-self-driving-will-require-video-collection/120081"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 17
 
 secured: "QSt7BF2XrGftT/L4I1QM09XwQOqA85uy8FD7ACmivZZZ1R1MXTh+fr5sBBvRMXZi8WbbOJe9l1CQvVlQbdsKcFpZAtmsUnEG/SlZxl6VUz13GIZN65Ejo6kQeBIKldomrIzhQ7gVQUgmSm/IFa7gvwB/vLBCeYzZxrt39WJWHomwcKnzIDbM+Z4HGQm1JKVH+5tpxkb3iFRRsQXH48TwZEQL8QbacM0xPMkmLaHUjWerxcnkgu+gH2j+sUU03Ge3WV7gyOwSAod+Dv/E5UJTrUxXg3PvKfJYuLIxMhnQ7csnx/1BMX1rVgqp9AvuDtYqPZVTd6rLR04M6UxTZDec6zas9iGvQpqISzY9FBn7bM0GLiaxa7CXSCpmyPFFiKWqyBE1MEbGj4F5FKX/PnhTbmMaTc7RBzPyiEdL7WPDc23x8sax1rfw5VBGPU9BeNwvzYadIulQedmNzCC9opvHiINYfpzdZ5B57VWk3XOttktywl6NAXB4Vc6SrELHRIlg7Lg+XAmRlS0KsNOcTiqXyw==;RpDYVQDPOwV1NMEOyRwsbA=="
 ---

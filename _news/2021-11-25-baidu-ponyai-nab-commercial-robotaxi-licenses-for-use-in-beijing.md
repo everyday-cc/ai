@@ -1,0 +1,115 @@
+---
+category: news
+title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses for Use in Beijing"
+excerpt: "Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+publishedDateTime: 2021-11-25T11:42:00Z
+originalUrl: "https://www.caixinglobal.com/2021-11-25/baidu-ponyai-nab-commercial-robotaxi-licenses-for-use-in-beijing-101809982.html"
+webUrl: "https://www.caixinglobal.com/2021-11-25/baidu-ponyai-nab-commercial-robotaxi-licenses-for-use-in-beijing-101809982.html"
+type: article
+quality: 41
+heat: -1
+published: false
+
+provider:
+  name: Caixin Global
+  domain: caixinglobal.com
+
+topics:
+  - AI Hardware
+  - AI
+  - AI in Autos
+
+images:
+  - url: "https://img.caixin.com/2021-11-25/163783800169291_560_373.jpg"
+    width: 560
+    height: 373
+    isCached: true
+
+related:
+  - title: "Baidu, Pony.ai Get China's Green Light to Charge for Robotaxis"
+    excerpt: "By Yifan Wang Chinese tech giant Baidu Inc. and Toyota Motor Corp.-backed startup Pony.ai Inc. have received China's first-ever regulatory go-ahead to"
+    publishedDateTime: 2021-11-25T05:52:00Z
+    webUrl: "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses in Beijing"
+    excerpt: "Search giant Baidu Inc. and Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+    publishedDateTime: 2021-11-25T04:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHvjzsa8ZIk/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Baidu gets green light for driverless robotaxi service in Beijing"
+    excerpt: "Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
+    publishedDateTime: 2021-11-25T07:39:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-gets-green-light-for-driverless-robotaxi-service-in-Beijing"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F0%252F5%252F5%252F37575503-6-eng-GB%252FCropped-1637825126photo_SXM2021112500004550.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Baidu Gets Green Light for Commercial Robotaxis in Beijing. It’s Good for the Stock."
+    excerpt: "Baidu’s Apollo Go service, known as Luobo Kuaipao in China, has been given authorization to pick up and drop off paying passengers in a 60 square kilometers area in Beijing."
+    publishedDateTime: 2021-11-25T11:32:00Z
+    webUrl: "https://www.barrons.com/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
+    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 52
+    images:
+      - url: "https://images.barrons.com/im-287009/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Baidu, Pony.ai get China’s first robotaxi licenses"
+    excerpt: "Search engine giant Baidu and autonomous driving firm Pony.ai got the green light from regulators for their driverless taxi operations, allowing them to charge a yet-to-be-determined rate, reported Bloomberg. As the first license recipients for self ..."
+    publishedDateTime: 2021-11-25T10:48:00Z
+    webUrl: "https://www.techinasia.com/baidu-ponyai-chinas-robotaxi-licenses"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
+  - title: "Baidu, Pony.ai Nab Licenses for Commercial Robotaxis in Beijing"
+    excerpt: "Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+    publishedDateTime: 2021-11-25T05:30:00Z
+    webUrl: "https://www.bloombergquint.com/markets/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 41
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "xmqJy58zuvRtZxJNtrWBu/+mrFnMAxqU4uuCFbRpactfq7wjWs5/1RdLIZrh7keAngmBTBSU++LFjpyAy8Vq0jVAWECGRxTU7ulf5pxiVclyQg8QdLWfCeXh3eOo065wmoFu29UEHk2446KmXjZ34js1P7RDVlocaVIqAwE8Tx0IMNDuCpl14pY8+05n9NB2Z1JooFmHGOQQ8uYoicHWTTaveMKEwRqmNYkn/nZvMp6Oq2KAUGZ/0Ck6fvaxJNY6hF3CxD2A2Ys4lTibSkR0Qmps7I6t2pvNjnyJaKO6MDL2ilv2NkhAv5TLOWbDWrzAB9xUBytzfQLTog1sJ5YTjEsBeZoTjzB/YPoFYPI8rbM=;saAW65KXsKLpxpA1ciQetg=="
+---
+
