@@ -63,6 +63,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Black Friday 2021: The Best Early Deals from Apple, Walmart, Target, Best Buy, Amazon & More"
+    excerpt: "The best early Black Friday 2021 deals are here. Shop Black Friday deals on TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."
+    publishedDateTime: 2021-11-25T04:12:00Z
+    webUrl: "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/"
+    ampWebUrl: "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/amp/"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/amp/"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 63
+    images:
+      - url: "https://cdn.thewirecutter.com/wp-content/media/2020/11/deals-2048px-8492.jpg?auto=webp&width=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "The Best Vacuum Deals for Black Friday 2021"
     excerpt: "If it’s time to retire your old vacuum, Black Friday is an excellent time to find the perfect replacement. While the absolute best Black Friday sales typically arrive on Thanksgiving or the day after,"
     publishedDateTime: 2021-11-23T15:14:00Z

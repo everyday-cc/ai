@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple’s self-driving car coming in 2025: Report"
+    excerpt: "Whether Apple can launch the Apple Car in four years depends on how successful it is in developing self-driving technology."
+    publishedDateTime: 2021-11-25T07:38:00Z
+    webUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746"
+    ampWebUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
+    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
+    type: article
+    provider:
+      name: Philkotse
+      domain: philkotse.com
+    quality: 44
+    images:
+      - url: "https://img.philkotse.com/2021/11/25/kdtzClWN/untitled-design-2021-11-25t145918-649-6596_wm.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
     excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
     publishedDateTime: 2021-11-21T15:30:00Z

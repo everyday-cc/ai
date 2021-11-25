@@ -10,7 +10,7 @@
       "originalUrl": "https://www.openpr.com/news/2472920/machine-learning-software-market-breaks-out-to-new-high",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -439,6 +439,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-arista-joins-microsoft-intelligent-security-association-for-integration-with-microsoft-azure-sentinel-to-help-improve-customer-security.md",
+      "title": "Arista Joins Microsoft Intelligent Security Association for Integration with Microsoft Azure Sentinel to Help Improve Customer Security",
+      "excerpt": "Arista Networks , a leader in data-driven networking, today announced it has joined the Microsoft Intelligent Security Association (MISA), an ecosystem of independent software vendors and managed security service providers that have integrated",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20107257.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20107257.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1339,40 +1383,6 @@
       "provider": {
         "name": "Reseller News",
         "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-microsoft-releases-azure-open-ai-service-including-access-to-powerful-gpt-3-models.md",
-      "title": "Microsoft Releases Azure Open AI Service Including Access to Powerful GPT-3 Models",
-      "excerpt": "At its recent Ignite conference, Microsoft announced the new Azure OpenAI Service in preview, allowing access to OpenAI’s API through the Azure platform. This new Azure Cognitive Service will give customers access to OpenAI’s powerful GPT-3 models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/11/azure-openai-service-gpt3/?topicPageSponsorship=28e8ee01-780d-4a8b-a80a-e83395bce1a2&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
-      "originalUrl": "https://www.infoq.com/news/2021/11/azure-openai-service-gpt3/?topicPageSponsorship=28e8ee01-780d-4a8b-a80a-e83395bce1a2&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null

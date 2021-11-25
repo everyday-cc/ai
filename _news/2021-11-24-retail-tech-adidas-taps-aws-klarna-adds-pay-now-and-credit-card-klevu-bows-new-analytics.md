@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS wins Adidas contract to host its SAP workloads"
-    excerpt: "Utilizing AWS’ machine learning solutions, including Amazon SageMaker, Adidas’ data scientists can forecast seasonal demand for goods. This ensures the right product arrives at a warehouse or ..."
-    publishedDateTime: 2021-11-22T16:57:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1637598528/itpro/adidas_shoeboxes_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Adidas Migrates SAP Environments To Amazon Web Services"
     excerpt: "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,"
     publishedDateTime: 2021-11-22T07:20:00Z
@@ -74,6 +58,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "AWS wins Adidas contract to host its SAP workloads"
+    excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
+    publishedDateTime: 2021-11-23T15:54:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 39
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/11/adidas_shop_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "adidas migrates SAP environments to AWS"
     excerpt: "AG has selected AWS as its preferred cloud provider for SAP workloads, officially migrating its SAP environment to AWS."
     publishedDateTime: 2021-11-25T01:49:00Z
@@ -88,6 +86,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Richemont Selects Amazon Web Services as Preferred Cloud Provider"
+    excerpt: "(NASDAQ: AMZN) company Amazon Web Services announced that Compagnie Financière Richemont SA is moving its entire enterprise IT infranstructure to WS. The company will close its European data centers and migrate additional data centers in Hong Kong and the United States to AWS by the end of 2022."
+    publishedDateTime: 2021-11-24T17:26:00Z
+    webUrl: "https://www.financialbuzz.com/richemont-selects-amazon-web-services-as-preferred-cloud-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 21
   - title: "Adidas migrates SAP Environments to AWS"
     excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
     publishedDateTime: 2021-11-22T13:46:00Z

@@ -71,6 +71,22 @@ related:
         width: 796
         height: 398
         isCached: true
+  - title: "Nvidia's next AI can turn words into photorealistic images"
+    excerpt: "Users can start with a general statement to get a broader image and then are able to go in and alter the little details by hand. If you want to play with some of this tech, you can try it out on Nvidia's interactive AI demos, though we had trouble getting ..."
+    publishedDateTime: 2021-11-25T09:09:00Z
+    webUrl: "https://www.pcgamer.com/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
+    ampWebUrl: "https://www.pcgamer.com/amp/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/uNoFn2TGWRakob6ppH3YLS-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA and Mavenir Tap L&T Technology to Accelerate Adoption of AI-on-5G Platform"
     excerpt: "LTTS will support Mavenir with customization, integration, and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform."
     publishedDateTime: 2021-11-22T16:27:00Z

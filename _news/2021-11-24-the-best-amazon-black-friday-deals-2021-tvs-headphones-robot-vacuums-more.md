@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2021/11/Black-Friday-Deals-Blink-Amazon-Bundles-presser.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Black Friday 2021: The Best Early Deals from Apple, Walmart, Target, Best Buy, Amazon & More"
+    excerpt: "The best early Black Friday 2021 deals are here. Shop Black Friday deals on TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."
+    publishedDateTime: 2021-11-25T04:12:00Z
+    webUrl: "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/"
+    ampWebUrl: "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/amp/"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/amp/"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 63
+    images:
+      - url: "https://cdn.thewirecutter.com/wp-content/media/2020/11/deals-2048px-8492.jpg?auto=webp&width=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Black Friday 2021: The Best Early Deals from Target, Apple, Walmart, Best Buy, Home Depot & More"
     excerpt: "The best early Black Friday 2021 deals are here. Shop Black Friday deals on TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."

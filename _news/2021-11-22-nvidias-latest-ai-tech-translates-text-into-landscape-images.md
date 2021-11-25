@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-3-3.jpg&signature=5e49d582b9b8913cdfc8efca89446184"
         width: 796
         height: 398
+        isCached: true
+  - title: "Nvidia's next AI can turn words into photorealistic images"
+    excerpt: "Users can start with a general statement to get a broader image and then are able to go in and alter the little details by hand. If you want to play with some of this tech, you can try it out on Nvidia's interactive AI demos, though we had trouble getting ..."
+    publishedDateTime: 2021-11-25T09:09:00Z
+    webUrl: "https://www.pcgamer.com/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
+    ampWebUrl: "https://www.pcgamer.com/amp/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/uNoFn2TGWRakob6ppH3YLS-1200-80.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kore.ai Extends Series C Funding to $73.5M With NVIDIA"
     excerpt: "Kore.ai, an Orlando, Fla.-based conversational AI software company, extended its Series C funding round to $73.5m with participation from NVIDIA (NASDAQ: NVDA)"

@@ -9,7 +9,7 @@ ampWebUrl: "https://theislandnow.com/community-news/2021-makex-robotics-competit
 cdnAmpWebUrl: "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
