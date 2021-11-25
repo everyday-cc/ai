@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots, big data as Gulf nations bet on artificial intelligence"
-    excerpt: "Robots puttering around Dubai’s hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core. The 5G-enabled Expo,"
-    publishedDateTime: 2021-11-20T23:41:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
-    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 74
-    images:
-      - url: "https://media2.malaymail.com/uploads/articles/2021/2021-11/20211121_AI_Expo_Dubai_AFP.jpg"
-        width: 1000
-        height: 668
-        isCached: true
   - title: "AI Robots May Run Half of Cloud Data Centers by 2025"
     excerpt: "A new report says robots with artificial intelligence (AI) are coming to help run cloud data centers. See how here:"
     publishedDateTime: 2021-11-22T07:07:00Z
@@ -54,31 +38,6 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
         width: 1024
         height: 389
-        isCached: true
-  - title: "Self regulation of AI is not an option"
-    excerpt: "Among the areas of concern is that unlike traditional research, which is steeped heavily in academia, half of the research papers on AI are coming out of commercial research outfits. This is a double-edged sword."
-    publishedDateTime: 2021-11-25T07:09:00Z
-    webUrl: "https://www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/Self-regulation-of-AI-is-not-an-option"
-    ampWebUrl: "https://www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/Self-regulation-of-AI-is-not-an-option?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/Self-regulation-of-AI-is-not-an-option?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-  - title: "Epic bets on Hype’s AI animation approach"
-    excerpt: "The prodco will use the grant to automate its pipeline and invest in artificial intelligence for new show Kaia's Discoveries, says Gabriel Garcia."
-    publishedDateTime: 2021-11-22T16:56:00Z
-    webUrl: "https://kidscreen.com/2021/11/22/epic-bets-on-hypes-ai-animation-approach/"
-    type: article
-    provider:
-      name: Kidscreen
-      domain: kidscreen.com
-    quality: 37
-    images:
-      - url: "https://cdn.kidscreen.com/wp/wp-content/uploads/2021/11/Kaias-Discoveries-Hype-Animation.jpg?53c0ff"
-        width: 680
-        height: 510
         isCached: true
 
 secured: "bmE9V5BSYQWCkfxZ7ZEDR7gWDbAEFS5pZ52eo3G95EgbqPNiRIqxFXpbeQb16WoUwh01p6Zhcg90qErK+OtwCroKoB3iQ/WomD+mkfBIjAz4+/q/MNeqVR9Zlnkcyz4fBO5riT6OQXmcUCYLtHkreWu9igmy1H1ORrV58q9oJj5qIQGs9wvbR1TjJIQTlQKP2+hncn8URezYwDCxLPyTCrXU6Vk6wwkmiiLduNi+KUJeRNe5E9Twn4iXuPkG/lgzfiZZDrPyDUBdzIMJQ55r9oUXJSr8TpoDEhEHwXEmOB7J0cbncPVP6Lzwy4JsknjHVvqsOd3gg43ae+36QcidgR1yQi3uRbXD6FmMdG87BCs=;lFxya+1B+5SHxX5P6LFaDg=="

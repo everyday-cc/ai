@@ -130,6 +130,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Exibex brings Finnovex Saudi Arabia to the GCC region from March 22-23, 2022 to Nurture fintech"
+    excerpt: "Join the virtual experience as Exibex ushers you into the first quarter of 2022 with strategies to unleash the power of the Saudi Kingdom Fintech Landscape"
+    publishedDateTime: 2021-11-25T15:28:00Z
+    webUrl: "https://cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech"
+    ampWebUrl: "https://cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 32
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNDM0MWNhNmVjN2FjMmFhMDQ4NjBkMTY1YzFlYTdlNi5qcGc=.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Fintech platform reaches two-million membership milestone"
     excerpt: "Toronto-based fintech Borrowell has announced that total membership in its platform has exceeded two million. Borrowell is one of the forerunners in Canada when it comes to financial marketplace operations and credit education,"
     publishedDateTime: 2021-11-22T06:15:00Z

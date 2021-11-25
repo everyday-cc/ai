@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/daniel-knijnik/why-emotionally-intelligent-peo
 webUrl: "https://www.inc.com/daniel-knijnik/why-emotionally-intelligent-people-embrace-artificial-intelligence.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can We Trust A Superintelligent AI For The Future?"
+    excerpt: "With the thrills and excitement that comes with the Artificial Intelligence technology, there is a growing fear that its sporadic"
+    publishedDateTime: 2021-11-25T15:35:00Z
+    webUrl: "https://techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/"
+    ampWebUrl: "https://techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/techbooky.com/wp-content/uploads/2021/11/tech-predictions-for-2021.jpg?fit=1500%2C1000&ssl=1"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Improved intelligence: Transitioning to an enterprise intelligent asset management system"
     excerpt: "Asset management systems are evolving quickly, and these guidelines will help your team keep up with the tech."
     publishedDateTime: 2021-11-23T02:20:00Z

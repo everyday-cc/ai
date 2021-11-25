@@ -56,6 +56,17 @@ related:
         width: 787
         height: 443
         isCached: true
+  - title: "Self regulation of AI is not an option"
+    excerpt: "Among the areas of concern is that unlike traditional research, which is steeped heavily in academia, half of the research papers on AI are coming out of commercial research outfits. This is a double-edged sword."
+    publishedDateTime: 2021-11-25T07:09:00Z
+    webUrl: "https://www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/Self-regulation-of-AI-is-not-an-option"
+    ampWebUrl: "https://www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/Self-regulation-of-AI-is-not-an-option?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/Self-regulation-of-AI-is-not-an-option?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
 
 secured: "3/j0m54WO7r1tj4Rhqftes4xusWfHQ+ESxq3H/onBuNr07uk3v5T0Jt9Ty7/ymk6eMl76N2ggvfRbhuaZdigFz5hWbzYLTn4OjiU1290JYwisLTwMrqF9eYper5jgAuFYklAHT49Gsf/K47CYJSEk6D24+RJ25U4Zh9ZcZt8qKkLN4MnlXmuDK9rNrlXoyBjyddeW1CsyZYNOWZwULMKSqmgLYuAf2X+AMUZvq8RyvyLPKUwa0VOMyYT2tc9lCHPBjcBZxxoo4x6+PILwFyhrPgA2U2CIXbxrGpEpdaYxht4UdrSBmHlKqBnl08m74BjryuryebYf2/1emm13h87Eatm6W0wZhqzf4fOCZ/DjxI=;w9jkTUi9TENMBM/GGFgt+Q=="
 ---

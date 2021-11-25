@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/brazilian-airports-expand-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-airports-expand-facial-recognition-trials/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -23,6 +23,24 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "German coalition backs ban on facial recognition in public places"
+    excerpt: "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),"
+    publishedDateTime: 2021-11-25T15:54:00Z
+    webUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/"
+    ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "cCsNVlT/3SK3asZxBBOk+C5NJbRvZWz6kF/9TzAFZJniqwO5j/CA3lxyibxvjM1P1GNM+eDrmugQ6zcbOXD5bbz2rVjsT94AKkbK/ZZWmBxFeY0ldK+ZtB3TZmS5WFSpKF4IIqCm63qtozCgRvkHKmyihf37br0wxZZ2NPahGN4OJUCGNTyv14U7nRmWpB10dVzS5DF8zXaEIePYA3+DkSj95EsUV49vbEKD6uniBPZ2uWQyGrw9eXOxDY9YF6fWaA81kM0wkyC0byV4uC7MKrO1jLhGqrP5DZXvavogl5ZBcMEMO76S9px2PcPdBjtBC3jJWMAGbY032wzn8Cn3wsOeOnyLAsqv60DHuGeK9/KI/0ksUOUyT65pPsL8kSBJ4dyH2zO5TlYRYUgY+2JZjPuWVpfCPEtpGCBBdGdGsJPEr0HDAkJ+/Z3TivBRf/VD+5/iXREpa/ZD3Vj1iep5/o3snEHHkbVVUfkojLe4sLt4hWhYCPtQgb546xn88/n0fNckK4KbOkHO+N2nNcSrkw==;JRuTbOb5O0wwIec++vBSEw=="
 ---

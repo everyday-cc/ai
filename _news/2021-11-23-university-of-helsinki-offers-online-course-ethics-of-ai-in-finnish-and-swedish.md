@@ -57,6 +57,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Massive open online course Ethics of AI translated in Finnish and Swedish"
+    excerpt: "The open and free online course Ethics of AI is designed to help us understand what it means to use AI ethically, and what it requires from society and individuals. The course uses examples of practical issues from its collaboration partners."
+    publishedDateTime: 2021-11-25T16:30:00Z
+    webUrl: "https://www.helsinki.fi/en/news/artificial-intelligence/massive-open-online-course-ethics-ai-translated-finnish-and-swedish"
+    type: article
+    provider:
+      name: Helsinki
+      domain: helsinki.fi
+    quality: 53
+    images:
+      - url: "https://www.helsinki.fi/assets/drupal/styles/og_images/s3/media-image/eai-banner-rev-hel_600x.png?itok=uVkpXycV"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "adMvcaBg+TbOXauYxV5PhC40hxyd1wud9funEy7omkaIg2uj3qq+FB21pLG04ZVLjdbLqADaUz8mHNXFoie0EQE4uWB4oIHDIB+pY5kJWasScPCtweg+/rD4llridjzduh7mF2P2L6351dwtAKAVHAaRiHl2747WBnq2HTWwGWK7D5ptr4O61ad4937iR2iToVzF3+TvhASR2bT9k3FhZn4gQg65WbZbbyfFvTzS8CYCeePl1ZO2I/PJUd09TFLbx3GrvQovdKunI2VLgdp9xvyGeTZkVtv44W/Da6c5hQfno1tYmkJyA6ALcV3Y6CKPo86ArcNxAFwx4jdaiCFCpKHdYaQhHb53j1utieWj8pI3YTT0alpCn0e2XUzyZ2yhYi8/uztPrlGstgj2seV7OA+ax7P/QArGE8FbnUytFfdy3aJSbDaXijZN/3Mm6p7iWJSjT3oXLSF+lo6oqpkFQzIaU9KKvV+JoMakrCNlo5U3D8t8mc2Arbu6JVNFxotiE5jWnoLguNdJiI/hS4uxCA==;ADdwRY/UkGKug3BikXMb/A=="
 ---

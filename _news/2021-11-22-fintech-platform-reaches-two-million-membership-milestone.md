@@ -134,6 +134,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Exibex brings Finnovex Saudi Arabia to the GCC region from March 22-23, 2022 to Nurture fintech"
+    excerpt: "Join the virtual experience as Exibex ushers you into the first quarter of 2022 with strategies to unleash the power of the Saudi Kingdom Fintech Landscape"
+    publishedDateTime: 2021-11-25T15:28:00Z
+    webUrl: "https://cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech"
+    ampWebUrl: "https://cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 32
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNDM0MWNhNmVjN2FjMmFhMDQ4NjBkMTY1YzFlYTdlNi5qcGc=.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "FinTech Talents Festival 2021 - Afterthoughts and Aftershocks"
     excerpt: "Even though we could not be physically with our friends at the Fintech Talents Festival last week in London, we were still able to partake in many of the sessions virtually. If there is one word that we could use to describe last week’s fintech fanfare,"
     publishedDateTime: 2021-11-22T13:26:00Z

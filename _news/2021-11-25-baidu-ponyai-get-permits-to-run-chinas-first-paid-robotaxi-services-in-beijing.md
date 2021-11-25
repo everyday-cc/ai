@@ -124,6 +124,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu, Pony.ai cleared for Beijing robotaxi service"
+    excerpt: "Pony.ai have won approval to launch paid driverless robotaxi services that will see the companies deploy not more than 100 vehicles in an area in China's capital Beijing. The state-backed Beijing Daily newspaper reported on the approvals on Thursday,"
+    publishedDateTime: 2021-11-25T14:30:00Z
+    webUrl: "https://www.autonews.com/china/baidu-ponyai-cleared-beijing-robotaxi-service"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/RTXEXMJ3%281%29.JPG"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Baidu, Pony.ai nab commercial robotaxi licenses in Beijing"
     excerpt: "Search giant Baidu Inc and Toyota Motor Corp-backed Pony.ai Inc were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
     publishedDateTime: 2021-11-25T06:50:00Z
@@ -139,6 +153,6 @@ related:
         height: 826
         isCached: true
 
-secured: "bFglPwz3Tru+V6zu/M/1hpgPYxfh48i44QymSahGn0Iw7OAW5vHX3uqv5TLt8euRZn4LSlTLHX7/wg7fMm8myD0keSPmucjTmN8ZdcW3SnHzCg2qg4PtLQLlEoQFMVUrY9lXSWzIoZX0ZXSrtyvBfdbNpUNQxQdX2AlJiqrfITybaoKZiqJ9ev2MYx0KPkQmZ6WgUOVRVP5YycoFVyxfNNjlsOBkto/Nt16DI+ZBdwDHIAC/t5LdTKKfuo3hu6oS4siU9oLKzrqs2YvqdNkGiZ/02Q7LoFh/+SCHEKu4jVtO0UAOFsjEOAyI35jcp1govb6kcB7RifaWUcntKMd2Npi/2MY81FRMk/5uKkZcfRc=;fnUnADV5+19+/D3p1UsQbw=="
+secured: "10QZjcKY6J4VO7rPDlxEBvNBUuCLE5m3HIj7Aui5O5/A5WDl8ASmgW+nEPw+fUTNpw2C27lZgyzJ9ZooL60wrme43BxHJr3cEnUplcEIZ/Dsp4HQ3poTiGnoi4r0wxOzVotcIZQ6cr9boMmozkT7jhGGEwxfgBoZOjpzziWGPEwkHj5tyaPHXoYPtUN5W/a7G/D8uibSJoW9dJ+UgjTd5IZ6dRthU9g+991CBmXgkusoFnTC0mAfC4Pphh8Uh43pV7GtX9g2IU+KS/yEdZ0qY5n6VAMUxRi3N6a69e8gC9QJVpCOIG5DwAajGMIxHGoedREZvnylXX21eBHYKTAAq0SZjmtpljAEp2GQVbwDkZraZwusHY4QddMakAudHzHrAhthQ9WhBclXEF+AO1VljYZsqbzDs6kyo4i91L9kjw+8FfCQxH/hqA9VHUjtHGwV+poE5B3c4U2M814tQzNHcAuSAZPHeGWNi6jNZ502FVm/TdiyQYuMdsMsQCsJhOYQQ2y4iEwi+4cXe+4ErSEmaw==;bMaYUPQ6lcQMrLICAu8eug=="
 ---
 

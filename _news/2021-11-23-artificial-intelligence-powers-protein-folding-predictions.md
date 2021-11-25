@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence powers protein-folding predictions"
 excerpt: "Deep-learning algorithms such as AlphaFold2 and RoseTTAFold can now predict a protein’s 3D shape from its linear sequence — a huge boon to structural biologists."
 publishedDateTime: 2021-11-23T11:19:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-03499-y?code=b17f9aab-d5dd-4a67-9622-b8ccfdd47c47&error=cookies_not_supported"
-webUrl: "https://www.nature.com/articles/d41586-021-03499-y?code=b17f9aab-d5dd-4a67-9622-b8ccfdd47c47&error=cookies_not_supported"
+originalUrl: "https://www.nature.com/articles/d41586-021-03499-y?amp;amp"
+webUrl: "https://www.nature.com/articles/d41586-021-03499-y?amp;amp"
 type: article
 quality: 39
 heat: 39
@@ -42,6 +42,6 @@ related:
         height: 439
         isCached: true
 
-secured: "CeHoyTkZeQEoZSiLfT73URdoPxOTkG8cEttC+KkE7iyufYMEHfFFIZFi00qgKer1YmtNNTFExz66MSFp/pyODNpe0vOvwnHtur6zjJKOKmxMOSWUvGHdPBtGovLF7j3HzzWPQGwhP3u9LOgp1Zk6u6FL3MCiz0vLyI//ZzT4/Oxph5ZzBGF7impPZwWdChZS898pkjhI1oILJkmRdc9Hd6Xn2wKqcDdy3kgrdnlgj6U5EWRQ/xi6StYEZBLwsamJt355bm6yWQr+MsXDvTCZlyihRhAfFCvuN0yBuhVAQa//OgKw9UtjP9SHmJj+0Kuk9M4lcst4plmfRvmZgKIeGAhKyPDjBXoul65UOUn45IA=;W+UzdCNBLJtJBncfnduDYg=="
+secured: "eduRUCt3jEPMB2ViIcw7M3aew4vJy0x5ju6IaH6mjfXuxa2FkqkU8MrtuEwCf8iWBZZwCQB059vkuiN2+keMx66DDbyPQwU5Z8PHPkqCHMjmczsscSN4SHQ5J5z2ZUtShHnFywqcgHPQT/W85qq+m8pkQYyeWRJ5mrnIvYECue3jtEcvoVUEsX2Us0pcVqZfcXpzH1dgidlvN1/o66VRoo4DxF+tvc9PmCweUKPXBDvsDj+/oqk2rqg9pEU4fLSCozwcGv8TI9GiGpn3/Q3HJzNpkBFQ39uvLnSRf22X8MwPb2hEgXWeGNY1eYoqiPFmmNeJnsPtJHP3K3QbkCYLfDffn1Xo5hcHT7vkwtrwiSM=;tqjtBRBaoa0uaeg1P/ERtw=="
 ---
 

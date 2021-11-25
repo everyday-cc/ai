@@ -124,6 +124,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu, Pony.ai cleared for Beijing robotaxi service"
+    excerpt: "Pony.ai have won approval to launch paid driverless robotaxi services that will see the companies deploy not more than 100 vehicles in an area in China's capital Beijing. The state-backed Beijing Daily newspaper reported on the approvals on Thursday,"
+    publishedDateTime: 2021-11-25T14:30:00Z
+    webUrl: "https://www.autonews.com/china/baidu-ponyai-cleared-beijing-robotaxi-service"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/RTXEXMJ3%281%29.JPG"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Baidu, Pony.ai Get Permits to Run China’s First Paid Robotaxi Services in Beijing"
     excerpt: "Chinese internet giant Baidu and self-driving tech startup Pony.ai received approval today to launch the country’s first commercial driverless taxi services in Beijing. The two companies are cleared to offer the new services in an area of 60 square kilometers in the Beijing Economic and Technological Development Area,"
     publishedDateTime: 2021-11-25T13:26:00Z
@@ -139,6 +153,6 @@ related:
         height: 480
         isCached: true
 
-secured: "JJ2qbN569FK/8JvZy9BGv2M/drbs33+xyHgfD5DvkbyW+SJZF6veVxG3DRUyy0ARWg/tvmGF9PiopLP0aDD3o583iBq9ncsGrWgkyiX7nlSsM4Nwgn9Jviy66a9ds+vgDnS7nnJzPuj76KZ2JJsWtWRWxR5paKKkYpVHFtt9fCIkBEbEAT7m2SWPrEkQIv4d/H9ApDowoBLSzxtNFpioauRdCqqwilN65Kv1UKSQjJQlFgoYJOv6tTHneHvFuLGZU+Wo5P8kdayRgBy1Wrf5dZrIICo46GYTWJ2MPPMMF29NcsLAqF99uLqF2+FUfHlajgqQBmMu2qaVNzWVi+/eI7WT0DcDBxPSvW4Kg3zTI7w=;cXgAy608ot45fqKVAcEStA=="
+secured: "cZH6FAC6ALR/qIDfiOdAsMreXOAWf0x217r6XHMhCM/HzqoAPHJzjvLwgzA2OpB4X4I1BZyuppquc8g2/rPUjLg5lOTjSXwCDOUB+VVByix9wXtQ7WB0FLBt3/5RE5m2L3FyR507b9oyRvyScbl4avyWb5eYF08lPijO75JuoZCXuue/Mo7AY89oykJ9E71Jzy+jy9QxIYdEwSH8a6v1BZU/0KtP0UmxI6Msnf7p/NJx6iXnLQHCBcq4p9xvkHhdxxf6eSIdJWKkl5Iu34HTgC2qq0xiYW0qRm3TR72+SE/N66Mg0Ul1cndo4yFokAgV6lI+sel0/i/oktZ6+7ru28/KIh1rb/MmZYC+oUagy1k=;f8Tlar2C1kiWnKl0FuD4Nw=="
 ---
 

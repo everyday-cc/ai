@@ -20,6 +20,22 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Can We Trust A Superintelligent AI For The Future?"
+    excerpt: "With the thrills and excitement that comes with the Artificial Intelligence technology, there is a growing fear that its sporadic"
+    publishedDateTime: 2021-11-25T15:35:00Z
+    webUrl: "https://techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/"
+    ampWebUrl: "https://techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/techbooky.com/wp-content/uploads/2021/11/tech-predictions-for-2021.jpg?fit=1500%2C1000&ssl=1"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Why Emotionally Intelligent People Embrace Artificial Intelligence"
     excerpt: "Let technology take care of the details and focus on what computers are notoriously bad at; creating relationships, fostering innovative thought, and motivating employees"
     publishedDateTime: 2021-11-22T12:56:00Z

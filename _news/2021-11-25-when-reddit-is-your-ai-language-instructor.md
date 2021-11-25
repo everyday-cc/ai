@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEyMHEStSMhA/v1/1200x824.jpg"
@@ -28,6 +28,6 @@ images:
     height: 824
     isCached: true
 
-secured: "RzPEIagdiIvaM/bEbx04FVPqQIGRNihqoYNW59XfKK9Xh2/JoQMmBgWf2DYCuWU5+uFTEL/qUSDCDI5bkkHWAaVZUBaZOjtbnS3BxcHhQN9N0qsNi0tgwHTu4BgXtJy8BnpuuVgzoZD1NLfnPPNz5prUiPtX8/IL8AAaS/1IBrdMQZo0SMkAperRQtC3/m0ehbUWKTZ23Ui6gzAzvGqnGMCt/c55dxnQrsyA+yBf69RJjKn7jVA8DcWg2wQxjzggYLdTJn6dm9GVRlV7OJRinCX3WSQhpvW1FZPVfbqMFjLqxt/ijXOKuCeNik7mqtpPG1am0o37CdC1VUj6SUcBNrqvdnXIiUtZia7HIPcmdD7ZCUpZJ8TonRKXsLQXurAa2seLbyM3vnv6dq+sz2tWUpprkxYkQuw2ultrg03b2pNM+b726z/SapLih/bUdj9xQpFo5MPzz9cJsGjvMtLslZabwxgTADaxS4CY1I5iJBxsk68Co93BHggqlAP2BCyjimkK6u7iRbSncDFzMbJvMw==;RSOquub97Kpq67sQ+I9DJg=="
+secured: "7uY0ZjbKaKY4U4/1VRw3A2wy+QWzWFYIqeS/HA2sk8ZTVWyhjE4e9E347aRYfREmnGGr7+j9E4lYuj9UPr2mDUTMed0Kq92mbBtgt6YZcJsm9swtjiEaz58mSJLdV8PGypa3s5vjKhtdsJ/BXYiD63jbn93Cu399/wJD3/BrSOuYebMQA1L0hA+8DQ5meGyPIXOcUTrr+/h6BhLvyYRWIAPfwuXmlfD44C2fhd2HXzXmYFDwwLs4rfI2zS7GvWMsd61yWrnGzSHP7FNHzE9PqVzqQ71Huzh9/HNBFClYdEkpDGQem0VET4hf7435+kLXXyZnI56S12lE2CGY4RzqlgMunGUAVCfCChy7gwvQU6k=;oXERieLNHeO/Eqm4LZbzIA=="
 ---
 

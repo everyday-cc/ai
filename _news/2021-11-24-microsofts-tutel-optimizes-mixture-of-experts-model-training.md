@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixtur
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/"
 type: article
 quality: 104
-heat: 125
+heat: 124
 published: true
 
 provider:
