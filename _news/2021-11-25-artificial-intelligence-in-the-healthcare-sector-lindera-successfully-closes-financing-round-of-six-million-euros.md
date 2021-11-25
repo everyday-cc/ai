@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Artificial intelligence in the healthcare sector: Lindera successfully closes financing round of six million euros"
-excerpt: "Lindera– one of the leading deep-tech companies in the field of computer vision – has successfully closed a Series A financing round. The Berlin-based health-tech company is receiving additional growt"
-publishedDateTime: 2021-11-25T13:31:00Z
-originalUrl: "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html"
-webUrl: "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html"
+excerpt: "Lindera successfully closes financing round of six million euros Health tech company brings new investors on board in Series A round Growth capital to be used for expanding business model in motion di"
+publishedDateTime: 2021-11-25T09:39:00Z
+originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-healthcare-sector-lindera-successfully-"
+webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-healthcare-sector-lindera-successfully-"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/12/a12a1954-7d37-5490-aa80-d0bb0d17c216/619fa25c6fc1b.image.jpg?crop=1272%2C668%2C3%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHEhoD12jmuxw/article-cover_image-shrink_720_1280/0/1637772449360?e=1643241600&v=beta&t=eAb76GdgXSUv0P-YC_VG_e4-mbeIRGF6t9i6nnk24Dk"
+    width: 1280
+    height: 668
     isCached: true
 
-secured: "x/o9uE2VbBr4miCZJnx8uu6J04B4EWBZZZnpgOQZwfzken2syAZgQqpJQstYLS3wlu98AwYR4fA9zLAYZoVUm1liWS4PMpfoMM1T+m9305sgTOuqndD5p4KtoliO14wnBEjkeHHuhh4f1RVI9FNDqia/sr1vga8h9OxU/OO5oPR4ea+Zi6tRJ1Nx8W89KmXbMtxISOu2l6+dBul09tqJdUzMbXB/uReyJ8IWz/2kWptIe+pWUyM3ffwQ0JNug5BTlSWsxCrC60nSoW1i4AgwqWyNWgsbGsrmhZFv4shMpGqp056gcV25T4rc/x1VwzKUnsaI2ZC3lhWqwqk9Zo5r2tWdGg/52sXChwYZpkMdPFI=;8hkBSzZ2qdWlRxHYvRifmQ=="
+secured: "jHllWQ2et2H7Za7kFEIa29sYLAIFWWEG10B1eKrNhW0NN1yvmKNc0U62mxhOTT9YYVnZ2+C2VSzVPeaeU0CLZn7mAKzF4EW5CLY65W2CpXfKHNc4cZ6Fgs/gfHzK97rmWCvMfAWUesc3qoxNzIdyo1QkC034X+yFJ2l5yXPw3Jhz7C7VczmGE86fked+cp+cobbNKDhVbhREQTT0eOx695zkAw2LxAqya32wyndYky6VKLs4W1VTV003tcgGzQcuQhRxWLpnwTWRMh7+WaG3/l7pt3Ucvy4dJjzkkCpxQbBIR9ny1or9FnDpZADk0TruPJ4CAZ4sZqGk6ypiBSrYDf+DfnClvIssCE60Su4+uqc=;V8H15bmJHhNpOvrnNPy6QA=="
 ---
 

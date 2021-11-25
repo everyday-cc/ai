@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-20-vocal-about-local-can-india-have-its-own-facebook-google.md",
+      "title": "Vocal about local? Can India have its own Facebook & Google?",
+      "excerpt": "(1.87%), Baidu (1.1%), Yandex (0.54% ... It can afford to, simply because they got into the ‘self-reliance’ mode many years before the necessity of doing so finally dawned on us.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-75797074,imgsize-213606,width-1200,height-628,overlay-etbrandequity/vocal-about-local-can-india-have-its-own-facebook-google.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "publishedDateTime": "2021-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-robotaxi-market-to-witness-astonishing-growth-by-2030.md",
+      "title": "Robotaxi Market to Witness Astonishing Growth by 2030",
+      "excerpt": "The Robotaxi Market is projected to grow from 617 units in 2021 to reach 1,445,822 units by 2030, at a CAGR of 136.8%. Automotive companies are investing huge amounts in research and testing of self-driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102999852/Robotaxi-Market-to-Witness-Astonishing-Growth-by-2030",
+      "originalUrl": "https://menafn.com/1102999852/Robotaxi-Market-to-Witness-Astonishing-Growth-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-10/19/G_a467dimage_story.jpeg",
+          "width": 650,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers.md",
       "title": "Charles de Gaulle airport (timidly) tests autonomous EV luggage haulers",
       "excerpt": "The terrestrial e-drones are supervised with an artificial intelligence-enhanced central server, which compliments the natural intelligence (or lapses thereof) of human monitors. The trial EV ...",
@@ -1305,92 +1391,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-germany-unveils-the-worlds-first-fully-automated-train-in-hamburg.md",
-      "title": "Germany Unveils the World's First Fully Automated Train in Hamburg",
-      "excerpt": "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB).",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "originalUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplMpMOW/sizes/autonomous-train_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "publishedDateTime": "2021-10-12T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-ai-estimated-to-provide-10-boost-to-uk-gdp-by-2030.md",
-      "title": "AI estimated to provide 10% boost to UK GDP by 2030",
-      "excerpt": "Capabilities provided by artificial intelligence (AI) systems and related technologies such as robots and driverless vehicles could provide a 10% boost to the UK economy by 2030, but there are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030",
-      "originalUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?amp=1",
-      "publishedDateTime": "2021-10-12T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
         "images": null,
         "publishers": null,
         "authors": null

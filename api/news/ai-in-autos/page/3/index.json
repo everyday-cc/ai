@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-06-driving-business-benefits-with-intelligent-automation.md",
+      "title": "Driving business benefits with intelligent automation",
+      "excerpt": "For instance, at EY GDS Enablement Services, we are using intelligent automation solutions by combining RPA, digital and artificial intelligence (AI ... With chatbots and self-help, access to many services is now available 24/7. Added to this, we are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/driving-business-benefits-intelligent-automation-shailendra-saxena",
+      "originalUrl": "https://www.linkedin.com/pulse/driving-business-benefits-intelligent-automation-shailendra-saxena",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGmAdQFrSQDdg/article-cover_image-shrink_720_1280/0/1635946751873?e=1642636800&v=beta&t=76Nzd4DNGZYKhlCal64MrPMZtUiO1xF7GqsiO1Xh_dc",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-in-a-world-with-robocops-and-flying-taxis-should-ai-be-taught-in-schools-dubai-teachers-weigh-in.md",
+      "title": "In a World With Robocops and Flying Taxis, Should AI be Taught in Schools? Dubai Teachers Weigh in",
+      "excerpt": "A step ahead, the UAE recently appointed the world's first Minister of Artificial Intelligence. In the blink of an eye, today's parents may see their children inside flying taxis, in driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/editorchoice/world-robocops-and-flying-taxis-should-ai-be-taught-schools-dubai-teachers-weigh-104398",
+      "originalUrl": "https://www.albawaba.com/editorchoice/world-robocops-and-flying-taxis-should-ai-be-taught-schools-dubai-teachers-weigh-104398",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/shutterstock_695764816.jpg?itok=oDDFC9-D",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/editorchoice/world-robocops-and-flying-taxis-should-ai-be-taught-schools-dubai-teachers-weigh-104398",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editorchoice/world-robocops-and-flying-taxis-should-ai-be-taught-schools-dubai-teachers-weigh-104398",
+      "publishedDateTime": "2021-11-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-apple-hires-former-tesla-engineer-to-boost-self-driving-car-effort-bloomberg-news.md",
       "title": "Apple Hires Former Tesla Engineer to Boost Self-Driving Car Effort Bloomberg News",
       "excerpt": "Apple Inc has hired a former engineer from Tesla Inc in an effort to boost its car-development efforts, Bloomberg News reported on Friday, citing people with knowledge of the matter.",
@@ -1334,93 +1429,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-denmark-emerging-as-a-serious-player-in-the-game-of-ai.md",
-      "title": "Denmark emerging as a serious player in the game of AI",
-      "excerpt": "A focus on business Artificial intelligence has many uses such as diagnosing diseases and controlling driverless cars. However, the DCAKI will focus less on the science fiction and more on the humdrum reality of the business world, assisting small ...",
-      "sourceUrl": null,
-      "webUrl": "https://cphpost.dk/?p=92746",
-      "originalUrl": "https://cphpost.dk/?p=92746",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cphpost.dk/wp-content/uploads/2017/11/artificial-intelligence-698154_960_720-630x390.jpg",
-          "width": 630,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Copenhagen Post",
-        "domain": "cphpost.dk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-31-a-robot-to-top-up-your-tesla.md",
-      "title": "A Robot To Top Up Your Tesla",
-      "excerpt": "Everything is controlled ... While robot won’t be winning any interior design contests, it does the job well, and adds a bit of convenience and peace of mind.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
-      "originalUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/06/2021-06-21-3.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -494,6 +494,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-19-apple-pushing-ahead-with-development-of-fully-autonomous-car.md",
+      "title": "Apple pushing ahead with development of fully autonomous car",
+      "excerpt": "Alphabet Inc.'s Waymo has suffered a rash of departures ... made up primarily of neural processors that can handle the artificial intelligence needed for autonomous driving. The chip's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
+      "originalUrl": "https://www.iol.co.za/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/650x366/File-picture-Nicholas-Kamm-AFP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4d7abe35-9d2e-5335-84b3-fee8c5ddd077&operation=CROP&offset=0x85&resize=2000x1125",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
+      "publishedDateTime": "2021-11-19T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-105-valuates-reports.md",
       "title": "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports",
       "excerpt": "The global Face and Voice Biometrics market size is projected to reach USD 10760 million by 2027, from USD 5294.1 million in 2020, at a CAGR of 10.5% during 2021-2027. Major factors driving the growth of the face and voice biometrics market are: Face & Voice biometrics solutions are being adopted around the world because of factors such as rising demand for effective fraud detection and prevention systems in the Banking,",
@@ -879,48 +922,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle.md",
-      "title": "Apple Accelerates Work on Car Project, Aiming for Fully Autonomous Vehicle",
-      "excerpt": "Apple is internally targeting a launch of its self-driving car in four years, faster than the five- to seven-year timeline that some engineers had been planning for earlier this y",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle",
-      "originalUrl": "https://www.bloombergquint.com/business/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imunUg3M6pRI/v1/1200x793.jpg",
-          "width": 1200,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

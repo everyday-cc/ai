@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Why Latent AI has an Edge over"
+    excerpt: "Edge AI? Latent AI reduces the latency by minimizing and sometimes complexly bypassing—the need for a distant data center. Edge AI takes a different tack; it runs algorithms locally on chips and specialized hardware,"
+    publishedDateTime: 2021-11-25T19:34:00Z
+    webUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-latent-ai-has-an-edge-over-18378950"
+    ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-latent-ai-has-an-edge-over-18378950-amp.html"
+    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-latent-ai-has-an-edge-over-18378950-amp.html"
+    type: article
+    provider:
+      name: El Clasificado
+      domain: elclasificado.com
+    quality: 59
+    images:
+      - url: "https://elclasificado.com/photos/cd/18/cd1898064dc84653b7db795892432ac5/l.jpg?image=0"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Low Code and No Code: The Future of Artificial Intelligence"
     excerpt: "Will low code apps go any higher? The jury is still out on how high this will all go. Low code and no code might even help business users build AI-driven applications, according to some experts. “Low and no code platforms make it feasible for businesses to deploy artificial intelligence without having to hire an army of pricey developers and data scientists,"
     publishedDateTime: 2021-11-21T10:50:00Z

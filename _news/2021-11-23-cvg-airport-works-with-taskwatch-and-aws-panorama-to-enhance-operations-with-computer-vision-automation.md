@@ -2,28 +2,22 @@
 category: news
 title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
 excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
-publishedDateTime: 2021-11-23T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
+publishedDateTime: 2021-11-23T13:02:00Z
+originalUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
+webUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
 type: article
-quality: 55
-heat: 65
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Kentucky New Era
+  domain: kentuckynewera.com
 
 topics:
-  - Computer Vision
-  - AI
   - AWS AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - AI
+  - Computer Vision
 
 related:
   - title: "RiTA 2021 – a PeerJ Conference Collection in collaboration with the 9th International Conference on Robot Intelligence Technology and Applications"
@@ -41,6 +35,6 @@ related:
         height: 245
         isCached: true
 
-secured: "C67wOPcJPeCBbEbbvq2vm3Qgt9D3Mz/GM2+oc0844ND62qCRY8hgaHSurlJZSIXQflteeRTjIRhMMxWtw/5CG5SHUuR+zmrSlByCLf9kYOSZBH58uuAeNyyd7kYbOPmuaWSO59cv9tl2flnmSgmgSHq3Mi+i/b8loDG6CSf5lgNrjN8qvWkBkYL74FH4lwfEPq4+SC849DdDpn+c49nF7Xw08m2cMfY/vHjKV913tLgTlENCDk/aG7YzK7qqV+1oZMvyb/gOWjV6hOYu6ZZHU0yMv/gX+0q2SMOBMyTn8Jhhfupm6Sg4yuAqM038J5r+7iTNU90hJ1Rn/7oZKKcxa4ARRiitxzW1z2CUP1L09HA=;JmCRL0n0QWslOn20kZJndg=="
+secured: "h0CfgurTQuU96D3PcFfXGv228KFM52c0y6gopI0I5X3BbiUI1Q8ttg6wKFBD6Q7FRnAmXZ8kEirGAg0gvhPpIwQrxPLNZIuIqjqatdJC/jZgRpMqPhkLyflRgr02azw3hg6m9sW7IxjqLTAsDxGuWOsfHqq7tzYFeKhh+MwpaZkYOcsm8jQEL8x9FOXLVZNvWQudZc6X5HlR3dcNK4HhbGYGsZC4yePf/LXU2s81hoii3DReOAmTo5wFY/v2YKvxxLIBtI6sihE8CndaXP555kGdKe5qv2qon3OCqmkmSjhgawBQOjvMsZzbHUSUHEYzR5fHsYU7th9SQDk9MELPwqq6yUdiSO8NXxgJUW00MT3osmCM/v2leBUjiM2j8XOAOhCTEr2HOEo3odffiQPtE+Niw586UaEGNkBbVD1ngd288ESux0PzpeBG0fyTA7Q8PQ3VcQD3R614GQYom7sAgZOWggeMPY4ssY9JI6louq2uQmDco3ZX+bhtNma+8uaeQx5eKuQmh9U/o/BBeM/+Bg==;BUc1v3gm8rIvQft4mXrKxQ=="
 ---
 

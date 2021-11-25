@@ -2,6 +2,49 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2021-09-25-ai-strategies-for-growth-workshop-in-collaboration-with-aws.md",
+      "title": "AI strategies for growth workshop in collaboration with AWS",
+      "excerpt": "Sharjah -Sharjah Research Technology and Innovation Park hosted a workshop on artificial intelligence (AI) and machine learning (ML), delivered by Amazon Web Services (AWS). The “AI Strategies for Growth” workshop, which took place on Sunday on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/AI_strategies_for_growth_workshop_in_collaboration_with_AWS-ZAWYA20210925100215/",
+      "originalUrl": "https://www.zawya.com/uae/en/press-releases/story/AI_strategies_for_growth_workshop_in_collaboration_with_AWS-ZAWYA20210925100215/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2021/ITApark_2021_09_25.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20210925100215/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210925100215/",
+      "publishedDateTime": "2021-09-25T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-migrate-multi-worker-cpugpu-training.md",
       "title": "Migrate multi-worker CPU/GPU training",
       "excerpt": "Distributed training with TensorFlow Parameter server training with Keras Model.fit/a custom training loop MultiWorkerMirroredStrategy with Keras Model.fit MultiWorkerMirroredStrategy with a custom training loop. def _input_fn(): return tf1.data.Dataset ...",
@@ -1135,57 +1178,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-ai-tradeoffs-balancing-powerful-models-and-potential-biases.md",
-      "title": "AI tradeoffs: Balancing powerful models and potential biases",
-      "excerpt": "A handful of foundational AI models are emerging that rely upon a magnitude of training data that makes them inherently powerful, but it’s not without risk of harmful biases.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/24/ai-tradeoffs-balancing-powerful-models-and-potential-biases/",
-      "originalUrl": "https://techcrunch.com/2021/09/24/ai-tradeoffs-balancing-powerful-models-and-potential-biases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1282056852.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/24/ai-tradeoffs-balancing-powerful-models-and-potential-biases/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/24/ai-tradeoffs-balancing-powerful-models-and-potential-biases/amp/",
-      "publishedDateTime": "2021-09-24T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

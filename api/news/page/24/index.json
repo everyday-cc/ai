@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-11-05-microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news.md",
+      "title": "Microsoft Takes on the Metaverse, Updates Teams and Viva & More Digital Workplace News",
+      "excerpt": "Facebook Connect, Google I/O and Salesforce’s Dreamforce all merit a look, but in terms of the digital workplace and productivity technology, Ignite is really the big one. This year’s Ignite conference,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/",
+      "originalUrl": "https://www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/bbc9ac2063824d6f9206062d0ef36882.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/amp/",
+      "publishedDateTime": "2021-11-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-opensource-gui-tool-for-opencv-and-deeplearning.md",
       "title": "OpenSource GUI Tool For OpenCV And DeepLearning",
       "excerpt": "AI and Deep Learning for computer vision projects has come to the masses. This can be attributed partly to the community projects that help ease the pain for newbies. [Abhishek] contributes one ...",
@@ -1139,57 +1182,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4.md",
-      "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 4)",
-      "excerpt": "The real revolutionary potential in AI lies not in the specific capabilities of a single solution (however sophisticated) but rather in establishing an AI multiplier that will enable efficient and scalable deployment of dozens of AI solutions within each enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61095f169be9fec2c781acb3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/amp/",
-      "publishedDateTime": "2021-11-04T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -436,6 +436,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-19-apple-pushing-ahead-with-development-of-fully-autonomous-car.md",
+      "title": "Apple pushing ahead with development of fully autonomous car",
+      "excerpt": "Alphabet Inc.'s Waymo has suffered a rash of departures ... made up primarily of neural processors that can handle the artificial intelligence needed for autonomous driving. The chip's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
+      "originalUrl": "https://www.iol.co.za/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/650x366/File-picture-Nicholas-Kamm-AFP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4d7abe35-9d2e-5335-84b3-fee8c5ddd077&operation=CROP&offset=0x85&resize=2000x1125",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
+      "publishedDateTime": "2021-11-19T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-is-the-world-ready-for-a-self-driving-car.md",
       "title": "Is The World Ready For A Self-Driving Car?",
       "excerpt": "Hitting Apple's ambitious 2025 target depends entirely on the company’s ability to design, build and test its self-driving system.",
@@ -727,6 +770,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle.md",
+      "title": "Apple accelerates work on car project, aiming for fully autonomous vehicle",
+      "excerpt": "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/business/autos/2021/11/18/apple-accelerates-work-car-project-aiming-fully-autonomous-vehicle/8668157002/",
+      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/11/18/apple-accelerates-work-car-project-aiming-fully-autonomous-vehicle/8668157002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T09:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1352,103 +1429,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-helmai-raises-26m-for-unsupervised-autonomous-driving-software.md",
-      "title": "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software",
-      "excerpt": "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
-      "publishedDateTime": "2021-11-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution.md",
-      "title": "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution",
-      "excerpt": "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.proactiveinvestors.co.uk//thumbs/upload/News/Image/2021_11/1200z740_1637055115_shutterstock_1164788407.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.co.uk/companies/amp/news/966351",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/966351",
-      "publishedDateTime": "2021-11-15T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

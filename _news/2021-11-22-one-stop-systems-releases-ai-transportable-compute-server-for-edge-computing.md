@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Why Latent AI has an Edge over"
+    excerpt: "Edge AI? Latent AI reduces the latency by minimizing and sometimes complexly bypassing—the need for a distant data center. Edge AI takes a different tack; it runs algorithms locally on chips and specialized hardware,"
+    publishedDateTime: 2021-11-25T19:34:00Z
+    webUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-latent-ai-has-an-edge-over-18378950"
+    ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-latent-ai-has-an-edge-over-18378950-amp.html"
+    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-latent-ai-has-an-edge-over-18378950-amp.html"
+    type: article
+    provider:
+      name: El Clasificado
+      domain: elclasificado.com
+    quality: 59
+    images:
+      - url: "https://elclasificado.com/photos/cd/18/cd1898064dc84653b7db795892432ac5/l.jpg?image=0"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Humanity in the Age of AI"
     excerpt: "The Age of AI” does not break new ground on AI but it raises key questions about how AI will change the way we live and work, and it is clear that we are just barely scratching the surface of what AI means for society and humanity."
     publishedDateTime: 2021-11-21T14:24:00Z
