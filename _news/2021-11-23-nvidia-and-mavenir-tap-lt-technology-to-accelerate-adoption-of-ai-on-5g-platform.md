@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nvidia's latest AI technology transforms words into realistic images"
+    excerpt: "Nvidia showed its GauGAN technology for the first time in 2019, but only recently we saw it being featured in a product available for the general"
+    publishedDateTime: 2021-11-25T17:08:00Z
+    webUrl: "https://www.techspot.com/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://blogs.nvidia.com/wp-content/uploads/2021/11/gaugan2-corp-blog-128-adaptive-1280x680-1.gif"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "NVIDIA’s new AI eats words, spits out photos and feels borderline magical"
     excerpt: "NVIDIA has as generative art system that uses AI to turn words into visually spectacular works of art. This isn’t the first time this sort of concept has been postulated, or even produced."
     publishedDateTime: 2021-11-23T02:33:00Z

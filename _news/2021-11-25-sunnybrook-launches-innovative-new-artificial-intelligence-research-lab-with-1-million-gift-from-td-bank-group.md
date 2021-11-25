@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Sunnybrook launches innovative new artificial intelligence research lab with $1-million gift from TD Bank Group"
-excerpt: "The Augmented Precision Medicine Lab will develop cutting-edge artificial intelligence (AI ... perhaps more importantly, it will improve health-care equity by dramatically widening access to underserved communities and populations,\" says Dr. Alexander ..."
-publishedDateTime: 2021-11-25T13:25:00Z
-originalUrl: "https://www.newswire.ca/news-releases/sunnybrook-launches-innovative-new-artificial-intelligence-research-lab-with-1-million-gift-from-td-bank-group-817269866.html"
-webUrl: "https://www.newswire.ca/news-releases/sunnybrook-launches-innovative-new-artificial-intelligence-research-lab-with-1-million-gift-from-td-bank-group-817269866.html"
+excerpt: "Sunnybrook launches innovative new artificial intelligence research lab with $1-million gift from TD Bank Group"
+publishedDateTime: 2021-11-25T14:05:00Z
+originalUrl: "https://sunnybrook.ca/foundation/media/item.asp?c=1&i=2377&f=ai-research-lab-td-gift"
+webUrl: "https://sunnybrook.ca/foundation/media/item.asp?c=1&i=2377&f=ai-research-lab-td-gift"
 type: article
-quality: 16
-heat: 16
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: Sunnybrook Hospital
+  domain: sunnybrook.ca
 
 topics:
   - AI in Healthcare
   - AI
   - AI in Finance
 
-secured: "b+Lrz7ZV98ygP27AxTL3itPAnFvr2CK/pmAEFEyTF63g+QqMObvtBJ2HQX3zU1bUQN4y09UBiBA/rF0k2ud9VCXzD+YC0FsKvL94AyWQRXGiLCZAZumPJX5SzbumOv/vccCqv1npAMIX3eiFp3cDIIWPjQr0TPzUUMgh7tYVjO5aO13AEqYl96Qz9Gar0nP4G6IRIvBx4Kxybt5wRuYKDx/x/SAHe1khWRoX7gytj10vADp1/0c6BwvCxzQiHopOnYNxcCRSIV35ZxfID3LYonVigLIK6agoiYFRWzwmjIXl5lknpUEPiR9DLufg3YcRqy5k6ScRJ2fwRHf5DLzIwCXsfOAHG2iqJYhBohRYwsk=;MMwBcFrjbMHn11ANqhwCUg=="
+images:
+  - url: "https://sunnybrook.ca/uploads/1/news/2021/ai.jpg"
+    width: 1920
+    height: 1152
+    isCached: true
+
+secured: "zgttAbqXmYiR7y7t6CCqxvMZY9lMGNqKqZw3VurdNMlTbEjAz4fi2PNGWEX144fPAzbOQTO1BDCTkRmUFTk7M1ON2EvWkKuw2vnwtSK+I32gBQn0MVXmaCjXVesBnkgRa2OIlXE9+HIwTqIsIK5DQtvy2OlMdcfm4KzU3yqpXLnJpZm/ZNBFMl1jXR15FaxnCe03hhXokjN/HKS2+FlEkFFBQ+pK6JHZePpLEIZcLmE4ps6QENx9wmD1KEO4xHF6TsqewEx1odAHdgyZLOshtue9WZS78nXVzNEYmovTN+RB6wAm6wVwsaNzruR7L8GEjqSpmfgoRFoNhGYVQqtZafDfe6bwPzC6OmxyJ295pPA=;FkejayPSoeqgFbmDoRivLw=="
 ---
 

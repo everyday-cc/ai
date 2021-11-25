@@ -15,8 +15,8 @@ provider:
   domain: djournal.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/12/a12a1954-7d37-5490-aa80-d0bb0d17c216/619fa25c6fc1b.image.jpg?crop=1272%2C668%2C3%2C0&resize=1200%2C630&order=crop%2Cresize"
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "PaXJjM07mHsVdp8FZ+f88mq8xUm9BlrMHHB/jldcZx9Fmv+ght03+wSPt9NW53rhm/bFen5JG6oZdZ2Ms8TLmAxYfzm9dHgkRqeqi0FBCX2aiBPtM5pgzzDGgQr2dZD7SLLJFPE5SqjIFoEiQRFhG0axo6Ypvi4Ir/c+ODQdPxy/x5ae2mm1CPSNm9feN517jL0nZBEIl2A2pRQOvYyKJaLHMUZFIzdMlWnVKts7QGBhEiK8ycmpeA3MCSncR8LsVawoo86uHUf8qraH+yZXOF8EGLB0xIVz471IIgniGnTIb1xPP2m+9RCOSVWvPFs29acpXcRfXR4xzuPAmxJnZ+RJpex9BNwd39JYwQmW1Uo=;AeSZ0Wv2rjPyNEWA7LqgmA=="
+secured: "x/o9uE2VbBr4miCZJnx8uu6J04B4EWBZZZnpgOQZwfzken2syAZgQqpJQstYLS3wlu98AwYR4fA9zLAYZoVUm1liWS4PMpfoMM1T+m9305sgTOuqndD5p4KtoliO14wnBEjkeHHuhh4f1RVI9FNDqia/sr1vga8h9OxU/OO5oPR4ea+Zi6tRJ1Nx8W89KmXbMtxISOu2l6+dBul09tqJdUzMbXB/uReyJ8IWz/2kWptIe+pWUyM3ffwQ0JNug5BTlSWsxCrC60nSoW1i4AgwqWyNWgsbGsrmhZFv4shMpGqp056gcV25T4rc/x1VwzKUnsaI2ZC3lhWqwqk9Zo5r2tWdGg/52sXChwYZpkMdPFI=;8hkBSzZ2qdWlRxHYvRifmQ=="
 ---
 

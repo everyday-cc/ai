@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-gree
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381163.jpeg"
         width: 1240
         height: 826
+        isCached: true
+  - title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
+    excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
+    publishedDateTime: 2021-11-25T17:49:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-ponyai-approved-robotaxi-services-beijing-2337871"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--_2g2zTcw--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-25t054806z_1_lynxmpehao03v_rtroptp_3_baidu-apollo.jpg?itok=VlgxnKp1"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Baidu, Pony.ai Get Permits to Run China’s First Paid Robotaxi Services in Beijing"
     excerpt: "Chinese internet giant Baidu and self-driving tech startup Pony.ai received approval today to launch the country’s first commercial driverless taxi services in Beijing. The two companies are cleared to offer the new services in an area of 60 square kilometers in the Beijing Economic and Technological Development Area,"

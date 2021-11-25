@@ -7,7 +7,7 @@ originalUrl: "https://www.dailymail.co.uk/news/article-10227659/Facebook-knew-al
 webUrl: "https://www.washingtonpost.com/technology/2021/11/21/facebook-algorithm-biased-race/"
 type: article
 quality: 137
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/423/17423/6943972882_7b31832852_c_Hero_Main.jpg"
         width: 750
         height: 420
-        isCached: true
-  - title: "Here Are All the Civil Rights Changes Facebook Has Declined or Is Still Evaluating"
-    excerpt: "Meta, the social media conglomerate formerly known as Facebook, declined recommendations from a civil rights audit to direct user reports of voter interference to moderators and let users appeal voter interference content that they reported and was not taken down."
-    publishedDateTime: 2021-11-21T02:27:00Z
-    webUrl: "https://observer.com/2021/11/here-are-all-the-civil-rights-changes-facebook-has-declined-or-is-still-evaluating/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 18
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/11/GettyImages-1236232035.jpg?quality=80&#038;strip"
-        width: 5000
-        height: 3333
         isCached: true
 
 secured: "e0Agf8JzAUQFhJucayu360GqFPfrfkZwczd6J8G5puk4pPiKkig84CUdAxPBSH9oBjpIFrjtOnweNldjqpEXvVpNeOQJowcE2+VopFzHVV6G9DI2xqA+7hcIRjN+5ZsPnhCAlLTekfHr50N7aYigQYsm1EFrkm0SMPrTXHhMzadZ5R+A3hxcTAh7IDpUf/AfrUNDtXEPn8NzuYqwtGzWjLxJgBK0pCtWDm5My9X5t/lR2/yMeBCuJFp7EdMdUbNnIpZQzeYXHY5eMCOV1TuQrT2X06X7mj+OQMMhF4rXx3ai+m3fLLwM+3n7+A8FUw8G/hV3XnRPVZ8GuljFwt5NvFukneGHy+faN/0OOQZnxOc=;8Fx5Nniv5apFpJCd5IfTtg=="

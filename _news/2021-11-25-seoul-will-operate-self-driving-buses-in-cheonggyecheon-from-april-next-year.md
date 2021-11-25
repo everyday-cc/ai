@@ -24,6 +24,17 @@ images:
     height: 420
     isCached: true
 
+related:
+  - title: "Seoul will operate self-driving buses in Cheonggyecheon from April next year"
+    excerpt: "The Seoul government is planning to gradually increase commercial autonomous vehicle test areas such as Sangam, Gangnam, Yeouido, and Magok, and will operate self-driving buses in Cheonggyecheon from April next year."
+    publishedDateTime: 2021-11-25T17:17:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20211125/3861988.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 1
+
 secured: "y+56Tv6FOzW4em0FXfc90Pqv2JT0KSv5L4bzkp64uEFicaF92rhYCZWN30wTVbOCZjWpYWLsyU008eKrZ9N6frOkFqW+zsXj+Y+rHbtRhA3+x3qwaRNfe1rZZgmfBiVF+vPla1IGUJ3IzGKMjWqh6mx1CoivWdAOzxu89Aw1uFUGuvcdgQks9P6ZCrkdYZsEeK3WI3hfVCpsd5Wkq4siTYxFKZ/lGTeNFO6mAkdl7RjaaBDSjaNC1k8VWIC4W9ZFrAjEwaj8cIZADB5g/0ilb3f46mY+T+Sp0csR/qmFm0DNizAW0eqqeuH8O0DPipIzZop3pcAsbhLOYTnNAmdWux8Iv9IzecNjZzWFtI8Dm2VyfRaC7lCiQj0wI9TNuoo8EUhvRNp7AaNx2w1rWQDlc0vrmRhAOxjbfE0n6zYNpinJUtakdGpXOulITfCZyyHlHwUxzBHn7g4hDYR2ZutHrzOQpfe51ibohLZ5K7sQQN2qrk5YF+0dFDmI+xXBtpbjnXOyVlQG2QcFb8j4QgraXw==;GHetd/xP0QHeBw7RuynnKA=="
 ---
 

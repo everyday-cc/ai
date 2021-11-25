@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-24-tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2.md",
+      "title": "Tintra Shares Climb After Entering Artificial Intelligence JV With TMC2",
+      "excerpt": "By Jaime Llinares Taboada Shares in Tintra PLC rose Wednesday after it said it has entered into a joint venture with investment and research company",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
+      "originalUrl": "https://www.marketwatch.com/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
+      "publishedDateTime": "2021-11-24T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-artificial-intelligence-ai-in-hiv-and-aids-market.md",
+      "title": "Artificial Intelligence (AI) in HIV and AIDS Market",
+      "excerpt": "Portland United States Big Market Research newly added a research report on the Artificial Intelligence AI in HIV and AIDS Market which represents a study for the period from 2021 to 2026 The research study provides a near look at",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "originalUrl": "https://www.openpr.com/news/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub24296920_g.jpg",
+          "width": 727,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "publishedDateTime": "2021-11-23T23:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants.md",
+      "title": "Revenue NSW using AI to claw back overpaid and fraudulent COVID-19 business grants",
+      "excerpt": "Revenue NSW has assured the AI system it has implemented for compliance efforts is not anything like the federal government's bungled robo-debt system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants/",
+      "originalUrl": "https://www.zdnet.com/article/revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/revenue-nsw-using-ai-to-claw-back-overpaid-and-fraudulent-covid-19-business-grants/",
+      "publishedDateTime": "2021-11-23T22:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-healthcare-triangle-selected-by-monument-health-to-automate-document-processing.md",
       "title": "Healthcare Triangle selected by Monument Health to automate document processing",
       "excerpt": "Securekloud Ltd-backed Healthcare Triangle Inc., USA a leading provider of cloud and data transformation platform and solutions for healthcare and life sciences, has announced that Monument Health taps Healthcare Triangle to automate their document processing through readable.",
@@ -454,7 +591,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1046,127 +1183,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis.md",
-      "title": "Scaling for the future of ophthalmology with artificial intelligence powered by Azure Healthcare APIs",
-      "excerpt": "ZEISS partnered with Microsoft to power the ZEISS Medical Ecosystem with the Azure Healthcare APIs. Azure Healthcare APIs allow for data to be standardized and exchanged between the ZEISS medical centers and their devices across the world while leveraging Microsoft's geo-support for data residency requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
-      "originalUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-3-fintech-stocks-to-buy-on-any-dip.md",
-      "title": "3 Fintech Stocks To Buy on Any Dip",
-      "excerpt": "In light of this, fintech stocks should continue to see explosive growth in the post-pandemic world. Moreover, unlike the traditional financial industry, their asset-light structures could provide fintech stocks ample room to boost margins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
-      "originalUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
-      "publishedDateTime": "2021-11-23T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions.md",
-      "title": "BrainChip partners with MegaChips to develop edge-based AI solutions",
-      "excerpt": "The IP will be used by MegaChips to enhance and grow its technology positioning for next-generation, Edge-based AI solutions. A fabless semiconductor company based in Japan, MegaChips provides a variety of chip solutions and by partnering with BrainChip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions/242369/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions/242369/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/242369/akida.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

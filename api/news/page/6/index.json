@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-19-embracing-socratic-paradox-may-lead-to-more-reliable-predictions-from-ai-models.md",
+      "title": "Embracing Socratic Paradox May Lead to More Reliable Predictions from AI Models",
+      "excerpt": "Next-generation artificial intelligence (AI) models used in public health, IoT, and other critical applications will soon be able to make better decisions and more accurate predictions thanks to a bit of philosophical wisdom being instilled in them at Georgia Tech.",
+      "sourceUrl": null,
+      "webUrl": "https://rh.gatech.edu/news/653049/embracing-socratic-paradox-may-lead-more-reliable-predictions-ai-models",
+      "originalUrl": "https://rh.gatech.edu/news/653049/embracing-socratic-paradox-may-lead-more-reliable-predictions-ai-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://rh.gatech.edu/sites/default/files/styles/740x416/public/images/mercury/shutterstock_socrates-180402151_copy.jpeg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Georgia Tech News Center",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-next-gen-stats-decision-guide-predicting-fourth-down-conversion.md",
+      "title": "Next Gen Stats Decision Guide: Predicting fourth-down conversion",
+      "excerpt": "It is fourth-and-one on the Texans’ 36-yard line with 3:21 remaining on the clock in a tie game. Should the Colts’ head coach Frank Reich send out kicker Rodrigo Blankenship to attempt a 54-yard field goal or rely on his offense to convert a first down? Frank chose to go for it, leading to a […]",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/03/ML-5940-image003.png",
+          "width": 674,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T16:14:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-mediatek-leaps-into-flagship-phones-with-cutting-edge-4nm-dimensity-9000-chip.md",
+      "title": "MediaTek leaps into flagship phones with cutting-edge 4nm Dimensity 9000 chip",
+      "excerpt": "The Dimensity 9000 is MediaTek's first true flagship phone processor, and the world's first built using a 4nm process. The company talked to us about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mediatek-dimensity-9000.jpg",
+          "width": 1510,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp",
+      "publishedDateTime": "2021-11-18T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
       "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
       "excerpt": "These two stocks are built on artificial intelligence, and this foundation could enable them to redefine their space.",
@@ -1072,151 +1219,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-using-ai.md",
-      "title": "Grammarly raises $200M at a $13B valuation to make you an even better writer using AI",
-      "excerpt": "Grammarly, the popular auto-editing tool for writing, has raised $200 million in funding at a $13 billion valuation from new investors including Baillie Gifford and funds and accounts managed by BlackRock,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
-      "originalUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Grammarly-Abstract.jpg?w=1024",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/",
-      "publishedDateTime": "2021-11-17T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-why-conversational-ai-is-now-ready-for-prime-time.md",
-      "title": "Why conversational AI is now ready for prime time",
-      "excerpt": "Conversational artificial intelligence serves as the interface between a person and a computer, through which organizations can achieve engaging two-way interactions. The technology is usually associated with call centers and virtual assistants/chatbots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "originalUrl": "https://www.zdnet.com/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-conversational-ai-is-now-ready-for-prime-time/",
-      "publishedDateTime": "2021-11-17T16:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-computer-vision-in-agriculture.md",
-      "title": "Computer Vision in Agriculture",
-      "excerpt": "Modern Computer Vision for Agriculture In today’s fast-paced world of city living and stressful work-life imbalances, especially on the (hopefully) tail-end of a year of pandemic quarantine measures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/computer-vision-agriculture-exxactcorp",
-      "originalUrl": "https://www.linkedin.com/pulse/computer-vision-agriculture-exxactcorp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGLbK4229LvLg/article-cover_image-shrink_720_1280/0/1637252530672?e=1643241600&v=beta&t=7Suuvkau68tBE8YHvNNqyoIY-j0y7-cODF49bx0teME",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

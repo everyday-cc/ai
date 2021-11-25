@@ -311,6 +311,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 17
+  - title: "FintechNGR Hosts 2021 Edition of World Fintech Festival, Nigeria, with CBN and NITDA in Attendance"
+    excerpt: "On 11th of November 2021, the Fintech Association of Nigeria, (FintechNGR), hosted the World Fintech Festival (WFF), Nigeria, in partnership with the Singapore Fintech Festival (SFF). The event was one of the breakout events held by key FinTech hubs across the globe and was themed,"
+    publishedDateTime: 2021-11-25T17:55:00Z
+    webUrl: "https://www.proshareng.com/news/Fintech/FintechNGR-Hosts-2021-Edition-of-World-F/60145"
+    type: article
+    provider:
+      name: Nigeria
+      domain: proshareng.com
+    quality: 10
+    images:
+      - url: "https://www.proshareng.com/admin/upload/news/60145-proshare.jpg"
+        width: 2079
+        height: 1406
+        isCached: true
 
 secured: "SnF5VTDwbiG+JInHHkM8rNdz6I21yexoGbZG7z7nK2Nt2rUPEVSO19e6FqLTDx0KZFl1wVet5Uo57F7K4VKGhCOyiH6wfXFUjG3X1jiELAEKPcF4IzGLs9B5AmECsPq2uSVUqY1Qgs/fvdvjQUQQlBUAyT+GloEfDgl/hSUC6MY8rmfZ9tiCbirZKnww7mLDtfK843d2Gkiyjodcz363Bw69AXYFV97cKcyA+ZkwgmdrppQHSG+/dGgNR4krq/A3+0+drRDdWowpYrDK/U3wDxoyFMOEP9DLqL1eoIKOtCsGUmr/GH+REpXcQi7/ymj1Zn56zTXh51ct55FG1E1rOvsXz5x93dojmpB3WWwlXz6DnCfBGrVk+/ymRAxBaL5M6UW3Vm67fzJuPpV2T3n94bxuS+S1pnRJyHyvDtupgyKUMHUBgVMwo6D5xD3F/3eBXcIYL03urUjPr39oasoxCYt8h7gyncylcvpvB/NA9Umpj85vLLkZJEbmzwTGsag2wcSFf+xwivR36oi/9lvU8w==;KV7BGyogCBG94e9SCwcLXw=="
 ---

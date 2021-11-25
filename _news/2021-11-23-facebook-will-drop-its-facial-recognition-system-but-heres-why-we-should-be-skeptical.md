@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Here Are All the Civil Rights Changes Facebook Has Declined or Is Still Evaluating"
-    excerpt: "Meta, the social media conglomerate formerly known as Facebook, declined recommendations from a civil rights audit to direct user reports of voter interference to moderators and let users appeal voter interference content that they reported and was not taken down."
-    publishedDateTime: 2021-11-21T02:27:00Z
-    webUrl: "https://observer.com/2021/11/here-are-all-the-civil-rights-changes-facebook-has-declined-or-is-still-evaluating/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 18
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/11/GettyImages-1236232035.jpg?quality=80&#038;strip"
-        width: 5000
-        height: 3333
-        isCached: true
 
 secured: "gbhp2UhkaNlqrlZ4VTfzc9hP0zueAwT3sp208bTuWuDX/CSkX1bisbX1hOk5YTPZjCPi3yRRsQjiLRK7RV05zaMLn23PAmAyDWOGdoFtLU/hLzhfKOphJnHgLw7k+XhbQecNEBFb8mP8OWNynIxjnI3GFj4D6Hn9bjtNrGjquOIkBPf5JYe+IgAZ5Y3fEL2fmZac/YyOAvfy/8U93JL4pULJ4xx7hrPHWaEcrQNP7fU8go5znKz7fc4w57VZfvUDQrJQH7P2RAkP737CuqBwKD9zTyJZpqf9iVTWxmKTRe1wX8H+H+Kj2BE3kXhjEuKbay773Yarc2e2ceHTOzUrQ8p0es837EThg333c/5xihPSt28M4dUOugrqG4XRgNmUtIccfUkLrunsoUWl8narRNY8FXr4K/VL3EzHQC0Ek/SmZHTGzlqvAeFKCnxqSn/p2GWwzYv7jc4Rwd6CCIEnwWbLcgfrm0rR/ESO0SU+Mi50U/WXwPqDE1fU/qUTt/Ryg7rV0CTBCtjlqJyXXgyGnA==;kTJI0LKVZP0q99KFmN0Odw=="
 ---

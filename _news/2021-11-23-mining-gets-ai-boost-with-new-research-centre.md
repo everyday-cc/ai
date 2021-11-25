@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 795
         isCached: true
+  - title: "Top Five Ways Artificial Intelligence Is Improving Investment"
+    excerpt: "This saying could not be truer, especially in modern times, as Artificial Intelligence governs everything we do from search to virtual assistance."
+    publishedDateTime: 2021-11-25T14:49:00Z
+    webUrl: "https://www.insidermonkey.com/blog/top-five-ways-artificial-intelligence-is-improving-investment-1006088/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 37
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/30060223/adam-nowakowski-MFms-wkv3Ow-unsplash.jpg"
+        width: 1920
+        height: 2880
+        isCached: true
 
 secured: "m8wPeSvGt5Ix4S2vlVH+///dE4jFYi46PrvP6aqBqOo2Vqffl7ZC2Zlln7E0FDVi4BlYNgBrlg7C5PbPdv+y19E4urWi2P/Zq+38D1sttGrcpDRNjuZxV5lvtlBINcMk5c4YbGbbkAY4LzOrs+PJ1qdx6ZhuuuRu+Cc93pBWt6eejq/8+4pDtO0vB/uHRjYh0Uo/hgzSQypfS16ZOXygclZLcUG+s8MHjaUyG4m9jTR6ZQG/Uk1B4uqHxkeCDciOtCZB/JjHF2LU94XLambE4sC9bRZlj92Mb6EogKfI5afQXjG6JP8HPKyIT1C85AlmzT8lbiogO1s3KSXyKaCR/+f05DxhDVYlAwCaBrrmQo4=;MjB2mQVyIm7qhlVggsm6dw=="
 ---

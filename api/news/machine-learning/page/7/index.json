@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-10-07-databricks-acquires-bamboolib-creator-8080-labs.md",
-      "title": "Databricks acquires bamboolib creator 8080 Labs",
-      "excerpt": "Databricks has acquired 8080 Labs, creator of bamboolib, for an undisclosed sum. Bamboolib is a popular UI-based data exploration and transformation tool. The flagship data science solution also facilitates no-code workflows that seamlessly synchronize with the Python ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816297/itpro/2017/02/big_databigstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp",
-      "publishedDateTime": "2021-10-06T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-06-content-marketing-ai-and-machine-learning-have-arrived.md",
       "title": "Content Marketing A.I. And Machine Learning Have Arrived",
       "excerpt": "For the past five years, we have been paying attention to content and active engagement. Well, just like the others, it’s not something you “want to have” – it is very much a “need to have.” Therefore,",
@@ -1439,6 +1387,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-why-are-retailers-using-automl-for-offering-personalized-products.md",
+      "title": "Why Are Retailers Using AutoML for Offering Personalized Products?",
+      "excerpt": "The automated machine learning AutoML market is expected to accelerate at a monumental CAGR of 43 7 during the forecast period 2020 2030 on account of the increasing importance of predictive lead scoring spurring demand for efficient fraud detection solutions",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2411573/why-are-retailers-using-automl-for-offering-personalized",
+      "originalUrl": "https://www.openpr.com/news/2411573/why-are-retailers-using-automl-for-offering-personalized",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U929540614_g.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2411573/why-are-retailers-using-automl-for-offering-personalized",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411573/why-are-retailers-using-automl-for-offering-personalized",
+      "publishedDateTime": "2021-09-29T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

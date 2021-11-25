@@ -1,29 +1,33 @@
 ---
 category: news
 title: "HAI ROBOTICS boosts e-commerce fulfillment for cross-border warehouse in U.K."
-excerpt: "HAI ROBOTICS, a global leader in Autonomous Case-handling Robotic (ACR) system for warehouse logistics, announced that its first project in"
-publishedDateTime: 2021-11-25T11:19:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k--899196847.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k--899196847.html"
+excerpt: "HAI ROBOTICS, a global leader in Autonomous Case-handling Robotic (ACR) system for warehouse logistics, announced that its first project in the U.K. with Chinese cross-border warehouse operator WINIT a success as deliveries for holiday shopping parcels are about to knock on the door."
+publishedDateTime: 2021-11-25T11:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268"
+webUrl: "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268"
 type: article
-quality: 66
-heat: 66
-published: false
+quality: 96
+heat: 96
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1696407/WINIT_cross_border_ecommerce_warehouse_in_UK.jpg?p=facebook"
-    width: 799
-    height: 419
+  - url: "https://mma.prnewswire.com/media/1696407/WINIT_cross_border_ecommerce_warehouse_in_UK.jpg"
+    width: 400
+    height: 277
     isCached: true
 
-secured: "Hh3TJBW/+H9wpl+xt5iV9dUdMiKpK6p39N74zZ4GRUCZdIA05qwbzzFxW+JsadvNAoGMzOJ1RmS1pcH8ENlB1uqxWlSG6ajbSEnNl/aT6oaKmRjAw1EqlJ++FOTnIniJNk7hharnIjhacYNZgoI9tPHQu2X355fqdS7Lbl+ukcyUzDJn6/8zxf6mv+CDQLu5wtTLAEVxm2lRZ4y5Y8P6V7b8TVJLDJ/HjiA+fgFB7ma2jcl8NUUuLHROwQ2TBLzo4IM+1OAuMQAaiPBAhfayF9edn5e/jX2AQLq9+djll4xKQKeGhQhPkOE4TXbn7250lQqYAUeXKXwTkY54HY8eHX0hOXHpDGone/LlTWDOcGTqZQTnpqUeAuzKmzTPY92hSlf4AXnv5KiJPSEu3byceF3JTGrumPioxzVjnmx6hC0xVaNdFcRiQRq7BPbHFM3GLiX15TkXix0r7SiOOhuraf4pSRwGibO/3zkZxu3LtHCsNEq3voBcyVW+Y0G7hIDFV9weu1JFCPUFMEQwzN3GhA==;SCwMSqbWorJRJmS3/1zqJw=="
+secured: "MZpnz05gKUjkQnswQkZn0NW3yfAoClPFmj4NPtMhW8+G4/xCgGDtB3AjSEBP++eSI/lyCGI5MCGymgRifSaIGMPZzyPFsRvywq6EUDSavl6/Vcgjmjopj8zO/W8BQXHu2BFDVYa/yGCPhr4iRue9QOvyAqLXIU8zytSiDsIe9ZTFzOuOsLWG4ZagI5KgI0/hyxRgEdN281zaXg+U3RGt/8jw3UboHrbWygH1H84MaQGsQtvdW0sKs5ywvgFAVqg7D/w/VSvA6uv2lntcq6v/HP8KEAmxsV0QXk9hS03GPK/aZy3tpHbq9tZ6kLp9C/oTeaK270fU6oAQJTZv2VSKvAPHfnSwIgZRiM35jXyTtoI=;WaPFEQRbbYmI8yZE+XBGWA=="
 ---
 

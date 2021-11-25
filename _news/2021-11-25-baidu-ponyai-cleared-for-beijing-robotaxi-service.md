@@ -138,6 +138,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
+    excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
+    publishedDateTime: 2021-11-25T17:49:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-ponyai-approved-robotaxi-services-beijing-2337871"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--_2g2zTcw--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-25t054806z_1_lynxmpehao03v_rtroptp_3_baidu-apollo.jpg?itok=VlgxnKp1"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Baidu, Pony.ai Get Permits to Run China’s First Paid Robotaxi Services in Beijing"
     excerpt: "Chinese internet giant Baidu and self-driving tech startup Pony.ai received approval today to launch the country’s first commercial driverless taxi services in Beijing. The two companies are cleared to offer the new services in an area of 60 square kilometers in the Beijing Economic and Technological Development Area,"
     publishedDateTime: 2021-11-25T13:26:00Z
@@ -153,6 +167,6 @@ related:
         height: 480
         isCached: true
 
-secured: "rv//EKR7ciETu1kPR7gaPGP/HtoGEmKe1C+jz0yucV/OP35yd6in80jggLd+FngJiXhd5S6h/1KVjCS3vcQEI0VYhD2si2XK2PRGDrPLYOvax0tOfyWVTSAoES2NKKFYmk1eERydTV0aQp0YMbxz8Gu5uNhDN5AaJCBjGjdphossdFIxrkv2WsYRgp0K/K66ZcqTWPRdsqYQKqmrVWnO4dsAAFbjQjvLRXZ/lJJlviBbYEILw8kRMVtHT+3uk2UJIBZ+LVC+n3T2GVREccjYz1cKt+gOzJwntxaRA+vroZAyByYvC/LO/CcdVo0LZkZwmBuEMZFMLx9nGG975zsXJOokGiOZDpSecMxdgoccKjw=;GAMCO1/9VkHAqPN9z35ZHw=="
+secured: "v8ILyeYvGJSPg3bgyINkzcUeRuLuhZRaIEWVidHepxSACjmM+ghShxknGLGCkXbTN9yCYNRDVVySQDcpsKClJfPPuLFK89jrgwQtpNVha3TQYlmi/N0xOlzowgPDDagTS2ULJfZA1LkOSxzggsw17EWiZAds3sqpNvTY5x86jPj3kiaMnuY1MoXXFdVnW76B+tfVE/BcDHf3ETwPzHTEUz73lIdUXJll/85XklLQJwv53bd5mFpZrwehJ4tE/7F7qC/mMPuefV6G+wM25qVTaZRko9jQtBKEV/s97YMk6eT70W7Div0yhiACkeNoTmMVxeFJhgUHr43P7dtAYFkJPCD8RR4fBebKaDNmQjKslv8oJEu7jJqsYv08L1ANwawQ9sojlCJF6jjn/gkl2TFncd81aaHcNlXqb/8ua7sZlG/nq0BHk4XMm72l3VRxIA7D4ad+XBC6gQZ6OnmlEqliaTmQlU7k+EZN2HKbihcUl4Wb9Q357k/eSwxvm6KiLMyJejZZL81prpdN6Hy79Y/+Xw==;aBMy7kopnvZ0djqSbqmbxA=="
 ---
 

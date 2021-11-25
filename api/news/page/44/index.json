@@ -2,6 +2,143 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-10-21-ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z.md",
+      "title": "IBM Q3 report shows gains in cloud revenue, declines in IBM Z",
+      "excerpt": "IBM said total cloud and cognitive software revenue was $5.7 ... Global Technology services, or GTS, posted $6.2 billion in revenue, down 4.8%. Global Business Services revenue (which includes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
+      "publishedDateTime": "2021-10-20T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-at-mass-stem-week-kickoff-mit-raise-announces-day-of-ai.md",
+      "title": "At Mass STEM Week kickoff, MIT RAISE announces Day of AI",
+      "excerpt": "Leaders from MIT and Massachusetts state government kicked off the fourth annual Massachusetts STEM Week at the Media Lab. Speakers emphasized the importance of STEM education and career pathways for learners of all ages and backgrounds,",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/mass-stem-week-kickoff-mit-raise-announces-day-ai-1020",
+      "originalUrl": "https://news.mit.edu/2021/mass-stem-week-kickoff-mit-raise-announces-day-ai-1020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/Mass-STEM-Week-presentation-00.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-us-air-force-teams-with-uk-on-machine-learning-demo.md",
+      "title": "US Air Force teams with UK on machine learning demo",
+      "excerpt": "By sharing data and machine learning algorithms, the two countries were able to improve situational awareness for war fighters in a demonstration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/CmSkjK0LuGwWeGDLXmB8GBzgViI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RT4BUYK7P5BCHORIBCZAVETTLQ.jpeg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-how-financial-services-can-avoid-compliance-issues-in-the-cloud.md",
       "title": "How Financial Services Can Avoid Compliance Issues in the Cloud",
       "excerpt": "Machine learning. Machine learning algorithms that use federated learning techniques — which train algorithms across multiple decentralized edge services — can streamline cloud compliance by allowing financial institutions to exchange data insights ...",
@@ -1040,136 +1177,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-meituan-raises-10-billion-for-self-driving-cars-drone-delivery.md",
-      "title": "Meituan raises $10 billion for self-driving cars, drone delivery",
-      "excerpt": "It said it plans to spend the money it raised on research and development of self-driving vehicles ... including Tencent and Baidu, were fined for failing to disclose takeovers or investments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14334804",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14334804",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/d16b-p/picture/26088825/466277d4ab39974249cbd7b2cccd2952.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "asahi.com",
-        "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
-      "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
-      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:AMZN&p=5&t=52",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ADVFN",
-        "domain": "advfn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-vocal-about-local-can-india-have-its-own-facebook-google.md",
-      "title": "Vocal about local? Can India have its own Facebook & Google?",
-      "excerpt": "(1.87%), Baidu (1.1%), Yandex (0.54% ... It can afford to, simply because they got into the ‘self-reliance’ mode many years before the necessity of doing so finally dawned on us.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-75797074,imgsize-213606,width-1200,height-628,overlay-etbrandequity/vocal-about-local-can-india-have-its-own-facebook-google.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
-      "publishedDateTime": "2021-10-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

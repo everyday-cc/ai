@@ -2,6 +2,127 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-23-scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis.md",
+      "title": "Scaling for the future of ophthalmology with artificial intelligence powered by Azure Healthcare APIs",
+      "excerpt": "ZEISS partnered with Microsoft to power the ZEISS Medical Ecosystem with the Azure Healthcare APIs. Azure Healthcare APIs allow for data to be standardized and exchanged between the ZEISS medical centers and their devices across the world while leveraging Microsoft's geo-support for data residency requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
+      "originalUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-3-fintech-stocks-to-buy-on-any-dip.md",
+      "title": "3 Fintech Stocks To Buy on Any Dip",
+      "excerpt": "In light of this, fintech stocks should continue to see explosive growth in the post-pandemic world. Moreover, unlike the traditional financial industry, their asset-light structures could provide fintech stocks ample room to boost margins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
+      "originalUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
+      "publishedDateTime": "2021-11-23T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions.md",
+      "title": "BrainChip partners with MegaChips to develop edge-based AI solutions",
+      "excerpt": "The IP will be used by MegaChips to enhance and grow its technology positioning for next-generation, Edge-based AI solutions. A fabless semiconductor company based in Japan, MegaChips provides a variety of chip solutions and by partnering with BrainChip,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions/242369/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions/242369/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/242369/akida.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T01:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-chinas-ai-giant-sensetime-readies-hong-kong-ipo.md",
       "title": "China’s AI giant SenseTime readies Hong Kong IPO",
       "excerpt": "One of China’s biggest AI solution providers SenseTime is a step closer to its initial public offering. SenseTime has received regulatory approval to list on the Hong Kong Stock Exchange, according to media reports.",
@@ -103,7 +224,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -884,7 +1005,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1019,133 +1140,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem.md",
-      "title": "Jina AI Raises $30 Million to Scale Open-Source Neural Search Ecosystem",
-      "excerpt": "Jina AI, an open-source neural search company, today announced $30 million in Series A financing. Canaan Partners led the round with participation from new investors including Mango Capital, as well as existing partners GGV Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem-301429783.html",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem-1030994301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1692806/JinaLogo_Logo.jpg?p=facebook",
-          "width": 599,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-worldwide-ai-software-market-to-reach-62-billion-in-2022-gartner.md",
-      "title": "Worldwide AI software market to reach $62 billion in 2022 — Gartner",
-      "excerpt": "Worldwide artificial intelligence (AI) software revenue will total $62.5 billion in 2022, according to a new forecast from Gartner",
-      "sourceUrl": null,
-      "webUrl": "https://www.gartner.com/en/newsroom/press-releases/2021-11-22-gartner-forecasts-worldwide-artificial-intelligence-software-market-to-reach-62-billion-in-2022",
-      "originalUrl": "https://www.information-age.com/worldwide-artificial-intelligence-software-market-to-reach-62-billion-2022-gartner-123497799/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study.md",
-      "title": "AI, ML, cloud, 5G to be most important technologies in 2022: Study",
-      "excerpt": "Because of the global pandemic, technology leaders surveyed said in 2021 they accelerated adoption of cloud computing (60%), AI and ML (51%), and 5G (46%), among others",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/11/22/600x338/AI-kkGH--621x414@LiveMint_1637577527809.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html",
-      "publishedDateTime": "2021-11-22T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

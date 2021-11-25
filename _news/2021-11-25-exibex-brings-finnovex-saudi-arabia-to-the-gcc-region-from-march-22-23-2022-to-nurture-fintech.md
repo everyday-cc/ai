@@ -303,6 +303,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 17
+  - title: "FintechNGR Hosts 2021 Edition of World Fintech Festival, Nigeria, with CBN and NITDA in Attendance"
+    excerpt: "On 11th of November 2021, the Fintech Association of Nigeria, (FintechNGR), hosted the World Fintech Festival (WFF), Nigeria, in partnership with the Singapore Fintech Festival (SFF). The event was one of the breakout events held by key FinTech hubs across the globe and was themed,"
+    publishedDateTime: 2021-11-25T17:55:00Z
+    webUrl: "https://www.proshareng.com/news/Fintech/FintechNGR-Hosts-2021-Edition-of-World-F/60145"
+    type: article
+    provider:
+      name: Nigeria
+      domain: proshareng.com
+    quality: 10
+    images:
+      - url: "https://www.proshareng.com/admin/upload/news/60145-proshare.jpg"
+        width: 2079
+        height: 1406
+        isCached: true
   - title: "3 fintech trends that are transforming the future of business"
     excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
     publishedDateTime: 2021-11-23T14:09:00Z
@@ -313,6 +327,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "i4Sp4so0hoNaJPX9g0V21gCZt8zCAD7SRdyV2k1fop6efWqzULoU3sU8bsVhQrE+q3RstjBwuMP3zIBp0CL3kgOpt4rHUi+Jdo5lL5kDIu8TsxowOmL/ZFs28dnawM/BhklBXKtfkhHby7PBgmwQ0TCb4q2ZsFbYMuTxM/8dEbQ/yMQAtC4DuCjt04w69jkDqHkSM4zIvM2PmsEA+zxUf0suVBcisNHK0ncwRnRYYuxkFdMA6MVkL7RW3q1Xu9hDFw2LIX9BCbw6RChZNa9Kyqo+8qKPFH/QCxz1jSutmuVjQBPGu2j2jUNv6WKUgdL2I6ZA3j00x1IWoSGVSQMg6KJWa72v9VoRfXvgf1JqU9c=;v5RotoEAO4MKOzs/Cj/YKg=="
+secured: "lWu80zgeSSS1szKhq8Eq6zfuBUsL9JtePq5bM+lIv3JhYE30hH8OAFH+2nMCEFcULycTe7BKf1g2DDnmaULFj0bGUMKy/bUbYlsEr5vyRQOkRkZpojepxyUM8WZmR/zqHmZLG1Hgr+RhtztKPALNbeI1EPVxhlh8IW96ARFhYeC80eLixWUQTCubs9DVGu0uYnYjm8SvawxdozaFCv+kmrA+RR9AkstGT/chJoQruZy9IKWtdoATMksktk1enWFPRwldQhMXfV1mam/2PEkOamMHWt/7QVwAWgSQqzhHsLg9czMNGnBSJ9DZaO4jpP0pMbEp4ncTRl395g9r49qcU3dxhjrY865cVQITEB0dSeHXd+7L8WUow5x8G4FE1orOubRcc+Y3HCtne7RFCFF5ZPhW8+857216W2UioRkK87w7FizRrb+gHAS3W12gVf9oior1IZHeOPx7CODAC6AuAq9wxOFPOtA5iGiNEyNWEAOUKj+6MUi+WF6QexnwR1qgBRb/N1l0KxgOAXb28xdXMw==;oiie0bxJTPxqYgt8CkDwig=="
 ---
 

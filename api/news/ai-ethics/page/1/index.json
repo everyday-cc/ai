@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-25-un-agency-pushes-global-ai-ethics-norm-that-bans-use-of-the-technology-for-social-scoring-mass-surveillance-purposes.md",
+      "title": "UN agency pushes global AI ethics norm that bans use of the technology for social scoring, mass surveillance purposes",
+      "excerpt": "The UN agency’s recommendations come more than a month after China introduced its own set of ethical guidelines governing artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/fe601c41-01af-4be7-b8bf-7eb08ef44d95_54c6345e.jpg?itok=Dj8aHAAM&v=1637855057",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social",
+      "publishedDateTime": "2021-11-25T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-when-reddit-is-your-ai-language-instructor.md",
+      "title": "When Reddit Is Your AI Language Instructor",
+      "excerpt": "When it was asked about bringing a Polish friend, it replied, “Yes, but you can’t bring your own booze.” Mrksic, who is Serbian, admits that the system appeared to think people from Serbia were immature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEyMHEStSMhA/v1/1200x824.jpg",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-how-will-our-ethical-choices-be-determined-by-self-driving-cars.md",
       "title": "How Will Our Ethical Choices Be Determined by Self-Driving Cars?",
       "excerpt": "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms",
@@ -1335,95 +1439,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-thinking-through-the-ethics-of-new-techbefore-theres-a-problem.md",
-      "title": "Thinking Through the Ethics of New Tech…Before There’s a Problem",
-      "excerpt": "There’s a familiar pattern when a new technology is introduced: It grows rapidly, comes to permeate our lives, and only then does society begin to see and address the problems it creates. But is it possible to head off possible problems?",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
-      "originalUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/11/Nov21_09_80488495.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
-      "publishedDateTime": "2021-11-09T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "Google AI"
       ]
     }
   ],
