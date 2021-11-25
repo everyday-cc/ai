@@ -1,27 +1,41 @@
 ---
 category: news
-title: "Adidas Migrates SAP Environments To Amazon Web Services"
-excerpt: "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,"
-publishedDateTime: 2021-11-22T07:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services"
-webUrl: "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services"
-ampWebUrl: "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp"
+title: "adidas migrates SAP environments to AWS"
+excerpt: "AG has selected AWS as its preferred cloud provider for SAP workloads, officially migrating its SAP environment to AWS."
+publishedDateTime: 2021-11-25T01:49:00Z
+originalUrl: "https://vir.com.vn/adidas-migrates-sap-environments-to-aws-89468.html"
+webUrl: "https://vir.com.vn/adidas-migrates-sap-environments-to-aws-89468.html"
 type: article
-quality: 71
-heat: 141
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Vietnam Investment Reviev
+  domain: vir.com.vn
 
 topics:
-  - AI in Finance
-  - AI
   - AWS AI
+  - AI
+
+images:
+  - url: "https://vir.com.vn/stores/news_dataimages/bichthuy/112021/24/15/in_social/aws-cloud.jpg?randTime=1637809153"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
+  - title: "Adidas Migrates SAP Environments To Amazon Web Services"
+    excerpt: "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,"
+    publishedDateTime: 2021-11-22T07:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services"
+    ampWebUrl: "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 71
   - title: "AWS to be Cloud Provider for adidas SAP Workloads"
     excerpt: "( AMZN ) company, has been selected as the preferred cloud provider for SAP workloads by adidas AG, one of the largest sports brands in the world. With the implementation of the modern SAP S/4HANA platform,"
     publishedDateTime: 2021-11-22T10:19:00Z
@@ -72,20 +86,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "adidas migrates SAP environments to AWS"
-    excerpt: "AG has selected AWS as its preferred cloud provider for SAP workloads, officially migrating its SAP environment to AWS."
-    publishedDateTime: 2021-11-25T01:49:00Z
-    webUrl: "https://vir.com.vn/adidas-migrates-sap-environments-to-aws-89468.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 39
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/bichthuy/112021/24/15/in_social/aws-cloud.jpg?randTime=1637809153"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Richemont Selects Amazon Web Services as Preferred Cloud Provider"
     excerpt: "(NASDAQ: AMZN) company Amazon Web Services announced that Compagnie Financière Richemont SA is moving its entire enterprise IT infranstructure to WS. The company will close its European data centers and migrate additional data centers in Hong Kong and the United States to AWS by the end of 2022."
     publishedDateTime: 2021-11-24T17:26:00Z
@@ -105,6 +105,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "NrO6BFzqGi2+RNSk3Vf0SVoZQDVxtHfkhMm4M0mIywn6Nxp9fw5Zhy7APq7GyS+LyRhMbBUczfFNZkE7u+wXPjkxmHX06JWRYBPU/FfZvdG485Ymy+V4zAGDq80sA2rgUdbmTgvbTSimnTWucsD38J7DmHTccRsAPmsaZUI3spQjUknlXfD37cIw/Ixqv036QJHfZmfEOj0nKzbaEv4t1G4wOQhklBmMXVeaVzBr/OX4BDl4JEt0wAzHL+mob0qB34EYo79AChHuQ0tQP+n3B0KC/aHnOLvcq0YpCIn+UQ31GatlZ/ntIE5ULs/Uz0xz1ioPn9WPddmTlQcPxIGX5YhWVa6nEHaiunTLYispScs=;0dNFCftMO61qOqML5kf3fg=="
+secured: "AAeNr3ZYrE7PHaZ5BJ5IQoLs4a/t0M+ktzzXxtxmzuSvqgpm7SiL13JiZvWuYnLqO0HKsDQqr0hQAB0eeoYDv7Kp/Wv22KHzF2ADkxzcPKqf/shUOwTCqtKB+K60hh5OFWxXvofAkrdsmgIqLGnQsQBBloHEqfoBMDivKee3XNibMclMQCItMO45catExRgLnX0e4RHwUiScgcTMNqYPurDfk0esVeeVaVXXmGYXjst2eupFwaLyfZq2mLoSfWHuVLiN1P16ombyMzWNjbcuKVhIyopLQ7BN7Jub4LPlWrAIWyiLM+o2ZM62baR/a+D9Msnr7vGjNX9dA0vub9k4UDV1/UaBkKiF5lLghizCIvI=;UXyHvC10O8NlDhWMlMkMEA=="
 ---
 

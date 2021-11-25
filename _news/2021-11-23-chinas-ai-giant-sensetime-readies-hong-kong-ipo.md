@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/23/sensetime-ipo/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/23/sensetime-ipo/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "SenseTime Shows China's Prowess in Artificial Intelligence"
+    excerpt: "China has a number of pure-play Artificial Intelligence companies that other countries cannot replicate. Join StockQuest for my business and investing content on the future of companies."
+    publishedDateTime: 2021-11-24T10:47:00Z
+    webUrl: "https://www.linkedin.com/pulse/sensetime-shows-chinas-prowess-artificial-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEV5H9ZTEaPbQ/article-cover_image-shrink_720_1280/0/1637749614702?e=1643241600&v=beta&t=p8kPN155Ff57zWrBbysGHMxJ7sUQ2jn2wIA0u-itkB8"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Tip Sheet: Key Facts on China’s AI Behemoth SenseTime"
     excerpt: "This tip sheet was compiled by Caixin Insight from the Post Hearing Information Packs submitted Nov. 22 to the Hong Kong stock exchange by artificial intelligence (AI) giant SenseTime. 1. Key people TANG Xiao’ou,"
     publishedDateTime: 2021-11-23T21:42:00Z

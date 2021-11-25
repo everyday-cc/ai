@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Artificial Intelligence Is Revolutionizing Retail Market"
-    excerpt: "The digitization and technical progress, especially artificial intelligence (AI), are changing retail market in numerous industrial sectors, including tech, agriculture, studios, product testing, inspection,"
-    publishedDateTime: 2021-11-20T09:58:00Z
-    webUrl: "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/"
-    ampWebUrl: "https://ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/11/20/how-artificial-intelligence-is-revolutionizing-retail-market/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 72
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/11/rtrt.jpg"
-        width: 1600
-        height: 700
-        isCached: true
 
 secured: "jz140FBzBcDX+rCcb5qsr5lIP8k6RSBvpnJc1LxziYHk8dZQ9BQG8VbFqY3tM76d3ZX2fbQ4sXeancxNVqSXYWr2dyjM6+gj/+URRlir9jIAMbNuP0O4j7hHKGpvOfA+yalyCEQNEurvaji3SP8R5JWmXEYcR5INDuJQp32MdPQU5JWg0m9XHu+xLox4JTnhyoNYWJ/ob9+zyMgGlVLW081R7hkcIPeF1PJYWHFET5DcsJLamT+6xHcp7ZKwByRiDCRxSJ6YSLEYHo5m6exrJ3NcpEkjW9DxI29+PrP9OrxZ0UYoeOOOBQ2+sxzPJzXcmREvoQo974MWEMskjZjRVZ8X0HuOP8W/koiP1W8BFjK8RCoJWLiWbZyL3V2bI8YbsKcLf2wAJPmq8MQr6R3diPd3tJzW0gkch/iDaKbgMZ0KITHEccUB+BWMmMSrD++MIUPJG6gSSzlp+tE1WtGCI1ajWJWC8spyMPm1IbFP+5Jldl/M+9X49kT+5LYz/Dsv0YQr/P70DSzOdYl44AUsrg==;V7u+8WCpY0qjvLKzF+sPjQ=="
 ---

@@ -2,6 +2,125 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-16-sequoia-leads-10m-round-of-sg-voice-ai-startup.md",
+      "title": "Sequoia leads $10m round of SG voice AI startup",
+      "excerpt": "AI Rudder, a voice-focused AI startup based in Singapore, has raised US$10 million in a series A funding round co-led by Sequoia Capital India and Sequoia China Seed Fund. The round also saw participation from existing investors ZhenFund,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/jdcom-sea-president-joins-sg-cloud-kitchen-startup/next",
+      "originalUrl": "https://www.techinasia.com/jdcom-sea-president-joins-sg-cloud-kitchen-startup/next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-aws-claims-pivotal-role-in-creation-of-african-unicorns.md",
+      "title": "AWS claims pivotal role in creation of African unicorns",
+      "excerpt": "The Amazon subsidiary says it played an instrumental role in helping to create some of the African tech start-ups currently valued at over $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/raYAyModOkVqJ38N",
+      "originalUrl": "https://www.itweb.co.za/content/raYAyModOkVqJ38N",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/snUiZea6wjkkUVhhtf52mXdpqopiCkM3l-eRctL0yLTZTsqsetU2zehg3otSLYjGwilj4ZBWtHyIK3EmjInkLOjBKld-G79aVkXC=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/raYAyModOkVqJ38N",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/raYAyModOkVqJ38N",
+      "publishedDateTime": "2021-11-16T00:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-in-the-mena-region.md",
+      "title": "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region",
+      "excerpt": "Founded in 2008 by Jordanian entrepreneur Nour Al Hassan, Tarjama is the leading language technology & services provider in the MENA region, meeting the language and localization needs of a wide roster of corporates across the region's largest markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-amethis-completes-minority-investment-tarjama-leading-language-technology-/2021/11/16/9492714.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-amethis-completes-minority-investment-tarjama-leading-language-technology-/2021/11/16/9492714.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-improvising-claims-processing-for-the-insurance-industry-by-use-of-artificial-intelligence.md",
       "title": "Improvising claims processing for the insurance industry by use of artificial intelligence",
       "excerpt": "Eventually the use of artificial intelligence in the immediate years is expected to help claims organizations adopt a more proactive mindset",
@@ -1024,154 +1143,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-timekettle-wt2-edge-ai-translator-earbuds-review.md",
-      "title": "TimeKettle WT2 Edge AI Translator Earbuds review",
-      "excerpt": "Then you might well consider using something like the TimeKettle WT2 Edge AI Translator Earbuds, providing built-for-purpose simultaneous translation between forty languages. These aren’t a cheap option,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds",
-      "originalUrl": "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qXRN26kfpZaDgtppr6e3zC-1200-80.jpg",
-          "width": 1200,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of-servers-storage-ai-solutions-and-liquid-cooling.md",
-      "title": "Supermicro Accelerates Delivery of HPC Clusters for Total IT Solutions with a Broad Portfolio of Servers, Storage, AI Solutions, and Liquid Cooling",
-      "excerpt": "SAN JOSE, Calif., Nov. 15, 2021 /PRNewswire/ -- (SMCI), a global leader in high-performance computing, storage, networking solutions, and green computing technology, is expanding its HPC",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of/article_865cc186-9aa1-5a5b-b872-4ee8f9d03101.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of/article_865cc186-9aa1-5a5b-b872-4ee8f9d03101.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/3a/53a81a4e-073d-5103-880b-c68e54128eb4/6050c59ad4951.image.jpg?resize=1200%2C617",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-astera-labs-announces-memory-acceleration-to-clear-datacenter-aiml-bottlenecks.md",
-      "title": "Astera Labs announces memory acceleration to clear datacenter AI/ML bottlenecks",
-      "excerpt": "Astera Labs announced a memory accelerator platform based on the Compute Express Link (CXL) standard for datacenter devices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/",
-      "originalUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/amp/",
-      "publishedDateTime": "2021-11-15T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

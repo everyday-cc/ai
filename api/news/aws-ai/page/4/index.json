@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-20-ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs.md",
+      "title": "AI chatbot justifies sacrificing colonists to create a biological weapon...if it creates jobs",
+      "excerpt": "If doing so will create wealth, absolutely, at least according to one AI Ethics chatbot. The AI Ethicist, the Allen Institute for AI's Delphi, is a simple webform where you pose an ethical question and ask Delphi to ponder it. After some electronic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "originalUrl": "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "publishedDateTime": "2021-10-19T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds.md",
       "title": "Amazon SageMaker rated as top AI Service Cloud in analyst firm KuppingerCole’s evaluation of AI Service Clouds",
       "excerpt": "As more European organizations move from experimentation to production for AI projects, the importance of running these projects on a scalable, secure, and cost-efficient platform becomes clear. Building AI solutions from scratch is often beyond the capabilities of many organizations, especially because",
@@ -1315,41 +1368,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-484-during-2021-2027top-key-players-microsoft-aws-xero.md",
-      "title": "Artificial Intelligence for Accounting Market : Global Market to Grow at a CAGR of 48.4% During 2021-2027|Top key players: Microsoft, AWS, Xero",
-      "excerpt": "Different market tables and figures, pie charts, graphs split over easy-to-understand pages, and extensive analysis are included in this report on the Artificial Intelligence for Accounting Market. The global research report includes a strategic analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "originalUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "publishedDateTime": "2021-10-06T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -83,19 +83,14 @@ related:
         height: 539
         isCached: true
   - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
-    excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"
-    publishedDateTime: 2021-11-24T13:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-8b73b6f9e2d1423db2f17585122669b1"
+    excerpt: "The \"Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI) is transforming organizations,"
+    publishedDateTime: 2021-11-24T12:43:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_a1f92af9-88d4-50f0-8b26-3ddad630034e.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Daily News
+      domain: galvnews.com
+    quality: 1
 
 secured: "qcgX5wzqhBiAoBlk1JyV9kN0vOZfuUvDs/wfg9e8FfBQkmqHbTQ22usu3r23TWmaKZ2cwF7XuNxslJbKO9mk/YFvfQD9PTWquYTqyBRGWJVnmG3eotJG2c6xsuIYZ3a1bkFt/TbOtkhnNjOKRxXY3/PQRzcze/w4CedUJIpmfeEKznOqPf4oMfAp1FjdOkL5QHPj/loe55j1T1wJBPxNT3ZIewJ0rU/wSe0nhnjltc7lyMeONjrT0wijuR0DGklITbd2Izsngo26D4YcjpY6B489wBG0LTuDeMcdpc/KddYs+wo6cLWwtiuVxh8E6qX4jN33kMp8QKiPgjpUWIL0c4VTEhdBc6eGnhNBlIlmoyc=;JaMKDyHdzPjo2x+b/0DKEQ=="
 ---

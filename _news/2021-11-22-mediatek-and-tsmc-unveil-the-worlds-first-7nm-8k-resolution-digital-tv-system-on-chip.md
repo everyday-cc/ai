@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek unveils Pentonic 2000 chip for next-level 8K 120Hz TV viewing experience"
-    excerpt: "MediaTek today lifted the curtains on its new Pentonic smart TV family of processors with the introduction of the Pentonic 2000 chip."
-    publishedDateTime: 2021-11-20T09:52:00Z
-    webUrl: "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/"
-    ampWebUrl: "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Pentonic-2000-chipset-for-Smart-TV-featured-image.jpg"
-        width: 1200
-        height: 739
-        isCached: true
   - title: "MediaTek's Pentonic 2000 is the world's first 7nm TV chip, decodes 8K@120Hz"
     excerpt: "After announcing its flagship Dimensity 9000 SoC for smartphones, the company is now announcing its flagship TV chipset - the Pentonic 2000. And it appears that this silicon is the world's first in many aspects."
     publishedDateTime: 2021-11-21T05:44:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://www.pinkvilla.com/files/styles/ampfront/public/alia_neetu_jug_jugg_jeeyo_main.jpg?itok=QSHfsmA_"
         width: 375
         height: 240
-        isCached: true
-  - title: "MediaTek unveils first 7 nm 8 K TV chip"
-    excerpt: "MediaTek has introduced what it claims is the world’s first 7 nm 8 K digital TV system-on-chip (SoC) build using Taiwan Semiconductor Manufacturing Corp.’s (TSMC's) manufacturing process. Called the Pentonic 2000,"
-    publishedDateTime: 2021-11-23T13:19:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17454/mediatek-unveils-first-7-nm-8-k-tv-chip"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/454/17454/penonic_2000.jpg"
-        width: 752
-        height: 423
         isCached: true
   - title: "MediaTek, TSMC unveil first 7nm 8K digital TV system-on-chip"
     excerpt: "MediaTek and TSMC have unveiled what they call the world's first 7-nanometer 8K digital TV flagship system-on-chip (SoC), the MediaTek Pentonic 2000. The MediaTek Pentonic 2000 features artificial intelligence (AI) engines,"

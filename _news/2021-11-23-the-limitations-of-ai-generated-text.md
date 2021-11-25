@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-11-limitations-ai-generated-text.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-limitations-ai-generated-text.amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore.com
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "China unleashes might of AI on next-generation supercomputer to meet demand for more power"
-    excerpt: "Supercomputer recorded a 75,839-fold boost in handling data for machine learning after a breakthrough in memory management."
-    publishedDateTime: 2021-11-20T09:59:00Z
-    webUrl: "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet"
-    ampWebUrl: "https://amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet"
+  - title: "The ethics of synthetic voices created by artificial intelligence."
+    excerpt: "Synthetic Voices like Alexa and Siri are used extensively in smart speakers as well as in car Satnavs and much more. Now, the people at the Adthos Creative Studio have taken the whole concept to a much higher plane offering broadcast quality audio ads using AI generated voice technology."
+    publishedDateTime: 2021-11-22T16:31:00Z
+    webUrl: "https://radioinfo.com.au/news/the-ethics-of-synthetic-voices-created-by-artificial-intelligence/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 79
+      name: Radio Info
+      domain: radioinfo.com.au
+    quality: 56
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/20/674ecbd8-48f6-11ec-88c2-0bacf4eabd5b_image_hires_095916.jpg?itok=hhkvRXgA&v=1637373565"
-        width: 1200
-        height: 630
+      - url: "https://radioinfo.com.au/wp-content/uploads/2021/04/ListeningAudio_0.jpg"
+        width: 525
+        height: 385
         isCached: true
   - title: "Raising The Bar With The Next Generation Of AI For Chip Design"
     excerpt: "Using a reinforcement learning (RL) based approach, similar to the one that beat the world’s GO champion way back in 2016, Samsung announced that they now have a chip back from their factory that was optimized by the Synopsys DSO.ai platform we discussed ..."

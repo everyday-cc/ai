@@ -2,6 +2,144 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-11-12-googles-self-supervised-ai-model-can-help-improve-neural-networks-in-medical-research.md",
+      "title": "Google’s self-supervised AI model can help improve neural networks in medical research",
+      "excerpt": "The key postulate of self supervised machine learning models is that they are trained on unlabelled data, thereby enabling application of AI in niche areas where collection of clearly defined data sets may be difficult,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research-11636706824623.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research-11636706824623.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/12/600x338/6829affde82f48e5b57be0ef8b730720-c93d3f78e87f4e7da936d62d7e48ef21-0_1623317195889_1636707284807.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research/amp-11636706824623.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research/amp-11636706824623.html",
+      "publishedDateTime": "2021-11-12T00:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-carnegie-mellon-university-cmu-invites-students-to-explore-artificial-intelligence-with-opening-of-jpmorgan-chase-co-ai-maker-space.md",
+      "title": "Carnegie Mellon University: CMU Invites Students To Explore Artificial Intelligence With Opening of JPMorgan Chase & Co. AI Maker Space",
+      "excerpt": "Reid Simmons has stopped trying to guess what students will come up with next.As head of Carnegie Mellon University's undergraduate program in artificial intelligence, Simmons watches what some of the most creative minds are doing with AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmu.edu/news/stories/archives/2021/november/jp-morgan-ai-maker-space.html",
+      "originalUrl": "https://indiaeducationdiary.in/carnegie-mellon-university-cmu-invites-students-to-explore-artificial-intelligence-with-opening-of-jpmorgan-chase-co-ai-maker-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.cmu.edu/news/stories/archives/2021/november/images/jp-morgan-ai-maker-space-900x600-02-min.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T00:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning.md",
+      "title": "Google Research changes the game for medical imaging with self-supervised learning",
+      "excerpt": "Medical training data has a great cost, which makes it difficult to use deep learning for many apps. Google Research suggests a new solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/",
+      "originalUrl": "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/shutterstock_734378278-e1636485612226.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/google-research-changes-the-game-for-medical-imaging-with-self-supervised-learning/amp/",
+      "publishedDateTime": "2021-11-11T21:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-role-of-technology-in-healthcare-and-how-robotics-has-transformed-the-ever-evolving-field-of-orthopaedics.md",
       "title": "Role of technology in healthcare and how robotics has transformed the ever-evolving field of Orthopaedics",
       "excerpt": "Dr Miten Sheth, Orthopaedic Knee Surgeon & Director, The Knee Clinic highlights the role of technology in orthopaedics",
@@ -1037,164 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers.md",
-      "title": "FlyFin offers AI-based tax app aimed at freelancers, gig workers",
-      "excerpt": "This new AI tax engine replaces the self-employed and ... A desktop version is also available for Macs with an Apple M1 chip. Android users can download FlyFin’s app here.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
-      "originalUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/cryptocurrency-tax.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
-      "publishedDateTime": "2021-11-11T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-this-company-tapped-ai-for-its-websiteand-landed-in-court.md",
-      "title": "This Company Tapped AI for Its Website—and Landed in Court",
-      "excerpt": "Under pressure to make their sites accessible to visually impaired users, firms turn to software. But advocates say the tech isn't always up to the task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/",
-      "originalUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/618aed06de1cbf7845f548f0/master/pass/business-ai-1322406612.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/company-tapped-ai-website-landed-court/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/company-tapped-ai-website-landed-court/amp",
-      "publishedDateTime": "2021-11-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets.md",
-      "title": "Why AI Teams Need A Unified Data Format For Machine Learning Datasets",
-      "excerpt": "Data is the most important commodity today, yet we are still processing data in primitive ways. We need to break free of conventional tools and techniques for data processing. The Rise Of Unstructured Data: The Main Difference Between Structured And Unstructured data Structured data represented in rows and columns while unstructured data includes images,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618bcb2c313ebe533783e35f%2F0x0.jpg%3FcropX1%3D438%26cropX2%3D3217%26cropY1%3D0%26cropY2%3D1563",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/11/why-ai-teams-need-a-unified-data-format-for-machine-learning-datasets/amp/",
-      "publishedDateTime": "2021-11-11T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

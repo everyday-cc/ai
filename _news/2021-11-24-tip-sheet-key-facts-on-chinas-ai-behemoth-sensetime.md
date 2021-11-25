@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "SenseTime Shows China's Prowess in Artificial Intelligence"
+    excerpt: "China has a number of pure-play Artificial Intelligence companies that other countries cannot replicate. Join StockQuest for my business and investing content on the future of companies."
+    publishedDateTime: 2021-11-24T10:47:00Z
+    webUrl: "https://www.linkedin.com/pulse/sensetime-shows-chinas-prowess-artificial-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEV5H9ZTEaPbQ/article-cover_image-shrink_720_1280/0/1637749614702?e=1643241600&v=beta&t=p8kPN155Ff57zWrBbysGHMxJ7sUQ2jn2wIA0u-itkB8"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "SenseTime approved for potential $2B facial recognition IPO in Hong Kong"
     excerpt: "Despite continued momentum including impressive accuracy in NIST’s facial recognition tests, the company lost US$579 million in the first half of 2021."
     publishedDateTime: 2021-11-22T22:26:00Z

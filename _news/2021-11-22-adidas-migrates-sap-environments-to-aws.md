@@ -1,30 +1,22 @@
 ---
 category: news
-title: "adidas Migrates SAP Environments to AWS"
-excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
-publishedDateTime: 2021-11-22T04:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
-ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
+title: "Adidas migrates SAP Environments to AWS"
+excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
+publishedDateTime: 2021-11-22T13:46:00Z
+originalUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
+webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Adidas Migrates SAP Environments To Amazon Web Services"
@@ -88,6 +80,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "adidas migrates SAP environments to AWS"
+    excerpt: "AG has selected AWS as its preferred cloud provider for SAP workloads, officially migrating its SAP environment to AWS."
+    publishedDateTime: 2021-11-25T01:49:00Z
+    webUrl: "https://vir.com.vn/adidas-migrates-sap-environments-to-aws-89468.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 39
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/bichthuy/112021/24/15/in_social/aws-cloud.jpg?randTime=1637809153"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Richemont Selects Amazon Web Services as Preferred Cloud Provider"
     excerpt: "(NASDAQ: AMZN) company Amazon Web Services announced that Compagnie Financière Richemont SA is moving its entire enterprise IT infranstructure to WS. The company will close its European data centers and migrate additional data centers in Hong Kong and the United States to AWS by the end of 2022."
     publishedDateTime: 2021-11-24T17:26:00Z
@@ -98,6 +104,6 @@ related:
       domain: financialbuzz.com
     quality: 21
 
-secured: "QhkaD1o715nLTs/PgXFyzW585QOkUvUzcU5r4T6XXymH7C0VbNnSxeS0xL2Cmd5GTN7uS9qW8nKy3Xz0wts0NvBKgeH30RhHcufUi1vDyvlxZlI5s/Ewti3XeINv+zbJmX9WRZaSjb2sZ612KV6wKgHvcUST9iZh7kQ2whWScd3qyIMefRXR3xKcBagtBuJvDqi9qZHtLGj92FG3pBqNUD+0v/zh97T2zGnySNF1EoSLbbJADOtJmEBk1SPkJt8C+5MRRWn1/ZWYCbvt5fGa/01AYRUWHFj4F6/WZqLULIeSQV9aZOd24hHf1F9oQXvq52o7FY1mR8S2YHWQ/dkdB+RwhuEz8mogn9nUvbJcvjI=;3dWhh5mgLNqNMezocJ+WMQ=="
+secured: "OyRYsmyWaN86kfxlYVaz/lmhql1BirSlBsOQYwxlp2PMDRzpwS6T7W4ptv7LOfEY12lhP4bjvcyd4ywMh1W+ggav+op18js2k0/StlSTPevnxZ2YHAe0LXsLwXwE4gL0wMzk+IGb1gE1Ke/58yApp7D9zbvtECDeiu5hg9CMHf8j/5Rlc+P5gCvlfaA2aIC5HqYCNmQMiq8qqYzH9WVmIbHTAeFNErBXJK48Bvvqf94Ckbj12tVEZBtNxefGpXTOM/N+nXWk5mzCjGHrCNQwdpWcHlY+jttVUvBIsj9JMAR007KQhJFE1ogbxUgvRLTCswS6uwH1Gg7Tw3aH89BQdML3KoHBFlLklBm/KqGB0q0=;tGLbJ7pDpfUDExujnKkFBA=="
 ---
 
