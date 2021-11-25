@@ -55,13 +55,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/ada/</loc>
+    <loc>https://everyday.cc/ai/company/deeplearning.ai/</loc>
     <lastmod>2021-11-22T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/deeplearning.ai/</loc>
+    <loc>https://everyday.cc/ai/company/ada/</loc>
     <lastmod>2021-11-22T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -283,6 +283,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://everyday.cc/ai/company/skydio/</loc>
+    <lastmod>2021-11-22T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://everyday.cc/ai/company/aidoc/</loc>
     <lastmod>2021-11-22T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -296,12 +302,6 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/owkin/</loc>
-    <lastmod>2021-11-22T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/company/skydio/</loc>
     <lastmod>2021-11-22T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
