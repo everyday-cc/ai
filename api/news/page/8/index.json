@@ -2,6 +2,153 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-18-aws-makes-ai-and-machine-learning-tangible-with-first-major-art-debut-at-smithsonian.md",
+      "title": "AWS makes AI and machine learning tangible with first major art debut at Smithsonian",
+      "excerpt": "It would then use AI and machine learning developed by Swami Sivasubramanian (left), vice president of Amazon Machine Learning at AWS, and his team, to detect the word for the future and determine its sentiment.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/11/17/aws-makes-ai-ml-tangible-first-major-art-commission-debut-smithsonian/",
+      "originalUrl": "https://siliconangle.com/2021/11/17/aws-makes-ai-ml-tangible-first-major-art-commission-debut-smithsonian/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Swami-and-Suchi-version-2-Me-You.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-google-launches-bot-in-a-box-to-nudge-along-conversational-ai.md",
+      "title": "Google launches Bot-in-a-Box to nudge along conversational AI",
+      "excerpt": "The new feature from Google Cloud makes it easier for businesses to launch chatbots using existing customer FAQs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
+      "originalUrl": "https://www.zdnet.com/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3d1e5183f434477463f6546bcdf2e2e2eb8717ac/2021/06/28/554d89ed-c8e3-43bf-b77e-354982cb4942/thumb.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
+      "publishedDateTime": "2021-11-17T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics.md",
+      "title": "Machina Labs emerges from stealth with $16M raised for on-demand manufacturing robotics",
+      "excerpt": "Machina Labs today announced a $14 million Series A for its robotics and AI-based manufacturing. The round, led by Endeavors and featuring Congruent Ventures and Embark Ventures, brings the Los Angeles firm’s total funding to $16.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/",
+      "originalUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-16-at-1.42.34-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/amp/",
+      "publishedDateTime": "2021-11-17T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-canons-450-camera-uses-facial-recognition-to-automatically-take-photos.md",
       "title": "Canon's £450 camera uses facial recognition to automatically take photos",
       "excerpt": "The PowerShot PX, which is released in the UK and Europe today for £450 (€500), is like having 'your own personal photographer', but scaled down into a five-inch-tall device.",
@@ -1004,137 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-tmr.md",
-      "title": "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR",
-      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "originalUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub17570915_g.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "publishedDateTime": "2021-11-17T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-robotics-powered-by-cloud-to-pave-way-to-smart-robots.md",
-      "title": "Robotics Powered by Cloud to Pave Way to Smart Robots",
-      "excerpt": "Cloud computing technologies is poised to become pivot for next-gen robotics technologies. The intersection of robotics with cloud computing hardware, with deep learning technologies, IoT, and big data chipping in,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/",
-      "originalUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/11/Cloud-Robotics-Market.jpg",
-          "width": 1336,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/amp/",
-      "publishedDateTime": "2021-11-16T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-singapore-fintech-festival-2021-sees-33-year-on-year-growth-in-attendees.md",
-      "title": "Singapore FinTech Festival 2021 sees 33% year-on-year growth in attendees",
-      "excerpt": "The sixth edition of the Singapore FinTech Festival (SFF) with the theme \"Web 3.0 and its impact on financial services\" concluded on 12 November 2021. The week-long event attracted 60,000 attendees, representing a 33% year-on-year growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/11/17/9494131.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/11/17/9494131.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1690555/0811B106.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T22:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

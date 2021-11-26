@@ -129,20 +129,6 @@ related:
         width: 960
         height: 539
         isCached: true
-  - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
-    excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"
-    publishedDateTime: 2021-11-24T13:43:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-8b73b6f9e2d1423db2f17585122669b1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Artificial Neural Networks Market 2021 Industry Opportunities, Top Manufacturers Profiles and Regional Analysis by 2027"
     excerpt: "MarketQuest.biz has released a Global Artificial Neural Networks Market study that forecasts fast growth from 2021 through 2027. The study estimates market share in terms of volume for"
     publishedDateTime: 2021-11-24T17:09:00Z
@@ -157,6 +143,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
+    excerpt: "The \"Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI) is transforming organizations,"
+    publishedDateTime: 2021-11-24T12:43:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_a1f92af9-88d4-50f0-8b26-3ddad630034e.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 1
 
 secured: "UiSI2LMjnZGg1ttXYM2W3kACNtaqTfCE+6s/yyXxCLIMrJ2u9wGDfdGCTX/1BldYF+GaqS/bHA33r4jcR8xeKC7AGK3rTdyPAurrWHEdulD/wfQbOxerSNyVqLcdYknNgFdUPf7ikKr+TgAQNRqjBerfxpuPPa3JDwO0d/Kf5kDRSa4ec3Nou1YDzzitwNzvgYX3z+WKS/EBQ8XVxjtOm3sP0sCPZ9qVOYiHccXBFAHCPKcq5QLzInFD4xPJGnclVgci8S2ShRKdXaaf7i119IhmU3wo5hSK3fh2Xj/rmzmykbWMZAaPs2RPjezigRqDFo0HeyOyvG4jXUSRNakW/m9WPORYYkpV/UOaXHgLJ28=;dGoKCGf7Pdx+AQEPrOe+/g=="
 ---

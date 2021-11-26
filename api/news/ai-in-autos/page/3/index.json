@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-07-the-ceo-is-a-man-how-chinese-artificial-intelligence-perpetuates-gender-biases.md",
+      "title": "The ‘CEO’ is a man: how Chinese artificial intelligence perpetuates gender biases",
+      "excerpt": "For example, on major Chinese search engines like Baidu, Sogou and 360, words like “engineer”, “CEO” or “scientist” returned mostly images of men. Furthermore, searching keywords like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/09/30/the-ceo-is-a-man-how-chinese-artificial-intelligence-perpetuates-gender-biases",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/09/30/the-ceo-is-a-man-how-chinese-artificial-intelligence-perpetuates-gender-biases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/09/30/1313657.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-06T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-driving-business-benefits-with-intelligent-automation.md",
       "title": "Driving business benefits with intelligent automation",
       "excerpt": "For instance, at EY GDS Enablement Services, we are using intelligent automation solutions by combining RPA, digital and artificial intelligence (AI ... With chatbots and self-help, access to many services is now available 24/7. Added to this, we are ...",
@@ -1395,40 +1438,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-ex-wall-street-banker-hopes-to-spearhead-reverse-innovation-in-india.md",
-      "title": "Ex-Wall Street banker hopes to spearhead “reverse innovation” in India",
-      "excerpt": "Implementation of new business models are now driven by technologies such as Artificial Intelligence and Machine Learning, Invest India reported. In an exclusive interview with Jaya Vaidhyanathan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/",
-      "originalUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ciol.com/ex-wall-street-banker-hopes-spearhead/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/ex-wall-street-banker-hopes-spearhead/amp/",
-      "publishedDateTime": "2021-11-01T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

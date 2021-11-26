@@ -56,20 +56,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Humanity in the Age of AI"
-    excerpt: "The Age of AI” does not break new ground on AI but it raises key questions about how AI will change the way we live and work, and it is clear that we are just barely scratching the surface of what AI means for society and humanity."
-    publishedDateTime: 2021-11-21T14:24:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/humanity-in-the-age-of-ai"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 39
-    images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/6199141097b981f8c67fadef_AdobeStock_339380253.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The Impact of Artificial Intelligence on Branding"
     excerpt: "According to Oxford, AI technologies are expected to contribute $15 billion to the world economy by 2030.  Today’s big companies like Amazon, Netflix, Google, Facebook, Uber have been using artificial intelligence as a part of their branding and marketing strategies,"
     publishedDateTime: 2021-11-22T22:06:00Z

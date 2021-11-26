@@ -2,6 +2,144 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-10-29-ai-selects-promising-viral-vectors-for-gene-therapy.md",
+      "title": "AI selects promising viral vectors for gene therapy",
+      "excerpt": "US researchers have developed a computer platform that decides which viral vectors are best suited to delivering gene therapy to the retina",
+      "sourceUrl": null,
+      "webUrl": "https://www.aop.org.uk/ot/science-and-vision/research/2021/10/28/ai-selects-promising-viral-vectors-for-gene-therapy",
+      "originalUrl": "https://www.aop.org.uk/ot/science-and-vision/research/2021/10/28/ai-selects-promising-viral-vectors-for-gene-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aop.org.uk/-/media/ot/content-images-post-image-optimisation/2021/science-and-research/research/bluedna.jpg?rev=742f631c269645dc8c97a3abd72b2a7c",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Association of Optometrists",
+        "domain": "aop.org.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-chinas-baidu-is-turning-production-vehicles-into-robotaxis-with-its-factory-installed-autonomous-driving-system.md",
+      "title": "China's Baidu is Turning Production Vehicles into Robotaxis With its Factory-installed Autonomous Driving System",
+      "excerpt": "Chinese technology giant Baidu Inc. is developing an entire mobility ecosystem in China around self-driving vehicles as part of its Apollo autonomous driving platform. To support its plans, the company is working with China’s leading automakers to install its autonomous driving hardware during production,",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/4960/China’s-Baidu-is-Turning-Production-Vehicles-into-Robotaxis-With-its-Factory-installed-Autonomous-Driving-System",
+      "originalUrl": "https://www.futurecar.com/4960/China’s-Baidu-is-Turning-Production-Vehicles-into-Robotaxis-With-its-Factory-installed-Autonomous-Driving-System",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202110/28/l_617aec006d191.jpeg",
+          "width": 799,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-facebook-is-expanding-smart-glasses-research-into-cars-via-bmw.md",
+      "title": "Facebook is expanding smart glasses research into cars via BMW",
+      "excerpt": "Facebook's still trying to make AR-enabled, AI-assisted smart glasses happen. The company announced plans to field-test its camera and sensor-studded Project Aria glasses, designed for research on future AR glasses in more places, and even in cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
+      "originalUrl": "https://www.cnet.com/tech/computing/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
+      "publishedDateTime": "2021-10-28T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-us-leadership-in-artificial-intelligence-is-still-possible.md",
       "title": "US Leadership in Artificial Intelligence is Still Possible",
       "excerpt": "What does it mean to be first in developing applications of artificial intelligence (AI), and does it matter? In a recent interview, the former Chief Software Officer of the U.S. Air Force Nicolas Chaillan stated that he resigned in part because he ...",
@@ -1025,145 +1163,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-aira-matrix-collaborates-with-mpuh-and-gic-to-develop-ai-based-solutions-for-prostate-cancer-care.md",
-      "title": "AIRA Matrix collaborates with MPUH and GIC to develop AI based solutions for prostate cancer care",
-      "excerpt": "AI will help doctors in accurate risk stratification and staging to guide selection of the right therapy in patients of prostate cancer",
-      "sourceUrl": null,
-      "webUrl": "https://www.expresshealthcare.in/news/aira-matrix-collaborates-with-mpuh-and-gic-to-develop-ai-based-solutions-for-prostate-cancer-care/431873/",
-      "originalUrl": "https://www.expresshealthcare.in/news/aira-matrix-collaborates-with-mpuh-and-gic-to-develop-ai-based-solutions-for-prostate-cancer-care/431873/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/03/13170341/GettyImages-1159401925-e1584099401774.jpg",
-          "width": 888,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/aira-matrix-collaborates-with-mpuh-and-gic-to-develop-ai-based-solutions-for-prostate-cancer-care/431873/",
-      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/aira-matrix-collaborates-with-mpuh-and-gic-to-develop-ai-based-solutions-for-prostate-cancer-care/431873/",
-      "publishedDateTime": "2021-10-28T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "expresshealthcare",
-        "domain": "expresshealthcare.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-ai-startup-abacusai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models.md",
-      "title": "AI startup Abacus.ai snags $50 million Series C to advance hybrid deep learning models",
-      "excerpt": "Read More Abacus.AI, the two-year-old startup that is developing \"hybrid\" neural network forms of deep learning, on Wednesday announced the company has obtained $50 million in venture capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/359f488c1d4da85361cfa341b0979ad30669fffc/2021/10/27/c21380a5-f9f3-4b99-b069-753e102e4472/abacus-team-photo-2021.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-snags-50-million-series-c-to-advance-hybrid-deep-learning-models/",
-      "publishedDateTime": "2021-10-28T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats.md",
-      "title": "NetWitness® Detect AI: Cloud-native machine learning for rapid detection of sophisticated threats",
-      "excerpt": "Home video setup: What you need to look and sound professional Artificial intelligence ethics policy Checklist: Onboarding and offboarding IT staff BYOD approval form",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/netwitness-detect-ai-cloud-native-machine-learning-for-rapid-detection-of-sophisticated-threats/",
-      "publishedDateTime": "2021-10-28T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

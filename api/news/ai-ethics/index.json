@@ -53,7 +53,7 @@
       "originalUrl": "https://www.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -364,6 +364,58 @@
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-nyc-bill-to-rein-in-ai-hiring-tools-looks-like-it-was-meant-to-backfire.md",
+      "title": "NYC bill to rein in AI hiring tools looks like it was meant to backfire",
+      "excerpt": "New York's passed a bill to purportedly curb the use of biased AI software for hiring, but one glance at the document shows it's feckless.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/nyc-bill-rein-in-ai-hiring-tools-looks-like-was-meant-to-backfire",
+      "originalUrl": "https://thenextweb.com/news/nyc-bill-rein-in-ai-hiring-tools-looks-like-was-meant-to-backfire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Frobots-work.jpg&signature=ea7f72b96f4da757f5cf14c1969e9bad",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1387,49 +1439,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-artificial-intelligence-huge-potential-if-ethical-risks-are-addressed.md",
-      "title": "Artificial intelligence: huge potential if ethical risks are addressed",
-      "excerpt": "This article is brought to you in association with the European Parliament. Artificial Intelligence regulation should focus on the level of risk associated with specific uses, a",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/",
-      "originalUrl": "https://europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/11/robotic-hand.jpg?w=1200",
-          "width": 1200,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/11/10/artificial-intelligence-huge-potential-if-ethical-risks-are-addressed/amp/",
-      "publishedDateTime": "2021-11-10T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

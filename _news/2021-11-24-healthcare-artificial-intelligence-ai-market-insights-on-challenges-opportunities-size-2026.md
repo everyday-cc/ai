@@ -67,15 +67,6 @@ related:
         width: 775
         height: 436
         isCached: true
-  - title: "UAE strengthens global partnerships to turn challenges into opportunities: Minister of State for Artificial Intelligence"
-    excerpt: "Omar bin Sultan Al Olama, Minister of State for Artificial Intelligence, Digital Economy, and Teleworking Applications, has said that the UAE government is keen to strengthen its global partnerships with various countries to transform challenges into opportunities that support the development process and build a better future,"
-    publishedDateTime: 2021-11-21T15:00:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271774046/uae-strengthens-global-partnerships-to-turn-challenges-into-opportunities-minister-of-state-for-artificial-intelligence"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
 
 secured: "x9pNnk84nkUcXxawVMWWyhTuHHUaTfCLSFZOIsbz5v2kQ6d8dk+23n/QEa6nwapSI4RFqri4EbFSIBJnwMDVwoUwsN54MOyYXQRSk7zXyEY+SBxJxJQt2ycufvwXUNcEfqiaCb8hxmPvOp1s0Y+96vOkxjLrlm3UfCwjCx0cVaJXL0mM8C75t3keFZjzYgRKX71+vW49SQHpKU5qJ5cqNDAJS6acmEscACLybvFPjsklSV/TjZQzNLk1eS3nrYolbvhA4he7XqLVCX0VpqdbHBE9SdoJlMTqIjh3Y42p7AUe2TVH/dmA42NDY3/Z3phE9Owtn/cX2f7zwVr8IjBLn1NY69Mg9sZhWyo0UJalCEk=;Zio9CtFpPh/+t9WlvE/aJQ=="
 ---

@@ -40,6 +40,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "AI-based Prognostic Tests In Breast Cancer: Why This is a Game Changer"
+    excerpt: "AI-based techniques have largely helped in automation of patient data organization, medical records, accuracy of disease diagnosis, treatment planning and optimization"
+    publishedDateTime: 2021-11-26T05:53:00Z
+    webUrl: "https://www.entrepreneur.com/article/399284"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1637905877-possessed-photography-jIBMSMs4-kA-unsplash.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Mining gets AI boost with new research centre"
     excerpt: "A new research centre to focus on next-generation AI technology has been launched at the AIML at the University of Adelaide."
     publishedDateTime: 2021-11-23T00:41:00Z

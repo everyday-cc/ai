@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-impro
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "AI-based Prognostic Tests In Breast Cancer: Why This is a Game Changer"
+    excerpt: "AI-based techniques have largely helped in automation of patient data organization, medical records, accuracy of disease diagnosis, treatment planning and optimization"
+    publishedDateTime: 2021-11-26T05:53:00Z
+    webUrl: "https://www.entrepreneur.com/article/399284"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1637905877-possessed-photography-jIBMSMs4-kA-unsplash.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "How The Overlap Between Artificial Intelligence And Stem Cell Research Is Producing Exciting Results"
     excerpt: "For the last decade and more, Stem Cell research and regenerative medicine have been the rave of the healthcare industry, a delicate area that has seen steady advancements over the last few years. The promise of regenerative medicine is simple but profound that one day medical experts will be able to diagnose a problem,"
     publishedDateTime: 2021-11-22T01:32:00Z

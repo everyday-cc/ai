@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://elclasificado.com/photos/cd/18/cd1898064dc84653b7db795892432ac5/l.jpg?image=0"
         width: 720
         height: 405
-        isCached: true
-  - title: "Humanity in the Age of AI"
-    excerpt: "The Age of AI” does not break new ground on AI but it raises key questions about how AI will change the way we live and work, and it is clear that we are just barely scratching the surface of what AI means for society and humanity."
-    publishedDateTime: 2021-11-21T14:24:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/humanity-in-the-age-of-ai"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 39
-    images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/6199141097b981f8c67fadef_AdobeStock_339380253.jpeg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Appreciating the Potential of AI"
     excerpt: "Mohammed Alam was recently hired as the deputy director of Northwestern Engineering’s Master of Science in Artificial Intelligence (MSAI) program, where he will collaborate with students to shape their experience and explore future possibilities of what AI can and will be."

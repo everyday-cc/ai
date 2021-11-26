@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-he
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 775
         height: 436
         isCached: true
-  - title: "UAE strengthens global partnerships to turn challenges into opportunities: Minister of State for Artificial Intelligence"
-    excerpt: "Omar bin Sultan Al Olama, Minister of State for Artificial Intelligence, Digital Economy, and Teleworking Applications, has said that the UAE government is keen to strengthen its global partnerships with various countries to transform challenges into opportunities that support the development process and build a better future,"
-    publishedDateTime: 2021-11-21T15:00:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271774046/uae-strengthens-global-partnerships-to-turn-challenges-into-opportunities-minister-of-state-for-artificial-intelligence"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
 
 secured: "GS/dMaHHScHgXZuQOKI4L7RL6+4oFAUCjjYEWfaPwhLui0jHkx5fjZ8WnEMjiFUvBDcVtPTp3nN/ZPGj9orZ8VgJaGi0nIU39/T6ZtD6bFMi/VEoiZENOqZJMDIA34FkykYUMmESz1nBvw2rpfqwns+UAo7+ofK4aMBlx2JrotSEDs0m10+sIfb1Wql+vLVec07M17lz72z4GEgIxu4qdF2VDyBAT/SOX9+yl/BASJOFaiygYLwtAJlH0Tzd2q1uaQqKM+pIU6/gXyZJglVHWRTYIFbTVscdPODqDCaELwfJEjPp2qnUm0oOUBoQlnVG1p6QEZ/LQMUmMrFt+OW7LWCQSIXFJsW+qiPAOMV4TKKm2XmRyS91GAdMNCwCkYZhA6bMfDI8VX0pZAu+8EGFdLnC/3xpnSZrTsBIXduMEQd6sNazS5tU43gFJpMRUkdkotHQZYUMyrzoCAJrFuTbAYjhqJPA6AxD4M03E0gbjEAWX7xHMpiG0CL8G4wBGWRyyD4JhXsi4NWEFdJo+1c80A==;Gf1r2UqBm52Wc6tFrDv3aQ=="
 ---
