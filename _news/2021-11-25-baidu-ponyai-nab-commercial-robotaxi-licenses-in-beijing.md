@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Baidu, Pony.ai nab commercial robotaxi licenses in Beijing"
-excerpt: "Search giant Baidu Inc and Toyota Motor Corp-backed Pony.ai Inc were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
-publishedDateTime: 2021-11-25T06:50:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
+title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses in Beijing"
+excerpt: "Search giant Baidu Inc. and Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+publishedDateTime: 2021-11-25T04:59:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
+webUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
 type: article
-quality: 39
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381163.jpeg"
-    width: 1240
-    height: 826
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHvjzsa8ZIk/v0/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -268,6 +271,6 @@ related:
       domain: futurecar.com
     quality: 0
 
-secured: "HOB/f2h2mI6kNLoRC47heh6GkGbuxGPRi17Xs380C6JAywGC2UwultLIkUCSR3K1mirwBQ2Saa0E18UDDOQzEy8ISVwhXIKb6F6kKnjnzYtMPt5WCMi+K0maNfEdCRWDTluJaTIIa0GXpOrNnG/KEZBA7p+O41hiQBC9rM9+7UKo9wl2YlksgSPjPj7gnOvqSdIris5aYtN6QnJ9+wGx0HjhQS7nVMf4uKHISkqBy6dJ/KEfq5jVPwb0CRzC8UrW44YV5RkCyZtWeMh7rz+cJOu3iQV4xqFIh/1+jaiwUoA2Fj/bR2uyjJbxeJX1T/pMPXuxEzyJO3FF5ZGjQyvd8EGoepHUa1QVfolAyy4EwXo=;/IiUcJa96LxrwSg63cgdeQ=="
+secured: "A/C5spsM1Uia7nfos3mFA4ZCpEKEKiRNIUrb4Ipt+HliIk/ep+Vll7qhCXwS+VlD8TmOkycc/sInSoTAHyknmaRbJPaK29xzYTOzs1UuG3S7W+9g/7CDT5/1/UjGRwCRroseBLgCY0OH2+k+bDfTL5ht/y8oR5UU2nd8fCQGpeJUxBEDFS8qMQYxvb6LKsqzlv9euHAJ/Ai3jMBgP1hnZjmCP6THrCq9K4xOL7o+3ocMJVf5d4vuRJQDKy0NzsMLVTF1eAM1LbTItM8of1A4xoWOpqxfRvCy8C23DvTAGcG8nVXOaYDb9IYT2w5s4DnL90idXRG0mgrQgM6ERMFUfQex5NXPb5Hps4cafBS0WQY=;MEdwWZqp5HvYbhLHlpM2aw=="
 ---
 

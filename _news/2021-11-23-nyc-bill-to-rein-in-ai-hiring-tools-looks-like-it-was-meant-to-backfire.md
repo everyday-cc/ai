@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/nyc-bill-rein-in-ai-hiring-tools-looks
 webUrl: "https://thenextweb.com/news/nyc-bill-rein-in-ai-hiring-tools-looks-like-was-meant-to-backfire"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Web
@@ -27,22 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "New York City aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analysing their video interviews. But New York City residents could soon get more say over the computers making behind-the-scenes decisions about their careers."
-    publishedDateTime: 2021-11-22T06:56:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/22/new-york-city-aims-to-be-first-to-rein-in-ai-hiring-tools"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/22/1377129.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "YhrTt/5DYXKkq1Cqa0zaJReoY9ZmuDqdlzNW8h1JpeD5Ssz0rumjkAZqqZRCIJOsGkuvaJwSs+qUFaakvF2DVltjV0jLK5+hwFrp2gUyjVOJxq2awteDHBVezaufXObSiqebCoBZenr5bPb1L4dni2z9nN3n+XvvjKgkEmqw2GHce4b9VFVqBZg94cJ1ulbgv4FQ358U9a4dsiNnwMxQ1L3PBuuVfU6NDooG9rfqlqNOR9XsMEieZ+vETRqypluZMaaGhzNzZXjk+gpVrNSPaAblzl1JNR0GaWtOjVuT21T54zBZjGcU4kA66pIwJ1WvYfBPXhdPkkMg1VsCXkLDGxHR3fB7nTZOD/S+u8h3a+JM59S+6ezz5nlvOeBMqmMPD928kCJHtcLGvs/XArzVNUPUXz1lbNdYBfIfm3QzQ4zEqxGc3URgM5qf7yP8wnlbNKUAKGmcblX8jlzMlCC6yMLfgfIsXKIf1fjvlrIM9K0D8lMKdpKRERVLumBrKiO9arFwxrV24qjZAPgZMvr33A==;UEP1NvI1RPQz/x3UytngYw=="
 ---

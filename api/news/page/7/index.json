@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-18-a-new-direction-for-artificial-neural-networks.md",
+      "title": "A new direction for artificial neural networks",
+      "excerpt": "LETI’s latest project in this field focuses on how reservoir computers based on the principles of magnonics can offer a new direction for artificial neural networks. The project is headed by Mikhail Kostylev, professor in the department of physics at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeshighereducation.com/hub/p/new-direction-artificial-neural-networks",
+      "originalUrl": "https://www.timeshighereducation.com/hub/p/new-direction-artificial-neural-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timeshighereducation.com/sites/default/files/semenov_2_web.jpg",
+          "width": 750,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Higher Education",
+        "domain": "timeshighereducation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great.md",
+      "title": "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great",
+      "excerpt": "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211117172917-tesla-model-3-thumb-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/11/17/tesla-3-full-self-driving-mode-test-mc-zw-orig.cnn-business",
+      "publishedDateTime": "2021-11-18T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet-technologies.md",
       "title": "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies",
       "excerpt": "G Private Network with Athonet's cloud native 5G Standalone core network, and running on Amazon Web Services Snowball Edge",
@@ -1099,101 +1194,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-tesla-tsla-secures-new-197-mwh-megapack-order-to-go-on-its-autobidder-ai-platform.md",
-      "title": "Tesla (TSLA) secures new 197 MWh Megapack order to go on its Autobidder AI platform",
-      "excerpt": "Tesla (TSLA) has secured a new Megapack order for 197 MWh of capacity to deploy in the UK and use its Autobidder AI platform. Megapack has quickly emerged as the leading battery system for large utility-scale energy storage systems.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
-      "originalUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-new-megapack-project-uk-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
-      "publishedDateTime": "2021-11-17T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it.md",
-      "title": "Cathie Wood calls AI the 'next big frontier' -- here are 3 ways to profit from it",
-      "excerpt": "“We were assuming that in the next 10 years, artificial intelligence would deliver ... also owns autonomous driving technology company Waymo. Last year, Waymo launched its fully automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://torontosun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "originalUrl": "https://torontosun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/11/cathie-wood-ai-stocks_financial_hero_1_564x423_v202111121130.jpg",
-          "width": 564,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://torontosun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "cdnAmpWebUrl": "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "publishedDateTime": "2021-11-17T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Sun",
-        "domain": "torontosun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

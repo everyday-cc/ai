@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-27-ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines.md",
+      "title": "AI Weekly: UN recommendations point to need for AI ethics guidelines",
+      "excerpt": "The United Nations' new AI ethics regulations point to growing recognition of the need for AI ethics guidelines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
+      "originalUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
+      "publishedDateTime": "2021-11-26T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars.md",
       "title": "AI That Tries To Be Funny Is Not Necessarily A Laughing Matter, Especially When Used By Self-Driving Cars",
       "excerpt": "AI that uses humor can be handy or a big problem, and likewise in the case of self-driving cars could be good for riders or a really bad idea. Let's explore why.",
@@ -102,6 +154,62 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-ai-ethics-adopted-by-193-countries-ml-to-decode-rembrandts-painting-detectron-and-tensorflow-gnn.md",
+      "title": "AI Ethics adopted by 193 countries, ML to decode Rembrandt's Painting, Detectron, and Tensorflow GNN",
+      "excerpt": "Artificial intelligence (AI) used to be thought of as an idealistic technology that can only exist in sci-fi movies. Contrasting to the belief, today the technology has become so mature in a short tenure that all major companies are using it to their advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-ethics-adopted-193-countries-ml-decode-rembrandts-painting-nouri",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-ethics-adopted-193-countries-ml-decode-rembrandts-painting-nouri",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQG5U3rk8CdQNA/article-cover_image-shrink_720_1280/0/1637931294675?e=1643241600&v=beta&t=oUlMQotZn9QUKwCxFHiYqvrtHeWSvVm6h0NT_bQaVQ0",
+          "width": 1280,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-26T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
@@ -262,7 +370,7 @@
       "originalUrl": "https://www.business-standard.com/article/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -391,7 +499,7 @@
       "originalUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -443,7 +551,7 @@
       "originalUrl": "https://www.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -841,7 +949,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -892,7 +1000,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -943,7 +1051,7 @@
       "originalUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1090,7 +1198,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1131,93 +1239,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-how-will-our-ethical-choices-be-determined-by-self-driving-cars.md",
-      "title": "How Will Our Ethical Choices Be Determined by Self-Driving Cars?",
-      "excerpt": "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/",
-      "originalUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/25/GettyImages-986605878-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/",
-      "publishedDateTime": "2021-11-24T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-senate-leader-hopes-to-revive-facial-recognition-debate.md",
-      "title": "Senate leader hopes to revive facial recognition debate",
-      "excerpt": "Limits on law enforcement use of facial recognition software enacted last year “did not go far enough” to rein in the technology, a top Senate Democrat told her colleagues on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowellsun.com/2021/11/24/senate-leader-hopes-to-revive-facial-recognition-debate/",
-      "originalUrl": "https://www.lowellsun.com/2021/11/24/senate-leader-hopes-to-revive-facial-recognition-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowellsun.com/wp-content/uploads/2021/06/GettyImages-1080200068-e1560249454434.jpg?w=1024&#038;h=626",
-          "width": 1024,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowellsun.com/2021/11/24/senate-leader-hopes-to-revive-facial-recognition-debate/amp/",
-      "cdnAmpWebUrl": "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/11/24/senate-leader-hopes-to-revive-facial-recognition-debate/amp/",
-      "publishedDateTime": "2021-11-24T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lowell Sun",
-        "domain": "lowellsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

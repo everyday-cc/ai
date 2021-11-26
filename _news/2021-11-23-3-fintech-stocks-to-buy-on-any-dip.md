@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?a
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp"
 type: article
 quality: 54
-heat: 294
+heat: 284
 published: true
 
 provider:
@@ -150,20 +150,6 @@ related:
       - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNDM0MWNhNmVjN2FjMmFhMDQ4NjBkMTY1YzFlYTdlNi5qcGc=.jpg"
         width: 740
         height: 493
-        isCached: true
-  - title: "Fintech platform reaches two-million membership milestone"
-    excerpt: "Toronto-based fintech Borrowell has announced that total membership in its platform has exceeded two million. Borrowell is one of the forerunners in Canada when it comes to financial marketplace operations and credit education,"
-    publishedDateTime: 2021-11-22T06:15:00Z
-    webUrl: "https://www.mpamag.com/ca/news/general/fintech-platform-reaches-two-million-membership-milestone/317308"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 24
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0305_637731584961714112.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "FinTech Talents Festival 2021 - Afterthoughts and Aftershocks"
     excerpt: "Even though we could not be physically with our friends at the Fintech Talents Festival last week in London, we were still able to partake in many of the sessions virtually. If there is one word that we could use to describe last week’s fintech fanfare,"

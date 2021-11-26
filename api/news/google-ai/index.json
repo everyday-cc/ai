@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-26-ai-ethics-adopted-by-193-countries-ml-to-decode-rembrandts-painting-detectron-and-tensorflow-gnn.md",
+      "title": "AI Ethics adopted by 193 countries, ML to decode Rembrandt's Painting, Detectron, and Tensorflow GNN",
+      "excerpt": "Artificial intelligence (AI) used to be thought of as an idealistic technology that can only exist in sci-fi movies. Contrasting to the belief, today the technology has become so mature in a short tenure that all major companies are using it to their advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-ethics-adopted-193-countries-ml-decode-rembrandts-painting-nouri",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-ethics-adopted-193-countries-ml-decode-rembrandts-painting-nouri",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQG5U3rk8CdQNA/article-cover_image-shrink_720_1280/0/1637931294675?e=1643241600&v=beta&t=oUlMQotZn9QUKwCxFHiYqvrtHeWSvVm6h0NT_bQaVQ0",
+          "width": 1280,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-26T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-machine-learning-software-market-breaks-out-to-new-high-microsoft-google-tensorflow-kount.md",
       "title": "Machine Learning Software Market Breaks Out to New High | Microsoft, Google, TensorFlow, Kount",
       "excerpt": "Global Machine Learning Software Market Status Trends and COVID 19 Impact Report 2021 Covid 19 Outbreak Impact research report added by Report Ocean is an in depth analysis of market characteristics size and growth segmentation regional and country breakdowns competitive",
@@ -10,7 +66,7 @@
       "originalUrl": "https://www.openpr.com/news/2472920/machine-learning-software-market-breaks-out-to-new-high",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1406,51 +1462,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-does-deepmind-ai-future-proof-alphabets-share-price.md",
-      "title": "Does DeepMind AI future proof Alphabet’s share price?",
-      "excerpt": "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price",
-      "originalUrl": "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI",
-        "Facebook AI"
       ]
     }
   ],

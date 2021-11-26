@@ -42,15 +42,6 @@ related:
         width: 252
         height: 355
         isCached: true
-  - title: "Artificial intelligence-driven video analytics makes banking safer"
-    excerpt: "Artificial intelligence-based solutions can optimize operations and crowd management inside branches while regular CCTVs fail to live up to the mark"
-    publishedDateTime: 2021-11-22T05:19:00Z
-    webUrl: "https://www.ciol.com/artificial-intelligence-driven-video/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 17
 
 secured: "tVNXPbZi7YvK533d52QF+mDT8/n5jI01gmbJwl7YICWtyQb/LCfPtvArYIo+Y8x0wsSgwYBftq9A4E8jHEv5NHwi1ABq8YT7RgGsd665mbZKUH+sAo0WfGvnlaFfCN1naxDyJyf0EkYcjxjBTAslo+0pYn7goKzw3b5FVAoY+KC9+tW8rl9ik6JcUJpsYeHT4K3vKTo76yIAOFwoijly7PDdyljz5dC4ngcw15uQSG9ok7hob1FUeROveKmMoU53miJhHAw3L370jc3F0Xm2C0Cqsz1kZBSx7N0UYC+wuQmLDrxuaJGjkG3gV70c9HTJmGN0+iWhKgmn1jAJfj9bl+xVLqKoCcqJKyWUr5CMntU=;XrRdZVBPs9KTydPjG/zCUQ=="
 ---

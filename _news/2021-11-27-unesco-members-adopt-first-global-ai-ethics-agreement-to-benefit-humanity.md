@@ -90,20 +90,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "Artificial Intelligence Ethics Agreement adopted by 193 countries"
-    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-    publishedDateTime: 2021-11-26T07:09:00Z
-    webUrl: "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 58
-    images:
-      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg"
-        width: 740
-        height: 452
-        isCached: true
   - title: "193 countries adopt 1st global agreement on Ethics of AI"
     excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
     publishedDateTime: 2021-11-26T11:59:00Z
@@ -223,6 +209,6 @@ related:
       domain: itp.net
     quality: 33
 
-secured: "uASVACki/umOhbPA6NTZDHCaaTqAyoQeGi07welfaLOh5nJJaxX0zcGJ5VA397ZJtxrKG0fjF4pX74GVwgVMRTmoU8L+UUgK/m1OARkJKFUTELS8FiBHCvEBaCTPfLXIk8hon7vWse3AtVbxN6nOVU3Je9Wd+jresHMsAvqKDgj+03LvgjNBEjXXecZqW8yCncyVX9/ATX03GWThK2u5Qxv3uI+DveVvn+L3qQ3LCNhFO+jjK3LBQQP32qo+V7FlWS/+O5yfNkemf5h+phZzXvZnPqESp3wlpXezNpFHjToURX/fAHOM7UyRWtNGryn6UlTjqPEqB5pAP+6E+sKhaKavQgYj0KCN/wmRiAGeK6g=;yAW80RmgvgHkh0vdrA8xvg=="
+secured: "pEt5U0TouTBC7OAcC7PNvuO+kUaKfrz1CIEXGIjkse9qMZc19hpdAzGDT3iS2NgNzTKc6zk2lymbCfIGZ+n3FCWydl0m7Nup4ryF8n5Q+FiPCAhB5A1nS9r+hYaxBlzDr7qVqmt+pspRduQvu3qnKGkjCIr/5koLqQFWmayVaR37KJpd1LyZ5jb5z51NJlYFN79VjBzNxBPMkUmp9IeKsDi4qjCfve4/Ozbm60RhKhn2M0WFKbXNS54Q9tSyEtN943RY2Bb3ycU4L6jYnh5yxTQE+suSYQuDB7D34lGGpC/FAMoN9JB3Snk/ecyxGxYwxZWK6vy3/W4m/k+EK2HBOHxKr9oqtpXCGV7Eg4UH0oGx01yf9IWMYKJ4v7FebAPPN5t7SRDeBIBcxRdfEkIjdCGEIlHVRu6iFEoq9wsVgsqjV3AaIxC8laN+gfEtA6lRfUcfe4WEnGSA/WThIntBHN/hfVZGn+trjbmcluNj0Hq2re6rWJmUHAkVHWO1K5qh2Y6oSFwgYruLy+I0zgegcw==;sQNyOtikwCBV4+voj11PSg=="
 ---
 

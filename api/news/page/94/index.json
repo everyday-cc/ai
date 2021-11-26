@@ -2,6 +2,83 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2021-09-16-easiloan-an-ai-enabled-fintech-platform-for-home-loans-raises-inr-80-million-from-tomorrow-capital.md",
+      "title": "Easiloan, an AI-enabled fintech platform for home loans, raises INR 80 million from Tomorrow Capital",
+      "excerpt": "Easiloan.com, India's first AI-enabled fintech solution for home loans has raised its maiden round of INR 80 million from Tomorrow",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/easiloan-an-ai-enabled-fintech-platform-for-home-loans-raises-inr-80-million-from-tomorrow-capital-845015973.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/easiloan-an-ai-enabled-fintech-platform-for-home-loans-raises-inr-80-million-from-tomorrow-capital-845015973.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group.md",
+      "title": "Facebook – Election 2021: Green party cries foul over Facebook ad by labour group",
+      "excerpt": "Green party cries foul over Facebook ad by labour group The campaign team for the incumbent Green party candidate-Ladysmith, Paul Manly, has filed a complaint with Elections Canada over an ad that was paid for by the Canadian Labour Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2021/09/nanaimo-byelection-20190506.jpg?quality=90&strip=all&w=288",
+          "width": 288,
+          "height": 216,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget.md",
       "title": "OpenCV and Luxonis Launch Smaller, Lighter, Cheaper OAK-D-LITE All-in-One Computer Vision Gadget",
       "excerpt": "New $79 crowdfunding price makes the OAK-D-LITE the cheapest model yet, despite its sleek design and impressive capabilities.",
@@ -979,91 +1056,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-dutch-ai-semiconductor-startup-axelera-ai-launches-with-12-million-seed-round.md",
-      "title": "Dutch AI Semiconductor Startup Axelera AI Launches With $12 Million Seed Round",
-      "excerpt": "AI semiconductor startup Axelera AI announced today that it has successfully closed a seed investment round of $12 million. The round was led by emerging technologies leader Bitfury and joined by global nanoelectronics R&D center imec and deep-tech venture capital funds Innovation Industries and imec.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-europe-business-netherlands-123a2f7a911344e799e85745067b2cb8",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-europe-business-netherlands-123a2f7a911344e799e85745067b2cb8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-why-even-marketers-should-understand-the-value-of-machine-learning.md",
-      "title": "Why Even Marketers Should Understand the Value of Machine Learning",
-      "excerpt": "In this contributed article, Dr. Peter Day, Chief Technology Officer at Quantcast, discusses how leading marketers are making use of widely available machine learning and AI-powered solutions that can do the hard work of spotting signals in the noise.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2021/09/15/why-even-marketers-should-understand-the-value-of-machine-learning/",
-      "originalUrl": "https://insidebigdata.com/2021/09/15/why-even-marketers-should-understand-the-value-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2019/12/Machine_Learning_shutterstock_344688470.jpg",
-          "width": 300,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

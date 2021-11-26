@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-23-how-do-you-scale-artificial-intelligence-ai-in-healthcare.md",
+      "title": "How do you scale Artificial Intelligence (AI) in Healthcare?",
+      "excerpt": "Sunny Dosanjh, Director lead for Deloitte’s Healthcare AI and Data team, explores the three key aspects in scaling AI in healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://www.openaccessgovernment.org/healthcare-artificial-intelligence/124827/",
+      "originalUrl": "https://www.openaccessgovernment.org/healthcare-artificial-intelligence/124827/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openaccessgovernment.org/wp-content/uploads/2021/11/dreamstime_xxl_163033011-scaled.jpg",
+          "width": 2000,
+          "height": 1108,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openaccessgovernment.org",
+        "domain": "openaccessgovernment.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-ai-combines-advanced-ability-to-learn-patterns-using-traditional-machine-learning.md",
       "title": "AI Combines Advanced Ability to Learn Patterns Using Traditional Machine Learning",
       "excerpt": "A new research center focusing on next-generation artificial intelligence (AI) technology will create the high-caliber expertise that Australia needs to be competitive in the approaching machine learning-enabled global economy.",
@@ -421,7 +464,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -486,6 +529,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
+      "title": "adidas Migrates SAP Environments to AWS",
+      "excerpt": "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24214919",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919",
+      "publishedDateTime": "2021-11-21T20:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1046,99 +1132,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-ai-played-big-role-in-approach-to-pandemic-says-uae-minister.md",
-      "title": "AI Played 'Big Role' in Approach to Pandemic, Says UAE Minister",
-      "excerpt": "Omar Al Olama, the UAE's AI Minister, explains how COVID-19 has been an accelerator for AI applications; why the US and China would benefit from a 'constant dialogue' on AI; and why 'the new roads that we need to be building right now are roads in the digital realm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister",
-      "originalUrl": "https://www.realclearpolitics.com/2021/11/20/ai_played_big_role_in_approach_to_pandemic_says_uae_minister_557114.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-11/omar.jpeg?h=a5ae579a&itok=OqPGVht5",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister?amp",
-      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister?amp",
-      "publishedDateTime": "2021-11-20T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-low-code-and-no-code-may-open-more-doors-to-artificial-intelligence.md",
-      "title": "Low code and no code may open more doors to artificial intelligence",
-      "excerpt": "The jury is still out on whether low and no code platforms can blaze a path to high-end application development -- at least not yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/67eb29774477fdfb5a6bd6f1e0df24ed724e881d/2021/11/20/91e4f4e4-4221-45fe-9094-2aa6ccf22d2b/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1168,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "publishedDateTime": "2021-11-20T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

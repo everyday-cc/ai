@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-26T12:16:00Z
 originalUrl: "https://www.uni-muenster.de/news/view.php?cmdid=12199"
 webUrl: "https://www.uni-muenster.de/news/view.php?cmdid=12199"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.uni-muenster.de/news/data/img/2021/11/web-4X6nBlHV-webL.jpg"
+    width: 640
+    height: 320
+    isCached: true
 
 related:
   - title: "Retailers Use AI to Build Trust in Secondhand Luxury, Sneaker Sales"
@@ -36,6 +42,6 @@ related:
         height: 274
         isCached: true
 
-secured: "T6ntKeCye4cPjX7LHb9pTtjsWCqtsOyiXcUPcoMuOnLLx5TCIVs1LN5xwCUglqeTmyWNG5JOsslZcieJro9/AnN5ecfbHFkjlGSB+9wxyv8YwtXqLOWCPyhhice0Bk1ibw2IQltx247foIib2xqrpZpMJQnSzejgfAe4inZHdGxCryliziRc6tkYoIkolyGdn1BcIBfTcJ6dMu1JXz+gmCkj+MPKCY4pbvu4QjdUcxqfdUIpiIhGRMZT1uyej2qhTYlO4cFZvRLW98MxFyTV8GP9r70IooWYScDrY6tOxHrFIlK5usP99+OwKGzJmh99cAmLVfnUlVbY19whlT65yzRYKMODp5cqkq9UaaH+VB8=;QCfysIBHU20U3VCRZwRSQg=="
+secured: "z6lI9ba+mkv7qhhc7TEExtIr/CY8mTmGaHx68FjJ9daAyAdLjEqiSPwai8B2eiYf8rtGKzwg0TF4DAT72puD3wkSzEhxH3vvHnYdSaeKngyORkpO5zmGqAUWZxOiRwf/Ntn081k2fdhtkiPFd1Ljpzte13zbsBlGYJlffvCoK+bPNY/j1wsgIE9ZN1+YHHrNDVqIrQ6S3nBsWUhXPllDM8jn6w92PJHdSjHS0mZzrgSWAkJj41O6T/9Webt1IBRXh91BGfNrH8RDgoiE3m2KglkWfYXEWsTEAGEKe1VgwNI+/7z4Rmc5nSdRaQj/Q+R0gaZKMGQgbYfi55JmjYZf1xBvFLe5H/OmcOuCuddNLhc=;nmSs9Tn9IgWzjaCmBh2i+A=="
 ---
 

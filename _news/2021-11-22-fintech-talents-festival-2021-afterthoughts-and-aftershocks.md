@@ -170,20 +170,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "Fintech platform reaches two-million membership milestone"
-    excerpt: "Toronto-based fintech Borrowell has announced that total membership in its platform has exceeded two million. Borrowell is one of the forerunners in Canada when it comes to financial marketplace operations and credit education,"
-    publishedDateTime: 2021-11-22T06:15:00Z
-    webUrl: "https://www.mpamag.com/ca/news/general/fintech-platform-reaches-two-million-membership-milestone/317308"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 24
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0305_637731584961714112.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Ryan Bertrand – defender to fintech entrepreneur"
     excerpt: "Leicester City left-back Ryan Bertrand co-founded his own forex currency trading app aimed at retail traders back in 2015."
     publishedDateTime: 2021-11-22T11:10:00Z

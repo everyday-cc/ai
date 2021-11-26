@@ -42,15 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "PG&E Testing Artificial Intelligence Which Could Expand Wildfire Detection Capabilities to Growing Network of High-Definition Cameras"
-    excerpt: "Highlights 138 new HD cameras installed in 2021 and 487 cameras are now in operation: 46 with AI test software Eyes in the sky across most of High Fire-Threat Districts in Northern and Cen. . ."
-    publishedDateTime: 2021-11-22T06:04:00Z
-    webUrl: "https://electricenergyonline.com/article/energy/category/ot-it/53/931753/pg-e-testing-artificial-intelligence-which-could-expand-wildfire-detection-capabilities-to-growing-network-of-high-definition-cameras.html"
-    type: article
-    provider:
-      name: Electric Energy Online
-      domain: electricenergyonline.com
-    quality: 0
 
 secured: "JsRxg6Mfnoj93sFVCW8Vmusg85fTy8yXPmSILHU9L9Ce5/+hrPq666WcT/HzKk73fCagUG31K/P5ibcezSwcIi0EUoeIRm2tIpPJ2IkzVC3lWD7HmQIcO26tHdezHUUzuBoBmFIZCD4m64eMqeWbK/kZlOUDvdKz8jFi+Lwa3QCklY5J6w0mYmXD3ktd9Le4uJnfyFVp5yDy+36w67bpYx42eMglQo0lu6pb8h+vGXSv6yocTZ+MCHJWLSbkII5tqw/xoBx+AMJOmt57TGnzULYC/YDQYaHpB3RbB/H7xY2YBL/E97Ym3YEhjAk/h2J+3CoXbGa1lFAWtA2HxbEX4vX4NOKO4qPldeyYCxWO96ECsSoqrGybuSfWZsJ5yf6RVXrPPcKKfUbazAiLkAuW1QSvoAtW0PB/DxtqA37Q6dJiHqGo1U2ppRWU9py6PR9bUQ/khC5a7UDPD3Y8+gP1KCDGfJvIqe90yJXBJfyteFue63pj6M8xcapVUtZBxG8/vDSI+COBRRwYCU9+lcARaw==;KuLkATrpYO8/zNnQAT811w=="
 ---

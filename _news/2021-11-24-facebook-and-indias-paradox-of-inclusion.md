@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foreignaffairs.com/articles/india/2021-11-24/facebook-an
 cdnAmpWebUrl: "https://www-foreignaffairs-com.cdn.ampproject.org/c/s/www.foreignaffairs.com/articles/india/2021-11-24/facebook-and-indias-paradox-inclusion?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook knew its algorithms were biased against people of color"
-    excerpt: "Internal documents have revealed that Facebook was made aware of online algorithms that were biased against people of color"
-    publishedDateTime: 2021-11-22T05:04:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/11/21/facebook-algorithm-biased-race/"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 137
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25C7JVJEQZDABIALDEFJSALEGA.jpg&w=1440"
-        width: 1440
-        height: 756
-        isCached: true
   - title: "Facebook will drop its facial recognition system — But here's why we should be skeptical"
     excerpt: "Facial recognition systems, like Facebook’s, identify people by matching faces to digital representations of faces stored on a database. Facebook has more than a billion of thes"
     publishedDateTime: 2021-11-23T12:56:00Z

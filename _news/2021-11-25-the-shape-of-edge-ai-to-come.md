@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "One Stop Systems Releases AI Transportable Compute Server for Edge Computing"
-    excerpt: "One Stop Systems (OSS) is introducing a server for vehicle, maritime, and aerospace applications in the edge computing market:"
-    publishedDateTime: 2021-11-22T06:22:00Z
-    webUrl: "https://www.enterprisestorageforum.com/hardware/one-stop-systems-ai-transportable-compute-server-edge-computing/"
-    type: article
-    provider:
-      name: Enterprise Storage Forum
-      domain: enterprisestorageforum.com
-    quality: 16
 
 secured: "rmSV6AiZPF5Lj3fSSqLkJdxzm25ib8ulLELLAHjX5hfFyyRAheKeSy7ySKRQcxltQN383LVoONnhMrfkvisC5vsHBhjDPKbyiOBb9DURnuYMgsfmZMOzrNljuvbuabj1pYX+eGOFn8snp54Z5h5D8VT4ChvAbZYcORYNaJ5vDqQMk9xkXDhjHPBt65nGQaJ4RCSXVFjCCnxMwz7wv7RWyNzB8ZKYFZBaXzPUvHbHkOntw6Qx/hqD7tQTeyGVuAEOU9YHozLUbU4Lbn0DLv2UwYUkdZ4QVpLhR0gf1MBjYJScCBGdgUHDAFhht/q8UfF0A6U2OzYdJeEtYWy0YC+5fMvZrHJypa0xKFPOWMkHXweTkIDm2rE9FMrOrPl7jLfkycAPxmR+e8XeibknbtdHu9nlbC64FohfM5dGFnSMWrh2uKGmx+w/rnkmZlFwWDghA1W26We3kq6dEsD3oh+IAQDjD6jKLLUlcUAo6W8nN6LcJ92JFX8g2TCladRMBpC1YCzzdDDlaGpRbqVN5kAtaQ==;0VIyklV/Nx3RgPL3Yn3hzg=="
 ---

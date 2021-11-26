@@ -35,7 +35,12 @@ related:
     provider:
       name: uni
       domain: uni-muenster.de
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://www.uni-muenster.de/news/data/img/2021/11/web-4X6nBlHV-webL.jpg"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "BRBq8pu79X1POQNP4p8Z/Zwm14jDSVDmKaz+eCpkRupx6z/RnV4F5ZuCF77Gj5XGGaDNAt4Vm6E4hg/Mm4ASOJoFUGwaMlBfQ0KSRhH7A68VnnNVR/UsKKKuN4YE1GaLaNPkUwGY1plFNW2T4M6CdPJ1wlIxHomqJycDTwwwlsWTRm8i3s29OAKZhqLtXHIGD35AtMnzhxzpashiFMXQdeVQjqRbd/ExzN+hXo7UXNjVbur/BWHhl6RAXPJnztFqHjq4d6uDmV8lyCM0GBUvx9JzmFWbfsWyw1w6Ze1TNsCtuNWkh6QwjotoC8EFyWOI3Kn+ID6gXgYH+9yQn67sMHOXaYASF7E/kAqJUZdwNBM=;ZxpggVl3DxGZGl7wGNQ9GA=="
 ---

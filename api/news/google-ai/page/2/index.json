@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-13-does-deepmind-ai-future-proof-alphabets-share-price.md",
+      "title": "Does DeepMind AI future proof Alphabet’s share price?",
+      "excerpt": "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price",
+      "originalUrl": "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-deepmind-is-developing-one-algorithm-to-rule-them-all.md",
       "title": "DeepMind is developing one algorithm to rule them all",
       "excerpt": "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains.",
@@ -1449,58 +1494,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-deepmind-tells-google-it-has-no-idea-how-to-make-ai-less-toxic.md",
-      "title": "DeepMind tells Google it has no idea how to make AI less toxic",
-      "excerpt": "Everybody's talking about toxic AI, but nobody's doing anything about. But not for lack of trying. Just why can't AI researchers fix AI's potty mouth?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic",
-      "originalUrl": "https://thenextweb.com/news/deepmind-tells-google-no-idea-make-ai-less-toxic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FtoxicAI.jpg&signature=e7bc668b862740a7b43f83ab582e267b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

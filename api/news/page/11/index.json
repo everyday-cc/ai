@@ -2,6 +2,100 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-16-the-department-of-defense-is-issuing-ai-ethics-guidelines-for-tech-contractors.md",
+      "title": "The Department of Defense is issuing AI ethics guidelines for tech contractors",
+      "excerpt": "The controversy of Project Maven shows the department has a serious trust problem. This is an attempt to fix that",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/",
+      "originalUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/11/gettyimages-1286000787.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/11/16/1040190/department-of-defense-government-ai-ethics-military-project-maven/amp/",
+      "publishedDateTime": "2021-11-16T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees.md",
+      "title": "AI Can Be A Force For Good In Recruiting And Hiring New Employees",
+      "excerpt": "The use of AI and machine learning in various employment processes is advancing rapidly. New products and services are entering the market at an explosive pace. These new technologies promise dramatic efficiencies and added value while pledging a healthy return on investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/",
+      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192721f6684affa45047632%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2021/11/16/ai-can-be-a-force-for-good-in-recruiting-and-hiring-new-employees/amp/",
+      "publishedDateTime": "2021-11-16T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-justt-comes-out-of-stealth-with-70m-in-funding-to-help-online-merchants-fight-false-chargebacks-with-ai.md",
       "title": "Justt comes out of stealth with $70M in funding to help online merchants fight false chargebacks with AI",
       "excerpt": "Justt, a Tel Aviv-based chargeback mitigation startup, is emerging out of stealth today with $70 million in total funding. Founded in February 2020 by Roenen Ben-Ami and Ofir Tahor, Justt says it fully automates chargeback disputes on behalf of online merchants.",
@@ -1048,109 +1142,6 @@
         "name": "New Scientist",
         "domain": "newscientist.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-openai-rival-cohere-launches-language-model-api.md",
-      "title": "OpenAI rival Cohere launches language model API",
-      "excerpt": "Cohere, a startup creating large language models to rival those from OpenAI and AI2Labs, today announced the general availability of its commercial platform for app and service development. Through an API,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/",
-      "originalUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/amp/",
-      "publishedDateTime": "2021-11-15T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-honda-tests-prototype-autonomous-work-vehicle-at-solar-construction-site-with-black-veatch.md",
-      "title": "Honda Tests Prototype Autonomous Work Vehicle at Solar Construction Site with Black & Veatch",
-      "excerpt": "TORRANCE, Calif. and OVERLAND PARK, Kan., Nov. 15, 2021 /PRNewswire/ -- Honda and Black & Veatch have successfully tested the prototype Honda",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/honda-tests-prototype-autonomous-work-vehicle-at-solar-construction-site-with-black--veatch-301423487.html",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/honda-tests-prototype-autonomous-work-vehicle-at-solar-construction-site-with-black-veatch-1030976674",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1687569/Honda_work_vehicle2.jpg?w=400",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -155,20 +155,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "Fintech platform reaches two-million membership milestone"
-    excerpt: "Toronto-based fintech Borrowell has announced that total membership in its platform has exceeded two million. Borrowell is one of the forerunners in Canada when it comes to financial marketplace operations and credit education,"
-    publishedDateTime: 2021-11-22T06:15:00Z
-    webUrl: "https://www.mpamag.com/ca/news/general/fintech-platform-reaches-two-million-membership-milestone/317308"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 24
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0305_637731584961714112.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "FinTech Talents Festival 2021 - Afterthoughts and Aftershocks"
     excerpt: "Even though we could not be physically with our friends at the Fintech Talents Festival last week in London, we were still able to partake in many of the sessions virtually. If there is one word that we could use to describe last week’s fintech fanfare,"
     publishedDateTime: 2021-11-22T13:26:00Z

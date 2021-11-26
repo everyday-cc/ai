@@ -33,19 +33,16 @@ related:
       domain: nasdaq.com
     quality: 71
   - title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-    excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
-    publishedDateTime: 2021-11-23T20:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/398836"
+    excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
+    publishedDateTime: 2021-11-23T17:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
-        width: 635
-        height: 400
-        isCached: true
   - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
     excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
     publishedDateTime: 2021-11-23T23:52:00Z
@@ -97,15 +94,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 21
-  - title: "Adidas migrates SAP Environments to AWS"
-    excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
-    publishedDateTime: 2021-11-22T13:46:00Z
-    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "Aaafg0wOIlaCwRej65ZKWcCDjrPLuxV1fy2UO50DHRRi22DRAEh99iIG7ZEd44MS8FqZgEkX0IoK6tWapga/UTIij1xaL0d2tPdywVcWkJER0wbOnNj1tY3bF6Akxy3GsJOjZgjzA1SafVZvhOm0Vh8ruGTG64KJtUTOVORgB6x53H5i+2JIHaTuehE5yi1xF4KyIYrabFAFUPvLZG7YTN8VQKs0k16QEJ29w4TqpNdrHYsCBPasda3+rHPl3aiVIUiKOGCkTQvm1dLmswBz4m/Snldq5munhfcAr5Psc1AuYsoNlFJIATciOGfEUIsOclbahdHCbX5ru2ML5+K97q1CUTd/EN5UWuyrDwo+4Ao=;8NAQNwiHuApAB3KrkX95vA=="
 ---

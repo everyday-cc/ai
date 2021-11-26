@@ -85,15 +85,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "One Stop Systems Releases AI Transportable Compute Server for Edge Computing"
-    excerpt: "One Stop Systems (OSS) is introducing a server for vehicle, maritime, and aerospace applications in the edge computing market:"
-    publishedDateTime: 2021-11-22T06:22:00Z
-    webUrl: "https://www.enterprisestorageforum.com/hardware/one-stop-systems-ai-transportable-compute-server-edge-computing/"
-    type: article
-    provider:
-      name: Enterprise Storage Forum
-      domain: enterprisestorageforum.com
-    quality: 16
 
 secured: "dqcsZGlWeoLEBzTH3iehK2ZJY0SrjeIHAjt+hK8F3pT17FK2D3tWeUzMwZN6lF37hGp7ZCbxkIyjsowLGGxGfnzGyLO3NW6jkpA8tltR/L9J0ezRFj5tJK2UYZMjRD2Z256hWj8KvnNwCKAAGSFOMvWue8ADjRZSywuKSx9zcQlhX2g0XOZDDfoKyMXS8Sckm7kZbYt3xbGMpemHHRZ8RzoOcaPrLaISip563KETvkVufXd66go5OQE7K30HMYM204Sk9Qfl9GSdUoi5E8NSsyYwdqiD9dkqzn6qAt+/U/DUAFdI+naaATLd0yRjwGbsF0vAOhV/aWbz6qvpljdUA6doMClEyqnPHstnFBa7GJvtXqbNtWYzBL6/LZAmGpe5xgLglwDKvFcbNuwztCoszMG4JT3ug6KQmoAoU3a60pBdBvxEq4w1O9UN6IIua7W2eqTGFVSI2B3p6KtiZg7IvC4a7sbpobRFkFl2+ImifWhK8mYI/9I8ghU215SjPgXZ46bc7f0VEtON6YKlOoxqpg==;LalUSBk2eYlbIjsNySmv+w=="
 ---
