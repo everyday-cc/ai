@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-24-tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash.md",
+      "title": "Tesla requires Full Self Driving testers to allow video collection in case of a crash",
+      "excerpt": "With Tesla's latest FSD release, it's asking drivers to consent to allowing it to collect video taken by a car's exterior and interior cameras in case of an accident or \"serious safety risk.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/",
+      "originalUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/",
+      "publishedDateTime": "2021-11-24T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies.md",
+      "title": "Break Down Silos And Improve Productivity With These Emerging AI Technologies",
+      "excerpt": "Work to identify areas in which AI could add the most value to operations and collaboration. When integrated successfully, these technologies can lead to noted improvements in business outcomes, customer experience and employee happiness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60520f51e51980009c63f201%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/",
+      "publishedDateTime": "2021-11-24T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-south-korea-starts-work-on-330m-national-ai-complex.md",
       "title": "South Korea starts work on $330m national AI complex",
       "excerpt": "A groundbreaking ceremony was held on Monday for a $330m artificial intelligence complex in the southwestern Korean city of Gwangju, the Yonhap news agency reports. The National AI Industrial",
@@ -148,7 +251,7 @@
       "originalUrl": "https://www.openpr.com/news/2472920/machine-learning-software-market-breaks-out-to-new-high",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -731,7 +834,7 @@
       "originalUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1082,99 +1185,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-target-is-poaching-engineers-from-amazon-in-order-to-leapfrog-amazon-go-technology-heres-what-we-know.md",
-      "title": "Target is poaching engineers from Amazon in order to 'leapfrog' Amazon Go technology. Here's what we know.",
-      "excerpt": "Target wants to take on Amazon and Amazon Go by building out its own network of high-tech stores and warehouses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
-      "originalUrl": "https://www.msn.com/en-us/finance/technologyinvesting/target-is-poaching-engineers-from-amazon-in-order-to-leapfrog-amazon-go-technology-heres-what-we-know/ar-AAR2gQ4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6196f7a3432ef900197cd4cd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
-        "domain": "businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-1-disruptive-ai-stock-to-put-on-your-watchlist.md",
-      "title": "1 Disruptive AI Stock To Put on Your Watchlist",
-      "excerpt": "Docebo is bringing AI and modern technology to the learning management system (LMS) space, allowing businesses to quickly develop pieces of training. Creating training can be extremely time-consuming and difficult to develop and the results can be dull and boring for a subset of employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
-      "originalUrl": "https://www.fool.com/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F654221%2Fai-artificial-intelligence-training.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
-      "publishedDateTime": "2021-11-23T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

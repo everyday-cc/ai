@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-26T11:59:00Z
 originalUrl: "https://www.pna.gov.ph/articles/1161070"
 webUrl: "https://www.pna.gov.ph/articles/1161070"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
@@ -185,6 +186,6 @@ related:
       domain: itp.net
     quality: 33
 
-secured: "4Un7Btm/HuQ5w8tko4Bw1ITsn7LiMD8n3dOx5fcNaJzb/u7eDPftSsnf895H9x6HCjujmLw443jx5cNEWIo4J5uJseRvXpr3NnzuLFBuuCVFzihxkdnLajcpi+w/us585bzG10ACA4/dC7qJssKNF0449S/OdAfUk8VwIX2BBdn7YRr5av5p2WSkpFrkR61ixv+/TP/Nyj6I9BkCEbqoFhaukhwD6yGruAjQS8SrB1QvftqqSA9Pzd2YCpYmY3eyb6I7/hQ+lvHWZBizYi37+34PO1o+o6/8HTpqgssy/EpeNzC+Aw3zg9/fYyL1rR5d4MEIYujuNYXb7GrAHK22qc91pvvz8mF3foKskaTsIdk=;AreWwfC99bqSQeTOUud61g=="
+secured: "VR3EK6F28xMK9xQyzgEAwm/ZUR0gXcF1NWlYk3W1xtNfqrzROuDigG8pxhGS1Ey9IbX4q5SWnmSEvylFuMhnkiJTqXQHe//vB0OnORTKj3CdBVQtteDY5GsXkZj6WFc5nCzSBQ4fYFXPdFHD/032rviwoQ8osjfdI3sg/2+RQpMGFEJ08zkhL0ATIUZjm1SR9dyEjyjCYzPlyhFwKRD57tVpm2tjuCgXhIgLis83rTQyIH8NafTdGyApbHH7PvWEJBMjivRvGBSDw4QcStBztTM/9XA7ITpkqDALd4IbBYos0Kgg+7uvkntHWJYIRzAmMSIgsexSqbCq1V78BL7SZDI1qIYyh/6V7rFppCoNGEkQx3+xOiGHuk4FdB6BOPuDRVCGXaPVVhmg9wAir3ujNvNMX54q+49kjLLxPKJizvGHiFpkFvpWFedfc1wGFV9+EfSZkHH6JWVp/+mcRkande9qIzyHWVK4+G9s8HpHBOmuiKTh+fxnnh65eEyl9P1Mo6l8Q9mHMgash0wN2+sMxQ==;B6MXtvJLg2cNAHsaGJF5VA=="
 ---
 

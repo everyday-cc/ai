@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "ShieldIoT raises $7.4m to deploy coreset-AI for IoT cybersecurity"
+    excerpt: "As IoT networks become larger using conventional anomaly detection algorithms on large datasets can take hours or days, which increases vulnerability to IoT cyber-attacks. ShieldIoT’s coreset-AI helps cut that time down to minutes."
+    publishedDateTime: 2021-11-26T14:48:00Z
+    webUrl: "https://www.embedded.com/shieldiot-raises-7-4m-to-deploy-coreset-ai-for-iot-cybersecurity/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 37
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/11/Shield-oT-featured-image.jpg"
+        width: 698
+        height: 497
+        isCached: true
 
 secured: "P2ev2jnm3KG2YdB/21iYfWSB5LaSTzZoqREGczGpQdsXLDdKHdYqAv9qU+PqGwvvvWZdQvSjRq2LlguOnrU9Ng4fqR/VfG2kZec9219wxx3Jb5L8XDFUFYgsNjR4owIWCcEE4IDWCuqgVcG2zlWggKLRnE6e/ugBlczZicF6Uig9POR2M4uqXvRDGgwYll1wC1JVngka8tfXAX7fcUiNxom5TqfMZYG91pe75ff2FdmSATOWEJ3ndt7mpF2+UDcRaqRhZT2+nbMlwT4uy6YfmPuPRRbLJTV+AgFQS4rOw65IYQ6XNoagjGHuJjrqcVZj2KgACzdp2nz2MGnN4Di+VkxjEoxftLi9x3zU8xmmTixQExAABCh4LLI6AsamMc8y19BdNO4NAqKiA/gV+hidrBDeoDqfnXzJtpX+lPVQyLg+qumYNtY6uL0GLQJrjPItlNObvWswHF83MHOPon3lQdIdl5ba0ix/rJGdPQbBMU/l0uQRjv4nBeRhrjiD7hpEyAtyrmym/R7ghN+gkDCLEg==;n36VwfQ5n9ZCJeBeKQ4Omw=="
 ---

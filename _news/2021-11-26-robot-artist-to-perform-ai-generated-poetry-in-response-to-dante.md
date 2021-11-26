@@ -2,9 +2,9 @@
 category: news
 title: "Robot artist to perform AI generated poetry in response to Dante"
 excerpt: "Ai-Da used data bank of words and speech pattern analysis to produce and perform a work that is ‘reactive’ to the Divine Comedy"
-publishedDateTime: 2021-11-26T06:00:00Z
-originalUrl: "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
-webUrl: "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
+publishedDateTime: 2021-11-26T08:50:00Z
+originalUrl: "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante?share=reddit"
+webUrl: "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante?share=reddit"
 ampWebUrl: "https://amp.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "v/Wj3HPfrBvG85HX9R4hOrRASI/OeY9Fy+c+g5rnvLQYhd0vnJGi87ivY0rvDnjzPKAdX0N4rbZGL8cpQ0j29rOEG2ISkjk6F40i6aIQzPpe5/wG4qNlvBuZotJ67RgVZSpt3dJ68nE1siBjLWxO9FYis1HrT3aJdLEUQy4K6HaJ8MHPAg/TIxTU18uqeIewcEtAVJec29O/TYt7h6h7O+pUnfnC7W1EJNViWp5YpfRwS7JAZq/6tYPMwspfDNr79eqXZ3/avHHSh58WxyFWCII9hmcM4O76qSbGwfvKJUi9a8429YPLwPlkFSLx9mWU2p6GNowGXgM1Wb+8lSZPmf7n/dG01MYbH6lu6+JOQxY=;KeT8G2q0yY56+17RFIBSDw=="
+secured: "RkC5Kf6BV249jrwDVSSheIVK5O4yi2UoMtQPYHF38UHeDJPR9QmSzM3USDO+4L+7i4FI9AWYkz3XkCuZh9FVvWyoU8DGKf8wbbN5IfeRm6a6jy9CmIWBC3JWFOK/1/fo5/IEk5gKFf8JTea9cmTs5bl8pBAtCGSlswn+UH+1kpcaFbVEuAz9vq4gNbf62GIjiH+udnkhaguX9eeI+Lwt+xdr15YFOhRFgpHmQgpekd/ypghVdl3JRRm5Yo+xrdHDRtGSoZniDbFjQ5OAM3DnNuLHYmxxsmTUu2CoB2ZSi6majbyUcmIdOZhiZJp0nuqawg9gkVM4hkiQK3mcC2XAWFEUP9NNPEmzRz5z7fXoNY0=;UhS1ANHx/sixRGpzCqJwTQ=="
 ---
 

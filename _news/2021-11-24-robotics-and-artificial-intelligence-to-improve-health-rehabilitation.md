@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-robotics-artificial-intelligence
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Haptics, AI, and robots-to-rent will make up business of the future"
-    excerpt: "Humans will lunch at insect restaurants, experience holidays through virtual reality and see robot hire and servicing shops appear on high streets within the next 15 years, a panel of futurists have predicted."
-    publishedDateTime: 2021-11-21T23:01:00Z
-    webUrl: "https://www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics"
-    ampWebUrl: "https://www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/city/1524613/natwest-future-business-report-robots-virtual-reality-haptics/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 74
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/22/590x/natwest-1524613.jpg?r=1637449573171"
-        width: 590
-        height: 350
-        isCached: true
 
 secured: "JFAIo7d/DCzLZYsuOlXJOhmw52C84JaWtJebDHoh3JmMedDFSE+CkYsWWCbaJHrJOy8mQPR9pnC1H18qO3FG0Xdbm0O/KkEZnESWycjiPjm6+Foj+LfSYWV5PddeO39ThFYTUuCTTkuGYfijXcIu4Lcvjh1LbJPNgOGpBTREg9JZBlFiATLHzRiKJI1glpnp73nZPbvLlp8HanooRlV2SCaQ0JrWBzV5IZVdu81R489VOUgT/Oj5t2nBMNbwzjBI/lmRiMMWFghjGrLOfkGUvw5X9xnqP/VlDmXoeYyuD/TUFtt6XCEO1lM4QMRm2D4R2VE2X2QfiI24y1nvctwCjr+gMA/bsw0YtKWusDYPzspvRdQGeEOz8Pa4y60xh/CI28N6jsVx8zLpJp6SRWeOIObPFCRrqOVApWoD8kjQAh5hCRc08W9AgMPoSXHdCcgLn1RvdLTLGl0s9P5FqX3/+JGCWtHNrWpe+kvqZ+d79wbVf8aeDpoHE0Djd7vxACmzCb1oG8W8DyJkGwY9W5YIEA==;lELDiJUTn0h0j6S5otxSKQ=="
 ---

@@ -111,7 +111,7 @@ related:
     provider:
       name: Gov
       domain: pna.gov.ph
-    quality: 54
+    quality: 56
     images:
       - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
         width: 720

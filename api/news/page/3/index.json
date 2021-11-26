@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-23-target-is-poaching-engineers-from-amazon-in-order-to-leapfrog-amazon-go-technology-heres-what-we-know.md",
+      "title": "Target is poaching engineers from Amazon in order to 'leapfrog' Amazon Go technology. Here's what we know.",
+      "excerpt": "Target wants to take on Amazon and Amazon Go by building out its own network of high-tech stores and warehouses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
+      "originalUrl": "https://www.msn.com/en-us/finance/technologyinvesting/target-is-poaching-engineers-from-amazon-in-order-to-leapfrog-amazon-go-technology-heres-what-we-know/ar-AAR2gQ4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6196f7a3432ef900197cd4cd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
+        "domain": "businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-1-disruptive-ai-stock-to-put-on-your-watchlist.md",
+      "title": "1 Disruptive AI Stock To Put on Your Watchlist",
+      "excerpt": "Docebo is bringing AI and modern technology to the learning management system (LMS) space, allowing businesses to quickly develop pieces of training. Creating training can be extremely time-consuming and difficult to develop and the results can be dull and boring for a subset of employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F654221%2Fai-artificial-intelligence-training.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/23/1-disruptive-ai-stock-to-put-on-your-watchlist/",
+      "publishedDateTime": "2021-11-23T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-clearview-ai-does-well-in-another-round-of-facial-recognition-accuracy-tests.md",
       "title": "Clearview AI does well in another round of facial recognition accuracy tests.",
       "excerpt": "This time, a federal agency assessed the ability to pick the right person out of millions of photos. Clearview’s app still faces legal hurdles.",
@@ -1055,93 +1148,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-ai-combines-advanced-ability-to-learn-patterns-using-traditional-machine-learning.md",
-      "title": "AI Combines Advanced Ability to Learn Patterns Using Traditional Machine Learning",
-      "excerpt": "A new research center focusing on next-generation artificial intelligence (AI) technology will create the high-caliber expertise that Australia needs to be competitive in the approaching machine learning-enabled global economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12617_16375844573647560.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12617",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12617",
-      "publishedDateTime": "2021-11-22T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-brazilian-airports-expand-facial-recognition-trials.md",
-      "title": "Brazilian airports expand facial recognition trials",
-      "excerpt": "The domestic airports in São Paulo and Rio de Janeiro are advancing trials of a system developed by the federal government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brazilian-airports-expand-facial-recognition-trials/",
-      "originalUrl": "https://www.zdnet.com/article/brazilian-airports-expand-facial-recognition-trials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-airports-expand-facial-recognition-trials/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-airports-expand-facial-recognition-trials/",
-      "publishedDateTime": "2021-11-22T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
