@@ -7,7 +7,7 @@ originalUrl: "https://www.newelectronics.co.uk/electronics-news/brainchip-partne
 webUrl: "https://www.newelectronics.co.uk/electronics-news/brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions/242369/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 375
     height: 250
     isCached: true
-
-related:
-  - title: "Kontron Partners Hailo to Launch Next-Gen AI Edge Inference Solutions"
-    excerpt: "Kontron has forged a strategic technology partnership with leading AI chipmaker Hailo to offer next generation AI edge inference solutions."
-    publishedDateTime: 2021-11-22T01:29:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/21457-kontron-partners-hailo-to-launch-next-gen-ai-edge-inference-solutions"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/d085ce2991077e8ddf563ad23f2f6f25.jpg?t=20211122_012826"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "MAWyCjEYCuxlkKSmaLvHRjh9UQ5wHR2bMGKyOUSwnjUYK/XkTjrAmnWebYulw75/PWzOzEb6sFLCggZ1x7Nv+F5BeiA+Dvi9tGzzCCf/3/wUnc2/qZS80/CsKx5seTYgIRZDc8/rQwLVCzStdIRmKD5wXZJgTfWftXH/8xGVl5b0jsES/ffzByqCRPsxvV1ZWGCG5mJ21tX5RyhrReQkDlF2KbbEcUR/He6mzgV12NysuUTwavzIVS2vzcb1WcN7QKZ9LY8O8MvqRHJ0vQE3rU+DWY3t6Ca7ndb2zATnyai6AjXQeyW7RWRrDjCNbVlUa/6Yh7g1oz/Op8qN8U3/6N/tnaFhtTWfpYM2d88SLLM=;uNyWX3TK1N+oMzlkco2elg=="
 ---

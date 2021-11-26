@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-government-clamps-down-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "Global Blockchain Distributed Ledger Market Outlook to 2026"
+    excerpt: "The global blockchain distributed ledger market exhibited robust growth during 2015-2020. Looking forward, the market is projected to grow at a CAGR of 54% during 2021-2026. Rapid digitization of the industries across the globe is one of the key factors creating a positive outlook for the market growth."
+    publishedDateTime: 2021-11-26T17:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-blockcha-distributed-ledger-market-outlook-2026-with-/2021/11/26/9500066.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "pbTHcrt45bxyWfAqSY/wdckqqrvLvMbK6xfWi10wlrmkxLtrnwul3jx0PPxdNtvX5+gMsmhBHJHAW5CA+lWBjBf06Cy4IHCvtcU+MU1n9vFOISE57ij936tuPlLANaKEzGKa+4N3XxNDxzkgfYX5U9vwAcn5ZiDuQ1dcKgrg8tpTecC5bw7/su3+5JZqjgDXLRWbOMbdX3+05rj1dyoP9XKYs89UkBi9NjXXtXzF36ksYNNB6fY3mAxPUp5NcBXGvyk6n/+L4YLVd6I80HPUMAZbBvFXKxZhRcoPpEDaBNECdsT9C6SZhkHZ3seJ/gO9icNImJHsRPTDQ+CCe6mAllF+h/hnXvRq/B5BcAefW+5K9qAsAp/yu+SnA2sKXcC0u40NqhoUje4qDPhqnskH6h4M2pzEo0cDRY1hgu/wYMKavBbWAr6DAqG+zR+xHUA0fFK58IR+Yt0pBdCfT2stQIt8iPJGFYZl1xvOZZAcnmlxsLFeIMYgxF/F3AiVhc4bti2mVLEnAjspjpLGAQjykA==;qR7ZxtimQvsQXgYgDYtP1g=="
 ---

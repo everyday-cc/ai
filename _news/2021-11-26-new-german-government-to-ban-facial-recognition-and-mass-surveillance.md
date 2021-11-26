@@ -7,7 +7,7 @@ originalUrl: "https://www.euractiv.com/section/data-protection/news/new-german-g
 webUrl: "https://www.euractiv.com/section/data-protection/news/new-german-government-to-ban-facial-recognition-and-mass-surveillance/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Incoming German gov backs EU ban on AI public facial recognition, social scoring"
+    excerpt: "The coalition formed by the recent general election in Germany is to add its weight to EU proposals to ban remote biometric recognition in public spaces."
+    publishedDateTime: 2021-11-26T17:16:00Z
+    webUrl: "https://www.biometricupdate.com/202111/incoming-german-gov-backs-eu-ban-on-ai-public-facial-recognition-social-scoring"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
+        isCached: true
 
 secured: "WX2+KLd0FlsXNNktTBtNv7vcDxMdRM5UTe7pe+HA/o0ebrphkTYUhRPg/GRTNGYkdjFhpBkxGIYYXkZWqPa1FlDBCzLuwG1H5eLXPkjDcqRaC4+eyeXW20voHVUg2imB2SPv8HUXNh8UlZ56r6dbCK43HmHpW09GdiQIuFPGJD9zpbSfnYX9BzD4wXKmr4sB01amMSpzkjgj6YdwqT7vSiWIxCNT8Vgf2Cbttcw05Ns+9e0wJ3TfZgpAjrMyDzqRn4bYczdM81EOZDTycqWMsOU6DVYs1JF6O1D3iHO/B7dnQpeFbQtY6QL7RbOsyzN+0AzXXnjYjly288FRhXnBJ3zouoblkT9r+RU7wDYGoC74RPeZjxH/PDJ+JrQRq7lsYDzJ8VidlDmpBt+z/j29qxBsROiFmAWsNDcyfYQwNqQR2ihtQjeN/Hz2O1RteLzSZ7S7S2qPz2V56Nw/RQ1t/H2XksgRnFTPy1+OBn9dduMfTt0+n3nzCvPjm7QkfRazw9nXy5Ei/z5cRb3sUr6bsw==;56b8B4QXT9e4el6usWdwTg=="
 ---

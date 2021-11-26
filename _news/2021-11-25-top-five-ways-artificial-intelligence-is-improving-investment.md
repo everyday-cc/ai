@@ -49,20 +49,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "How The Overlap Between Artificial Intelligence And Stem Cell Research Is Producing Exciting Results"
-    excerpt: "For the last decade and more, Stem Cell research and regenerative medicine have been the rave of the healthcare industry, a delicate area that has seen steady advancements over the last few years. The promise of regenerative medicine is simple but profound that one day medical experts will be able to diagnose a problem,"
-    publishedDateTime: 2021-11-22T01:32:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/11/21/how-the-overlap-between-artificial-intelligence-and-stem-cell-research-is-producing-exciting-results/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619b006834fcd4d72af6a570%2F0x0.jpg"
-        width: 1200
-        height: 795
-        isCached: true
   - title: "Mining gets AI boost with new research centre"
     excerpt: "A new research centre to focus on next-generation AI technology has been launched at the AIML at the University of Adelaide."
     publishedDateTime: 2021-11-23T00:41:00Z

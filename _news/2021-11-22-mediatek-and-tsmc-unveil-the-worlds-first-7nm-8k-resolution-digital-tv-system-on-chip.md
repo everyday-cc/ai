@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek Dimensity 9000: next-gen SoC with 5G, AI, and TSMC 4nm node"
-    excerpt: "MediaTek has just unveiled its new 5G-powered Dimensity 9000 SoC which features 8 cores of CPU power, an ARM Mali-G710 MC10 GPU, ray tracing abilities, 5G connectivity, and it's made on TSMC's new 4nm process node."
-    publishedDateTime: 2021-11-22T01:44:00Z
-    webUrl: "https://www.tweaktown.com/news/82877/mediatek-dimensity-9000-next-gen-soc-with-5g-ai-and-tsmc-4nm-node/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "MediaTek, TSMC unveil first 7nm 8K digital TV system-on-chip"
     excerpt: "MediaTek and TSMC have unveiled what they call the world's first 7-nanometer 8K digital TV flagship system-on-chip (SoC), the MediaTek Pentonic 2000. The MediaTek Pentonic 2000 features artificial intelligence (AI) engines,"
     publishedDateTime: 2021-11-22T14:08:00Z

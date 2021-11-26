@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Black Friday 2021: Best Smart Home & Kitchen Deals"
+    excerpt: "Black Friday 2021 is the perfect time to nab the kitchen gadget you've always wanted or that snazzy new addition to your living room. And whether you're in need of a dirt-busting steam mop or the smart TV of your dreams,"
+    publishedDateTime: 2021-11-26T17:26:00Z
+    webUrl: "https://patch.com/us/dealtown/black-friday-2021-best-smart-home-kitchen-deals"
+    ampWebUrl: "https://patch.com/us/dealtown/amp/30162156/black-friday-2021-best-smart-home-kitchen-deals"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/dealtown/amp/30162156/black-friday-2021-best-smart-home-kitchen-deals"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/users/22872995/20211126/114008/styles/patch_image/public/black-friday-smart-home-kitchen___26113948138.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
   - title: "The Best Vacuum Deals for Black Friday 2021"
     excerpt: "If it’s time to retire your old vacuum, Black Friday is an excellent time to find the perfect replacement. While the absolute best Black Friday sales typically arrive on Thanksgiving or the day after,"
     publishedDateTime: 2021-11-23T15:14:00Z

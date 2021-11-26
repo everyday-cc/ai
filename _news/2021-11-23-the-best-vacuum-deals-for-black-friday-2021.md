@@ -153,6 +153,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Black Friday 2021: Best Smart Home & Kitchen Deals"
+    excerpt: "Black Friday 2021 is the perfect time to nab the kitchen gadget you've always wanted or that snazzy new addition to your living room. And whether you're in need of a dirt-busting steam mop or the smart TV of your dreams,"
+    publishedDateTime: 2021-11-26T17:26:00Z
+    webUrl: "https://patch.com/us/dealtown/black-friday-2021-best-smart-home-kitchen-deals"
+    ampWebUrl: "https://patch.com/us/dealtown/amp/30162156/black-friday-2021-best-smart-home-kitchen-deals"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/dealtown/amp/30162156/black-friday-2021-best-smart-home-kitchen-deals"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/users/22872995/20211126/114008/styles/patch_image/public/black-friday-smart-home-kitchen___26113948138.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
 
 secured: "4nqRuidsuVHnRS/+dKVaBIuzOKWwZJ6ham572YQsLvxzojr+zy34AHeqcdZMdb4QdREuJF8q9khrP7TWedRZ9dniljlqN+j88v0CbLDeueakIDlJGB6wLF8bxeCY4UYw/aDPlJhmYB+FOd65tskUekvVvcAZImb8sgVAh7oG1DMiP3H32rmtw6ENxzzjj8BSKWVPvDoy3tL387i95lwdM7ysX1+h+KV6xXHwVZndn0hOqX4FUUb/4/HuwDZj2xkb+CxMin3Ru+R/n8ynqRoX7b14RGPFaUbs5c4k0Us0xaqi8eYfmMeGMSK9Trdl+Df57nJLPDYpbe1Q5aOmBOc5NkZb8dAKbDYuSVIxWk6quEpU3QAYHcxqfirerYh7ngvDPF7togDWtjrbtDvzGGNx6vZWkfOgHmnJzTtw2jnDWgX4VRci3d2zPVt1aoQiMkrN4j8H/0uUTyo71dc3Ar4fi2KsgZ6YquyiXUoVAX2usfIWFyip7QnvG6KAGlgQVgI0u5oDYsIXO58fzTJsXYaapg==;OUXP2NCK0KZVmZub5FdYUA=="
 ---

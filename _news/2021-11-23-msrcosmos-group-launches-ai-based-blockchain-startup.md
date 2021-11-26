@@ -35,6 +35,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
+  - title: "Global Blockchain Distributed Ledger Market Outlook to 2026"
+    excerpt: "The global blockchain distributed ledger market exhibited robust growth during 2015-2020. Looking forward, the market is projected to grow at a CAGR of 54% during 2021-2026. Rapid digitization of the industries across the globe is one of the key factors creating a positive outlook for the market growth."
+    publishedDateTime: 2021-11-26T17:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-blockcha-distributed-ledger-market-outlook-2026-with-/2021/11/26/9500066.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "/0EU/QICGpWurqw/RLCb/R8FzIufFVyMeoG4khCPcqDGAC1HfA1C2aP7jbmVBhJcDFmYJNONN45BhbUulkqAICKbyKQXAgoFBmhFgQY6xP3WCERVAa3nPXocL4c3JMVPLyOVTR41GSA8Z3kzC+7n9cP7Tu6nyB3HT0dGBKEUCh5OTvCBF2/XEJsyVzIwKzVvf7nyKpKKQKYn+L9Mg9RkWVHSz0CCkVnjTSpLY3sCijEO11PPIzIBvAEhAVU6/dIGBKeb5QGSbywh+v1G4p27am0WSv6Dhrm5H4lOaKSR09eHfhFC1WMVeoM3oaKAoTYUiUHKbOZeOKmbQvFxB3DzvZ9UkXk8uMHNhRnmMyKRKUkFQTT1ROGPlZHedQjRX79WXyQOQvUTwzIyXvtJsJeriFp0A51wCa0+p98EevDURiu0M4iOPgaBxvK+Vm+7OT9v2YY9i8tkypfWgOWwTh8yxovTXWyM7kjT8njD796jYTL7xBXiyZpHd+SJaRpgWFSelVqKwohFk/uR8Q1sgQfyLA==;DSqK70ik9Mx3uvPTArJg0g=="
 ---

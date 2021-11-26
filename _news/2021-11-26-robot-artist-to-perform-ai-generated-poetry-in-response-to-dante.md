@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-a
 ampWebUrl: "https://amp.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Natural Language Processing
 
 images:
   - url: "https://i.guim.co.uk/img/media/0f0b6b4c0cadfc53c456086efad2e3638298d7b8/0_159_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7a8bd6acf965032c4fc0d1182f266d7"
@@ -30,6 +31,6 @@ images:
     height: 360
     isCached: true
 
-secured: "JGSiFqJ7JULtSHq2kT415Pvazct2aLsmGBKJ2XrrQAh+j7wnH//FZWSh8OHfvq8UbkLRd5RtlCFw8dwD19grPMpOWhyJtex0B4vG88j37YrvvoiHUiAKc5Qq0FZr5C1n6awVYvr35DNKhzCLzWQiUx6iQcqaSkjmHIL38t4MUlPhoHzvygUjB3uvb2GlL66suAlxAI1YeBeBNK6B9KSsxBI/JZclthhKpvekFwO+wPJGw1BMZKYTv0W5yl+31yRY+A0XD3ilqCtNKv+aJsOyuedQdlgEWWEaG3QFyYtx2/dMs2gJfAaEQJ5MslHh/UDQm/2aJw6WAS1qxiMEXl5D09WI4xt52kwWWHRYCuSntS0=;13pmKpTm9f1I2aJohgLzQg=="
+secured: "PKWy4NlhMyrLHuEjbeCGzs5eDBBJzmTOPN1shiRhAaBebxFSHf5jSYZvzZ+1CKfmoBc2CyfzxbCqlALZWqU8LtxTHOkCS5opfDofsipbFnT1i8UvVH3qsq7JsvtlrSH83fC/VK3kZLwvLGkbE3yvgzoUoi7LTeMGHBvmZiT210sQvohxIAUXW21fce+HcUkDnL6hIXR5cYUx1Flx6hoJMDNXu/ny7JGO5VeN3ZYBJ/RnG0cktBZmEoFu1gXkKJtqzBR4QI2t978b2foOnDPRELfhzSH18+oJY0mTPG8u9E49J+QqpQFKCCNlR8JttmoSUdwvZomQbeMsewezGRLZp5/X7Jpuk6dAurI57EC/CFnDWotih9c4gMmQnorUkXX6k2ays7eKb3nPwWsA9rKnkgm/rcIa2FnZeZHXFTqOA63g6zsfzedvJJzI/UDzZh3gnZWYbvMZayIgCxjGmph7JIoan0YQrKatwQ2xzvR0h4NPVEU0u3f2UmG6hbd66A0q9tufwY85miZgOy7Otgunzg==;NlnqXT9QzXh64Vb1JbajKw=="
 ---
 

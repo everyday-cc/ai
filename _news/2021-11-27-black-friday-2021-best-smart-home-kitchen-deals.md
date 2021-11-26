@@ -1,33 +1,29 @@
 ---
 category: news
-title: "The 100+ Best Amazon Black Friday Deals 2021"
-excerpt: "Amazon's early Black Friday deals are already live for 2021. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more."
-publishedDateTime: 2021-11-25T13:21:00Z
-originalUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/"
-webUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/"
-ampWebUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/amp/"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/amp/"
+title: "Black Friday 2021: Best Smart Home & Kitchen Deals"
+excerpt: "Black Friday 2021 is the perfect time to nab the kitchen gadget you've always wanted or that snazzy new addition to your living room. And whether you're in need of a dirt-busting steam mop or the smart TV of your dreams,"
+publishedDateTime: 2021-11-26T17:26:00Z
+originalUrl: "https://patch.com/us/dealtown/black-friday-2021-best-smart-home-kitchen-deals"
+webUrl: "https://patch.com/us/dealtown/black-friday-2021-best-smart-home-kitchen-deals"
+ampWebUrl: "https://patch.com/us/dealtown/amp/30162156/black-friday-2021-best-smart-home-kitchen-deals"
+cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/dealtown/amp/30162156/black-friday-2021-best-smart-home-kitchen-deals"
 type: article
-quality: 74
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Patch
+  domain: patch.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.thewirecutter.com/wp-content/media/2021/11/amazondeals-2048px-3x2-v2.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
-    width: 1200
-    height: 628
+  - url: "https://patch.com/img/cdn20/users/22872995/20211126/114008/styles/patch_image/public/black-friday-smart-home-kitchen___26113948138.jpg?width=984"
+    width: 984
+    height: 738
     isCached: true
 
 related:
@@ -62,6 +58,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2021/11/Black-Friday-Deals-Blink-Amazon-Bundles-presser.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The 100+ Best Amazon Black Friday Deals 2021"
+    excerpt: "Amazon's early Black Friday deals are already live for 2021. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more."
+    publishedDateTime: 2021-11-25T13:21:00Z
+    webUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/"
+    ampWebUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/amp/"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/amp/"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://cdn.thewirecutter.com/wp-content/media/2021/11/amazondeals-2048px-3x2-v2.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
+        width: 1200
+        height: 628
         isCached: true
   - title: "The 101+ Best Black Friday Deals in 2021"
     excerpt: "Black Friday 2021 has officially arrived. Find all the best Black Friday deals on Wirecutter-recommended TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."
@@ -143,22 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Black Friday 2021: Best Smart Home & Kitchen Deals"
-    excerpt: "Black Friday 2021 is the perfect time to nab the kitchen gadget you've always wanted or that snazzy new addition to your living room. And whether you're in need of a dirt-busting steam mop or the smart TV of your dreams,"
-    publishedDateTime: 2021-11-26T17:26:00Z
-    webUrl: "https://patch.com/us/dealtown/black-friday-2021-best-smart-home-kitchen-deals"
-    ampWebUrl: "https://patch.com/us/dealtown/amp/30162156/black-friday-2021-best-smart-home-kitchen-deals"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/dealtown/amp/30162156/black-friday-2021-best-smart-home-kitchen-deals"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/users/22872995/20211126/114008/styles/patch_image/public/black-friday-smart-home-kitchen___26113948138.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
   - title: "The Best Vacuum Deals for Black Friday 2021"
     excerpt: "If it’s time to retire your old vacuum, Black Friday is an excellent time to find the perfect replacement. While the absolute best Black Friday sales typically arrive on Thanksgiving or the day after,"
     publishedDateTime: 2021-11-23T15:14:00Z
@@ -174,6 +170,6 @@ related:
         height: 1175
         isCached: true
 
-secured: "ljCrmNQWB01n+74yj33dVGCSSn2Z/zW0o4q5WefgKBhvzNLILX1Zg1jKj4ob7jY+4RpkmX08EzvJJf3d0pRuAoWHhChXNRUJb92vfZFj/7FhgyBivMLLZkpIkcMAQ4eGT9qyeMHso46pmRHEdw98qLiXDZewHfmCBPBPofmRR+9nW9DTJfSoq5Vpg/xfaYIeFENk2+bDxv0HGd3fhQnUIxjSvTRMFDIQK/Nj7NsxVEHh+arel+DxTKFFC0jsZOwKUBf0tMMy6Kb6pCyi3nn+N8yXiS9au+yvY/TBmL5DiyMkauhwm9Kn10Ueu3Kz2nDNlyvUhzIQ1ddmUWTyyzrThEnHnjB9riCUGyGpAoIm+TeinxWtPK02E5UbbxCK98uh5bDqNTRLgn+RDRfzW4jmshVNJuN0rDOMjucL0dg4U5wSBsEvaJcGi49TFedLXwnpuJMu9rTqnxqbOpBnD4EqU+krx++gU1thRV3SHugjrpqJUbcVUENPzuX1YAB4vlzlASLQBO3RF3DPuXsYWot8Nw==;VK9oWS+Nygls/I5hD+IkuQ=="
+secured: "zCx3AVYbVcRK037zoq8mFiAhosEbSAfJ4vwDi2Z0OuBaF2OdE+V+UnFU7OA3re4KeXQS146EGBUMEydVb5IkrtAilPb53w3BUBIfSa5iOTFyjK2x6sWmvvsAM0vH3ikw4SMysmR6VaZhRaYuQy7li30h/tZrNsmESSnL7hEKApHnH6tfb+l194wPjpQk0mjbDdKejlEAEOzEDscNs8xW42zAHlTSBNcgxaPInYep/EiGwyvf1xV7g8Dgzc12HcdW2wJDFxwm1QFYFc2smNeDcmOWsmWrz5eZVugpP5jgxMWSbVSQerbTteKDqjJm3G5iHHSM4rLiufQ7ZDSr5tCycfxQ4ilPBeg6RcvCVyO9U/o=;w6xuomp2CqKVGzHWBU/ZFg=="
 ---
 
