@@ -7,8 +7,8 @@ originalUrl: "https://www.newelectronics.co.uk/electronics-news/brainchip-partne
 webUrl: "https://www.newelectronics.co.uk/electronics-news/brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions/242369/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: New Electronics
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BrainChip Partners with MegaChips to Develop Next-Generation Edge-Based AI Solutions"
-    excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY) a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,"
-    publishedDateTime: 2021-11-21T23:18:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-brainchip-holdings-ltd-7952777fbb254eb4a461e41c376abc4d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 47
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Kontron Partners Hailo to Launch Next-Gen AI Edge Inference Solutions"
     excerpt: "Kontron has forged a strategic technology partnership with leading AI chipmaker Hailo to offer next generation AI edge inference solutions."
     publishedDateTime: 2021-11-22T01:29:00Z

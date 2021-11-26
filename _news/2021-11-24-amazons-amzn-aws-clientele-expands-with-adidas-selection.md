@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
-publishedDateTime: 2021-11-23T17:12:00Z
-originalUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
-webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
-ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
+publishedDateTime: 2021-11-23T20:00:00Z
+originalUrl: "https://www.entrepreneur.com/article/398836"
+webUrl: "https://www.entrepreneur.com/article/398836"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
+    width: 635
+    height: 400
+    isCached: true
 
 related:
   - title: "Adidas Migrates SAP Environments To Amazon Web Services"
@@ -43,6 +51,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "adidas Migrates SAP Environments to AWS"
+    excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
+    publishedDateTime: 2021-11-22T04:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
     excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
     publishedDateTime: 2021-11-23T23:52:00Z
@@ -94,16 +118,7 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 21
-  - title: "Adidas migrates SAP Environments to AWS"
-    excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
-    publishedDateTime: 2021-11-22T13:46:00Z
-    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
-secured: "31tovXyqCoPe7Y8B0UdjzJ4ynrhVaZR9nN/wzKm/mZse20PyEfEVN0i4ZIchOYKHAxlC3qMXMxGaD4nvAmPCq3IQUNKJNspK9cLAUa6hZgaAv4NK9FdxCwK4l75GNO13M7IA+vds/T/KFnQBOvr93Se+xCsaWSqDgYQ/oTzHjY2GQne9r/cOexSGP1/31RpDczsFdv6j2BqI6zj9wLCuCDz9G/oZF++NUiGC0gAVMvx+W0PCTbbaptraYVuhrxwC/BkY9BYyW+mQ5a5QTvoDNMVikPDyex88rd8CzwpMyBcM7yp+rWySmtKgUZaE5m6+4YLc/Pn61CyfGWwCxREs734OftyEOjiRFxRZ6ntFr3Q=;9hK/68R1A9guPWUbM2qL1Q=="
+secured: "oNPCL+bhM1LErKFKtS9Z93Wo3nIcAfBxT9z7yoGQis1JyLG5uGNtgjlPjveYxP6ciKtTNo3FJS3Og7+9N5mo8gw7zTknMvU+Ws8khntjngybEF5u0mZUbevMxm8VpfXyuLUu/2EL2YZyXs5tqF57quTStwvMqyTDAL1Je8O/qBDgw4fNtwW38Ip6gMfCxJccvJOr80dy3Nll2Q338PE38IF1QUV9jAyDyjuruRuChDhJ42GWYA0uUBVMqLylzL4jMqBop6o471eeCDAJ1Wpqj0NaZXjGnNuzJiw5IpQRmBIkZpd2grGUcTlWyBORp6RqeDk0zXYOMa0sxLiVQ7JhgStx+jZSa1wWSy/fwX88bwA=;Qy1wz5EmSqYR19/jS6Vrog=="
 ---
 

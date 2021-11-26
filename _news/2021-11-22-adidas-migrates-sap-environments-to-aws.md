@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Adidas migrates SAP Environments to AWS"
-excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
-publishedDateTime: 2021-11-22T13:46:00Z
-originalUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
-webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
+title: "adidas Migrates SAP Environments to AWS"
+excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
+publishedDateTime: 2021-11-22T04:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Adidas Migrates SAP Environments To Amazon Web Services"
@@ -42,16 +50,19 @@ related:
       domain: nasdaq.com
     quality: 69
   - title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-    excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
-    publishedDateTime: 2021-11-23T17:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+    excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
+    publishedDateTime: 2021-11-23T20:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/398836"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
+        width: 635
+        height: 400
+        isCached: true
   - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
     excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
     publishedDateTime: 2021-11-23T23:52:00Z
@@ -104,6 +115,6 @@ related:
       domain: financialbuzz.com
     quality: 21
 
-secured: "mhCsJZpywkuXXVIPFo8RT9sk/O/Ioy2UF3p97M7MSVp2OERFpSOJOXLCYCOwbNsMQK1YZTf8YZzktLG+oJX0vPqx/fSBmC78mgdfSaLf6ppTIRyMeWPGNsebRZaBHbTVuuDmDiCpt8iQJZa9FdIoxOalUrqNYytKvinMGBX7wj6TqzWkhpEklYLA/Sq8hI/EIsJD54nnORzyJoB98LN/ckMEBDeMv4UKJl/terWR58iFuTQLucxEaEyn2ATqwkjXgAywYsk1x0Kzy24nEU04O8hsHCUIjqOaR3LjDMj/dBHq1ghR8h5+H6iFfDZ0k5PNKS+mbiaHiw6gQgS9aCGPcMS0AyUgAgZj1plxPN3SRKs=;MRQ4HjjxWnjcqPLqtTGndA=="
+secured: "H3lA62W2ZDbKjUgG5oHYOMNjRENxCzv9qX4KjupWFp3jquKUDZzz2tcWh1joEDGeazGkf5MIe5yURvJ9ALog6kDBw59K1Z2ClU5edGFSMm/qysQsvqDuLswOYUX1LA8xQbg5u28dhhxYdnNt6MMYmBSnrDnpbk6gN0awUkUwJaOhaWpJ/BiWePcMkr3c2LEJmGjW26bbWqNMi/KIqKEBFFon11xSE6pPj3Ty+F5HQfRmQeJm8G4dn6crlDJOg/LdXWrlXE0dMTLUFnjVVVNY8ap+7qCVqaMGFPm1jWyDziOszf0RuCTqq3niSfkFqZALXHBNv52LrveFGkdTTYjSv+WEcLh9+XfQTE6Q5MvV6nM=;8GiENZY28tj3+xrHTPkfCw=="
 ---
 

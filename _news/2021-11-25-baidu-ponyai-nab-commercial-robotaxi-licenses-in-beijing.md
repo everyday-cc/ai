@@ -233,6 +233,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Baidu and Pony.ai gain approval for commercial robotaxis on Beijing’s open roads"
+    excerpt: "Robotaxi fares may be double that of existing taxi services. Baidu and Toyota-backed self-driving tech developer Pony."
+    publishedDateTime: 2021-11-26T08:41:00Z
+    webUrl: "https://www.linkedin.com/pulse/baidu-ponyai-gain-approval-commercial-robotaxis-beijings-open-roads-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEwrCiVKTB1eA/article-cover_image-shrink_720_1280/0/1637915937113?e=1643241600&v=beta&t=K_4L9_zuQscKb5JkpeIt0sW0-xHB1-hJjSG38JFgrqM"
+        width: 1267
+        height: 713
+        isCached: true
   - title: "Commercial robotaxi pilot services launched in capital, Baidu among players seen capitalizing"
     excerpt: "Beijing launched China's first pilot area for commercial autonomous driving vehicle services on Thursday, marking a shift from the testing phase for autonomous driving to wider commercial exploration,"
     publishedDateTime: 2021-11-26T00:48:00Z
@@ -248,6 +262,6 @@ related:
         height: 480
         isCached: true
 
-secured: "K1DyyoWlQvXXhgoGIzjDxS53dkBk22k71wBlEfyX4/XJEKHg1LOSRUvM772mNnJc4H1wEcC8bETou3Ft09OPora1E93Je4wBNIaxqAvxPdvphtAS8ExPTPt//vfdUGtgg6Rlo6uXFQdohC4aQd3gfFaEBdqE+LhtYAx40smfAHDXB8zKJfK0IgiaH5bq3QFts/SIgeKbUfGB0s++26Jgd//yq/CvXwcpKO1cznLL8pE7h1vL3/lzFWozSSqvEitvCFwwCadr5sZinqy4wCjpmpvD2+QhdP7crtW0776fVoqttsBO/ToT/QnlrroAu3YRyXNdfsnwt7eIJuga3UdmSq4iE8rCfyzggO37sgd3M3c=;MN54WpOHgYG8jehiCDpCFA=="
+secured: "I0xIu03uT5bO1NCbchmSlfm4Fkoxxmy0noRA9y/OYQjDyiTYI1ko+5lrTKri4JpkDe3rz6Jazl0kwdVau17nDsHBVQOn90wNgV5Wdec14+CQ58b6oo3oeYq9MVAoQYN+duacW4MFZ7QYfry0O7ZZg7mmOePshIgqL8Izb9dTn6HU75lBxXCzkWFZaidUHRGTYHWE7zTXTLe9Q//G+iAcHis3YF87ju0FHQ2WiKdCnGiNJklFt64AZ449Vr/VFWGNG516JfALopayfzdP4hVSD9u6TzOxrFE7f/e+QozjT/2r8A+04ptcHCj9zLU+eBZHxFrdiw8Y/8ONNE80Ol6ATK80ZHtfFvmaSoSePtBEpxw=;8E0vIjGtYDEQGTzetf5SDw=="
 ---
 

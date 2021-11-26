@@ -124,6 +124,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Canadian Fintech Borrowell Celebrates Financial Literacy Month, 2M Customers"
+    excerpt: "Canadian fintech Borrowell announced this week that more than two million Canadians are now members of its platform. This announcement comes during Financial Literacy Month in Canada, as Borrowell continues its mission to educate and empower consumers to take control of their financial health."
+    publishedDateTime: 2021-11-26T14:21:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183393-canadian-fintech-borrowell-celebrates-financial-literacy-month-2m-customers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183393-canadian-fintech-borrowell-celebrates-financial-literacy-month-2m-customers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183393-canadian-fintech-borrowell-celebrates-financial-literacy-month-2m-customers/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/04/Canada-Flag-Ontario-Lake.jpg"
+        width: 1280
+        height: 1142
+        isCached: true
   - title: "Indian fintech startup Recordent raises $400K angel funding"
     excerpt: "Recordent, a fintech start-up in the non-banking payment bureau sector, announced that it has raised $400,000 in angel funding from the Family Office of Kantamaneni & IIM Calcutta Innovation Park and other angel investors from India and the US."
     publishedDateTime: 2021-11-23T10:46:00Z

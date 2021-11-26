@@ -120,6 +120,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Canadian Fintech Borrowell Celebrates Financial Literacy Month, 2M Customers"
+    excerpt: "Canadian fintech Borrowell announced this week that more than two million Canadians are now members of its platform. This announcement comes during Financial Literacy Month in Canada, as Borrowell continues its mission to educate and empower consumers to take control of their financial health."
+    publishedDateTime: 2021-11-26T14:21:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183393-canadian-fintech-borrowell-celebrates-financial-literacy-month-2m-customers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183393-canadian-fintech-borrowell-celebrates-financial-literacy-month-2m-customers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183393-canadian-fintech-borrowell-celebrates-financial-literacy-month-2m-customers/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/04/Canada-Flag-Ontario-Lake.jpg"
+        width: 1280
+        height: 1142
+        isCached: true
   - title: "Exibex brings Finnovex Saudi Arabia to the GCC region from March 22-23, 2022 to Nurture fintech"
     excerpt: "Join the virtual experience as Exibex ushers you into the first quarter of 2022 with strategies to unleash the power of the Saudi Kingdom Fintech Landscape"
     publishedDateTime: 2021-11-25T15:28:00Z

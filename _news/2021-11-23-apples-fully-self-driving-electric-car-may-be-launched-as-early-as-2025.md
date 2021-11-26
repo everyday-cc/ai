@@ -27,35 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Apple’s self-driving car coming in 2025: Report"
-    excerpt: "Whether Apple can launch the Apple Car in four years depends on how successful it is in developing self-driving technology."
-    publishedDateTime: 2021-11-25T07:38:00Z
-    webUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746"
-    ampWebUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
+  - title: "AI That Tries To Be Funny Is Not Necessarily A Laughing Matter, Especially When Used By Self-Driving Cars"
+    excerpt: "AI that uses humor can be handy or a big problem, and likewise in the case of self-driving cars could be good for riders or a really bad idea. Let's explore why."
+    publishedDateTime: 2021-11-26T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/"
     type: article
     provider:
-      name: Philkotse
-      domain: philkotse.com
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609dc9fd2dec6a7482aa84f2%2F0x0.jpg%3FcropX1%3D191%26cropX2%3D2718%26cropY1%3D276%26cropY2%3D1697"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Want a self-driving car? Better not rush"
+    excerpt: "Would it not be almost perfect after the day’s labor, or a night of fun, to just board your FSD (full self-driving) car, push a button and your computerized chariot takes you home while you nap at the back?"
+    publishedDateTime: 2021-11-24T16:00:00Z
+    webUrl: "https://www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush"
+    ampWebUrl: "https://www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush/amp/"
+    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush/amp/"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
     quality: 44
     images:
-      - url: "https://img.philkotse.com/2021/11/25/kdtzClWN/untitled-design-2021-11-25t145918-649-6596_wm.jpg"
-        width: 900
-        height: 600
+      - url: "https://media.philstar.com/photos/2021/11/23/madam-tussauds-hk-pacman-1_2021-11-23_16-00-35959_thumbnail.jpg"
+        width: 686
+        height: 392
         isCached: true
-  - title: "Apple wants to launch their self-driving car in 2025"
-    excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
-    publishedDateTime: 2021-11-23T19:30:00Z
-    webUrl: "https://omaha.com/news/national/apple-wants-to-launch-their-self-driving-car-in-2025/video_ed29d3cd-9850-5f31-b032-5356012a5614.html"
+  - title: "What makes uni students steer clear of self-driving cars?"
+    excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
+    publishedDateTime: 2021-11-23T06:17:00Z
+    webUrl: "https://www.scimex.org/newsfeed/what-makes-uni-students-steer-clear-of-self-driving-cars"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: scimex.org
+      domain: scimex.org
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed29d3cd-9850-5f31-b032-5356012a5614/619d28a3d9226.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
-        width: 640
-        height: 336
+      - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
+        width: 1490
+        height: 990
+        isCached: true
+  - title: "Self-driving cars: Are they actually safe to drive?"
+    excerpt: "Self-driving cars aren’t some crazy future tech … They’re here now. That raises some questions. Does it actually work? Is it safe? Is it work shelling out"
+    publishedDateTime: 2021-11-23T19:39:00Z
+    webUrl: "https://www.komando.com/episode/self-driving-cars-are-they-actually-safe-to-drive/817085/"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 24
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2021/03/kk-img-20210303-kim-komando-explains-1400x1400-1.jpg"
+        width: 1400
+        height: 1400
         isCached: true
   - title: "Apple's fully self-driving electric car may be launched as early as 2025"
     excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
@@ -71,15 +101,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "CES 2022: First self-driving racing competition scheduled"
-    excerpt: "At the upcoming CES 2022, the largest trade show in the world, the first high-speed autonomous racing competition will take place. The Consumer Technology Association (CTA), the organization that manages CES,"
-    publishedDateTime: 2021-11-23T13:24:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17456/ces-2022-first-self-driving-racing-competition-scheduled"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "t7UFSKarhhYndgzBTChwxP68z3X+XQ/l1G6AkW3hYVNoxg5rN4vGKe3C1tp+Sf8/CJlLK4JnKmAX7SSmMMygmxMPfFx1ESa9AQnHnXFqMOaReJ/mpPFnRe/DtJcYRDO1MiBtIUQV1e/V+udbeTPYV31/YYYcYYcAEXXKsM1cbLcwYBQpdjhxADM4m3c+W/gD9dT7UDvrtSdhLIJrHw7MevOK9FwlhEfACvr1SBA8Xr3YWaeiUrPWt11RAVdRPBrMovv8tS2S+LH7hf/7A9ojpEQBNRUcUDcroCL85FnAcK+c/prTc+4Ag1vzVfhitgx/IPPs3se53Tc83GIkT9PN0pUk4w8bJZjRrFiQvoruBXQ=;fmuXuvnmR6wQQiGW3DSyBg=="
 ---

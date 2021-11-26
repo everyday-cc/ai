@@ -153,6 +153,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Image Recognition Market to Reach USD73.344 Billion by 2026 | TechSci Research"
+    excerpt: "Rise in online gaming, introduction of driverless cars, increased usage of social media platforms to drive the growth of Global Image Recognition Market through 2026. According to TechSci Research report,"
+    publishedDateTime: 2021-11-25T12:58:00Z
+    webUrl: "https://www.linkedin.com/pulse/image-recognition-market-reach-usd73344-billion-2026-techsci-joshi"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 20
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFHyrIrIAp-bQ/article-cover_image-shrink_600_2000/0/1637844049612?e=1643241600&v=beta&t=73H05lxXvyjELDM0KgIO8lcRFl0c1pjiUXoqPy4skps"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "KLe7ry6h+qbsmCVHXEIrYKPNZQA5zfvLi5MinYXm/XhSn1PAafz7TA103zZgMyoP9rW3e1HPzTCpwB4Bg/YgeFsHZG1TZQMxv0BNIGXMGDauimri1vsxH0vn21ScizlJ2uLJ6FupTtOC5GAmu0UtUPUHue4tRIplQDIJAcnMxg175uo6UV3r7Y2ZxQ9BSnVqHSLA79kLIbwifoR7HQAnWlQ6TsgxqvQ6rgvTHYusssYUjtVEG1j/DYOxIUk/onf7zvNCuOJoUJgOCzt1LtoHOCJepaBYcM6+LvgMdVfjbhXo2lDKGTq5c7Qp7f74OsjzkqEZVXNSJI6oPtu/Fk9wPAZWvC+qECbTiL+9YKRq8+4=;gPSTcDJhnV98B/+oNqho5w=="
 ---

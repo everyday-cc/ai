@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-gree
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575"
 type: article
 quality: 104
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -233,6 +233,20 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/baidu-ponyai-get-permits-to-run-china-first-paid-robotaxi-services-in-beijing/17814938783055872.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Baidu and Pony.ai gain approval for commercial robotaxis on Beijing’s open roads"
+    excerpt: "Robotaxi fares may be double that of existing taxi services. Baidu and Toyota-backed self-driving tech developer Pony."
+    publishedDateTime: 2021-11-26T08:41:00Z
+    webUrl: "https://www.linkedin.com/pulse/baidu-ponyai-gain-approval-commercial-robotaxis-beijings-open-roads-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEwrCiVKTB1eA/article-cover_image-shrink_720_1280/0/1637915937113?e=1643241600&v=beta&t=K_4L9_zuQscKb5JkpeIt0sW0-xHB1-hJjSG38JFgrqM"
+        width: 1267
+        height: 713
         isCached: true
   - title: "Commercial robotaxi pilot services launched in capital, Baidu among players seen capitalizing"
     excerpt: "Beijing launched China's first pilot area for commercial autonomous driving vehicle services on Thursday, marking a shift from the testing phase for autonomous driving to wider commercial exploration,"

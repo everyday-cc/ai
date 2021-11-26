@@ -171,6 +171,20 @@ related:
         width: 377
         height: 250
         isCached: true
+  - title: "UNESCO member countries adopt first global agreement on the ethics of artificial intelligence"
+    excerpt: "AI has gradually made its way into our lives. But the algorithms that enable it to function have also been misused in recent years, illustrating its dangers."
+    publishedDateTime: 2021-11-26T13:57:00Z
+    webUrl: "https://www.euronews.com/next/2021/11/26/unesco-member-countries-adopt-first-global-agreement-on-the-ethics-of-artificial-intellige"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 43
+    images:
+      - url: "https://static.euronews.com/articles/stories/06/26/46/00/1000x563_cmsv2_db3bb7f9-b558-5c44-a486-42f628f64a51-6264600.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "UNESCO's ‘Cookie Factory’ Raises Awareness of the Potential Risks and Ethical Challenges of AI"
     excerpt: "Little Black Book, DDB Paris teams up with makemepulse to create extension allowing you to assume a new identity as you browse the internet"
     publishedDateTime: 2021-11-25T15:06:00Z
@@ -185,6 +199,15 @@ related:
         width: 925
         height: 521
         isCached: true
+  - title: "UNESCO member states adopt global artificial intelligence ethics"
+    excerpt: "The United Nations Educational, Scientific and Cultural Organization (UNESCO) member states Friday adopted the first global agreement on the ethics of artificial intelligence (AI) that defines the common values and principles needed to ensure the healthy development of the expert system."
+    publishedDateTime: 2021-11-26T16:16:00Z
+    webUrl: "https://www.app.com.pk/global/unesco-member-states-adopt-global-artificial-intelligence-ethics/"
+    type: article
+    provider:
+      name: Associated Press of Pakistan
+      domain: app.com.pk
+    quality: 36
 
 secured: "j+gg0FFvNzFuVztK7+YX0aFcAUxoMZVJf+P2pTMqszWuOh9E3j3uEVoLpR5uQv2cMOhQ9VSs9l8+HPBBO2fdsrGRJWSiZn1SwvEud1+KDDaIjR1c/A8jjhSUht7KHvLniG4qlXpd/IIZG5KgsUC+OXniEwLrcnnpr36OOVZe1QPh9Y7mWsW7XAT1XECTs0VQhvExKTeS4HBIA/bRsCAoCFr2bChMiZDqn63EsXoSSx9stN0IJYRKiIyqzrXDo275Y6ZDX2iFSMXg1r/eQWo9xaonlQYuEcSo2qn3wOZhDeTVEIIwLFeS+tVz5Ce69NXV9RL4/2a9IMuHnOHkxW4O7Xpdbgprp2RkRP7pNf5L+YponrctsdNHdasfoRf4txKL4H1KQwZzAUaXsblXaCQS/GfyMKJQ1RO+r7nieRtf1J3CRrZHyqcnLt1/ONmTwYKihUu5t5mvVx74dy+6LSViaTUmhRuGCJUOybSaZvGfYqig92pyA0Wl1o8KI3ek3hkymuGKr64if9wZrANu7j6tTQ==;s1nxDyhSsd1+hD48oyYM1A=="
 ---

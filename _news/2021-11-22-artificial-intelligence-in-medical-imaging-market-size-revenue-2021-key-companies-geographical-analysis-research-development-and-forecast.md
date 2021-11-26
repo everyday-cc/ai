@@ -142,6 +142,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Image Recognition Market to Reach USD73.344 Billion by 2026 | TechSci Research"
+    excerpt: "Rise in online gaming, introduction of driverless cars, increased usage of social media platforms to drive the growth of Global Image Recognition Market through 2026. According to TechSci Research report,"
+    publishedDateTime: 2021-11-25T12:58:00Z
+    webUrl: "https://www.linkedin.com/pulse/image-recognition-market-reach-usd73344-billion-2026-techsci-joshi"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 20
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFHyrIrIAp-bQ/article-cover_image-shrink_600_2000/0/1637844049612?e=1643241600&v=beta&t=73H05lxXvyjELDM0KgIO8lcRFl0c1pjiUXoqPy4skps"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Global Artificial Neural Networks Market 2021 Industry Opportunities, Top Manufacturers Profiles and Regional Analysis by 2027"
     excerpt: "MarketQuest.biz has released a Global Artificial Neural Networks Market study that forecasts fast growth from 2021 through 2027. The study estimates market share in terms of volume for"
     publishedDateTime: 2021-11-24T17:09:00Z

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-23-can-a-machine-learning-model-tame-your-cloud-costs.md",
+      "title": "Can a Machine Learning model tame your cloud costs?",
+      "excerpt": "There are plenty of third-party services that promise to babysit your cloud footprints to keep your monthly bills in check. But each year, when we hit the expo floor in Vegas, we've wondered when somebody would come up with a solution for training a machine learning model on the job to perform the job more systematically.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "originalUrl": "https://www.zdnet.com/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5ccc61ecbef222f8da0a071eb63be2a750ac28cb/2021/11/23/b468fe8a-dc17-4d2f-af02-3d46acdea242/cloud-data-center.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-a-machine-learning-model-tame-your-cloud-costs/",
+      "publishedDateTime": "2021-11-23T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-target-is-poaching-engineers-from-amazon-in-order-to-leapfrog-amazon-go-technology-heres-what-we-know.md",
       "title": "Target is poaching engineers from Amazon in order to 'leapfrog' Amazon Go technology. Here's what we know.",
       "excerpt": "Target wants to take on Amazon and Amazon Go by building out its own network of high-tech stores and warehouses.",
@@ -338,7 +390,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 294,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -360,49 +412,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions.md",
-      "title": "BrainChip partners with MegaChips to develop edge-based AI solutions",
-      "excerpt": "The IP will be used by MegaChips to enhance and grow its technology positioning for next-generation, Edge-based AI solutions. A fabless semiconductor company based in Japan, MegaChips provides a variety of chip solutions and by partnering with BrainChip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions/242369/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/brainchip-partners-with-megachips-to-develop-edge-based-ai-solutions/242369/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/242369/akida.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -508,7 +517,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {

@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/news-ani/unesco-member
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
 type: article
 quality: 74
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -161,6 +161,20 @@ related:
         width: 377
         height: 250
         isCached: true
+  - title: "UNESCO member countries adopt first global agreement on the ethics of artificial intelligence"
+    excerpt: "AI has gradually made its way into our lives. But the algorithms that enable it to function have also been misused in recent years, illustrating its dangers."
+    publishedDateTime: 2021-11-26T13:57:00Z
+    webUrl: "https://www.euronews.com/next/2021/11/26/unesco-member-countries-adopt-first-global-agreement-on-the-ethics-of-artificial-intellige"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 43
+    images:
+      - url: "https://static.euronews.com/articles/stories/06/26/46/00/1000x563_cmsv2_db3bb7f9-b558-5c44-a486-42f628f64a51-6264600.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "UNESCO's ‘Cookie Factory’ Raises Awareness of the Potential Risks and Ethical Challenges of AI"
     excerpt: "Little Black Book, DDB Paris teams up with makemepulse to create extension allowing you to assume a new identity as you browse the internet"
     publishedDateTime: 2021-11-25T15:06:00Z
@@ -175,6 +189,15 @@ related:
         width: 925
         height: 521
         isCached: true
+  - title: "UNESCO member states adopt global artificial intelligence ethics"
+    excerpt: "The United Nations Educational, Scientific and Cultural Organization (UNESCO) member states Friday adopted the first global agreement on the ethics of artificial intelligence (AI) that defines the common values and principles needed to ensure the healthy development of the expert system."
+    publishedDateTime: 2021-11-26T16:16:00Z
+    webUrl: "https://www.app.com.pk/global/unesco-member-states-adopt-global-artificial-intelligence-ethics/"
+    type: article
+    provider:
+      name: Associated Press of Pakistan
+      domain: app.com.pk
+    quality: 36
   - title: "Ethics of Artificial Intelligence: 193 countries adopt the first global agreement"
     excerpt: "UNESCO addresses the ethics of Artificial Intelligence, adopts text defining common values and principles needed to ensure healthy development."
     publishedDateTime: 2021-11-26T09:21:00Z

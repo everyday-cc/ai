@@ -25,53 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Will Our Ethical Choices Be Determined by Self-Driving Cars?"
-    excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms"
-    publishedDateTime: 2021-11-24T17:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/"
-    ampWebUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
+  - title: "AI That Tries To Be Funny Is Not Necessarily A Laughing Matter, Especially When Used By Self-Driving Cars"
+    excerpt: "AI that uses humor can be handy or a big problem, and likewise in the case of self-driving cars could be good for riders or a really bad idea. Let's explore why."
+    publishedDateTime: 2021-11-26T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/25/GettyImages-986605878-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609dc9fd2dec6a7482aa84f2%2F0x0.jpg%3FcropX1%3D191%26cropX2%3D2718%26cropY1%3D276%26cropY2%3D1697"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The self-driving trolley problem: How will future AI systems make the most ethical choices for all of us?"
-    excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms generally still get help from people applying checks and making the final call."
-    publishedDateTime: 2021-11-24T13:00:00Z
-    webUrl: "https://techxplore.com/news/2021-11-self-driving-trolley-problem-future-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-self-driving-trolley-problem-future-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-self-driving-trolley-problem-future-ai.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-self-driving-troll.jpg"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "What makes university students steer clear of self-driving cars?"
-    excerpt: "Driverless cars have been expected to revolutionize motoring, with some commentators predicting everyone would be a permanent backseat driver by now."
-    publishedDateTime: 2021-11-22T15:10:00Z
-    webUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/googleselfdr.png"
-        width: 680
-        height: 451
         isCached: true
   - title: "Want a self-driving car? Better not rush"
     excerpt: "Would it not be almost perfect after the day’s labor, or a night of fun, to just board your FSD (full self-driving) car, push a button and your computerized chariot takes you home while you nap at the back?"
@@ -89,6 +57,22 @@ related:
         width: 686
         height: 392
         isCached: true
+  - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
+    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
+    publishedDateTime: 2021-11-23T07:29:00Z
+    webUrl: "https://www.udayavani.com/english-news/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025"
+    ampWebUrl: "https://english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
+    cdnAmpWebUrl: "https://english-udayavani-com.cdn.ampproject.org/c/s/english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
+    type: article
+    provider:
+      name: Udayavani
+      domain: udayavani.com
+    quality: 43
+    images:
+      - url: "https://mcmscache.epapr.in/post_images/website_326/post_25578185/full.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "What makes uni students steer clear of self-driving cars?"
     excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
     publishedDateTime: 2021-11-23T06:17:00Z
@@ -103,15 +87,20 @@ related:
         width: 1490
         height: 990
         isCached: true
-  - title: "The legal challenges of self-driving cars"
-    excerpt: "The Department of Transport recently announced its intention to allow Automated Lane-Keeping Systems (ALKS) to be used on British roads by the end of 2021."
-    publishedDateTime: 2021-11-25T11:50:00Z
-    webUrl: "https://www.lawcareers.net/Explore/BlogPost/Max-Alexander-Jones/The-Legal-Challenges-of-Self-Driving-Cars"
+  - title: "Apple's fully self-driving electric car may be launched as early as 2025"
+    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
+    publishedDateTime: 2021-11-22T09:01:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2021/11/22/apple-s-fully-self-driving-electric-car-may-be-launched-as-early.html"
     type: article
     provider:
-      name: LawCareers.Net
-      domain: lawcareers.net
-    quality: 4
+      name: The Week
+      domain: theweek.in
+    quality: 23
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/2020/images/2021/1/13/Apple-Inc-logo-Apple-store-Manhattan-New-York-reu.jpg"
+        width: 760
+        height: 443
+        isCached: true
 
 secured: "OLsQjT5sS2UbrBloG4RPG/VArP/Ef+DLTtctVFe68WCUUadPSIZ5MEUHcdSd3OPgRgPaD/xfry/44deYvdef0e2W1iE446C5QwK3QBldwAPrWKQFpJqZw8yl5zxWb3hSSkOEmESpgqZu/IFvm/sDdY+fgARbvJbdye3j4Jq3y6Yt+SJkzSzk4XuI+cYKFH4YyCmnVk5bBVJXg/57D+5rSGCSAZfVk7NwGaHNhk3MOntYXnwbOuaFQYOJEKQFfbm042YxjGuNP+z8hH99EOJ5K+eaJ739RQ7xQpDYxqLqjdSh/8aPU+ODCM56ogh0nktgSovok2PtnMuE5os7Tf1kMzkDRdBUsefEO54Rbn3ikto=;TA6axpYWM2rUwPG/fVTLVg=="
 ---

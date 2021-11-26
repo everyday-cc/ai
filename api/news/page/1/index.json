@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-26-ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars.md",
+      "title": "AI That Tries To Be Funny Is Not Necessarily A Laughing Matter, Especially When Used By Self-Driving Cars",
+      "excerpt": "AI that uses humor can be handy or a big problem, and likewise in the case of self-driving cars could be good for riders or a really bad idea. Let's explore why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609dc9fd2dec6a7482aa84f2%2F0x0.jpg%3FcropX1%3D191%26cropX2%3D2718%26cropY1%3D276%26cropY2%3D1697",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/",
+      "publishedDateTime": "2021-11-26T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-flowrite-is-an-ai-writing-productivity-tool-that-wants-to-help-you-hit-inbox-zero.md",
       "title": "Flowrite is an AI writing productivity tool that wants to help you hit inbox zero",
       "excerpt": "When TechCrunch asks Flowrite if it’s ‘Grammarly on steroids’, CEO and co-founder Aaro Isosaari laughs, saying that’s the comment they always get for the AI writing productivity tool they’ve been building since late summer 2020 — drawing on early access to",
@@ -153,8 +205,8 @@
       "title": "Robot artist to perform AI generated poetry in response to Dante",
       "excerpt": "Ai-Da used data bank of words and speech pattern analysis to produce and perform a work that is ‘reactive’ to the Divine Comedy",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante?share=reddit",
-      "originalUrl": "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante?share=reddit",
+      "webUrl": "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante",
+      "originalUrl": "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -173,7 +225,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante",
-      "publishedDateTime": "2021-11-26T00:50:00-08:00",
+      "publishedDateTime": "2021-11-25T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -209,7 +261,7 @@
       "originalUrl": "https://www.business-standard.com/article/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -684,7 +736,7 @@
       "originalUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1089,7 +1141,7 @@
       "originalUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1164,58 +1216,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-the-best-amazon-black-friday-deals-2021-tvs-headphones-robot-vacuums-more.md",
-      "title": "The Best Amazon Black Friday Deals 2021: TVs, Headphones, Robot Vacuums & More",
-      "excerpt": "Amazon's early Black Friday deals are already live. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/media/2021/11/amazondeals-2048px-3x2-v1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/amp/",
-      "publishedDateTime": "2021-11-24T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-26-ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars.md",
+      "title": "AI That Tries To Be Funny Is Not Necessarily A Laughing Matter, Especially When Used By Self-Driving Cars",
+      "excerpt": "AI that uses humor can be handy or a big problem, and likewise in the case of self-driving cars could be good for riders or a really bad idea. Let's explore why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609dc9fd2dec6a7482aa84f2%2F0x0.jpg%3FcropX1%3D191%26cropX2%3D2718%26cropY1%3D276%26cropY2%3D1697",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/",
+      "publishedDateTime": "2021-11-26T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-how-will-our-ethical-choices-be-determined-by-self-driving-cars.md",
       "title": "How Will Our Ethical Choices Be Determined by Self-Driving Cars?",
       "excerpt": "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1367,58 +1419,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-one-autonomous-taxi-please.md",
-      "title": "One autonomous taxi, please",
-      "excerpt": "Scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ... The control algorithms — similar to ones used for self-driving cars — function a little like a coxswain giving orders to rowers, by translating a given path ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/autonomous-taxi-roboats-1027",
-      "originalUrl": "https://news.mit.edu/2021/autonomous-taxi-roboats-1027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/roboat_0.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

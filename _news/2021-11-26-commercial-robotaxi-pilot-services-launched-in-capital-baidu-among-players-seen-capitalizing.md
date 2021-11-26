@@ -244,6 +244,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Baidu and Pony.ai gain approval for commercial robotaxis on Beijing’s open roads"
+    excerpt: "Robotaxi fares may be double that of existing taxi services. Baidu and Toyota-backed self-driving tech developer Pony."
+    publishedDateTime: 2021-11-26T08:41:00Z
+    webUrl: "https://www.linkedin.com/pulse/baidu-ponyai-gain-approval-commercial-robotaxis-beijings-open-roads-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEwrCiVKTB1eA/article-cover_image-shrink_720_1280/0/1637915937113?e=1643241600&v=beta&t=K_4L9_zuQscKb5JkpeIt0sW0-xHB1-hJjSG38JFgrqM"
+        width: 1267
+        height: 713
+        isCached: true
 
 secured: "/ddOXmGWyvBIOpoolFykVub4cRZK8e1Ab90JM5mwcIcpuFpVSWIE9qUX6v6sF1WlkuMCCJCMjNd/uQTcNtygwHJmb23+1FV9VIAafJP24FUWco4zj47/d8rTZHoNKRU2HvY09+QoPazGkBPjaoN+xkMy3NAVyZZOQU7fGTzJRP2Ndn44/1nnWMAA6lJQIF6xRnxII22HR4+tHg/wEsN5/4RieemJy8qsTLjouHQRuZZi0GXGqCrCmA0DDm0N5ZxakrU6kjj7TsjJ0HtvQZCV+kQbw6xbHaEe75TlkLAvHCnVJZlyr3JK/p4amABgERw8ReiS9J4KxgSax/uzl/l6P5SC6VArEQkU7f6mSoyuxg4=;B/nxa47uT41/MQ3zHDJ8XQ=="
 ---
