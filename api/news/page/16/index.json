@@ -2,6 +2,48 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-11-11-businesses-could-face-fines-in-city-crackdown-on-bias-for-ai-hiring-tools.md",
+      "title": "Businesses could face fines in city crackdown on bias for AI hiring tools",
+      "excerpt": "Employers will soon face stricter rules for when they can use résumé-scanning software and other automated hiring tools. The City Council's Committee on Technology on Wednesday approved a bill that would bar employers from using automated hiring tools unless the software has undergone an independent audit for racial and gender biases,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crainsnewyork.com/technology/businesses-could-face-fines-new-york-city-crackdown-bias-ai-hiring-tools",
+      "originalUrl": "https://www.crainsnewyork.com/technology/businesses-could-face-fines-new-york-city-crackdown-bias-ai-hiring-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.crainsnewyork.com/styles/800x600/s3/335408284.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crain's New York",
+        "domain": "crainsnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-israel-using-facial-recognition-surveillance-in-palestinian-city.md",
       "title": "Israel using facial recognition surveillance in Palestinian city",
       "excerpt": "HEBRON: Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an",
@@ -1105,50 +1147,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-nlp-powered-smart-bots-improve-transaction-rates-among-customers.md",
-      "title": "NLP-powered smart bots improve transaction rates among customers",
-      "excerpt": "These bots use natural language processing (NLP), a combination of artificial intelligence (AI ... Gargi Dasgupta, director of IBM Research India and CTO of IBM India-SA, says, “IBM Research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers-11636538404851.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers-11636538404851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/11/10/600x338/Screenshot_2021-11-10_at_3.48.05_PM_1636539504549_1636539513776.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers/amp-11636538404851.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers/amp-11636538404851.html",
-      "publishedDateTime": "2021-11-10T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

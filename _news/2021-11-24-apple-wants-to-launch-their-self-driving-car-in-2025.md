@@ -57,24 +57,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
-    excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
-    publishedDateTime: 2021-11-21T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/21/heres-how-blind-curves-could-stir-up-knuckle-gripping-jitters-about-ai-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
-  - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
-    excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
-    publishedDateTime: 2021-11-21T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/21/heres-how-blind-curves-could-stir-up-knuckle-gripping-jitters-about-ai-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 38
   - title: "Apple's fully self-driving electric car may be launched as early as 2025"
     excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
     publishedDateTime: 2021-11-22T09:01:00Z

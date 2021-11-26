@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses in Beijing"
-    excerpt: "Search giant Baidu Inc. and Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
-    publishedDateTime: 2021-11-25T04:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHvjzsa8ZIk/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Baidu gets green light for driverless robotaxi service in Beijing"
     excerpt: "Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
     publishedDateTime: 2021-11-25T07:39:00Z
@@ -152,6 +138,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Baidu, Pony.ai nab commercial robotaxi licenses in Beijing"
+    excerpt: "Search giant Baidu Inc and Toyota Motor Corp-backed Pony.ai Inc were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+    publishedDateTime: 2021-11-25T06:50:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381163.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
     excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
     publishedDateTime: 2021-11-25T17:49:00Z
@@ -165,6 +165,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--_2g2zTcw--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-11-25t054806z_1_lynxmpehao03v_rtroptp_3_baidu-apollo.jpg?itok=VlgxnKp1"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Commercial robotaxi pilot services launched in capital, Baidu among players seen capitalizing"
+    excerpt: "Beijing launched China's first pilot area for commercial autonomous driving vehicle services on Thursday, marking a shift from the testing phase for autonomous driving to wider commercial exploration,"
+    publishedDateTime: 2021-11-26T00:48:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202111/26/WS61a02ee7a310cdd39bc77a0b.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 28
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202111/26/61a02ee7a310cdd3d81ce837.jpeg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "10QZjcKY6J4VO7rPDlxEBvNBUuCLE5m3HIj7Aui5O5/A5WDl8ASmgW+nEPw+fUTNpw2C27lZgyzJ9ZooL60wrme43BxHJr3cEnUplcEIZ/Dsp4HQ3poTiGnoi4r0wxOzVotcIZQ6cr9boMmozkT7jhGGEwxfgBoZOjpzziWGPEwkHj5tyaPHXoYPtUN5W/a7G/D8uibSJoW9dJ+UgjTd5IZ6dRthU9g+991CBmXgkusoFnTC0mAfC4Pphh8Uh43pV7GtX9g2IU+KS/yEdZ0qY5n6VAMUxRi3N6a69e8gC9QJVpCOIG5DwAajGMIxHGoedREZvnylXX21eBHYKTAAq0SZjmtpljAEp2GQVbwDkZraZwusHY4QddMakAudHzHrAhthQ9WhBclXEF+AO1VljYZsqbzDs6kyo4i91L9kjw+8FfCQxH/hqA9VHUjtHGwV+poE5B3c4U2M814tQzNHcAuSAZPHeGWNi6jNZ502FVm/TdiyQYuMdsMsQCsJhOYQQ2y4iEwi+4cXe+4ErSEmaw==;bMaYUPQ6lcQMrLICAu8eug=="

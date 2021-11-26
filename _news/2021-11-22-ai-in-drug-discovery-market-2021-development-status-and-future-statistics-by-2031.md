@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470062/ai-in-drug-discovery-market-2021-development-status-and-future"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -48,6 +48,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 29
+  - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"
+    excerpt: "Nowadays businesses are highly relying on the different segments covered in the market research report which presents better insights to drive the business into right direction Artificial Intelligence ai in Drug Discovery market report presents the company profile product specifications"
+    publishedDateTime: 2021-11-26T07:23:00Z
+    webUrl: "https://www.openpr.com/news/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    ampWebUrl: "https://www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 20
 
 secured: "KmOAmYwssgn11y6eZGkppuEHtwceLvaeL3MyrnFKlzGTae6nvXb8ze0JiIaiEPN2cAE9Km07zJvoTeVPCAZgLR4MVgsYQ8y/AI09ts9pGj0UebtH/W3MDCTFDofg2OS8vXImjMfQXKWO+FLSBnDkR031la3cQROLnMXdsS/VovxrfDThfre3mWfO7Ho1J4/jGbB2J3FLTly1RqpGjbJNldKoCHxeM5PPUrPzRGWxT6FnC5GywujDA74vF4OQeXgatHIz0xv0jItwK90dJVeX/W+MA80F5I6ym2CB2yWNjmWNtZDj9GyA2EgvNlcjwuscCyJvScJo/bUPYJPKliTuH+k4o3CB2u/yM6AkD3YP2tM=;OzXbbJloFdoeuQo/wemqog=="
 ---

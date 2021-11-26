@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-15-timekettle-wt2-edge-ai-translator-earbuds-review.md",
+      "title": "TimeKettle WT2 Edge AI Translator Earbuds review",
+      "excerpt": "Then you might well consider using something like the TimeKettle WT2 Edge AI Translator Earbuds, providing built-for-purpose simultaneous translation between forty languages. These aren’t a cheap option,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds",
+      "originalUrl": "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qXRN26kfpZaDgtppr6e3zC-1200-80.jpg",
+          "width": 1200,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of-servers-storage-ai-solutions-and-liquid-cooling.md",
       "title": "Supermicro Accelerates Delivery of HPC Clusters for Total IT Solutions with a Broad Portfolio of Servers, Storage, AI Solutions, and Liquid Cooling",
       "excerpt": "SAN JOSE, Calif., Nov. 15, 2021 /PRNewswire/ -- (SMCI), a global leader in high-performance computing, storage, networking solutions, and green computing technology, is expanding its HPC",
@@ -1130,50 +1182,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-hotspotting-the-opioid-crisis-heres-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose.md",
-      "title": "'Hotspotting the Opioid Crisis': Here's how artificial intelligence will identify those at-risk for an overdose",
-      "excerpt": "Using artificial intelligence, the SI PPS and the MIT Sloan School of Management developed a predictive analytic program that will pull data from more than 70 providers and partners on Staten Island to identify who is at highest risk of an overdose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/14/039hotspotting-the-opioid-crisis039-here039s-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/14/039hotspotting-the-opioid-crisis039-here039s-how-artificial-intelligence-will-identify-those-at-risk-for-an-overdose",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/11/12/1366132.jpg",
-          "width": 1240,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-13T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

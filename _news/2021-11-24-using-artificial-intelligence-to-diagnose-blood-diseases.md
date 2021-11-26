@@ -59,20 +59,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Transforming Legacy Manufacturing Enterprises With AI on the Edge"
-    excerpt: "This article discusses how legacy manufacturing enterprises can harness the latest technologies, to optimize factory operations without having to ramp up infrastructure investment."
-    publishedDateTime: 2021-11-21T16:18:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/article/2021/11/transforming-legacy-manufacturing-enterprises-with-ai-on-the-edge/17886"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 39
-    images:
-      - url: "https://www.manufacturingtomorrow.com/images/articles/17886.jpg"
-        width: 680
-        height: 340
-        isCached: true
 
 secured: "EcEO/OWImfekVJeoCceStl53CcFt8yzvsGDhj3i/mrVGoPXNsKflBbWiK/9YogcmNw+tfLnGSeuYB5DD1f+M68rbE4oWNPzh0qsG9gx58yRTpoVwTPAtLH28iWsWb4whDVipej7zel4+WqP158042JCXK3bfnsu56qlZk3CQ+eTPxaXFQEQE38jE4ep4czO4wGt7Wq1xOY0I7ytGhA9jKDDhV5lPoolcQOyl6IZWP7frfIIrw1ZwDXq5a6UzS1n6dA39N9VYSpiXvhJNIKWP9mevPNFkpRXBlqqN2LcxnR0zfmyDWRrTuWPtuho2CVwLN3WGfEoG1lDYrWgrjJdYQ7DXozsAvjKCGUOCxm7t5Z8=;tmvTJZnFpHN4f6Te32SCAQ=="
 ---

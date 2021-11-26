@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/design-of-ai-may-change-wit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 682
     isCached: true
+
+related:
+  - title: "Apache TVM and OctoML Create Open-Source AI Design Tool"
+    excerpt: "A recent open-source project is gaining steam at the center of it all. Apache TVM is a compiler that works differently from other compilers. Instead of generating CPU or GPU code, it analyzes the “graph” of computational operations in a neural net,"
+    publishedDateTime: 2021-11-26T06:50:00Z
+    webUrl: "https://bestgamingpro.com/apache-tvm-and-octoml-create-open-source-ai-design-tool/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Design-of-AI-may-change-with-the-open-source-Apache-TVM-and-a-little-help-from-startup-OctoML-.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "6CDGdwJ63Ua6MhNWlzyqAWwij5lhxFvfVGME9ScSIf0xTQXS3NdHH/TCA458U4+X6hQHTvhuiEIcV2O81iJi9LVYhfNm3+Kiu8gql6DOTxLEIEwNh/Ds4Pvw7N7Z1rsxpYJQHN5SPY3C9Cr3/iwgh4Ubj7WhwwkB1yu4Igow0I3AJ6dY022ea3ZAMyErnVcOrC7Vtc3gffR+rxOqKsZFUbEtWHmRlizJzvXmhv/NUQnUF9CzqPuSgy7wSa8gieffwfaUL3HYWtAUqvJzWuKF7701WKzHvGGYEwEWAVv3GkzPZ1WQhW4TjePo0AK7UYh9q2xNyxz62r0uUgQ1rT4tHGR7nq3m7B54BDrhblJDpqGH9GEraf6tLIfRZPoXT0gDnXAt5cjpcog5eF3W1O6cloyI11avyccqBUsJVvz5bu441ZaZoRwrPRQwE2tbO3skaFuyL5PsN/4tzewmx4b6FIap40iw8r8NQxEZ/u2nBWlR3eJIHbu0bGvM1Rji811rZ0JIzWekRrJegxlflIumgA==;EBq19dX5cdDTyJWhcizrpg=="
 ---

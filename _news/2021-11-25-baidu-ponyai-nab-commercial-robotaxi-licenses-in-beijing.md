@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses in Beijing"
-excerpt: "Search giant Baidu Inc. and Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
-publishedDateTime: 2021-11-25T04:59:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
-webUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
+title: "Baidu, Pony.ai nab commercial robotaxi licenses in Beijing"
+excerpt: "Search giant Baidu Inc and Toyota Motor Corp-backed Pony.ai Inc were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+publishedDateTime: 2021-11-25T06:50:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
 type: article
-quality: 67
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHvjzsa8ZIk/v0/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381163.jpeg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -169,7 +166,21 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Commercial robotaxi pilot services launched in capital, Baidu among players seen capitalizing"
+    excerpt: "Beijing launched China's first pilot area for commercial autonomous driving vehicle services on Thursday, marking a shift from the testing phase for autonomous driving to wider commercial exploration,"
+    publishedDateTime: 2021-11-26T00:48:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202111/26/WS61a02ee7a310cdd39bc77a0b.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 28
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202111/26/61a02ee7a310cdd3d81ce837.jpeg"
+        width: 720
+        height: 480
+        isCached: true
 
-secured: "hiYTt7BoMjO4B/iP4bS0soODZind8uvnsiMKDie1RmHALisAz7YHIByk23cKjnd692wNIbkvAyEkg8iVRErfWjkdPtj/xAAShQeMgktimmllpgwA9LJNgOKamRqVKUdHEA2rNyYPfKycDi+Qm0S36PxZQxFpTTjJxl6CEEshngtacUpeDSXnIuhAKlkPiWd90TbCtnGSreOD9hlDG9562Y88YZ7hNiVtVAPmh7ZnsN0SwQHx+7ihUMHzM5FZBsL2LC461MKpoTimO+fu+8wQ+BqLsezWRfXTk1d8/tJlPUBbR/lBP6+IpAaI2QktK3a58bAc/BoXLWLPr+ddU0tmgfawNf3cQ0VvlzBaEj43bdA=;lV6iPEPlOg7562/unrIh2Q=="
+secured: "g3bXm87j4mDPsW+zMSiiyS28mLNVC2l514UO6UYrDHaUR4dsQHMKLVMhuC/xnsMsCrZ3csg4uyYbKyl2IIEhIySSUM/cneKgOMKmJk95bXp0aax6xAUaCjhLdko9ka+3SpXTBwuaWfk69QBTwuRWZ2RfmvwSgLj+bmgsI6qRwja6bUvaH6lUdWys815TVM7tGhy1AHGKA2TGtrMZjU/LrDWmKEIK4Sm0qKaxdRPgoznZfbha/nRQ4ajZgQjlPGRWA1arG2QdKKt31px7PKcVNam5RLkPcbgJbClipG+xq6yLCLTH2V2RG6THZjRGlCHVFnoIjDJtlcCyTAYrq+u51mkLJkRq/cidyOkUsoBltf4=;JYCq37XSM471usJHdEu4MA=="
 ---
 

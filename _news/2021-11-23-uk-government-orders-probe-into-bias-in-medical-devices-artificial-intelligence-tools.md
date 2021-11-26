@@ -23,17 +23,6 @@ images:
     height: 758
     isCached: true
 
-related:
-  - title: "From oximeters to AI, where bias in medical devices may lurk"
-    excerpt: "Analysis: issues with some gadgets could contribute to poorer outcomes for women and people of colour"
-    publishedDateTime: 2021-11-21T15:48:00Z
-    webUrl: "https://www.theguardian.com/society/2021/nov/21/from-oximeters-to-ai-where-bias-in-medical-devices-may-lurk"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
-
 secured: "qDmokpvb519vA1hYfCIZflBR7MELg+ozNIzYH638oIDBT2pZ8OZBvO828G5QAQQmVMVnpGR6ozr+1q3Ei6GLzFXFq8MEOUTieBhKmTDz7erzGdNzcV1LumgOPEcmgeMos8+jwK2bYhTEOCNBKif9Ka7LwzmIndSmQKC8O56b9N1ATyeWhpTP9tChXwSB1EEQ7Pa0qGZBgiOBkZ0wi0+RlFkY3DLQRGc4uBxC8MWY2T2u9zVGIDNmEwXMzVyA2gTg3AzY7uK9UaIBOAfkQApIIq2SsRqvraExOEjhJ7aoFzsmKfbRkRyZqIDuY9wgUYlw+5bcavJOZjd4CdRaA64v5LvpzHviIhg+o7gg/rz7/6U=;fz8+GHDgFA61vDuULwx3Ng=="
 ---
 

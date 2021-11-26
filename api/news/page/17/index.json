@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-11-10-nlp-powered-smart-bots-improve-transaction-rates-among-customers.md",
+      "title": "NLP-powered smart bots improve transaction rates among customers",
+      "excerpt": "These bots use natural language processing (NLP), a combination of artificial intelligence (AI ... Gargi Dasgupta, director of IBM Research India and CTO of IBM India-SA, says, “IBM Research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers-11636538404851.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers-11636538404851.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/10/600x338/Screenshot_2021-11-10_at_3.48.05_PM_1636539504549_1636539513776.png",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers/amp-11636538404851.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers/amp-11636538404851.html",
+      "publishedDateTime": "2021-11-10T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029.md",
       "title": "Artificial Intelligence in Healthcare Market Size, Share, Key Players, Growth Analysis and Forecast 2029",
       "excerpt": "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end and",
@@ -1147,49 +1191,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai.md",
-      "title": "New Spiking Neuromorphic Chip Could Usher in an Era of Highly Efficient AI",
-      "excerpt": "Neurons spike in a time sequence, and it's their basis for wiring up into circuits and hierarchies, allowing highly energy-efficient processing.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/",
-      "originalUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/11/Low-Res_Illustration_TTFS_Credit_Göltz-and-Kriener-et-al..jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/",
-      "publishedDateTime": "2021-11-09T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

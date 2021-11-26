@@ -43,24 +43,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
-    excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
-    publishedDateTime: 2021-11-21T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/21/heres-how-blind-curves-could-stir-up-knuckle-gripping-jitters-about-ai-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
-  - title: "Here’s How Blind Curves Could Stir Up Knuckle-Gripping Jitters About AI Self-Driving Cars"
-    excerpt: "Dealing with blind curves is darned tricky for human drivers, and the question remains about how well self-driving cars will traverse blind curves, especially under dynamic circumstances."
-    publishedDateTime: 2021-11-21T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/21/heres-how-blind-curves-could-stir-up-knuckle-gripping-jitters-about-ai-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 38
   - title: "Apple wants to launch their self-driving car in 2025"
     excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
     publishedDateTime: 2021-11-23T19:30:00Z

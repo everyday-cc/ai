@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
-excerpt: "The \"Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI) is transforming organizations,"
-publishedDateTime: 2021-11-24T12:43:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_a1f92af9-88d4-50f0-8b26-3ddad630034e.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_a1f92af9-88d4-50f0-8b26-3ddad630034e.html"
+excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"
+publishedDateTime: 2021-11-24T13:43:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-8b73b6f9e2d1423db2f17585122669b1"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-8b73b6f9e2d1423db2f17585122669b1"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Facial Recognition Market Size | Opportunity Analysis Report by 2026"
@@ -148,6 +154,6 @@ related:
         height: 225
         isCached: true
 
-secured: "keJHnRg91pZclmwLuks8HQy0/VhVZSzytt7yKYVdKS7VDoyKL2bEqOyKwLOOSV1F4y+VSkezzFvYjyISKdZDNqG0fMm1+AdCnQMwter8ZIiydpuQiRIh3y2HwNHhbkSmn2ymXpUL+NDg2nMoID/E/cIUdvl7/D+gZjlawFh/EtUHeeS6Pid8TWGmmZnSjIUDHXBAfjBipeIpvCGGk+a351/HLeUGpd1CYnrhXm5xKfe+CmwDMXh54eJcJbP1Hn6VXuwfBvWVsPCf84pQOFVfb/O9H6HoJtvRqJ2QJ4G7Z6wlW5cxPGMr39Sv3rq3UhntJW2iOJ0CLw4v7LKEtSwF2LXzuPDNXaI7Oad3y+gK9dqHBf96kmRVo5BjiaYGOp33/oCQwn9UWzgSkV6CDcxEcLMBwCUUhDxfpktXPcQ8tr6tmgeOU6dzdR1NvSNXDOME0tGqaNpJKyjnnItHGCBt8xG16DKWL4kiM8SqfVWl295/2KwMIiWVZcZgq37fJsG9Dp47nWCL0rMF5kJUyjr9kA==;ATap0CksS3TGnaINRwkHlw=="
+secured: "3RZFwLORJt39x2nV0SrLgzd5SvGySXwLLiEeyM24D/sDaMVBaw6sx7mEPIipvCLkqRGIznP/RhZLCN/3stn4e3YpVKC+ZPY99qmt2l/Rq+fvepHOFEVySswndBu2n47DpSJYLldx8W6p3/c35zXd5kVljjqNfONOKku5tA+SRuAnALBWvvdjc1qCj5FopupUEQPCejs5X2mxfkfOTx2xJZilJ3wmtaPdSSWHidNq/HJQO48BL4ITKe2AcU12f4Hbx3w/agHsVkL4S+qM9VFxU9uErLzQhBHGphXOlATYVy/5gVvShA92UTWxiB5sGtqsntOWCXdEv9AgqibPRC9oRRTDvtmR3zczeT3KVfwnyr8=;UVN4SvVzfLU6R5JgbzR7cg=="
 ---
 
