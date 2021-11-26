@@ -47,24 +47,33 @@
     {
       "path": "_news/2021-11-16-amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-in-the-mena-region.md",
       "title": "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region",
-      "excerpt": "Founded in 2008 by Jordanian entrepreneur Nour Al Hassan, Tarjama is the leading language technology & services provider in the MENA region, meeting the language and localization needs of a wide roster of corporates across the region's largest markets.",
+      "excerpt": "Amethis, through its newly launched fund, Amethis MENA Fund II (AMF2), has completed its second transaction, acquiring a",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-amethis-completes-minority-investment-tarjama-leading-language-technology-/2021/11/16/9492714.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-amethis-completes-minority-investment-tarjama-leading-language-technology-/2021/11/16/9492714.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T00:15:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24114911",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24114911",
+      "publishedDateTime": "2021-11-15T23:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

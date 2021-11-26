@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Baidu, Pony.ai nab commercial robotaxi licenses in Beijing"
-excerpt: "Search giant Baidu Inc and Toyota Motor Corp-backed Pony.ai Inc were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
-publishedDateTime: 2021-11-25T06:50:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
+title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses in Beijing"
+excerpt: "Search giant Baidu Inc. and Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+publishedDateTime: 2021-11-25T04:59:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
+webUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
 type: article
-quality: 39
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381163.jpeg"
-    width: 1240
-    height: 826
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHvjzsa8ZIk/v0/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -56,6 +59,22 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Baidu begins commercial robotaxi services in Beijing"
+    excerpt: "Baidu received the country’s first permit for commercial robotaxi services, a major milestone for Chinese self-driving car industry."
+    publishedDateTime: 2021-11-26T09:16:00Z
+    webUrl: "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/"
+    ampWebUrl: "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://technode.com/wp-content/uploads/2021/11/WechatIMG558的副本.jpeg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Baidu gets green light for driverless robotaxi service in Beijing"
     excerpt: "Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
@@ -181,6 +200,6 @@ related:
         height: 480
         isCached: true
 
-secured: "g3bXm87j4mDPsW+zMSiiyS28mLNVC2l514UO6UYrDHaUR4dsQHMKLVMhuC/xnsMsCrZ3csg4uyYbKyl2IIEhIySSUM/cneKgOMKmJk95bXp0aax6xAUaCjhLdko9ka+3SpXTBwuaWfk69QBTwuRWZ2RfmvwSgLj+bmgsI6qRwja6bUvaH6lUdWys815TVM7tGhy1AHGKA2TGtrMZjU/LrDWmKEIK4Sm0qKaxdRPgoznZfbha/nRQ4ajZgQjlPGRWA1arG2QdKKt31px7PKcVNam5RLkPcbgJbClipG+xq6yLCLTH2V2RG6THZjRGlCHVFnoIjDJtlcCyTAYrq+u51mkLJkRq/cidyOkUsoBltf4=;JYCq37XSM471usJHdEu4MA=="
+secured: "wW5FfL57lAtdOv1Wq3FsEO9/jrbPs1HKKDV8oBuqD1ezL6PYDnvHefoLTAUxgkoVKYwyG/lGSFF/Hgkrc95KF+9YXp7hnIfJdZQdpAk9qZx9zMlDooPiNVDsWH7YV16aob7Aq8JJ6vX+//DXUmEfPjwcM3bGrvG8x0ll568+M95umHKyxr/hdkTeYGwJ/8jjyZUsxwVLxwI5hvCEptWR/iX+5SGoM2L1ItzfUufdM4sD+kPA0Uo8HRZAmji51LnvtGVcCPAY8OiWn4S3qtF1D0Ndfr2c/GbY7DyPkbXPpQ/uTYL7vd6ED9jdNVNJxz4RiVgxfl6Plv0sHJfKahBb6ZmOOkDsWtWWD3hAUQP4B+M=;s+jEqejUDlkI+j/0VPNuvQ=="
 ---
 

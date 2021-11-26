@@ -65,6 +65,20 @@ related:
         width: 787
         height: 443
         isCached: true
+  - title: "AI Helps Generate Alpha"
+    excerpt: "Nearly all asset managers using artificial intelligence-based technology in their pre-investment phase said it helped them to generate alpha. A survey from Deloitte Center for Financial Services found that 85% of respondents said using AI-based solutions in the pre-investment stage helped them generate returns."
+    publishedDateTime: 2021-11-26T09:00:00Z
+    webUrl: "https://www.tradersmagazine.com/featured_articles/ai-helps-generate-alpha/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 37
+    images:
+      - url: "https://www.marketsmedia.com/wp-content/uploads/2021/11/deloitte-spending-tech-.png"
+        width: 420
+        height: 437
+        isCached: true
 
 secured: "uNnD0S4HimyYrkeq6JyML/B0s5/mkHB+CE729NKVJuWRGk+BeFm9bEkp55XSgKoc3AHGoXloq/ryDF7i/YNZdP/MmEAgk/niLPr1PRcI+slYOWSQ8kAI6r+1WAin1jKkaY/yE0u01zopRun7F43Okr7UUAlaiNKXVjx1n6B3H8AbgyVxkopzDi4wlXJyd8A5S85YNdUtDOyZGi91SCqGs47em9n8ZAGa+yDVvjQCNnmVpsmkup7oc3bKmUloiu2AoKoTJ/BhEHSte2FqUBh5nJXEXYINE8OOXz7o2aUcyEij3QBCUGsVx6YcbCxCeg5103MwELUrfJsentO6msY4On/ozJdj9UglNX7l1YWiiRc=;4uj3GoOY/NeEmZjbm91weA=="
 ---

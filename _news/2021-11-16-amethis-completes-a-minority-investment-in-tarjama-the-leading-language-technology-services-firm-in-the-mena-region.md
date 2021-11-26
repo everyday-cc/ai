@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region"
-excerpt: "Founded in 2008 by Jordanian entrepreneur Nour Al Hassan, Tarjama is the leading language technology & services provider in the MENA region, meeting the language and localization needs of a wide roster of corporates across the region's largest markets."
-publishedDateTime: 2021-11-16T08:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-amethis-completes-minority-investment-tarjama-leading-language-technology-/2021/11/16/9492714.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-amethis-completes-minority-investment-tarjama-leading-language-technology-/2021/11/16/9492714.htm"
+excerpt: "Amethis, through its newly launched fund, Amethis MENA Fund II (AMF2), has completed its second transaction, acquiring a"
+publishedDateTime: 2021-11-16T07:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i"
+webUrl: "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i"
+ampWebUrl: "https://www.benzinga.com/amp/content/24114911"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24114911"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "SVU1Ewvhw60DnhNFh+usB3A8JX4dnS9hjorMeHe6zTkmZ6mPQx30kB40b7/E1re6qqdYvSr7iQsdnLOvW/LiPRyunm5Rpd3IYyB0n/niOaN1GLJheAExg81Jc6Ygf414CXxs1FyfY7+8PMhWVE9BVOvcPPWlJTVlA0kzaYrfvXA2kzrFYl2F8nYhAWT121AOvg5JkX8jVEfzubpVVW80n3HAmOuwA+s1VLC7iMGaEHsH1mKGmxNwM/oUN/hYl76j/5raGMcHa57dYPwY6SREB/h883ruwlJ60Kwejt4Mchv8teToNAmU7M26gfsg+WQPEH8En6/6YufJBuImHpoI+nMMzL/s8mYtcLIQIUuZGwfzsfgOkgFcAWiXL8ez91VDZsWHDBRWibiJxyKmbOduOWVkzd5RJCiRr9xMaZE+i8e3sTAHRaX0L89JX04yDuLGAchTachiXXmTALb3hNIkXa9vR/36vAeYJ/jhiCmbYvlQTmCUxJ2/GOix6UOqZmv3Vp11NAKPDHvkzO1v4pC+Xw==;e3fFtQGTHxwtgAeG+aHuIg=="
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
+
+secured: "kyuIK5nwTzlBi3KDjA/Eu9TE1KgEBFK2VR9/dDOrVuGjof08mVITPuL/6smX/vqQxeIEVdUt24tr6cAbwZRtsrlifoC0835SweWAdmbdyhsL7nkNb+WiV/bZnY2plrbRaj0WilHsC3L6QuGWy3lMqrGmkd43oshnayz6SqJAODjvIG1KzCkiCGj7d6Wjw6yVl1dTnpw9U5oE92oLMplXmUoGFWg8fGzehUoZF6ACzN3hDLPbpfeO+GMFxu/m2tyK5StEh0TkKXiRKInDVOgk6TaWH7br0cT5PAnab6zrtp2yrIbass6C/sLwy+WwUi0f8g5VZ7z3LLlTpaYbu971e+hLRb63yuPisncdafBPWeQ=;gRZGjGu4mFmKe/nrmVG85A=="
 ---
 

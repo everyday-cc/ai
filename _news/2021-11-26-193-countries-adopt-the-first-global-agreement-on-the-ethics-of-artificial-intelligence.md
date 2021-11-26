@@ -2,23 +2,30 @@
 category: news
 title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
 excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-publishedDateTime: 2021-11-25T20:02:00Z
-originalUrl: "https://www.publicnow.com/view/9BEE2FB082298B56AF79D9B19D553ECCAF435063"
-webUrl: "https://www.publicnow.com/view/9BEE2FB082298B56AF79D9B19D553ECCAF435063"
+publishedDateTime: 2021-11-26T10:20:00Z
+originalUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+webUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+ampWebUrl: "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
 type: article
-quality: 30
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: publicnow.com
-  domain: publicnow.com
+  name: Daily Sun
+  domain: daily-sun.com
 
 topics:
-  - AI Ethics
-  - AI
-  - AI in Healthcare
   - AI in Autos
+  - AI
+  - AI Ethics
+
+images:
+  - url: "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg"
+    width: 830
+    height: 530
+    isCached: true
 
 related:
   - title: "UNESCO member states adopt first global agreement on ethics of AI"
@@ -36,6 +43,22 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-10/12/full/1507818130-0123.jpg&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Unesco member states adopt global artificial intelligence ethics"
+    excerpt: "The global agreement, adopted by Unesco’s 193 member states, which includes SA, addresses the increased gender and ethnic bias posed by AI."
+    publishedDateTime: 2021-11-26T10:30:00Z
+    webUrl: "https://www.itweb.co.za/content/O2rQGMAnog9qd1ea"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/O2rQGMAnog9qd1ea"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAnog9qd1ea"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/bVXnIuD5cZ7d-8D3A5ISv2p2z2XsJBCbqhUvoAKs6LS8t9L_IdaIoZ5mqUuuonx7Rk75_LuUWMUG-_ufYR8-TulFsdxILOr8c25Z=w816-h428"
+        width: 816
+        height: 414
         isCached: true
   - title: "UNESCO Chief Audrey Azoulay Presents First-ever Global Standard On Ethics Of AI"
     excerpt: "The Recommendation on AI Ethics lays out common ideals to assist in the development of the legal infrastructure needed to enable its healthy development."
@@ -81,6 +104,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "193 countries adopt first global agreement on Ethics of Artificial Intelligence"
+    excerpt: "All the nations members of the UN Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common"
+    publishedDateTime: 2021-11-26T04:48:00Z
+    webUrl: "https://arynews.tv/artificial-intelligence-agreement-unesco/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 52
+    images:
+      - url: "https://arynews.tv/wp-content/uploads/2019/03/artificial-intelligence.jpg"
+        width: 750
+        height: 369
+        isCached: true
   - title: "UNESCO’s AI ethics framework — (Some) EU countries want AI bans for tech companies — UK benefits algorithm under fire"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
     publishedDateTime: 2021-11-24T10:05:00Z
@@ -97,6 +134,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "UAE - 193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
+    excerpt: "( MENAFN - Emirates News Agency (WAM)) NEW YORK, 26th November, 2021 (WAM) -- All the nations members of the UN Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of AI."
+    publishedDateTime: 2021-11-26T09:39:00Z
+    webUrl: "https://menafn.com/1103254638/UAE-193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?994757"
+        width: 377
+        height: 250
+        isCached: true
   - title: "UNESCO's ‘Cookie Factory’ Raises Awareness of the Potential Risks and Ethical Challenges of AI"
     excerpt: "Little Black Book, DDB Paris teams up with makemepulse to create extension allowing you to assume a new identity as you browse the internet"
     publishedDateTime: 2021-11-25T15:06:00Z
@@ -111,7 +162,16 @@ related:
         width: 925
         height: 521
         isCached: true
+  - title: "Ethics of Artificial Intelligence: 193 countries adopt the first global agreement"
+    excerpt: "UNESCO addresses the ethics of Artificial Intelligence, adopts text defining common values and principles needed to ensure healthy development."
+    publishedDateTime: 2021-11-26T09:21:00Z
+    webUrl: "https://www.itp.net/news/ethics-of-artificial-intelligence-193-countries-adopt-the-first-global-agreement"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 31
 
-secured: "sUuS9D39QvsNdENHCaLj+bunoOlBcAep1QekBNWL+5cC7VuG8hrQgwQgpcRQ2RwumWzc9qT10Uwn7YXmGeqZzFsXNULvZJpqjw9gdslNUrbtCyUEUSlJjn3T5+kDj1Nw6GNEAAbymOD8LvQGvYOqsYr6gZf7MqxKouY69bYE2BY/OPtqK9QucQ3VP+U2NCciMCZYkPyj0j6fhRjGhefpbHaGKTG1TW2LAExkl3FCUGnu3Oeg+s1JsjpWmxXYAuhMnGYstG0tOVFBTdtqfcRCoScyohcuFttCgfwBfU4+5HFX2rEAFkS1PwAgMPXWs3RGjfd3rQh503GE3CSBQnDoKjS3mD1HVIL67sQVrZSgP/U=;RI3+CRXH2cFzA0BvIdiH/A=="
+secured: "ffwwsCX+AyVM7e40SwvXzlSVuEES7kpJiXIBphmoGF3Xem76W5QeN07Dezl1lS8Ue0IS5pKhk83hwN6ORZjc4w4si78fTM7T8OWhEkPjuVH/+9k7WYfG9dvucO/bradMJjUCStTROC7irEpVkAjZ8XFOqu012iMqrD88aiJqLlI6IU1oha8dUOmqbthH8IgtYp7mrnZDKhsN3zkKiWo595Oq6gDz3DNNk88VQ0qvTaQ72nUHOHg6ZUpCc9rvtXrhvBnDARj9sK9Ats171tKM5xJsppw4nInJyJoz0d4p14w5J+BTzKm5SzbW3U3Zdl53Qo5OVM6yvvmgsjyIkgW7lH67vWiMefSGbuS0ASzef5E=;O9cv0e4/gsWjBE2J7duTaw=="
 ---
 

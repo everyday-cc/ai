@@ -1,31 +1,38 @@
 ---
 category: news
 title: "Hyundai Motor to test-operate Level 4 self-driving service in Seoul"
-excerpt: "By Baek Byung-yeul Hyundai Motor will test-operate its self-driving service, \"RoboRide,\" as a pilot program in a district for self-driving cars located in downtown Seoul, starting"
-publishedDateTime: 2021-11-25T06:04:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2021/11/133_319449.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2021/11/133_319449.html"
-ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319449"
-cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319449"
+excerpt: "Hyundai Motor will test-operate its self-driving service, “RoboRide,” as a pilot program in a district for self-driving cars located in downtown"
+publishedDateTime: 2021-11-25T07:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/hyundai-motor-to-test-operate-level-4-self-driving-service-in-seoul-10782839"
+webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-motor-to-test-operate-level-4-self-driving-service-in-seoul-10782839"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: koreatimes.co.kr
-  domain: koreatimes.co.kr
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202111/7928f3c091514d27affe107aa3cdb9d7.jpg"
-    width: 980
-    height: 551
-    isCached: true
+related:
+  - title: "Seoul will operate self-driving buses in Cheonggyecheon from April next year"
+    excerpt: "The Seoul government is planning to gradually increase commercial autonomous vehicle test areas such as Sangam, Gangnam, Yeouido, and Magok, and will operate self-driving buses in Cheonggyecheon from April next year."
+    publishedDateTime: 2021-11-25T17:17:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20211125/3861988.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 1
 
-secured: "EGmGwiS+zFvoZceL2YD9p5ajrayfI7qGe+5VNi7yXCiM3XsWHvvLDTsRjrC7Qv6SygD/CQX1PscBjtpoulM3AcO5/xwlWm5/REL1SzG0uV7zNmVOHKe0+Nl4ir93ToLhosHiMyh7sLyY3VDFNypa0igZmErvhPO17s5HgLGKHmwDmv3gAzsTOBpXV+i2aTGydpkdOwtHd6FIUB2BBQn9t94hK38slWTTWr7WSaxmyr5FiQNE/8VAz4Jc1TppgqjQ7HUXX7jmqpFJfVs5mPt8/9GP+TppIYhF+/O0Woz1kG5VA+gcWKVYKX9Oy/VLokXMcpwk/exFQwy9VZoteyTT5ypLvXF9ulRwZ4qp9qGQvCTWyCJkY8AbRKsuJYVXWGsu7DcBMp2ckzsldBGBe4N5AtLI/kIGr/jtH01UO/Q5pvqT8oIKwL8Xi/h3YGJCc2yFcc3SJD5uGFtTxJr3UzeNI41lzfqEj3+0Mi5nT8iPQoybJ05ZHgYXClbp+CQ+ptaVqImuANXUVS6vGcz4KoxcxQ==;c6WsH3SyQSKNgy9N4LZJnQ=="
+secured: "oOFegfrzqHMXLis/OFaN0p6agEbv9dlp+VBTDll9Y1/w1uVwPaKMZjt+6mtG3KOf6JiekawR2hoOIfC/x3ADP4A05WM6DRZm04YU766ZbalIQmzGPDjngpC6GqUFQDWKwR9M8ISgOhMgnqfSGMOd5DA2iWd7mtGfveuNhxdOQmcQkl9sdE3YZAq7YfSXikjVJDVLGko0OeQW1k+lVOyIWm/t5LAkiUUBGskup2C+sDtSRriRPDg2Wuhujq/IVMTJ83ZMhiw+9uQwm1pIUsGp24EZ4agvKwwLZQgHXNzxjUD1xod88FRDKi/yQ4q7Xk0uvnzJVOrW7orcUfdzeI5oZvKAychz88RCwit3Lf4ALxk=;E7ArBhaA+Wn/HAwc2kY4DA=="
 ---
 
