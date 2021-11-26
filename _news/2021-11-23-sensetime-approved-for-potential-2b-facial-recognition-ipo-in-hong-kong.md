@@ -42,16 +42,19 @@ related:
         height: 683
         isCached: true
   - title: "SenseTime IPO could help HSBC gain recognition"
-    excerpt: "A successful market debut by artificial-intelligence dragon SenseTime  could go a long way to uncovering interest in politically sensitive Chinese technology. And it might do almost as much for HSBC,"
-    publishedDateTime: 2021-11-26T02:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition"
-    ampWebUrl: "https://www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition?amp"
+    excerpt: "Some deals are about more than just the money. A successful market debut by artificial-intelligence dragon SenseTime could go a long way to uncovering interest in politically sensitive Chinese technology."
+    publishedDateTime: 2021-11-26T01:39:00Z
+    webUrl: "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Reuters
+      domain: reuters.com
     quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/utbCg0l0DmMO3OUyGVcONl7IFSI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B32INJZALNOGVNR2IBVU7OQ424.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "SenseTime Shows China's Prowess in Artificial Intelligence"
     excerpt: "China has a number of pure-play Artificial Intelligence companies that other countries cannot replicate. Join StockQuest for my business and investing content on the future of companies."
     publishedDateTime: 2021-11-24T10:47:00Z

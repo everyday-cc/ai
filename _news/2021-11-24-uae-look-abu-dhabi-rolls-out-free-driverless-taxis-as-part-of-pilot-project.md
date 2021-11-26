@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Driverless ride-sharing coming to ME"
-    excerpt: "G42, an artificial intelligence company backed by Mubadala, announced plans to test a driverless ride-sharing service in Abu Dhabi."
-    publishedDateTime: 2021-11-21T11:28:00Z
-    webUrl: "https://www.linkedin.com/news/story/driverless-ride-sharing-coming-to-me-5190236/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C561AAQEL-xxcRQRilQ/storylineheaderimage-shrink_400_400/0/1637491945216?e=1637726400&v=beta&t=7A0ywOGl_efkqB1A87d5QcYSl2M0EZsoOXGOwmt6Mjc"
-        width: 400
-        height: 266
-        isCached: true
   - title: "Abu Dhabi launches first driverless taxi for Yas Island’s residents and visitors"
     excerpt: "The service would be accessible from 8:00am to 8:00pm, through the \"TXAI\" app which will be available in all app stores."
     publishedDateTime: 2021-11-24T14:51:00Z

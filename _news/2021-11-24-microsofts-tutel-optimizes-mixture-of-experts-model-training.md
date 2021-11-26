@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixtur
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "It's Official. Microsoft Will Build Advanced Chips for the US Military"
-    excerpt: "The US National Security Technology Accelerator (NSTXL) announced on Thursday that it has chosen Microsoft to build advanced chips for the military. \"Historically, the security requirements associated with developing microelectronics have limited the U."
-    publishedDateTime: 2021-11-21T11:13:00Z
-    webUrl: "https://interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military"
-    ampWebUrl: "https://amp.interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/microsoft-will-build-advanced-chips-for-the-us-military"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 59
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DRjoNOx/sizes/microsoft-chip_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Hire Microsoft Power BI Specialists near Sofia"
     excerpt: "Hire the best freelance Microsoft Power BI Specialists near Sofia on Upwork™, the world’s top freelancing website. It’s simple to post your job and we’ll quickly match you with the top Microsoft Power BI Specialists near Sofia for your Microsoft Power BI project."
     publishedDateTime: 2021-11-25T11:12:00Z

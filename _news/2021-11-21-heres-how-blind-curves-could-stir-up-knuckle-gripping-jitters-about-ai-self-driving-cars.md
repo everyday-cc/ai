@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Apple reportedly accelerates plans for electric, self-driving car"
-    excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
-    publishedDateTime: 2021-11-21T13:00:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920"
-    ampWebUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 44
-    images:
-      - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Apple’s self-driving car coming in 2025: Report"
     excerpt: "Whether Apple can launch the Apple Car in four years depends on how successful it is in developing self-driving technology."
     publishedDateTime: 2021-11-25T07:38:00Z
@@ -108,6 +92,15 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "CES 2022: First self-driving racing competition scheduled"
+    excerpt: "At the upcoming CES 2022, the largest trade show in the world, the first high-speed autonomous racing competition will take place. The Consumer Technology Association (CTA), the organization that manages CES,"
+    publishedDateTime: 2021-11-23T13:24:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17456/ces-2022-first-self-driving-racing-competition-scheduled"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "QR4OBmGuCCBadZwu6o9HU/sOWTN7OFD/SMsCs9bj9UUDcAZuPKREt9YiZzVk2DJjO1CG6uqxbkZ8JhTNJdc8Frj4Y2ylILcJCl7oTJDry0zMz6VP+5Tqz+xYDJLyqShokHQJ4Ij3JsMDh/j9Z0g2w31zO1ItlfcnQXV058Qhrif4Aestn6dip9DT0YYcGPKixyrjoCrQQM7IbtQtS0oe1hLKfN4tmo4yvREAuatji7lHwDDSgpPE/E2Ji2+BzmxIiRQHRiGmOEuASVDZspXXLX4vtv1riJlkREaqKJU8tP6b50JPu4wDf9/8bn9YZ71IvWal5J8uokhSzVevjNHwqY5UQYfQXR0Q4nRT0jhWEZ6eUk25tw+aCe94sgD3Ne1b9u++uSn6ZirKOobofSDuWAgBm5UfufgrC0CIAO9iC2A3hvp1pQHUdxXwCa/QUIKoAMCYhdbvbJnzbJkZblHYYvKUR3Hv793zizE8nzE4Bu6stXQ/pD3tjS7jSlApVBBZiSrRqEjjnqD8JcznfIBRtQ==;Q/j1IBKyQg4SImke1+bE3w=="
 ---

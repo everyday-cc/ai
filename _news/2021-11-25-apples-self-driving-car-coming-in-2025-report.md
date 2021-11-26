@@ -9,7 +9,7 @@ ampWebUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746/
 cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple reportedly accelerates plans for electric, self-driving car"
-    excerpt: "Apple is reportedly fast-tracking plans for its electric, self-driving car with hopes it can be on the road by 2025 – just four years away. The tech giant is focusing its efforts on delivering a self-driving vehicle after the project was put under the leadership of Kevin Lynch,"
-    publishedDateTime: 2021-11-21T13:00:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920"
-    ampWebUrl: "https://www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/inventions/apple-reportedly-accelerates-plans-for-electric-selfdriving-car/news-story/1016e5b8b1daefb608c41ec6d86a5920?amp"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 44
-    images:
-      - url: "https://content.api.news/v3/images/bin/e08e260ca683cd21d1b809e32f49c29c"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
     excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
     publishedDateTime: 2021-11-23T07:29:00Z
@@ -105,6 +89,15 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "CES 2022: First self-driving racing competition scheduled"
+    excerpt: "At the upcoming CES 2022, the largest trade show in the world, the first high-speed autonomous racing competition will take place. The Consumer Technology Association (CTA), the organization that manages CES,"
+    publishedDateTime: 2021-11-23T13:24:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17456/ces-2022-first-self-driving-racing-competition-scheduled"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "HP38Gqb+k6uZTPuBgjT/X8vKRVBPHQbPbJCPvW0Hm3ZDyE2owvH9e2p4doiTufOqWb5H/RP+T+LZDKiHtuoy4aJWIdZ6c5CkcDPK9RGzXdkUnDjHf8e7wa79XRVTc8DzrqGSHGTkquasS5rJD5UFfeWeBZy6qvznZsrvn7ASCa9ErqGH5hbb6yZVUQSpiECuPAui5wcfu1lh0fMjGCpGAEnb5B17guwQWDVuo+zt+lgNTQFV656r/4zFroiRBimDOd1bJqzg/7RRYAwjUjx+/8IVXo27qgBKGy08f0PBQTndBHJTf1g0jxe5P69037MoWK/qJpUpWXRhgWlxwPEkQtrH26A23HqIuEaMgmUl09U=;L9KiauV5WuJnOvjkv8r2sg=="
 ---
