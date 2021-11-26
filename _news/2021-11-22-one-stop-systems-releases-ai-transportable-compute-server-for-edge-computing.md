@@ -65,20 +65,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Low Code and No Code: The Future of Artificial Intelligence"
-    excerpt: "Will low code apps go any higher? The jury is still out on how high this will all go. Low code and no code might even help business users build AI-driven applications, according to some experts. “Low and no code platforms make it feasible for businesses to deploy artificial intelligence without having to hire an army of pricey developers and data scientists,"
-    publishedDateTime: 2021-11-21T10:50:00Z
-    webUrl: "https://bestgamingpro.com/low-code-and-no-code-the-future-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Low-code-and-no-code-may-open-more-doors-to-artificial-intelligence-.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Appreciating the Potential of AI"
     excerpt: "Mohammed Alam was recently hired as the deputy director of Northwestern Engineering’s Master of Science in Artificial Intelligence (MSAI) program, where he will collaborate with students to shape their experience and explore future possibilities of what AI can and will be."
     publishedDateTime: 2021-11-22T18:51:00Z

@@ -1,28 +1,24 @@
 ---
 category: news
-title: "SenseTime approved for potential $2B facial recognition IPO in Hong Kong"
-excerpt: "Despite continued momentum including impressive accuracy in NIST’s facial recognition tests, the company lost US$579 million in the first half of 2021."
-publishedDateTime: 2021-11-22T22:26:00Z
-originalUrl: "https://www.biometricupdate.com/202111/sensetime-approved-for-potential-2b-facial-recognition-ipo-in-hong-kong"
-webUrl: "https://www.biometricupdate.com/202111/sensetime-approved-for-potential-2b-facial-recognition-ipo-in-hong-kong"
+title: "SenseTime IPO could help HSBC gain recognition"
+excerpt: "A successful market debut by artificial-intelligence dragon SenseTime  could go a long way to uncovering interest in politically sensitive Chinese technology. And it might do almost as much for HSBC,"
+publishedDateTime: 2021-11-26T02:39:00Z
+originalUrl: "https://www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition"
+webUrl: "https://www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition"
+ampWebUrl: "https://www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition?amp"
 type: article
-quality: 38
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/29145639/sensetime-large.jpeg"
-    width: 1400
-    height: 788
-    isCached: true
 
 related:
   - title: "China’s AI giant SenseTime readies Hong Kong IPO"
@@ -41,17 +37,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "SenseTime IPO could help HSBC gain recognition"
-    excerpt: "A successful market debut by artificial-intelligence dragon SenseTime  could go a long way to uncovering interest in politically sensitive Chinese technology. And it might do almost as much for HSBC,"
-    publishedDateTime: 2021-11-26T02:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition"
-    ampWebUrl: "https://www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "SenseTime Shows China's Prowess in Artificial Intelligence"
     excerpt: "China has a number of pure-play Artificial Intelligence companies that other countries cannot replicate. Join StockQuest for my business and investing content on the future of companies."
     publishedDateTime: 2021-11-24T10:47:00Z
@@ -80,7 +65,21 @@ related:
         width: 527
         height: 373
         isCached: true
+  - title: "SenseTime approved for potential $2B facial recognition IPO in Hong Kong"
+    excerpt: "Despite continued momentum including impressive accuracy in NIST’s facial recognition tests, the company lost US$579 million in the first half of 2021."
+    publishedDateTime: 2021-11-22T22:26:00Z
+    webUrl: "https://www.biometricupdate.com/202111/sensetime-approved-for-potential-2b-facial-recognition-ipo-in-hong-kong"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/29145639/sensetime-large.jpeg"
+        width: 1400
+        height: 788
+        isCached: true
 
-secured: "Hkng9ewNsH+y/2NujTqVXRcKq2UE1wRQpF0zy/fL6hHGs6SoyBnHwIyzs1b7g4aEqnJoQd9gwnLOCjfdudj4JU2BFYoNxVVKhpmKZ2lmqRktN95dSqAjJ3ZvT5s6s6bmzvgH8CSHcky2x0cFDzvgxF51BDApyNIJBKpdYUq33mLs9apmR7CybNyzTCsipcfYVWfuj72L7TG6I+qtbldrMLFGDviukNDBXepVcG7XrndzY0KmU+agh1OUmhM3+Iv1RQ1uNemPYJzuN/g0XvTWzM1PHz8OF/ToPYwoke+uZb5E6f6NeJrZjHx+FRpv5IwaoI3KYZhJj3tNPp1p0JnApKNHWJG8mf+qxIq7xPsaVd59Yv3b6nKp9eyvUOKaGdkPrFIxODKJfm/K4x4VYTLyv1P+ceCNR06Ga+yFultvb1bEHHXXzIxaeM5pl7dAPkYOXvEs5kUdj9G6p5QgOkhjdUwhXL2mUKr3H2mo3C2TpERdvVgirbMO6Uq8f4KUpHi6et9G1/dJc04GpHUDlJtsmA==;Mb7c68Fvtea60dZC0MYDDQ=="
+secured: "M4yyLJ16PU7pADLuRq+opjEwrPPX6I+Xnex8UFAfdHaA1Y6TX1fQzbfF0jIL6Z0KKra5ViKQuFJOrMSyIFpkWc5cjpcjNdFrKFQf6kFI7b35ABm20Tss01j+lmSz5vp38Aq3E2Fn4SS7fu+ByNQzoWol92G3BsVANlv+ChmdAQ7WgHJhAalKPZaY+Z4N33sFjbB+b+CJv09FOoGv8kqr9O17MbXpzrUzyT5OZ3nkLy842Z3h3xCa3j1+M9KA3Rkq4MoZkjwKnXb5nB0snfNiA3jfpdFJYTRE2ituKv/QJtWJ+08NGvSTNLaM1xuc9GsjkCjYp6htrrjFz+js7jUjr/Eg5mRttnCSkgw7Bh642QU=;268RS4ms5tTRO6LXd4xDNA=="
 ---
 

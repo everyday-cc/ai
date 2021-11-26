@@ -317,6 +317,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 17
+  - title: "Lifeist Wellness To Sell Certain Intellectual Property Assets to Spinach Pay, Breathing Life Into a U.S. Cannabis Fintech Concept"
+    excerpt: "Lifeist Wellness Inc. (\"Lifeist\" or the \"Company\") , a wellness company that leverages advancements in science and technology to enable you to find your path to wellness, today announced that it has entered into a definitive agreement"
+    publishedDateTime: 2021-11-26T01:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-20126533.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 10
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "3 fintech trends that are transforming the future of business"
     excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
     publishedDateTime: 2021-11-23T14:09:00Z

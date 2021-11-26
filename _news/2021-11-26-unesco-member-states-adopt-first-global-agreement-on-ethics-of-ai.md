@@ -1,46 +1,32 @@
 ---
 category: news
-title: "UNESCO's ‘Cookie Factory’ Raises Awareness of the Potential Risks and Ethical Challenges of AI"
-excerpt: "Little Black Book, DDB Paris teams up with makemepulse to create extension allowing you to assume a new identity as you browse the internet"
-publishedDateTime: 2021-11-25T15:06:00Z
-originalUrl: "https://www.lbbonline.com/news/unescos-cookie-factory-raises-awareness-of-the-potential-risks-and-ethical-challenges-of-ai"
-webUrl: "https://www.lbbonline.com/news/unescos-cookie-factory-raises-awareness-of-the-potential-risks-and-ethical-challenges-of-ai"
+title: "UNESCO member states adopt first global agreement on ethics of AI"
+excerpt: "The first ever global standard on the ethics of artificial intelligence (AI) was presented by Audrey Azoulay, director-general of the United Nations Educational, Scientific and Cultural Organization (UNESCO),"
+publishedDateTime: 2021-11-26T02:07:00Z
+originalUrl: "https://www.business-standard.com/article/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
+webUrl: "https://www.business-standard.com/article/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
 type: article
-quality: 42
-heat: -1
-published: false
+quality: 74
+heat: 114
+published: true
 
 provider:
-  name: lbbonline.com
-  domain: lbbonline.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://d3bzyjrsc4233l.cloudfront.net/news/ai.png"
-    width: 925
-    height: 521
+  - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-10/12/full/1507818130-0123.jpg&width=1200"
+    width: 1200
+    height: 900
     isCached: true
 
 related:
-  - title: "UNESCO member states adopt first global agreement on ethics of AI"
-    excerpt: "The first ever global standard on the ethics of artificial intelligence (AI) was presented by Audrey Azoulay, director-general of the United Nations Educational, Scientific and Cultural Organization (UNESCO),"
-    publishedDateTime: 2021-11-26T02:07:00Z
-    webUrl: "https://www.business-standard.com/article/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-10/12/full/1507818130-0123.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "UNESCO member states adopt first global agreement on AI ethics"
     excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
     publishedDateTime: 2021-11-26T02:00:00Z
@@ -71,6 +57,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "UNESCO's ‘Cookie Factory’ Raises Awareness of the Potential Risks and Ethical Challenges of AI"
+    excerpt: "Little Black Book, DDB Paris teams up with makemepulse to create extension allowing you to assume a new identity as you browse the internet"
+    publishedDateTime: 2021-11-25T15:06:00Z
+    webUrl: "https://www.lbbonline.com/news/unescos-cookie-factory-raises-awareness-of-the-potential-risks-and-ethical-challenges-of-ai"
+    type: article
+    provider:
+      name: lbbonline.com
+      domain: lbbonline.com
+    quality: 42
+    images:
+      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/ai.png"
+        width: 925
+        height: 521
+        isCached: true
   - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
     publishedDateTime: 2021-11-25T20:02:00Z
@@ -81,6 +81,6 @@ related:
       domain: publicnow.com
     quality: 30
 
-secured: "+PoLWhGdMA6X1Tm0kgivtF4EZ8D2fm8IjdPUHNBZ9U350+rHCBnUh5CeuXakoEn1vE2OTvfyiPDC3wfcE9aDe9T0GoFL7ta7EMzOtcpLPOVPY8h/odcnNLw6xjsJeI4qvruyWEeBU0HAZ7+cjH2YZNh2eyqGErcZmwxabSMx9hDpHL3X/Cg9X58FWcQ1cV/xctktRvUq+HaWg4irhPCN09ZWlo+W47LdqW2xfNuo4IBeYdb4lhEa4MPkxV5qqSfYTBEjhql0WWQ1VM+816fymgFgpdz7+WOv91ChUpRi8J9k2aE4I5P4GYR+pd2lGAfvAXchECiocy3mHyIDuz7UCbAr3WV4qb5F7p3NAiEwop7+ANpALGfPD0qDwo3NKQaxHbpJD4VgNZRJEQi1pwwZNUaDxlvec2FPW1lMcfagKT5DO2ImFSMBW6R2QAA2N2PZakXY4YiUOVRzpCPzKC2wIY2RdGMkaVTolU+c8l3+O1UvWVdQj3OsLU3uduNOVV4CGN2p0jNP1xCuqb/CQ3WJoQ==;v/rDYNJN5UzXXQ8ORGYRrQ=="
+secured: "8cxZX6mnZpy6otABfh0VqmxyoQAcEO952zq1/I0gVuNmxfOING8RsJGZrE5ilNFlVTH9CnzcgwGdPKB8bPwoTY9KHR9qFYnPYKLpsWNMFUXi0Q+At+OyJw944t/BiZwh6MzKZerpubcbp9TzbmBpREJeCjXoOzJ4K0VQTTTRqa7HMkb/zLw1mD7mrKNdNgmAPsozkbeeuMEppoayjdTe7KdEAT3x72xOwWIZv+2zIPMpmLH27yJjWcpHqSbeHiOv3qWl7JLVXRi36EqNJpEaF8/vkveGRGrCkZzzFEdg9a11osbHIL9itiN1QCuUlbgrvrtmOtkB0lyad6Y5tY1iELRda0RATuXkmeC6GCwbSVM=;iUQtaZEksLydl0BTun2s0w=="
 ---
 

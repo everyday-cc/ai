@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Local fintech startup GIMO bags $1.9 million in Seed+ round led by Integra Partners"
-excerpt: "GIMO, a Vietnam-based fintech startup offering on-demand payment firm for blue-collar workers, has secured $1.9 million in a Seed+ round."
-publishedDateTime: 2021-11-23T11:52:00Z
-originalUrl: "https://vir.com.vn/local-fintech-startup-gimo-bags-19-million-in-seed-round-led-by-integra-partners-89420.html"
-webUrl: "https://vir.com.vn/local-fintech-startup-gimo-bags-19-million-in-seed-round-led-by-integra-partners-89420.html"
+title: "Lifeist Wellness To Sell Certain Intellectual Property Assets to Spinach Pay, Breathing Life Into a U.S. Cannabis Fintech Concept"
+excerpt: "Lifeist Wellness Inc. (\"Lifeist\" or the \"Company\") , a wellness company that leverages advancements in science and technology to enable you to find your path to wellness, today announced that it has entered into a definitive agreement"
+publishedDateTime: 2021-11-26T01:15:00Z
+originalUrl: "https://www.lelezard.com/en/news-20126533.html"
+webUrl: "https://www.lelezard.com/en/news-20126533.html"
 type: article
-quality: 18
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Vietnam Investment Reviev
-  domain: vir.com.vn
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://vir.com.vn/stores/news_dataimages/luuhuong/112021/23/09/in_social/2044_GIMO-team.jpg?randTime=1637672489"
-    width: 600
-    height: 364
+  - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -292,6 +292,20 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Local fintech startup GIMO bags $1.9 million in Seed+ round led by Integra Partners"
+    excerpt: "GIMO, a Vietnam-based fintech startup offering on-demand payment firm for blue-collar workers, has secured $1.9 million in a Seed+ round."
+    publishedDateTime: 2021-11-23T11:52:00Z
+    webUrl: "https://vir.com.vn/local-fintech-startup-gimo-bags-19-million-in-seed-round-led-by-integra-partners-89420.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 18
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/luuhuong/112021/23/09/in_social/2044_GIMO-team.jpg?randTime=1637672489"
+        width: 600
+        height: 364
+        isCached: true
   - title: "Completion of the Round 1 of the Securities & Commodities Authority Fintech Megathon"
     excerpt: "The first-of-a-kind nationwide Megathon, launched in May 2021 under the patronage of H.E. Abdullah bin Touq Al Marri, Minister of Economy (MoE) and Chairman of the Board of the Securities and Commodities Authority (SCA),"
     publishedDateTime: 2021-11-25T13:20:00Z
@@ -317,20 +331,6 @@ related:
         width: 2079
         height: 1406
         isCached: true
-  - title: "Lifeist Wellness To Sell Certain Intellectual Property Assets to Spinach Pay, Breathing Life Into a U.S. Cannabis Fintech Concept"
-    excerpt: "Lifeist Wellness Inc. (\"Lifeist\" or the \"Company\") , a wellness company that leverages advancements in science and technology to enable you to find your path to wellness, today announced that it has entered into a definitive agreement"
-    publishedDateTime: 2021-11-26T01:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-20126533.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 10
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "3 fintech trends that are transforming the future of business"
     excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
     publishedDateTime: 2021-11-23T14:09:00Z
@@ -341,6 +341,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "NtVJvOa8eyGYRAqTIO3e8rpinARsyOWmtQwx6vQGvrIuo097/TC2x/IRN+OwElLSXoWSABaogBPhrcLX4+rlVqLTnObdOVEKH7f/btgEQcKIeqE+a5bKWxhjw14w83YWD+3yZ1X3CVKw2JB54ZikTMTrXypcqoaGkSkqykl3UzgwwyyhHyylKUzWDo2ltLAhEHnZfkIwLchENYA5dgvKgDSPGR2TzBqnF2hB/YeIDTZ7uqUvi+9/98X8m+OwUUQABntjH4/7VgDgf1leBJ41mGBN+YpGSp1+B6teBmSoeZbiiSdzxvFUzugHK1a7dFFSRYc0XozW5aX+9LxHGLYZm8g920P6N+r693lGSc/E232Gh4L+N3uU9i6H0uQKJp1Lo6gluWSWN4PZ0MjX2ePP7jt6fNwPnfKirtN6gMzkWrOsM9ThTKJ3U+vfL/utuqVfURFtGiqn72NrVrlX9xAezdM/EBSVHPu+dEL55zfEGZqzFLlvTTtidXkaF83Mky04wJMPfyDXxqHrX/bKBy9ipQ==;yII3FlzLt1M7HzMtNHcB/Q=="
+secured: "SMawrwWrb7aXv+VZJhG978VIvulxksznfUgT8w1TXoGiM7aeHOJlEJiWC61fB2G/doH3Gg4RAbcTEOPp21/x8mhAwk6QluBie+kHXQvbPrnUrL++hBReVUwfeQIr0SDV/NEAzmsAj9BcOJl/2Pa5BJqa1in2y9tKW1B5BBB8TzKOlOBCUWvmiUfxPkuXc1X34AopBGiKls+xgYOBJZFldGc1HHJ4k02Ru+6c0ZphRE73/pcEBUxqgGVDsY3awG7BTdd+byUjzJX3R8ISLoHuJeLh0eOuAHr+mYreDkzs9+NeLB/aG5DkjxMTwU8bT05hOISlqg+ERm37umWNvlC5/trrRwiYXOEy5NwoK2Gr5Sw=;Pk6kweRhUrCaweifOX9XoQ=="
 ---
 

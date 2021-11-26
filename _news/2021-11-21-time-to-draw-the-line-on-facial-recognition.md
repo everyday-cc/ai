@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Returning India’s missing pets with facial recognition, one dog at a time"
-    excerpt: "ForPAWS is an app that will soon allow you to find a lost puppy's home using just your smartphone. Here's how it aims to make things easier for pet families down the road."
-    publishedDateTime: 2021-11-21T09:58:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/"
+  - title: "Use of facial recognition technology by police is dangerous"
+    excerpt: "The risk it poses to human rights, including right to privacy, far outweighs any of its purported benefits in law and order"
+    publishedDateTime: 2021-11-23T22:50:00Z
+    webUrl: "https://indianexpress.com/article/opinion/columns/use-facial-recognition-technology-police-dangerous-7638078/"
+    ampWebUrl: "https://indianexpress.com/article/opinion/columns/use-facial-recognition-technology-police-dangerous-7638078/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/use-facial-recognition-technology-police-dangerous-7638078/lite/"
     type: article
     provider:
       name: The Indian Express
       domain: indianexpress.com
-    quality: 60
+    quality: 59
     images:
-      - url: "https://images.indianexpress.com/2021/11/ForPAWS-1.jpg"
+      - url: "https://images.indianexpress.com/2021/11/facial-recognition_2_759.jpg"
         width: 1200
         height: 667
         isCached: true

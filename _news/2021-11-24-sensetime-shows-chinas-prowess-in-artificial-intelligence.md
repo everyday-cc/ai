@@ -45,6 +45,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "SenseTime IPO could help HSBC gain recognition"
+    excerpt: "A successful market debut by artificial-intelligence dragon SenseTime  could go a long way to uncovering interest in politically sensitive Chinese technology. And it might do almost as much for HSBC,"
+    publishedDateTime: 2021-11-26T02:39:00Z
+    webUrl: "https://www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition"
+    ampWebUrl: "https://www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sensetime-ipo-could-help-hsbc-gain-recognition?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Tip Sheet: Key Facts on China’s AI Behemoth SenseTime"
     excerpt: "This tip sheet was compiled by Caixin Insight from the Post Hearing Information Packs submitted Nov. 22 to the Hong Kong stock exchange by artificial intelligence (AI) giant SenseTime. 1. Key people TANG Xiao’ou,"
     publishedDateTime: 2021-11-23T21:42:00Z

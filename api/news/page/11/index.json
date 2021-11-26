@@ -2,6 +2,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-16-latest-release-artificial-intelligence-ai-in-insurance-industry-growth-potential-analysis-2021-2030.md",
+      "title": "Latest Release: Artificial Intelligence (AI) in Insurance Industry Growth Potential Analysis (2021-2030)",
+      "excerpt": "Market.Biz –:Recently released a new research report on the Artificial Intelligence (AI) in Insurance Market By Market.Biz, which uncovered accurate information about the long-term prospects of the global and regional market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/latest-release-artificial-intelligence-ai-in-insurance-industry-growth-potential-analysis-2021-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/latest-release-artificial-intelligence-ai-in-insurance-industry-growth-potential-analysis-2021-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/c8bbb64fe2b17c021c3ff1d93a3036bd1b16ce8b-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-deep-tech-no-code-tools-will-help-future-artists-make-better-visual-content.md",
       "title": "Deep tech, no-code tools will help future artists make better visual content",
       "excerpt": "The future creator economy will offer incredible business opportunities in visual platforms and tools that enable a focus on content.",
@@ -901,19 +943,19 @@
     {
       "path": "_news/2021-11-15-artificial-intelligence-market-size-worth-64130-billion-globally-by-2028-at-361-cagr-verified-market-research.md",
       "title": "Artificial Intelligence Market size worth $ 641.30 Billion, Globally, by 2028 at 36.1% CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence Market\" By Component Analysis (Hardware, Software and Services), By Technology (Deep Learning, Machine",
+      "excerpt": "Verified Market Research recently published a report, \" Artificial Intelligence Market \" By Component Analysis (Hardware, Software and Services), By Technology (Deep Learning, Machine Learning, Natural Language Processing),",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr/article_6e49ce73-f25b-5607-9f1f-70af86441639.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr/article_6e49ce73-f25b-5607-9f1f-70af86441639.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n24093831/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr-verified-ma",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n24093831/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr-verified-ma",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -921,13 +963,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24093831",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24093831",
       "publishedDateTime": "2021-11-15T05:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1138,58 +1180,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh.md",
-      "title": "AI Start-Up Gives Sustainable Wastewater Management A High-Tech Refresh",
-      "excerpt": "In Australia, start-up Streamwise D.I. has developed an AI-powered intelligence platform providing industrial-grade digitisation for wastewater treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617bf94ef9a8f6bf5e543092%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/amp/",
-      "publishedDateTime": "2021-11-15T04:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

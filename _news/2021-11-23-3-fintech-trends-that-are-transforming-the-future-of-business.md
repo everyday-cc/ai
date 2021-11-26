@@ -325,6 +325,20 @@ related:
         width: 2079
         height: 1406
         isCached: true
+  - title: "Lifeist Wellness To Sell Certain Intellectual Property Assets to Spinach Pay, Breathing Life Into a U.S. Cannabis Fintech Concept"
+    excerpt: "Lifeist Wellness Inc. (\"Lifeist\" or the \"Company\") , a wellness company that leverages advancements in science and technology to enable you to find your path to wellness, today announced that it has entered into a definitive agreement"
+    publishedDateTime: 2021-11-26T01:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-20126533.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 10
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "SnF5VTDwbiG+JInHHkM8rNdz6I21yexoGbZG7z7nK2Nt2rUPEVSO19e6FqLTDx0KZFl1wVet5Uo57F7K4VKGhCOyiH6wfXFUjG3X1jiELAEKPcF4IzGLs9B5AmECsPq2uSVUqY1Qgs/fvdvjQUQQlBUAyT+GloEfDgl/hSUC6MY8rmfZ9tiCbirZKnww7mLDtfK843d2Gkiyjodcz363Bw69AXYFV97cKcyA+ZkwgmdrppQHSG+/dGgNR4krq/A3+0+drRDdWowpYrDK/U3wDxoyFMOEP9DLqL1eoIKOtCsGUmr/GH+REpXcQi7/ymj1Zn56zTXh51ct55FG1E1rOvsXz5x93dojmpB3WWwlXz6DnCfBGrVk+/ymRAxBaL5M6UW3Vm67fzJuPpV2T3n94bxuS+S1pnRJyHyvDtupgyKUMHUBgVMwo6D5xD3F/3eBXcIYL03urUjPr39oasoxCYt8h7gyncylcvpvB/NA9Umpj85vLLkZJEbmzwTGsag2wcSFf+xwivR36oi/9lvU8w==;KV7BGyogCBG94e9SCwcLXw=="
 ---

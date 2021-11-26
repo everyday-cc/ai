@@ -78,9 +78,9 @@ related:
         height: 640
         isCached: true
   - title: "Baidu, Pony.ai get China’s first robotaxi licenses"
-    excerpt: "Search engine giant Baidu and autonomous driving firm Pony.ai got the green light from regulators for their driverless taxi operations, allowing them to charge a yet-to-be-determined rate, reported Bloomberg. As the first license recipients for self ..."
-    publishedDateTime: 2021-11-25T10:48:00Z
-    webUrl: "https://www.techinasia.com/baidu-ponyai-chinas-robotaxi-licenses"
+    excerpt: "As the first license recipients for self-driving taxis, the two tech firms’ respective robotaxi fleets will operate within the Beijing High-level Automated Driving Demonstration Area. Baidu will have 600 pickup and drop-off points between 7 a."
+    publishedDateTime: 2021-11-25T11:12:00Z
+    webUrl: "https://www.techinasia.com/lalamoves-rival-borzo-eyes-100m-series-d-money/next"
     type: article
     provider:
       name: Techinasia

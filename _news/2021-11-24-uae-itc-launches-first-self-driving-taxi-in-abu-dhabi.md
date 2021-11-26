@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless car trials at Abu Dhabi's Yas Island soon"
-    excerpt: "Group 42’s Bayanat unit will begin with five cars on Yas Island Dubai: Mubadala backed Group 42 plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the UAE."
-    publishedDateTime: 2021-11-21T09:17:00Z
-    webUrl: "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370"
-    ampWebUrl: "https://gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2019/02/20/autonomous_car,_driverless_car,_self-driving_car_resources1_16a4a16589d_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-  - title: "Abu Dhabi’s Group 42 to start first driverless car trials in Middle East"
-    excerpt: "Dubai: Mubadala backed Group 42 plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the UAE. Group 42’s Bayanat unit will begin with five cars on Yas Island,"
-    publishedDateTime: 2021-11-21T09:03:00Z
-    webUrl: "https://gulfnews.com/business/abu-dhabis-group-42-to-start-first-driverless-car-trials-in-middle-east-1.83854370"
-    ampWebUrl: "https://gulfnews.com/amp/business/abu-dhabis-group-42-to-start-first-driverless-car-trials-in-middle-east-1.83854370"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/abu-dhabis-group-42-to-start-first-driverless-car-trials-in-middle-east-1.83854370"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 58
-    images:
-      - url: "https://imagevars.gulfnews.com/2019/02/20/autonomous_car,_driverless_car,_self-driving_car_resources1_16a4a16589d_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-  - title: "Abu Dhabi’s G42 to start Mideast’s first driverless car trials on Yas Island"
-    excerpt: "An Abu Dhabi firm backed by Mubadala Investment Co. plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the"
-    publishedDateTime: 2021-11-21T10:16:00Z
-    webUrl: "https://english.alarabiya.net/business/technology/2021/11/21/Abu-Dhabi-s-G42-to-start-Mideast-s-first-driverless-car-trials-on-Yas-Island"
-    ampWebUrl: "https://english.alarabiya.net/amp/business/technology/2021/11/21/Abu-Dhabi-s-G42-to-start-Mideast-s-first-driverless-car-trials-on-Yas-Island"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/business/technology/2021/11/21/Abu-Dhabi-s-G42-to-start-Mideast-s-first-driverless-car-trials-on-Yas-Island"
-    type: article
-    provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 56
-    images:
-      - url: "https://vid.alarabiya.net/images/2021/10/23/733cd920-7cfa-499b-8ca5-cf7ec5df6c17/733cd920-7cfa-499b-8ca5-cf7ec5df6c17_16x9_600x338.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Abu Dhabi’s G42 to Start First Driverless Car Trials in Mideast"
     excerpt: "An Abu Dhabi firm backed by Mubadala Investment Co. plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the United Arab Emirates."
     publishedDateTime: 2021-11-21T14:23:00Z
@@ -129,15 +81,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Abu Dhabi launches self-driving taxis pilot project on Yas Island"
-    excerpt: "A pilot project has been launched to explore the use of self-driving taxis on Yas Island in Abu Dhabi.. Abu Dhabi launches self-driving taxis pilot project on Yas Island. Abu Dhabi, Autonomous vehicles,"
-    publishedDateTime: 2021-11-24T12:18:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabi-launches-self-driving-taxis-pilot-project-on-yas-island"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 4
 
 secured: "rhHOOKILUvsLYkSIj7gV8QVmAQ3APLUP7NEYNQ03Xm2WpXZc7MwHiTyvacIrh94HG6U/H0UKFA7Cl3CX1MXy45I78bQRdKNzQhlR5zyOjLz4taa6r03KZ2vPSpkeI3ueScOu96hqGpmshc3tvTCjQUXyFyLqg5MtdVkgJsI+zc7Lbrt0o5w+ZA7CldkgEVmVQJV2coTRMV0DgyktS6K/emQETk4HHMipdjuielPVtVK7o11krTmlTM88IUohTd/8CeVUGLNkyY5vu8KgS8vQIXYadPO+TYyw5ewWcVXJAHYSZ4TdZJBaFBSUILnXVRpvm9FzSUTsvBWamfIbN4LuyMkFPjAi799sGV0Nk9VLNN0=;BqaLEc4wl01fiy63qQy5HA=="
 ---

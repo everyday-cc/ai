@@ -1,29 +1,27 @@
 ---
 category: news
-title: "UNESCO’s AI ethics framework — (Some) EU countries want AI bans for tech companies — UK benefits algorithm under fire"
-excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-publishedDateTime: 2021-11-24T10:05:00Z
-originalUrl: "https://www.politico.eu/newsletter/ai-decoded/unescos-ai-ethics-framework-some-eu-countries-want-ai-bans-for-tech-companies-uk-benefits-algorithm-under-fire-2/"
-webUrl: "https://www.politico.eu/newsletter/ai-decoded/unescos-ai-ethics-framework-some-eu-countries-want-ai-bans-for-tech-companies-uk-benefits-algorithm-under-fire-2/"
-ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/unescos-ai-ethics-framework-some-eu-countries-want-ai-bans-for-tech-companies-uk-benefits-algorithm-under-fire-2/amp/"
-cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/unescos-ai-ethics-framework-some-eu-countries-want-ai-bans-for-tech-companies-uk-benefits-algorithm-under-fire-2/amp/"
+title: "UNESCO member states adopt first global agreement on AI ethics"
+excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
+publishedDateTime: 2021-11-26T02:00:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271808196/unesco-member-states-adopt-first-global-agreement-on-ai-ethics"
+webUrl: "https://www.bignewsnetwork.com/news/271808196/unesco-member-states-adopt-first-global-agreement-on-ai-ethics"
 type: article
-quality: 51
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: POLITICO
-  domain: politico.eu
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
-    width: 1600
-    height: 900
+  - url: "https://cdn.bignewsnetwork.com/ani1637892175.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -43,19 +41,21 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "UNESCO member states adopt first global agreement on AI ethics"
-    excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
-    publishedDateTime: 2021-11-26T02:00:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271808196/unesco-member-states-adopt-first-global-agreement-on-ai-ethics"
+  - title: "UNESCO’s AI ethics framework — (Some) EU countries want AI bans for tech companies — UK benefits algorithm under fire"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-11-24T10:05:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/unescos-ai-ethics-framework-some-eu-countries-want-ai-bans-for-tech-companies-uk-benefits-algorithm-under-fire-2/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/unescos-ai-ethics-framework-some-eu-countries-want-ai-bans-for-tech-companies-uk-benefits-algorithm-under-fire-2/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/unescos-ai-ethics-framework-some-eu-countries-want-ai-bans-for-tech-companies-uk-benefits-algorithm-under-fire-2/amp/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
+      name: POLITICO
+      domain: politico.eu
+    quality: 51
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1637892175.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "UNESCO's ‘Cookie Factory’ Raises Awareness of the Potential Risks and Ethical Challenges of AI"
     excerpt: "Little Black Book, DDB Paris teams up with makemepulse to create extension allowing you to assume a new identity as you browse the internet"
@@ -81,6 +81,6 @@ related:
       domain: publicnow.com
     quality: 30
 
-secured: "Q0ndOXoZ1u1YsHsdLivpcZJt0HP3dfQJnDGPdTGHiOiL4e2Zs+k3vqlfgk6OuNpKM+y/8ax8Lej4Qp6zaS8w/JE4LZIuG/P5jcTALS62kqHMZibvbkDuldys7U4Hr48v+g8OuWvBuG60SBo3SmsntSyT3V9yApNhg78PFmGaa36s34/Jk+nBqexo02C6uhnrkxITLeQu//f2364IqfdV5Wngf6CZVyd5fyka0FJLd6mgVTFYmsu7rXNxDKsnXnJYlW1kfUgzufLFk1HoclHqUqTD5EqzXnOk4zZw2aGXRmhxs+x6pknVTAqeJUf2N6sMvkexiX6CCrUC2/qNq6r/7fC+Yq4CMRl4lC+SavM3WRSHPhSjjO5FrkiVDOM9o+smxsPbYaHhufYcoI2edXLQzF5W6VI2r9MxjwbZ03cCrtkH+fB4uhtm+l3v8wLUAUNgy6PYfVYPE5oWk4Gt1PNdU3QpirAxnS8E0mE3oeyX2eVljs2cmO/w5xRkRcDqVMVL0eDsPQ2WqeXrSpqaUr3a5g==;kKsOIF2ChxYW4RWQOyGJeg=="
+secured: "JCLyLs02PmnOGzAJX+YIWv/3rOw2EAcIXGBhoiQY4TprBof9KmxeJTVUae5kzF8+kEekJ6SQf7Tjg7pXJYAgXPrGosHGWyyQFGHdHe+GnbsPapsebJbk50hvabA+aIzfx0TvQ7iEi59dIDlt/3tH9u5Qxg3sOGSByzoeu9uLbZrSMeR0pLa7WO34V0+I9OLtMSwF4YvOP3lHSBpFuD6lO1OZURueHAWfwDPGGYe4R5aT/eHRetIqy56uoq4o91yU8lP79GSy4ATMtd76LSob4DNwCzoJrcgYJHZOG8H0W8tFRBD07JIs9g/xi35P6vFzlbstVXPRWVAH4HPXiAnJZDA6w60ZVcgun0d260ECE7o=;SLupmUbyIF0L5ImyIvqZwA=="
 ---
 

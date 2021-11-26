@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu, Pony.ai get China’s first robotaxi licenses"
-excerpt: "Search engine giant Baidu and autonomous driving firm Pony.ai got the green light from regulators for their driverless taxi operations, allowing them to charge a yet-to-be-determined rate, reported Bloomberg. As the first license recipients for self ..."
-publishedDateTime: 2021-11-25T10:48:00Z
-originalUrl: "https://www.techinasia.com/baidu-ponyai-chinas-robotaxi-licenses"
-webUrl: "https://www.techinasia.com/baidu-ponyai-chinas-robotaxi-licenses"
+excerpt: "As the first license recipients for self-driving taxis, the two tech firms’ respective robotaxi fleets will operate within the Beijing High-level Automated Driving Demonstration Area. Baidu will have 600 pickup and drop-off points between 7 a."
+publishedDateTime: 2021-11-25T11:12:00Z
+originalUrl: "https://www.techinasia.com/lalamoves-rival-borzo-eyes-100m-series-d-money/next"
+webUrl: "https://www.techinasia.com/lalamoves-rival-borzo-eyes-100m-series-d-money/next"
 type: article
 quality: 49
 heat: -1
@@ -170,6 +170,6 @@ related:
         height: 480
         isCached: true
 
-secured: "hzDrYpDgGL6dX/7chJR+3wsuE21hxUCxesxRQ6yG+hoPpcqFwQGH7481xNMksPuLginOq2BivtMR2/8iQ9tZMh2EeCTh/0GTPJKFYM1JOTL0R5DO89koKc4VbaqP6OZSdleXA4UQDQpmwCPgDMe4qR0rAydhPmiKBHidSxfxlFNdTD/+V/z5hn0GU1ZJBTMM3bofuPYM25MeB1O8XKQueifstjTtjTcyZbhnnkABA9jfy19cZKqs4H0vTsrdE1ox27iLn3unjc/PTMP9l9IU0TqT8rfcManttgGBANJ0Q4rObrOHpHTPU6lWw/Vp1Birvy07vPJ+m2sNFzHT4eI2hG3Z+fVHItXgf5X0dre7hL4=;/0HZzSAxex6quh0R3ckQjA=="
+secured: "CXezr3DhWElJebHqSW4Uz4smnfu9u75/46Wwy4YuqZnEvQr5GJJxbZDQZ8phD1tNLpXYJ8RqA1QKF6UaG8w0nHa8RprdXQz2hbER6E7Le5A505Bic3VzALB3K4VoaGw8zVuU5ecx2UQhNccY5og63gJCY8P/MQOWQgzwMCDS1bF5Mjd6T+OXWVotwTEUurrqO0785/zt5Rwl6+sGVyNKMosqUBpxC3rHQeP9xEmZasrya6r0Xd0EwxKwZ/qfVftn3J+g+5260KOwnvVqI9zzAureZ9fH7byfb29aCBPjA3gz4iBmEM7x836VdGfyhFiFYVexU6vuXuoY9kkssk2WD7w81jWJGeiWPy074hk2geu+GYCoKPY+4h2b5Y3iRwJPRnv2pl0ZT/2/LkKF6NoaAXQ+a1iH6u8JkGYQltxrjPa8Hh+gZ/OccsJv4yxx2D/jk2bnaZVExqoP0rGYvsZd0W2YKZhgHLU8HMs64ExOH5q2Sm37dU7usrHshnlLmbN0lhSQddos7UX0pxMwPSbIRg==;QyQKGwyU91QbOH+ZlUqnuA=="
 ---
 
