@@ -2,22 +2,28 @@
 category: news
 title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
 excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
-publishedDateTime: 2021-11-23T13:02:00Z
-originalUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
-webUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
+publishedDateTime: 2021-11-23T14:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
 type: article
-quality: 35
-heat: 35
+quality: 55
+heat: 65
 published: false
 
 provider:
-  name: Kentucky New Era
-  domain: kentuckynewera.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AWS AI
-  - AI
   - Computer Vision
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "RiTA 2021 – a PeerJ Conference Collection in collaboration with the 9th International Conference on Robot Intelligence Technology and Applications"
@@ -35,6 +41,6 @@ related:
         height: 245
         isCached: true
 
-secured: "l2agOyi/Ox0n3CkZUNvWa4NTZp3qIi2Qrz9vksJ8wWlKASwxiIdjuEHY6fZa3oH+oVF2xX0Y6c1raKpCnGpXfMn5WCbNLquldmeXjoLo6GptcRCQosR1dCZ5lCc/SMJXxnwJs879YfsYARMT8xRNfoj5FgltF/Q/1pHxJCf6uIE/WuIOG7AIcrgpRlq4D13f0EMwzbdEXsiqNWb0eJCKpj7xF7kH3uLgp/z/5lHL/QkyKtHPek/pCl0oq9XUdlchm0waL3UtFXpo4qntwZNxf1cICrW4Jvf4eC/ooOYM7t/k/tlqGOhj691LYAR6EtPAmIUrgjYhinSxhX8enzkDRTc1LX5/8onJf28cfJIusybdoTDTnUTcp9eb+e9iMucvoY8oEAxFZqSSEGQs+tOtgCHyiVBbDyPJ+V1/jOv/cDTneEibf9Li0Bxe3Y6wc0VL+X+hrjFGyqDU/ARXMsth/AkxaYL6q0k9Hbxh8SVnceWa57M9BVyfexMcGjnqVmXmI+BvwCw89MrFMUX1ZAdxJA==;in1S2LyU/a0CsKz44WuMbQ=="
+secured: "wfWwK4lhIiR5g7H5/iUow/gZiRu72fXxR+VhF9A+9VMpFTMpLDaRB6YLDfQwvESAi2kDeQ6m+maKHSauxhOw1Cswmo7GCebG07i7EOGkh5sOcAsMsuktuGrlo7/7bkOKDmnrZF0RxwfxKWiqES4bcDMrh55NcZfW9FVVZHJOwv7bkl/HIZBRRIBUkTOYKZm81e7b40Dc/drQbm5K+NPbRIU9lPwEqsBtNnPCH97W5e/rHm7nN0/c5vkn2kauZWvIuHwTDsU/Vj0hoJJ4jRVIJ5urDmv5pnaMpGdKdFbvfio6b8Bc3hTuheJyE011/oCIZ40foGmE/k6XaMnELUjzhgLGerOORS6t/RmFJ13IkIo=;R17XmVo98NC7czXJgQcIVw=="
 ---
 

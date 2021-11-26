@@ -1,27 +1,28 @@
 ---
 category: news
-title: "UNESCO member states adopt first global agreement on AI ethics"
-excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
-publishedDateTime: 2021-11-26T02:00:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271808196/unesco-member-states-adopt-first-global-agreement-on-ai-ethics"
-webUrl: "https://www.bignewsnetwork.com/news/271808196/unesco-member-states-adopt-first-global-agreement-on-ai-ethics"
+title: "UNESCO Members Adopt First Global AI Ethics Agreement 'To Benefit Humanity'"
+excerpt: "\"We're at a critical juncture in history,\" said Ethics in Tech founder Vahid Razavi. \"We need as humans to come together and decide what is the best course of action to take with these technologies before they surpass us in their abilities."
+publishedDateTime: 2021-11-26T19:45:00Z
+originalUrl: "https://www.commondreams.org/news/2021/11/26/unesco-members-adopt-first-global-ai-ethics-agreement-benefit-humanity"
+webUrl: "https://www.commondreams.org/news/2021/11/26/unesco-members-adopt-first-global-ai-ethics-agreement-benefit-humanity"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Common Dreams
+  domain: commondreams.org
 
 topics:
-  - AI Ethics
+  - AI in Autos
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1637892175.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-11/UNESCO-AI-Flickr.jpg?h=66affffc&itok=pg2VaXbj"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -117,19 +118,19 @@ related:
         width: 720
         height: 377
         isCached: true
-  - title: "UNESCO Members Adopt First Global AI Ethics Agreement 'To Benefit Humanity'"
-    excerpt: "\"We're at a critical juncture in history,\" said Ethics in Tech founder Vahid Razavi. \"We need as humans to come together and decide what is the best course of action to take with these technologies before they surpass us in their abilities."
-    publishedDateTime: 2021-11-26T19:45:00Z
-    webUrl: "https://www.commondreams.org/news/2021/11/26/unesco-members-adopt-first-global-ai-ethics-agreement-benefit-humanity"
+  - title: "UNESCO member states adopt first global agreement on AI ethics"
+    excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
+    publishedDateTime: 2021-11-26T02:00:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271808196/unesco-member-states-adopt-first-global-agreement-on-ai-ethics"
     type: article
     provider:
-      name: Common Dreams
-      domain: commondreams.org
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 54
     images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-11/UNESCO-AI-Flickr.jpg?h=66affffc&itok=pg2VaXbj"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/ani1637892175.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "193 countries adopt first global agreement on Ethics of Artificial Intelligence"
     excerpt: "All the nations members of the UN Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common"
@@ -222,6 +223,6 @@ related:
       domain: itp.net
     quality: 33
 
-secured: "5xH/5rLmOhcp77hInhpF9gy9pQYeercv+ghDSMIu/F63Y4DJYCFcr/3RLqKqekgovd+CplcmeLi16343ubvgfdU/UpFhJJKRJN+52LYfETrJqgBgaSfGfdMWd4DQZoRiErWn6+fOQdDctcmZAWj45HrK3esbRTo9kI34lWgc46nMkuPTpC+dtdeQZO+wv05Srv2Sp+7/afrKeCvGQ3O+OorORZwRmwGnWXy3HYl+8XogbnHlW6rcL5KBhOVSffTxZk30VKdrX18vNe+GrQmak3vTtnHzrr8sX5EG50VqjK6p/dbH6+3La4e9VjiEdvv+WvUBtGN0H2iqHmRTMIVqP1p0W2mgPhFcmH8CuvNF+3Q=;ypNFrZi8FdNd+4KN4ivfKg=="
+secured: "uASVACki/umOhbPA6NTZDHCaaTqAyoQeGi07welfaLOh5nJJaxX0zcGJ5VA397ZJtxrKG0fjF4pX74GVwgVMRTmoU8L+UUgK/m1OARkJKFUTELS8FiBHCvEBaCTPfLXIk8hon7vWse3AtVbxN6nOVU3Je9Wd+jresHMsAvqKDgj+03LvgjNBEjXXecZqW8yCncyVX9/ATX03GWThK2u5Qxv3uI+DveVvn+L3qQ3LCNhFO+jjK3LBQQP32qo+V7FlWS/+O5yfNkemf5h+phZzXvZnPqESp3wlpXezNpFHjToURX/fAHOM7UyRWtNGryn6UlTjqPEqB5pAP+6E+sKhaKavQgYj0KCN/wmRiAGeK6g=;yAW80RmgvgHkh0vdrA8xvg=="
 ---
 

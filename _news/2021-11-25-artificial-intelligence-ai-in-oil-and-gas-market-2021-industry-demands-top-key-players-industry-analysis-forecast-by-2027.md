@@ -74,38 +74,6 @@ related:
         width: 800
         height: 274
         isCached: true
-  - title: "Massive Opportunities in The Edge AI Ecosystem Market, 2021-2026"
-    excerpt: "Portland United States Big Market Research newly added a research report on the The Edge AI Ecosystem Market which represents a study for the period from 2021 to 2026 The research study provides a near look at the market scenario"
-    publishedDateTime: 2021-11-22T04:08:00Z
-    webUrl: "https://www.openpr.com/news/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
-    ampWebUrl: "https://www.openpr.com/amp/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469071/massive-opportunities-in-the-edge-ai-ecosystem-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub22592201_g.jpg"
-        width: 780
-        height: 405
-        isCached: true
-  - title: "Trending Report on AI and Operations Automation in 5G Networks Market, 2021-2026"
-    excerpt: "Portland United States Big Market Research newly added a research report on the AI and Operations Automation in 5G Networks Market which represents a study for the period from 2021 to 2026 The research study provides a near look at"
-    publishedDateTime: 2021-11-22T03:50:00Z
-    webUrl: "https://www.openpr.com/news/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
-    ampWebUrl: "https://www.openpr.com/amp/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469053/trending-report-on-ai-and-operations-automation-in-5g-networks"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub22461176_g.jpg"
-        width: 780
-        height: 405
-        isCached: true
   - title: "Artificial Intelligence (AI) in Retail Market -Industry Analysis, Size, Share, Growth, Trends, Segmentation And Forecast 2021 To 2028"
     excerpt: "New study report” Artificial Intelligence (AI) in Retail. Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30."
     publishedDateTime: 2021-11-24T11:04:00Z

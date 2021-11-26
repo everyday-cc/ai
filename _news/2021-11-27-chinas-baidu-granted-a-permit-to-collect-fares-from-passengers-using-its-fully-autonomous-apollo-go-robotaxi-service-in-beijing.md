@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Baidu Gets Green Light for Commercial Robotaxis in Beijing. It’s Good for the Stock."
-excerpt: "Baidu’s Apollo Go service, known as Luobo Kuaipao in China, has been given authorization to pick up and drop off paying passengers in a 60 square kilometers area in Beijing."
-publishedDateTime: 2021-11-25T11:32:00Z
-originalUrl: "https://www.barrons.com/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
-webUrl: "https://www.barrons.com/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
-ampWebUrl: "https://www.barrons.com/amp/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
+title: "China's Baidu Granted a Permit to Collect Fares From Passengers Using its Fully-Autonomous ‘Apollo Go' Robotaxi Service in Beijing"
+excerpt: "China’s Baidu Inc announced that it was granted a service permit for Beijing's newly-launched zone for autonomous driving commercial services, which allows the company to charge for rides in its fully-autonomous ride-hailing vehicles."
+publishedDateTime: 2021-11-26T18:30:00Z
+originalUrl: "https://www.futurecar.com/5022/China’s-Baidu-Granted-a-Permit-to-Collect-Fares-From-Passengers-Using-its-Fully-Autonomous-‘Apollo-Go’-Robotaxi-Service-in-Beijing"
+webUrl: "https://www.futurecar.com/5022/China’s-Baidu-Granted-a-Permit-to-Collect-Fares-From-Passengers-Using-its-Fully-Autonomous-‘Apollo-Go’-Robotaxi-Service-in-Beijing"
 type: article
-quality: 52
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: futurecar
+  domain: futurecar.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://images.barrons.com/im-287009/social"
-    width: 1280
-    height: 640
-    isCached: true
 
 related:
   - title: "Baidu, Pony.ai Get China's Green Light to Charge for Robotaxis"
@@ -120,6 +112,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F0%252F5%252F5%252F37575503-6-eng-GB%252FCropped-1637825126photo_SXM2021112500004550.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Baidu Gets Green Light for Commercial Robotaxis in Beijing. It’s Good for the Stock."
+    excerpt: "Baidu’s Apollo Go service, known as Luobo Kuaipao in China, has been given authorization to pick up and drop off paying passengers in a 60 square kilometers area in Beijing."
+    publishedDateTime: 2021-11-25T11:32:00Z
+    webUrl: "https://www.barrons.com/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
+    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 52
+    images:
+      - url: "https://images.barrons.com/im-287009/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Baidu Officially Launches Robotaxi Service In Beijing After Getting The OK To Charge Fees"
     excerpt: "After the country's capital, Baidu expects other major cities like Shanghai, Guangzhou, and Shenzhen to follow suit"
@@ -258,16 +266,7 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "China's Baidu Granted a Permit to Collect Fares From Passengers Using its Fully-Autonomous ‘Apollo Go' Robotaxi Service in Beijing"
-    excerpt: "China’s Baidu Inc announced that it was granted a service permit for Beijing's newly-launched zone for autonomous driving commercial services, which allows the company to charge for rides in its fully-autonomous ride-hailing vehicles."
-    publishedDateTime: 2021-11-26T18:30:00Z
-    webUrl: "https://www.futurecar.com/5022/China’s-Baidu-Granted-a-Permit-to-Collect-Fares-From-Passengers-Using-its-Fully-Autonomous-‘Apollo-Go’-Robotaxi-Service-in-Beijing"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 0
 
-secured: "B+yXMmu+3gq9aLwae3tCmOp5ZCW0Wui2PwBDPeS72XY+lO1NiJMszpUZnXpfVK1pRVmVyyz3J5fuyVzkSUsetlO1++2pDoS30ZkHURT2qOE6VcPQgF5kIrCrtwbc1/yIMQPdHxrFDnsCuocGRMTgWdwgdXrzcGMoyCuHo2I3R89B31ndVvbwwiwArA0q7x0jBn2hdCrOTsrWfb4b/2TRjgqAzSB3/6L66J6kio2ToJw6TDkh1an8wOAY5sKCZrQQz3XfC6s0PjEJQP5KNlPQ2GYYMxiNBOQB293zOM1phonRP6jkbDurAry+nK112LKehToe3JeG6FyEi9woBxpgQkQTEV3GVZczbkwpamFKmzubD9jRCAlOX5laaoMAu6MI0q8yLmYTuP4LHGqcOXgS0OjSzlunOSyZvQlCLia5EDA/4UEbvMmLQv8K3ylVD+WIgyYfKB17ZUT+oJiAdx4P5zHsbUfQU+99tEsz6UYxwHfPMGRJxhv0wsFkP1AxWH6cOtBpg0IbQsCHwOxsgKBTkQ==;/yF6I49fTAbImIvTYtKmNA=="
+secured: "KZ/XeTYgBnUl9e1Ra0eA9FQr+nRsA0I2Dn3K1N4ZaQWdFtL/UWtW0wKl+Cbno2KVzyxTh+go1lm8l46FtEUKaTiUTzJVBXF0EhYPmdjZVQoOxt/XD1tGp7LHx/OsAf87sWanNzS6xX7UaHD/fd2FZGVUcpIgSMLqQw25U2PusKNj2pcBXUT347WM4gGXwdRghBWf9xTUTOPui4itrITOhlDRw5IvWskLH1SoCvAQCbIWXONpbh7peh0RbYQTqttzbvuwDqrUmzNZ3ypMzG5NaC1amdk/DQnICaq5Qvv3uy7wAkyIOhUk36waLk0kN3l5nbztoT13YdaQUrzEl5fErZ1TeEatkQbrZNlq3uPJTXzY0iBkfxOEme2psTsY200YcfTBHClsUDBCguUwlNUsKijS6J5uRufiaDC66+jUV90ty8h1TPQguoe8Qlqxj3+vuTzW/FG/71gFIKqiiWnLTbmPZFnD8kQQNzVuS5nYt+xDvi9tANfxriWb+w2ovGS9PtaSePvwBqVVsIi9S82jeg==;Nod8OLW8ezxOIPxXktB7Vw=="
 ---
 

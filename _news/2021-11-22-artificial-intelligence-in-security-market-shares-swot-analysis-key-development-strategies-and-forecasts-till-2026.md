@@ -37,6 +37,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Global Big Data & Machine Learning in Telecom Market 2021 Potential Growth, Competitive Landscape and Development of Industry by 2027"
+    excerpt: "A study on the Global Big Data & Machine Learning in Telecom Market Growth (Status and Outlook) 2021-2027 is disclosed by MarketandResearch.biz. It consists of various section such as research methodology,"
+    publishedDateTime: 2021-11-22T21:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-potential-growth-competitive-landscape-and-development-of-industry-by-2027-2021-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Self-driving Chip Market Size, Share, Statistics, Demand And Revenue, Forecast 2027"
     excerpt: "The Automotive Self driving Chip Market report provides details on the latest recent developments trade regulations import export analysis analysis of production value chain optimization market share impact of players on the national and localized market analysis of opportunities in"
     publishedDateTime: 2021-11-24T07:54:00Z

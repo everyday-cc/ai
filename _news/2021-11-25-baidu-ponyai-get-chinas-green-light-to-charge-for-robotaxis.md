@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-gree
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575"
 type: article
 quality: 104
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -262,6 +262,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "China's Baidu Granted a Permit to Collect Fares From Passengers Using its Fully-Autonomous ‘Apollo Go' Robotaxi Service in Beijing"
+    excerpt: "China’s Baidu Inc announced that it was granted a service permit for Beijing's newly-launched zone for autonomous driving commercial services, which allows the company to charge for rides in its fully-autonomous ride-hailing vehicles."
+    publishedDateTime: 2021-11-26T18:30:00Z
+    webUrl: "https://www.futurecar.com/5022/China’s-Baidu-Granted-a-Permit-to-Collect-Fares-From-Passengers-Using-its-Fully-Autonomous-‘Apollo-Go’-Robotaxi-Service-in-Beijing"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 0
 
 secured: "ZpxrFMdEbE/1Fb7fsS6yPPB8RCIeAInFGpmRAOHX4KvhZtQd3Igk/m167yKyf+SCvD997E+6+azUkobcdIZnjW+xVd8lboLNOkgKJMIoIwHtBrsTVnbQUJ95TlPXq7D3Ql6UuqQS1OVBB8nFd7GgYM59kBetpLsmgnnm5JUpEuGvymc9HxmCHaQxxSu1qHzho2TuGWv+oV7355RE9awy7kPXZDPwL1MnPNTKTn5/rcY9YD8gZS5ni+nOBxxEQFixynAaDIxhkPHrqx6CPFNDmCMw9mndEMVhm5d5RoCdtW8ujNZ9PoasmgNSSM7870pVf5Q9D1BC4fsnwmPBPct5ZeWO04U8ORo7ZgRVfVMdBro=;RuHHz7Qdd9wunSmzBa1PPw=="
 ---

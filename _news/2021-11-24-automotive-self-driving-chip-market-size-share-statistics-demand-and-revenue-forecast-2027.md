@@ -38,6 +38,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Global Big Data & Machine Learning in Telecom Market 2021 Potential Growth, Competitive Landscape and Development of Industry by 2027"
+    excerpt: "A study on the Global Big Data & Machine Learning in Telecom Market Growth (Status and Outlook) 2021-2027 is disclosed by MarketandResearch.biz. It consists of various section such as research methodology,"
+    publishedDateTime: 2021-11-22T21:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-potential-growth-competitive-landscape-and-development-of-industry-by-2027-2021-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Security Market Shares SWOT Analysis, Key Development Strategies and Forecasts Till 2026"
     excerpt: "The Artificial Intelligence in Security Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence in Security market It particularly sheds light"
     publishedDateTime: 2021-11-22T11:34:00Z

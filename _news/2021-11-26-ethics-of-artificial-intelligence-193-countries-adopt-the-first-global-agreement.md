@@ -127,6 +127,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "UNESCO Members Adopt First Global AI Ethics Agreement 'To Benefit Humanity'"
+    excerpt: "\"We're at a critical juncture in history,\" said Ethics in Tech founder Vahid Razavi. \"We need as humans to come together and decide what is the best course of action to take with these technologies before they surpass us in their abilities."
+    publishedDateTime: 2021-11-26T19:45:00Z
+    webUrl: "https://www.commondreams.org/news/2021/11/26/unesco-members-adopt-first-global-ai-ethics-agreement-benefit-humanity"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 54
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-11/UNESCO-AI-Flickr.jpg?h=66affffc&itok=pg2VaXbj"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "193 countries adopt first global agreement on Ethics of Artificial Intelligence"
     excerpt: "All the nations members of the UN Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common"
     publishedDateTime: 2021-11-26T04:48:00Z

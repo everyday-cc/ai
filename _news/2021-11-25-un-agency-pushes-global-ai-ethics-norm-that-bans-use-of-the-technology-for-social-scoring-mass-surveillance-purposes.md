@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/policy/article/3157378/un-agency-pushes-gl
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social"
 type: article
 quality: 81
-heat: 92
+heat: 91
 published: true
 
 provider:

@@ -258,6 +258,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "China's Baidu Granted a Permit to Collect Fares From Passengers Using its Fully-Autonomous ‘Apollo Go' Robotaxi Service in Beijing"
+    excerpt: "China’s Baidu Inc announced that it was granted a service permit for Beijing's newly-launched zone for autonomous driving commercial services, which allows the company to charge for rides in its fully-autonomous ride-hailing vehicles."
+    publishedDateTime: 2021-11-26T18:30:00Z
+    webUrl: "https://www.futurecar.com/5022/China’s-Baidu-Granted-a-Permit-to-Collect-Fares-From-Passengers-Using-its-Fully-Autonomous-‘Apollo-Go’-Robotaxi-Service-in-Beijing"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 0
 
 secured: "nrT/MB6FLMqMUccd71CMMIYEiiKKkum1In0o2QJHej6OdaXTHEcmd0lGAV08tbXSujLDTu6TOA4MCM9W6cVwFZKODNCdyWnutBkMVeUcrTRarenXxLa4rqxFiAkJBnn07iRi/TIdbmXRfVJCg7UqtqB45mJnhk8CpwmJygIEgzarjNLmppr0mZZTr7KHb4Wg7SdxxApw8yiCGB6X/JM4MvTYGl2UR9wfYi9wgK5NykQM2rNIrpl8b2x9LAs8xmFZFETo/FJbfmCHVgOcNULK7RPmqzSlJJpQNtL9Ztom4a5kQ1UjGiIZPIAqY7fv6O5+aVyucsGqWj9xu5it9LCmqhbmZtkbiSwY8JBTKODtqHpAKOOeZKLEd1NWOkGZYOPu6bCT0MiGvLKgYFh81Jh3OEKCANrmy8shzYW9GgpOQNa6i6kh/qFA7uyxX6cQ+pwV9QnnMfSs1Bw+fCYKqXz8YuR5YfG2CGGZ1LIVJ5NDSmQZR71NLa9zbAPQgGH42HpNm8LBs+Kx9xfiladHWG2KjQ==;eB2t2MN0T3jf1nSp0ZqxLA=="
 ---

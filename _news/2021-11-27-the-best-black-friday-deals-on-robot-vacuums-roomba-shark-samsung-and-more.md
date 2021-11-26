@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Black Friday 2021: The Best Early Deals from Apple, Walmart, Target, Best Buy, Amazon & More"
-excerpt: "The best early Black Friday 2021 deals are here. Shop Black Friday deals on TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."
-publishedDateTime: 2021-11-25T04:12:00Z
-originalUrl: "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/"
-webUrl: "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/"
-ampWebUrl: "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/amp/"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/amp/"
+title: "The best Black Friday deals on robot vacuums: Roomba, Shark, Samsung and more"
+excerpt: "A robot vacuum, or robot vacuum with a mopping feature, can be a game changer for your chores list, especially around the holidays. Luckily, Black Friday is here, and there are plenty of deals on household gadgets to take advantage of."
+publishedDateTime: 2021-11-26T19:38:00Z
+originalUrl: "https://www.cbsnews.com/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung-2021-11-26/"
+webUrl: "https://www.cbsnews.com/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung-2021-11-26/"
+ampWebUrl: "https://www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung-2021-11-26/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung-2021-11-26/"
 type: article
-quality: 63
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.thewirecutter.com/wp-content/media/2020/11/deals-2048px-8492.jpg?auto=webp&width=1024"
-    width: 1024
-    height: 683
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/11/12/a329680b-cf5e-4576-a677-a9d7634d7727/thumbnail/1200x630/9e676bb8124ab66fd8fa2effae81ca44/robot-vacuum-gettyimages-1058885458south-agency-2000x1333.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -111,6 +107,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Black Friday 2021: The Best Early Deals from Apple, Walmart, Target, Best Buy, Amazon & More"
+    excerpt: "The best early Black Friday 2021 deals are here. Shop Black Friday deals on TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."
+    publishedDateTime: 2021-11-25T04:12:00Z
+    webUrl: "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/"
+    ampWebUrl: "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/amp/"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-apple-walmart-target-best-buy-amazon/amp/"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 63
+    images:
+      - url: "https://cdn.thewirecutter.com/wp-content/media/2020/11/deals-2048px-8492.jpg?auto=webp&width=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Black Friday 2021: The Best Early Deals from Target, Apple, Walmart, Best Buy, Home Depot & More"
     excerpt: "The best early Black Friday 2021 deals are here. Shop Black Friday deals on TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."
     publishedDateTime: 2021-11-23T01:12:00Z
@@ -133,22 +145,6 @@ related:
     webUrl: "https://www.cbsnews.com/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
     ampWebUrl: "https://www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 56
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/11/12/a329680b-cf5e-4576-a677-a9d7634d7727/thumbnail/1200x630/9e676bb8124ab66fd8fa2effae81ca44/robot-vacuum-gettyimages-1058885458south-agency-2000x1333.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The best Black Friday deals on robot vacuums: Roomba, Shark, Samsung and more"
-    excerpt: "A robot vacuum, or robot vacuum with a mopping feature, can be a game changer for your chores list, especially around the holidays. Luckily, Black Friday is here, and there are plenty of deals on household gadgets to take advantage of."
-    publishedDateTime: 2021-11-26T19:38:00Z
-    webUrl: "https://www.cbsnews.com/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung-2021-11-26/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung-2021-11-26/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung-2021-11-26/"
     type: article
     provider:
       name: CBS News
@@ -190,6 +186,6 @@ related:
         height: 1175
         isCached: true
 
-secured: "vUgpNztqzQrfExDOymjD+jEpWR6mWj529YjVCk+peP5VlnaBDC0oFBYvP4ZuTE+70l6VYG9Y2lh4WM4W6W2cclc2FBcObgCQLol1+lTKNo6REv9u8jN1TIgkpInZtYHH5f8Q8LRxLcQ6nXIEWeSBgKz0hYr32CvjsciJtaDPB3m/GCOU9BHRIF8FIc/EULGGS8gBaGTfkuoN+iPpeUk7gQkb9zpJ4JBHjA2YWAP1m7hTXGb1d4l2AICNlsIz6yIZ7f8cIIx+0an2qTiAkcv0hHWq0mpn3yOJ33beC3uNK/L+Tekj+og7FDDDj8EVW0Vpxhjo4wytHR1+dC1wy+X8VvA9IGPfN2uoVQ7OCJTRaligMZ4GalUxnW4zpk9IXk+6phj/z9AWv5iPrSS6DMqSWGh372GA4kgNogduIG2W0UlhkNMVQDs45SDYoWF8lyfyr6tJTyBxVB/9AJuv0MIOOkAlm9ryFN2jg9YlWaVMrhLm85rrjN6axgKGrXxYjANNVBS4a7omG60rjb3Ivr+2hw==;EDuax+UkjgMj9IPz19ZQlQ=="
+secured: "ln3ej68Se0Ps6Ud8yxB64ICQD0AyvSIVSRfO+4hVD/wLy0O/v+eabe/5ubeQ3Kavu/0Gwkjn6/yYdVqZaaTqt5kvTtIVjs08MX9CORnBcD02J80QS3kYuRHVh5TL9FNX+SlM/z/es3NChAn0ocoJKe/azz/gShSfBCEwT3TmecJ3K4xF1VnQjzxcDHboGQIr/wLivD5WKh1QskoPizjVYuLycgsOKlG+Qmi5sE2qTWYrkhQlN8UAOGQLM9kdCaTWeIj7xrQukWMF43Hd9C+PW+jrShhftfGxlj7y4pO7HR59zQcR0kfZFpCB1cfOcjHhmCJ2b8VAxb2DAj6zHfiFjaU6D5SeTqgrzt+XtuGSjmQ=;XHHAyoD9OIa2Mm+OdTzN+g=="
 ---
 
