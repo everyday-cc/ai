@@ -19,31 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "FDA Joins Other Regulators in Focus on AI and Machine Learning"
-    excerpt: "The Food and Drug Administration recently sought comments on the role of transparency for artificial intelligence and machine learning-enabled medical devices. The FDA invited comments in follow up to"
-    publishedDateTime: 2021-11-22T23:13:00Z
-    webUrl: "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning"
-    ampWebUrl: "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp"
+  - title: "AI and Machine Learning, Cloud Computing, and 5G Will Dominate in 2022"
+    excerpt: "Artificial Intelligence (AI) and machine learning, cloud computing, and 5G will be the most important technologies in 2022, according to a survey to global technology leaders from the U.S., U.K., China,"
+    publishedDateTime: 2021-11-26T11:25:00Z
+    webUrl: "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/"
+    ampWebUrl: "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/amp/"
+    cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/amp/"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
+      name: IBL News
+      domain: iblnews.org
+    quality: 76
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2021/11/impactoftech.jpg"
+        width: 860
+        height: 499
+        isCached: true
+  - title: "AI, ML, cloud, 5G to be most important technologies in 2022: Study"
+    excerpt: "Because of the global pandemic, technology leaders surveyed said in 2021 they accelerated adoption of cloud computing (60%), AI and ML (51%), and 5G (46%), among others"
+    publishedDateTime: 2021-11-22T10:54:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study-11637576993620.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-ml-cloud-5g-to-be-most-important-technologies-in-2022-study/amp-11637576993620.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
     quality: 74
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
+      - url: "https://images.livemint.com/img/2021/11/22/600x338/AI-kkGH--621x414@LiveMint_1637577527809.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Dangers of unregulated artificial intelligence"
-    excerpt: "Artificial intelligence (AI) is often touted as the most exciting technology of our age, promising to transform our economies, lives, and capabilities. Some even see AI as making steady progress towards the development of ‘intelligence machines’ that will soon surpass human skills in most areas."
-    publishedDateTime: 2021-11-23T03:06:00Z
-    webUrl: "https://voxeu.org/article/dangers-unregulated-artificial-intelligence"
-    type: article
-    provider:
-      name: Vox
-      domain: voxeu.org
-    quality: 17
 
 secured: "7t1OTUiyBIQ/0i9YuuRBV/ti02Ef7nBrilc6FvN9Iqxh01wwi4tdQ+2hhE3PdG9O/UUr9b2N4NwQaVNdd4RJCoO6fiBRdeSOFCNRHdAswe8GRUPD/gpje/ZzA2qacOzJITWIOosKqRM/sQwnZ0qxrFWH5Jvl+hayK35Rr0Pzn7NSPKqgR3g5RxPb6epeFrhRqKoFUDG0gwOE7zA3QmOeEBnqY20B+LYCtTR+CNReK5M4ilTg0r8Gim4IFjUuIf9quBsBPEhnip1UbjMa2FQnoOy323yX2Q0rl1eOkFKnsSReNylpma9MM8UyuFduI5x/6B5/NFq8IklBJHnZ7PwqcwcshrG5BrmVg/595a3yRtU=;yX/YVt9HWWMUYRH401aYkw=="
 ---

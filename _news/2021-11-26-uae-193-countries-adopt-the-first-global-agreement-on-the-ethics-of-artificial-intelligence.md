@@ -58,6 +58,22 @@ related:
         width: 816
         height: 414
         isCached: true
+  - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
+    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
+    publishedDateTime: 2021-11-26T10:20:00Z
+    webUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+    ampWebUrl: "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Daily Sun
+      domain: daily-sun.com
+    quality: 70
+    images:
+      - url: "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg"
+        width: 830
+        height: 530
+        isCached: true
   - title: "UNESCO Chief Audrey Azoulay Presents First-ever Global Standard On Ethics Of AI"
     excerpt: "The Recommendation on AI Ethics lays out common ideals to assist in the development of the legal infrastructure needed to enable its healthy development."
     publishedDateTime: 2021-11-26T07:45:00Z
@@ -74,22 +90,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-    publishedDateTime: 2021-11-26T10:20:00Z
-    webUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 68
-    images:
-      - url: "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg"
-        width: 830
-        height: 530
-        isCached: true
   - title: "Artificial Intelligence Ethics Agreement adopted by 193 countries"
     excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
     publishedDateTime: 2021-11-26T07:09:00Z
@@ -103,6 +103,20 @@ related:
       - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg"
         width: 740
         height: 452
+        isCached: true
+  - title: "193 countries adopt 1st global agreement on Ethics of AI"
+    excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
+    publishedDateTime: 2021-11-26T11:59:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1161070"
+    type: article
+    provider:
+      name: Gov
+      domain: pna.gov.ph
+    quality: 54
+    images:
+      - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
+        width: 720
+        height: 377
         isCached: true
   - title: "UNESCO member states adopt first global agreement on AI ethics"
     excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
@@ -170,7 +184,7 @@ related:
     provider:
       name: GDPR fines
       domain: itp.net
-    quality: 31
+    quality: 33
 
 secured: "EsfxmfYumnJZaMkUBJbid1tD6AgHOXjh3pL6FiSsNRQQEGFtLqrq9QK2iNtZ/KALrG3sFZ5+D8nIvODSar237Lh3a+V7KIWl45SlvZJYhofz00g12FCtJ/vy50ESjZW4v6YnXzFvOwGuG60BVWe0J1aKq9w02305dMghd7P6VWTNxDxEkzPc3AbVvQlT5xJa7ICBsV2g+0VPinBeFM301TlnM3MTInK1lCk+MRa5GS6yShtKQkkXc4vmxso2UHv/h8Zdr3ZFTjeX4m7fOXU5bZ1yuMoAOQDcE/urBXR7d+o4bNAXSbjPeQ+qHjqc3ehXiYLPbebFlgUFDhOgRAYddsvpB234b9CptOwgHRRXvYE=;5NVEDz1Q4kW3wn/+8nyXsw=="
 ---

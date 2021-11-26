@@ -59,6 +59,22 @@ related:
         width: 816
         height: 414
         isCached: true
+  - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
+    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
+    publishedDateTime: 2021-11-26T10:20:00Z
+    webUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+    ampWebUrl: "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Daily Sun
+      domain: daily-sun.com
+    quality: 70
+    images:
+      - url: "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg"
+        width: 830
+        height: 530
+        isCached: true
   - title: "UNESCO Chief Audrey Azoulay Presents First-ever Global Standard On Ethics Of AI"
     excerpt: "The Recommendation on AI Ethics lays out common ideals to assist in the development of the legal infrastructure needed to enable its healthy development."
     publishedDateTime: 2021-11-26T07:45:00Z
@@ -75,21 +91,19 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-    publishedDateTime: 2021-11-26T10:20:00Z
-    webUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+  - title: "193 countries adopt 1st global agreement on Ethics of AI"
+    excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
+    publishedDateTime: 2021-11-26T11:59:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1161070"
     type: article
     provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 68
+      name: Gov
+      domain: pna.gov.ph
+    quality: 54
     images:
-      - url: "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg"
-        width: 830
-        height: 530
+      - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
+        width: 720
+        height: 377
         isCached: true
   - title: "UNESCO member states adopt first global agreement on AI ethics"
     excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
@@ -171,7 +185,7 @@ related:
     provider:
       name: GDPR fines
       domain: itp.net
-    quality: 31
+    quality: 33
 
 secured: "6EvC2HHQFfL5SrSsSp4zuD8OdAtLW3C3BI5KJiWKjpZ3292Z+eVWnM0cGlewEbSvB1RFPYTFDHGeoGwMvs/7sGTmJKOhXL6Badh5yNmt5nRjYJdP+mSfS5Ig+I6q5oU6VZWLBIKdEmQoP+a/dwzigIogp/52SK6arjQlYg0RIwHPXSOlasl34kJV6q0WI+gmhSsRFNaeyA2VXodwJuKyeARH6NcrQ4Zy5A/m6Kty96hYRCMa17MTkuzQjuHL0JwYSyCkiI/J0lyCgbJVGcXIWcdxvGWL4+AvOYax8OHbVLKs5IHt4bQftkXAVVgSkIjctXZow0hx6A1ol2KgnNz7nJMqAMtdnEWKMnSD7L25xT0=;52NQRSRFMVSp3cf5+9VLyw=="
 ---

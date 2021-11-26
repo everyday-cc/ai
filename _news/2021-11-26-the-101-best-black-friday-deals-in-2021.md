@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "The best Black Friday deals on robot vacuums: Roomba, Shark, Samsung and more"
+    excerpt: "The most advanced robot vacuum from Shark, the AI Self Empty XL features a bagless base that holds ... It even pairs up with the Bissell app to start and schedule cleanings when on the go. Easily portable, thanks to a weight of just over three pounds ..."
+    publishedDateTime: 2021-11-26T12:49:00Z
+    webUrl: "https://www.cbsnews.com/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 56
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/11/12/a329680b-cf5e-4576-a677-a9d7634d7727/thumbnail/1200x630/9e676bb8124ab66fd8fa2effae81ca44/robot-vacuum-gettyimages-1058885458south-agency-2000x1333.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Best Vacuum Deals for Black Friday 2021"
     excerpt: "If it’s time to retire your old vacuum, Black Friday is an excellent time to find the perfect replacement. While the absolute best Black Friday sales typically arrive on Thanksgiving or the day after,"
     publishedDateTime: 2021-11-23T15:14:00Z
@@ -126,6 +142,6 @@ related:
         height: 1175
         isCached: true
 
-secured: "K6IBF0i03ZBn1fqhi5A6jClfS0wptGK9o+bmvzrmQwIHL0iV3oK05iGxzS1FCdK89SL7MWv2HN+YNNFscThloFlrLdrOcAAkq+uS6UwOPkogTIVOHbBWOr1v8uJ8CqSDj2dW+2uQIuDPGSJGDrJHu1ll0Y6mpyITpRH/AFvHSjoRo7BYkeqCp7EHZZt49jeskG9ZoZks/7e+KmvGRNjsQXnQhD2lNrpsY0tOMnnujnjqZA4lLLF9Xp8AL/HZKz1gp4f7+Vk5abBFIHSvMUAIk6jj85nYAGQf+GsWvBORPWh4IHahIr/JzJxPFrNCin7vlXgr+0Vp2ynRY5/WpvW/GzhpnwWI4oUdPxTLeRugjqQ=;mZ7kOKCqSNQeoSWUAzQxZA=="
+secured: "aFX4766VTnoyU+9XhYlQ2w01L/ktI9tAfRULI+EZXmx2EtoDrd1zWVpTBQ7lzqIOYX3uN8lqC5X6fOBl+czLHnTIrA28S+hITl80vyzl4DiTAeQ72eBDL1svenkoyUggWrxctd6MH6oAJcDMgodR+1S7886DTAF6QuvAWO0qbWFAf8QOpTz1HdDR8/Mrl5DU3qAbdc+WQxunt984Ao9lWe17IjxxBytMKauS5c1dKIQ1xLi4EF8Tx7DZGJHRlEme4dTdo9EGQiDHhuw6+kkM65jCMwkHGn7pQg3OrKxrBmmlZuibpTcSkzt+yoOzmqZzdQViqctUiMICP/rlQdSfuv2ZAulZl6Lbi9o/aaIUmWS1pVf5lM2mKI9Ar/4vU0VSm0JU8Sw4u/fKA9mvuxCZ11NgDToSoRKPBBw2Uwl1egBpE3tTGvP3+CFSbzAjAdJQsVkDUhVFdlXlsB7Ujvg3fWb1eFJlUA492pC52kPtZbM6k5kapJj4N49mDS+18u7tw1vUVhQt/quf/njmIV0BhQ==;jq66P76MbAApaZSy7mjwAw=="
 ---
 

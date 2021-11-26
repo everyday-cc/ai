@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2472920/machine-learning-software-market-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472920/machine-learning-software-market-breaks-out-to-new-high"
 type: article
 quality: 98
-heat: 110
+heat: 108
 published: true
 
 provider:

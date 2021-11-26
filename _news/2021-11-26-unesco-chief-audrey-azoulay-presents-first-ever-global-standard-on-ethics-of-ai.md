@@ -69,7 +69,7 @@ related:
     provider:
       name: Daily Sun
       domain: daily-sun.com
-    quality: 68
+    quality: 70
     images:
       - url: "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg"
         width: 830
@@ -88,6 +88,20 @@ related:
       - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg"
         width: 740
         height: 452
+        isCached: true
+  - title: "193 countries adopt 1st global agreement on Ethics of AI"
+    excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
+    publishedDateTime: 2021-11-26T11:59:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1161070"
+    type: article
+    provider:
+      name: Gov
+      domain: pna.gov.ph
+    quality: 54
+    images:
+      - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
+        width: 720
+        height: 377
         isCached: true
   - title: "UNESCO member states adopt first global agreement on AI ethics"
     excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
@@ -169,7 +183,7 @@ related:
     provider:
       name: GDPR fines
       domain: itp.net
-    quality: 31
+    quality: 33
 
 secured: "tI44JgKuqj/2/XH2FPjkarimojK9JJ0GSVgUrBT6DwNwAB0FLU7agLDEfU9dcmyXA7PkqdUAI3Sj+8E2mUWgFQjD2nRz8au/IGt45JB3ur6v68vGgr0OuPV99h65AUOl3SH4AMY3lHGKMWI5RtDLlZzBL2bYFjtJs9p8LkmQ9YuwuuMXRSdjAMSvPvHO7LYj1LQM3Vd4Kkd8byXrtP6KRorcKhGqCjITs3Q0pVunOs1+V18aevfpOvtYgOc958AjCOjuEBdqWyDrCNa2ZtyyQjUSvHkf8V/pb4cLPgsH03gqlKvmDSpUHxz2ocFFKrjq5v3Mz9/FHVZQDeVRXM0+8XSxXVMSh854KVdEIgBELngNCbStQTrWoHJRxMDipxmqZzpd1U3B/Ddbg1XBG21Qb6p4BlZczPJ1sLBeawAK94rsP+zLOTVZVNXxbq7QUjuBPzirVBJQDRmUaC6jFZu7Yv1hz/kDDWpqnN7BwqZpRf9uemzyxaLYLvB1eKTtXq0qCZ+CoJneG3yQIaHaVJbtvQ==;QnaJGltjSQtf7DI1ExkpWA=="
 ---

@@ -2,14 +2,14 @@
 category: news
 title: "Robot artist to perform AI generated poetry in response to Dante"
 excerpt: "Ai-Da used data bank of words and speech pattern analysis to produce and perform a work that is ‘reactive’ to the Divine Comedy"
-publishedDateTime: 2021-11-26T08:50:00Z
-originalUrl: "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante?share=twitter"
-webUrl: "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante?share=twitter"
+publishedDateTime: 2021-11-26T06:00:00Z
+originalUrl: "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
+webUrl: "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
 ampWebUrl: "https://amp.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
 type: article
-quality: 76
-heat: 76
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
   - AI in Robotics
 
@@ -31,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "I0kHmNBYKdcmksVHPtX9qfOeXxZFn4GqzcTbv8W8qI4MG0Ssjf2zxf+RO7gjwsZeR/yDRHo0rD+lPtyAHx+eRRhQremODfzA52mJgjVacPJ0pjxsJn7tz1JyhZTnUe+giYIv7LgU+hnyXZsF2I8NL3eiblihXLEAZ4dZ1cBlbznrig7DVsDUzbRXOEOdMsSs1RJhyyPArJOo3rnocHSg9cSxSneZgyLervwcFaiDu06K4shDaxg9DaRKnSEEfH3zdsFdhdb5MDfj7YV1vAGkfl//7v0wld4r5M8R9OvbF1NRUGZQuGy+tpSS0HaQUPyGe7Mn2ZEG0OSA/HKokaH0A3fzJlYjetwBgOcvEMtZgp4=;XoGUtMTiweVotOIbR7lkUg=="
+secured: "v/Wj3HPfrBvG85HX9R4hOrRASI/OeY9Fy+c+g5rnvLQYhd0vnJGi87ivY0rvDnjzPKAdX0N4rbZGL8cpQ0j29rOEG2ISkjk6F40i6aIQzPpe5/wG4qNlvBuZotJ67RgVZSpt3dJ68nE1siBjLWxO9FYis1HrT3aJdLEUQy4K6HaJ8MHPAg/TIxTU18uqeIewcEtAVJec29O/TYt7h6h7O+pUnfnC7W1EJNViWp5YpfRwS7JAZq/6tYPMwspfDNr79eqXZ3/avHHSh58WxyFWCII9hmcM4O76qSbGwfvKJUi9a8429YPLwPlkFSLx9mWU2p6GNowGXgM1Wb+8lSZPmf7n/dG01MYbH6lu6+JOQxY=;KeT8G2q0yY56+17RFIBSDw=="
 ---
 

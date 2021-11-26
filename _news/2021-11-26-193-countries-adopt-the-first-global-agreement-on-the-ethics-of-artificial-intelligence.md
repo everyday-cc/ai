@@ -8,7 +8,7 @@ webUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-glo
 ampWebUrl: "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
 cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg"
@@ -89,6 +90,20 @@ related:
       - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg"
         width: 740
         height: 452
+        isCached: true
+  - title: "193 countries adopt 1st global agreement on Ethics of AI"
+    excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
+    publishedDateTime: 2021-11-26T11:59:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1161070"
+    type: article
+    provider:
+      name: Gov
+      domain: pna.gov.ph
+    quality: 54
+    images:
+      - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
+        width: 720
+        height: 377
         isCached: true
   - title: "UNESCO member states adopt first global agreement on AI ethics"
     excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
@@ -170,7 +185,7 @@ related:
     provider:
       name: GDPR fines
       domain: itp.net
-    quality: 31
+    quality: 33
 
 secured: "ffwwsCX+AyVM7e40SwvXzlSVuEES7kpJiXIBphmoGF3Xem76W5QeN07Dezl1lS8Ue0IS5pKhk83hwN6ORZjc4w4si78fTM7T8OWhEkPjuVH/+9k7WYfG9dvucO/bradMJjUCStTROC7irEpVkAjZ8XFOqu012iMqrD88aiJqLlI6IU1oha8dUOmqbthH8IgtYp7mrnZDKhsN3zkKiWo595Oq6gDz3DNNk88VQ0qvTaQ72nUHOHg6ZUpCc9rvtXrhvBnDARj9sK9Ats171tKM5xJsppw4nInJyJoz0d4p14w5J+BTzKm5SzbW3U3Zdl53Qo5OVM6yvvmgsjyIkgW7lH67vWiMefSGbuS0ASzef5E=;O9cv0e4/gsWjBE2J7duTaw=="
 ---

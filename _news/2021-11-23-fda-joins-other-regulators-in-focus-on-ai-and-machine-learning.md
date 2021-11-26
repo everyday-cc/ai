@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/fda-joins-other-regulators-focu
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meeting Future Leaders in AI and Machine Learning"
-    excerpt: "Discussions ranged from defining AI and machine learning to practical 'real-life' uses to illustrate the prevalence of analytics and how it touches all of our lives in the modern world. We also discussed the ever-increasing range of career opportunities and pathways in this space."
-    publishedDateTime: 2021-11-22T10:36:00Z
-    webUrl: "https://www.publicnow.com/view/2C5AD73F8672FFBDC223D72145F755D84312E552"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
   - title: "Dangers of unregulated artificial intelligence"
     excerpt: "Artificial intelligence (AI) is often touted as the most exciting technology of our age, promising to transform our economies, lives, and capabilities. Some even see AI as making steady progress towards the development of ‘intelligence machines’ that will soon surpass human skills in most areas."
     publishedDateTime: 2021-11-23T03:06:00Z

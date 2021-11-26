@@ -121,6 +121,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "The best Black Friday deals on robot vacuums: Roomba, Shark, Samsung and more"
+    excerpt: "The most advanced robot vacuum from Shark, the AI Self Empty XL features a bagless base that holds ... It even pairs up with the Bissell app to start and schedule cleanings when on the go. Easily portable, thanks to a weight of just over three pounds ..."
+    publishedDateTime: 2021-11-26T12:49:00Z
+    webUrl: "https://www.cbsnews.com/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 56
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/11/12/a329680b-cf5e-4576-a677-a9d7634d7727/thumbnail/1200x630/9e676bb8124ab66fd8fa2effae81ca44/robot-vacuum-gettyimages-1058885458south-agency-2000x1333.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4nqRuidsuVHnRS/+dKVaBIuzOKWwZJ6ham572YQsLvxzojr+zy34AHeqcdZMdb4QdREuJF8q9khrP7TWedRZ9dniljlqN+j88v0CbLDeueakIDlJGB6wLF8bxeCY4UYw/aDPlJhmYB+FOd65tskUekvVvcAZImb8sgVAh7oG1DMiP3H32rmtw6ENxzzjj8BSKWVPvDoy3tL387i95lwdM7ysX1+h+KV6xXHwVZndn0hOqX4FUUb/4/HuwDZj2xkb+CxMin3Ru+R/n8ynqRoX7b14RGPFaUbs5c4k0Us0xaqi8eYfmMeGMSK9Trdl+Df57nJLPDYpbe1Q5aOmBOc5NkZb8dAKbDYuSVIxWk6quEpU3QAYHcxqfirerYh7ngvDPF7togDWtjrbtDvzGGNx6vZWkfOgHmnJzTtw2jnDWgX4VRci3d2zPVt1aoQiMkrN4j8H/0uUTyo71dc3Ar4fi2KsgZ6YquyiXUoVAX2usfIWFyip7QnvG6KAGlgQVgI0u5oDYsIXO58fzTJsXYaapg==;OUXP2NCK0KZVmZub5FdYUA=="
 ---
