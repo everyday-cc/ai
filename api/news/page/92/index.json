@@ -2,6 +2,49 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2021-09-16-social-service-agencies-turn-to-the-cloud-and-ai-to-serve-families-in-crisis.md",
+      "title": "Social Service Agencies Turn to the Cloud and AI to Serve Families in Crisis",
+      "excerpt": "The pandemic and other crises have pushed social service agencies past their limits. They’ve struggled to process record-setting spikes in unemployment claims, housing assistance requests and other emergency services.",
+      "sourceUrl": null,
+      "webUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis",
+      "originalUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202109/ST_Q421_Delaney_Hero.jpg?itok=IVvTzz0J",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis?amp",
+      "cdnAmpWebUrl": "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis?amp",
+      "publishedDateTime": "2021-09-16T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statetechmagazine",
+        "domain": "statetechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-using-machine-learning-for-anomaly-detection-and-ransomware-recovery.md",
       "title": "Using Machine Learning for Anomaly Detection and Ransomware Recovery",
       "excerpt": "Powered by machine learning, Rubrik enables businesses to respond quickly to the latest threats automatically and minimize business disruption and data loss. They can effectively gather a clear picture and better insight into the anomalies that impact their environment regularly.",
@@ -1074,49 +1117,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-bioxcel-therapeutics-presents-results-from-ongoing-phase-2-trial-of-bxcl701-in-combination-with.md",
-      "title": "BioXcel Therapeutics Presents Results from Ongoing Phase 2 Trial of BXCL701 in Combination with ...",
-      "excerpt": "BXCL701 plus KEYTRUDA® (pembrolizumab) demonstrates encouraging anti-tumor activity in heavily pre-treated mCRPC patients with adenocarcinoma. BXCL701 combination continues to ex",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-health-coronavirus-pandemic-tumors-b2036ef8ae606cd13d47ba18d80905db",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-health-coronavirus-pandemic-tumors-b2036ef8ae606cd13d47ba18d80905db",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

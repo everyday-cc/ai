@@ -73,6 +73,20 @@ related:
         width: 800
         height: 428
         isCached: true
+  - title: "Global Thermometer with Face Recognition Market 2021 Technological Strategies, Business Advancements and Top-Vendor Landscape by 2027"
+    excerpt: "MarketandResearch.biz has published research and analysis-based study on Global Thermometer with Face Recognition Market Growth 2021-2027comprises a valuable bunch of information that enlightens the most all-important sectors of the global Thermometer with Face Recognition market."
+    publishedDateTime: 2021-11-22T21:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-thermometer-with-face-recognition-market-2021-technological-strategies-business-advancements-and-top-vendor-landscape-by-2027-2021-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Insights by Emerging Trends, Growth and Forecast till 2024"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Nov 25, 2021, 06:06 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 billion in 2019 to USD 7.0 billion by 2024,"
     publishedDateTime: 2021-11-25T12:01:00Z

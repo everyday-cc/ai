@@ -2,6 +2,50 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
+      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
+      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "publishedDateTime": "2021-10-01T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report.md",
       "title": "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report",
       "excerpt": "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020.",
@@ -1135,49 +1179,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-teslas-full-self-driving-mode-is-actually-not-fully-self-driving.md",
-      "title": "Tesla’s full self-driving mode is actually not fully self-driving",
-      "excerpt": "The capability is marketed as a way to take your hands off the wheel, but some experts, including Alistair Weaver of Edmunds, say the technology isn't ready.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2021/09/GettyImages-490598518.jpg?fit=740%2C416",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "publishedDateTime": "2021-09-30T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

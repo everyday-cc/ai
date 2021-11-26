@@ -137,15 +137,6 @@ related:
         width: 436
         height: 250
         isCached: true
-  - title: "Abu Dhabi’s G42 to start first driverless car trials in Middle East"
-    excerpt: "Launching on Yas Island, cars will have a safety officer on board and transport passengers between nine stops, including hotels and shopping malls. Abu Dhabi’s G42 to start first driverless car trials in Middle East."
-    publishedDateTime: 2021-11-21T08:42:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/abu-dhabis-g42-to-start-first-driverless-car-trials-in-middle-east"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
 
 secured: "LzE0Ze0UajsdFXXSe8P2wwYyAdOyEeLbO6CvfUj2E6HAPgsiEGIsUUvtmQEIcDDo1BeMnJLxuq104HK8d5TyacDmgqWm62ydAWhqrtpe6QqrruViVGCGduttZ9NMS+zx9bVspDwp9zk25N8d18Tyd08RYPHi6zKvqKYehBWwbjCfJ+6VvHVdh58/JOiVhoVAiYeSPnsvqDl0Iqj4L4xFofbm/Jla7wjXsb/acvffKyvFtoYgkkH4pURu0o3I8gAWG2Ev34LOqZxqxGf9bywnOUO37vOi3jE92zvCnveWYRUHDojBIAfXkyBCN4ba8tt/WCuvLpG99gxJaPHTW9mHl6Zoeu4SE+SN5F3u6rcSA8/uow+nlUkX878lNosapai6HUzK+SnyhCE+Tj65KrND56S4tR+qJCb6J9ez5OXveDBWNmZaKTSLl0OSlW4mp+1Y9gVsswnBILooFJ3DbXeTmUNvoLqUSYU+lcIaVYvxiiG1dac4QNaZ48wdk5/LlCpf8zT32gT5QxJ9Nz3ZzfqWYg==;sepuAuoFeF9udoQW3QPBJg=="
 ---

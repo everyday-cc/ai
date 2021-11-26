@@ -133,15 +133,6 @@ related:
         width: 436
         height: 250
         isCached: true
-  - title: "Abu Dhabi’s G42 to start first driverless car trials in Middle East"
-    excerpt: "Launching on Yas Island, cars will have a safety officer on board and transport passengers between nine stops, including hotels and shopping malls. Abu Dhabi’s G42 to start first driverless car trials in Middle East."
-    publishedDateTime: 2021-11-21T08:42:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/abu-dhabis-g42-to-start-first-driverless-car-trials-in-middle-east"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
   - title: "Abu Dhabi launches self-driving taxis pilot project on Yas Island"
     excerpt: "A pilot project has been launched to explore the use of self-driving taxis on Yas Island in Abu Dhabi.. Abu Dhabi launches self-driving taxis pilot project on Yas Island. Abu Dhabi, Autonomous vehicles,"
     publishedDateTime: 2021-11-24T12:18:00Z

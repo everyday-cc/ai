@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Facial Recognition Market Size | Opportunity Analysis Report by 2026"
-excerpt: "Facial Recognition Market size is set to cross USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook."
-publishedDateTime: 2021-11-23T05:24:00Z
-originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23"
-webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23"
+title: "Global Thermometer with Face Recognition Market 2021 Technological Strategies, Business Advancements and Top-Vendor Landscape by 2027"
+excerpt: "MarketandResearch.biz has published research and analysis-based study on Global Thermometer with Face Recognition Market Growth 2021-2027comprises a valuable bunch of information that enlightens the most all-important sectors of the global Thermometer with Face Recognition market."
+publishedDateTime: 2021-11-22T21:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-thermometer-with-face-recognition-market-2021-technological-strategies-business-advancements-and-top-vendor-landscape-by-2027-2021-11-22"
+webUrl: "https://www.marketwatch.com/press-release/global-thermometer-with-face-recognition-market-2021-technological-strategies-business-advancements-and-top-vendor-landscape-by-2027-2021-11-22"
 type: article
-quality: 69
-heat: 159
-published: true
+quality: 38
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market Size | Opportunity Analysis Report by 2026"
+    excerpt: "Facial Recognition Market size is set to cross USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook."
+    publishedDateTime: 2021-11-23T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Face Recognition Terminal Market 2021 to 2027: Existing and Future Insights Growth"
     excerpt: "MarketandResearch.biz has added a new report to its online database titled Global Face Recognition Terminal Market Growth 2021-2027. The report contains information for the confirmation and examination of the improvement of the market."
     publishedDateTime: 2021-11-22T20:37:00Z
@@ -58,20 +72,6 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub24581473_g.jpg"
         width: 800
         height: 428
-        isCached: true
-  - title: "Global Thermometer with Face Recognition Market 2021 Technological Strategies, Business Advancements and Top-Vendor Landscape by 2027"
-    excerpt: "MarketandResearch.biz has published research and analysis-based study on Global Thermometer with Face Recognition Market Growth 2021-2027comprises a valuable bunch of information that enlightens the most all-important sectors of the global Thermometer with Face Recognition market."
-    publishedDateTime: 2021-11-22T21:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-thermometer-with-face-recognition-market-2021-technological-strategies-business-advancements-and-top-vendor-landscape-by-2027-2021-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Global Mobile Speech Recognition Software Market 2021 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2027"
     excerpt: "MarketandResearch.biz has publicized a brand new research study on Global Mobile Speech Recognition Software Market Growth (Status and Outlook) 2021-2027 which offers a unique point of view about the market."
@@ -153,6 +153,6 @@ related:
       domain: galvnews.com
     quality: 1
 
-secured: "cXhnonwtMwrONz5CckVrGYsaPWpuEyafGjBivvtmsaLpFx7TaC3t0rSTVU2a2chkKHMWeMUQjkJ88o7gqKEDtxNEXp4ipF0EHQeZpqTZGMncnLT7R8W9WOY/QDLWL8p7YKK6dX9xMDda6GD/u10e9+foV6IagMkYh3HCQ9U8WYLgMT/ivz6XnNgKHBrhP1TwKzxYOAWa/ko0ZRarjQQ5skKvA/GzY3xwfUiNVulR9sHCvkGKswZB951EFm3aKY58d32PBU5p08UraLLrpOjyBkCS87hw0Yb0vf5WLdJjugJfqUkDcFmZUpWAuGnV3ZnNe2QjULlE04+72m1KyZL4Xzbgzb0KPfAbnw4MjCG2BPY=;j9BR0DyyY1KIYZ3o1b84DA=="
+secured: "UiSI2LMjnZGg1ttXYM2W3kACNtaqTfCE+6s/yyXxCLIMrJ2u9wGDfdGCTX/1BldYF+GaqS/bHA33r4jcR8xeKC7AGK3rTdyPAurrWHEdulD/wfQbOxerSNyVqLcdYknNgFdUPf7ikKr+TgAQNRqjBerfxpuPPa3JDwO0d/Kf5kDRSa4ec3Nou1YDzzitwNzvgYX3z+WKS/EBQ8XVxjtOm3sP0sCPZ9qVOYiHccXBFAHCPKcq5QLzInFD4xPJGnclVgci8S2ShRKdXaaf7i119IhmU3wo5hSK3fh2Xj/rmzmykbWMZAaPs2RPjezigRqDFo0HeyOyvG4jXUSRNakW/m9WPORYYkpV/UOaXHgLJ28=;dGoKCGf7Pdx+AQEPrOe+/g=="
 ---
 

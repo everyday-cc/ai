@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 102
 published: true
 
 provider:

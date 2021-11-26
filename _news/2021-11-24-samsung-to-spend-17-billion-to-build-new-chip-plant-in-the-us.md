@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-to-spend-17-billion
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/"
 type: article
 quality: 89
-heat: 121
+heat: 119
 published: true
 
 provider:

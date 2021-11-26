@@ -2,6 +2,49 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2021-10-07-conversational-artificial-intelligence-ai-market-2021.md",
+      "title": "Conversational Artificial Intelligence (AI) Market 2021",
+      "excerpt": "Conversational AI can be used to answer simple questions ... review of Google Dialogflow at Gartner Peer Insights. “I have been using Watson for about three years now; it’s very flexible, stable, and versatile. On the whole, IBM is a great partner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/conversational-artificial-intelligence-ai-market/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/conversational-artificial-intelligence-ai-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/02/AdobeStock_232601963.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-what-tech-challenges-are-facing-the-financial-services-sector.md",
       "title": "What tech challenges are facing the financial services sector?",
       "excerpt": "InterSystems Ireland’s Redmond O’Leary discusses how financial services can streamline ... such as predictive analytics and machine learning, to build smarter processes including real-time ...",
@@ -1142,49 +1185,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-googles-ai-unit-deepmind-makes-first-ever-profit.md",
-      "title": "Google’s AI unit DeepMind makes first-ever profit",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/googles-ai-unit-deepmind-makes-first-ever-profit-10594114",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/googles-ai-unit-deepmind-makes-first-ever-profit-10594114",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

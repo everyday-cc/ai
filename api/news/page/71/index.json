@@ -2,6 +2,49 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2021-10-02-robots-artificial-intelligence-ai.md",
+      "title": "Robots + Artificial intelligence (AI)",
+      "excerpt": "And what should they actually look like anyway? About 332 results for Robots + Artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/robots+artificialintelligenceai",
+      "originalUrl": "https://www.theguardian.com/technology/robots+artificialintelligenceai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-02-amd-aims-to-increase-efficiency-of-server-chips-30x-by-2025.md",
       "title": "AMD aims to increase efficiency of server chips 30x by 2025",
       "excerpt": "AMD aims to improve the efficiency of its server chips by 30x over the next four years by increasing performance while consuming less power.",
@@ -1145,50 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
-      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
-      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "publishedDateTime": "2021-10-01T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],
