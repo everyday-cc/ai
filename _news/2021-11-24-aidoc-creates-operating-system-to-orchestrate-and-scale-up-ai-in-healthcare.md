@@ -39,6 +39,34 @@ related:
         width: 2000
         height: 1108
         isCached: true
+  - title: "How do you scale AI in Healthcare?"
+    excerpt: "Sunny Dosanjh, Director lead for Deloitte’s Healthcare AI and Data team, explores the three key aspects in scaling AI in healthcare"
+    publishedDateTime: 2021-11-22T16:47:00Z
+    webUrl: "https://www.openaccessgovernment.org/how-do-you-scale-ai-in-healthcare/124827/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 54
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/11/dreamstime_xxl_163033011-scaled.jpg"
+        width: 2000
+        height: 1108
+        isCached: true
+  - title: "The impact of AI on healthcare in developing countries."
+    excerpt: "Artificial intelligence is going to replace 80% of doctors by 2035, (Vinod Khosla, 2012). This is a hot topic, especially as a doctor myself, with all qualities doctors bring to the table it should be"
+    publishedDateTime: 2021-11-23T08:05:00Z
+    webUrl: "https://www.linkedin.com/pulse/impact-ai-healthcare-developing-countries-yacoub-hachine-1f"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHAlDOuEPC1dw/article-cover_image-shrink_600_2000/0/1637654570199?e=1643241600&v=beta&t=Tsn-VwZxBYn651ozlr3h4YGC9Qc3RYc28xIYpIbLbZA"
+        width: 775
+        height: 436
+        isCached: true
   - title: "Healthcare AI raises $8.5B in 2021"
     excerpt: "The pandemic spurred significant investment in healthcare artificial intelligence, with $8.5 billion being raised in 2021 so far, according to a CBInsights report published Nov. 24. Home diagnostic kits powered by AI,"
     publishedDateTime: 2021-11-24T15:58:00Z

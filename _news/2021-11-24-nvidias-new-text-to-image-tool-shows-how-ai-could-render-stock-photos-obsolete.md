@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s latest AI tech translates text into landscape images"
-    excerpt: "Nvidia today detailed an AI system called GauGAN2, the successor to its GauGAN model, that lets users create lifelike landscape images that don’t exist. Combining techniques like segmentation mapping,"
-    publishedDateTime: 2021-11-22T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/"
-    ampWebUrl: "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Nvidia's latest AI technology transforms words into realistic images"
     excerpt: "Nvidia showed its GauGAN technology for the first time in 2019, but only recently we saw it being featured in a product available for the general"
     publishedDateTime: 2021-11-25T17:08:00Z

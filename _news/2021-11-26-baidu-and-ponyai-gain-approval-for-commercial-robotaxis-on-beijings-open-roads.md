@@ -91,6 +91,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
+    excerpt: "SHANGHAI (Reuters) – Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 ..."
+    publishedDateTime: 2021-11-25T06:01:00Z
+    webUrl: "https://www.metro.us/baidu-pony-ai-approved-for/"
+    ampWebUrl: "https://www.metro.us/baidu-pony-ai-approved-for/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-pony-ai-approved-for/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHAO03V-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Baidu begins commercial robotaxi services in Beijing"
     excerpt: "Baidu received the country’s first permit for commercial robotaxi services, a major milestone for Chinese self-driving car industry."
     publishedDateTime: 2021-11-26T09:16:00Z

@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
-publishedDateTime: 2021-11-23T20:00:00Z
-originalUrl: "https://www.entrepreneur.com/article/398836"
-webUrl: "https://www.entrepreneur.com/article/398836"
+excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
+publishedDateTime: 2021-11-23T17:12:00Z
+originalUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
+webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
+ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
-    width: 635
-    height: 400
-    isCached: true
 
 related:
   - title: "AWS wins Adidas contract to host its SAP workloads"
@@ -57,16 +49,7 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Adidas migrates SAP Environments to AWS"
-    excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
-    publishedDateTime: 2021-11-22T13:46:00Z
-    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
-secured: "w/EdiFXPdf9yw3DjzHPB03/yvPDn/ofI26Q8kiCSsWCBEKu8eDAvlCd1OBp0ZE1lJsVyh+bCQvH8et02OeqwujmN1DLl2msCWP2FFacK1bdfs4Q4EYdNcO47uxLijqAY90Lll9JYgI2+VOLHH5hMcDjq/DzeGqTuFPsC40XXQWkJdYmwO+kV3gTCMHnicNh/h8Tmr/7tSyMbyyzJSqMNINUraZFoZQHEWKKNUzPKHoYBHPQy7zYE5tLvX9ZCPxGsiGnEMZwgCzwUHh9sbSdRlXE6MfftsazK/AFDB+Lr89jxybLXidQTpNqveOSL0zceLN4cQilLhqz5gRD49/iDCMMKI4Jj4LPBohIjNiCUjmFrC0hzgRviS3oUX6OiurWAeaW/EoxttHm9SbO4fdQGQiqAFbMethEtFAZkp0iY3wWwuD+8hKAx4fE2eiQO+wUaxRZFql02lARR2YPtzx98dKBe8FdmAarHqCS+e+CDsGVTYfp5owFH1HRZ1solRJ6qZelFV94hM2wlY4WabeBEQA==;AAbUS7rEXwfqRovzhkRlUQ=="
+secured: "OjEu/vFYxYV6LC0Yp+dTbwuRq1CHru6hH2jh2kF00nsVrNAq7f+qy/FNi1bnBklh3sNP91pCXCyYhrieUk97tjVokr7jyrLIv2uvmmtuh0n2xVSs3YAyBC4zHEXcaH61aUfk7e2sDwsYidEs05R6d7GjSgecipLHvHIGl2m29UsnwXYpR+qym4JkF9xiUVBSi1WA6YrDmuOrtyVWNdXMOyww/aLePq/sr1pSn404U/DtquW0zZdnF8iOqro+FTS+RauyVzpZlsnTBQriapmd8jj21U6gN0TcKQlLr/RktZi9QX7xiLYONDZ7Yr+Lcezt5RpUbinGmskuJmECC3FIkgQ6WbQHlkjaV90kfvlCkMk=;PaBdp7IBoEPaAE8yslUpDA=="
 ---
 

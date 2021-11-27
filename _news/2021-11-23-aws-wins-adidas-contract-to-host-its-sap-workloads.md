@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-    excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
-    publishedDateTime: 2021-11-23T20:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/398836"
+    excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
+    publishedDateTime: 2021-11-23T17:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
-        width: 635
-        height: 400
-        isCached: true
   - title: "adidas migrates SAP environments to AWS"
     excerpt: "AG has selected AWS as its preferred cloud provider for SAP workloads, officially migrating its SAP environment to AWS."
     publishedDateTime: 2021-11-25T01:49:00Z
@@ -53,15 +50,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Adidas migrates SAP Environments to AWS"
-    excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
-    publishedDateTime: 2021-11-22T13:46:00Z
-    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "WN7SxLQm6zxEWwyH7uviXpyo5/9aI9dOqB1g+9pTz24wQ9DliTBSTw+pWrYLQQAOg/RHYPOIKGQXlmMQ852Qi1IiVLDe7zYH+HScUNasru0saztLviuzkEr3y48aWrCsxc9v03APk+i+FExPTac8dUJtukWTAHrODHXEPpvdSwi1b33SEfcIB2GfVUlL/vP4NYUdbVVDlZcz0ckZF7hvBp7kbKvtuM/HtAJv9wqDG961OD/Hf6CdbxCL+IgmH4qEGuUbFfY15V7DX9RuIkypIE8eRWjHqVncg9Q5yVHR7INwn8HdDyBkiaYumLoksbY2iWNe2IV2adEG2Q0XfP8avUvlEbvfSYv2iUiF+9uRUlRaqMlB416GW8jdNG08UFuXJOdt9DR1J1ZioDrCQAO/XxeLJjHBwhLHoO4vuOXscIiz3F4mj0XhitTVMDVcSjWLpIY1w3uzTZHYwPfwRUJ9bnl7ocW4Ni/rgUNt6CYvOOr2uO/Eiwt8lnQbe/qfeP4jnSCgR0b8uEK4Uyx54CqotA==;tY4soWw+sQotQsawo3H4mg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techbooky.com/can-we-trust-a-superintelligent-ai-for-the-fut
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/?amp=1"
 type: article
 quality: 59
-heat: 73
-published: true
+heat: 69
+published: false
 
 provider:
   name: techbooky.com

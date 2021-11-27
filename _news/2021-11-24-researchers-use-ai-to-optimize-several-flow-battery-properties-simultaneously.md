@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-ai-optimize-battery-properties-s
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ai-optimize-battery-properties-simultaneously.amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1920
     height: 1356
     isCached: true
+
+related:
+  - title: "Researchers use simulated environments to train AI"
+    excerpt: "University of Missouri engineers are hoping to enhance artificial intelligence (AI) by using simulated environments rather than real-world data."
+    publishedDateTime: 2021-11-27T06:03:00Z
+    webUrl: "https://www.controleng.com/articles/researchers-use-simulated-environments-to-train-ai/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 37
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/11/CTL2111_WEB_IMG_Mizzou_AI_Lab-Slider.jpeg"
+        width: 645
+        height: 350
+        isCached: true
 
 secured: "zvwfCMa5dWpIueyUmQCpRtEbMM9IA/td0IG0Po4TnJ2KoZI/yunR3dGmGc0l52LtLxnuqWfjmOdeqqHHVDpVy6aH3XP/oprlQVEp1yknz5Y1S1/KOYHQb0P46EANsRKL2d6ZjGed+l7W6Kx1D7gW6JREZcibbmy1fY+RsHb0HtZyB7P5dP4UBToKxJqWth9HR+kF3M5zfoYNXwHQQkHD9zYgOKULWECz1wXw8RoAGYKboiLIRzKCSC0a2+2sIUaS4TdhpBCCn+WP+JR5BU6fqsLzLxTkP538sSXXcTM1/Aul5x1qc++iPBLDITSQU9LQVFkhGBPo9mCeaC+BZ0xYz8AtI4mUX7zq9LD0PoQ9BU8=;uThG7ca0RVpeLGmEHYIMig=="
 ---

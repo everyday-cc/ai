@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Baidu gets green light for driverless robotaxi service in Beijing"
-excerpt: "Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
-publishedDateTime: 2021-11-25T07:39:00Z
-originalUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-gets-green-light-for-driverless-robotaxi-service-in-Beijing"
-webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-gets-green-light-for-driverless-robotaxi-service-in-Beijing"
+title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
+excerpt: "SHANGHAI (Reuters) – Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 ..."
+publishedDateTime: 2021-11-25T06:01:00Z
+originalUrl: "https://www.metro.us/baidu-pony-ai-approved-for/"
+webUrl: "https://www.metro.us/baidu-pony-ai-approved-for/"
+ampWebUrl: "https://www.metro.us/baidu-pony-ai-approved-for/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-pony-ai-approved-for/amp/"
 type: article
-quality: 54
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: NIKKEI
-  domain: nikkei.com
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F0%252F5%252F5%252F37575503-6-eng-GB%252FCropped-1637825126photo_SXM2021112500004550.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-    width: 1024
-    height: 512
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHAO03V-BASEIMAGE.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -87,22 +89,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
-    excerpt: "SHANGHAI (Reuters) – Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 ..."
-    publishedDateTime: 2021-11-25T06:01:00Z
-    webUrl: "https://www.metro.us/baidu-pony-ai-approved-for/"
-    ampWebUrl: "https://www.metro.us/baidu-pony-ai-approved-for/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-pony-ai-approved-for/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 59
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHAO03V-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Baidu begins commercial robotaxi services in Beijing"
     excerpt: "Baidu received the country’s first permit for commercial robotaxi services, a major milestone for Chinese self-driving car industry."
     publishedDateTime: 2021-11-26T09:16:00Z
@@ -134,6 +120,20 @@ related:
       - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/11/BIDU-1-750x406-1.jpg"
         width: 750
         height: 406
+        isCached: true
+  - title: "Baidu gets green light for driverless robotaxi service in Beijing"
+    excerpt: "Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
+    publishedDateTime: 2021-11-25T07:39:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-gets-green-light-for-driverless-robotaxi-service-in-Beijing"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F0%252F5%252F5%252F37575503-6-eng-GB%252FCropped-1637825126photo_SXM2021112500004550.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Baidu Gets Green Light for Commercial Robotaxis in Beijing. It’s Good for the Stock."
     excerpt: "Baidu’s Apollo Go service, known as Luobo Kuaipao in China, has been given authorization to pick up and drop off paying passengers in a 60 square kilometers area in Beijing."
@@ -284,6 +284,6 @@ related:
       domain: futurecar.com
     quality: 0
 
-secured: "TMWr/QKZCv8J1PoEGENYuZm2UH6ggmW9QlXqMBUE9JeVKtBAoghGOTPap4tK51vSo1886wKexWI53GaBRFhbGUJEnqKcuc7pcPUeUTaVQa09UP+OrO69UKaaFdJpZNMqAEpHU7whP45mBA9b88GwtibFAGrAROGFpBM6v204/4vAmG1th8g4pU3O5ftXwGbRqVYUOI6AqkdQEKgeZ9oJ4uhhq/lNHEjXIqDceM8i05hOuO0y1ImB2IEhPtCyCAdWYKzWdY/J1AY0OydzGgDxR3r1bL4an01YDNcklgnkQlVBu26SfdTofMqiIM/Gm8m3zxmFUYzpwWfQyQ+WeQuQou7ZqZ8FDAZOzon6PzAvYOjW6PdoKAacWK3c2h3Sf30a6njr04wuZtii6j3VtKrF+YLnOf5jPPF/we+SlXq1eknL1k7cCEzMctO6H+E3G5mklostsRAh6mIRbjKw5Hb1x7ht61JaX/omSdB1XJtIJLCU6Jx+6MHc+6yJPP0bNNlCYyuuAnvxnzTsmGY28uPFbQ==;EvvI94MzN5sXmOPkYGJv0A=="
+secured: "cA9/RfU+nkjdRMajrVuXmAXsMsOOA9dEzXW7cKHHyZxP/m5ZgcVYTVTxQeTWBC37036IivK0lHG0sgME86Zp6nWlq48HKOaWqOs61PFIrgcYnWjmhoWRKCKjOwiT4yAYzRfJUDhzqqF0szmyRLRpbSLZmDvrGhGZDM5T4clTfMxOk44+xJk8iOzu22EkdB4Lnd69ZMVf6XMosV4EPCcHRrpOcCIAaMLfCb5zo+s9zxT8on+zwrbf9r/FisAkFbQNjyrapQzmYhONY3uLf357a+6/Zf3aWJd+2OVdEqmF3sXdNtiSD28FRDiSiabCR421whA9Et4aifv+eO/+LkLdlIq/AuM2Nmx7YdQ3QUwVL3s=;y2D5wnMdeYkuxry05sOXrg=="
 ---
 

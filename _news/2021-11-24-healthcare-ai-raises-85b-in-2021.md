@@ -39,6 +39,34 @@ related:
         width: 2000
         height: 1108
         isCached: true
+  - title: "How do you scale AI in Healthcare?"
+    excerpt: "Sunny Dosanjh, Director lead for Deloitte’s Healthcare AI and Data team, explores the three key aspects in scaling AI in healthcare"
+    publishedDateTime: 2021-11-22T16:47:00Z
+    webUrl: "https://www.openaccessgovernment.org/how-do-you-scale-ai-in-healthcare/124827/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 54
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/11/dreamstime_xxl_163033011-scaled.jpg"
+        width: 2000
+        height: 1108
+        isCached: true
+  - title: "The impact of AI on healthcare in developing countries."
+    excerpt: "Artificial intelligence is going to replace 80% of doctors by 2035, (Vinod Khosla, 2012). This is a hot topic, especially as a doctor myself, with all qualities doctors bring to the table it should be"
+    publishedDateTime: 2021-11-23T08:05:00Z
+    webUrl: "https://www.linkedin.com/pulse/impact-ai-healthcare-developing-countries-yacoub-hachine-1f"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHAlDOuEPC1dw/article-cover_image-shrink_600_2000/0/1637654570199?e=1643241600&v=beta&t=Tsn-VwZxBYn651ozlr3h4YGC9Qc3RYc28xIYpIbLbZA"
+        width: 775
+        height: 436
+        isCached: true
   - title: "Aidoc creates operating system to orchestrate and scale up AI in healthcare"
     excerpt: "Artificial intelligence-powered medical imaging analysis startup Aidoc Medical Ltd. believes it can play a key role in helping hospitals implement their AI strategies with today’s launch of what it says is the first AI Operating System for the healthcare industry."
     publishedDateTime: 2021-11-24T14:00:00Z

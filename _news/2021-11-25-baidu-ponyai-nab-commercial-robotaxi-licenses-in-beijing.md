@@ -76,6 +76,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
+    excerpt: "SHANGHAI (Reuters) – Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 ..."
+    publishedDateTime: 2021-11-25T06:01:00Z
+    webUrl: "https://www.metro.us/baidu-pony-ai-approved-for/"
+    ampWebUrl: "https://www.metro.us/baidu-pony-ai-approved-for/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-pony-ai-approved-for/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHAO03V-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Baidu begins commercial robotaxi services in Beijing"
     excerpt: "Baidu received the country’s first permit for commercial robotaxi services, a major milestone for Chinese self-driving car industry."
     publishedDateTime: 2021-11-26T09:16:00Z
@@ -271,6 +287,6 @@ related:
       domain: futurecar.com
     quality: 0
 
-secured: "2ecaoqSlDWWEbqLOn5Np2yPCqqI2RYUQaDj+2Xo8tOJd2brGdCD1vD9MiiUnfDLfY9lN4pYUGy2W5OHWF7C06qkCW3sbuRpSHGnYEmuj8R9jJUwsnBpwwwAghJwzCfYIKrtHlxNRWx3B5rVHa2pii+9eRfgjFuXlIjOiOKhNxfeI4oOY+pwoc6TGwdAo7R3oDlsjMX+5K1S04Ehmj6fbvGV6wvMqnybbe+BSOZlg8xhTi6xFu+gxs+1I4PfTOhaICEjH5EOVMvHaa9Kq/Sk3JG16/AbubkRx8NcEccJO849DnG7dhVJQXswrwB5WQMJhXvk7GM/OWwYbyXUV915jvoWCRl90ooRkII29t/Mn75Y=;vpr2z/BwaB9htDf8s35w2w=="
+secured: "7WMc+n0bBjAVXjA/Lfr8KuUUnp5thY6Hz+atTLyoR8h63iJrnPZs87EMm/cdTRb2ekXp1EgYc+CP0BnW0BZH1KNGj+/2x5i//mY5wj4RtUcoTgqTf3Y3lOIt2bk1NBzFE0Okg+lK2YT8n5PFZrBkUR92K+9TEHGXWBTgJ7s4edldxWvfsFKYDKIt5K37lNWF12rmga8kwei1bbLxvuWT/ikSYEs6WBqR2qbvNRKnxEguNobogaPboNBBIhP1mRke1yWytvNIK0KLjPlbXGQp9vhV7+TAn2Fvlr3MZJsoCIoBNG/KKK94jM79c6m5TdEAn8T/xscDJYxIo2CXTBA2UM1Hz64Ytv7zL52pUuIclu8=;+1CcN3FTrQEdvj4uMHshIw=="
 ---
 

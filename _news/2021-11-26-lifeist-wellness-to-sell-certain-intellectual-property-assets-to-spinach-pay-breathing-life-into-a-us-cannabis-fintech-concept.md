@@ -166,20 +166,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "FinTech Talents Festival 2021 - Afterthoughts and Aftershocks"
-    excerpt: "Even though we could not be physically with our friends at the Fintech Talents Festival last week in London, we were still able to partake in many of the sessions virtually. If there is one word that we could use to describe last week’s fintech fanfare,"
-    publishedDateTime: 2021-11-22T13:26:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintech-talents-festival-2021-afterthoughts-aftershocks-lau/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFaH4_THVqC7A/article-cover_image-shrink_720_1280/0/1637586990957?e=1643241600&v=beta&t=8Tjo9WOmGyuoWc1F9-ZlbrvD_xKzK0cj_2JG944YvoM"
-        width: 1280
-        height: 684
-        isCached: true
   - title: "5 Great Ways Fintech Is Revolutionizing The Modern World"
     excerpt: "Traditional banks are disappearing from our streets at a rapid rate. ATMs are declining in numbers too, but you shouldn't be worried"
     publishedDateTime: 2021-11-22T21:55:00Z
@@ -235,20 +221,6 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/shutterstock_163502138-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021"
-    excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who will be showcasing their product demos to a high-profile jury from 23 rd  November – 25 th  November 2021 to compete for the Fintech Startup of the Year trophy at the 6 th  edition of India FinTech Awards (IFTA)."
-    publishedDateTime: 2021-11-22T13:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-india-fintech-forum-unveils-28-high-potential-fintech-/2021/11/22/9497624.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1693934/FInalists_at_IFTA_2021.jpg"
-        width: 400
-        height: 209
         isCached: true
   - title: "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021"
     excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who"

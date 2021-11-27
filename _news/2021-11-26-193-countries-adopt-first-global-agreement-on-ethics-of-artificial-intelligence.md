@@ -224,6 +224,15 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
+  - title: "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence"
+    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
+    publishedDateTime: 2021-11-27T06:16:00Z
+    webUrl: "https://www.publicnow.com/view/B73061C387565349315DA2D7990FF03A9B822A43"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 25
 
 secured: "PTDYD6SEVw+a5NVDYF57T/gDPfVhLigUu0K2UFNFkcHjDMhsdDzzVGVGOJzEzSc5jM/47cylyNYjPzXUCxRWSmumGpbF1/7nP97zESPKbIJS2d21660sGqgDR8m+YtQFOUuYApA4jNJcRfu0WZBuDDxHDp/yBTRK7agThbkGDAKRB7GTICrlsAEC9G49h2DvcKf1XeKwmLWlr9brmhjdJ22xl2X32yxszjSe9yb8oJxPsVSd1f6SATntfKgMqqymwUmVDLqMTMmFmrA7k0q1KmlrTmX3GfKzqJ1M2sPByPahQMSczUIwd5JFjlylNs+OS5w2bYrcnrAnSwn0824uf54WItyFs1yHgJCVvwAKR8J1TmQzSaAQtvUSjLwKYHL2JIDaGb1RHCiRYOl7eMr9QRATVm62MFpFXA3LVZwKKp3ptcUrc5c33mHN709o0I7lVb6qzIPSfyeeCK2sH962GKgwv0ljVM1g9cJFARLnOFANxoJMdGTxRFhXteRCt6qFyvejp6crhq8HjBina5i4aQ==;MENTxwVhJE1GaG2x3WFIEA=="
 ---

@@ -74,6 +74,20 @@ related:
         width: 800
         height: 274
         isCached: true
+  - title: "Healthcare Artificial Intelligence (AI) Market– Insights on Challenges & Opportunities size 2026"
+    excerpt: "According to Stratistics MRC, the Global Healthcare Artificial Intelligence (AI) Market is accounted for $0.95 billion in 2017 and is expected to reach $19.25 billion by 2026 growing at a CAGR of 39.7% during the forecast period."
+    publishedDateTime: 2021-11-24T09:19:00Z
+    webUrl: "https://www.pr-inside.com/healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-r4856223.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 56
+    images:
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial Intelligence (AI) in Retail Market -Industry Analysis, Size, Share, Growth, Trends, Segmentation And Forecast 2021 To 2028"
     excerpt: "New study report” Artificial Intelligence (AI) in Retail. Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30."
     publishedDateTime: 2021-11-24T11:04:00Z

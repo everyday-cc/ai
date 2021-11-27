@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub26740905_g.jpg"
         width: 800
         height: 274
+        isCached: true
+  - title: "Healthcare Artificial Intelligence (AI) Market– Insights on Challenges & Opportunities size 2026"
+    excerpt: "According to Stratistics MRC, the Global Healthcare Artificial Intelligence (AI) Market is accounted for $0.95 billion in 2017 and is expected to reach $19.25 billion by 2026 growing at a CAGR of 39.7% during the forecast period."
+    publishedDateTime: 2021-11-24T09:19:00Z
+    webUrl: "https://www.pr-inside.com/healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-r4856223.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 56
+    images:
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Artificial Intelligence (AI) in Oil and Gas Market 2021: Industry Demands, Top Key Players, Industry Analysis & Forecast By 2027"
     excerpt: "Artificial Intelligence (AI) in Oil and Gas Market” report delivers a complete information of the industry including"

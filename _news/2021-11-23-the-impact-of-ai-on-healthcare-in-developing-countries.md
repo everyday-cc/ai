@@ -29,33 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Healthcare Presents Unique Challenges And Amazing Opportunities"
-    excerpt: "Artificial intelligence is a hot topic in almost every industry right now, and healthcare is no exception. The big data revolution has transformed manufacturing supply chains, retail advertising and customer service."
-    publishedDateTime: 2021-11-22T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/"
+  - title: "How do you scale Artificial Intelligence (AI) in Healthcare?"
+    excerpt: "Sunny Dosanjh, Director lead for Deloitte’s Healthcare AI and Data team, explores the three key aspects in scaling AI in healthcare"
+    publishedDateTime: 2021-11-22T16:47:00Z
+    webUrl: "https://www.openaccessgovernment.org/healthcare-artificial-intelligence/124827/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197aa507ff6dfc8338aedb0%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market– Insights on Challenges & Opportunities size 2026"
-    excerpt: "According to Stratistics MRC, the Global Healthcare Artificial Intelligence (AI) Market is accounted for $0.95 billion in 2017 and is expected to reach $19.25 billion by 2026 growing at a CAGR of 39.7% during the forecast period."
-    publishedDateTime: 2021-11-24T09:19:00Z
-    webUrl: "https://www.pr-inside.com/healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-r4856223.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 56
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/11/dreamstime_xxl_163033011-scaled.jpg"
+        width: 2000
+        height: 1108
         isCached: true
   - title: "How do you scale AI in Healthcare?"
     excerpt: "Sunny Dosanjh, Director lead for Deloitte’s Healthcare AI and Data team, explores the three key aspects in scaling AI in healthcare"
@@ -70,6 +56,34 @@ related:
       - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/11/dreamstime_xxl_163033011-scaled.jpg"
         width: 2000
         height: 1108
+        isCached: true
+  - title: "Healthcare AI raises $8.5B in 2021"
+    excerpt: "The pandemic spurred significant investment in healthcare artificial intelligence, with $8.5 billion being raised in 2021 so far, according to a CBInsights report published Nov. 24. Home diagnostic kits powered by AI,"
+    publishedDateTime: 2021-11-24T15:58:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-ai-raises-8-5b-in-2021.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Aidoc creates operating system to orchestrate and scale up AI in healthcare"
+    excerpt: "Artificial intelligence-powered medical imaging analysis startup Aidoc Medical Ltd. believes it can play a key role in helping hospitals implement their AI strategies with today’s launch of what it says is the first AI Operating System for the healthcare industry."
+    publishedDateTime: 2021-11-24T14:00:00Z
+    webUrl: "https://siliconangle.com/2021/11/24/aidoc-created-operating-system-orchestrate-scale-ai-healthcare-industry/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/49551511_1085551878294159_6337264871343652864_n.jpg"
+        width: 3320
+        height: 1263
         isCached: true
 
 secured: "MAi/3Oqknw3ftDO6qdFrR/w/utNx0DsfHCpHFGDPCXET90pXADA/TvYInRDLD36C3GMgUw7Km51/OqycGAu01AYiRkrv4MimUp5JRddxjfAnhgFyPUxmviNcYQ+ZXybkNxSxI54faP+4O64NyA7p5PK/cibz7QTZpcBIWMsd7flEJ8NL8cZEDvdxj+Yy2XkW6dBOo1EmH8adigvlOWBh1qA4UTKdeP5Y0B6qDTb17Y9uA7V1T44oB/sV8yStrJNP/oaeV0jOkOKV3KMEWCMtwSR79883kBsedF1oBfTc4DJCOyM1ir7r9iKzjXKgy+Ze+rCR9VGcjy7HrhGcuJfNoK5NgYT8fOi7ko9Mt3Sejts2DwIFQSOe6mnhPY2GuYM2J60MJ03LxNndU2LjSRyx0Aik/h90d0eQALKLkm+pcAMxD/uzrxTs2nxNyhW1oax6B+ZFPAjK/ghqvmow5f32sZBGwCZ2gyLfMLA/+zg5Mz8/zBz7jL8TJZfXxbjd9ewS+WMD6V6EDGCr+o/x2ezPTQ==;M3t5JUEQYV69CEByli5HTw=="

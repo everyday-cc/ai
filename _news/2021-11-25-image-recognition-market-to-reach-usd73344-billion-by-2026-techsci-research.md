@@ -115,20 +115,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Artificial Intelligence in Medical Imaging Market Size Revenue 2021 Key Companies, Geographical Analysis, Research Development, and Forecast 2027"
-    excerpt: "Artificial Intelligence in Medical Imaging Market analysis and insights available in this report which will help to take good decisions for business growth. Key players that mentioned in report help to increase growth rate by using exceptional growth strategies."
-    publishedDateTime: 2021-11-22T14:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-revenue-2021-key-companies-geographical-analysis-research-development-and-forecast-2027-2021-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
     excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"
     publishedDateTime: 2021-11-24T13:43:00Z

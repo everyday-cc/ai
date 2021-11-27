@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Unesco member states adopt global artificial intelligence ethics"
-excerpt: "The global agreement, adopted by Unesco’s 193 member states, which includes SA, addresses the increased gender and ethnic bias posed by AI."
-publishedDateTime: 2021-11-26T10:30:00Z
-originalUrl: "https://www.itweb.co.za/content/O2rQGMAnog9qd1ea"
-webUrl: "https://www.itweb.co.za/content/O2rQGMAnog9qd1ea"
-ampWebUrl: "https://www.itweb.co.za/amp/content/O2rQGMAnog9qd1ea"
-cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAnog9qd1ea"
+title: "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence"
+excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
+publishedDateTime: 2021-11-27T06:16:00Z
+originalUrl: "https://www.publicnow.com/view/B73061C387565349315DA2D7990FF03A9B822A43"
+webUrl: "https://www.publicnow.com/view/B73061C387565349315DA2D7990FF03A9B822A43"
 type: article
-quality: 74
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: ITWeb
-  domain: itweb.co.za
+  name: publicnow.com
+  domain: publicnow.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://lh3.googleusercontent.com/bVXnIuD5cZ7d-8D3A5ISv2p2z2XsJBCbqhUvoAKs6LS8t9L_IdaIoZ5mqUuuonx7Rk75_LuUWMUG-_ufYR8-TulFsdxILOr8c25Z=w816-h428"
-    width: 816
-    height: 414
-    isCached: true
 
 related:
   - title: "UNESCO member states adopt first global agreement on ethics of AI"
@@ -42,6 +34,22 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-10/12/full/1507818130-0123.jpg&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Unesco member states adopt global artificial intelligence ethics"
+    excerpt: "The global agreement, adopted by Unesco’s 193 member states, which includes SA, addresses the increased gender and ethnic bias posed by AI."
+    publishedDateTime: 2021-11-26T10:30:00Z
+    webUrl: "https://www.itweb.co.za/content/O2rQGMAnog9qd1ea"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/O2rQGMAnog9qd1ea"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAnog9qd1ea"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/bVXnIuD5cZ7d-8D3A5ISv2p2z2XsJBCbqhUvoAKs6LS8t9L_IdaIoZ5mqUuuonx7Rk75_LuUWMUG-_ufYR8-TulFsdxILOr8c25Z=w816-h428"
+        width: 816
+        height: 414
         isCached: true
   - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
@@ -223,16 +231,7 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
-  - title: "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-    publishedDateTime: 2021-11-27T06:16:00Z
-    webUrl: "https://www.publicnow.com/view/B73061C387565349315DA2D7990FF03A9B822A43"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 25
 
-secured: "kAF6rhPikcRhzBk4itOiXu+woFVY7WajkCa69HIQrtWNBY92J5ZZitsjz7dx0n5qAZEEnIzLAaSQ9/eZzQQZ/JzPmYThNJdZpHk24zFctFS4fw+U7TuVg2dIZHqkeL2uQwnusEzHkVYkk1bdrV6cvfTD6AMckfA9GMSIyTGKNZCW+d/OKhyKUoBdKLDPauVmmXNkHV1KE0uPWr7yDuqXrPnAcQ3sbTs9oR7wI419w0AeF6BA03BjacVJhUMKVhvKDASiSSHHsQrA7Tie2Xhox8ajS8naaDYIulqISPNtms1OLSJoFwcFwxlvGXAATnfv662JflZSW6YAJuQZHTj4YtQwzVPi04ur7pzPGufDGAKuM/+GbGIPZu3HzSA6hmheFWH3yietsIzuxglu9KJpstJsLZidl4VQpAkjR4etMZDjPy5AG/7j6ocbUzFIIN0zqkxlXpfZAB4faOtj8Jw3RPJClJ6lOQ39MQYWJNejDCADQKD3LCSGGndBsvo+io1HRfoTeF9kM2lqFWd6/kv21Q==;HtHiCnrjSlFQGlUFpvactg=="
+secured: "35ptmEA54WRNld0l98g86YS354cYAi0KnOPpfsoPC8cf2GVCuyVdcKiaVnDMu8UBkwjvjJtjxfR4khy0vIh2c/7vV4xa3M4FIaR3L7PZ6X7Y4jJwiA+U3XoVtnAoYRb369r7fCwxsQH9yF6KGM24T1BGodac2Dclo5Lv3UrSjsjTyDr0bjbUrYusemJQw9g7+zPitwjNsWlx/BlMdf9ppLOzIs6F4WIlElvTYqIuLflUOiwawvHUu1d+Q3ZL2O76lohH4vwlEJREnjxgcJPSjqznmZI4Wd1fvYVCBTzbb4OnZfmqp/Xu8yN5WTAqmpYgD3/Oy0NvgJ2tYBuCpJLuSWpl8ti7HQ+FCwBdjmQlSZE=;nDT2tIoa9qUGhqUY1Mut0w=="
 ---
 
