@@ -73,22 +73,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
-    publishedDateTime: 2021-11-26T22:18:00Z
-    webUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 62
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/11/unesco.jpg"
-        width: 680
-        height: 680
-        isCached: true
   - title: "193 countries adopt 1st global agreement on Ethics of AI"
     excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
     publishedDateTime: 2021-11-26T11:59:00Z
@@ -217,6 +201,20 @@ related:
         width: 925
         height: 521
         isCached: true
+  - title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
+    excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference. This historical text defines the common values and ..."
+    publishedDateTime: 2021-11-27T14:51:00Z
+    webUrl: "https://businessghana.com/site/news/General/251495/UNESCO-member-states-adopt-the-first-ever-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 40
+    images:
+      - url: "https://businessghana.com/site/img/../../cms/img/news/2021-11-27-144626000.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "UNESCO member states adopt global artificial intelligence ethics"
     excerpt: "The United Nations Educational, Scientific and Cultural Organization (UNESCO) member states Friday adopted the first global agreement on the ethics of artificial intelligence (AI) that defines the common values and principles needed to ensure the healthy development of the expert system."
     publishedDateTime: 2021-11-26T16:16:00Z
@@ -245,6 +243,6 @@ related:
       domain: publicnow.com
     quality: 29
 
-secured: "SIo361j7QaMkjvrWItzyoeu3mhbzzZgsH8SI0RcQEeHK3FYuKEbJ+5aZwpH4hnbZcneMLk/uc8nmSWpBiSqlKf6tY4QtqXpCFxT08CFSxernT1JQm5o0j8APtm87dZWjJJ7+XzFth0DB09KDZKLsob7k87uuoNefX/xKplIAVQARQThjOtt+JBf/d605nUVwZ+GJIHFEJmIeciYWdua7freXxPraUdRLwpmlwe1rBBqiGWigM1r2KTJf9FZm8gvqUaz+wxCz+c+Hj5aoIOhhAxZ19LPZ1r9oj2+VSW+tz8N0NHxZhwsdQR+qlQ4l+mscKJVGyERKYsSJsGqWSf0+8pGKQAvIyryoiz6jhYcizp0=;+SbY1QbcQC5NdXXs76mk7w=="
+secured: "JroDN4hETAmlyDuMTvGGn24HHbo6R2Xm2u9bskR495Bm7GH1dnA1+6XuvhyJrGOxuyb9gbKjVQT2UtrN6qq1a+3P/C6mivRrbcXXABkiLp0LEWQoqy11zC8HgDLSkyZLbqCmW7p4zH6Ym84Fdaann2DgUfoi/1Suk4b/s2OZWrHhGKiEbbrhO1Vs3HYNffi7ms/Li+BXSSItupXjf95A2uvIWbb7mLLB53a3VbI5QDjGsR0zVCDOVfbyyoCOWIOPYs6pYJLM/02DBPb6P95XQFRYm2cxq9sItdGdqSBA5hsPBP0yp5p9Tr5FQSnQDvUogUGd2ZTCY5Sa7XgW68ZDckXBdAEUyf5hVlB78a2tXap74JeCYdZtPrvv3Qvb8dAoLzUokBW0ZrwR0OM5oBzTh+YiroD21tGCwaTzx4KWYRyT/dbnzaCNuCs5gGzyzsXYwEI6LzBTeWej4NqvyuHczvNJd0X0QRRSktQM5x0gAchw2pvD/3rMpsI1sQ4Qhmoh6W+mVaj9JLj+9eXV8TIocw==;/0MHLEyZ3qPjJjGM2fqOtw=="
 ---
 

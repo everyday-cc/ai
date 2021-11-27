@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
-excerpt: "SHANGHAI (Reuters) – Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 ..."
-publishedDateTime: 2021-11-25T06:01:00Z
-originalUrl: "https://www.metro.us/baidu-pony-ai-approved-for/"
-webUrl: "https://www.metro.us/baidu-pony-ai-approved-for/"
-ampWebUrl: "https://www.metro.us/baidu-pony-ai-approved-for/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-pony-ai-approved-for/amp/"
+excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in ..."
+publishedDateTime: 2021-11-25T06:15:00Z
+originalUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing"
+webUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing"
+ampWebUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHAO03V-BASEIMAGE.jpg"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "Baidu, Pony.ai Get China's Green Light to Charge for Robotaxis"
@@ -58,6 +52,20 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses in Beijing"
+    excerpt: "Search giant Baidu Inc. and Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
+    publishedDateTime: 2021-11-25T04:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-11-25/baidu-pony-ai-nab-licenses-for-commercial-robotaxis-in-beijing"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHvjzsa8ZIk/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Driverless Robotaxis Approved To Run In This Chinese City! Baidu, Pony.ai Will Run Operations"
     excerpt: "Driverless Robotaxis Approved To Run In This Chinese City! Baidu, Pony.ai Will Run Operations100 new driverless robotaxis will soon be running the roads of China’s capital Beijing! Yes, you read that"
@@ -204,20 +212,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Baidu, Pony.ai nab commercial robotaxi licenses in Beijing"
-    excerpt: "Search giant Baidu Inc and Toyota Motor Corp-backed Pony.ai Inc were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
-    publishedDateTime: 2021-11-25T06:50:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/11/25/baidu-ponyai-nab-commercial-robotaxi-licenses-in-beijing"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/11/25/1381163.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
     excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
     publishedDateTime: 2021-11-25T17:49:00Z
@@ -284,6 +278,6 @@ related:
       domain: futurecar.com
     quality: 0
 
-secured: "cA9/RfU+nkjdRMajrVuXmAXsMsOOA9dEzXW7cKHHyZxP/m5ZgcVYTVTxQeTWBC37036IivK0lHG0sgME86Zp6nWlq48HKOaWqOs61PFIrgcYnWjmhoWRKCKjOwiT4yAYzRfJUDhzqqF0szmyRLRpbSLZmDvrGhGZDM5T4clTfMxOk44+xJk8iOzu22EkdB4Lnd69ZMVf6XMosV4EPCcHRrpOcCIAaMLfCb5zo+s9zxT8on+zwrbf9r/FisAkFbQNjyrapQzmYhONY3uLf357a+6/Zf3aWJd+2OVdEqmF3sXdNtiSD28FRDiSiabCR421whA9Et4aifv+eO/+LkLdlIq/AuM2Nmx7YdQ3QUwVL3s=;y2D5wnMdeYkuxry05sOXrg=="
+secured: "wjOMuKaTuPe6qJ4gZ/il+qJGAChEY4e4IdiWCco8IvD3ofP60fLYW/S5hPhjGz83qOYhvtY7DsvojuuFNvF78ctZs4j+VSTEWOsSkCXg4gY05TcrVHjH04nR5Gvw3uOWOJXb+AaLI+mhrSgYiDIvJJaPKf13ZqaZNtXFZcWYucrm7nf7rrkqhbk8IdQtLTZJyPOfknrowk9Yc+dAIxVywq2KX6E+E7kPMOJ3n/dRJtQJ1l4dKuKrqgtQ9RIlhe5UIuk+X8S6q+wvDQlp1/200wP1tmF8y6c6nd342UudqskSjNDV95Ggpkkbl77RC/6rx+cQvJ2OtYe3K2WiWmGXMxpz1KHj13nx7iGYaa1tHNs=;sLYHhUgYJFrmVnGOkAt09w=="
 ---
 

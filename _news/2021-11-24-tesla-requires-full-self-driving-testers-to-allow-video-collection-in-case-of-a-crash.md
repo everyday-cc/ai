@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
 type: article
 quality: 97
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-requires-you-to-accept-being-video-recorded-during-use-174892_1.jpg"
         width: 1328
         height: 673
-        isCached: true
-  - title: "Video: Tesla Full Self-Driving system takes a driving test"
-    excerpt: "Tesla's Full Self-Driving beta system has made headlines in recent months, both positive and negative – but how does it stack up in a learner driver"
-    publishedDateTime: 2021-11-22T22:43:00Z
-    webUrl: "https://www.drive.com.au/news/video-tesla-full-self-driving-system-takes-a-driving-test/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 39
-    images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/pcsakwljpekbv7d49pmp"
-        width: 400
-        height: 225
         isCached: true
   - title: "Tesla Tells Full Self-Driving Beta Testers To Accept They’ll Be Recorded"
     excerpt: "Tesla is telling Full Self-Driving beta testers that they'll have to accept the condition that they'll be recorded. Here are the details on this."

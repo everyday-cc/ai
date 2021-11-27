@@ -56,20 +56,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "The Impact of Artificial Intelligence on Branding"
-    excerpt: "According to Oxford, AI technologies are expected to contribute $15 billion to the world economy by 2030.  Today’s big companies like Amazon, Netflix, Google, Facebook, Uber have been using artificial intelligence as a part of their branding and marketing strategies,"
-    publishedDateTime: 2021-11-22T22:06:00Z
-    webUrl: "https://www.linkedin.com/pulse/impact-artificial-intelligence-branding-rami-gayam"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFNotHH5QHLBA/article-cover_image-shrink_600_2000/0/1637618541963?e=1643241600&v=beta&t=c0DgUmbDl5kkUYf63BPAklM8pIUvvKRNC9q-5Izr-ks"
-        width: 671
-        height: 526
-        isCached: true
 
 secured: "HZGHNhxyenLsFpcbIQ8bp5fldhMLdVEEDsXVl8//cacW3SyvPolDa6IzVawtEC1kd2ljnf+By0taZLDXOwMwm/WgHjxLYNVVwEo+5D3CvGOlAPCrgACEJbOlbZZkg0yxVF8wQh0gC9u1Bz+feCSujcyEh7MgE7kczkzr+cAcba3BnwpBKTHCAzSU19G/aDGstYSZg77xSzyYN+OeZpWfsSNhVW3SYsh8WDQ+s4x50YJqn2wioBokp7wI7X115kjIaMH6Jgin0G1rG7F9RaT+iXeAEtQUbanpz4eKeZehksGfG/iW/vuO5S1Rg0P8sqiss8rdVzouEgMeQAksIrlPrMQEgYo0i34GXsC29uSSMes=;rKmLs7/ajrn4vxcplsgykw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/23/sensetime-ipo/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/23/sensetime-ipo/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://img.caixin.com/2020-07-13/1594615757170236_560_373.jpg"
         width: 527
         height: 373
-        isCached: true
-  - title: "SenseTime approved for potential $2B facial recognition IPO in Hong Kong"
-    excerpt: "Despite continued momentum including impressive accuracy in NIST’s facial recognition tests, the company lost US$579 million in the first half of 2021."
-    publishedDateTime: 2021-11-22T22:26:00Z
-    webUrl: "https://www.biometricupdate.com/202111/sensetime-approved-for-potential-2b-facial-recognition-ipo-in-hong-kong"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/29145639/sensetime-large.jpeg"
-        width: 1400
-        height: 788
         isCached: true
 
 secured: "0oeC/VTdP0TX0JPr4QJ2i8a0qZAPjFYBvC5+NnrMs3lWsyrQh00NdYS6IodsBqRwi/sw8zkvVWNOHTcW4xjbpzJ5G0Ch7QxvvT1H+VWGuaW64vTHfyRq2ub4SoUQddeKSZes4ISs05VJ0TECgOSbX/lqwqlgzjnGRJiHoxigxw3XL3JJsgnrXlMJXlCk5RB8buNlyfZqpCH/4YEU3caZHwuINrPrj2UDw0gMXrMCM0nE36f//ki2DXmwcGNcktXoQQgzJDA2gdMep5DrTMALeBRuj/i+ESoIm2LA80E2IEoiciX4TToh2zJCUbcX4958vNfKLuVqa4QaOXPHq2nFho2iJ2qCh42j/S9P4Llu3UjZvonlVo7SpUs01qwaGKWXGwEm3NKtvTwIGIkiZqGses4FBhZ0nojNA4FFneNfO1uKcZCfrXfkaf1gv5Qb0DrBfbIP9vijOBnlq16L6n50XciAhyosN6kfG8q8Qumq8lhZPFM0WaCTF5Ez5El0cl2HgcIH+EnN/1WVCsu/p/MipA==;4a2tC1A+Yr11zibi8xNmcw=="

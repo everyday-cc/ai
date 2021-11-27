@@ -119,20 +119,6 @@ related:
         width: 1328
         height: 673
         isCached: true
-  - title: "Video: Tesla Full Self-Driving system takes a driving test"
-    excerpt: "Tesla's Full Self-Driving beta system has made headlines in recent months, both positive and negative – but how does it stack up in a learner driver"
-    publishedDateTime: 2021-11-22T22:43:00Z
-    webUrl: "https://www.drive.com.au/news/video-tesla-full-self-driving-system-takes-a-driving-test/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 39
-    images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/pcsakwljpekbv7d49pmp"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "A+O7KeES0kUF76LVKN9sh5Rp3FuYAg1ig2k3bM3AdN4iLR1/X7qq9onFo8PQluiuULaSD4l3tuDPLEpt0wrI3d4HCuTCCJEDG3m5um0iN5rBUpitOI/EtvhXwF37n8eUGkg6EyRbYUJrAX3XXXLpwXaLVP45MEMGTXzKyoV9oXkgTXawx7nwPkuzInvKzHip+FU3TTZ9N+bFDqUVJmk4XCd7DIGQxQItFZslwJvC7KrP7xUxQJAq6px5fJaLD2iCWyADVlLXq+ECpA0Skcu7ozA0tSbQFPjaYOm+Pgta47xs/MZq9NdxbrmT5yPJhd71P2I66qEYlGZN15penX2G51ETaCU4uWcvc2eEtsv0FZ80kQTB/USGOLCvo+p9E5u2dkbx0i4yL99rWc/YuX6OhWorJptA5M1GXUAA/p1kHZY1wqKMU7Mk72E9uOXzSm4tVJNAI2+8Bats+w7y8H8y0gGc+jLnod+MeIK+qZHWNq2LmTcy7WKcwmewW2CWXl2n+aLtwEJKSH2TkYI7qtb9ig==;xPXhfA+dYFs96nvVXdZEcw=="
 ---

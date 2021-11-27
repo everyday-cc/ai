@@ -69,20 +69,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "SenseTime approved for potential $2B facial recognition IPO in Hong Kong"
-    excerpt: "Despite continued momentum including impressive accuracy in NIST’s facial recognition tests, the company lost US$579 million in the first half of 2021."
-    publishedDateTime: 2021-11-22T22:26:00Z
-    webUrl: "https://www.biometricupdate.com/202111/sensetime-approved-for-potential-2b-facial-recognition-ipo-in-hong-kong"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/29145639/sensetime-large.jpeg"
-        width: 1400
-        height: 788
-        isCached: true
 
 secured: "cB2pHEMXBCmlX4Am+na/9aBHnzTN73Yav004PhIBMuxXwaqScTYATgIeNGjhctxbPiaYhdVGWtMGc29Q8q0d5WKK0SmQFNyRKFz5+NVtNs434vM/DsurU5RTO9yX1vDaRIGO8umH0WHXhnkqqC2/KU+UNXEd5rO02XvsuPkkeWTGo0c0kVCvZqvd6gb7LauoE1xlD96nc+lYDFm5YgM0FKhDG4ytlwwLESzDtkv+hDR5p9hiQCTM5JmlCRxXebsT0Ez8gDbTEmZlRw2U4ogJpXQXahZOLtVAxgg0NAtmhMk9UoSK6iEsvRSxK7ohJuV4A0Cigs+rH846lrJtOKaXNJ9t5QlRIkamekHhbv2qeA4=;xPlTj9vp7VFZo50ORPfcUQ=="
 ---

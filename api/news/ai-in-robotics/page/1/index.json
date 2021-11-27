@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-27-the-200-best-amazon-black-friday-deals-still-available.md",
+      "title": "The 200+ Best Amazon Black Friday Deals Still Available",
+      "excerpt": "Many of Amazon's Black Friday deals are still live. Shop the best Cyber Monday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/",
+      "originalUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thewirecutter.com/wp-content/media/2021/11/Amazondeals-2048px-triptych-3x2v2.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/amp/",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/amp/",
+      "publishedDateTime": "2021-11-27T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-27-how-artificial-intelligence-in-healthcare-will-change-the-way-youre-treated-forever.md",
       "title": "How artificial intelligence in healthcare will change the way you're treated forever",
       "excerpt": "Here's why using artificial intelligence in healthcare is something to be celebrated, not feared While artificial intelligence in healthcare may seem a new, and perhaps a slightly alien concept, it is revolutionizing diagnoses and treatments in hospitals around the country.",
@@ -386,58 +438,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-the-best-amazon-black-friday-deals-2021-tvs-headphones-robot-vacuums-more.md",
-      "title": "The Best Amazon Black Friday Deals 2021: TVs, Headphones, Robot Vacuums & More",
-      "excerpt": "Amazon's early Black Friday deals are already live. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/media/2021/11/amazondeals-2048px-3x2-v1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/amp/",
-      "publishedDateTime": "2021-11-24T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -166,20 +166,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "5 Great Ways Fintech Is Revolutionizing The Modern World"
-    excerpt: "Traditional banks are disappearing from our streets at a rapid rate. ATMs are declining in numbers too, but you shouldn't be worried"
-    publishedDateTime: 2021-11-22T21:55:00Z
-    webUrl: "https://www.finsmes.com/2021/11/5-great-ways-fintech-is-revolutionizing-the-modern-world.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech21.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "5 key FinTech trends to watch in 2022"
     excerpt: "This in turn is impacting traditional banks and FinTechs alike, who need to identify new solutions to deliver competitive"
     publishedDateTime: 2021-11-23T13:22:00Z
@@ -221,20 +207,6 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/shutterstock_163502138-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021"
-    excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who"
-    publishedDateTime: 2021-11-22T23:02:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/india-fintech-forum-unveils-28-high-potential-fintech-startups-for-ifta-2021-822897170.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1693934/FInalists_at_IFTA_2021.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
   - title: "Crossfin Tech being acquired for R1.5 billion, one of the largest private equity-led deals in the local fintech sector"
     excerpt: "Crossfin Technology Holdings, a leading fintech company, is being acquired for R1.5 billion by a consortium led by Ethos’ Mid-Market Fund I (EMMF) and which includes Crossfin’s founding management team,"

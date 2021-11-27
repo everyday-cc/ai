@@ -1,30 +1,27 @@
 ---
 category: news
 title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
-excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
-publishedDateTime: 2021-11-26T22:18:00Z
-originalUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-webUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-ampWebUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference. This historical text defines the common values and ..."
+publishedDateTime: 2021-11-27T14:51:00Z
+originalUrl: "https://businessghana.com/site/news/General/251495/UNESCO-member-states-adopt-the-first-ever-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+webUrl: "https://businessghana.com/site/news/General/251495/UNESCO-member-states-adopt-the-first-ever-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
 type: article
-quality: 62
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: BusinessGhana
+  domain: businessghana.com
 
 topics:
-  - AI in Autos
   - AI
   - AI Ethics
 
 images:
-  - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/11/unesco.jpg"
-    width: 680
-    height: 680
+  - url: "https://businessghana.com/site/img/../../cms/img/news/2021-11-27-144626000.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -246,6 +243,6 @@ related:
       domain: publicnow.com
     quality: 29
 
-secured: "ZMe0NsK2Ytc9ufAxqJ9duosOdEMs1pZ6RNNRFQ2DNFqJPsMxGuy2UDR5gu9QycsFUB0dHH+fi/bKgUkMPomWKm9/u0Heik53ZSQt8KsEfopp8NAEoI/sUBG2kitroYvkgSKKb+ZnmmI2OF9+/PaFLz4VMnz7gGeekQsXwrlmICqIYlOrGR+lmAt9OF4hzmxC7A5EnCQLIox991u4YCd3Qd3lLPFM0yENnye9SoG/EYX93phRPOVYIayB79TGdsHR5YAsOoVdCZzKgDse96cZ61BojRGan9hiC1h/9N/x8KlA2iWa60+5pi67CUve+2ARuWWjlDVuF7tQoAqJn5KqxwX/LG2YMDoGj+AnJ0CCTxp1Tr324zSPNe0C1H2PqKaOvY6D9vYm4sFl6fg2TFdubgjIY0MWtuLjIhn7G0kLQKjX43zeBECl8Swhe8DCW51J5L0CqYg92EWPr/B4OJpvEJ8oJJLf14ic0JoeYW4r398OFRGUKJDZsqjU2rl+hxaYjY7j0Zi0L+knWBrV71EMCA==;PJfrM1ch1NQV1KCpP0E/kQ=="
+secured: "HqOEUU9Lh7+1blR9COHSKitFEHvzHogXLth0iM0R5Lh0f4IZGbnC0stxuwP649cvj9IHG5y0kjI9H0chH7pV9ojxGllxDhsDokkA+Ugw3hD/ARU2uoYGDEzKwkzv2UjAc+qXqIhA6QD26gyEqhQw5iFdO4DVI1ZyJab5/Wv0vYILr6OuJWQe2aeEizp9PBFcYso8/HuHhPzHQ+6dwOriTOe3zIH0XYHY+AC7QvIVHXQA9CU7TWI0m/F0acFm12axwvAYNMwBJ9WGw+vWRGeXxkcSbKeKBSVBly8BbAv0/XQ6hQgZ7B7iHXVm0P8D8bXyuIi3/bV5UfP+vSyfzIMD4uLA3sl6PMTrxQSO1HDv7tM=;ekTfhyzmjhNazJSFCNh/Hw=="
 ---
 

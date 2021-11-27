@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Want to develop ethical AI? Then we need more African voices"
+    excerpt: "Artificial intelligence (AI) was once the stuff of science fiction. But it’s becoming widespread. It is used in mobile phone technology and motor vehicles. It powers tools for agriculture and healthcare."
+    publishedDateTime: 2021-11-27T14:00:00Z
+    webUrl: "https://thenextweb.com/news/defining-ethical-artificial-intelligence-input-africans-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F11%2FOur-lack-of-interest-in-data-ethics-will-come-back-to-haunt-us.png&signature=4cab15d0901dee2c33971b54d2ff6dba"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Defining what's ethical in artificial intelligence needs input from Africans"
     excerpt: "Artificial intelligence (AI) was once the stuff of science fiction. But it's becoming widespread. It is used in mobile phone technology and motor vehicles. It powers tools for agriculture and healthcare."
     publishedDateTime: 2021-11-24T11:45:00Z
