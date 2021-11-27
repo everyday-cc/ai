@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2470260/ai-medicine-software-market-to-ri
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2470260/ai-medicine-software-market-to-rise-as-a-worldwide-trendsetter"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -26,29 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide AI software market to reach $62 billion in 2022 — Gartner"
-    excerpt: "Worldwide artificial intelligence (AI) software revenue will total $62.5 billion in 2022, according to a new forecast from Gartner"
-    publishedDateTime: 2021-11-22T11:38:00Z
-    webUrl: "https://www.gartner.com/en/newsroom/press-releases/2021-11-22-gartner-forecasts-worldwide-artificial-intelligence-software-market-to-reach-62-billion-in-2022"
+  - title: "Global Big Data & Machine Learning in Telecom Market 2021 Potential Growth, Competitive Landscape and Development of Industry by 2027"
+    excerpt: "A study on the Global Big Data & Machine Learning in Telecom Market Growth (Status and Outlook) 2021-2027 is disclosed by MarketandResearch.biz. It consists of various section such as research methodology,"
+    publishedDateTime: 2021-11-22T21:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-2021-potential-growth-competitive-landscape-and-development-of-industry-by-2027-2021-11-22"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 117
-  - title: "Worldwide Artificial Intelligence Chip Market Size to Reach $91.18 Billion by 2025"
-    excerpt: "Allied Market Research published a research report on the artificial intelligence chip market. The findings of the report states that the global market for artificial intelligence chip is expected to reach $91."
-    publishedDateTime: 2021-11-23T06:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/worldwide-artificial-intelligence-chip-market-size-reach-nil-behor/?published=t"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 50
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHK1LJtrya6HA/article-cover_image-shrink_600_2000/0/1637648624681?e=1643241600&v=beta&t=PpUZU1dOAV_DOD6v0tdoQ1z2LeHWVpTGweHIsHZvSC0"
-        width: 790
-        height: 468
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"
+    excerpt: "Nowadays businesses are highly relying on the different segments covered in the market research report which presents better insights to drive the business into right direction Artificial Intelligence ai in Drug Discovery market report presents the company profile product specifications"
+    publishedDateTime: 2021-11-26T07:23:00Z
+    webUrl: "https://www.openpr.com/news/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    ampWebUrl: "https://www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 20
 
 secured: "Zm+mLjHs03oNJx5y8vzrniMr0eS6jWQxTN7/oEi7QLFC99skloAykQwZUSBxhbWT4ryxoao4qQBmx/PnVTPuIGOGDPT8bOdgeZZYt+7h1mxESLbCtGeEJFVLCwJBu1DGXYcsV5gZVU493HzAE2JZvhLMePhl5XplYtRhXBHBTHGuQVbrx4L10qZE9fUW8l3faIDuuRaQZ+5A89e39i6GFyYlmuIXuwltJhu1L1uTRhxqAbTfV9exkFvAedp2oNnk5VUij8qyq2GRPvTpc0xNGnzpUFk4PpAok77D5Lycl2sb9Vf+87dKNadkBCTZxS/EHd3XUWbQwJxkhShTO7K8oehVSKBIqH6f1ki0IAZtul0=;oT0wBuNYHA7Mo3+ukZjQ3Q=="
 ---

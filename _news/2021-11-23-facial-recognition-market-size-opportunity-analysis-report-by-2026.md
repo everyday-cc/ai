@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23"
 type: article
 quality: 69
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -114,20 +114,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Military Robots Market Report, Size, Growth, Opportunity, Key Players and Industry Trends 2021-26"
-    excerpt: "According to IMARC Group's latest report, titled“Military Robots Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global military robots market is expected to grow at a CAGR of around 10% during 2021-2026."
-    publishedDateTime: 2021-11-22T11:54:00Z
-    webUrl: "https://menafn.com/1103223582/Global-Military-Robots-Market-Report-Size-Growth-Opportunity-Key-Players-and-Industry-Trends-2021-26"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/22/EP_e87f9image_story.jpeg"
-        width: 960
-        height: 539
         isCached: true
   - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
     excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"

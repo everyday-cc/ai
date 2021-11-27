@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tesla releases new Full Self-Driving Beta 10.5 update with interesting new features"
-    excerpt: "Tesla has started pushing a new Full Self-Driving Beta software update (10.5) to the fleet this weekend. It includes some interesting new features based on the release notes, which you can find below."
-    publishedDateTime: 2021-11-22T11:11:00Z
-    webUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/"
-    ampWebUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Asks Full Self-Driving Beta Drivers to Consent to Being Recorded When They Crash"
     excerpt: "Tesla's new requirement speaks to a larger issue around privacy trade-offs with certain types of in-car driver monitoring systems."
     publishedDateTime: 2021-11-24T20:55:00Z

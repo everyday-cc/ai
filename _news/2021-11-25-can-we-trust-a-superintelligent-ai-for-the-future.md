@@ -9,7 +9,7 @@ ampWebUrl: "https://techbooky.com/can-we-trust-a-superintelligent-ai-for-the-fut
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/?amp=1"
 type: article
 quality: 59
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Emotionally Intelligent People Embrace Artificial Intelligence"
-    excerpt: "Let technology take care of the details and focus on what computers are notoriously bad at; creating relationships, fostering innovative thought, and motivating employees"
-    publishedDateTime: 2021-11-22T12:56:00Z
-    webUrl: "https://www.inc.com/daniel-knijnik/why-emotionally-intelligent-people-embrace-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1150572105_487563_jxxh3f.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Improved intelligence: Transitioning to an enterprise intelligent asset management system"
     excerpt: "Asset management systems are evolving quickly, and these guidelines will help your team keep up with the tech."
     publishedDateTime: 2021-11-23T02:20:00Z

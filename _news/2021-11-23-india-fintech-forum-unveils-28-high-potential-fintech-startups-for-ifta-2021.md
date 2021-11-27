@@ -180,20 +180,6 @@ related:
         width: 1280
         height: 684
         isCached: true
-  - title: "Ryan Bertrand – defender to fintech entrepreneur"
-    excerpt: "Leicester City left-back Ryan Bertrand co-founded his own forex currency trading app aimed at retail traders back in 2015."
-    publishedDateTime: 2021-11-22T11:10:00Z
-    webUrl: "https://smallbusiness.co.uk/ryan-bertrand-2558326/"
-    type: article
-    provider:
-      name: Small Business
-      domain: smallbusiness.co.uk
-    quality: 24
-    images:
-      - url: "https://s37564.pcdn.co/wp-content/uploads/2021/11/Ryan-Bertrand_landscape_v2.jpg.optimal.jpg"
-        width: 868
-        height: 489
-        isCached: true
   - title: "5 Great Ways Fintech Is Revolutionizing The Modern World"
     excerpt: "Traditional banks are disappearing from our streets at a rapid rate. ATMs are declining in numbers too, but you shouldn't be worried"
     publishedDateTime: 2021-11-22T21:55:00Z

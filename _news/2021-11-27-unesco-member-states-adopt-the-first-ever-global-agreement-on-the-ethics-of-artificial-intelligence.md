@@ -1,28 +1,30 @@
 ---
 category: news
-title: "193 countries adopt 1st global agreement on Ethics of AI"
-excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
-publishedDateTime: 2021-11-26T11:59:00Z
-originalUrl: "https://www.pna.gov.ph/articles/1161070"
-webUrl: "https://www.pna.gov.ph/articles/1161070"
+title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
+excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
+publishedDateTime: 2021-11-26T22:18:00Z
+originalUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+webUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+ampWebUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
 type: article
-quality: 56
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Gov
-  domain: pna.gov.ph
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Autos
+  - AI
+  - AI Ethics
 
 images:
-  - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
-    width: 720
-    height: 377
+  - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/11/unesco.jpg"
+    width: 680
+    height: 680
     isCached: true
 
 related:
@@ -90,21 +92,19 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
-    publishedDateTime: 2021-11-26T22:18:00Z
-    webUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+  - title: "193 countries adopt 1st global agreement on Ethics of AI"
+    excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
+    publishedDateTime: 2021-11-26T11:59:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1161070"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 62
+      name: Gov
+      domain: pna.gov.ph
+    quality: 56
     images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/11/unesco.jpg"
-        width: 680
-        height: 680
+      - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
+        width: 720
+        height: 377
         isCached: true
   - title: "UNESCO member states adopt first global agreement on AI ethics"
     excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
@@ -225,6 +225,6 @@ related:
       domain: itp.net
     quality: 33
 
-secured: "VR3EK6F28xMK9xQyzgEAwm/ZUR0gXcF1NWlYk3W1xtNfqrzROuDigG8pxhGS1Ey9IbX4q5SWnmSEvylFuMhnkiJTqXQHe//vB0OnORTKj3CdBVQtteDY5GsXkZj6WFc5nCzSBQ4fYFXPdFHD/032rviwoQ8osjfdI3sg/2+RQpMGFEJ08zkhL0ATIUZjm1SR9dyEjyjCYzPlyhFwKRD57tVpm2tjuCgXhIgLis83rTQyIH8NafTdGyApbHH7PvWEJBMjivRvGBSDw4QcStBztTM/9XA7ITpkqDALd4IbBYos0Kgg+7uvkntHWJYIRzAmMSIgsexSqbCq1V78BL7SZDI1qIYyh/6V7rFppCoNGEkQx3+xOiGHuk4FdB6BOPuDRVCGXaPVVhmg9wAir3ujNvNMX54q+49kjLLxPKJizvGHiFpkFvpWFedfc1wGFV9+EfSZkHH6JWVp/+mcRkande9qIzyHWVK4+G9s8HpHBOmuiKTh+fxnnh65eEyl9P1Mo6l8Q9mHMgash0wN2+sMxQ==;B6MXtvJLg2cNAHsaGJF5VA=="
+secured: "PQdZ/eq7C/Ft84ouLSf5k0W3SVxo0jbZaZlFiJGRqbqLlPIo/NBur8UzdhsPYgRbMDGqhh7mWmpEjhp5bpQsm8O2UAkwf/xO1qEB1RLo7nm65nxKikkHMF/sZbGipndIbIPI/mWQUBHyMh/zf35Zvki8QwNvrcTOnqJnI//OjVM1jrgU6qMKViBSzCk3lSBb9IlPohIiH6rcOfppo8xG6oduLi9Dawxej9R1DmBliWGIZejNSqIRzsoLesnPfg9FyabGOzkQm3F03aPCBu/wxEHJbntl9xjr8/TnJ2N/U/ATam+N6a2HFt85KB3P8L7yUklppAeXRWYUuCVrJO2MUPIZiTxLhwoIRGExXfEJ/EY=;1dW9KOf4++3pp6efA2kDEg=="
 ---
 

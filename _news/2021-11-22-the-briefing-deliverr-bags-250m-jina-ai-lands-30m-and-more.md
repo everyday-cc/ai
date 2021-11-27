@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/news/briefing-11-22-21/"
 webUrl: "https://news.crunchbase.com/news/briefing-11-22-21/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,31 +22,6 @@ images:
     width: 900
     height: 506
     isCached: true
-
-related:
-  - title: "Jina AI Raises $30 Million to Scale Open-Source Neural Search Ecosystem"
-    excerpt: "Jina AI, an open-source neural search company, today announced $30 million in Series A financing. Canaan Partners led the round with participation from new investors including Mango Capital, as well as existing partners GGV Capital,"
-    publishedDateTime: 2021-11-22T11:41:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/jina-ai-raises-30-million-to-scale-open-source-neural-search-ecosystem-301429783.html"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 167
-    images:
-      - url: "https://mma.prnewswire.com/media/1692806/JinaLogo_Logo.jpg?p=facebook"
-        width: 599
-        height: 315
-        isCached: true
-  - title: "Kore.ai Extends Its Financing to $73.5 Million"
-    excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In"
-    publishedDateTime: 2021-11-23T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
 
 secured: "srId7uKAXpcKiAK7yfu4PDW6w5WLpaTiJzo9tBvpTIyz0edZliOe2YNFNRTrIXBLWCdeandLLgdiHDYsKqzr5ai9nLfMhQnR9kaZg/KUfCUZQig0srfzNlTCHHnbK8yU1cvgeaMuw6U8lXAq3f+J9o2L5+hbLlK5+eGEe8lEJQ5gT6U/3m8U9OPQYFDgr09vJhQ8azzqKsybIoTC1LIaZkEChBGZEM+uQCZljtC7m+hT26GsK4saOigN8ZQT1joLSWfdeFlGX30psKAgL//Qi8RcGMUjYo2vLsCx7TnX2BfwADaXqVCrynHu+3ivRDO2nxafZ+g4Vui9vxdZXxOXn6ah3hmo/i7+LOaKkI+EwBQ=;M0nE46D0Cc6Z4c7JjGFWaw=="
 ---

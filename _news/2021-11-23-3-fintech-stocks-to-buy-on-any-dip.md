@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?a
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp"
 type: article
 quality: 54
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -164,20 +164,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQFaH4_THVqC7A/article-cover_image-shrink_720_1280/0/1637586990957?e=1643241600&v=beta&t=8Tjo9WOmGyuoWc1F9-ZlbrvD_xKzK0cj_2JG944YvoM"
         width: 1280
         height: 684
-        isCached: true
-  - title: "Ryan Bertrand – defender to fintech entrepreneur"
-    excerpt: "Leicester City left-back Ryan Bertrand co-founded his own forex currency trading app aimed at retail traders back in 2015."
-    publishedDateTime: 2021-11-22T11:10:00Z
-    webUrl: "https://smallbusiness.co.uk/ryan-bertrand-2558326/"
-    type: article
-    provider:
-      name: Small Business
-      domain: smallbusiness.co.uk
-    quality: 24
-    images:
-      - url: "https://s37564.pcdn.co/wp-content/uploads/2021/11/Ryan-Bertrand_landscape_v2.jpg.optimal.jpg"
-        width: 868
-        height: 489
         isCached: true
   - title: "5 Great Ways Fintech Is Revolutionizing The Modern World"
     excerpt: "Traditional banks are disappearing from our streets at a rapid rate. ATMs are declining in numbers too, but you shouldn't be worried"

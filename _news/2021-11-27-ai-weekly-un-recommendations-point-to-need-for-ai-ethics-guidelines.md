@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-poin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:

@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla releases new Full Self-Driving Beta 10.5 update with interesting new features"
-    excerpt: "Tesla has started pushing a new Full Self-Driving Beta software update (10.5) to the fleet this weekend. It includes some interesting new features based on the release notes, which you can find below."
-    publishedDateTime: 2021-11-22T11:11:00Z
-    webUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/"
-    ampWebUrl: "https://electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/22/tesla-releases-new-full-self-driving-beta-update-interesting-features/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla asks Full Self-Driving Beta drivers to accept being recorded in case of a crash or ‘safety risk’"
     excerpt: "Tesla is now asking owners getting into the Full Self-Driving Beta program to accept that Tesla can use footage from both inside and outside the car in case of a safety risk or accident. It’s the first time that Tesla will attach footage to specific individuals."
     publishedDateTime: 2021-11-23T23:18:00Z

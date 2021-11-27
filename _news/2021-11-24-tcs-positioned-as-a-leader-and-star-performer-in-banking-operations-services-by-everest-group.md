@@ -26,17 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "TCS Positioned as a Leader and Star Performer in Banking Operations Services by Everest Group"
-    excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been named a Leader and Star Performer in the Everest Group P"
-    publishedDateTime: 2021-11-22T11:33:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=302895"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 8
-
 secured: "EDLQL6ZEDWBuZdqmrlKc92eRo0cHDAJ10Bfq4Yr1XarS6yP9+kzHWNRpo8KEI9YMzgSQLsubUHgfDu+qKPOrw4fcMoyhUOGqAQJ54eKPt1p9RdUAbU15p67jj7N+Fyq9g6mHNn2cPqqd25E6dofyRrPbdrILSTf07qVEMuoGmkkH9nggRb0gWHHkDGYVuH25vgr4AWGp9iLNyJT8REEYTN57eYmUUH4+4iM6hYllnLRR4KAYb3ko1bg3pcW0uGgCbybQCDOMPUrnKBa28sUzbipVGAZ8FzUp9aAKkZ0/AlEgDB+6LMJ7ZJm8HQQHga9kvVjB0Q1vObu7TVp09nwlRBOlE3jWa573pjT/r5KxIqt5NDhGpNhsHNjJMUdWW3hM2nJE2Q6VqMzOrVTzAPZzgxjf559izmrlv0C+/oHfkHk0EczyM2q/pXv5JQcMfmOTQMUPL+gjtSsqU3RVft5LuNA9HvlZIMALvHsPBtjYP/ol1aIx1PFHD/Sj6MGEFiCnpA1YeOo16253sUdnoxQI+w==;l8tcfmPwAORiTFiqnKNV5A=="
 ---
 

@@ -101,20 +101,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "AI-powered music platform Aimi raises $20m in Series B funding round"
-    excerpt: "AI-Powered Music Platform Aimi has raised $20 million in a Series B round of funding. The fund raise was led by entertainment and media-focused investment firm Great Mountain Partners, which also holds what it says is “a significant stake” in Concord."
-    publishedDateTime: 2021-11-22T11:42:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/ai-powered-music-platform-aimi-raises-20m-in-series-b-funding-round/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 37
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2021/11/Edward_Balassanian_by_Ismael_Quintanilla_III-e1637584085911.jpeg"
-        width: 1537
-        height: 864
-        isCached: true
 
 secured: "KH4URynmnzMXsyUVihsVbjIYssTqdAuH725zKTCnyUnJQrxTrI+LLERGKKfdBsnUbfkapAhAiZXBROoUbqnE/NGAIA0D6893R/iguO9gUA+GcDAnC9+ev+wxP7ktHjtcio4eKrcDY+6D34TE4Sup+MkpulKbpHkFZNWYd2nCdd7RVZQ7Rl6k3BTez0C9D8vaOo1KLKcDtaiA0iXkgGUqKnorWEy41BE+rKgYmiO9QhYUg0QNiwT2lgB4XofftAQ8VEg1eGSa2W3P3RGZgbLgRaSRtmxAnmXhw35UfPbGevY6A2Y8HW8VeB9SdRR84xa9iWS71+MNRSvg48mpsgrMJ0bDZMJxSHHUAJuSE0SnWOw=;7NEa+Q188XQGDvmOk2taDw=="
 ---

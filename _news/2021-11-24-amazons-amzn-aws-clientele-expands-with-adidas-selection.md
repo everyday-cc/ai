@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/398836"
 webUrl: "https://www.entrepreneur.com/article/398836"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -57,7 +57,16 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Adidas migrates SAP Environments to AWS"
+    excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
+    publishedDateTime: 2021-11-22T13:46:00Z
+    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
-secured: "1ph2DJ6AJ4NzZddXMBh92xPPVHEbzSqbC6S8gI9IY1RGD2bkkOC/pDgpHnO7RMoWYipadD5RRhulgaAYWorPdKRRKKcYgOFw//jcU0e5ZXYs00kIC/HSa4MLExA5jnz1IyxuNiyOYih8QiJJ7Gwetje8kY4AuUhdD4bJ4jdSDqXZ6MLPCucqkJqLwqnYFCvCq6Mn5rCk9D/B6EUavfVjOTlFGYJ0wuM9jKsPOSFn11mhnpn1KB+I0jd3tkF/N842M+25bU/7wgDZYfY+L1f9HN+VOB8FbD3R0DY0OyHJcAzB1j9I54ZySFli/2cZepSff2RHlxPmNb6UdLiOy9i3Gamls9Fd8PsI8N3VTkvVbx0=;B217JyGr82QPIgrvHPc40A=="
+secured: "w/EdiFXPdf9yw3DjzHPB03/yvPDn/ofI26Q8kiCSsWCBEKu8eDAvlCd1OBp0ZE1lJsVyh+bCQvH8et02OeqwujmN1DLl2msCWP2FFacK1bdfs4Q4EYdNcO47uxLijqAY90Lll9JYgI2+VOLHH5hMcDjq/DzeGqTuFPsC40XXQWkJdYmwO+kV3gTCMHnicNh/h8Tmr/7tSyMbyyzJSqMNINUraZFoZQHEWKKNUzPKHoYBHPQy7zYE5tLvX9ZCPxGsiGnEMZwgCzwUHh9sbSdRlXE6MfftsazK/AFDB+Lr89jxybLXidQTpNqveOSL0zceLN4cQilLhqz5gRD49/iDCMMKI4Jj4LPBohIjNiCUjmFrC0hzgRviS3oUX6OiurWAeaW/EoxttHm9SbO4fdQGQiqAFbMethEtFAZkp0iY3wWwuD+8hKAx4fE2eiQO+wUaxRZFql02lARR2YPtzx98dKBe8FdmAarHqCS+e+CDsGVTYfp5owFH1HRZ1solRJ6qZelFV94hM2wlY4WabeBEQA==;AAbUS7rEXwfqRovzhkRlUQ=="
 ---
 
