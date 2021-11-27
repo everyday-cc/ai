@@ -1,28 +1,29 @@
 ---
 category: news
 title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
-excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference. This historical text defines the common values and ..."
-publishedDateTime: 2021-11-27T14:51:00Z
-originalUrl: "https://businessghana.com/site/news/General/251495/UNESCO-member-states-adopt-the-first-ever-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-webUrl: "https://businessghana.com/site/news/General/251495/UNESCO-member-states-adopt-the-first-ever-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
+publishedDateTime: 2021-11-26T22:18:00Z
+originalUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+webUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+ampWebUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
 type: article
-quality: 42
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: BusinessGhana
-  domain: businessghana.com
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
-  - AI
   - AI Ethics
-  - AI in Autos
+  - AI
 
 images:
-  - url: "https://businessghana.com/site/img/../../cms/img/news/2021-11-27-144626000.jpg"
-    width: 800
-    height: 600
+  - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/11/unesco.jpg"
+    width: 680
+    height: 680
     isCached: true
 
 related:
@@ -244,6 +245,6 @@ related:
       domain: publicnow.com
     quality: 29
 
-secured: "0qqjMEVnoSWlu/QY2BNM+KNWtgbzHMihR5wXd9eoulmH2p3oP2yHkpnN3xs9NEBodSco2l3M5M4Cv0szfoLPXI24+JM74th77vcA2fjJZ4e/XI3DfDytbVX9y4tjZ9Wi5itsbhLzGTy5IZe1Too3lG4kI1fdnsZqH8OhccvrBPUntjkPeO93vr3cHfYUev1BMmxQu+RGGswWklafHaEtJ/wdQcsdnU2ttdZNDL60kKZimHz8KCLE7xn46ADm3cYe0CaSfFHEd0zsHRXwRcAiuNHCamQ8fCnjW2FC2OJbQ3mnLIhLFy/kUB/eklT//vDGfFxlzLESWyY4jOZo6RQoX0YTKm52m4aH4lnjoR+HK9GpbN90r9Ic1DTeccc3jU6edPcrwag4C9OXVQR/CoR/SvPhZSUGLJlWG1kS3UySqb+NlPbHSlbrlyFk4UzxLvWvu6NSqsfOJLKeeZWvJXsvtAz1ruuwwXBXaBq7zouGlyCtZC8hiUT+KncJs7a60rImVGi0OHImAMv4htMyXBCisQ==;1r42gOtkCbWlXvH+QfUs5w=="
+secured: "Fh5MdrB+PlldavhSF5gzA/58UZ8b5oEkJxEY0p9O2dYjuyTpULjp+1Lwv5Vla1+aCph9LxCcVSJm0Q94yoaZNI75SNg6c9/MyP0cUrmFtAAoErty60V8dpOtdd5IovaF1Q8py1ltWpnUnrLatKms2jiJMWE66454l4WrX7NY7PaArYxJJZC4NPn46Ey3fk1594lgP1++I6alz9wsfzn26aeumaQgTbmM6sFZyjoTSgFBgUee5bocemY9j8+HNpSlG2YeTZ1DWEMrWPQ9N6bya5kHxPrGV9wlL+saK3swvS19951NbeIGzh0w/wSbVb2cWGI5Lpq3rMfkZPNd9rombCWHMkwWZ5raVsmwYwwYd2c=;RI7TudqRdeWLHtLxwqHW/Q=="
 ---
 

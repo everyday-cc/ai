@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge"
-excerpt: "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ..."
-publishedDateTime: 2021-11-16T20:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge-301425935.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge-301425935.html"
+excerpt: "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services to address the ... Trashtag, technology using AI, blockchain, and cloud to verify, track, and reward waste ..."
+publishedDateTime: 2021-11-17T01:32:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/11/16/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code"
+webUrl: "https://stockhouse.com/news/press-releases/2021/11/16/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://i1.ytimg.com/vi/aivIalSrqtE/hqdefault.jpg"
-    width: 480
-    height: 360
+  - url: "https://mma.prnewswire.com/media/1689951/IBM_Saaf_water.jpg"
+    width: 400
+    height: 234
     isCached: true
 
-secured: "aDxGxJMGPJo2t8aDYZ7/R0QrkDBeLwhJVh+4H8sFL2wxN8mK+WED2gBK9vxML3wDNEpo9uIKezoQl3DaWAIiRk6As4CE0xl+kOv0Ecz7+473CdgyaYIcUSXyVKW7tEm7Pd2fvQUbzFTRP7rZ0rGf3ZvdU6GzvO3XcDUTLCfLElRWilCgBa6FB31INCjt+O4+coaYMZAFpug9As47GbBDBvhBbI7FY6nBY0bbEkDX82ovYJJEt1xsH8xqIr+dFNp0MDTlrBjc+Ybo9SK9ctb0H1ggZEL2vHf/s9NxKsEoq128TbB/Ok+g+giVAOgx3m+QALktn/Wl8nSpKKq199oBHFvaM1O7yJ/rl2UQKVPa/W4=;woGBogNHNjWRIRC4f7G2dQ=="
+secured: "pZoEfGqAheIQFqqqfSJyOhVmhltc/l9bpMRPDX291KB3uoOKmoSOf6B8wXB8LWEzzbB6hwWsbZOGP6nVyD7c8chATdM5tVpNHut1yRSiMriGL+9jB4pO4GOQBYNoZWThREb0XaixXTDbc5h1uIVHeP/QtVbEwDMyoTMpIDFbllALI3syQ2SQn4n1Um9jzOotT/Yjsth1NH6WH2mEgs6iy8Qw40pq+Ht0954tUO/31+khFHdkJ3a2npBTTXj/IeWlOzb9F99I9tOQBqD6GawWEBlmja6BL4U6sXifJx6uzYD7Q9XNpGSpOxQMJZRLLMxwzl4CC8EmcUnThxTmMjSj4YeQsN2ALI4/LERZo8aoE9A=;sVhZc9FvrVhy3kiEkOlq6w=="
 ---
 

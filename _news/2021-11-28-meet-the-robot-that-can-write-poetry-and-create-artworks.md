@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Meet the robot that can write poetry and create artworks"
-excerpt: "By Hannah Ryan, CNN When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of “The Terminator,” “i, Robot,” “Westworld,” and “Blade Runner."
-publishedDateTime: 2021-11-27T16:24:00Z
-originalUrl: "https://kion546.com/news/2021/11/27/meet-the-robot-that-can-write-poetry-and-create-artworks/"
-webUrl: "https://kion546.com/news/2021/11/27/meet-the-robot-that-can-write-poetry-and-create-artworks/"
+excerpt: "Meller said one key thing he and the team that work with Ai-Da have learned while developing her is that the project hasn't taught them how"
+publishedDateTime: 2021-11-27T18:41:00Z
+originalUrl: "https://www.wrcbtv.com/story/45309606/meet-the-robot-that-can-write-poetry-and-create-artworks"
+webUrl: "https://www.wrcbtv.com/story/45309606/meet-the-robot-that-can-write-poetry-and-create-artworks"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: KION
-  domain: kion546.com
+  name: WRCB
+  domain: wrcbtv.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://kion546.b-cdn.net/2020/11/weather-authority-kion-375x225.png"
-    width: 375
-    height: 225
+  - url: "https://WRCB.images.worldnow.com/images/21783178_G.jpeg?lastEditedDate=1638018765000"
+    width: 780
+    height: 438
     isCached: true
 
-secured: "2/GjJn6o5jaV7QVbWzQClMhnrftOsW9G4eXEtxH0ppDN50XZQ8U3G2Gy+Hfru1D747F97L3c6avLw5v/kTfb3mtxxeCQ17jufJPdtzsdegEFdkSaUkpodMez7eA6F0iGOMpy3p6MNPgkc6CGfL9FN69ws+koni7hfrDhykZ0vrku/ehl4Lx+2mLolSDOvm9Q9V8MWIox/hpuwN8mHqwcB+rYyKv15VKLztACDgoWwzhpCxrAx7WmiBvAhvkh5dgIgFR6mGVRH11ucGVoE9TloMFrVZ3aJONB+9G83BMx5XN0RtgB0OcL1zkFSBy64gnQ/i8p5e4W+3BpK63hRxUWZxOc3lD0/uSTvKjuXLJEw0Q=;knHfvaaxgnLsUxLMSM920g=="
+secured: "YoYInV/hO4ZHIgtv6MzPNK55ehlf35i37Dxb1dvIakpRzs5zsOnSnjGJYFX5vgw2PQAC9EV08FydFfbIWi2byAVbscPkj/RE4jY0sQ6nujWQcnX46l9C/SMHuBvhM7X19rcZFVKml6o854fg0+ax8+PDgDS6utoASCoJ00mDi6WZdKqlndpkhOCzj4KgV7K2R9Pnt2xivI+QA3XmcZD0w0KI4N/Cu+IkeaWt1DcWydE7eUlcrkIfz46S/IErkZq/zbNOk/iUZ5GqIFYng1we5nL8geSIlHqqoj5VP7nPNkoUuMF95A/pvWmPxwAHcO8dj42Z7LH9zM8fjz+dvweZ8qQErNjrfTacA0s1m0m4dw8=;P39NEi8pBpP2e2aSVsxTbA=="
 ---
 

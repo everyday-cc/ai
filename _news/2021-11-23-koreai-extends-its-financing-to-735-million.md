@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-e
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "AI chatbot startup Kore.ai extends Series C funding round with backing from Nvidia"
+    excerpt: "Conversational artificial intelligence startup Kore.ai Inc. said today it has extended its Series C funding round to $73.5 million following a further investment from Nvidia Corp. The company had originally raised $50 million in the round,"
+    publishedDateTime: 2021-11-23T17:00:00Z
+    webUrl: "https://siliconangle.com/2021/11/23/ai-chatbot-startup-kore-ai-extends-series-c-funding-round-backing-nvidia/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Kore.ai_.png"
+        width: 873
+        height: 493
+        isCached: true
 
 secured: "ctHcISvXfVzLmt+ReEg7GVWOlRHuJ+9bx+Tps7FX2f3ue257ur+AnyUFCu7K2ScX4BGSRlXZxXY3qadAZvxB2my5mzGMllHgaEmrVZRJldzv/Tr9SOTSn0WZDQdq4U0DsjGVS+GXfah+advT5orqd6CnLLqXp6DX2iFT3O8Knpa7hE7h84qrNhdiYxiYJK5EBArk37ljXSwp5fFsrjwK6ExOVWZOgO2esZBUE7gcaSwAjuJCshaBwF8+j7SjfcW7en24b/vAKdtrCDH5YIdByqXqS2YWDYaKlEn0UiQTqNbp0KZOLTuj795GAe15HsT7KW/aQjsQx2SPmVnGeAuezT2RrYLR+n+JEr1HTolKxbMW5nUnSAoclI4ZC9Jqgme5djTpHj/vrRDLGtVO8NqmtWbx0ITg/qXTRCJzYXH3nWbcBqi35ll60PFhTByUJd2XzmFMW+wkVn6NgmDrWmHIGjx9Ui7LVCsjV3nDthA3G6TKzqS1IrhyoSqCvS/cJ/G8KlnP1P70ZintPoZ0KrabiA==;RtBfAfTsd5ED0dw7e92xLw=="
 ---

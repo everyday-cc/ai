@@ -20,17 +20,20 @@ topics:
   - AI
 
 related:
-  - title: "Automotive Self-driving Chip Market Size, Share, Statistics, Demand And Revenue, Forecast 2027"
-    excerpt: "The Automotive Self driving Chip Market report provides details on the latest recent developments trade regulations import export analysis analysis of production value chain optimization market share impact of players on the national and localized market analysis of opportunities in"
-    publishedDateTime: 2021-11-24T07:54:00Z
-    webUrl: "https://www.openpr.com/news/2472545/automotive-self-driving-chip-market-size-share-statistics"
-    ampWebUrl: "https://www.openpr.com/amp/2472545/automotive-self-driving-chip-market-size-share-statistics"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472545/automotive-self-driving-chip-market-size-share-statistics"
+  - title: "Global Computer Vision Development Market 2021 Industry Outlook, Key Players, Segmentation Analysis, Business Growth and Forecast to 2027"
+    excerpt: "Global Computer Vision Development Market Growth (Status and Outlook) 2021-2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level."
+    publishedDateTime: 2021-11-24T22:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-development-market-2021-industry-outlook-key-players-segmentation-analysis-business-growth-and-forecast-to-2027-2021-11-24"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hKBFvNGPB7/sIg/J6S3R41ngrBKGh3UBlGTEvFXeLinFvn9LvyLfq0XFiG7yJfemeWwYP3vtF4OLKxN1Mg7ZnVMwrxJBNcyPDNb6sIWk6A5KMik0rl93w36+ZnU3Iedpmjf/wGNdbohI/QPbyRLfFrl7oFC+d+2tjBn2OLJJ4KIQACLqVfuGF1Zp8TETWZoEH5qBvGaomzUDa4hVkKq+5iBTiHKw7F1rWSw4P9/RrUOyxR8cX0gUbrHhToOtTpVE0txhIysOxRtcWUeTEudTjN1UdNpUbcGgw1eGC8IppSwDuy0PLTXOzj0waqu05sH5ZrcsHh4d7jD+QWEVpYiWIx9hBRnbxro/uDPAuhN5JtM=;aQsfC+WDPARBZ7rOuRBSdQ=="
 ---

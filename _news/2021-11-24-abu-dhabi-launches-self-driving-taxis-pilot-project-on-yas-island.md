@@ -19,21 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
-    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
-    publishedDateTime: 2021-11-23T07:29:00Z
-    webUrl: "https://www.udayavani.com/english-news/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025"
-    ampWebUrl: "https://english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
-    cdnAmpWebUrl: "https://english-udayavani-com.cdn.ampproject.org/c/s/english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
+  - title: "ITC launches first self-driving taxi in Abu Dhabi"
+    excerpt: "The Integrated Transport Centre (ITC) of the Department of Municipalities and Transport (DMT) in Abu Dhabi has revealed, at the Abu Dhabi Smart City Summit, the self-driving vehicle and launch date of the first pilot phase of \"TXAI\","
+    publishedDateTime: 2021-11-24T07:52:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/ITC_launches_first_selfdriving_taxi_in_Abu_Dhabi-WAM20211124072624444/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/WAM20211124072624444/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20211124072624444/"
     type: article
     provider:
-      name: Udayavani
-      domain: udayavani.com
-    quality: 43
+      name: Zawya
+      domain: zawya.com
+    quality: 44
     images:
-      - url: "https://mcmscache.epapr.in/post_images/website_326/post_25578185/full.jpg"
-        width: 620
-        height: 349
+      - url: "https://images.zawya.com/images/cia/zAmp/211019100617MPDJ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "UAE - ITC launches first self-driving taxi in Abu Dhabi"
+    excerpt: "(MENAFN- Emirates News Agency (WAM)) ABU DHABI, 24th November, 2021 (WAM) -- The Integrated Transport Centre (ITC) of the Department of Municipalities and Transport (DMT) in Abu Dhabi has revealed, at the Abu Dhabi Smart City Summit,"
+    publishedDateTime: 2021-11-24T09:40:00Z
+    webUrl: "https://menafn.com/1103241124/UAE-ITC-launches-first-self-driving-taxi-in-Abu-Dhabi"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?689484"
+        width: 436
+        height: 250
+        isCached: true
+  - title: "Beijing launches first commercial trial of self-driving vehicle"
+    excerpt: "The Chinese capital of Beijing launched its first commercial trial of autonomous driving and rolled out relevant management policie"
+    publishedDateTime: 2021-11-27T09:02:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271816493/beijing-launches-first-commercial-trial-of-self-driving-vehicle"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "LzE0Ze0UajsdFXXSe8P2wwYyAdOyEeLbO6CvfUj2E6HAPgsiEGIsUUvtmQEIcDDo1BeMnJLxuq104HK8d5TyacDmgqWm62ydAWhqrtpe6QqrruViVGCGduttZ9NMS+zx9bVspDwp9zk25N8d18Tyd08RYPHi6zKvqKYehBWwbjCfJ+6VvHVdh58/JOiVhoVAiYeSPnsvqDl0Iqj4L4xFofbm/Jla7wjXsb/acvffKyvFtoYgkkH4pURu0o3I8gAWG2Ev34LOqZxqxGf9bywnOUO37vOi3jE92zvCnveWYRUHDojBIAfXkyBCN4ba8tt/WCuvLpG99gxJaPHTW9mHl6Zoeu4SE+SN5F3u6rcSA8/uow+nlUkX878lNosapai6HUzK+SnyhCE+Tj65KrND56S4tR+qJCb6J9ez5OXveDBWNmZaKTSLl0OSlW4mp+1Y9gVsswnBILooFJ3DbXeTmUNvoLqUSYU+lcIaVYvxiiG1dac4QNaZ48wdk5/LlCpf8zT32gT5QxJ9Nz3ZzfqWYg==;sepuAuoFeF9udoQW3QPBJg=="

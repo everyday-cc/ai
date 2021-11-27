@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "NVIDIA’s new AI eats words, spits out photos and feels borderline magical"
-    excerpt: "NVIDIA has as generative art system that uses AI to turn words into visually spectacular works of art. This isn’t the first time this sort of concept has been postulated, or even produced."
-    publishedDateTime: 2021-11-23T02:33:00Z
-    webUrl: "https://www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255/"
-    ampWebUrl: "https://www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 86
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/oceanrockes.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Nvidia's next AI can turn words into photorealistic images"
     excerpt: "Just a few weeks ago we saw how the company can use AI to automatically match voice lines to 3D animated faces. This cool kind of tech that can help people create great things with ease, or in the case of Nvidia’s latest unveiling,"
     publishedDateTime: 2021-11-25T09:00:00Z

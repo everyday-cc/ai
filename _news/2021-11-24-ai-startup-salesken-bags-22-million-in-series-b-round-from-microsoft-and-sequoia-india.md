@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/salesken-22-million-series-b-round/"
 webUrl: "https://techstory.in/salesken-22-million-series-b-round/"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbot startup Kore.ai extends Series C funding round with backing from Nvidia"
-    excerpt: "Conversational artificial intelligence startup Kore.ai Inc. said today it has extended its Series C funding round to $73.5 million following a further investment from Nvidia Corp. The company had originally raised $50 million in the round,"
-    publishedDateTime: 2021-11-23T17:00:00Z
-    webUrl: "https://siliconangle.com/2021/11/23/ai-chatbot-startup-kore-ai-extends-series-c-funding-round-backing-nvidia/"
+  - title: "NFT Authentication Startup ORIGYN Raises $20 Million"
+    excerpt: "ORIGYN Foundation, an NFT authentication start-up based in Switzerland, has secured $20 million in funding from investors like Paris Hilton, Bill Ackman, and Polychain Capital, among others. The non-profit,"
+    publishedDateTime: 2021-11-23T17:42:00Z
+    webUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million"
+    ampWebUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
+      name: Cheddar
+      domain: cheddar.com
+    quality: 57
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Kore.ai_.png"
-        width: 873
-        height: 493
+      - url: "https://img.chdrstatic.com/media/5abcf2bb-41ea-43b1-b701-3d79640030f1.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ouRXBsmqD8flJg5OImA/GyJxq8njqX3KaEQ6j0EMwXraFaboag0mzHs/Es9rzcWKOhXYWmE5td6Nt/m5748s8kg3/cVhjQeJknL/CNWvvgifl8HzMUh2wEsjHyBJW1boJzJoT6nu0pY/lFhw8oIQDsgBw1iRDTOwpWmrNjySijDcE5QRjmGAjUFe4Vz+CMYko8vI6UFKHhd42fGD/TYsSmMEruETxBa5GcBpjVAD3EOLz4m+dbnjpLJi9s1TiqRGXC7OWFlE/TrVmhYxzPGFmX3bqHgNbGHMckNA69wlJ8EVs7eYZIAE/2rqeKssh6nD0y0CE0EgQADEBVOADWEwwfFjYMHetOTpTVca9i/p1l/rg8Udxm2QU/NYnK+I5+kXS5vfW8577wAKm/6fY2n80iA2BaUOMGN6nqJD8UsunBuyQPNoqsP5ZiuVhycOYc+JLvso01/f8ENxCsmDYZR+t7IaUcUGfP0PYynilb/HqaVj7qptPAR2gqyKdBl3cunfhkyp1FGBwnQt2/Elv88I0A==;iYq9JUud+9kItRj9/vh0iw=="

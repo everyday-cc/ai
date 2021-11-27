@@ -9,7 +9,7 @@ ampWebUrl: "https://techbooky.com/can-we-trust-a-superintelligent-ai-for-the-fut
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/?amp=1"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1500
     height: 1000
     isCached: true
-
-related:
-  - title: "Improved intelligence: Transitioning to an enterprise intelligent asset management system"
-    excerpt: "Asset management systems are evolving quickly, and these guidelines will help your team keep up with the tech."
-    publishedDateTime: 2021-11-23T02:20:00Z
-    webUrl: "https://www.plantservices.com/articles/2021/improved-intelligence-transitioning-to-an-enterprise-intelligent-asset-management-system/"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 0
 
 secured: "M07Ma4698vh5V1CEbIHQvmn+IZchPQrcU0suzXWUNpxeEFr28aMY6vetFWCjly3uVCUHOykXv9MAhf3Sk4E/owm01EZwtfoWsh8/uzk8tf5pb30eVBvn7JsLmCogyfx84raPi1btjAy7I8ct5GFLNKsLkq8M/Fnxs0Gjns3tYgEo2HbCo2Qhkx1MoeBwMojkRRbn+UefZBdDtNg9cU4cBPRx3oUj0Nl6ynu62eQi62xWZKxtLqpbTs8dWn3JnnpDCp9HsPoVXjZqaBs9VSBryPyOwIsvpkzCmFfBgQnFZqMkY0RNbvn0vYqpwoh4ySg+2tdTKZSVQWw7AAG/+uldXsqRfD6ziEfcY4FdZUgPUDLUX0G+Q7skXsrGLxSkXbos5sImfLNTCOtQQ+YzpO8NAVKJxys1kuusQVLsWtAto02wBQnjmqmHMtHTi1x7jIgE20OqWq0wkprE0rcjosSjOuuuC7F7/op6nVKVNRPmP1pcV7CHLNq8Hr15KziOl0BJH0ZkuGv8gCcabm++7guukA==;6nliBWfDOlEqfFlb2phR9w=="
 ---

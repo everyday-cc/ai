@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-c
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true"
 type: article
 quality: 74
-heat: 86
+heat: 87
 published: true
 
 provider:

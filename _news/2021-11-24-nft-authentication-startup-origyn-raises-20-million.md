@@ -9,7 +9,7 @@ ampWebUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-2
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Area insurance startup raises $100 million"
-    excerpt: "Insurtech firm Slide, with a platform that utilizes artificial intelligence and machine learning for homeowners, has raised $100 million in a Series A funding round. The Tampa-based company, which says it uses its “cutting-edge technology to hyper-personalize,"
-    publishedDateTime: 2021-11-23T02:00:00Z
-    webUrl: "https://www.businessobserverfl.com/article/area-insurance-startup-raises-dollar100-million"
-    ampWebUrl: "https://www.businessobserverfl.com/article/area-insurance-startup-raises-dollar100-million?amp"
-    cdnAmpWebUrl: "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/area-insurance-startup-raises-dollar100-million?amp"
+  - title: "AI startup Salesken bags $22 million in Series B round from Microsoft and Sequoia India"
+    excerpt: "Salesken has secured $22 million in a Series B funding round backed by Microsoft's Venture Fund M12 and existing investor Sequoia India."
+    publishedDateTime: 2021-11-23T17:36:00Z
+    webUrl: "https://techstory.in/salesken-22-million-series-b-round/"
     type: article
     provider:
-      name: Business Observer
-      domain: businessobserverfl.com
-    quality: 57
+      name: tech
+      domain: techstory.in
+    quality: 46
     images:
-      - url: "https://www.businessobserverfl.com/sites/default/files/364961_standard.jpeg"
-        width: 1086
-        height: 724
+      - url: "https://techstory.in/wp-content/uploads/2021/11/Salesken-scaled.jpg"
+        width: 2560
+        height: 1703
         isCached: true
 
 secured: "fKHQrVbe5j/6fFA1G7tCQ/kSdPDvKDxO665/pUTmmX4JifyFU6uJVfMow72VNn/nR/eYsir9xN3e/keOQg+yQ96yc03MHgJVejeSstFeAgZjfe4u0VRnv+2C/d7V9DtEs60JqP9KfUElSQSfzEzliYW+bIsJY72jxibPbpgmb47Z5DyrHNmRzNY5lt31GvxNU8jKNaVkJDmS9D2gRd2auBXUi9B+RKPPxjFyV+Ze5sZPkXg4XJSiIpo7wFYqtmojjU/nkBWwnkSryfpoS3NSrDmYkWe24wUg79C0kRFe5mkoeJ6K3LHsD3TXJxrJvyyxYJsjB17GXmmeqMqkVaD25sZteKcYpUKvKawqhF1vaEo=;cG7mN4A9Kb15DtpTMRQS/w=="

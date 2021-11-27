@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103241124/UAE-ITC-launches-first-self-driving-
 webUrl: "https://menafn.com/1103241124/UAE-ITC-launches-first-self-driving-taxi-in-Abu-Dhabi"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 436
     height: 250
     isCached: true
+
+related:
+  - title: "ITC launches first self-driving taxi in Abu Dhabi"
+    excerpt: "The Integrated Transport Centre (ITC) of the Department of Municipalities and Transport (DMT) in Abu Dhabi has revealed, at the Abu Dhabi Smart City Summit, the self-driving vehicle and launch date of the first pilot phase of \"TXAI\","
+    publishedDateTime: 2021-11-24T07:52:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/ITC_launches_first_selfdriving_taxi_in_Abu_Dhabi-WAM20211124072624444/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/WAM20211124072624444/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20211124072624444/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 44
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/211019100617MPDJ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Beijing launches first commercial trial of self-driving vehicle"
+    excerpt: "The Chinese capital of Beijing launched its first commercial trial of autonomous driving and rolled out relevant management policie"
+    publishedDateTime: 2021-11-27T09:02:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271816493/beijing-launches-first-commercial-trial-of-self-driving-vehicle"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Abu Dhabi launches self-driving taxis pilot project on Yas Island"
+    excerpt: "A pilot project has been launched to explore the use of self-driving taxis on Yas Island in Abu Dhabi.. Abu Dhabi launches self-driving taxis pilot project on Yas Island. Abu Dhabi, Autonomous vehicles,"
+    publishedDateTime: 2021-11-24T12:18:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabi-launches-self-driving-taxis-pilot-project-on-yas-island"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 4
 
 secured: "rhHOOKILUvsLYkSIj7gV8QVmAQ3APLUP7NEYNQ03Xm2WpXZc7MwHiTyvacIrh94HG6U/H0UKFA7Cl3CX1MXy45I78bQRdKNzQhlR5zyOjLz4taa6r03KZ2vPSpkeI3ueScOu96hqGpmshc3tvTCjQUXyFyLqg5MtdVkgJsI+zc7Lbrt0o5w+ZA7CldkgEVmVQJV2coTRMV0DgyktS6K/emQETk4HHMipdjuielPVtVK7o11krTmlTM88IUohTd/8CeVUGLNkyY5vu8KgS8vQIXYadPO+TYyw5ewWcVXJAHYSZ4TdZJBaFBSUILnXVRpvm9FzSUTsvBWamfIbN4LuyMkFPjAi799sGV0Nk9VLNN0=;BqaLEc4wl01fiy63qQy5HA=="
 ---
