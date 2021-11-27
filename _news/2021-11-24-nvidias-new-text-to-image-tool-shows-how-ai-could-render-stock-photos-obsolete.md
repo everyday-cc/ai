@@ -74,20 +74,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "NVIDIA and Mavenir Tap L&T Technology to Accelerate Adoption of AI-on-5G Platform"
-    excerpt: "LTTS will support Mavenir with customization, integration, and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform."
-    publishedDateTime: 2021-11-22T16:27:00Z
-    webUrl: "https://www.eetindia.co.in/nvidia-and-mavenir-tap-lt-technology-to-accelerate-adoption-of-ai-on-5g-platform/"
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 34
-    images:
-      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/11/AI_5G_cover.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "wiI5up1LQcSC0Zyr3+WKx6rOOSjzK5PTI9ZjK6gi7ES9Z0Yq8LQDAEkUk0soBocE4/WU5XsWnlytR/8MXbdUDW4iX3NMZevkkg3zlPL9psuaqmIjjDsNZocuvssU/59o9N6PL6Yb33nOgVD/RZG2Ld/PAIzylp7hiS7yzN8yB9xpRS0x9XN3VRxkQf01WyrvhNT/yQUHBgpVBUoPOOz6/JvKwIL+OghtpwXO5FyH/uOimEkCfmlPHsXp74NF39cEDu/AkRCHsyURpjgp0sLW/NMdww9hTPou75rWtwWB6trATBPDTlV1LCBbStV9KEu9PQHIO786ZEuZlEGQ5WPIf/+hg5V+La9dQ7xZV7K6RqDGwU60RkIzE5UpMIxGBfQORAaH13mRGJrwmzyaqtcBJLlx4ZMMGInchDPq7kyMMjqGAuu9N0jrFSQs5lATvMToLtlXUMnRcuGC7P93xfF+8NU04Spn8u28syA9urDpcCr89jjm6pU0fXuYe+X/Brhrzvs3wYiQQqn5ZAePKaBJsg==;v6PKuFo9il84OEPHIKsBTA=="
 ---

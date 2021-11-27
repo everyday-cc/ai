@@ -232,7 +232,7 @@ related:
     provider:
       name: publicnow.com
       domain: publicnow.com
-    quality: 25
+    quality: 29
 
 secured: "ZMe0NsK2Ytc9ufAxqJ9duosOdEMs1pZ6RNNRFQ2DNFqJPsMxGuy2UDR5gu9QycsFUB0dHH+fi/bKgUkMPomWKm9/u0Heik53ZSQt8KsEfopp8NAEoI/sUBG2kitroYvkgSKKb+ZnmmI2OF9+/PaFLz4VMnz7gGeekQsXwrlmICqIYlOrGR+lmAt9OF4hzmxC7A5EnCQLIox991u4YCd3Qd3lLPFM0yENnye9SoG/EYX93phRPOVYIayB79TGdsHR5YAsOoVdCZzKgDse96cZ61BojRGan9hiC1h/9N/x8KlA2iWa60+5pi67CUve+2ARuWWjlDVuF7tQoAqJn5KqxwX/LG2YMDoGj+AnJ0CCTxp1Tr324zSPNe0C1H2PqKaOvY6D9vYm4sFl6fg2TFdubgjIY0MWtuLjIhn7G0kLQKjX43zeBECl8Swhe8DCW51J5L0CqYg92EWPr/B4OJpvEJ8oJJLf14ic0JoeYW4r398OFRGUKJDZsqjU2rl+hxaYjY7j0Zi0L+knWBrV71EMCA==;PJfrM1ch1NQV1KCpP0E/kQ=="
 ---

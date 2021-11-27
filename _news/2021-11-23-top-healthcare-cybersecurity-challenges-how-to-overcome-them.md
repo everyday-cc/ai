@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitsecurity.com/features/amp/top-healthcare-cybersecuri
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/top-healthcare-cybersecurity-challenges-how-to-overcome-them"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 690
     height: 400
     isCached: true
+
+related:
+  - title: "ShieldIoT raises $7.4m to deploy coreset-AI for IoT cybersecurity"
+    excerpt: "As IoT networks become larger using conventional anomaly detection algorithms on large datasets can take hours or days, which increases vulnerability to IoT cyber-attacks. ShieldIoT’s coreset-AI helps cut that time down to minutes."
+    publishedDateTime: 2021-11-26T14:48:00Z
+    webUrl: "https://www.embedded.com/shieldiot-raises-7-4m-to-deploy-coreset-ai-for-iot-cybersecurity/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 37
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/11/Shield-oT-featured-image.jpg"
+        width: 698
+        height: 497
+        isCached: true
 
 secured: "bePFLP696LWir+Y7jhZZT4Rp0qoMBVulClLH6s9nbM4nze/Zu8WE9nAyQG6VgLXzI0KSWlBIL3dm+SeCPdyjay/y8tH4u3L4mZNKiJTeG5XM5spiFyLs6Q7n3KbalFhoI7uruPXtk8zCZM6937VU4xn8JCpmtj1rPz5rKhHzdIhbPduqQIpQ8l9cl06l1MuuImTcb0sEfxDoagBChl1CYbZFh8iHXr3higD7ptYCTfvDJ9vG3jFFRY2YAqQwgl+Nu5nwgeFlAGcGTWcW0CMPplMxbLAmio8mO0zmaTRVnXnlGA8pHfTD8rlBL6IZaPUX/X3//WJsjhTVs9vw2gAwMdRkTxm2ReO4uxieWXIOk6OWeBl3gJmASlJDexk+ShZLViOBu+oZoXRrpzM1pQ0ibKpniozzK9HkIjDirLBnIE7Fv9FEDEZRvWMMyhUCDkO5WnHT7BiRvSBUEkEDJnRZWn1JG9AwEZ6R1tZ65EqUpDjYppesNHGaaCoyzQA3UiZrA1vME/CFxCigVR6I9f2n+A==;JJZyfdr7bsiDJ8CWj5XWxQ=="
 ---

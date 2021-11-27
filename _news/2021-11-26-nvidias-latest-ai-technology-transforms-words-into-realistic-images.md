@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
     images:
       - url: "https://www.finsmes.com/wp-content/uploads/2021/11/kore.png"
         width: 400
-        height: 400
-        isCached: true
-  - title: "NVIDIA and Mavenir Tap L&T Technology to Accelerate Adoption of AI-on-5G Platform"
-    excerpt: "LTTS will support Mavenir with customization, integration, and deployment of AI applications for deployment on NVIDIA's AI-on-5G Platform."
-    publishedDateTime: 2021-11-22T16:27:00Z
-    webUrl: "https://www.eetindia.co.in/nvidia-and-mavenir-tap-lt-technology-to-accelerate-adoption-of-ai-on-5g-platform/"
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 34
-    images:
-      - url: "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/11/AI_5G_cover.jpg"
-        width: 600
         height: 400
         isCached: true
 

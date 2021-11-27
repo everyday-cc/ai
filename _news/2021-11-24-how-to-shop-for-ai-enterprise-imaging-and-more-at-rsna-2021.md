@@ -7,7 +7,7 @@ originalUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134246"
 webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134246"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Research Backs Clinical Efficacy of Lunit's Radiology AI Products; Abstracts to be Presented at RSNA 2021"
-    excerpt: "Lunit, a leading medical AI provider, announced that there will be 13 abstracts presented at this year's RSNA, demonstrating its AI solutions for radiology through internally conducted studies as well as clinical studies from external radiologists."
-    publishedDateTime: 2021-11-22T15:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/research-backs-clinical-efficacy-of-lunit-s-radiology-ai-products-abstracts-to-be-presented-at-rsna-2021-1030995297"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://mma.prnewswire.com/media/1694066/Lunit_INSIGHT_DBT.jpg"
-        width: 400
-        height: 261
-        isCached: true
 
 secured: "sols/fj+HrQkS70nVFPFiKonT5xGxTQqV+v6KmlyRfVyOTKYAXkNNmyB8fjcJbhOTZTZyMa9DqEyDy7swID51Tgg30N3kUWLRovJV42xfjDNiDmNV9wYxAbpp6mhpiIH8zSgREgzSBQeFmcdbglIEXJ1p/okTeQvcibDBU43lPFk0pXexVQya+Nb16e1/4v/NYYfuaj++Amy7Hyu8S8ddUCLao2yPMAlEKdUEUO0V+qLp2BmRDBsibNRhSUdbNcjonOCP8k43Gm9ZVOxS8U0+eVMVH9vmxoJyII1UcH+I8HrRZtOreIRzmRBoAqXPexrx2j0Y8p8xf9BQHwG3QNaahESaLQfpqnVqyyk2ld6YgE=;snceH3V1SVCBAJ1kbo+dYQ=="
 ---

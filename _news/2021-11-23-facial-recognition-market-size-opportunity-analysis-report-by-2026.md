@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23"
 type: article
 quality: 69
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "German coalition backs ban on facial recognition in public places"
+    excerpt: "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),"
+    publishedDateTime: 2021-11-25T15:54:00Z
+    webUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/"
+    ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Artificial Intelligence (AI) Market Industry Analysis, Opportunities, Segmentation & Forecast 2021 To 2028"
     excerpt: "Market 2021 Global Market Opportunities, Challenges, Strategies, and Forecasts 2028″ has been added to Fortune Business Insights. Market Overview: The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360."

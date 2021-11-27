@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces Plans to Open Second Region in Canada"
-excerpt: "(NASDAQ: AMZN), announced plans to open an infrastructure Region in Alberta, Canada, in late 2023/early 2024. The new AWS Canada West (Calgary) Region will consist of three Availability Zones (AZs) at launch and join the existing AWS Canada (Central) Region in Montreal,"
-publishedDateTime: 2021-11-08T16:34:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
-webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-sports-business-health-fa251fa45f3b4f7a9abba1c86a8df786"
+excerpt: "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ..."
+publishedDateTime: 2021-11-08T17:04:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211108005823/en/"
+webUrl: "https://www.businesswire.com/news/home/20211108005823/en/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "bFtiXRcDhXNkFyfp7HY1WPzVXcSGuol9/dPBSBTkPDGgVSgRQxJkGuEMOdtDMuZ9/2RU36OZgkD5I3VP3mMhBUo8ql9jaVCusN5ssuBix9F/PdsAa1DO0ZpRlblrm7RE9DKQVY7tavrB6XWhh1hlDdljqDh6GP1O53vzq1uJmRKv6eeB/Gk4Aesu9i7SWTji19zAQZlZ/vcByz6aSfQAMZlN78+DfTpYwomMIHWCQRdHtf0QicqtF6LzOVJ0VQG6jRZQeQKZk8HOTUpwrzLfIpSP6eWgnaTx6w3S4p8wjBEhskYP2yxVZFowv/+GbzjLfad9nAEqoPsnxN6VW8XWts6hT1zNozGYQb53I+75Iio=;aT6ZxFpQCfcW78DZ8bMDjQ=="
+secured: "okWmkXG82bRX/dbDxEVE+OQCxO1TtGAWTpmV1gSZGSc1oUTj/3KZoIzDGtdBdVE+XwtvFODxkqdccLnhUXO7hq8AtyMyCYhmT75UbJyum4j8eWek1hYVvpT8l3y/dyaiqrzVwFRcJT0kcQKjNGIA67EPWaoklqpZwlu5bP37AVa/E7s8yTcCXWptLkROr34lHL1bt3yVYfyrCGOYdCmedBAYkITmdqAcmB+SfcldDqXiWr+yawJ7vjCvAEONZVuB49o8i6LBjX0yxIGDdCsMKjlpPxm0y5kaAZ0rHhjeUmX0U9Wd1e+ssL82C9sUwTqrC1Yfec3zjV1DAL+jiq60vBHc/ZLh9bTC1D7mWq4TCUA=;AGYai6zEaB5502ns2VILhg=="
 ---
 

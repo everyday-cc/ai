@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Taps Jeffrey Kratz To Lead Public Sector Partner Program"
-    excerpt: "Amazon Web Services has named nine-year AWS veteran Jeffrey Kratz as its new worldwide public sector partner program leader, replacing Sandy Carter, who is leaving the cloud computing provider for a s"
-    publishedDateTime: 2021-11-22T17:01:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-taps-jeffrey-kratz-to-lead-public-sector-partner-program"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/026f-13c8c2e35c5a-971b011e654b-1000/jeffrey-kratz-aws.jpg"
-        width: 610
-        height: 458
-        isCached: true
   - title: "Sandy Carter Leaving AWS’ Public Sector Partner Program For Outside Startup Role"
     excerpt: "Sandy Carter is leaving Amazon Web Services for a new role at an unnamed startup after serving more than two years as vice president of AWS' worldwide public sector partner program"
     publishedDateTime: 2021-11-22T19:38:00Z

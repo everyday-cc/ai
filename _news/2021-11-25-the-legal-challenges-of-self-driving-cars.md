@@ -51,22 +51,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "What makes university students steer clear of self-driving cars?"
-    excerpt: "Driverless cars have been expected to revolutionize motoring, with some commentators predicting everyone would be a permanent backseat driver by now."
-    publishedDateTime: 2021-11-22T15:10:00Z
-    webUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/googleselfdr.png"
-        width: 680
-        height: 451
-        isCached: true
 
 secured: "cHRynZgFA0sF3t2tQ+I1IQfcGv8UsKV11v2/WOVqj90PEmJ1jAqgXRWKvW9HM38/1FB0ui8y+48kxhTARYg8sR2DbDxhBWR8uj6e+sTEQq+zv2fS3BPH8fdTG8t7klUQ15EQ4+cMHDjWYKA0VAUhyBFXZwVg4LX1Nrjb9Bucbj5OQsCSvrmWVYlGoT3d5i/3/mRJkxLfKUszjLs2gDRBC63WB2iv6m0vswmjUc8UHJlrnljRrYGKXk9+nofbiHFMZN/ial/hahOjIVY7F6uwfBDQwO6yiDX7lKyo2fWiKDnJ9oyD5/ZQLI4l/aCMxszJ+KIYw96zKt+0UBJFzOMihsDzqoHZFiUiwLLVAmZCK7HrSMZ6cC9I0X37gLzZzUCq/29i8LJ2D9gKNmyHbZsLc4EyOfzkR6r5eLvqNab9ygAtGoluuybukR63gZUAal3+TBUJAub03KcIkDXa1/bO90BIG98meJH1o0nDJtxY2ytLNnTFTj9skhd0q5zkimwnbOJ0E4J31367KTVopAai6A==;XqIHX6JIBzPRLDEShUR7zA=="
 ---

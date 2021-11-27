@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-27T06:16:00Z
 originalUrl: "https://www.publicnow.com/view/B73061C387565349315DA2D7990FF03A9B822A43"
 webUrl: "https://www.publicnow.com/view/B73061C387565349315DA2D7990FF03A9B822A43"
 type: article
-quality: 25
+quality: 29
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "UNESCO member states adopt first global agreement on ethics of AI"

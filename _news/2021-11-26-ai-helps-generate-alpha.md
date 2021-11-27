@@ -40,34 +40,6 @@ related:
         width: 1920
         height: 1439
         isCached: true
-  - title: "The ethics of synthetic voices created by artificial intelligence."
-    excerpt: "Synthetic Voices like Alexa and Siri are used extensively in smart speakers as well as in car Satnavs and much more. Now, the people at the Adthos Creative Studio have taken the whole concept to a much higher plane offering broadcast quality audio ads using AI generated voice technology."
-    publishedDateTime: 2021-11-22T16:31:00Z
-    webUrl: "https://radioinfo.com.au/news/the-ethics-of-synthetic-voices-created-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: Radio Info
-      domain: radioinfo.com.au
-    quality: 56
-    images:
-      - url: "https://radioinfo.com.au/wp-content/uploads/2021/04/ListeningAudio_0.jpg"
-        width: 525
-        height: 385
-        isCached: true
-  - title: "Raising The Bar With The Next Generation Of AI For Chip Design"
-    excerpt: "Using a reinforcement learning (RL) based approach, similar to the one that beat the world’s GO champion way back in 2016, Samsung announced that they now have a chip back from their factory that was optimized by the Synopsys DSO.ai platform we discussed ..."
-    publishedDateTime: 2021-11-22T15:57:00Z
-    webUrl: "https://semiengineering.com/raising-the-bar-with-the-next-generation-of-ai-for-chip-design/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 54
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/2019/09/iStock-927247700-Brain-AI.jpg"
-        width: 787
-        height: 443
-        isCached: true
   - title: "Self regulation of AI is not an option"
     excerpt: "Among the areas of concern is that unlike traditional research, which is steeped heavily in academia, half of the research papers on AI are coming out of commercial research outfits. This is a double-edged sword."
     publishedDateTime: 2021-11-25T07:09:00Z

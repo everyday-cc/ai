@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-d
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-self-driving-troll.jpg"
         width: 1356
         height: 668
-        isCached: true
-  - title: "What makes university students steer clear of self-driving cars?"
-    excerpt: "Driverless cars have been expected to revolutionize motoring, with some commentators predicting everyone would be a permanent backseat driver by now."
-    publishedDateTime: 2021-11-22T15:10:00Z
-    webUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-university-students-self-driving-cars.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/googleselfdr.png"
-        width: 680
-        height: 451
         isCached: true
   - title: "The legal challenges of self-driving cars"
     excerpt: "The Department of Transport recently announced its intention to allow Automated Lane-Keeping Systems (ALKS) to be used on British roads by the end of 2021."

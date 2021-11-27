@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "German coalition backs ban on facial recognition in public places"
+    excerpt: "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),"
+    publishedDateTime: 2021-11-25T15:54:00Z
+    webUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/"
+    ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Global Thermometer with Face Recognition Market 2021 Technological Strategies, Business Advancements and Top-Vendor Landscape by 2027"
     excerpt: "MarketandResearch.biz has published research and analysis-based study on Global Thermometer with Face Recognition Market Growth 2021-2027comprises a valuable bunch of information that enlightens the most all-important sectors of the global Thermometer with Face Recognition market."
     publishedDateTime: 2021-11-22T21:02:00Z
