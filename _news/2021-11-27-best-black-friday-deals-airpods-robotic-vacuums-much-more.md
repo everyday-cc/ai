@@ -1,33 +1,29 @@
 ---
 category: news
-title: "The 100+ Best Amazon Black Friday Deals 2021"
-excerpt: "Amazon's early Black Friday deals are already live for 2021. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more."
-publishedDateTime: 2021-11-25T13:21:00Z
-originalUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/"
-webUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/"
-ampWebUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/amp/"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/amp/"
+title: "Best Black Friday Deals: AirPods, Robotic Vacuums & Much More"
+excerpt: "Save big on smart TVs, Beats headphones, adidas apparel, Instant Pots, air fryers, the season's hottest toys and everything in between."
+publishedDateTime: 2021-11-26T16:56:00Z
+originalUrl: "https://patch.com/us/dealtown/best-black-friday-2021-deals"
+webUrl: "https://patch.com/us/dealtown/best-black-friday-2021-deals"
+ampWebUrl: "https://patch.com/us/dealtown/amp/30147188/best-black-friday-deals-apple-watches-robotic-vacuums-more"
+cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/dealtown/amp/30147188/best-black-friday-deals-apple-watches-robotic-vacuums-more"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Patch
+  domain: patch.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.thewirecutter.com/wp-content/media/2021/11/amazondeals-2048px-3x2-v2.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
-    width: 1200
-    height: 628
+  - url: "https://patch.com/img/cdn20/users/22872995/20211126/025555/styles/patch_image/public/blackfriday-1200x900-3___26025206316.jpg?width=984"
+    width: 984
+    height: 738
     isCached: true
 
 related:
@@ -63,6 +59,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The 100+ Best Amazon Black Friday Deals 2021"
+    excerpt: "Amazon's early Black Friday deals are already live for 2021. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more."
+    publishedDateTime: 2021-11-25T13:21:00Z
+    webUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/"
+    ampWebUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/amp/"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-thursday/amp/"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://cdn.thewirecutter.com/wp-content/media/2021/11/amazondeals-2048px-3x2-v2.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The 101+ Best Black Friday Deals in 2021"
     excerpt: "Black Friday 2021 has officially arrived. Find all the best Black Friday deals on Wirecutter-recommended TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."
     publishedDateTime: 2021-11-26T10:40:00Z
@@ -78,22 +90,6 @@ related:
       - url: "https://cdn.thewirecutter.com/wp-content/media/2020/11/giftguide-2020-grandparents-2048px-applewatch-8492.jpg?auto=webp&width=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Best Black Friday Deals: AirPods, Robotic Vacuums & Much More"
-    excerpt: "Save big on smart TVs, Beats headphones, adidas apparel, Instant Pots, air fryers, the season's hottest toys and everything in between."
-    publishedDateTime: 2021-11-26T16:56:00Z
-    webUrl: "https://patch.com/us/dealtown/best-black-friday-2021-deals"
-    ampWebUrl: "https://patch.com/us/dealtown/amp/30147188/best-black-friday-deals-apple-watches-robotic-vacuums-more"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/dealtown/amp/30147188/best-black-friday-deals-apple-watches-robotic-vacuums-more"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 74
-    images:
-      - url: "https://patch.com/img/cdn20/users/22872995/20211126/025555/styles/patch_image/public/blackfriday-1200x900-3___26025206316.jpg?width=984"
-        width: 984
-        height: 738
         isCached: true
   - title: "The 200+ Best Amazon Black Friday Deals 2021"
     excerpt: "Amazon's early Black Friday deals are already live for 2021. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more."
@@ -206,6 +202,6 @@ related:
         height: 1175
         isCached: true
 
-secured: "ljCrmNQWB01n+74yj33dVGCSSn2Z/zW0o4q5WefgKBhvzNLILX1Zg1jKj4ob7jY+4RpkmX08EzvJJf3d0pRuAoWHhChXNRUJb92vfZFj/7FhgyBivMLLZkpIkcMAQ4eGT9qyeMHso46pmRHEdw98qLiXDZewHfmCBPBPofmRR+9nW9DTJfSoq5Vpg/xfaYIeFENk2+bDxv0HGd3fhQnUIxjSvTRMFDIQK/Nj7NsxVEHh+arel+DxTKFFC0jsZOwKUBf0tMMy6Kb6pCyi3nn+N8yXiS9au+yvY/TBmL5DiyMkauhwm9Kn10Ueu3Kz2nDNlyvUhzIQ1ddmUWTyyzrThEnHnjB9riCUGyGpAoIm+TeinxWtPK02E5UbbxCK98uh5bDqNTRLgn+RDRfzW4jmshVNJuN0rDOMjucL0dg4U5wSBsEvaJcGi49TFedLXwnpuJMu9rTqnxqbOpBnD4EqU+krx++gU1thRV3SHugjrpqJUbcVUENPzuX1YAB4vlzlASLQBO3RF3DPuXsYWot8Nw==;VK9oWS+Nygls/I5hD+IkuQ=="
+secured: "3VXk0VEw4rCFpry2ZuSASWwG7EnWnEmx+tAsV3+wp54uZSs3IwNdpH+oldXHBxd40OFH1C//ZGEGyVB/5HLoAMW2oTu/ySb2Ou69UKetId7BFoETobUilAD/Q/ssQG8zuald9POQL1GqO2qZ7mi9rFA239tL/wUyZEZeaElSXRnHqU1oxG/rknYcgPj+CXXCaCJvSy+ebXNv/JEG2nkkvnhjaqgaFJshM5aVs9b4hbtJfneDLR2CdpyD9MpReFKFDrqItfUOf21/y9lw4q89Wwo3HiNp0gM5XQTvw7l/l+XrXq+cTuGZsvfcqLZiA0IIM1AyApepbNAoKOHTu4/AUdimKMcpOxmVjRokQlBJ7d0=;OyiOD38sC+d669bnANJA+g=="
 ---
 

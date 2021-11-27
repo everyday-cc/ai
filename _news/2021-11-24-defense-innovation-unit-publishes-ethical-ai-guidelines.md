@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 594
         isCached: true
+  - title: "UNESCO Member States Adopt Recommended Ethics for AI"
+    excerpt: "The member states of the United Nations Educational, Scientific and Cultural Organization (UNESCO) have agreed on a text of recommended ethics for artificial intelligence (AI) that states can apply on a “voluntary” basis."
+    publishedDateTime: 2021-11-26T22:33:00Z
+    webUrl: "https://www.ipsnews.net/2021/11/unesco-member-states-adopt-recommended-ethics-ai/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 54
+    images:
+      - url: "https://www.ipsnews.net/Library/2021/11/ethicsai.jpg"
+        width: 629
+        height: 365
+        isCached: true
 
 secured: "qqx35zj4aTA25tGsPsx8uQu/TgLpSKupodINof8LZiwDaKzQdXw8iw4nisqBqzwBHfqI77AV9AhkD4vNsoWuoX/TTN2SbC1/I2xcnvAlQbIkDWegY1FuoEA4+W0EVGNjXdQQEOw5dU9lvDG3HTqCwrseTEg/DlYraYBb2IiEwmtjwrAualei8mh6Yiuo60kn60VmQ9TGPeMMfYC5rZHBl0NOJBFjtB6yijBKe5B2CZtmgJmRxDl3wrkVWK35sXKdtU/mvB7ApRoNTLPn1f+jhRaSBHsFWCS/yXyRm5o1NubDMResEZ+3TnuIj9IT1aZroRGN3Kh84dwQI9H7Vv52gffY79xFDzlOt5eMtf8QtoQ=;4D0+km/z92h0jIGQGQ1x1A=="
 ---

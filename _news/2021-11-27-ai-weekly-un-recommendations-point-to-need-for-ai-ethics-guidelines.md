@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-poin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "UNESCO Member States Adopt Recommended Ethics for AI"
+    excerpt: "The member states of the United Nations Educational, Scientific and Cultural Organization (UNESCO) have agreed on a text of recommended ethics for artificial intelligence (AI) that states can apply on a “voluntary” basis."
+    publishedDateTime: 2021-11-26T22:33:00Z
+    webUrl: "https://www.ipsnews.net/2021/11/unesco-member-states-adopt-recommended-ethics-ai/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 54
+    images:
+      - url: "https://www.ipsnews.net/Library/2021/11/ethicsai.jpg"
+        width: 629
+        height: 365
+        isCached: true
 
-secured: "60s4Pqy3RxBqL3+9rJpakzG+/l55mfk9tTA3F5rGPdkLyGxBQMXhO6uVRVDjcR7Mb9nNB0gVTQu09qnZHMpH7Hg9lw9Sjlrss8OSNVfkdvbGa078/GbU8vlXDSSb33JLwneNuQnpNq/5GvZOVwOIwLgqYJPkXg4hjG1tODyVchm8IOToLy8E02yuyUlmNeDZVlWxp+mOGyQzBCUPYkXiw9KkheND0I2NcZpFnkdzlZY30XTxtJRc+xVABvm6DbrXqx3NICzsWnmHbbUWftZWEin6dRlo3xplXZuLjoLBmO4X1PqaVJJpm5lM+kX0Hl4Vd+C8cF2mfr0SMrqJ3WYddgE8qoaaP8/oQ2sUqzgbQ6U=;I+6A2f3+Y3ioXlEzTpqisg=="
+secured: "xTpeSJL/adBc0OK18PAHN57F4+QQ5qFzg64lcO3jdmZ1M4ukYpV40V9zQrWWjvT3oflOCqM7StllXWXVse06Mg/tlJsnKlqtRdwUNPNrqUGB5KvdIny9HFqiaFudsXMQ9xUXmrhFpf7NtoehNcfb61gs0I10k2M5K4lctwaRqojNBMiOgK2PjEY0MeixNao/8vjs9t2c0NQKzt+3jy6/HqyjVVY7xZJXmH4qPU2cHZlrayk5wW3yhDMLVO2yYxCcN8IzpNKq8jU5D+lHM+ghV1F9tBUHlJhAjhncwN7vrdasbUN6Y+E+T9HCiRZnYlyVfIo0jN94i0hbroDbzdrfdhhjd6m74Ec/OxypALD7tvfW+dEVTCFACINUkVyyT+1sY9vLHYCWxX9MEbGjvTT7FjmANZytdMWQlDHu0QCcM/9OQQHrjAcgWZK0rSqoL5w9j7HIRdCB2FULKGoePWEcXVMsoEiw0p7IK/GTL0Lr/BGFpGrvl7pYjJLsalAbBu0MgrI0Rp9h/3rO1LxzElu/pg==;O2IlCQFg4Hx4bC+W44ic5g=="
 ---
 

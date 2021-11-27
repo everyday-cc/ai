@@ -90,17 +90,6 @@ related:
         width: 800
         height: 428
         isCached: true
-  - title: "Artificial intelligence (AI) in Logistics Market Recent Developments, Research Analysis Forecast 2027"
-    excerpt: "The Global Artificial intelligence AI in Logistics Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the"
-    publishedDateTime: 2021-11-22T07:24:00Z
-    webUrl: "https://www.openpr.com/news/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    ampWebUrl: "https://www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
 
 secured: "dfvkuWv3OIfE9WSacLA0uCcTK06DhX6vl4PiVoNXOCbKWSj75WDDKqqGY4JqZyIohkIkvz+3B9sqqTMN/sWvpErautLK+0aKjChFqtThkalKLk0cM8jGD4GWuy9Pd5AzIzcZRrSEm1Oy1uFCjj08aXmZu0qlo5N4c7YIiYmAPffDd8Rp4rO6kqyCPKgSLDvlS0/lDi9F9EWdQsZV9ObnVk/YmxP0TsXC4j6kLgJSKJ3sSKQBgh9NC+W6oHK3HMvGxTXP9JMUDlECTzpO11eBs85vOo5k+2OjqhTCak3pXCUe274Ko67LaXhnrdVQgVMvAuqW08PuepZ/W38YYuJIoQTVJrsK8FTnUAiJMfJPF6Q=;/vLiFcxUMLJYoFXnrQzrkA=="
 ---

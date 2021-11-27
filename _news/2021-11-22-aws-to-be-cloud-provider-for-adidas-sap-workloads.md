@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads?amp"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Nasdaq
@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Adidas Migrates SAP Environments To Amazon Web Services"
-    excerpt: "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,"
-    publishedDateTime: 2021-11-22T07:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services"
-    ampWebUrl: "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
   - title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
     excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
     publishedDateTime: 2021-11-23T17:12:00Z
@@ -43,20 +32,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
-    excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
-    publishedDateTime: 2021-11-23T23:52:00Z
-    webUrl: "https://sourcingjournal.com/topics/technology/retail-tech-klevu-adidas-aws-sap-klarna-modcloth-nimble-reissue-ltk-bolt-adobe-314911/"
-    type: article
-    provider:
-      name: sourcingjournal
-      domain: sourcingjournal.com
-    quality: 43
-    images:
-      - url: "https://i0.wp.com/sourcingjournal.com/wp-content/uploads/2021/11/AdidasUltraboost.jpg?fit=800%2C764&quality=98&ssl=1"
-        width: 800
-        height: 764
-        isCached: true
   - title: "AWS wins Adidas contract to host its SAP workloads"
     excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
     publishedDateTime: 2021-11-23T15:54:00Z
@@ -94,6 +69,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 21
+  - title: "Adidas migrates SAP Environments to AWS"
+    excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
+    publishedDateTime: 2021-11-22T13:46:00Z
+    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "Aaafg0wOIlaCwRej65ZKWcCDjrPLuxV1fy2UO50DHRRi22DRAEh99iIG7ZEd44MS8FqZgEkX0IoK6tWapga/UTIij1xaL0d2tPdywVcWkJER0wbOnNj1tY3bF6Akxy3GsJOjZgjzA1SafVZvhOm0Vh8ruGTG64KJtUTOVORgB6x53H5i+2JIHaTuehE5yi1xF4KyIYrabFAFUPvLZG7YTN8VQKs0k16QEJ29w4TqpNdrHYsCBPasda3+rHPl3aiVIUiKOGCkTQvm1dLmswBz4m/Snldq5munhfcAr5Psc1AuYsoNlFJIATciOGfEUIsOclbahdHCbX5ru2ML5+K97q1CUTd/EN5UWuyrDwo+4Ao=;8NAQNwiHuApAB3KrkX95vA=="
 ---

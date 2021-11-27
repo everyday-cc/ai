@@ -87,20 +87,6 @@ related:
         width: 1490
         height: 990
         isCached: true
-  - title: "Apple's fully self-driving electric car may be launched as early as 2025"
-    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
-    publishedDateTime: 2021-11-22T09:01:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2021/11/22/apple-s-fully-self-driving-electric-car-may-be-launched-as-early.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 23
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/2020/images/2021/1/13/Apple-Inc-logo-Apple-store-Manhattan-New-York-reu.jpg"
-        width: 760
-        height: 443
-        isCached: true
 
 secured: "OLsQjT5sS2UbrBloG4RPG/VArP/Ef+DLTtctVFe68WCUUadPSIZ5MEUHcdSd3OPgRgPaD/xfry/44deYvdef0e2W1iE446C5QwK3QBldwAPrWKQFpJqZw8yl5zxWb3hSSkOEmESpgqZu/IFvm/sDdY+fgARbvJbdye3j4Jq3y6Yt+SJkzSzk4XuI+cYKFH4YyCmnVk5bBVJXg/57D+5rSGCSAZfVk7NwGaHNhk3MOntYXnwbOuaFQYOJEKQFfbm042YxjGuNP+z8hH99EOJ5K+eaJ739RQ7xQpDYxqLqjdSh/8aPU+ODCM56ogh0nktgSovok2PtnMuE5os7Tf1kMzkDRdBUsefEO54Rbn3ikto=;TA6axpYWM2rUwPG/fVTLVg=="
 ---

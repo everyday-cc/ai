@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-d
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 92
 published: true
 
 provider:

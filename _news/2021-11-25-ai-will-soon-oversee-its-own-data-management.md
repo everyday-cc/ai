@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/amp/"
 type: article
 quality: 87
-heat: 92
+heat: 87
 published: true
 
 provider:

@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adidas Migrates SAP Environments To Amazon Web Services"
-    excerpt: "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,"
-    publishedDateTime: 2021-11-22T07:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services"
-    ampWebUrl: "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
   - title: "AWS to be Cloud Provider for adidas SAP Workloads"
     excerpt: "( AMZN ) company, has been selected as the preferred cloud provider for SAP workloads by adidas AG, one of the largest sports brands in the world. With the implementation of the modern SAP S/4HANA platform,"
     publishedDateTime: 2021-11-22T10:19:00Z
@@ -58,20 +47,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Retail Tech: Adidas Taps AWS, Klarna Adds ‘Pay Now’ and Credit Card, Klevu Bows New Analytics"
-    excerpt: "Influencer marketing platform LTK raised $300 million, while one-click checkout provider Bolt has opened its service to all Adobe merchants."
-    publishedDateTime: 2021-11-23T23:52:00Z
-    webUrl: "https://sourcingjournal.com/topics/technology/retail-tech-klevu-adidas-aws-sap-klarna-modcloth-nimble-reissue-ltk-bolt-adobe-314911/"
-    type: article
-    provider:
-      name: sourcingjournal
-      domain: sourcingjournal.com
-    quality: 43
-    images:
-      - url: "https://i0.wp.com/sourcingjournal.com/wp-content/uploads/2021/11/AdidasUltraboost.jpg?fit=800%2C764&quality=98&ssl=1"
-        width: 800
-        height: 764
-        isCached: true
   - title: "adidas migrates SAP environments to AWS"
     excerpt: "AG has selected AWS as its preferred cloud provider for SAP workloads, officially migrating its SAP environment to AWS."
     publishedDateTime: 2021-11-25T01:49:00Z
@@ -95,6 +70,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 21
+  - title: "Adidas migrates SAP Environments to AWS"
+    excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
+    publishedDateTime: 2021-11-22T13:46:00Z
+    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "WN7SxLQm6zxEWwyH7uviXpyo5/9aI9dOqB1g+9pTz24wQ9DliTBSTw+pWrYLQQAOg/RHYPOIKGQXlmMQ852Qi1IiVLDe7zYH+HScUNasru0saztLviuzkEr3y48aWrCsxc9v03APk+i+FExPTac8dUJtukWTAHrODHXEPpvdSwi1b33SEfcIB2GfVUlL/vP4NYUdbVVDlZcz0ckZF7hvBp7kbKvtuM/HtAJv9wqDG961OD/Hf6CdbxCL+IgmH4qEGuUbFfY15V7DX9RuIkypIE8eRWjHqVncg9Q5yVHR7INwn8HdDyBkiaYumLoksbY2iWNe2IV2adEG2Q0XfP8avUvlEbvfSYv2iUiF+9uRUlRaqMlB416GW8jdNG08UFuXJOdt9DR1J1ZioDrCQAO/XxeLJjHBwhLHoO4vuOXscIiz3F4mj0XhitTVMDVcSjWLpIY1w3uzTZHYwPfwRUJ9bnl7ocW4Ni/rgUNt6CYvOOr2uO/Eiwt8lnQbe/qfeP4jnSCgR0b8uEK4Uyx54CqotA==;tY4soWw+sQotQsawo3H4mg=="
 ---

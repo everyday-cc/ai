@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Best Black Friday Deals: AirPods, Robotic Vacuums & Much More"
+    excerpt: "Save big on smart TVs, Beats headphones, adidas apparel, Instant Pots, air fryers, the season's hottest toys and everything in between."
+    publishedDateTime: 2021-11-26T16:56:00Z
+    webUrl: "https://patch.com/us/dealtown/best-black-friday-2021-deals"
+    ampWebUrl: "https://patch.com/us/dealtown/amp/30147188/best-black-friday-deals-apple-watches-robotic-vacuums-more"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/dealtown/amp/30147188/best-black-friday-deals-apple-watches-robotic-vacuums-more"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 74
+    images:
+      - url: "https://patch.com/img/cdn20/users/22872995/20211126/025555/styles/patch_image/public/blackfriday-1200x900-3___26025206316.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
   - title: "Black Friday 2021: The Best Early Deals from Apple, Walmart, Target, Best Buy, Amazon & More"
     excerpt: "The best early Black Friday 2021 deals are here. Shop Black Friday deals on TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."
     publishedDateTime: 2021-11-25T04:12:00Z

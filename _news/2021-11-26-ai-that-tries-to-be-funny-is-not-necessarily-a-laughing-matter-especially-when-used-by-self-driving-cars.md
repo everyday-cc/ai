@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.komando.com/wp-content/uploads/2021/03/kk-img-20210303-kim-komando-explains-1400x1400-1.jpg"
         width: 1400
         height: 1400
-        isCached: true
-  - title: "Apple's fully self-driving electric car may be launched as early as 2025"
-    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad and Mac, has developed Apple car chip that consists of neural processors that can handle the artificial intelligence needed for autonomous driving."
-    publishedDateTime: 2021-11-22T09:01:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2021/11/22/apple-s-fully-self-driving-electric-car-may-be-launched-as-early.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 23
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/2020/images/2021/1/13/Apple-Inc-logo-Apple-store-Manhattan-New-York-reu.jpg"
-        width: 760
-        height: 443
         isCached: true
 
 secured: "adolUuXkZeAlpoUOSmH/hbgG5kRoz2bxuE4WhXWQ3zdvoYf0wGJyT7DzVbrqjLF0bjOkJYTqZPCtVk/0kGZNZr22eDu8c+L1cqnS5hFyps9ro655d4aOvS0DmHKIJpyw6RX/jKlWEB/2aNPEt2Uqve+UOKq2sDlTx16mpAtoegHhfauKZ9lfRPJnOP+crc0BxITnDX+M7Kk1IOREF/iPKWj5aIJIz/RTpRXQASS/Lh6Q1vPzCr9cjRaSvJEUEKB74ErZz9hKVJFqyOvHIevjJgdMc48gLxdQ6sBLF32NNHM2nQR9iHH/nnllcJWqH97OL3/1VDIIZA4IOVE6BFiaTKtb3d4avcAY00lij50ex8Em0QgK+jv574tv8bTdjJwh/9b55EuofnUdpo/5qsJDCWJqrIpzx0830p0oWEGhx6T1qZAkzWzBrKwPsnowu4ryOo0UuyBPVuJYbrF9Wumxd//VZo+TDYt4xXSyPI7JWlujO3r3hF/jI0dXvbvD5XkLPX532WCHGef5MLe7RfFeAQ==;7LzeCZd90cSA4FrUKOFx4A=="

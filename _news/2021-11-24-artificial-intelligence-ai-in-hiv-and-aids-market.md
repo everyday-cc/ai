@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -88,17 +88,6 @@ related:
         width: 800
         height: 428
         isCached: true
-  - title: "Artificial intelligence (AI) in Logistics Market Recent Developments, Research Analysis Forecast 2027"
-    excerpt: "The Global Artificial intelligence AI in Logistics Market Report 2021 to 2027 could be a fundamental examination of the global analysis Trending innovation advertise drivers sectional declination analysis measurements advertise forecasts manufacturers and hardware merchants are all included within the"
-    publishedDateTime: 2021-11-22T07:24:00Z
-    webUrl: "https://www.openpr.com/news/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    ampWebUrl: "https://www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2469421/artificial-intelligence-ai-in-logistics-market-recent"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
 
 secured: "9q92CHwR2PYNHA7GoMkng7qZC92/LN6YPXMkmb/+2UXUB6maHLoKJzvJgdBl52EO3q7syNMjlxFjQy2grGuZxGuaSft4ORBp+GQEGnPgydUd0FWNa9D4O64v5iYtCbS2oW0SK0zZu+MwBy5w85DU70PXGSddi3h09yGLw2IvdBN24y4tog4HGhh7C/cdKJID+4S3MrrSesYhEe9zRDtyCnPUv+qbBauIKMe8EWkF0lq7f6Gyyy8uUPErJFZjyCWvsgnsTZAKcxFRi0aZDTEmbBUIChL7jaYW6CE9ojaAXesUO3jBJMp9TFlb4k7X07YivnjSCunNhvWmTeVLRFoX5fQYWV36/vqXBaB3RALiP+j3LPnyHbzb4Rq3LrpVRIXffBIB6cWQEb4/Q/0U8eYuq79I7WdMkLmTlA3VXH4UGLsLdvZNLBEXkexq/qlLDJNRUzuji4q1/QZdlobY5fmlRhQLdl6YbXrjxPi2+y4mCxuF3jmRG+csJUbwdIP/w0S4IEfycW70Z0qzD3N9nifT+A==;KgCMxxZBuSXMdNICVNiTeg=="
 ---
