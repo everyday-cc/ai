@@ -76,22 +76,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA GauGAN2 AI Creates Stunning Photorealistic Artwork From Simple Human Phrases"
-    excerpt: "I have that in common with NVIDIA's GauGAN2 AI, but I think one of us might be better at it than the other. Big Green has created an application that interfaces with a \"generative adversarial neural network\" called GauGAN2 (a follow-up to its original GauGAN AI) to create editable,"
-    publishedDateTime: 2021-11-22T19:46:00Z
-    webUrl: "https://hothardware.com/news/nvidia-gaugan2-ai-creates-stunning-photorealistic-artwork-from-simple-human-phrases"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-gaugan2-ai-creates-stunning-photorealistic-artwork-from-simple-human-phrases"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-gaugan2-ai-creates-stunning-photorealistic-artwork-from-simple-human-phrases"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 51
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56859/content/small_montage.jpg"
-        width: 708
-        height: 472
-        isCached: true
   - title: "Kore.ai Extends Series C Funding to $73.5M With NVIDIA"
     excerpt: "Kore.ai, an Orlando, Fla.-based conversational AI software company, extended its Series C funding round to $73.5m with participation from NVIDIA (NASDAQ: NVDA)"
     publishedDateTime: 2021-11-23T18:58:00Z

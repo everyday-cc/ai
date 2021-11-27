@@ -87,22 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA GauGAN2 AI Creates Stunning Photorealistic Artwork From Simple Human Phrases"
-    excerpt: "I have that in common with NVIDIA's GauGAN2 AI, but I think one of us might be better at it than the other. Big Green has created an application that interfaces with a \"generative adversarial neural network\" called GauGAN2 (a follow-up to its original GauGAN AI) to create editable,"
-    publishedDateTime: 2021-11-22T19:46:00Z
-    webUrl: "https://hothardware.com/news/nvidia-gaugan2-ai-creates-stunning-photorealistic-artwork-from-simple-human-phrases"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-gaugan2-ai-creates-stunning-photorealistic-artwork-from-simple-human-phrases"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-gaugan2-ai-creates-stunning-photorealistic-artwork-from-simple-human-phrases"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 51
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56859/content/small_montage.jpg"
-        width: 708
-        height: 472
-        isCached: true
 
 secured: "QeCTu0FK6/yfyzVckjPWm+4YtKlIZxWUyqeYUgAdFI9OUUjgmJGPVla8D7NxisOgMWVKYUJ6oUuRbEdXqYxXwLPyqi1d6JK5s0nuIO1TlkLIkaBGHJqaENYyT4r8p5v1oqjWK6dYvp3yhwtGPnYXUHFdjD9IwPl4yYHS1yEX1yHCjsc9Ag/LZPEe0I9MNWQpNgHaVhSRHCC+qsdr+JnrvEv+jW0jT2WoNhJqx8r+G9vIYjrJa4obdXNXkcrtxAzLBQ9hjTiQgEKpxxGDWIIu77bQKLjL6lwKKCGGE3YCI0K7OFR7gKraU1RsUc2WI0qSVfnOAxKqPLv7kJEgSqZsMO9CtfV2eC9C4ySlERd0btVRsBp4bbc5QY3VdtWy2IbHUj3m/aOVKLTsSBLxPxXYtsrJ5G4dbCeavMZUIh9QmEDj5hL0uvMTm1RT8XYGYOFe+VlA+BhGxAF/DXiSEq/oyoNEeujaUqd+t3a9WksRFpuNBLJZU5HmyosWqP6KamegrJRqquPrEVyuFEhNa7mTCg==;2QuKx7B03W3uT6VHTHQhww=="
 ---

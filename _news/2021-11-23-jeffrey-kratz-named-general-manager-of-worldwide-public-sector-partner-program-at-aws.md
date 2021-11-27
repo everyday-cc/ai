@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "Sandy Carter Leaving AWS’ Public Sector Partner Program For Outside Startup Role"
-    excerpt: "Sandy Carter is leaving Amazon Web Services for a new role at an unnamed startup after serving more than two years as vice president of AWS' worldwide public sector partner program"
-    publishedDateTime: 2021-11-22T19:38:00Z
-    webUrl: "https://www.crn.com/news/cloud/sandy-carter-leaving-aws-public-sector-partner-program-for-outside-startup-role"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
-    images:
-      - url: "https://www.crn.com/resources/026f-13c8fc8f3847-b37cc05b7df8-1000/sandy-carter-aws.jpg"
-        width: 1499
-        height: 1124
-        isCached: true
 
 secured: "b7XSkncKHoEGNvdfFhO9093XRYwhYB5UOWECOjlI7Mvge/hgIWAahKWdzEk0jY1aYoqJKDUnoTO7bK7FtaCBmCMI+5YYHYduyOiKaRok2gkndkqzDArjbvJSzFZexg8mDWJjs04fUaz2Bci8EruJzkBd35l2cCLRl++I5vzGsmZpXtU64CmHy85rH846ZgxS5nGCU6OZDneYA3X5xHJhrF3MQmAo07TMvfYpLTUxnFD+I30vFnt6KkzPByi1r6iwm3tK/EIbPf3NOSTmNwTHapKujx1F2rJfB4T1iaCgjqm8bZJ/4pUz0p3K15hrUqB+L87EqWGXEERlYMiB/gEGl3rdSGoSaHxy609tcIoM7lA=;N0jsg9YfZE4AXMq0zfIwbg=="
 ---

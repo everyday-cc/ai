@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-27-heres-what-defines-a-self-driving-car.md",
+      "title": "Here's what defines a self-driving car",
+      "excerpt": "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/gXDWQg_Y5WW3tSuaBtDtIfx7WLE=/2021/07/22/0374dde4-e7b4-44df-b180-f9ac7be9e38b/2022-gmc-sierra-1500-towing-super-cruise-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
+      "publishedDateTime": "2021-11-27T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-27-how-artificial-intelligence-in-healthcare-will-change-the-way-youre-treated-forever.md",
       "title": "How artificial intelligence in healthcare will change the way you're treated forever",
       "excerpt": "Here's why using artificial intelligence in healthcare is something to be celebrated, not feared While artificial intelligence in healthcare may seem a new, and perhaps a slightly alien concept, it is revolutionizing diagnoses and treatments in hospitals around the country.",
@@ -189,58 +241,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars.md",
-      "title": "AI That Tries To Be Funny Is Not Necessarily A Laughing Matter, Especially When Used By Self-Driving Cars",
-      "excerpt": "AI that uses humor can be handy or a big problem, and likewise in the case of self-driving cars could be good for riders or a really bad idea. Let's explore why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609dc9fd2dec6a7482aa84f2%2F0x0.jpg%3FcropX1%3D191%26cropX2%3D2718%26cropY1%3D276%26cropY2%3D1697",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/",
-      "publishedDateTime": "2021-11-26T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -508,7 +508,7 @@
       "originalUrl": "https://www.business-standard.com/article/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -594,7 +594,7 @@
       "originalUrl": "https://www.techspot.com/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {

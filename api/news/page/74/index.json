@@ -2,58 +2,6 @@
   "page": 74,
   "value": [
     {
-      "path": "_news/2021-09-30-microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2.md",
-      "title": "Microsoft’s Saqib Shaikh, lead on Seeing AI, is returning to Sight Tech Global, Dec. 1-2",
-      "excerpt": "At last year’s inaugural Sight Tech Global event, a virtual event dedicated to applications of AI and related tech to accessibility for people who are blind, one of the most popular sessions belonged to Saqib Shaikh.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
-      "originalUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DybczED-GKE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
-      "publishedDateTime": "2021-09-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-30-ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading.md",
       "title": "AI Identifies American Airlines Group Inc Among Today’s Top Shorts To Close September Trading",
       "excerpt": "The Dow Jones gained 107 points, or 0.3%, the S&P 500 added 0.3%, and Nasdaq bounced back 0.4%. Make the most of this market with today's best short plays from Q.ai's deep learning algorithms.",
@@ -1238,6 +1186,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-uk-ai-strategy-focused-on-economic-growth-resilience-and-ethics.md",
+      "title": "UK AI strategy focused on economic growth, resilience and ethics",
+      "excerpt": "Chris Eastham of law firm Fieldfisher looks at the government’s National Artificial Intelligence Strategy, and the merits of the 10-year plan and its approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/opinion/UK-AI-strategy-focused-on-economic-growth-resilience-and-ethics",
+      "originalUrl": "https://www.computerweekly.com/opinion/UK-AI-strategy-focused-on-economic-growth-resilience-and-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/opinion/UK-AI-strategy-focused-on-economic-growth-resilience-and-ethics?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/UK-AI-strategy-focused-on-economic-growth-resilience-and-ethics?amp=1",
+      "publishedDateTime": "2021-09-30T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

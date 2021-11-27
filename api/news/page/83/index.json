@@ -2,59 +2,6 @@
   "page": 83,
   "value": [
     {
-      "path": "_news/2021-09-24-wsjs-facebook-series-leadership-lessons-about-ethical-ai-and-algorithms.md",
-      "title": "WSJ's Facebook series: Leadership lessons about ethical AI and algorithms",
-      "excerpt": "Learn from Facebook's reported missteps ... As technologies like artificial intelligence and machine learning grow increasingly complex, it's legitimate to question how algorithms powered by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/wsjs-facebook-series-leadership-lessons-about-ethical-ai-and-algorithms/",
-      "originalUrl": "https://www.techrepublic.com/article/wsjs-facebook-series-leadership-lessons-about-ethical-ai-and-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/wsjs-facebook-series-leadership-lessons-about-ethical-ai-and-algorithms/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/wsjs-facebook-series-leadership-lessons-about-ethical-ai-and-algorithms/",
-      "publishedDateTime": "2021-09-24T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-09-24-android-update-teases-improved-accessibility-options-for-handwriting-facial-recognition.md",
       "title": "Android update teases improved accessibility options for handwriting, facial recognition",
       "excerpt": "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,",
@@ -1133,6 +1080,57 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino.md",
+      "title": "And the winner of Startup Battlefield at Disrupt 2021 is… Cellino",
+      "excerpt": "We started this competition with 20 impressive startups. After three days of fierce pitching in the virtual yet incredibly competitive Startup Battlefield arena, we have a winner. The startups taking part in the Startup Battlefield have all been hand-picked to participate in our highly competitive",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/",
+      "originalUrl": "https://techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2021-09/23/614cd3a175544444803475dd/614cd40371876b7f3ca40f82_o_U_v1.jpg?w=550&h=310",
+          "width": 550,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/and-the-winner-of-startup-battlefield-at-disrupt-2021-is-cellino/amp/",
+      "publishedDateTime": "2021-09-23T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

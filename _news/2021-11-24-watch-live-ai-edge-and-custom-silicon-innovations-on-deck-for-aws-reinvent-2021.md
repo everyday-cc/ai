@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/11/23/watch-live-ai-edge-custom-sili
 webUrl: "https://siliconangle.com/2021/11/23/watch-live-ai-edge-custom-silicon-innovations-deck-aws-reinvent-2021-reinvent/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1182
     height: 666
     isCached: true
+
+related:
+  - title: "What To Expect From AWS re:Invent 2021 Event?"
+    excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."
+    publishedDateTime: 2021-11-27T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/what-to-expect-from-aws-reinvent-2021-event/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS_AIM.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "RXLCFYRN48gzJiHb5TN7FnyAutiF73l7lZ1HFzv2kv1+KACgDimqX9EHCI5LaqAow35hBMr30UqSkf/hsuI0zhPbVHHEiePMBBsg7Pr14sQdhWPfUNEzuOELARr8Vem00c8NWzSovijavS/FtOS9fbzSomPc0ZZxz4bjiLDsFALJ733cNHkYXCKSJRUZwdLSt7kslRkwDv5ZEMZ5Lk5GkBydtwCDfc4u/zQi3C3jW3nLu09DvUDv3yFD8k0XDNZdSonLjMwaz4PmLsUl+5mmcPK0+tsdKCr9gkjTcPMYlW223pCx18QIOXtFA+m6J/8qu3fJpQEyuU8X0doTk11Iu75f3TzOMbQeiHqtHffWTqo=;+ENUGoF4UjxYma4lNsIAwg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-to-d
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-to-diagnose-blood-diseases-204444-1.htm"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fighting blood diseases with artificial intelligence"
-    excerpt: "Every day, cytologists around the world use optical microscopes to analyze and classify samples of bone marrow cells thousands of times. This method to diagnose blood diseases was established more than 150 years ago,"
-    publishedDateTime: 2021-11-22T20:23:00Z
-    webUrl: "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/fighting-blood-disease.jpg"
-        width: 1300
-        height: 1300
-        isCached: true
   - title: "AI could help better diagnose blood diseases"
     excerpt: "How can we better diagnose blood diseases? A research group led by Helmholtz Munich aims to answer this question with artificial intelligence (AI)."
     publishedDateTime: 2021-11-23T01:00:00Z

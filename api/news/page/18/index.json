@@ -2,50 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2021-11-10-azure-machine-learning-for-predictive-and-analytical-work.md",
-      "title": "Azure Machine Learning for Predictive and Analytical Work",
-      "excerpt": "Let me tell you about some unnoticed services that deserve attention of those, who want to be ahead of the game. Azure Machine Learning is a cloud service designed to carry out predictive and analytical work. Simply put, it’s an instrument that allows ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html",
-      "originalUrl": "https://www.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/ck_images/5br39kHV.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-11-10-techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai.md",
       "title": "TechCrunch+ roundup: Deep tech predictions, HashiCorp’s IPO, enterprise-wide AI",
       "excerpt": "If you believe you have a good idea for a startup, go for it. When venture capitalists say this is a good time to be a founder, you know they absolutely mean it.",
@@ -1159,6 +1115,57 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter.md",
+      "title": "Peloton's $495 Guide Camera Uses AI to Help You Strength Train Smarter",
+      "excerpt": "The Peloton Guide uses machine learning and smart camera technology to track your movements, assess your form, and recommend classes focused on muscle groups you need to work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
+      "originalUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/07F3bNYyH001RVJQnJLO1dl-1.1636390379.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
+      "publishedDateTime": "2021-11-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

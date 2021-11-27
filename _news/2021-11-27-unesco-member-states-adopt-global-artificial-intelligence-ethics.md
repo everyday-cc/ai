@@ -212,6 +212,20 @@ related:
         width: 925
         height: 521
         isCached: true
+  - title: "UNESCO member states adopt AI standards"
+    excerpt: "Audrey Azoulay, director-general of UNESCO presented this past week the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference."
+    publishedDateTime: 2021-11-27T12:14:00Z
+    webUrl: "https://www.ept.ca/2021/11/unesco-member-states-adopt-ai-standards/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 39
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2021/11/AI-2.jpeg"
+        width: 591
+        height: 591
+        isCached: true
   - title: "Ethics of Artificial Intelligence: 193 countries adopt the first global agreement"
     excerpt: "UNESCO addresses the ethics of Artificial Intelligence, adopts text defining common values and principles needed to ensure healthy development."
     publishedDateTime: 2021-11-26T09:21:00Z

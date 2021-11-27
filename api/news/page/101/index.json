@@ -2,40 +2,6 @@
   "page": 101,
   "value": [
     {
-      "path": "_news/2021-09-13-impact-of-driverless-vehicles-on-society.md",
-      "title": "Impact of Driverless Vehicles on Society",
-      "excerpt": "Introduction The research question I chose was “Could Driverless Vehicles Pose A Negative Impact on Today’s Society?” I chose this research question",
-      "sourceUrl": null,
-      "webUrl": "https://studymoose.com/impact-of-driverless-vehicles-on-society-essay",
-      "originalUrl": "https://studymoose.com/impact-of-driverless-vehicles-on-society-essay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Truth",
-        "domain": "studymoose.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-13-artificial-intelligence-market-impact-of-covid-19-by-solution-companies-global-forecast-by-2026-renub-research.md",
       "title": "Artificial Intelligence Market, Impact of COVID-19, By Solution, Companies, Global Forecast by 2026 - Renub Research",
       "excerpt": "Today artificial intelligence platform has become a way for computer systems to perform tasks like human intelligence including decision making and speech recognition Globally problem solving social intelligence and general intelligence is being achieved with the help of the artificial",
@@ -1085,6 +1051,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-dubai-eyes-the-future-with-self-driving-cabs.md",
+      "title": "Dubai eyes the future with self-driving cabs",
+      "excerpt": "Dubai already boasts of a top-of-the-line public transport system with the driverless Dubai Metro ... overhaul the taxi sector by employing artificial intelligence and smart systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/news/dubai-eyes-the-future-with-self-driving-cabs",
+      "originalUrl": "https://www.khaleejtimes.com/news/dubai-eyes-the-future-with-self-driving-cabs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210910/ARTICLE/210919986/AR/0/AR-210919986.jpg&NCS_modified=20210910083100&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/news/dubai-eyes-the-future-with-self-driving-cabs",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/dubai-eyes-the-future-with-self-driving-cabs",
+      "publishedDateTime": "2021-09-10T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

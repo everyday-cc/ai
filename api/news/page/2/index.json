@@ -106,50 +106,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-25-how-will-our-ethical-choices-be-determined-by-self-driving-cars.md",
-      "title": "How Will Our Ethical Choices Be Determined by Self-Driving Cars?",
-      "excerpt": "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/",
-      "originalUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/25/GettyImages-986605878-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/",
-      "publishedDateTime": "2021-11-24T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-11-24-the-best-amazon-black-friday-deals-2021-tvs-headphones-robot-vacuums-more.md",
       "title": "The Best Amazon Black Friday Deals 2021: TVs, Headphones, Robot Vacuums & More",
       "excerpt": "Amazon's early Black Friday deals are already live. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more.",
@@ -1198,6 +1154,40 @@
         "AI",
         "AI in Education",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-amazons-amzn-aws-clientele-expands-with-adidas-selection.md",
+      "title": "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection",
+      "excerpt": "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection",
+      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp",
+      "publishedDateTime": "2021-11-23T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

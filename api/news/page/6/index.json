@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-11-19-insurtech-company-kettle-is-using-ai-to-insure-against-wildfires.md",
-      "title": "Insurtech Company, Kettle, Is Using AI to Insure Against Wildfires",
-      "excerpt": "Kettle, the reinsurance startup that uses advanced deep learning to better protect people from the growing risks associated with climate change, such as California's wildfires, today announced it has been reinsuring homes during the 2021 wildfire season and that it raised a Series A financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insurtech-company-kettle-is-using-ai-to-insure-against-wildfires-1030991813",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insurtech-company-kettle-is-using-ai-to-insure-against-wildfires-1030991813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1693097/CA_Kettle_Risk_Map.jpg",
-          "width": 400,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-19-apple-pushing-ahead-with-development-of-fully-autonomous-car.md",
       "title": "Apple pushing ahead with development of fully autonomous car",
       "excerpt": "Alphabet Inc.'s Waymo has suffered a rash of departures ... made up primarily of neural processors that can handle the artificial intelligence needed for autonomous driving. The chip's ...",
@@ -1209,6 +1158,58 @@
         "AI",
         "Google AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-what-happens-when-ai-falls-into-the-wrong-hands.md",
+      "title": "What Happens When AI Falls Into The Wrong Hands?",
+      "excerpt": "However, as with any nascent technology, AI has the potential to cause harm when placed in the wrong hands. We’ve begun seeing AI used for nefarious purposes, chiefly in the form of AI-facilitated Cyberattacks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/",
+      "originalUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61968b78eabb15899588bc19%2F0x0.jpg",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/amp/",
+      "publishedDateTime": "2021-11-18T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

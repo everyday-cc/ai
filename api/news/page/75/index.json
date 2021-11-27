@@ -2,49 +2,6 @@
   "page": 75,
   "value": [
     {
-      "path": "_news/2021-09-30-uk-ai-strategy-focused-on-economic-growth-resilience-and-ethics.md",
-      "title": "UK AI strategy focused on economic growth, resilience and ethics",
-      "excerpt": "Chris Eastham of law firm Fieldfisher looks at the government’s National Artificial Intelligence Strategy, and the merits of the 10-year plan and its approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/opinion/UK-AI-strategy-focused-on-economic-growth-resilience-and-ethics",
-      "originalUrl": "https://www.computerweekly.com/opinion/UK-AI-strategy-focused-on-economic-growth-resilience-and-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/opinion/UK-AI-strategy-focused-on-economic-growth-resilience-and-ethics?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/UK-AI-strategy-focused-on-economic-growth-resilience-and-ethics?amp=1",
-      "publishedDateTime": "2021-09-30T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-30-nlp-brings-interactive-analytics-forward-but-what-are-the-requirements-to-make-augmented-ai-work-on-your-project.md",
       "title": "NLP brings interactive analytics forward - but what are the requirements to make augmented AI work on your project?",
       "excerpt": "Application of capabilities like Speech Recognition, Machine Translation, Natural Language Generation ... including statistics, data science, AI (machine learning and neural networks), and presenting the answers not just in interactive visualizations ...",
@@ -1184,6 +1141,57 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry.md",
+      "title": "AI (Artificial Intelligence): Poised To Transform The Massive Construction Industry",
+      "excerpt": "But if you look at the S-1 filing, there are some interesting details about the construction industry. For example, the investment in technologies has generally lagged (this is based on research from McKinsey) and the levels are only more than for agriculture and hunting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61549f1ba14eafa27698887b%2F0x0.jpg",
+          "width": 1200,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/amp/",
+      "publishedDateTime": "2021-09-29T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -2,49 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2021-10-25-baidu-to-foster-5-million-talents-to-power-ai-growth.md",
-      "title": "Baidu to foster 5 million talents to power AI growth",
-      "excerpt": "Chinese tech giant Baidu Inc will cultivate 5 million artificial intelligence talents in the next 5 years, aiming to create a well-rounded tech labor force and power AI growth, said Robin Li, co-founder and CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202110/25/WS61764096a310cdd39bc7113a.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202110/25/WS61764096a310cdd39bc7113a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202110/25/61764096a310cdd3d8159358.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-25-tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues.md",
       "title": "Tesla Pulls Its New Full Self-Driving Beta Due to Software 'Issues'",
       "excerpt": "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues.",
@@ -1145,6 +1102,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-quotation-of-the-day-us-warns-of-plan-by-the-chinese-to-collect-genetic-data-from-around-the-world.md",
+      "title": "Quotation of the Day: U.S. Warns of Plan by the Chinese to Collect Genetic Data From Around the World",
+      "excerpt": "U.S. Warns of Plan by the Chinese to Collect Genetic Data From Around the World “Once they have access to your genetic data, it’s not something you can change like a pin code.” EDWARD YOU, a national counterintelligence officer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html",
+      "originalUrl": "https://www.nytimes.com/2021/10/22/todayspaper/quotation-of-the-day-us-warns-of-plan-by-the-chinese-to-collect-genetic-data-from-around-the-world.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/22/us/politics/22dc-INTEL1/22dc-INTEL1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.amp.html",
+      "publishedDateTime": "2021-10-22T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

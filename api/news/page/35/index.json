@@ -2,40 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2021-10-28-from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-efforts.md",
-      "title": "From Cars (the Movie) to Self-Driving: Pixar Veterans Join Aurora to Advance Company's Simulation Efforts",
-      "excerpt": "Aurora continues to scale its Virtual Testing Suite, running millions of daily tests to rapidly increase capabilities of Aurora Driver Self-driving company Aurora announced it is accelerating simulation efforts by welcoming the team from Colrspace – a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/10/b23707997/from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-effo",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/b23707997/from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-effo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23707997",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23707997",
-      "publishedDateTime": "2021-10-28T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-28-government-pressed-on-gchq-aws-cloud-deal.md",
       "title": "Government pressed on GCHQ-AWS cloud deal",
       "excerpt": "The UK Government has been pressed to explain details of a reported deal between intelligence and security agency GCHQ and Amazon Web Services (AWS). Conor McGinn MP, the Labour Party’s shadow security minister,",
@@ -1136,6 +1102,49 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027.md",
+      "title": "Cognitive Systems Spending Market Study International Manufacturers Growth, Barriers, Opportunity, and Future Scope 2021-2027",
+      "excerpt": "The global cognitive systems spending market is estimated to account for US$ 24,710 Mn in terms of value by the end of 2027. The new research on Cognitive Systems Spending Market Perspective paints an unmistakable picture of vital drivers, key elements ...",
+      "sourceUrl": null,
+      "webUrl": "https://chipdesignmag.com/cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027/",
+      "originalUrl": "https://chipdesignmag.com/cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.themarketfeeds.com/seoimages/three.jpg",
+          "width": 3250,
+          "height": 3854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chip Design",
+        "domain": "chipdesignmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

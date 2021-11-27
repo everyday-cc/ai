@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fighting blood diseases with artificial intelligence"
-    excerpt: "Every day, cytologists around the world use optical microscopes to analyze and classify samples of bone marrow cells thousands of times. This method to diagnose blood diseases was established more than 150 years ago,"
-    publishedDateTime: 2021-11-22T20:23:00Z
-    webUrl: "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/fighting-blood-disease.jpg"
-        width: 1300
-        height: 1300
-        isCached: true
   - title: "Using Artificial Intelligence to Diagnose Blood Diseases"
     excerpt: "Researchers have found that a large amount of high-quality data to train an artificial intelligence algorithm for analyzing blood cells."
     publishedDateTime: 2021-11-24T15:56:00Z

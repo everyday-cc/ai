@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/26/ai-that-tries-to-be-funny-is-not-necessarily-a-laughing-matter-especially-when-used-by-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,70 @@ images:
     isCached: true
 
 related:
+  - title: "Here's what defines a self-driving car"
+    excerpt: "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car."
+    publishedDateTime: 2021-11-27T12:30:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/gXDWQg_Y5WW3tSuaBtDtIfx7WLE=/2021/07/22/0374dde4-e7b4-44df-b180-f9ac7be9e38b/2022-gmc-sierra-1500-towing-super-cruise-ogi.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Will Our Ethical Choices Be Determined by Self-Driving Cars?"
+    excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms"
+    publishedDateTime: 2021-11-24T17:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/"
+    ampWebUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 61
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/25/GettyImages-986605878-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving taxis are not arriving as soon as you think"
+    excerpt: "The road to automation has not been easy for cars, but the arrival of the Mobileye taxi could be a game-changer"
+    publishedDateTime: 2021-11-24T14:10:00Z
+    webUrl: "https://360.here.com/self-driving-taxis"
+    ampWebUrl: "https://360.here.com/self-driving-taxis?hs_amp=true"
+    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/self-driving-taxis?hs_amp=true"
+    type: article
+    provider:
+      name: HERE
+      domain: here.com
+    quality: 44
+    images:
+      - url: "https://360.here.com/hs-fs/hubfs/Arrival_van_banbury_yard_3.jpg?width=800&name=Arrival_van_banbury_yard_3.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Apple’s self-driving car coming in 2025: Report"
+    excerpt: "Whether Apple can launch the Apple Car in four years depends on how successful it is in developing self-driving technology."
+    publishedDateTime: 2021-11-25T07:38:00Z
+    webUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746"
+    ampWebUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
+    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
+    type: article
+    provider:
+      name: Philkotse
+      domain: philkotse.com
+    quality: 44
+    images:
+      - url: "https://img.philkotse.com/2021/11/25/kdtzClWN/untitled-design-2021-11-25t145918-649-6596_wm.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Want a self-driving car? Better not rush"
     excerpt: "Would it not be almost perfect after the day’s labor, or a night of fun, to just board your FSD (full self-driving) car, push a button and your computerized chariot takes you home while you nap at the back?"
     publishedDateTime: 2021-11-24T16:00:00Z
@@ -47,22 +111,6 @@ related:
         width: 686
         height: 392
         isCached: true
-  - title: "Apple’s fully self-driving electric car may be launched as early as 2025"
-    excerpt: "Apple is aiming to launch its self-driving car as early as 2025, Bloomberg News reported. Apple’s silicon engineering group, which devised the processors for the iPhone, iPad"
-    publishedDateTime: 2021-11-23T07:29:00Z
-    webUrl: "https://www.udayavani.com/english-news/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025"
-    ampWebUrl: "https://english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
-    cdnAmpWebUrl: "https://english-udayavani-com.cdn.ampproject.org/c/s/english.udayavani.com/article/apples-fully-self-driving-electric-car-may-be-launched-as-early-as-2025/1163696"
-    type: article
-    provider:
-      name: Udayavani
-      domain: udayavani.com
-    quality: 43
-    images:
-      - url: "https://mcmscache.epapr.in/post_images/website_326/post_25578185/full.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "What makes uni students steer clear of self-driving cars?"
     excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
     publishedDateTime: 2021-11-23T06:17:00Z
@@ -76,6 +124,20 @@ related:
       - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
         width: 1490
         height: 990
+        isCached: true
+  - title: "Apple wants to launch their self-driving car in 2025"
+    excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
+    publishedDateTime: 2021-11-23T19:30:00Z
+    webUrl: "https://omaha.com/news/national/apple-wants-to-launch-their-self-driving-car-in-2025/video_ed29d3cd-9850-5f31-b032-5356012a5614.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed29d3cd-9850-5f31-b032-5356012a5614/619d28a3d9226.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
+        width: 640
+        height: 336
         isCached: true
   - title: "Self-driving cars: Are they actually safe to drive?"
     excerpt: "Self-driving cars aren’t some crazy future tech … They’re here now. That raises some questions. Does it actually work? Is it safe? Is it work shelling out"
@@ -91,6 +153,15 @@ related:
         width: 1400
         height: 1400
         isCached: true
+  - title: "The legal challenges of self-driving cars"
+    excerpt: "The Department of Transport recently announced its intention to allow Automated Lane-Keeping Systems (ALKS) to be used on British roads by the end of 2021."
+    publishedDateTime: 2021-11-25T11:50:00Z
+    webUrl: "https://www.lawcareers.net/Explore/BlogPost/Max-Alexander-Jones/The-Legal-Challenges-of-Self-Driving-Cars"
+    type: article
+    provider:
+      name: LawCareers.Net
+      domain: lawcareers.net
+    quality: 4
 
 secured: "adolUuXkZeAlpoUOSmH/hbgG5kRoz2bxuE4WhXWQ3zdvoYf0wGJyT7DzVbrqjLF0bjOkJYTqZPCtVk/0kGZNZr22eDu8c+L1cqnS5hFyps9ro655d4aOvS0DmHKIJpyw6RX/jKlWEB/2aNPEt2Uqve+UOKq2sDlTx16mpAtoegHhfauKZ9lfRPJnOP+crc0BxITnDX+M7Kk1IOREF/iPKWj5aIJIz/RTpRXQASS/Lh6Q1vPzCr9cjRaSvJEUEKB74ErZz9hKVJFqyOvHIevjJgdMc48gLxdQ6sBLF32NNHM2nQR9iHH/nnllcJWqH97OL3/1VDIIZA4IOVE6BFiaTKtb3d4avcAY00lij50ex8Em0QgK+jv574tv8bTdjJwh/9b55EuofnUdpo/5qsJDCWJqrIpzx0830p0oWEGhx6T1qZAkzWzBrKwPsnowu4ryOo0UuyBPVuJYbrF9Wumxd//VZo+TDYt4xXSyPI7JWlujO3r3hF/jI0dXvbvD5XkLPX532WCHGef5MLe7RfFeAQ==;7LzeCZd90cSA4FrUKOFx4A=="
 ---

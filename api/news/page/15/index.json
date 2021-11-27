@@ -2,49 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-11-12-uae-aws-announces-plans-to-open-second-region-in-canada.md",
-      "title": "UAE - AWS Announces Plans to Open Second Region in Canada",
-      "excerpt": "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
-      "originalUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-11/11/A_32f2eimage_story.jpg",
-          "width": 1000,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T11:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-12-brainchip-goes-to-the-edge-and-beyond-at-edge-ai-summit.md",
       "title": "BrainChip Goes to the Edge and Beyond at Edge AI Summit",
       "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power, high-performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,",
@@ -1228,6 +1185,49 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-autonomous-taxi-market-set-to-rev-up.md",
+      "title": "Autonomous taxi market set to rev up",
+      "excerpt": "The market size of China's self-driving taxi services is expected to surpass 1.3 trillion yuan ($203 billion) by 2030, accounting for 60 percent of the country's ride-hailing market by then, said a report by global consultancy IHS Markit.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202111/11/618c6db7a310cdd3d819abef.jpeg",
+          "width": 635,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

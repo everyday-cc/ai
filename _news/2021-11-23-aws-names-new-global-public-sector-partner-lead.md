@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sandy Carter Leaving AWS’ Public Sector Partner Program For Outside Startup Role"
-    excerpt: "Sandy Carter is leaving Amazon Web Services for a new role at an unnamed startup after serving more than two years as vice president of AWS' worldwide public sector partner program"
-    publishedDateTime: 2021-11-22T19:38:00Z
-    webUrl: "https://www.crn.com/news/cloud/sandy-carter-leaving-aws-public-sector-partner-program-for-outside-startup-role"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
-    images:
-      - url: "https://www.crn.com/resources/026f-13c8fc8f3847-b37cc05b7df8-1000/sandy-carter-aws.jpg"
-        width: 1499
-        height: 1124
-        isCached: true
   - title: "Jeffrey Kratz Named General Manager of Worldwide Public Sector Partner Program at AWS"
     excerpt: "Amazon’s (NYSE: AMZN) cloud computing business has appointed Jeffrey Kratz, a nine-year Amazon Web Services veteran, as general manager of its worldwide public sector partner program, CRN reported Monday."
     publishedDateTime: 2021-11-23T10:38:00Z
