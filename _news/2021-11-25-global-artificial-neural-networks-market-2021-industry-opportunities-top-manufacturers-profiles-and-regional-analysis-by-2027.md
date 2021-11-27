@@ -25,94 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Size | Opportunity Analysis Report by 2026"
-    excerpt: "Facial Recognition Market size is set to cross USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook."
-    publishedDateTime: 2021-11-23T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23"
+  - title: "Global Natural Language Processing (NLP) Market 2021 Key Dynamics, Recent and Future Demand, Trend, Analysis upto 2027"
+    excerpt: "Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2021-2027 issued by MarketandResearch.biz offers an in-depth evaluation of all happenings in this market. The report gives an appraisal of the market size and comparing revenue inference."
+    publishedDateTime: 2021-11-23T18:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027-2021-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "German coalition backs ban on facial recognition in public places"
-    excerpt: "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),"
-    publishedDateTime: 2021-11-25T15:54:00Z
-    webUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/"
-    ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+  - title: "Global Machine Learning in Utilities Market 2021 Growth Analysis, Industry Trends, Sales Revenue, Future Development Status and Forecast by 2027"
+    excerpt: "A recently uploaded report namely Global Machine Learning in Utilities Market Growth (Status and Outlook) 2021-2027 has provided unique insights about the market for the given period. One of the main objectives of this report is to categorize the various dynamics of the market and to offer the latest updates,"
+    publishedDateTime: 2021-11-24T21:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-utilities-market-2021-growth-analysis-industry-trends-sales-revenue-future-development-status-and-forecast-by-2027-2021-11-24"
     type: article
     provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Market Industry Analysis, Opportunities, Segmentation & Forecast 2021 To 2028"
-    excerpt: "Market 2021 Global Market Opportunities, Challenges, Strategies, and Forecasts 2028″ has been added to Fortune Business Insights. Market Overview: The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360."
-    publishedDateTime: 2021-11-24T10:45:00Z
-    webUrl: "https://www.openpr.com/news/2473021/artificial-intelligence-ai-market-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2473021/artificial-intelligence-ai-market-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2473021/artificial-intelligence-ai-market-industry-analysis"
+  - title: "Global Cloud AI in Fintech Market 2021 Ongoing Trend, Recent Developments, Competitive Landscape and Regional Forecast to 2027"
+    excerpt: "Global Cloud AI in Fintech Market Growth (Status and Outlook) 2021-2027 is a fresh study released by MRInsights.biz, as it is gaining huge momentum all around the world. The study would act as a repository for all the shareholders involved in the Cloud AI in Fintech industry."
+    publishedDateTime: 2021-11-24T21:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-ai-in-fintech-market-2021-ongoing-trend-recent-developments-competitive-landscape-and-regional-forecast-to-2027-2021-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Computer Vision Development Market 2021 Industry Outlook, Key Players, Segmentation Analysis, Business Growth and Forecast to 2027"
+    excerpt: "Global Computer Vision Development Market Growth (Status and Outlook) 2021-2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level."
+    publishedDateTime: 2021-11-24T22:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-development-market-2021-industry-outlook-key-players-segmentation-analysis-business-growth-and-forecast-to-2027-2021-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Self-driving Chip Market Size, Share, Statistics, Demand And Revenue, Forecast 2027"
+    excerpt: "The Automotive Self driving Chip Market report provides details on the latest recent developments trade regulations import export analysis analysis of production value chain optimization market share impact of players on the national and localized market analysis of opportunities in"
+    publishedDateTime: 2021-11-24T07:54:00Z
+    webUrl: "https://www.openpr.com/news/2472545/automotive-self-driving-chip-market-size-share-statistics"
+    ampWebUrl: "https://www.openpr.com/amp/2472545/automotive-self-driving-chip-market-size-share-statistics"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472545/automotive-self-driving-chip-market-size-share-statistics"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub24581473_g.jpg"
-        width: 800
-        height: 428
-        isCached: true
-  - title: "Facial Recognition Market Insights by Emerging Trends, Growth and Forecast till 2024"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Nov 25, 2021, 06:06 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 billion in 2019 to USD 7.0 billion by 2024,"
-    publishedDateTime: 2021-11-25T12:01:00Z
-    webUrl: "https://menafn.com/1103249776/Facial-Recognition-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2024"
+    quality: 29
+  - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"
+    excerpt: "Nowadays businesses are highly relying on the different segments covered in the market research report which presents better insights to drive the business into right direction Artificial Intelligence ai in Drug Discovery market report presents the company profile product specifications"
+    publishedDateTime: 2021-11-26T07:23:00Z
+    webUrl: "https://www.openpr.com/news/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    ampWebUrl: "https://www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?240591"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
-    excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"
-    publishedDateTime: 2021-11-24T13:43:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-8b73b6f9e2d1423db2f17585122669b1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Image Recognition Market to Reach USD73.344 Billion by 2026 | TechSci Research"
-    excerpt: "Rise in online gaming, introduction of driverless cars, increased usage of social media platforms to drive the growth of Global Image Recognition Market through 2026. According to TechSci Research report,"
-    publishedDateTime: 2021-11-25T12:58:00Z
-    webUrl: "https://www.linkedin.com/pulse/image-recognition-market-reach-usd73344-billion-2026-techsci-joshi"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: openpr.com
+      domain: openpr.com
     quality: 20
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFHyrIrIAp-bQ/article-cover_image-shrink_600_2000/0/1637844049612?e=1643241600&v=beta&t=73H05lxXvyjELDM0KgIO8lcRFl0c1pjiUXoqPy4skps"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "KLe7ry6h+qbsmCVHXEIrYKPNZQA5zfvLi5MinYXm/XhSn1PAafz7TA103zZgMyoP9rW3e1HPzTCpwB4Bg/YgeFsHZG1TZQMxv0BNIGXMGDauimri1vsxH0vn21ScizlJ2uLJ6FupTtOC5GAmu0UtUPUHue4tRIplQDIJAcnMxg175uo6UV3r7Y2ZxQ9BSnVqHSLA79kLIbwifoR7HQAnWlQ6TsgxqvQ6rgvTHYusssYUjtVEG1j/DYOxIUk/onf7zvNCuOJoUJgOCzt1LtoHOCJepaBYcM6+LvgMdVfjbhXo2lDKGTq5c7Qp7f74OsjzkqEZVXNSJI6oPtu/Fk9wPAZWvC+qECbTiL+9YKRq8+4=;gPSTcDJhnV98B/+oNqho5w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-impro
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/30060223/adam-nowakowski-MFms-wkv3Ow-unsplash.jpg"
         width: 1920
         height: 2880
+        isCached: true
+  - title: "How AI Is Hijacking Art History"
+    excerpt: "Art historians have long used traditional X-rays, X-ray fluorescence or infrared imaging to better understand artists’ techniques."
+    publishedDateTime: 2021-11-27T19:01:00Z
+    webUrl: "https://www.discovermagazine.com/technology/how-ai-is-hijacking-art-history"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 37
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/KCJO46tt4uBdDqT1agJDx/add743dc634dac13256240914cc298e0/shutterstock_1709875687.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill"
+        width: 660
+        height: 433
         isCached: true
 
 secured: "/j5nIMUK4mX5xM3HDR6aQ4D/2nY5MXtSL9AFAsiUj4BR5iTXTp/Sm/3flXlWF499vCSMMydsFbum0bgSix22SgyTUJPW+GOxQJPRBhn1AAgnJ0pyE9/lINtWBBgz0/4/zfs+Q4XpDK9ulDkkZg7tb0v6+C0XFXcT1ziwgDX8bma55bF5IUdY+T7otCGk7AO7tesBlIe9T+CPzCwBr0W2vyL6EUfRFf94skfkxlLWDOWyzByKDUar5fBSMOVDM58rJTis3pS9byORGUhhYPHUF8tkXaAkH3q/EWNEmP2DzTw6Xe6lzDLkg6LS0dWU9/Kmq55EbfpTV+4JO9Lovg2GHpoNeGdiR4/73gEK3S8oN3S3Fg9vi2nFQAcpfrUAAhULeXXM7b9T+Miv8+stIdqnJQ+Fdm91cHBkGKI/F8H94R1cpJSeUd199imcjd3iEW1a5wbd+DpbJXcyng+zjCWXQWQSKWfYfc8z8SoyId4vZ3KNnVCJhk8QeM1oKArFQCUbGm9YVuunkI8iQ8+I1AdR4Q==;8N34IGpStlxbp4PxnAeTMA=="

@@ -121,20 +121,6 @@ related:
         width: 686
         height: 392
         isCached: true
-  - title: "What makes uni students steer clear of self-driving cars?"
-    excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
-    publishedDateTime: 2021-11-23T06:17:00Z
-    webUrl: "https://www.scimex.org/newsfeed/what-makes-uni-students-steer-clear-of-self-driving-cars"
-    type: article
-    provider:
-      name: scimex.org
-      domain: scimex.org
-    quality: 24
-    images:
-      - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
-        width: 1490
-        height: 990
-        isCached: true
   - title: "Self-driving cars: Are they actually safe to drive?"
     excerpt: "Self-driving cars aren’t some crazy future tech … They’re here now. That raises some questions. Does it actually work? Is it safe? Is it work shelling out"
     publishedDateTime: 2021-11-23T19:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-def
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://media.philstar.com/photos/2021/11/23/madam-tussauds-hk-pacman-1_2021-11-23_16-00-35959_thumbnail.jpg"
         width: 686
         height: 392
-        isCached: true
-  - title: "What makes uni students steer clear of self-driving cars?"
-    excerpt: "Cyber hacking and vehicle malfunctions are two roadblocks hampering the acceptance of self-driving cars - among Australian uni students in any case. Despite earlier projections that all of us would be 'backseat' drivers by 2020, motorists are refusing to ..."
-    publishedDateTime: 2021-11-23T06:17:00Z
-    webUrl: "https://www.scimex.org/newsfeed/what-makes-uni-students-steer-clear-of-self-driving-cars"
-    type: article
-    provider:
-      name: scimex.org
-      domain: scimex.org
-    quality: 24
-    images:
-      - url: "https://www.scimex.org/__data/assets/image/0007/758572/Google_driverless_car_at_intersection.gk.jpg"
-        width: 1490
-        height: 990
         isCached: true
   - title: "Apple wants to launch their self-driving car in 2025"
     excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."

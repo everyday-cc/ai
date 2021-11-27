@@ -49,6 +49,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How AI Is Hijacking Art History"
+    excerpt: "Art historians have long used traditional X-rays, X-ray fluorescence or infrared imaging to better understand artists’ techniques."
+    publishedDateTime: 2021-11-27T19:01:00Z
+    webUrl: "https://www.discovermagazine.com/technology/how-ai-is-hijacking-art-history"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 37
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/KCJO46tt4uBdDqT1agJDx/add743dc634dac13256240914cc298e0/shutterstock_1709875687.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill"
+        width: 660
+        height: 433
+        isCached: true
 
 secured: "at61rgTqiqI12p/i9eaxDPTqbDQvPMhyqLIQpok30z6uGf3XxtmqhP7ZS/QznP8XaZGRm0tW2V3WZCUxUOJ8uCesafdHOvvLeVAoipUhm6TGy1IIDhoJT9rtPph6gswfAq6lfTJbXt9hGzpHOjGuqkXfXppskXZV0LUCKT4Ujjv3NcCLE6bfReYW1REEsdJdSg+HDqx4KdiGwk0w8WbGApKYz6RY3McSeEHtZXCTTYOa8M587KmeAqRyVEj+zrzVeJURUF8+gczJc+VXLyYblsaPCtAbBPZgoTFEMytBT/VEVmzpc1nn60TjgOg4Kv4yaK8FJwKnoXMzJ6JNnGV6RACSj7BcLGPg0cn029h4REvsO/cwuJMHAgRb/H3mbmA+TWjYRsqpIGrWMXe8VFEztVF6Etx5OiXGnwcGZ5P95g1OpkgzPCiBeT0ubZ/UUmTOV0l5qBmn6X0I2XqS872/RQO03OS3hjgYelO0F9yHoGpjs+DtHKmvx0LyD/6e/GX51jFzifwULqKjmXhqZWKALQ==;/e1X15VE6hSc6drMqCQcwg=="
 ---

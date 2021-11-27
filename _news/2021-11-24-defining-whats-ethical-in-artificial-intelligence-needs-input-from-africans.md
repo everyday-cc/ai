@@ -58,6 +58,20 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Defining what’s ethical in artificial intelligence needs input from Africans"
+    excerpt: "We need international and national policies and regulatory frameworks to ensure that these emerging technologies benefit humanity as a whole."
+    publishedDateTime: 2021-11-27T22:21:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 53
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2021/11/file-20211115-25-jk2xnt-1024x670.jpg"
+        width: 1024
+        height: 670
+        isCached: true
 
 secured: "tSKb9Oi95RtHborlT6coiQ/I1OHjwgm6Sl4dwhP06h6n0rrt7XPRGsQXn5VlolYpf7jmlXEYfbcJOx07aMrX0Pf8Ec0SDDQxHPPtjXw0143njHIjLQsXCcbVsrdoaEYymmlD0Yq7MZTcW33BNEOM/awOxE2YZ0iyk6RIgpdCxPj053dDJZ5Wi1qs4f3ZCqq0zsYsMeNWlNapmpNQyZENj1/Qgisvo2KU+QZwLaX9FpmWPjv0JG3vksH1g7WMATZ1iLrw/oiTcuzE3i7yFiLYXByXO1ir1fqTu95DMv/pAv5KNR+LefPD7sgXpNJ12g+iQ3XFWfDvhfSY5/bUIwHOg6v3jtKVleIC4nXd+Xm/onD0gPDZMsjnaC/DKMwYF4DvjBZc5Nep5M14xZJewrkAT25KlWqv7/WuK2siehP9/AYNpx98eH+d8k+R/b064Op8ZEgEGh+vBWfycOdJ1bF1giOlWndS84l+01mI/WlYLNG4X2dxeIUTV45Ncvh6rxDWKPAdGPBpMr1SsAiv7Eh5uA==;0Zfkb3jhuCVZxkztF1JZqg=="
 ---

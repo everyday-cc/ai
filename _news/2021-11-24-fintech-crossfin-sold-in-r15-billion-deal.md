@@ -49,15 +49,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "VN fintech startup raises $1.9m in second seed round"
-    excerpt: "Gimo targets Vietnam’s blue-collar workers, giving them a convenient platform to monitor their earnings and receive them in real time."
-    publishedDateTime: 2021-11-23T05:08:00Z
-    webUrl: "https://www.techinasia.com/vietnam-fintech-startup-raises-19-seed-money"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
   - title: "How Fintech Paved the Way For Simple Investing"
     excerpt: "Advancements in technology have had a major disruption in the daily operations of businesses today. Businesses are trying as hard as they can to ensure that they keep up with technological changes and provide what their customers want."
     publishedDateTime: 2021-11-24T10:31:00Z

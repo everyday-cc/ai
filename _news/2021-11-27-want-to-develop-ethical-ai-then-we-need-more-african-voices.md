@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/defining-ethical-artificial-intelligen
 webUrl: "https://thenextweb.com/news/defining-ethical-artificial-intelligence-input-africans-syndication"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images.theconversation.com/files/431918/original/file-20211115-25-jk2xnt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=209&fit=crop"
         width: 320
         height: 209
+        isCached: true
+  - title: "Defining what’s ethical in artificial intelligence needs input from Africans"
+    excerpt: "We need international and national policies and regulatory frameworks to ensure that these emerging technologies benefit humanity as a whole."
+    publishedDateTime: 2021-11-27T22:21:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 53
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2021/11/file-20211115-25-jk2xnt-1024x670.jpg"
+        width: 1024
+        height: 670
         isCached: true
 
 secured: "Wk9Cn1rqiKy8FTBxXEce/rXvCFgb4gMudujPwmpL/ZemN5SlINeOb1QbI6Lzl0IbOnSF1XwQg6OGMAVrRrHPL9nRMbZY1XVUf56ZNz+YuZutfw2GmdCyGMky4yN+Yt2wLZ68c1OK9mSHJofS7FOYXZiCpigw4JwdpCOyVoxmGfw1GTv1Oqxr4jWIR7ZzYHyyr8iaRaCicXbDCv+dZ2j7RI0msE3i0H8G35WcUhJ03AT5cleLlogi2pnjzbw8PC+dY0qDE4DsCtFnRytBKCkBSIYrJTsZqaUiRx5a3c+t1cl0OdEiQzsZhACSGU1pKFAhL44RlI8GrO9UbSuemdNOjQvYPzzp5fVruxL3Smp0Gt1QN72exl44NWYEkdRLQPlKSqM9gOwwGbIe6tXgh1bj6RzEUy6K+UnoSXOM8k/YAIO1xZx7kOM4QKSkeIITS8vxRggdUPjGWJbMInYXPyyKjNbHlxcd7KIU7C8euKNExFEn91Od6u2W2cGKeR6f2QZUkidZDftO6OsOxfDyG0WHow==;NVLCJlsh7oz02CNEU8B0TA=="

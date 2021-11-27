@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?a
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp"
 type: article
 quality: 54
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -32,15 +32,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "VN fintech startup raises $1.9m in second seed round"
-    excerpt: "Gimo targets Vietnam’s blue-collar workers, giving them a convenient platform to monitor their earnings and receive them in real time."
-    publishedDateTime: 2021-11-23T05:08:00Z
-    webUrl: "https://www.techinasia.com/vietnam-fintech-startup-raises-19-seed-money"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
   - title: "Fintech Crossfin sold in R1.5-billion deal"
     excerpt: "Crossfin Technology Holdings, a fintech investment firm, has been acquired by a consortium of investors, including Patrice Motsepe’s African Rainbow Capital."
     publishedDateTime: 2021-11-24T05:10:00Z

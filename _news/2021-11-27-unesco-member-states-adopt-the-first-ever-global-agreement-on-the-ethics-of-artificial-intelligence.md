@@ -1,29 +1,28 @@
 ---
 category: news
 title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
-excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
-publishedDateTime: 2021-11-26T22:18:00Z
-originalUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-webUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-ampWebUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence"
+publishedDateTime: 2021-11-27T14:50:00Z
+originalUrl: "https://businessghana.com/site/news/General/251495/UNESCO-member-states-adopt-the-first-ever-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+webUrl: "https://businessghana.com/site/news/General/251495/UNESCO-member-states-adopt-the-first-ever-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
 type: article
-quality: 60
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: BusinessGhana
+  domain: businessghana.com
 
 topics:
-  - AI Ethics
+  - AI in Autos
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/11/unesco.jpg"
-    width: 680
-    height: 680
+  - url: "https://businessghana.com/site/img/../../cms/img/news/2021-11-27-144626000.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -245,6 +244,6 @@ related:
       domain: publicnow.com
     quality: 29
 
-secured: "Fh5MdrB+PlldavhSF5gzA/58UZ8b5oEkJxEY0p9O2dYjuyTpULjp+1Lwv5Vla1+aCph9LxCcVSJm0Q94yoaZNI75SNg6c9/MyP0cUrmFtAAoErty60V8dpOtdd5IovaF1Q8py1ltWpnUnrLatKms2jiJMWE66454l4WrX7NY7PaArYxJJZC4NPn46Ey3fk1594lgP1++I6alz9wsfzn26aeumaQgTbmM6sFZyjoTSgFBgUee5bocemY9j8+HNpSlG2YeTZ1DWEMrWPQ9N6bya5kHxPrGV9wlL+saK3swvS19951NbeIGzh0w/wSbVb2cWGI5Lpq3rMfkZPNd9rombCWHMkwWZ5raVsmwYwwYd2c=;RI7TudqRdeWLHtLxwqHW/Q=="
+secured: "gmVlUIsk0sMrMP44IpYh+7mtoe1h1SUrJYaX0B5Ey1OLqeFjGIN05tbgjf8ZgYSQOCysUZaOgNRQJVhWj0clrfqm6cXL9fe0WXAHxqrCapRSw+ZORhMcq9z8oYqkYU8vsTykeRSGyMcHnh76yx0FO49u+Wm8gcCCRakm+ZErkyWw5Okw+DZGsWoEtKb+98uPdV0OwDOfHeR7U8kvX20gGpZCqeP1y//AKW+b/eT5YKirRCZsGJp9Y76YFUvrwDgql05zs69N++aiX5HoM6vugTzC6jdd3O03puENrk4tSi8IV7NO0n6DIcYn2midcz3LYuCg4at1+7/Nhhd8Gnr9rSPr0PRSnH4yk0x3omY4YzA=;hC0kEJgeD7vQv6bJZFi8Vg=="
 ---
 

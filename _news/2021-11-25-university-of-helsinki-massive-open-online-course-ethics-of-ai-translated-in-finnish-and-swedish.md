@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-helsinki-massive-open-o
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish-2/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: India Education Diary
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "University of Helsinki: Massive open online course Ethics of AI translated in Finnish and Swedish"
-    excerpt: "The Finnish and Swedish translations for the University of Helsinki’s online course Ethics of AI will open on 23 November, in connection with a seminar on information policy at the Ministry of Finances."
-    publishedDateTime: 2021-11-23T05:07:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 61
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/01/university-of-helsinki-6.png"
-        width: 600
-        height: 314
-        isCached: true
   - title: "Massive open online course Ethics of AI translated in Finnish and Swedish"
     excerpt: "The open and free online course Ethics of AI is designed to help us understand what it means to use AI ethically, and what it requires from society and individuals. The course uses examples of practical issues from its collaboration partners."
     publishedDateTime: 2021-11-25T16:30:00Z

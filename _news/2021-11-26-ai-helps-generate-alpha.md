@@ -51,29 +51,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "Business Owners Flourish with the Help of AI"
-    excerpt: "According to a new Unsupervised study, one in two company owners using AI claim that it has aided their business during the labor shortage. As firms continue to experience high turnover rates, business owners can profit from AI automating tasks that previously required human workers,"
-    publishedDateTime: 2021-11-23T03:20:00Z
-    webUrl: "https://bestgamingpro.com/business-owners-flourish-with-the-help-of-ai/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 37
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Report-AI-has-assisted-half-of-all-business-owners-during-the-labor-shortage.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Dangers of unregulated artificial intelligence"
-    excerpt: "Artificial intelligence (AI) is often touted as the most exciting technology of our age, promising to transform our economies, lives, and capabilities. Some even see AI as making steady progress towards the development of ‘intelligence machines’ that will soon surpass human skills in most areas."
-    publishedDateTime: 2021-11-23T03:06:00Z
-    webUrl: "https://voxeu.org/article/dangers-unregulated-artificial-intelligence"
-    type: article
-    provider:
-      name: Vox
-      domain: voxeu.org
-    quality: 17
 
 secured: "MeyIc6HLEko4OxeYw6eghIN7aAJII7ThyGMc+i/C6+kvRT46El2kfCXTvUJhUOacSHQg0ygPifPPXYkey8VIgIv4yOHADZLE2NRlnoM9rmB8VhRX2cKHFjo7kZYjDJSkCfRt3fPdq88n1q2YSuRHBJVR20eQECRuDl05UDIqlVAdKlhFyuRbsk/9OkVeuPXZjNcNpXNHCEsvVxG9jpba2l9fk8mItpU8zpC4apHyBSMCU0kR3W9b5Yw56nLxJ9FvP2Rz9nCV0r+sOhVcilu6USphyFBo/rUwSkPNFWbg87bwUPC7TffRh1YPg5eHbbVTD5jzCCxedhrSGsEmyAcPkhLjZ8LWXJuuyoKPyEn2+is=;ZnUBro0q8dPlG6rD5NGh+g=="
 ---
