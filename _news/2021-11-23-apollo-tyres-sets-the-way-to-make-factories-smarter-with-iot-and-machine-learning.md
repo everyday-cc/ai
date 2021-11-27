@@ -44,6 +44,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Apollo Tyres moves to AWS to enhance customer experience"
+    excerpt: "Apollo Tyres, India's largest tyre maker, is moving its entire infrastructure to Amazon Web Services (AWS). To change the customer exper..|News Track"
+    publishedDateTime: 2021-11-24T06:45:00Z
+    webUrl: "https://english.newstracklive.com/news/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 59
+    images:
+      - url: "https://media.newstrack.in/amp/uploads/business-news/economy/Nov/24/big_thumb/appolo_619ddf6e468e4.JPG"
+        width: 1609
+        height: 900
+        isCached: true
   - title: "Apollo Tyres goes all out on AWS to use IoT and machine learning in factories"
     excerpt: "Apollo Tyres moves to AWS to digitize manufacturing, overhaul customer experience, and create “smart” factories to improve productivity and compliance"
     publishedDateTime: 2021-11-25T07:04:00Z

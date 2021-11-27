@@ -71,20 +71,6 @@ related:
         width: 800
         height: 428
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market 2021 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2027"
-    excerpt: "MarketandResearch.biz has publicized a brand new research study on Global Mobile Speech Recognition Software Market Growth (Status and Outlook) 2021-2027 which offers a unique point of view about the market."
-    publishedDateTime: 2021-11-22T23:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-mobile-speech-recognition-software-market-2021-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2027-2021-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI Market Research Report 2021: Ethical AI is Pivotal to the Maximization of the Future Growth Potential - ResearchAndMarkets.com"
     excerpt: "The “Ethical AI is Pivotal to the Maximization of the Future Growth Potential of the Global AI Market” report has been added to ResearchAndMarkets.com’s offering. Artificial intelligence (AI) is transforming organizations,"
     publishedDateTime: 2021-11-24T13:43:00Z

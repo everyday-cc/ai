@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-helsinki-massive-open-o
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.helsinki.fi/assets/drupal/styles/og_images/s3/media-image/eai-banner-rev-hel_600x.png?itok=uVkpXycV"
         width: 1200
         height: 630
-        isCached: true
-  - title: "University of Helsinki offers online course Ethics of AI in Finnish and Swedish"
-    excerpt: "The open and free online course Ethics of AI is designed to help us understand what it means to use AI ethically, and what it requires from society and individuals. The course uses examples of practical issues from its collaboration partners."
-    publishedDateTime: 2021-11-23T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/935681"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 50
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a0b076d8-5f57-4e78-a225-be8652690903/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
         isCached: true
 
 secured: "Hpjoqht+MYD0JZboL24mAAuN9Ve2HIwN2sLpWiuoR7CPRXvvrsDdcXv2IrENr5kTO9f+ujQaBT7VzTrPjNLnVsostwVXvBDxs+PgvtIpXyaMAKQRgVgHvzzIGPfEhWOpEWoTL60tDua4tBLHFog7RDyaiHeviZV6hR+2cOpwulwZNnrp0potKfETp9VGNqXDLfVTYf2VxB04XwDmo3plia4sy2ETWIbjxe4/MwEX/r+N2TyrGzWmLgusUe0hQRjeeIFDdWl+8XNn1WzhJBQEpHV5ZmAErDmyDX2NLLEv1h3H4P1MyO7J2gn67x17jIf7spprbCsMWRWNlbH7J38kxZ9kWpJwknVKHvD4eHO37bf3iHB68Ai28dJH2AiB3zxo5wsEBr7DIxYiqO/fE3QiZsU/2ha7WQdJxCRNIkHvkh+6smEn5EBMQmyla67s/IYCBWzZUfyq+1U63Leq9BrBSfsV+wPwsLS8d3MsdcgS/weH2I8y0WtGM9p3C60VcgFVRgTZcIAnDMJsxQfVj7b6ng==;3QULb5OHPTjS7aEzETAqdA=="

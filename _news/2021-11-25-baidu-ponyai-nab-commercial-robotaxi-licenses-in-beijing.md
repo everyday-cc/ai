@@ -272,6 +272,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "China's Baidu Granted a Permit to Collect Fares From Passengers Using its ‘Apollo Go' Robotaxi Service on Public Roads in Beijing"
+    excerpt: "China’s Baidu Inc announced that it was granted a service permit for Beijing's newly-launched zone for autonomous driving commercial services, which allows the company to charge for rides in its fully-autonomous ride-hailing vehicles."
+    publishedDateTime: 2021-11-26T18:30:00Z
+    webUrl: "https://www.futurecar.com/5022/China’s-Baidu-Granted-a-Permit-to-Collect-Fares-From-Passengers-Using-its-‘Apollo-Go’--Robotaxi-Service-on-Public-Roads-in-Beijing"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 10
+    images:
+      - url: "https://img.futurecar.com/202111/26/l_61a13c362aca4.jpeg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "China's Baidu Granted a Permit to Collect Fares From Passengers Using its Fully-Autonomous ‘Apollo Go' Robotaxi Service in Beijing"
     excerpt: "China’s Baidu Inc announced that it was granted a service permit for Beijing's newly-launched zone for autonomous driving commercial services, which allows the company to charge for rides in its fully-autonomous ride-hailing vehicles."
     publishedDateTime: 2021-11-26T18:30:00Z
@@ -282,6 +296,6 @@ related:
       domain: futurecar.com
     quality: 0
 
-secured: "rAYe7q0lQ6RnAgBaNPQF4BupK4kHFWM++wsmrkKBk98eYEb3hTzyXsJz1AiEaTauLz6QAJg5pxr0jSOTO6LvQl0GNEhcN4G2n4JSh+X3T+PqX3d6vRM9T+LoqUZpe1NHHjuElEI/lwmVeJkYtfgox3a/+5LcbYIqmi6Oeak0m0ioF0fFl9wIvZAhPQVlJiokN0NT+sL1y2qveL877+AmKh7VGNrfYg5gzJCtUfMkqbK10RRgCSLcPmK9j+sg8O/WyELg8F4zSV35GEuAiL3TDKj016F4wo9S6A62j3Iu8jpEvTRxxe3Fd1TCLnrk7Gm3ckHfdINq1eDrX5JYIuhaSMIaK7DZkZJlfS6MHewvwjU=;e5cYK+dlho5o8HuHcqmaWw=="
+secured: "A2lrSWKCvoTu5cfPGYRv59ov3d6N/Nr8IZiXdVCgGOZh7ubf/+Ee6GDQYKsbAz2e80DFA7eQturCjmW+uA2bwXM1ZvBV5KkBq8A+gNCHU/KN0dpqMUSANa/6VBWmD7T5bloa3kSN7HykokOiAbL0+VvtI/HOvd3nUQHHcRAfnNsVkpcVODtb9NLw6wOnCyfrvsl3qZrCOMyxXF1UWplBWhZ78bVhE8hvuYVHkkS5ax7tRAegGAofJ5NVPI2sjrjVPZsoZkT84poNajzRruc1Pxw5xIM9ltStdgGQ2O1B+NEHionttMr+4nRK+3MXm0UqBnhlIKRFI12N4evG18ctUvfc6R0Z5ggNnx53sxEDv/g=;nl863FxgMG9xgle3vw4GRA=="
 ---
 

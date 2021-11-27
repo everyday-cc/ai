@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn.thewirecutter.com/wp-content/media/2021/11/amazondeals-2048px-3x2-v1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Blink Black Friday Amazon Bundles Bring Security, AI At Up To 58% Off"
-    excerpt: "Amazon's Black Friday sales are already underway and Blink has some great deals, up to 58-percent off, on security camera bundles. So if you're looking to"
-    publishedDateTime: 2021-11-22T23:19:00Z
-    webUrl: "https://www.androidheadlines.com/2021/11/blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/11/blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/11/blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 74
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/11/Black-Friday-Deals-Blink-Amazon-Bundles-presser.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "The 100+ Best Amazon Black Friday Deals 2021"
     excerpt: "Amazon's early Black Friday deals are already live for 2021. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more."
@@ -222,6 +206,6 @@ related:
         height: 1175
         isCached: true
 
-secured: "hiAjErDg55pidbqU9BQwAwriy+Xvnt2440erHgtF0mwOORmGlINVjx1J0asCgc1H6MwTDd84DZwRxZb6kNhkYsS37wVTfiWFMhEKAbgq9eQRLVDe5xmEAnZvqRX+7lungRZe3dTRGqIprPujHdpLgol1WjCCSF0V4XJBmW3kWBmsGFsfaizq4Rcm09fwbnYbSkWMKmfowvyV2nclXL5C0Gb7SRFaOHQgVW7Wq4qqnj6ARLbWHZ2OuNAmZ8Uxz8ID3nocLrTkzQkrS0Qw6Na0StCqDs7v09nMREa3FtwIdfmrFP5HieWbi0d3sPGqTKVMGfHJa9d0tx3m3gnC4ii3NvtenOuPAcujXeVE0OpSUbg=;FBvKkEGFG2Ve9KuSJey2hQ=="
+secured: "h1RYZB8zLAR+ZRu8RYcx8rHRjp2O9GBVikgwBL0jRjVhlsd+ZGz9gDOLnAa9mXbAS55Ro8l5RPxRDD2nKQxinGHzBCKcmwAQsUUa5pbcEx5gG99FvLDBQVxdI5xTFeb0tSHrfi8V/7NvkGO8JEMPRs7bfW/7uX2a+tY3aEyxYbDGvDGgCrkjjrxnhJcXnnNQwSG9+RDtT5gxn2d4lNPwe3GbFco0KXIOtlc1BNmINvuk+m5HIiKqdGg3rnGW4VY664VJUmlR4d3w/I10MlZS6U7j3ZAb7gK0QXhFphJ86MgK4K9RHiEtNEKc2rnjjSezLaWZEfCylHnZ+vcIfx31l4NPf1/9b4eUlD6GeFwlJLCVKRJevZSYMF0GctdZ064VL9CvyZ0ISnMJx4FQEGS4noFTtvRWlALDJUa1OBnRv9+8+7wqsKTy86Nj9qi6dJQqwrkfYy+ffDP2BMC5ehAouU9YR+r02UHeqdO+54f48Y40z1jZ1BHC0RTINi3nwGSwBI9mV8ReDN1AndlwAQfAOw==;qIEVdpdi8vg66jzBrL1PGw=="
 ---
 

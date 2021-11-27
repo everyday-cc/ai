@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Blink Black Friday Amazon Bundles Bring Security, AI At Up To 58% Off"
-    excerpt: "Amazon's Black Friday sales are already underway and Blink has some great deals, up to 58-percent off, on security camera bundles. So if you're looking to"
-    publishedDateTime: 2021-11-22T23:19:00Z
-    webUrl: "https://www.androidheadlines.com/2021/11/blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/11/blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/11/blink-black-friday-amazon-bundles-bring-security-ai-at-up-to-58-off.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 74
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/11/Black-Friday-Deals-Blink-Amazon-Bundles-presser.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The 101+ Best Black Friday Deals in 2021"
     excerpt: "Black Friday 2021 has officially arrived. Find all the best Black Friday deals on Wirecutter-recommended TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."
     publishedDateTime: 2021-11-26T10:40:00Z

@@ -49,20 +49,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Mining gets AI boost with new research centre"
-    excerpt: "A new research centre to focus on next-generation AI technology has been launched at the AIML at the University of Adelaide."
-    publishedDateTime: 2021-11-23T00:41:00Z
-    webUrl: "https://www.australianmining.com.au/news/mining-gets-ai-boost-with-new-research-centre/"
-    type: article
-    provider:
-      name: australianmining.com.au
-      domain: australianmining.com.au
-    quality: 37
-    images:
-      - url: "https://www.australianmining.com.au/wp-content/uploads/2020/07/Alternative-2-TI-Mining-Image-1-scaled-e1594258151202.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "at61rgTqiqI12p/i9eaxDPTqbDQvPMhyqLIQpok30z6uGf3XxtmqhP7ZS/QznP8XaZGRm0tW2V3WZCUxUOJ8uCesafdHOvvLeVAoipUhm6TGy1IIDhoJT9rtPph6gswfAq6lfTJbXt9hGzpHOjGuqkXfXppskXZV0LUCKT4Ujjv3NcCLE6bfReYW1REEsdJdSg+HDqx4KdiGwk0w8WbGApKYz6RY3McSeEHtZXCTTYOa8M587KmeAqRyVEj+zrzVeJURUF8+gczJc+VXLyYblsaPCtAbBPZgoTFEMytBT/VEVmzpc1nn60TjgOg4Kv4yaK8FJwKnoXMzJ6JNnGV6RACSj7BcLGPg0cn029h4REvsO/cwuJMHAgRb/H3mbmA+TWjYRsqpIGrWMXe8VFEztVF6Etx5OiXGnwcGZ5P95g1OpkgzPCiBeT0ubZ/UUmTOV0l5qBmn6X0I2XqS872/RQO03OS3hjgYelO0F9yHoGpjs+DtHKmvx0LyD/6e/GX51jFzifwULqKjmXhqZWKALQ==;/e1X15VE6hSc6drMqCQcwg=="
 ---

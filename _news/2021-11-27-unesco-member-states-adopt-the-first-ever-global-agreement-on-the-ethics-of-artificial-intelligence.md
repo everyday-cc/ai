@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-27T14:51:00Z
 originalUrl: "https://businessghana.com/site/news/General/251495/UNESCO-member-states-adopt-the-first-ever-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
 webUrl: "https://businessghana.com/site/news/General/251495/UNESCO-member-states-adopt-the-first-ever-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://businessghana.com/site/img/../../cms/img/news/2021-11-27-144626000.jpg"
@@ -243,6 +244,6 @@ related:
       domain: publicnow.com
     quality: 29
 
-secured: "HqOEUU9Lh7+1blR9COHSKitFEHvzHogXLth0iM0R5Lh0f4IZGbnC0stxuwP649cvj9IHG5y0kjI9H0chH7pV9ojxGllxDhsDokkA+Ugw3hD/ARU2uoYGDEzKwkzv2UjAc+qXqIhA6QD26gyEqhQw5iFdO4DVI1ZyJab5/Wv0vYILr6OuJWQe2aeEizp9PBFcYso8/HuHhPzHQ+6dwOriTOe3zIH0XYHY+AC7QvIVHXQA9CU7TWI0m/F0acFm12axwvAYNMwBJ9WGw+vWRGeXxkcSbKeKBSVBly8BbAv0/XQ6hQgZ7B7iHXVm0P8D8bXyuIi3/bV5UfP+vSyfzIMD4uLA3sl6PMTrxQSO1HDv7tM=;ekTfhyzmjhNazJSFCNh/Hw=="
+secured: "0qqjMEVnoSWlu/QY2BNM+KNWtgbzHMihR5wXd9eoulmH2p3oP2yHkpnN3xs9NEBodSco2l3M5M4Cv0szfoLPXI24+JM74th77vcA2fjJZ4e/XI3DfDytbVX9y4tjZ9Wi5itsbhLzGTy5IZe1Too3lG4kI1fdnsZqH8OhccvrBPUntjkPeO93vr3cHfYUev1BMmxQu+RGGswWklafHaEtJ/wdQcsdnU2ttdZNDL60kKZimHz8KCLE7xn46ADm3cYe0CaSfFHEd0zsHRXwRcAiuNHCamQ8fCnjW2FC2OJbQ3mnLIhLFy/kUB/eklT//vDGfFxlzLESWyY4jOZo6RQoX0YTKm52m4aH4lnjoR+HK9GpbN90r9Ic1DTeccc3jU6edPcrwag4C9OXVQR/CoR/SvPhZSUGLJlWG1kS3UySqb+NlPbHSlbrlyFk4UzxLvWvu6NSqsfOJLKeeZWvJXsvtAz1ruuwwXBXaBq7zouGlyCtZC8hiUT+KncJs7a60rImVGi0OHImAMv4htMyXBCisQ==;1r42gOtkCbWlXvH+QfUs5w=="
 ---
 

@@ -37,6 +37,20 @@ related:
         width: 1920
         height: 1439
         isCached: true
+  - title: "Business Owners Flourish with the Help of AI"
+    excerpt: "According to a new Unsupervised study, one in two company owners using AI claim that it has aided their business during the labor shortage. As firms continue to experience high turnover rates, business owners can profit from AI automating tasks that previously required human workers,"
+    publishedDateTime: 2021-11-23T03:20:00Z
+    webUrl: "https://bestgamingpro.com/business-owners-flourish-with-the-help-of-ai/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 37
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Report-AI-has-assisted-half-of-all-business-owners-during-the-labor-shortage.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI Helps Generate Alpha"
     excerpt: "Nearly all asset managers using artificial intelligence-based technology in their pre-investment phase said it helped them to generate alpha. A survey from Deloitte Center for Financial Services found that 85% of respondents said using AI-based solutions in the pre-investment stage helped them generate returns."
     publishedDateTime: 2021-11-26T09:00:00Z
@@ -51,6 +65,15 @@ related:
         width: 420
         height: 437
         isCached: true
+  - title: "Dangers of unregulated artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is often touted as the most exciting technology of our age, promising to transform our economies, lives, and capabilities. Some even see AI as making steady progress towards the development of ‘intelligence machines’ that will soon surpass human skills in most areas."
+    publishedDateTime: 2021-11-23T03:06:00Z
+    webUrl: "https://voxeu.org/article/dangers-unregulated-artificial-intelligence"
+    type: article
+    provider:
+      name: Vox
+      domain: voxeu.org
+    quality: 17
 
 secured: "uNnD0S4HimyYrkeq6JyML/B0s5/mkHB+CE729NKVJuWRGk+BeFm9bEkp55XSgKoc3AHGoXloq/ryDF7i/YNZdP/MmEAgk/niLPr1PRcI+slYOWSQ8kAI6r+1WAin1jKkaY/yE0u01zopRun7F43Okr7UUAlaiNKXVjx1n6B3H8AbgyVxkopzDi4wlXJyd8A5S85YNdUtDOyZGi91SCqGs47em9n8ZAGa+yDVvjQCNnmVpsmkup7oc3bKmUloiu2AoKoTJ/BhEHSte2FqUBh5nJXEXYINE8OOXz7o2aUcyEij3QBCUGsVx6YcbCxCeg5103MwELUrfJsentO6msY4On/ozJdj9UglNX7l1YWiiRc=;4uj3GoOY/NeEmZjbm91weA=="
 ---

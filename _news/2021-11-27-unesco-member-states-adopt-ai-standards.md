@@ -209,7 +209,7 @@ related:
     provider:
       name: BusinessGhana
       domain: businessghana.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://businessghana.com/site/img/../../cms/img/news/2021-11-27-144626000.jpg"
         width: 800

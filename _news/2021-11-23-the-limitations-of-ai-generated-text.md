@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-limitations-ai-generated-text.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-limitations-ai-generated-text.amp"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
+  - title: "Business Owners Flourish with the Help of AI"
+    excerpt: "According to a new Unsupervised study, one in two company owners using AI claim that it has aided their business during the labor shortage. As firms continue to experience high turnover rates, business owners can profit from AI automating tasks that previously required human workers,"
+    publishedDateTime: 2021-11-23T03:20:00Z
+    webUrl: "https://bestgamingpro.com/business-owners-flourish-with-the-help-of-ai/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 37
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/Report-AI-has-assisted-half-of-all-business-owners-during-the-labor-shortage.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI Helps Generate Alpha"
     excerpt: "Nearly all asset managers using artificial intelligence-based technology in their pre-investment phase said it helped them to generate alpha. A survey from Deloitte Center for Financial Services found that 85% of respondents said using AI-based solutions in the pre-investment stage helped them generate returns."
     publishedDateTime: 2021-11-26T09:00:00Z
@@ -51,6 +65,15 @@ related:
         width: 420
         height: 437
         isCached: true
+  - title: "Dangers of unregulated artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is often touted as the most exciting technology of our age, promising to transform our economies, lives, and capabilities. Some even see AI as making steady progress towards the development of ‘intelligence machines’ that will soon surpass human skills in most areas."
+    publishedDateTime: 2021-11-23T03:06:00Z
+    webUrl: "https://voxeu.org/article/dangers-unregulated-artificial-intelligence"
+    type: article
+    provider:
+      name: Vox
+      domain: voxeu.org
+    quality: 17
 
 secured: "KUicSWEx/jhrWTOCtWDtuuvQBGpfKvbMjzEzXkRD08VJzuFlzSetbvjEofhgFKDnRCwZjKHfEg3xVa4caM5BMrO7F3BOJNp2/mBiMXDnhwbZfX4rjDKqI4Po1x3zH79138OApmycieg+qaX8GZuuowf/KFfDdblOUwhjTLFJKkpKnbZSoio+NH1AJzXFAegtNLs/yugXtWyO8wcQrUgE3MBhGq7aEtTF99y+5N+nx0dMVyL/stBRIqc2wSbeqzesUcpD6lki8pXQUOwXzHxQYRDukdYkazCtgZFlZ+ajXifnF0NAZjojJAtyZuCA+9vvq94OCnmtFWofR7tS+ZIf+ebSN4AuNg8ZpHdTtTkiLUg=;4Br13najFFzXjiXEZAXgjg=="
 ---

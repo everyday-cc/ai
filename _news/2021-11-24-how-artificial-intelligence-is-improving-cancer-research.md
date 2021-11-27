@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-impro
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1637905877-possessed-photography-jIBMSMs4-kA-unsplash.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Mining gets AI boost with new research centre"
-    excerpt: "A new research centre to focus on next-generation AI technology has been launched at the AIML at the University of Adelaide."
-    publishedDateTime: 2021-11-23T00:41:00Z
-    webUrl: "https://www.australianmining.com.au/news/mining-gets-ai-boost-with-new-research-centre/"
-    type: article
-    provider:
-      name: australianmining.com.au
-      domain: australianmining.com.au
-    quality: 37
-    images:
-      - url: "https://www.australianmining.com.au/wp-content/uploads/2020/07/Alternative-2-TI-Mining-Image-1-scaled-e1594258151202.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Top Five Ways Artificial Intelligence Is Improving Investment"
     excerpt: "This saying could not be truer, especially in modern times, as Artificial Intelligence governs everything we do from search to virtual assistance."
