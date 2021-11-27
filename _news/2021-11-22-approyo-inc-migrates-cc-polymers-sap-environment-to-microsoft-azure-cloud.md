@@ -3,12 +3,9 @@ category: news
 title: "Approyo, Inc. Migrates CC Polymers' SAP Environment to Microsoft AZURE Cloud"
 excerpt: "Approyo, Inc., a leader in global SAP & IT Managed Services and Solutions; today announced that Corpus Christi Polymers (CC Polymers) had selected Approyo as its SAP managed solutions and security provider."
 publishedDateTime: 2021-11-22T10:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-approyo-inc-migrates-cc-polymers-sap-environment-microsoft-/2021/11/22/9497402.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-approyo-inc-migrates-cc-polymers-sap-environment-microsoft-/2021/11/22/9497402.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/11/22/9497402.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/11/22/9497402.htm"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "0SV7qHqITU03FyfGjYJ/tRBQtXVjsRtIyA6amimxUNmofAdJSjWchlEg5Dfin8KeNbB75E7+bXPfGTHoTcmCPMQXiR3EaG8hWLh/GcSQ0sZZuN4gV2SY6lIjDaugZAFdeNgvkDTtV2qqitzoaBDfPYyC5uMngFxzxugN1bAskd2ldSDbMqB2Ff7OsaQVo5n5t8+bFQusGDK56e4OGvtQ3/fhmqifOAwGDgByv57SDCIbNc4PDw90HbkRo6asSn/IEd9fihyjc6Bai8BquJ7gb4gzM9P/NmvMsV8Sk38WJTysTdG6c8lJSF/0phTiA36OYKagReQ1ZlAfchpVrk42mXN7s7vIGIxYGRcjtvUuWTI=;Sa7veAjJAtwWm+jlB1bpcw=="
+secured: "00a78F6DRD32ezoAhopuSlARAXQO85mqjKPhmgSrRBuphoOU/3Fa6sG2pxZU6j42sSCq5f5stNGBadxC1CS7xPVfKN6JAFYWBvicKym6oB5voL1lGkW9fbMm99VCJRs4Q3gySwPcc44VBgUIc0f6ioCzNNLS75ZbaMmpQ5RrE3CFV9Z4WPPqWoqTWJgCBypUMSlFaatRze6V/GaeXa2CH7KGtkoi+AWp1VhQfncwUcbFaXIkv8KNtDbBk1gy8zAKXmXL6ZMvUdRrA2cExoneB7IJtuwI2tlyDlUgmVXNddoS7agBt79buI5kgGzfkY8AQDwoa3p2pX2vbnURFAmYphbp4cYHbGi0XGJOeFYRph4=;bppVNmOmcq7vtd3JS+uM5g=="
 ---
 

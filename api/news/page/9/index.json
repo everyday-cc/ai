@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-11-17-artificial-intelligence-plan-to-reduce-harm-to-pregnant-black-women.md",
+      "title": "Artificial Intelligence plan to reduce harm to pregnant black women",
+      "excerpt": "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_post_locator=urn:bbc:cps:curie:asset:26c1a88e-0fff-4b72-967d-3262e6c7fffb&pinned_post_asset_id=59306908&pinned_post_type=share",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908?pinned_post_locator=urn:bbc:cps:curie:asset:26c1a88e-0fff-4b72-967d-3262e6c7fffb&pinned_post_asset_id=59306908&pinned_post_type=share",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/590F/production/_121599722_gettyimages-79670619.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-leicestershire-59306908.amp",
+      "publishedDateTime": "2021-11-17T02:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-global-deep-learning-in-ct-scanners-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026.md",
+      "title": "Global Deep Learning in CT Scanners Market Size, Share, Revenue & Demand | Future Opportunities | Forecast upto 2026",
+      "excerpt": "In 2022, “Deep Learning in CT Scanners Market“ revenue was Million USD in 2016, grew to Million USD in 2021, and will",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-ct-scanners-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026-2021-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-ct-scanners-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026-2021-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-baidu-q3-adj-net-income-declines-ai-cloud-revenue-up-73.md",
       "title": "Baidu Q3 Adj. Net Income Declines; AI Cloud Revenue Up 73%",
       "excerpt": "Rong Luo, CFO of Baidu, said: \"With a diversified AI portfolio, including cloud services, smart transportation, smart devices, self-driving, smart EV and robotaxi, we are well positioned for long ...",
@@ -1034,110 +1129,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-windows-10s-forgotten-november-feature-update-is-rolling-out-now.md",
-      "title": "Windows 10’s forgotten November feature update is rolling out now",
-      "excerpt": "Microsoft began shipping the Windows 10 November 2021 Update (21H2) today, which PC users can begin asking for via Windows Update.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html",
-      "originalUrl": "https://www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2021/11/windows-10-fading.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html/amp",
-      "publishedDateTime": "2021-11-16T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai-trends-for-2022-how-will-ai-affect-you.md",
-      "title": "AI Trends For 2022 - How Will AI Affect You?",
-      "excerpt": "The year is almost at an end, and so it is once again time for the obligatory trends articles (Trends for 2022).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193e8bc87af81b55839db27%2F0x0.jpg",
-          "width": 919,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/11/16/ai-trends-for-2022how-will-ai-affect-you/amp/",
-      "publishedDateTime": "2021-11-16T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

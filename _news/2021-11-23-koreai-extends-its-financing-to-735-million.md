@@ -33,22 +33,6 @@ related:
         width: 599
         height: 315
         isCached: true
-  - title: "Jina.ai raises $30M for its for its neural search platform"
-    excerpt: "Berlin-based Jina.ai, an open-source startup that uses neural search to help its users find information in their unstructured data (including videos and images), today announced that it has raised a $30 million Series A funding round led by Canaan Partners."
-    publishedDateTime: 2021-11-22T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Screenshot-2021-11-21-165941.jpg"
-        width: 1094
-        height: 376
-        isCached: true
   - title: "The Briefing: Deliverr Bags $250M, Jina AI Lands $30M, And More"
     excerpt: "Berlin-based Jina AI, a startup focused on open-source neural search, announced that it raised $30 million in a Series A funding round led by Canaan Partners . Founded in 2020, the company has raised a total of $39 million to date."
     publishedDateTime: 2021-11-22T13:48:00Z

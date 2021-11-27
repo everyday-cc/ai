@@ -25,28 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AWS to be Cloud Provider for adidas SAP Workloads"
-    excerpt: "( AMZN ) company, has been selected as the preferred cloud provider for SAP workloads by adidas AG, one of the largest sports brands in the world. With the implementation of the modern SAP S/4HANA platform,"
-    publishedDateTime: 2021-11-22T10:19:00Z
-    webUrl: "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads"
-    ampWebUrl: "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-    excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
-    publishedDateTime: 2021-11-23T17:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+    excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
+    publishedDateTime: 2021-11-23T20:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/398836"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
+        width: 635
+        height: 400
+        isCached: true
   - title: "AWS wins Adidas contract to host its SAP workloads"
     excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
     publishedDateTime: 2021-11-23T15:54:00Z
@@ -61,24 +53,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Richemont Selects Amazon Web Services as Preferred Cloud Provider"
-    excerpt: "(NASDAQ: AMZN) company Amazon Web Services announced that Compagnie Financière Richemont SA is moving its entire enterprise IT infranstructure to WS. The company will close its European data centers and migrate additional data centers in Hong Kong and the United States to AWS by the end of 2022."
-    publishedDateTime: 2021-11-24T17:26:00Z
-    webUrl: "https://www.financialbuzz.com/richemont-selects-amazon-web-services-as-preferred-cloud-provider/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 21
-  - title: "Adidas migrates SAP Environments to AWS"
-    excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
-    publishedDateTime: 2021-11-22T13:46:00Z
-    webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "3Q7EN/VfopgeOMfHyA/+BsXtFTIMpxmbFCiXd43wbzIx2skc16ZR9EQCH6cRB522jGavtXnKC4txxqDXD2xl5ohuwxXzA+Nz5PfLKfnvhkKBJHkDGGby4GK9H5jYs8f75Gdf6YEq0QkHyODztU4Io9VNdROEzRlrfB1qw3I2A1htZmpZrLZQpxOdlkC6D5vyNFX0nq5/8s2BQxwlX/PHKgg3Xb04PXC2yN7PC5kXv14IePuuxi8XbcI6o9iNcWy4bJQN76PyKZhpjSl5U5afVkByUGa31So1N0Yn5OkOX99sh9+IsTkKy7fDvbJ6/rmufXYcHdm5H2uq+5RK+luLJ5gZsnb6M1U28Hww0Xy/pagt1afaxv+M1axFl+KnNRzsWPy59RFBf0bh/KnoN8E/Ue0JfCDpMXjBiL7EOtPUkEY0hVuLlmHlmBLN9eqQGSfsL7vm1oYHJ8lyoYJNd+ClONGjKPZgRz+Ycn/EJlbzOSpFEs0rsQdQFy4Pam6PBETqG8axufNhI56lCowY9M15Fw==;krY0i6IjJj7sEKiFgOg9Lg=="
 ---

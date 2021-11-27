@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/worldwide-artificial-intelligence-
 webUrl: "https://www.gartner.com/en/newsroom/press-releases/2021-11-22-gartner-forecasts-worldwide-artificial-intelligence-software-market-to-reach-62-billion-in-2022"
 type: article
 quality: 117
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub22348672_g.jpg"
         width: 800
         height: 378
-        isCached: true
-  - title: "Gartner Forecasts Worldwide Artificial Intelligence Software Market to Reach $62 Billion in 2022"
-    excerpt: "Market Growth Will Accelerate as Organisations Progress Their AI Maturity Worldwide artificial intelligence (AI) software revenue is forecast to total $62.5 billion in 2022, an increase of 21.3% from 2021,"
-    publishedDateTime: 2021-11-22T10:43:00Z
-    webUrl: "https://www.all-about-security.de/english-news/gartner-forecasts-worldwide-artificial-intelligence-software-market-to-reach-62-billion-in-2022/"
-    type: article
-    provider:
-      name: All About Security
-      domain: all-about-security.de
-    quality: 24
-    images:
-      - url: "https://www.all-about-security.de/wp-content/uploads/2021/11/mockup-g935a8b9df_640.jpg"
-        width: 640
-        height: 427
         isCached: true
 
 secured: "N/PPthgWyYWtrAeB+adjfYzh8r8Q3VX6akkvHGqtvMZqNyLq/QNsIL3yzSyi0Tas9cE2qO5yiw++q3pXH/2m6Fxc+XxrHyoGZHmcIk0JoQvH3iMl07qMAr88UT15OAFq6Lb/Ef9VXx3HgGNupzFhCpupt3R05blqe7/8uLw8DhmaxQ+5QLITKLTtLiIfr+MSEaO+ufkMt/TPek7QlZEM7xMorRN1E5zbjp3QZGuWpWzGo30go1mU8lqJwLYGRpHBK5yCxWCuLx1xIMypRosjDrzljmbumQC0uGgxXgR9Ae3ugMfmMVCh1wUF+EhHWivj3urXLjH0zJPy3T1hkBeiySPo412WX64WmCQPEBuIG1v6Tq6qw6wEwPzYUg5XLHUeHlMjItXlBm3geILv7ypa1QzBMwsS1TOinRWcXGKdVmgoDQmioyGnFmOQ4mtyHKXD5xirECxkeMIAqWuvvJAZlJhoYposjFPNY/RH8OnIDt8FikCYSo+0kCi6EW97doLwflA+9ODlzeS7xxtVuKpQ7z31gUkOcFW6aSmnRSGxUwg=;jG3vtwyHVVVhIew5EqePLg=="

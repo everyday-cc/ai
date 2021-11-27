@@ -38,22 +38,6 @@ related:
         width: 599
         height: 315
         isCached: true
-  - title: "Jina.ai raises $30M for its for its neural search platform"
-    excerpt: "Berlin-based Jina.ai, an open-source startup that uses neural search to help its users find information in their unstructured data (including videos and images), today announced that it has raised a $30 million Series A funding round led by Canaan Partners."
-    publishedDateTime: 2021-11-22T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/22/jina-ai-raises-30m-for-its-for-its-neural-search-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Screenshot-2021-11-21-165941.jpg"
-        width: 1094
-        height: 376
-        isCached: true
   - title: "Kore.ai Extends Its Financing to $73.5 Million"
     excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In"
     publishedDateTime: 2021-11-23T12:00:00Z

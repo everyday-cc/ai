@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-19-two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire.md",
+      "title": "Two Young Roommates Are Building An Artificial Intelligence Real Estate Empire",
+      "excerpt": "It's amazing to see that the pandemic has created a boom in entrepreneurialism and shown how AI and tech, along with the human touch, can both improve the lives of people and build new innovative businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197b0ddfb2e0726828aedae%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/amp/",
+      "publishedDateTime": "2021-11-19T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-sensetime-gets-green-light-from-hong-kong-exchange-to-proceed-with-us2-billion-ipo-sources-say.md",
+      "title": "SenseTime gets green light from Hong Kong exchange to proceed with US$2 billion IPO, sources say",
+      "excerpt": "SenseTime has got the green light from the Hong Kong stock exchange to proceed with its flotation, according to people familiar with the transaction, taking the largest artificial intelligence (AI) company in China a step closer to its US$2 billion initial public offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
+      "originalUrl": "https://www.msn.com/en-xl/money/other/sensetime-gets-green-light-from-hong-kong-exchange-to-proceed-with-us-2-billion-ipo-sources-say/ar-AAQU7Bm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/19/c27a751e-493e-11ec-88c2-0bacf4eabd5b_image_hires_215158.jpg?itok=D_CZNEt0&v=1637329925",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
+      "publishedDateTime": "2021-11-19T05:11:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
+        "domain": "scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-advancing-ai-with-data-and-machine-learning-what-else-is-needed.md",
       "title": "Advancing AI With Data And Machine Learning: What Else Is Needed?",
       "excerpt": "The U.S. and almost all countries today identify AI as a critical strategic area in the future of computing. Companies are more invested than ever in discovering how AI can provide advantages in their competitive markets.",
@@ -1124,109 +1219,6 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-swishai-raises-13m-to-automate-it-service-desk-tasks.md",
-      "title": "Swish.ai raises $13M to automate IT service desk tasks",
-      "excerpt": "Swish, a startup developing a platform to automate IT service tasks using AI, has raised $13 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/",
-      "originalUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/",
-      "publishedDateTime": "2021-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out.md",
-      "title": "Do AI-powered lending algorithms silently discriminate? This initiative aims to find out",
-      "excerpt": "The first is that leaving a lending decision to an algorithm mitigates the bias that can come with human judgement. The second is that these algorithms have the power to spot good credit risks because they can suck in and process so much more data about an applicant than traditional formulas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
-      "originalUrl": "https://www.marketwatch.com/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-436779/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
-      "publishedDateTime": "2021-11-18T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
