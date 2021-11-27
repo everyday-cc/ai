@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?a
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp"
 type: article
 quality: 54
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/shutterstock_163502138-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "10 Reasons Why Fintech's Great for the Future of Franchising"
+    excerpt: "Exploring ways fintech can improve franchising, from offering better security using biometrics to improving user experience through contactless payments"
+    publishedDateTime: 2021-11-27T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-reasons-why-fintechs-great-future-franchising"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/franchise_0.jpg.png?itok=xpLQeqOm"
+        width: 1200
+        height: 630
         isCached: true
   - title: "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021"
     excerpt: "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who"

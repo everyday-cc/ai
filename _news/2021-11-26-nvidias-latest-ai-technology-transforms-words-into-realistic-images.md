@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
 type: article
 quality: 89
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -60,6 +60,38 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-3-3.jpg&signature=5e49d582b9b8913cdfc8efca89446184"
         width: 796
         height: 398
+        isCached: true
+  - title: "Nvidia's next AI can turn words into photorealistic images"
+    excerpt: "Just a few weeks ago we saw how the company can use AI to automatically match voice lines to 3D animated faces. This cool kind of tech that can help people create great things with ease, or in the case of Nvidia’s latest unveiling,"
+    publishedDateTime: 2021-11-25T09:00:00Z
+    webUrl: "https://www.pcgamer.com/au/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
+    ampWebUrl: "https://www.pcgamer.com/au/amp/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/uNoFn2TGWRakob6ppH3YLS-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "NVIDIA GauGAN2 AI Creates Stunning Photorealistic Artwork From Simple Human Phrases"
+    excerpt: "I have that in common with NVIDIA's GauGAN2 AI, but I think one of us might be better at it than the other. Big Green has created an application that interfaces with a \"generative adversarial neural network\" called GauGAN2 (a follow-up to its original GauGAN AI) to create editable,"
+    publishedDateTime: 2021-11-22T19:46:00Z
+    webUrl: "https://hothardware.com/news/nvidia-gaugan2-ai-creates-stunning-photorealistic-artwork-from-simple-human-phrases"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-gaugan2-ai-creates-stunning-photorealistic-artwork-from-simple-human-phrases"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-gaugan2-ai-creates-stunning-photorealistic-artwork-from-simple-human-phrases"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 51
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56859/content/small_montage.jpg"
+        width: 708
+        height: 472
         isCached: true
   - title: "Kore.ai Extends Series C Funding to $73.5M With NVIDIA"
     excerpt: "Kore.ai, an Orlando, Fla.-based conversational AI software company, extended its Series C funding round to $73.5m with participation from NVIDIA (NASDAQ: NVDA)"

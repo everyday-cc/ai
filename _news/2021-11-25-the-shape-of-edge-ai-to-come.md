@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://elclasificado.com/photos/cd/18/cd1898064dc84653b7db795892432ac5/l.jpg?image=0"
         width: 720
         height: 405
-        isCached: true
-  - title: "Appreciating the Potential of AI"
-    excerpt: "Mohammed Alam was recently hired as the deputy director of Northwestern Engineering’s Master of Science in Artificial Intelligence (MSAI) program, where he will collaborate with students to shape their experience and explore future possibilities of what AI can and will be."
-    publishedDateTime: 2021-11-22T18:51:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/appreciating-the-potential-of-ai.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 37
-    images:
-      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/appreciating-the-potential-of-ai-1200.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The Impact of Artificial Intelligence on Branding"
     excerpt: "According to Oxford, AI technologies are expected to contribute $15 billion to the world economy by 2030.  Today’s big companies like Amazon, Netflix, Google, Facebook, Uber have been using artificial intelligence as a part of their branding and marketing strategies,"

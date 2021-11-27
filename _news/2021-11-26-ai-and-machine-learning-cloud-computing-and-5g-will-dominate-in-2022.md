@@ -9,7 +9,7 @@ ampWebUrl: "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-w
 cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/amp/"
 type: article
 quality: 76
-heat: 77
+heat: 78
 published: true
 
 provider:

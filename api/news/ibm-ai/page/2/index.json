@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-11-emergence-of-artificial-intelligence.md",
+      "title": "Emergence Of Artificial Intelligence",
+      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeksforgeeks.org/emergence-of-artificial-intelligence/",
+      "originalUrl": "https://www.geeksforgeeks.org/emergence-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geeksforgeeks.org/emergence-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/emergence-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-10-10T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeeksforGeeks",
+        "domain": "geeksforgeeks.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-how-fiserv-improved-a-cumbersome-client-service-experience-with-a-watson-enabled-virtual-agent.md",
+      "title": "How Fiserv improved a cumbersome client service experience with a Watson-enabled virtual agent",
+      "excerpt": "The IT team at Fiserv uses AI to streamline customer and agent interactions Watson Assistant efficiently handling Fiserv’s unique acoustical challenges With an AI solution already in place, reacting to market disruption is a snap Promise and pitfalls Fiserv is an exciting example of AI’s power to increase",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/ACDC_140-WA-WD-Fiserv-Blog-Post_Large-1-copy-2.jpg",
+          "width": 2000,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-08T05:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-how-ai-can-fight-human-trafficking.md",
       "title": "How AI can fight human trafficking",
       "excerpt": "A startup relies on AI-based tools to observe patterns of human trafficking and the larger criminal networks at play.",
@@ -1235,83 +1321,6 @@
       "provider": {
         "name": "Light Reading",
         "domain": "lightreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-ai-powered-automation-and-aiops-in-focus-at-ibm-virtual-event.md",
-      "title": "AI-powered automation and AIOps in focus at IBM virtual event",
-      "excerpt": "AI-enabled automation is crucial for supporting ... and organic R&D including the launch of Cloud Pak for Watson AIOps and IBM Watson Orchestrate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/j5alr7QaOd97pYQk",
-      "originalUrl": "https://www.itweb.co.za/content/j5alr7QaOd97pYQk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/j5alr7QaOd97pYQk",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alr7QaOd97pYQk",
-      "publishedDateTime": "2021-09-13T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-11-weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more.md",
-      "title": "Weekly Bytes | NASA to launch most powerful space telescope, IBM Watson gets new AI capabilities, and more",
-      "excerpt": "NASA on Wednesday said it plans to launch the James Webb Space Telescope (JWST) into orbit on December 18, 2021, to serve as the premier deep space observatory for the next decade. “The Webb telescope’s revolutionary technology will explore every phase of cosmic history – from within our solar system to the most distant observable galaxies in the early universe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more/article36399158.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more/article36399158.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-11T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null

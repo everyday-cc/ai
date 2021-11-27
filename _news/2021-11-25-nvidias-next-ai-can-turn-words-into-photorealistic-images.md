@@ -26,35 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "‘Paint Me a Picture’: NVIDIA Research Shows GauGAN AI Art Demo Now Responds to Words"
-    excerpt: "A picture worth a thousand words now takes just three or four words to create, thanks to GauGAN2, the latest version of NVIDIA Research's wildly popular AI painting demo. The deep learning model behind GauGAN allows anyone to channel their imagination into photorealistic masterpieces - and it's easier than ever."
-    publishedDateTime: 2021-11-22T18:20:00Z
-    webUrl: "https://blogs.nvidia.com/blog/2021/11/22/gaugan2-ai-art-demo/"
+  - title: "Nvidia's latest AI technology transforms words into realistic images"
+    excerpt: "Nvidia showed its GauGAN technology for the first time in 2019, but only recently we saw it being featured in a product available for the general"
+    publishedDateTime: 2021-11-25T17:08:00Z
+    webUrl: "https://www.techspot.com/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 130
-    images:
-      - url: "https://blogs.nvidia.com/wp-content/uploads/2021/11/gaugan2-corp-blog-128-adaptive-1280x680-1-672x381.gif"
-        width: 672
-        height: 381
-        isCached: true
-  - title: "The absurd beauty of hacking Nvidia's GauGAN 2 AI image machine"
-    excerpt: "Typing nonsense phrases into Nvidia's algorithm produces some fascinating \"errors,\" by times beautiful, by times wretched, in most cases fascinating."
-    publishedDateTime: 2021-11-22T18:32:00Z
-    webUrl: "https://www.zdnet.com/article/the-absurd-beauty-of-hacking-nvidias-gaugan-2-ai-image-machine/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-absurd-beauty-of-hacking-nvidias-gaugan-2-ai-image-machine/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-absurd-beauty-of-hacking-nvidias-gaugan-2-ai-image-machine/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: TechSpot
+      domain: techspot.com
     quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/3e885468188c045e4dd84aa7899b97241a7a79eb/2021/11/22/96c59f65-5b07-4d16-9335-38a95e9eb6da/zdnet-superb-reporting.png?width=1200&fit=bounds&auto=webp"
+      - url: "https://blogs.nvidia.com/wp-content/uploads/2021/11/gaugan2-corp-blog-128-adaptive-1280x680-1.gif"
         width: 1200
-        height: 1200
+        height: 680
+        isCached: true
+  - title: "NVIDIA’s new AI eats words, spits out photos and feels borderline magical"
+    excerpt: "NVIDIA has as generative art system that uses AI to turn words into visually spectacular works of art. This isn’t the first time this sort of concept has been postulated, or even produced."
+    publishedDateTime: 2021-11-23T02:33:00Z
+    webUrl: "https://www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255/"
+    ampWebUrl: "https://www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 86
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/oceanrockes.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Nvidia’s new text-to-image tool shows how AI could render stock photos obsolete"
+    excerpt: "Stock image providers may be concerned about their future after Nvidia showed AI's potential to generate realistic images"
+    publishedDateTime: 2021-11-23T20:06:00Z
+    webUrl: "https://thenextweb.com/news/nvidia-gaugan2-text-to-art-tool-shows-ai-could-replace-stock-photos"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-3-3.jpg&signature=5e49d582b9b8913cdfc8efca89446184"
+        width: 796
+        height: 398
         isCached: true
   - title: "NVIDIA GauGAN2 AI Creates Stunning Photorealistic Artwork From Simple Human Phrases"
     excerpt: "I have that in common with NVIDIA's GauGAN2 AI, but I think one of us might be better at it than the other. Big Green has created an application that interfaces with a \"generative adversarial neural network\" called GauGAN2 (a follow-up to its original GauGAN AI) to create editable,"
@@ -72,35 +88,19 @@ related:
         width: 708
         height: 472
         isCached: true
-  - title: "NVIDIA Research unveils GauGAN2, a new AI art demo that generates scarily-accurate images from text"
-    excerpt: "NVIDIA showed off GauGAN, an AI-powered demo that generates images from sketches. NVIDIA has been training GauGAN since then, and the AI can now respond to semantics, generating images from"
-    publishedDateTime: 2021-11-22T17:39:00Z
-    webUrl: "https://www.dpreview.com/news/9101147300/nvidia-research-unveils-gaugan2-the-ai-art-demo-generates-images-from-text"
-    ampWebUrl: "https://m.dpreview.com/news/9101147300/nvidia-research-unveils-gaugan2-the-ai-art-demo-generates-images-from-text.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/9101147300/nvidia-research-unveils-gaugan2-the-ai-art-demo-generates-images-from-text.amp"
+  - title: "Kore.ai Extends Series C Funding to $73.5M With NVIDIA"
+    excerpt: "Kore.ai, an Orlando, Fla.-based conversational AI software company, extended its Series C funding round to $73.5m with participation from NVIDIA (NASDAQ: NVDA)"
+    publishedDateTime: 2021-11-23T18:58:00Z
+    webUrl: "https://www.finsmes.com/2021/11/kore-ai-extends-series-c-funding-to-73-5m-with-nvidia.html"
     type: article
     provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 43
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
     images:
-      - url: "https://1.img-dpreview.com/files/p/E~TS590x0~articles/9101147300/viewing-endless-tall-mountains-in-a-sunny-day_out.jpeg"
-        width: 590
-        height: 590
-        isCached: true
-  - title: "NVIDIA Releases Version 2 Of GauGAN, Its Scaringly Accurate AI Art Solution"
-    excerpt: "The new model consists of a text-to-image feature, the original version could only turn a rough sketch into a detailed image."
-    publishedDateTime: 2021-11-23T06:42:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-releases-version-2-of-gaugan-its-scaringly-accurate-ai-art-solution/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 35
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/nvidia-gaugan2.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/kore.png"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "Qdvq0tVsKo+ntYzU6pihpEvg1TRYTWgpuuE4QS/erKkr7KFh/jt8WIChFwCAxIolCq64AUNdio26oGv45S5YOh4fow7fz2EnNuWveKSasx9wrVuAWBNNjdY4G4TvgH0nuO2a+M4hGxQjgmhR0AHMYg3DL+kwGQ3EdBSNg+7Ef+0tueUvk1QcR8U82x6i5WCmKYlOM6jh7TooX18B25UTojCmDzE7zHiQsBV0E4tTVMRkd/6Y/4R8gerChxMR6hOrFNJQ9kXBvnbf2GHHy7TF/KU/Whgso0+0esfpg8ff0xEIBXn3rC8Hol/1OlVUE3hPUQaz/wf6oEG1B0rGSpPdOo8OTTHCAy965iZRKyprz0s=;nGYjIcQKI21n/U+bUzBG0g=="

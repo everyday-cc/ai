@@ -2,6 +2,213 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-11-17-ai-customer-service-startup-netomi-raises-30-million.md",
+      "title": "AI Customer-Service Startup Netomi Raises $30 Million",
+      "excerpt": "The new round of funding values the company at $210 million, up from a valuation of $67.5 million in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "originalUrl": "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-436249/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
+      "publishedDateTime": "2021-11-17T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-five-ai-strategies-cxos-can-use-to-transform-their-business.md",
+      "title": "Five AI Strategies CXOs Can Use To Transform Their Business",
+      "excerpt": "CEO and Co-Founder at Affine, an AI evangelist, business builder, and entrepreneur at heart. Ensuring growth by transformative solutions. $15.7 trillion: That is the figure we predict artificial intelligence is going to contribute to the global economy by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616836b70b2d3470ee1e3a1a%2F0x0.jpg",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/amp/",
+      "publishedDateTime": "2021-11-17T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-the-future-of-ai-powered-document-processing.md",
+      "title": "The Future Of AI-Powered Document Processing",
+      "excerpt": "Through intelligent document processing (IDP), the process of data extraction automation from unstructured and semi-structured documents and conversion into structured and usable data, AI has tangibly amplified extracting data with high accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdcc3472c78ec67b5540bbc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/",
+      "publishedDateTime": "2021-11-17T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-qualcomm-aims-for-diversification-will-soon-supply-chips-for-bmw-self-driving-cars.md",
+      "title": "Qualcomm aims for diversification, will soon supply chips for BMW self-driving cars",
+      "excerpt": "Qualcomm Inc announced on Tuesday that BMW cars will utilize its chips in its driver-assistance and self-driving systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/",
+      "originalUrl": "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2017/09/qualcomm-chip.jpg",
+          "width": 1024,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/17/qualcomm-to-supply-chips-for-bmw-self-driving-cars-targets-diversification/?amp=1",
+      "publishedDateTime": "2021-11-17T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-artificial-intelligence-and-bias-what-one-investor-considers.md",
       "title": "Artificial Intelligence and Bias: What One Investor Considers",
       "excerpt": "Fool c, Brian Withers, and Trevor Jennewine answer a member's question about making investment choices in the artificial intelligence space that are not only sound from a financial perspective but address personal ethical concerns.",
@@ -731,49 +938,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-17-ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge.md",
-      "title": "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge",
-      "excerpt": "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge-827720479.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge-827720479.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.ytimg.com/vi/aivIalSrqtE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T17:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-17-darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year.md",
       "title": "Darktrace aims to expand into ‘proactive’ security AI by end of year",
       "excerpt": "Darktrace, a provider of security powered by artificial intelligence, says it plans to expand into AI-based attack prevention by year's end.",
@@ -980,143 +1144,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-cognitivescale-enables-explainable-ai-at-enterprise-scale-for-informed-decision-making.md",
-      "title": "CognitiveScale enables explainable AI at enterprise scale for informed decision-making",
-      "excerpt": "“The problem is very difficult for them,” said Robert Picciano (pictured, left), chief executive officer of Cognitive Scale ... healthcare and financial services, with evidence and ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/11/16/cognitivescale-enables-explainable-ai-enterprise-scale-informed-decision-making-cubeconversations/",
-      "originalUrl": "https://siliconangle.com/2021/11/16/cognitivescale-enables-explainable-ai-enterprise-scale-informed-decision-making-cubeconversations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Robert-Picciano-and-Shay-Sabhikhi.png",
-          "width": 919,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T13:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-how-artificial-intelligence-could-revolutionize-the-insurance-industry.md",
-      "title": "How Artificial Intelligence Could Revolutionize the Insurance Industry",
-      "excerpt": "The introduction of usage-based insurance, however, has created an effective means to provide the right insurance for the right price — based on specifics, not assumptions. Now, UBI is about to gain a power-up through the robust computation capabilities of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry",
-      "originalUrl": "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202111/q421%20ubi%20insurance%20hero.jpg?itok=455opSSf",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/11/how-artificial-intelligence-could-revolutionize-insurance-industry?amp",
-      "publishedDateTime": "2021-11-16T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-fintech-lender-oportun-to-buy-online-banking-platform-digit.md",
-      "title": "Fintech Lender Oportun to Buy Online Banking Platform Digit",
-      "excerpt": "Oportun Financial Corp., a fintech lender, agreed to buy online banking platform Digit to boost its artificial-intelligence and digital capabilities. Oportun will pay about $212.9 million in equity and cash,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-16/fintech-lender-oportun-to-acquire-online-banking-platform-digit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iql_JVcP1zx8/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

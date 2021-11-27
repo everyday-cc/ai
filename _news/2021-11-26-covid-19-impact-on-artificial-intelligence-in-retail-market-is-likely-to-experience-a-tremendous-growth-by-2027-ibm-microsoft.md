@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2475264/covid-19-impact-on-artificial-int
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475264/covid-19-impact-on-artificial-intelligence-in-retail-market"
 type: article
 quality: 60
-heat: 62
+heat: 60
 published: false
 
 provider:

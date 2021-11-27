@@ -2,30 +2,27 @@
 category: news
 title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
 excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-publishedDateTime: 2021-11-26T10:20:00Z
-originalUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-webUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-ampWebUrl: "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+publishedDateTime: 2021-11-26T05:13:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271808320/193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence"
+webUrl: "https://www.bignewsnetwork.com/news/271808320/193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence"
 type: article
-quality: 70
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Daily Sun
-  domain: daily-sun.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI in Autos
   - AI
   - AI Ethics
-  - AI in Healthcare
 
 images:
-  - url: "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg"
-    width: 830
-    height: 530
+  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -235,6 +232,6 @@ related:
       domain: publicnow.com
     quality: 29
 
-secured: "ffwwsCX+AyVM7e40SwvXzlSVuEES7kpJiXIBphmoGF3Xem76W5QeN07Dezl1lS8Ue0IS5pKhk83hwN6ORZjc4w4si78fTM7T8OWhEkPjuVH/+9k7WYfG9dvucO/bradMJjUCStTROC7irEpVkAjZ8XFOqu012iMqrD88aiJqLlI6IU1oha8dUOmqbthH8IgtYp7mrnZDKhsN3zkKiWo595Oq6gDz3DNNk88VQ0qvTaQ72nUHOHg6ZUpCc9rvtXrhvBnDARj9sK9Ats171tKM5xJsppw4nInJyJoz0d4p14w5J+BTzKm5SzbW3U3Zdl53Qo5OVM6yvvmgsjyIkgW7lH67vWiMefSGbuS0ASzef5E=;O9cv0e4/gsWjBE2J7duTaw=="
+secured: "f87EaTn4as77Y9I+ZOpP0UGVHtXI3sppKdy5hy7N1i/THBJUm3T3DyvM28RBzyu+O8lBkIttqiv1/KZh1bKAVJr8TDZBOyTH9oI857MglWQCroXYSttPTpsquNJp+nI80pS0V2F0NF2q1mKH/qf3d6HAoppCN0VlL7m9JDgrG0S1z3Csb2PGqy1aMjF+BgquflqF4OHbyra40c3blsDe1Ubl2QEX4r4hQSX1rLBsoU+uNdiMPCZG/BTEaq8bU6cgkg6TxlnPBjQ1cduzJ6zBZcIqJcJnnJaYp1JMk4r/pvH8fUVb78iSk4QJtDTyIhHt6BkMWhD3KdHGZw/oHh9WfMXPo/Z+D1qryIR9PqE4+Pk=;3n1fytX4bsJHJLam968chA=="
 ---
 

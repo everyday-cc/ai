@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/11/24/aidoc-created-operating-system
 webUrl: "https://siliconangle.com/2021/11/24/aidoc-created-operating-system-orchestrate-scale-ai-healthcare-industry/"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 3320
     height: 1263
     isCached: true
+
+related:
+  - title: "How artificial intelligence in healthcare will change the way you're treated forever"
+    excerpt: "Here's why using artificial intelligence in healthcare is something to be celebrated, not feared While artificial intelligence in healthcare may seem a new, and perhaps a slightly alien concept, it is revolutionizing diagnoses and treatments in hospitals around the country."
+    publishedDateTime: 2021-11-27T10:30:00Z
+    webUrl: "https://www.womanandhome.com/health-wellbeing/artificial-intelligence-in-healthcare/"
+    ampWebUrl: "https://www.womanandhome.com/amp/health-wellbeing/artificial-intelligence-in-healthcare/"
+    cdnAmpWebUrl: "https://www-womanandhome-com.cdn.ampproject.org/c/s/www.womanandhome.com/amp/health-wellbeing/artificial-intelligence-in-healthcare/"
+    type: article
+    provider:
+      name: Woman & Home
+      domain: womanandhome.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jfK2usqkTyYfVaaC4XfucK-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XiysibJZ7YF3vD1EbsWINlxpr2xhXFgcBYCBMQhNZbpf0p49/LhkA+u7VwDmp6gBUEJ+aG/45yR0AjjmdIe/tapXtBZYhpvOegP5BH1iOnvbGgeXCIgoP4R3kxzKSAEcGx5i78/DxQJa04m75LDf11wY9AjyZqLjHijF6Uj6GD8BLGqTMDCKWDrNP5jcwlUBs2aYCHQ5pqM+RFcbhcKxTlgSYFLkVnW0OVC44gLcTJzgf4B76hf/TfcpWcsainH92x8p4YqrqxB8L3ll0tzVwqQpued6o3NL5GbcfybOZrZcHaAyA+bCSzyRP4ggxqMAGS1zqHSH6K+DrcLZ649ou0doFHv2UcSzjps4R36oInB7koucsyEmWBvbfkma1NOeyGtnTiJwGev77CiwLyk+fY7tFGYtJQmBKjVjSrTl0Hx7uKZGSCTfxLwf54PuTnco+ZqcHAn7wwrNX7saDZzhu68tKJT63V+3gxICtb75qxXeUFg3+H8gNVSO3KcEZM0fiqXnlE94quxUpaiTk7giHA==;X6FYCsv/0A2xlECBQ5r5Vg=="
 ---

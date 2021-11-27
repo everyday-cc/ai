@@ -59,22 +59,6 @@ related:
         width: 816
         height: 414
         isCached: true
-  - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-    publishedDateTime: 2021-11-26T10:20:00Z
-    webUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 70
-    images:
-      - url: "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg"
-        width: 830
-        height: 530
-        isCached: true
   - title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
     publishedDateTime: 2021-11-26T22:18:00Z
@@ -162,6 +146,20 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
+    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
+    publishedDateTime: 2021-11-26T05:13:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271808320/193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 48
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "UAE - 193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
     excerpt: "( MENAFN - Emirates News Agency (WAM)) NEW YORK, 26th November, 2021 (WAM) -- All the nations members of the UN Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of AI."

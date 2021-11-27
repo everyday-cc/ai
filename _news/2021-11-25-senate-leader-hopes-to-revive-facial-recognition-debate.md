@@ -9,8 +9,8 @@ ampWebUrl: "https://www.lowellsun.com/2021/11/24/senate-leader-hopes-to-revive-f
 cdnAmpWebUrl: "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/11/24/senate-leader-hopes-to-revive-facial-recognition-debate/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Lowell Sun
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition deployments with lax regulation under scrutiny worldwide"
-    excerpt: "Several facial recognition projects have come under scrutiny, spurred by concerns of privacy advocates that the technology is not being properly regulated."
-    publishedDateTime: 2021-11-22T17:52:00Z
-    webUrl: "https://www.biometricupdate.com/202111/facial-recognition-deployments-with-lax-regulation-under-scrutiny-worldwide"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
-        width: 1600
-        height: 1109
-        isCached: true
   - title: "Mass. Senate leader hopes to revive facial-recognition debate"
     excerpt: "State Senate Majority Leader Cynthia Creem told her colleagues in the state senate this week that law enforcement use of facial-recognition software enacted last year \"did not go far enough\" to rein in the technology."
     publishedDateTime: 2021-11-24T20:00:00Z
