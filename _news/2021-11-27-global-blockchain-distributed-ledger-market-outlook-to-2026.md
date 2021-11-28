@@ -30,20 +30,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
-  - title: "MSRCosmos Group launches AI-based blockchain startup"
-    excerpt: "Hyderabad: US-based MSRCosmos Group has set up a new startup MSRVantage that will provide artificial intelligence enabled blockchain solutions that will"
-    publishedDateTime: 2021-11-23T13:23:00Z
-    webUrl: "https://telanganatoday.com/msrcosmos-group-launches-ai-based-blockchain-startup"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/11/MSRCosmos-Group.jpg"
-        width: 1200
-        height: 670
-        isCached: true
 
 secured: "Lc04zaBA3FNE7dLBe+ows/xaiVsmC9t1DH3SuhwGPuI5RJZ0FY/he74sHIpwLqgH2HGcdohhj145ySOyed71gpb/RmQcCPUyHM1wEJr84gRd3zukcUjGu+shfA1oDIMLgSBvH0bY96hcZMr8jTenpwU8avNuWs3dGFzw5ZfuWV5cfknOCfdNwo6MYWkVIim7P+qFzrU5U45voMOR2Kun3n3XaM7zMrpqYhnGeT2V3ychszp2/c39mINBF3R2mvhrU5a4x/4xl+fA78vuZZ8WJWYJWmSa5kzgzsEXaRrggQYE/CtJZfFQNvn9uAiM2RimZb3DGTg6inte/HUPGtlTHk2lL2FB7/ZqKjabqwVrSL8=;U8b/ZbKE+kmfPkT7EWsF2A=="
 ---

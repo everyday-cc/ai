@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Face Recognition Thermometer Market 2021 Latest Updates, Business Trends and Future Growth Prospects to 2027"
+    excerpt: "MRInsights.biz has announced a new market research study on Global Face Recognition Thermometer Market Growth 2021-2027 which includes accurate analysis at global, regional, and country levels along with a forecast analysis."
+    publishedDateTime: 2021-11-24T22:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-thermometer-market-2021-latest-updates-business-trends-and-future-growth-prospects-to-2027-2021-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Computer Vision Development Market 2021 Industry Outlook, Key Players, Segmentation Analysis, Business Growth and Forecast to 2027"
     excerpt: "Global Computer Vision Development Market Growth (Status and Outlook) 2021-2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level."
     publishedDateTime: 2021-11-24T22:18:00Z

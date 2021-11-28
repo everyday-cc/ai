@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Global Artificial Neural Networks Market 2021 Industry Opportunities, Top Manufacturers Profiles and Regional Analysis by 2027"
-excerpt: "MarketQuest.biz has released a Global Artificial Neural Networks Market study that forecasts fast growth from 2021 through 2027. The study estimates market share in terms of volume for"
-publishedDateTime: 2021-11-24T17:09:00Z
-originalUrl: "https://www.wboc.com/story/45283117/global-artificial-neural-networks-market-2021-industry-opportunities-top-manufacturers-profiles-and-regional-analysis-by-2027"
-webUrl: "https://www.wboc.com/story/45283117/global-artificial-neural-networks-market-2021-industry-opportunities-top-manufacturers-profiles-and-regional-analysis-by-2027"
+title: "Global Face Recognition Thermometer Market 2021 Latest Updates, Business Trends and Future Growth Prospects to 2027"
+excerpt: "MRInsights.biz has announced a new market research study on Global Face Recognition Thermometer Market Growth 2021-2027 which includes accurate analysis at global, regional, and country levels along with a forecast analysis."
+publishedDateTime: 2021-11-24T22:06:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-thermometer-market-2021-latest-updates-business-trends-and-future-growth-prospects-to-2027-2021-11-24"
+webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-thermometer-market-2021-latest-updates-business-trends-and-future-growth-prospects-to-2027-2021-11-24"
 type: article
-quality: 11
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - Computer Vision
   - AI
 
 images:
-  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
-    width: 400
-    height: 225
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -48,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Face Recognition Thermometer Market 2021 Latest Updates, Business Trends and Future Growth Prospects to 2027"
-    excerpt: "MRInsights.biz has announced a new market research study on Global Face Recognition Thermometer Market Growth 2021-2027 which includes accurate analysis at global, regional, and country levels along with a forecast analysis."
-    publishedDateTime: 2021-11-24T22:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-thermometer-market-2021-latest-updates-business-trends-and-future-growth-prospects-to-2027-2021-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -117,7 +107,21 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 20
+  - title: "Global Artificial Neural Networks Market 2021 Industry Opportunities, Top Manufacturers Profiles and Regional Analysis by 2027"
+    excerpt: "MarketQuest.biz has released a Global Artificial Neural Networks Market study that forecasts fast growth from 2021 through 2027. The study estimates market share in terms of volume for"
+    publishedDateTime: 2021-11-24T17:09:00Z
+    webUrl: "https://www.wboc.com/story/45283117/global-artificial-neural-networks-market-2021-industry-opportunities-top-manufacturers-profiles-and-regional-analysis-by-2027"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 11
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
-secured: "KLe7ry6h+qbsmCVHXEIrYKPNZQA5zfvLi5MinYXm/XhSn1PAafz7TA103zZgMyoP9rW3e1HPzTCpwB4Bg/YgeFsHZG1TZQMxv0BNIGXMGDauimri1vsxH0vn21ScizlJ2uLJ6FupTtOC5GAmu0UtUPUHue4tRIplQDIJAcnMxg175uo6UV3r7Y2ZxQ9BSnVqHSLA79kLIbwifoR7HQAnWlQ6TsgxqvQ6rgvTHYusssYUjtVEG1j/DYOxIUk/onf7zvNCuOJoUJgOCzt1LtoHOCJepaBYcM6+LvgMdVfjbhXo2lDKGTq5c7Qp7f74OsjzkqEZVXNSJI6oPtu/Fk9wPAZWvC+qECbTiL+9YKRq8+4=;gPSTcDJhnV98B/+oNqho5w=="
+secured: "hIrqoZ8lZSYcnHtW2jcIy8jihnA21XGKrgbUf7Xy7OlasQls7lHPPUplzqbrjZp5ezET0m8IpN9HP9upnjGb51Uhg/6Ke6BKF6m9bUXtp9BxlNTceqJmJgJmDJd+m/fuQZyx3UvHGDZP9hy0d5q3ovbH8ZkJolQuvCCOyV8JNbPsO7LYYU6Sr1On8U8YVitCtzXcQE3KIhDpdiX4NeVqD1Thbo9VgfIyhU2EFf8PaNMdALjiETkL6sHZ4mE9AXUjaGwQ9pGIGU0Kii7vKOSRC9Kvrx9OQ6VHNh2nfgB2o270Fg1WfYgA6/djDnQoonqC49PWmvLcaJncnVx7rjgAQLndcHrvMdNhjf4jwQm3FIc=;9lARDJ7K2na7/x9LL2BJQg=="
 ---
 

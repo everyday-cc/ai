@@ -9,7 +9,7 @@ ampWebUrl: "https://english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-
 cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 53
-  - title: "Apollo Tyres Collaborates With AWS To Make Factories Smarter"
-    excerpt: "Apollo Tyres also launched an automated tyre inspection program that checks for tyre defects using photos of the tyres."
-    publishedDateTime: 2021-11-23T13:27:00Z
-    webUrl: "https://analyticsindiamag.com/apollo-tyres-collaborates-with-aws-to-make-factories-smarter/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/DSC_6825.jpg"
-        width: 1972
-        height: 1312
-        isCached: true
   - title: "Apollo Tyres goes all-in on AWS to make factories smarter with IoT and Machine Learning"
     excerpt: "Apollo Tyres will draw on the breadth and depth of AWS capabilities, including Internet of Things (IoT), data and analytics, and machine learning, to transform into an agile, data-driven enterprise. Using data from the factory floor and real-time information from production machines,"
     publishedDateTime: 2021-11-24T18:16:00Z

@@ -1,28 +1,20 @@
 ---
 category: news
-title: "adidas Migrates SAP Environments to AWS"
-excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
-publishedDateTime: 2021-11-22T04:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
-ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
+title: "Adidas migrates SAP Environments to AWS"
+excerpt: "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ..."
+publishedDateTime: 2021-11-22T13:46:00Z
+originalUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
+webUrl: "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
-
-secured: "5W1pNgD5Bv7Jmp6v5uVbM1guKOb/FaMT6ojOkSbX6RA2vNIxvWblcPhRIlkX0SnwPV4MuOM9cUMc9rV2+V0g/fiRV2nR7Xump4X33Gp7Wmc3Hqz2sH5k0yDMS/N5Q/r/IKOgngJErIdfA8L+tyNptCp7YBGiALwlTAReiBLTpqjD1Q4IzsGg/eOMb2nL9UZrbjYmZlU1ZaiRKuvJ2oIBdwWsDVoyMDzSIlu6+oDxjT+7SvtJs2cg8vBak6YUqu+ehEjbUA9DKVqxd8EnBfrCJeYeTi9O8vJQnR51rz5xwpcwfMkv3hgbfUp9U0dywb/gaZb0HWf9AScWnJ7NAiNRjyrHZIxUM9u5Nc24fn50VIk=;M4Cbw3G1XrxO4ZKCv5wCKQ=="
+secured: "H/d/zWPL3Rzi/AHBX7l5oCvzSXUsU397rO0EPb15bQ86twk/23R2lG0HOrYxryfoRVYsfTH35EIWYNsYtKukQG1ZQ2Z3L1/7GssK0cHWmYOhXtGWJ4xdODHgHMI1XXwOV6fyIdAV5BuZd8HMKu8dtYBmPE7DJ7L8C8Txn08CTMDYwaAxbYct0J2XePc62pG7lU3abd2VdXkjEaDTO1SRWLAvvpUi7TxoBQnQrHxotuUYMchHseGmNQ9A+C1/MbJ9pEVC3gS0TjmCcoZUfKXLu260JtuIUwVEXR2broa9xlQHMGTDAxaTE3lpg0OoN/s/I7T6lwdZxQO4Q9A8BGylkuyYRDotHEjDMOCkxN2S3mo=;z45D6GWh47TCu+Caev/Hjg=="
 ---
 

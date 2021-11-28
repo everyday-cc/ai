@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AI will soon oversee its own data management"
+    excerpt: "In this environment, any organization that isn’t leveraging data to its full potential is literally throwing money out the window. So going forward, the"
+    publishedDateTime: 2021-11-26T20:40:00Z
+    webUrl: "https://dataconomy.com/2021/11/ai-soon-oversee-data-management/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 37
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/11/ai-soon-oversee-data-management.jpg"
+        width: 930
+        height: 465
+        isCached: true
 
 secured: "aE7e3UaY24Z1qA/nCmwNkt9nlbTZz/Gte11JxeC/XZNPi01uQy6cLCqHwASKFviYBgW6pS5lC5LRjHL7IUrgZsPOKki6rRTm9jey2GvAdrnYTN9wk6erw6P4PNe4CsVhbwbO5nMQwG0mciX5TtAb1fqmYZ4X9FdWZ3nIm9gihwwNbVlwXdm8gbq3MFM698aYLxwDzbVVR7stqqsXtcLeJZJrbX8U4a0+9PKg4hFmEQqmtnnCT+0f2/S8u7d4cXibeef5owEVg0O6PrPSVdysiobzLeQULcEiRuflwvVG8mFqKABcW0mu1xOANJM+XYsphRi/oZDkeUcCHFKXccyCKgWJv4hzJ0WQkUcjg+10ed3PBeRYFqfALnIGHvvQNUjGIxNMls5aGWDNaeWEJKakDjqbLhkZ619NDNPUKf6xioeHqPF4f04zL4mIuUkSOPtXO+wYpwVfk5pzwDBQYp6CcDZ4Lz5pDmoj+5ihyjmndM3x5GSsGvZqUoASNMAOI3qLyWehsuVyjBxYra9iJzUQvg==;xsleM7tMh/K30E7lcFY38w=="
 ---

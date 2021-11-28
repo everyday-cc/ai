@@ -1,26 +1,23 @@
 ---
 category: news
-title: "Baidu, Pony.ai Approved for Robotaxi Services in Beijing"
-excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
-publishedDateTime: 2021-11-25T05:48:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-11-25/baidu-pony-ai-approved-for-robotaxi-services-in-beijing"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-11-25/baidu-pony-ai-approved-for-robotaxi-services-in-beijing"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-11-25/baidu-pony-ai-approved-for-robotaxi-services-in-beijing?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-25/baidu-pony-ai-approved-for-robotaxi-services-in-beijing?context=amp"
+title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
+excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in ..."
+publishedDateTime: 2021-11-25T06:15:00Z
+originalUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing"
+webUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing"
+ampWebUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI in Autos
   - AI
 
 related:
@@ -295,6 +292,6 @@ related:
       domain: futurecar.com
     quality: 0
 
-secured: "0SSk531xrNo2VypbPZKgKTZr7dajohRkwoigzLuFzzk1oUZt4eae9bdJn3ylqNV/ORM5zL9mib7WMpilDhwchlnh/YHZYcmF7Kzar/7UUygpCg5NSmeU4GW1LZy9F4fZSNvXYonPFybItr1HZo3dhMs9AbUHFA8QYRSNX/Bq8/zISM4eFX0fOIbJ+FafGqfHyFSKBir5QkDP3KhywE5moXga+NDVPT0lfIHnBHVfcNfkJFepcVVxNBBdYHI94VgkF6TsM128WHUSKXtFSy3ZovZWWrDM2g3pIsK75JrRxa66xkLVMkRE4Ro4M4XttvXrKCQ4Qy7eqc5r/ClWH3U7B5eKgGTuv8d7BfOsLejt/Tl1d5QewwsTkZKaSVA9kBZDC3uvUhQZOiMEZcachF0MWILFXmvfCE1HaIda/V4VkUHck68qLgXQfHhbaK+a38KTlEY3mXDRoSVc2EIB7UljuMYdFN+0SyhLo5cufArQm5Ex1wsf31Mg30rx85G52HW5K2MEai6q4ieAPdsOweDP2g==;BBqONLms7jsKFNBQhxWN0A=="
+secured: "0vOhUiOMJ45WvtCl5W5N19Tl1eazl0ufrhJumZTELOOtYpRdZOQ7XqvmNsSsMX0MKe4/gWY46pWJiPFkbSOz1M0QsCFPLMnTwyrVpWv6rPaBXxs1e0ejTueXEr8PmJqlhO/ZlhwnPHjxB/GsMEQdimqgAkDaYA2MRICbcc3Znz3KDkRtTzqMJPtA00SknEIfIqOgy5qO4cfBZCC3HBks9z4NICoXA6ctl/BX0FvjmvcXguKaSK1Y5bYrvME5DxgmOahbPNDUWDP5STkauxg1XsWd9xtdQFjJvUDRo6dqwd7hufM+BJt7FbR5vInUTXDglWR9og3/FrHZjhXBt5M6awZIMeIMqLW9t9rI4O5qPV8=;8Zd6VC1s3bfhSXRTuWvSQQ=="
 ---
 

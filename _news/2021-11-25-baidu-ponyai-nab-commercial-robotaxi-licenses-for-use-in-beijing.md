@@ -58,17 +58,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu, Pony.ai Approved for Robotaxi Services in Beijing"
-    excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
-    publishedDateTime: 2021-11-25T05:48:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-11-25/baidu-pony-ai-approved-for-robotaxi-services-in-beijing"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-11-25/baidu-pony-ai-approved-for-robotaxi-services-in-beijing?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-11-25/baidu-pony-ai-approved-for-robotaxi-services-in-beijing?context=amp"
+  - title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
+    excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in ..."
+    publishedDateTime: 2021-11-25T06:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Driverless Robotaxis Approved To Run In This Chinese City! Baidu, Pony.ai Will Run Operations"
     excerpt: "Driverless Robotaxis Approved To Run In This Chinese City! Baidu, Pony.ai Will Run Operations100 new driverless robotaxis will soon be running the roads of China’s capital Beijing! Yes, you read that"
     publishedDateTime: 2021-11-26T11:49:00Z

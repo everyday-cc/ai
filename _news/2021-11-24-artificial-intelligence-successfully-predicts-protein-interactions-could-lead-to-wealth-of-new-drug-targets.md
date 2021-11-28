@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/artificial-intelligence-successfully-predic
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-successfully-predicts-protein-interactions-could-lead-to-wealth-of-new-drug-targets/amp/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 777
     height: 439
     isCached: true
-
-related:
-  - title: "Artificial intelligence powers protein-folding predictions"
-    excerpt: "The buzz over the November 2020 debut of AlphaFold2, Google DeepMind’s artificial-intelligence (AI) system for predicting the 3D structure of proteins, has only intensified since the tool was ..."
-    publishedDateTime: 2021-11-23T14:44:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-03499-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03499-y/d41586-021-03499-y_19875776.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "yeLFEP8v7p0Dzuw3J+VWv9P8rMZvJ2daekLg8pxaAptvu6rLzEDpWi3lddHuId5XYf9LBniWbTvAiSdQw2Ze02IToFGyCTvl5+7mXQFWH9zezUHHVAIXkkzYDa5REyDsNMMC2TzvKkVQzkccdezut49lIeHPDNXbbUXS10lXr0hUcgonpRcTvgbCXWfoCXxmWuZ8tipxaCP0D4wtpH0ONEb58R3wCLoV4uu9X8bJwSh+fL7CA/Axi2+fM2/U+/sfLtfdC4sqGpFUqrRSu6ZZ/unFGeHMnI1cA1TJHHU+Mk5N0mPjSLNmrF+4kgIahp+Mrxkw8+x0kNKQjh5NvOo4o+RWzln3yZbNnmwXp1gy3YkX2/9MZ/OikL6RjV3fF3WhlFR1+cGjCIGOHECeGgbr/0U8O4VOZK+eB5pBrxnaHMGj2ZGOZF1H6iySR/5uBlH+CJsApvHXeXM02RLGV4OYQJCjhkJMHVMRMh+H2qvRyz/AmjlXG61BZLxqz7Cv+Vu7WmfbRjjYIRuZRuPZGJkYtg==;nvUksLMguOo8fFn7YdX/wg=="
 ---

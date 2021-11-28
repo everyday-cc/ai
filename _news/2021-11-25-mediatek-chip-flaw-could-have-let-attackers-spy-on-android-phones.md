@@ -105,20 +105,6 @@ related:
         width: 5120
         height: 3413
         isCached: true
-  - title: "MediaTek unveils first 7 nm 8 K TV chip"
-    excerpt: "MediaTek has introduced what it claims is the world’s first 7 nm 8 K digital TV system-on-chip (SoC) build using Taiwan Semiconductor Manufacturing Corp.’s (TSMC's) manufacturing process. Called the Pentonic 2000,"
-    publishedDateTime: 2021-11-23T13:19:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17454/mediatek-unveils-first-7-nm-8-k-tv-chip"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/454/17454/penonic_2000.jpg"
-        width: 752
-        height: 423
-        isCached: true
 
 secured: "8D/0LErCcrd/jEtCcHQcT7CDqVl9/U9txYX+pq/Kxuyx00lbrRvu39awnH1P6De3ljhygylccFFW/j6bUAoeI+enRLbiQbO6OiXzMKYl5S1AiurqXDKCmZiitZIeR+30aaShPVLReAUwjIDETXJqTUb7b+fRxb19rdySa/Lxn/zTYFm5Zp2DFmB/CBxVWyO2aTwOXl4LTflLjKr8zwFFqVLW+VGGhfAtnHAFg30TRs7f3H1Bofes0BhdPyBh6tD56hwZAPGKL9FsypaK/FSKODxaACCXCsE373ENqbsUSw4epM6b1SG0toT+inmYc1dOTLKLZMKYq46zyIkyc2XObb2xV62HfunOZ/ivITiF+9Wz/KcKCu63YAa+ask3VBDrYSZsao1uTVNBsI7jg42qqfa5WKMUy7fWwaR53EQhYE9/xNRlM+IgffHj9zWL2zo7o1DanA1GepVDoxI+jzlK1hdfLlDrExYhzzCzMozfJCId+bcIGVHTeVpJcRShOSUjkF1bGn69frbIkpe3honXbg==;iIlKbWvqF+xUKE3aV+QjFQ=="
 ---
