@@ -9,7 +9,7 @@ ampWebUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-2
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/11/Salesken-scaled.jpg"
         width: 2560
         height: 1703
+        isCached: true
+  - title: "AI transcription startup Verbit closes $250M funding round"
+    excerpt: "Startup Verbit Inc. today announced that it has secured a $250 million funding round at a $2 billion valuation to develop more features for its namesake transcription and captioning platform. The feature development effort is part of a broader growth plan that the startup detailed this morning."
+    publishedDateTime: 2021-11-23T20:10:00Z
+    webUrl: "https://siliconangle.com/2021/11/23/ai-transcription-startup-verbit-closes-250m-funding-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/verbit.png"
+        width: 861
+        height: 483
         isCached: true
 
 secured: "fKHQrVbe5j/6fFA1G7tCQ/kSdPDvKDxO665/pUTmmX4JifyFU6uJVfMow72VNn/nR/eYsir9xN3e/keOQg+yQ96yc03MHgJVejeSstFeAgZjfe4u0VRnv+2C/d7V9DtEs60JqP9KfUElSQSfzEzliYW+bIsJY72jxibPbpgmb47Z5DyrHNmRzNY5lt31GvxNU8jKNaVkJDmS9D2gRd2auBXUi9B+RKPPxjFyV+Ze5sZPkXg4XJSiIpo7wFYqtmojjU/nkBWwnkSryfpoS3NSrDmYkWe24wUg79C0kRFe5mkoeJ6K3LHsD3TXJxrJvyyxYJsjB17GXmmeqMqkVaD25sZteKcYpUKvKawqhF1vaEo=;cG7mN4A9Kb15DtpTMRQS/w=="

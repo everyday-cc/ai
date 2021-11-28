@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2472920/machine-learning-software-market-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472920/machine-learning-software-market-breaks-out-to-new-high"
 type: article
 quality: 98
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 400
     height: 300
     isCached: true
+
+related:
+  - title: "Hire Microsoft Power BI Specialists near Sofia"
+    excerpt: "Hire the best freelance Microsoft Power BI Specialists near Sofia on Upwork™, the world’s top freelancing website. It’s simple to post your job and we’ll quickly match you with the top Microsoft Power BI Specialists near Sofia for your Microsoft Power BI project."
+    publishedDateTime: 2021-11-25T11:12:00Z
+    webUrl: "https://www.upwork.com/hire/microsoft-power-bi-freelancers/bg/sofia/"
+    type: article
+    provider:
+      name: Upwork
+      domain: upwork.com
+    quality: 39
+    images:
+      - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zbLB6nh30ekF6CxFOYHWjSJUWOULt/eoUUEMskrag/rTv0jEcrSMyWya8BhiOBK0P9Tm1q7mvr8+C0dGxW0d408ID9JNK7L7JMAjIwzyCptaSer08MIcV4NKWoTAsSGhijELjwA9/ekI9+tgtz1Htsmv7jC+Mjp1bGyr3EpCBjBu4vTuYu+a0P0uARgRSwxLgWfj+hy8XpHcoTmc69UMwE/A4TYgQ+nse28eT+O/W8taFtGroeSHaPb+nay/5MVffL3kZV0gTQUNNX80ehzmjL6cTKRW9P406rAd5+MZ+8ImrLcP5vTqm2rT93vErYQxPdzll4Cg9AOulbGW+6PQgw4tAFMe8iEQBDDe0325VdHiRLX/co8Xn6NFUxr10pApM76EYFnVNOF6OCFARx3fHQpIxR1kbnlGEDHNp9zM0YJb+yvez9TNQi/tb2aXPJZKXavU6Qw6sKw650sQBh/umaJn33PIUOEzhSDzowo6cRewgQ++BnX0Rrx8sWSWxIkqOXxgSP8fdp1A9rCP8Hrnww==;iBu1NarRSRvXbU84GafLvg=="
 ---

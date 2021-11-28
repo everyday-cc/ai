@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -174,20 +174,6 @@ related:
       - url: "https://patch.com/img/cdn20/users/22872995/20211126/114008/styles/patch_image/public/black-friday-smart-home-kitchen___26113948138.jpg?width=984"
         width: 984
         height: 738
-        isCached: true
-  - title: "The Best Vacuum Deals for Black Friday 2021"
-    excerpt: "If it’s time to retire your old vacuum, Black Friday is an excellent time to find the perfect replacement. While the absolute best Black Friday sales typically arrive on Thanksgiving or the day after,"
-    publishedDateTime: 2021-11-23T15:14:00Z
-    webUrl: "https://www.channel3000.com/i/the-best-vacuum-deals-for-black-friday-2021-2/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 24
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/11/a/k/7a1114da042cbaee7172d6c9271f2476fd9ad94e.jpg"
-        width: 1763
-        height: 1175
         isCached: true
 
 secured: "h1RYZB8zLAR+ZRu8RYcx8rHRjp2O9GBVikgwBL0jRjVhlsd+ZGz9gDOLnAa9mXbAS55Ro8l5RPxRDD2nKQxinGHzBCKcmwAQsUUa5pbcEx5gG99FvLDBQVxdI5xTFeb0tSHrfi8V/7NvkGO8JEMPRs7bfW/7uX2a+tY3aEyxYbDGvDGgCrkjjrxnhJcXnnNQwSG9+RDtT5gxn2d4lNPwe3GbFco0KXIOtlc1BNmINvuk+m5HIiKqdGg3rnGW4VY664VJUmlR4d3w/I10MlZS6U7j3ZAb7gK0QXhFphJ86MgK4K9RHiEtNEKc2rnjjSezLaWZEfCylHnZ+vcIfx31l4NPf1/9b4eUlD6GeFwlJLCVKRJevZSYMF0GctdZ064VL9CvyZ0ISnMJx4FQEGS4noFTtvRWlALDJUa1OBnRv9+8+7wqsKTy86Nj9qi6dJQqwrkfYy+ffDP2BMC5ehAouU9YR+r02UHeqdO+54f48Y40z1jZ1BHC0RTINi3nwGSwBI9mV8ReDN1AndlwAQfAOw==;qIEVdpdi8vg66jzBrL1PGw=="

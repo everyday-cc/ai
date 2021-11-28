@@ -24,61 +24,50 @@ images:
     isCached: true
 
 related:
-  - title: "Transcription firm Verbit raises $250m, doubling valuation to $2b"
-    excerpt: "Israeli firm Verbit, a hybrid AI-based and human transcription and captioning software company, said on Tuesday that it secured $250 million in Series E funding, just some six months after raising $150 million at a valuation of $1 billion and marking its entry into the “unicorn” club."
-    publishedDateTime: 2021-11-23T15:30:00Z
-    webUrl: "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/"
-    ampWebUrl: "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/amp/"
+  - title: "NFT Authentication Startup ORIGYN Raises $20 Million"
+    excerpt: "ORIGYN Foundation, an NFT authentication start-up based in Switzerland, has secured $20 million in funding from investors like Paris Hilton, Bill Ackman, and Polychain Capital, among others. The non-profit,"
+    publishedDateTime: 2021-11-23T17:42:00Z
+    webUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million"
+    ampWebUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 157
+      name: Cheddar
+      domain: cheddar.com
+    quality: 57
     images:
-      - url: "https://static.timesofisrael.com/www/uploads/2021/06/Verbit-Compnay-Photo-by-Eric-Sultan-3-e1623147226939-640x400.jpg"
-        width: 640
-        height: 400
+      - url: "https://img.chdrstatic.com/media/5abcf2bb-41ea-43b1-b701-3d79640030f1.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Transcription Startup Verbit Valued at $2B Following Series E"
-    excerpt: "AI-powered transcription startup Verbit is looking to expand its workforce after raising $250 million in a Series E round that values the company at $2 billion."
-    publishedDateTime: 2021-11-23T21:52:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/transcription-startup-verbit-valued-at-2b-following-series-e/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/transcription-startup-verbit-valued-at-2b-following-series-e/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/transcription-startup-verbit-valued-at-2b-following-series-e/amp/"
+  - title: "Industrial robot maker Haber raises $20 mln"
+    excerpt: "Industrial robot maker Haber on Tuesday announced raising USD 20 million (about Rs 149 crore) in a funding round led by Ascent Capital. Accel, Elevation Capital, Beenext, Temasek partner Mukul Chawla and the founders of GreyOrange,"
+    publishedDateTime: 2021-11-23T18:30:00Z
+    webUrl: "https://www.dailyexcelsior.com/industrial-robot-maker-haber-raises-20-mln/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 54
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/verbit-series-e-457x274.jpeg"
-        width: 457
-        height: 274
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Verbit Stuns Language Industry With USD 250m Series E; Startup Valued at USD 2 Billion"
-    excerpt: "Verbit closes a USD 250m series E, which valued the company at USD 2bn less than six months after its unicorn-making series D."
-    publishedDateTime: 2021-11-25T08:40:00Z
-    webUrl: "https://slator.com/verbit-stuns-language-industry-with-usd-250m-series-e/"
+  - title: "AI startup Salesken bags $22 million in Series B round from Microsoft and Sequoia India"
+    excerpt: "Salesken has secured $22 million in a Series B funding round backed by Microsoft's Venture Fund M12 and existing investor Sequoia India."
+    publishedDateTime: 2021-11-23T17:36:00Z
+    webUrl: "https://techstory.in/salesken-22-million-series-b-round/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 16
+      name: tech
+      domain: techstory.in
+    quality: 46
     images:
-      - url: "https://slator.com/assets/2021/11/Transcription-Company-Verbit-Series-E.png"
-        width: 600
-        height: 400
+      - url: "https://techstory.in/wp-content/uploads/2021/11/Salesken-scaled.jpg"
+        width: 2560
+        height: 1703
         isCached: true
-  - title: "Verbit, the World's Leading Voice AI Platform, Raises $250 Million Series E, Achieving a $2 Billion Valuation in Less Than 5 Years | Morningstar"
-    excerpt: "Verbit, the world's leading voice AI transcription and captioning company, announced today that it has closed its Series E funding round at $250 million, after securing a $150 million primary investment and $100 million in secondary transactions."
-    publishedDateTime: 2021-11-23T15:04:07Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20211123ny80745/verbit-the-worlds-leading-voice-ai-platform-raises-250-million-series-e-achieving-a-2-billion-valuation-in-less-than-5-years"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "Yf6i7lr+28INvqvqhy3K2N6v3f2/GGSvtHnTzhjS+1qWqd+tqWYkcnuPdnJgJ/+3HrW/vimP8hRKfg6bfaq/b2R17K10lNgQlsVfPjKQmt6Cswljagp6ULZGODrUbh1UQxNzb+BSOEyrUT4obDm+KpjTnOwWr8L+c/pStLpz0ScWpr2WfClq8JbmSWFWDFw/wW6sy8MezZ6kFREdQ/wo067j3tUK4ChHtZ8Jnf0cdj9ZjCAvd4+xXYDgoJMIcYxbkhiYH3OVp9lrrBGu2TPIsyh2iVuf6QjLGX93h2EQJ2bgQGxfNRxtooDAbKSNBZNJgSA5hR9R3JsjGpSHgiFS1YmUhp4qeg488zbLktM03/k=;Vwt2iCtCsN+DtoeYsbBT+w=="
 ---

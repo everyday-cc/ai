@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-w
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS wins Adidas contract to host its SAP workloads"
-    excerpt: "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand"
-    publishedDateTime: 2021-11-23T15:54:00Z
-    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9327/aws-wins-adidas-contract-to-host-its-sap-workloads"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 39
-    images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/11/adidas_shop_shutterstock.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "adidas migrates SAP environments to AWS"
     excerpt: "AG has selected AWS as its preferred cloud provider for SAP workloads, officially migrating its SAP environment to AWS."
     publishedDateTime: 2021-11-25T01:49:00Z

@@ -171,20 +171,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Best Vacuum Deals for Black Friday 2021"
-    excerpt: "If it’s time to retire your old vacuum, Black Friday is an excellent time to find the perfect replacement. While the absolute best Black Friday sales typically arrive on Thanksgiving or the day after,"
-    publishedDateTime: 2021-11-23T15:14:00Z
-    webUrl: "https://www.channel3000.com/i/the-best-vacuum-deals-for-black-friday-2021-2/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 24
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/11/a/k/7a1114da042cbaee7172d6c9271f2476fd9ad94e.jpg"
-        width: 1763
-        height: 1175
-        isCached: true
 
 secured: "zCx3AVYbVcRK037zoq8mFiAhosEbSAfJ4vwDi2Z0OuBaF2OdE+V+UnFU7OA3re4KeXQS146EGBUMEydVb5IkrtAilPb53w3BUBIfSa5iOTFyjK2x6sWmvvsAM0vH3ikw4SMysmR6VaZhRaYuQy7li30h/tZrNsmESSnL7hEKApHnH6tfb+l194wPjpQk0mjbDdKejlEAEOzEDscNs8xW42zAHlTSBNcgxaPInYep/EiGwyvf1xV7g8Dgzc12HcdW2wJDFxwm1QFYFc2smNeDcmOWsmWrz5eZVugpP5jgxMWSbVSQerbTteKDqjJm3G5iHHSM4rLiufQ7ZDSr5tCycfxQ4ilPBeg6RcvCVyO9U/o=;w6xuomp2CqKVGzHWBU/ZFg=="
 ---
