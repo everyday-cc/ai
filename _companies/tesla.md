@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 609
+heat: 601
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 11844155
+  followers: 11844984
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "w0VwGjMq7iXXMVpahDEQTJbEjdJ+Wb+D2tbKhOtyrEnQKwHpzADFPh3EMc91wt32QrWRWZb0Lz1bypa6agr3EXdKWan2IHjtVdRW+1KbYgeRNFxU9VnTSPKoI9o9BTyTlBIcME3/7DZ3AU+E4E0AJZBKnvsrtYwWecoOLrM1hJNVAj8eIjrJaBH9tAf3e50jAgMg3Hx9191wP+RnONtcBKlCGlpmQSyGjFDhqAQdDy727brCTXDNkqLa5IZhPUPdND6vtc7lT0ApWngtZqTLzgUST5LFi/PHiBYH0jwlBDcQ0GgOGJFDPs744etPVujjtQi+Dx0eRP/2r0jnAQGk9+mf2b67Q63kM8ZCbajmYriuXG8FqdyeAKVa1WFAPLIxlERQNJvPcR+DK0AKXjm0U9hkcnV87GtcEoDYwB4kejQ=;wzp8F8V3pwrgyxqdwLqWLA=="
+secured: "V3iAZsC8C8IPiG9yFjwLUz2PbdB175QkC1hCJQYNjZAnfCpRd3J/b+nb7PVhRt87TDn4AsvVmrcud+XxaOzJRTjIZsxF3vMOagw9sMCE+hmm/KA1XSjWTvCdOQq9GZ5990VsYN/ilznHAKCQxjJyAOakawPvPDJT9B6UOjbgIKztvLviYm3+PFJSkcH6ky+P3ZvVpg6RuFsJ3+0Reeu0NIdO4cbro6GbrHZV/o7G2VL8GHXzX1DLFgHfP7Zg+Xbf2YCJ9STIr0EUNHb+3yvjUNE06qa/YJmOKkXQmQjxez2HUvifEqFI91rlhYITMh8ctVCJuxJDE+QUd3fdovKa24TpUuHmK93BuLXgPbxXLHl9VKNYBg2NRUwzrxhqb1qPUW3se2nH+o95zmVh4z8cfzxb0QIY3Ip0I3zTl7xangY=;sLpf/b//Ti5/09vRDqOsMg=="
 ---
 

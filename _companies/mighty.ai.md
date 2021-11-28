@@ -4,7 +4,7 @@ otherNames:
   - "Spare5"
 overview: "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://mighty.ai
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "mighty_ai"
   url: "https://twitter.com/mighty_ai"
-  followers: 1749
+  followers: 1748
 
 size: 51-200 employees
 yearFounded: 2014
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "3CqG59JF3++Mm2DQ8a/cbOrGM53P5HpOQoS7Be/menAZkpL+dWCbVQSiUb6hRp6++yPbw64e3sGkfFQp5JoYIQqK5k8f5bbIAa7wV68NSnUMf6Cb53zwdzNxWFkdqgYdIk6Bw/HlfmT9mglif9LQfn4gHFrnyHpyfPSFln4ws7NvxW2HYzyp8ZVb8UeP/lhoxLeZARr3jaopwHz30eswu9UA9dEVsnCuHZ/NnsGlHOxIOWW5hOXKgI1mwEBB2Yg7y2Pgj71dVZiO24p2Z7MZaL+f/LmjDn6ZKsT0jJ43z8mClBOcYUpGp0nIRCsBowCQNfw2fa/bOYCCuYcLx1pZbzHhaU1O6QldXHF64mS8pd6kXCmgNfH4SR0OJam80xhHJrmBKWRSrN4s/vAbh1vphSiznBHiT4/0uyT85E2xHRA=;Gc5jGRRjJY2bssoKsALmnw=="
+secured: "H/8B5smNL4zO0Ab7BXfs0khRwIZrAcahu3xaVltbID3zjEUY1EE0Aad6d5uEGELUZe5waGZW8pjBjtZ09xVi2mJ2+5lDXp7o6n0xPuFVZdcIqte69DKM3VYDMMgX207NiNff30y9Vq4PvhAS/ywxsp0/HGCWbQbj4dOxQ9eQKFjdJZM+WSlRfVQim1/EOjZjPfhOzoTK5BJ24+KvYHy78GsiwxzOLCh5qO0KySoEWKZxgITwdhYTCe46WbgKqF58dgOdtx0qqaNqVbs8dkNduL4blRSbtljaMCyqOZ7tDxr6H0o6B+q34UPY6HK/DLs6XLHWfcgzjgwBb7IfI5QpFFIgtzqm0Sdj/D/mavpm4+q6SpoGWAMzWmEtRjykHLCsdM67wFEjACwKyeUMNgT1X4kx1QdNjrTFQA/N5VynD2I=;0iUZ3yaW1ewZ1sBn8Gbl2Q=="
 ---
 
