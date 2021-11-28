@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/uNoFn2TGWRakob6ppH3YLS-1200-80.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Kore.ai Extends Series C Funding to $73.5M With NVIDIA"
-    excerpt: "Kore.ai, an Orlando, Fla.-based conversational AI software company, extended its Series C funding round to $73.5m with participation from NVIDIA (NASDAQ: NVDA)"
-    publishedDateTime: 2021-11-23T18:58:00Z
-    webUrl: "https://www.finsmes.com/2021/11/kore-ai-extends-series-c-funding-to-73-5m-with-nvidia.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/kore.png"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "Kzi+BVc/wKrXcj6nvKysDiS50vTWiwAedasglFRrscHpvZgP9GCveCb8g1gSj8JKgWV0/FfkuBsmNDi4RhYnGQjjeLy0l6YGyxL3+pn7teZeVM4IeTyFk6jxPitMP0Nu9lEaMTSvJ35dtmHVp7hYHg1WF07aLHOypM8QkpHHn8vjI1xmmxLAS4GgANHzJFKbHUloBC9MAZGjuE2EtG8zz6vxfSRiVUG5kH/64gK1svrtcX+xfnITx93kVrImBQj7rDMShZipFO1t0Z0Ob20QhTg17p4F7Y6DJ9llkWTmmcJLAC/0hjAfsbbKdl7Uj1CJLhIdWMQbt9WGR3POnSEBeO2dd1I5m5hQMWQsdriQnJ4=;Z3Ixmx4lqTvSd0V0anO8Lw=="

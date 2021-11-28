@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/top-five-ways-artificial-intell
 webUrl: "https://www.insidermonkey.com/blog/top-five-ways-artificial-intelligence-is-improving-investment-1006088/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,44 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Improving Cancer Research"
-    excerpt: "Today, though, humanity has a powerful new ally in the fight to eliminate cancer: artificial intelligence. AI and machine learning algorithms gather the data needed to understand cancer holistically and support cancer researchers by providing them with a deeper level of insight than ever available before."
-    publishedDateTime: 2021-11-23T17:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp"
+  - title: "AI-Based Match-Making is Reinventing Recruitment"
+    excerpt: "AI survey states that 17% of companies use AI-based solutions in their HR functions and another 30% will start doing so by 2022. AI is changing how HR functions take place."
+    publishedDateTime: 2021-11-26T10:02:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-based-match-making-reinventing-recruitment-"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "AI-based Prognostic Tests In Breast Cancer: Why This is a Game Changer"
-    excerpt: "AI-based techniques have largely helped in automation of patient data organization, medical records, accuracy of disease diagnosis, treatment planning and optimization"
-    publishedDateTime: 2021-11-26T05:53:00Z
-    webUrl: "https://www.entrepreneur.com/article/399284"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1637905877-possessed-photography-jIBMSMs4-kA-unsplash.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "How AI Is Hijacking Art History"
-    excerpt: "Art historians have long used traditional X-rays, X-ray fluorescence or infrared imaging to better understand artists’ techniques."
-    publishedDateTime: 2021-11-27T19:01:00Z
-    webUrl: "https://www.discovermagazine.com/technology/how-ai-is-hijacking-art-history"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 37
     images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/KCJO46tt4uBdDqT1agJDx/add743dc634dac13256240914cc298e0/shutterstock_1709875687.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill"
-        width: 660
-        height: 433
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG80SQE-qqCmg/article-cover_image-shrink_720_1280/0/1637920274692?e=1643241600&v=beta&t=e-mj8DVQoJ133Q2AzuHv_QMvqzNaQueknUDLHtf9Z0g"
+        width: 1273
+        height: 720
         isCached: true
 
 secured: "at61rgTqiqI12p/i9eaxDPTqbDQvPMhyqLIQpok30z6uGf3XxtmqhP7ZS/QznP8XaZGRm0tW2V3WZCUxUOJ8uCesafdHOvvLeVAoipUhm6TGy1IIDhoJT9rtPph6gswfAq6lfTJbXt9hGzpHOjGuqkXfXppskXZV0LUCKT4Ujjv3NcCLE6bfReYW1REEsdJdSg+HDqx4KdiGwk0w8WbGApKYz6RY3McSeEHtZXCTTYOa8M587KmeAqRyVEj+zrzVeJURUF8+gczJc+VXLyYblsaPCtAbBPZgoTFEMytBT/VEVmzpc1nn60TjgOg4Kv4yaK8FJwKnoXMzJ6JNnGV6RACSj7BcLGPg0cn029h4REvsO/cwuJMHAgRb/H3mbmA+TWjYRsqpIGrWMXe8VFEztVF6Etx5OiXGnwcGZ5P95g1OpkgzPCiBeT0ubZ/UUmTOV0l5qBmn6X0I2XqS872/RQO03OS3hjgYelO0F9yHoGpjs+DtHKmvx0LyD/6e/GX51jFzifwULqKjmXhqZWKALQ==;/e1X15VE6hSc6drMqCQcwg=="

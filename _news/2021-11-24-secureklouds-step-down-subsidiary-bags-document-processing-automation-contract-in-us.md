@@ -48,15 +48,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 24
-  - title: "Healthcare Triangle (HCTI) Selected by Monument Health to Automate Document Processing"
-    excerpt: "Healthcare Triangle Inc., USA (Nasdaq: HCTI) ('HCTI' or the 'Company') a leading provider of cloud and data transformation platform and solutions for healthcare and life sciences, has announced that M"
-    publishedDateTime: 2021-11-23T18:23:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=302945"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 13
   - title: "Securekloud hit the roof after US subsidiary bags document processing contract from Monument Health"
     excerpt: "Securekloud Technologies hit an upper circuit of 5% at Rs 136.15 after the company's step-down subsidiary Healthcare Triangle Inc., USA, was selected by Monument Health to automate document processing through readable."
     publishedDateTime: 2021-11-24T06:20:00Z

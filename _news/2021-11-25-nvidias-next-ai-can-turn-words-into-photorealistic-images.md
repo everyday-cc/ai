@@ -56,20 +56,6 @@ related:
         width: 796
         height: 398
         isCached: true
-  - title: "Kore.ai Extends Series C Funding to $73.5M With NVIDIA"
-    excerpt: "Kore.ai, an Orlando, Fla.-based conversational AI software company, extended its Series C funding round to $73.5m with participation from NVIDIA (NASDAQ: NVDA)"
-    publishedDateTime: 2021-11-23T18:58:00Z
-    webUrl: "https://www.finsmes.com/2021/11/kore-ai-extends-series-c-funding-to-73-5m-with-nvidia.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/11/kore.png"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "Qdvq0tVsKo+ntYzU6pihpEvg1TRYTWgpuuE4QS/erKkr7KFh/jt8WIChFwCAxIolCq64AUNdio26oGv45S5YOh4fow7fz2EnNuWveKSasx9wrVuAWBNNjdY4G4TvgH0nuO2a+M4hGxQjgmhR0AHMYg3DL+kwGQ3EdBSNg+7Ef+0tueUvk1QcR8U82x6i5WCmKYlOM6jh7TooX18B25UTojCmDzE7zHiQsBV0E4tTVMRkd/6Y/4R8gerChxMR6hOrFNJQ9kXBvnbf2GHHy7TF/KU/Whgso0+0esfpg8ff0xEIBXn3rC8Hol/1OlVUE3hPUQaz/wf6oEG1B0rGSpPdOo8OTTHCAy965iZRKyprz0s=;nGYjIcQKI21n/U+bUzBG0g=="
 ---

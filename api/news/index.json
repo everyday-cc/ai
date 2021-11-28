@@ -844,49 +844,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-26-westjet-and-telus-launch-facial-recognition-boarding-trial-at-calgary-international-airport.md",
-      "title": "WestJet and TELUS launch facial recognition boarding trial at Calgary International Airport",
-      "excerpt": "WestJet and TELUS have teamed up for a first-of-its-kind trial in Canada that will see facial recognition used prior to boarding for some flights at Calgary international Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://calgary.ctvnews.ca/westjet-and-telus-launch-facial-recognition-boarding-trial-at-calgary-international-airport-1.5681512",
-      "originalUrl": "https://calgary.ctvnews.ca/westjet-and-telus-launch-facial-recognition-boarding-trial-at-calgary-international-airport-1.5681512",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/calgary/2021/11/25/1_5681512/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/calgary/2021/11/25/1_5681512.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/calgary/2021/11/25/1_5681512.amp.html",
-      "publishedDateTime": "2021-11-25T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-26-nvidias-latest-ai-technology-transforms-words-into-realistic-images.md",
       "title": "Nvidia's latest AI technology transforms words into realistic images",
       "excerpt": "Nvidia showed its GauGAN technology for the first time in 2019, but only recently we saw it being featured in a product available for the general",
@@ -895,7 +852,7 @@
       "originalUrl": "https://www.techspot.com/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1238,6 +1195,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-baidu-ponyai-get-chinas-green-light-to-charge-for-robotaxis.md",
+      "title": "Baidu, Pony.ai Get China's Green Light to Charge for Robotaxis",
+      "excerpt": "By Yifan Wang Chinese tech giant Baidu Inc. and Toyota Motor Corp.-backed startup Pony.ai Inc. have received China's first-ever regulatory go-ahead to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
+      "publishedDateTime": "2021-11-24T21:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.itweb.co.za/content/j5alrMQajW3MpYQk"
 webUrl: "https://www.itweb.co.za/content/j5alrMQajW3MpYQk"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "AI with everything – the future of artificial intelligence in networking"
+    excerpt: "By: Guy Matthews, Editor of NetReporter AI is, say the experts, set to revolutionise every aspect of connectivity. The zero-touch, software-defined, self-healing, threat-aware networks of tomorrow will be light years from the clunky,"
+    publishedDateTime: 2021-11-27T13:53:00Z
+    webUrl: "https://tynmagazine.com/ai-with-everything-the-future-of-artificial-intelligence-in-networking/"
+    type: article
+    provider:
+      name: tynmagazine.com
+      domain: tynmagazine.com
+    quality: 33
 
 secured: "vqtmjqNcMIqjZ8h4rZaEHNc90lxu8pbITr7ZGYE8goj6049XRLeUo5tPYH7MY6WhozXg+oHScO6Bdd81p4zsiysx0moN6TY+4J1vHDczDa50R2d9fTweQQLXE3qwU97rGNbz7IQj/1s1ATpvK6tHoMLd2M4jn2UUcOPYDrducYbt/vfWwqPntWVphU9eh03AxVHsD9h2U/P1ia0vzg/YXiKYK7O67eQUbwH5C0WT1JdSmS6o0OBh64rFTou0fHDEWjr+SAVRkdimO0+iPdpJVsR4LJHLQ8qkfkyTWGQ+q1TuOapz1y2jW9C4UYr/nIOwfYtcwcEaAxMIMgqXhVtJeLa9IecWjq3t5M+h4tM7Oxw=;VqmYea7ypx15W99lao/i4w=="
 ---

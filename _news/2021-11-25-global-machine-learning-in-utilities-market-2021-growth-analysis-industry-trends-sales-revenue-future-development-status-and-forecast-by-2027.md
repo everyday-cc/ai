@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Global Natural Language Processing (NLP) Market 2021 Key Dynamics, Recent and Future Demand, Trend, Analysis upto 2027"
-    excerpt: "Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2021-2027 issued by MarketandResearch.biz offers an in-depth evaluation of all happenings in this market. The report gives an appraisal of the market size and comparing revenue inference."
-    publishedDateTime: 2021-11-23T18:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027-2021-11-23"
+  - title: "Artificial Intelligence (AI) Market Industry Analysis, Opportunities, Segmentation & Forecast 2021 To 2028"
+    excerpt: "Market 2021 Global Market Opportunities, Challenges, Strategies, and Forecasts 2028″ has been added to Fortune Business Insights. Market Overview: The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360."
+    publishedDateTime: 2021-11-24T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2473021/artificial-intelligence-ai-market-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2473021/artificial-intelligence-ai-market-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2473021/artificial-intelligence-ai-market-industry-analysis"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/b/Ub24581473_g.jpg"
+        width: 800
+        height: 428
         isCached: true
   - title: "Global Face Recognition Thermometer Market 2021 Latest Updates, Business Trends and Future Growth Prospects to 2027"
     excerpt: "MRInsights.biz has announced a new market research study on Global Face Recognition Thermometer Market Growth 2021-2027 which includes accurate analysis at global, regional, and country levels along with a forecast analysis."
@@ -86,17 +88,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Self-driving Chip Market Size, Share, Statistics, Demand And Revenue, Forecast 2027"
-    excerpt: "The Automotive Self driving Chip Market report provides details on the latest recent developments trade regulations import export analysis analysis of production value chain optimization market share impact of players on the national and localized market analysis of opportunities in"
-    publishedDateTime: 2021-11-24T07:54:00Z
-    webUrl: "https://www.openpr.com/news/2472545/automotive-self-driving-chip-market-size-share-statistics"
-    ampWebUrl: "https://www.openpr.com/amp/2472545/automotive-self-driving-chip-market-size-share-statistics"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472545/automotive-self-driving-chip-market-size-share-statistics"
+  - title: "Facial Recognition Market Insights by Emerging Trends, Growth and Forecast till 2024"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Nov 25, 2021, 06:06 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 billion in 2019 to USD 7.0 billion by 2024,"
+    publishedDateTime: 2021-11-25T12:01:00Z
+    webUrl: "https://menafn.com/1103249776/Facial-Recognition-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2024"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?240591"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"
     excerpt: "Nowadays businesses are highly relying on the different segments covered in the market research report which presents better insights to drive the business into right direction Artificial Intelligence ai in Drug Discovery market report presents the company profile product specifications"
     publishedDateTime: 2021-11-26T07:23:00Z

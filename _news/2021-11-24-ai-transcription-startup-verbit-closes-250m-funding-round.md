@@ -24,49 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "NFT Authentication Startup ORIGYN Raises $20 Million"
-    excerpt: "ORIGYN Foundation, an NFT authentication start-up based in Switzerland, has secured $20 million in funding from investors like Paris Hilton, Bill Ackman, and Polychain Capital, among others. The non-profit,"
-    publishedDateTime: 2021-11-23T17:42:00Z
-    webUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million"
-    ampWebUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
+  - title: "Transcription Startup Verbit Valued at $2B Following Series E"
+    excerpt: "AI-powered transcription startup Verbit is looking to expand its workforce after raising $250 million in a Series E round that values the company at $2 billion."
+    publishedDateTime: 2021-11-23T21:52:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/transcription-startup-verbit-valued-at-2b-following-series-e/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/transcription-startup-verbit-valued-at-2b-following-series-e/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/transcription-startup-verbit-valued-at-2b-following-series-e/amp/"
     type: article
     provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 57
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
     images:
-      - url: "https://img.chdrstatic.com/media/5abcf2bb-41ea-43b1-b701-3d79640030f1.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 675
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/verbit-series-e-457x274.jpeg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Industrial robot maker Haber raises $20 mln"
-    excerpt: "Industrial robot maker Haber on Tuesday announced raising USD 20 million (about Rs 149 crore) in a funding round led by Ascent Capital. Accel, Elevation Capital, Beenext, Temasek partner Mukul Chawla and the founders of GreyOrange,"
-    publishedDateTime: 2021-11-23T18:30:00Z
-    webUrl: "https://www.dailyexcelsior.com/industrial-robot-maker-haber-raises-20-mln/"
+  - title: "Verbit Stuns Language Industry With USD 250m Series E; Startup Valued at USD 2 Billion"
+    excerpt: "Verbit closes a USD 250m series E, which valued the company at USD 2bn less than six months after its unicorn-making series D."
+    publishedDateTime: 2021-11-25T08:40:00Z
+    webUrl: "https://slator.com/verbit-stuns-language-industry-with-usd-250m-series-e/"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 54
+      name: Slator
+      domain: slator.com
+    quality: 16
     images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI startup Salesken bags $22 million in Series B round from Microsoft and Sequoia India"
-    excerpt: "Salesken has secured $22 million in a Series B funding round backed by Microsoft's Venture Fund M12 and existing investor Sequoia India."
-    publishedDateTime: 2021-11-23T17:36:00Z
-    webUrl: "https://techstory.in/salesken-22-million-series-b-round/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 46
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/11/Salesken-scaled.jpg"
-        width: 2560
-        height: 1703
+      - url: "https://slator.com/assets/2021/11/Transcription-Company-Verbit-Series-E.png"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "Yf6i7lr+28INvqvqhy3K2N6v3f2/GGSvtHnTzhjS+1qWqd+tqWYkcnuPdnJgJ/+3HrW/vimP8hRKfg6bfaq/b2R17K10lNgQlsVfPjKQmt6Cswljagp6ULZGODrUbh1UQxNzb+BSOEyrUT4obDm+KpjTnOwWr8L+c/pStLpz0ScWpr2WfClq8JbmSWFWDFw/wW6sy8MezZ6kFREdQ/wo067j3tUK4ChHtZ8Jnf0cdj9ZjCAvd4+xXYDgoJMIcYxbkhiYH3OVp9lrrBGu2TPIsyh2iVuf6QjLGX93h2EQJ2bgQGxfNRxtooDAbKSNBZNJgSA5hR9R3JsjGpSHgiFS1YmUhp4qeg488zbLktM03/k=;Vwt2iCtCsN+DtoeYsbBT+w=="

@@ -1,15 +1,19 @@
 ---
 category: news
 title: "AI and machine learning in financial services"
-excerpt: "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes."
-publishedDateTime: 2021-11-11T01:30:00Z
-originalUrl: "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services"
-webUrl: "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services"
+excerpt: "AI and machine learning in financial services While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption ..."
+publishedDateTime: 2021-11-10T21:55:00Z
+originalUrl: "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services"
+webUrl: "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services"
 type: article
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
@@ -17,11 +21,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "Dvh3v9+iAAw4GUdmGYpNZmimQ+OvlYxct6GQMj8fDCMUcpvg9U8Md7bHmaqUirpE+/flXmgOOm3JD7U++nZ1F18QoHcHA5cME9PSEm5H5YnGz4V6pVzApRUTFyzDpwglXCMZE8Vdr/M5YIaYqtF78P7wzUk75RnR1Qfk6yQdIHWPTsJvm6r2dOtQyp/BqJbStrVppNrlhNIHb25JN5E8Zs9BpV/z9ErXtDaFXpzwlYlYON3RJ2WUE41J4oajObJS7IccqtUuhYfytvYmxTYkprzOeoUtHWwI0A0JPcusK7ZJbfnmzHXisRmCj4ULSkWfhYrOeJugkmW7VJfiSG0ii48rxfEUlStdvbxLBi1XRFw=;fr0vDUDiX6zLcUuOs3EyZg=="
+secured: "ajSS+5nkCoyI5vWFfjipyrGpjyazEx0mUR21+vdvuNKjuWZgTkGo9JPGP84K1lWdtzMx8mNIUIkSuMM7//INeoDNDcZM2kkK7gmAaUT+hVwfsgId4KKgCBdj9SqL4yEn6dTrXTJ0CpoO/rRt+koL6k7saEze38wkca3GyAdGmQ4W9LZWKjyfUsaRhZJaKDVsT6UKGWFmXQ6CO1nm8snrxV5aiO+KVggdG/wCrSu+KFcyapAiypikLK7FDpGBbzWUC8oUpYkdIp6GbyDx9c/gRBKhKlmzu6kdINwfA6ilZri7fuod/2YC2Lpa68K+9f7wXi8bj2xaQShHeOu83YGeXauQtZtctJBLq6T0AHh7Uso=;O6//+aeUpn5l5PPtCj2qgA=="
 ---
 

@@ -59,15 +59,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 17
-  - title: "Healthcare Triangle (HCTI) Selected by Monument Health to Automate Document Processing"
-    excerpt: "Healthcare Triangle Inc., USA (Nasdaq: HCTI) ('HCTI' or the 'Company') a leading provider of cloud and data transformation platform and solutions for healthcare and life sciences, has announced that M"
-    publishedDateTime: 2021-11-23T18:23:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=302945"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 13
 
 secured: "0dCegIJvOfHhQ2fhJFU7911MqHbTGZQjBu968CEukJxcfGQkMddgJPI471NW1c4Om6M1ynplX9Wgg4LVLtc6G2pQXZ7ErNY4MS5w94HfOa278FUmPhkar/ZEdOULEt2uYjCmhYPHZ6LvWS09wwNGIJ4OsBelUrXTBi9sjcEKTGBrDcLJlb3dG2Y6Fb7BYQ/F9sLaZ3P/6U9bQzff1oRo17T/zxHQsHaTp+PtrlKkxUWQzqN8bT+T7DJCU2cipGEgd+zG+CI9ZvjaPqwA2qIqMqaaOEDaejv0zZip546EMgaR02BHP8vCym8QT7oJsPhvs6lE6eJJEWvhg7lViDaB+9snm/vsWA3h2BapicX0kJg=;Gr1KBKZwapJ9RUp7vGiB2w=="
 ---
