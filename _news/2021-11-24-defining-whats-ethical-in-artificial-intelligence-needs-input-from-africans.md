@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How can we make sure future AI systems behave ethically?"
+    excerpt: "For machines to help us to their full potential, we need to make sure they behave ethically. So the question becomes: how do the ethics of AI developers and engineers influence the decisions made by AI? Imagine a future with self-driving cars that are ..."
+    publishedDateTime: 2021-11-28T22:57:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/how-can-we-make-sure-future-ai-systems-behave-ethically/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 54
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/08/possessed-photography-robot.jpg"
+        width: 733
+        height: 358
+        isCached: true
   - title: "Defining what’s ethical in artificial intelligence needs input from Africans"
     excerpt: "We need international and national policies and regulatory frameworks to ensure that these emerging technologies benefit humanity as a whole."
     publishedDateTime: 2021-11-27T22:21:00Z

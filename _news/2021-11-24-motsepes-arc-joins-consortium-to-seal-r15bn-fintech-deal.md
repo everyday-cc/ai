@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/raYAyqodOX3vJ38N"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/raYAyqodOX3vJ38N"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Crossfin sold in R1.5-billion deal"
-    excerpt: "Crossfin Technology Holdings, a fintech investment firm, has been acquired by a consortium of investors, including Patrice Motsepe’s African Rainbow Capital."
-    publishedDateTime: 2021-11-24T05:10:00Z
-    webUrl: "https://techcentral.co.za/fintech-crossfin-sold-in-r1-5-billion-deal/205165/"
-    ampWebUrl: "https://techcentral.co.za/fintech-crossfin-sold-in-r1-5-billion-deal/205165/?amp=1"
-    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/fintech-crossfin-sold-in-r1-5-billion-deal/205165/?amp=1"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 44
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/11/acquisition-2156-1120.jpg"
-        width: 2156
-        height: 1120
-        isCached: true
   - title: "Fintech Crossfin sold in R1.5bn deal"
     excerpt: "Crossfin Technology Holdings, a South African fintech investment firm, has been acquired by a consortium of investors, including Patrice Motsepe’s African Rainbow Capital (ARC), for R1.5 billion. The consortium is led by Ethos’s Mid-Market Fund I and includes the founding Crossfin executive management team,"
     publishedDateTime: 2021-11-24T07:45:00Z

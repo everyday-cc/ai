@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ciol.com/apollo-tyres-aws-use-factories/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/apollo-tyres-aws-use-factories/amp/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Apollo Tyres moves to AWS to enhance customer experience"
-    excerpt: "Apollo Tyres, India's largest tyre maker, is moving its entire infrastructure to Amazon Web Services (AWS). To change the customer exper..|News Track"
-    publishedDateTime: 2021-11-24T06:45:00Z
-    webUrl: "https://english.newstracklive.com/news/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 59
-    images:
-      - url: "https://media.newstrack.in/amp/uploads/business-news/economy/Nov/24/big_thumb/appolo_619ddf6e468e4.JPG"
-        width: 1609
-        height: 900
-        isCached: true
   - title: "Apollo Tyres goes all-in on AWS to make factories smarter with IoT and Machine Learning"
     excerpt: "Apollo Tyres will draw on the breadth and depth of AWS capabilities, including Internet of Things (IoT), data and analytics, and machine learning, to transform into an agile, data-driven enterprise. Using data from the factory floor and real-time information from production machines,"
     publishedDateTime: 2021-11-24T18:16:00Z

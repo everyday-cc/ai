@@ -34,6 +34,20 @@ related:
       name: Tweakers
       domain: tweakers.net
     quality: 36
+  - title: "This jupyter file is combination of decision tree and Logistic regression algorithm of machine learning"
+    excerpt: "This jupyter file is combination of decision tree and Logistic regression algorithm of machine learning. Preparing our dataset These recommendations are so on point!"
+    publishedDateTime: 2021-11-28T20:36:00Z
+    webUrl: "https://github.com/foxed838/DecisionTree"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 23
+    images:
+      - url: "https://opengraph.githubassets.com/a3779131a2a9bcbfbbf1f578f8eb8087e653bc966e44269c0a86452cdfa7b760/foxed838/DecisionTree"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "pZlY/Lhx5cNOle0bQ6mDLFyC6lncJkPH3WG4avJdOq0X0uTjsWE+aaevQw+A9+tvIZH8lrlayMg1iuryja+29MPYf65QYjy9avilw7QCW6t7fk2v3qjymqe9fgjdnqCBybtDVTuaW/i3/y5/Y5dm0XpptV0i/vKYtm8x77UM9/ZFr0oJbTLpR1spDdX7yJtnuVsrXRr2B1f/2S16zf++h+RkKNTfER5Z1wTUyDRNrqEwXvud9eNaZJ+qh7NVmjFoxsMiSxwXi2dbAMSUjGOtiDnJoP1xegqb698ZLwIEdB3W2uUSO1B05Cr6C6DBaLz3wx8snVekVvRF9kv+5+wg8IEpTlaP5GL88lxCxIf8ecx9oaxA2PLfUGsXRkvleqoEKG4QPrTOcewhSlID4rFLvMRvS7GGDj+nhoYU3t6PePnejFjHL5qSdPXWQ5T6dQoReodkSiB/3A0AI5ZyE69YXg8TdbvNV4LQMJnFA99JjvZa4zK6flaLMVTqm6QYUyKV5pBbWibOz63BfJkpyyDK0Q==;SDK+Wia/nRQrjHUvLSMUdA=="
 ---
