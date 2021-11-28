@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Can Help Reduce Backlog Of Pending Cases: Law Minister Rijiju"
+    excerpt: "Law Minister Kiren Rijiju on Saturday said artificial intelligence could help in \"surprising ways\" to ensure sustainable justice delivery and reduce backlog of pending cases. Addressing the concluding session of a Supreme Court-organised two-day Constitution Day event here,"
+    publishedDateTime: 2021-11-28T00:45:00Z
+    webUrl: "https://www.outlookindia.com/website/story/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 57
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/gallery/20200914/kiren_20200914_550_550.jpg"
+        width: 550
+        height: 367
+        isCached: true
   - title: "Artificial Intelligence Help Reduce Backlog Of Pending Cases: Law Minister"
     excerpt: "Law Minister Kiren Rijiju on Saturday said artificial intelligence could help in \"surprising ways\" to ensure sustainable justice delivery and reduce backlog of pending cases."
     publishedDateTime: 2021-11-27T14:16:00Z

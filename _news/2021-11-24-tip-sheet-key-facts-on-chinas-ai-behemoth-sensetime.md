@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China’s AI giant SenseTime readies Hong Kong IPO"
-    excerpt: "One of China’s biggest AI solution providers SenseTime is a step closer to its initial public offering. SenseTime has received regulatory approval to list on the Hong Kong Stock Exchange, according to media reports."
-    publishedDateTime: 2021-11-23T08:11:00Z
-    webUrl: "https://techcrunch.com/2021/11/23/sensetime-ipo/"
-    ampWebUrl: "https://techcrunch.com/2021/11/23/sensetime-ipo/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/23/sensetime-ipo/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1063617496.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "SenseTime IPO could help HSBC gain recognition"
     excerpt: "Some deals are about more than just the money. A successful market debut by artificial-intelligence dragon SenseTime could go a long way to uncovering interest in politically sensitive Chinese technology."
     publishedDateTime: 2021-11-26T01:39:00Z

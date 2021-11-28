@@ -89,58 +89,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-24-significance-of-ftc-guidance-on-artificial-intelligence-in-health-care.md",
-      "title": "Significance of FTC guidance on artificial intelligence in health care",
-      "excerpt": "Linda A. Malek and Blaze Waleski of Moses & Singer LLP discuss the Federal Trade Commission guidance and enforcement actions around the use of artificial intelligence, noting their relevance in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/litigation/significance-ftc-guidance-artificial-intelligence-health-care-2021-11-24/",
-      "originalUrl": "https://www.reuters.com/legal/litigation/significance-ftc-guidance-artificial-intelligence-health-care-2021-11-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/sxdrSlbgOyBRGP67qwH94mmExH8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ONNE6F7VXVOHBIFDT25VSOL2BU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-24-artificial-intelligence-ai-in-hiv-and-aids-market.md",
       "title": "Artificial Intelligence (AI) in HIV and AIDS Market",
       "excerpt": "Portland United States Big Market Research newly added a research report on the Artificial Intelligence AI in HIV and AIDS Market which represents a study for the period from 2021 to 2026 The research study provides a near look at",
@@ -347,6 +295,41 @@
       "topics": [
         "AI",
         "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-global-cognitive-informatics-market-research-report-2021-2026-healthcare-and-biomedicine-industry-will-lead-to-the-adoption-of-cognitive-service.md",
+      "title": "Global Cognitive Informatics Market Research Report 2021-2026 - Healthcare and Biomedicine Industry Will Lead to the Adoption of Cognitive Service",
+      "excerpt": "The enterprise sector will have the highest adoption of cognitive applications and services The global market will reach USD $32.6B by 2026, growing at 40.3% CAGR from 2021 to 2026 Key Topics Covered",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-cognitive-informatics-market-research-report-2021-2026---healthcare-and-biomedicine-industry-will/article_020d68e3-112f-58a3-be68-586c8c267b2c.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-cognitive-informatics-market-research-report-2021-2026---healthcare-and-biomedicine-industry-will/article_020d68e3-112f-58a3-be68-586c8c267b2c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T13:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
         "AI in Healthcare"
       ]
     },

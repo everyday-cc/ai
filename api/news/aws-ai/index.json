@@ -341,26 +341,35 @@
       ]
     },
     {
-      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
-      "title": "Adidas migrates SAP Environments to AWS",
-      "excerpt": "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ...",
+      "path": "_news/2021-11-23-acclaimed-digital-entertainment-leadership-forum-2021-returns-to-cyberport-on-10-12-december.md",
+      "title": "Acclaimed Digital Entertainment Leadership Forum 2021, Returns to Cyberport on 10-12 December",
+      "excerpt": "DELF will also present DE*SPARK, a month-long series of esports and gaming events, including RoboMaster 2021 Youth Tournament (Hong Kong) (Secondary School), AWS DeepRacer 500 Strong Training Day ...",
       "sourceUrl": null,
-      "webUrl": "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006",
-      "originalUrl": "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006",
+      "webUrl": "https://menafn.com/1103230508/Acclaimed-Digital-Entertainment-Leadership-Forum-2021-Returns-to-Cyberport-on-10-12-December",
+      "originalUrl": "https://menafn.com/1103230508/Acclaimed-Digital-Entertainment-Leadership-Forum-2021-Returns-to-Cyberport-on-10-12-December",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-11/22/MOL_895976e4-0_Image_In_Body.jpeg",
+          "width": 318,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T05:46:00-08:00",
+      "publishedDateTime": "2021-11-22T11:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -441,6 +450,49 @@
         "AI in Finance",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
+      "title": "adidas Migrates SAP Environments to AWS",
+      "excerpt": "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24214919",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919",
+      "publishedDateTime": "2021-11-21T20:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1349,49 +1401,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-uae-aws-announces-plans-to-open-second-region-in-canada.md",
-      "title": "UAE - AWS Announces Plans to Open Second Region in Canada",
-      "excerpt": "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
-      "originalUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-11/11/A_32f2eimage_story.jpg",
-          "width": 1000,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T11:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

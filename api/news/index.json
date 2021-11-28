@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-27-artificial-intelligence-help-reduce-backlog-of-pending-cases-law-minister.md",
-      "title": "Artificial Intelligence Help Reduce Backlog Of Pending Cases: Law Minister",
-      "excerpt": "Law Minister Kiren Rijiju on Saturday said artificial intelligence could help in \"surprising ways\" to ensure sustainable justice delivery and reduce backlog of pending cases.",
+      "path": "_news/2021-11-28-ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju.md",
+      "title": "AI Can Help Reduce Backlog Of Pending Cases: Law Minister Rijiju",
+      "excerpt": "Law Minister Kiren Rijiju on Saturday said artificial intelligence could help in \"surprising ways\" to ensure sustainable justice delivery and reduce backlog of pending cases. Addressing the concluding session of a Supreme Court-organised two-day Constitution Day event here,",
       "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/artificial-intelligence-help-reduce-backlog-of-pending-cases-law-minister-kiren-rijiju-2627342",
-      "originalUrl": "https://www.ndtv.com/india-news/artificial-intelligence-help-reduce-backlog-of-pending-cases-law-minister-kiren-rijiju-2627342",
+      "webUrl": "https://www.outlookindia.com/website/story/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853",
+      "originalUrl": "https://www.outlookindia.com/website/story/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://c.ndtvimg.com/2021-10/rl4p8rt_kiren-rijiju-at-lsr_625x300_18_October_21.jpg",
-          "width": 650,
-          "height": 400,
+          "url": "https://images.outlookindia.com/public/uploads/gallery/20200914/kiren_20200914_550_550.jpg",
+          "width": 550,
+          "height": 367,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/artificial-intelligence-help-reduce-backlog-of-pending-cases-law-minister-kiren-rijiju-2627342/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/artificial-intelligence-help-reduce-backlog-of-pending-cases-law-minister-kiren-rijiju-2627342/amp/1",
-      "publishedDateTime": "2021-11-27T06:16:00-08:00",
+      "ampWebUrl": "https://www.outlookindia.com/website/amp/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853",
+      "publishedDateTime": "2021-11-27T16:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -741,6 +741,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-26-sensetime-ipo-could-help-hsbc-gain-recognition.md",
+      "title": "SenseTime IPO could help HSBC gain recognition",
+      "excerpt": "Some deals are about more than just the money. A successful market debut by artificial-intelligence dragon SenseTime could go a long way to uncovering interest in politically sensitive Chinese technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
+      "originalUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/utbCg0l0DmMO3OUyGVcONl7IFSI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B32INJZALNOGVNR2IBVU7OQ424.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-westjet-and-telus-launch-facial-recognition-boarding-trial-at-calgary-international-airport.md",
       "title": "WestJet and TELUS launch facial recognition boarding trial at Calgary International Airport",
       "excerpt": "WestJet and TELUS have teamed up for a first-of-its-kind trial in Canada that will see facial recognition used prior to boarding for some flights at Calgary international Airport.",
@@ -1188,58 +1240,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation.md",
-      "title": "Accelerate your marketing plan by leveraging AI for content creation",
-      "excerpt": "Facing rapid ecommerce growth and increased customer expectations, businesses can accelerate marketing plans using AI for content creation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/",
-      "originalUrl": "https://venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-597317521.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/amp/",
-      "publishedDateTime": "2021-11-24T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/india-news/artificial-intelligence-help-reduce-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/artificial-intelligence-help-reduce-backlog-of-pending-cases-law-minister-kiren-rijiju-2627342/amp/1"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: NDTV
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Can Help Reduce Backlog Of Pending Cases: Law Minister Rijiju"
+    excerpt: "Law Minister Kiren Rijiju on Saturday said artificial intelligence could help in \"surprising ways\" to ensure sustainable justice delivery and reduce backlog of pending cases. Addressing the concluding session of a Supreme Court-organised two-day Constitution Day event here,"
+    publishedDateTime: 2021-11-28T00:45:00Z
+    webUrl: "https://www.outlookindia.com/website/story/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 57
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/gallery/20200914/kiren_20200914_550_550.jpg"
+        width: 550
+        height: 367
+        isCached: true
   - title: "Artificial intelligence can help reduce backlog of pending cases: Law Minister Kiren Rijiju"
     excerpt: "Since courts in India are already undergoing a transformational change by going digital, the emerging domain of AI could help in surprising ways to ensure sustainable justice delivery and reduce backlog of pending cases,"
     publishedDateTime: 2021-11-27T12:56:00Z

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Meet the robot that can write poetry and create artworks"
-excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
-publishedDateTime: 2021-11-27T22:50:00Z
-originalUrl: "https://cnnphilippines.com/world/2021/11/28/Meet-the-robot-that-can-write-poetry-and-create-artworks-.html"
-webUrl: "https://cnnphilippines.com/world/2021/11/28/Meet-the-robot-that-can-write-poetry-and-create-artworks-.html"
+excerpt: "Meller said one key thing he and the team that work with Ai-Da have learned while developing her is that the project hasn't taught them how"
+publishedDateTime: 2021-11-27T18:41:00Z
+originalUrl: "https://www.wrcbtv.com/story/45309606/meet-the-robot-that-can-write-poetry-and-create-artworks"
+webUrl: "https://www.wrcbtv.com/story/45309606/meet-the-robot-that-can-write-poetry-and-create-artworks"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: CNN Philippines
-  domain: cnnphilippines.com
+  name: WRCB
+  domain: wrcbtv.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "LcargDbFCeSiBcpnxCFJQxJtTgU3i2fOI5LSaNsd5WrkX/TatrS1bf5zIt8ESW8WyT5BUdit3l3fqbesf9wLV+WQZgsJd6jtHfikXW1UxYXZItdwUVjAk/o0OGRbh0HsueZAwsdaQQfi7bAgIl6zn4HN3S37FHA5e1kvHBa73bvBzTrAILSF3kkzmleB7Mo1UmkpTjlDdSp4qoqQ6qDWWrM4P8hzoT689XmGUtv+ocFyIaXyFonIILzJ0b0EBfOpTbgNh5f07sVnmOo4hnfUtWx/72pIrhPnssCryq9g6+uecJVOV3vpI44yNH7tv1L7rvFCpjxwdBnPX2SEYpmeWlNiT+CtgZ5h+prB4IHNdnkf79PLffzQvQiZPZrdm9LJP+vhpJUZVRrenEGG7fdhXRqUD3X3Mtrh7iJEmFN+4Xm0lqFKpGtGGacR3V3JZitKrcuzw+PgFP2OHbNMpvmWNzPb19LLwhNINcr8mfCl0Rnpan856XH/hirIHFaTjcY2FAYBzWIQQdg1R0ZHYs0V/Q==;rGKPlMIVItQIOnM38JGX3Q=="
+images:
+  - url: "https://WRCB.images.worldnow.com/images/21783178_G.jpeg?lastEditedDate=1638018765000"
+    width: 780
+    height: 438
+    isCached: true
+
+secured: "B37rPV5vf1cJYHF0Xill2MLLmPeEPJMWHq3knNyUSPB0jAkc7tM8jvLsAeRRfhABvHQeCUbjlMx8ZGUGXRV8XjHPfdGqK4LBSfJnIg6L+NCWliRXy+ZCAfmUR7dnA9gc+MiRHlJxBMjRP9erj/acDdlCsVs4BxBux8n8/5e20ji6uIZ6wmm4WmQIE3vc9ovMAzTWjV5zgJ1sh+t61Rg/GVJkk6R8V4n8v89x1332yNr4Uf3WSEzXMQmmpq3sFR8hHoCeT7K/6uKIgi4dY1YUZbbgJ8Lq8PnOMuvPwvjwC+zhKnfJOlYQpEpDRPyVcCzJ+bTfVtnYLI17z/ZlR7jhd+MlIZxXKkmjQ1rD+xvRHZw=;sHIjVBfU/AZ43i7uZQtKow=="
 ---
 

@@ -2,6 +2,109 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-11-05-run-alphafold-v20-on-amazon-ec2.md",
+      "title": "Run AlphaFold v2.0 on Amazon EC2",
+      "excerpt": "After the article in Nature about the open-source of AlphaFold v2.0 on GitHub by DeepMind, many in the scientific and research community have wanted to try out DeepMind’s AlphaFold implementation firsthand. With compute resources through Amazon Elastic Compute Cloud (Amazon EC2) with Nvidia GPU, you",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/25/ML_5671_feature.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T12:59:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-how-ai-will-make-your-doctor-smarter.md",
+      "title": "How AI Will Make Your Doctor Smarter",
+      "excerpt": "From suicide prevention to infection tracking, the U.S. military is applying the latest technology to a host of medical challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "originalUrl": "https://www.wsj.com/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-429385/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-antificial-intelligence-will-make-your-doctor-smarter-tetteh-medicine-military-covid-ai-11636123757",
+      "publishedDateTime": "2021-11-05T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-facebook-citing-societal-concerns-plans-to-shut-down-facial-recognition-system.md",
       "title": "Facebook, Citing Societal Concerns, Plans to Shut Down Facial Recognition System",
       "excerpt": "Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users.",
@@ -1097,110 +1200,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-alphabet-lets-ai-take-the-lead-role-in-new-drug-discovery-startup.md",
-      "title": "Alphabet lets AI take the lead role in new drug discovery startup",
-      "excerpt": "DeepMind produced a stunning advance in scientific research, demonstrating how its artificial intelligence could be used to predict 3D structures of unique proteins in a solution to a 50-year science problem.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/",
-      "originalUrl": "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/ec422cd/2147483647/strip/true/crop/1212x808+114+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb1%2F32%2F4ccee0d441f598489215b11648b4%2Fscreen-shot-2020-12-01-at-12.05.59%20pm.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/alphabet-ai-isomorphic-labs-drug-discovery-start/?amp=true",
-      "publishedDateTime": "2021-11-04T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-tencents-foray-into-chips-isnt-at-all-surprising.md",
-      "title": "Tencent’s foray into chips isn’t at all surprising",
-      "excerpt": "Tencent unveiled its progress in chips for the first time this week, which immediately gave its stock price a modest boost. Silicon seems distant from the giant’s main arenas of video games and social networks,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/",
-      "originalUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-937997094.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/tencent-chips-semiconductor/amp/",
-      "publishedDateTime": "2021-11-04T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
