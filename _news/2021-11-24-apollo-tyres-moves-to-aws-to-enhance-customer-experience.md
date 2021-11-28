@@ -9,8 +9,8 @@ ampWebUrl: "https://english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-
 cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: News Track
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apollo Tyres Goes All-In on AWS to Make Factories Smarter with IoT and Machine Learning"
-    excerpt: "Amazon Web Services (AWS) announced that Apollo Tyres, India’s leading tyre manufacturer, is going all-in on AWS to digitally transform. By moving all of its IT infrastructure to"
-    publishedDateTime: 2021-11-23T11:47:00Z
-    webUrl: "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/"
-    ampWebUrl: "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/"
-    cdnAmpWebUrl: "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/"
-    type: article
-    provider:
-      name: Odisha Diary
-      domain: orissadiary.com
-    quality: 68
-    images:
-      - url: "https://i0.wp.com/orissadiary.com/wp-content/uploads/2021/11/Apollo-Tyres_AWS-2.jpg?fit=800%2C532&ssl=1"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Apollo Tyres sets the way to make factories smarter with IoT and machine learning"
-    excerpt: "The leading tyre manufacturer moves to AWS to digitise the manufacturing process and transform the customer experience"
-    publishedDateTime: 2021-11-23T11:06:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/apollo-tyres-sets-the-way-to-make-factories-smarter-with-iot-and-machine-learning/87869046"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/apollo-tyres-sets-the-way-to-make-factories-smarter-with-iot-and-machine-learning/87869046"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/apollo-tyres-sets-the-way-to-make-factories-smarter-with-iot-and-machine-learning/87869046"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87869046,imgsize-10774,width-1200,height-628,overlay-etcio/apollo-tyres-sets-the-way-to-make-factories-smarter-with-iot-and-machine-learning.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Apollo Tyres goes all out on AWS to use IoT and machine learning in factories"
     excerpt: "Apollo Tyres moves to AWS to digitize manufacturing, overhaul customer experience, and create “smart” factories to improve productivity and compliance"
     publishedDateTime: 2021-11-25T07:04:00Z

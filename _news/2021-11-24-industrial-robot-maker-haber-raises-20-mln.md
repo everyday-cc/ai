@@ -25,65 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based Robotics Startup Haber Raises $27 Mn In Series B Funding"
-    excerpt: "Haber develops AI-driven robots which automate the manual process of sample collection, measurement, analysis, and intervention at factories."
-    publishedDateTime: 2021-11-23T12:00:00Z
-    webUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/"
-    ampWebUrl: "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/"
+  - title: "NFT Authentication Startup ORIGYN Raises $20 Million"
+    excerpt: "ORIGYN Foundation, an NFT authentication start-up based in Switzerland, has secured $20 million in funding from investors like Paris Hilton, Bill Ackman, and Polychain Capital, among others. The non-profit,"
+    publishedDateTime: 2021-11-23T17:42:00Z
+    webUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million"
+    ampWebUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 89
+      name: Cheddar
+      domain: cheddar.com
+    quality: 57
     images:
-      - url: "https://inc42.com/wp-content/uploads/2021/11/trademo-ft-social-02-1-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "AI-driven robot developer Haber raises $20 million in Series B funding"
-    excerpt: "Ascent Capital, the lead investor in the Series B funding, was joined by Elevation Capital, Accel, Beenext, Temasek partner Mukul Chawla and several others."
-    publishedDateTime: 2021-11-23T12:26:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/ai-driven-robot-developer-haber-raises-20-million-in-series-b-funding/2374550/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/ai-driven-robot-developer-haber-raises-20-million-in-series-b-funding/2374550/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/ai-driven-robot-developer-haber-raises-20-million-in-series-b-funding/2374550/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://images.financialexpress.com/2021/11/Artificial-Intelligence-Haber.png"
+      - url: "https://img.chdrstatic.com/media/5abcf2bb-41ea-43b1-b701-3d79640030f1.jpg?width=1200&source=backend&auto=webp"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "AI-Driven Industrial Robot Maker Haber Raises $20 mn In Series B Funding"
-    excerpt: "Before starting Haber, both founders worked in Nalco Water India, a water, hygiene, and infection prevention services and solutions company."
-    publishedDateTime: 2021-11-24T07:59:00Z
-    webUrl: "https://analyticsindiamag.com/ai-driven-industrial-robot-maker-haber-raises-20-mn-in-series-b-funding/"
+  - title: "AI startup Salesken bags $22 million in Series B round from Microsoft and Sequoia India"
+    excerpt: "Salesken has secured $22 million in a Series B funding round backed by Microsoft's Venture Fund M12 and existing investor Sequoia India."
+    publishedDateTime: 2021-11-23T17:36:00Z
+    webUrl: "https://techstory.in/salesken-22-million-series-b-round/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 53
+      name: tech
+      domain: techstory.in
+    quality: 46
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/602c64548b97330e3bcb771f_1-scaled.jpg"
+      - url: "https://techstory.in/wp-content/uploads/2021/11/Salesken-scaled.jpg"
         width: 2560
-        height: 1287
-        isCached: true
-  - title: "Autonomous driving software startup Helm.ai raises $26 million in new funding"
-    excerpt: "Autonomous driving software startup Helm.ai raises $26 million in new funding November 24, 2021 by Mark Allinson Leave a Comment   <stron"
-    publishedDateTime: 2021-11-25T04:45:00Z
-    webUrl: "https://menafn.com/1103246918/Autonomous-driving-software-startup-Helmai-raises-26-million-in-new-funding"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/24/R&AN_83f03image_story.jpg"
-        width: 800
-        height: 533
+        height: 1703
         isCached: true
 
 secured: "KH4URynmnzMXsyUVihsVbjIYssTqdAuH725zKTCnyUnJQrxTrI+LLERGKKfdBsnUbfkapAhAiZXBROoUbqnE/NGAIA0D6893R/iguO9gUA+GcDAnC9+ev+wxP7ktHjtcio4eKrcDY+6D34TE4Sup+MkpulKbpHkFZNWYd2nCdd7RVZQ7Rl6k3BTez0C9D8vaOo1KLKcDtaiA0iXkgGUqKnorWEy41BE+rKgYmiO9QhYUg0QNiwT2lgB4XofftAQ8VEg1eGSa2W3P3RGZgbLgRaSRtmxAnmXhw35UfPbGevY6A2Y8HW8VeB9SdRR84xa9iWS71+MNRSvg48mpsgrMJ0bDZMJxSHHUAJuSE0SnWOw=;7NEa+Q188XQGDvmOk2taDw=="

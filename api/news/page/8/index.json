@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-18-artificial-intelligence-ai-in-retail-market-2021-2028.md",
+      "title": "Artificial Intelligence (AI) in Retail Market 2021-2028",
+      "excerpt": "New study report \" Artificial Intelligence (AI) in Retail Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub18124618_g.jpg",
+          "width": 800,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "publishedDateTime": "2021-11-18T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-optima-recruit-ai-pioneer-to-boost-customer-service-in-banking-sector.md",
+      "title": "Optima recruit AI pioneer to boost customer service in banking sector",
+      "excerpt": "Optima Partners have recruited an AI pioneer at their Edinburgh HQ to work on improved customer service in the banking industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
+      "originalUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deadlinenews.co.uk/wp-content/uploads/2021/11/Danilo-Blagojevich-e1637227266740.jpeg",
+          "width": 803,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
+      "cdnAmpWebUrl": "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
+      "publishedDateTime": "2021-11-18T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline News",
+        "domain": "deadlinenews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-surecore-designs-multi-port-memory-for-semidynamics-ai-chip.md",
+      "title": "sureCore designs multi-port memory for Semidynamics AI chip",
+      "excerpt": "Core, the embedded memory specialist, has designed a power and area efficient, high performance, multi-port, embedded memory solution for Semidynamics’ new RISC-V-based, tensor processing chip. Semidynamics is developing a high bandwidth,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/surecore-designs-multi-port-memory-for-semidynamics-ai-chip/242258/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/surecore-designs-multi-port-memory-for-semidynamics-ai-chip/242258/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/242258/surecore.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-corrected-drugmaker-sanofi-invests-180-mln-in-french-ai-startup-owkin.md",
       "title": "CORRECTED-Drugmaker Sanofi invests $180 mln in French AI startup Owkin",
       "excerpt": "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday.",
@@ -1069,153 +1198,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-aws-makes-ai-and-machine-learning-tangible-with-first-major-art-debut-at-smithsonian.md",
-      "title": "AWS makes AI and machine learning tangible with first major art debut at Smithsonian",
-      "excerpt": "It would then use AI and machine learning developed by Swami Sivasubramanian (left), vice president of Amazon Machine Learning at AWS, and his team, to detect the word for the future and determine its sentiment.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/11/17/aws-makes-ai-ml-tangible-first-major-art-commission-debut-smithsonian/",
-      "originalUrl": "https://siliconangle.com/2021/11/17/aws-makes-ai-ml-tangible-first-major-art-commission-debut-smithsonian/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Swami-and-Suchi-version-2-Me-You.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-google-launches-bot-in-a-box-to-nudge-along-conversational-ai.md",
-      "title": "Google launches Bot-in-a-Box to nudge along conversational AI",
-      "excerpt": "The new feature from Google Cloud makes it easier for businesses to launch chatbots using existing customer FAQs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "originalUrl": "https://www.zdnet.com/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3d1e5183f434477463f6546bcdf2e2e2eb8717ac/2021/06/28/554d89ed-c8e3-43bf-b77e-354982cb4942/thumb.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-bot-in-a-box-to-nudge-along-conversational-ai/",
-      "publishedDateTime": "2021-11-17T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics.md",
-      "title": "Machina Labs emerges from stealth with $16M raised for on-demand manufacturing robotics",
-      "excerpt": "Machina Labs today announced a $14 million Series A for its robotics and AI-based manufacturing. The round, led by Endeavors and featuring Congruent Ventures and Embark Ventures, brings the Los Angeles firm’s total funding to $16.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/",
-      "originalUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-16-at-1.42.34-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/machina-labs-emerges-from-stealth-with-16m-raised-for-on-demand-manufacturing-robotics/amp/",
-      "publishedDateTime": "2021-11-17T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

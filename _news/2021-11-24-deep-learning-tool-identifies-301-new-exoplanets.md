@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labroots.com/trending/space/21764/deep-learning-tool-ide
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/space/21764/deep-learning-tool-identifies-301-exoplanets/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1198
     height: 652
     isCached: true
-
-related:
-  - title: "301 new exoplanets verified by deep learning with a new neural network"
-    excerpt: "Using a new deep learning neural network called ExoMiner, scientists have identified 301 new exoplanets from the Kepler Archive."
-    publishedDateTime: 2021-11-23T11:08:00Z
-    webUrl: "https://www.tweaktown.com/news/82919/301-new-exoplanets-verified-by-deep-learning-with-neural-network/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "2wwh6wcsDffAwL7g3v1DNCnTxc/ZAQJCJxKvJAWXqej+hgyd24IUEgWOq63laOX1HxheRFUggyqJElvrvdbSdWm4hRXYvWxraU++kaUzSbyMDtgEaxXVUyniypZP58V8JNnngApW+Mp5pNVUJzIe+cKLW5olMkdDIGbDF7SuwSjyZYH2uQwaVWrSAsyUjUC5iLaei/ZBaieg/QuQgj5MRv4nZ0vjKu0kwCPUe5miGU86JixzT26S2E8Kj+ssuSu+yQTWxY1GGYo3EhTBavFgdKLn+ApRuOz/PhJLUErdtqS7Iun10O9NiCSE0CTO4ahGSx0DcqLjUCQlrfC+HrbafNonRMWFvue8E3WPiCkvi6gaCn4RIVpC9eAbdq78O7rgqC3U8DKJO/SzzIQVeqh293eCjSe20g0PvjAdg2FrxQv/WH2PWHfjTz6OjDbhkAZS2bRg10enIhJ/v3CpG5wa9AwIlP5EI8VcPf+jk1O8TKdy2NCe3o7vjwlcqKamMP7f0Rs6hletKZd3U+OL8PzEkw==;cPIuBRXdRTn1f47vUtrtoA=="
 ---

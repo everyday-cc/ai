@@ -105,20 +105,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Local fintech startup GIMO bags $1.9 million in Seed+ round led by Integra Partners"
-    excerpt: "GIMO, a Vietnam-based fintech startup offering on-demand payment firm for blue-collar workers, has secured $1.9 million in a Seed+ round."
-    publishedDateTime: 2021-11-23T11:52:00Z
-    webUrl: "https://vir.com.vn/local-fintech-startup-gimo-bags-19-million-in-seed-round-led-by-integra-partners-89420.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 18
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/luuhuong/112021/23/09/in_social/2044_GIMO-team.jpg?randTime=1637672489"
-        width: 600
-        height: 364
-        isCached: true
   - title: "FintechNGR Hosts 2021 Edition of World Fintech Festival, Nigeria, with CBN and NITDA in Attendance"
     excerpt: "On 11th of November 2021, the Fintech Association of Nigeria, (FintechNGR), hosted the World Fintech Festival (WFF), Nigeria, in partnership with the Singapore Fintech Festival (SFF). The event was one of the breakout events held by key FinTech hubs across the globe and was themed,"
     publishedDateTime: 2021-11-25T17:55:00Z

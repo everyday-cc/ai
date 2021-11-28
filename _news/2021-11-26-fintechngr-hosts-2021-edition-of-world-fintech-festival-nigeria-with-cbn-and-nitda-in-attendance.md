@@ -119,20 +119,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Local fintech startup GIMO bags $1.9 million in Seed+ round led by Integra Partners"
-    excerpt: "GIMO, a Vietnam-based fintech startup offering on-demand payment firm for blue-collar workers, has secured $1.9 million in a Seed+ round."
-    publishedDateTime: 2021-11-23T11:52:00Z
-    webUrl: "https://vir.com.vn/local-fintech-startup-gimo-bags-19-million-in-seed-round-led-by-integra-partners-89420.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 18
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/luuhuong/112021/23/09/in_social/2044_GIMO-team.jpg?randTime=1637672489"
-        width: 600
-        height: 364
-        isCached: true
 
 secured: "mSE1SVMRG4pgJOXrYbE3bDqmoE21nSBPWuF4EmvnJFjgPGj0yRy666SU31G9e5VA7isI/BlYstLarntky45CaDomzhMG3z7piecMYgoUgoFfApFP/7Rp9bJABCiI26CDXKa6L6dhY0uE6RlQig2KsxCfr7dKTR5arUXAPn9fQ49ZlpPEFjxfr0tywxT+1nN1NdYlmR7dib6ctRWNtKqQZ48FEH2o6p1que9yORgXpTgcvH8vBfSE8/baseUDgPrDysMs0wbEDbNUKItGXpnjfHDg05mXkvA0AsamqHeNMEXL7E8iXFNyHDZHaNmwipPXDYHlEXYd0iv7LrNi0O8sJgnfg1B0/fAOIYaY4qWTrgWjw98Ai85URyOls33DHegpjrCFDjj8oQQHQrvDg7wroee+jOX/utp1VpCCjvINU8LxaqNUyq7vf3SvVdhmKrk9tBSEv39TBJqrVNMgJCpHMgqOxQ+EHisGZxZ3coCeJ70xGIY7XZd5ztFsh3Tq9P5EglzPhHjQsCEjqr17PBN4Tg==;wbQMVB+O13VWQoMxbnx85g=="
 ---

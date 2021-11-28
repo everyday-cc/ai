@@ -9,8 +9,8 @@ ampWebUrl: "https://cheddar.com/media/nft-authentication-startup-origyn-raises-2
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Cheddar
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Industrial robot maker Haber raises $20 mln"
+    excerpt: "Industrial robot maker Haber on Tuesday announced raising USD 20 million (about Rs 149 crore) in a funding round led by Ascent Capital. Accel, Elevation Capital, Beenext, Temasek partner Mukul Chawla and the founders of GreyOrange,"
+    publishedDateTime: 2021-11-23T18:30:00Z
+    webUrl: "https://www.dailyexcelsior.com/industrial-robot-maker-haber-raises-20-mln/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 54
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI startup Salesken bags $22 million in Series B round from Microsoft and Sequoia India"
     excerpt: "Salesken has secured $22 million in a Series B funding round backed by Microsoft's Venture Fund M12 and existing investor Sequoia India."
     publishedDateTime: 2021-11-23T17:36:00Z

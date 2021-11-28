@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "Artificial intelligence powers protein-folding predictions"
-    excerpt: "Deep-learning algorithms such as AlphaFold2 and RoseTTAFold can now predict a protein’s 3D shape from its linear sequence — a huge boon to structural biologists."
-    publishedDateTime: 2021-11-23T11:19:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-03499-y?amp;amp"
+    excerpt: "The buzz over the November 2020 debut of AlphaFold2, Google DeepMind’s artificial-intelligence (AI) system for predicting the 3D structure of proteins, has only intensified since the tool was ..."
+    publishedDateTime: 2021-11-23T14:44:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-03499-y"
     type: article
     provider:
       name: Nature

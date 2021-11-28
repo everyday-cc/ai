@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "KeyCorp (KEY) Continues Fintech Buyouts, Acquires XUP Payments"
-    excerpt: "Continuing with its efforts to offer the best payment and banking services to clients, KeyCorp KEY has acquired a business-to-business (B2B) focused digital platform, XUP Payments. The XUP platform provides a seamless connection between merchants,"
-    publishedDateTime: 2021-11-23T11:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments"
-    ampWebUrl: "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments?amp"
+  - title: "LegalTech Artificial Intelligence Industry - Key Market Future Trends to Look Out"
+    excerpt: "DeepResearchReports has uploaded a latest report on LegalTech Artificial Intelligence Industry from its research database LegalTech Artificial Intelligence Market is segmented by Regions Countries All the key market aspects that influence the LegalTech Artificial Intelligence Market currently and will have"
+    publishedDateTime: 2021-11-26T09:04:00Z
+    webUrl: "https://www.openpr.com/news/2475850/legaltech-artificial-intelligence-industry-key-market-future"
+    ampWebUrl: "https://www.openpr.com/amp/2475850/legaltech-artificial-intelligence-industry-key-market-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475850/legaltech-artificial-intelligence-industry-key-market-future"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub26255935_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "D3S6ioaoPaqlHf/8l+486qMssjAycezB/quRFfglNcKFkqc/t1CaI0S422MvqfNBLV2u2/dkhKAe4PtLHzJVVZ/4IKO/D1k7J3o4iiKrRh9GoX3CVOXUo22zML7ZQxSn8tXHF7WO2nBYgHsdtOL2VP+fVRG5kHDuIYhKd9WjMUiqAJoaQ6uRY6pyRInb9v2wFf/uRxuoHZnr0zKJJQhiJwwXlbf/k+AYWFpyz8n9PmbSaFREECAJPe8HvFYMxqBx1bt4n1AVeMLGeW2d/SfrZ8ttXnItdCEuQ8skL1+q1UPghsx5pvNB61JvhzkTP9r40wVUmPEsD4JIN1mqZHpCxb+wbZ2OQfW4YMcQK9Y9pGdnnk6cN+cBD1SOcGOutP1z3vphxXMXBEAqhE8CL0dQRilX9Vq5f0SOdqAcHOqkiyGjDSVE6BfBq8harF712XWBlZ7kGerYM03pdvF76iaRLbZVlmhpbrkQ73zb+7ajG953qPIwbRqvh6n1wvLmqu6PHCPX8orOQUedSb6bG7Xi0Q==;DgGyZR1zWXIwzVQDYx75mA=="
 ---

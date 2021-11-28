@@ -23,17 +23,6 @@ images:
     height: 493
     isCached: true
 
-related:
-  - title: "Kore.ai Extends Its Financing to $73.5 Million"
-    excerpt: "Kore.ai, a top conversational AI software company, today announced that it has extended its Series C funding round with participation from NVIDIA. In"
-    publishedDateTime: 2021-11-23T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/kore-ai-extends-its-financing-to-73-5-million/article_d44094d5-0b30-598d-858e-7f853bb320da.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
-
 secured: "Qe36NG5XjoP+c6D6GLdnXGffn2htnGNhMaoiWKMeVdP9cnu5h/pMPOE8LUfElzCNvwMssn8bOMkdbCK4OwwWjMa0HD4CSduKtgDDHkmnsmMFBmnOzGErZbEP4MwCIkBHjJDundwrlhEY7+NZKjTpR7797a08mlwS4HyiCkKssCuMSN9hni5zDqLIyXXrIXlKh4b00bOvmOE02oAHGpIxPbhUxpQA8DwbaGJPr3tx5Yj3rRrIzpffGhZqgQedVYm6tL1RDYo7eGxtA84DmylTdRyakYLzA+yA2Ty4S0H/DVmcEMhEgMcP8faY0pzpkAENsrSZ/C/fjeQdHH8CV1d2F2JfSGrTyFBzOsctWOo3sAc=;Htn8csQejpW5Ocj4nWGAug=="
 ---
 

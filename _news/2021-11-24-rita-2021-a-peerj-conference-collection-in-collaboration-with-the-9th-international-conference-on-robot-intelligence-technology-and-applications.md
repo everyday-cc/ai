@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
-    excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
-    publishedDateTime: 2021-11-23T13:02:00Z
-    webUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
+  - title: "Haitong International 3rd AI Conference Draw to Successful Close"
+    excerpt: "Haitong International Securities Group Limited (\"Haitong International\"; Stock Code: 665.HK) announced a successful completion of its third Haitong International AI Conference (\"the Conference\") in Shanghai on 25 November."
+    publishedDateTime: 2021-11-26T08:01:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-haitong-international-3rd-ai-conference-draw-successful-close-/2021/11/26/9499911.htm"
     type: article
     provider:
-      name: Kentucky New Era
-      domain: kentuckynewera.com
-    quality: 35
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "2vpZG6gfbME2FJ/SltQ0U+0sZMDKhu55XQELuOjvF8ZOKdPf/2AsUVIE/UBZCh0nyYWXCpPO4skAuJHyPMQrG6RXOBAugK0BcV7U7G5Gu5UCORc7G79UZFy3Dh5gjBD82UAAlKOp/V2VzW/R9pBJmx0+xgZ96bOpC00ttN2++a+V5ry3nnAVX95hMptumcnR5KCVQUUDefJk/B2xVxOXxnvs9YpDPn7b6+17MIdN0wfNHpGL9UPJRwa4eV2Y/BLNsucVKAEu2iOXHkvJ6Y73r1XCFBroRYGcEXD2Q9rGl+QoZs+drRKv7u9tEINYFEh1KvoocnP2CMXgPDYkqGggcpRjlKrERgYZ5TQorHMOozE=;7e3FBhO5O24gc2PG228X+A=="
 ---
