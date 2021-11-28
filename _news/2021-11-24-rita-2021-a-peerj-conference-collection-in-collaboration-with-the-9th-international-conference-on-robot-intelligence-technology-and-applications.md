@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
-    excerpt: "CVG is using computer vision, AI, and advanced technologies to manage capacity constraints while maintaining its commitment to customer service and brand reputation TaskWatch enhances CVG with ..."
-    publishedDateTime: 2021-11-23T14:11:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation"
+    excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
+    publishedDateTime: 2021-11-23T13:02:00Z
+    webUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Kentucky New Era
+      domain: kentuckynewera.com
     quality: 35
 
 secured: "2vpZG6gfbME2FJ/SltQ0U+0sZMDKhu55XQELuOjvF8ZOKdPf/2AsUVIE/UBZCh0nyYWXCpPO4skAuJHyPMQrG6RXOBAugK0BcV7U7G5Gu5UCORc7G79UZFy3Dh5gjBD82UAAlKOp/V2VzW/R9pBJmx0+xgZ96bOpC00ttN2++a+V5ry3nnAVX95hMptumcnR5KCVQUUDefJk/B2xVxOXxnvs9YpDPn7b6+17MIdN0wfNHpGL9UPJRwa4eV2Y/BLNsucVKAEu2iOXHkvJ6Y73r1XCFBroRYGcEXD2Q9rGl+QoZs+drRKv7u9tEINYFEh1KvoocnP2CMXgPDYkqGggcpRjlKrERgYZ5TQorHMOozE=;7e3FBhO5O24gc2PG228X+A=="

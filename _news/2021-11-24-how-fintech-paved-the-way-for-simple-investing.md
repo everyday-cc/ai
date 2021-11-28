@@ -27,28 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Fintech Stocks To Buy on Any Dip"
-    excerpt: "In light of this, fintech stocks should continue to see explosive growth in the post-pandemic world. Moreover, unlike the traditional financial industry, their asset-light structures could provide fintech stocks ample room to boost margins."
-    publishedDateTime: 2021-11-23T10:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "KeyCorp (KEY) Continues Fintech Buyouts, Acquires XUP Payments"
-    excerpt: "Continuing with its efforts to offer the best payment and banking services to clients, KeyCorp KEY has acquired a business-to-business (B2B) focused digital platform, XUP Payments. The XUP platform provides a seamless connection between merchants,"
-    publishedDateTime: 2021-11-23T11:53:00Z
-    webUrl: "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments"
-    ampWebUrl: "https://www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/keycorp-key-continues-fintech-buyouts-acquires-xup-payments?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Fintech Crossfin sold in R1.5-billion deal"
     excerpt: "Crossfin Technology Holdings, a fintech investment firm, has been acquired by a consortium of investors, including Patrice Motsepe’s African Rainbow Capital."
     publishedDateTime: 2021-11-24T05:10:00Z
@@ -97,80 +75,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Canadian Fintech Borrowell Celebrates Financial Literacy Month, 2M Customers"
-    excerpt: "Canadian fintech Borrowell announced this week that more than two million Canadians are now members of its platform. This announcement comes during Financial Literacy Month in Canada, as Borrowell continues its mission to educate and empower consumers to take control of their financial health."
-    publishedDateTime: 2021-11-26T14:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/183393-canadian-fintech-borrowell-celebrates-financial-literacy-month-2m-customers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183393-canadian-fintech-borrowell-celebrates-financial-literacy-month-2m-customers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183393-canadian-fintech-borrowell-celebrates-financial-literacy-month-2m-customers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/04/Canada-Flag-Ontario-Lake.jpg"
-        width: 1280
-        height: 1142
-        isCached: true
-  - title: "Indian fintech startup Recordent raises $400K angel funding"
-    excerpt: "Recordent, a fintech start-up in the non-banking payment bureau sector, announced that it has raised $400,000 in angel funding from the Family Office of Kantamaneni & IIM Calcutta Innovation Park and other angel investors from India and the US."
-    publishedDateTime: 2021-11-23T10:46:00Z
-    webUrl: "https://www.finextra.com/pressarticle/90390/indian-fintech-startup-recordent-raises-400k-angel-funding"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Exibex brings Finnovex Saudi Arabia to the GCC region from March 22-23, 2022 to Nurture fintech"
-    excerpt: "Join the virtual experience as Exibex ushers you into the first quarter of 2022 with strategies to unleash the power of the Saudi Kingdom Fintech Landscape"
-    publishedDateTime: 2021-11-25T15:28:00Z
-    webUrl: "https://cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech"
-    ampWebUrl: "https://cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 32
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNDM0MWNhNmVjN2FjMmFhMDQ4NjBkMTY1YzFlYTdlNi5qcGc=.jpg"
-        width: 740
-        height: 493
-        isCached: true
-  - title: "5 key FinTech trends to watch in 2022"
-    excerpt: "This in turn is impacting traditional banks and FinTechs alike, who need to identify new solutions to deliver competitive"
-    publishedDateTime: 2021-11-23T13:22:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-key-fintech-trends-to-watch-in-2022/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/11/FinTech.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Investment to drive growth and create jobs at fintech"
-    excerpt: "A Belfast-based fintech is investing more than £2m with plans to grow exports and create 18 jobs. Datactics - a Queen's University Belfast (QUB) spinout - provides data quality applications to the financial services sector and central government,"
-    publishedDateTime: 2021-11-23T10:59:00Z
-    webUrl: "https://www.insidermedia.com/news/ireland/investment-to-drive-growth-and-create-jobs-at-fintech"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/datactics-Nov-2021-52741-1637576131.jpg"
-        width: 829
-        height: 466
-        isCached: true
   - title: "Fintech Crossfin sold in R1.5bn deal"
     excerpt: "Crossfin Technology Holdings, a South African fintech investment firm, has been acquired by a consortium of investors, including Patrice Motsepe’s African Rainbow Capital (ARC), for R1.5 billion. The consortium is led by Ethos’s Mid-Market Fund I and includes the founding Crossfin executive management team,"
     publishedDateTime: 2021-11-24T07:45:00Z
@@ -184,20 +88,6 @@ related:
       - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/shutterstock_163502138-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "10 Reasons Why Fintech's Great for the Future of Franchising"
-    excerpt: "Exploring ways fintech can improve franchising, from offering better security using biometrics to improving user experience through contactless payments"
-    publishedDateTime: 2021-11-27T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-reasons-why-fintechs-great-future-franchising"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/franchise_0.jpg.png?itok=xpLQeqOm"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Crossfin Tech being acquired for R1.5 billion, one of the largest private equity-led deals in the local fintech sector"
     excerpt: "Crossfin Technology Holdings, a leading fintech company, is being acquired for R1.5 billion by a consortium led by Ethos’ Mid-Market Fund I (EMMF) and which includes Crossfin’s founding management team,"
@@ -229,17 +119,6 @@ related:
         width: 600
         height: 364
         isCached: true
-  - title: "Completion of the Round 1 of the Securities & Commodities Authority Fintech Megathon"
-    excerpt: "The first-of-a-kind nationwide Megathon, launched in May 2021 under the patronage of H.E. Abdullah bin Touq Al Marri, Minister of Economy (MoE) and Chairman of the Board of the Securities and Commodities Authority (SCA),"
-    publishedDateTime: 2021-11-25T13:20:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Completion_of_the_Round_1_of_the_Securities__Commodities_Authority_Fintech_Megathon-ZAWYA20211125124245/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20211125124245/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20211125124245/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 17
   - title: "FintechNGR Hosts 2021 Edition of World Fintech Festival, Nigeria, with CBN and NITDA in Attendance"
     excerpt: "On 11th of November 2021, the Fintech Association of Nigeria, (FintechNGR), hosted the World Fintech Festival (WFF), Nigeria, in partnership with the Singapore Fintech Festival (SFF). The event was one of the breakout events held by key FinTech hubs across the globe and was themed,"
     publishedDateTime: 2021-11-25T17:55:00Z
@@ -254,29 +133,6 @@ related:
         width: 2079
         height: 1406
         isCached: true
-  - title: "Lifeist Wellness To Sell Certain Intellectual Property Assets to Spinach Pay, Breathing Life Into a U.S. Cannabis Fintech Concept"
-    excerpt: "Lifeist Wellness Inc. (\"Lifeist\" or the \"Company\") , a wellness company that leverages advancements in science and technology to enable you to find your path to wellness, today announced that it has entered into a definitive agreement"
-    publishedDateTime: 2021-11-26T01:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-20126533.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 10
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "3 fintech trends that are transforming the future of business"
-    excerpt: "Here are three emerging trends in fintech that businesses should be aware of in order to best protect themselves against the inherent risks of digitization of operations, products and services."
-    publishedDateTime: 2021-11-23T14:09:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/partner-content/2021/11/23/3-fintech-trends-that-are-transforming-the-future.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "2oGj5AX4OhP11EPtwy+r06tpfhHyKREvLz+PfosFrPmIaC+iAE38ylwKXJRP4yD1bUDjeukDTtXlV5dlDcFbsmi5tZd3udBnkBxGyc3vv6Smymvj59GSZfnGQGqvdycoQRF1feU5TQu6NZOBPau0yXXVm7F24T0djlCAclYoK29lbRW78OwE/ZfrdJNuNsp/f0GwPdCzjhYo7Y/iapS2htc8Ai01dcEtO10EIh8L3Z4xh+ImjDypz+6QYn8Z8raCIcq1yBI+CyTNf9EM5MZ5PYMgkkpWEY7Eh4Pu1JJVlds761XLw/szHlsADFmwI1JsNJQ085oTJv3UukMIM5M4otqAe6LC3WgpglEA1shAie+415vQVPsNQtw+WX3aHBnzojO965pVKMEDgPig4HgvGFs3JSu3rJskcUAD1J/1r6XOycsCIyXgMzYMpBXdNSWwUVxxBVDbLVM8EDjhBF7u+5Le7O3hNxWcze3hJ/xfx2vfPsyk347fSOPMP1n1AV3AqFvStl+e4CG+4dRj+dGkNA==;ndzAfz/MA6Nj45takjFchg=="
 ---

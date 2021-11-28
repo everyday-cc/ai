@@ -73,22 +73,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
-    publishedDateTime: 2021-11-26T22:18:00Z
-    webUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 62
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/11/unesco.jpg"
-        width: 680
-        height: 680
-        isCached: true
   - title: "193 countries adopt 1st global agreement on Ethics of AI"
     excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
     publishedDateTime: 2021-11-26T11:59:00Z
@@ -202,6 +186,20 @@ related:
       - url: "https://d3bzyjrsc4233l.cloudfront.net/news/ai.png"
         width: 925
         height: 521
+        isCached: true
+  - title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
+    excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence"
+    publishedDateTime: 2021-11-27T14:50:00Z
+    webUrl: "https://businessghana.com/site/news/General/251495/UNESCO-member-states-adopt-the-first-ever-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 40
+    images:
+      - url: "https://businessghana.com/site/img/../../cms/img/news/2021-11-27-144626000.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "UNESCO member states adopt AI standards"
     excerpt: "Audrey Azoulay, director-general of UNESCO presented this past week the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference."
