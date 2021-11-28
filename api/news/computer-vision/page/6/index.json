@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-29-paravision-enhances-video-facial-recognition-with-streaming-container-update.md",
+      "title": "Paravision enhances video facial recognition with Streaming Container update",
+      "excerpt": "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update",
+      "originalUrl": "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg",
+          "width": 2048,
+          "height": 1366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-on-echo-show-15-alexa-will-recognize-your-face-thanks-to-amazons-visual-id.md",
       "title": "On Echo Show 15, Alexa will recognize your face thanks to Amazon's Visual ID",
       "excerpt": "The facial recognition feature is designed to recognize you whenever you're in front of the camera, so Alexa can show you personalized content.",
@@ -1390,49 +1433,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-19-facepalm-as-researchers-crack-advanced-facial-recognition-tech-with-simple-makeup.md",
-      "title": "Facepalm As Researchers Crack Advanced Facial Recognition Tech With Simple Makeup",
-      "excerpt": "The concerning part of all of this is that the research also explained this “attack has a high level of inconspicuousness and thus can be launched in the real world.”",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "originalUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56270/content/facial-recognition-tricked-with-makeup.jpg",
-          "width": 708,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
-      "publishedDateTime": "2021-09-18T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

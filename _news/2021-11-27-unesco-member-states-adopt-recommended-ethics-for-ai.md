@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 594
         isCached: true
-  - title: "Defense Innovation Unit publishes ethical AI guidelines"
-    excerpt: "The Defense Innovation Unit now has its own guidelines for implementing the Pentagon's principles of ethical artificial intelligence use."
-    publishedDateTime: 2021-11-23T21:33:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2021/11/23/defense-innovation-unit-publishes-ethical-ai-guidelines/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 54
-    images:
-      - url: "https://www.defensenews.com/resizer/VJnVs-6ayYsHldvrJgP2ISJQAFM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/KP45VGQHKFCVNHYINF6K5SXLW4.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "WDfF119pGu+LOPSVX8CP9ku8rKxfssnvoiCY9PsEEKCN+v0LY9Nta3bsr0kbpD4QBkgnSPMukDwZmVSB2wUhULmT+QXS1XhTqCRf/Mc3b3bzI+GYo8m2uVejjKdVhXP8YeQszv5+vDJIYx/JbaHwSGX6SFXSUkFqKEp/c8UPbuLuk/ralEn+x5GKp8GoSmKnN9rpMxUM6TjTvkzsWCMSPeo/ciIUbJ+TFa6pHM386h41Fp7tFeuF28LJmQN3eFP3woN7ibGX5epmczokJbdqYvm2lX8zhrEtQj40r23S1Va2PPQ2p6m2NzDEf6tfiCTe1qhKuHbqfkNS48LsnM+IWVMuBkdqGGDFHy6xGEjGL/Zo0m5GQwdhXjZ7yzjyZ3Unzdf4jtc6kd9l3pO5kut8zcsUbJZUDLhsaSVrSK2EYizAlFzinUoRxA2QyjxCeS0bqwdNyXCTxlkp9311Uc2lXsbzJuDRrhvF/LEs0LbjnZUIzHkE7Dqmwypjur/aYQGWVUjxGegVl3hpJm2Vc8J4kA==;hOmaUKRwveVQvi9xgD74Pw=="
 ---

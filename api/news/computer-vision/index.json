@@ -10,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -41,6 +41,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-german-coalition-backs-ban-on-facial-recognition-in-public-places.md",
+      "title": "German coalition backs ban on facial recognition in public places",
+      "excerpt": "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/",
+      "originalUrl": "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/",
+      "publishedDateTime": "2021-11-25T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1324,49 +1367,6 @@
       "provider": {
         "name": "العربية.نت",
         "domain": "alarabiya.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-soekarno-hatta-airport-readies-facial-recognition-system.md",
-      "title": "Soekarno-Hatta Airport readies facial recognition system",
-      "excerpt": "State-owned airport operator PT Angkasa Pura (AP) II (Persero) is creating a facial recognition system with biometric technology for aircraft passengers to process departures at Soekarno-Hatta Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://en.antaranews.com/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
-      "originalUrl": "https://en.antaranews.com/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.antaranews.com/cache/800x533/2021/11/08/IMG-20211108-WA0006_3.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.antaranews.com/amp/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
-      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
-      "publishedDateTime": "2021-11-08T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Antara News",
-        "domain": "antaranews.com",
         "images": null,
         "publishers": null,
         "authors": null

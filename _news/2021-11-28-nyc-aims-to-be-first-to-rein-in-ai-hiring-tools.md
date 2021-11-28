@@ -1,28 +1,28 @@
 ---
 category: news
 title: "NYC aims to be first to rein in AI hiring tools"
-excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their resumes or analyzing their video interviews. But New York City residents could soon get more"
-publishedDateTime: 2021-11-28T07:00:00Z
-originalUrl: "https://lmtribune.com/business/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools/article_c79457d9-1bea-53fe-8d8b-ae36ef41bc3c.html"
-webUrl: "https://lmtribune.com/business/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools/article_c79457d9-1bea-53fe-8d8b-ae36ef41bc3c.html"
+excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their résumés or analyzing their video interviews. But New York City residents could soon get more say over the"
+publishedDateTime: 2021-11-28T13:11:00Z
+originalUrl: "https://www.bendbulletin.com/ap/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools/article_49263b77-34ad-5b74-95ab-bec31b15059e.html"
+webUrl: "https://www.bendbulletin.com/ap/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools/article_49263b77-34ad-5b74-95ab-bec31b15059e.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Lewiston Tribune
-  domain: lmtribune.com
+  name: The Bulletin
+  domain: bendbulletin.com
 
 topics:
   - AI
 
 images:
-  - url: "http://lmtribune.com/app/subscribe/subscribe-image1.jpg"
-    width: 371
-    height: 220
+  - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/b/a3/ba3d351f-8ce1-5934-a302-de297af7f77d/6198335736a55.image.jpg?resize=1200%2C800"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "T+Y6F1G1nMl0xbBD3zhirdsJzMrR91mGtyF2uusicq6RiFDhyQNvcq9JuyVQYIkOMNUSpizmcME3EDz83BzZt4dzxbqTVa/xCbGVY9c0Ghim7fi5ATe9+tLGJBxLzbG47sv36TgTPUwCTpd+BkwNxy2pfVfut1LWMvpICdekIt5mDZTgtZaCuJ68NAvZuL6y3p/2XccGOKfyX7hkF2ZVwq7FPtg90fvhx2N5k1bSzFrWDWBk4zHplAMilZTc3m+vQ0LjLMfmGYlF/8Ls5yd+h4vTbxpHigqJZi3PGi0jjA2IJpHUeL1x8ecWNe24jbTr2tbmlOr2Giu+5FnpY/kXyn4YXtQqsgiHBG80BheYRS4Ug3+aFzkHIxMACDmmZiN4r4BXLhCScyFOOVN3jIxQuezgXlQYFfpl+faNgh1ST2dud+M/X7J414XQNmH3HyGR3QwJ8jdpamJwNlIzbRqIPGodT/DvQA4Bp9r8qbfDTuJqCXn1WdiFKQ/kg7rWm1rKjIr58qzPPXozfUSTYxMw0w==;fGOeJkI7glzDeliN7zFRgg=="
+secured: "XdeKJpbViN4pRHySbSEs0EUxeLBMrGROavKU0ZTBIPkF1iEKuG9a9dEbZbqafDQhWdQupyHUGo0LZVqwdnQa4CmVbNa/t4kJ1xwM+8DqVmQpAQp8WYoGOqtP9ArxBujT1/Y+MYZo07e0kp1d0UNFF06oo64ItkCZNRronySwXJup2n4zPJ+yo4FNjzAsvmayRLUPpKq9wXQiAAknQU0Kdse4iv4iyk9eEuPTuE40YkPdERVK+eBlc0tu8ULEf9/UCGI60bmcqnsTlRi6XVpqXn1cTkwKqWzfoldCO16uqju0MD1XFH2aD/UFpGyB7A3CQTr0ur3Q9aKhTaNS+dOT3mj7q/he3ZUj6mxJAdyI6iE=;pX6F3QSqUdQgfJZqrD80Yg=="
 ---
 

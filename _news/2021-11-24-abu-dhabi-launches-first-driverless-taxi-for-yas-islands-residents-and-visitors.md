@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Podcast: Is the Real World Ready for Driverless Trucks?"
-    excerpt: "On the HDT Talks Trucking podcast, we talk to one safety expert who believes major challenges must be addressed before driverless trucks will be ready and accepted by the public for widespread use."
-    publishedDateTime: 2021-11-23T22:31:00Z
-    webUrl: "https://www.truckinginfo.com/10156712/podcast-is-the-real-world-ready-for-driverless-trucks"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 39
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/article/2021-02/hdttalkstrucking_podcast_cover_fnl-__-720x516-s.jpg"
-        width: 516
-        height: 516
-        isCached: true
   - title: "UAE launches first driverless, 100% electric vehicle"
     excerpt: "Sheikh Hamed bin Zayed Al Nahyan, Member of the Executive Council of the Emirate of Abu Dhabi and Chairman of the Board of Trustees of Khalifa University of Science and Technology, witnessed the launch of the Khalifa University autonomous vehicle (AV),"
     publishedDateTime: 2021-11-27T10:07:00Z

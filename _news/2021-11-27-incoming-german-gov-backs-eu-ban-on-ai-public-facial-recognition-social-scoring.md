@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/incoming-german-gov-backs-e
 webUrl: "https://www.biometricupdate.com/202111/incoming-german-gov-backs-eu-ban-on-ai-public-facial-recognition-social-scoring"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "German coalition backs ban on facial recognition in public places"
+    excerpt: "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),"
+    publishedDateTime: 2021-11-25T15:54:00Z
+    webUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/"
+    ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "RESCON praises Throne Speech recognition of housing, immigration"
+    excerpt: "VAUGHAN, ONT. - The Residential Construction Council of Ontario (RESCON) has released a statement saying it is pleased that housing, immigration and stability of the supply chain would be federal government priorities as indicated in the Nov."
+    publishedDateTime: 2021-11-26T15:18:00Z
+    webUrl: "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration"
+    type: article
+    provider:
+      name: canada.constructconnect
+      domain: constructconnect.com
+    quality: 54
+    images:
+      - url: "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2018/07/Parliament-Buildings-WEB.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "New German government to ban facial recognition and mass surveillance"
     excerpt: "The German ‘traffic light‘ coalition plans on banning biometric facial recognition and restricting the usage of mass surveillance tools, which marks a departure from the stance of the former government."
     publishedDateTime: 2021-11-26T06:09:00Z

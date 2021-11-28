@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tip Sheet: Key Facts on China’s AI Behemoth SenseTime"
-    excerpt: "This tip sheet was compiled by Caixin Insight from the Post Hearing Information Packs submitted Nov. 22 to the Hong Kong stock exchange by artificial intelligence (AI) giant SenseTime. 1. Key people TANG Xiao’ou,"
-    publishedDateTime: 2021-11-23T21:42:00Z
-    webUrl: "https://www.caixinglobal.com/2021-11-24/tip-sheet-key-facts-on-chinas-ai-behemoth-sensetime-101809128.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2020-07-13/1594615757170236_560_373.jpg"
-        width: 527
-        height: 373
-        isCached: true
 
 secured: "CJ7B7FKxrD7BoFKDPi8BJL+8p4vX34CSQav7qadQg4VPAmgTYqKglrZw7GzokL31nMNFL7Aknq+mD45TSQVs4xPNTMI5c0xd4WFvkhNqZSzmkC7fQuYAMYjEFctnSb6PnlSfA6ojNQdVJSwwUNUcbyApLXKVfVvNMbHSo+av+9LyDQ5j87y3lHRTVpwAWP1cwchoTPfbthVvelwh6pThmfVjoJyd8SkTmhVTF9Gw19o0yxenMZlkWFAmMNerT248nbCdqncp/PuuLNDXP1Ag8om3KYnPSKXLztsAZOYoT6vV8thLRJunmvsY0doZRRyB9gK6YMRT60JqlFd0xB9VMO8dIs6+nKnFotu/RwlCjCH/1veDGEszGmuskoQQA4lzNbQIgUJ3jGpMoNuiZmrIwWNOYnuaGAls+6rnZXifSur52L5OsURXVRbqCRN0kNorJUb00JGzE86NM7HN+CAgdjMGi+RRjd/JaoQe2fTms7e8CdJF0osBAbF1I7eysXKsgVOMj14niQNaLwFaRy4Hzg==;KPLr7qrm5ANBN3fl2ZtEXw=="
 ---

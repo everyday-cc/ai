@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "German coalition backs ban on facial recognition in public places"
+    excerpt: "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),"
+    publishedDateTime: 2021-11-25T15:54:00Z
+    webUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/"
+    ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "RESCON praises Throne Speech recognition of housing, immigration"
+    excerpt: "VAUGHAN, ONT. - The Residential Construction Council of Ontario (RESCON) has released a statement saying it is pleased that housing, immigration and stability of the supply chain would be federal government priorities as indicated in the Nov."
+    publishedDateTime: 2021-11-26T15:18:00Z
+    webUrl: "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration"
+    type: article
+    provider:
+      name: canada.constructconnect
+      domain: constructconnect.com
+    quality: 54
+    images:
+      - url: "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2018/07/Parliament-Buildings-WEB.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Incoming German gov backs EU ban on AI public facial recognition, social scoring"
     excerpt: "The coalition formed by the recent general election in Germany is to add its weight to EU proposals to ban remote biometric recognition in public spaces."
     publishedDateTime: 2021-11-26T17:16:00Z

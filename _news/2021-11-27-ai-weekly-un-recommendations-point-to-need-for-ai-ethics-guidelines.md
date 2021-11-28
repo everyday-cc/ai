@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-poin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/"
 type: article
 quality: 104
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Defense Innovation Unit publishes ethical AI guidelines"
-    excerpt: "The Defense Innovation Unit now has its own guidelines for implementing the Pentagon's principles of ethical artificial intelligence use."
-    publishedDateTime: 2021-11-23T21:33:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2021/11/23/defense-innovation-unit-publishes-ethical-ai-guidelines/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 54
-    images:
-      - url: "https://www.defensenews.com/resizer/VJnVs-6ayYsHldvrJgP2ISJQAFM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/KP45VGQHKFCVNHYINF6K5SXLW4.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "UNESCO Member States Adopt Recommended Ethics for AI"
     excerpt: "The member states of the United Nations Educational, Scientific and Cultural Organization (UNESCO) have agreed on a text of recommended ethics for artificial intelligence (AI) that states can apply on a “voluntary” basis."
     publishedDateTime: 2021-11-26T22:33:00Z

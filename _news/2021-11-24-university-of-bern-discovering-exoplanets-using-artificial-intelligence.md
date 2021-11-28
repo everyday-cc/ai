@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Hundreds of exoplanets discovered thanks to new NASA machine"
-    excerpt: "NASA says the existence of hundreds of new exoplanets in the Milky Way galaxy has been confirmed with the help of machine learning. Exoplanets are planets that orbit a star outsid"
-    publishedDateTime: 2021-11-23T22:00:00Z
-    webUrl: "https://thehill.com/changing-america/enrichment/582905-hundreds-of-exoplanets-discovered-thanks-to-new-nasa-machine"
-    ampWebUrl: "https://thehill.com/changing-america/enrichment/582905-hundreds-of-exoplanets-discovered-thanks-to-new-nasa-machine?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/582905-hundreds-of-exoplanets-discovered-thanks-to-new-nasa-machine?amp"
+  - title: "AI discovers over 300 unknown exoplanets in Kepler telescope data"
+    excerpt: "A new artificial intelligence algorithm has discovered over 300 previously unknown exoplanets in data gathered by a now-defunct exoplanet-hunting telescope. The Kepler Space Telescope, NASA's first dedicated exoplanet hunter,"
+    publishedDateTime: 2021-11-28T13:15:00Z
+    webUrl: "https://www.space.com/artificial-intelligence-300-exoplanets-in-kepler-data"
+    ampWebUrl: "https://www.space.com/amp/artificial-intelligence-300-exoplanets-in-kepler-data"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/artificial-intelligence-300-exoplanets-in-kepler-data"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
+      name: Space.com
+      domain: space.com
+    quality: 57
     images:
-      - url: "https://thehill.com/sites/default/files/ca_unusualspacesignal_101321getty_2.jpg"
-        width: 1320
-        height: 880
+      - url: "https://cdn.mos.cms.futurecdn.net/KqZ88LfG2sXsy5c8PzyCeW-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "3HSCrJfsfNPvd1A83OwVYM5cqlHEW8W7eg00rKOcQTYWMNcS47sQcOORXz6IaWCdkrsEcOLfkdju2vORUNbxHYzIUI2d8KuxDREjV3v1H44KkGeylNOqDHgiSRMJkv6AVGSgFA2D08rsPr8FkINo+SqRb6rgNJqMEsDzp1csS7lbksS8VEx0KpmYJMMRDHil+zLrDvQ2oxfyT6ISvwrM4s3YbiOi0L2NDsFwaFgKt2OSNNMmMNNPt/nArvxKjuI99Zel6KVeMRNIogs2X9ZRgrHriGWlT5J/OQFxjtFkUhmdqdZMsJhqQaaj5mBk9FGpjMH47AVD7RNLIVB9uuToFxrzL6BlHpII6lPEsX4gdZc=;2bvczS0IBPWhgVDm8geASw=="
