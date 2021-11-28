@@ -8,8 +8,8 @@ webUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-worl
 ampWebUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
 cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
 type: article
-quality: 55
-heat: 65
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://dazedimg-dazedgroup.netdna-ssl.com/959/0-0-959-639/azure/dazed-prod/1310/7/1317114.jpg"
@@ -41,6 +42,6 @@ related:
         height: 433
         isCached: true
 
-secured: "QEpo37W6s37nShPmo4lGozGu+flPTX+Uzty6A7xGBi7T9eAkwS9MoO8De9VL4uijCHWkOQ8S5vQ9vO/qYk4lwDkVAWTKbzKwLKNkw5gGDtYe28NtLYK0DSIXM4HQf5w9LxeOJ9YtsinBTXp0Kpf40S9sYYmRAMG5eRa9+1hXlxJCb08BDvEerUqNZ4l2saPW/69+b/CxyjSBwawqVulricYImWvFx8CMHy8q/nhEsXvpYPjXFuVnszmJxJWyODTIhpanfaN15rb745yWJpOvJp78UFdtCBEupJUfkwHSj9UCFXdtGI4Vj+ZUEkipckEp6EAqLv2jp9vG+TJuSIYg18HEvlP245uedmNsPW/XRb4=;1aFqWjJvQkTq6vhRMItjPg=="
+secured: "/XsPilig6RoQwieHWg1dnO5Q2nAs7nOItB1tUhqUgKV9DMYfzzCDJjnoNvuwgwmuWmpidRxOTL39aBUiAL9aCcYqyVY+KcyskB6sU2ijr2jE5h4wiyTSr8lawh33NgFnNqAq5LuHcu8rGf2Rjqp/I8+KkwJj0I2GDd28Z2Z+jcZUbtzCLL4NogjaaNbXJkF8JVByGDiWR8WcrdZPW2Z6WVutV+6dgDjqEuNCQsNfnioBYjUUDk/FLGtFg6sLNQZ1pKDLNB0wG6ISQM7XVXda/VRRXEm57oCJJoWrMxj7OqjZ5Gtgzwh/khUJeMkDtN2poYFxb/lQSjWVTCpHdooc4NBp+Ydwd0IRUDYWu1Phjwwfr/z6AgxUrHhyZFZ1hL85lRlTXexEEe+XkIKoGZThMlBrKjH7M46Y5GXalnfPBLiHT+8oKcOjjizfFKNlFMRcjDCnSCYnmG0ns1+LvpW7f4sohFEUKlx8WetZGkh15EDPSKTPe9rWPF4MdqYkPum75fiSbguKfh4KCcjYy/G+Mg==;rbY8ZpHF1JklRWhHgC7Xww=="
 ---
 

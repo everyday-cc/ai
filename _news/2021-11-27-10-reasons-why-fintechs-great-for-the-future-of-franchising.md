@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Exibex brings Finnovex Saudi Arabia to the GCC region from March 22-23, 2022 to Nurture fintech"
-    excerpt: "Join the virtual experience as Exibex ushers you into the first quarter of 2022 with strategies to unleash the power of the Saudi Kingdom Fintech Landscape"
-    publishedDateTime: 2021-11-25T15:28:00Z
-    webUrl: "https://cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech"
-    ampWebUrl: "https://cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/exibex-brings-finnovex-saudi-arabia-to-the-gcc-region-from-march-22-23-2022-to-nurture-fintech/amp"
+  - title: "View: How to take fintech banks to the next level"
+    excerpt: "India has the highest fintech adoption rate of 87%, against the global average of 64%. Several new segments of fintech startups have emerged, and are gaining popularity among consumers in India. These are redefining financial services for customers and providing more value to them."
+    publishedDateTime: 2021-11-28T18:05:00Z
+    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms"
+    ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 32
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNDM0MWNhNmVjN2FjMmFhMDQ4NjBkMTY1YzFlYTdlNi5qcGc=.jpg"
-        width: 740
-        height: 493
+      - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-12608,msid-87967859/.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "vhweVpH1LOot+dl3UwZSujVNwxdL5wn9cCmBGEQG3nqFue4mmKIZjKLMy2j4xK3LAxpuuDgj6WiTo30/NkxIIAGRQobKl6fWZSKGilUjeVkgHtBFtIoeg/q+kuTGgd1t29gPHNMtdS5JQ1hgXutPWPOmFB9s49ezilTUOwlfBzUOBDbqJJJzQ4wGb8Ec0GEDYDeu/WhNOtX1a8Dem8f9cNqafMOxwl2YVgnESv/6uzadL8dKSHFvQsO82Gk20/wbuxXSK/zTADZTbIh5AlRbkvBBZEHtbz2JQaqTngbSpjjdHKja6u9XbFOH8BreWq/lYk7WI9Kod+g/SP6gi0q2dBe7bYpmQLviuauyHM8L3GZCdJt2Y4AFS8GKaVJTeYWquEIfs6o3/UnMr23DiF+5g40k5aot1QIESNd/neWcXDidR5og1siTWc0488Ns1gEQHybdAcJ9P+nMYAFRCGJmzHy/Dfk9gwcEI7BHa7OEvxA8Wu93fUpRIRLH5ahK6zDjDWbHaomStOt5BwkTIAYhAQ==;5B+d2/UI8HGNQPS9RangTw=="

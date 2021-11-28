@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
 type: article
 quality: 97
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
         width: 1500
         height: 1500
-        isCached: true
-  - title: "Tesla Full Self Driving Requires You To Accept Being Recorded on Video During Use"
-    excerpt: "Tesla is facing pressure from all sides with regard to its features Autopilot and Full Self-Driving. With those pressures in mind it seems to be putting itself into a position to legally leverage in-car footage of drivers using the latter."
-    publishedDateTime: 2021-11-24T02:56:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-requires-you-to-accept-being-recorded-on-video-during-use-174892.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 49
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-requires-you-to-accept-being-video-recorded-during-use-174892_1.jpg"
-        width: 1328
-        height: 673
         isCached: true
   - title: "Tesla Tells Full Self-Driving Beta Testers To Accept They’ll Be Recorded"
     excerpt: "Tesla is telling Full Self-Driving beta testers that they'll have to accept the condition that they'll be recorded. Here are the details on this."

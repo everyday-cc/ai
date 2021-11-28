@@ -1,41 +1,30 @@
 ---
 category: news
 title: "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection"
-excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services."
-publishedDateTime: 2021-11-23T17:12:00Z
-originalUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
-webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection"
-ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp"
+excerpt: "AWS is chosen by adidas as the preferred cloud provider for SAP workloads. Amazon 's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads."
+publishedDateTime: 2021-11-23T20:00:00Z
+originalUrl: "https://www.entrepreneur.com/article/398836"
+webUrl: "https://www.entrepreneur.com/article/398836"
 type: article
-quality: 69
-heat: 79
-published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "adidas migrates SAP environments to AWS"
-    excerpt: "AG has selected AWS as its preferred cloud provider for SAP workloads, officially migrating its SAP environment to AWS."
-    publishedDateTime: 2021-11-25T01:49:00Z
-    webUrl: "https://vir.com.vn/adidas-migrates-sap-environments-to-aws-89468.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 39
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/bichthuy/112021/24/15/in_social/aws-cloud.jpg?randTime=1637809153"
-        width: 600
-        height: 360
-        isCached: true
+images:
+  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398836.jpeg"
+    width: 635
+    height: 400
+    isCached: true
 
-secured: "z9qpgju9ge4FH3UMCyZPTEcp6D9gLcsP9+94KiEBhvcck7q+4S9fVT7dOs9ldyCw/iLZBq2CfLjTXA/GTtZSltWOjwsQeyR1VQNf82OGOnnN8HWQBY71qkau+Ny1k5MUY7W4lXTaouxt0kTVIbL1eP4PmnZzbe7IDQu61Toaay1jVwC4msV0kOxdbwmuZ5YLSIPthVfjpX4/aeghq5tJ9GP2pVUFu4niJaXJdteiagN3TR7GVT07dCv0k0MYhK7PiyrKN5aw3NCT2WUTahz9igVq/q0o0xVhVyR8TS1lbMYr32IVK8wv/EtfMdqT0tPm8wycD8uLxKlL9ooztAezOLWxDB40ecHC8Dy0uHc7UO8=;DFPZG9l1HyGYUZsbf1Eb0A=="
+secured: "DNyuEqdBPLUTn1dcrDyV9Hl2xNkyKyM6wPQTaMws0PavOHF+CreTIaSj4l55Eq4jTnD0MihAgY1kWU92Ht2MDa+pMP4luAGaeztDSh/55dXAXdNkW2sFMLjPelBrdFaZBaV0YGZIPUqVAOeEG5Ol/BnbrrJJz3SuGzMjZI64RpnULXoYLcO2Q2JLtSZF9aPletmhbQXqMMIvRCxv7brxGuZApyEfsAyTEN+EOpMTQ9gZG5ibnMP9kxoMKPzxuaezfv+S65/FycQRvAaWCaRK6XIbwN73mWPe+LCeNG46Y5x1haUWZj3yFYVZ2NiXLrAjHKRXYmX4EYD+Go1XUSxDXtKIixbcIy17KBkgMsxKlfs=;b6hc7qsfjsJNKkPTUnfCRA=="
 ---
 

@@ -34,7 +34,7 @@ related:
     provider:
       name: Dazed
       domain: dazeddigital.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://dazedimg-dazedgroup.netdna-ssl.com/959/0-0-959-639/azure/dazed-prod/1310/7/1317114.jpg"
         width: 959

@@ -26,22 +26,6 @@ images:
     height: 493
     isCached: true
 
-related:
-  - title: "10 Reasons Why Fintech's Great for the Future of Franchising"
-    excerpt: "Exploring ways fintech can improve franchising, from offering better security using biometrics to improving user experience through contactless payments"
-    publishedDateTime: 2021-11-27T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-reasons-why-fintechs-great-future-franchising"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/franchise_0.jpg.png?itok=xpLQeqOm"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "lWu80zgeSSS1szKhq8Eq6zfuBUsL9JtePq5bM+lIv3JhYE30hH8OAFH+2nMCEFcULycTe7BKf1g2DDnmaULFj0bGUMKy/bUbYlsEr5vyRQOkRkZpojepxyUM8WZmR/zqHmZLG1Hgr+RhtztKPALNbeI1EPVxhlh8IW96ARFhYeC80eLixWUQTCubs9DVGu0uYnYjm8SvawxdozaFCv+kmrA+RR9AkstGT/chJoQruZy9IKWtdoATMksktk1enWFPRwldQhMXfV1mam/2PEkOamMHWt/7QVwAWgSQqzhHsLg9czMNGnBSJ9DZaO4jpP0pMbEp4ncTRl395g9r49qcU3dxhjrY865cVQITEB0dSeHXd+7L8WUow5x8G4FE1orOubRcc+Y3HCtne7RFCFF5ZPhW8+857216W2UioRkK87w7FizRrb+gHAS3W12gVf9oior1IZHeOPx7CODAC6AuAq9wxOFPOtA5iGiNEyNWEAOUKj+6MUi+WF6QexnwR1qgBRb/N1l0KxgOAXb28xdXMw==;oiie0bxJTPxqYgt8CkDwig=="
 ---
 

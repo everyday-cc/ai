@@ -2,6 +2,50 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-11-06-mlops-market-to-see-stunning-growth-algorithmia-google-cloud-sas.md",
+      "title": "MLOps Market to See Stunning Growth | Algorithmia, Google Cloud, SAS",
+      "excerpt": "The study includes market share analysis and profiles of players such as H2O.ai, Inc. (United States), Iguazio (United States), Algorithmia Inc. (United States), Amazon SageMaker (United States ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2303399/mlops-market-to-see-stunning-growth-algorithmia-google-cloud",
+      "originalUrl": "https://www.openpr.com/news/2303399/mlops-market-to-see-stunning-growth-algorithmia-google-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U611953622_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2303399/mlops-market-to-see-stunning-growth-algorithmia-google-cloud",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303399/mlops-market-to-see-stunning-growth-algorithmia-google-cloud",
+      "publishedDateTime": "2021-11-05T19:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
       "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
       "excerpt": "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things advanced analytics software, announced today additional integration support for Microsoft Azure Machine Learning. This new Seeq Azure Add-on, announced at Microsoft Ignite 2021 ...",
@@ -1125,49 +1169,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-here-are-the-top-10-ways-robotics-is-benefiting-brick-and-mortar-stores-in-2021.md",
-      "title": "Here are the top 10 ways robotics is benefiting brick and mortar stores in 2021",
-      "excerpt": "The utilization of robots in the logistics and production network empowers retailers to accomplish sizeable reserve funds. Here are the top 10 ways robotics is benefiting brick and mortar stores.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/10-ways-robotics-is-benefiting-brick-and-mortar-stores/",
-      "originalUrl": "https://www.analyticsinsight.net/10-ways-robotics-is-benefiting-brick-and-mortar-stores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/10-Ways-Robotics-is-Benefiting-Brick-and-Mortar-Stores.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
