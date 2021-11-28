@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "AI transcription startup Verbit closes $250M funding round"
-    excerpt: "Startup Verbit Inc. today announced that it has secured a $250 million funding round at a $2 billion valuation to develop more features for its namesake transcription and captioning platform. The feature development effort is part of a broader growth plan that the startup detailed this morning."
-    publishedDateTime: 2021-11-23T20:10:00Z
-    webUrl: "https://siliconangle.com/2021/11/23/ai-transcription-startup-verbit-closes-250m-funding-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/verbit.png"
-        width: 861
-        height: 483
-        isCached: true
 
 secured: "XHNtOPz8rZtc1HzJ1A4Pc01A6yXZqd7hqah5oC0pKxD/c3rDOIqode7pTbvtfsrnP5rx8CWtKWMVWa9lEFE9MF54ohSronKr94BZ350uq1lYSukicJ0T5HDpe5gLfV1icIMFmwAKI1uUrIxJgWQiQPktJYaBc/8ByVr5p5VOmssvgx+40xRhtI42Uk4G/QEzLqo3kRBw4kYH6xMm/IeRTuvxD78i63/1/n5iinv50TWFUxlkX4R8qHtbx7N9yMHjNSdmohSI28wZmMNCjZysnFCCMoCG7niKqOfGCw/vJbh3BETwY99YiAgEUI4Dcci8E9vldTXNUiMnYTZ66MRt6qplx3OwQpGULjJKv+4XGIPb714a30sU35Fc87y8CDgwSZ3EDIpvZPh1ArC3xeMXqrUUxSgKnJ3tPI/t6zwLVA2Xniv77N6q1waPsvU4XV2zzEXo67GspKzoNeOmMIlExFYGufJM8zobhOM85I/S/wsAyUnTml8Tyx4H0IwOx8FeU/oo/q5nxelKoc2JidjV7A==;uaBad7ghPLHrXHrzn/8WOQ=="
 ---

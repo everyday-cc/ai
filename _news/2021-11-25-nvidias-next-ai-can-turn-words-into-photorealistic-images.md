@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "Nvidia’s new text-to-image tool shows how AI could render stock photos obsolete"
-    excerpt: "Stock image providers may be concerned about their future after Nvidia showed AI's potential to generate realistic images"
-    publishedDateTime: 2021-11-23T20:06:00Z
-    webUrl: "https://thenextweb.com/news/nvidia-gaugan2-text-to-art-tool-shows-ai-could-replace-stock-photos"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FUntitled-design-3-3.jpg&signature=5e49d582b9b8913cdfc8efca89446184"
-        width: 796
-        height: 398
-        isCached: true
 
 secured: "Qdvq0tVsKo+ntYzU6pihpEvg1TRYTWgpuuE4QS/erKkr7KFh/jt8WIChFwCAxIolCq64AUNdio26oGv45S5YOh4fow7fz2EnNuWveKSasx9wrVuAWBNNjdY4G4TvgH0nuO2a+M4hGxQjgmhR0AHMYg3DL+kwGQ3EdBSNg+7Ef+0tueUvk1QcR8U82x6i5WCmKYlOM6jh7TooX18B25UTojCmDzE7zHiQsBV0E4tTVMRkd/6Y/4R8gerChxMR6hOrFNJQ9kXBvnbf2GHHy7TF/KU/Whgso0+0esfpg8ff0xEIBXn3rC8Hol/1OlVUE3hPUQaz/wf6oEG1B0rGSpPdOo8OTTHCAy965iZRKyprz0s=;nGYjIcQKI21n/U+bUzBG0g=="
 ---

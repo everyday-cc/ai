@@ -115,34 +115,6 @@ related:
         width: 686
         height: 392
         isCached: true
-  - title: "Apple wants to launch their self-driving car in 2025"
-    excerpt: "Apple wants to launch their self-driving vehicle in 2025. Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
-    publishedDateTime: 2021-11-23T19:30:00Z
-    webUrl: "https://omaha.com/news/national/apple-wants-to-launch-their-self-driving-car-in-2025/video_ed29d3cd-9850-5f31-b032-5356012a5614.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed29d3cd-9850-5f31-b032-5356012a5614/619d28a3d9226.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
-        width: 640
-        height: 336
-        isCached: true
-  - title: "Self-driving cars: Are they actually safe to drive?"
-    excerpt: "Self-driving cars aren’t some crazy future tech … They’re here now. That raises some questions. Does it actually work? Is it safe? Is it work shelling out"
-    publishedDateTime: 2021-11-23T19:39:00Z
-    webUrl: "https://www.komando.com/episode/self-driving-cars-are-they-actually-safe-to-drive/817085/"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 24
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2021/03/kk-img-20210303-kim-komando-explains-1400x1400-1.jpg"
-        width: 1400
-        height: 1400
-        isCached: true
 
 secured: "cHRynZgFA0sF3t2tQ+I1IQfcGv8UsKV11v2/WOVqj90PEmJ1jAqgXRWKvW9HM38/1FB0ui8y+48kxhTARYg8sR2DbDxhBWR8uj6e+sTEQq+zv2fS3BPH8fdTG8t7klUQ15EQ4+cMHDjWYKA0VAUhyBFXZwVg4LX1Nrjb9Bucbj5OQsCSvrmWVYlGoT3d5i/3/mRJkxLfKUszjLs2gDRBC63WB2iv6m0vswmjUc8UHJlrnljRrYGKXk9+nofbiHFMZN/ial/hahOjIVY7F6uwfBDQwO6yiDX7lKyo2fWiKDnJ9oyD5/ZQLI4l/aCMxszJ+KIYw96zKt+0UBJFzOMihsDzqoHZFiUiwLLVAmZCK7HrSMZ6cC9I0X37gLzZzUCq/29i8LJ2D9gKNmyHbZsLc4EyOfzkR6r5eLvqNab9ygAtGoluuybukR63gZUAal3+TBUJAub03KcIkDXa1/bO90BIG98meJH1o0nDJtxY2ytLNnTFTj9skhd0q5zkimwnbOJ0E4J31367KTVopAai6A==;XqIHX6JIBzPRLDEShUR7zA=="
 ---

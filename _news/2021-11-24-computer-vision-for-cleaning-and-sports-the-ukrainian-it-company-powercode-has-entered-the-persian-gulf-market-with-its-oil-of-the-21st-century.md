@@ -6,9 +6,6 @@ publishedDateTime: 2021-11-23T20:01:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century-853668331.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century-853668331.html"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
   name: PR Newswire
@@ -24,6 +21,6 @@ images:
     height: 419
     isCached: true
 
-secured: "/Nlr65cMDbxBHpN1JtYnk3asPLNO4eCd/+2kRl4DzNbYC/I94lgWm22JcDUMrpW6C9eLreHjBtqB14VTbyXLTWz06rAfjLRFp2TXHYMiNUq8qPyYXIVTieXOi2h1Y/SbRBaeRRgiXWvQ7jm6yXZ+DmDJ5DR5D9JN2Deijjc7w4CavIUkfsdz68upZOBMRdvW//gD924I/onkLw8X2R0ZC/FTqcsCnRBB3Z4KxsZ6C2UElwsm1c29eVYn8y06sFq/744a65ixZasZf0Mh06OYEh+J6A+hfLzkTZZOn3rf6bQqcuOggu1pj0cX50LzFyvtvGqLVVWW0jlgQgThsBuiSfSWo1RKLN88zNmGe7zMGPw=;/Ja6CVbkz3mZPXI7zWsxnA=="
+secured: "rkJ0T3MO7m70c6eJAWGB2v1Eo1+7QI7uSejaZmqbAZpbvu4v5S4p9j6Mij3gKZu6XfAx9uBVRNS7o7TlOG7+lpJ9NHhTQNA8VBYbqQ3WPiLdbjq5wZrFNN6t0aFiIeqirvcLEkQFX3hMRh4pggnsYHvlLzo5shFwsSDAITdFUGH0w6hv4H8Novk4sYwFwRteNbf2p0fC+9QKl+ymHCBgsbt3ManHjQ2PAEWMv3ElgzM9r1QCPUemeQDJYtWteLF0QCdAspLnQUl/qGsJqJSzTAa+tT5BSJ2u8FHtUdBCK794fc+18Xs8eSK7WtN1AWem3N34H875yQr43u1oBAL+lsp3kZTI+wUJBbv6HTUnSzE=;NT1hUbEWWCT2fCZ7DwO6SA=="
 ---
 

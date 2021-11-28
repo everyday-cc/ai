@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "GE Healthcare Unveils New AI and Digital Technologies and Solutions to Help Solve Healthcare’s Most Pressing Problems"
+    excerpt: "Annual Meeting, GE Healthcare unveiled around 60 innovative technology solutions spanning the healthcare spectrum including patient screening, diagnostics, therapy planning, guidance, and monitoring."
+    publishedDateTime: 2021-11-28T12:30:00Z
+    webUrl: "https://www.publicnow.com/view/4BC820DBABF5FBA63F010443C75A7EA61DB562E9"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 11
+
 secured: "vyZC+xcVQmbGSQk26u/oTjXuQG7NhMq7AAt1KzbE0mlCAD3cAuBZMXzZ8LHQaPEgJsSGH5+1rbSVujU54rHTdv5IAQumfggMIOO+Bqn0R4SNaR534uVo6/xmerte5NRkq3RjW1zGBXQ1yTBz7/jCeY9CtmoMq42bVzWBtdMSxRLW8B+00Qpc66RUHHyWlw6j91XCxe9Phj/Y/JaYW2LI5fqFJz6o0TjuVXbTSv/rub5BPjfS4Poopjgkb4zU1oRj9Onk6Dl3G6PyylcgmFGLT0kFYRFSkdHsqZsmXFvYiesUqYVF3lDxrAarUuY8ynqTwJfIofPIp9MYIFhJwTYhTO8uE/cPL4wxzigX6NZyjCc=;Pma3n5pTeOBt0FoXROKT1Q=="
 ---
 

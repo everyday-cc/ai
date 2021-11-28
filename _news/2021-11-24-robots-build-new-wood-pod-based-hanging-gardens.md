@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 679
         isCached: true
-  - title: "Robots build new hanging gardens"
-    excerpt: "With the help of artificial intelligence and four collaborative robots, researchers at ETH Zurich are designing and fabricating a 22.5-metre-tall green architectural sculpture. Working with Müller Illien Landscape Architects, Timbatec and other partners ..."
-    publishedDateTime: 2021-11-23T20:54:00Z
-    webUrl: "https://ethz.ch/content/main/en/news-und-veranstaltungen/eth-news/news/2021/11/robots-build-new-hanging-gardens.html"
-    type: article
-    provider:
-      name: ETH Zurich
-      domain: ethz.ch
-    quality: 39
-    images:
-      - url: "https://ethz.ch/en/news-and-events/eth-news/news/2021/11/robots-build-new-hanging-gardens/_jcr_content/imageCarousel.imageformat.lightbox.jpg"
-        width: 1564
-        height: 782
-        isCached: true
 
 secured: "ntnzgni5dLQIcj3aSaz/cNa5qFJ6+r8mKs3b87Mba8SiphFVrvfRwNL2IJq83ou1NweoN0hNLWPPLw1ekt1XeJY1g1AQBP+5bN63TM1uoGHDhxisgNsoQFBT6Pc/ZdFA/NJtk90IvgTh4LNTZ/iJdKDMfuptZADJhadarV0wFQPIpoddlyGFVZD5EqD4cX3fjeV2UJfqy58XIL6ibfVXs1XaHP0m5a3PHopaxDK30CZdVy5Kp6XKIhukvDewECmYMIPC1cq9Xfm98/SZlPNStk3pufla+jYA6sFEYWks3ipBp8wXKL3Eh4cWxBtg9HlTfgxI3ZYiJUePOSSKYY6gUiK2maK83Tbwj8sue+Q2L6s+RoG2rVnb5aHC15gvUTiIdHoNM1WROdap4vfz5c9PoAONTBOZexwyrfkI0QwkxFj1qMG1d/OFDqYO36/nuZPUtUsvc59T+/S4Yp5t7On2r6jRhxO7J1p61CEebzCshZeX9mfieicRzDJkRdYgpwweQIafvsD7hqrCML/Yj7513w==;Lam6Cwcc7/L8bE5OCoSHxQ=="
 ---

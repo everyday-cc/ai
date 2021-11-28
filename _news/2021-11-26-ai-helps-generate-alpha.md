@@ -7,7 +7,7 @@ originalUrl: "https://www.tradersmagazine.com/featured_articles/ai-helps-generat
 webUrl: "https://www.tradersmagazine.com/featured_articles/ai-helps-generate-alpha/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 420
     height: 437
     isCached: true
-
-related:
-  - title: "AI helps drive broad transformation"
-    excerpt: "AI has become a core driving force for the new round of technological and industrial revolution in China, bringing tremendous changes to the country’s development and people’s lives in many fields, including healthcare,"
-    publishedDateTime: 2021-11-23T20:00:00Z
-    webUrl: "https://www.hellenicshippingnews.com/ai-helps-drive-broad-transformation/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/ai-helps-drive-broad-transformation/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/ai-helps-drive-broad-transformation/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 39
 
 secured: "MeyIc6HLEko4OxeYw6eghIN7aAJII7ThyGMc+i/C6+kvRT46El2kfCXTvUJhUOacSHQg0ygPifPPXYkey8VIgIv4yOHADZLE2NRlnoM9rmB8VhRX2cKHFjo7kZYjDJSkCfRt3fPdq88n1q2YSuRHBJVR20eQECRuDl05UDIqlVAdKlhFyuRbsk/9OkVeuPXZjNcNpXNHCEsvVxG9jpba2l9fk8mItpU8zpC4apHyBSMCU0kR3W9b5Yw56nLxJ9FvP2Rz9nCV0r+sOhVcilu6USphyFBo/rUwSkPNFWbg87bwUPC7TffRh1YPg5eHbbVTD5jzCCxedhrSGsEmyAcPkhLjZ8LWXJuuyoKPyEn2+is=;ZnUBro0q8dPlG6rD5NGh+g=="
 ---

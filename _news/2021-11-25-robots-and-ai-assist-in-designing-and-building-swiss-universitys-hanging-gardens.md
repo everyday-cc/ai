@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots build new hanging gardens"
-    excerpt: "With the help of artificial intelligence and four collaborative robots, researchers at ETH Zurich are designing and fabricating a 22.5-metre-tall green architectural sculpture. Working with Müller Illien Landscape Architects, Timbatec and other partners ..."
-    publishedDateTime: 2021-11-23T20:54:00Z
-    webUrl: "https://ethz.ch/content/main/en/news-und-veranstaltungen/eth-news/news/2021/11/robots-build-new-hanging-gardens.html"
-    type: article
-    provider:
-      name: ETH Zurich
-      domain: ethz.ch
-    quality: 39
-    images:
-      - url: "https://ethz.ch/en/news-and-events/eth-news/news/2021/11/robots-build-new-hanging-gardens/_jcr_content/imageCarousel.imageformat.lightbox.jpg"
-        width: 1564
-        height: 782
-        isCached: true
   - title: "Robots build new wood-pod based hanging gardens"
     excerpt: "With the help of artificial intelligence and four collaborative robots, researchers at ETH Zurich are designing and fabricating a green architectural sculpture."
     publishedDateTime: 2021-11-24T15:43:00Z
