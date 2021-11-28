@@ -48,17 +48,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 24
-  - title: "SecureKloud's step down subsidiary bags document processing automation contract in US"
-    excerpt: "Healthcare Triangle's deep expertise in Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) has helped Monument Health turn their clinical data from disparate sources into actionable insight."
-    publishedDateTime: 2021-11-24T05:01:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 17
 
 secured: "0dCegIJvOfHhQ2fhJFU7911MqHbTGZQjBu968CEukJxcfGQkMddgJPI471NW1c4Om6M1ynplX9Wgg4LVLtc6G2pQXZ7ErNY4MS5w94HfOa278FUmPhkar/ZEdOULEt2uYjCmhYPHZ6LvWS09wwNGIJ4OsBelUrXTBi9sjcEKTGBrDcLJlb3dG2Y6Fb7BYQ/F9sLaZ3P/6U9bQzff1oRo17T/zxHQsHaTp+PtrlKkxUWQzqN8bT+T7DJCU2cipGEgd+zG+CI9ZvjaPqwA2qIqMqaaOEDaejv0zZip546EMgaR02BHP8vCym8QT7oJsPhvs6lE6eJJEWvhg7lViDaB+9snm/vsWA3h2BapicX0kJg=;Gr1KBKZwapJ9RUp7vGiB2w=="
 ---

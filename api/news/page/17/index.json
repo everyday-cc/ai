@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-11-11-zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to.md",
+      "title": "ZONE DEFENSE: These self-driving, AI-powered drones do recon so soldiers don’t have to",
+      "excerpt": "Today, the brothers are cofounders of Shield AI, a rapidly growing artificial intelligence company based in San Diego, with offices in Washington, DC, and Pittsburgh, and Shield AI’s unmanned Nova drones are used in war zones around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.alumni.hbs.edu/careers/blog/post/zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to",
+      "originalUrl": "https://www.alumni.hbs.edu/careers/blog/post/zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudinary.hbs.edu/hbsit/image/upload/s--4h9UIwGH--/f_auto,c_fill,h_375,w_880,/v20200101/C7FD1A04C9CC32757626E4E144C43021.jpg",
+          "width": 880,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business School",
+        "domain": "hbs.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-ai-and-machine-learning-in-financial-services.md",
       "title": "AI and machine learning in financial services",
       "excerpt": "AI and machine learning in financial services While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption ...",
@@ -1138,59 +1181,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery.md",
-      "title": "IBM to Add New Natural Language Processing Enhancements to Watson Discovery",
-      "excerpt": "IBM (NYSE: IBM) today announced new natural language processing (NLP) enhancements planned for IBM Watson Discovery. These planned upda",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

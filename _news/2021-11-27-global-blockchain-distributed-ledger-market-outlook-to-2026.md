@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-global-blockcha-distributed-ledger
 webUrl: "https://www.tmcnet.com/usubmit/-global-blockcha-distributed-ledger-market-outlook-2026-with-/2021/11/26/9500066.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,17 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "NSW government clamps down on apartment building defects using blockchain and AI"
-    excerpt: "Apartment building defects are not uncommon these days, but the NSW government has been developing new solutions using AI and blockchain to crackdown on this. Speaking at the 2021 digital.NSW event, Office of the NSW Building Commissioner digital director Yin Man explained how the state government has worked with KPMG,"
-    publishedDateTime: 2021-11-24T04:17:00Z
-    webUrl: "https://www.zdnet.com/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/"
+  - title: "Global Blockchain Distributed Ledger Market Outlook to 2026 with Profiles of Key Players, Including Accenture, AWS, Huawei Technologies, Intel, IBM, i"
+    excerpt: "The \"Blockchain Distributed Ledger Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global blockchain distributed ledger market exhibited robust growth during 2015-2020."
+    publishedDateTime: 2021-11-26T15:32:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=577943"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "Lc04zaBA3FNE7dLBe+ows/xaiVsmC9t1DH3SuhwGPuI5RJZ0FY/he74sHIpwLqgH2HGcdohhj145ySOyed71gpb/RmQcCPUyHM1wEJr84gRd3zukcUjGu+shfA1oDIMLgSBvH0bY96hcZMr8jTenpwU8avNuWs3dGFzw5ZfuWV5cfknOCfdNwo6MYWkVIim7P+qFzrU5U45voMOR2Kun3n3XaM7zMrpqYhnGeT2V3ychszp2/c39mINBF3R2mvhrU5a4x/4xl+fA78vuZZ8WJWYJWmSa5kzgzsEXaRrggQYE/CtJZfFQNvn9uAiM2RimZb3DGTg6inte/HUPGtlTHk2lL2FB7/ZqKjabqwVrSL8=;U8b/ZbKE+kmfPkT7EWsF2A=="
 ---

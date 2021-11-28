@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Crossfin sold in R1.5-billion deal"
-    excerpt: "Crossfin Technology Holdings, a fintech investment firm, has been acquired by a consortium of investors, including Patrice Motsepe’s African Rainbow Capital."
-    publishedDateTime: 2021-11-24T05:10:00Z
-    webUrl: "https://techcentral.co.za/fintech-crossfin-sold-in-r1-5-billion-deal/205165/"
-    ampWebUrl: "https://techcentral.co.za/fintech-crossfin-sold-in-r1-5-billion-deal/205165/?amp=1"
-    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/fintech-crossfin-sold-in-r1-5-billion-deal/205165/?amp=1"
+  - title: "View: How to take fintech banks to the next level"
+    excerpt: "India has the highest fintech adoption rate of 87%, against the global average of 64%. Several new segments of fintech startups have emerged, and are gaining popularity among consumers in India. These are redefining financial services for customers and providing more value to them."
+    publishedDateTime: 2021-11-28T18:05:00Z
+    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms"
+    ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
     type: article
     provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 44
+      name: India Times
+      domain: indiatimes.com
+    quality: 61
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/11/acquisition-2156-1120.jpg"
-        width: 2156
-        height: 1120
-        isCached: true
-  - title: "Motsepe’s ARC joins consortium to seal R1.5bn fintech deal"
-    excerpt: "African Rainbow Capital will acquire 37% of fintech firm Crossfin through a consortium, for R600 million, in a combination of acquisitive and growth capital."
-    publishedDateTime: 2021-11-24T09:44:00Z
-    webUrl: "https://www.itweb.co.za/content/raYAyqodOX3vJ38N"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/raYAyqodOX3vJ38N"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/raYAyqodOX3vJ38N"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/8kQfjJvPfBcU1sYz8Qpnzav2QbuHqjp4pJNCNkSB_z-Lozfmrh-KEXcu6yrn-uNAz0q_25w4H0M_EcjNuoFrB44=w816-h428"
-        width: 761
-        height: 428
+      - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-12608,msid-87967859/.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "The next wave of fintech evolution on the back of data, product and policy"
     excerpt: "The Indian financial ecosystem is witnessing a rapid and much-needed evolution, primarily led by the fintech industry. The growing prominence of Fintechs is due to their effective financial services,"
@@ -75,19 +59,19 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Fintech Crossfin sold in R1.5bn deal"
-    excerpt: "Crossfin Technology Holdings, a South African fintech investment firm, has been acquired by a consortium of investors, including Patrice Motsepe’s African Rainbow Capital (ARC), for R1.5 billion. The consortium is led by Ethos’s Mid-Market Fund I and includes the founding Crossfin executive management team,"
-    publishedDateTime: 2021-11-24T07:45:00Z
-    webUrl: "https://www.moneyweb.co.za/news/south-africa/fintech-crossfin-sold-in-r1-5bn-deal/"
+  - title: "10 Reasons Why Fintech's Great for the Future of Franchising"
+    excerpt: "Exploring ways fintech can improve franchising, from offering better security using biometrics to improving user experience through contactless payments"
+    publishedDateTime: 2021-11-27T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-reasons-why-fintechs-great-future-franchising"
     type: article
     provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 24
     images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/shutterstock_163502138-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/franchise_0.jpg.png?itok=xpLQeqOm"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Crossfin Tech being acquired for R1.5 billion, one of the largest private equity-led deals in the local fintech sector"
     excerpt: "Crossfin Technology Holdings, a leading fintech company, is being acquired for R1.5 billion by a consortium led by Ethos’ Mid-Market Fund I (EMMF) and which includes Crossfin’s founding management team,"

@@ -2,6 +2,50 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
+      "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
+      "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "originalUrl": "https://www.barrons.com/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-345715/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aptive-earnings-semiconductor-shortage-self-driving-cars-51636025862",
+      "publishedDateTime": "2021-11-04T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-siemens-mobility-spotlight-october-2021.md",
       "title": "Siemens Mobility Spotlight – October 2021",
       "excerpt": "Smart Trains Intelligent rail infrastructure Holistic Rail Cybersecurity Digitalization and harnessing the power of The Cloud were at the front of discussions during the Siemens Mobility 'Industry Trends' event,",
@@ -1156,59 +1200,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has.md",
-      "title": "Scale AI acquires SiaSearch to give companies the same data engine superpowers that Tesla has",
-      "excerpt": "Scale AI, the five-year-old visual data labeling company, has acquired a small startup that could help expand its reach in Europe and speed up development of its newest product. Financial terms were not disclosed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/",
-      "originalUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/PandaSet-flyover-GIF-credit_-Scale-AI.gif?w=720",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/amp/",
-      "publishedDateTime": "2021-11-03T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

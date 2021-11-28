@@ -2,6 +2,40 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2021-09-22-5-hot-ai-stocks-to-watch-in-the-stock-market-this-week.md",
+      "title": "5 Hot AI Stocks To Watch In The Stock Market This Week",
+      "excerpt": "Are These The Best AI Stocks To Buy Right Now? Even with the stock market today struggling to find direction, investors could be considering tech stocks. In particular, artificial intelligence (AI) stocks would be a notable subsection of the industry now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21",
+      "originalUrl": "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-hot-ai-stocks-to-watch-in-the-stock-market-this-week-2021-09-21?amp",
+      "publishedDateTime": "2021-09-21T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
       "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
       "excerpt": "The Santa Monica, CA-based company said the Avenda Health Focal Therapy System, is an artificial intelligence (AI)-enabled focal therapy system being developed to treat localized prostate cancer in a urologist’s office under local anesthesia. In ...",
@@ -1086,57 +1120,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-project44-acquires-last-mile-delivery-startup-convey-for-255m.md",
-      "title": "Project44 acquires last-mile delivery startup Convey for $255M",
-      "excerpt": "Project44 has acquired last-mile delivery startup Convey for $255 million, marking the company's largest purchase to date.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
-      "originalUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Austrian_Post_-_Roller_cages_2-e1608654110915.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/21/project44-acquires-last-mile-delivery-startup-convey-for-255m/amp/",
-      "publishedDateTime": "2021-09-21T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

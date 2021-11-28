@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-13-microsoft-translator-now-works-across-103-languages.md",
+      "title": "Microsoft Translator now works across 103 languages",
+      "excerpt": "The key tools to enable this are Azure Cognitive Services Translator APIs in the public cloud and in Microsoft's Azure Government Cloud. The Text Translation API is available in Docker containers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-translator-now-works-across-103-languages/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-translator-now-works-across-103-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8776d80d49150283e5846fda24522a11b4a9c419/2021/09/23/3f1c81d0-3d81-4e81-871f-00c8de28c009/20200923-owen-beth-teams.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-translator-now-works-across-103-languages/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-translator-now-works-across-103-languages/",
+      "publishedDateTime": "2021-10-13T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-microsoft-taps-ai-techniques-to-bring-translator-to-100-languages.md",
       "title": "Microsoft taps AI techniques to bring Translator to 100 languages",
       "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Microsoft says it's using AI ... language translations across its services, including Translator ...",
@@ -1288,58 +1340,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.md",
-      "title": "Sumo Logic enhances observability suite for app, infrastructure performance",
-      "excerpt": "The new DevSecOps-oriented tools, announced this week at the company's Illuminate virtual conference, are part of Sumo Logic's Continuous Intelligence platform, and designed to provide real-time, deeper insights into critical enterprise infrastructure and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html",
-      "originalUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_code_devops_glasses_student_by-kevin-unsplash-100764315-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html",
-      "publishedDateTime": "2021-10-01T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

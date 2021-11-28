@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-17-cutting-through-prejudice-ai-and-diversity-recruiting.md",
+      "title": "Cutting Through Prejudice: AI And Diversity Recruiting",
+      "excerpt": "As a result, AI has become largely meaningless in recruiting conversations, even as we see the technology being used with increased frequency. Recognizing the gap between understanding and application,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f579a2d027e9987faa1ed1%2F0x0.jpg",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/11/17/cutting-through-prejudice-ai-and-diversity-recruiting/amp/",
+      "publishedDateTime": "2021-11-17T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-artificial-intelligence-plan-to-reduce-harm-to-pregnant-black-women.md",
       "title": "Artificial Intelligence plan to reduce harm to pregnant black women",
       "excerpt": "Researchers are to use artificial intelligence (AI) in the hope of reducing risk to pregnant black women. Loughborough University experts are to work with the Healthcare Safety Investigation Branch (HSIB) to identify patterns in its recent investigations.",
@@ -1085,49 +1137,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart.md",
-      "title": "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart",
-      "excerpt": "There are already more than a billion people interacting with businesses via either text or voice-based conversational tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/phildavis/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
-      "originalUrl": "https://www.thestreet.com/phildavis/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg1NDUyMzY2ODM1NzU0NTEx/file-20211109-15-ll83na.jpg",
-          "width": 620,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/phildavis/.amp/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/phildavis/.amp/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
-      "publishedDateTime": "2021-11-16T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -2,6 +2,48 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-10-21-lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai.md",
+      "title": "Lawmakers introduce bill to increase oversight of federal contractors’ use of AI",
+      "excerpt": "Ohio, have introduced legislation intended to protect information handled by federal contractors that use artificial intelligence technology. If enacted, the new bill would require the director of the Office of Management and Budget to establish and consult with an AI hygiene working group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai/",
+      "originalUrl": "https://www.fedscoop.com/lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
+          "width": 629,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-robot-artist-ai-da-released-by-egyptian-border-guards.md",
       "title": "Robot artist Ai-Da released by Egyptian border guards",
       "excerpt": "A British-built robot that uses cameras and a robotic arm to create abstract art has been released after Egyptian authorities detained it at customs. Ai-Da, named for the mathematician Ada Lovelace, was seized by border agents last week who feared her robotics may have been hiding covert spy tools.",
@@ -1040,40 +1082,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-machine-learning-can-be-fair-and-accurate.md",
-      "title": "Machine learning can be fair and accurate",
-      "excerpt": "A CMU team aims to dispel that assumption in a new study, recently published in Nature Machine Intelligence. Rayid Ghani, a professor in the School of Computer Science's Machine Learning Department (MLD) and the Heinz College of Information Systems and Public Policy;",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/932216",
-      "originalUrl": "https://www.eurekalert.org/news-releases/932216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-16-how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility.md",
+      "title": "How AI Has Transformed The Internet: From E-Commerce To Web Accessibility",
+      "excerpt": "Web accessibility solutions are using AI to simplify the traditional manual method of adjusting websites one-by-one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192668543a4f13437c964ad%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/amp/",
+      "publishedDateTime": "2021-11-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-facebook-accused-of-continuing-to-surveil-teens-for-ad-targeting.md",
       "title": "Facebook accused of continuing to surveil teens for ad targeting",
       "excerpt": "The adtech giant formerly known as Facebook is still tracking teens for ad targeting on its social media platforms, according to new research by Fairplay, Global Action Plan and Reset Australia — apparently contradicting Facebook’s announcement this summer when the tech giant claimed",
@@ -1118,58 +1169,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-how-machine-learning-is-skewing-the-odds-in-online-gambling.md",
-      "title": "How machine learning is skewing the odds in online gambling",
-      "excerpt": "Commentary: The house always wins in gambling, and the house is getting even tougher through machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-is-skewing-the-odds-in-online-gambling/",
-      "publishedDateTime": "2021-11-15T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

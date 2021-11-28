@@ -89,6 +89,20 @@ related:
         width: 1500
         height: 1500
         isCached: true
+  - title: "Tesla's self-driving beta now requires video recordings"
+    excerpt: "Tesla’s full self-driving beta will now send video recordings to testers.The car company is currently beta testing a self-driving mode, and it has now been claimed the company has updated"
+    publishedDateTime: 2021-11-28T08:46:00Z
+    webUrl: "https://www.kilgorenewsherald.com/teslas-self-driving-beta-now-requires-video-recordings/article_5ee4bfb9-6cb4-55bd-8f31-e84234262521.html"
+    type: article
+    provider:
+      name: Kilgore News Herald
+      domain: kilgorenewsherald.com
+    quality: 39
+    images:
+      - url: "http://feeds.bangshowbiz.com/i.php?k=aW1hZ2VzMS8yMDIwLzA3LzEwLzAwNzkzNjQwMDE1OTQzODIzMTctMTM1LmpwZyY2NTAmNjUw"
+        width: 650
+        height: 650
+        isCached: true
 
 secured: "A+O7KeES0kUF76LVKN9sh5Rp3FuYAg1ig2k3bM3AdN4iLR1/X7qq9onFo8PQluiuULaSD4l3tuDPLEpt0wrI3d4HCuTCCJEDG3m5um0iN5rBUpitOI/EtvhXwF37n8eUGkg6EyRbYUJrAX3XXXLpwXaLVP45MEMGTXzKyoV9oXkgTXawx7nwPkuzInvKzHip+FU3TTZ9N+bFDqUVJmk4XCd7DIGQxQItFZslwJvC7KrP7xUxQJAq6px5fJaLD2iCWyADVlLXq+ECpA0Skcu7ozA0tSbQFPjaYOm+Pgta47xs/MZq9NdxbrmT5yPJhd71P2I66qEYlGZN15penX2G51ETaCU4uWcvc2eEtsv0FZ80kQTB/USGOLCvo+p9E5u2dkbx0i4yL99rWc/YuX6OhWorJptA5M1GXUAA/p1kHZY1wqKMU7Mk72E9uOXzSm4tVJNAI2+8Bats+w7y8H8y0gGc+jLnod+MeIK+qZHWNq2LmTcy7WKcwmewW2CWXl2n+aLtwEJKSH2TkYI7qtb9ig==;xPXhfA+dYFs96nvVXdZEcw=="
 ---

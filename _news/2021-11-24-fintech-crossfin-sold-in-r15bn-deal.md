@@ -41,22 +41,6 @@ related:
         width: 2156
         height: 1120
         isCached: true
-  - title: "How Fintech Paved the Way For Simple Investing"
-    excerpt: "Advancements in technology have had a major disruption in the daily operations of businesses today. Businesses are trying as hard as they can to ensure that they keep up with technological changes and provide what their customers want."
-    publishedDateTime: 2021-11-24T10:31:00Z
-    webUrl: "https://techbullion.com/how-fintech-paved-the-way-for-simple-investing/"
-    ampWebUrl: "https://techbullion.com/how-fintech-paved-the-way-for-simple-investing/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-paved-the-way-for-simple-investing/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/11/fintech-investing.png"
-        width: 900
-        height: 541
-        isCached: true
   - title: "Motsepe’s ARC joins consortium to seal R1.5bn fintech deal"
     excerpt: "African Rainbow Capital will acquire 37% of fintech firm Crossfin through a consortium, for R600 million, in a combination of acquisitive and growth capital."
     publishedDateTime: 2021-11-24T09:44:00Z
@@ -72,52 +56,6 @@ related:
       - url: "https://lh3.googleusercontent.com/8kQfjJvPfBcU1sYz8Qpnzav2QbuHqjp4pJNCNkSB_z-Lozfmrh-KEXcu6yrn-uNAz0q_25w4H0M_EcjNuoFrB44=w816-h428"
         width: 761
         height: 428
-        isCached: true
-  - title: "The next wave of fintech evolution on the back of data, product and policy"
-    excerpt: "The Indian financial ecosystem is witnessing a rapid and much-needed evolution, primarily led by the fintech industry. The growing prominence of Fintechs is due to their effective financial services,"
-    publishedDateTime: 2021-11-24T12:47:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/the-next-wave-of-fintech-evolution-on-the-back-of-data-product-and-policy/article37664537.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/the-next-wave-of-fintech-evolution-on-the-back-of-data-product-and-policy/article37664537.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/the-next-wave-of-fintech-evolution-on-the-back-of-data-product-and-policy/article37664537.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 42
-    images:
-      - url: "https://www.thehindubusinessline.com/news/82j8v7/article37542184.ece/ALTERNATES/LANDSCAPE_615/fintech"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Crossfin Tech being acquired for R1.5 billion, one of the largest private equity-led deals in the local fintech sector"
-    excerpt: "Crossfin Technology Holdings, a leading fintech company, is being acquired for R1.5 billion by a consortium led by Ethos’ Mid-Market Fund I (EMMF) and which includes Crossfin’s founding management team,"
-    publishedDateTime: 2021-11-25T06:07:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
-    ampWebUrl: "https://www.iol.co.za/amp/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 20
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Crossfin-Technology-Holdings-CXO-Anton-Gaylard-Photo-Supplied?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/90c37407-a15a-51d0-96c9-38201e4323a8&operation=CROP&offset=0x200&resize=1667x938"
-        width: 650
-        height: 366
-        isCached: true
-  - title: "FintechNGR Hosts 2021 Edition of World Fintech Festival, Nigeria, with CBN and NITDA in Attendance"
-    excerpt: "On 11th of November 2021, the Fintech Association of Nigeria, (FintechNGR), hosted the World Fintech Festival (WFF), Nigeria, in partnership with the Singapore Fintech Festival (SFF). The event was one of the breakout events held by key FinTech hubs across the globe and was themed,"
-    publishedDateTime: 2021-11-25T17:55:00Z
-    webUrl: "https://www.proshareng.com/news/Fintech/FintechNGR-Hosts-2021-Edition-of-World-F/60145"
-    type: article
-    provider:
-      name: Nigeria
-      domain: proshareng.com
-    quality: 10
-    images:
-      - url: "https://www.proshareng.com/admin/upload/news/60145-proshare.jpg"
-        width: 2079
-        height: 1406
         isCached: true
 
 secured: "VXFelBvbsbEsCRSLw4BbncF+AdBXgIFgFDggTVM4pyi1xw7svVmxRPGseOF8ddp162odWCRaREhIxnhAjywHpWXeV67WZ8kccpYmOh7mj6I2QnWKWX48BS6fLXnLe9Qa48X/WtbiOZP3O8P/+N/XWw+lxiq5ZVvMnjgJm/wWLf8XN8oOgGi5IEYkTfKSwqcPU+mLmJmUx6JgZTc5v3EHn94vNWXlvj4s8l8KTHzDt7hqr1RB3kNfXj1GJuMM6s1ufIZ6YEaRNXA1gxfZjDA9bGQppowiIdiAsjsUf/GvGMflnDiGCQRj3d3uCZ9YaLhNigfeiD6fiSisMl0AYCiMscK4iJfZkCWr2wrTiFMvWrYyykniVhn/wLdWu2gtjD5KHMtXvatG1inwPfrIZnzWswPEhOuKcC7nzzA4UGer6Hb0IACbUqQM133ZHIxMv9tWNLxOTITV0WfDG5TwVNRSA9k73A0II6cI7CAVB0FNltsl+RdFym4lR6KvjCzO/wON+nrw1kGiF4yvcsAuykJJ3Q==;a7Gfqpk+2C2+xwa+vD8f6Q=="

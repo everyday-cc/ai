@@ -2,6 +2,40 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-10-05-as-insurers-invest-in-robotics-lever-up-on-ubot.md",
+      "title": "As Insurers Invest in Robotics, Lever Up on UBOT",
+      "excerpt": "Insurance companies are looking to invest more capital into shoring up their robotics to help support core business operations. As such, the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT) is worth noting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
+      "originalUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
+      "publishedDateTime": "2021-10-04T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-betashares-global-robotics-and-artificial-intelligence-etf.md",
       "title": "BetaShares Global Robotics and Artificial Intelligence ETF",
       "excerpt": "The investment objective of the BetaShares Global Robotics and Artificial Intelligence ETF is to provide an investment return that aims to track the performance of the Indxx Global Robotics ...",
@@ -1027,49 +1061,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-the-cios-guide-to-managing-enterprise-ai.md",
-      "title": "The CIO's guide to managing enterprise AI",
-      "excerpt": "How should Chief Information Officers prepare to lead AI efforts in the enterprise? The author of a new book explains exactly what you need to know, on episode #706 of the CXOTalk series of conversations with people shaping our world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-cio-guide-to-managing-enterprise-ai/",
-      "originalUrl": "https://www.zdnet.com/article/the-cio-guide-to-managing-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-cio-guide-to-managing-enterprise-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-cio-guide-to-managing-enterprise-ai/",
-      "publishedDateTime": "2021-10-04T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

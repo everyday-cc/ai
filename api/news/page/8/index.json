@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-18-do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out.md",
+      "title": "Do AI-powered lending algorithms silently discriminate? This initiative aims to find out",
+      "excerpt": "The first is that leaving a lending decision to an algorithm mitigates the bias that can come with human judgement. The second is that these algorithms have the power to spot good credit risks because they can suck in and process so much more data about an applicant than traditional formulas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "originalUrl": "https://www.marketwatch.com/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-436779/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "publishedDateTime": "2021-11-18T05:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-a-new-direction-for-artificial-neural-networks.md",
       "title": "A new direction for artificial neural networks",
       "excerpt": "LETI’s latest project in this field focuses on how reservoir computers based on the principles of magnonics can offer a new direction for artificial neural networks. The project is headed by Mikhail Kostylev, professor in the department of physics at the ...",
@@ -1125,58 +1177,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-how-visual-effects-helped-tom-hanks-robot-costar-come-to-life-in-finch.md",
-      "title": "How visual effects helped Tom Hanks’ robot costar come to life in Finch",
-      "excerpt": "It took a combination of visual effects, motion-capture performance, and an animatronic actor to create the breakout star of the Apple TV+ sci-fi drama Finch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/",
-      "originalUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/finch_photo_featire.jpg",
-          "width": 2000,
-          "height": 1506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp",
-      "publishedDateTime": "2021-11-17T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

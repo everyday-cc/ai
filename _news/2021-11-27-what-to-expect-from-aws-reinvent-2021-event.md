@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "My guide to AWS re:Invent 2021"
+    excerpt: "Invent conference has not only become the much anticipated event for customers and partners, but pretty much anyone interested in cloud computing. After the pandemic forced last year’s pilgrimage to Las Vegas to move to a virtual only format,"
+    publishedDateTime: 2021-11-28T20:07:00Z
+    webUrl: "https://www.linkedin.com/pulse/my-guide-aws-reinvent-2021-adrian-de-luca/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEYM9LIE1Cftw/article-cover_image-shrink_720_1280/0/1638128964080?e=1643846400&v=beta&t=EnD-aIeOeI0glv_YgDnicOcMABnIIXQ-GGaY5HvHwlA"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "iHvwRp0GhssLLNsFtk2JGoyAeiUj/W4X/zvtaIJ+quSi3+yMakWpZ0ByUdyAdiX2XJjZDcXbwPZLOYi+rJrf+WVW7Yp5fkHPqCiW8fLoD82kThwAxH0sOSvNknMYI8xasHx21dNi7Y66Zmeq1nsUG5n+1r6BLdDk17q6D92R3cmd1MOrNr6uA6bjpnE1emyaat5AgARfya/Cq4qLSzkSkkzrUVtInOVuTuK9zwyOXw48qRub0w/i/qgsHnwBu5SppmvYJHYW9cGMK3pLGx+CeB2GXi/E0STkFNDL+GAPI04GYHWTwXpyybwkOm5BzXRF/zOrro0pcZv+j+AhNcVwTcPv334WQQ1yxlLf6rn3K67/iG0soyUqe5lQVTmQS34CCYFuTYy5EfewQqpMC//yHEq6/tqt9rBW2XVFidG6wfJj6oOyA4Lide+rm2Qhq+X4MSG+dxaLQRPeQXHqhXpODZE5GY8YY9WC5GINnjZacGnsyLcMclgAOYHX5ZHFFhNc1iy0RIWYv4H12Oa8nWewkA==;ihprq5n36k1zhIQZHdiAHw=="
 ---
 

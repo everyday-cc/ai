@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-29-view-how-to-take-fintech-banks-to-the-next-level.md",
+      "title": "View: How to take fintech banks to the next level",
+      "excerpt": "India has the highest fintech adoption rate of 87%, against the global average of 64%. Several new segments of fintech startups have emerged, and are gaining popularity among consumers in India. These are redefining financial services for customers and providing more value to them.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/height-450,width-600,imgsize-12608,msid-87967859/.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms",
+      "publishedDateTime": "2021-11-28T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-machine-learning-software-market-breaks-out-to-new-high-microsoft-google-tensorflow-kount.md",
       "title": "Machine Learning Software Market Breaks Out to New High | Microsoft, Google, TensorFlow, Kount",
       "excerpt": "Global Machine Learning Software Market Status Trends and COVID 19 Impact Report 2021 Covid 19 Outbreak Impact research report added by Report Ocean is an in depth analysis of market characteristics size and growth segmentation regional and country breakdowns competitive",
@@ -1329,45 +1373,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI stocks may be excellent long-term investments. The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. From machine learning to",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/",
-      "originalUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/amp/",
-      "publishedDateTime": "2021-11-08T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics",
-        "Microsoft AI",
-        "AI in Autos",
-        "AWS AI"
       ]
     }
   ],

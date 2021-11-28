@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-17-ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart.md",
+      "title": "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart",
+      "excerpt": "There are already more than a billion people interacting with businesses via either text or voice-based conversational tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/phildavis/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "originalUrl": "https://www.thestreet.com/phildavis/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg1NDUyMzY2ODM1NzU0NTEx/file-20211109-15-ll83na.jpg",
+          "width": 620,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/phildavis/.amp/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/phildavis/.amp/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
+      "publishedDateTime": "2021-11-16T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-windows-10s-forgotten-november-feature-update-is-rolling-out-now.md",
       "title": "Windows 10’s forgotten November feature update is rolling out now",
       "excerpt": "Microsoft began shipping the Windows 10 November 2021 Update (21H2) today, which PC users can begin asking for via Windows Update.",
@@ -1131,57 +1174,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility.md",
-      "title": "How AI Has Transformed The Internet: From E-Commerce To Web Accessibility",
-      "excerpt": "Web accessibility solutions are using AI to simplify the traditional manual method of adjusting websites one-by-one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192668543a4f13437c964ad%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/16/how-ai-has-transformed-the-internet-from-e-commerce-to-web-accessibility/amp/",
-      "publishedDateTime": "2021-11-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

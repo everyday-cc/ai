@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-06-quantexa-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups.md",
+      "title": "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups",
+      "excerpt": "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly",
+      "sourceUrl": null,
+      "webUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
+      "originalUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WDBJ",
+        "domain": "wdbj7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-fintech-50-evaluating-how-firstbank-strengthens-collaboration.md",
       "title": "Fintech 5.0: Evaluating how FirstBank strengthens collaboration",
       "excerpt": "Take the fintech (financial technology) space in Nigeria, where one bank is known to have stood as a giant with very broad shoulders, having capacities that have been built up and accumulated over 127 continuous years.",
@@ -1308,60 +1342,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care.md",
-      "title": "AI Startup Navina Leverages The Amazon Cloud To Improve Patient Care",
-      "excerpt": "But in their case, it wasn’t a cybersecurity or fintech or proptech startup, but a healthcare startup, joining the most recent thriving sector in the booming Startup Nation of Israel. The rapid digital transformation of the healthcare industry worldwide,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6145eddd5d6aa1cb5c537b2d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4340%26cropY1%3D225%26cropY2%3D2667",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/09/20/ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care/amp/",
-      "publishedDateTime": "2021-09-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Natural Language Processing",
-        "AWS AI"
       ]
     }
   ],

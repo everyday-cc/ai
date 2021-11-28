@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/healthcare-
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/healthcare-triangle-selected-by-monument-health-to-automate-document-processing-121112400432_1.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,17 +39,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 24
-  - title: "SecureKloud's step down subsidiary bags document processing automation contract in US"
-    excerpt: "Healthcare Triangle's deep expertise in Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) has helped Monument Health turn their clinical data from disparate sources into actionable insight."
-    publishedDateTime: 2021-11-24T05:01:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 17
   - title: "Securekloud hit the roof after US subsidiary bags document processing contract from Monument Health"
     excerpt: "Securekloud Technologies hit an upper circuit of 5% at Rs 136.15 after the company's step-down subsidiary Healthcare Triangle Inc., USA, was selected by Monument Health to automate document processing through readable."
     publishedDateTime: 2021-11-24T06:20:00Z

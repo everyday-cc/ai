@@ -2,6 +2,49 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-10-15-ponyai-to-start-driverless-tests-on-public-roads-in-beijing.md",
+      "title": "Pony.ai to Start Driverless Tests on Public Roads in Beijing",
+      "excerpt": "Silicon Valley-based leading autonomous driving company Pony.ai, today announced that it has been authorized to conduct driverless tests on public roads in China’s capital city, Beijing. The company is one of the two autonomous software companies to receive this important Beijing permit.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-china-beijing-a0f4dcf4efd645c0b1a1dac481aa11af",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-china-beijing-a0f4dcf4efd645c0b1a1dac481aa11af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-15T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-facebook-is-researching-ai-systems-that-see-hear-and-remember-everything-you-do.md",
       "title": "Facebook is researching AI systems that see, hear, and remember everything you do",
       "excerpt": "A new research project led by Facebook’s AI team suggests the scope of the company’s ambitions. It imagines AI systems that are constantly analyzing peoples’ lives using first-person video ...",
@@ -1131,40 +1174,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facial-recognition-market-size-worth-102-billion-globally-by-2028-at-1592-cagr-verified-market-research.md",
-      "title": "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research",
-      "excerpt": "The facial recognition system is increasingly being used to control access by governments and law enforcement agencies to identify a person for better safety of valuable assets and therefore",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54203219-facial-recognition-market-size-worth-dollar-10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54203219-facial-recognition-market-size-worth-dollar-10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

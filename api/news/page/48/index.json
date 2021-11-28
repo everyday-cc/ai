@@ -2,6 +2,58 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-10-19-instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech.md",
+      "title": "Instacart acquires Caper for AI-powered shopping cart and checkout tech",
+      "excerpt": "Over time, Instacart plans to integrate Caper's technology into the Instacart app, as well as its retail partners' platforms, for a more blended in-store and digital grocery shopping experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "originalUrl": "https://www.zdnet.com/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/822c04d3978ba8d964686aaf8052d87346c55831/2021/10/19/25dac7e8-528b-4dea-90ff-cc37c804784b/capercartphoto-21.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "publishedDateTime": "2021-10-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-how-deep-learning-is-shaping-the-future-of-content-production.md",
       "title": "How Deep Learning Is Shaping The Future Of Content Production",
       "excerpt": "What role will synthetic media play, and what trends are exploding on the market of deep learning products? This article will highlight the main changes that AI/ML is bringing about in the modern media environment.",
@@ -1090,49 +1142,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-spell-named-a-2021-gartner-cool-vendor-in-enterprise-ai-operationalization-and-engineering.md",
-      "title": "Spell Named a 2021 Gartner® Cool Vendor in Enterprise AI Operationalization and Engineering",
-      "excerpt": "Focused on the urgency and the need for enterprises to deploy platforms that accelerate scaling enterprise AI into production",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcax.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
-      "originalUrl": "https://www.wcax.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg",
-          "width": 980,
-          "height": 2097,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCAX3",
-        "domain": "wcax.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
