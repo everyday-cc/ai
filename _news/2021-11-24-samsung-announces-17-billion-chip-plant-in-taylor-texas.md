@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidheadlines.com/2021/11/samsung-announces-17-billio
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/11/samsung-announces-17-billion-dollar-chip-plant-texas.html?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Android
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung to spend $17 billion to build new chip plant in the US"
-    excerpt: "Samsung on Wednesday said it would spend an estimated $17 billion in the US to build a new semiconductor manufacturing facility that will produce advanced logic chips. The new plant, to be built at Taylor,"
-    publishedDateTime: 2021-11-24T00:45:00Z
-    webUrl: "https://www.zdnet.com/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/bb4db8585baa7730723206c0bfaa1bdb74477f1a/2020/02/20/ce30201d-cc31-4d68-be0d-cef488c3e6d1/image-samsungs-new-euv-line-in-hwaseong.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Samsung picks Texas for $17B US chip plant"
     excerpt: "Samsung detailed plans for its largest investment in the US, confirming a site in Texas for a new $17 billion manufacturing facility."
     publishedDateTime: 2021-11-24T08:28:00Z

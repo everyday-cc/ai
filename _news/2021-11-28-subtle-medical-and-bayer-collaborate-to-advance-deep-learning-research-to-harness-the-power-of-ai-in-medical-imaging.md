@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Subtle Medical and Bayer Collaborate to Advance Deep Learning Research to Harness the Power of AI in Medical Imaging"
-excerpt: "Subtle Medical's AI technologies acquire and improve high quality images from both accelerated and low dose scans. \"At Bayer, we are constantly striving to advance medical knowledge and provide the best possible therapeutic and diagnostic options for physicians and patients,"
-publishedDateTime: 2021-11-28T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/subtle-medical-and-bayer-collaborate-to-advance-deep-learning-research-to-harness-the-power-of-ai-in-medical-imaging-1031007033"
-webUrl: "https://markets.businessinsider.com/news/stocks/subtle-medical-and-bayer-collaborate-to-advance-deep-learning-research-to-harness-the-power-of-ai-in-medical-imaging-1031007033"
+excerpt: "Subtle Medical, a leading healthcare technology company, and Bayer, a leading life science company with extensive expertise from diagnosis"
+publishedDateTime: 2021-11-28T11:15:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/subtle-medical-and-bayer-collaborate-to-advance-deep-learning-research-to-harness-the-power-of-ai-in-medical-imaging-301432567.html"
+webUrl: "https://www.prnewswire.com/news-releases/subtle-medical-and-bayer-collaborate-to-advance-deep-learning-research-to-harness-the-power-of-ai-in-medical-imaging-301432567.html"
 type: article
-quality: 41
-heat: 41
+quality: 31
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/793932/Subtle_Medical_Logo.jpg?p=facebook"
+    width: 796
+    height: 419
+    isCached: true
 
 related:
   - title: "Researcher Computer Vision and Machine Learning"
@@ -33,6 +35,6 @@ related:
       domain: tweakers.net
     quality: 36
 
-secured: "eSZofq7twa6IK9STXyQ/wImeo2cxwY1DyA1Vxi8sQPyLNjSN31xU/mXVJP3prHO3tG6sNSCA2dkGzHufoqjOWNunxAWXE8jWXcswNl5UA/oGnf5FzgQ9x7v5y2ry+B6/YRB14PqbZtYG1BWLAi/eJleBTgqZeiZmV0UH9HE9my5AA5PHFoBCfHeetDt/69cG2ilqnoJgaA5ALUXANMXuLMuLeZLBJVf7MCZCAMt+D4yij/bIXuHyxSpGBUR+RW/9J8L4b5n8ZC2zFt8fJlPj+CrJwy+EwyJ/BLytS3xdcS1/4c+Fml50NiFJYRq44TMKvVGDooBbU/hg51mDUJ1QWy2DnOaG4dR7rQBIxGqFos0=;9AIBRS4V5254ykeC5Iwwfg=="
+secured: "Hdr6K+qYlT6il6QmFNwopH08nz+XXQdsW0+CvkKLlV3+z5Jn2jf4nlqcwNAKz2xYXe2XIAN3/i9L/hDCIQ9tfRdOQbMNkhMHS1YUC/0L7E99lnJb6Qd4h0xqL44n7eStp5mUNSfa/0dIN4rC5RQxw5CvKOJOY0n/siwkDyc6iJ0H3XYAE6+5jodIVFEtRS7hho6SkwDyeiyvHTFV/xp7S3gLyb4IIRINCqnUlbnCVYCEf5uODQGVbm/fvOGC0XnI4hX6aNVTBUTLe9AhtItJwiZQ21cREFqGkmkfjaW1EjkIUYM+P38tgjTRedfDvKu9uAt5AtDdLjgy3vuNJb1EUYydUXrVLdgAgczfQhSOTcQ=;Gaf0ns5Jc7iloSnPi6VVVQ=="
 ---
 

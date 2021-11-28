@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "C3.ai, Inc. (AI) Stock Sinks As Market Gains: What You Should Know"
-    excerpt: "C3.ai, Inc. (AI) closed at $37.28 in the latest trading session, marking a -0.8% move from the prior day. This change lagged the S&P 500's daily gain of 0.17%. At the same time, the Dow added 0.55%, and the tech-heavy Nasdaq lost 0."
-    publishedDateTime: 2021-11-24T00:01:00Z
-    webUrl: "https://www.entrepreneur.com/article/398893"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398893.jpeg"
-        width: 900
-        height: 602
-        isCached: true
   - title: "Artificial Intelligence (AI) in Food Beverages Market worth USD 29.6 billion by 2027"
     excerpt: "The MSG publishes the new report on the Artificial Intelligence AI in Food Beverages Market by Application Food Sorting Quality Control and Safety Compliance Consumer Engagement Production and Packaging and Maintenance and Other Applications by End User"
     publishedDateTime: 2021-11-26T08:07:00Z

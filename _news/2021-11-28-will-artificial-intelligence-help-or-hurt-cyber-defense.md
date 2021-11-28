@@ -8,8 +8,8 @@ webUrl: "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/will-artificial
 ampWebUrl: "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/will-artificial-intelligence-help-or-hurt-cyber-defense?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/blogs/lohrmann-on-cybersecurity/will-artificial-intelligence-help-or-hurt-cyber-defense?_amp=true"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/e71254e/2147483647/strip/true/crop/940x490+0+107/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa6%2Faa%2Fe3482249931f79add26d7ff58af7%2Fshutterstock-artificial-intelligence-ai.jpg"

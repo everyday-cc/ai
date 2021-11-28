@@ -42,20 +42,6 @@ related:
         width: 727
         height: 410
         isCached: true
-  - title: "C3.ai, Inc. (AI) Stock Sinks As Market Gains: What You Should Know"
-    excerpt: "C3.ai, Inc. (AI) closed at $37.28 in the latest trading session, marking a -0.8% move from the prior day. This change lagged the S&P 500's daily gain of 0.17%. At the same time, the Dow added 0.55%, and the tech-heavy Nasdaq lost 0."
-    publishedDateTime: 2021-11-24T00:01:00Z
-    webUrl: "https://www.entrepreneur.com/article/398893"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-398893.jpeg"
-        width: 900
-        height: 602
-        isCached: true
   - title: "Healthcare Artificial Intelligence (AI) Market– Insights on Challenges & Opportunities size 2026"
     excerpt: "According to Stratistics MRC, the Global Healthcare Artificial Intelligence (AI) Market is accounted for $0.95 billion in 2017 and is expected to reach $19.25 billion by 2026 growing at a CAGR of 39.7% during the forecast period."
     publishedDateTime: 2021-11-24T09:19:00Z

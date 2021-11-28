@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-11-artificial-intelligence-tool-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligence-tool-treatment-response.amp"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI identifies patterns on CT scans that offer new promise for treating small cell lung cancer"
-    excerpt: "Researchers at the Center for Computational Imaging and Personalized Diagnostics at Case Western Reserve University have used artificial intelligence (AI) to identify patterns on computed tomography (CT) scans that offer new promise for treating patients with small cell lung cancer."
-    publishedDateTime: 2021-11-23T23:11:00Z
-    webUrl: "https://www.news-medical.net/news/20211123/AI-identifies-patterns-on-CT-scans-that-offer-new-promise-for-treating-small-cell-lung-cancer.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20211123/AI-identifies-patterns-on-CT-scans-that-offer-new-promise-for-treating-small-cell-lung-cancer.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211123/AI-identifies-patterns-on-CT-scans-that-offer-new-promise-for-treating-small-cell-lung-cancer.aspx"
+  - title: "Machine Learning Tool Predicts Kidney Function Response To Treatment"
+    excerpt: "Researchers created a machine learning tool to predict if certain drugs are effective treatment options to protect kidney function for patients with lupus nephritis."
+    publishedDateTime: 2021-11-24T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-kidney-function-response-to-treatment"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 48
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "26KFGvbfTGV/5tXauZsLPbmcUUaq4Ls9Rt2eV5XDgvbuelO6hLZ1wmbJSThS5a2X0sinGRnCPZ85PBYUc2q4EgZqlU5OGQI3cXU8zlWKKYEgiMCuvdIwoCU52jis3InaOQaL/W+tkreTwlXnNnmJTIWz4wGHRdNhv+speD3eUDvh+Jjm/ZYu9We8AQA1t5razd5xVINRBOqtnEndiwSk4ObOdU5NF+93iUg8x7wThuuMZVdcgHnLdpkUSvmn5uSUJP7uxwho+7Pe3+CjGv7MsL584zKQzTqiweZBDBF/mupisg4Fm12I5NcHe3JbOBbSm9189ycniFsG3MJdCDEyIrvwGuTL2Gus38x0Ze+iuZw=;zhSAhcFvb4z16pD3Qdh2jA=="

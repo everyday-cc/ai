@@ -75,22 +75,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla asks Full Self-Driving Beta drivers to accept being recorded in case of a crash or ‘safety risk’"
-    excerpt: "Tesla is now asking owners getting into the Full Self-Driving Beta program to accept that Tesla can use footage from both inside and outside the car in case of a safety risk or accident. It’s the first time that Tesla will attach footage to specific individuals."
-    publishedDateTime: 2021-11-23T23:18:00Z
-    webUrl: "https://electrek.co/2021/11/23/tesla-asks-full-self-driving-beta-to-accept-being-recorded-crash-safety-risk/"
-    ampWebUrl: "https://electrek.co/2021/11/23/tesla-asks-full-self-driving-beta-to-accept-being-recorded-crash-safety-risk/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/23/tesla-asks-full-self-driving-beta-to-accept-being-recorded-crash-safety-risk/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Full Self Driving Requires You To Accept Being Recorded on Video During Use"
     excerpt: "Tesla is facing pressure from all sides with regard to its features Autopilot and Full Self-Driving. With those pressures in mind it seems to be putting itself into a position to legally leverage in-car footage of drivers using the latter."
     publishedDateTime: 2021-11-24T02:56:00Z
