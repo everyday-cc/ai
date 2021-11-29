@@ -9,7 +9,7 @@ ampWebUrl: "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-e
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 83
 published: true
 
 provider:

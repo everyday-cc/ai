@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

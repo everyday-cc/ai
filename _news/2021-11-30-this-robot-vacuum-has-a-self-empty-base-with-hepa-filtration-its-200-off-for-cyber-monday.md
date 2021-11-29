@@ -26,6 +26,22 @@ images:
     height: 535
     isCached: true
 
+related:
+  - title: "This Raspberry Pi Car Robot Kit Is 36% Off For Cyber Monday"
+    excerpt: "The Raspberry Pi Car DIY Robot Kit is on sale right now at Amazon for $76.79. You'll save 36% on a kit that en"
+    publishedDateTime: 2021-11-29T21:40:00Z
+    webUrl: "https://www.space.com/raspberry-pi-car-robot-kit-deal"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hYhs749YaC8Z4X8pPFAHC3-1200-80.jpg"
+        width: 800
+        height: 450
+        isCached: true
+
 secured: "/n4O2Q3e+JixNvRZlhBAmakBK9Djg/pD1RGcxLUGxc0+D7ZoI7HjMKAetAqUOumgSmDh01mzxxnM4YjBsjhrescw+gsAmacT/GJwzRYTGkFLN9Y9EpZIarGa2dBXTAaAT6iEfqLBy34oRcKE1asDhCMhc/GiXircQOl4OH3kkqkp2VPiMjPiNY9vo/bVjQPfvjjdowjIBJuhvUajrdCeq7eQA83gHZerjczbDcEfqGghTr41mYKzX2sqgX5Z/uO4SFcl5eGgulJKCNozANG+Y66fpX4VJ21KU4ktNKywqDaDej2dPnbuqHAt2XckBnqVmglXuMFJhg03OFGit1rQFQV8tIBQvut6KSgZOj8OLPoYYigyabFRGS762Fukx8QiAsd3+yAAmtQ+0q1tIyNBL2QyVzYvqctO7E6tswLXxQlSSOOc92DTUEMx7Ia+crmjaXs94JbVDs3lF1FY0gG8O+cWLjuv/qEMzQtzW1rVOaQX1zZzmVbAN9Z4J9sQFPpRcrgCNWjct16W1InYPgo0xQ==;c1Ve6lBYSy//rMZQDIwfJA=="
 ---
 

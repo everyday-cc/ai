@@ -9,8 +9,8 @@ ampWebUrl: "https://www.womanandhome.com/amp/health-wellbeing/artificial-intelli
 cdnAmpWebUrl: "https://www-womanandhome-com.cdn.ampproject.org/c/s/www.womanandhome.com/amp/health-wellbeing/artificial-intelligence-in-healthcare/"
 type: article
 quality: 69
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: Woman & Home

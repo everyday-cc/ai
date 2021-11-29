@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-30-robot-company-offers-200k-for-your-face.md",
+      "title": "Robot company offers $200K for your face",
+      "excerpt": "A robot manufacturing company is looking for a human face to put on its newest product. Promobot, a European company, said in a press release that it is willing to pay $200,000 to someone for the rights to use their face forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
+      "originalUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/4i5kX0KZOnbyyPlSvYI4czaobwk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XR5L5PB3QFA3HDDEALPG5F3BCQ.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp",
+      "publishedDateTime": "2021-11-29T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIRO-TV",
+        "domain": "kiro7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-does-the-right-to-bear-arms-cover-ai-guns-and-killer-robots.md",
+      "title": "Does the right to bear arms cover AI guns and killer robots?",
+      "excerpt": "The conversation surrounding autonomous weapons may center on warfare and terrorism, but it's time we discussed the 2nd Amendment too.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
+      "originalUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2Frobots_with_guns.jpg&signature=6445c569aa46bc45e677c928eb00d8ce",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-worlds-first-living-robots-can-now-reproduce-scientists-say.md",
       "title": "World's first living robots can now reproduce, scientists say",
       "excerpt": "The US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals.",
@@ -62,7 +158,7 @@
       "originalUrl": "https://www.modernghana.com/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -149,50 +245,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-robot-company-offers-200k-for-your-face.md",
-      "title": "Robot company offers $200K for your face",
-      "excerpt": "A robot manufacturing company is looking for a human face to put on its newest product. Promobot, a European company, said in a press release that it is willing to pay $200,000 to someone for the rights to use their face forever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox13memphis.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
-      "originalUrl": "https://www.fox13memphis.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/4i5kX0KZOnbyyPlSvYI4czaobwk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XR5L5PB3QFA3HDDEALPG5F3BCQ.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox13memphis.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp",
-      "publishedDateTime": "2021-11-29T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX13 Memphis",
-        "domain": "fox13memphis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-11-29-tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots.md",
       "title": "Tech firm will pay you £150,000 to sell your identity to its robots",
       "excerpt": "Promobot is on the lookout for a face for its humanoid robot assistant which will work in hotels and shopping malls.",
@@ -201,7 +253,7 @@
       "originalUrl": "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -445,50 +497,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-27-how-artificial-intelligence-in-healthcare-will-change-the-way-youre-treated-forever.md",
-      "title": "How artificial intelligence in healthcare will change the way you're treated forever",
-      "excerpt": "Here's why using artificial intelligence in healthcare is something to be celebrated, not feared While artificial intelligence in healthcare may seem a new, and perhaps a slightly alien concept, it is revolutionizing diagnoses and treatments in hospitals around the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.womanandhome.com/health-wellbeing/artificial-intelligence-in-healthcare/",
-      "originalUrl": "https://www.womanandhome.com/health-wellbeing/artificial-intelligence-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/jfK2usqkTyYfVaaC4XfucK-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.womanandhome.com/amp/health-wellbeing/artificial-intelligence-in-healthcare/",
-      "cdnAmpWebUrl": "https://www-womanandhome-com.cdn.ampproject.org/c/s/www.womanandhome.com/amp/health-wellbeing/artificial-intelligence-in-healthcare/",
-      "publishedDateTime": "2021-11-27T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Woman & Home",
-        "domain": "womanandhome.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-11-26-ai-ethics-adopted-by-193-countries-ml-to-decode-rembrandts-painting-detectron-and-tensorflow-gnn.md",
       "title": "AI Ethics adopted by 193 countries, ML to decode Rembrandt's Painting, Detectron, and Tensorflow GNN",
       "excerpt": "Artificial intelligence (AI) used to be thought of as an idealistic technology that can only exist in sci-fi movies. Contrasting to the belief, today the technology has become so mature in a short tenure that all major companies are using it to their advantage.",
@@ -553,7 +561,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1365,8 +1373,8 @@
       "title": "ABB partners with start-up Sevensense to drive next generation autonomous mobile robots",
       "excerpt": "ABB invests in Swiss start-up and ETH Zurich spin-off Sevensense Robotics (Sevensense), a leading provider of artificial intelligence (AI) and 3D visual technology • Integrating Sevensense AI and navigation technology will enable future autonomous mobile robots (AMR) to work in more dynamic,",
       "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/content.php?post=17816",
-      "originalUrl": "https://www.roboticstomorrow.com/content.php?post=17816",
+      "webUrl": "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/",
+      "originalUrl": "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

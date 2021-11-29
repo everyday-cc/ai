@@ -33,7 +33,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 18
+    quality: 20
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/05/06171613/7052BDC7-83B9-4556-BACE-D20ABFE7057B.jpeg"
         width: 1200

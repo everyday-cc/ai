@@ -40,22 +40,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
-    excerpt: "Disinformation has been used in warfare and military strategy over time. But it is undeniably being intensified by the use of smart technologies and social media. This is because these communication technologies provide a relatively low-cost,"
-    publishedDateTime: 2021-11-29T13:50:00Z
-    webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-50.jpg"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "8HxjQ1QjmOVO72/SndZax9iUK9doQ2qBCsn1gwKc9DX0N1ImXWUS920oMOU9NEfykDZKH9f/A3XDMOQ+F4SkOkG0NBFStZssg3LB1S0cetl08XCfTZ0PokM3pdctVKR+Tuh2NjLmVMJhR+iByRXX9pM1MG462bGNtaQ2LdI/EebauMeAnahfQAmtCIESsdOzoHtK/f2V2+xAWcQ9VgHyJVZf+sOy6j0AHwcXx7zYS++86tmgKwfKjApW8iL8/+AGGls9jgOFvkFox/CC7liHtcd7WskSFChyZ406jAwqkqLlCNDpVUiaikjqFFG1ePpxN4XbGNXMvOdGVrhj9EkiNphsqyqDeJY+saeo7oIHJyU=;Is16peEme3e9bY9p5DhWuA=="
 ---

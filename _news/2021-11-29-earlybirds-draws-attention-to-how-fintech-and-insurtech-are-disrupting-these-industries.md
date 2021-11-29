@@ -85,22 +85,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Crossfin Tech being acquired for R1.5 billion, one of the largest private equity-led deals in the local fintech sector"
-    excerpt: "Crossfin Technology Holdings, a leading fintech company, is being acquired for R1.5 billion by a consortium led by Ethos’ Mid-Market Fund I (EMMF) and which includes Crossfin’s founding management team,"
-    publishedDateTime: 2021-11-25T06:07:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
-    ampWebUrl: "https://www.iol.co.za/amp/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 20
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Crossfin-Technology-Holdings-CXO-Anton-Gaylard-Photo-Supplied?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/90c37407-a15a-51d0-96c9-38201e4323a8&operation=CROP&offset=0x200&resize=1667x938"
-        width: 650
-        height: 366
-        isCached: true
   - title: "FintechNGR Hosts 2021 Edition of World Fintech Festival, Nigeria, with CBN and NITDA in Attendance"
     excerpt: "On 11th of November 2021, the Fintech Association of Nigeria, (FintechNGR), hosted the World Fintech Festival (WFF), Nigeria, in partnership with the Singapore Fintech Festival (SFF). The event was one of the breakout events held by key FinTech hubs across the globe and was themed,"
     publishedDateTime: 2021-11-25T17:55:00Z

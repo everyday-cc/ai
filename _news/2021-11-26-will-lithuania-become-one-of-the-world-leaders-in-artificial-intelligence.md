@@ -7,7 +7,7 @@ originalUrl: "https://www.baltictimes.com/will_lithuania_become_one_of_the_world
 webUrl: "https://www.baltictimes.com/will_lithuania_become_one_of_the_world_leaders_in_artificial_intelligence_/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered computer vision software developer AxxonSoft to expand to Lithuania"
-    excerpt: "AxxonSoft, video management and physical security information management software developer, has just announced plans to open an office in Lithuania. The new branch will be an integral part of a global development team producing the company’s computer vision product."
-    publishedDateTime: 2021-11-25T06:59:00Z
-    webUrl: "https://investlithuania.com/news/ai-powered-computer-vision-software-developer-axxonsoft-to-expand-to-lithuania/"
+  - title: "Leadership of the electronic money institutions segment is emerging in the Lithuanian Fintech sector"
+    excerpt: "Fintech companies in Lithuania are among the best and fastest adapters to the Covid-19 pandemic. Fintech Hub LT statistics show that Electronic Money Institutions (EMIs) have made the most progress. The latter have demonstrated excellent turnover and profitability figures,"
+    publishedDateTime: 2021-11-25T15:44:00Z
+    webUrl: "https://www.baltictimes.com/leadership_of_the_electronic_money_institutions_segment_is_emerging_in_the_lithuanian_fintech_sector/"
     type: article
     provider:
-      name: Invest Lithuania
-      domain: investlithuania.com
-    quality: 50
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 9
     images:
-      - url: "https://investlithuania.com/wp-content/uploads/DOC.png"
-        width: 1200
-        height: 630
+      - url: "https://media.baltictimes.com/media/photos/152502_1654876395619faf0301843_big.jpg"
+        width: 855
+        height: 591
         isCached: true
 
 secured: "pPuuhL0haeqHiysNxoxciHTwgz4+FOt9q/V4xqplZsU3Bql97O2rO/lY6N0ntBTciuiYTsMA3z6EqKt4UuktM7WPGyE6+PUYMp1u+dotSzd9GLCEjwZS37tIf7aSiIUeEqQ+Sq0c5dOXzviD+mUm8DC5qwk/MDd07qtsdSljd7tYTKcdR4nsU8hFP6zrLYME1Aqtv8XSSgn72BJKT/rWYLn444NDYc4A0dtF6RyREKRJQgQIwLDw7+H6mz1xyQmq375EUdRhgfU/dzFHE/3YzhLpGWDmL70Z4f0sBlqreIVhVOSWfZRi+XyoR88v87xuSgYxKlPmognEKzaP5TP3oXxJjTvxDtB7Wtf9wKNfZN4=;c38qr1kFuwnHMhf7/J9Xhg=="

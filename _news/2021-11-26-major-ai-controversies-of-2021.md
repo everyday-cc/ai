@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "AI Innovations That Made Headlines In 2021"
+    excerpt: "As 2021 ends, we look back at the AI innovations and incidents that remained in the news this year AI has, by now, proven its power and impact. The artificial intelligence space is constantly evolving and improving with every passing day."
+    publishedDateTime: 2021-11-29T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/incident.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "0lY0MZfnZ1vq5SNCmSQOygVUfZwwLZJJbjMvAX5nuNS8DIV9tZqzXncJ6KsSzVafuMomfKMohoFOe3hO4r3+LsIhqOJV6RVkGTsYzLSIRobAc4M3FwMhTCFfaE0H/J43mWkfiH7zdsZGoEygPl0vdsW1HKKC71YejL13Ha83R7GturRRl/rYc3/WlmfS0QMmv2f+EhzuTQtJYSAa6ULd/4s4dl5iaSJUNA1atBrVlqjIvgnw1wBgKCjWdhMvDYzkD2KzLqjX45ralE9KnKl0et/yxXKlqRfhc3aje2GqzYJmUvKuEDX5Dx5GrHxNbjxFl++60fwDxEtdPmVMCv0KZ9fYVHiioBLh+hN05rC92ScI6wSyDunX7brAv/8zRKf1xU0TDNk0NWQY8yIy4Q3nPO3NG0bG2SIBz6cQH5jnjWAn5uPeVooWot1RXvR8FmmcnmHQBoX77fqtAK6cs45wJ2Oo+un7QcKqNp8HKR0zzOy45MoL0gJYk2VUH2Kp9sBnJQfmTAnXLu1qjiEs2zUbxQ==;KTHj6gTKJlTWxa5O3MejeQ=="
 ---
 

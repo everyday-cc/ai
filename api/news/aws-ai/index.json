@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-30-how-hiya-taps-ai-to-kill-phone-spam.md",
+      "title": "How Hiya taps AI to kill phone spam",
+      "excerpt": "The company claims its new adaptive AI is much more effective than conventional tactics that only react to known numbers for phone spam.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/",
+      "originalUrl": "https://venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1329425423-e1638200728634.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/amp/",
+      "publishedDateTime": "2021-11-29T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-electrifai-announces-mlaas-and-spendai-at-aws-reinvent-2021.md",
+      "title": "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021",
+      "excerpt": "Delivering fast and reliable machine learning business solutions. JERSEY CITY, N.J., Nov. 30, 2021 /PRNewswire/ -- ElectrifAi, one of the world's leading companies in practical",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021",
+      "originalUrl": "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_2872.jpg?itok=oyjtclR1",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp",
+      "publishedDateTime": "2021-11-29T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads.md",
       "title": "AWS rolls out Graviton2-powered EC2 instances for GPU-based workloads",
       "excerpt": "Amazon Web Services on Monday said it's bringing a new set of EC2 instances into general availability, including Graviton2-based instances designed for GPU-based workloads. Along with Amazon's custom-designed Graviton2 chip,",
@@ -43,49 +139,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-in-person-aws-reinvent-2021-is-back.md",
-      "title": "In-Person AWS re:Invent 2021 is Back!",
-      "excerpt": "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back",
-      "originalUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png",
-          "width": 781,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp",
-      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp",
-      "publishedDateTime": "2021-11-29T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StorageReview",
-        "domain": "storagereview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -377,10 +430,10 @@
     {
       "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
       "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
-      "excerpt": "CVG is using computer vision, AI, and advanced technologies to manage capacity constraints while maintaining its commitment to customer service and brand reputation TaskWatch enhances CVG with ...",
+      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation",
+      "webUrl": "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html",
+      "originalUrl": "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -390,11 +443,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T06:11:00-08:00",
+      "publishedDateTime": "2021-11-23T05:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Kentucky New Era",
+        "domain": "kentuckynewera.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -404,9 +457,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Computer Vision"
       ]
     },
     {
@@ -653,40 +706,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
-      "title": "Adidas migrates SAP Environments to AWS",
-      "excerpt": "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006",
-      "originalUrl": "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-22-aws-to-be-cloud-provider-for-adidas-sap-workloads.md",
       "title": "AWS to be Cloud Provider for adidas SAP Workloads",
       "excerpt": "( AMZN ) company, has been selected as the preferred cloud provider for SAP workloads by adidas AG, one of the largest sports brands in the world. With the implementation of the modern SAP S/4HANA platform,",
@@ -753,6 +772,49 @@
         "AI in Finance",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
+      "title": "adidas Migrates SAP Environments to AWS",
+      "excerpt": "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/",
+      "originalUrl": "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1637560622/press_release/assets/company_logos/AWS_logo_RGB_zwql0q.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-21T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail Dive",
+        "domain": "retaildive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1313,58 +1375,6 @@
         "name": "The Courier",
         "domain": "thecourier.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-noteable-expands-analytics-tools-for-programming-with-new-21m.md",
-      "title": "Noteable expands analytics tools for programming with new $21M",
-      "excerpt": "Noteable, a startup developing tools for data analytics and organization, has raised $21 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1318171140.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/noteable-expands-analytics-tools-for-programming-with-new-21m/amp/",
-      "publishedDateTime": "2021-11-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

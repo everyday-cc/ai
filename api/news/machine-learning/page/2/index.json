@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-17-cnn-with-periodic-loss-functin-training-the-cnn-neural-network.md",
+      "title": "CNN with periodic loss functin - Training the CNN neural network",
+      "excerpt": "Training and using a neural network to read out the value of an analog display - example including small node server for demonstration - neural-network-analog-needle-readout/CNN_Version2.md at",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/jomjol/neural-network-analog-needle-readout/blob/main/CNN_Version2.md",
+      "originalUrl": "https://github.com/jomjol/neural-network-analog-needle-readout/blob/main/CNN_Version2.md",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/1a1e6688ea47979425e5647d9f3cad1a14e98d228bc673947c120600c2e060d7/jomjol/neural-network-analog-needle-readout",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T23:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready.md",
       "title": "Artificial intelligence: everyone wants it, but not everyone is ready",
       "excerpt": "Artificial intelligence technologies have reached impressive levels of adoption, and are seen as a competitive differentiator. But there comes a point when a technology becomes so ubiquitous that it is no longer a competitive differentiator -- think of cloud.",
@@ -1147,6 +1190,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-10-scientists-create-artificial-neural-networks-that-detect-symmetry-and-patterns.md",
+      "title": "Scientists create artificial neural networks that detect symmetry and patterns",
+      "excerpt": "A rendering of an artificial neural network with a computer chip in the center A research team at Lehigh University, funded by the U.S. National Science Foundation, developed and effectively taught an artificial neural network to sense symmetry and structural similarities in materials and to create similarity projections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303877&org=NSF",
+      "originalUrl": "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303877&org=NSF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nsf.gov/news/mmg/media/images/neural_networks_f.jpg",
+          "width": 350,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nsf.gov",
+        "domain": "nsf.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-google-and-aws-harness-the-power-of-machine-learning-to-predict-floods-and-fires.md",
       "title": "Google and AWS harness the power of machine learning to predict floods and fires",
       "excerpt": "Can machine learning from tech giants help the world respond better to environmental disasters like sudden floods and bushfires?",
@@ -1328,103 +1414,6 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-azure-machine-learning-for-predictive-and-analytical-work.md",
-      "title": "Azure Machine Learning for Predictive and Analytical Work",
-      "excerpt": "Let me tell you about some unnoticed services that deserve attention of those, who want to be ahead of the game. Azure Machine Learning is a cloud service designed to carry out predictive and analytical work. Simply put, it’s an instrument that allows ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html",
-      "originalUrl": "https://www.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/ck_images/5br39kHV.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-bushfire-mitigation-through-machine-learning-with-ausnet-and-aws.md",
-      "title": "Bushfire mitigation through Machine Learning with AusNet and AWS",
-      "excerpt": "Eastern Australia is among the most fire-prone regions in the world. Although bushfires are a regular occurrence in Australia, the 2019–2020 bushfire crisis set ablaze over 17 million hectares of land (larger than the size of England), costing the Australian economy more than $100 billion between property,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bushfire-mitigation-through-machine-learning-with-ausnet-and-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bushfire-mitigation-through-machine-learning-with-ausnet-and-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/ML5275-image009.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T11:31:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Machine Learning"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-sta
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
 type: article
 quality: 104
-heat: 224
+heat: 225
 published: true
 
 provider:
@@ -200,6 +200,6 @@ related:
       domain: acm.org
     quality: 29
 
-secured: "jhx4mVxe5+cZBKX3LqbwT4li9nUUyGJbqoPRBiQeycrztrnDi+vzgDvJqtgss2+szbnLF5NqOxWI49ftBgsPvlUQxDcTJ5vHlu4qFy/6ZE7HAa3ZBtXXw4vknCPuVkVrd8qz7izyFciWJj3z5XSw+mZS6iaCgqOaCpuQ3u1Ao2faNfIKaRnp2+lt5qPgp/UsHNB6KDD2ZKpvhToDaBvUERnk1JC7d12VpsZdqG+ux3+r4/4k6tWyioDlchjHa7nErbOL5CkDj2t/yvmvSuxJ/GMq/hBTZiWFFXs497JHfjW/t8/oWPjH7SCzyFFTl/Bg7NrcJb8kVqYO8mP/c7J5j/StFmr+EvnqzBNNXlZg9JI=;rrbjZh+jjT+zBgCHrVQOow=="
+secured: "UtJgOUy77886mydcBqe/Vbq/uXCEPnp18gv+9o+h6Mmrw1keyvUfwzYcNZMZW9BDZZozQL1mHkPhGv4TkFj7iPYXhl8cVNSUbUlUrmW174IKJjtMAyLYd2Fpz6HN6q0L9ywR0+jP+6AxPq5j7L67oFdiG6nNfZsZqPeAK+bMFuHJcrQpwB81U3l0JygwjXVr0f2lG0t/rq1VTs3a+tPGd6qQ/p8gx8H8uzZWg4NRqtOBPjyGhTqEAOEuEK0y+onx7A3bEoy52qx3GXIgbrTvgDBXa7KJbJzkEiXg+5sK2oEhxFwWp+eMMQPCnGaax4W85Sv8cW66VLAXsMWcMiOIdgaFbKGytLf2jKD/OKj6/rwss2fBARzEUpr9/gJaXBbTTblIhrFT7mgJ6GM7ni25NB8LW37Oe1/APGQ1MI8N962wRY2zN2GRMHO4BIFGor84pjJO9wVSofKtWY53LGyAX98UjUBMax1mUGvkzKDiN+whrmaE4+sYqTq2+5SCQbGVrl2/8VWQzv5MGiTEeFtvzQ==;2Nx0wdIs5qtuMznaq5OdYA=="
 ---
 

@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-25-baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing.md",
+      "title": "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing",
+      "excerpt": "Baidu and Pony AI became the first companies to be approved by mainland Chinese authorities to launch their autonomous cab services commercially following successful trial periods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "publishedDateTime": "2021-11-25T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-tesla-asks-full-self-driving-beta-drivers-to-consent-to-being-recorded-when-they-crash.md",
       "title": "Tesla Asks Full Self-Driving Beta Drivers to Consent to Being Recorded When They Crash",
       "excerpt": "Tesla's new requirement speaks to a larger issue around privacy trade-offs with certain types of in-car driver monitoring systems.",
@@ -1374,49 +1426,6 @@
       "provider": {
         "name": "China Daily",
         "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges.md",
-      "title": "China’s Baidu pulls in near $5bn revenue as AI turnover surges",
-      "excerpt": "Internet services giant Baidu pulled in nearly $5bn in revenue in its latest quarter, climbing past analyst forecasts, despite China’s ongoing technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/",
-      "originalUrl": "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges/?amp=1",
-      "publishedDateTime": "2021-11-17T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
 type: article
 quality: 59
-heat: 72
+heat: 73
 published: true
 
 provider:

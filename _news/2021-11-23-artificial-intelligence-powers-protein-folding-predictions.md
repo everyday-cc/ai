@@ -2,9 +2,9 @@
 category: news
 title: "Artificial intelligence powers protein-folding predictions"
 excerpt: "The buzz over the November 2020 debut of AlphaFold2, Google DeepMind’s artificial-intelligence (AI) system for predicting the 3D structure of proteins, has only intensified since the tool was ..."
-publishedDateTime: 2021-11-23T14:44:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-03499-y"
-webUrl: "https://www.nature.com/articles/d41586-021-03499-y"
+publishedDateTime: 2021-11-23T00:00:00Z
+originalUrl: "https://www.nature.com/articles/d41586-021-03499-y?amp;amp"
+webUrl: "https://www.nature.com/articles/d41586-021-03499-y?amp;amp"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 576
     isCached: true
 
-secured: "TWODEKSf40+EuJUImvTcEs7flZsKQz/lutoxDSF2zAuHRlT7Prb2+ivEMaYAqGYm1xdpwq71WAeHi37zjL7Y0EqbzcyvvGmDzxDJfJvCfbpBirIDEygiebC35rSgqSzSCaNPt5sv0/fZ3g8lJAC61DSQlm54rYigMsdPMv6tSQPmST5/uW+W3Tti5ofR1/N1mRfyMQ+7FWMoMxSlyw5iHcJIl5SjJgr0DZVvJ6BACEi5TkAqIVAvY5y1zQT5rLm2KCFsx0z8D9VK4JSzG3lvR5zcZsy9r8B3XxL7J4dmTN6umu100uyKKIT3XY1WJAVnp09lZckGIvVTJK8pehlOJpEi/Rp8k324uiuV4xCyCHU=;BPQJ9GeAQ9NcCYwXu4WOFQ=="
+secured: "7qiJ7ZSCtffEf25fy6ZsGxuIRmjHUjQtp+N8GIe0l/aTgjKelAOSiM4tCzEKwA0+HCDL5QXVY9RkLlsef0kEt+8NOZ7JWRvBSdasCuP3mQx2TFKrZGKk7G0gMAhN1a4AF8K4naoDHa6mOCQETB9Xtfh3I/zys2mxDe2suznZZyWGCEt2PI6+7xirsfofLUmHwUPWTCaWEGT/411gitppv8K1YyBgqNePKJmz+B611SGo8Es02FIQwGp74uTuilqxavZTFXRgNGOtx1Goz4u7SiF9BbdhoEJRJxl6JZEmXlpJEDhWQpxqXxj5ofgIzVSFHubunUx6fLFtKWY9wOhzarFN2OgAQ7YC4KDKfQrizmk=;ecN/R7i1OmCrLDc9KqtZeg=="
 ---
 

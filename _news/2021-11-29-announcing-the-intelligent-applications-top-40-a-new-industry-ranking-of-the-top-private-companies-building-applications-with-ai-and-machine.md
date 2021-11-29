@@ -31,6 +31,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 50
+  - title: "Canon Medical Introduces Super-Resolution Deep-Learning Reconstruction for Cardiac CT Scans"
+    excerpt: "Canon Medical is breaking ground once again with the introduction of Precise IQ Engine (PIQE) DLR and SilverBeam filter in the latest version of the Aquilion ONE / PRISM edition. PIQE, super-resolution deep-learning reconstruction technology for cardiac CT scans,"
+    publishedDateTime: 2021-11-28T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-ct-scans-e227cdf8a8d04ec7ada2992850e3398a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Z9y7DWjsVcVRbG0Vbhzw4dCb7x0oyhP2n2t1/xX7kepZ3B1X4EtgprxS07PHfdnmGbhZ0SRpkaahn5e6/zW/8pH7GKsfUChsoJ7XNQrwf6ZBjm+6HpcnWpDZGFl15yBaEh3R8cFU30E5rrfVCBo7Rf7OTZ7T6h2zhfuV7QKHN41zMr/gZ8uP7K76zTQ7g/QQxnBKuVIhNLlWTdma3PUtB/9cTb/LIipWKIYpSuOGpYCEMx2cHjpaaL8tk12g6pP3sqMH2sFrxrENeS4VNNIbVBg5M1DDzDBiFlJW8crrLNg2ivxo3XuABea0aLvbIAgag8nT2EeCt1DosJIv/f/KkA+BPWdAu+26fzadSfr+PEQ=;aSOW0hmqOP6w2DGa8OG/5A=="
 ---

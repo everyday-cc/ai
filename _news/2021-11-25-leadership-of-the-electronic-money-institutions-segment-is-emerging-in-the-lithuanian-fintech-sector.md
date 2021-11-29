@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Lithuania: Fintech Hub LT Reports that Fintech Firms Generated €399 Million in 2020"
-    excerpt: "Lithuania has been working to position itself as a competitive Fintech center in Europe. In fact in April 2021, Lithuania Reserve bank Governor Vitas Vasiliauskas publicly stated that Fintech should compete with traditional financial services firms."
-    publishedDateTime: 2021-11-29T03:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/183493-lithuania-fintech-hub-lt-reports-that-fintech-firms-generated/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183493-lithuania-fintech-hub-lt-reports-that-fintech-firms-generated/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183493-lithuania-fintech-hub-lt-reports-that-fintech-firms-generated/amp/"
+  - title: "Will Lithuania become one of the world leaders in artificial intelligence?"
+    excerpt: "The field of artificial intelligence is growing rapidly world-wide. It is predicted that in the nearest future it will take up a significant proportion of our economies. The United States, China and the European Union are already competing for leadership in the artificial intelligence space."
+    publishedDateTime: 2021-11-25T16:07:00Z
+    webUrl: "https://www.baltictimes.com/will_lithuania_become_one_of_the_world_leaders_in_artificial_intelligence_/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 18
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 35
+    images:
+      - url: "https://media.baltictimes.com/media/photos/152504_1244011796619fb438209a9_big.jpg"
+        width: 855
+        height: 604
+        isCached: true
 
 secured: "ZPoY5cL9DN5uEc1bg15Tf23N9xoGQj1a+kOhLKhmbIWCrAmzF/5rLvyWnaJl55VKtKpPolVpYyBgVvSPv7TC7wKsPem8wBXv6nBg3HLuGLSQX0nWbWMjm923UUHuk1/raH18sweIlt75OA4awECseT0x9xlVJNAFdOKFRNih76Z28nrAoCm2BED5FHSeitNe5i+Q01KBfbQnVI1Gwc4///+iXOR1oRm/feQFeUv6Jk4AnrvbI1/5Lm6kScIX+dhVkTkNi5/8fBwh9Glh+XLuptUBS93Sqn68pZCF3spUh+a8P80mDlDFGBu+MLNUYSd2z8wLU7old0dftovuZyXBaBrEoDMozuSV1pZTnSTcJSFeOE+9Wgn1HQbrY1nAYjS9ZGK7BomE/7CUgHCsNb69z6ogUW4kJaoWYvdw4k/AtM2rpzMXP0lv6+NYUkUYvsnGgwQXCa+jIiI5pNcXp4jydCczlZlvHf7VjqmMH3cyi0MjJbztEjuv6em6kxQETlgfHrIw53NfEJiUY5TKz3eHJw==;Mp4irAD6IQ1I7TWA4nqQeg=="
 ---

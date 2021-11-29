@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-relationshi
 ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-relationships.amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-51.jpg"
@@ -43,6 +44,6 @@ related:
         height: 600
         isCached: true
 
-secured: "DFWuB4kardsT+JRzYv8RKl5ZVUyPpmrmBBf9wau0dTSMHlQJxfeGwfJlNw3NRuyr5xOD0xeI6ydHvNpKrCTz2qa2a3EJWz0DTM/2YQ1dN9YsMBEDBQp3XqLsORnhHYTYVTOUcAvP5NlxK20yJxE1zOQcCKdjqQzaMlLtvUdGZ1XbJL9ri4CuXiQ2AX4GgEHUq1icT+hQtpziux2aDcasXyQBnBb4CoNOyDIm1tEkqJstVIIqv1sJUYEF/FfIcqLG+6IOVLaYSSIw4rsVhZrjNIV3sc/81BMQgX1XzujDM1YHvWEsDBgpTL15C1PHn+hnrOJVeBvknA0rxlqojqcSnKwF/njRA7dvDxN400DHO94=;KbTr59GJHwDMIPn9kOPlzQ=="
+secured: "7sDtTCQ2R2LZMupbhPNFgCA3qYIDqSJA62uL54ENdjkObqVWl0chGTDwCvoqqp07nMUwSjVJc7E39jDOGdUO9fRjDtOe5NMytG3YbOEnvgHwDiDhE+bGGh066q0FkGNTyuSCqnkgxY01QG5ckeOwdw7eefR4iosy6+wXWNBO43seHV0sDHQkEnfiWEshETk4bW7upD8XYAlneWWSWLaOMHpUMU6isxQ4T32Vf0zxRq1/vdD9dGkAZHwiBEs1XdbKzoGrFrscaIkHq86D54xVfBW2ECgJQdZSluWZp0yNITkM9zwH4N3ImvHFw84nrzfsfmLq5CYiHcx0MsyolT6edXugb3Giwe21v4kRBlOWGWcTHgV3nTUcL9TTxuZRk8EJNzJIQ4s3Ar163G/UYzUNgG/ofyQtgNht1t1OBpN1IfB9GjejiaOOHreYKtpY7vu0Z8n+CX80GP4kdE2exhIWvr0LHBcgHu/UTYfq0nOVm6VIxzF7e6RSHqL8tq2zrSzYtkbMnfdMDbr+XFTKxoeGUA==;MwkA4ngU4B2ENdF5b3cmBw=="
 ---
 

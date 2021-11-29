@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Piraeus Bank Renews its Self-Service Network with Diebold Nixdorf's DN Seriestm ATMs"
-excerpt: "Piraeus Bank, a Greek multinational financial services company, is the first bank in the country to widely adopt automatic cash recycling by deploying more than 300 DN SeriesTM ATMs from Diebold Nixdorf ."
-publishedDateTime: 2021-11-29T14:17:00Z
-originalUrl: "https://www.lelezard.com/en/news-20129515.html"
-webUrl: "https://www.lelezard.com/en/news-20129515.html"
+title: "Piraeus Bank Renews its Self-Service Network with Diebold Nixdorf's DN Series(TM) ATMs"
+excerpt: "Piraeus Bank, a Greek multinational financial services company, is the first bank in the country to widely adopt automatic cash recycling by deploying more than 300 DN SeriesTM ATMs from Diebold Nixdorf (NYSE: DBD)."
+publishedDateTime: 2021-11-29T15:29:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/11/29/piraeus-bank-renews-its-self-service-network-with-diebold-nixdorf-s-dn-series-tm"
+webUrl: "https://stockhouse.com/news/press-releases/2021/11/29/piraeus-bank-renews-its-self-service-network-with-diebold-nixdorf-s-dn-series-tm"
 type: article
-quality: 32
-heat: 32
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Finance
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "5cw1FFvRn8Nu6YvDUkLWhvUvL4Zt69c9kdRTaloYPjrzOtGpD14/GyE7DTlLQP4n/iJGcEFQ6d61TV9D/XQrrjoPNqMId+4Evi1y8gys32LonDFfOJm440CFZi8P5U1ayQgtoY7i/RbIjrSa4DiJrrkq0UyGDzPisXmhPiltOE1wVHk9qpc8k5Yf4mPQcJgoyJRlEOR/j4z9ZdPQRWe6GyU0iCnjAYwtrxUKEbCA0mS7GhVuLOL0BTfpSkXorTOQd1hPiaW30Cx6uPj8Toff3PZMpYtzZqqwMlWAC+ohJxOd5wvwAQQO0rNSMHQTy0t12uKwRRlqiGL3wk1HDmiIOO/MW5my+uOCmxuQsKaBWSzstAL/Xf2FlVVTMqRzN7gVCseOAwe78XnE18Pkg7BtmhIlxHTqjADexD2ZuNOjq3+Oi1USSeM4208UxNzoqTkBIDIZYvCCgXCKIkgCaDyeGUxj8r5FZoX9dJnXS0rrICoPb0oXLhzfmWjEc6Bveg9sBtemBQs9xa8BXc4Jo6Gomw==;x3muCGLKCSnCSYNtDdXj+A=="
+secured: "fA2rre78TA/+qr4Y4eenD/4To073YCeUJEqecIvvU85P/RJ8OGQ8oGVoH34lgcPyYFkipZARJYNYmjTSxPNAstCsY18qyx/SZjOwxo3HxhGt3M74+dX4liJMdmmsLB9bPXjyv36rBH/TNZXzkXJlJFnkQUSnLmh+CRAMRXE53hmcy6p/Y6+XP/8gbnEOmjg6zbd7VAIYfXJVJzN9+b+buIFXRbBegYFjvClN76BUvJv9V2J3w23/BBXBCbkVSp4B3yLbnp/LlKyXrmuLhRKZjMQoCuQQUe/Z2XBFn7/g3B5KK6wU723y0pqVNZfj30+0vKLnXuEOUXO/mJUW5G57NTi7Y+08dSKUSHsAPrRsCaY=;UwRo8G9rGOIIlt6IchHMgg=="
 ---
 

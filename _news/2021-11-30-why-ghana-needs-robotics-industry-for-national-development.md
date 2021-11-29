@@ -9,7 +9,7 @@ ampWebUrl: "https://www.modernghana.com/amp/news/1122336/why-ghana-needs-robotic
 cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1122336/why-ghana-needs-robotics-industry-for-national.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

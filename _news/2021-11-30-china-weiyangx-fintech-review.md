@@ -71,22 +71,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Crossfin Tech being acquired for R1.5 billion, one of the largest private equity-led deals in the local fintech sector"
-    excerpt: "Crossfin Technology Holdings, a leading fintech company, is being acquired for R1.5 billion by a consortium led by Ethos’ Mid-Market Fund I (EMMF) and which includes Crossfin’s founding management team,"
-    publishedDateTime: 2021-11-25T06:07:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
-    ampWebUrl: "https://www.iol.co.za/amp/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/companies/crossfin-tech-being-acquired-for-r15-billion-one-of-the-largest-private-equity-led-deals-in-the-local-fintech-sector-8aebb668-fe91-4406-9271-b4aa47486edd"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 20
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Crossfin-Technology-Holdings-CXO-Anton-Gaylard-Photo-Supplied?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/90c37407-a15a-51d0-96c9-38201e4323a8&operation=CROP&offset=0x200&resize=1667x938"
-        width: 650
-        height: 366
-        isCached: true
   - title: "EarlyBirds Draws Attention To How Fintech And Insurtech Are Disrupting These Industries"
     excerpt: "Open innovation ecosystem EarlyBirds is helping businesses in the Fintech and Insurtech industries benefit from the innovations in their respective"
     publishedDateTime: 2021-11-29T05:10:00Z
@@ -116,6 +100,6 @@ related:
         height: 1406
         isCached: true
 
-secured: "KBBoT/1vOQa68EskIKD6+a6MT+l1wzUfKDmhtJotww0sO58aIosEZjR7dQKhgBNT0QZOm/I3tme72QEUZSVmRBOw8o2cwr80ZcIHdjBnjmcxzusOVaOg6hH9mQX+JCIL5TBh+E7+vi32VxxsUhCGdrGkQblKKYUjYW+iG59f1j//zdG/ifyAhNcx30qOab8/eB4NrEZM5mUFA2oVHkRfCB/LV7kdtyDQDvV9kDwmGapQr6kbvXl67SxwqFOfqnaY4qrhi99lK148G5f/TqsIfKC/i0WXswT18y20W+GEk3qzXiakTdn2lNPzN5ObX8Fd0hK4IBGzDOEQQBdnck5GVt/0kb0MIlL5qNcQIx4al2o=;0K0hpwsIi8sVbwa4KdQnkA=="
+secured: "lQBnjsWFQ0oKpLCi/BvpA7HN2sxW7kxaM4vwP9IYyLcJ+vXYe+BRmUMZdjuCdS/OdYOqQYJ1aeBrfa+z4lv9+wdfIqau/W3KeZs2rMyDKRhUHCmuklzk8muxYYtIU1i7Df2v9aAXZnQfE93rxrdwaPCoHO6sbVV/3LrYjlwm9FtYuLzXq9A0NXWdvMrWv+ozu+ShvngveqUPEspU/fnb+fbCvePS60IstrD/jwXt8lx4jqsIxembsdHtA688PbtOWl4LWZUYi2kx3TId7k80wn7DgHaa/gaZVnWVgM2eWUgtI+Kf85L97XPXhPQyNWHczk/S6Gb0K8CEVfup4vp6HjJ19m9t/dLlMhdETi28Y3UrDe6+bHG9yb0enWyslvDeIw+5lIzRrbTGY56FUanGtoNlFlGAm6Zvd9e9MzjiROtGxNI7YBR+0rL0U7g2w5Jkqj0xUMe5JjNOywHeP0GQCsdXvXcPp8avk5o5/U+FDT7I85jWdqHtXGduWWiLIHDOEKq+li1ckjsQRus66+bIYg==;ezo+H+gMMupUDrQEYlAwMQ=="
 ---
 

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021"
+    excerpt: "Delivering fast and reliable machine learning business solutions. JERSEY CITY, N.J., Nov. 30, 2021 /PRNewswire/ -- ElectrifAi, one of the world's leading companies in practical"
+    publishedDateTime: 2021-11-29T21:00:00Z
+    webUrl: "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021"
+    ampWebUrl: "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 74
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_2872.jpg?itok=oyjtclR1"
+        width: 763
+        height: 509
+        isCached: true
   - title: "In-Person AWS re:Invent 2021 is Back!"
     excerpt: "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly."
     publishedDateTime: 2021-11-29T13:23:00Z
@@ -45,36 +61,6 @@ related:
         width: 781
         height: 300
         isCached: true
-  - title: "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-    publishedDateTime: 2021-11-29T17:40:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/electrifai-announces-mlaas-and-spendai-at-aws-re-invent-2021-837723933.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
-        width: 594
-        height: 315
-        isCached: true
-  - title: "Hyperscalers don't appreciate the needs of SMBs - what should AWS be doing at re:Invent?"
-    excerpt: "When surveying cloud adoption, nowhere is the distinction so stark as between large enterprises (those with more than 500 or 1,000 employees) and SMBs (those with fewer than 500 employees). With AWS re:Invent upon us,"
-    publishedDateTime: 2021-11-29T10:22:00Z
-    webUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent"
-    ampWebUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 50
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-10/D5C71572-4813-4A9B-8652-32DC6B1AD682.jpeg"
-        width: 640
-        height: 422
-        isCached: true
   - title: "What To Expect From AWS re:Invent 2021 Event?"
     excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."
     publishedDateTime: 2021-11-27T12:30:00Z
@@ -88,6 +74,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS_AIM.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "All Eyes on New AWS Boss Selipsky as re:Invent Kicks Off"
+    excerpt: "When Jassy left his AWS post to take Jeff Bezos’ old chair at the head of Amazon.com in May, it opened up one of the most visible positions in all of big data and AI. The job went to Selipsky, who was one of Jassy’s lieutenants when AWS launched back in 2007."
+    publishedDateTime: 2021-11-29T21:32:00Z
+    webUrl: "https://www.datanami.com/2021/11/29/all-eyes-on-new-aws-boss-selipsky-as-reinvent-kicks-off/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/adam-selpisky-300x277.png"
+        width: 300
+        height: 277
         isCached: true
 
 secured: "cyQtS8kotyOoICdR2mnpllnP3xVVmpF8bcv9joV730q9RBZi6CcGE+xn2d4ZxEWwn6gZzz2iW8l8HG1fhyg9TNmRYrlgRRLjzJYVD72F0CtbLuTEdEtKi3lpGcOMm9+y/m2ALr1pciglZR9IFCadqMTXxVKDIdZbk+7K8DZnP6WVseQHyt6UQPMa0hXJBqhHj73FbhLW/wX9ag2Sp/YgOnHzi1xw7xHQRcXTtfkiGGqv6ZIRFR4f73A/w/Uaruv96sbnMLK45FEMSiQW/fIVfnzFa1rV/VdcqIUxG9HNEBvAfXgjqHWLzH99UdbGKOe26030M6dJIzfgukTGO/gH8GM4wHC77bE97t1cgPX0sOZxcAA6bh/dEcK2ejy6VdpRgLEX0dOrmLxCXuHYiRUbPNpl+WKgv66I8H4TSg0O7bLiNtueTsrkQJwljG58hwhT3r8yhQTTzO9p2GNdNfEiuSjH6B2TZzJDOdBTH+bsZWDH5u4Gl1YLoZPzfl+OKWgainvXh2PzutoR3CnJqfkXVA==;ZtP0ejK7sRzMalHtbpyJuw=="

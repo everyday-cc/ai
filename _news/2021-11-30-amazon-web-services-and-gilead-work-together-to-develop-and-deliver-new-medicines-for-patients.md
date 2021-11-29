@@ -34,6 +34,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Gilead and AWS Collaborate on Development and Delivery of New Medicines for Patients"
+    excerpt: "(NASDAQ: AMZN), announced that Gilead Sciences, Inc. (Nasdaq: GILD), a biopharmaceutical company advancing innovative medicines to prevent and treat life-threatening diseases, has selected AWS as its preferred cloud provider."
+    publishedDateTime: 2021-11-29T22:57:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/11/29/gilead-and-aws-collaborate-on-development-and-delivery-of-new-medicines-for"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 12
 
 secured: "AlwJbm/Zs+lwkdOMrWnTPlsIdRnM9kTo3R6Jusd9mPw4lp9noPqojT6j5P2iLyqAHnD/xKVDyGJ5l9y6sYIIxBFOeLPSYnIyWzjCLOkM4a3S/haAGFh2GzVdwq3d14/MmQvfFDqNN9hcPeM8dVCc0/oOKnAM4hUpJf+h8bNhIIX5Sz5f5Ts44Wz19EFMLr9uIxUlZuF3NwAmIUAt2mrtYBeHJbBXaRLBbHxusGJ5HHfOZV+p0nf8LjhBnTwpUSVU7qdLMutjUVLo85qM+oRJSyUPTaTc7yhJF3LxubaHZkTyTu6edMqwLlN9w9y9FtKBkTjj4I2fwcKp2RLl5V9azklqY++XczFy8nyFcFjpP2U=;+8gxqvcHEmc7DtAuVoakag=="
 ---

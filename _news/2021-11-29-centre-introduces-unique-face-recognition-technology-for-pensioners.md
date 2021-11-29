@@ -96,6 +96,15 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 18
+  - title: "Dr Jitendra launches unique ‘Face Recognition Technology’ for Pensioners"
+    excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today launched unique “Face Recognition Technology” for Pensioners and said,"
+    publishedDateTime: 2021-11-29T21:40:00Z
+    webUrl: "https://www.dailyexcelsior.com/dr-jitendra-launches-unique-face-recognition-technology-for-pensioners-2/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 18
 
 secured: "CLohk4XHe1RA7C7s1l9Lk/54xoY5Y1lmwH0diVvMoagiE2Gx7lrWS/SYXgyWD5zvXDCysKJDoiO81NlqiKxJYIjDAPD8GCEU9oUiGSjPe2PDlZe2CJHluUIaM7NLBhCQcSSzUj78Ac5L68pb23zfiTi9zUSRovXDra1jw+kP2LpRa0WWJJmbFcJuhLN9X9ujtSlswP9sRQ6ynYBbleZQbf5FNoJpf9Bag0U7cJM5Fj2HMURaMe+RN0t8pOFcrTmMrgN0gMIZ1t6aybHvaz8vTCOoREk2iKB9cOzVFd/9nBnH7OQ8w9qTfCyujAis1grl2HQrIh8jdEPXV/si9zCfxTbCh7rSTSF60WHrK6f9Llt7nSn5CWyMc9p0FZTkAtY2nHMlsThwzg+BerBedHBuqpRTtzk1pKt+IXLp+gH/sGMY+pgzHqiMkf5rYTh/kZdwnBW3Z3XoBCnevnVomPPHVRwrCLVdyUJwR+Oh/KN/X0QYUpUzgIkdDOwu871QAhHc2nizcFdEH/W+VNLIAbw7pg==;wd7OEJFUmt1dB//t9xjfAA=="
 ---

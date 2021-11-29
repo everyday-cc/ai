@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-16-4-bank-of-america-moonshot-investments.md",
+      "title": "4 Bank of America Moonshot Investments",
+      "excerpt": "We found a reference to just one publicly traded company that was working on an emotional AI project: Amazon Web Services. In August 2019, AWS announced an improved version of its Rekognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
+      "originalUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/01/imageforentry12-cbv.jpg?w=400",
+          "width": 400,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
+      "publishedDateTime": "2021-09-16T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-comparison-of-iot-services-from-aws-azure-and-gcp.md",
       "title": "Comparison Of IoT Services From AWS, Azure, And GCP",
       "excerpt": "AWS IoT Core natively integrates with other AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Sagemaker, Amazon DynamoDB, CloudWatch, Aws CloudTrail, Amazon QuickSight. AWS IoT Device Defender: AWS IoT Device Defender is another fully managed ...",

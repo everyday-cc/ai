@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Canon Medical Introduces Super-Resolution Deep-Learning Reconstruction for Cardiac CT Scans"
-excerpt: "PIQE, super-resolution deep-learning reconstruction technology for cardiac CT scans, delivers exceptional cardiac CT image quality by maximizing spatial resolution without reducing low-contrast detectability or increasing dose. SilverBeam, an X-ray beam ..."
+excerpt: "Canon Medical is breaking ground once again with the introduction of Precise IQ Engine (PIQE) DLR and SilverBeam filter in the latest version of the Aquilion ONE / PRISM edition. PIQE, super-resolution deep-learning reconstruction technology for cardiac CT scans,"
 publishedDateTime: 2021-11-28T13:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-ct-scans-e227cdf8a8d04ec7ada2992850e3398a"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-ct-scans-e227cdf8a8d04ec7ada2992850e3398a"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-ct-scans-e227cdf8a8d04ec7ada2992850e3398a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-ct-scans-e227cdf8a8d04ec7ada2992850e3398a"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,28 @@ images:
     height: 450
     isCached: true
 
-secured: "iHXfSB92l1ou31G8eWW9LAWuzF2tiqYf1YzPvPduutcD8lsSjsUrAKdLlNE6DUQZgofQ6SqMR9phk+DPlX1wuO+kobQ3JpsF/mQs9R7S2Bnrc3U5Ak1INzQBtOhX7v99NhN6jxI1tvpv+npFAZNCwC11vi2vZZf6B4sZgkdubB05A4gRm4IFOWgcOy46VC9/C7Ci8T7WNfmphRyjI7YGiKyEJphOn6CEkEOrYyqmjpH/lxxGYd8qalKA31Zv6ABEs6h43Z3caCy7rjeXKXo47xfHw9tlySdcoJpQgdg/QwjhI7fKv68OYFQD35EptMSFbjD64IjdLf6tpUt+HyubGhOG2U16Wb0lSJnIm+y/kVs=;86nfthQWDCfWHjD3PNRJJg=="
+related:
+  - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
+    excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
+    publishedDateTime: 2021-11-29T19:31:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 50
+  - title: "Announcing the Intelligent Applications Top 40; a New Industry Ranking of the Top Private Companies Building Applications with AI and Machine Learning"
+    excerpt: "Today the Intelligent Applications Top 40 (#IA40) was unveiled by Madrona Venture Group. The list of the top private companies building applications that truly incorporate intelligence into how they process data and predict outcomes was voted on by the top 40 venture capital firms investing in this industry,"
+    publishedDateTime: 2021-11-29T15:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/11/29/9500628.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "+sfUZX6YhXbQIj3NJikmd75jd8pq/lMttVV+nyjpUzTmNgMUwxDgwG57ERijTsCCcmnpdOJMX6LZUkwE4dUkpe+5cvpAKNQncLRC+dubvjWRBcXCmESPhuxTaZzetISW5y9cE17zs00eyAOxskcFAzH+69bIzT2qhKO18k3moITSSaAtEv6p8eICkOrDtMM3XZabc2f7hZVJVuE5805xa8G8jsMZU57bYCtx41r0g7meCof/LoT8MbxDGEZGHcTv7dFxyyqEweQPXH5pnQBPgjpXMyMUJit82HnbQutF985PAelQNwrNy+Bf2zvqShEFmyzqv7jcFxSMOxVQG2WUx6nX57fKOmpV05GhgNuKgAc=;SmtiXdbUJK9wilX50gTdbQ=="
 ---
 

@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI Is Facing A $23 Million Fine Over Facial Recognition In The UK"
+    excerpt: "The provisional decision comes after a series of BuzzFeed News investigations revealing widespread and sometimes unsanctioned use of the company’s facial recognition software around the world."
+    publishedDateTime: 2021-11-29T22:03:00Z
+    webUrl: "https://www.buzzfeednews.com/article/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 102
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2017-12/18/7/campaign_images/buzzfeed-prod-fastlane-01/35-times-privacy-was-a-lie-in-2017-2-22650-1513601379-1_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "U.K. privacy commissioner fines Clearview AI $22.6 million."
+    excerpt: "The Information Commissioner’s Office said it fined Clearview AI for failing to inform British residents that it was collecting billions of photos from sites including Facebook, Instagram and LinkedIn to build its facial recognition software."
+    publishedDateTime: 2021-11-29T16:09:00Z
+    webUrl: "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.html"
+    ampWebUrl: "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 87
+    images:
+      - url: "https://static01.nyt.com/images/2021/11/29/business/29clearview-1/29clearview-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Clearview AI told to stop processing UK data as ICO warns of possible fine"
     excerpt: "Controversial facial recognition company Clearview AI is facing a potential fine in the UK. It has also been handed a provisional notice to stop further processing of UK citizens’ data and to delete any data it already holds as a result of what the Information Commissioner’s Office"
     publishedDateTime: 2021-11-29T18:39:00Z
@@ -40,6 +72,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Three Critical Facets For Financial Services To Succeed In The Digital Future"
+    excerpt: "We are at an apex of digital transformation, and precision analytics is driving the most successful innovation initiatives across many industries. The unequivocal rise of the connected ecosystem has forced consumers to engage across digital channels,"
+    publishedDateTime: 2021-11-29T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197a677f53d14e9ec8aedae%2F0x0.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Facial-Recognition Firm Clearview AI Risks $23 Million Fine for Snooping on Brits"
     excerpt: "Clearview AI Inc. faces a 17 million-pound ($23 million) fine after the U.K.’s data protection watchdog said the facial-recognition firm may have collected images from a “substantial number” of British people without their knowledge."
@@ -71,7 +119,55 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "German coalition backs ban on facial recognition in public places"
+    excerpt: "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),"
+    publishedDateTime: 2021-11-25T15:54:00Z
+    webUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/"
+    ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "US facial recognition firm faces £17m UK fine for ‘serious breaches’"
+    excerpt: "Clearview AI may have gathered data without people’s knowledge, says Information Commissioner’s Office"
+    publishedDateTime: 2021-11-29T19:36:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/nov/29/us-facial-recognition-firm-faces-17m-uk-fine-for-serious-breaches-clearview-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/29/us-facial-recognition-firm-faces-17m-uk-fine-for-serious-breaches-clearview-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/29/us-facial-recognition-firm-faces-17m-uk-fine-for-serious-breaches-clearview-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/a5282f111d9a4e58d9d8c99b558ab2c7341a2ce3/0_192_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=f4a4ed7b12fe9200f658b3587f2ec57d"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
+    excerpt: "Disinformation has been used in warfare and military strategy over time. But it is undeniably being intensified by the use of smart technologies and social media. This is because these communication technologies provide a relatively low-cost,"
+    publishedDateTime: 2021-11-29T13:50:00Z
+    webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-50.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
-secured: "LTO+XaSbpTqjIKbcc+HwR4VHuU3AhQ1Do7jrOEHgrFx4LVKsUbAr4piJEiQd41UzmDuB52fsQ7hOax55tnKhLx4h8A5f3dtNpqqzclV8nM+3Ee3ZaOfs2MKN7+aDBvNNyYZbFnP6L6F/BG3JkEJOVIyp29WTIxaJBmmwx+jf1teQsNrlTJvTXMDH0h3m8SnFA+z1yRaSTUjqUcRhtcHuQJGhYdDUJFZH3n52VQ2UrtmrxFhs8l8VgitT6gCJ9lCF6AWxoWW8khG2EbXJHbnMXpp76OtKqOH5CXh1qLL5x63VXAoNlckEyNecYFgbYvSip9TUeSbWYv4V1Cp9A1uGfeYs3bNn5pENf9iPY6k7bk8=;RBeqRVpLQ6803YPKeFVQUQ=="
+secured: "htQzKxKYYonjM6RMfBpRWdVA4lIf2u75xbbRg0RdJojJDTAtABnthcs6cPgT0D/MByiEpoKTimgD42buVXPAH8GLi1DqVkWfluOt3PeozCnkXCq8+srzLCF+kNtyDi3JU2swlodIrN50cutRCq3Em0A4YI7Cmt2FdfmGq6wDZDgCIaQjwSkEJHbY1hdV4lbJ5jKoMOJzwWC2zY/ozelRIfgBx8K+1CTFbrfZKz3RImziJfoVWpAaozYrTy+AEi+7Idaps//MY1w9Mea8iecsJdS/kcGUpVjOojmRs788zbsgxI3IXLgVQhweo2/xF0FbglTcNnUMjOIJdWwcYBSG/ZFLrgHmyQZagdE1eLPu3RbPI3173pxdlUKcg6jRsh2ivIDvooCro4nDDmFALzr2owDETlwQaXPVfZ7CirLyowqvcQbSaJsxxIx2N9ecuqE/M31g182rxYCXqBClAJlDRfM6Y9zZgNbREjHj3y/AYtWlFkekXnUWlMmdQLVcEEGSj2JBUHITSJMK2nyPCDw95w==;7Ubv4J+2n7JpQ15xmQt3lA=="
 ---
 
