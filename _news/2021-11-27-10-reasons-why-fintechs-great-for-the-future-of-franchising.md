@@ -41,22 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "How Fintech Paved the Way For Simple Investing"
-    excerpt: "Advancements in technology have had a major disruption in the daily operations of businesses today. Businesses are trying as hard as they can to ensure that they keep up with technological changes and provide what their customers want."
-    publishedDateTime: 2021-11-24T10:31:00Z
-    webUrl: "https://techbullion.com/how-fintech-paved-the-way-for-simple-investing/"
-    ampWebUrl: "https://techbullion.com/how-fintech-paved-the-way-for-simple-investing/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-paved-the-way-for-simple-investing/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/11/fintech-investing.png"
-        width: 900
-        height: 541
-        isCached: true
   - title: "The next wave of fintech evolution on the back of data, product and policy"
     excerpt: "The Indian financial ecosystem is witnessing a rapid and much-needed evolution, primarily led by the fintech industry. The growing prominence of Fintechs is due to their effective financial services,"
     publishedDateTime: 2021-11-24T12:47:00Z

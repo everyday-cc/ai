@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/news-ani/unesco-member
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
 type: article
 quality: 74
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -130,22 +130,6 @@ related:
       - url: "https://arynews.tv/wp-content/uploads/2019/03/artificial-intelligence.jpg"
         width: 750
         height: 369
-        isCached: true
-  - title: "UNESCO’s AI ethics framework — (Some) EU countries want AI bans for tech companies — UK benefits algorithm under fire"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2021-11-24T10:05:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/unescos-ai-ethics-framework-some-eu-countries-want-ai-bans-for-tech-companies-uk-benefits-algorithm-under-fire-2/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/unescos-ai-ethics-framework-some-eu-countries-want-ai-bans-for-tech-companies-uk-benefits-algorithm-under-fire-2/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/unescos-ai-ethics-framework-some-eu-countries-want-ai-bans-for-tech-companies-uk-benefits-algorithm-under-fire-2/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 51
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."

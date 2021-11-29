@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-11-03-uga-expert-discusses-robots-ai.md",
+      "title": "UGA expert discusses robots, AI",
+      "excerpt": "While AI in the home can help order groceries, AI on the battlefield offers a much riskier set of circumstances — team cohesion and trust can be a matter of life and death. “In the field for the Army,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/",
+      "originalUrl": "https://www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wgauradio.com/resizer/2V_kfnDTBWBflnPSaPnLY2fMFvE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7B7D27DCHRFI5AQKRLMPPSBUTM.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wgauradio-com.cdn.ampproject.org/c/s/www.wgauradio.com/news/local/uga-expert-discusses-robots-ai/MU6X6ZXVKNHXHOKLEFBVJEJLPA/?outputType=amp",
+      "publishedDateTime": "2021-11-03T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGAU",
+        "domain": "wgauradio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-global-artificial-intelligence-in-regtech-market-industry-insight-trends-size-share-analysed-from-top-countries-data-forecast-upto-2026.md",
       "title": "Global Artificial Intelligence In RegTech Market | Industry Insight, Trends, Size, Share | Analysed From Top Countries Data | Forecast upto 2026",
       "excerpt": "In 2021, “Artificial Intelligence In RegTech Market“ revenue was Million USD in 2016, grew to Million USD in 2021, and",
@@ -1113,49 +1156,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-facebook-does-an-about-face-on-facial-recognition-now-says-it-will-delete-your-face-data.md",
-      "title": "Facebook does an about-face on facial recognition, now says it will delete your face data",
-      "excerpt": "Under increased scrutiny for its use of certain biometric technology, the social media giant says it’s shutting down the system for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90692708/facebook-face-recognition-shutting-down",
-      "originalUrl": "https://www.fastcompany.com/90692708/facebook-face-recognition-shutting-down",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/11/p-1-facebook-makes-an-about-face-on-face-recognition.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

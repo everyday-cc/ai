@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-11-15-sbers-ai-journey-conference-tech-development-must-be-human-centric.md",
+      "title": "Sber’s AI Journey Conference: Tech development must be human-centric",
+      "excerpt": "Sber’s international online conference ” Artificial Intelligence Journey ” culminated in a discussion titled “AI Technology to Address Social Issues”, in which the President of the Russian Federation,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-vladimir-putin-russia-europe-4e5a09064d8d0d9f6b9b87282ba25ea7",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-vladimir-putin-russia-europe-4e5a09064d8d0d9f6b9b87282ba25ea7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-14T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-report-80-of-fintech-execs-worry-about-authentication-security-tools.md",
       "title": "Report: 80% of fintech execs worry about authentication security tools",
       "excerpt": "Legacy IT authentication security tools, such as one-time passwords, possess vulnerabilities capable of being exploited.",
@@ -1182,59 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera.md",
-      "title": "AWS and NVIDIA launch “Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs” on Coursera",
-      "excerpt": "AWS and NVIDIA are excited to announce the new&nbsp;Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs course. The course has four parts, and is designed to help machine learning (ML) enthusiasts quickly learn how to perform modern ML in the AWS Cloud. Sign up for the course today on&nbsp;Coursera.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-12T09:09:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2021-09-10-sony-csl-develops-ai-tool-to-help-musicians-generate-new-melodies-and-chords.md",
+      "title": "Sony CSL develops AI tool to help musicians generate new melodies and chords",
+      "excerpt": "When users press the compose button, the AI will generate eight-bar melodies according to the ... connection technology to provide electrical continuity between the pixel chip and the logic chip, and feature pixel size of 4.86 μm. These features enable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sony-csl-develops-ai-tool-to-help-musicians-generate-new-melodies-and-chords/",
+      "originalUrl": "https://www.zdnet.com/article/sony-csl-develops-ai-tool-to-help-musicians-generate-new-melodies-and-chords/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/09/10/3b282445-2a15-46d4-aad7-d4faef3e5c6d/flow-machineseye-2.png",
+          "width": 1201,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sony-csl-develops-ai-tool-to-help-musicians-generate-new-melodies-and-chords/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sony-csl-develops-ai-tool-to-help-musicians-generate-new-melodies-and-chords/",
+      "publishedDateTime": "2021-09-09T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-finally-a-robot-vacuum-with-ai-that-can-sniff-out-and-avoid-dog-poop.md",
       "title": "Finally! A robot vacuum with AI that can sniff out (and avoid) dog poop",
       "excerpt": "They’re finally going there…so to speak. In what may be the biggest boon to animal lovers since pet food in a can, rolling robot vacuum maker iRobot has come up with an AI-assisted way for its newest model to tell the difference between pet poop and regular floor clutter.",
@@ -1069,49 +1121,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates.md",
-      "title": "IBM Watson Assistant aims to expand contact center footprint with AI, automation updates",
-      "excerpt": "What is AI? Here's everything you need to know about artificial intelligence IBM also said that Watson Assistant can connect with most contact center platforms without code in as little as an hour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
-      "publishedDateTime": "2021-09-09T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

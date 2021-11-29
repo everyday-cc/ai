@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-10-26-tomahawk-robotics-wins-afwerx-sbir-211-direct-to-phase-ii-contract.md",
+      "title": "Tomahawk Robotics wins AFWERX SBIR 21.1 Direct to Phase II Contract",
+      "excerpt": "Implementing AI-enabled universal robotic control into the Base Defense Operations ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20211026fl52466/tomahawk-robotics-wins-afwerx-sbir-211-direct-to-phase-ii-contract",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20211026fl52466/tomahawk-robotics-wins-afwerx-sbir-211-direct-to-phase-ii-contract",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1670269/Tomahawk_Robotics.jpg",
+          "width": 320,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish.md",
       "title": "Facebook has language blind spots around the world that allow hate speech to flourish",
       "excerpt": "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English.",
@@ -1125,48 +1168,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-how-ai-could-solve-supply-chain-shortages-and-save-christmas.md",
-      "title": "How AI could solve supply chain shortages and save Christmas",
-      "excerpt": "Long live supply chains stress-tested with AI digital twins. With the supply-chain disruptions of the past two years showing no signs of easing anytime soon, businesses are turning to a new generation of AI-powered simulations called digital twins to help them get goods and services to customers on time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/",
-      "originalUrl": "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/10/digitaltwins-1.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas/amp/",
-      "publishedDateTime": "2021-10-26T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

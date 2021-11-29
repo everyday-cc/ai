@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-11-23-3-fintech-stocks-to-buy-on-any-dip.md",
-      "title": "3 Fintech Stocks To Buy on Any Dip",
-      "excerpt": "In light of this, fintech stocks should continue to see explosive growth in the post-pandemic world. Moreover, unlike the traditional financial industry, their asset-light structures could provide fintech stocks ample room to boost margins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
-      "originalUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
-      "publishedDateTime": "2021-11-23T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-23-chinas-ai-giant-sensetime-readies-hong-kong-ipo.md",
       "title": "China’s AI giant SenseTime readies Hong Kong IPO",
       "excerpt": "One of China’s biggest AI solution providers SenseTime is a step closer to its initial public offering. SenseTime has received regulatory approval to list on the Hong Kong Stock Exchange, according to media reports.",
@@ -1142,6 +1108,58 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities.md",
+      "title": "AI In Healthcare Presents Unique Challenges And Amazing Opportunities",
+      "excerpt": "Artificial intelligence is a hot topic in almost every industry right now, and healthcare is no exception. The big data revolution has transformed manufacturing supply chains, retail advertising and customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197aa507ff6dfc8338aedb0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

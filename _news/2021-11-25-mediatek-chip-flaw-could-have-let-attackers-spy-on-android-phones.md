@@ -89,22 +89,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Vulnerability in recent MediaTek chips could allow apps to eavesdrop on you, but it's been fixed"
-    excerpt: "Check Point Research has discovered a vulnerability in the AI and audio processing components for recent MediaTek chipsets, which could allow what is called a local privilege escalation attack from a third-party application."
-    publishedDateTime: 2021-11-24T11:00:00Z
-    webUrl: "https://www.androidpolice.com/mediatek-vulnerability-eavesdrop/"
-    ampWebUrl: "https://www.androidpolice.com/mediatek-vulnerability-eavesdrop/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/mediatek-vulnerability-eavesdrop/amp/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 46
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2016/01/nexus2cee_MediaTek-IC-close-up.jpg"
-        width: 5120
-        height: 3413
-        isCached: true
 
 secured: "8D/0LErCcrd/jEtCcHQcT7CDqVl9/U9txYX+pq/Kxuyx00lbrRvu39awnH1P6De3ljhygylccFFW/j6bUAoeI+enRLbiQbO6OiXzMKYl5S1AiurqXDKCmZiitZIeR+30aaShPVLReAUwjIDETXJqTUb7b+fRxb19rdySa/Lxn/zTYFm5Zp2DFmB/CBxVWyO2aTwOXl4LTflLjKr8zwFFqVLW+VGGhfAtnHAFg30TRs7f3H1Bofes0BhdPyBh6tD56hwZAPGKL9FsypaK/FSKODxaACCXCsE373ENqbsUSw4epM6b1SG0toT+inmYc1dOTLKLZMKYq46zyIkyc2XObb2xV62HfunOZ/ivITiF+9Wz/KcKCu63YAa+ask3VBDrYSZsao1uTVNBsI7jg42qqfa5WKMUy7fWwaR53EQhYE9/xNRlM+IgffHj9zWL2zo7o1DanA1GepVDoxI+jzlK1hdfLlDrExYhzzCzMozfJCId+bcIGVHTeVpJcRShOSUjkF1bGn69frbIkpe3honXbg==;iIlKbWvqF+xUKE3aV+QjFQ=="
 ---

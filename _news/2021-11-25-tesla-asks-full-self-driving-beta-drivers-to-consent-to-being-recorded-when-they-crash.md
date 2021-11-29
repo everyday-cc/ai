@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tesla’s Self-Driving Business Is Powering Ahead Despite Setbacks"
-    excerpt: "Tesla stock is up by almost 60% year-to-date, with its market cap crossing the rarefied $1 trillion mark recently. The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,"
-    publishedDateTime: 2021-11-24T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/"
-    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1170611911%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
     excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
     publishedDateTime: 2021-11-25T09:00:00Z

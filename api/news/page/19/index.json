@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-11-10-techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai.md",
+      "title": "TechCrunch+ roundup: Deep tech predictions, HashiCorp’s IPO, enterprise-wide AI",
+      "excerpt": "If you believe you have a good idea for a startup, go for it. When venture capitalists say this is a good time to be a founder, you know they absolutely mean it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/",
+      "originalUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-906726726-1.jpg?w=1024",
+          "width": 1024,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/techcrunch-roundup-deep-tech-predictions-hashicorps-ipo-enterprise-wide-ai/amp/",
+      "publishedDateTime": "2021-11-09T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-meta-to-halt-use-of-facial-recognition-technology-on-facebook.md",
       "title": "Meta to Halt Use of Facial Recognition Technology on Facebook",
       "excerpt": "Meta to Halt Use of Facial R Technology on Facebook It is still exploring ways to incorporate it into the metaverse",
@@ -1107,57 +1158,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter.md",
-      "title": "Peloton's $495 Guide Camera Uses AI to Help You Strength Train Smarter",
-      "excerpt": "The Peloton Guide uses machine learning and smart camera technology to track your movements, assess your form, and recommend classes focused on muscle groups you need to work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
-      "originalUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07F3bNYyH001RVJQnJLO1dl-1.1636390379.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pelotons-495-guide-camera-uses-ai-to-help-you-strength-train-smarter?amp=true",
-      "publishedDateTime": "2021-11-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

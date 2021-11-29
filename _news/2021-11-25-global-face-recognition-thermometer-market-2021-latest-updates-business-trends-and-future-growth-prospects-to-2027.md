@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market -Industry Analysis, Size, Share, Growth, Trends, Segmentation And Forecast 2021 To 2028"
+    excerpt: "New study report” Artificial Intelligence (AI) in Retail. Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30."
+    publishedDateTime: 2021-11-24T11:04:00Z
+    webUrl: "https://www.openpr.com/news/2473071/artificial-intelligence-ai-in-retail-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2473071/artificial-intelligence-ai-in-retail-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2473071/artificial-intelligence-ai-in-retail-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub24269998_g.jpg"
+        width: 800
+        height: 428
+        isCached: true
   - title: "Global Cloud AI in Fintech Market 2021 Ongoing Trend, Recent Developments, Competitive Landscape and Regional Forecast to 2027"
     excerpt: "Global Cloud AI in Fintech Market Growth (Status and Outlook) 2021-2027 is a fresh study released by MRInsights.biz, as it is gaining huge momentum all around the world. The study would act as a repository for all the shareholders involved in the Cloud AI in Fintech industry."
     publishedDateTime: 2021-11-24T21:05:00Z

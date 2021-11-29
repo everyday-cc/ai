@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
 type: article
 quality: 97
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s Self-Driving Business Is Powering Ahead Despite Setbacks"
-    excerpt: "Tesla stock is up by almost 60% year-to-date, with its market cap crossing the rarefied $1 trillion mark recently. The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,"
-    publishedDateTime: 2021-11-24T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/"
-    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/11/24/teslas-self-driving-business-is-powering-ahead-despite-setbacks/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1170611911%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tesla Asks Full Self-Driving Beta Drivers to Consent to Being Recorded When They Crash"
     excerpt: "Tesla's new requirement speaks to a larger issue around privacy trade-offs with certain types of in-car driver monitoring systems."
     publishedDateTime: 2021-11-24T20:55:00Z

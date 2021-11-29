@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-03-satya-nadellas-5-biggest-statements-at-microsoft-ignite-fall-2021.md",
+      "title": "Satya Nadella’s 5 Biggest Statements At Microsoft Ignite Fall 2021",
+      "excerpt": "During Microsoft Ignite fall 2021, Microsoft CEO Satya Nadella discussed innovations in AI, security, Teams collaboration and the metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/satya-nadella-s-5-biggest-statements-at-microsoft-ignite-fall-2021",
+      "originalUrl": "https://www.crn.com/news/cloud/satya-nadella-s-5-biggest-statements-at-microsoft-ignite-fall-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/026f-13a0c31d946d-9ff5a7297d32-1000/satya-ignite-fall-2021.jpg",
+          "width": 610,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-global-ai-powered-healthcare-solutions.md",
       "title": "Global AI-Powered Healthcare Solutions",
       "excerpt": "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the",
@@ -1358,58 +1401,6 @@
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-give-it-one-year-3-lessons-learned-from-my-azure-cloud-journey.md",
-      "title": "Give It One Year: 3 Lessons Learned From My Azure Cloud Journey",
-      "excerpt": "I received a Facebook memory that one year ago I passed my Azure Data Fundamentals exam. If you’d been following me you would know that it was an adventure to say the least (You can watch my proctored exam ‘experience’ video right here!",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/give-one-year-3-lessons-learned-from-my-azure-cloud-carla/",
-      "originalUrl": "https://www.linkedin.com/pulse/give-one-year-3-lessons-learned-from-my-azure-cloud-carla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHyhyMfZ6EeYg/article-cover_image-shrink_720_1280/0/1634833050036?e=1641427200&v=beta&t=9Aqee-cc8RE_nM2LjNW19vtBamcwn_xlOCmw3Kv4i8E",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

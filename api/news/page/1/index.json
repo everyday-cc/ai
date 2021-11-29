@@ -10,7 +10,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -495,21 +495,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-27-uae-launches-first-driverless-autonomous-vehicle.md",
-      "title": "UAE launches first driverless autonomous vehicle",
-      "excerpt": "The driverless and 100% electric shuttle is one of the first-ever autonomous vehicles to be deployed in the UAE in a ‘mixed traffic mode’, as it can drive on the road with other cars",
+      "path": "_news/2021-11-27-uae-launches-first-driverless-100-electric-vehicle.md",
+      "title": "UAE launches first driverless, 100% electric vehicle",
+      "excerpt": "The driverless and 100% electric shuttle is ... and Best Use of Automation categories at the prestigious 2021 Artificial Intelligence (AI) and Machine Learning Awards in the UK.",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/UAE_launches_first_driverless_autonomous_vehicle-WAM20211127065004189/",
-      "originalUrl": "https://www.zawya.com/mena/en/business/story/UAE_launches_first_driverless_autonomous_vehicle-WAM20211127065004189/",
+      "webUrl": "https://www.khaleejtimes.com/transport/uae-launches-first-driverless-100-electric-vehicle",
+      "originalUrl": "https://www.khaleejtimes.com/transport/uae-launches-first-driverless-100-electric-vehicle",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://images.zawya.com/images/cia/zAmp/210304070927YBEN.jpg",
+          "url": "https://image.khaleejtimes.com?uuid=8635f53b-190e-4061-a0bb-4452f7df472b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
           "width": 1200,
-          "height": 800,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -517,13 +517,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20211127065004189/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20211127065004189/",
-      "publishedDateTime": "2021-11-27T01:40:00-08:00",
+      "ampWebUrl": "https://www.khaleejtimes.com/transport/uae-launches-first-driverless-100-electric-vehicle?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-launches-first-driverless-100-electric-vehicle?amp=1",
+      "publishedDateTime": "2021-11-27T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -756,7 +756,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -894,7 +894,7 @@
       "originalUrl": "https://www.business-standard.com/article/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -925,58 +925,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-sensetime-ipo-could-help-hsbc-gain-recognition.md",
-      "title": "SenseTime IPO could help HSBC gain recognition",
-      "excerpt": "Some deals are about more than just the money. A successful market debut by artificial-intelligence dragon SenseTime could go a long way to uncovering interest in politically sensitive Chinese technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
-      "originalUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/utbCg0l0DmMO3OUyGVcONl7IFSI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B32INJZALNOGVNR2IBVU7OQ424.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T17:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1229,6 +1177,49 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt.md",
+      "title": "Kozhikode-based AI-driven healthcare start-up gets funding from Malta govt",
+      "excerpt": "Kozhikode: Kozhikode-based IT start-up Intpurple Technologies, which developed an Artificial Intelligence driven healthcare software, has received funding from the Government of Malta, the company said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "originalUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.mathrubhumi.com/polopoly_fs/1.6210998.1637839781!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "publishedDateTime": "2021-11-25T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mathrubhumi",
+        "domain": "mathrubhumi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],
