@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/uNoFn2TGWRakob6ppH3YLS-1200-80.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "NVIDIA showcases new GauGAN2 AI painting demo that turns simple words and phrases into scenic art in real time"
+    excerpt: "NVIDIA has officially revealed the latest version of the AI-based painting algorithm that was going wild a couple of years back then and now, the GauGAN2 is better than ever."
+    publishedDateTime: 2021-11-29T08:15:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-gaugan2-ai-painting-demo/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 17
+    images:
+      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/11/NVIDIA-GauGAN2.jpg"
+        width: 1278
+        height: 711
         isCached: true
 
 secured: "Kzi+BVc/wKrXcj6nvKysDiS50vTWiwAedasglFRrscHpvZgP9GCveCb8g1gSj8JKgWV0/FfkuBsmNDi4RhYnGQjjeLy0l6YGyxL3+pn7teZeVM4IeTyFk6jxPitMP0Nu9lEaMTSvJ35dtmHVp7hYHg1WF07aLHOypM8QkpHHn8vjI1xmmxLAS4GgANHzJFKbHUloBC9MAZGjuE2EtG8zz6vxfSRiVUG5kH/64gK1svrtcX+xfnITx93kVrImBQj7rDMShZipFO1t0Z0Ob20QhTg17p4F7Y6DJ9llkWTmmcJLAC/0hjAfsbbKdl7Uj1CJLhIdWMQbt9WGR3POnSEBeO2dd1I5m5hQMWQsdriQnJ4=;Z3Ixmx4lqTvSd0V0anO8Lw=="

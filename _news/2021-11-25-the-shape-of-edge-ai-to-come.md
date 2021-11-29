@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://elclasificado.com/photos/cd/18/cd1898064dc84653b7db795892432ac5/l.jpg?image=0"
         width: 720
         height: 405
+        isCached: true
+  - title: "It is crucial for children to gain knowledge of AI: Mehreen Shamim, Intel’s AI Impact Shapers Awardee"
+    excerpt: "In an exclusive interview with AIM, Mehreen Shamim, she shared the importance of building an ecosystem of AI learning"
+    publishedDateTime: 2021-11-29T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/it-is-crucial-for-children-to-gain-knowledge-of-ai-mehreen-shamim-intels-ai-impact-shapers-awardee/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 22
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/m-banner_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "rmSV6AiZPF5Lj3fSSqLkJdxzm25ib8ulLELLAHjX5hfFyyRAheKeSy7ySKRQcxltQN383LVoONnhMrfkvisC5vsHBhjDPKbyiOBb9DURnuYMgsfmZMOzrNljuvbuabj1pYX+eGOFn8snp54Z5h5D8VT4ChvAbZYcORYNaJ5vDqQMk9xkXDhjHPBt65nGQaJ4RCSXVFjCCnxMwz7wv7RWyNzB8ZKYFZBaXzPUvHbHkOntw6Qx/hqD7tQTeyGVuAEOU9YHozLUbU4Lbn0DLv2UwYUkdZ4QVpLhR0gf1MBjYJScCBGdgUHDAFhht/q8UfF0A6U2OzYdJeEtYWy0YC+5fMvZrHJypa0xKFPOWMkHXweTkIDm2rE9FMrOrPl7jLfkycAPxmR+e8XeibknbtdHu9nlbC64FohfM5dGFnSMWrh2uKGmx+w/rnkmZlFwWDghA1W26We3kq6dEsD3oh+IAQDjD6jKLLUlcUAo6W8nN6LcJ92JFX8g2TCladRMBpC1YCzzdDDlaGpRbqVN5kAtaQ==;0VIyklV/Nx3RgPL3Yn3hzg=="

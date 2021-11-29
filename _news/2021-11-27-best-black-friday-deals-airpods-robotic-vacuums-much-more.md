@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The Best Amazon Black Friday Deals 2021: TVs, Headphones, Robot Vacuums & More"
-    excerpt: "Amazon's early Black Friday deals are already live. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more."
-    publishedDateTime: 2021-11-24T15:49:00Z
-    webUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/"
-    ampWebUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/amp/"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-wednesday/amp/"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 85
-    images:
-      - url: "https://cdn.thewirecutter.com/wp-content/media/2021/11/amazondeals-2048px-3x2-v1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The 100+ Best Amazon Black Friday Deals 2021"
     excerpt: "Amazon's early Black Friday deals are already live for 2021. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more."
     publishedDateTime: 2021-11-25T13:21:00Z

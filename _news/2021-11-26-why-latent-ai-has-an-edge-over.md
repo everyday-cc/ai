@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "It is crucial for children to gain knowledge of AI: Mehreen Shamim, Intel’s AI Impact Shapers Awardee"
+    excerpt: "In an exclusive interview with AIM, Mehreen Shamim, she shared the importance of building an ecosystem of AI learning"
+    publishedDateTime: 2021-11-29T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/it-is-crucial-for-children-to-gain-knowledge-of-ai-mehreen-shamim-intels-ai-impact-shapers-awardee/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 22
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/m-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "dqcsZGlWeoLEBzTH3iehK2ZJY0SrjeIHAjt+hK8F3pT17FK2D3tWeUzMwZN6lF37hGp7ZCbxkIyjsowLGGxGfnzGyLO3NW6jkpA8tltR/L9J0ezRFj5tJK2UYZMjRD2Z256hWj8KvnNwCKAAGSFOMvWue8ADjRZSywuKSx9zcQlhX2g0XOZDDfoKyMXS8Sckm7kZbYt3xbGMpemHHRZ8RzoOcaPrLaISip563KETvkVufXd66go5OQE7K30HMYM204Sk9Qfl9GSdUoi5E8NSsyYwdqiD9dkqzn6qAt+/U/DUAFdI+naaATLd0yRjwGbsF0vAOhV/aWbz6qvpljdUA6doMClEyqnPHstnFBa7GJvtXqbNtWYzBL6/LZAmGpe5xgLglwDKvFcbNuwztCoszMG4JT3ug6KQmoAoU3a60pBdBvxEq4w1O9UN6IIua7W2eqTGFVSI2B3p6KtiZg7IvC4a7sbpobRFkFl2+ImifWhK8mYI/9I8ghU215SjPgXZ46bc7f0VEtON6YKlOoxqpg==;LalUSBk2eYlbIjsNySmv+w=="
 ---

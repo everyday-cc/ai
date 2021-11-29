@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "4 FinTech firms providing collateral free loans to women entrepreneurs"
+    excerpt: "FinTech companies have bridged this gap by specifically offering financial assistance to women, in the form of loans. Several"
+    publishedDateTime: 2021-11-29T08:11:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-firms-providing-collateral-free-loans-to-women-entrepreneurs/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Crossfin Tech being acquired for R1.5 billion, one of the largest private equity-led deals in the local fintech sector"
     excerpt: "Crossfin Technology Holdings, a leading fintech company, is being acquired for R1.5 billion by a consortium led by Ethos’ Mid-Market Fund I (EMMF) and which includes Crossfin’s founding management team,"
     publishedDateTime: 2021-11-25T06:07:00Z
@@ -86,6 +100,6 @@ related:
         height: 1406
         isCached: true
 
-secured: "OiaP301E520Ef9oOt+idfnd49EkAFaB0KhrMsF5oeEqG+V/G2mgPByVg2NAvxUtFpjmZenM0pQftpP0ndA6mskythBoPlXEz9rPlvYh9qp6Wk5FDmujFrha1WZQNzwhgbZihVGo5t3Um+fRBQFl3SqGIlwuk/oFGsO5s/IXNoKuy+avYYmUGf/cbfYvHAqZPZgIjVMEBWLAM7TVo7R/HBCsm+xSYMElsb5ewIkB2NFlYCRIjwP0KzyANr+viDLf38uREFOTcWa9RBfsMf3XPZ9FTydpXqlZTzBj4OODDU79QxY65RvIZSFmvKJpV2tqTqw9UXXbzINeeB2x+IMuZiZ+Mm7tIAX4//vzymaX4ynk=;7KMisQm7oEoZPzSdNtwxsg=="
+secured: "aHdYZ4bIwR5DQkQAOpdCG1AqU9tpN0oHnxY3G9pQSwmmOirhK1PtDRQbAPYkJTF9Pt0yKWW3M251FLOUMipNuLpksl2Q1ig/JQHkiN5HubhQ5+/gtrq5psttiLGzLB7I4QWiamiGM/l3Rcpjt6XjjklSw7lrRQ+xVCHdlfvz7j3yUIP9D1qM+932/jrr31C9rBzoR1mP8xPD2tDzdVqwzm3mJLB8rUfMk/J8izCD2M43wUM41oPy4a+IlBmXF4yOHh0s4nuIrgDVsFHTnWzqc+sKnuC0eYR85DzpGKmQfVgibKvdPEjbkgGx1AB0V5dRwhH7E+8+trh2pgAumbeYDB2h+JbSstRNSAluI5liJLtLy+R+c+BMUr1zQ0AKDYuBmWQnLXxbbyvcQZvZatrPF4h8glQN99itcqB7f7vqJisZaajOk5WQt9siAl/3iXMtWfvuc+VzE3kFsxWcZT+RZbJAsgCwzo7+PfTakSU+wMR4rlm3FUNr0zarRmgrnSvAn4X52uz/i/jTp9Lm4QvPiQ==;jjTlkd8dvCYLLIaTmBFFPA=="
 ---
 

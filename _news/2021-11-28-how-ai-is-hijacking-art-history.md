@@ -40,6 +40,20 @@ related:
         width: 959
         height: 639
         isCached: true
+  - title: "Is Data-First AI the Next Big Thing?"
+    excerpt: "We are roughly a decade removed from the beginnings of the modern machine learning (ML) platform, inspired largely by the growing ecosystem of open-source"
+    publishedDateTime: 2021-11-29T08:15:00Z
+    webUrl: "https://www.datanami.com/2021/11/29/is-data-first-ai-the-next-big-thing/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/ml-circle_500px.png"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "I9JVXPSX4+n9nQBSxBfoK3YonIhSjzvEq0y4PrmmEbE1kdXPqUH4ts8G8bgNOXdDGqtARRveIw/9YLNl70WWQRascH9+Hb2qftB+X19ngYBeIibtQ3wx67jAztBAbicjpISoi6iIDOukqWphuUZFR9dEdjxBB3X7J+f0C+Ox5QBFp4wE2rG8gq5Y7+Fp9ojsXanqpe+nj5lswk5a7n5vpk0/7ukE3iluyQ7+d+mrKB/xEpmCx/6FmRvbyJKISxCLGUMii3GE2P1cwf5uG4fsbbW9kHjoeHeg0OIGOvLK8Bf21sZOvffh8XcJx6ZRf0HyiD8lc7WXDRZsA++asklLBD7sC0FAhdjRc6Ucbs1yI06NVLK3l1N4DoFviGteLolIZHML30ColkL5iiafaonX/f3A3ZGLKIxAspewW3sRh7GotpGQjNyAZAJAh+arzNsVc0Y4BTPemtZ7Iq05DiR9NcCIwL4R6K5O4b42cNBVSKPlJ8GetveTy0j0erXfR52CBexVkGUYTVQW7bXkrZ+Fsg==;i4OXzS5XkaxSMn6k2veO6Q=="
 ---

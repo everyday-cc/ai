@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "NVIDIA showcases new GauGAN2 AI painting demo that turns simple words and phrases into scenic art in real time"
+    excerpt: "NVIDIA has officially revealed the latest version of the AI-based painting algorithm that was going wild a couple of years back then and now, the GauGAN2 is better than ever."
+    publishedDateTime: 2021-11-29T08:15:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-gaugan2-ai-painting-demo/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 17
+    images:
+      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2021/11/NVIDIA-GauGAN2.jpg"
+        width: 1278
+        height: 711
+        isCached: true
 
 secured: "Qdvq0tVsKo+ntYzU6pihpEvg1TRYTWgpuuE4QS/erKkr7KFh/jt8WIChFwCAxIolCq64AUNdio26oGv45S5YOh4fow7fz2EnNuWveKSasx9wrVuAWBNNjdY4G4TvgH0nuO2a+M4hGxQjgmhR0AHMYg3DL+kwGQ3EdBSNg+7Ef+0tueUvk1QcR8U82x6i5WCmKYlOM6jh7TooX18B25UTojCmDzE7zHiQsBV0E4tTVMRkd/6Y/4R8gerChxMR6hOrFNJQ9kXBvnbf2GHHy7TF/KU/Whgso0+0esfpg8ff0xEIBXn3rC8Hol/1OlVUE3hPUQaz/wf6oEG1B0rGSpPdOo8OTTHCAy965iZRKyprz0s=;nGYjIcQKI21n/U+bUzBG0g=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence Ethics Agreement adopted by 193 countries"
 excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
 publishedDateTime: 2021-11-26T07:09:00Z
-originalUrl: "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d"
-webUrl: "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d"
+originalUrl: "https://www.bna.bh/en/National/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d"
+webUrl: "https://www.bna.bh/en/National/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d"
 type: article
-quality: 58
+quality: 56
 heat: -1
 published: false
 
@@ -18,7 +18,6 @@ topics:
   - AI in Autos
   - AI
   - AI Ethics
-  - AI in Healthcare
 
 images:
   - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg"
@@ -42,6 +41,6 @@ related:
         height: 700
         isCached: true
 
-secured: "6EvC2HHQFfL5SrSsSp4zuD8OdAtLW3C3BI5KJiWKjpZ3292Z+eVWnM0cGlewEbSvB1RFPYTFDHGeoGwMvs/7sGTmJKOhXL6Badh5yNmt5nRjYJdP+mSfS5Ig+I6q5oU6VZWLBIKdEmQoP+a/dwzigIogp/52SK6arjQlYg0RIwHPXSOlasl34kJV6q0WI+gmhSsRFNaeyA2VXodwJuKyeARH6NcrQ4Zy5A/m6Kty96hYRCMa17MTkuzQjuHL0JwYSyCkiI/J0lyCgbJVGcXIWcdxvGWL4+AvOYax8OHbVLKs5IHt4bQftkXAVVgSkIjctXZow0hx6A1ol2KgnNz7nJMqAMtdnEWKMnSD7L25xT0=;52NQRSRFMVSp3cf5+9VLyw=="
+secured: "jEqtKLKzp65Bl+Nu1Yq8cvCTYMpa9qnHZGTf76opIJ9vutOeV539XWUtQ8MS7/HuCwXRyCC/PXdI4oiYS3xcYQVKl/qV/9AjBUpENGjA+4h2OlmWFwP9AGzmiWk4Ebl6Z5Kt4tse9ob49Sf02Cxyhwv5bHOYcAyGKKwjWL4qEKYOjZ1Bi6Y5mIMMiXlovwUOPhkfF2IQ6kFj0WgRoZRZvTDsYQiSEsKw6xDjC+r7eQLC5O3JEim1Y+whSyEkgu620gN5R0YWVppNEX7u2SJxteF2ZMsbMYtUvX7USF9iIdjxg+9HFgy2/UJwwWpuNVMM1SyiFlbUVPj++nzsjWsbZgHuIhnG5DsEKUGjxUJKUrc=;Vew7Fg0p9p6w2AciLwOhmw=="
 ---
 

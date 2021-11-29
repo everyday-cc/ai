@@ -76,20 +76,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "MediaTek Chip Flaw Could Have Let Attackers Spy on Android Phones"
-    excerpt: "MediaTek systems-on-a-chip are embedded in more than one-third of smartphones and IoT devices around the world."
-    publishedDateTime: 2021-11-24T17:00:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/mediatek-chip-flaw-could-have-let-attackers-spy-on-android-phones"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://beta.darkreading.com/images/og-image.jpg"
-        width: 342
-        height: 342
-        isCached: true
 
 secured: "BOZtegaidxyjXg511HBHZs6mDiwBQBeJDtYr3Uz4EYIpXCN2zDNnoCFxvNOoWyNpkHKjruaW8skazfmUSohrw5WSdfplTZamJkYybNeCjvAMf7mfqAVRT/xRAK0JGqZJ+Lwk0wsSJieMKVGoikOakLE0xSbrh9tAKjAxz22CXr8/2WKC+p0jHUqVPGaA6J3XnLQtoLwaGIEfnuTr0z198SYQbs/pJd0epv7DVctOig93yOrofQHBRE2AqvoD1dxae9RJcMeuVaie2/PEmlXV6SbBSLrvj5wUhFpwpS7MGlkV025jnMxjgszQ4/m2A6+z0HN+mMmFv8prA3jcNqNq0pKgkOynWZtRHpxNnNznrkE=;t6LGQ6+dyx+R9Pdu8vy9Ow=="
 ---

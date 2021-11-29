@@ -57,20 +57,6 @@ related:
         width: 650
         height: 650
         isCached: true
-  - title: "Tesla Tells Full Self-Driving Beta Testers To Accept They’ll Be Recorded"
-    excerpt: "Tesla is telling Full Self-Driving beta testers that they'll have to accept the condition that they'll be recorded. Here are the details on this."
-    publishedDateTime: 2021-11-24T16:49:00Z
-    webUrl: "https://www.redmondpie.com/tesla-tells-full-self-driving-beta-testers-to-accept-theyll-be-recorded/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 38
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "T4Vj2cl6dzpJB5AR88wi3VufikI3MefQ7Lw20fMIBKsk00TKqL9Obf0pON15vLqMBrytf1t+m1L7sjKtFxN1jwh93XWb3yNXjz8aB6+z7s1awUWzAAQyhCf9jkNAyXpWdRDZ6BtyOMd7X0DmrN2BH+YQLs8KENChCbGf1RyzhBCU9ncUcBNqNw+035ZGE4annqvsYtoCkB5qDFOaSyf8etpeWLRkYCrSirskZcuHRi6E8DKFfirlPQGNUv9bmg22QXMODXxfdNzGphHDFO7qVOj719cWtTVxcYuJjSWw2mgg6Ap2UqpPu5IsiFaTCyQpem4QCfkdYuoZHxGz0AHbFMfD0BmpYRLhCLOX9V2vT1o=;TzEef1GO6EDvINqK4grS9A=="
 ---

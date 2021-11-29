@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Will Our Ethical Choices Be Determined by Self-Driving Cars?"
-    excerpt: "Artificial intelligence (AI) is already making decisions in the fields of business, health care and manufacturing. But AI algorithms"
-    publishedDateTime: 2021-11-24T17:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/"
-    ampWebUrl: "https://www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/11/how-will-our-ethical-choices-be-determined-by-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 61
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/11/25/GettyImages-986605878-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apple’s self-driving car coming in 2025: Report"
     excerpt: "Whether Apple can launch the Apple Car in four years depends on how successful it is in developing self-driving technology."
     publishedDateTime: 2021-11-25T07:38:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://img.philkotse.com/2021/11/25/kdtzClWN/untitled-design-2021-11-25t145918-649-6596_wm.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Want a self-driving car? Better not rush"
-    excerpt: "Would it not be almost perfect after the day’s labor, or a night of fun, to just board your FSD (full self-driving) car, push a button and your computerized chariot takes you home while you nap at the back?"
-    publishedDateTime: 2021-11-24T16:00:00Z
-    webUrl: "https://www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush"
-    ampWebUrl: "https://www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush/amp/"
-    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/opinion/2021/11/25/2143599/want-self-driving-car-better-not-rush/amp/"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 44
-    images:
-      - url: "https://media.philstar.com/photos/2021/11/23/madam-tussauds-hk-pacman-1_2021-11-23_16-00-35959_thumbnail.jpg"
-        width: 686
-        height: 392
         isCached: true
   - title: "The legal challenges of self-driving cars"
     excerpt: "The Department of Transport recently announced its intention to allow Automated Lane-Keeping Systems (ALKS) to be used on British roads by the end of 2021."

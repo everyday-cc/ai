@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-con
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913/amp"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "http://feeds.bangshowbiz.com/i.php?k=aW1hZ2VzMS8yMDIwLzA3LzEwLzAwNzkzNjQwMDE1OTQzODIzMTctMTM1LmpwZyY2NTAmNjUw"
         width: 650
         height: 650
-        isCached: true
-  - title: "Tesla Tells Full Self-Driving Beta Testers To Accept They’ll Be Recorded"
-    excerpt: "Tesla is telling Full Self-Driving beta testers that they'll have to accept the condition that they'll be recorded. Here are the details on this."
-    publishedDateTime: 2021-11-24T16:49:00Z
-    webUrl: "https://www.redmondpie.com/tesla-tells-full-self-driving-beta-testers-to-accept-theyll-be-recorded/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 38
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/07/tesla-fsd-1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "QSt7BF2XrGftT/L4I1QM09XwQOqA85uy8FD7ACmivZZZ1R1MXTh+fr5sBBvRMXZi8WbbOJe9l1CQvVlQbdsKcFpZAtmsUnEG/SlZxl6VUz13GIZN65Ejo6kQeBIKldomrIzhQ7gVQUgmSm/IFa7gvwB/vLBCeYzZxrt39WJWHomwcKnzIDbM+Z4HGQm1JKVH+5tpxkb3iFRRsQXH48TwZEQL8QbacM0xPMkmLaHUjWerxcnkgu+gH2j+sUU03Ge3WV7gyOwSAod+Dv/E5UJTrUxXg3PvKfJYuLIxMhnQ7csnx/1BMX1rVgqp9AvuDtYqPZVTd6rLR04M6UxTZDec6zas9iGvQpqISzY9FBn7bM0GLiaxa7CXSCpmyPFFiKWqyBE1MEbGj4F5FKX/PnhTbmMaTc7RBzPyiEdL7WPDc23x8sax1rfw5VBGPU9BeNwvzYadIulQedmNzCC9opvHiINYfpzdZ5B57VWk3XOttktywl6NAXB4Vc6SrELHRIlg7Lg+XAmRlS0KsNOcTiqXyw==;RpDYVQDPOwV1NMEOyRwsbA=="
