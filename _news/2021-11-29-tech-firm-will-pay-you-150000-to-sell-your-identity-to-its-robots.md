@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 82
 published: true
 
 provider:
@@ -58,6 +58,6 @@ related:
         height: 382
         isCached: true
 
-secured: "mynX+Zw4cd38JERAjSnNE0Npy1u7Kw4uhirFxbzzRQdNm/T+qDifIVmPfEd+S0F6jVmt3gTXxudQ9iFd7UM9jhenvCXMS79o/hYkYLqij3yWpiBlml4/LOEPc1wIqvh8YxC1IkCybH+XnZn7VoUOxLd/fJkIfW+YuxOSsl5Q8RrE681tIzBlvJPjbuQgkBQgO31xGdKGxgLe/H6h6mRWQy4AXmaHCRyFT927fLkDZd33iFCuXNl/X56wmt03k+H+us2O4EOJCEOmZOrGA8cb/gorqYsbpac0valQyl0L4jRcF8H2siuZTKHn7bIqDBUBG1E05n/G+U2je0de4PE02Z+sDJRC9zbHakNZehMU4oo=;cXBBOelhCuPNziUfcd+BXg=="
+secured: "oNhbsmMDm9RCquKto9EjhZb+2vMFMhOHxcWdHDveevMYXDNFf1gWsQq37guJaqGbzPnD6O9k8AAAOMMCe34YLyBrPOK0T8wq6Okv8FjOJyOj5yfzbqPTJOqELXXAL0YFxG4jniixpn7uwU/RFelm3w4WixvnDY0eZFwGj9S4D0ezmEl7wUEyumyye3SE2y3ioykYv0xlJ8Zp02yohQq5ZOeqNEtjQrUMfVMMHz0o+Q55+ka5c6+0wX2gzNxwl3bQAqpJ3wsxwZPj03Z0eZf51xKfuc3QC9zjCCBQdzxl0FvWbGNS5GUxEgDKVS6BdrmzgHKKE5lOGj1i2L35zYSTrEkJ4uhymo7w+4OUOmYnZidVKTrFPtdgz6aPmaTd/k13d9LwfYCgClEb6CISYL+WGRgkRMjdNCwZdYorLbMZ8Y7hnM/IgDJngYlHdEjOhlxcGCnq4PEl4GaIQL/Yrksqt17C3/4n3vz8ME3gFp7rfRDQlg5tAtSu6XqAIHD69+WtLuyu2og+1Ron038HW97DaQ==;f/alKAb+oRY9TtKXcOi/Tw=="
 ---
 

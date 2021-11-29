@@ -146,6 +146,20 @@ related:
         width: 750
         height: 369
         isCached: true
+  - title: "193 Countries Adopt First-Ever Global Agreement on the Ethics of Artificial Intelligence"
+    excerpt: "One of its main calls is to protect data, going beyond what tech firms and governments are doing to guarantee individuals more protection by ensuring transparency, agency and control over their personal data."
+    publishedDateTime: 2021-11-29T13:42:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/193-countries-adopt-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 49
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-1.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "UAE - 193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
     excerpt: "( MENAFN - Emirates News Agency (WAM)) NEW YORK, 26th November, 2021 (WAM) -- All the nations members of the UN Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of AI."
     publishedDateTime: 2021-11-26T09:39:00Z

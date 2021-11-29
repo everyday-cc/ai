@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Diginomica
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "In-Person AWS re:Invent 2021 is Back!"
+    excerpt: "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly."
+    publishedDateTime: 2021-11-29T13:23:00Z
+    webUrl: "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back"
+    ampWebUrl: "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp"
+    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 59
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png"
+        width: 781
+        height: 300
+        isCached: true
   - title: "What To Expect From AWS re:Invent 2021 Event?"
     excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."
     publishedDateTime: 2021-11-27T12:30:00Z

@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
-      "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
-      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,",
+      "path": "_news/2021-11-23-transcription-firm-verbit-raises-250m-doubling-valuation-to-2b.md",
+      "title": "Transcription firm Verbit raises $250m, doubling valuation to $2b",
+      "excerpt": "Israeli firm Verbit, a hybrid AI-based and human transcription and captioning software company, said on Tuesday that it secured $250 million in Series E funding, just some six months after raising $150 million at a valuation of $1 billion and marking its entry into the “unicorn” club.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
+      "webUrl": "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/",
+      "originalUrl": "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 197,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://static.timesofisrael.com/www/uploads/2021/06/Verbit-Compnay-Photo-by-Eric-Sultan-3-e1623147226939-640x400.jpg",
+          "width": 640,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T06:02:00-08:00",
+      "ampWebUrl": "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/amp/",
+      "publishedDateTime": "2021-11-23T07:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,101 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-globally-awarded-ai-startup-receives-usd-14-million-in-seed-funding.md",
+      "title": "Globally Awarded AI Startup Receives USD 1.4 Million In Seed Funding",
+      "excerpt": "Globally awarded Croatian AI startup Mindsmiths received USD 1.4 million in seed funding from Feelsgood investment fund which supports companies with proven positive social impact. Mindsmiths will use this investment to further develop and expand its autonomous support system (ASS) platform with a proven social impact record.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-1030998098",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-1030998098",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1693334/1103802_image.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-artificial-intelligence-powers-protein-folding-predictions.md",
+      "title": "Artificial intelligence powers protein-folding predictions",
+      "excerpt": "The buzz over the November 2020 debut of AlphaFold2, Google DeepMind’s artificial-intelligence (AI) system for predicting the 3D structure of proteins, has only intensified since the tool was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-021-03499-y",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-03499-y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-03499-y/d41586-021-03499-y_19875776.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -150,6 +242,41 @@
       ]
     },
     {
+      "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
+      "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
+      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html",
+      "originalUrl": "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kentucky New Era",
+        "domain": "kentuckynewera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-target-is-poaching-engineers-from-amazon-in-order-to-leapfrog-amazon-go-technology-heres-what-we-know.md",
       "title": "Target is poaching engineers from Amazon in order to 'leapfrog' Amazon Go technology. Here's what we know.",
       "excerpt": "Target wants to take on Amazon and Amazon Go by building out its own network of high-tech stores and warehouses.",
@@ -179,7 +306,16 @@
       "provider": {
         "name": "businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
         "domain": "businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11",
-        "images": null,
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1049,118 +1185,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-global-cognitive-informatics-market-research-report-2021-2026-healthcare-and-biomedicine-industry-will-lead-to-the-adoption-of-cognitive-service.md",
-      "title": "Global Cognitive Informatics Market Research Report 2021-2026 - Healthcare and Biomedicine Industry Will Lead to the Adoption of Cognitive Service",
-      "excerpt": "The enterprise sector will have the highest adoption of cognitive applications and services The global market will reach USD $32.6B by 2026, growing at 40.3% CAGR from 2021 to 2026 Key Topics Covered",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-cognitive-informatics-market-research-report-2021-2026---healthcare-and-biomedicine-industry-will/article_020d68e3-112f-58a3-be68-586c8c267b2c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-cognitive-informatics-market-research-report-2021-2026---healthcare-and-biomedicine-industry-will/article_020d68e3-112f-58a3-be68-586c8c267b2c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-new-deep-learning-method-adds-301-planets-to-keplers-total-count.md",
-      "title": "New deep learning method adds 301 planets to Kepler's total count",
-      "excerpt": "Scientists recently added a whopping 301 newly validated exoplanets to the total exoplanet tally. The throng of planets is the latest to join the 4,569 already validated planets orbiting a multitude of distant stars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpl.nasa.gov/news/new-deep-learning-method-adds-301-planets-to-keplers-total-count",
-      "originalUrl": "https://phys.org/news/2021-11-deep-method-planets-kepler-total.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-the-retail-robot-battle-continues.md",
-      "title": "The Retail Robot Battle Continues",
-      "excerpt": "In this second installment of a four-part series, Georges Mirza looks at the robots powering Schnucks and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
-      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-11/background/400x600/Robotsshutterstock_0.jpg?VersionId=8789rnVJ8sKdSKhNKYay7TUlYg5eHrO.",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
-      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
-      "publishedDateTime": "2021-11-22T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Winsight Grocery Business",
-        "domain": "winsightgrocerybusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,323 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-10-12-germany-unveils-first-self-driving-train.md",
+      "title": "Germany unveils first self-driving train",
+      "excerpt": "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world’s first automated, driverless train in the city of Hamburg, billing it as more punctual and energy ...",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/germany-unveils-first-self-driving-train/",
+      "originalUrl": "https://punchng.com/germany-unveils-first-self-driving-train/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2021/10/11192045/Self-driving-train.jpg",
+          "width": 750,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/germany-unveils-first-self-driving-train/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/germany-unveils-first-self-driving-train/?amp",
+      "publishedDateTime": "2021-10-11T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-biden-administration-says-we-need-a-bill-of-rights-for-ai.md",
+      "title": "Biden administration says we need a Bill of Rights for AI",
+      "excerpt": "The Biden administration is aware of the impact these evolving technologies are having. In fact, in a recent op-ed published in Wired, the White House made mention of those examples and more while calling for a \"Bill of Rights for AI.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/biden-ai-bill-of-rights",
+      "originalUrl": "https://mashable.com/article/biden-ai-bill-of-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06bIkOwEwXcX6Cpw8wlqnKa/hero-image.fill.size_1200x675.v1633976109.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud.md",
+      "title": "An artificial intelligence ecosystem isn't necessarily all cloud",
+      "excerpt": "A call for greater enterprise architecture in building AI ecosystems, leveraging both cloud and on-premises systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
+      "originalUrl": "https://www.zdnet.com/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb4ba6c2233102b81d58df1794507788cee886fa/2021/10/11/3ff2cb35-671b-4587-b278-d39ea185ec1c/path-station-people-train-station-path-october-2016-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
+      "publishedDateTime": "2021-10-11T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-kiromic-biopharma-announces-strategic-collaboration-with-gemelli-teaching-hospital-to-accelerate-the-analysis-of-allogeneic-car-t-clinical-trial.md",
+      "title": "Kiromic BioPharma Announces Strategic Collaboration with Gemelli Teaching Hospital to Accelerate the Analysis of Allogeneic CAR-T Clinical Trial Candidate Alexis ISO-1 in Solid ...",
+      "excerpt": "Alexis ISO-1 is Company’s First Artificial Intelligence-identified, Gamma Delta T Cell Engineered Iso-Mesothelin Candidate to Address Solid Tumor Cancers HOUSTON-- ( BUSINESS WIRE )--Kiromic BioPharma,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211011005172/en/Kiromic-BioPharma-Announces-Strategic-Collaboration-with-Gemelli-Teaching-Hospital-to-Accelerate-the-Analysis-of-Allogeneic-CAR-T-Clinical-Trial-Candidate-Alexis-ISO-1-in-Solid-Cancers",
+      "originalUrl": "https://www.businesswire.com/news/home/20211011005172/en/Kiromic-BioPharma-Announces-Strategic-Collaboration-with-Gemelli-Teaching-Hospital-to-Accelerate-the-Analysis-of-Allogeneic-CAR-T-Clinical-Trial-Candidate-Alexis-ISO-1-in-Solid-Cancers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-microsoft-taps-ai-techniques-to-bring-translator-to-100-languages.md",
+      "title": "Microsoft taps AI techniques to bring Translator to 100 languages",
+      "excerpt": "Microsoft says it's using AI techniques to improve the quality of language translations across its services, including Translator.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
+      "originalUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 356,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/",
+      "publishedDateTime": "2021-10-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-china-has-won-ai-battle-with-us-pentagons-ex-software-chief.md",
+      "title": "China has won AI battle with US: Pentagon's ex-software chief",
+      "excerpt": "Pentagon's former software chief Nicolas Chaillan has said that China has won the artificial intelligence battle with the US. Chaillan added that China, the world's second-largest economy, is set to dominate the future of the world,",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562",
+      "originalUrl": "https://inshorts.com/en/news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/11_mon/img_1633964411381_404.jpg?",
+          "width": 728,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562",
+      "publishedDateTime": "2021-10-11T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains.md",
+      "title": "AI May Have A Thing Or Two To Learn From Our Imperfect Brains",
+      "excerpt": "By making neural nets imperfect, just like our brains, researchers show that AI can learn faster and more robustly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/",
+      "originalUrl": "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615f0727aaf1ba4f05fea398%2F0x0.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/amp/",
+      "publishedDateTime": "2021-10-11T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-amazon-awss-ai-team-seeks-the-profound-in-the-industrial.md",
       "title": "Amazon AWS's AI team seeks the profound in the industrial",
       "excerpt": "In what's called \"Graceful AI,\" Amazon AWS AI lead Stephan Soatto and colleagues work to solve industrial problems that in turn may produce new insights into the fundamentals of deep learning and information theory.",
@@ -857,336 +1174,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-harness-your-data-to-make-weak-ai-your-strength.md",
-      "title": "Harness your data to make weak AI your strength",
-      "excerpt": "\"Weak AI” is delegating to  computer systems tasks handled by people provided the scope of data provided is sufficient to recognize patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/harness-your-data-to-make-weak-ai-your-strength/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/harness-your-data-to-make-weak-ai-your-strength/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/harness-your-data-to-make-weak-ai-your-strength/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/harness-your-data-to-make-weak-ai-your-strength/amp/",
-      "publishedDateTime": "2021-10-11T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-tesla-officially-starts-its-wider-release-of-full-self-driving-beta-in-the-us.md",
-      "title": "Tesla officially starts its ‘wider release’ of Full Self-Driving Beta in the US",
-      "excerpt": "Tesla has officially started its ‘wider release’ of Full Self-Driving Beta in the US, which consists of slowly allowing more owners to download based on their ‘safety score’. Tesla Full Self-Driving Beta Tesla’s Full Self-Driving Beta (FSD) enables Tesla vehicles to virtually drive themselves both on highways and city streets by simply entering a location",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
-      "originalUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/",
-      "publishedDateTime": "2021-10-11T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ai-doesnt-explain-itself-machine-learning-has-a-deus-ex-machina-problem.md",
-      "title": "AI doesn't explain itself - machine learning has a \"Deus ex Machina\" problem",
-      "excerpt": "Too often, AI vendors tell us - \"Machine learning handles that.\" So what exactly does that mean? Vendors are making what I call Deux es Machina claims about AI - now it's time to back those claims up.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem",
-      "originalUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-12/ai-chess.jpg",
-          "width": 1279,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp",
-      "publishedDateTime": "2021-10-11T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-three-months-of-smp-robotics-patrolling-in-dubai.md",
-      "title": "Three months of SMP robotics patrolling in Dubai",
-      "excerpt": "Picard security robots have been patrolling in various territories in Dubai UAE. High temperatures of the summer months did not interfere with the reliable operation of",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/920/backdated-to-september-16-2019-three-months-of-smp-robotics-patrolling-in-dubai-920x533.jpg",
-          "width": 920,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
-      "publishedDateTime": "2021-10-11T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-the-ethics-of-artificial-intelligence-ai.md",
-      "title": "The Ethics of Artificial Intelligence (AI)",
-      "excerpt": "Ethical AI works to ensure that AI initiatives do not cause harm in any way to people. Explore the AI ethical issues & standards:",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2021/05/artificial-intelligence-2167835_1920.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-us-already-lost-ai-battle-to-china-pentagons-ex-software-chief.md",
-      "title": "US already lost AI battle to China: Pentagon's ex-software chief",
-      "excerpt": "The United States has already lost the artificial intelligence (AI) battle to China, which is heading toward global dominance because of its advances",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
-      "originalUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/10/11/thumbs/800x531/151317.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
-      "publishedDateTime": "2021-10-11T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong.md",
-      "title": "How AI And A Strong Need For Sustainability Is Affecting The Travel Industry’s Evolution By Jason Fong",
-      "excerpt": "We can’t just bounce back after this great stall in the industry, we need to make sure that we bounce back better. This means, ensuring that travel and tourism are more sustainable, more thoughtful, more meaningful,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6163cb0882f26511222194f1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D848%26cropY1%3D0%26cropY2%3D963",
-          "width": 848,
-          "height": 963,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/amp/",
-      "publishedDateTime": "2021-10-10T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

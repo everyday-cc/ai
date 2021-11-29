@@ -2,26 +2,20 @@
 category: news
 title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
 excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
-publishedDateTime: 2021-11-23T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
+publishedDateTime: 2021-11-23T13:02:00Z
+originalUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
+webUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Kentucky New Era
+  domain: kentuckynewera.com
 
 topics:
-  - Computer Vision
-  - AI
   - AWS AI
+  - AI
+  - Computer Vision
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "EgvVKaYIRLagaJmckafxFokJJ7a/JKbwVHCtdNa6iZj0xkA8Yo+0VqN2/FEEX2tnhQ/9i6Bhg8o41hr73D5Fk21AWdS1J6p2Tb8IHwtgIGv0l5DXfU7yfAsYtYC5OpE3YXxabEogP4LJgeq1dJJ59xtcMApCoS0qKUTWsvc1MsY7MkA4d9M9yOXUwdu66nsixGClHD1RzqA97QHg/dyENCXDjeubgGWanIeURqlQ52eQtST0P7qeQflVsDl5XCrS/TMnEWd9wVZ4+qd1I4dmxisKBRmAGckPFs5EdXS5k4EgCFprUzZjtXtXFNB6GGSaaHhr2F4JdDg2yrgvAbyiv2fZvhTRC9WcVqmT3S6vEAU=;EcyvTJmfCb0Gu4n1ADvAQg=="
+secured: "pH7cKZiMiGwGV4ELrc9/vYXfOeB8h3uE6yjGvqSdmVr5y589KGJDGy00ePbIcB/+xHXmKU/9VZtxz+gTfOfvrXilfhdoxkLNmiw0ye8oYRz2Sw/UscqoPeBjx576qDXxsL4r4/QO5B2omYdW61JvbAhObGfPo91lOIElwZE+5Bp9awEAxOjh4wE3LAdKPUEKdCV3Zriz/FeGZrHZwD3YWA3G4ql01YiO9h4lMmxVYdcisILm3cARI7PUE9NwOk0hbZSVtVoEMUNX5aWX5lfHsLLadc9NYlaa7i8UQe5fX/Ou0P+F3T8jtBp3K741kdncuwRnpHCNjgv18E3CBJOVw/RG7OhbyJRhoFlhNCixvSTjLkRrYg2av2SJrMOpmx9ghhnYPlsildRainx2f/gSh3OR96ZhCn9XJhLeGLY01t1TC9JmdDvwhiuYoNrlEz8iqLlkgaw4296qpNVtpVBSI/GkaSmn9K7gRktoXELwB5sVgF37C7GpuPgt+8XR72tA91N6ek4qMXbKmRGbE6eqbg==;fYHYwhyke+9ORAe1Uq+hpA=="
 ---
 

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "In-Person AWS re:Invent 2021 is Back!"
+    excerpt: "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly."
+    publishedDateTime: 2021-11-29T13:23:00Z
+    webUrl: "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back"
+    ampWebUrl: "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp"
+    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 59
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png"
+        width: 781
+        height: 300
+        isCached: true
   - title: "Hyperscalers don't appreciate the needs of SMBs - what should AWS be doing at re:Invent?"
     excerpt: "When surveying cloud adoption, nowhere is the distinction so stark as between large enterprises (those with more than 500 or 1,000 employees) and SMBs (those with fewer than 500 employees). With AWS re:Invent upon us,"
     publishedDateTime: 2021-11-29T10:22:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Subtle Medical and Bayer Collaborate to Advance Deep Learning Research to Harness the Power of AI in Medical Imaging"
-excerpt: "Subtle Medical, a leading healthcare technology company, and Bayer, a leading life science company with extensive expertise from diagnosis"
-publishedDateTime: 2021-11-28T11:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/subtle-medical-and-bayer-collaborate-to-advance-deep-learning-research-to-harness-the-power-of-ai-in-medical-imaging-301432567.html"
-webUrl: "https://www.prnewswire.com/news-releases/subtle-medical-and-bayer-collaborate-to-advance-deep-learning-research-to-harness-the-power-of-ai-in-medical-imaging-301432567.html"
+excerpt: "Subtle Medical's AI technologies acquire and improve high quality images from both accelerated and low dose scans. \"At Bayer, we are constantly striving to advance medical knowledge and provide the best possible therapeutic and diagnostic options for physicians and patients,"
+publishedDateTime: 2021-11-28T12:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/subtle-medical-and-bayer-collaborate-to-advance-deep-learning-research-to-harness-the-power-of-ai-in-medical-imaging-1031007033"
+webUrl: "https://markets.businessinsider.com/news/stocks/subtle-medical-and-bayer-collaborate-to-advance-deep-learning-research-to-harness-the-power-of-ai-in-medical-imaging-1031007033"
 type: article
-quality: 31
-heat: 31
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/793932/Subtle_Medical_Logo.jpg?p=facebook"
-    width: 796
-    height: 419
-    isCached: true
-
-secured: "pZlY/Lhx5cNOle0bQ6mDLFyC6lncJkPH3WG4avJdOq0X0uTjsWE+aaevQw+A9+tvIZH8lrlayMg1iuryja+29MPYf65QYjy9avilw7QCW6t7fk2v3qjymqe9fgjdnqCBybtDVTuaW/i3/y5/Y5dm0XpptV0i/vKYtm8x77UM9/ZFr0oJbTLpR1spDdX7yJtnuVsrXRr2B1f/2S16zf++h+RkKNTfER5Z1wTUyDRNrqEwXvud9eNaZJ+qh7NVmjFoxsMiSxwXi2dbAMSUjGOtiDnJoP1xegqb698ZLwIEdB3W2uUSO1B05Cr6C6DBaLz3wx8snVekVvRF9kv+5+wg8IEpTlaP5GL88lxCxIf8ecx9oaxA2PLfUGsXRkvleqoEKG4QPrTOcewhSlID4rFLvMRvS7GGDj+nhoYU3t6PePnejFjHL5qSdPXWQ5T6dQoReodkSiB/3A0AI5ZyE69YXg8TdbvNV4LQMJnFA99JjvZa4zK6flaLMVTqm6QYUyKV5pBbWibOz63BfJkpyyDK0Q==;SDK+Wia/nRQrjHUvLSMUdA=="
+secured: "RA9aFzQT+H4OmnTtqeQbP3aia49uIqDeZ0hsX4Z8N88xuVrwhNIEediHh8ui4kFO3m1Qr4CIgy1qAMwQU+HuBRAZwkY6yz3eIYzbTxEiAt+n8H86iT5fRH2TJwK6aSAtJmTjkyhoylFYOIydBPLrV03Z6SnyZEPz1ExRTW2b3iZgpW0YfRGQVvmS/S5Hv4px9V/atmU5BgbOdC2FktfIE7kJLACL0uHg/1thp3sxc6gk9lOMfghVS2YhOm+pXuDSrTEJZLxeV0XGkkGul7OE/rR42TOsiDpE8wLbiYrcIrNPvowQJSVH+IIsxN1SguW0WzCN6dY+i4Fn8L3Doz7Kv15I8WQDZW7bNUvjIqXWGSA=;FviqnrOuhc738xS0J0dg5w=="
 ---
 

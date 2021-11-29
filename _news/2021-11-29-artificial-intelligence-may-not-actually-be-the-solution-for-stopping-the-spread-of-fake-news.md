@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
-excerpt: "This is because these communication technologies provide a relatively low-cost, low-barrier way to disseminate information basically anywhere."
-publishedDateTime: 2021-11-29T04:44:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-7771541.html"
-webUrl: "https://www.moneycontrol.com/news/world/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-7771541.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-7771541.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-7771541.html/amp"
+excerpt: "Disinformation has been used in warfare and military strategy over time. But it is undeniably being intensified by the use of smart technologies and social media. This is because these communication technologies provide a relatively low-cost,"
+publishedDateTime: 2021-11-29T13:50:00Z
+originalUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.html"
+webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.html"
+ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
 type: article
 quality: 46
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2020/12/Artificial-Intelligence-770x433.jpg?impolicy=website&width=770&height=431"
-    width: 770
-    height: 431
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-50.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
 related:
@@ -57,6 +57,6 @@ related:
         height: 650
         isCached: true
 
-secured: "BRt+8k8j8XPTWYawKHeo2Z8PrbrsSkczEKVd/kQiHU3aimUQHWCr7MkI0Pv/1VRUT+BiCV3ATsfbipO5yrEviKTfBtaNS5d5nXYWE/YoJXct6wKp+30oVPD/uYy3ZXmQ9LLDPczEu7YQewgRaH7uRWwzL9ySy5sQAYVh2UeS1Hc5F+eysvTMaa578qxJyTvZW8LEGSl/cvaBqlid9wLGx31BETw9ltO3oddlEL1aB1uHaNtjB1BiJrrOpED3yoEPGA3hfsdKVKH4TgtX4RCy0DZWJ9H43dDARyaBoSNf1vUSBBfCYFjdzIb6jFOdmKv01aYYIMkZDlpWCTbHKkpi/ROH95JE+uH8CW9uDtwRD4Q=;bG3W9xElvl5/8s87dSVbVQ=="
+secured: "7wiLUjf3J2LHHyt6ok/v0GZmquz2C653wGkCth65TFGFI7S2b21EDH/GHN+mAYXOovLFQHfPAkQPYfqhkHFAl7astzIcxe2UVU37SkH68WbwcGOHnIBnXUO365KNBScr/xAFv51/dJqbGSLjAlHJNHX7L/baYOfSe694ddoUtAoMk2U89lJRq+Etm5473n+QNleoWzK+dOJIU0yVvihfK7YhIm4qxkt5L6hhc/GgKm6dovMVJ+3+WTnGWncJcuxYF/oVux0MtGwpwQ13pndrERdnHoy18xwaZrjqc80vWp6R/xv+RbdU5alN9hgMBWGqWk/Wc4Hun8dAwQfUBgxcFk2SHpZdglg7r1KGIKDewWc=;qnYzKACSLBlOK3N/jhHP2Q=="
 ---
 

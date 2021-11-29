@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-08-hondas-asimo-robot-sheds-a-few-pounds-gets-all-autonomous-on-us-video.md",
+      "title": "Honda's ASIMO robot sheds a few pounds, gets all autonomous on us (video)",
+      "excerpt": "We've already seen it dance, sing and read minds, but Honda's ASIMO humanoid has now taken that one great leap into decidedly more dystopian territory. The revamped bot, pictured above (and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2011-11-08-hondas-asimo-robot-sheds-a-few-pounds-gets-all-autonomous-on-u.html",
+      "originalUrl": "https://www.engadget.com/2011-11-08-hondas-asimo-robot-sheds-a-few-pounds-gets-all-autonomous-on-u.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Sr_Sa1xj_dLffLB4ZjAWkw--~B/aD00NjU7dz0zNDY7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2011/11/asimo.jpg",
+          "width": 346,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/2011-11-08-hondas-asimo-robot-sheds-a-few-pounds-gets-all-autonomous-on-u.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2011-11-08-hondas-asimo-robot-sheds-a-few-pounds-gets-all-autonomous-on-u.html",
+      "publishedDateTime": "2021-11-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027.md",
       "title": "Global Artificial Intelligence Robotics Market Report Shows Demand to Boost Industry Growth from 2021 to 2027",
       "excerpt": "With this report titled Global Artificial Intelligence Robotics Market 2021-2027, research analysts of MarketsandResearch.biz help us to present our clients with insightful data on the investment or growth opportunities in the industry.",
@@ -1357,49 +1409,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-over-90-of-uae-employees-believe-robots-can-support-their-career-better-than-humans.md",
-      "title": "Over 90% of UAE employees believe robots can support their career better than humans",
-      "excerpt": "According to a new study by Oracle and Workplace Intelligence, an HR research and advisory firm, people are turning to robots to help ... but are ready to regain control of their futures.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/over-90-of-uae-employees-believe-robots-can-support-their-career-better-than-humans/",
-      "originalUrl": "https://gulfbusiness.com/over-90-of-uae-employees-believe-robots-can-support-their-career-better-than-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2018/05/Science-robot-hand.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

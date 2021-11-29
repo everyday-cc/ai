@@ -13,6 +13,10 @@ published: true
 provider:
   name: businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11
   domain: businessinsider.com/target-poaching-amazon-to-leapfrog-amazon-go-2021-11
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI

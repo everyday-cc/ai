@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/11/27/tech/ai-da-robot-intl-scli-gbr/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/11/27/tech/ai-da-robot-intl-scli-gbr/index.html"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

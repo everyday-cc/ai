@@ -41,20 +41,20 @@ related:
         height: 213
         isCached: true
   - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
-    excerpt: "This is because these communication technologies provide a relatively low-cost, low-barrier way to disseminate information basically anywhere."
-    publishedDateTime: 2021-11-29T04:44:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-7771541.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-7771541.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-7771541.html/amp"
+    excerpt: "Disinformation has been used in warfare and military strategy over time. But it is undeniably being intensified by the use of smart technologies and social media. This is because these communication technologies provide a relatively low-cost,"
+    publishedDateTime: 2021-11-29T13:50:00Z
+    webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: techxplore.com
+      domain: techxplore.com
     quality: 46
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2020/12/Artificial-Intelligence-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-50.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "8HxjQ1QjmOVO72/SndZax9iUK9doQ2qBCsn1gwKc9DX0N1ImXWUS920oMOU9NEfykDZKH9f/A3XDMOQ+F4SkOkG0NBFStZssg3LB1S0cetl08XCfTZ0PokM3pdctVKR+Tuh2NjLmVMJhR+iByRXX9pM1MG462bGNtaQ2LdI/EebauMeAnahfQAmtCIESsdOzoHtK/f2V2+xAWcQ9VgHyJVZf+sOy6j0AHwcXx7zYS++86tmgKwfKjApW8iL8/+AGGls9jgOFvkFox/CC7liHtcd7WskSFChyZ406jAwqkqLlCNDpVUiaikjqFFG1ePpxN4XbGNXMvOdGVrhj9EkiNphsqyqDeJY+saeo7oIHJyU=;Is16peEme3e9bY9p5DhWuA=="

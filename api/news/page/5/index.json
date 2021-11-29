@@ -2,6 +2,118 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-23-global-cognitive-informatics-market-research-report-2021-2026-healthcare-and-biomedicine-industry-will-lead-to-the-adoption-of-cognitive-service.md",
+      "title": "Global Cognitive Informatics Market Research Report 2021-2026 - Healthcare and Biomedicine Industry Will Lead to the Adoption of Cognitive Service",
+      "excerpt": "The enterprise sector will have the highest adoption of cognitive applications and services The global market will reach USD $32.6B by 2026, growing at 40.3% CAGR from 2021 to 2026 Key Topics Covered",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-cognitive-informatics-market-research-report-2021-2026---healthcare-and-biomedicine-industry-will/article_020d68e3-112f-58a3-be68-586c8c267b2c.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-cognitive-informatics-market-research-report-2021-2026---healthcare-and-biomedicine-industry-will/article_020d68e3-112f-58a3-be68-586c8c267b2c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T13:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-new-deep-learning-method-adds-301-planets-to-keplers-total-count.md",
+      "title": "New deep learning method adds 301 planets to Kepler's total count",
+      "excerpt": "Scientists recently added a whopping 301 newly validated exoplanets to the total exoplanet tally. The throng of planets is the latest to join the 4,569 already validated planets orbiting a multitude of distant stars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpl.nasa.gov/news/new-deep-learning-method-adds-301-planets-to-keplers-total-count",
+      "originalUrl": "https://phys.org/news/2021-11-deep-method-planets-kepler-total.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-the-retail-robot-battle-continues.md",
+      "title": "The Retail Robot Battle Continues",
+      "excerpt": "In this second installment of a four-part series, Georges Mirza looks at the robots powering Schnucks and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
+      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-11/background/400x600/Robotsshutterstock_0.jpg?VersionId=8789rnVJ8sKdSKhNKYay7TUlYg5eHrO.",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
+      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
+      "publishedDateTime": "2021-11-22T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winsight Grocery Business",
+        "domain": "winsightgrocerybusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-fighting-blood-diseases-with-artificial-intelligence.md",
       "title": "Fighting blood diseases with artificial intelligence",
       "excerpt": "Every day, cytologists around the world use optical microscopes to analyze and classify samples of bone marrow cells thousands of times. This method to diagnose blood diseases was established more than 150 years ago,",
@@ -458,40 +570,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
-      "title": "Adidas migrates SAP Environments to AWS",
-      "excerpt": "By applying machine learning such as Amazon SageMaker, adidas data scientists can predict seasonal demand for products and get them to the right warehouse or retail store. SageMaker can be applied ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006",
-      "originalUrl": "https://www.telecompaper.com/news/adidas-migrates-sap-environments-to-aws--1405006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-22-india-fintech-forum-unveils-28-high-potential-fintech-startups-for-ifta-2021.md",
       "title": "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021",
       "excerpt": "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who will be showcasing their product demos to a high-profile jury from 23 rd  November – 25 th  November 2021 to compete for the Fintech Startup of the Year trophy at the 6 th  edition of India FinTech Awards (IFTA).",
@@ -858,6 +936,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
+      "title": "adidas Migrates SAP Environments to AWS",
+      "excerpt": "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24214919",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919",
+      "publishedDateTime": "2021-11-21T20:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-global-deep-learning-in-machine-vision-market-2021-future-outlook-and-research-studies-to-2027.md",
       "title": "Global Deep Learning in Machine Vision Market 2021 Future Outlook and Research Studies to 2027",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 21, 2021 (CDN Newswire via Comtex) -- Global Deep Learning in Machine Vision Market Growth (Status and Outlook) 2021-2027 is the fresh report by MarketandResearch.biz ...",
@@ -949,134 +1070,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-medtronic-and-ibm-launch-a-sweet-new-diabetes-app.md",
-      "title": "Medtronic and IBM Launch a Sweet New Diabetes App",
-      "excerpt": "The latest example of the industry embracing AI's capabilities for the millions of people living with diabetes is an app co-developed by Medtronic and IBM Watson Health dubbed the Sugar.IQ smart diabetes assistant. The app is designed to simplify and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
-      "originalUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/SugarIQ%20Insight%20Sample%20ScreenShot_0.png",
-          "width": 1125,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform.md",
-      "title": "San Diego-based startup LifeVoxel raises $5 million seed funding for its AI diagnostic visualization platform",
-      "excerpt": "San Diego-based startup LifeVoxel has raised $5 million in a seed round to bolster data intelligence of its AI diagnostic visualization platform for faster and precise prognosis. The platform, dubbed Prescient,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/",
-      "originalUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024",
-          "width": 1024,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/amp/",
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-stocks-to-buy-now.md",
-      "title": "Stocks to Buy Now",
-      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/tag/stocks-to-buy./",
-      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy./",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
