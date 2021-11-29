@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 related:
   - title: "AI with everything – the future of artificial intelligence in networking"

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why AI in the Military is to"
+    excerpt: "Let’s answer One of the most rising concerns – how AI in the Military will create both international stability & conflict with the AI-enabled military systems? The world is becoming independent; we are seeing and living the advancement of independent vehicles,"
+    publishedDateTime: 2021-11-29T18:16:00Z
+    webUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628"
+    ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
+    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
+    type: article
+    provider:
+      name: El Clasificado
+      domain: elclasificado.com
+    quality: 57
+    images:
+      - url: "https://elclasificado.com/photos/5a/04/5a0442bda5094029a6efe5fdb3c5bcc5/l.jpg?image=0"
+        width: 720
+        height: 405
+        isCached: true
   - title: "How AI Is Aiming at the Bad Math of Drug Development"
     excerpt: "A new drug typically takes more than a decade to develop, at a cost of almost $3 billion. That’s because about 90% of experimental medicines fail during the various stages of chemical engineering, or during animal or human trials."
     publishedDateTime: 2021-11-29T11:50:00Z
@@ -39,61 +55,19 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Top Five Ways Artificial Intelligence Is Improving Investment"
-    excerpt: "This saying could not be truer, especially in modern times, as Artificial Intelligence governs everything we do from search to virtual assistance."
-    publishedDateTime: 2021-11-25T14:49:00Z
-    webUrl: "https://www.insidermonkey.com/blog/top-five-ways-artificial-intelligence-is-improving-investment-1006088/"
+  - title: "NYC aims to be first to rein in AI hiring tools"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their résumés or analyzing their video interviews. But New York City residents could soon get more say over the"
+    publishedDateTime: 2021-11-28T13:11:00Z
+    webUrl: "https://www.bendbulletin.com/ap/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools/article_49263b77-34ad-5b74-95ab-bec31b15059e.html"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
+      name: The Bulletin
+      domain: bendbulletin.com
     quality: 37
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/30060223/adam-nowakowski-MFms-wkv3Ow-unsplash.jpg"
-        width: 1920
-        height: 2880
-        isCached: true
-  - title: "AI-Based Match-Making is Reinventing Recruitment"
-    excerpt: "AI survey states that 17% of companies use AI-based solutions in their HR functions and another 30% will start doing so by 2022. AI is changing how HR functions take place."
-    publishedDateTime: 2021-11-26T10:02:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-based-match-making-reinventing-recruitment-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG80SQE-qqCmg/article-cover_image-shrink_720_1280/0/1637920274692?e=1643241600&v=beta&t=e-mj8DVQoJ133Q2AzuHv_QMvqzNaQueknUDLHtf9Z0g"
-        width: 1273
-        height: 720
-        isCached: true
-  - title: "How AI Is Hijacking Art History"
-    excerpt: "Art historians have long used traditional X-rays, X-ray fluorescence or infrared imaging to better understand artists’ techniques."
-    publishedDateTime: 2021-11-27T19:01:00Z
-    webUrl: "https://www.discovermagazine.com/technology/how-ai-is-hijacking-art-history"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 37
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/KCJO46tt4uBdDqT1agJDx/add743dc634dac13256240914cc298e0/shutterstock_1709875687.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill"
-        width: 660
-        height: 433
-        isCached: true
-  - title: "Advancements Series to Explore Recent Developments in Artificial Intelligence and Data"
-    excerpt: "Scheduled to broadcast Spring/2022, an upcoming episode of Advancements with Ted Danson will focus on developments in machine learning, artificial intelligence, and data optimization. This segment of Advancements will explore how a"
-    publishedDateTime: 2021-11-29T15:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20129709.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 31
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/b/a3/ba3d351f-8ce1-5934-a302-de297af7f77d/6198335736a55.image.jpg?resize=1200%2C800"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "pMNHHc7a6Hp3gSB8Z4gut442g+kDf8kS4y04Wtm91Au5A/1uAck7IzJm80LXv+RRxLz7l10rwdUz7WtrnRvQS/vuaqyumn5onus1Aye55C4ZUzUataPpgFYPCOxsJdL/JFN4nzWc7r7iSNbA101WQtxsfhUbWkLD1KGrNcgh/E2JklMuCctXzr3Mv2ww8GcoLgonAhsXM2SR/N40+SEyJXFU2aIatRT/195r40a/Iq8VhYKXLk+/tnQ2nXBWDwq9agS/Mx7S3VWFce7Iv0anZDJYaRQfBwY+npmBQWKuICS5nlNhHEEKjG5nFBrLK94u3LwP80eQyvIypNVGRBIBzUhjMqyDyHPQIBgdMq/m12HzAwkUc8Z4PLhfiZvqO0qOfNgHGHwBwAWgv2J1OiHnEBROAKAE9F/3jv7LppjReIx36dCpo2qWYBN9VBrIYKvMdKKVg5ow/mtVXBiPL6gn/IXXQD07PJHeNNkleHNWMpX39hciP6+GlRX4clEg51nsDbgdhB4aR4U3tsTUSiNQ2w==;uDZpKGro8PNo6W8dey21Eg=="

@@ -81,6 +81,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Govt launches face recognition tech for pensioners"
+    excerpt: "Minister of State for Personnel Jitendra Singh on Monday launched a \"unique\" face recognition technology that would act as a proof of life certificate' for pensioners and ensure ease of living for the retired and elderly citizens."
+    publishedDateTime: 2021-11-29T17:38:00Z
+    webUrl: "https://www.theweek.in/news/india/2021/11/29/govt-launches-face-recognition-tech-for-pensioners.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 39
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/biometric-technology-digital-Face-Scanning-recognition-human-head-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
 
 secured: "hV3spDIyGWKEfE6hqgeDTR/OAxdqpYl21bLS3+CN2rvR9kWUx9bTwfUw33NHb555J62hjDfPYpY+GHMomembHVsvDCn6+M+9n1QUFsvSZOXrSo0/+rohJODqEdqKRgoGpS+KYnXMeM3wrLrI3KJCyGEvmZQozSrWy5QNFiYzh2JpbcgImmbLN5wQwfQSi+m2F3w5NAVEImbpylb41rhkq0F4/VZz7kLHZKCeMIPFms7ylrVz3CljoCAGcW9b7RKI9xbK1bTs0MhYxCuBA904AJRUNp0O9doWSivD71n+wHUI3dbuHsFkZrg3G9tTlrB/18YONHMmIplHZ95U1dEo2yNiIuLOCsdzI7A+LlvVoeA=;npCwKDsdxcYa5J8gFDhrWA=="
 ---

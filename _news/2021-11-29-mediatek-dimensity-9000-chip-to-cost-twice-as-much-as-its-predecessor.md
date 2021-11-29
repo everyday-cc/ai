@@ -19,67 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Security flaws identified in MediaTek smartphone chips: Check Point Research"
-    excerpt: "Check Point Research (CPR) has identified security flaws in the smartphone chip made by Taiwanese manufacturer MediaTek. Found in 37 per cent of the world’s smartphones, MediaTek’s chip serves as the main processor for nearly every notable Android device,"
-    publishedDateTime: 2021-11-25T07:01:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece/amp/"
+  - title: "Coolpad Cool 20 Pro teaser poster confirms the MediaTek Dimensity 900 5G chip"
+    excerpt: "Chinese smartphone maker Coolpad is expected to release the COOL 20 Pro smartphone on December 1. The company had earlier released a teaser poster which gave us a look at the design of the sleek smartphone."
+    publishedDateTime: 2021-11-29T16:55:00Z
+    webUrl: "https://www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/"
+    ampWebUrl: "https://www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/?amp=1"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 73
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 86
     images:
-      - url: "https://www.thehindubusinessline.com/todays-paper/36ervb/article37155956.ece/ALTERNATES/LANDSCAPE_615/Web-and-print-bGKK946ARE3jpgjpg"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "MediaTek fixes vulnerability on its chips allowing certain apps to listen users"
-    excerpt: "MediaTek went from a controversial chipmaker to one of the most relevant in the last years. The Dimensity lineup brought the Taiwanese chipmaker big achievements"
-    publishedDateTime: 2021-11-25T14:06:00Z
-    webUrl: "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/"
-    ampWebUrl: "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 70
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/11/MediaTek-Dimensity-2232-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "A Flaw in MediaTek Audio Chips Allowed Apps to Spy on Android Smartphone Users"
-    excerpt: "Counterpoint Research has found a flaw in recent MediaTek chips that allowed apps to snoop in on users. Here are the details."
-    publishedDateTime: 2021-11-25T08:02:00Z
-    webUrl: "https://beebom.com/mediatek-audio-chips-flaw-allowed-apps-spy-android-smartphone/"
-    ampWebUrl: "https://beebom.com/mediatek-audio-chips-flaw-allowed-apps-spy-android-smartphone/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/mediatek-audio-chips-flaw-allowed-apps-spy-android-smartphone/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 55
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/11/MediaTek-Dimensity-7000-cpu-feat..jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Security Flaws in Smartphone Chip could have led Hackers to Eavesdrop on Android Users"
-    excerpt: "Check Point Research (CPR) identified security flaws in the smartphone chip made by Taiwanese manufacturer MediaTek. Found in 37% of the world's"
-    publishedDateTime: 2021-11-29T11:42:00Z
-    webUrl: "https://menafn.com/1103271095/Security-Flaws-in-Smartphone-Chip-could-have-led-Hackers-to-Eavesdrop-on-Android-Users"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/updates/pr/2021-11/29/M_3520dimage_story.jpg"
-        width: 800
-        height: 1421
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/11/coolpad-cool-20-pro.jpg"
+        width: 820
+        height: 1458
         isCached: true
 
 secured: "TUIhOFnkGK2aJxME0xd8uE37TLjg6fyJlx9xD9e83C0IzhXsDRqqts+dH19PXnaTJR2G3QN/IfZgAgt9GX5dpKU6e87K/TRunWT+MICcd08DkauRa8AaICF2WZmrQKE7Sx827PP0f00SYHwEbWEhFnE36ja3I+l/jhqq7d3gm1I51NI+/SVqp8XhWh5/euW7UIDp+phit3oS213yyFn7SBFZI0rsNogJkdni5cATeYtxuk/R1azuQ3Z8BWGhUDhhmZmJlSYa7bP5gn2UjgQcyhA1Eosgp/C2pIeg7YEt/DprCbu+0Hd0OS2SmgPidNgxaYWnUhy4a1s0XDz+cQwh2b15/ljGVpS/OtXCdvKWRoc=;9dsHmMpDl5sBjT4iF5G/aw=="

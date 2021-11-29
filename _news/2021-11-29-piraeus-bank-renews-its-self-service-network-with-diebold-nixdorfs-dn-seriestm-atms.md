@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Piraeus Bank Renews its Self-Service Network with Diebold Nixdorf's DN Series(TM) ATMs"
-excerpt: "Piraeus Bank, a Greek multinational financial services company, is the first bank in the country to widely adopt automatic cash recycling by deploying more than 300 DN SeriesTM ATMs from Diebold Nixdorf (NYSE: DBD)."
-publishedDateTime: 2021-11-29T15:29:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/11/29/piraeus-bank-renews-its-self-service-network-with-diebold-nixdorf-s-dn-series-tm"
-webUrl: "https://stockhouse.com/news/press-releases/2021/11/29/piraeus-bank-renews-its-self-service-network-with-diebold-nixdorf-s-dn-series-tm"
+title: "Piraeus Bank Renews its Self-Service Network with Diebold Nixdorf's DN Seriestm ATMs"
+excerpt: "Piraeus Bank, a Greek multinational financial services company, is the first bank in the country to widely adopt automatic cash recycling by deploying more than 300 DN SeriesTM ATMs from Diebold Nixdorf ."
+publishedDateTime: 2021-11-29T14:17:00Z
+originalUrl: "https://www.lelezard.com/en/news-20129515.html"
+webUrl: "https://www.lelezard.com/en/news-20129515.html"
 type: article
-quality: 31
-heat: 31
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Finance
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "lqOuz5dEt7GEdW+IIgarDfAnYYeB5wMM8TSLD1AToLpF7c0Nmryih0eHx/MdjoVTNpZP8EXMOxqrpkXD8JtTBsUJAj9Ls3gY6XclTI6+zeieQ9PqzMu/cXAgfGz8mAAkE2BD6G4oVP49hTGQi0KzPu2zy8hTyIW3CWFU6zzaJ3uHUpu11WTfgqpZWRFjacMsrxHYBn45l0/LKeke6Unhw1MWg+2BRpkYQWs5PA78G6hYQ8f82APmdEm5vGlKVvXsMW49msKQnRbOLsjxXsaPblmyXB5THlpt+w1Zz01nsdhiJm6znyLI0Htya0Xi8laZbqjCVW6vg5IPkzr1zakBMS1bn6gJsDh3MfVQIovK0ZU=;PYe+nGBsUB08p6RFbLyyoQ=="
+secured: "fiCs3Yke3tZjbcPlDyMffnr/QNUzx7ak87YtiNJvRRO75lLfUlN9ftb15n6Bdi+PNZ4l3f892EPSzZG1t8h+VDfJOsnwuklRbSiw7yqOLg5Qbk8tDiQIXEVzTJCo+F8AOg1JzF5VaALizyLh0j0uQ/FsDw9LKbrTnhfAklN2AgAIVZCRoAQJWSBt8+XXsierWLxqX5ejiswjW5wXG0SD1nEbl9hSZfB7EbPzboRk/JE4dLUIjsEW6bc0CaNfTqbtGU+1i6GTIe66jJKenXOX7UIt9Slmwvwg0srIoQ3njJNf+jHnjsOunTBWhis363bdhKb0ZWTLKRhUJ8B/MEYxqqxr9N0/rpWNTaRpHGQ8HRE=;jjv50vvVnrwD9Gjs00HdVw=="
 ---
 

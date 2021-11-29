@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/india/government-launches-unique-fa
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1638192227.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Govt launches face recognition tech for pensioners"
+    excerpt: "Minister of State for Personnel Jitendra Singh on Monday launched a \"unique\" face recognition technology that would act as a proof of life certificate' for pensioners and ensure ease of living for the retired and elderly citizens."
+    publishedDateTime: 2021-11-29T17:38:00Z
+    webUrl: "https://www.theweek.in/news/india/2021/11/29/govt-launches-face-recognition-tech-for-pensioners.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 39
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/biometric-technology-digital-Face-Scanning-recognition-human-head-shut.jpg"
+        width: 760
+        height: 443
         isCached: true
   - title: "Dr Jitendra launches unique ‘Face Recognition Technology’ for Pensioners"
     excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today launched unique “Face Recognition Technology” for Pensioners and said,"

@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/business/how-ai-is-aiming-at-the-ba
 webUrl: "https://www.washingtonpost.com/business/how-ai-is-aiming-at-the-bad-math-of-drug-development/2021/11/29/effd4af8-5112-11ec-83d2-d9dab0e23b7e_story.html"
 type: article
 quality: 56
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why AI in the Military is to"
+    excerpt: "Let’s answer One of the most rising concerns – how AI in the Military will create both international stability & conflict with the AI-enabled military systems? The world is becoming independent; we are seeing and living the advancement of independent vehicles,"
+    publishedDateTime: 2021-11-29T18:16:00Z
+    webUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628"
+    ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
+    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
+    type: article
+    provider:
+      name: El Clasificado
+      domain: elclasificado.com
+    quality: 57
+    images:
+      - url: "https://elclasificado.com/photos/5a/04/5a0442bda5094029a6efe5fdb3c5bcc5/l.jpg?image=0"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Our award-winning AI is no threat to lawyers"
     excerpt: "Monaco Solicitors won the 2021 Law Society Award for Excellence in Technology and Innovation for our Virtual Lawyer AI employment law advice project. We are proud to say that our Virtual Lawyer tool is helping increase access to justice by making legal advice in employment law available for free for tens of thousands of users."
     publishedDateTime: 2021-11-29T00:01:00Z
@@ -40,61 +56,19 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Top Five Ways Artificial Intelligence Is Improving Investment"
-    excerpt: "This saying could not be truer, especially in modern times, as Artificial Intelligence governs everything we do from search to virtual assistance."
-    publishedDateTime: 2021-11-25T14:49:00Z
-    webUrl: "https://www.insidermonkey.com/blog/top-five-ways-artificial-intelligence-is-improving-investment-1006088/"
+  - title: "NYC aims to be first to rein in AI hiring tools"
+    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their résumés or analyzing their video interviews. But New York City residents could soon get more say over the"
+    publishedDateTime: 2021-11-28T13:11:00Z
+    webUrl: "https://www.bendbulletin.com/ap/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools/article_49263b77-34ad-5b74-95ab-bec31b15059e.html"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
+      name: The Bulletin
+      domain: bendbulletin.com
     quality: 37
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/30060223/adam-nowakowski-MFms-wkv3Ow-unsplash.jpg"
-        width: 1920
-        height: 2880
-        isCached: true
-  - title: "AI-Based Match-Making is Reinventing Recruitment"
-    excerpt: "AI survey states that 17% of companies use AI-based solutions in their HR functions and another 30% will start doing so by 2022. AI is changing how HR functions take place."
-    publishedDateTime: 2021-11-26T10:02:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-based-match-making-reinventing-recruitment-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG80SQE-qqCmg/article-cover_image-shrink_720_1280/0/1637920274692?e=1643241600&v=beta&t=e-mj8DVQoJ133Q2AzuHv_QMvqzNaQueknUDLHtf9Z0g"
-        width: 1273
-        height: 720
-        isCached: true
-  - title: "How AI Is Hijacking Art History"
-    excerpt: "Art historians have long used traditional X-rays, X-ray fluorescence or infrared imaging to better understand artists’ techniques."
-    publishedDateTime: 2021-11-27T19:01:00Z
-    webUrl: "https://www.discovermagazine.com/technology/how-ai-is-hijacking-art-history"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 37
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/KCJO46tt4uBdDqT1agJDx/add743dc634dac13256240914cc298e0/shutterstock_1709875687.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill"
-        width: 660
-        height: 433
-        isCached: true
-  - title: "Advancements Series to Explore Recent Developments in Artificial Intelligence and Data"
-    excerpt: "Scheduled to broadcast Spring/2022, an upcoming episode of Advancements with Ted Danson will focus on developments in machine learning, artificial intelligence, and data optimization. This segment of Advancements will explore how a"
-    publishedDateTime: 2021-11-29T15:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20129709.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 31
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/b/a3/ba3d351f-8ce1-5934-a302-de297af7f77d/6198335736a55.image.jpg?resize=1200%2C800"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "gnw/oAsOglsB2r8vVyB+dnWl5Yj3NlJYdJ7b/Us11U2CP/mh5G2T1dawDApNtv0LzQA8XimGOS9i1lFcmypFrve0waWPazgiecvPJ7RJcrCLkH0AZiT+x4MIrauYLEVRcioIqun7iHpzM92dMl3EK0JXyNbuYV1I80C3ZcxU413wi5cD+Ew5U5kQTdjiD2/DdC1v7I3pxR+HTPKy3irjmcURvOo/yG8BfGSsZkMP2ljMQCLHrl8/FW7YN84WS0/HYder5TFeYGid2k5kw9Ubsk7GNat88Jepe3OTKwG7tcQFjnneCLOyvShCk218F8zMbc2bpUUdVFAg2Gsl4XVRqbgVhrY5KlWIdHms2OPSvtE=;Vc5RzSgsgeGAhQRwzrxdkw=="

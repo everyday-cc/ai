@@ -3,18 +3,18 @@ category: news
 title: "Robot company offers $200K for your face"
 excerpt: "A robot manufacturing company is looking for a human face to put on its newest product. Promobot, a European company, said in a press release that it is willing to pay $200,000 to someone for the rights to use their face forever."
 publishedDateTime: 2021-11-29T16:21:00Z
-originalUrl: "https://www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/"
-webUrl: "https://www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/"
-ampWebUrl: "https://www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
-cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
+originalUrl: "https://www.fox13memphis.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/"
+webUrl: "https://www.fox13memphis.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/"
+ampWebUrl: "https://www.fox13memphis.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
+cdnAmpWebUrl: "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
 type: article
 quality: 61
 heat: 71
 published: true
 
 provider:
-  name: WFTV
-  domain: wftv.com
+  name: FOX13 Memphis
+  domain: fox13memphis.com
 
 topics:
   - Computer Vision
@@ -22,7 +22,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/4i5kX0KZOnbyyPlSvYI4czaobwk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XR5L5PB3QFA3HDDEALPG5F3BCQ.jpg"
+  - url: "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/4i5kX0KZOnbyyPlSvYI4czaobwk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XR5L5PB3QFA3HDDEALPG5F3BCQ.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 424
         isCached: true
 
-secured: "JwbqSGaOhDm7agL2RliYrl4yIcU4agz6lRKGY3jKByDc3za7M+gclg0DlTXpwzvCu7ZuGL6ygwEPInIsst1D7HabouX6exSpRfVx5qXfwNdyF+J/nY0S2eVEFu9r1nOtWlhiDBDhvHF1gxN7Cafe5cjqYGEsrvdmb/nAVuDKLqZmroAMwuYBnRfBtpUdaxsrbe1Wmeet5EF3x0Ja/fPC6cGIBGfcdmjfTH0PAef8I+BqsMz/bCJaGPz/CnctePMCm+Kgv1m1DfrZiqqtupOOCEatgn668vOSfXmEFMMuemAHq34mN3Ik+0VQtA73yQHM32lGw/OgZT3uO2l5DcAsC346lGUoiDLJb/rd2hMufKY=;PEiFt2tj700cCgIJ9rbDPQ=="
+secured: "ju15fM2+mrKBmrhBmdjDN+6XYZX692ILMIMPlF8EoRW9wY+xZYIQmVqMu7Jm1LHyXAT2yqlrj7lC4zrbj/+TY8zAbsuFEnH7MABp5q+9Aw+NqaCvLGTBe8wZNCLuE42CBeR2rFq4HpNAUeEO6W17dbRMExc75+KKmWgDo2d0y2zpyfQ3h9lppvX+j6IprA9MV5iWrrysKvDJAuUL4LPb+g0MXOdxPcILcEaFDubx+9N6T6YT7Ct6mVL9ZTTxXYvzrXnHBJgcqqOkqx0rwR1E6G3E1xOXL66dGlEsOVA4T5+TcmHouxscp8OyF/DG+BvHT5Mzl7W9SPTb7zamydLjNnlqQ1Cz4jGfpaPCy11Vu9g=;g3cO2eCc/GEtlnGM/YF8kA=="
 ---
 

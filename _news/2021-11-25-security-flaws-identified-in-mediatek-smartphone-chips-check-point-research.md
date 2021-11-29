@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/security-flaws-identi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 800
         height: 1421
         isCached: true
-  - title: "MediaTek Dimensity 9000 chip to cost twice as much as its predecessor"
-    excerpt: "MediaTek announced the 4nm Dimensity 9000 chipset last week during its Tech Summit and now a new report has claimed that the chipset will carry nearly double the cost of its preceding 5G chipset. According to Digital Chat Station,"
-    publishedDateTime: 2021-11-29T11:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20211129/3863932.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "BOZtegaidxyjXg511HBHZs6mDiwBQBeJDtYr3Uz4EYIpXCN2zDNnoCFxvNOoWyNpkHKjruaW8skazfmUSohrw5WSdfplTZamJkYybNeCjvAMf7mfqAVRT/xRAK0JGqZJ+Lwk0wsSJieMKVGoikOakLE0xSbrh9tAKjAxz22CXr8/2WKC+p0jHUqVPGaA6J3XnLQtoLwaGIEfnuTr0z198SYQbs/pJd0epv7DVctOig93yOrofQHBRE2AqvoD1dxae9RJcMeuVaie2/PEmlXV6SbBSLrvj5wUhFpwpS7MGlkV025jnMxjgszQ4/m2A6+z0HN+mMmFv8prA3jcNqNq0pKgkOynWZtRHpxNnNznrkE=;t6LGQ6+dyx+R9Pdu8vy9Ow=="
 ---

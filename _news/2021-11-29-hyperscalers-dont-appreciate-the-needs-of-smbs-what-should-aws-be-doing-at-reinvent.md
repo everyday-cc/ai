@@ -43,6 +43,20 @@ related:
         width: 781
         height: 300
         isCached: true
+  - title: "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021"
+    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+    publishedDateTime: 2021-11-29T17:40:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/electrifai-announces-mlaas-and-spendai-at-aws-re-invent-2021-837723933.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
+        width: 594
+        height: 315
+        isCached: true
   - title: "What To Expect From AWS re:Invent 2021 Event?"
     excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."
     publishedDateTime: 2021-11-27T12:30:00Z

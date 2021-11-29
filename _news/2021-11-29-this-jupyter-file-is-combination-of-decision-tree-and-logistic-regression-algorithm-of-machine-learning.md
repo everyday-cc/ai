@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Canon Medical Introduces Super-Resolution Deep-Learning Reconstruction for Cardiac CT Scans"
+    excerpt: "Canon Medical is breaking ground once again with the introduction of Precise IQ Engine (PIQE) DLR and SilverBeam filter in the latest version of the Aquilion ONE / PRISM edition. PIQE, super-resolution deep-learning reconstruction technology for cardiac CT scans,"
+    publishedDateTime: 2021-11-28T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-ct-scans-e227cdf8a8d04ec7ada2992850e3398a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "MegaMatcher On Card 12 from Neurotechnology Features New Face Recognition and Fingerprint 1-to-N Matching Algorithms for Smart Cards"
     excerpt: "Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced the release of the new MegaMatcher On Card software"
     publishedDateTime: 2021-11-29T07:00:00Z

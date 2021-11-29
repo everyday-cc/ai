@@ -73,15 +73,6 @@ related:
         width: 800
         height: 1421
         isCached: true
-  - title: "MediaTek Dimensity 9000 chip to cost twice as much as its predecessor"
-    excerpt: "MediaTek announced the 4nm Dimensity 9000 chipset last week during its Tech Summit and now a new report has claimed that the chipset will carry nearly double the cost of its preceding 5G chipset. According to Digital Chat Station,"
-    publishedDateTime: 2021-11-29T11:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20211129/3863932.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "Ghwmy8xkoHoP6MM4S1p+P1l3K9LVEo3yMUV5LjiD0zXnLtw/Z6o7B4sQGHgr4JXV4VTWTM3+hOwp6M09xbHOrcCe3fjbSImG+3JytwKVIG+cyV1WKDhDwTdDI81KClzzOA0tneg1y/RbecZKbJmJvHs0JHTeZMkw871F5QHrdlG9RU7a2EimoqAUGHsEIqOpTgk7m9YGGYF07RqmJ9e+I6CeX70BIjgxQyknP1e4aleib9Ny8JrWq3KmcbJ7r1E64uxV/td2Mh+cQxtV9QlaULn1XkV5J9lXNESPDwHFFimRUth7Xnw8QMGrPufk8SINcwU0d4lZ0nLQk0pzIQZjqm/+n1DFE+WB4OrBg11paigkqdOF1Wy3XZUR8/bWaOLQKjOjHuxKLLAOmbn/5PGK2yuL9oKWnXDGvQ/PMzfYSn/aHbutwq2N23UnCBk3slhVt/f+cWa7IY7wKWUiLCNNMLR9VmKXBwQK135H3qZayRYTFfn4RMCNp5LUmHuqUWbniE4Lz1pw71hVnMTy6qw56Q==;bi8rJ5xai5zQt/7sXTuRKw=="
 ---
