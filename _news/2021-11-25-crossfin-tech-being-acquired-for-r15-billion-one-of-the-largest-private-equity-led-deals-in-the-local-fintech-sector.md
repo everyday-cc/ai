@@ -43,22 +43,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "The next wave of fintech evolution on the back of data, product and policy"
-    excerpt: "The Indian financial ecosystem is witnessing a rapid and much-needed evolution, primarily led by the fintech industry. The growing prominence of Fintechs is due to their effective financial services,"
-    publishedDateTime: 2021-11-24T12:47:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/the-next-wave-of-fintech-evolution-on-the-back-of-data-product-and-policy/article37664537.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/the-next-wave-of-fintech-evolution-on-the-back-of-data-product-and-policy/article37664537.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/the-next-wave-of-fintech-evolution-on-the-back-of-data-product-and-policy/article37664537.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 42
-    images:
-      - url: "https://www.thehindubusinessline.com/news/82j8v7/article37542184.ece/ALTERNATES/LANDSCAPE_615/fintech"
-        width: 615
-        height: 384
-        isCached: true
   - title: "10 Reasons Why Fintech's Great for the Future of Franchising"
     excerpt: "Exploring ways fintech can improve franchising, from offering better security using biometrics to improving user experience through contactless payments"
     publishedDateTime: 2021-11-27T09:00:00Z

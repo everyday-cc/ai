@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Defining what's ethical in artificial intelligence needs input from Africans"
-    excerpt: "Artificial intelligence (AI) was once the stuff of science fiction. But it's becoming widespread. It is used in mobile phone technology and motor vehicles. It powers tools for agriculture and healthcare."
-    publishedDateTime: 2021-11-24T11:45:00Z
-    webUrl: "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethical-artificial-intelligence-africans.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 73
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/44-artificialin.jpg"
-        width: 1920
-        height: 1200
-        isCached: true
   - title: "Defining what’s ethical in artificial intelligence needs input from Africans"
     excerpt: "We need international and national policies and regulatory frameworks to ensure that these emerging technologies benefit humanity as a whole."
     publishedDateTime: 2021-11-27T22:21:00Z

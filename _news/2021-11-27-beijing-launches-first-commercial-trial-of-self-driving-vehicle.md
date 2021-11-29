@@ -67,15 +67,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Abu Dhabi launches self-driving taxis pilot project on Yas Island"
-    excerpt: "A pilot project has been launched to explore the use of self-driving taxis on Yas Island in Abu Dhabi.. Abu Dhabi launches self-driving taxis pilot project on Yas Island. Abu Dhabi, Autonomous vehicles,"
-    publishedDateTime: 2021-11-24T12:18:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/abu-dhabi-launches-self-driving-taxis-pilot-project-on-yas-island"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 4
 
 secured: "qJKlSlnI8eZilgCtvxs5NXv9MmRfjWbuiFOLTRMwJbMaGjFop7U0sCvPqgHxgVJzZpYB47anT85pgJg+6ewAxxpsfbSNA4XmL5DtjQ3Bl+Z7Q+x4kZUcImDY3kAO+tbKtUG35fB+raYAGRLOHWAewGngUVxmkfNbOZQguvRx58rj2M/CrP1POvgRT94fS2hMJ+V7Qhhosb4d46xXy6wN0xLp9o6EC+LGGbKQDayKozLGR7VKGJtlljja/CcfxqnjiX9m7QptDP+UU2dFEXsip+aM7AgJcBgCdexcH1R6ZeAgXwnNLKgyl2yvJ8WNRBo2yXWJgTHfMAnlhldG6z1MVs/RlmuVCHSgUkqwhgnUrjo=;OcUc6qBY7dc7aDIl/RIP0g=="
 ---

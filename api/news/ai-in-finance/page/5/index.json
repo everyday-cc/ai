@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-21-payment-revolution-continues-to-boost-fintech-5-top-picks.md",
+      "title": "Payment Revolution Continues to Boost Fintech: 5 Top Picks",
+      "excerpt": "The coronavirus pandemic has reshaped the fintech space, boosting digital payment and online banking across the globe. The mass population has shifted from currency notes to tap-and-pay modes, as it lowered the risk of virus transmission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/payment-revolution-continues-to-boost-fintech%3A-5-top-picks-2021-09-21",
+      "originalUrl": "https://www.nasdaq.com/articles/payment-revolution-continues-to-boost-fintech%3A-5-top-picks-2021-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/payment-revolution-continues-to-boost-fintech%3A-5-top-picks-2021-09-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/payment-revolution-continues-to-boost-fintech%3A-5-top-picks-2021-09-21?amp",
+      "publishedDateTime": "2021-09-21T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-ai-startup-navina-leverages-the-amazon-cloud-to-improve-patient-care.md",
       "title": "AI Startup Navina Leverages The Amazon Cloud To Improve Patient Care",
       "excerpt": "But in their case, it wasn’t a cybersecurity or fintech or proptech startup, but a healthcare startup, joining the most recent thriving sector in the booming Startup Nation of Israel. The rapid digital transformation of the healthcare industry worldwide,",

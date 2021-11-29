@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2021/11/24/raleigh-ai-startup-building-
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/24/raleigh-ai-startup-building-alexas-on-steroids-adds-revenue-exec-board-members/?amp=1"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "With more funding and partners, Raleigh AI firm Pryon enters a pivotal year"
-    excerpt: "Forget Alexa. Pryon, the Raleigh-based artificial intelligence startup, wants to be the next digital assistant you talk to."
-    publishedDateTime: 2021-11-24T12:00:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article256073212.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article256073212.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article256073212.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 35
 
 secured: "Yg8eOJL5LTbs6R76DbxX6AJo06Ow4DHLwluc0v17JgrgW/WRCDidMk/dUPb0z+Rw9DOQksRvbn9A7tJYcj7v+GumRxB336NDyy3+Wez+gZFttuL5jZJAwrhau93pjPT+wrGHmmKOh3Bdixvzm9fVBhLqyjfcOmSXjqlzNf7cRjaaS3lZbcb3GNm/39N007pqjRH73lZoDOZ4V9Q5AsNywxJI0MyaS+37Yoz84y58lq6dA2HbbSasRo9qvYyCq63BesH9IVYPBPLrRqZY90qmMvN1WsfxICT4rFzKOPO2pDVQnnu120xzBhsCqk74xc50sG4StJugyT1MuGw43LfWmWMCceJpdsCTh7gs6FWaOwhwq2yeYEOfNiV1OzNIOuGLK2z50Q1Ifw8OH1UgcniwXvkE6lBBSsMVSx0WO2iXyjZdSxCjyFZFa/SVOpl+LaKKa8aAVPMYG3MmN0bolVNfAQzod4YYPmMt6pdXfZFrmbRLwYIbYZnfCAPaWpDecV4B59If58X/ZE83uaWF9OD0kQ==;LK2PCqTJO/tvyF5iJBBzSA=="
 ---
