@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-w
 cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Dazed
@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Is Data-First AI the Next Big Thing?"
-    excerpt: "We are roughly a decade removed from the beginnings of the modern machine learning (ML) platform, inspired largely by the growing ecosystem of open-source"
-    publishedDateTime: 2021-11-29T08:15:00Z
-    webUrl: "https://www.datanami.com/2021/11/29/is-data-first-ai-the-next-big-thing/"
+  - title: "Why Latent AI has an Edge over"
+    excerpt: "Edge AI? Latent AI reduces the latency by minimizing and sometimes complexly bypassing—the need for a distant data center. Edge AI takes a different tack; it runs algorithms locally on chips and specialized hardware,"
+    publishedDateTime: 2021-11-25T19:34:00Z
+    webUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-latent-ai-has-an-edge-over-18378950"
+    ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-latent-ai-has-an-edge-over-18378950-amp.html"
+    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-latent-ai-has-an-edge-over-18378950-amp.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
+      name: El Clasificado
+      domain: elclasificado.com
+    quality: 59
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/ml-circle_500px.png"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "How AI Is Hijacking Art History"
-    excerpt: "Art historians have long used traditional X-rays, X-ray fluorescence or infrared imaging to better understand artists’ techniques."
-    publishedDateTime: 2021-11-27T19:01:00Z
-    webUrl: "https://www.discovermagazine.com/technology/how-ai-is-hijacking-art-history"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 37
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/KCJO46tt4uBdDqT1agJDx/add743dc634dac13256240914cc298e0/shutterstock_1709875687.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill"
-        width: 660
-        height: 433
+      - url: "https://elclasificado.com/photos/cd/18/cd1898064dc84653b7db795892432ac5/l.jpg?image=0"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "/XsPilig6RoQwieHWg1dnO5Q2nAs7nOItB1tUhqUgKV9DMYfzzCDJjnoNvuwgwmuWmpidRxOTL39aBUiAL9aCcYqyVY+KcyskB6sU2ijr2jE5h4wiyTSr8lawh33NgFnNqAq5LuHcu8rGf2Rjqp/I8+KkwJj0I2GDd28Z2Z+jcZUbtzCLL4NogjaaNbXJkF8JVByGDiWR8WcrdZPW2Z6WVutV+6dgDjqEuNCQsNfnioBYjUUDk/FLGtFg6sLNQZ1pKDLNB0wG6ISQM7XVXda/VRRXEm57oCJJoWrMxj7OqjZ5Gtgzwh/khUJeMkDtN2poYFxb/lQSjWVTCpHdooc4NBp+Ydwd0IRUDYWu1Phjwwfr/z6AgxUrHhyZFZ1hL85lRlTXexEEe+XkIKoGZThMlBrKjH7M46Y5GXalnfPBLiHT+8oKcOjjizfFKNlFMRcjDCnSCYnmG0ns1+LvpW7f4sohFEUKlx8WetZGkh15EDPSKTPe9rWPF4MdqYkPum75fiSbguKfh4KCcjYy/G+Mg==;rbY8ZpHF1JklRWhHgC7Xww=="

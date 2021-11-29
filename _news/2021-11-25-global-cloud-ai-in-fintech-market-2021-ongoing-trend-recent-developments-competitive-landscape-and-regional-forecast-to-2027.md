@@ -124,20 +124,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 20
-  - title: "Global Artificial Neural Networks Market 2021 Industry Opportunities, Top Manufacturers Profiles and Regional Analysis by 2027"
-    excerpt: "MarketQuest.biz has released a Global Artificial Neural Networks Market study that forecasts fast growth from 2021 through 2027. The study estimates market share in terms of volume for"
-    publishedDateTime: 2021-11-24T17:09:00Z
-    webUrl: "https://www.wboc.com/story/45283117/global-artificial-neural-networks-market-2021-industry-opportunities-top-manufacturers-profiles-and-regional-analysis-by-2027"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 11
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "8HIomoCC2RzbbfYcFz8gM8O9EUOFiLxb2F1npD02fi3GIr5eFgu3jQVjzFXZrcxWzL9kShboCIu1E6HTio6FimR16owsSK+xOezeLjvzM7/M33X/pT8Xof9V+igp/3ABearpCgrA5qScvbuKruMXX4lJ+a3U8sMQNB57zE6dRB2TylAqjUz6+KTAJ5x/Zzpk5r0uQ+xXrpfw/Hwy08Y7UXSXY8psfDBKW9Vvnib75Bn3b3bDCA7Dx9PMzVFMNINkceF37Pqs8wrSiIcEVxRIf8xTYwLY329qx/xiMw6cnDq6hjx9kXb5ksXlAl2sEyrMRo6ys8YR53YYd8l0/9C8mgrJsZmuTrAe9NDV8Kb+gYE=;XUkgimD1ErT2yIGecIwoCw=="
 ---

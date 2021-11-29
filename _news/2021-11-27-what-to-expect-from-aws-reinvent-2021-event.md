@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/what-to-expect-from-aws-reinvent-202
 webUrl: "https://analyticsindiamag.com/what-to-expect-from-aws-reinvent-2021-event/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyperscalers don't appreciate the needs of SMBs - what should AWS be doing at re:Invent?"
+    excerpt: "When surveying cloud adoption, nowhere is the distinction so stark as between large enterprises (those with more than 500 or 1,000 employees) and SMBs (those with fewer than 500 employees). With AWS re:Invent upon us,"
+    publishedDateTime: 2021-11-29T10:22:00Z
+    webUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent"
+    ampWebUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 50
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-10/D5C71572-4813-4A9B-8652-32DC6B1AD682.jpeg"
+        width: 640
+        height: 422
+        isCached: true
   - title: "My guide to AWS re:Invent 2021"
     excerpt: "Invent conference has not only become the much anticipated event for customers and partners, but pretty much anyone interested in cloud computing. After the pandemic forced last year’s pilgrimage to Las Vegas to move to a virtual only format,"
     publishedDateTime: 2021-11-28T20:07:00Z

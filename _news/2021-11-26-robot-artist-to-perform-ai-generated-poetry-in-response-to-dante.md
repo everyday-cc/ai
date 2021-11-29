@@ -48,6 +48,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The Ultra-Realistic Humanoid Robot Ai-Da Breaks Boundaries Once Again"
+    excerpt: "Ai-Da, the world’s first humanoid robot artist, and one of the most famous robots ever, continues to push the boundaries of “normality,” and make headlines with its daring achievements. After becoming the first humanoid robot to create artistic paintings,"
+    publishedDateTime: 2021-11-29T09:37:00Z
+    webUrl: "https://www.autoevolution.com/news/the-ultra-realistic-humanoid-robot-ai-da-breaks-boundaries-once-again-175267.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 54
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/the-ultra-realistic-humanoid-robot-ai-da-breaks-boundaries-once-again-175267-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "PKWy4NlhMyrLHuEjbeCGzs5eDBBJzmTOPN1shiRhAaBebxFSHf5jSYZvzZ+1CKfmoBc2CyfzxbCqlALZWqU8LtxTHOkCS5opfDofsipbFnT1i8UvVH3qsq7JsvtlrSH83fC/VK3kZLwvLGkbE3yvgzoUoi7LTeMGHBvmZiT210sQvohxIAUXW21fce+HcUkDnL6hIXR5cYUx1Flx6hoJMDNXu/ny7JGO5VeN3ZYBJ/RnG0cktBZmEoFu1gXkKJtqzBR4QI2t978b2foOnDPRELfhzSH18+oJY0mTPG8u9E49J+QqpQFKCCNlR8JttmoSUdwvZomQbeMsewezGRLZp5/X7Jpuk6dAurI57EC/CFnDWotih9c4gMmQnorUkXX6k2ays7eKb3nPwWsA9rKnkgm/rcIa2FnZeZHXFTqOA63g6zsfzedvJJzI/UDzZh3gnZWYbvMZayIgCxjGmph7JIoan0YQrKatwQ2xzvR0h4NPVEU0u3f2UmG6hbd66A0q9tufwY85miZgOy7Otgunzg==;NlnqXT9QzXh64Vb1JbajKw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/info/2021/nov/25/talking-sense-using-mac
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2021/nov/25/talking-sense-using-machine-learning-to-understand-quotes"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Artificial Intelligence That Understands Object Relationships – Enabling Machines To Learn More Like Humans Do"
+    excerpt: "A new machine-learning model could enable robots to understand interactions in the world in the way humans do. When humans look at a scene, they see objects and the relationships between them. On top of your desk,"
+    publishedDateTime: 2021-11-29T10:30:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-that-understands-object-relationships-enabling-machines-to-learn-more-like-humans-do/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-that-understands-object-relationships-enabling-machines-to-learn-more-like-humans-do/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-that-understands-object-relationships-enabling-machines-to-learn-more-like-humans-do/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Machine-Learning-Model-That-Understands-Object-Relationships-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
 
 secured: "jpBg6iSTr+nx3brtmKOT8IVUVCBCGsIdHAOfYwq646cVLYFCgi2T8hr063RSDoRDWML5gUYcH6pNgbfmfgRErvyZALnqxFqj/IDXleeWNGy9BhhD2HbL7r9BA+ImdeiH52SgXlDD7zns0zO/tZcH9AldZSU4H7a4VsMSqccOky9pAK9lCv5ORjyxs7vTSBanQNx0LKUILxpCqyhw3BViQzGJT+CSH5xUA3Gg7ZYELLySEw5yp/TlxIMjrvZVVR9ALYDL/gsejGKr1sqFxLpfPjDtcuukcA+nJHOcT20PVhgbgpixLNLgCDgSJqJe/HLbrjAl2H0r6mrDCoSE2AKthRrb79kwX7lWGkydLFdN9P5PGhqlSSsqWJXgm88tHuH5r9q5CAGMEt7p3CX8RfGJDasjbYYPZoDU++Dys7tD0wR5ae+kTPFkfqPf9bHDj7kIi1dSsO25frSkUo0Fh9cVtjzTXClbqj3rdDSTz298bzZzrZwIE22y8sYPkK/eMulRczGwrqzNnb3nqmyGE/qZcw==;FvK1sPs+Zya82Kyj1CZE8g=="
 ---
