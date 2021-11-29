@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "2021 MakeX Robotics Competition North American open. ends successfully"
-    excerpt: "The robot itself is a complex system that combines ... There is a world of possibilities in STEAM ranging from artificial intelligence to the Internet of Things and the hope is that through ..."
-    publishedDateTime: 2021-11-24T20:19:00Z
-    webUrl: "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/"
-    ampWebUrl: "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/"
-    cdnAmpWebUrl: "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/"
+  - title: "South America Artificial Intelligence in Marketing Market"
+    excerpt: "The artificial intelligence in marketing market in SAM is expected to reach US 11 291 23 million by 2028 from US 1 728 64 million in 2021 The market is estimated to grow at a CAGR of 30 7 from"
+    publishedDateTime: 2021-11-29T10:54:00Z
+    webUrl: "https://www.openpr.com/news/2477805/south-america-artificial-intelligence-in-marketing-market-will"
+    ampWebUrl: "https://www.openpr.com/amp/2477805/south-america-artificial-intelligence-in-marketing-market-will"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2477805/south-america-artificial-intelligence-in-marketing-market-will"
     type: article
     provider:
-      name: The Island Now
-      domain: theislandnow.com
+      name: openpr.com
+      domain: openpr.com
     quality: 74
     images:
-      - url: "https://theislandnow.com/wp-content/uploads/2021/11/IMG_4408-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://cdn.openpr.com/U/b/Ub29191501_g.jpg"
+        width: 800
+        height: 449
         isCached: true
 
 secured: "TCfALWT2a3lQsccB7GiZ9KKE8E+gtGHxsaQDNq3WqQ0laXWfg6nGUk/yG9HwOcL4RioW/OZoVdguXaa8D/ikm3/nnfkjwU+gLuFyCPAARJKCXrmuX3OfN+YZIh/WcXmKfNnBwK5vjdMXAJov8clUglH/4j+whp4wI1Sdt+BgL3yapCVQNi4RSk/sd7doORBvbyoEL2rjaKv00w8eDFR3bOvQe03t0mDoYRKYXNvZOWRG2MLqPsjEmGCySVixBWSV7zDhZxQYaxMOvMTBZxFE8XCGRMp8cLWw+q/RzXTYUm0LavN6fXde5TH5bhtEPMfHJ4+o30HF0ZPV4FujQrKQJLdady6pc25KJznxWeb9jYE27w6mjFNWg5dUl5rGQxWg3eFkPkqkzq9HgFYAW84Pv2ZIPYrPr/7f6luj/Qmwq9ZFUVomobC/MuvVWXDqp4TNScEprAckamwAcgbHUsh5B0wztj9COV+n6hVrRH4VWZREFTyStng2aV5HZsiGvafZiGfZ0z5NSe1YouaSXTkpAQ==;pjnd9wP/oD4OHnXByXOW6w=="

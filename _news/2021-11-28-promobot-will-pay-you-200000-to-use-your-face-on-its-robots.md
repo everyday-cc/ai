@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/promobot-will-pay-you-200000-to-use-your-face
 webUrl: "https://techstory.in/promobot-will-pay-you-200000-to-use-your-face-on-its-robots/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech firm will pay you £150,000 to sell your identity to its robots"
+    excerpt: "Promobot is on the lookout for a face for its humanoid robot assistant which will work in hotels and shopping malls."
+    publishedDateTime: 2021-11-29T11:26:00Z
+    webUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/"
+    ampWebUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 59
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2021/11/PRI_212088133.jpg?quality=90&strip=all&zoom=1&resize=600%2C401"
+        width: 600
+        height: 401
+        isCached: true
   - title: "Would YOU apply? Tech firm will pay a brave volunteer £150,000 to use their face on its ROBOTS which will work in hotels, shopping malls and airports by 2023"
     excerpt: "In its latest campaign, New York-based Promobot is seeking someone with a 'kind and friendly' face, to be used on a humanoid robot-assistant."
     publishedDateTime: 2021-11-26T08:53:00Z

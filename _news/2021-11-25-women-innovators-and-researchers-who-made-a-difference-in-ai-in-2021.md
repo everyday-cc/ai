@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Innovations That Made Headlines In 2021"
+    excerpt: "As 2021 ends, we look back at the AI innovations and incidents that remained in the news this year AI has, by now, proven its power and impact. The artificial intelligence space is constantly evolving and improving with every passing day."
+    publishedDateTime: 2021-11-29T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/incident.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Researchers use simulated environments to train AI"
     excerpt: "University of Missouri engineers are hoping to enhance artificial intelligence (AI) by using simulated environments rather than real-world data."
     publishedDateTime: 2021-11-27T06:03:00Z

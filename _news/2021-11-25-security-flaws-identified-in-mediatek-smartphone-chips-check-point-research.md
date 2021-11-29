@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/security-flaws-identi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece/amp/"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: Business Line
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek chips had faced a vulnerability that allowed apps to eavesdrop on users"
-    excerpt: "Earlier today (25th November 2021), a vulnerability was spotted in the AI and audio processing components in recently launched MediaTek chipsets. This vulnerability would’ve allowed apps to eavesdrop on users."
-    publishedDateTime: 2021-11-24T20:13:00Z
-    webUrl: "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/"
-    ampWebUrl: "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/gsmarena_000.jpg"
-        width: 1220
-        height: 526
-        isCached: true
   - title: "MediaTek fixes vulnerability on its chips allowing certain apps to listen users"
     excerpt: "MediaTek went from a controversial chipmaker to one of the most relevant in the last years. The Dimensity lineup brought the Taiwanese chipmaker big achievements"
     publishedDateTime: 2021-11-25T14:06:00Z
@@ -76,6 +60,29 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Security Flaws in Smartphone Chip could have led Hackers to Eavesdrop on Android Users"
+    excerpt: "Check Point Research (CPR) identified security flaws in the smartphone chip made by Taiwanese manufacturer MediaTek. Found in 37% of the world's"
+    publishedDateTime: 2021-11-29T11:42:00Z
+    webUrl: "https://menafn.com/1103271095/Security-Flaws-in-Smartphone-Chip-could-have-led-Hackers-to-Eavesdrop-on-Android-Users"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 48
+    images:
+      - url: "https://menafn.com/updates/pr/2021-11/29/M_3520dimage_story.jpg"
+        width: 800
+        height: 1421
+        isCached: true
+  - title: "MediaTek Dimensity 9000 chip to cost twice as much as its predecessor"
+    excerpt: "MediaTek announced the 4nm Dimensity 9000 chipset last week during its Tech Summit and now a new report has claimed that the chipset will carry nearly double the cost of its preceding 5G chipset. According to Digital Chat Station,"
+    publishedDateTime: 2021-11-29T11:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211129/3863932.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "BOZtegaidxyjXg511HBHZs6mDiwBQBeJDtYr3Uz4EYIpXCN2zDNnoCFxvNOoWyNpkHKjruaW8skazfmUSohrw5WSdfplTZamJkYybNeCjvAMf7mfqAVRT/xRAK0JGqZJ+Lwk0wsSJieMKVGoikOakLE0xSbrh9tAKjAxz22CXr8/2WKC+p0jHUqVPGaA6J3XnLQtoLwaGIEfnuTr0z198SYQbs/pJd0epv7DVctOig93yOrofQHBRE2AqvoD1dxae9RJcMeuVaie2/PEmlXV6SbBSLrvj5wUhFpwpS7MGlkV025jnMxjgszQ4/m2A6+z0HN+mMmFv8prA3jcNqNq0pKgkOynWZtRHpxNnNznrkE=;t6LGQ6+dyx+R9Pdu8vy9Ow=="
 ---

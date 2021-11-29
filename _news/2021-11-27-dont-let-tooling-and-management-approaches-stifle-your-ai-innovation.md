@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/dont-let-tooling-management-approac
 webUrl: "https://www.linkedin.com/pulse/dont-let-tooling-management-approaches-stifle-your-ai-liguori-"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 719
     isCached: true
+
+related:
+  - title: "How the public clouds are innovating on AI"
+    excerpt: "Companies without the resources to develop in-house machine learning models are turning to the big cloud providers."
+    publishedDateTime: 2021-11-29T11:00:00Z
+    webUrl: "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
+    images:
+      - url: "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "+KZqGQjpvVmfGj0T9xSF2aoBDJAwdxYc/BUZcc3TeLn+GlnqGRAIbLm93qiKdF90bq6yOsioVSPRRjrHiK/S1uKLp8rz88A6+H1+2DlFb892cd9nQMNyEjOUCOo3DlQkzWyD9ptRpfo63UwnyXSHaQbKy/EfWn8UUgCdGwGcZoi5QfFt3J/Lbbp3bjGYaCssOZFhEFyR8RUXEhCs3Qbz/HpLjORx1uDVFoHBsCdQpyYkNl+076ZJfG1SeGf4rwHAQ6TcBVRjfH6KQOTUxr8CEmOcJKWF7qYR3KE9kKnfzoHZIIO1RdYlrp5rbA6sIZQepeKD/0qhTj22GZxm/e6mqegzQlx1SwrCIQIzSdce80Q=;K9C02R2xthUBJO82lbgsGQ=="
 ---

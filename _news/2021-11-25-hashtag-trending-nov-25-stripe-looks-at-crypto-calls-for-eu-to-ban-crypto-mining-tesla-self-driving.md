@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659?amp=1"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Asks Full Self-Driving Beta Drivers to Consent to Being Recorded When They Crash"
-    excerpt: "Tesla's new requirement speaks to a larger issue around privacy trade-offs with certain types of in-car driver monitoring systems."
-    publishedDateTime: 2021-11-24T20:55:00Z
-    webUrl: "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913"
-    ampWebUrl: "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 81
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/e02a404fce0521f2a37718e625fb01e3.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Tesla's self-driving beta now requires video recordings"
     excerpt: "Tesla’s full self-driving beta will now send video recordings to testers.The car company is currently beta testing a self-driving mode, and it has now been claimed the company has updated"
     publishedDateTime: 2021-11-28T08:46:00Z

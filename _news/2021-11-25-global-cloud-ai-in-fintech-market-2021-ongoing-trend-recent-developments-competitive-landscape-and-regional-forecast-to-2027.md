@@ -124,6 +124,36 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 20
+  - title: "Self Healing Concrete Market: Global and Regional Analysis with Forecast till 2028, Business Opportunities, Post COVID Scenario"
+    excerpt: "According to the report The global Self Healing Concrete market size was valued at 22 68 Billion in 2020 and is expected to reach 147 05 Billion by 2028 growing at the CAGR of 25 31 from 2021 to 2028"
+    publishedDateTime: 2021-11-29T11:54:00Z
+    webUrl: "https://www.openpr.com/news/2477981/self-healing-concrete-market-global-and-regional-analysis-with"
+    ampWebUrl: "https://www.openpr.com/amp/2477981/self-healing-concrete-market-global-and-regional-analysis-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2477981/self-healing-concrete-market-global-and-regional-analysis-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub29131153_g.jpg"
+        width: 603
+        height: 394
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Markets - Global Industry Analysis, Trends, Market Size, and Forecasts to 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence (AI) in Drug Discovery Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The report predicts the global artificial intelligence (AI) in drug discovery market to grow with a CAGR of 30."
+    publishedDateTime: 2021-11-29T11:26:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=578687"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "8HIomoCC2RzbbfYcFz8gM8O9EUOFiLxb2F1npD02fi3GIr5eFgu3jQVjzFXZrcxWzL9kShboCIu1E6HTio6FimR16owsSK+xOezeLjvzM7/M33X/pT8Xof9V+igp/3ABearpCgrA5qScvbuKruMXX4lJ+a3U8sMQNB57zE6dRB2TylAqjUz6+KTAJ5x/Zzpk5r0uQ+xXrpfw/Hwy08Y7UXSXY8psfDBKW9Vvnib75Bn3b3bDCA7Dx9PMzVFMNINkceF37Pqs8wrSiIcEVxRIf8xTYwLY329qx/xiMw6cnDq6hjx9kXb5ksXlAl2sEyrMRo6ys8YR53YYd8l0/9C8mgrJsZmuTrAe9NDV8Kb+gYE=;XUkgimD1ErT2yIGecIwoCw=="
 ---
