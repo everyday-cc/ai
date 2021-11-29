@@ -2,7 +2,7 @@
 name: "Wave Computing"
 overview: "Wave Computing is a VC-backed company that is revolutionizing artificial intelligence. with its dataflow-based chips, systems and software that deliver orders of magnitude performance improvements over legacy architectures. The company’s vision is to bring deep learning to customers’ data wherever it may be—from the edge to the data center—helping accelerate time-to-insight. Based in Campbell, CA, Wave Computing has been named Frost &amp; Sullivan’s 2018 “Machine Learning Industry Technology Innovation Leader,” and recognized by CIO Application Magazine’s as one of the “Top 25 Artificial Intelligence Providers.” Combined with MIPS, Wave now has over 400 granted and pending patents and hundreds of customers worldwide."
 type: "profile"
-heat: 50
+heat: 58
 
 website: https://wavecomp.ai/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=pHaRbs5cOek"
 
-secured: "RBoGjG0m4lOaloRo4IG4azeX2CIiQnYES8U4x9MYXpu4JYvF9I+K6GbjdtxgeGqdPNhdB/gALZCwT8JYFNQa/oAIbeON339tWnwf1s3sCyjByMgqqBzuom+22psro6fkjSRV24uyYbzDYeOCfiUBz5G/o4b1aBASzQMxKWoHDD0cH9CUpek/CHI0JEhAMfwzYpEhKxcx7yWqh+hHpYKdBPJhg65qEoMlsLy9OS57TThz6AqHaGAqWwCkuvLXi0D/rW/CHeGsstZ4576hPfhL5FSErHj/zAr2yXBz/9Wj9VUBS5Hzmuzt6eKf2RcbVg9BFprwQXiXTQfQmzeXwKbW/3m9B2aHGBOlZzgy5TDfypYbBkEXVFtuNUPWQ50QXki6AlwCoR8lESK1EhOsGNMtHw==;Tkik5WxysnUuiCfc2I+Ekw=="
+secured: "f8DBUMv1gidR/JTEoiGAWqjastmgW6YIDypcJy8T2OiddIfXw1r3nck9Z8yn6Qsaz21xwqNc6N7bt9J6+VyZgZ4TVx49AJhJH3AT/a3MQ5zYYIqHbZnJVIxeCp30S9+u1HNN0+2os/yOG7OI1EpUvU6HQiks13hJ8N+VAcEjXl6wTGKFzKbICPS8LCt7nBSeSU5aUHwbWluqr5CPK8zkUZ4v0oHNU+FoeHAtMr3se7A+9CbnFA4ISTpHZSw8zibAJDgcAZBo79SEBfkgFyQbi8113Esw3p/Sy7lmEcddnDS7WObZCSjBDO+VzpGr+ALzkKObNGKgpk/5znvfyNFlzV2QL47OIUE5eFItA0p6loeyPZPWCvmF82IVQCmzewvaUYTEOkHup/IRWoIoABCUBQ==;kNJmVP1/TdYPlnBfZVstYA=="
 ---
 
