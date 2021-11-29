@@ -55,6 +55,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "How AI is aiming at the bad math of drug development"
+    excerpt: "Drug makers and investors are spending billions of dollars to turbocharge the search for new treatments using AI."
+    publishedDateTime: 2021-11-29T17:42:00Z
+    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/how-ai-is-aiming-at-the-bad-math-of-drug-development/"
+    type: article
+    provider:
+      name: The North Bay Business Journal
+      domain: northbaybusinessjournal.com
+    quality: 56
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=eed53b4f-ab4a-5fe3-b067-6e404d33834e&type=primary&q=72&width=1200"
+        width: 1199
+        height: 799
+        isCached: true
   - title: "NYC aims to be first to rein in AI hiring tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their résumés or analyzing their video interviews. But New York City residents could soon get more say over the"
     publishedDateTime: 2021-11-28T13:11:00Z

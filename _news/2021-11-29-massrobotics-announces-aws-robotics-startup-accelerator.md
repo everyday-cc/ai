@@ -42,6 +42,15 @@ related:
         width: 823
         height: 438
         isCached: true
+  - title: "MassRobotics Announces AWS Robotics Startup Accelerator"
+    excerpt: "Robotics Startup Accelerator to address the biggest challenges in the automation, robotics, and industrial internet-of-things (IIoT) industries. MassRobotics is helping to create and scale the next generation of successful robotics and connected devices companies by providing entrepreneurs and innovative robotics startups with the workspace and resources they need to develop,"
+    publishedDateTime: 2021-11-29T20:05:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/11/29/massrobotics-announces-aws-robotics-startup-accelerator/17874/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 51
 
 secured: "v6rr5G7LyTIDxrNYmankQ+Kb6Xq4nnHfZjbjmiJ5y1vD5bLYEY/RtGqF78/c98+3PgFQIKk2lNCSErM7cx9APYgxJ5nfgIDun2w3II/A0vDCdVmF8I5o1f9SUEraOtZ35SUXraqkRPIwH2UUriQBflH6oQO8/9jvipTSeKWLFSBNTlKNWNKxLBUQ2WJmZOLHzb4PCpNss0lQtsdRm0paAPJU4xJQDNnPLArYEBFLj0E2E4kOwdXUtc87znZfEInTsi/WQgY1O/CVxAdyns/6aLP3eAKy+bkARea/3SGLKfoot7C9GTSRMEH5slJuJ//nBkD/2YcZdeDlVDpgIuK6uWJWZmCoj+ayq0+e38SmlVI=;ONRiD2qZIStcS9sLoaLx3w=="
 ---

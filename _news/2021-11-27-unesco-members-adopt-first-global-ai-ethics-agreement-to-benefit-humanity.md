@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "UNESCO launches global standard for AI ethics"
+    excerpt: "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity."
+    publishedDateTime: 2021-11-29T19:00:00Z
+    webUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.html"
+    ampWebUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/01/digital_world_transformation_by_metamorworks_gettyimages-1152954867_woman_thinking_strategy_leadership_imagination_creativity_intelligence_by_metamorworks_gettyimages-1193842896_lightbulb_circuits_by_thinkstock_3x2-100826596-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "UN agency pushes global AI ethics norm that bans use of the technology for social scoring, mass surveillance purposes"
+    excerpt: "The UN agency’s recommendations come more than a month after China introduced its own set of ethical guidelines governing artificial intelligence."
+    publishedDateTime: 2021-11-25T15:44:00Z
+    webUrl: "https://www.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social"
+    ampWebUrl: "https://amp.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 81
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/fe601c41-01af-4be7-b8bf-7eb08ef44d95_54c6345e.jpg?itok=Dj8aHAAM&v=1637855057"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UNESCO member states adopt first global agreement on ethics of AI"
     excerpt: "The first ever global standard on the ethics of artificial intelligence (AI) was presented by Audrey Azoulay, director-general of the United Nations Educational, Scientific and Cultural Organization (UNESCO),"
     publishedDateTime: 2021-11-26T02:07:00Z
@@ -90,20 +122,6 @@ related:
         width: 680
         height: 680
         isCached: true
-  - title: "193 countries adopt 1st global agreement on Ethics of AI"
-    excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
-    publishedDateTime: 2021-11-26T11:59:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1161070"
-    type: article
-    provider:
-      name: Gov
-      domain: pna.gov.ph
-    quality: 56
-    images:
-      - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
-        width: 720
-        height: 377
-        isCached: true
   - title: "UNESCO member states adopt first global agreement on AI ethics"
     excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
     publishedDateTime: 2021-11-26T02:00:00Z
@@ -117,62 +135,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1637892175.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "193 countries adopt first global agreement on Ethics of Artificial Intelligence"
-    excerpt: "All the nations members of the UN Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common"
-    publishedDateTime: 2021-11-26T04:48:00Z
-    webUrl: "https://arynews.tv/artificial-intelligence-agreement-unesco/"
-    type: article
-    provider:
-      name: ARY News Live
-      domain: arynews.tv
-    quality: 52
-    images:
-      - url: "https://arynews.tv/wp-content/uploads/2019/03/artificial-intelligence.jpg"
-        width: 750
-        height: 369
-        isCached: true
-  - title: "193 Countries Adopt First-Ever Global Agreement on the Ethics of Artificial Intelligence"
-    excerpt: "One of its main calls is to protect data, going beyond what tech firms and governments are doing to guarantee individuals more protection by ensuring transparency, agency and control over their personal data."
-    publishedDateTime: 2021-11-29T13:42:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/193-countries-adopt-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 49
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-1.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-    publishedDateTime: 2021-11-26T05:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271808320/193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 48
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "UAE - 193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "( MENAFN - Emirates News Agency (WAM)) NEW YORK, 26th November, 2021 (WAM) -- All the nations members of the UN Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of AI."
-    publishedDateTime: 2021-11-26T09:39:00Z
-    webUrl: "https://menafn.com/1103254638/UAE-193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?994757"
-        width: 377
-        height: 250
         isCached: true
   - title: "UNESCO member countries adopt first global agreement on the ethics of artificial intelligence"
     excerpt: "AI has gradually made its way into our lives. But the algorithms that enable it to function have also been misused in recent years, illustrating its dangers."
@@ -225,23 +187,14 @@ related:
       name: Associated Press of Pakistan
       domain: app.com.pk
     quality: 36
-  - title: "Ethics of Artificial Intelligence: 193 countries adopt the first global agreement"
-    excerpt: "UNESCO addresses the ethics of Artificial Intelligence, adopts text defining common values and principles needed to ensure healthy development."
-    publishedDateTime: 2021-11-26T09:21:00Z
-    webUrl: "https://www.itp.net/news/ethics-of-artificial-intelligence-193-countries-adopt-the-first-global-agreement"
+  - title: "UNESCO Member States Adopt Global Agreement on the Ethics of Artificial Intelligence"
+    excerpt: "The agreement aims to realize the advantages artificial intelligence brings to society, and to reduce the risks it entails."
+    publishedDateTime: 2021-11-29T20:42:00Z
+    webUrl: "https://cacm.acm.org/news/257093-unesco-member-states-adopt-global-agreement-on-the-ethics-of-artificial-intelligence/fulltext"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 33
-  - title: "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-    publishedDateTime: 2021-11-27T06:16:00Z
-    webUrl: "https://www.publicnow.com/view/B73061C387565349315DA2D7990FF03A9B822A43"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
+      name: acm.org
+      domain: acm.org
     quality: 29
 
 secured: "pEt5U0TouTBC7OAcC7PNvuO+kUaKfrz1CIEXGIjkse9qMZc19hpdAzGDT3iS2NgNzTKc6zk2lymbCfIGZ+n3FCWydl0m7Nup4ryF8n5Q+FiPCAhB5A1nS9r+hYaxBlzDr7qVqmt+pspRduQvu3qnKGkjCIr/5koLqQFWmayVaR37KJpd1LyZ5jb5z51NJlYFN79VjBzNxBPMkUmp9IeKsDi4qjCfve4/Ozbm60RhKhn2M0WFKbXNS54Q9tSyEtN943RY2Bb3ycU4L6jYnh5yxTQE+suSYQuDB7D34lGGpC/FAMoN9JB3Snk/ecyxGxYwxZWK6vy3/W4m/k+EK2HBOHxKr9oqtpXCGV7Eg4UH0oGx01yf9IWMYKJ4v7FebAPPN5t7SRDeBIBcxRdfEkIjdCGEIlHVRu6iFEoq9wsVgsqjV3AaIxC8laN+gfEtA6lRfUcfe4WEnGSA/WThIntBHN/hfVZGn+trjbmcluNj0Hq2re6rWJmUHAkVHWO1K5qh2Y6oSFwgYruLy+I0zgegcw==;sQNyOtikwCBV4+voj11PSg=="

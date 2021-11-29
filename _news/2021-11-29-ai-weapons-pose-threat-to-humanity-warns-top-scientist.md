@@ -3,8 +3,8 @@ category: news
 title: "AI weapons pose threat to humanity, warns top scientist"
 excerpt: "The computer scientist Stuart Russell met with officials from the UK’s Ministry of Defence in October to deliver a stark warning: building artificial intelligence into weapons could wipe out humanity."
 publishedDateTime: 2021-11-29T05:00:00Z
-originalUrl: "https://www.ft.com/content/03b2c443-b839-4093-a8f0-968987f426f4"
-webUrl: "https://www.ft.com/content/03b2c443-b839-4093-a8f0-968987f426f4"
+originalUrl: "https://www.ft.com/content/03b2c443-b839-4093-a8f0-968987f426f4?twclid=11465375938020057095"
+webUrl: "https://www.ft.com/content/03b2c443-b839-4093-a8f0-968987f426f4?twclid=11465375938020057095"
 ampWebUrl: "https://amp.ft.com/content/03b2c443-b839-4093-a8f0-968987f426f4"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/03b2c443-b839-4093-a8f0-968987f426f4"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 281
     isCached: true
 
-secured: "WBgZ/eBt/Au9ojlxQPBvkPUi/jPuxRIoEKxCXdkLpEdh4h9qMJVeeaWFmPcOLDRN9spT8BEwQcf2Osu763vohXzeHmZSzU1UctaAciEqaVQ/em47411v+/ImgpNaXw9AWM2Pl3JW6WkMO1Oeh8xRDokWodHLgQaCZ8GmhZfSObEylltYodiC18gbPDHNIfl4tLmf/mTiTCkf8hfIT1fxWgANS9IK+Cj5CWz530+b8Oui1hh+gYZhTcdVb8OKLWfBOu9MiEDLd/DrwJf/Q//ZNLJxpTfvttA7Vs6UINA1pcprgeuHRzuNEPfFbFHNLrRZFuMkB/g3Uk0cwpKfJ9MYs6FPIR91fDscHgRCSsWsjkPSHoNERcXTzOKF00kyRzOwl21dew8N4Wg7KhR70BlpgruaQ7bBXfdMuLH/CfA1r6Gw1JEJaWqGs4T+yxVMYEu9wcfUfae09yW+bfUC3J20zT95I4aPuIsIUZi4IwXOC7jJk4mlRbvXmrtWnDme4UYLnK0hF3+zeEWyylyMaT7NvQ==;c0fToA93mtzX2RK3p/WyYw=="
+secured: "+5q3jfK7YiUsGGr6MQOeJFI6xSGY+T0CW9u9KGYrmwiOJf7ZhBhosKuH96hzWn19GoIE0B16aZONl1+mB/nWxd9/cVrc724R2pHzJrIQFXlq3A3uI+jRZOUKaBzrOUaDlvwuGOLFDVyKSB1Ak+TJ3ZGJohXAEmYJPxTdjJ7UNRGLBj1qD6WPl5zb6bjbmJiJ/PV4ahT1wv4iSFL8A/KhjY9FtcClHzRYNLi5vNylFA/EcBblBC1zOO2nsY860q18SmiMvNYKdnkw1QN2YhpJMOTL7gVP7L/uRcdPgM5MVn4KNJLEsif9TUcu2hrUHY1C3jDN9RP6Wl7aE/hWcJoNUfDvtvT/DkGRlq5F81WZWHc=;epY7PhDRBoTyXkbxdaca8w=="
 ---
 

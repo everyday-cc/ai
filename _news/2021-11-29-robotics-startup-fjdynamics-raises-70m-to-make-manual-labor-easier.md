@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "MassRobotics Announces AWS Robotics Startup Accelerator"
+    excerpt: "Robotics Startup Accelerator to address the biggest challenges in the automation, robotics, and industrial internet-of-things (IIoT) industries. MassRobotics is helping to create and scale the next generation of successful robotics and connected devices companies by providing entrepreneurs and innovative robotics startups with the workspace and resources they need to develop,"
+    publishedDateTime: 2021-11-29T20:05:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/11/29/massrobotics-announces-aws-robotics-startup-accelerator/17874/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 51
 
 secured: "HdlFH6uzmSuWmK3HyLuPQMTtf2LjV1gxLzsL3OBEgouaa5v7VOKDZ+sTIo6ABot1nJs53gJjXvnkLC9UQylRKlnR7xbRkBYC3BU7CIhlPWVFUs8ZCyhJnQy3un1A0nIF0wMK3dWFHgodolHGwXCLQm3IFSR9CLgiunwHwpbg5XeU6meJ/Dbs+gbYqKLwKz4awlZ+lFdpPPIrFWqbMqYUiFKwdO4IL49WjXJxSW32Dmb1tBWVSsCWvf2fYRa2R4afv1NDGbX3HkVPN6f6dsADY55NY6cokkLuRSESjpvyYfjRSKmdqw0947olYP2UC7NqsvCiXDAngTdNyZTkYHta34L21lY37jxmXf7YtFrwM4yyXT7Im0Ia9Qjoz2xb8lC711YulNzMIL5itRSSuWLhMUQiWix4SIbJkszkxbQhCRTqG5w95ExO5Bzs5rw3SK+38JCy2Hub6pz/JIGkwQN3uRKLhEgepCKJYJBeVU2XnxU6Ogv1BnsIrMrA+tifVTgTko5odhoQVP9TIEnxXyFO6w==;uUNIL8XCfRquv7T5mTu2Hg=="
 ---

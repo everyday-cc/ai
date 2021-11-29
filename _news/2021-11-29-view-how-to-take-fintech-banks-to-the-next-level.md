@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-f
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "China: WeiyangX Fintech Review"
+    excerpt: "Beijing Looks to Set Up Digital Asset Exchange in the Sub-Center Area On November 26th, the State Council released a circular on supporting Beijing’s sub-center in pursuing high-quality development. To achieve the goals of a green city,"
+    publishedDateTime: 2021-11-29T19:15:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2.jpeg"
+        width: 1280
+        height: 1277
+        isCached: true
   - title: "10 Reasons Why Fintech's Great for the Future of Franchising"
     excerpt: "Exploring ways fintech can improve franchising, from offering better security using biometrics to improving user experience through contactless payments"
     publishedDateTime: 2021-11-27T09:00:00Z

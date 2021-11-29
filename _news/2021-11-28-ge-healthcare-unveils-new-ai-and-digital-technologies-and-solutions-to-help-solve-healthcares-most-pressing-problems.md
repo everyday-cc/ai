@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemi
 webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-health-north-america-b1e688d9def848c2b5e6e97ec9c5db9c"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "6 recent Big Tech partnerships in healthcare: Amazon, Google & more"
+    excerpt: "Six recent partnerships between healthcare organizations and Big Tech companies, including Amazon, Apple, Google and Microsoft: 1. Microsoft and telehealth provider Babylon are teaming up to use artificial intelligence and cloud computing to explore opportunities to increase their health IT offerings."
+    publishedDateTime: 2021-11-29T20:06:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/6-recent-big-tech-partnerships-in-healthcare-amazon-google-more.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "ilLoCkf0NYDg+pL2TlOaRDQxITw9kFzCWfabBUIZ9cFrOyyRYqWQS7NeEsGuz6fq2f3TZef7P2WiqqWXje7TifH50z7pQ0XfygJs6TbuCVbiB2vso4xyT4000oLRgGfLKMT7Ole1yhSy1sZITJ+U7pj6X2QsvpWREPlh5okM/2yMCL9uPpE8ZIjgzEgpyfiu8y6RECvLJFPMyKV1YPq2pbV8pXdK3zyTFGhdt95OmJr3xmeWDSH2MsmEBxlYvIA2peEH/YcToLfDLaKpSniPUybLqrMMC7hXRBX5K99Y/x2z+nu/glXf5rXxhvDtAP9R4R5vZeR6P8XlNrgIIm7rTkFfmuk9zi+3JSxk0Xn/WDc=;nu1MPZQCh/K5DINBMSqFaA=="
 ---

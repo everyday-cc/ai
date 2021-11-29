@@ -1,12 +1,10 @@
 ---
 category: news
 title: "Does artificial intelligence for IT operations pay off?"
-excerpt: "Rodrigo de la Parra, AIOps Domain Leader at IBM Automation ... AIOps is the application of artificial intelligence to enhance IT operations, explained de la Parra. It spots issues by using ..."
-publishedDateTime: 2021-11-15T19:53:00Z
-originalUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334"
-webUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334"
-ampWebUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334?amp=1"
+excerpt: "For overwhelmed IT teams, AIOps holds the promise of automatically heading off potential business impacting outages. But some IT leaders are skeptical about whether it can really deliver results. Rodrigo de la Parra,"
+publishedDateTime: 2021-11-16T00:02:00Z
+originalUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off-2/464875"
+webUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off-2/464875"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2021/11/c-g900f5c19e_1920.jpg"
-    width: 1850
-    height: 950
-    isCached: true
-
-secured: "TJCykrfeJSeVF5+D7JtkAv0oGJ2EC3jObGcOxjE1pItz5h2ZzObPOz21G04DMa2hvk5mgY6dOutq2ECdlJi4adwKtVguVWT8f/kNvtusrIivsMwPzt+erl/NtVJxuHOTNXVF6lRZ6dN13Xhpp9YJ7diCG1YwZTW9C4WiiQGtF7ZecqU6Gh5Zc79s95iDJpp/09vOHihkgj/QvknloDQ8EN5xTkgh92iaz2vAdk5+YeZBTKYpIJCozbhGJG1GmNuu9/2yNJtX0SoL0q0H03TTmNi4SslKzN+QiYJkHem2x+F9Uc13qQ0+ZhqFBa2daZR6gLH83JqDCV1EqE6cLQeNAoNHGS0kUDkCo1ZdET60xRU=;k2eWHHXgnu6cLkzZCl4iUg=="
+secured: "8aCbA4L9WNkEgp9zkKCtDm0VS8Su8TZAzkzbJAs2uZRs8k7OEJGQzjygkXYJg3vp+UiiYKGe3kFdBeUhto3Ug+AcO2wV6ntr4LEXkz/ZLacA7nuZPXkwD88ZZ2K4FtMuV8lwwFvAiCUAZ+Zn2FLf5DD2IIE+Av5maYSA/BTBsuKSaBvdxF3t1phbS5fNvMQTYfzxdrlAmNHI8wUPM4+vaRklpKs+krsnk1+ptc385hdG4LDv0wSEqfix2AptX57rVq7OOeIYtyMIMAlqjYab8kyWlXC4nBDuPbNuWlcGKUSgQAQZQlwP+h2wQsl6kU67cIBpH9VjNSHxd6J8MOnhadl7SuzeFbZ3K9pI801CGkE=;do6uWxQHZoci2dG+de+JCA=="
 ---
 

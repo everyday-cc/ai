@@ -53,20 +53,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Beijing launches China's first commercial pilot for autonomous driving services"
-    excerpt: "Beijing launched China's first pilot for commercial autonomous driving travel services on Thursday, with many viewing the development as marking the end of the testing phase for autonomous driving and the beginning of broader market development."
-    publishedDateTime: 2021-11-25T04:36:00Z
-    webUrl: "https://www.globaltimes.cn/page/202111/1239891.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 20
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-11-24/fb64b624-f8e6-4908-bcef-2cdf6c68c237.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "qJKlSlnI8eZilgCtvxs5NXv9MmRfjWbuiFOLTRMwJbMaGjFop7U0sCvPqgHxgVJzZpYB47anT85pgJg+6ewAxxpsfbSNA4XmL5DtjQ3Bl+Z7Q+x4kZUcImDY3kAO+tbKtUG35fB+raYAGRLOHWAewGngUVxmkfNbOZQguvRx58rj2M/CrP1POvgRT94fS2hMJ+V7Qhhosb4d46xXy6wN0xLp9o6EC+LGGbKQDayKozLGR7VKGJtlljja/CcfxqnjiX9m7QptDP+UU2dFEXsip+aM7AgJcBgCdexcH1R6ZeAgXwnNLKgyl2yvJ8WNRBo2yXWJgTHfMAnlhldG6z1MVs/RlmuVCHSgUkqwhgnUrjo=;OcUc6qBY7dc7aDIl/RIP0g=="
 ---

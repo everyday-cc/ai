@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/29/clearview-ai-ico-view-to-fine/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/29/clearview-ai-ico-view-to-fine/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -44,7 +44,37 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ICO warns facial recognition company Clearview AI could face £17m fine over privacy breaches"
+    excerpt: "The controversial facial recognition company, Clearview AI, has been warned it could face a £17 million fine for multiple breaches of UK Data Protection law. The Information Commissioner said today that the company,"
+    publishedDateTime: 2021-11-29T14:55:00Z
+    webUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches"
+    ampWebUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 63
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "Victory! The ICO provisionally issues £17 million fine against facial recognition company Clearview AI"
+    excerpt: "In what could be seen as one of the strongest sanctions against the company in Europe, the Information Commissioner’s Office (ICO), which is tasked with enforcing data protection legislation in the UK,"
+    publishedDateTime: 2021-11-29T19:01:00Z
+    webUrl: "https://www.privacyinternational.org/press-release/4706/victory-ico-provisionally-issues-ps17-million-fine-against-facial-recognition"
+    type: article
+    provider:
+      name: Privacy International
+      domain: privacyinternational.org
+    quality: 38
+    images:
+      - url: "https://www.privacyinternational.org/sites/default/files/styles/middle_column_cropped_small_1x/public/2021-06/Face_exchange_0.jpg?itok=EAJ1AISz"
+        width: 555
+        height: 312
+        isCached: true
 
-secured: "7JqShkiA+v5bnl1rCepOJVQLGVN5P1e0PNB1oj60QAvX8aRRDXuBnPVwBPiohdNZxugOWdsOGNI7dnB/rcdq0MGeWrrpUUksQS+BKxzaLABhu84P2nubCpAiq0rQpZkO4LEhIDJsYiAamlLFvHHwffWvUXXcS4NIjoOefNRSLUNoxNEVGPg0Nzj3KImYv1IKNjVD/OelfbrAVDR2sW7NqgqbyduJ404T6E+b91ImeNYA2bGtRCjkHDUyhq8J9ARhaggqPwUX9aAY9rSRu6OICwr4iFLtvQuiggHVB4WMLaJ9vfXpncmS7n0giBuE8w6RlINDpiJ7KKcFZOpt1pypCCPX8tCruNNuP+KWHwEqg1U=;mQe2y4vZm62oAibZwL/rqQ=="
+secured: "qN/N20mD9S4Z9tFT8bI7OKUMT1sb2vl8hQAhfR3la3Zz+ZNMbbNbigLnuIbSZztv1EHJBOQx50dwvbc51Q0CuQddCE71w6sieTfzjnrdMQXO7pydvmi7xGd0CHwXNW3O/Of5ilg8Kk47k2ODaQsOM1ne6sYzEDtGmFmxubAUOsxdaztTIp1pX5CQJbK469GC1QDZIPJlVwRNrdxQi44CAbhq5VPiGpM+OH8hV+QDRyJx3vGCLxvMluHmjUdHadQEkdmbCGPr3myw2j3nXFPLC9Qs0Sjcedca3ekYCp2m4+QeG4d6HAN2MpxWXz1MOZoqlqcp9zcRQL/vM2Ma5BzOUs7AZoK6YU3tQ3noqUnoDjSJ087NRSDiT7OrSyl6N5dyc5bf/8oM4KtplrjgueDLUCYKddhYEYsBqcJ0tpAq8Ge6q7+/s9FokOxIB6JNpdH+TIxFijekKh0FMpVz9fnpW9RGZHgJd0okyYPPkI7qtJEvlofgea3M8OdxyLhOfHZAtsFc9BBe9jHw180TDTwd0A==;veRaxAEfH06PaCTVdfOccQ=="
 ---
 

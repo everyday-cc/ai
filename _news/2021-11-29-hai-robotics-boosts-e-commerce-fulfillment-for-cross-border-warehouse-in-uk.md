@@ -2,21 +2,27 @@
 category: news
 title: "HAI ROBOTICS boosts e-commerce fulfillment for cross-border warehouse in U.K."
 excerpt: "By leveraging an autonomous case-handling robotics (ACR) system, the project has helped sellers localize its overseas e-commerce businesses and shorten delivery time to end users."
-publishedDateTime: 2021-11-29T13:12:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2021/11/29/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-uk/17868/"
-webUrl: "https://www.roboticstomorrow.com/news/2021/11/29/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-uk/17868/"
+publishedDateTime: 2021-11-29T14:35:00Z
+originalUrl: "https://www.dcvelocity.com/articles/53103-hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k"
+webUrl: "https://www.dcvelocity.com/articles/53103-hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k"
 type: article
-quality: 46
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: DC Velocity
+  domain: dcvelocity.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/09a96122-a968-4a48-96bc-565c5acbc86d.jpg?height=635&t=1638182684&width=1200"
+    width: 578
+    height: 400
+    isCached: true
 
 related:
   - title: "HAI ROBOTICS boosts e-commerce fulfillment for cross-border warehouse in U.K."
@@ -34,6 +40,6 @@ related:
         height: 277
         isCached: true
 
-secured: "qai1p5wJmKSSoZJ8fe0ekgMoJb2VGgW00K4h9WbvqcaFWMohftSQepPIE5XPnJ52eU5DQf7XoHyWchTqSz3Afp15X49rSYklXzYFDLJ4F2aTW+q4cMr3sV5VWF9N0SPhwCUYKys7xhOVB/aespOnK84oE3JqdxZ8XDGmw7cqMLbuo4YlChIRA8O+G+F62dnSJ7y/dPiz5U5jjmpPwTieAtAGJIEtYmHzZfi99xkIFwgJcj12RN3Wfei3/NAG9kqhas/EFy+wLe/KQ+znMKZS9uFugdgI7UvHDmr9Vdzis+3Wu2/0IziAr+rzPPCHTN2QCOB7HOKUg7dyOP+UGQ+G7y/+ABizP+PruzaJLE3PZhU=;+ol83TUllsq0kjU7IojJXw=="
+secured: "IaWRYsqt0z67tBwoktshz9t74fRmzR1tmYC230gILHxT0BRt/EHoEWbu+oHvAsDQ+rwtY62YLVVLONGh+d9F+HBShTUDCROhNhhT6cm3c22Sp7r5xQva67v0PK+VKVdyi8v3FWW3E/1TJjQ0Q46sJKjiDCXsYBIa0U849XyDsZ4PUz8kcawITYE1TiIE2uyyIdH0CQNWO7sULAtw5qvnGO9y8nkhBZqMcEzeDnd8EH18CrflAcP0e/3hU0mqVMgq3mXrTwjrPdIj2a+2pbGleRjJhw0dvhHtlrOC92ukK1MVM+fTq93NxZcXJeg8/cy5Z7lReHF+k8RnR+94i/cPQtAijCxV02MKy+PgyND0vZI=;xC+1jBzcSvYwvOW/10GPFQ=="
 ---
 

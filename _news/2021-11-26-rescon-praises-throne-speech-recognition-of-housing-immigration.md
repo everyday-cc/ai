@@ -69,6 +69,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The reality of facial recognition in Montana"
+    excerpt: "We’ve been following developments as the Economic Affairs Interim Committee continues to study the use of Facial Recognition in Montana."
+    publishedDateTime: 2021-11-28T07:00:00Z
+    webUrl: "https://dailyinterlake.com/news/2021/nov/28/reality-facial-recognition-montana/"
+    type: article
+    provider:
+      name: Daily Inter Lake
+      domain: dailyinterlake.com
+    quality: 39
+    images:
+      - url: "https://hagadone.media.clients.ellingtoncms.com/static-3/dailyinterlake/images/default-social.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "The future of Constitutional Recognition"
     excerpt: "It looks increasingly unlikely the Federal Government will present legislation for an Indigenous Voice to Parliament before the next election. The final report from the advisory groups tasked with putting forward models for local regional and national voices has been given to the Minister for Indigenous Australians,"
     publishedDateTime: 2021-11-29T00:23:00Z

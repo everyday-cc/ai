@@ -20,15 +20,17 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AI with everything – the future of artificial intelligence in networking"
-    excerpt: "By: Guy Matthews, Editor of NetReporter AI is, say the experts, set to revolutionise every aspect of connectivity. The zero-touch, software-defined, self-healing, threat-aware networks of tomorrow will be light years from the clunky,"
-    publishedDateTime: 2021-11-27T13:53:00Z
-    webUrl: "https://tynmagazine.com/ai-with-everything-the-future-of-artificial-intelligence-in-networking/"
+  - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
+    excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
+    publishedDateTime: 2021-11-29T19:31:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
     type: article
     provider:
-      name: tynmagazine.com
-      domain: tynmagazine.com
-    quality: 33
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 50
 
 secured: "Z9y7DWjsVcVRbG0Vbhzw4dCb7x0oyhP2n2t1/xX7kepZ3B1X4EtgprxS07PHfdnmGbhZ0SRpkaahn5e6/zW/8pH7GKsfUChsoJ7XNQrwf6ZBjm+6HpcnWpDZGFl15yBaEh3R8cFU30E5rrfVCBo7Rf7OTZ7T6h2zhfuV7QKHN41zMr/gZ8uP7K76zTQ7g/QQxnBKuVIhNLlWTdma3PUtB/9cTb/LIipWKIYpSuOGpYCEMx2cHjpaaL8tk12g6pP3sqMH2sFrxrENeS4VNNIbVBg5M1DDzDBiFlJW8crrLNg2ivxo3XuABea0aLvbIAgag8nT2EeCt1DosJIv/f/KkA+BPWdAu+26fzadSfr+PEQ=;aSOW0hmqOP6w2DGa8OG/5A=="
 ---

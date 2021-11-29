@@ -54,6 +54,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "How AI is aiming at the bad math of drug development"
+    excerpt: "Drug makers and investors are spending billions of dollars to turbocharge the search for new treatments using AI."
+    publishedDateTime: 2021-11-29T17:42:00Z
+    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/how-ai-is-aiming-at-the-bad-math-of-drug-development/"
+    type: article
+    provider:
+      name: The North Bay Business Journal
+      domain: northbaybusinessjournal.com
+    quality: 56
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=eed53b4f-ab4a-5fe3-b067-6e404d33834e&type=primary&q=72&width=1200"
+        width: 1199
+        height: 799
+        isCached: true
   - title: "Our award-winning AI is no threat to lawyers"
     excerpt: "Monaco Solicitors won the 2021 Law Society Award for Excellence in Technology and Innovation for our Virtual Lawyer AI employment law advice project. We are proud to say that our Virtual Lawyer tool is helping increase access to justice by making legal advice in employment law available for free for tens of thousands of users."
     publishedDateTime: 2021-11-29T00:01:00Z

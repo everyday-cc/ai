@@ -45,7 +45,37 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "ICO warns facial recognition company Clearview AI could face £17m fine over privacy breaches"
+    excerpt: "The controversial facial recognition company, Clearview AI, has been warned it could face a £17 million fine for multiple breaches of UK Data Protection law. The Information Commissioner said today that the company,"
+    publishedDateTime: 2021-11-29T14:55:00Z
+    webUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches"
+    ampWebUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 63
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "Victory! The ICO provisionally issues £17 million fine against facial recognition company Clearview AI"
+    excerpt: "In what could be seen as one of the strongest sanctions against the company in Europe, the Information Commissioner’s Office (ICO), which is tasked with enforcing data protection legislation in the UK,"
+    publishedDateTime: 2021-11-29T19:01:00Z
+    webUrl: "https://www.privacyinternational.org/press-release/4706/victory-ico-provisionally-issues-ps17-million-fine-against-facial-recognition"
+    type: article
+    provider:
+      name: Privacy International
+      domain: privacyinternational.org
+    quality: 38
+    images:
+      - url: "https://www.privacyinternational.org/sites/default/files/styles/middle_column_cropped_small_1x/public/2021-06/Face_exchange_0.jpg?itok=EAJ1AISz"
+        width: 555
+        height: 312
+        isCached: true
 
-secured: "zD9+C6p1OVDByx/CLoGU/rHQ5uVSEwyei4PU6TAQ4uCIUtkxTdCxy17qrmjcHFwGGyPUYumZu+wW9KhfJM2r7XUTGRYN8DijeAwtXbDJLjU3zkOxCQHxX11Tj7RMNB/1ZVkHCovLFBkrwJ7gpLDZj77hs9vduA0iVgq8/uLtABUKtxo5YHooHcoy4nkvpB8X+2d58d6mYQT5qLbtpRqeXA2hKYuog0DBA9QqUfC/6Kvoc3ZzeAlMedOYFDM6B3kB/NwJrpHdon2MFqEtARd2LXXySrEWZJivbATl4S0e+nU1gH7r4tUoo664+zCYzIMCuQIhBqvp6JLl7DYm7NhzFAf/azjgM7CY7pFVNMmvcgM=;+O7CjtTfV2KcZDDp8/bN7w=="
+secured: "vIokYhQFeVBrL7AFJhtAymNhqAg40Hu47Pj9k6wT3J9SxoPuOrpRWd6C4MnWLe3r4uiuy2JWXtuf0GxhF/LWzgL6QUHLpwbN6ROPWJT3XsPt/cYgzTT3+gda2EKC3Bz8W/C/p8SdSaEtYDqyW62nfVnOFrWmq4bHvMrmvQ1mp3jZHImhYa4t4USvIrs6en6S2of314qJw1E+jvWqA8ijTAiX8rHAMAnwKch82u9fhZNwDS+cL+C7qF6CPXJl2JkmOjFUIavk+/4lblPrZjN1JloKmTXKzQOKnBP4b+BRKTExmz4phC516qZJIZCHibfKrT5YsHHbYZYeGMLlVtuHJNx4tiM3Gmi/kqDgg/O2y/Lv24A1k/95Wzh4HLMnMLFDEzj51FaVxRh3612PET1ufy9p/xXCM+5HW7FCAUIz72Zozi2LpZbdmszAsiKGhaZ+SROCv0D6TGDTiWT30aoVZzLN0JGYdbndS8K1f96xkOBrsBXDP30aNoff4mAsIhlb/Pr2NrY53bUk9YM6ZMhiqA==;LuWK/0iAiNV10lfpHvM4eQ=="
 ---
 

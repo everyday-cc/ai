@@ -9,7 +9,7 @@ ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/w
 cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "How AI is aiming at the bad math of drug development"
+    excerpt: "Drug makers and investors are spending billions of dollars to turbocharge the search for new treatments using AI."
+    publishedDateTime: 2021-11-29T17:42:00Z
+    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/how-ai-is-aiming-at-the-bad-math-of-drug-development/"
+    type: article
+    provider:
+      name: The North Bay Business Journal
+      domain: northbaybusinessjournal.com
+    quality: 56
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=eed53b4f-ab4a-5fe3-b067-6e404d33834e&type=primary&q=72&width=1200"
+        width: 1199
+        height: 799
+        isCached: true
   - title: "Our award-winning AI is no threat to lawyers"
     excerpt: "Monaco Solicitors won the 2021 Law Society Award for Excellence in Technology and Innovation for our Virtual Lawyer AI employment law advice project. We are proud to say that our Virtual Lawyer tool is helping increase access to justice by making legal advice in employment law available for free for tens of thousands of users."
     publishedDateTime: 2021-11-29T00:01:00Z
@@ -69,6 +83,6 @@ related:
         height: 800
         isCached: true
 
-secured: "fXEW6FdBH3JrHE1bqBBMNNDIsqTtlT973goTsqCnROtRU9nX6z/eNoQ6YrAGSpm5ReC6BvwDuVX5x7I2CVCJBV58Q8ffsvEwlnHbNvRsolNwyjmpP/0IXcSVE51GGllW6DgmjexlBSh4A1EjxtU11I6BSvZemRB79a6cEQkGvAPizs7nVcHXnOa9gCT0uiwDDNFnQTd1MtBCW48eUKGhJA5Xwk9MCTUklkPxHIZZcQZ0bEDHd/t5f18Lm+Rh4epCjvk4vDVfJjsogGViujCkfy0X/XOFjMpB/AxLzo3PN52Pfn449EJWWz9EP0cOzrcavyYYGzVJxg3VIvSD0YtMmKG8NtHGcQ5yca3moa9lwj0=;q+btE7V78Ud7Z4s184T0Qg=="
+secured: "7USWDPCesz12vnxWvJm5xJiRQeIcJ6AOGNAb7dh0TCoK2DkmnZT/KRhiQ6eoI9qtSceY+jwYsOpjoEOO7ePRbP8AW69VhT5xE2UJBSn2AnwqCLCZwZ5cB/dyXaIsqOjkvQbtdmzEHbq6qDIjOeb0lYl1YkaFaJZhZig/lz1wBqgWZMjFJuhb9B6S0o4BNVCwVFS73waP0PJq4rtEWrCixquM4qHqu4oPLNeukXQHhHEznMckOtidvKRV6dePr8f/SNimpjn0pTIF6TpDeLBXcPvpsdiAqDZClIOIogqGs3at5TKhxqRkwEoo1iox9/c4jJdzusYhZSpc3WUR47pemgCbNRVx1NZcYLeIICQc0DguMjDmUVMqgAeiezj0H7I366MV9ZRLwSrrS2ok4HJU/7ORFvJeVSjNwo+IgGKdPvBl55jDug1uCBwTKCAHMzuvIL7ZY7SnBW3ZQjTtmfDM8PbV7wepgBsJb83tyW/YBBGhMJZfjsQ1jMkdYk/3MlRxzjAx1AAmAeqLctU+5QiPpA==;KBr2kygmtsTKTc6ucBophw=="
 ---
 
