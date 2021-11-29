@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/11/w_57313308-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "The future of Constitutional Recognition"
+    excerpt: "It looks increasingly unlikely the Federal Government will present legislation for an Indigenous Voice to Parliament before the next election. The final report from the advisory groups tasked with putting forward models for local regional and national voices has been given to the Minister for Indigenous Australians,"
+    publishedDateTime: 2021-11-29T00:23:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/the-future-of-constitutional-recognition/13653380"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 24
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13082776-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "7CdOOwrYLfp/lUxG1BGJY1hsImPON+jWvBIcG+fs1WAM/i4zi2zdvLd7yD7anGSyYRYWwS73rzeusl78WB2KTkzElqMqb/8N3OkNechTXk1pP+mmGnVPMWkoHHPIXitb8F0ucoMPW6P6AWgcOsOXn9QdIjFrHCZLM8ylMLwC5/93B/Zt8eyRxoG5ne7MSDaPtAK5jIUgtbyUxDbdB1mqbDWvLL3Yo006r33eWcpYQCkM1Hzo31xzKKxIq9hUe61yAQW0qr569+V/GFfImwcyRbaP+mQ1Fn4oxtCMz5XU29xHgQVAw4zOnW8rwt+51d9r8CRsKT4baRgwvow07U4in2VbP3U9Qb0YL8hYdzVjlO+M+eLSgyfrBdRACLu6AV2yHFXbIuFmDJnafDbZsOkxQmspfG3ZiCm3LI7kaN+b4FTpg/O+62vGDVcF1WDYZWSid5mm0NMUs7gkv76UOaZCO6h/3RSn2tre2dc9Jkr4cNbf1VHjY3x8j2aAganJxpquN5OUScyS7faXy8ueoWYUcw==;aWjhlNgvnWZGWHLVllep8Q=="

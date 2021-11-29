@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Market Industry Analysis, Opportunities, Segmentation & Forecast 2021 To 2028"
-    excerpt: "Market 2021 Global Market Opportunities, Challenges, Strategies, and Forecasts 2028″ has been added to Fortune Business Insights. Market Overview: The global Artificial Intelligence (AI) market size is expected to gain momentum by reaching USD 360."
-    publishedDateTime: 2021-11-24T10:45:00Z
-    webUrl: "https://www.openpr.com/news/2473021/artificial-intelligence-ai-market-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2473021/artificial-intelligence-ai-market-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2473021/artificial-intelligence-ai-market-industry-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub24581473_g.jpg"
-        width: 800
-        height: 428
-        isCached: true
   - title: "Global Machine Learning in Utilities Market 2021 Growth Analysis, Industry Trends, Sales Revenue, Future Development Status and Forecast by 2027"
     excerpt: "A recently uploaded report namely Global Machine Learning in Utilities Market Growth (Status and Outlook) 2021-2027 has provided unique insights about the market for the given period. One of the main objectives of this report is to categorize the various dynamics of the market and to offer the latest updates,"
     publishedDateTime: 2021-11-24T21:53:00Z
@@ -99,6 +83,34 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?240591"
         width: 333
+        height: 250
+        isCached: true
+  - title: "Deep Learning Chipset Market Size 2021 with CAGR of 37.1%, Top Growth Companies: NVIDIA, Intel, IBM, and, End-User, SWOT Analysis in Industry 2026"
+    excerpt: "In 2021, “ Deep Learning Chipset Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:121)"
+    publishedDateTime: 2021-11-27T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-2021-with-cagr-of-371-top-growth-companies-nvidia-intel-ibm-and-end-user-swot-analysis-in-industry-2026-2021-11-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market Insights by Emerging Trends, Growth and Forecast till 2021"
+    excerpt: "also the MEA countries have witnessed tremendous traction in terms of neural network software along with the growing adoption of Artificial Neural Network (ANN) solutions. Fill This Form and get ..."
+    publishedDateTime: 2021-11-25T08:42:00Z
+    webUrl: "https://menafn.com/1103248564/Neural-Network-Software-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2021"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?496637"
+        width: 581
         height: 250
         isCached: true
   - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"

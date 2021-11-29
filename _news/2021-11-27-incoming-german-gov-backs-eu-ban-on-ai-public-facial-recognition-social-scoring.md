@@ -69,6 +69,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The future of Constitutional Recognition"
+    excerpt: "It looks increasingly unlikely the Federal Government will present legislation for an Indigenous Voice to Parliament before the next election. The final report from the advisory groups tasked with putting forward models for local regional and national voices has been given to the Minister for Indigenous Australians,"
+    publishedDateTime: 2021-11-29T00:23:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/the-future-of-constitutional-recognition/13653380"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 24
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13082776-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "7UCfXugl92R6mrG1MzT2d7+XdhNgl4GUCxPSnbBrcnOXT5z/pCVxtpS8E2fMA2ghHIXxifqLJX6ERE6ksyVOsvETYOdn7lOpwodZjZYBbO4IfvAZi2Cj3Wj+jt3Fj/OgwfBFTC3ZBEgyoN4y8RgnV7ijJQmhLYzH/nqXLieuR8fvezGt3M31ozNoDNLrK3/i/I0mW5tchPH6F5iy7y1Xv/55gQFO+3cMAublaRPwO0xIMiT14ueMpUpE40HqjODNi+YQDi5LOuWybEyqmRMSJig+EmRI6ufoQJS2VL7JxTzZ4o0SCuFiWXXut0DTzrnf1V48WIjEfj7EFZPNHzPOhJ8xJ/TEOKjvev6PGDaO0/baNbJNCt5XtmkxrxGeRSmxS+tcs5T+yIIbjduLNqMkOSfiJg8eUnclO8ywdxqQdRrXt44F0vqPXmIgxmGYxaoAWnPG0UTEEkXKofvTOtt8nyGYzDSaoMNTDerWmCcSq7M//+YriPtcGOSZhQxo+/JB1X4/1WnBrTPZ3e2fc2KAWg==;2zgC+pxP6rKPnsiKcVqpFw=="
 ---

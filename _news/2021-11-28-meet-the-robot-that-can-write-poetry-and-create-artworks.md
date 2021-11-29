@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/11/27/tech/ai-da-robot-intl-scli-gbr/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/11/27/tech/ai-da-robot-intl-scli-gbr/index.html"
 type: article
 quality: 89
-heat: 89
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Meet the robot that can write poetry and create artworks"
+    excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
+    publishedDateTime: 2021-11-29T00:54:00Z
+    webUrl: "https://www.cnnphilippines.com/world/2021/11/28/Meet-the-robot-that-can-write-poetry-and-create-artworks-.html?_=1638146797578"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 19
 
 secured: "k51rqa525hx6wgByUELrFQ2BMzqBH+pgqDmlqzaFhSp4Mp1GlM+4qpbB7z9/qjEVR05NNyhYCWqfYS4PVXvN1/kiIpczOVPM458s0BBCbdZjuc2yiXkEVo3YwYtrjtfq42t4Ykguxceoi/Kiite0mMeO7DubbdjtOL4g2D0CPtrSI5IOwozR6rrYPmSWBCVQgDV1xT7xH3vo7VaEJPvT2kO4KweJVOWDdQU9vpNrW6frdvcalqqHlOUiyOCAWYUFDzCVtZIz9JkaREv+EEMbFCcHF6QL8CZIQNMkeH/3jmwBYDT7pvcPYs1nGL10TclGg68zly6N+XbrYuJEW476qMJIvtczxq6j7kiD6ThvAnWwbcHBlYs1tyov3pQ/Nah2iUyxK6NVIY89sRDTps9OFNgjp5Epvd803RBzvsm+nc/V3iuDk/vBdJci1jnucqVYiFQf7u4XaTzVGJRZmOY7SrnTGVJrFJk2kj770pQsYlfnWPLt6EuJSoHo1w0wS+vqalg5scN2mh8sBXHWNEwCjQ==;92cyWtjZeksiw9b7AbQw+g=="
 ---

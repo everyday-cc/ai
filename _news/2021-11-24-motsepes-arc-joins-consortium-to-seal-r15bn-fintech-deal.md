@@ -26,22 +26,6 @@ images:
     height: 428
     isCached: true
 
-related:
-  - title: "Fintech Crossfin sold in R1.5bn deal"
-    excerpt: "Crossfin Technology Holdings, a South African fintech investment firm, has been acquired by a consortium of investors, including Patrice Motsepe’s African Rainbow Capital (ARC), for R1.5 billion. The consortium is led by Ethos’s Mid-Market Fund I and includes the founding Crossfin executive management team,"
-    publishedDateTime: 2021-11-24T07:45:00Z
-    webUrl: "https://www.moneyweb.co.za/news/south-africa/fintech-crossfin-sold-in-r1-5bn-deal/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 24
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/shutterstock_163502138-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-
 secured: "xNMZz/8PMeyc4+hcgofF1rRfi2JasaefKBH5VeUsBGh0wxBeHYk006Mc6SAUeHw0jjjqhcWB8nFwAM/VM1klSZN+s1OgsWPvvArvsEryhCHC/SvrIxMym/UNCOpgYSbjZVCxUC7HdogcN059f8IuqgQZ67bbEJs8o0olpwQ1AHh1b1ODq58uKTfoF9uYlGzWiCsL1VJdO0Zp/tF5nzD8uMfbJ+b5g4R4fF9C8lsWaM1aokGf+KfxpVfNer+fpnaDQTS3LhvE4ce7SYp1iEORl/Aswup/aom7vspacyaIYtavx4hXEeJ7EZZTDzGX03ZpqW955YRrX3LLKQo7vJoxFBUpWUZ/XeRblt4IdUA+fR4cKI1sxkFOfHK5zWSaRET9OWJsZEEg0gxy/5sBnupNsaJGVIO7lhVIaencsWaxDCG0hMPOQS97QAM3JpG7eDF7xGLEr3m7biJwCN78IE+SyErHvDFX7/Ij3oa9nwVAqrtSvyFbzXYbuwfPUYakQ3c+Kh/jk7m1/U1K1HfH2SRgAg==;UOb63K387BQ0TGaESQO99w=="
 ---
 
