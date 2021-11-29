@@ -2,7 +2,7 @@
 category: news
 title: "Does artificial intelligence for IT operations pay off?"
 excerpt: "Rodrigo de la Parra, AIOps Domain Leader at IBM Automation ... AIOps is the application of artificial intelligence to enhance IT operations, explained de la Parra. It spots issues by using ..."
-publishedDateTime: 2021-11-15T17:44:00Z
+publishedDateTime: 2021-11-15T19:53:00Z
 originalUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334"
 webUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334"
 ampWebUrl: "https://www.itworldcanada.com/article/does-artificial-intelligence-for-it-operations-pay-off/465334?amp=1"
@@ -23,6 +23,6 @@ images:
     height: 950
     isCached: true
 
-secured: "4o48/xXJVPlTI8ARXGVipeJb0cX3HOUA3wrWVnJLGQFSfc1ffTPwFU5mKW6rWmdPURjNr9pibS4arbGTL9ZtZp1sRwKnVAU6IQHSKCX8iBZI6W4MwVtH5WPNNAx2gRrJmEMk5wfEV4lovf/YUO9ri+czulwioMZW4C+Xkaq8/XStgmwEOyjmwj2ks4IXYwWPD7kXLdsmPU4CkVypz9BiLfevviwgujq9ZdoyCGVZ1N1BQUplA2WyWrVXVxcNRnzKPLZAPOW8436AAOZB9Auv6w9xEQIUVWwz5rlWpI8NfE9oqW8SuA09yiU/lZnJ/6+EilkJ1xX0DXZ14b/w+eYy6H61ddg0ICsO9mX2Fj7qgrJlzeCoA5zM2A2jLioGaqT/DOy53XU65GJgrGTH9Qys24+WjMWhgYTFTw7v0SEFDA75Xs1HQMVGuicH2rYSFzIhq9lf7jLsfOiOCEeE1xIvh4RBn5DoIJPf7jHk4Jv3Bv7S+BN+YyJMpA/FZQRKoAUXulFeaIfssUIEQVGOAXPUnA==;n/EqJQtLlmNfzzX602ElMQ=="
+secured: "QwhKf3GM/pR/0ndiT2HJ49o1zQ+TUp0QFKEE3ypMRv8IRNjtp5gp8biXm+cDm/EZboK2oTtDyiVirY77DE0MYGqF7ttGkCyOvcp2b5JIGPmou40Rfu6DmX6+MaMmq3MjKGKJrwCav6oemgxSQ9yEYnAZEkQhEzwcW1Xq9uHaI3wCVbmCxIsfAuy97oJjoadBc8UvzLxWhwsS+ucsuo7eVWXvOg3j+oPXxgmpwM0WYkOIdhVRcLCecEZQbBFDTrcD4FcQrMu0orF4XVELskgmqlX0vuLozY+ujxOJ6Y4EU9TR3UDTNVUYMvE00v1d+4mQekn18ZV0TV2usuKlO0B5sWgIBv1JhRwd0r6r1jh+1Ak=;SU/XZD6wpvLkx/qHb8Y/aQ=="
 ---
 

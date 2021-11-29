@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Piraeus Bank Renews its Self-Service Network with Diebold Nixdorf's DN Seriestm ATMs"
-excerpt: "Piraeus Bank, a Greek multinational financial services company, is the first bank in the country to widely adopt automatic cash recycling by deploying more than 300 DN SeriesTM ATMs from Diebold Nixdorf ."
-publishedDateTime: 2021-11-29T14:17:00Z
-originalUrl: "https://www.lelezard.com/en/news-20129515.html"
-webUrl: "https://www.lelezard.com/en/news-20129515.html"
+title: "Piraeus Bank Renews its Self-Service Network with Diebold Nixdorf's DN Series(TM) ATMs"
+excerpt: "Piraeus Bank, a Greek multinational financial services company, is the first bank in the country to widely adopt automatic cash recycling by deploying more than 300 DN SeriesTM ATMs from Diebold Nixdorf (NYSE: DBD)."
+publishedDateTime: 2021-11-29T15:29:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/11/29/piraeus-bank-renews-its-self-service-network-with-diebold-nixdorf-s-dn-series-tm"
+webUrl: "https://stockhouse.com/news/press-releases/2021/11/29/piraeus-bank-renews-its-self-service-network-with-diebold-nixdorf-s-dn-series-tm"
 type: article
-quality: 32
-heat: 32
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Finance
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "D8YiA4vON+P65tAXHEpst4L1x8oMaATwV7ZU/ViO3+5VY3QHT6C4ip2iS/DXl3B5s+r9yZ9dNsff6miyqK0ezFdwwF5XYp7+GDcXwmyHjHWklcu5rpdEC24NulNKHum+/y1SYxNGR2DkOj6wv9zGozYXB7L1U8tG7FpUcHJsD1EiP/exhikw4PjHhhSH2KrlmqbTX91xBYgWC9UerZYWFzwombOOpMLuBaYdIIvPuIRq0Bkly80RAijrDZElzgY8J8eQ5Yvw1gn3KmiJ8ALaM9o/77l94a8dttuu5KmQGfa2nJX+i9A0uSG/zMNPLJ1Ng/RedkaYFgB5YCABdsRZMm/dzd4uVFAP7j6Tc9yXA+c=;pzCdY8Etx4I9c0TYjYlgLQ=="
+secured: "lqOuz5dEt7GEdW+IIgarDfAnYYeB5wMM8TSLD1AToLpF7c0Nmryih0eHx/MdjoVTNpZP8EXMOxqrpkXD8JtTBsUJAj9Ls3gY6XclTI6+zeieQ9PqzMu/cXAgfGz8mAAkE2BD6G4oVP49hTGQi0KzPu2zy8hTyIW3CWFU6zzaJ3uHUpu11WTfgqpZWRFjacMsrxHYBn45l0/LKeke6Unhw1MWg+2BRpkYQWs5PA78G6hYQ8f82APmdEm5vGlKVvXsMW49msKQnRbOLsjxXsaPblmyXB5THlpt+w1Zz01nsdhiJm6znyLI0Htya0Xi8laZbqjCVW6vg5IPkzr1zakBMS1bn6gJsDh3MfVQIovK0ZU=;PYe+nGBsUB08p6RFbLyyoQ=="
 ---
 

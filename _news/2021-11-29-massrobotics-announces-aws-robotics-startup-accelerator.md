@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Robotics alongside us today"
-    excerpt: "From a young age, my fascination with how our world works drove me to imagine machines that make our everyday lives more enjoyable. Robots working alongside humans to manage day-to-day mundane tasks was a world I wanted to help create."
-    publishedDateTime: 2021-11-29T01:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel"
+  - title: "Robotics startup FJDynamics raises $70M to make manual labor easier"
+    excerpt: "FJDynamics, founded by DJI’s former chief scientist Wu Di, just closed a Series B round of $70 million as it advances its goal to empower workers in the harshest environment with robotic technologies."
+    publishedDateTime: 2021-11-29T05:41:00Z
+    webUrl: "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/"
+    ampWebUrl: "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 71
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE9kuTiv0zQng/article-cover_image-shrink_720_1280/0/1638149826611?e=1643846400&v=beta&t=Vtk75rpPqFM5evGX6jMTVcGclCt70iskUoREeePExvY"
-        width: 1280
-        height: 720
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/2421637834861_.pic_hd-e1638163752386.jpg?w=823"
+        width: 823
+        height: 438
         isCached: true
 
 secured: "v6rr5G7LyTIDxrNYmankQ+Kb6Xq4nnHfZjbjmiJ5y1vD5bLYEY/RtGqF78/c98+3PgFQIKk2lNCSErM7cx9APYgxJ5nfgIDun2w3II/A0vDCdVmF8I5o1f9SUEraOtZ35SUXraqkRPIwH2UUriQBflH6oQO8/9jvipTSeKWLFSBNTlKNWNKxLBUQ2WJmZOLHzb4PCpNss0lQtsdRm0paAPJU4xJQDNnPLArYEBFLj0E2E4kOwdXUtc87znZfEInTsi/WQgY1O/CVxAdyns/6aLP3eAKy+bkARea/3SGLKfoot7C9GTSRMEH5slJuJ//nBkD/2YcZdeDlVDpgIuK6uWJWZmCoj+ayq0+e38SmlVI=;ONRiD2qZIStcS9sLoaLx3w=="

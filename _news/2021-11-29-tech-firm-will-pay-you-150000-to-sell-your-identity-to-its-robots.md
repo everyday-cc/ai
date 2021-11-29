@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
 type: article
 quality: 59
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Promobot will pay you $200,000 to use your face on its ROBOTS"
-    excerpt: "The firm is giving the brave volunteer a whopping £150,000 ($200,000) in exchange for transferring the rights to use their face indefinitely."
-    publishedDateTime: 2021-11-28T10:14:00Z
-    webUrl: "https://techstory.in/promobot-will-pay-you-200000-to-use-your-face-on-its-robots/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/11/AAR9TX3.jpeg"
-        width: 634
-        height: 424
-        isCached: true
   - title: "Would YOU apply? Tech firm will pay a brave volunteer £150,000 to use their face on its ROBOTS which will work in hotels, shopping malls and airports by 2023"
     excerpt: "In its latest campaign, New York-based Promobot is seeking someone with a 'kind and friendly' face, to be used on a humanoid robot-assistant."
     publishedDateTime: 2021-11-26T08:53:00Z

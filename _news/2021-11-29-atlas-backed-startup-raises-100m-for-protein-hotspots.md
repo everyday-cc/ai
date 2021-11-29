@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/boston/news/2021/11/29/hotspot-therape
 webUrl: "https://www.bizjournals.com/boston/news/2021/11/29/hotspot-therapeutics-100m-protein-atlas-venture.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Cancer-Targeting Biotech Startup HotSpot Therapeutics Raises $100M"
+    excerpt: "The Series C round will help the company advance its AI platform and take new therapeutics to clinical trials."
+    publishedDateTime: 2021-11-29T12:00:00Z
+    webUrl: "https://news.crunchbase.com/news/hotspot-therapeutics-biotech-cancer-startup-funding/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2018/07/Ent-1-2.png"
+        width: 900
+        height: 507
+        isCached: true
 
 secured: "xXEwMqfUK0+4P7lN3PBf9CV/fMpLcskFBdEaHuBXlMG3x1zQJDSvzwLBHfJ4IuO4nnXnP9XM4M4NwP6Gm0SMXNMR+GTs/WVTd1o2VLYJ1xdZMGVPmzN6FYoQWQWax0recD3+k+8p5cXueStxVkcA+q5IBEBSUS6/ru4O25XEzxOPAq54FiLqnOJVvdXfXfdeYfdlWSpNlPTkv+sUHMkwUT7MznpqI7ImglVKJrJG8A2b1zLjvTpgkddepHvyQWu/1dnASAvZhCMFZ5i0HvHOvq2lpUhL8dY4FLsXaqCWCc4zhvAzxexB975mkGEpmW/oLT61C3mb1sL13kByM3VztrI8iRR/0ydIZT9OlEfdW0mhs/TuOUF5GkwmmdUxovDy1CxjSaj4PQ3Tc89xYJQecNT5BGi8OgqhqbxwIkGTEANegN/mE4Z5lCZkTMrZ6RxNM6mHR8YYQDoGnsG/qXSkMSsq4W0YJab1GokpnhxwW+229tc7SJ956RSLIvBA7rnnmsSnPxLfPWbdANDSERIWGg==;A+uXtEeAMmZS/uEYKIy1MQ=="
 ---

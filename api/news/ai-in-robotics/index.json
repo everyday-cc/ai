@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-30-why-ghana-needs-robotics-industry-for-national-development.md",
+      "title": "Why Ghana needs robotics industry for national development",
+      "excerpt": "The evolution of technology in recent years has sparked significant public and media discourse, anticipations, and concerns about robotics and its ability to ensure positive transformation in every sector around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernghana.com/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
+      "originalUrl": "https://www.modernghana.com/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.modernghana.com/images/content/1129202154037-h41o2s6fey-picture---julian-bennett.jpg",
+          "width": 800,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernghana.com/amp/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
+      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
+      "publishedDateTime": "2021-11-29T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modernghana.com",
+        "domain": "modernghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-robot-company-offers-200k-for-your-face.md",
+      "title": "Robot company offers $200K for your face",
+      "excerpt": "A robot manufacturing company is looking for a human face to put on its newest product. Promobot, a European company, said in a press release that it is willing to pay $200,000 to someone for the rights to use their face forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
+      "originalUrl": "https://www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/4i5kX0KZOnbyyPlSvYI4czaobwk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XR5L5PB3QFA3HDDEALPG5F3BCQ.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp",
+      "publishedDateTime": "2021-11-29T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFTV",
+        "domain": "wftv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots.md",
       "title": "Tech firm will pay you £150,000 to sell your identity to its robots",
       "excerpt": "Promobot is on the lookout for a face for its humanoid robot assistant which will work in hotels and shopping malls.",
@@ -10,7 +97,7 @@
       "originalUrl": "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -45,6 +132,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-29-robotics-startup-fjdynamics-raises-70m-to-make-manual-labor-easier.md",
+      "title": "Robotics startup FJDynamics raises $70M to make manual labor easier",
+      "excerpt": "FJDynamics, founded by DJI’s former chief scientist Wu Di, just closed a Series B round of $70 million as it advances its goal to empower workers in the harshest environment with robotic technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/",
+      "originalUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/2421637834861_.pic_hd-e1638163752386.jpg?w=823",
+          "width": 823,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/",
+      "publishedDateTime": "2021-11-28T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-ai-robotics-alongside-us-today.md",
       "title": "AI Robotics alongside us today",
       "excerpt": "From a young age, my fascination with how our world works drove me to imagine machines that make our everyday lives more enjoyable. Robots working alongside humans to manage day-to-day mundane tasks was a world I wanted to help create.",
@@ -53,7 +192,7 @@
       "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1315,137 +1454,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-robots-big-data-as-gulf-nations-bet-on-ai.md",
-      "title": "Robots, big data as Gulf nations bet on AI",
-      "excerpt": "Robots puttering around Dubai's hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/gulf-countries-are-inv.jpg",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-robots-big-gulf-nations-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robots-big-gulf-nations-ai.amp",
-      "publishedDateTime": "2021-11-17T01:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-artificial-intelligence-market-to-grow-at-a-cagr-of-245-tmr.md",
-      "title": "Artificial Intelligence Market to grow at a CAGR of 24.5% | TMR",
-      "excerpt": "Transparency Market Research delivers key insights on the global artificial intelligence market In terms of revenue the global artificial intelligence market is estimated to expand at a CAGR of 29 during the forecast period owing to numerous factors regarding which",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "originalUrl": "https://www.openpr.com/news/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub17570915_g.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464981/artificial-intelligence-market-to-grow-at-a-cagr-of-24-5-tmr",
-      "publishedDateTime": "2021-11-17T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-robotics-powered-by-cloud-to-pave-way-to-smart-robots.md",
-      "title": "Robotics Powered by Cloud to Pave Way to Smart Robots",
-      "excerpt": "Cloud computing technologies is poised to become pivot for next-gen robotics technologies. The intersection of robotics with cloud computing hardware, with deep learning technologies, IoT, and big data chipping in,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/",
-      "originalUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/11/Cloud-Robotics-Market.jpg",
-          "width": 1336,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/robotics-powered-by-cloud-to-pave-way-to-smart-robots/amp/",
-      "publishedDateTime": "2021-11-16T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

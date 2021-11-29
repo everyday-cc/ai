@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-27-how-artificial-intelligence-in-healthcare-will-change-the-way-youre-treated-forever.md",
+      "title": "How artificial intelligence in healthcare will change the way you're treated forever",
+      "excerpt": "Here's why using artificial intelligence in healthcare is something to be celebrated, not feared While artificial intelligence in healthcare may seem a new, and perhaps a slightly alien concept, it is revolutionizing diagnoses and treatments in hospitals around the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.womanandhome.com/health-wellbeing/artificial-intelligence-in-healthcare/",
+      "originalUrl": "https://www.womanandhome.com/health-wellbeing/artificial-intelligence-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/jfK2usqkTyYfVaaC4XfucK-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.womanandhome.com/amp/health-wellbeing/artificial-intelligence-in-healthcare/",
+      "cdnAmpWebUrl": "https://www-womanandhome-com.cdn.ampproject.org/c/s/www.womanandhome.com/amp/health-wellbeing/artificial-intelligence-in-healthcare/",
+      "publishedDateTime": "2021-11-27T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Woman & Home",
+        "domain": "womanandhome.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-hondas-new-safety-target-focuses-on-ai-powered-technology.md",
+      "title": "Honda’s New Safety Target Focuses On AI-Powered Technology",
+      "excerpt": "Honda’s AI-powered driver assistance technology, which was revealed this week in Japan, checks a driver’s actions and health by using a cockpit-mounted camera and sensors. Honda reported it is proposing to incorporate its world-first technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/",
+      "originalUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a1ab6806761cd8fb70c192%2F0x0.jpg",
+          "width": 900,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/",
+      "publishedDateTime": "2021-11-26T18:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines.md",
+      "title": "AI Weekly: UN recommendations point to need for AI ethics guidelines",
+      "excerpt": "The United Nations' new AI ethics regulations point to growing recognition of the need for AI ethics guidelines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
+      "originalUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
+      "publishedDateTime": "2021-11-26T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-flowrite-is-an-ai-writing-productivity-tool-that-wants-to-help-you-hit-inbox-zero.md",
+      "title": "Flowrite is an AI writing productivity tool that wants to help you hit inbox zero",
+      "excerpt": "When TechCrunch asks Flowrite if it’s ‘Grammarly on steroids’, CEO and co-founder Aaro Isosaari laughs, saying that’s the comment they always get for the AI writing productivity tool they’ve been building since late summer 2020 — drawing on early access to",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/26/flowrite-seed/",
+      "originalUrl": "https://techcrunch.com/2021/11/26/flowrite-seed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Flowrite-Founders.jpg?w=1024",
+          "width": 1024,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/26/flowrite-seed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/26/flowrite-seed/amp/",
+      "publishedDateTime": "2021-11-26T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-ai-ethics-adopted-by-193-countries-ml-to-decode-rembrandts-painting-detectron-and-tensorflow-gnn.md",
       "title": "AI Ethics adopted by 193 countries, ML to decode Rembrandt's Painting, Detectron, and Tensorflow GNN",
       "excerpt": "Artificial intelligence (AI) used to be thought of as an idealistic technology that can only exist in sci-fi movies. Contrasting to the belief, today the technology has become so mature in a short tenure that all major companies are using it to their advantage.",
@@ -247,7 +445,7 @@
       "originalUrl": "https://www.techspot.com/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1021,214 +1219,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-mediatek-chips-had-faced-a-vulnerability-that-allowed-apps-to-eavesdrop-on-users.md",
-      "title": "MediaTek chips had faced a vulnerability that allowed apps to eavesdrop on users",
-      "excerpt": "Earlier today (25th November 2021), a vulnerability was spotted in the AI and audio processing components in recently launched MediaTek chipsets. This vulnerability would’ve allowed apps to eavesdrop on users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/gsmarena_000.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1",
-      "publishedDateTime": "2021-11-24T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-forget-roomba-this-advanced-samsung-robot-vacuum-is-350-off-for-black-friday.md",
-      "title": "Forget Roomba: This advanced Samsung Robot Vacuum is $350 OFF for Black Friday",
-      "excerpt": "This Samsung Robot Vacuum Black Friday deal is one of the smartest vacuums available today, with intelligence that help keep your floors clean.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
-      "originalUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
-      "publishedDateTime": "2021-11-24T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-the-shape-of-edge-ai-to-come.md",
-      "title": "The shape of edge AI to come",
-      "excerpt": "Making chips work in this new world of edge AI requires new ways of setting up neurals, designing memory paths, and compiling to hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
-      "originalUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1197264259-1-e1637768065636.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
-      "publishedDateTime": "2021-11-24T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash.md",
-      "title": "Tesla requires Full Self Driving testers to allow video collection in case of a crash",
-      "excerpt": "With Tesla's latest FSD release, it's asking drivers to consent to allowing it to collect video taken by a car's exterior and interior cameras in case of an accident or \"serious safety risk.\"",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/",
-      "originalUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/",
-      "publishedDateTime": "2021-11-24T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

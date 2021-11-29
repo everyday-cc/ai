@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/how-ai-is-aiming-at-the-ba
 webUrl: "https://www.washingtonpost.com/business/how-ai-is-aiming-at-the-bad-math-of-drug-development/2021/11/29/effd4af8-5112-11ec-83d2-d9dab0e23b7e_story.html"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://images.ctfassets.net/cnu0m8re1exe/KCJO46tt4uBdDqT1agJDx/add743dc634dac13256240914cc298e0/shutterstock_1709875687.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill"
         width: 660
         height: 433
+        isCached: true
+  - title: "Advancements Series to Explore Recent Developments in Artificial Intelligence and Data"
+    excerpt: "Scheduled to broadcast Spring/2022, an upcoming episode of Advancements with Ted Danson will focus on developments in machine learning, artificial intelligence, and data optimization. This segment of Advancements will explore how a"
+    publishedDateTime: 2021-11-29T15:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20129709.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 31
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "gnw/oAsOglsB2r8vVyB+dnWl5Yj3NlJYdJ7b/Us11U2CP/mh5G2T1dawDApNtv0LzQA8XimGOS9i1lFcmypFrve0waWPazgiecvPJ7RJcrCLkH0AZiT+x4MIrauYLEVRcioIqun7iHpzM92dMl3EK0JXyNbuYV1I80C3ZcxU413wi5cD+Ew5U5kQTdjiD2/DdC1v7I3pxR+HTPKy3irjmcURvOo/yG8BfGSsZkMP2ljMQCLHrl8/FW7YN84WS0/HYder5TFeYGid2k5kw9Ubsk7GNat88Jepe3OTKwG7tcQFjnneCLOyvShCk218F8zMbc2bpUUdVFAg2Gsl4XVRqbgVhrY5KlWIdHms2OPSvtE=;Vc5RzSgsgeGAhQRwzrxdkw=="

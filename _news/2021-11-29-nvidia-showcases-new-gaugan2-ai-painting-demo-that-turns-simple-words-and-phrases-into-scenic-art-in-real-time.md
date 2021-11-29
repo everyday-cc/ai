@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia Stock News: Chip Maker Leads Technology into the Future With Latest Move"
+    excerpt: "Recent Nvidia stock news involves yet another multi-billion-dollar industry. Let's see how the most recent news can propel the chipmaker to new highs."
+    publishedDateTime: 2021-11-29T10:09:00Z
+    webUrl: "https://investmentu.com/nvidia-stock-news/"
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 35
+    images:
+      - url: "https://investmentu.com/wp-content/uploads/2021/11/Nvidia-stock-news.jpg"
+        width: 730
+        height: 467
+        isCached: true
 
 secured: "Dlp7XzqgJheLHqlLaYUYyrRRGGyVf4JhFxxSmZ3hyHNeZW4q1SEXqElgW3RF8hLAmczE8JJCB4EiL8DcjBZryeojh04stvLKY8M9n1s8QdVCwOi+OHCFgOace4iqSkOxvwIAvRdNTY2GEo6hE6Oy+bCDoJ0eS1bpt95OOXTMYvIM0y1ueVjeX1CF+LKKqad0sFBI7Q/pRBqpRupsPk6m7UKOCRmnZlSpBKrAYjL0KMUV9Mebo8HQvdQoUUzoQ5T1dtRBjHTFtxC0Go6jzDr5dgloy7h9tsriQjGomQ1Uz+fIoUbgCJT3AwVQNlsGmoAzYxUQyEWNzNjFkMS3eUeX8taMbepzc2mUZtqYWJBmgC0=;uIRUqydX/+9Hyvhq0boCXA=="
 ---

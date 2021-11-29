@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-29-nasas-deep-learning-ai-discovers-301-planets-hiding-in-plain-sight-that-humans-missed.md",
+      "title": "NASA's Deep Learning AI Discovers 301 Planets Hiding In Plain Sight That Humans Missed",
+      "excerpt": "Thanks to a new deep neural network called ExoMiner, NASA has added a whopping 301 exoplanets that human eyes had missed. These exoplanets have been added to the 4,569 other planets that have been validated by NASA.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
+      "originalUrl": "https://hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56914/content/exominer-exoplanet.jpg",
+          "width": 708,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
+      "publishedDateTime": "2021-11-29T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-ai-ethics-adopted-by-193-countries-ml-to-decode-rembrandts-painting-detectron-and-tensorflow-gnn.md",
       "title": "AI Ethics adopted by 193 countries, ML to decode Rembrandt's Painting, Detectron, and Tensorflow GNN",
       "excerpt": "Artificial intelligence (AI) used to be thought of as an idealistic technology that can only exist in sci-fi movies. Contrasting to the belief, today the technology has become so mature in a short tenure that all major companies are using it to their advantage.",
@@ -1348,58 +1391,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready.md",
-      "title": "Artificial intelligence: everyone wants it, but not everyone is ready",
-      "excerpt": "Artificial intelligence technologies have reached impressive levels of adoption, and are seen as a competitive differentiator. But there comes a point when a technology becomes so ubiquitous that it is no longer a competitive differentiator -- think of cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e467d20ab93256ec3385659485e2cb180cb921e0/2021/11/16/2fc00959-58e2-434c-8181-1b1bd9708138/javits-center-november-2019.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "publishedDateTime": "2021-11-16T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

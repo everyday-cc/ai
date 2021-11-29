@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-09-expanding-our-ml-based-flood-forecasting.md",
+      "title": "Expanding our ML-based flood forecasting",
+      "excerpt": "In 2018 we began our flood forecasting initiative to help combat the catastrophic damage from floods each year by equipping those in harm’s way with accurate and detailed alerts. This work is a part of Google’s broader Crisis Response program which provides people access to trusted information and resources",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
+      "originalUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/inundation_modeling.max-1000x1000.png",
+          "width": 1000,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
+      "publishedDateTime": "2021-11-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers.md",
       "title": "Breaking Out Of The Content Clutter: Machine Learning And Artificial Intelligence Offer A Vital Tool For Broadcasters And Streamers",
       "excerpt": "For streamers and broadcasters looking to break out of the clutter, machine learning models can ... [+] offer a new way to promote or offer additional content.  Wi",
@@ -1382,49 +1435,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-cerebras-hits-the-accelerator-for-deep-learning-workloads.md",
-      "title": "Cerebras Hits the Accelerator for Deep Learning Workloads",
-      "excerpt": "When it comes to large neural networks like BERT or GPT-3, organizations often must wait weeks or even months for a training task to complete if they’re",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/11/01/cerebras-hits-the-accelerator-for-deep-learning-workloads/",
-      "originalUrl": "https://www.datanami.com/2021/11/01/cerebras-hits-the-accelerator-for-deep-learning-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Cerebras_4.png",
-          "width": 743,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

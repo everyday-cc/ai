@@ -24,6 +24,22 @@ images:
     height: 1365
     isCached: true
 
+related:
+  - title: "EU: Artificial Intelligence Act: Council aims to simplify use of mass biometric surveillance by law enforcement"
+    excerpt: "The Council of the EU wants to make it possible for private actors to operate mass biometric surveillance systems on behalf of police forces, and intends to extend the purposes for which such systems can be used under the EU's proposed Artificial Intelligence Act."
+    publishedDateTime: 2021-11-29T15:16:00Z
+    webUrl: "https://www.statewatch.org/news/2021/november/eu-artificial-intelligence-act-council-aims-to-simplify-use-of-mass-biometric-surveillance-by-law-enforcement/"
+    type: article
+    provider:
+      name: Statewatch
+      domain: statewatch.org
+    quality: 32
+    images:
+      - url: "https://www.statewatch.org/media/2954/eu-ai-act-update.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "BF1USAXlJUlToFFdL4hS3GRAD6l5e0DddtqzMuNIWgV07EdN6TK8A3cVk/K5aO2khdH+mt0IAXN6PCDmhgnEVbmySMqA01Y61z0vFzjL0wpTTRp1SY8H7t1RU+nRZzqO4eEOxCcJ+SrLtr95y4bBgwrER6G8v/QMaTo6xzXFslwGGt1vln+OMF0zjU6MfaHkDSeH4xJB4u3STeuxSlFCUSRzMcgQ+7xsQZYvCvXdtr0rC3OfL9a6SOKIsOi98dFIZmhEJf359s6RPzVNYJ1DBhxrpBMaT66CViWBm3od9WkJHYMkIPQilWIkwmYN/x1z3hEv43X52IhHViic3ujTh2MSTwXmgpsKEW509UfZ+DVuey4KqBodqasIEHue4wtrqkazNl6iamtFO5wJdH35bWjtyEZObvETHcmLntE1+wJ2RVGzwvzBnB69PsKK8r/lVzZ7jIRvUpRGa5QwkNUqWGhcmbDSQ+H0I5QjVQhnFPPiQ6NGGf4yC+RnZ7WfyDt67EQDg5apnAATTdF/vLBmhQ==;red2vo3pTnWN+rA6M4SOOA=="
 ---
 

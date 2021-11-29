@@ -36,6 +36,15 @@ related:
         width: 602
         height: 394
         isCached: true
+  - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
+    excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-11-29T16:29:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/11/29/9500623.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "hKBFvNGPB7/sIg/J6S3R41ngrBKGh3UBlGTEvFXeLinFvn9LvyLfq0XFiG7yJfemeWwYP3vtF4OLKxN1Mg7ZnVMwrxJBNcyPDNb6sIWk6A5KMik0rl93w36+ZnU3Iedpmjf/wGNdbohI/QPbyRLfFrl7oFC+d+2tjBn2OLJJ4KIQACLqVfuGF1Zp8TETWZoEH5qBvGaomzUDa4hVkKq+5iBTiHKw7F1rWSw4P9/RrUOyxR8cX0gUbrHhToOtTpVE0txhIysOxRtcWUeTEudTjN1UdNpUbcGgw1eGC8IppSwDuy0PLTXOzj0waqu05sH5ZrcsHh4d7jD+QWEVpYiWIx9hBRnbxro/uDPAuhN5JtM=;aQsfC+WDPARBZ7rOuRBSdQ=="
 ---

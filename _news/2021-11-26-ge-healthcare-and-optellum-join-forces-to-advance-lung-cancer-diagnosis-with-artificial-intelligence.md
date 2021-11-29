@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "GE Healthcare Unveils New AI and Digital Technologies and Solutions to Help Solve Healthcare’s Most Pressing Problems"
-    excerpt: "Annual Meeting, GE Healthcare unveiled around 60 innovative technology solutions spanning the healthcare spectrum including patient screening, diagnostics, therapy planning, guidance, and monitoring."
-    publishedDateTime: 2021-11-28T13:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-health-north-america-b1e688d9def848c2b5e6e97ec9c5db9c"
+  - title: "GE Healthcare doubles down on AI with new product launches, partnerships with Optellum and Cambridge"
+    excerpt: "As GE prepares to spin off its healthcare business into a separate entity, the soon-to-be standalone company is forging ahead in its quest to develop a broad range of artificial intelligence tools designed to overhaul and revamp existing hospital practices."
+    publishedDateTime: 2021-11-29T13:50:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-doubles-down-ai-new-product-launches-partnerships-optellum-and-cambridge"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://qtxasset.com/fiercebiotech/1638196774/GettyImages-641146680.jpg/GettyImages-641146680.jpg?VersionId=cwfNpfKZOBYehzoi42R0yuMPMxHI0m_f"
+        width: 880
+        height: 587
         isCached: true
 
 secured: "vyZC+xcVQmbGSQk26u/oTjXuQG7NhMq7AAt1KzbE0mlCAD3cAuBZMXzZ8LHQaPEgJsSGH5+1rbSVujU54rHTdv5IAQumfggMIOO+Bqn0R4SNaR534uVo6/xmerte5NRkq3RjW1zGBXQ1yTBz7/jCeY9CtmoMq42bVzWBtdMSxRLW8B+00Qpc66RUHHyWlw6j91XCxe9Phj/Y/JaYW2LI5fqFJz6o0TjuVXbTSv/rub5BPjfS4Poopjgkb4zU1oRj9Onk6Dl3G6PyylcgmFGLT0kFYRFSkdHsqZsmXFvYiesUqYVF3lDxrAarUuY8ynqTwJfIofPIp9MYIFhJwTYhTO8uE/cPL4wxzigX6NZyjCc=;Pma3n5pTeOBt0FoXROKT1Q=="

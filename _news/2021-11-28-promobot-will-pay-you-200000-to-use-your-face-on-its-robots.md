@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tech firm will pay you £150,000 to sell your identity to its robots"
-    excerpt: "Promobot is on the lookout for a face for its humanoid robot assistant which will work in hotels and shopping malls."
-    publishedDateTime: 2021-11-29T11:26:00Z
-    webUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/"
-    ampWebUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
+  - title: "Robot company offers $200K for your face"
+    excerpt: "A robot manufacturing company is looking for a human face to put on its newest product. Promobot, a European company, said in a press release that it is willing to pay $200,000 to someone for the rights to use their face forever."
+    publishedDateTime: 2021-11-29T16:21:00Z
+    webUrl: "https://www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/"
+    ampWebUrl: "https://www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
+      name: WFTV
+      domain: wftv.com
+    quality: 61
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/11/PRI_212088133.jpg?quality=90&strip=all&zoom=1&resize=600%2C401"
-        width: 600
-        height: 401
-        isCached: true
-  - title: "Would YOU apply? Tech firm will pay a brave volunteer £150,000 to use their face on its ROBOTS which will work in hotels, shopping malls and airports by 2023"
-    excerpt: "In its latest campaign, New York-based Promobot is seeking someone with a 'kind and friendly' face, to be used on a humanoid robot-assistant."
-    publishedDateTime: 2021-11-26T08:53:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10245493/Robots-Tech-firm-pay-150-000-use-face-ROBOTS.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10245493/amp/Robots-Tech-firm-pay-150-000-use-face-ROBOTS.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10245493/amp/Robots-Tech-firm-pay-150-000-use-face-ROBOTS.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 31
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/11/26/09/50997671-0-image-a-35_1637920279368.jpg"
-        width: 636
-        height: 382
+      - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/4i5kX0KZOnbyyPlSvYI4czaobwk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XR5L5PB3QFA3HDDEALPG5F3BCQ.jpg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "tpY/9FtWzDpgBXRRHDYpBnk3iMAZ/s4H2nReJ+N5IO9Ib9xr5asOt2wyrInssvfIqtFXlR+gcwW2ke0sqKBBJnSvUbWkTyqzyBTT8CgJJsw28gt3d4FlV59/uBFl2HqcVlcxQs63Mj7BvNugD7zixlIVdPjx8zVyQ066oYSe9a0Fpm7/lNW+O+XJSv8n1tqL/K5siZAM8eCfmNqmMLD7EDta+YWu6CDqLXvyTeUpX91qvm5CvgWuTGjwcpJ60nJ4Xr7H3dzdd3WnDcvf38QplJ5cFL0M4L/WXf97p3hWmdYa6aNO2fFLneG5WZuV/9MwfOvtymv91dvQOddf2R9IiKYUS63BjJvchfiyt9txdzda0eg22dpsrEu8lFmU3DV+0u2aVAhbOgQ1eVq+I570p8ehco64V4jPf7+JqUkoi2Tv5yFFJT9PuJ3/9FrxCJffzP8cxbO+/Y+t0tN29pucANy7sRoUSJ3H7w0OLPRxrmKvcC+z5liDjNap7AS7GF+Wl9BV1czZLhkSTCtHXk3MuA==;ptKcVuWNTKl7bsDmRJbaag=="

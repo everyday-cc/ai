@@ -2,6 +2,144 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-09-12-small-mighty-robots-mimic-the-powerful-punch-of-mantis-shrimp.md",
+      "title": "Small, Mighty Robots Mimic the Powerful Punch of Mantis Shrimp",
+      "excerpt": "Modeling the mechanics of the strongest punch in the animal kingdom, researchers with U.S. Army funding built a robot that mimics the movement of the mantis shrimp. These pugnacious crustaceans could pave the way for small,",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
+      "originalUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2021/09/mantis-shrimp-robot-neurosinces.jpg",
+          "width": 769,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/mantis-shrimp-robot-19301/amp/",
+      "publishedDateTime": "2021-09-11T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-11-agile-robots-closes-220m-series-c-funding.md",
+      "title": "Agile Robots closes $220M Series C funding",
+      "excerpt": "Agile Robots, closes a $220M Series C round - to enable the company to extend its product and expand its global market reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "originalUrl": "https://www.therobotreport.com/agile-robots-closes-220m-series-c-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/agile-robots-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-the-best-robotic-lawnmowers-for-2021.md",
+      "title": "The best robotic lawnmowers for 2021",
+      "excerpt": "You can control this lawn care device through your ... and more. Yes. Keep in mind that a robotic mower may not offer the same power and features as a traditional push mower, gas- or electric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/81avkxoa8rl-_ac_sl1500_.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-lawnmowers/?amp",
+      "publishedDateTime": "2021-09-10T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows.md",
       "title": "How Small Businesses Can Rely On Robots As The Labor Shortage Grows",
       "excerpt": "One robot that can help business owners serving customers is Pepper, a humanoid robot originally developed by SoftBank Robotics and now equipped with new AI skills through my company ... business ready for automation? Start with the following: 1.",

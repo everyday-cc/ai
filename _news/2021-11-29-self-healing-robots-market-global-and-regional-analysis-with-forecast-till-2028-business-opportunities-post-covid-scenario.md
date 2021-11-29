@@ -38,6 +38,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 20
+  - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
+    excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-11-29T16:29:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/11/29/9500623.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "vojyobq/4Ia/HPjLQtP67XZ7gLq4OhjZ7DAGTO7AimNP+dIfz5DS+bZujrAHBcV1OxMFuYCZYrDRi//x1b/PhjxSpIO95DbE9TVxgWc0SniuwxoeyuGFlxUSIsIERURwcnKriCORIm/Uwi3+S8hRx+Kvsw2ltByg4owCp+gAxC37C/Zov4rocfosWHUYapgzSe6L+zERWb4GRaNARZ0VFguhtqsdwrjnGMJ2aVz80QMWP9ziy82kOTbLzKzu+XbgibiS0Pjw9xXoRpfNLjl6wlpSN16j7wnz4gkqDtWb9wiG306V+eI3thO4+d+1NnHBJWsTzFcnOWmwUwlj+L5v2SmyIEKKZxJzaSnmOCmP3nU=;Ut3ZVGe2W4JONWceiQ1Btg=="
 ---

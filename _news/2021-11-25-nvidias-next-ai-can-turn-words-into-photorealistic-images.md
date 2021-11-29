@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "Nvidia Stock News: Chip Maker Leads Technology into the Future With Latest Move"
+    excerpt: "Recent Nvidia stock news involves yet another multi-billion-dollar industry. Let's see how the most recent news can propel the chipmaker to new highs."
+    publishedDateTime: 2021-11-29T10:09:00Z
+    webUrl: "https://investmentu.com/nvidia-stock-news/"
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 35
+    images:
+      - url: "https://investmentu.com/wp-content/uploads/2021/11/Nvidia-stock-news.jpg"
+        width: 730
+        height: 467
+        isCached: true
   - title: "NVIDIA showcases new GauGAN2 AI painting demo that turns simple words and phrases into scenic art in real time"
     excerpt: "NVIDIA has officially revealed the latest version of the AI-based painting algorithm that was going wild a couple of years back then and now, the GauGAN2 is better than ever."
     publishedDateTime: 2021-11-29T08:15:00Z

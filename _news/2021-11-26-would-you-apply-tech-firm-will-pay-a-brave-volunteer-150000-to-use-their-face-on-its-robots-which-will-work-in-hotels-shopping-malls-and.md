@@ -43,20 +43,6 @@ related:
         width: 600
         height: 401
         isCached: true
-  - title: "Promobot will pay you $200,000 to use your face on its ROBOTS"
-    excerpt: "The firm is giving the brave volunteer a whopping £150,000 ($200,000) in exchange for transferring the rights to use their face indefinitely."
-    publishedDateTime: 2021-11-28T10:14:00Z
-    webUrl: "https://techstory.in/promobot-will-pay-you-200000-to-use-your-face-on-its-robots/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/11/AAR9TX3.jpeg"
-        width: 634
-        height: 424
-        isCached: true
 
 secured: "ktG2WuMUMUjHG4JawGtqO8mVlEOLJFTI5lVyw9gNgEYYqhHCODINAQJ2Cd/8PN0caJrm3NI8TB/pqyH++JoJ7LeQ9xDz4x8kCqS0n7Px+pnzuTkpHQcZ6p4TcwKTfWFwIvc3LG6K0THWmTbNwmFesw95dBLWrX86gm5TRNJ+lg5xKYR7/xv3f8bY8OdCVo89HSUiSt2Azji/k0zq/lDoEMyfpTxp8twWcYGLIh+jTSZfRc2XyvJ2iix9t1cdg5Sx890ZKB7wVUmUL8Q2/d2Frdqu5Q5WRrx8LWERZyr0NpuHIiY3W8lD9nKsNIpJiCt7I8ATBtsEc97E1V7Pfv8ZX3Dbne8/Keb3b7HG1O/gcsitpK3TMEkSOW+PM5sRNxgNbnvCwO3rFL/2e7xRyHOaoN5TZdgoI4iSwAQ9OjcabV7EX7eSOTF3IDrDTF0MXlecqethoZyx9k8flgj5AUpdJ+WE2jq9E7EGJD+7T78CmzJoIYvQZruVcPFmUBZ1sOftIIpCGpub+31bigZ7K6NQtw==;43wI47FnJYP5GhDH8olhzw=="
 ---

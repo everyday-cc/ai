@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-piet
 webUrl: "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "MassRobotics Announces AWS Robotics Startup Accelerator"
-    excerpt: "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,"
-    publishedDateTime: 2021-11-29T13:48:00Z
-    webUrl: "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 71
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "48+llNQ5baIN/JhFEL+WRsK3pXwT0KZB7RPZf0cKJ1d1KPbgf6cG0FEVZAq2ijXvMBXEUKysUYXp2rXJys0YycBVnQI2tRo3Ty29dvgl/btX6VwkqTkhGsvHxlRpwhVuLscCJ1/O9rlTA5SkkPIWIcvqL3hQLgWWqNFaXz7YbizcrQYwjY63jrfPzVn7IDE387gvO5wqN4mCG/Oops1KiKqI1v/J8NhxFDMm3vnSAVLoIhqYR8HtelgpGuv5RWF9Du0/9QR2vhBtEp7h7ywtNR8FYZipPL3Bbjll4tDW8PGGyUn10caYILXaOWlB0W3GECED2Va+O9AHqvdjMBKc4yIeRvfmsjJIHHNgpoNXNTNdCwoa3gF9gVQmmMmAHHbhD1iX8ubN6iqIUJDM8yih7mOqbdN+WyEbDTeMGx3e6NNCgk9vDCcWKus1Tlavgr5d9aNvJ/uDPTcWL4k2v6SoMHOQH69Ek4yBONlxW/Qbg9bflbI2SnTN2UcHWEVA3UA1HnAGTF6ietOhaeT4dxg2NA==;m5vcEJabOaUU7/wdKSx+Ig=="
 ---

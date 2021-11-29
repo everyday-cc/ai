@@ -80,6 +80,20 @@ related:
         width: 660
         height: 433
         isCached: true
+  - title: "Advancements Series to Explore Recent Developments in Artificial Intelligence and Data"
+    excerpt: "Scheduled to broadcast Spring/2022, an upcoming episode of Advancements with Ted Danson will focus on developments in machine learning, artificial intelligence, and data optimization. This segment of Advancements will explore how a"
+    publishedDateTime: 2021-11-29T15:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20129709.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 31
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "at61rgTqiqI12p/i9eaxDPTqbDQvPMhyqLIQpok30z6uGf3XxtmqhP7ZS/QznP8XaZGRm0tW2V3WZCUxUOJ8uCesafdHOvvLeVAoipUhm6TGy1IIDhoJT9rtPph6gswfAq6lfTJbXt9hGzpHOjGuqkXfXppskXZV0LUCKT4Ujjv3NcCLE6bfReYW1REEsdJdSg+HDqx4KdiGwk0w8WbGApKYz6RY3McSeEHtZXCTTYOa8M587KmeAqRyVEj+zrzVeJURUF8+gczJc+VXLyYblsaPCtAbBPZgoTFEMytBT/VEVmzpc1nn60TjgOg4Kv4yaK8FJwKnoXMzJ6JNnGV6RACSj7BcLGPg0cn029h4REvsO/cwuJMHAgRb/H3mbmA+TWjYRsqpIGrWMXe8VFEztVF6Etx5OiXGnwcGZ5P95g1OpkgzPCiBeT0ubZ/UUmTOV0l5qBmn6X0I2XqS872/RQO03OS3hjgYelO0F9yHoGpjs+DtHKmvx0LyD/6e/GX51jFzifwULqKjmXhqZWKALQ==;/e1X15VE6hSc6drMqCQcwg=="
 ---
