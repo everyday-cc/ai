@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Abu Dhabi launches first driverless taxi for Yas Island’s residents and visitors"
-    excerpt: "The service would be accessible from 8:00am to 8:00pm, through the \"TXAI\" app which will be available in all app stores."
-    publishedDateTime: 2021-11-24T14:51:00Z
-    webUrl: "https://www.gulftoday.ae/news/2021/11/24/abu-dhabi-launches-first-driverless-taxi-for-yas-island-residents-and-visitors"
-    type: article
-    provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
-    quality: 34
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2021/11/24/taxi-driverless.ashx?h=450&w=750&hash=4E12811FE1E0C1AC8B15787FDADDF52B"
-        width: 750
-        height: 450
-        isCached: true
 
 secured: "c1+/gU8MN9II/MkYP8ciaHWtHV6LoM0trf81oMaIl/Lk0wRcxYqWaRW+NQa9DYPooH/3qo/zqkpttnmZfDhQwyUVJCOLfS9gfKxdd9hcAImHfIve5ZAA2wE83TV+IiqSZnIAyxsr0i6jRptLgkZLZFOCRiofI+ygLIZZY8o3moHDl+hWz8MTadP7CS99R/aNsvlEJRbiYM7qnrCq27mBjW+29u2IyJ6GA5i0arGzz+nHY/IqO8eSXZp0tQv2aCGr1IiGo9XI8JbIXjWb0npAdcHyJkXsqNrIXlQdl9XCAP3ot322JXbY9522ZU+O7+2gbDFkX0cXvnXYRu1lXUBhJd3WUI2S5nfVk+oNFEt2/sg=;6tl63e3VKiNBpjKmft00Yg=="
 ---

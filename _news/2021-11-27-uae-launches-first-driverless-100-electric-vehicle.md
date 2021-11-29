@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khaleejtimes.com/transport/uae-launches-first-driverless
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-launches-first-driverless-100-electric-vehicle?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Khaleej Times
@@ -42,20 +42,6 @@ related:
       - url: "https://images.zawya.com/images/cia/zAmp/210304070927YBEN.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Abu Dhabi launches first driverless taxi for Yas Island’s residents and visitors"
-    excerpt: "The service would be accessible from 8:00am to 8:00pm, through the \"TXAI\" app which will be available in all app stores."
-    publishedDateTime: 2021-11-24T14:51:00Z
-    webUrl: "https://www.gulftoday.ae/news/2021/11/24/abu-dhabi-launches-first-driverless-taxi-for-yas-island-residents-and-visitors"
-    type: article
-    provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
-    quality: 34
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2021/11/24/taxi-driverless.ashx?h=450&w=750&hash=4E12811FE1E0C1AC8B15787FDADDF52B"
-        width: 750
-        height: 450
         isCached: true
 
 secured: "KuufSdHq/KZrkeLzD5BOTzXEdgp8RXyG36kwb++sS25GTq9FXdSkuoEumKW+FRQEtBzcvcVRGnJzOemydA8PezLwSQQjQ1y24DyIAFGG+nL8VyeOEIPGMaIcegSxZcq2nM0g1PKlP9336ht0j+2ZmMDlDAZO9vh80lgek5En7NJegHNBEVRVssoOah6TL4iTrHy7H86Adh3fmSe6Q9CSPFCpYr0mERGcvKrD7ufIsVss9h+wKxfY/k91U/Egj0woondMepo5JgjzYztN5WzDcon3XMs4/MiYNYchRuqaOetgF+as213p+YrXVcQ9rzNykYJbYiZ5lG8pW8LNOg/9ItOhG0ToYzo8ee81ziOZj6A=;XmzcCSwqnB6j8Q5FS9xRDw=="

@@ -26,22 +26,6 @@ images:
     height: 2304
     isCached: true
 
-related:
-  - title: "Machine Learning Tool Predicts Kidney Function Response To Treatment"
-    excerpt: "Researchers created a machine learning tool to predict if certain drugs are effective treatment options to protect kidney function for patients with lupus nephritis."
-    publishedDateTime: 2021-11-24T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-predicts-kidney-function-response-to-treatment"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
-        width: 690
-        height: 400
-        isCached: true
-
 secured: "26KFGvbfTGV/5tXauZsLPbmcUUaq4Ls9Rt2eV5XDgvbuelO6hLZ1wmbJSThS5a2X0sinGRnCPZ85PBYUc2q4EgZqlU5OGQI3cXU8zlWKKYEgiMCuvdIwoCU52jis3InaOQaL/W+tkreTwlXnNnmJTIWz4wGHRdNhv+speD3eUDvh+Jjm/ZYu9We8AQA1t5razd5xVINRBOqtnEndiwSk4ObOdU5NF+93iUg8x7wThuuMZVdcgHnLdpkUSvmn5uSUJP7uxwho+7Pe3+CjGv7MsL584zKQzTqiweZBDBF/mupisg4Fm12I5NcHe3JbOBbSm9189ycniFsG3MJdCDEyIrvwGuTL2Gus38x0Ze+iuZw=;zhSAhcFvb4z16pD3Qdh2jA=="
 ---
 

@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving taxis are not arriving as soon as you think"
-    excerpt: "The road to automation has not been easy for cars, but the arrival of the Mobileye taxi could be a game-changer"
-    publishedDateTime: 2021-11-24T14:10:00Z
-    webUrl: "https://360.here.com/self-driving-taxis"
-    ampWebUrl: "https://360.here.com/self-driving-taxis?hs_amp=true"
-    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/self-driving-taxis?hs_amp=true"
-    type: article
-    provider:
-      name: HERE
-      domain: here.com
-    quality: 44
-    images:
-      - url: "https://360.here.com/hs-fs/hubfs/Arrival_van_banbury_yard_3.jpg?width=800&name=Arrival_van_banbury_yard_3.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Want a self-driving car? Better not rush"
     excerpt: "Would it not be almost perfect after the day’s labor, or a night of fun, to just board your FSD (full self-driving) car, push a button and your computerized chariot takes you home while you nap at the back?"
     publishedDateTime: 2021-11-24T16:00:00Z

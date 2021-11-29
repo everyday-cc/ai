@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-f
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Crossfin-Technology-Holdings-CXO-Anton-Gaylard-Photo-Supplied?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/90c37407-a15a-51d0-96c9-38201e4323a8&operation=CROP&offset=0x200&resize=1667x938"
         width: 650
         height: 366
+        isCached: true
+  - title: "EarlyBirds Draws Attention To How Fintech And Insurtech Are Disrupting These Industries"
+    excerpt: "Open innovation ecosystem EarlyBirds is helping businesses in the Fintech and Insurtech industries benefit from the innovations in their respective"
+    publishedDateTime: 2021-11-29T05:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/earlybirds-draws-attention-to-how-fintech-and-insurtech-are-disrupting-these-industries"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/Brazil-football-crash-survivor-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "FintechNGR Hosts 2021 Edition of World Fintech Festival, Nigeria, with CBN and NITDA in Attendance"
     excerpt: "On 11th of November 2021, the Fintech Association of Nigeria, (FintechNGR), hosted the World Fintech Festival (WFF), Nigeria, in partnership with the Singapore Fintech Festival (SFF). The event was one of the breakout events held by key FinTech hubs across the globe and was themed,"

@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-con
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913/amp"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: Gizmodo
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla requires Full Self Driving testers to allow video collection in case of a crash"
-    excerpt: "With Tesla's latest FSD release, it's asking drivers to consent to allowing it to collect video taken by a car's exterior and interior cameras in case of an accident or \"serious safety risk.\""
-    publishedDateTime: 2021-11-24T14:50:00Z
-    webUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/"
-    ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
     excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
     publishedDateTime: 2021-11-25T09:00:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla requires Full Self Driving testers to allow video collection in case of a crash"
-    excerpt: "With Tesla's latest FSD release, it's asking drivers to consent to allowing it to collect video taken by a car's exterior and interior cameras in case of an accident or \"serious safety risk.\""
-    publishedDateTime: 2021-11-24T14:50:00Z
-    webUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/"
-    ampWebUrl: "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tesla Asks Full Self-Driving Beta Drivers to Consent to Being Recorded When They Crash"
     excerpt: "Tesla's new requirement speaks to a larger issue around privacy trade-offs with certain types of in-car driver monitoring systems."
     publishedDateTime: 2021-11-24T20:55:00Z
