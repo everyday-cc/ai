@@ -1,21 +1,21 @@
 ---
 category: news
 title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
-excerpt: "CVG is using computer vision, AI, and advanced technologies to manage capacity constraints while maintaining its commitment to customer service and brand reputation TaskWatch enhances CVG with ..."
-publishedDateTime: 2021-11-23T14:11:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation"
-webUrl: "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation"
+excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
+publishedDateTime: 2021-11-23T13:02:00Z
+originalUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
+webUrl: "https://www.kentuckynewera.com/news/ap/article_431c2dad-7347-5620-8008-a59efe08fa04.html"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Kentucky New Era
+  domain: kentuckynewera.com
 
 topics:
-  - Computer Vision
-  - AI
   - AWS AI
+  - AI
+  - Computer Vision
 
-secured: "Tl31WvnrYbP69/HIOklMSqkgfG5qMT+oPBcHhnREnSq1RB4ro61QSt3wm1jKHw3M5Qe7EyfC730UXIl0NI716Z8aoGRs6HTKSushsddYVcqxVqq2I6rJ7NX3aP72d8MtKAI3s7JI4CpCa5edjAnvb0V6xYhFQhWM8WDGJoWhkpMyNIZZia7fLh2nxvOFSnwDhohlLjYgGs11nZucvYtGiT+ecVXft5/AtPvfYbAf1o+c2BgzbWDX6FNyJ9Ta8KJRwKD2YO3O5aCJoj3Ge/Q4x3jxwB7aek9ukCE3++8g/sx7COLLa2nbCTD2DwKp0z1dr8J2cEiM+1VJjxzcX7t9okJUc9/TnCkJ4sOxt85SSBg=;tGXGWUtpsPa2epXJnQ2XoQ=="
+secured: "zu5R/2zD+UIfOUFhezBPpTQvEprIMUiBPrOvwfspYzoFROz6h67ZETFOuVKDP8B8ztoBSOgGkxITa9JHT078F2zZsczkCm6g+6Q8SyvYOKS9zbhbIK23Tln/pYvJ+RW/8mBn14UTpEQzcHdwktupDf8RI0X9C6pU9Tlok8+i9gkCYLyuye61fPD5O8xiDgiRh3Miyd50ka6oBSoGxdvdyLu7OLAJOFpqhpRdxV7kmACUbneb59EKRNRRD2TShl/AuGCAXWvrPtrKtT549ww6bTq+95kZU8hy3yaXg3MMvKJPIWRyysqDjkblIgqBEkLQPVeo8OBR3Y7t/ZrlpXyc8qdKgv/Ow+Kj+2vOA8x1WJsQMxb17bGYZWN7e9/tR4QEFvatvI8MFINopTak12NlggMj3R4sy3lbnfO8AiRZMje9Ecf2YUWYRlfMjFRkHZXOOyz1zVUDAQ7rEA3JUhVpp2+/qJW16ctAsn4gM1zk0CkDqe5m5+Y8f3k29A+xevcqkadjunwvGEpd7paWEk55ew==;ID5dSQLDFqXBBN1SQcQ/rg=="
 ---
 

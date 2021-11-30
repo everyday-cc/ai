@@ -1,47 +1,26 @@
 ---
 category: news
 title: "RWS Wins Deal to Provide European Parliament With Live Translation and Transcription Service"
-excerpt: "RWS, the world’s leading provider of technology-enabled language, content management and intellectual property services, together with a consortium of partners, has won a highly competitive tender to provide real-time,"
-publishedDateTime: 2021-11-24T08:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-england-european-parliament-7af1433719fb4015908327e4ec4d0a61"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-england-european-parliament-7af1433719fb4015908327e4ec4d0a61"
+excerpt: "RWS, the world's leading provider of technology-enabled language, content management and intellectual property services, together with a consortium of partners, has won a highly competitive tender to provide real-time,"
+publishedDateTime: 2021-11-24T08:17:00Z
+originalUrl: "https://www.lelezard.com/en/news-20123001.html"
+webUrl: "https://www.lelezard.com/en/news-20123001.html"
 type: article
-quality: 13
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-related:
-  - title: "RWS Wins Deal to Provide European Parliament with Live Translation & Transcription Service"
-    excerpt: "All parliamentary sessions will be made available across all 24 European languages with RWS technology - read at TechRound >>"
-    publishedDateTime: 2021-11-24T10:50:00Z
-    webUrl: "https://techround.co.uk/news/rws-to-provide-european-parliament-with-live-translation/"
-    ampWebUrl: "https://techround.co.uk/news/rws-to-provide-european-parliament-with-live-translation/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/rws-to-provide-european-parliament-with-live-translation/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 34
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2021/11/rws-1.jpeg"
-        width: 2300
-        height: 1300
-        isCached: true
-
-secured: "zB6wdnvRfw8NJSKz5E6u8zwaHUEdEDxScuJsEsDslJEN+rXKia9/y7AjknB7tZbDnUOZfecEtyvVxA/BTzGTM48z3r9EBnLDaR8j5m5/lIpplAgEJ1djzK6hXaBUjI4i7R3UfR8ut7D2bPPYzO6ZwQ0ui30GpNwow69Yu8DVObbO+hKNpzl52xG5755mg5SVnS062wiQGW5UzX98rlcRr1hVwkc9tBW07KvHSIINrUDanKSCJ9LYcmmD50yIc++ky1nkoEWkYcnALSgn4UwdRkHNALcHbJEZdATf133eoSiiD3ebPVPFpOyaObhdyrqtIelR+1SluUnG9S1pn+7HhJ4vA8BBzcUGk42bI2oOkic=;abua+wrihID9r2fo+9eMag=="
+secured: "3tky3ihk9beDslChGTOFlicYdEnQsWNMhCXLuPlNN87pDBpzfw0n0hdvuq8ae8jKtv0F+0br0m9xIJGm674iTbpicbUfBkuXnrY+P3n45b8qoq7CDz1Emmmc6TQqc1a8/Qyd4Mu/vHT5ZCPn3YuuT0Exj4LwI7WJZY0lHMYB0B3lETHgCHDaOeKv73WzFmw3gt+hnXo4pEm41GOL/b39Ar/38fX2xJ3LgPkDtozc9ky9OEyCJsnSREwiH/OFiyIFwLvsj11IH8awojEERPNxV+NpZAjxQLiYF8dZem4Zo5sZ2INFKQglJy6cYOAA0++K9ZLPd2+oAgHfQken83P6LNfxgVncHqMVmYJ2yFtFD3o=;4RbJgpQLCxCYo+iX5I/Xww=="
 ---
 

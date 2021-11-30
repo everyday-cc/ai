@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Okera Expands Its Footprint with AWS to Power Universal Data Authorization"
-excerpt: "Okera, the Universal Data Authorization company, today announced it has expanded its capabilities with Amazon Web Services"
-publishedDateTime: 2021-11-29T14:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/n24332062/okera-expands-its-footprint-with-aws-to-power-universal-data-authorization"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/n24332062/okera-expands-its-footprint-with-aws-to-power-universal-data-authorization"
-ampWebUrl: "https://www.benzinga.com/amp/content/24332062"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24332062"
+excerpt: "Okera, the Universal Data Authorization company, today announced it has expanded its capabilities with Amazon Web Services (AWS), introducing new integrations and product editions that allow customers to maximize the value of their investment on AWS."
+publishedDateTime: 2021-11-29T15:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/11/29/9500632.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/11/29/9500632.htm"
 type: article
-quality: 57
-heat: 57
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
-
-secured: "1yEudocwX+7pEL9y4PJcKVoWLM3WcU7RNyNHvONaylCval0sH5YpO4ng4EGVwOrrbX6OaOmG+0otDsOGNC7QKqssjhPQVWnwF1iFsOlNa2yaD8y/6JZPKSqp09rg10+44DdHeTUrdVHwAfmZ3ujpj556u+jAPoQDF+KvsONTdzZJUSFYJjp1BZ3oRpKfnRN4biZGXSYDJoxzs3Wu+vX0HQD2Qo1Rtz0xxxVyaouv2IE0l77nFHhqg6XUdeKrvQ/dSECldZOUrnxo0pnQl3x+tayBs8w8mxBfT/8fF/cDuZJbUePDpV5mTXIWoqkPS5eg7KUtKz72MceHtgb2ugHwRO90ObEhMUGkUE2HfDNzFL4=;jxhrzZJ+QojOpFXhofVUaw=="
+secured: "2fWeq8tjmmYAGIAQNXa9cj7PB4ylapuZeHCXyIr32P6C48OKQYILj6waQnOjjuDQK9ogdks0xzhr37ZRypAurD0lFLy86+89pFdl5MppBAlDbOAEpQdNViIvrZzd3AHaxzefbW3muQkzGgv7nd//Wjjj1qbxjHf+BVBlAB+958zWcG5UpYVYFHtWGm06D+trvFVUOuCedOa28MtKxgtACo0RNK6YKfnICIMN+IXFn5KobCL08w58Ga45MrnUcIRBeDNN5rTxyegIfNhRhr5VGx9pZ0uxyDh8LucL/wijM5W+zx0poK8i0GTRIfo56eQIazV+Djct4uN96LeIZNY4GasahxwOIoKRYB+Z01w8Rh8=;DBIpBpI2iN18TAHBIzeUmQ=="
 ---
 

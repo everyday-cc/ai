@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Artificial intelligence innovation within air force industry companies dropped in the last year"
+    excerpt: "Research and innovation in artificial intelligence in the air force equipment and technologies sector have declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 64 in the three months ending September – down from 70 over the same period last year."
+    publishedDateTime: 2021-11-30T09:44:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-within-air-force-industry-companies-dropped-in-the-last-year/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 40
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/10/AF1-6-e1634111806525.jpg"
+        width: 1920
+        height: 1269
+        isCached: true
 
 secured: "+KZqGQjpvVmfGj0T9xSF2aoBDJAwdxYc/BUZcc3TeLn+GlnqGRAIbLm93qiKdF90bq6yOsioVSPRRjrHiK/S1uKLp8rz88A6+H1+2DlFb892cd9nQMNyEjOUCOo3DlQkzWyD9ptRpfo63UwnyXSHaQbKy/EfWn8UUgCdGwGcZoi5QfFt3J/Lbbp3bjGYaCssOZFhEFyR8RUXEhCs3Qbz/HpLjORx1uDVFoHBsCdQpyYkNl+076ZJfG1SeGf4rwHAQ6TcBVRjfH6KQOTUxr8CEmOcJKWF7qYR3KE9kKnfzoHZIIO1RdYlrp5rbA6sIZQepeKD/0qhTj22GZxm/e6mqegzQlx1SwrCIQIzSdce80Q=;K9C02R2xthUBJO82lbgsGQ=="
 ---

@@ -152,6 +152,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Clearview AI faces potential £17m fine in UK for face recognition breach"
+    excerpt: "Clearview AI is like a search engine for people’s faces and its tech has been used by law enforcement in the UK."
+    publishedDateTime: 2021-11-30T09:40:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/clearview-ai-uk-fine-data-breach"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 53
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/11/face.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Victory! The ICO provisionally issues £17 million fine against facial recognition company Clearview AI"
     excerpt: "In what could be seen as one of the strongest sanctions against the company in Europe, the Information Commissioner’s Office (ICO), which is tasked with enforcing data protection legislation in the UK,"
     publishedDateTime: 2021-11-29T19:01:00Z
@@ -166,6 +180,15 @@ related:
         width: 555
         height: 312
         isCached: true
+  - title: "ICO fines facial recognition tech company Clearview AI over GBP 17 million"
+    excerpt: "The UK Information Commissioner's Office (ICO) has announced a provisional decision to fine facial recognition technology company Clearview AI over GBP 17"
+    publishedDateTime: 2021-11-30T09:10:00Z
+    webUrl: "https://www.telecompaper.com/news/ico-fines-facial-recognition-tech-company-clearview-ai-over-gbp-17-million--1405956"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 32
 
 secured: "KHM7NjI7K0rh73OMAof1qOzny1sfz4FCsmmfbEJVtpKpIPYUsnIjQSBcQOBlhxBXcVD911bhJNe8V3KcYaf+OieZHU7q+ipGqnLu5+La/dxRyPY05A21nxEuAzD9A04MQNcExslVZ9Kvs4ZU6j0M3ZUB1n3/NX2/wHcaMAqGoicKo7mZzURO6ylUqpo9RyUWXoe0aBRIeLqJVw17se5/CukNt3rS5D6NTJYj5OqH/tbrxRd4manfhW5QOO/lia9X6xINbmpa98VHnWoBvWzCQi+Xi7wVm4ytNIs8XFW8pzyK+Y1T0lyQiP3AdvjjGhcEUzGFiElGLegRaRA1Ca8QF6Rvdiv9cUYDVeh0bejp3cq9l1j6cRFwY8p453g+PVz1rVuAHyg4c73ls2TvvxZMghnWahhmGdjuP6s8mP4rzaj4Jr5lVhl3uPlZ3seoQ4fLMbyD41BX+yB850KlQV0MBTgOJSr4bc1groMASPFn3mncMHuA5D7E/oPsaYd37TY/5Z5m00qygczAkANHt0wHiA==;I5jiMtRtU4hqNaufacwehw=="
 ---

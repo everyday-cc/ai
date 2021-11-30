@@ -24,21 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
-    excerpt: "Artificial intelligence is becoming increasingly sophisticated. But we’re still a long way off from AI being able to discern what’s fake news."
-    publishedDateTime: 2021-11-28T12:05:00Z
-    webUrl: "https://theconversation.com/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
-    ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
+  - title: "Actions Taken For Ethical AI In 2021"
+    excerpt: "Countries are investing heavily in AI research and development. However, there are currently no norms or standards in place for ethical AI research, design, or use."
+    publishedDateTime: 2021-11-30T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 46
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://images.theconversation.com/files/433777/original/file-20211124-15-o3hamt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Actions-Taken-For-Ethical-AI-In-2021.jpg"
+        width: 1678
+        height: 943
+        isCached: true
+  - title: "Major AI Controversies Of 2021"
+    excerpt: "While 2021 was an exciting year for AI regarding innovations and new inventions, it was immune to controversies and scandals. In this article, we take a look at some of the most prominent ones that grabbed headlines."
+    publishedDateTime: 2021-11-26T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/major-ai-controversies-of-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Controversies_AIM.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI Innovations That Made Headlines In 2021"
+    excerpt: "As 2021 ends, we look back at the AI innovations and incidents that remained in the news this year AI has, by now, proven its power and impact. The artificial intelligence space is constantly evolving and improving with every passing day."
+    publishedDateTime: 2021-11-29T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/incident.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "8HxjQ1QjmOVO72/SndZax9iUK9doQ2qBCsn1gwKc9DX0N1ImXWUS920oMOU9NEfykDZKH9f/A3XDMOQ+F4SkOkG0NBFStZssg3LB1S0cetl08XCfTZ0PokM3pdctVKR+Tuh2NjLmVMJhR+iByRXX9pM1MG462bGNtaQ2LdI/EebauMeAnahfQAmtCIESsdOzoHtK/f2V2+xAWcQ9VgHyJVZf+sOy6j0AHwcXx7zYS++86tmgKwfKjApW8iL8/+AGGls9jgOFvkFox/CC7liHtcd7WskSFChyZ406jAwqkqLlCNDpVUiaikjqFFG1ePpxN4XbGNXMvOdGVrhj9EkiNphsqyqDeJY+saeo7oIHJyU=;Is16peEme3e9bY9p5DhWuA=="

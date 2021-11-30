@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-f
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
 type: article
 quality: 61
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -101,20 +101,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/Brazil-football-crash-survivor-AFP-1K-01-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "FintechNGR Hosts 2021 Edition of World Fintech Festival, Nigeria, with CBN and NITDA in Attendance"
-    excerpt: "On 11th of November 2021, the Fintech Association of Nigeria, (FintechNGR), hosted the World Fintech Festival (WFF), Nigeria, in partnership with the Singapore Fintech Festival (SFF). The event was one of the breakout events held by key FinTech hubs across the globe and was themed,"
-    publishedDateTime: 2021-11-25T17:55:00Z
-    webUrl: "https://www.proshareng.com/news/Fintech/FintechNGR-Hosts-2021-Edition-of-World-F/60145"
-    type: article
-    provider:
-      name: Nigeria
-      domain: proshareng.com
-    quality: 10
-    images:
-      - url: "https://www.proshareng.com/admin/upload/news/60145-proshare.jpg"
-        width: 2079
-        height: 1406
         isCached: true
 
 secured: "ReRpvNYkmydTHAsgyVWscKR9ddlo+3+vAQKB7XUUVje/U0CQOeuQLhnvMhT9ZrswVQo1p4ZKBG/JcrChBwdsB38AodCojvsO+qqznv/yFXudGBHgla4OLhOSgicWqUSb8ko6YKsqEk+sq6A8dKF3J+8X7rNMgnfjKH59rP2lXqMLn2XLkVkDyFjwYw4/Ip8ojDO0DrZOkNLUYq1rPi1KT63UgeTCGORZI1Zu1enZ98EMjgHHjCBnBK4Q4VVfjIDzBufun/jnyCDUPp5lMw4NADaaPffqsElT9DdhzTS9u7zKG32KuKUa2xvGaY9oo4aRS2x73QNvQwqIV/6O942+CUqtpKGElVekwXMh0nUdnGAjXHQmFuVL4H4Clatys3K2fdmSyfNn/eXJ4F/bgHAGU9gwUFaubJCyj9LtZRDjghBqRjWg2VHv0xek+uCvPxzCFr/q0gYWplxMR+qGWKOcVxBvRvonCcGoa0FpyL84QkDg+wNbVhk1NE6sj1DHsdHTG2TKoq5PjlvuhosmfLbuyA==;ED8uaZDlpPvGomXOeEEpkw=="

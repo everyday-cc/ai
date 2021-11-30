@@ -2,25 +2,27 @@
 category: news
 title: "Face Verification 12 from Neurotechnology Extends Facial Authentication Capabilities to Web-Based Applications"
 excerpt: "Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced the release of the new Face Verification system. Face Verification 12 is designed for the integration of facial authentication and liveness detection into PC,"
-publishedDateTime: 2021-11-30T08:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/face-verification-12-from-neurotechnology-extends-facial-authentication-capabilities-to-web-based-applications-1031010797"
-webUrl: "https://markets.businessinsider.com/news/stocks/face-verification-12-from-neurotechnology-extends-facial-authentication-capabilities-to-web-based-applications-1031010797"
+publishedDateTime: 2021-11-30T08:04:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-web-applications-europe-762cf6ce0a6c2e7fdf86a3f5a868ca93"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-web-applications-europe-762cf6ce0a6c2e7fdf86a3f5a868ca93"
 type: article
-quality: 14
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "MegaMatcher On Card 12 from Neurotechnology Features New Face Recognition and Fingerprint 1-to-N Matching Algorithms for Smart Cards"
@@ -33,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 18
 
-secured: "x/VxP0ZBQCOrig8uEl+NKnAEVdTEEl8dJchtygsz1HWQlEUEsTbRUf0ZsP+TMhVQyXx7h+YtQakxevAwlHywJaHBtVNCv7kEsQv6Y3blCrHBqx81WVNpAmPfkqZhCI3fhJSL5pWnZbg67mH3Nx6CL8ggInH945hZ4sHKTDheNto/KnHGzlZ7gmQC+8q5CGfaQfMIfMndtJcgh1knNg5JdUbF7xo5slW7KPcpeqGbU85RpcHlErU1c2x/6kMOzhRQv6U5aE7oEn5Dnn3cjMyL1WwB19WAEGqbIuw0Dterzyi/W8ks38FmMJr68ho4d/6XgBRdQ4Gp5Y97VwnvAnvU47WYKa0f9IZ81s2ctwinw80=;g397vAdxHtNSlbwV1+pf4g=="
+secured: "fu/FvPKHJcLcP0POs+75i1PxUUd9gFYcfHcvox6NWjJ4I4Vm4n+VvwWF+G2fnIk61Wt7sUKDLvpQBCMrrDh0P1Ql2qBkvkUUGMjykOpvii4badR8ssmA1ASserCoSZTTZsG+98kw5TVi50U47BLb14Ckkx4JbLzJNI6OAX7voJf8WLalXcuoybbxqv66zh9YQI73peJalSb2+aFA8kONPFddHeV+bqqpEJQCcbAkfYO6o0ZbZ0Im+riFekCDEKKkoW9A9nzGOZd+hDAMhMsLaZhOJb5UdVrgPik7tWCk+JDK7MFAoX3XcS6Ubqh32iA1rFc5joM9ovmlM/hqu6N6WXfJgobOzunlBGgrhRFpHIQ=;gR5nOGaA+N3nMe9oMcp/5w=="
 ---
 

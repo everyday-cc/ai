@@ -43,6 +43,20 @@ related:
         width: 600
         height: 401
         isCached: true
+  - title: "Tech firms will pay you $280,000 to have your face imprinted on robots"
+    excerpt: "A tech company is gearing up to launch a new line of human-looking robots, but they want them to have a friendly face. Tech firms will pay a brave volunteer $280,000 to use their face on their robots which will work in hotels,"
+    publishedDateTime: 2021-11-30T08:42:00Z
+    webUrl: "https://www.khaama.com/tech-firms-will-pay-you-280000-to-have-your-face-imprinted-on-robots-2023/"
+    type: article
+    provider:
+      name: Khaama Press
+      domain: khaama.com
+    quality: 39
+    images:
+      - url: "https://www.khaama.com/wp-content/uploads/2021/05/Immigration-to-Canada-and-US.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "ktG2WuMUMUjHG4JawGtqO8mVlEOLJFTI5lVyw9gNgEYYqhHCODINAQJ2Cd/8PN0caJrm3NI8TB/pqyH++JoJ7LeQ9xDz4x8kCqS0n7Px+pnzuTkpHQcZ6p4TcwKTfWFwIvc3LG6K0THWmTbNwmFesw95dBLWrX86gm5TRNJ+lg5xKYR7/xv3f8bY8OdCVo89HSUiSt2Azji/k0zq/lDoEMyfpTxp8twWcYGLIh+jTSZfRc2XyvJ2iix9t1cdg5Sx890ZKB7wVUmUL8Q2/d2Frdqu5Q5WRrx8LWERZyr0NpuHIiY3W8lD9nKsNIpJiCt7I8ATBtsEc97E1V7Pfv8ZX3Dbne8/Keb3b7HG1O/gcsitpK3TMEkSOW+PM5sRNxgNbnvCwO3rFL/2e7xRyHOaoN5TZdgoI4iSwAQ9OjcabV7EX7eSOTF3IDrDTF0MXlecqethoZyx9k8flgj5AUpdJ+WE2jq9E7EGJD+7T78CmzJoIYvQZruVcPFmUBZ1sOftIIpCGpub+31bigZ7K6NQtw==;43wI47FnJYP5GhDH8olhzw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
 type: article
 quality: 59
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech firms will pay you $280,000 to have your face imprinted on robots"
+    excerpt: "A tech company is gearing up to launch a new line of human-looking robots, but they want them to have a friendly face. Tech firms will pay a brave volunteer $280,000 to use their face on their robots which will work in hotels,"
+    publishedDateTime: 2021-11-30T08:42:00Z
+    webUrl: "https://www.khaama.com/tech-firms-will-pay-you-280000-to-have-your-face-imprinted-on-robots-2023/"
+    type: article
+    provider:
+      name: Khaama Press
+      domain: khaama.com
+    quality: 39
+    images:
+      - url: "https://www.khaama.com/wp-content/uploads/2021/05/Immigration-to-Canada-and-US.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Would YOU apply? Tech firm will pay a brave volunteer £150,000 to use their face on its ROBOTS which will work in hotels, shopping malls and airports by 2023"
     excerpt: "In its latest campaign, New York-based Promobot is seeking someone with a 'kind and friendly' face, to be used on a humanoid robot-assistant."
     publishedDateTime: 2021-11-26T08:53:00Z

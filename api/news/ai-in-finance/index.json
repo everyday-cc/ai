@@ -10,7 +10,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1005,43 +1005,25 @@
     {
       "path": "_news/2021-11-11-ai-and-machine-learning-in-financial-services.md",
       "title": "AI and machine learning in financial services",
-      "excerpt": "AI and machine learning in financial services While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption ...",
+      "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
-      "originalUrl": "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
+      "webUrl": "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
+      "originalUrl": "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T13:55:00-08:00",
+      "publishedDateTime": "2021-11-10T17:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

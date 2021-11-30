@@ -43,6 +43,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Never been observed': In a first, scientists create self-replicating living robots | Details"
+    excerpt: "The scientists created Xenobots by scraping living stem cells from frog embryos And with the help of artificial intelligence the researchers then tested billions of body shapes to make the Xenobots mo"
+    publishedDateTime: 2021-11-30T10:38:00Z
+    webUrl: "https://english.jagran.com/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
+    ampWebUrl: "https://english.jagran.com/lite/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
+    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
+    type: article
+    provider:
+      name: Jagran
+      domain: jagran.com
+    quality: 63
+    images:
+      - url: "https://imgeng.jagran.com/images/2021/nov/Robot1638268509637.jpg"
+        width: 650
+        height: 540
+        isCached: true
   - title: "Team builds first living robots that can reproduce"
     excerpt: "Scientists have discovered a new form of biological reproduction -- and created self-replicating living robots. Made from frog cells, these computer-designed organisms gather single cells inside a Pac-Man-shaped 'mouth' -- and release Xenobot 'babies' that look and move like themselves."
     publishedDateTime: 2021-11-30T00:43:00Z
@@ -52,6 +68,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "World’s First Living Robot Makes Babies"
+    excerpt: "The world's first AI-designed biological robots that can self-repair and self-replicate are known as Xenobots."
+    publishedDateTime: 2021-11-30T10:55:00Z
+    webUrl: "https://thegazapost.com/en/post/134003/World’s-First-Living-Robot-Makes-Babies"
+    type: article
+    provider:
+      name: غزة بوست
+      domain: thegazapost.com
+    quality: 39
+    images:
+      - url: "https://thegazapost.com/img/507x330/img_1638269380.jpg "
+        width: 507
+        height: 330
+        isCached: true
   - title: "Team builds first living robots that can reproduce (w/video)"
     excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication - promising for regenerative medicine."
     publishedDateTime: 2021-11-30T07:04:00Z

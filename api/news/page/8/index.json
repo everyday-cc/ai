@@ -2,6 +2,93 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-19-aws-aiml-community-attendee-guides-to-aws-reinvent-2021.md",
+      "title": "AWS AI/ML Community attendee guides to AWS re:Invent 2021",
+      "excerpt": "The AWS AI/ML Community has compiled a series of session guides to AWS re:Invent 2021 to help you get the most out of re:Invent this year. They covered four distinct categories relevant to AI/ML. With a number of our guide authors attending re:Invent virtually, you will find a balance between virtually",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-attendee-guides-to-aws-reinvent-2021/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ai-ml-community-attendee-guides-to-aws-reinvent-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T14:59:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-scientists-use-machine-learning-to-predict-smells-based-on-brain-activity-in-worms.md",
+      "title": "Scientists use machine learning to predict smells based on brain activity in worms",
+      "excerpt": "It sounds like a party trick: scientists can now look at the brain activity of a tiny worm and tell you which chemical the animal smelled a few seconds before. But the findings of a new study, led by Salk Associate Professor Sreekanth Chalasani,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.html",
+      "originalUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/reading-the-mind-of-a.jpg",
+          "width": 1880,
+          "height": 1495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-scientists-machine-based-brain-worms.amp",
+      "publishedDateTime": "2021-11-19T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-identifying-patients-needing-help-with-squark-automl-at-upmc.md",
       "title": "Identifying Patients Needing Help With Squark AutoML At UPMC",
       "excerpt": "UPMC uses automated machine learning software from Squark to identify patients who may benefit from living donor liver transplants.",
@@ -1122,92 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles.md",
-      "title": "Baidu, Swiss Re ink partnership to explore insurance for autonomous vehicles",
-      "excerpt": "Swiss reinsurance company teams up with Chinese tech giant Baidu to develop insurance services that cover the entire value chain of autonomous driving, spanning producing pricing, claims, and underwriting data standards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
-      "publishedDateTime": "2021-11-19T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-automation-ai-key-to-optimising-application-performance.md",
-      "title": "Automation, AI key to optimising application performance",
-      "excerpt": "Automation and AI are the only way to ensure optimal performance of the applications that organisations depend on, according to IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ",
-      "originalUrl": "https://www.itweb.co.za/content/KA3WwqdDOO9qrydZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/9A_uES3Vz33Mxpb3uct57ZbpXw1ba3GWA0adxPiqwDmb3RoQdF7D2H-MC-xc7B8l9i9sMK8li-uctJjjPqBeEQ=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdDOO9qrydZ",
-      "publishedDateTime": "2021-11-19T00:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

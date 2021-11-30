@@ -35,6 +35,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Never been observed': In a first, scientists create self-replicating living robots | Details"
+    excerpt: "The scientists created Xenobots by scraping living stem cells from frog embryos And with the help of artificial intelligence the researchers then tested billions of body shapes to make the Xenobots mo"
+    publishedDateTime: 2021-11-30T10:38:00Z
+    webUrl: "https://english.jagran.com/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
+    ampWebUrl: "https://english.jagran.com/lite/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
+    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
+    type: article
+    provider:
+      name: Jagran
+      domain: jagran.com
+    quality: 63
+    images:
+      - url: "https://imgeng.jagran.com/images/2021/nov/Robot1638268509637.jpg"
+        width: 650
+        height: 540
+        isCached: true
   - title: "Xenobots: Scientists Build the First-Ever Living Robots That Can Reproduce"
     excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication—promising for regenerative medicine. To persist, life must reproduce. Over billions of years, organisms have evolved many ways of replicating,"
     publishedDateTime: 2021-11-30T08:40:00Z
@@ -60,6 +76,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "World’s First Living Robot Makes Babies"
+    excerpt: "The world's first AI-designed biological robots that can self-repair and self-replicate are known as Xenobots."
+    publishedDateTime: 2021-11-30T10:55:00Z
+    webUrl: "https://thegazapost.com/en/post/134003/World’s-First-Living-Robot-Makes-Babies"
+    type: article
+    provider:
+      name: غزة بوست
+      domain: thegazapost.com
+    quality: 39
+    images:
+      - url: "https://thegazapost.com/img/507x330/img_1638269380.jpg "
+        width: 507
+        height: 330
+        isCached: true
 
 secured: "xDOysFwOodd9bKJpTb4DJyVoXDF1og5oX+L1zdmdWi3mzaw5Hp3pvdJcgZHx561OI8wOAzIXGCVOr3FpRY2gyQlkkLnYAwWs36steaqKPZtjoGl3ytHDmuVoZZJVTWJLngtPrOIwyd/qtV4Mc7oaDr2be5xeqUgwBGk6P+gNGx6CusDv6+Y0OodDt+neSlt/NshvuMx56C9oZpvrfcshHNjRHFEIPDohzP/w1mCfGge5s/ft0le91DwZG8UR8BTbPNGMWot0PYfaDcnUMVEf+Pe5g4mHYWk7ADqKX5j6OOi46qnZkVopWcAOG+5Q3mLwohmGgihqVlwUJM0cdue2pDRzYpuDeF+t95lNQsMKFHVsaS1uRfxiWaIxnLJlsCB2IOkoUTLEu3N5mf5mqVcXuBIbbgFosEpnaZ34GVvlQkXQiVCTxs/oteBmzzTaNwFa15yLQuWxyGcJmbOtMpg2nGDkd1x+0xcQREcN9NhGPr58YYUkAQCEWN8qaS+D5w7pySy6kOY3RVdDnoNO9fM74g==;PdM+JtiacF5ZDlCzZlF1tQ=="
 ---

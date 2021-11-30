@@ -101,20 +101,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "FintechNGR Hosts 2021 Edition of World Fintech Festival, Nigeria, with CBN and NITDA in Attendance"
-    excerpt: "On 11th of November 2021, the Fintech Association of Nigeria, (FintechNGR), hosted the World Fintech Festival (WFF), Nigeria, in partnership with the Singapore Fintech Festival (SFF). The event was one of the breakout events held by key FinTech hubs across the globe and was themed,"
-    publishedDateTime: 2021-11-25T17:55:00Z
-    webUrl: "https://www.proshareng.com/news/Fintech/FintechNGR-Hosts-2021-Edition-of-World-F/60145"
-    type: article
-    provider:
-      name: Nigeria
-      domain: proshareng.com
-    quality: 10
-    images:
-      - url: "https://www.proshareng.com/admin/upload/news/60145-proshare.jpg"
-        width: 2079
-        height: 1406
-        isCached: true
 
 secured: "vhweVpH1LOot+dl3UwZSujVNwxdL5wn9cCmBGEQG3nqFue4mmKIZjKLMy2j4xK3LAxpuuDgj6WiTo30/NkxIIAGRQobKl6fWZSKGilUjeVkgHtBFtIoeg/q+kuTGgd1t29gPHNMtdS5JQ1hgXutPWPOmFB9s49ezilTUOwlfBzUOBDbqJJJzQ4wGb8Ec0GEDYDeu/WhNOtX1a8Dem8f9cNqafMOxwl2YVgnESv/6uzadL8dKSHFvQsO82Gk20/wbuxXSK/zTADZTbIh5AlRbkvBBZEHtbz2JQaqTngbSpjjdHKja6u9XbFOH8BreWq/lYk7WI9Kod+g/SP6gi0q2dBe7bYpmQLviuauyHM8L3GZCdJt2Y4AFS8GKaVJTeYWquEIfs6o3/UnMr23DiF+5g40k5aot1QIESNd/neWcXDidR5og1siTWc0488Ns1gEQHybdAcJ9P+nMYAFRCGJmzHy/Dfk9gwcEI7BHa7OEvxA8Wu93fUpRIRLH5ahK6zDjDWbHaomStOt5BwkTIAYhAQ==;5B+d2/UI8HGNQPS9RangTw=="
 ---

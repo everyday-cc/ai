@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html"
 type: article
 quality: 91
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence innovation within air force industry companies dropped in the last year"
+    excerpt: "Research and innovation in artificial intelligence in the air force equipment and technologies sector have declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 64 in the three months ending September – down from 70 over the same period last year."
+    publishedDateTime: 2021-11-30T09:44:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-within-air-force-industry-companies-dropped-in-the-last-year/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 40
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/10/AF1-6-e1634111806525.jpg"
+        width: 1920
+        height: 1269
+        isCached: true
   - title: "Don’t Let Tooling and Management Approaches Stifle Your AI Innovation"
     excerpt: "Article in partnership with ModelOp It is no coincidence that companies are investing in AI at unprecedented levels at a time when they are under tremendous pressure to innovate. The artificial intelligence models developed by data scientists give enterprises new insights,"
     publishedDateTime: 2021-11-27T15:39:00Z

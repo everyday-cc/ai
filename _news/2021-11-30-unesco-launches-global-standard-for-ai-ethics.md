@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-sta
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
 type: article
 quality: 104
-heat: 215
+heat: 214
 published: true
 
 provider:

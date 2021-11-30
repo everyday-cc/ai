@@ -42,17 +42,22 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Facial recognition is getting smarter but the risks demand we proceed with caution"
-    excerpt: "Many smartphones click open each time we glance at the screen and some airports automate passport checks with face scans: it’s tempting to think we’re on the cusp of unlocking the full potential of facial recognition technology."
-    publishedDateTime: 2021-11-30T08:27:00Z
-    webUrl: "https://www.theweek.in/wire-updates/international/2021/11/30/tga1-tech-facial-recognition-embargoed.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/international/2021/11/30/tga1-tech-facial-recognition-embargoed.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/international/2021/11/30/tga1-tech-facial-recognition-embargoed.amp.html"
+  - title: "Facial recognition is getting smarter, but the risks demand we proceed with caution"
+    excerpt: "Many smartphones click open each time we glance at the screen and some airports automate passport checks with face scans: it's tempting to think we're.."
+    publishedDateTime: 2021-11-30T09:20:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/facial-recognition-is-getting-smarter-but-the-risks-demand-we-proceed-with-caution/88003346"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/facial-recognition-is-getting-smarter-but-the-risks-demand-we-proceed-with-caution/88003346"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/facial-recognition-is-getting-smarter-but-the-risks-demand-we-proceed-with-caution/88003346"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 33
+      name: India Times
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88003346,imgsize-28778,width-1200,height-628,overlay-ettelecom/facial-recognition-is-getting-smarter-but-the-risks-demand-we-proceed-with-caution.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The future of Constitutional Recognition"
     excerpt: "It looks increasingly unlikely the Federal Government will present legislation for an Indigenous Voice to Parliament before the next election. The final report from the advisory groups tasked with putting forward models for local regional and national voices has been given to the Minister for Indigenous Australians,"
     publishedDateTime: 2021-11-29T00:23:00Z

@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Facial recognition is getting smarter but the risks demand we proceed with caution"
-excerpt: "Many smartphones click open each time we glance at the screen and some airports automate passport checks with face scans: it’s tempting to think we’re on the cusp of unlocking the full potential of facial recognition technology."
-publishedDateTime: 2021-11-30T08:27:00Z
-originalUrl: "https://www.theweek.in/wire-updates/international/2021/11/30/tga1-tech-facial-recognition-embargoed.html"
-webUrl: "https://www.theweek.in/wire-updates/international/2021/11/30/tga1-tech-facial-recognition-embargoed.html"
-ampWebUrl: "https://www.theweek.in/wire-updates/international/2021/11/30/tga1-tech-facial-recognition-embargoed.amp.html"
-cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/international/2021/11/30/tga1-tech-facial-recognition-embargoed.amp.html"
+title: "Facial recognition is getting smarter, but the risks demand we proceed with caution"
+excerpt: "Many smartphones click open each time we glance at the screen and some airports automate passport checks with face scans: it's tempting to think we're.."
+publishedDateTime: 2021-11-30T09:20:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/facial-recognition-is-getting-smarter-but-the-risks-demand-we-proceed-with-caution/88003346"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/facial-recognition-is-getting-smarter-but-the-risks-demand-we-proceed-with-caution/88003346"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/facial-recognition-is-getting-smarter-but-the-risks-demand-we-proceed-with-caution/88003346"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/facial-recognition-is-getting-smarter-but-the-risks-demand-we-proceed-with-caution/88003346"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Week
-  domain: theweek.in
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-88003346,imgsize-28778,width-1200,height-628,overlay-ettelecom/facial-recognition-is-getting-smarter-but-the-risks-demand-we-proceed-with-caution.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Face-Off: Robots Come Equipped With Facial Recognition"
@@ -66,6 +72,6 @@ related:
         height: 394
         isCached: true
 
-secured: "Yplrwl9nfoAW3WBYmI61AaJup/gsyD/Y8ZHsKY7or1fMbVn+fgdxB5PnYPvti0N7cVzR9EYkqNj5umFevdEXT3xKpl45OYFcSIKqQCXibquKW59gqO5lEPrpYHLpW7pwbaKAOEY+wA8bvKC8lO9pA1ZnBbKT0PboBzIMEEEy7IYafTSeHidOljaIc5gSiglZAGh2kbYhcsyhsiWYHDdUwn7ZArrUdKutKQa3/sN+dVlgUzqQcMTzpzZ+pLsu39Gf1vFy1UF4Sq1HiyZCXsCTkKndzerx9E+oTAMG4VzrwSnqutex5usniT121XMaKZKr8GitexJ+FVJksNyDyUSAL9+DwOqwEPCMIt65JTu+tc0=;/z+KcxzatrLssHlWsJmrAA=="
+secured: "Mkr7oi0B+CD4tHONOlptBWRyanSeTG6Gvdu3D2qRsDM6TD0rfZQs/EhZnRqloehZJD6uQ1RoVBZIsrt7KJS7WlGGXvwmoHd0ucvJg73guG7zVZE7cAg4Cue0KiiOnX+Gde5pamrDumzhjHbsHTrUuR+NiCsqE2tdlTult426jaPuMxPGQ3YMnA8JhZ6MiOMlzXBhPGrpf9+1YCb+432qhgjsGLTrJzsldP/Rkzs89DaygWtws6puKAQh6q9pf+4uwJHEhJkXukW2Tr85QPnfWf3tD6G1OljQCg621TH6NiYmpwvgmUddU5605FWnuhApUhS+4UTt/U1mQkpQUS4u5P4MTC62jsXL8ZukxQkJ9r8=;f+YXu1HSyuI5rEIoPv/6Zg=="
 ---
 

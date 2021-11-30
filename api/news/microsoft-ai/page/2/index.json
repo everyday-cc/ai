@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-10-azure-machine-learning-for-predictive-and-analytical-work.md",
+      "title": "Azure Machine Learning for Predictive and Analytical Work",
+      "excerpt": "Let me tell you about some unnoticed services that deserve attention of those, who want to be ahead of the game. Azure Machine Learning is a cloud service designed to carry out predictive and analytical work. Simply put, it’s an instrument that allows ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html",
+      "originalUrl": "https://www.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/ck_images/5br39kHV.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-trailer-top-stories-today.md",
       "title": "Trailer: Top Stories Today",
       "excerpt": "This is a trailer for Top Stories Today, an automated news digest from the FT, updated every weekday throughout the day, and read aloud by Microsoft Azure AI. Bringing you up to speed on the day ...",
@@ -1304,49 +1348,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-microsoft-editor-receives-new-context-iq-to-improve-your-workflow.md",
-      "title": "Microsoft Editor receives new Context IQ to improve your workflow",
-      "excerpt": "Microsoft has this week announced it has implemented Context IQ into the popular Microsoft Editor to help improve your workflow, whether",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/",
-      "originalUrl": "https://www.geeky-gadgets.com/microsoft-editor-context-iq-03-11-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Microsoft-Editor-Context-IQ.jpg",
-          "width": 700,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

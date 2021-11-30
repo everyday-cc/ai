@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial"
 type: article
 quality: 102
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Clearview AI faces potential £17m fine in UK for face recognition breach"
+    excerpt: "Clearview AI is like a search engine for people’s faces and its tech has been used by law enforcement in the UK."
+    publishedDateTime: 2021-11-30T09:40:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/clearview-ai-uk-fine-data-breach"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 53
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/11/face.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
     excerpt: "Disinformation has been used in warfare and military strategy over time. But it is undeniably being intensified by the use of smart technologies and social media. This is because these communication technologies provide a relatively low-cost,"
     publishedDateTime: 2021-11-29T13:50:00Z
@@ -171,6 +185,15 @@ related:
         width: 555
         height: 312
         isCached: true
+  - title: "ICO fines facial recognition tech company Clearview AI over GBP 17 million"
+    excerpt: "The UK Information Commissioner's Office (ICO) has announced a provisional decision to fine facial recognition technology company Clearview AI over GBP 17"
+    publishedDateTime: 2021-11-30T09:10:00Z
+    webUrl: "https://www.telecompaper.com/news/ico-fines-facial-recognition-tech-company-clearview-ai-over-gbp-17-million--1405956"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 32
 
 secured: "wb4TtKq7EKnOAERFgGxhTuaYnw9Q4DItilYtvKD7wkPZ5ITPw7cPiXivRqVkNcXnmQzmTXCAJC+2LNYheoVhF+gu19c7e0iXBB0eHk70nfJtO92AlCZTOjq3FJB+CX8v+hIwigBZlzQeL7BkMHhm4aGPiw9hGuIdH8c7JKP3GF3zRd6KPR8EG0z79+8Uori7B73/jziBSd7uSn46z+twemNWguQJsk1gBGSpsyzKemxlDqiI754jYjjhVIKj9STrtdygLvJR487TVfjzuBBBag2WJFvpIirMPKYJANqLktoIaq1BbuAXRoHHRpdxpRVkSeMgebIDPYv9tzGzplVitR26ydL/IO9oqHAgB8LEctYQHtXq1ktzb0jaGO0BW15VXiHE9FsoeXUlFK/iwRI5NRavO88mbr6lUpS71UKoIQ6sd70CHBmEwZavwzsziOB9IeMD6pElE0sEWrg1gl2P8nNyTWh7cIFgXEw/oiEWuPXH0FwxCYLaUkd3NGMu0jDxqDSOTjPCH7jcKdKe8WKLwA==;kwD2lp+VEGLSdPxOsYYX9Q=="
 ---
