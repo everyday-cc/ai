@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html"
 type: article
 quality: 91
-heat: 101
+heat: 102
 published: true
 
 provider:

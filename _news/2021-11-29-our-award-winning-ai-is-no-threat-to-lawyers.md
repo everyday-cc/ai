@@ -69,6 +69,20 @@ related:
         width: 1199
         height: 799
         isCached: true
+  - title: "How the city hopes to rein in the job market’s AI gatekeepers"
+    excerpt: "A recently approved bill will make New York a leader in regulating automation in hiring, though tech watchdogs say the measure does not go far enough"
+    publishedDateTime: 2021-11-29T19:47:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/how-new-york-city-hopes-rein-job-markets-ai-robot-gatekeepers"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/232895556.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "NYC aims to be first to rein in AI hiring tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their résumés or analyzing their video interviews. But New York City residents could soon get more say over the"
     publishedDateTime: 2021-11-28T13:11:00Z

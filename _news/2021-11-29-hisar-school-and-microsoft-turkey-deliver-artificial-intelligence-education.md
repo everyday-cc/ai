@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsof
 webUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

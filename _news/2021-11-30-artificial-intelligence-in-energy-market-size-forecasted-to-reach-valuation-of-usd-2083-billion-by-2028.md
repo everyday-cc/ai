@@ -42,20 +42,6 @@ related:
         width: 800
         height: 274
         isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market 2021: Industry Demands, Top Key Players, Industry Analysis & Forecast By 2027"
-    excerpt: "Artificial Intelligence (AI) in Oil and Gas Market” report delivers a complete information of the industry including"
-    publishedDateTime: 2021-11-25T10:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-2021-industry-demands-top-key-players-industry-analysis-forecast-by-2027-2021-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "L4xQHUy5yTQNrY+So+1Qf6IFuBu6VPK71737DlGDK8k7tQU/XUksHMSYTMOP3lsX0KezHYsdQEs32u6Bk3os/whOw8thaQ+F1v45OsuPfEKiqeKPyW3H1pz0IqqiNFmIt+kYq5t2xJ44I029Gbtox9MjvWPQ21cenihTeADQpRaQap7nAf41ECDfoExE9tLT5FihCcBoEInELwk/cTWxBBO4pppFsrlA6+GeELrEPIp0k0gP08nWQaGxKwpTAq5z5ryFbwiZCdbjefNkf5GwsgaF3IuN+U02/x4QAmrpNhE7tYevukd8wJBcOxqDgXtPiuS75IkLb0iWRB+AEQziDadGEGcSA4G3zpERFO+IRGvelnyMOhIQPIBjXe4bqzRQh/EdO3UlNYGHDxWZA2u5Rx3xGtQRLI5/iKO8/LT6BxBVE49wXAu5UtIZZ3hAA18YE8x9wq8VeqxJWI6OUMZBcoI9jEQudtCeoXBE5Yj3EbdaFQ66Lax4NgtYtdk86sJeD3xIuLl5MgfYD9zUHUoA/Q==;6EZXvqmt5tybU8jozownOg=="
 ---

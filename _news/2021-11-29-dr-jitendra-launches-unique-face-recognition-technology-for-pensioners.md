@@ -113,6 +113,20 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 18
+  - title: "Jitendra Singh launches unique face recognition technology for pensioners, says it will bring ease of living for retired, elderly citizens"
+    excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for"
+    publishedDateTime: 2021-11-30T02:05:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271833428/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 5
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1638237791.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "hV3spDIyGWKEfE6hqgeDTR/OAxdqpYl21bLS3+CN2rvR9kWUx9bTwfUw33NHb555J62hjDfPYpY+GHMomembHVsvDCn6+M+9n1QUFsvSZOXrSo0/+rohJODqEdqKRgoGpS+KYnXMeM3wrLrI3KJCyGEvmZQozSrWy5QNFiYzh2JpbcgImmbLN5wQwfQSi+m2F3w5NAVEImbpylb41rhkq0F4/VZz7kLHZKCeMIPFms7ylrVz3CljoCAGcW9b7RKI9xbK1bTs0MhYxCuBA904AJRUNp0O9doWSivD71n+wHUI3dbuHsFkZrg3G9tTlrB/18YONHMmIplHZ95U1dEo2yNiIuLOCsdzI7A+LlvVoeA=;npCwKDsdxcYa5J8gFDhrWA=="
 ---

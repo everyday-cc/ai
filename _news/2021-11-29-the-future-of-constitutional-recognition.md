@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "The reality of facial recognition in Montana"
-    excerpt: "We’ve been following developments as the Economic Affairs Interim Committee continues to study the use of Facial Recognition in Montana."
-    publishedDateTime: 2021-11-28T07:00:00Z
-    webUrl: "https://dailyinterlake.com/news/2021/nov/28/reality-facial-recognition-montana/"
+  - title: "Face-Off: Robots Come Equipped With Facial Recognition"
+    excerpt: "In the not-so-distant future, robotic dogs equipped with facial recognition cameras might just scamper about outside and help police officers identify suspicious persons. Contactless commerce, airport security and law enforcement: The use of facial recognition technology (FRT) is quickly becoming a must-have for the public and private sectors."
+    publishedDateTime: 2021-11-30T01:56:00Z
+    webUrl: "https://www.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367"
+    ampWebUrl: "https://m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp"
     type: article
     provider:
-      name: Daily Inter Lake
-      domain: dailyinterlake.com
-    quality: 39
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
     images:
-      - url: "https://hagadone.media.clients.ellingtoncms.com/static-3/dailyinterlake/images/default-social.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/489420"
+        width: 640
+        height: 428
+        isCached: true
+  - title: "Face-Off: Robots Come Equipped With Facial Recognition (VIDEO REPORT)"
+    excerpt: "In the not-so-distant future, robotic dogs equipped with facial recognition cameras might just scamper about outside and help police officers identify suspicious persons. Contactless commerce, airport security and law enforcement: The use of facial recognition technology (FRT) is quickly becoming a must-have for the public and private sectors."
+    publishedDateTime: 2021-11-29T17:59:00Z
+    webUrl: "https://themedialine.org/life-lines/face-off-robots-come-equipped-with-facial-recognition-video-report/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 56
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2021/11/f2-scaled-e1638208297104.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "WvY3pHh3D9f+3lLOqmGoy0/F2sK32JQCtyKpndOoSIvWUIMyn3lzZlbXlcu6lh97z7Kthvl90hKTjCWFNIpopkaKTq2MaowjgfnSHFyhJWozbyym3SuFCF3J4HS3g72GpWIRSnIbdfy+laSFrBIDzMxknseGYGAIgF+AFWA+UP4ULZaj2s5nSm3ArHoleJEC5sa1itDuHZS/b1j1HVT64sviVF9vA5/44if2vyEy+T8YzooRlJOFPXgJXQg0sz26zRQN+fp1zSx9tapCsEoZlONDB8UY6+T3Q7zPC2iE/7duWAc/Hk038NCJvsnbBMofX36HU7zpJFWIzlaiOaFYhnxkL/Qge4zBV9FzRKEzvPEPNcuvmMHOZgUvbK0zyBOpVoq9Vjn0iW2Ay5njIydK8UyZOuI7+fESbaDCiPQyTGpnR1QEss/T4EocOXY2/avSHBy1Nky4n8hPA7lNuXSkqo8UL/7t4mb+pdo1pV1aFwX4MhrrjJioX2fo/IFzaFH9xHsF1r4xW2vprbxjFbqA8Q==;yQj/9OTa/CovPWjR48gGPw=="

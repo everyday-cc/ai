@@ -42,6 +42,20 @@ related:
         width: 1920
         height: 2880
         isCached: true
+  - title: "VA AI strategy outlines data, workforce investments needed to improve veteran care"
+    excerpt: "To accelerate the agency’s AI capabilities while ensuring safety and trust, the VA adopted an enterprisewide AI strategy in late September. The strategy outlines steps VA is taking to upskill its workforce and partner with other agencies."
+    publishedDateTime: 2021-11-29T21:37:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2021/11/va-ai-strategy-outlines-data-workforce-investments-needed-to-improve-veteran-care/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 33
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/04/AI-featured-gif.png"
+        width: 435
+        height: 290
+        isCached: true
 
 secured: "7Dvbpvy86tIbIQJc5Z7UJt8hYP+1WTHzcl5XRtYbon8IFRO0rFLaz/hUw28Ty0N0cj9kk4QP7d8Hx8lDpJ6aA4Vl0Ef4y2RzdjbHYWg7tjNDkm91l/nAX10Rgk/qnbJ7Fm49PMUZ8i3mlZtqlApvKazazHlEVIiUILy+kp6rH6dJ6psb8PMQpTZW1XU/fx9HRZfpV+vWRBpnunonAAii3tHYJ//LbD/keDMukv057YT+O6ccnhtPCOzuO+kb1pKEX5vmIxZJ8fwZH9CSGwyOqSGVU/3eiOWB1FuEUjmvxv2M2yPDKhJ2jSWZF8A8LdWsR31WC+32SO9PBVSIO/1k/9+24GtCg5O6hNgVH7cN+X9Vqoe0VlN0w698o8mhZIGXOs9sYNMCM+vLEP3gzovIEKgNwFS8l1CA+28Hycc9pVeajeCvQXU8QR3wSVX2DZX0iMN8dDqexkjhoI29q0j8S+9eKKRk7ax6uzNXPAww9HKrbyyWv0CDzPDCF7j1MfkWskTU0gzw5gPwO1Jjcb42kw==;Iyb9IbjVKRycUPSWxb5gTQ=="
 ---

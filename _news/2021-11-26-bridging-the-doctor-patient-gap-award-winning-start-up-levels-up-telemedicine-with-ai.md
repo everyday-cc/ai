@@ -23,22 +23,6 @@ images:
     height: 509
     isCached: true
 
-related:
-  - title: "5G: Expect telemedicine, self-driving cars, NCC tells Nigerians"
-    excerpt: "The Nigerian Communications Commission (NCC) says Nigerians should expect gigabytes in a second, smart cities, self-driving cars, robust telemedicine, and others with the deployment of the fifth-generation technology in Nigeria."
-    publishedDateTime: 2021-11-25T10:32:00Z
-    webUrl: "https://www.thecable.ng/5g-expect-telemedicine-self-driving-cars-ncc-tells-nigerians"
-    type: article
-    provider:
-      name: TheCable
-      domain: thecable.ng
-    quality: 24
-    images:
-      - url: "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2020/07/NCC-2.jpg"
-        width: 5088
-        height: 3300
-        isCached: true
-
 secured: "GKtnY2F7c469OufCrG92QYfkUs4BcrXs0UpyhGc7cgioYp1Y+GqIw/dJkpgAeh1Ds4D8NLdjMjXP+9qZjo+G9AHPvoPuppQXinV9vxdssi5p5/6zbeKpwcshyUYnhezPbzPGpZteafw158n7dywpk1CdlrWbS+a6DEDAA2GlavJGVIrSMMA6sPqu1oeG3fV3tb94UHR0WnGbABC+rT9dHeJ8PTJhcWV00N25wYAjUM7A9889AkiIr89GICRQXFhMh0pwcPycGNad8x5pZGK0t9TBxOhk8IFqAdNSXWOqJKWhLea1z0glEk3MQuniYVQlw1sXL9iUZktbym00yrstR825iNUjtnfOVdmuruUOrjOfuSFahLHPM6QvSNAtoioRE6kLToTVxEWPe+zHXGUl4gnw7Qzah7WCNeos6YsAF1oGmiLlDpF5SVYp8RiINyd3OR0ggV1nT8Tt2q46P7v4x2+2+cGis4jdL1iO8tfSw0J08jzr/QAIPHriqm9nfWfvzodlVyOBb/eFFi7U+p3m4A==;EXGxRDabcU7YlxBh+7flQw=="
 ---
 

@@ -1,28 +1,49 @@
 ---
 category: news
 title: "Artificial intelligence that understands object relationships"
-excerpt: "MIT researchers developed a machine learning model that understands the underlying relationships between objects in a scene and can generate accurate images of scenes from text descriptions."
-publishedDateTime: 2021-11-29T23:23:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/936299"
-webUrl: "https://www.eurekalert.org/news-releases/936299"
+excerpt: "When humans look at a scene, they see objects and the relationships between them. On top of your desk, there might be a laptop that is sitting to the left of a phone, which is in front of a computer monitor."
+publishedDateTime: 2021-11-29T20:49:00Z
+originalUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.html"
+webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.html"
+ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-relationships.amp"
 type: article
-quality: 37
-heat: 37
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c4e54422-ef48-4eb5-a728-33837a7aca3b/Rendition/low-res/Content/Public"
-    width: 700
-    height: 288
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-51.jpg"
+    width: 900
+    height: 370
     isCached: true
 
-secured: "jLO7SG8jtQSbPLau2CmodgR09BuTzKoJfHcy2gzqnqf+XK00CjaQb6Deni15DwaPNGUSsjH65UbxrrmjUBxUFbp94fXt+dD9S4xWqNTPnM8dDfQpsiKv5oM2oMkaBBLRDkjz7DSPEViPV+JUZ1UO8xALtxhdRn1qtTXqXeWpEU8o165gZxr72+RmhSHwXwTLiFFsrB8rPFf5YofEkwoDzDs4/l4dOe1TosSX2kB/4EqjgIj/32NRhNjjSOoE39BfDR0PXCz1DEoMJYnOw4vpyNNdt5CQppiMt39ESfCfqeFMFZHHjrGYCxapvS4rPpZGXl+qOeWSy1RT4JE0g4VJWrF8Kh97fy/i5KZHCJbEAb4=;gDtuvsImFdOz+gK8XUXL2w=="
+related:
+  - title: "Machine-learning model could enable robots to understand interactions in the way humans do"
+    excerpt: "When humans look at a scene, they see objects and the relationships between them. On top of your desk, there might be a laptop that is sitting to the left of a phone, which is in front of a computer monitor."
+    publishedDateTime: 2021-11-29T15:18:00Z
+    webUrl: "https://techxplore.com/news/2021-11-machine-learning-enable-robots-interactions-humans.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-machine-learning-enable-robots-interactions-humans.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-machine-learning-enable-robots-interactions-humans.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-model-3.jpg"
+        width: 900
+        height: 600
+        isCached: true
+
+secured: "Dn5fFC5oQkrvoAWJNcOc59ewLrHrXhFMDgWESsFX2HezKDo6uumgJD/ZdXrH14/si7S4aVvGPtIXo9QonmzJrS3isN7TteWOxjOxx0JKp8tSGHA7p2kHuq62WwFYASPcdntvhLg+Z3jbtVkmFBrI5zJXbtL1FgD1H4+ur3icNfxzAGwfXNzt/2QwcRIshkLDni1G2NLH1ZiquRdjDXeVK2pYfTm8koZ0Lt8vXLPQ2nWoh7EX66UjKHUC6gGg/RkATmtuHehg+YqR6NvILB6gPayG3InJyDwmvl+KplXKyMkhNY0DUsI6X626XWchdvcbnrmqnh4V2cAN0QEAhsCFYFNp7eMkJOf4ATn/S5hdRTk=;zLIl8pVYphLzqy2IMNB9ug=="
 ---
 
