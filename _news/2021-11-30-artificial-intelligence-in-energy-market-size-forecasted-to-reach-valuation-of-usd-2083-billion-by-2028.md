@@ -26,22 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Food Beverages Market worth USD 29.6 billion by 2027"
-    excerpt: "The MSG publishes the new report on the Artificial Intelligence AI in Food Beverages Market by Application Food Sorting Quality Control and Safety Compliance Consumer Engagement Production and Packaging and Maintenance and Other Applications by End User"
-    publishedDateTime: 2021-11-26T08:07:00Z
-    webUrl: "https://www.openpr.com/news/2475749/artificial-intelligence-ai-in-food-beverages-market-worth-usd"
-    ampWebUrl: "https://www.openpr.com/amp/2475749/artificial-intelligence-ai-in-food-beverages-market-worth-usd"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475749/artificial-intelligence-ai-in-food-beverages-market-worth-usd"
+  - title: "AI Software Market Forecast to Hit $62.5 Billion in 2022"
+    excerpt: "The AI software market is expected grow 21.3% next year, according to Gartner, as enterprises boost their AI spending."
+    publishedDateTime: 2021-11-30T15:03:00Z
+    webUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-443065/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "News: Global AI software market to touch $62 billion in 2022: Gartner"
+    excerpt: "As per the report the top five use cases for AI software spending in 2022 will be knowledge management virtual assistants autonomous vehicles digital workplace and crowdsourced data"
+    publishedDateTime: 2021-11-29T03:32:00Z
+    webUrl: "https://www.peoplematters.in/news/technology/global-ai-software-market-to-touch-62-billion-in-2022-gartner-31762"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1636960766/ad-kqkzykwk.png"
+        width: 990
+        height: 550
+        isCached: true
+  - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"
+    excerpt: "Nowadays businesses are highly relying on the different segments covered in the market research report which presents better insights to drive the business into right direction Artificial Intelligence ai in Drug Discovery market report presents the company profile product specifications"
+    publishedDateTime: 2021-11-26T07:23:00Z
+    webUrl: "https://www.openpr.com/news/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    ampWebUrl: "https://www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 65
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub26740905_g.jpg"
-        width: 800
-        height: 274
-        isCached: true
+    quality: 20
 
 secured: "L4xQHUy5yTQNrY+So+1Qf6IFuBu6VPK71737DlGDK8k7tQU/XUksHMSYTMOP3lsX0KezHYsdQEs32u6Bk3os/whOw8thaQ+F1v45OsuPfEKiqeKPyW3H1pz0IqqiNFmIt+kYq5t2xJ44I029Gbtox9MjvWPQ21cenihTeADQpRaQap7nAf41ECDfoExE9tLT5FihCcBoEInELwk/cTWxBBO4pppFsrlA6+GeELrEPIp0k0gP08nWQaGxKwpTAq5z5ryFbwiZCdbjefNkf5GwsgaF3IuN+U02/x4QAmrpNhE7tYevukd8wJBcOxqDgXtPiuS75IkLb0iWRB+AEQziDadGEGcSA4G3zpERFO+IRGvelnyMOhIQPIBjXe4bqzRQh/EdO3UlNYGHDxWZA2u5Rx3xGtQRLI5/iKO8/LT6BxBVE49wXAu5UtIZZ3hAA18YE8x9wq8VeqxJWI6OUMZBcoI9jEQudtCeoXBE5Yj3EbdaFQ66Lax4NgtYtdk86sJeD3xIuLl5MgfYD9zUHUoA/Q==;6EZXvqmt5tybU8jozownOg=="
 ---

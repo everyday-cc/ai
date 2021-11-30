@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "6 recent Big Tech partnerships in healthcare: Amazon, Google & more"
-    excerpt: "Six recent partnerships between healthcare organizations and Big Tech companies, including Amazon, Apple, Google and Microsoft: 1. Microsoft and telehealth provider Babylon are teaming up to use artificial intelligence and cloud computing to explore opportunities to increase their health IT offerings."
-    publishedDateTime: 2021-11-29T20:06:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/6-recent-big-tech-partnerships-in-healthcare-amazon-google-more.html"
+  - title: "How Artificial Intelligence is Transforming Healthcare Philanthropy"
+    excerpt: "Philanthropy is often an untapped yet significant source that can transform a healthcare organization. To raise more money, hospitals need to identify more potential donors. We know people give because of people."
+    publishedDateTime: 2021-11-29T14:57:00Z
+    webUrl: "https://www.beckershospitalreview.com/philanthropy/how-artificial-intelligence-is-transforming-healthcare-philanthropy-2.html"
     type: article
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 39
+    quality: 54
     images:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
         width: 800

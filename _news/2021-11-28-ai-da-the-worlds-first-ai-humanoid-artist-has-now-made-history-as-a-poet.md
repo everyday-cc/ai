@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-w
 cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Dazed
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Data-First AI the Next Big Thing?"
-    excerpt: "We are roughly a decade removed from the beginnings of the modern machine learning (ML) platform, inspired largely by the growing ecosystem of open-source"
-    publishedDateTime: 2021-11-29T08:15:00Z
-    webUrl: "https://www.datanami.com/2021/11/29/is-data-first-ai-the-next-big-thing/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/ml-circle_500px.png"
-        width: 500
-        height: 500
-        isCached: true
   - title: "EU: Artificial Intelligence Act must put human rights first"
     excerpt: "Statewatch, have today published a collective statement calling for EU institutions to prioritise fundamental rights in the Artificial Intelligence Act (AIA), which is currently under negotiation. The statement,"
     publishedDateTime: 2021-11-30T09:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-ser
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/11/Baidu-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Commercial robotaxi pilot services launched in capital, Baidu among players seen capitalizing"
-    excerpt: "Beijing launched China's first pilot area for commercial autonomous driving vehicle services on Thursday, marking a shift from the testing phase for autonomous driving to wider commercial exploration,"
-    publishedDateTime: 2021-11-26T00:48:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202111/26/WS61a02ee7a310cdd39bc77a0b.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 28
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202111/26/61a02ee7a310cdd3d81ce837.jpeg"
-        width: 720
-        height: 480
         isCached: true
   - title: "Beijing launches first commercial trial of self-driving vehicle"
     excerpt: "The Chinese capital of Beijing launched its first commercial trial of autonomous driving and rolled out relevant management policie"

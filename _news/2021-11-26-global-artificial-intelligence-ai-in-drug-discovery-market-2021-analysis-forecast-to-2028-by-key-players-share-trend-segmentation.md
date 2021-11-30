@@ -20,31 +20,50 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Markets - Global Industry Analysis, Trends, Market Size, and Forecasts to 2027 - ResearchAndMarkets.com"
-    excerpt: "How to Find Winning Stocks with Omicron Variant Looming! CLICK TO WATCH! The \"Artificial Intelligence (AI) in Drug Discovery Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-11-29T11:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24327562/artificial-intelligence-ai-in-drug-discovery-markets-global-industry-analysis-trends-market-size-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24327562"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24327562"
+  - title: "AI Software Market Forecast to Hit $62.5 Billion in 2022"
+    excerpt: "The AI software market is expected grow 21.3% next year, according to Gartner, as enterprises boost their AI spending."
+    publishedDateTime: 2021-11-30T15:03:00Z
+    webUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://images.wsj.net/im-443065/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
-    excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-11-29T16:29:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/11/29/9500623.htm"
+  - title: "Artificial Intelligence in Energy Market Size Forecasted to Reach Valuation of USD 20.83 Billion by 2028"
+    excerpt: "The global Artificial Intelligence in energy market is expected to reach a valuation of USD 20.83 Billion in 2028, and register a revenue CAGR of 23.6% over the forecast period. The market revenue growth is attributed to growing need for obtaining operational efficiency to meet energy requirements."
+    publishedDateTime: 2021-11-29T20:08:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-energy-market-size-forecasted-to-reach-valuation-of-usd-20-83-billion-by-2028/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-energy-market-size-forecasted-to-reach-valuation-of-usd-20-83-billion-by-2028/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-energy-market-size-forecasted-to-reach-valuation-of-usd-20-83-billion-by-2028/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: Impacts
+      domain: techbullion.com
+    quality: 40
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Artificial-Intelligence-in-Energy.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "News: Global AI software market to touch $62 billion in 2022: Gartner"
+    excerpt: "As per the report the top five use cases for AI software spending in 2022 will be knowledge management virtual assistants autonomous vehicles digital workplace and crowdsourced data"
+    publishedDateTime: 2021-11-29T03:32:00Z
+    webUrl: "https://www.peoplematters.in/news/technology/global-ai-software-market-to-touch-62-billion-in-2022-gartner-31762"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1636960766/ad-kqkzykwk.png"
+        width: 990
+        height: 550
+        isCached: true
 
 secured: "hKBFvNGPB7/sIg/J6S3R41ngrBKGh3UBlGTEvFXeLinFvn9LvyLfq0XFiG7yJfemeWwYP3vtF4OLKxN1Mg7ZnVMwrxJBNcyPDNb6sIWk6A5KMik0rl93w36+ZnU3Iedpmjf/wGNdbohI/QPbyRLfFrl7oFC+d+2tjBn2OLJJ4KIQACLqVfuGF1Zp8TETWZoEH5qBvGaomzUDa4hVkKq+5iBTiHKw7F1rWSw4P9/RrUOyxR8cX0gUbrHhToOtTpVE0txhIysOxRtcWUeTEudTjN1UdNpUbcGgw1eGC8IppSwDuy0PLTXOzj0waqu05sH5ZrcsHh4d7jD+QWEVpYiWIx9hBRnbxro/uDPAuhN5JtM=;aQsfC+WDPARBZ7rOuRBSdQ=="
 ---

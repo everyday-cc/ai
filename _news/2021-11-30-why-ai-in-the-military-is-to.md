@@ -9,7 +9,7 @@ ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/w
 cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
 type: article
 quality: 57
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -26,34 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Aiming at the Bad Math of Drug Development"
-    excerpt: "A new drug typically takes more than a decade to develop, at a cost of almost $3 billion. That’s because about 90% of experimental medicines fail during the various stages of chemical engineering, or during animal or human trials."
-    publishedDateTime: 2021-11-29T11:50:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-ai-is-aiming-at-the-bad-math-of-drug-development/2021/11/29/effd4af8-5112-11ec-83d2-d9dab0e23b7e_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "How AI is aiming at the bad math of drug development"
-    excerpt: "Drug makers and investors are spending billions of dollars to turbocharge the search for new treatments using AI."
-    publishedDateTime: 2021-11-29T17:42:00Z
-    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/how-ai-is-aiming-at-the-bad-math-of-drug-development/"
-    type: article
-    provider:
-      name: The North Bay Business Journal
-      domain: northbaybusinessjournal.com
-    quality: 56
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=eed53b4f-ab4a-5fe3-b067-6e404d33834e&type=primary&q=72&width=1200"
-        width: 1199
-        height: 799
-        isCached: true
   - title: "The Role of Artificial Intelligence in Pioneering the Retail Industry"
     excerpt: "The retail industry's digital transition has been ongoing for a long time. Data and predictive analytics tools are helping organizations make data-driven decisions in every aspect of retail business,"
     publishedDateTime: 2021-11-30T04:43:00Z

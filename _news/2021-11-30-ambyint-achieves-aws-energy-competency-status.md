@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Launches the AWS Energy Competency Program to Target the Energy Industry"
+    excerpt: "Amazon has announced a new program that will officially identify AWS Partners who create specialized solutions geared towards the energy sector. The AWS Energy Competency Program, as it’s called, will identify these specialist partners with demonstrated technical expertise and client success in helping energy producers all over the world develop and deploy AWS-powered solutions utilizing cutting-edge technology while also navigating the shift to a more sustainable energy future."
+    publishedDateTime: 2021-11-30T16:20:00Z
+    webUrl: "https://bestgamingpro.com/aws-launches-the-aws-energy-competency-program-to-target-the-energy-industry/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 36
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/AWS-targets-the-energy-industry-with-launch-of-the-AWS-Energy-Competency-Program.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Aspen Technology Achieves AWS Energy Competency Status"
     excerpt: "Aspen Technology, Inc. (NASDAQ: AZPN), a global leader in asset optimization software, today announced that it has achieved Amazon Web Services, Inc. (AWS) Energy Competency status. This designation recognizes that AspenTech has demonstrated deep expertise helping customers leverage AWS cloud technology to transform complex systems and accelerate the transition to a sustainable energy future."
     publishedDateTime: 2021-11-30T14:11:00Z

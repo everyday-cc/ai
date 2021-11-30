@@ -25,36 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Ai-Da, the world’s first AI humanoid artist, has now made history as a poet"
-    excerpt: "Ai-Da, the humanoid AI artist who made history in 2019, as the first ever robot who can draw without any human input, is now an AI poet. Her first performance? A recital at the University of Oxford’s Ashmolean Museum,"
-    publishedDateTime: 2021-11-28T15:38:00Z
-    webUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante"
-    ampWebUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
-    cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
+  - title: "AWS pitches robotics as the next big thing"
+    excerpt: "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations"
+    publishedDateTime: 2021-11-30T14:55:00Z
+    webUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html"
     type: article
     provider:
-      name: Dazed
-      domain: dazeddigital.com
-    quality: 57
+      name: ITWire
+      domain: itwire.com
+    quality: 71
     images:
-      - url: "https://dazedimg-dazedgroup.netdna-ssl.com/959/0-0-959-639/azure/dazed-prod/1310/7/1317114.jpg"
-        width: 959
-        height: 639
+      - url: "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg"
+        width: 375
+        height: 213
         isCached: true
-  - title: "EU: Artificial Intelligence Act must put human rights first"
-    excerpt: "Statewatch, have today published a collective statement calling for EU institutions to prioritise fundamental rights in the Artificial Intelligence Act (AIA), which is currently under negotiation. The statement,"
-    publishedDateTime: 2021-11-30T09:09:00Z
-    webUrl: "https://www.statewatch.org/news/2021/november/eu-artificial-intelligence-act-must-put-human-rights-first/"
+  - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
+    excerpt: "(NASDAQ: AMZN), announced that the Roche Group (SIX: RO, ROG; OTCQX: RHHBY) is using AWS for the majority of its cloud workloads to help Roche extract greater value from its health data. The company uses AWS capabilities in high performance computing,"
+    publishedDateTime: 2021-11-30T16:55:00Z
+    webUrl: "https://www.healthcaredive.com/press-release/20211130-aws-supports-roche-in-harnessing-the-power-of-health-data-at-scale/"
     type: article
     provider:
-      name: Statewatch
-      domain: statewatch.org
+      name: Healthcare Dive
+      domain: healthcaredive.com
     quality: 39
     images:
-      - url: "https://www.statewatch.org/media/2957/eu-ai-act-statement.png"
-        width: 1200
-        height: 800
+      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1638259608/press_release/assets/company_logos/AWS_logo_RGB_fyojsl.png"
+        width: 400
+        height: 400
         isCached: true
+  - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
+    excerpt: "AWS Supports Roche in Harnessing the Power of Health Data at Scale. Today, Amazon Web Services (AWS), an Amazon.com (News - Alert), Inc. company (NASDAQ: AMZN), announced that the"
+    publishedDateTime: 2021-11-30T06:34:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/30/9500913.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 19
 
 secured: "lN1LP5DMAqd5IRNRPTRM1QAQ+cOJ/jjTwMxKdC6UrmRgpDpcLG4Woar0f/C8WWh/ATTI2ipBAApfndanbqNRStYCeQR38EFws4bONKRkEW//JBn0uE5DwHDpxH79Ko50seQyRgTKDQ5zx+0fS1M75Q4kMiYndFu7/1rjjTY3hR7ItyUdKZ4a4tQUsQ+oLzlXxfzNoecHJQly83VOYs4qqt/VSxBeI+9q7TlsGRtq0bDbEkoJGpS0yDCpM4DFvB44YV2Ccb0pBvwjQsoR0v6YgiKOrXpYLc66OWlWRjdzFoF5imIZlRgJlPHfkoTo+k0HOzHWZ/47xSubecZtFv/rOjTmlJNSxGUV+ONEYBTk1+FMM2nppRpKqxfta8FqEPvWz5fhiytYlld1ZuhqYmt4+uDOkYvZw+0AA6GRbuLbmTPO2knfoyifhh/yXpTvgBX+Otol+R8zvDRljuMREooB5bHtYVDm2n346CDorYO+c8xJ5VzyMuasHWuRGIkmgMO4KeEoUbWHiAfBBjVKg3ZnSQ==;fx1v1HU9wSunpTZXCxrcWA=="
 ---

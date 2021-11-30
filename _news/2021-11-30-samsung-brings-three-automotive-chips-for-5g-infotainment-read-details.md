@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/auto-news/samsung-brings-three-automotive-c
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Samsung to supply automotive chips to Volkswagen"
+    excerpt: "Samsung Electronics announced Tuesday that it would supply automotive chips to Volkswagen. The Exynos Auto V7, used for comprehensive in-vehicle infotainment systems, is in mass production. It's a component of Volkswagen's latest in-car application server."
+    publishedDateTime: 2021-11-30T15:03:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/11/30/Samsung-Volkswagen-automotive-chips/5121638286030/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/11/30/Samsung-Volkswagen-automotive-chips/5121638286030/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/11/30/Samsung-Volkswagen-automotive-chips/5121638286030/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/5121638286030/2021/1/16382873109674/v1.5/Samsung-to-supply-automotive-chips-to-Volkswagen.jpg"
+        width: 308
+        height: 206
+        isCached: true
 
 secured: "hHxfmtHarXfr/8U/QU8FdnrZW0dmeQJa0HhUVEFh3KakY2n9Tc7fxp1r2VktADJI+4Noo6uB1Eu0O+wr7H0S56ahK6J0JtUw70ml9D8BDy5eTk71Up7LHpa7lD/k+3e8oa+Je8pG/6zji4QkU/c3zzx5IyU4LRhIdj6r4O3QtSGkPxVZf7/ATimKDchVV1bhGISkV7KqWWFLqde6EdI9F43BpK4mK6bUmbxke0yh6U8wKglf7g5BkIrKMZLDxGzUFaJ5NKbvGwlmJ4D92+WWHlJc+Ttiju2nMiTcOuM1CwyvFVor5HRxkggmsItibd2TgDiLPylELcu8xil74g/8Wemw9BWOovjUVtUfQuVPm/r3ggtZEv3HNhrTBQZ+1k5f9GhuO8uPJEvQAzxzhJ28RYYK/ERLn1kDN/fJTNGQ8ATtWvfa7baZH630S8p/hC76lgP1p/jaRpaw8Jb/9jSXo8aNIO1Ln+GFJz+G6Ovpu56lwbNNDJjhLO2YcdBpRuQa7kuuPyznimF87oyoETBb6Q==;nYBKxuwwXTwJHuO/D+w6ng=="
 ---
