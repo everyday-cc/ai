@@ -25,34 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "RESCON praises Throne Speech recognition of housing, immigration"
-    excerpt: "VAUGHAN, ONT. - The Residential Construction Council of Ontario (RESCON) has released a statement saying it is pleased that housing, immigration and stability of the supply chain would be federal government priorities as indicated in the Nov."
-    publishedDateTime: 2021-11-26T15:18:00Z
-    webUrl: "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration"
+  - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
+    excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
+    publishedDateTime: 2021-11-29T19:31:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
     type: article
     provider:
-      name: canada.constructconnect
-      domain: constructconnect.com
-    quality: 54
-    images:
-      - url: "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2018/07/Parliament-Buildings-WEB.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Peskov tells about very positive contacts with EU on vaccination certificates recognition"
-    excerpt: "Russian presidential press secretary Dmitry Peskov has described contacts with the European Union on mutual recognition of COVID vaccination certificates as \"very positive,\" Trend reports citing TASS."
-    publishedDateTime: 2021-11-28T20:45:00Z
-    webUrl: "https://en.trend.az/world/russia/3518800.html"
-    type: article
-    provider:
-      name: Trend News Agency
-      domain: trend.az
-    quality: 15
-    images:
-      - url: "https://cdn.trend.az/2021/03/10/dmitriy_peskov_100321.jpg"
-        width: 1000
-        height: 636
-        isCached: true
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 50
 
 secured: "3kmHSXkWRa1gELkSIVI1yf8UP1nhkLGUVxQPsQum431/Fyh4pJJ464Im4GIc8MsgbOayIG15JnSY6sAJHt++B1NbTjDKWABviFUI2UZ3JqkiV2v0JB7IC4kJ6iLd6KXkH3Gz15FNvt1FtUoiVeesHIF9o979M3MJjWH+Wi5mgJINpMq9PTH5+9fMVUjBlJQRBeEvMYV7ZTifJpeC7jv0JsjOc68xPZxSZHmuqdOpFz5HjuWofsVc3UuAM58ny8os55JUQnEHs54mk8NGaQEGNi20sT0VxN9iVD5VrhOf7meYZbr96L+YBUdDMqwokToRXv1G3EugU0xTnMcZ3DmbzVe+LvwGTB9p8avn+WXo5kY=;NLYwL+Y0Bpo2gx8hLvrg7w=="
 ---

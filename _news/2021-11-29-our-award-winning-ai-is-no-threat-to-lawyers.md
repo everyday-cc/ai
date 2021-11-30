@@ -69,6 +69,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Why speed is no substitute for long-term value on the path to AI"
+    excerpt: "Over the last 20 months, we have seen a growing sense that speed is more important than perfection. As we rapidly moved to working from home, and needed ways to stay in touch or manage work remotely,"
+    publishedDateTime: 2021-11-30T18:28:00Z
+    webUrl: "https://www.linkedin.com/pulse/why-speed-substitute-long-term-value-path-ai-mark-lambrecht"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHDxdSzArBqJQ/article-cover_image-shrink_600_2000/0/1638295469290?e=1643846400&v=beta&t=MFujEMwUG_O2JTejHCLrDxhvWtdBvyIh2d9OjoALeVI"
+        width: 1377
+        height: 600
+        isCached: true
   - title: "NYC aims to be first to rein in AI hiring tools"
     excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their résumés or analyzing their video interviews. But New York City residents could soon get more say over the"
     publishedDateTime: 2021-11-28T13:11:00Z

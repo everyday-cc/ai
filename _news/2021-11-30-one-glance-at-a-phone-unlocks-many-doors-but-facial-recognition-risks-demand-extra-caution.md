@@ -26,22 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Facial recognition to debut at border checkpoints"
-    excerpt: "Hong Kong residents will be able to enter or leave the city by simply looking into a camera from Wednesday as the Immigration Department introduces facial recognition technology in the automated ..."
-    publishedDateTime: 2021-11-30T08:48:00Z
-    webUrl: "https://news.rthk.hk/rthk/en/component/k2/1622093-20211130.htm"
-    type: article
-    provider:
-      name: rthk
-      domain: rthk.hk
-    quality: 39
-    images:
-      - url: "https://newsstatic.rthk.hk/images/mfile_1622093_1_L_20211130164511.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-
 secured: "iyN2iuQJTWNR4z+4eXOEK9aUtyOx/WzaOpYBUes67yTpgWr2yNQCYUtY9iLHlXDrAAclXXsp4+s5Mc//hxNRyec2XMJRYAm87M/Lyp3HhGMwtmA6grnSWFSu7Q+j9poOL1qIqxieZqiwUygJe6iu8nxC6fe8K507F+tDUN5Ke0/PevyvzsIL51A5+13Ibdeo/H8+nGDI4+7TFkukkDwo4tK7hHHIx7D3kS7f0PjaH8P0Urq9U8mBdzeJYE0NJPwPTITupkNkZTPScVGI8KB1umkv/V7ce2DQGL0Xc4sHmv19fFREllToHgKfuqqvlxcitkHgrKOTHInsaoiT4PxZUhsFWaetnbpVatZOCmufwkGznugSUqQlLnHnJnA3+0+kETuJSThwtyuEM8nPfjkdzYjWyf2RF+vy53TQaBRA/LdWtsm8/wltBTvpZczyNZCioZuR3SGJNS9FijHFwKmqsxs09MEbnuNUal/kOEMYJrBcURXE9ImM0EgYVr6b2uHhUV//RhhheX7/H5o7Qml9PA==;yHRi6HDA/cBipa+XRfymWw=="
 ---
 

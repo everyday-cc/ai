@@ -46,49 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-26-rescon-praises-throne-speech-recognition-of-housing-immigration.md",
-      "title": "RESCON praises Throne Speech recognition of housing, immigration",
-      "excerpt": "VAUGHAN, ONT. - The Residential Construction Council of Ontario (RESCON) has released a statement saying it is pleased that housing, immigration and stability of the supply chain would be federal government priorities as indicated in the Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration",
-      "originalUrl": "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2018/07/Parliament-Buildings-WEB.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-26T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "canada.constructconnect",
-        "domain": "constructconnect.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-26-vibrating-sleeve-gives-wearers-a-feel-for-languages.md",
       "title": "Vibrating sleeve gives wearers a feel for languages",
       "excerpt": "For the past year or so, a student team from the Eindhoven University of Technology has been working on a wearable that could allow folks to understand what's being said in another language through vibrations on the arm.",
@@ -1465,6 +1422,59 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery.md",
+      "title": "IBM to Add New Natural Language Processing Enhancements to Watson Discovery",
+      "excerpt": "IBM (NYSE: IBM) today announced new natural language processing (NLP) enhancements planned for IBM Watson Discovery. These planned upda",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
       ]
     }
   ],

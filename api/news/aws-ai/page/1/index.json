@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-01-aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker.md",
+      "title": "AWS targets auto and industrial sectors with FleetWise, TwinMaker",
+      "excerpt": "Amazon Web Services on Tuesday announced two new IoT products that bring more out-of-the-box fleet management tools to the automotive and industrial sectors. IoT FleetWise will help auto companies manage data coming from cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker/",
+      "originalUrl": "https://www.zdnet.com/article/aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker/",
+      "publishedDateTime": "2021-11-30T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-aws-gets-a-no-code-ml-service.md",
       "title": "AWS gets a no-code ML service",
       "excerpt": "AWS today announced a new machine learning service, Amazon SageMaker Canvas. Unlike its existing machine learning services, the target audience here isn’t highly technical data scientists and engineers but any engineer or business user inside a company.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -169,7 +212,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -255,6 +298,49 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-aws-named-united-airlines-preferred-cloud-provider.md",
+      "title": "AWS Named United Airlines' Preferred Cloud Provider",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that United Airlines has selected AWS as its preferred cloud provider. AWS will support United's digital innovation, providing machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20132061.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20132061.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/transportation.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1312,94 +1398,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet-technologies.md",
-      "title": "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies",
-      "excerpt": "G Private Network with Athonet's cloud native 5G Standalone core network, and running on Amazon Web Services Snowball Edge",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/",
-      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2021/FPR_1367_2021_11_18.jpg",
-          "width": 450,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/",
-      "publishedDateTime": "2021-11-18T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cognitive-services-market-to-witness-massive-growth-by-2027-google-aws-baidu.md",
-      "title": "Cognitive Services Market to Witness Massive Growth by 2027: Google, AWS, Baidu",
-      "excerpt": "If you are involved in the Cognitive Services product offering or planning ... Middle East & Africa and leading players such as IBM, Microsoft, Google, AWS, Baidu, Nuance Communications, Qualcomm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cognitive-services-market-to-witness-massive-growth-by-2027-google-aws-baidu",
-      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-services-market-to-witness-massive-growth-by-2027-google-aws-baidu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/Brazil-football-crash-survivor-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T13:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AWS AI"
       ]

@@ -57,20 +57,6 @@ related:
         width: 720
         height: 377
         isCached: true
-  - title: "193 countries adopt first global agreement on Ethics of Artificial Intelligence"
-    excerpt: "All the nations members of the UN Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common"
-    publishedDateTime: 2021-11-26T04:48:00Z
-    webUrl: "https://arynews.tv/artificial-intelligence-agreement-unesco/"
-    type: article
-    provider:
-      name: ARY News Live
-      domain: arynews.tv
-    quality: 52
-    images:
-      - url: "https://arynews.tv/wp-content/uploads/2019/03/artificial-intelligence.jpg"
-        width: 750
-        height: 369
-        isCached: true
   - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
     publishedDateTime: 2021-11-26T05:13:00Z

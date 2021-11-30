@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-26-baidu-begins-commercial-robotaxi-services-in-beijing.md",
+      "title": "Baidu begins commercial robotaxi services in Beijing",
+      "excerpt": "Baidu received the country’s first permit for commercial robotaxi services, a major milestone for Chinese self-driving car industry.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
+      "originalUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2021/11/WechatIMG558的副本.jpeg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
+      "publishedDateTime": "2021-11-26T01:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-our-global-agreement-on-ai-could-reduce-bias-and-surveillance.md",
+      "title": "Our global agreement on AI could reduce bias and surveillance",
+      "excerpt": "Nearly 200 countries have signed up to UNESCO's agreement on the ethics of artificial intelligence. This could help make the technology fairer for all, says Gabriela Ramos",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/",
+      "originalUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/11/24163708/PRI_211829081.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/",
+      "publishedDateTime": "2021-11-25T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-sensetime-ipo-could-help-hsbc-gain-recognition.md",
+      "title": "SenseTime IPO could help HSBC gain recognition",
+      "excerpt": "Some deals are about more than just the money. A successful market debut by artificial-intelligence dragon SenseTime could go a long way to uncovering interest in politically sensitive Chinese technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
+      "originalUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/utbCg0l0DmMO3OUyGVcONl7IFSI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B32INJZALNOGVNR2IBVU7OQ424.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-nvidias-latest-ai-technology-transforms-words-into-realistic-images.md",
       "title": "Nvidia's latest AI technology transforms words into realistic images",
       "excerpt": "Nvidia showed its GauGAN technology for the first time in 2019, but only recently we saw it being featured in a product available for the general",
@@ -1089,151 +1227,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies.md",
-      "title": "Break Down Silos And Improve Productivity With These Emerging AI Technologies",
-      "excerpt": "Work to identify areas in which AI could add the most value to operations and collaboration. When integrated successfully, these technologies can lead to noted improvements in business outcomes, customer experience and employee happiness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60520f51e51980009c63f201%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/",
-      "publishedDateTime": "2021-11-24T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-south-korea-starts-work-on-330m-national-ai-complex.md",
-      "title": "South Korea starts work on $330m national AI complex",
-      "excerpt": "A groundbreaking ceremony was held on Monday for a $330m artificial intelligence complex in the southwestern Korean city of Gwangju, the Yonhap news agency reports. The National AI Industrial",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalconstructionreview.com/south-korea-starts-work-on-330m-national-ai-complex/",
-      "originalUrl": "https://www.globalconstructionreview.com/south-korea-starts-work-on-330m-national-ai-complex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalconstructionreview.com/wp-content/uploads/2021/11/241121-Korea-AI-complex.jpg",
-          "width": 465,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "globalconstructionreview.com",
-        "domain": "globalconstructionreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-can-ai-truly-give-us-a-glimpse-of-lost-masterpieces.md",
-      "title": "Can AI Truly Give Us a Glimpse of Lost Masterpieces?",
-      "excerpt": "Recent projects used machine learning to resurrect paintings by Klimt and Rembrandt. They raise questions about what computers can understand about art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/619d6ee45b2d2156d9905d6b/master/pass/Culture_TA_Rijksmuseum---De-Nachtwacht---installatie-van-de-missende-delen.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-reviving-lost-art/amp",
-      "publishedDateTime": "2021-11-24T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-01-hong-kong-introduces-contactless-immigration-channels-featuring-facial-recognition-technology.md",
+      "title": "Hong Kong introduces contactless immigration channels featuring facial recognition technology",
+      "excerpt": "The new ‘contactless e-channels’ will enable users to cross the border in seven seconds flat, immigration official says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels",
+      "originalUrl": "https://www.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/30/e0bee7b2-99b7-4e15-8cf8-810de918c315_c23520cf.jpg?itok=_1eeAFqq&v=1638274805",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels",
+      "publishedDateTime": "2021-11-30T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-face-off-robots-come-equipped-with-facial-recognition.md",
       "title": "Face-Off: Robots Come Equipped With Facial Recognition",
       "excerpt": "In the not-so-distant future, robotic dogs equipped with facial recognition cameras might just scamper about outside and help police officers identify suspicious persons. Contactless commerce, airport security and law enforcement: The use of facial recognition technology (FRT) is quickly becoming a must-have for the public and private sectors.",
@@ -1319,58 +1371,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-google-pixel-6-series-might-get-face-unlock-smarts-after-all.md",
-      "title": "Google Pixel 6 series might get face unlock smarts after all",
-      "excerpt": "The Google Pixel 6 series launched without face unlock, however, a new commit suggests that the firm is still working on the feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
-      "originalUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/pixel-6-fingerprint.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
-      "publishedDateTime": "2021-11-10T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

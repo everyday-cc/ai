@@ -47,6 +47,50 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
+    excerpt: "In the survey, only 37% of respondents correctly identified Levels 4 and 5 (based on SAE definitions) as referring to fully automated self-driving. In fact, more than half (55%) pointed to descriptions that are actually aligned with more modest driver ..."
+    publishedDateTime: 2021-11-30T14:07:00Z
+    webUrl: "https://www.forbes.com/wheels/news/power-mobility-confidence-index/"
+    ampWebUrl: "https://www.forbes.com/wheels/news/power-mobility-confidence-index/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/power-mobility-confidence-index/?amp"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/11/Smart-self-drive-proto-1200px.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-Driving Vehicles Appeal to Drivers, But They Don’t Know What it Entails"
+    excerpt: "Drivers don’t know much about self-driving vehicles, but that isn’t stopping the technology’s growing acceptance. TheDetroitBureu.com digs through the numbers."
+    publishedDateTime: 2021-11-30T20:28:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/11/self-driving-vehicles-appeal-to-drivers-but-they-dont-know-what-it-entails/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 36
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2012/06/Self-driving-Cadillac.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "J.D. Power Examines Understanding Of Self-Driving Vehicles"
+    excerpt: "The study index is based on six unique attributes of consumer comfort with fully automated, self-driving vehicles."
+    publishedDateTime: 2021-11-30T16:45:00Z
+    webUrl: "https://www.aftermarketnews.com/j-d-power-study-on-fully-automated-self-driving-vehicles-consumers-dont-know-what-they-dont-know/"
+    type: article
+    provider:
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 24
+    images:
+      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "adolUuXkZeAlpoUOSmH/hbgG5kRoz2bxuE4WhXWQ3zdvoYf0wGJyT7DzVbrqjLF0bjOkJYTqZPCtVk/0kGZNZr22eDu8c+L1cqnS5hFyps9ro655d4aOvS0DmHKIJpyw6RX/jKlWEB/2aNPEt2Uqve+UOKq2sDlTx16mpAtoegHhfauKZ9lfRPJnOP+crc0BxITnDX+M7Kk1IOREF/iPKWj5aIJIz/RTpRXQASS/Lh6Q1vPzCr9cjRaSvJEUEKB74ErZz9hKVJFqyOvHIevjJgdMc48gLxdQ6sBLF32NNHM2nQR9iHH/nnllcJWqH97OL3/1VDIIZA4IOVE6BFiaTKtb3d4avcAY00lij50ex8Em0QgK+jv574tv8bTdjJwh/9b55EuofnUdpo/5qsJDCWJqrIpzx0830p0oWEGhx6T1qZAkzWzBrKwPsnowu4ryOo0UuyBPVuJYbrF9Wumxd//VZo+TDYt4xXSyPI7JWlujO3r3hF/jI0dXvbvD5XkLPX532WCHGef5MLe7RfFeAQ==;7LzeCZd90cSA4FrUKOFx4A=="
 ---

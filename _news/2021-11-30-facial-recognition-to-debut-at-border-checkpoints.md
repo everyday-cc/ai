@@ -25,21 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "One glance at a phone unlocks many doors, but facial recognition risks demand extra caution"
-    excerpt: "Many smartphones click open each time we glance at the screen and some airports automate passport checks with face scans: it's tempting to think we're on the cusp of unlocking the full potential of facial recognition technology."
-    publishedDateTime: 2021-11-30T15:02:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/one-glance-at-a-phone-unlocks-many-doors-but-facial-recognition-risks-demand-extra-caution/articleshow/88012903.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/one-glance-at-a-phone-unlocks-many-doors-but-facial-recognition-risks-demand-extra-caution/amp_articleshow/88012903.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/one-glance-at-a-phone-unlocks-many-doors-but-facial-recognition-risks-demand-extra-caution/amp_articleshow/88012903.cms"
+  - title: "Hong Kong introduces contactless immigration channels featuring facial recognition technology"
+    excerpt: "The new ‘contactless e-channels’ will enable users to cross the border in seven seconds flat, immigration official says."
+    publishedDateTime: 2021-11-30T20:20:00Z
+    webUrl: "https://www.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels"
+    ampWebUrl: "https://amp.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 49
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 78
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53572,msid-88012918/facial-recognition.jpg"
-        width: 600
-        height: 450
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/30/e0bee7b2-99b7-4e15-8cf8-810de918c315_c23520cf.jpg?itok=_1eeAFqq&v=1638274805"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Researchers propose AI-based approach to contactless machine failure detection"
+    excerpt: "The world's largest manufacturers lose 1 trillion dollars per year to machine failure. Many problems lie in the noisy factory environment—working equipment and processes produce high sound, consequently,"
+    publishedDateTime: 2021-11-29T13:50:00Z
+    webUrl: "https://techxplore.com/news/2021-11-ai-based-approach-contactless-machine-failure.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-ai-based-approach-contactless-machine-failure.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ai-based-approach-contactless-machine-failure.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-propose-ai.jpg"
+        width: 2508
+        height: 1672
+        isCached: true
+  - title: "RESCON praises Throne Speech recognition of housing, immigration"
+    excerpt: "VAUGHAN, ONT. - The Residential Construction Council of Ontario (RESCON) has released a statement saying it is pleased that housing, immigration and stability of the supply chain would be federal government priorities as indicated in the Nov."
+    publishedDateTime: 2021-11-26T15:18:00Z
+    webUrl: "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration"
+    type: article
+    provider:
+      name: canada.constructconnect
+      domain: constructconnect.com
+    quality: 54
+    images:
+      - url: "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2018/07/Parliament-Buildings-WEB.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "HBaGTGo8FqqvPeWK5q/wjZwcVeqx08RX4rcUAP8y9BPuf4xcnWfLoGgOW28MhSwrjFoGc3jD1b++tDVbZ6lvX9nbXR1W9sydhKap2eMfqu+YiVBL1xe7ybC5mJfnfMpUKFOZtDrmEEsAxpI7jT5jyW8TYJAlWVhkBOHTbPNH7pV5M6zw6X87oOA55wS+rEvSznrHstOpFlVDUYLxtEg76vaMwaiyOhG9dSanXCacS0STt00TnnVw1XjxHOHFpjfWXS+TDGfE+HrNOyeBv1YP4kmalYyuMW93QUJ7fII/LKZYGyOF7Yk1l1xf8o/INkPH1FUhoW2qSNERroH3LztirVUbsKK5WQyFnhxn/7LSBI3/PUwtoDyiFvvfCIuzBZ+wL+6E/MghKrVf77CIhYFGGEafVDU8vJERLbkL3FrtMadJaYfaB3BQH08LJocuI1YrZ+ICam8H5x0ymeg4ouIwBvoWtqMRCdzl8vnE/el0Qq5RKAtMD2qasuIi7DKXru5MTWWac/UCRNhvAAZjg0agrg==;SxjNjoyr2v10VVKA0MeDhQ=="

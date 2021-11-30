@@ -9,7 +9,7 @@ ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/w
 cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
     images:
       - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/232895556.jpg"
         width: 800
+        height: 600
+        isCached: true
+  - title: "Why speed is no substitute for long-term value on the path to AI"
+    excerpt: "Over the last 20 months, we have seen a growing sense that speed is more important than perfection. As we rapidly moved to working from home, and needed ways to stay in touch or manage work remotely,"
+    publishedDateTime: 2021-11-30T18:28:00Z
+    webUrl: "https://www.linkedin.com/pulse/why-speed-substitute-long-term-value-path-ai-mark-lambrecht"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHDxdSzArBqJQ/article-cover_image-shrink_600_2000/0/1638295469290?e=1643846400&v=beta&t=MFujEMwUG_O2JTejHCLrDxhvWtdBvyIh2d9OjoALeVI"
+        width: 1377
         height: 600
         isCached: true
   - title: "NYC aims to be first to rein in AI hiring tools"

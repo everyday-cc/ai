@@ -82,6 +82,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Why speed is no substitute for long-term value on the path to AI"
+    excerpt: "Over the last 20 months, we have seen a growing sense that speed is more important than perfection. As we rapidly moved to working from home, and needed ways to stay in touch or manage work remotely,"
+    publishedDateTime: 2021-11-30T18:28:00Z
+    webUrl: "https://www.linkedin.com/pulse/why-speed-substitute-long-term-value-path-ai-mark-lambrecht"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHDxdSzArBqJQ/article-cover_image-shrink_600_2000/0/1638295469290?e=1643846400&v=beta&t=MFujEMwUG_O2JTejHCLrDxhvWtdBvyIh2d9OjoALeVI"
+        width: 1377
+        height: 600
+        isCached: true
 
 secured: "QXF6w9V3czBDZeNuxCqHuwPcuOUEioo4uBjLwTHixb97ws5gp3T5Co7InS5pftunoeZ9qqLIDd7GHJgf3jMommlGfxspF3+q7ltdTmh8c2yv741dGinFgfgBXSjlJvEM7WNo5RcGIoD2ZeimZ7b94h7d8DQFq/wGFrv88NJ0XijYWz1XAV7+MYAR2r9XqW8x/NN35v85KHS7cCglLQsSLf1PBtWSyAgYp9AQFV9TONxU4x85S40uMNHATvripBVlxre7q8JRmwygjOoWYi8r2BuoZMTdQXySF2KuV7+ja94Sl2Rbl6vqB/ayvJyXhACEpzvuZONCg42ZS3GN7r+EwD8+wFafPwr0hK2VBn03gyy/ff4iFw0uWhoUAWG+BKPSoGNszV5xSJZqaXXZ4gLJcgE1YNGrHg2YGkwmfMQQ6HTP5rT8DXAlcjuWIqItSh0ONp33Tscxjp6wdrhMeaFN8/lDERtH5g0SET1Xtgiw4zxsoU0vItpTMYPA3/yYRCCPmAeKDAZWUkDVDzFFwl8lPQ==;LgVzh17fvJdi6lAy7fRGZw=="
 ---

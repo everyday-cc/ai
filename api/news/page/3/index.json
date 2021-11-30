@@ -2,6 +2,197 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-29-three-critical-facets-for-financial-services-to-succeed-in-the-digital-future.md",
+      "title": "Three Critical Facets For Financial Services To Succeed In The Digital Future",
+      "excerpt": "We are at an apex of digital transformation, and precision analytics is driving the most successful innovation initiatives across many industries. The unequivocal rise of the connected ecosystem has forced consumers to engage across digital channels,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197a677f53d14e9ec8aedae%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/",
+      "publishedDateTime": "2021-11-29T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots.md",
+      "title": "How CVS Is Using IBM Watson's AI to Encourage People to Get Their Flu Shots",
+      "excerpt": "The company has teamed up with IBM Watson Advertising to create a campaign that attempts to identify and target at-risk areas before the flu hits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/",
+      "originalUrl": "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2021/09/billboard-vital-health-2021-640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/amp/",
+      "publishedDateTime": "2021-11-29T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-how-the-public-clouds-are-innovating-on-ai.md",
+      "title": "How the public clouds are innovating on AI",
+      "excerpt": "Companies without the resources to develop in-house machine learning models are turning to the big cloud providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html",
+      "publishedDateTime": "2021-11-29T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-south-america-artificial-intelligence-in-marketing-market.md",
+      "title": "South America Artificial Intelligence in Marketing Market",
+      "excerpt": "The artificial intelligence in marketing market in SAM is expected to reach US 11 291 23 million by 2028 from US 1 728 64 million in 2021 The market is estimated to grow at a CAGR of 30 7 from",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2477805/south-america-artificial-intelligence-in-marketing-market-will",
+      "originalUrl": "https://www.openpr.com/news/2477805/south-america-artificial-intelligence-in-marketing-market-will",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub29191501_g.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2477805/south-america-artificial-intelligence-in-marketing-market-will",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2477805/south-america-artificial-intelligence-in-marketing-market-will",
+      "publishedDateTime": "2021-11-29T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-amazon-personalize-announces-recommenders-optimized-for-retail-and-media-entertainment.md",
       "title": "Amazon Personalize announces recommenders optimized for Retail and Media & Entertainment",
       "excerpt": "Today, we’re excited to announce the launch of personalized recommenders in Amazon Personalize that are optimized for retail and media and entertainment, making it even easier to personalize your websites, apps, and marketing campaigns. With this launch, we have drawn on Amazon’s rich experience creating",
@@ -459,7 +650,7 @@
       "originalUrl": "https://thenextweb.com/news/defining-ethical-artificial-intelligence-input-africans-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -615,7 +806,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -865,49 +1056,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-26-rescon-praises-throne-speech-recognition-of-housing-immigration.md",
-      "title": "RESCON praises Throne Speech recognition of housing, immigration",
-      "excerpt": "VAUGHAN, ONT. - The Residential Construction Council of Ontario (RESCON) has released a statement saying it is pleased that housing, immigration and stability of the supply chain would be federal government priorities as indicated in the Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration",
-      "originalUrl": "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2018/07/Parliament-Buildings-WEB.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-26T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "canada.constructconnect",
-        "domain": "constructconnect.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-26-flowrite-is-an-ai-writing-productivity-tool-that-wants-to-help-you-hit-inbox-zero.md",
       "title": "Flowrite is an AI writing productivity tool that wants to help you hit inbox zero",
       "excerpt": "When TechCrunch asks Flowrite if it’s ‘Grammarly on steroids’, CEO and co-founder Aaro Isosaari laughs, saying that’s the comment they always get for the AI writing productivity tool they’ve been building since late summer 2020 — drawing on early access to",
@@ -1106,144 +1254,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-baidu-begins-commercial-robotaxi-services-in-beijing.md",
-      "title": "Baidu begins commercial robotaxi services in Beijing",
-      "excerpt": "Baidu received the country’s first permit for commercial robotaxi services, a major milestone for Chinese self-driving car industry.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
-      "originalUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2021/11/WechatIMG558的副本.jpeg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
-      "publishedDateTime": "2021-11-26T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-our-global-agreement-on-ai-could-reduce-bias-and-surveillance.md",
-      "title": "Our global agreement on AI could reduce bias and surveillance",
-      "excerpt": "Nearly 200 countries have signed up to UNESCO's agreement on the ethics of artificial intelligence. This could help make the technology fairer for all, says Gabriela Ramos",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/",
-      "originalUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/11/24163708/PRI_211829081.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/",
-      "publishedDateTime": "2021-11-25T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-sensetime-ipo-could-help-hsbc-gain-recognition.md",
-      "title": "SenseTime IPO could help HSBC gain recognition",
-      "excerpt": "Some deals are about more than just the money. A successful market debut by artificial-intelligence dragon SenseTime could go a long way to uncovering interest in politically sensitive Chinese technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
-      "originalUrl": "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/utbCg0l0DmMO3OUyGVcONl7IFSI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B32INJZALNOGVNR2IBVU7OQ424.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T17:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

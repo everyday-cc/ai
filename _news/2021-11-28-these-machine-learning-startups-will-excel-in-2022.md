@@ -25,22 +25,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "The 10 Hottest Machine Learning And Data Science Startups In 2021"
-    excerpt: "Here’s a look at 10 top machine learning and data science companies developing ground-breaking technology for data scientists and machine learning developers."
-    publishedDateTime: 2021-11-29T18:17:00Z
-    webUrl: "https://www.crn.com/slide-shows/applications-os/the-10-hottest-machine-learning-and-data-science-startups-in-2021"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0269-125cbcb274c1-edeaf278162c-1000/typing-data-analytics-software-1.jpg"
-        width: 610
-        height: 458
-        isCached: true
-
-secured: "VBcOb5lW3GLQ3RmBcluH33ysVgfbHn+B0LF+7fCi6S9JTJ8aoGfbgF2J1kxm6u4qor7QhFM4qsoOROPE2oEoTNZWAbXwZxC64ih6zzlpMAaM3T8aohGdvBzATQVMxz3PAQ/5DyXzsByyf9lZGQKMrfBvSf4tnux86iljlHdrNtTkOUvCPKVr9S2CMCe1ci7DrABTPqJbQiNUk1kWD+JF1enA/8XHEdx+agvn54OunBrf0IWUwidzQIQwIAKdMxT+r4Ny8fPZQ3p1qC+AmX9nbCQ2LVyfMjkokiEvLDj7l/R07tZfgPu4LRPMyyzhofA9Id2F6+iyLS8VXBX/9Q9KaHx9rT+9M2smO9KyG7gWLpY=;BdrrMGZQ0xAjxkPiqQhVEQ=="
+secured: "05/PufEVji/nSThu68N267l7CbMmKWgO1bMYBb+CT5+BIuoBQ1OFPDALXT6qwEQ6o0unab2718qenVp0I+f56kE1ArRMpwPEOmGJEo0kySM+x+siH0kry55gQTx1rkjXB0QHAKKKk2Z00NmeePA53R/+ismVhqXCfRwveMpBdVpnECBpl8ZKHKeKhCR7zpfItklFEEKjbHVtXN2y/INJj26nMbDiL6RGsxCe8avyHyc1Aj3nt22P3JQSa2asaZJzv11BEXH09vAQX2wQDlNLDSY3mTKwg7fXQ6FB3oiLTMNmBCuTeCTn+9A+BFtkpTVXZerTvkTtvlSMb+n9OjFFvOsyuf563DFVs522fzTx2ByHO6ZHhahtQ5fCwGeHVGYTzmfuN9+KaeUkhJzo5F0GSYCFpZ50w5bCJZf/SRovnDapzM2Y2KPb2f9aqu0vkSIeYvVYTPOtEK83x46oYqP3JJX1lpyXeszP7WeVDsTcJpBzRQqowKGUsJB48MxSSibg0D1t9jW2Y+SN8fl4tb+7EQ==;1Y82LBYa1TZv2hH76pzN/A=="
 ---
 

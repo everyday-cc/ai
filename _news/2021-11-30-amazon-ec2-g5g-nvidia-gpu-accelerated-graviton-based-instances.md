@@ -60,14 +60,14 @@ related:
         height: 419
         isCached: true
   - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
-    excerpt: "(AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips that help customers significantly improve the performance,"
-    publishedDateTime: 2021-11-30T18:43:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/11/30/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips that help customers significantly improve the performance,"
+    publishedDateTime: 2021-11-30T16:41:00Z
+    webUrl: "https://www.heraldstandard.com/business_ap/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips/article_3dc0a993-62f3-5458-a08f-9e4fe07499f7.html"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 34
+      name: The Herald-Standard
+      domain: heraldstandard.com
+    quality: 17
 
 secured: "vVr2WRSv/OXNOVk5IZWiERxSTBObiyEREVgpHIH9z7L7+jnf8N483w9U5Z9cW2wzhsJwX2739hO02a3vyAU9FmKIycMcuoCXn4qUq5uMRR5Vb6MM2S54P/flesuH4CupBdf/SmAp5AjswQAV6nLyAN7O+UkkUSVwZ/XjnD3A2zDRD/Vqo+QwjackJ6WXf0/Nd55CdDYUdureHieDa4YT7Imh0afyjDa81BAwESenbzJdWWtxTNKkaGXcgTLqO8InXsLA+lTvvYMN82qOvUdn9mRgatpRzYlfGlAU4lhYaeBTRWzkE7os0RV4qTiwDs1lc72QBopjZDkWK5byBNFdepZnwx/F4IIpZvY8vjyRs34EKHWS4PE12dLcjdUgRt9ZTd+capNwwcsoSmpaXidE0ZB/fYFaXsosy+RPaYevjhJnfI8P3DfCE4xZaC2OXHW9JwV7VEglnyhz1O3mXIVXiwgCRV918Pu1zQsaChzM2euRv7hjT0YxSk0l3bQ9Wc2P+Mrbv9uaS5dlz1eUfaEavA==;cQfvWru52NkWZ4lw+UOlag=="
 ---

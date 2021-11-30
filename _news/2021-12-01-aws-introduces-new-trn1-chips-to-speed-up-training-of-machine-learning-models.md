@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/"
 type: article
 quality: 118
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     height: 582
     isCached: true
 
-secured: "juSOWvrW44fsffhaeOi2ExT1kpj4LB78k8Qcfy38mZ7B9D4w69r58OlAfWiKBYVmibks3Ul30Z8HtT9noTOQ8cj2GsGwhXpqiVYPJzZ2xfcdo/o5+96wyyXK9dwSPnH4IKrl2nh23xfxSOG8mzAskhCeFICipOypTSRUM1MSlxCovLKSgc3hHpSzN+sMJJeuUXM+kLtIAexHdTu2wqMWV6sm5eelZdhbmk44pBlevyNUE/xhsIxjB3gDk4VjRutzWucVAPLQjQbddl+R39YQhXs6wJI8ru0Ydu4Wuix4QyD99gzlLGu2lIYjsgHTOrjJ+rYp/egTDAa6Z/at4AfKkRGH+V/cNU6eCO0HpioxSKI=;sD5CAjwUZFGAhdWf+MI1WA=="
+related:
+  - title: "AWS debuts new compute-intensive and AI instances powered by custom chips"
+    excerpt: "AWS’ new Amazon EC2 C7g instances target compute-intensive workloads such as analytics tools and scientific modeling software. The C7g series is based on the AWS Graviton3 chip, the third interaction of the cloud giant’s internally-designed processor."
+    publishedDateTime: 2021-11-30T19:51:00Z
+    webUrl: "https://siliconangle.com/2021/11/30/aws-debuts-new-compute-intensive-ai-instances-powered-custom-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/aws.png"
+        width: 850
+        height: 471
+        isCached: true
+
+secured: "4sMhLYcF5sjzSaTl1KTnqwEFZFtaW11roxKRBKgnh3xMJ0s+2XPXxMYpVTPVG8tXIW2Bn5sta+y1mCR3hl3I64lUpDXiqvXs1ap5nFHFV92rNXjiwqDKjUi6XX/Mh6huqwHBQNgmZLP3DZZ51qK84p2PMAkZ+bzuTDpSVin6saLH2xoBoT2IU2GRX1wc66k8r7nL5gXMo4jY47WPlTyzzy/smt1M6RN3tonEzj8JEtJoOjPlr69DpCAwt8H46oNN+CPz/sC2OIdRZJJdUYFvi8U3KvOFjsBGX+03f28LY7LgD+cRpJhGdVIcVXysNC4bzkx/j4lM7dtEvn9/SkuhT5tKTiOW7BgJK79w1f9CYLfzkjPiTIfTBNUkgSDSu79dom8MtfAEoKglsohHXgKvSI/mAeqt2DSoCur31dvHCR3an+UGHydelW5BSMUFJpN4IONO6KdYuwKKVwkrDMDdPcm3hxuePIFmQh4YJt43g5tllH2gg1PfU5amErHWLO4jPIF+JSjYsGuPSU35jXS3Sw==;2AkN8AQAsE7eaLc5VmIlpA=="
 ---
 
