@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-def
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609dc9fd2dec6a7482aa84f2%2F0x0.jpg%3FcropX1%3D191%26cropX2%3D2718%26cropY1%3D276%26cropY2%3D1697"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Apple’s self-driving car coming in 2025: Report"
-    excerpt: "Whether Apple can launch the Apple Car in four years depends on how successful it is in developing self-driving technology."
-    publishedDateTime: 2021-11-25T07:38:00Z
-    webUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746"
-    ampWebUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
-    type: article
-    provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 44
-    images:
-      - url: "https://img.philkotse.com/2021/11/25/kdtzClWN/untitled-design-2021-11-25t145918-649-6596_wm.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "The legal challenges of self-driving cars"
     excerpt: "The Department of Transport recently announced its intention to allow Automated Lane-Keeping Systems (ALKS) to be used on British roads by the end of 2021."

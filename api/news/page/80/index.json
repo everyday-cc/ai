@@ -2,6 +2,58 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-09-29-amazons-astro-is-a-robot-without-a-cause.md",
+      "title": "Amazon’s Astro Is a Robot Without a Cause",
+      "excerpt": "Actually, you get Astro, Amazon’s long-rumored home robot. The company has been working on this for nearly four years, and it has plans for Astro. It’s just not quite sure exactly what those are yet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazon-astro/",
+      "originalUrl": "https://www.wired.com/story/amazon-astro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61538083098d958b61f393dc/master/pass/Gear-Amazon-Astro-moving-around-home.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-astro/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-astro/amp",
+      "publishedDateTime": "2021-09-28T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-a-developers-guide-to-machine-learning-security.md",
       "title": "A developer’s guide to machine learning security",
       "excerpt": "Adversarial attacks are different from other threats programmers face, so they need to understand the weak spots in machine learning.",
@@ -1138,48 +1190,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-data-driven-attribution-to-become-the-default-in-google-ads-tuesdays-daily-brief.md",
-      "title": "Data-driven attribution to become the default in Google Ads; Tuesday’s daily brief",
-      "excerpt": "Search Engine Land’s daily brief features daily insights, news, tips, and essential bits of wisdom for today’s search marketer. If you would like to read this before the rest of the internet does, sign up here to get it delivered to your inbox daily.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/ads-commerce/data-driven-attribution-new-default/",
-      "originalUrl": "https://searchengineland.com/data-driven-attribution-to-become-the-default-in-google-ads-tuesdays-daily-brief-374770",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/E02627286-Google-Future-of-Attribution-Blo.max-1300x1300_ilVSXMS.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/ads-commerce/data-driven-attribution-new-default/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/ads-commerce/data-driven-attribution-new-default/amp/",
-      "publishedDateTime": "2021-09-28T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Land",
-        "domain": "searchengineland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

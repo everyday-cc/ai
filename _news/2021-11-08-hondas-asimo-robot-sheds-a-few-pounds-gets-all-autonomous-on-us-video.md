@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://s.yimg.com/uu/api/res/1.2/Sr_Sa1xj_dLffLB4ZjAWkw--~B/aD00NjU7dz0zNDY7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2011/11/asimo.jpg"

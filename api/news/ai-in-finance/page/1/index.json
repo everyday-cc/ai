@@ -2,41 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-30-xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.md",
-      "title": "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation",
-      "excerpt": "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm",
-      "publishedDateTime": "2021-11-29T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-11-29-view-how-to-take-fintech-banks-to-the-next-level.md",
       "title": "View: How to take fintech banks to the next level",
       "excerpt": "India has the highest fintech adoption rate of 87%, against the global average of 64%. Several new segments of fintech startups have emerged, and are gaining popularity among consumers in India. These are redefining financial services for customers and providing more value to them.",
@@ -1349,6 +1314,49 @@
         "AI",
         "Computer Vision",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs.md",
+      "title": "FinTech JUMO Raises $120M to Support Emerging Market Entrepreneurs",
+      "excerpt": "FinTech JUMO raised $120 million to help the startup further support emerging market entrepreneurs with next-generation financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1902368425-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/",
+      "publishedDateTime": "2021-11-08T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

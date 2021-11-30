@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/11/29/Seoul-autonom
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/11/29/Seoul-autonomous-vehicles-self-driving-cars-commercial-service/3041638200273/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai Motor to test-operate Level 4 self-driving service in Seoul"
-    excerpt: "Hyundai Motor will test-operate its self-driving service, “RoboRide,” as a pilot program in a district for self-driving cars located in downtown"
-    publishedDateTime: 2021-11-25T07:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-motor-to-test-operate-level-4-self-driving-service-in-seoul-10782839"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Seoul will operate self-driving buses in Cheonggyecheon from April next year"
     excerpt: "The Seoul government is planning to gradually increase commercial autonomous vehicle test areas such as Sangam, Gangnam, Yeouido, and Magok, and will operate self-driving buses in Cheonggyecheon from April next year."
     publishedDateTime: 2021-11-25T17:17:00Z

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-11-09-fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs.md",
-      "title": "FinTech JUMO Raises $120M to Support Emerging Market Entrepreneurs",
-      "excerpt": "FinTech JUMO raised $120 million to help the startup further support emerging market entrepreneurs with next-generation financial services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1902368425-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/",
-      "publishedDateTime": "2021-11-08T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-08-commonwealth-bank-of-australia-announces-artificial-intelligence-partnership.md",
       "title": "Commonwealth Bank of Australia announces Artificial Intelligence partnership",
       "excerpt": "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track",
@@ -1390,6 +1347,49 @@
       "provider": {
         "name": "Financial Buzz",
         "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-how-financial-services-can-avoid-compliance-issues-in-the-cloud.md",
+      "title": "How Financial Services Can Avoid Compliance Issues in the Cloud",
+      "excerpt": "Machine learning. Machine learning algorithms that use federated learning techniques — which train algorithms across multiple decentralized edge services — can streamline cloud compliance by allowing financial institutions to exchange data insights ...",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud",
+      "originalUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202110/BTQ421_CSAM_hero3_Finance.jpg?itok=F2lzgS1b",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/10/how-financial-services-can-avoid-compliance-issues-cloud?amp",
+      "publishedDateTime": "2021-10-20T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-11-04-microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai.md",
+      "title": "Microsoft says all business will be collaborative, and infused with data and AI",
+      "excerpt": "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Satya-Nadella-ignite-nov-2021.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai/amp/",
+      "publishedDateTime": "2021-11-03T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-clearview-ai-forced-to-cease-data-scraping-operations-in-australia.md",
       "title": "Clearview AI Forced to Cease Data Scraping Operations in Australia",
       "excerpt": "Australia's national privacy regulator determined Clearview AI breached users' privacy and violated the Australian Privacy Act 1988.",
@@ -1173,57 +1225,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-archiveai-aims-to-free-marketers-from-their-monotonous-workflows.md",
-      "title": "Archive.ai aims to free marketers from their monotonous workflows",
-      "excerpt": "Archive.ai founders believe the future of marketing will be a culture of “building with you” versus the “talking at you” approach they believe traditional digital marketing is doing now.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/",
-      "originalUrl": "https://techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1222811180.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/archive-ai-aims-to-free-marketers-from-their-monotonous-workflows/amp/",
-      "publishedDateTime": "2021-11-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

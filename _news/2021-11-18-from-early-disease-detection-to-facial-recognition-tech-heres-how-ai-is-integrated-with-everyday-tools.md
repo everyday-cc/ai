@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.insider.com/6194f1a6a2e68800198a9cfd?width=1200&format=jpeg"

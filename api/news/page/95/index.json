@@ -2,6 +2,49 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2021-09-17-trust-issues-would-never-allow-video-of-self-driving-car-causing-a-stir-online.md",
+      "title": "“Trust Issues Would Never Allow”: Video of Self Driving Car Causing a Stir Online",
+      "excerpt": "A video of a car driving all by itself has caused some mixed reactions online. One person hilariously commented that her \"trust issues\" could never allow it.",
+      "sourceUrl": null,
+      "webUrl": "https://yen.com.gh/194329-trust-issues-would-never-allow-video-self-driving-car-causing-a-stir-online.html",
+      "originalUrl": "https://yen.com.gh/194329-trust-issues-would-never-allow-video-self-driving-car-causing-a-stir-online.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yen.com.gh/images/aeb84e0d90b12a27.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yen.com.gh",
+        "domain": "yen.com.gh",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-mind-controlled-drones-and-robots-techbbq2021.md",
       "title": "Mind-Controlled Drones and Robots #TechBBQ2021",
       "excerpt": "TechBBQ is one of the biggest tech events in the Nordics that exists to support and strengthen the Nordic startup-ecosystem. During this year's event Sherry List and I held a session on \"Mind-Controlled Drones and Robots\".",
@@ -1091,49 +1134,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-nest-doorbell-battery-review-ding-dong-ditch.md",
-      "title": "Nest Doorbell (battery) review: Ding dong ditch",
-      "excerpt": "Most of us have a doorbell, but most of us probably don't have a smart doorbell, even if our house is otherwise loaded with ostensibly \"smart\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/",
-      "originalUrl": "https://www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidpolice.com/wp-content/uploads/2021/09/10/Nest-Doorbell-Battery-Hero2-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/?amp",
-      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/?amp",
-      "publishedDateTime": "2021-09-15T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

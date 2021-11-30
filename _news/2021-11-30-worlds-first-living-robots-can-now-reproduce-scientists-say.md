@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/11/29/americas/xenobots-self-replicatin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/11/29/americas/xenobots-self-replicating-robots-scn/index.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Team builds first living robots that can reproduce"
+    excerpt: "Scientists have discovered a new form of biological reproduction -- and created self-replicating living robots. Made from frog cells, these computer-designed organisms gather single cells inside a Pac-Man-shaped 'mouth' -- and release Xenobot 'babies' that look and move like themselves."
+    publishedDateTime: 2021-11-30T00:43:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/11/211129155020.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "LsOFXaevgZscXBC4YKebHzBw1VwHaOH5Sr5/cmbWs+ieUTtFfBSQ+zqGNMXihp68KyMewpiDRj3bGaPuyvlopHduztsF3unoQX1t1m6yfDyxXSiBjO2YhcssRkIQITxJIYz9uPxxfxUc4ksREgEFTxn0C208RtsU6m/GHyfCBHBEAU3MI+P+/zKpMzOTdC+XdqvzCGDzsId8x+hwflJ2xYJBV0VvmrK5gYbBBru0qslBOKZK6Nz1RUCw61WCiZH7Po8F3+q08/AR2/3JiMe18QwRtjYmcYc8oprt6pfNnPb4v/uHVYsVF6iIVmuq5m8c4ozzgry5Mfr2f60uAzlHIZsYejY8Ga+Zm0zOVHQqRKA=;lXmjLlmbnSjHnhbOcmiGLQ=="
 ---

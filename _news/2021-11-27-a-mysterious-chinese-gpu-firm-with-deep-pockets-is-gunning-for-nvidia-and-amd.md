@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-wit
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:

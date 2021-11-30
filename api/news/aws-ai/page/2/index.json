@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-17-video-va-transformed-into-race-track-to-showcase-dundee-digital-skills.md",
+      "title": "VIDEO: V&A transformed into race track to showcase Dundee digital skills",
+      "excerpt": "An icon of a desk calendar. An icon of a circle with a diagonal line across. An icon of a block arrow pointing to the right. An icon of a paper envelope. An icon of the Facebook \"f\" mark. An icon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
+      "originalUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thecourier.co.uk/wp-content/uploads/sites/12/2021/11/KSMI_Perth_Speed_Racer-19_41540986-2uholcjel-scaled-e1637082819668.jpg",
+          "width": 2560,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Courier",
+        "domain": "thecourier.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-noteable-expands-analytics-tools-for-programming-with-new-21m.md",
       "title": "Noteable expands analytics tools for programming with new $21M",
       "excerpt": "Noteable, a startup developing tools for data analytics and organization, has raised $21 million in venture capital.",
@@ -1395,60 +1438,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-is-metas-facial-recognition-retreat-another-head-fake.md",
-      "title": "Is Meta’s Facial Recognition Retreat Another Head Fake?",
-      "excerpt": "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
-      "originalUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
-      "publishedDateTime": "2021-11-04T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

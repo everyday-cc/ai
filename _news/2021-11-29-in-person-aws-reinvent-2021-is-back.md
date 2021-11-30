@@ -9,8 +9,8 @@ ampWebUrl: "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-ba
 cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: StorageReview
@@ -28,20 +28,34 @@ images:
 
 related:
   - title: "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021"
-    excerpt: "Delivering fast and reliable machine learning business solutions. JERSEY CITY, N.J., Nov. 30, 2021 /PRNewswire/ -- ElectrifAi, one of the world's leading companies in practical"
-    publishedDateTime: 2021-11-29T21:00:00Z
-    webUrl: "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021"
-    ampWebUrl: "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp"
+    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+    publishedDateTime: 2021-11-29T17:40:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-mlaas-and-spendai-at-aws-re-invent-2021-837723933.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 74
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
     images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_2872.jpg?itok=oyjtclR1"
-        width: 763
-        height: 509
+      - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
+        width: 594
+        height: 315
+        isCached: true
+  - title: "Hyperscalers don't appreciate the needs of SMBs - what should AWS be doing at re:Invent?"
+    excerpt: "When surveying cloud adoption, nowhere is the distinction so stark as between large enterprises (those with more than 500 or 1,000 employees) and SMBs (those with fewer than 500 employees). With AWS re:Invent upon us,"
+    publishedDateTime: 2021-11-29T10:22:00Z
+    webUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent"
+    ampWebUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 50
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-10/D5C71572-4813-4A9B-8652-32DC6B1AD682.jpeg"
+        width: 640
+        height: 422
         isCached: true
   - title: "What To Expect From AWS re:Invent 2021 Event?"
     excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."
@@ -84,6 +98,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/adam-selpisky-300x277.png"
         width: 300
         height: 277
+        isCached: true
+  - title: "AWS re:Invent 2021: The 10 Biggest Announcements"
+    excerpt: "Invent at The Venetian in Las Vegas are new partner paths, AI for data analytics and new partner competencies."
+    publishedDateTime: 2021-11-30T00:30:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/aws-re-invent-2021-the-10-biggest-announcements"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/026f-13d709a952d4-bb07aeb87d76-1000/aws-reinvent-21.jpg"
+        width: 610
+        height: 458
         isCached: true
 
 secured: "QW77pH6bh7edRIARtcO3GLZz5yVBK1j1PVwKGSYY29vhF5ArDmK8v4rjf6jkXk2jU7m8jH1aJMBEh4cfYd9TfuZZ0OApebvc+Cgts/1C6AeZ0YWliLIx8C1hWEk53W1Lbv3VpwzD3WWeJdTeMJaK3QNQJC7/W4t55PRENqcN2KA/CkijTQhJmlIyGgB/knVb0Wvkzcilcd4mAEQ7v+ln+N+bP8zLM1MktLCGAn5yH/YyWkyosKiMtQhwIy3tiwxJruOaKKZj9KW8p8XmPkfyisQ4FhhssIkdQMQeBeClDrUnb6MYgoqbvbbzx8egglGrgO86pw3esaQxFLZUMxnq2xz0GLUtuJaxJWctUIoq1uU=;26m6/AE/eyj+Xjtvfg0atw=="

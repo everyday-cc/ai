@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-30-beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation.md",
+      "title": "Beyond the migration: Accenture and AWS expand partnership to support continuous cloud innovation",
+      "excerpt": "Five-year extension also includes training to help clients understand and implement cloud capabilities more quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
+      "originalUrl": "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/27/06823878-e36c-485b-a5ef-0f779b1e98f8/resize/1200x/ef0d165740f66078f83f197b32b4039e/gettyimages-da-kuk.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
+      "publishedDateTime": "2021-11-29T15:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-how-hiya-taps-ai-to-kill-phone-spam.md",
       "title": "How Hiya taps AI to kill phone spam",
       "excerpt": "The company claims its new adaptive AI is much more effective than conventional tactics that only react to known numbers for phone spam.",
@@ -55,49 +107,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-electrifai-announces-mlaas-and-spendai-at-aws-reinvent-2021.md",
-      "title": "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021",
-      "excerpt": "Delivering fast and reliable machine learning business solutions. JERSEY CITY, N.J., Nov. 30, 2021 /PRNewswire/ -- ElectrifAi, one of the world's leading companies in practical",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021",
-      "originalUrl": "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_2872.jpg?itok=oyjtclR1",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp",
-      "publishedDateTime": "2021-11-29T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-30-aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads.md",
       "title": "AWS rolls out Graviton2-powered EC2 instances for GPU-based workloads",
       "excerpt": "Amazon Web Services on Monday said it's bringing a new set of EC2 instances into general availability, including Graviton2-based instances designed for GPU-based workloads. Along with Amazon's custom-designed Graviton2 chip,",
@@ -139,6 +148,49 @@
         "AI Hardware",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-in-person-aws-reinvent-2021-is-back.md",
+      "title": "In-Person AWS re:Invent 2021 is Back!",
+      "excerpt": "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back",
+      "originalUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png",
+          "width": 781,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp",
+      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp",
+      "publishedDateTime": "2021-11-29T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StorageReview",
+        "domain": "storagereview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -777,19 +829,19 @@
     {
       "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
       "title": "adidas Migrates SAP Environments to AWS",
-      "excerpt": "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform.",
+      "excerpt": "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA",
       "sourceUrl": null,
-      "webUrl": "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/",
-      "originalUrl": "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1637560622/press_release/assets/company_logos/AWS_logo_RGB_zwql0q.png",
-          "width": 400,
-          "height": 400,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -797,13 +849,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T22:08:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24214919",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919",
+      "publishedDateTime": "2021-11-21T20:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Retail Dive",
-        "domain": "retaildive.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1342,49 +1394,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-video-va-transformed-into-race-track-to-showcase-dundee-digital-skills.md",
-      "title": "VIDEO: V&A transformed into race track to showcase Dundee digital skills",
-      "excerpt": "An icon of a desk calendar. An icon of a circle with a diagonal line across. An icon of a block arrow pointing to the right. An icon of a paper envelope. An icon of the Facebook \"f\" mark. An icon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
-      "originalUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thecourier.co.uk/wp-content/uploads/sites/12/2021/11/KSMI_Perth_Speed_Racer-19_41540986-2uholcjel-scaled-e1637082819668.jpg",
-          "width": 2560,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T09:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Courier",
-        "domain": "thecourier.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Hyundai Motor to test-operate Level 4 self-driving service in Seoul"
-    excerpt: "Hyundai Motor will test-operate its self-driving service, “RoboRide,” as a pilot program in a district for self-driving cars located in downtown"
-    publishedDateTime: 2021-11-25T07:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-motor-to-test-operate-level-4-self-driving-service-in-seoul-10782839"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Seoul launches commercial self-driving shuttle service"
     excerpt: "South Korea's capital city unveiled a commercial driverless car service Monday, the first step in an ambitious plan to bring autonomous vehicles into everyday life over the next five years."
     publishedDateTime: 2021-11-29T15:28:00Z

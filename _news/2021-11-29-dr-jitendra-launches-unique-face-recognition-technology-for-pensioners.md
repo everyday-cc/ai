@@ -95,6 +95,15 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "Centre introduces unique face recognition technology for pensioners"
+    excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and the elderly citizens. The move is expected to benefit 68 lakh Central government pensioners as well as crores of pensioners who fall outside the jurisdiction of the Department of Employees Provident Fund Organisation (EPFO) and state government."
+    publishedDateTime: 2021-11-30T00:48:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20211129/3864001.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "Dr Jitendra launches unique ‘Face Recognition Technology’ for Pensioners"
     excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today launched unique “Face Recognition Technology” for Pensioners and said,"
     publishedDateTime: 2021-11-29T21:40:00Z

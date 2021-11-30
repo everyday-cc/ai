@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-25-kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt.md",
+      "title": "Kozhikode-based AI-driven healthcare start-up gets funding from Malta govt",
+      "excerpt": "Kozhikode: Kozhikode-based IT start-up Intpurple Technologies, which developed an Artificial Intelligence driven healthcare software, has received funding from the Government of Malta, the company said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "originalUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.mathrubhumi.com/polopoly_fs/1.6210998.1637839781!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "publishedDateTime": "2021-11-25T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mathrubhumi",
+        "domain": "mathrubhumi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-uk.md",
       "title": "HAI ROBOTICS boosts e-commerce fulfillment for cross-border warehouse in U.K.",
       "excerpt": "HAI ROBOTICS, a global leader in Autonomous Case-handling Robotic (ACR) system for warehouse logistics, announced that its first project in the U.K. with Chinese cross-border warehouse operator WINIT a success as deliveries for holiday shopping parcels are about to knock on the door.",
@@ -1156,58 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us.md",
-      "title": "Samsung to spend $17 billion to build new chip plant in the US",
-      "excerpt": "Samsung on Wednesday said it would spend an estimated $17 billion in the US to build a new semiconductor manufacturing facility that will produce advanced logic chips. The new plant, to be built at Taylor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
-      "originalUrl": "https://www.zdnet.com/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bb4db8585baa7730723206c0bfaa1bdb74477f1a/2020/02/20/ce30201d-cc31-4d68-be0d-cef488c3e6d1/image-samsungs-new-euv-line-in-hwaseong.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
-      "publishedDateTime": "2021-11-23T16:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

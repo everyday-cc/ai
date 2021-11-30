@@ -71,20 +71,6 @@ related:
         width: 750
         height: 406
         isCached: true
-  - title: "Baidu gets green light for driverless robotaxi service in Beijing"
-    excerpt: "Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China's capital Beijing."
-    publishedDateTime: 2021-11-25T07:39:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-gets-green-light-for-driverless-robotaxi-service-in-Beijing"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F0%252F5%252F5%252F37575503-6-eng-GB%252FCropped-1637825126photo_SXM2021112500004550.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Baidu Gets Green Light for Commercial Robotaxis in Beijing. It’s Good for the Stock."
     excerpt: "Baidu’s Apollo Go service, known as Luobo Kuaipao in China, has been given authorization to pick up and drop off paying passengers in a 60 square kilometers area in Beijing."
     publishedDateTime: 2021-11-25T11:32:00Z
@@ -200,20 +186,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQEwrCiVKTB1eA/article-cover_image-shrink_720_1280/0/1637915937113?e=1643241600&v=beta&t=K_4L9_zuQscKb5JkpeIt0sW0-xHB1-hJjSG38JFgrqM"
         width: 1267
         height: 713
-        isCached: true
-  - title: "Baidu gets approval for commercialized autonomous vehicle service on open roads in Beijing"
-    excerpt: "The autonomous vehicle commercial permit, which was granted by the head office of the Beijing High-level Automated Driving Demonstration Area, allows Baidu to charge fees for autonomous services offered to the public in designated areas. Baidu and self ..."
-    publishedDateTime: 2021-11-25T08:10:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202111/25/WS619f1daca310cdd39bc7782b.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 29
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202111/25/619f227aa310cdd3d81cc938.jpeg"
-        width: 720
-        height: 480
         isCached: true
   - title: "Commercial robotaxi pilot services launched in capital, Baidu among players seen capitalizing"
     excerpt: "Beijing launched China's first pilot area for commercial autonomous driving vehicle services on Thursday, marking a shift from the testing phase for autonomous driving to wider commercial exploration,"

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "adidas Migrates SAP Environments to AWS"
-excerpt: "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform."
-publishedDateTime: 2021-11-22T06:08:00Z
-originalUrl: "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/"
-webUrl: "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/"
+excerpt: "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA"
+publishedDateTime: 2021-11-22T04:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+webUrl: "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws"
+ampWebUrl: "https://www.benzinga.com/amp/content/24214919"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919"
 type: article
 
 provider:
-  name: Retail Dive
-  domain: retaildive.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1637560622/press_release/assets/company_logos/AWS_logo_RGB_zwql0q.png"
-    width: 400
-    height: 400
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "QF6BlZP7xINOicnpA6r2Mv7V8klOJMYIdGW5JLbRvhdNfV55P5eDiQEMVoRNzNvJfLv56PQtw25lMOT2bUDYtIN7UYtbzwzOfoaGHXHWMglSmExBtots4zvdMqTis1SfrxCkuicFcSZQm/xw6fZdRu6FGRKc6LH8BR3F2R6YeiKdyn1I/h/e+35S/l02iMWWnAc2uv9D378O6KG7R1FXYD2IrINujMEPM9mCN46vCW/MWQ8OrLc/+ZYZpaZh+gI+sPQ0nCTUxjAvNOfhjh90Z63FF6CtRrEPnoOuv2w5vehwHHfNbSHJ4FxryJJ4Q4vevJHOe7saBCvOATTvn5C53x6mMCmtdSvv65zp7+p9CWw=;ddJ+yqtFg+cjAbxRELWNWw=="
+secured: "ZryP6vXv7p3a14vTCqJ21JXQA3QWaQN1wMoz263sfYOJThfV5k7qM59jaz0v0pyZ3MMohJf5NO1Oe3IXfBPfcVS+fkp0ZnECHqc5TjBhlMDbCiJ5j8l/O9s1BvMXrIbiVVCKzjgbdzNddag1aXwUhxT4jiII38FTY43zkXjS1oVn6SVnQr6BvOOgkCKsl5pMLsdNioToIc0pDjkLJL4wmWJsxHlqQqqSzGYGSDPeQHILXV6juprqYPO/CQFW35Po72Z0bfngGLz8Pq359K0posxrvJAcDItTrWpMju27zi2rNna9qDPp5KN52JuRsXF2WjXn23gk2qyTTlRIJd/dgkdMCG1E6gP/rU3yBoHO1Dw=;5zzh6JNfNjwaZO6RakEmCg=="
 ---
 

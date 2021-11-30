@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia's next AI can turn words into photorealistic images"
-    excerpt: "Just a few weeks ago we saw how the company can use AI to automatically match voice lines to 3D animated faces. This cool kind of tech that can help people create great things with ease, or in the case of Nvidia’s latest unveiling,"
-    publishedDateTime: 2021-11-25T09:00:00Z
-    webUrl: "https://www.pcgamer.com/au/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
-    ampWebUrl: "https://www.pcgamer.com/au/amp/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/nvidias-next-ai-can-turn-words-into-photorealistic-images/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/uNoFn2TGWRakob6ppH3YLS-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia Stock News: Chip Maker Leads Technology into the Future With Latest Move"
     excerpt: "Recent Nvidia stock news involves yet another multi-billion-dollar industry. Let's see how the most recent news can propel the chipmaker to new highs."
     publishedDateTime: 2021-11-29T10:09:00Z

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-29-ai-robotics-alongside-us-today.md",
+      "title": "AI Robotics alongside us today",
+      "excerpt": "From a young age, my fascination with how our world works drove me to imagine machines that make our everyday lives more enjoyable. Robots working alongside humans to manage day-to-day mundane tasks was a world I wanted to help create.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE9kuTiv0zQng/article-cover_image-shrink_720_1280/0/1638149826611?e=1643846400&v=beta&t=Vtk75rpPqFM5evGX6jMTVcGclCt70iskUoREeePExvY",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-28T17:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-view-how-to-take-fintech-banks-to-the-next-level.md",
       "title": "View: How to take fintech banks to the next level",
       "excerpt": "India has the highest fintech adoption rate of 87%, against the global average of 64%. Several new segments of fintech startups have emerged, and are gaining popularity among consumers in India. These are redefining financial services for customers and providing more value to them.",
@@ -406,7 +459,7 @@
       "originalUrl": "https://www.techradar.com/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -458,7 +511,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -952,7 +1005,7 @@
       "originalUrl": "https://www.techspot.com/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1109,7 @@
       "originalUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1160,7 +1213,7 @@
       "originalUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1192,49 +1245,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt.md",
-      "title": "Kozhikode-based AI-driven healthcare start-up gets funding from Malta govt",
-      "excerpt": "Kozhikode: Kozhikode-based IT start-up Intpurple Technologies, which developed an Artificial Intelligence driven healthcare software, has received funding from the Government of Malta, the company said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
-      "originalUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/polopoly_fs/1.6210998.1637839781!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
-      "publishedDateTime": "2021-11-25T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

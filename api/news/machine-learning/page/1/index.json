@@ -2,41 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-11-30-xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.md",
-      "title": "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation",
-      "excerpt": "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm",
-      "publishedDateTime": "2021-11-29T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-11-29-nasas-deep-learning-ai-discovers-301-planets-hiding-in-plain-sight-that-humans-missed.md",
       "title": "NASA's Deep Learning AI Discovers 301 Planets Hiding In Plain Sight That Humans Missed",
       "excerpt": "Thanks to a new deep neural network called ExoMiner, NASA has added a whopping 301 exoplanets that human eyes had missed. These exoplanets have been added to the 4,569 other planets that have been validated by NASA.",
@@ -1373,6 +1338,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-cnn-with-periodic-loss-functin-training-the-cnn-neural-network.md",
+      "title": "CNN with periodic loss functin - Training the CNN neural network",
+      "excerpt": "Training and using a neural network to read out the value of an analog display - example including small node server for demonstration - neural-network-analog-needle-readout/CNN_Version2.md at",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/jomjol/neural-network-analog-needle-readout/blob/main/CNN_Version2.md",
+      "originalUrl": "https://github.com/jomjol/neural-network-analog-needle-readout/blob/main/CNN_Version2.md",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/1a1e6688ea47979425e5647d9f3cad1a14e98d228bc673947c120600c2e060d7/jomjol/neural-network-analog-needle-readout",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T23:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

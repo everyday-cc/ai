@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-23-brazilian-airports-expand-facial-recognition-trials.md",
+      "title": "Brazilian airports expand facial recognition trials",
+      "excerpt": "The domestic airports in São Paulo and Rio de Janeiro are advancing trials of a system developed by the federal government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brazilian-airports-expand-facial-recognition-trials/",
+      "originalUrl": "https://www.zdnet.com/article/brazilian-airports-expand-facial-recognition-trials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-airports-expand-facial-recognition-trials/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-airports-expand-facial-recognition-trials/",
+      "publishedDateTime": "2021-11-22T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-iot-anomaly-detection-startup-shield-iot-lands-74m.md",
       "title": "IoT anomaly detection startup Shield-IoT lands $7.4M",
       "excerpt": "IoT, which offers AI-driven anomaly detection for internet of things networks, raised $7.4 million for expansion.",
@@ -472,49 +515,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
-      "title": "adidas Migrates SAP Environments to AWS",
-      "excerpt": "(NASDAQ: AMZN), announced that adidas AG, one of the largest sports brands in the world, has selected AWS as its preferred cloud provider for SAP workloads. With this announcement, adidas will migrate its SAP environment to AWS and implement a modern SAP S/4HANA platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/",
-      "originalUrl": "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1637560622/press_release/assets/company_logos/AWS_logo_RGB_zwql0q.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail Dive",
-        "domain": "retaildive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-22-facebook-knew-its-algorithms-were-biased-against-people-of-color.md",
       "title": "Facebook knew its algorithms were biased against people of color",
       "excerpt": "Internal documents have revealed that Facebook was made aware of online algorithms that were biased against people of color",
@@ -553,6 +553,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
+      "title": "adidas Migrates SAP Environments to AWS",
+      "excerpt": "As the preferred cloud provider for adidas SAP workloads, AWS will help one of the world's largest sports brands to transform its business by implementing SAP S/4HANA",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b24214919/adidas-migrates-sap-environments-to-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24214919",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24214919",
+      "publishedDateTime": "2021-11-21T20:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1061,49 +1104,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-mediateks-unveils-pentonic-2000-worlds-first-7nm-tv-chip-decodes-8k120hz.md",
-      "title": "MediaTek's unveils Pentonic 2000, World's first 7nm TV chip, decodes 8K@120Hz",
-      "excerpt": "Following the release of its flagship Dimensity 9000 SoC for smartphones, the company is now releasing its flagship TV chipset, the Pentonic 2000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484",
-      "originalUrl": "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pinkvilla.com/files/styles/ampfront/public/alia_neetu_jug_jugg_jeeyo_main.jpg?itok=QSHfsmA_",
-          "width": 375,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp",
-      "cdnAmpWebUrl": "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp",
-      "publishedDateTime": "2021-11-21T00:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pinkvilla.com",
-        "domain": "pinkvilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

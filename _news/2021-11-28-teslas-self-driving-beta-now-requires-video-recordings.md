@@ -7,7 +7,7 @@ originalUrl: "https://www.kilgorenewsherald.com/teslas-self-driving-beta-now-req
 webUrl: "https://www.kilgorenewsherald.com/teslas-self-driving-beta-now-requires-video-recordings/article_5ee4bfb9-6cb4-55bd-8f31-e84234262521.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 650
     height: 650
     isCached: true
-
-related:
-  - title: "Hashtag trending Nov. 25 – Stripe Looks at Crypto; Calls for EU to Ban Crypto Mining; Tesla Self Driving"
-    excerpt: "Stripe flirts with the idea of accepting crypto, climate experts call for European Bitcoin ban, and Tesla self-driving will require video collection."
-    publishedDateTime: 2021-11-25T09:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-nov-25-stripe-looks-at-crypto-calls-for-eu-to-ban-crypto-mining-tesla-self-driving/466659?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 57
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
-        width: 1500
-        height: 1500
-        isCached: true
 
 secured: "YYjjXIwiG6xYzvM2f2ZAsmRii4U/V0LdPJMZ7/cI4sYUo0kI9OZzZrWr/e7rZ25iK6Ke7ZqhaDxu6hN5NKLWh6amcUj/hD267cgdRWWTXZHHaNCQ3Z1mL4m4wNzfPk58xbt67Nz9vyAf95kQQcl+TJCP8BM8vq7ehb3mePFYmoci9BQ+xK3FU/aXt8PvcFDqBaptplFZZ6LZ1BZRcvftJ7mh2kYFp66ozXv/y2V2kVJqfZU98EAtEBjgD5bUSrmFztSF/maPIhrX4SP0I1bPiSa65tB1bMvflkoMdronjOBi/l8tX1baTx8UPqPK7paaarNqNpUAWKHdMKI4M75WrMBhg4ghTlg9jWxQ+V5Gmg4mPXcFz1C17KxfwH07W0TNrj9gB0ThiGohL5MMvD9g3eLeG8mQF6RmIjRMYAk+BIXmMtFw+hDJKBzNk8efr98RZVYtZt6wv55obSt7lMZf8nz49T0q3wf4BCm8IR2ENXE+irgPX0QYbqz7IfYYzSC/Ik/6Pn2Hsw+Oqn9wI4K16g==;Ksgu1m0TctIbgW5ewUQgew=="
 ---

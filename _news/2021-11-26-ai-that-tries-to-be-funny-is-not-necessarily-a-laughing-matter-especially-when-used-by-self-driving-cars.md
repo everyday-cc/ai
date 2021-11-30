@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple’s self-driving car coming in 2025: Report"
-    excerpt: "Whether Apple can launch the Apple Car in four years depends on how successful it is in developing self-driving technology."
-    publishedDateTime: 2021-11-25T07:38:00Z
-    webUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746"
-    ampWebUrl: "https://philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/apple-self-driving-car-2025-11746/amp"
-    type: article
-    provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 44
-    images:
-      - url: "https://img.philkotse.com/2021/11/25/kdtzClWN/untitled-design-2021-11-25t145918-649-6596_wm.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "The legal challenges of self-driving cars"
     excerpt: "The Department of Transport recently announced its intention to allow Automated Lane-Keeping Systems (ALKS) to be used on British roads by the end of 2021."
     publishedDateTime: 2021-11-25T11:50:00Z
