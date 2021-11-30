@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-pow
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/"
 type: article
 quality: 86
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "Amazon EC2 G5g NVIDIA GPU-Accelerated Graviton-Based instances"
+    excerpt: "The AWS team have confirmed the general availability of the new Amazon EC2 G5g instances providing up to 30 percent lower cost"
+    publishedDateTime: 2021-11-30T12:23:00Z
+    webUrl: "https://www.geeky-gadgets.com/amazon-ec2-g5g-30-11-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Amazon-EC2-G5g.jpg"
+        width: 700
+        height: 457
+        isCached: true
   - title: "Granulate Achieves AWS Graviton Ready Designation"
     excerpt: "Granulate, a provider of autonomous real-time computing workload optimization and cost reductions solutions, announced today that it"
     publishedDateTime: 2021-11-29T23:15:00Z

@@ -21,18 +21,18 @@ topics:
 
 related:
   - title: "Gilead and AWS Collaborate on Development and Delivery of New Medicines for Patients"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that Gilead Sciences, Inc. , a biopharmaceutical company advancing innovative medicines to prevent and treat life-threatening diseases,"
-    publishedDateTime: 2021-11-29T15:00:00Z
-    webUrl: "https://www.lelezard.com/en/news-20129525.html"
+    excerpt: "(NASDAQ: AMZN), announced that Gilead Sciences, Inc. (Nasdaq: GILD), a biopharmaceutical company advancing innovative medicines to prevent and treat life-threatening diseases, has selected AWS as its preferred cloud provider."
+    publishedDateTime: 2021-11-29T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-health-amazoncom-inc-d7a4c58ef3dd4f70a37a31cdcadf7a86"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Associated Press
+      domain: apnews.com
     quality: 32
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Gilead and AWS Collaborate on Development and Delivery of New Medicines for Patients"
     excerpt: "(NASDAQ: AMZN), announced that Gilead Sciences, Inc. (Nasdaq: GILD), a biopharmaceutical company advancing innovative medicines to prevent and treat life-threatening diseases, has selected AWS as its preferred cloud provider."

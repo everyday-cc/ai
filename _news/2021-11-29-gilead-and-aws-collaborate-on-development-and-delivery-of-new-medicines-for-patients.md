@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Gilead and AWS Collaborate on Development and Delivery of New Medicines for Patients"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that Gilead Sciences, Inc. , a biopharmaceutical company advancing innovative medicines to prevent and treat life-threatening diseases,"
-publishedDateTime: 2021-11-29T15:00:00Z
-originalUrl: "https://www.lelezard.com/en/news-20129525.html"
-webUrl: "https://www.lelezard.com/en/news-20129525.html"
+excerpt: "(NASDAQ: AMZN), announced that Gilead Sciences, Inc. (Nasdaq: GILD), a biopharmaceutical company advancing innovative medicines to prevent and treat life-threatening diseases, has selected AWS as its preferred cloud provider."
+publishedDateTime: 2021-11-29T14:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-health-amazoncom-inc-d7a4c58ef3dd4f70a37a31cdcadf7a86"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-health-amazoncom-inc-d7a4c58ef3dd4f70a37a31cdcadf7a86"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
       domain: financialbuzz.com
     quality: 9
 
-secured: "0rVtDDpp3/BFQJmvR/VaR46VJikhiidTnbRGChfrG6zLKcMIKGtoTSd5Q4eoLNGZNJYY57N/k2l5FVjw5jy/F371tPG6BdqeiI3u0MsryrYqm5uEuACU6AkTCMxyXUko1C80FGiLXIcTpRW/y6vqZbbRnmg3idt90xeOUWxUJBeAYjcwJz07Jhxicyhf14Y8dr3QVyUxu8vU3Q8Yz2uc1Jp2s2NkT6abYiSvqbjENfRi60flK0XKpvEWcGs5la/UT92OKgcvalaox4jOy8IJEV0SevM6Q4NIHw0ICqvnAAXMrumkVjdimeOY3tvwrf3kkApTrYmHIii6XU96Bb7ENDGnw/ey/FCU2ibC9deBp5Q=;GrQN17FvRdzB4YxYaAP4dQ=="
+secured: "D/FMEhPlHPZbcX7H5hVZNxQGajqSGgSDmX6uIie1fNeLs11SClWxk9FUBISHV53Z37vLwc1vNBM9YjYwT3wxLcACu+4ufnYshyDoPmurANbnpz2PjrazAyTa3vVudP1sC0JW3DaUMfCUh25h8YXf6la1C2tYWGdRwb/rHvjw68x5JlSn8kN7D/ir+uyNRImsCgrtpAurrJDLz3lIeR9GIaMmhc4lhCCeIZtqcYYmpk3/IN6ZtQOBDZyWd+3w465mpPyiWM9x67f0rPnD0/dJJkgD3n7By2WDaj8cImv7ebdoV1m6xX5MDS49UyIgs7jwtpnCbX1CDz1OAs2r8uBmp6jv0oDefEVFzBqb3scAu7Q=;2rkIIJExCdDH0c9grbprWw=="
 ---
 

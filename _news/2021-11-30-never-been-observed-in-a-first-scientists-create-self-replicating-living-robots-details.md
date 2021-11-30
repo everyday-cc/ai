@@ -68,6 +68,34 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Living robots have sex like Tetris"
+    excerpt: "Making their porn a little dullThe US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals. The xenobots are made from the stem cells of the African clawed frog (Xenopus laevis) from which it takes"
+    publishedDateTime: 2021-11-30T11:26:00Z
+    webUrl: "https://www.fudzilla.com/news/53963-living-robots-have-sex-like-tetris"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/61ac51b4aca69f064102c7de8fbd1eaf_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Scientists build self-replicating living robots"
+    excerpt: "US researchers have discovered a new form of biological reproduction and have created what they say are the world’s first living robots that can self-replicate."
+    publishedDateTime: 2021-11-30T12:49:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/11/scientists-build-self-replicating-living-robots/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/17241/xenobot-reproducing.jpg?crop=0,0.26833333333333337,0,0.2394791666666666&cropmode=percentage&width=1200&height=450&rnd=132827439180000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "World’s First Living Robot Makes Babies"
     excerpt: "The world's first AI-designed biological robots that can self-repair and self-replicate are known as Xenobots."
     publishedDateTime: 2021-11-30T10:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/"
 type: article
 quality: 119
-heat: 140
+heat: 139
 published: true
 
 provider:

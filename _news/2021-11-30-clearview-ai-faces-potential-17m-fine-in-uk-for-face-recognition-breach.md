@@ -135,6 +135,38 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Facial recognition company fined by ICO following data breach"
+    excerpt: "The Information Commissioner’s Office (ICO) is to impose a potential fine of just over £17 million on Clearview AI, a company that describes itself as the “world’s largest facial network”."
+    publishedDateTime: 2021-11-30T11:55:00Z
+    webUrl: "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico-following-data-breach/id/5092802"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
+  - title: "Facial recognition company fined by ICO"
+    excerpt: "The Information Commissioner’s Office (ICO) is to impose a potential fine of just over £17m on Clearview AI, a company that describes itself as the “world’s largest facial network”."
+    publishedDateTime: 2021-11-30T12:09:00Z
+    webUrl: "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico/id/5092802"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "US facial recognition firm faces £17m UK fine for ‘serious breaches’"
     excerpt: "Clearview AI may have gathered data without people’s knowledge, says Information Commissioner’s Office"
     publishedDateTime: 2021-11-29T19:36:00Z
@@ -150,6 +182,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a5282f111d9a4e58d9d8c99b558ab2c7341a2ce3/0_192_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=f4a4ed7b12fe9200f658b3587f2ec57d"
         width: 620
         height: 372
+        isCached: true
+  - title: "UK follows Australia in clamping down on US facial recognition firm Clearview AI with £17 million data privacy fine"
+    excerpt: "The UK has followed in Australia’s footsteps as its privacy regulator imposes a provisional £17 million fine on US facial recognition firm Clearview AI Inc for breaching data protection regulations. Clearview AI Inc,"
+    publishedDateTime: 2021-11-30T12:28:00Z
+    webUrl: "https://diginomica.com/uk-follows-australia-clamping-down-us-facial-recognition-firm-clearview-ai-ps17-million-data"
+    ampWebUrl: "https://diginomica.com/uk-follows-australia-clamping-down-us-facial-recognition-firm-clearview-ai-ps17-million-data?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/uk-follows-australia-clamping-down-us-facial-recognition-firm-clearview-ai-ps17-million-data?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-11/Screenshot%202021-11-30%20at%2012.25.17.png"
+        width: 1688
+        height: 1190
         isCached: true
   - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
     excerpt: "Disinformation has been used in warfare and military strategy over time. But it is undeniably being intensified by the use of smart technologies and social media. This is because these communication technologies provide a relatively low-cost,"
@@ -190,7 +238,21 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 32
+  - title: "Facial recognition firm Clearview facing £17m fine for \"serious breaches\" of the UK’s data protection laws"
+    excerpt: "The Information Commissioner’s Office (ICO) has announced its provisional intent to impose a potential fine of just over £17m on Clearview AI Inc – a company that describes itself as the ‘World’s Largest Facial Network’."
+    publishedDateTime: 2021-11-30T11:14:00Z
+    webUrl: "https://mobilemarketingmagazine.com/facial-recognition-firm-clearview-facing-17m-fine-for-serious-breaches-of-the-uks-data-protection-laws"
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 21
+    images:
+      - url: "https://www.mobilemarketingmagazine.com/wp-content/uploads/posts/Crowd.jpg"
+        width: 620
+        height: 500
+        isCached: true
 
-secured: "ZrSb5tojesg/7Slia1ET5ckiwUrowHJrFE6NknRl90D2bBq8iK5yXmyJgC+fD+a1kX0dv1X2NaK40XC72txV2tCjvv5hVmSAsg7rY617rjjeR0gY384R5F2fjx/opJ99FR2UcBb6Z1v3gYhhaEQFNVVvdlnEooWPfn8N9blUN0kNj1t2Sl6Ul970Bqth1opAa1KBE1TvTB4RN285UnUtZI92HuEQe+ZU8Avx11tkLK8gxXjEh9GIn/35x9eNzAIXgAROywdRMDuEED6OBVNPfcx5HktjCKuwwVorUu9VBedi8UgtXUVGnddEPLKndcX8zMuRWq3j9B+JdEThOsH49/VGDB0yYJ00cocKLXA+zNE=;j+ogy0AnHgj3g5UlFnCpVQ=="
+secured: "R1dTpFVgUbPLK9fp7IEdKATR1aUZAkf1bdFHWX52wQ88EYLcy/Ln+vm2w9cxCQHP8wtsFekxH42+oA2q7ZJ9TPxYlTF4sagUjsWg/0Z/JsQ+Mng6rT2VsQHQr0Odxb72KrX4UGifYXonifIXWViEJxuVHbGicwuaYl0BADu0xvxaviGlShKce6uQecIu2F5cdX2JGHhtlYp+c3VmzZUM8bcIqq4fLipIhelDlCm+g5Ab8ykJLBEGdr1Qk09WPhpFiaxjoLTemQnSTxPC/ug2oiJAKqRAuTsM9HVK2K+alQ4hTt8lLDLoqiqUm0917lPYeGC07efBQp6Mb7HlwdIAO/+c1peU7pdq4E9a1beZV6tSGg0aQDHTA1OGMyCbgtEfnwEY8ByD+Z8MUp7+PDiCJnuEOflqxWBYbkx7cuZ3Ytr17xwsVJNHm/j/TsjVLE50hrquKCNpDau4bHWwUWe1gIAeFVNx2vi78yNPQtWel+2y/BcMd706QEf0usxI0eN6VwVSENoJhPGON6cJy4RQwg==;pXl/KD3STBWQtZ6bjV7kFw=="
 ---
 

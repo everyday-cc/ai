@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence could be used to accurately predict tsunamis"
-excerpt: "A reliable early warning system to detect tsunamis could be a step closer thanks to research from Cardiff University. Researchers say their analysis of ocean soundwaves triggered by underwater earthquakes has enabled them to develop artificial intelligence (AI) that allow prediction of when a tsunami might occur."
-publishedDateTime: 2021-11-29T21:30:00Z
-originalUrl: "https://www.cardiff.ac.uk/news/view/2587345-artificial-intelligence-ai-could-be-used-to-accurately-predict-tsunamis"
-webUrl: "https://www.cardiff.ac.uk/news/view/2587345-artificial-intelligence-ai-could-be-used-to-accurately-predict-tsunamis"
+excerpt: "A reliable early warning system to detect tsunamis could be a step closer thanks to research from Cardiff University."
+publishedDateTime: 2021-11-30T12:40:00Z
+originalUrl: "https://phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.html"
+webUrl: "https://phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.html"
+ampWebUrl: "https://phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.amp"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Cardiff University
-  domain: cardiff.ac.uk
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
 images:
-  - url: "https://www.cardiff.ac.uk/__data/assets/image/0011/2587349/GettyImages-168351395.jpg"
-    width: 4214
-    height: 2791
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tsunami.jpg"
+    width: 1280
+    height: 960
     isCached: true
 
-secured: "OK76J508r2xbbNbzk6Lk4opujaQ5G82MLs6jXGoGdrw6xUvJxOBjeBUkVSTaY9YWIcMB8bvAaFw1+M1HRrqCl72RpGvZlqDxSBul8HLoGXp9wxclVDyePKnQvhYqFI3n/ry8kKhkQTQDuKcKPfQqYseY35xxW0nQ2NmSD/Pft8vKm46r9q1IcnJZWA5cJH7rwGtlcXWE3qcsOkZzVzi62aDSb73kLXEJMKMsNZOoa4ho8gpvPzYGkcDOdwLbZoaTNkVxssC1b6zs0TwouR+8KPsUp264k7TTjMWueizBosw/0xVKee0RIbvwKS9un3Bx7VPVCwo49HagPuqvng5J1k0EK3PJvVA7i4NRBQs+NDc=;w71fs1KBSPpB3WeRygJTRg=="
+secured: "zLpQRE3UBeEWj9r2bSI/2cHt/iFnhHk/T3dK2B3mmXEF0CC5ha0ypOdiAje71qrqVVffIeHjtz6ZdjYwxK062++bTRcnoOR4aJYIGjH3Jlbb2LP/NlXNRHjIOtjk8TcbcnfP1BWpXVjqw4fHMdO7UnqN26hlQH7UoFZM4FQpvlzr5jcZ+diGxzNmpgxaUeE9rZYR56fT9WTl7pJdtM3ED7ABT++ZO9D+bhlfrKfmZ47OOecPbgvhsvZcQAg4pyhkQWLqVWwdX4JqzvSaWw66pehI3byuFEvlJ3ThbMIRQcGBVeZn/fUpN4ioKbjQsd9oEUpNy0K7XW11qiwfFLN94sUeJr7MQO69jCwQgZvLGx4=;Lx3uOIbq5dkbk9SPKjS76w=="
 ---
 
