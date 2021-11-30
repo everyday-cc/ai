@@ -95,6 +95,20 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "A bunch of robot vacuums and smart home gadgets are on sale for Black Friday"
+    excerpt: "Here are the best smart home and kitchen deals for Black Friday, including discounts on Instant Pots, robot vacuums, smart lights and more.."
+    publishedDateTime: 2021-11-26T18:07:00Z
+    webUrl: "https://www.engadget.com/best-robot-vacuum-smart-home-kitchen-deals-black-friday-2021-174554281.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 66
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2020-10/6f4230f0-0be4-11eb-b3f6-db9714009fa4"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "The best Black Friday deals on robot vacuums: Roomba, Shark, Samsung and more"
     excerpt: "The most advanced robot vacuum from Shark, the AI Self Empty XL features a bagless base that holds ... It even pairs up with the Bissell app to start and schedule cleanings when on the go. Easily portable, thanks to a weight of just over three pounds ..."
     publishedDateTime: 2021-11-26T12:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/w
 cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://imengine.prod.srp.navigacloud.com?uuid=eed53b4f-ab4a-5fe3-b067-6e404d33834e&type=primary&q=72&width=1200"
         width: 1199
         height: 799
+        isCached: true
+  - title: "The Role of Artificial Intelligence in Pioneering the Retail Industry"
+    excerpt: "The retail industry's digital transition has been ongoing for a long time. Data and predictive analytics tools are helping organizations make data-driven decisions in every aspect of retail business,"
+    publishedDateTime: 2021-11-30T04:43:00Z
+    webUrl: "https://www.cioreview.com/news/the-role-of-artificial-intelligence-in-pioneering-the-retail-industry-nid-34682-cid-38.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 52
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/oh5vt.retail.jpg"
+        width: 300
+        height: 350
         isCached: true
   - title: "Our award-winning AI is no threat to lawyers"
     excerpt: "Monaco Solicitors won the 2021 Law Society Award for Excellence in Technology and Innovation for our Virtual Lawyer AI employment law advice project. We are proud to say that our Virtual Lawyer tool is helping increase access to justice by making legal advice in employment law available for free for tens of thousands of users."

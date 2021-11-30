@@ -24,6 +24,22 @@ images:
     height: 367
     isCached: true
 
-secured: "hvckrmWfKcl/wC1kbGZlpopodjJVrrUZJDoZ6PvUXe/3PY5LMoCMCh7fCmWBUfKVBtbUzMfOoTmUWIgxTG7c9/Xkv09x3TrXM64Ts5Y5P4Bs/0xupgn3bfsc7y/M54Swaoy00g/ekFb8bGXUOFoR43VHY2qkcay3NkTSLTvqTEWgWlBYJEvjAxVkcsWLXRDkV9hxEaO+LOF3s0PxAF6zzB7Y2nlzxvuzw0GfSnAiGRNE7ZjFUUHygN7eaYYrw8fzhShJOjxBBNlNIwlyXIsWZea2ns64Yed9u6fvK/cgXy8CeP9C4bfDosb5eFjtMBvQYL80hd89+DpmzrKzTE8GzwnYI3rE75h2Sbvpv+Jog8s=;22vBlwp0l5Z29xsS98Q+eg=="
+related:
+  - title: "Australian scientists establish platform to combine human, machine intelligence"
+    excerpt: "Australia's national science agency has established a new platform to combine human and artificial intelligence, Trend reports citing Xinhua. The Commonwealth Scientific and Industrial Research Organization (CSIRO) on Tuesday launched the Collaborative Intelligence (CINTEL) Future Science Platform."
+    publishedDateTime: 2021-11-30T04:37:00Z
+    webUrl: "https://en.trend.az/world/3519357.html"
+    type: article
+    provider:
+      name: Trend News Agency
+      domain: trend.az
+    quality: 20
+    images:
+      - url: "https://cdn.trend.az/2018/10/16/suni_intellekt_161018.jpg"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "MWE4E0qABGQ2LbrDNnCgpNhyxbRFn18GK7wPeV2usIrViWSdYB5GCXkxml7KcA4f3mkpkz/9o8jGCakzVdnagagyNjDMqbad1MbmNVWPZveqMQKJXsM39qIirr3eFfjay9tyEAik1wLX+P7Qs9ahf/tbmf6MiJO+S+1rDwBz/zrPcj7HUPI94WkX4TEEcph7vefmw0VUJPmgUQyyeEsVHTvYclfHDUNcXBh5XPZyDmiodKKH9iwwpSqyvQCFUJqLG7aETufW8gN3cpS+yzOFY8z8CVKRhDhY+gIUboYKRSGf9FtMJ6uVSmLl/vKFA51dSCkwkbbgjgjwg6APmKpiycidOfoXzTR7pVHNZB5+bfpne2YhiHtmpIcdWQHFnPqvGgut5qqcJZv7/M0sxkvCI2yiWR8OefsoMm4pJC5mNbnxfBgwc/upqxv+z6KrmR4bAyDYarJVaOiiI70vVdb+KhxwMR3FoTfqFo8JAIVjoWicTiL26Wz5AUhOpjWBV1h/Qjfbmo7neXMu2QVq0nN1/g==;Pcbu5bB1QYrPm4Bk41LTiQ=="
 ---
 

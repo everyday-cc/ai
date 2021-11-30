@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-30-trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.md",
+      "title": "Trans-AI will propel Artificial General Intelligence to Superintelligence",
+      "excerpt": "The critical issue is that Artificial Intelligence is weak and narrow, instead of being trans-disciplinary AI or true machine intelligence and learnin..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-87995459,imgsize-1900172,width-1200,height-628,overlay-etcio/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "publishedDateTime": "2021-11-29T19:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-27-heres-what-defines-a-self-driving-car.md",
       "title": "Here's what defines a self-driving car",
       "excerpt": "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -62,7 +106,7 @@
       "originalUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1383,49 +1427,6 @@
       "provider": {
         "name": "Toronto Sun",
         "domain": "torontosun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-baidu-reports-revenue-rd-increases-in-q3.md",
-      "title": "Baidu reports revenue, R&D increases in Q3",
-      "excerpt": "Chinese tech giant Baidu Inc reported its total revenue reached 31.9 billion yuan ($4.95 billion) in the third quarter of this year, an increase of 13 percent year-on-year, yielding a non-GAAP (generally accepted accounting principles) net profit of 5.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202111/17/WS6194f0e0a310cdd39bc75ebb.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202111/17/WS6194f0e0a310cdd39bc75ebb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202111/17/6194f0e0a310cdd3d81b287a.jpeg",
-          "width": 710,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

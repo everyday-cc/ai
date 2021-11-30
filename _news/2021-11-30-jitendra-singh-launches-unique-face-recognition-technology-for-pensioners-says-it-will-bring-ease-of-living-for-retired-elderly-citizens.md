@@ -57,6 +57,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Centre introduces unique face recognition technology for pensioners"
+    excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and t.."
+    publishedDateTime: 2021-11-30T03:09:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/centre-introduces-unique-face-recognition-technology-for-pensioners/87995015"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/centre-introduces-unique-face-recognition-technology-for-pensioners/87995015"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/centre-introduces-unique-face-recognition-technology-for-pensioners/87995015"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87995015,imgsize-35057,width-1200,height-628,overlay-etcio/centre-introduces-unique-face-recognition-technology-for-pensioners.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Govt. launches unique face recognition technology to benefit pensioners"
+    excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for the retired and the elderly citizens. Singh said,"
+    publishedDateTime: 2021-11-30T03:44:00Z
+    webUrl: "https://www.freepressjournal.in/topnews/govt-launches-unique-face-recognition-technology-to-benefit-pensioners"
+    ampWebUrl: "https://www.freepressjournal.in/amp/topnews/govt-launches-unique-face-recognition-technology-to-benefit-pensioners"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/topnews/govt-launches-unique-face-recognition-technology-to-benefit-pensioners"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-11/ba2281fc-9298-4b27-8a87-1142cb19dd48/FFXnI_mVUAE4s48.jfif?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Face Recognition Technology Launched; 68 Lakh Central Govt, Crores Of EPFO Pensioners To Benefit"
     excerpt: "In a bid to bring in ease of living for the retired and elderly citizens, the Union Minister of State (Independent Charge) Science & Technology Jitendra Singh on Monday launched unique Face Recognition Technology for pensioners."
     publishedDateTime: 2021-11-29T11:36:00Z
@@ -101,15 +133,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "Centre introduces unique face recognition technology for pensioners"
-    excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and the elderly citizens. The move is expected to benefit 68 lakh Central government pensioners as well as crores of pensioners who fall outside the jurisdiction of the Department of Employees Provident Fund Organisation (EPFO) and state government."
-    publishedDateTime: 2021-11-30T00:48:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20211129/3864001.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Dr Jitendra launches unique ‘Face Recognition Technology’ for Pensioners"
     excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today launched unique “Face Recognition Technology” for Pensioners and said,"
     publishedDateTime: 2021-11-29T11:23:00Z
@@ -129,6 +152,6 @@ related:
       domain: dailyexcelsior.com
     quality: 18
 
-secured: "XlDVHYHdDT/wZcA7wwreV9fM88QKe2vYzKPCDlIQfWCIW/PUitCAhm1pFohrK+t8unjswDWryr1TLff9Z4MKYl5B+b3xB4EdNaS674bxEKSpCrkv+LxvRmcDnlCcp/j+q+4jkwH64zRCRanEIg2af6reK/0IP+5dRKUf6hxr4gLnEV535YO9+qJEpZlE9nCl9VYyZUq3FbeY2oEfFCHoHK98wXBUpayOpnJTXsdu7DAKmmRyasQ7oLg3QG++1phfoN5GqtvOY5+34l5d6D1n1ezrpvR0qwplxqFE+yViSdBsptEfGCAr1guaovcdMipkD1YCFLWyQ4SGyluXtrIxl60G6KzUtX9bEwoRvKlK5/g=;zp6XFn5we6JVakj/L14n0A=="
+secured: "cssYSLXjwxqK9S3wgbzNktWWI9BwcVVL5UDCvYWK7p2C41t6QQTk6vLKhchV2pe6IBDTAW5cs64BHh5dI5Qppc1X2Rf2zwnb11XFxvzNEvWD+Xa3MRO2JlIrE8NW30Exzq3dHrJKFzf+vFwUIDwT9jp6+nkb8wHJh7AnEKsIG00xxcC8Jp5hIRQP0QPqXi16I224B8UXfxvF1+WCAcfy75r6+NC/l1KGEpBNKexTdR4nYMFqFrYYRJc7yPkp/cplLwrf16bLQ5uUTeZpMUGlWFhnVvYVtWouDQOv5dKrMLSqYIfeUhXLTTZoWmrE5wHKlgj0sbLAHT8Sfkn3T0FlW7J1hma8W2nCnUPKh458FsHXVCk6dSgItMU1+bPdqGZmM9YI5xJwTF7ccKU+t4sgWNlpTCG/pBNviu82knWKEspyS6e/SIdQ9dP4IbjyMTwk2PCRixHfSqz6JyNRMk+VA43tcxEQlkLBs1xlf+o99hTLTq74V4iBUg+9bR7RmzjjmKB9uFFD7a4j2pJ6OVKA2w==;JPl8r3O3TmblmmU/PwlTlw=="
 ---
 

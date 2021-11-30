@@ -69,6 +69,20 @@ related:
         width: 1199
         height: 799
         isCached: true
+  - title: "The Role of Artificial Intelligence in Pioneering the Retail Industry"
+    excerpt: "The retail industry's digital transition has been ongoing for a long time. Data and predictive analytics tools are helping organizations make data-driven decisions in every aspect of retail business,"
+    publishedDateTime: 2021-11-30T04:43:00Z
+    webUrl: "https://www.cioreview.com/news/the-role-of-artificial-intelligence-in-pioneering-the-retail-industry-nid-34682-cid-38.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 52
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/oh5vt.retail.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "How the city hopes to rein in the job market’s AI gatekeepers"
     excerpt: "A recently approved bill will make New York a leader in regulating automation in hiring, though tech watchdogs say the measure does not go far enough"
     publishedDateTime: 2021-11-29T19:47:00Z

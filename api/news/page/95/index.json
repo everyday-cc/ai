@@ -2,6 +2,58 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2021-09-17-3-artificial-intelligence-stocks-to-buy-now.md",
+      "title": "3 Artificial Intelligence Stocks to Buy Now",
+      "excerpt": "We've put together a list of 3 artificial intelligence stocks to buy now to help investors make the right choices when adding exposure to this",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/385679",
+      "originalUrl": "https://www.entrepreneur.com/article/385679",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-385679.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/385679",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/385679",
+      "publishedDateTime": "2021-09-16T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-how-can-we-ensure-that-ai-is-responsible.md",
       "title": "How Can We Ensure That A.I. Is Responsible?",
       "excerpt": "Artificial intelligence (AI) technologies seek to address this problem by enabling computer systems—trained on large data sets—to model human problem-solving, including finding patterns, performing object recognition, and making predictions.",
@@ -1081,50 +1133,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-what-ai-and-machine-learning-mean-for-auto-lending-technology.md",
-      "title": "What AI and machine learning mean for auto lending technology",
-      "excerpt": "Many industries, including automotive finance, are turning to artificial intelligence (AI) and machine learning (ML) for these efficiencies. The technologies can deliver a competitive edge to lenders looking to not just survive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/",
-      "originalUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autofinancenews.net/wp-content/uploads/2021/09/canstockphoto52285847-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/amp/",
-      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/amp/",
-      "publishedDateTime": "2021-09-15T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Auto Finance News",
-        "domain": "autofinancenews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

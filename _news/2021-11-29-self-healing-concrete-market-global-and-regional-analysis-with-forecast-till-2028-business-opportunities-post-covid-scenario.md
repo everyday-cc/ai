@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Nov 25, 2021, 03:36 /Comserve / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from 2019-2025."
-    publishedDateTime: 2021-11-25T11:13:00Z
-    webUrl: "https://menafn.com/1103249079/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?240591"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Facial Recognition Market Insights by Emerging Trends, Growth and Forecast till 2024"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Nov 25, 2021, 06:06 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 billion in 2019 to USD 7.0 billion by 2024,"
-    publishedDateTime: 2021-11-25T12:01:00Z
-    webUrl: "https://menafn.com/1103249776/Facial-Recognition-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2024"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?240591"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Markets - Global Industry Analysis, Trends, Market Size, and Forecasts to 2027 - ResearchAndMarkets.com"
     excerpt: "How to Find Winning Stocks with Omicron Variant Looming! CLICK TO WATCH! The \"Artificial Intelligence (AI) in Drug Discovery Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-11-29T11:26:00Z
@@ -71,6 +43,26 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"
+    excerpt: "Nowadays businesses are highly relying on the different segments covered in the market research report which presents better insights to drive the business into right direction Artificial Intelligence ai in Drug Discovery market report presents the company profile product specifications"
+    publishedDateTime: 2021-11-26T07:23:00Z
+    webUrl: "https://www.openpr.com/news/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    ampWebUrl: "https://www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 20
+  - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
+    excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-11-29T16:29:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/11/29/9500623.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "gksxs7U6coqJBTVXBLXddDz66i8kwVQzI+lHo91+fqr7qfiQXMmYdRGokZrdoOuMpGPTOTXQvgqwotYbpYBS5EUkaqEK2Zcd/bzToVJNta+t9aHw44KFh56sd5bB8r4U/PyBhbCPzFyzMnkEqeTXzep+p3WGu1AyWYtZPOQSxeBIcsfjLaLdbqFjFbSh6ocq35BXu7WTcwiMQMGy5Rk8taXJSNgXpT3kek0hFc6GwN/pszpby8d6ZRemXmBdzoyWPveb+oPBHCw8jNS8gTZUPBt2wMExowJ9E86tmOl5O4TMCgpsOGr64KdvkOWAPNmz8BmV5D1xwGC5U4FYYkP0c8YYv0IgQaYuNPXxZe8pXCk=;QlVYDOlvOFV/lDuteLQIdA=="
 ---

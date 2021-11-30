@@ -59,22 +59,6 @@ related:
         width: 750
         height: 406
         isCached: true
-  - title: "Baidu Gets Green Light for Commercial Robotaxis in Beijing. It’s Good for the Stock."
-    excerpt: "Baidu’s Apollo Go service, known as Luobo Kuaipao in China, has been given authorization to pick up and drop off paying passengers in a 60 square kilometers area in Beijing."
-    publishedDateTime: 2021-11-25T11:32:00Z
-    webUrl: "https://www.barrons.com/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
-    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-gets-green-light-for-commercial-robotaxis-in-beijing-its-good-for-the-stock-51637839962"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 52
-    images:
-      - url: "https://images.barrons.com/im-287009/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Baidu Officially Launches Robotaxi Service In Beijing After Getting The OK To Charge Fees"
     excerpt: "After the country's capital, Baidu expects other major cities like Shanghai, Guangzhou, and Shenzhen to follow suit"
     publishedDateTime: 2021-11-26T09:56:00Z
@@ -90,29 +74,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/11/Baidu-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Baidu, Pony.ai get China’s first robotaxi licenses"
-    excerpt: "As the first license recipients for self-driving taxis, the two tech firms’ respective robotaxi fleets will operate within the Beijing High-level Automated Driving Demonstration Area. Baidu will have 600 pickup and drop-off points between 7 a."
-    publishedDateTime: 2021-11-25T11:12:00Z
-    webUrl: "https://www.techinasia.com/lalamoves-rival-borzo-eyes-100m-series-d-money/next"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
-  - title: "Baidu, Pony.ai Nab Commercial Robotaxi Licenses for Use in Beijing"
-    excerpt: "Toyota Motor Corp.-backed Pony.ai Inc. were granted the first batch of licenses from Beijing regulators to start open-road autonomous commercial driving operations in a part of the city equivalent to the size of Manhattan."
-    publishedDateTime: 2021-11-25T11:42:00Z
-    webUrl: "https://www.caixinglobal.com/2021-11-25/baidu-ponyai-nab-commercial-robotaxi-licenses-for-use-in-beijing-101809982.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 41
-    images:
-      - url: "https://img.caixin.com/2021-11-25/163783800169291_560_373.jpg"
-        width: 560
-        height: 373
         isCached: true
   - title: "Baidu, Pony.ai cleared for Beijing robotaxi service"
     excerpt: "Pony.ai have won approval to launch paid driverless robotaxi services that will see the companies deploy not more than 100 vehicles in an area in China's capital Beijing. The state-backed Beijing Daily newspaper reported on the approvals on Thursday,"

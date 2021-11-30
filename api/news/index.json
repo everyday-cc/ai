@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-30-us-robot-manufacturer-to-pay-15-crore-to-claim-rights-for-kind-and-friendly-human-face.md",
+      "title": "US Robot Manufacturer To Pay 1.5 Crore To Claim Rights For 'kind And Friendly' Human Face",
+      "excerpt": "A tech company named Promobot is seeking a face for its next humanoid robot. The face of the person will be used for appearance of robots in places like malls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/technology-news/other-tech-news/us-robot-manufacturer-to-pay-1-dot-5-crore-to-claim-rights-for-kind-and-friendly-human-face.html",
+      "originalUrl": "https://www.republicworld.com/technology-news/other-tech-news/us-robot-manufacturer-to-pay-1-dot-5-crore-to-claim-rights-for-kind-and-friendly-human-face.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jrckmcyacezbwqgf_1638243005.jpeg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/technology-news/other-tech-news/us-robot-manufacturer-to-pay-1-dot-5-crore-to-claim-rights-for-kind-and-friendly-human-face.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/us-robot-manufacturer-to-pay-1-dot-5-crore-to-claim-rights-for-kind-and-friendly-human-face.html",
+      "publishedDateTime": "2021-11-29T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.md",
+      "title": "Trans-AI will propel Artificial General Intelligence to Superintelligence",
+      "excerpt": "The critical issue is that Artificial Intelligence is weak and narrow, instead of being trans-disciplinary AI or true machine intelligence and learnin..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-87995459,imgsize-1900172,width-1200,height-628,overlay-etcio/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "publishedDateTime": "2021-11-29T19:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-face-off-robots-come-equipped-with-facial-recognition.md",
       "title": "Face-Off: Robots Come Equipped With Facial Recognition",
       "excerpt": "In the not-so-distant future, robotic dogs equipped with facial recognition cameras might just scamper about outside and help police officers identify suspicious persons. Contactless commerce, airport security and law enforcement: The use of facial recognition technology (FRT) is quickly becoming a must-have for the public and private sectors.",
@@ -443,49 +530,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-electrifai-announces-mlaas-and-spendai-at-aws-reinvent-2021.md",
-      "title": "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021",
-      "excerpt": "Delivering fast and reliable machine learning business solutions. JERSEY CITY, N.J., Nov. 30, 2021 /PRNewswire/ -- ElectrifAi, one of the world's leading companies in practical",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021",
-      "originalUrl": "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_2872.jpg?itok=oyjtclR1",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp",
-      "publishedDateTime": "2021-11-29T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-30-how-to-remove-bias-from-ai-models.md",
       "title": "How to remove bias from AI models",
       "excerpt": "With AI making more real-world decisions everyday, reining in bias is more important than ever. As AI becomes more pervasive, AI-based discrimination is getting the attention of policymakers and corporate leaders but keeping it out of AI-models in the first place is harder than it sounds.",
@@ -598,7 +642,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -642,7 +686,7 @@
       "originalUrl": "https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -694,7 +738,7 @@
       "originalUrl": "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -977,7 +1021,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1012,21 +1056,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-29-hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education.md",
-      "title": "Hisar School and Microsoft Turkey deliver artificial intelligence education",
-      "excerpt": "Turkish education provider Hisar School and Microsoft Turkey are providing students with education in artificial intelligence (AI). As part of this, students use Azure Stack Edge Pro to create an AI-based application that improves early diagnosis of Alzheimer's disease.",
+      "path": "_news/2021-11-29-in-person-aws-reinvent-2021-is-back.md",
+      "title": "In-Person AWS re:Invent 2021 is Back!",
+      "excerpt": "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299",
-      "originalUrl": "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299",
+      "webUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back",
+      "originalUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10619/img-Hisar-School_web.jpg",
-          "width": 940,
-          "height": 443,
+          "url": "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png",
+          "width": 781,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1034,13 +1078,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T04:12:00-08:00",
+      "ampWebUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp",
+      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp",
+      "publishedDateTime": "2021-11-29T05:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "technologyrecord.com",
-        "domain": "technologyrecord.com",
+        "name": "StorageReview",
+        "domain": "storagereview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1050,9 +1094,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1139,59 +1182,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-how-the-public-clouds-are-innovating-on-ai.md",
-      "title": "How the public clouds are innovating on AI",
-      "excerpt": "Companies without the resources to develop in-house machine learning models are turning to the big cloud providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html",
-      "publishedDateTime": "2021-11-29T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

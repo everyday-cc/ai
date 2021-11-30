@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/53103-hai-robotics-boosts-e-co
 webUrl: "https://www.dcvelocity.com/articles/53103-hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k"
 type: article
 quality: 66
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 578
     height: 400
     isCached: true
-
-related:
-  - title: "HAI ROBOTICS boosts e-commerce fulfillment for cross-border warehouse in U.K."
-    excerpt: "HAI ROBOTICS, a global leader in Autonomous Case-handling Robotic (ACR) system for warehouse logistics, announced that its first project in the U.K. with Chinese cross-border warehouse operator WINIT a success as deliveries for holiday shopping parcels are about to knock on the door."
-    publishedDateTime: 2021-11-25T11:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://mma.prnewswire.com/media/1696407/WINIT_cross_border_ecommerce_warehouse_in_UK.jpg"
-        width: 400
-        height: 277
-        isCached: true
 
 secured: "tBQeCYpkfle0EVju2k/2qtYwuBCCr3/BrjibZ+Fm9Z5ePgoycNf1a+KrAb2ZCN5cNZOiZ4VWYtK22c/8qFeQyG/Xmzj9W293YuEW7J/mfzXrMN98CjtX08Bouc3Tw6zzD3wpMNex94hlDtxqGlTX3MB9scPKZModlX1L/iyxvt4XSQDPZVBH03mNcBjNDJz8dlOGwDeMKCq4T4sWZAv0Sm6laX4wVUGJRgKw2QRNkaFf0SmMnLIi4DHwPt2477QLhTMnX2Ab5FkKK7itc8k5vzFYBB0NhA8pnqL8ColYQ5H8xw5ADLKchdJTHT1J1W3N7XWcp+QEfqKqgtRdTqyYLUj3jbrOYwxp4nUmLgIDjgdA3gZhlvrNqTnmsz2kSMHIoyptVRaThDesq1zchxS6XehWvZ9Gaps/aYw/0/wX2ptt1hkL+5hfHReQRN3AQ4gT1akGVEmbtm9RE4+Vhv1TfWMrgHrYj8tl/W35fTmIlCGkIWQt62ZyJLLvBGmCdMZptZauL7DA//ynQV0Xn1rmPQ==;KbrNAH900BUYxDfL/jmbOQ=="
 ---

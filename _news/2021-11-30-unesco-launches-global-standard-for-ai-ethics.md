@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-sta
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
 type: article
 quality: 104
-heat: 225
+heat: 235
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-11/UNESCO-AI-Flickr.jpg?h=66affffc&itok=pg2VaXbj"
         width: 1200
         height: 630
+        isCached: true
+  - title: "United Nations launches global standard for AI ethics"
+    excerpt: "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity."
+    publishedDateTime: 2021-11-30T04:32:00Z
+    webUrl: "https://www.arnnet.com.au/article/693536/united-nations-launches-global-standard-ai-ethics/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_2.jpg"
+        width: 504
+        height: 315
         isCached: true
   - title: "UNESCO member countries adopt first global agreement on the ethics of artificial intelligence"
     excerpt: "AI has gradually made its way into our lives. But the algorithms that enable it to function have also been misused in recent years, illustrating its dangers."

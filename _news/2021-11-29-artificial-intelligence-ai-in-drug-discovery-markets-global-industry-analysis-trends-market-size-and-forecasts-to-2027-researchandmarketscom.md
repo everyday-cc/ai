@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24327562"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24327562"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -26,34 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Nov 25, 2021, 03:36 /Comserve / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from 2019-2025."
-    publishedDateTime: 2021-11-25T11:13:00Z
-    webUrl: "https://menafn.com/1103249079/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030"
+  - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"
+    excerpt: "Nowadays businesses are highly relying on the different segments covered in the market research report which presents better insights to drive the business into right direction Artificial Intelligence ai in Drug Discovery market report presents the company profile product specifications"
+    publishedDateTime: 2021-11-26T07:23:00Z
+    webUrl: "https://www.openpr.com/news/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    ampWebUrl: "https://www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?240591"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Facial Recognition Market Insights by Emerging Trends, Growth and Forecast till 2024"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Nov 25, 2021, 06:06 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 billion in 2019 to USD 7.0 billion by 2024,"
-    publishedDateTime: 2021-11-25T12:01:00Z
-    webUrl: "https://menafn.com/1103249776/Facial-Recognition-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2024"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?240591"
-        width: 333
-        height: 250
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 20
   - title: "Self Healing Concrete Market: Global and Regional Analysis with Forecast till 2028, Business Opportunities, Post COVID Scenario"
     excerpt: "According to the report The global Self Healing Concrete market size was valued at 22 68 Billion in 2020 and is expected to reach 147 05 Billion by 2028 growing at the CAGR of 25 31 from 2021 to 2028"
     publishedDateTime: 2021-11-29T11:54:00Z
@@ -70,6 +53,15 @@ related:
         width: 603
         height: 394
         isCached: true
+  - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
+    excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-11-29T16:29:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/11/29/9500623.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "tQ2uM5SMPMwvCuYkMolZ0iTxbhZkRlRxshKW2aQUCeOAM9t5dktUCCfYCjzlF0mznZy2b8yiVa9nTrbsK6P6kMNK8y+HzTWXcRyzKwrPpaZXZZSSTdNPgqWZs9djhGlMQ2eZVRDpWoxlM01JHU9Il8B+Sin4urPaN6WpNDFAEQTbQChNSxAD0rDrdsQMhdKIVxkcZO7YlrOq7pmVexWUUukoWn/zoWCdRzXKok7nnrrVBsq9XfISDlnb8rQBM1oMAkGkWI0VrORRpoj8VHjFQjaY/EIzux+ym9lvoRKRoX/4N0esN3QqS11W2yjNWzvAyJl5o/JlZMDihEMVpCCHiGVCO50HPPW4abgKjtZ8vrY=;V0QLO4yVGA8nQ9x+2MVGKw=="
 ---

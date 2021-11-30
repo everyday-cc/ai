@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-def
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The legal challenges of self-driving cars"
-    excerpt: "The Department of Transport recently announced its intention to allow Automated Lane-Keeping Systems (ALKS) to be used on British roads by the end of 2021."
-    publishedDateTime: 2021-11-25T11:50:00Z
-    webUrl: "https://www.lawcareers.net/Explore/BlogPost/Max-Alexander-Jones/The-Legal-Challenges-of-Self-Driving-Cars"
-    type: article
-    provider:
-      name: LawCareers.Net
-      domain: lawcareers.net
-    quality: 4
 
 secured: "SYgZEc/0CJZ1PKjhM0YLh+bOsyp718HKvyIEDCTEnbYMPjy1+EH5N2UT+38F/Hl5jYwxLqRBr/y2eFyv7a2q23rjKwPcVmSuuyaXrh7RaiNUhNGdG2KzNJbi61qCwxGC4j3DhT0WnipaQWlLLArbPZAu9SK1UeHsOLcOefPPgZcMst6JNw8+gX9cT76QX2aojf9ltuTSucIS/GO2+zYsURb2A5o7pNoAkXlTQKNXqhKsbl2lWbuCKvKAKSpyTcaZzDN5xiKl47Eq3+dSYDQvntt98ILKVKcSt6YzzULx3SDfwsKBHTrsZ5q8/ZR/zK42fl+Z9HXck0lza/JiKkHmXIcU29hddMtlMslIT7I02NA=;KJb1sURH88cj1+mFqGAAPA=="
 ---

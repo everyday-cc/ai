@@ -149,6 +149,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "United Nations launches global standard for AI ethics"
+    excerpt: "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity."
+    publishedDateTime: 2021-11-30T04:32:00Z
+    webUrl: "https://www.arnnet.com.au/article/693536/united-nations-launches-global-standard-ai-ethics/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_2.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "UNESCO's ‘Cookie Factory’ Raises Awareness of the Potential Risks and Ethical Challenges of AI"
     excerpt: "Little Black Book, DDB Paris teams up with makemepulse to create extension allowing you to assume a new identity as you browse the internet"
     publishedDateTime: 2021-11-25T15:06:00Z

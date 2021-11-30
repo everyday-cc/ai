@@ -1,29 +1,27 @@
 ---
 category: news
 title: "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021"
-excerpt: "Delivering fast and reliable machine learning business solutions. JERSEY CITY, N.J., Nov. 30, 2021 /PRNewswire/ -- ElectrifAi, one of the world's leading companies in practical"
-publishedDateTime: 2021-11-29T21:00:00Z
-originalUrl: "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021"
-webUrl: "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021"
-ampWebUrl: "https://www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/electrifai-announces-mlaas-and-spendai-aws-reinvent-2021?amp"
+excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+publishedDateTime: 2021-11-30T03:10:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-mlaas-and-spendai-at-aws-re-invent-2021-837723933.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-mlaas-and-spendai-at-aws-re-invent-2021-837723933.html"
 type: article
-quality: 74
-heat: 124
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/pr-newswire_500_4_2872.jpg?itok=oyjtclR1"
-    width: 763
-    height: 509
+  - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
+    width: 594
+    height: 315
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png"
         width: 781
         height: 300
+        isCached: true
+  - title: "Hyperscalers don't appreciate the needs of SMBs - what should AWS be doing at re:Invent?"
+    excerpt: "When surveying cloud adoption, nowhere is the distinction so stark as between large enterprises (those with more than 500 or 1,000 employees) and SMBs (those with fewer than 500 employees). With AWS re:Invent upon us,"
+    publishedDateTime: 2021-11-29T10:22:00Z
+    webUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent"
+    ampWebUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 50
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-10/D5C71572-4813-4A9B-8652-32DC6B1AD682.jpeg"
+        width: 640
+        height: 422
         isCached: true
   - title: "What To Expect From AWS re:Invent 2021 Event?"
     excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."
@@ -100,6 +114,6 @@ related:
         height: 458
         isCached: true
 
-secured: "jZZojZQNNGM0hNOsy+68xIXPKukJLQ2p8UGz49Mt1f5SFJlARlcTeu0hWlWkmQB375OUmXqq8ZoKzUbtGrQotbncIo3x0HSNYJBlXf4I+xpsQkJG1DSJKZviLz/gxhWXkAxE/T6pcU5LKhwPMvgzpoSw/bOmUdGTCa3VrhvdLM/QNPr+wvEEpn+zlaxedtMaFHWVX1N/KQkbCpDxar3yb6AaGk+T9om8TXgdmjX4H+HRhT5417OMbLboVAJAFnUOwKJgFWL7UYeD+6kMn+fUhjCYaGGx8ZJ0fCbwp8QkppDVCL74t9n1Tnakn/C+wRYzyOOiyeJ2AGAEloQmLr9h2yr01KKVrp2pMMMR1QxxvsQ=;vYB4CugtHcj/HeOm1IpHZQ=="
+secured: "ViYn6h7kcoBLDhwnWwot0HfxAaaHXvlHnE7/ODlslK2nNef0p/EXlinE0b56QVVZh1h/2QpNtGrolBFUqEdRaocj3eqyfULPvAbeegzpeO82S84d4EwDd+e+ARbWkHQ8BhhcUxL93+OoEiQRNHtxHdPyMhkg8HUmfzNVmJ5Y1aSCl4wRDkH5Mf1tS6TN+1Tk9ImM2CJkj26qLGFgA78K8TwXrv7sY/+Dhb7zTRJxwYLtBXkBjlmmUjzKxCcdjeEYMjx3q44S12CtA6cYA2Fcq5Iv7WkBoGFqyA0H533zY+Bxlm9NvssSsIthEoxoigHMgQLFGFh+4YazcEdXksI05cvB5jWo27JPnG9/adAO9UQ=;fk/czgxFxwLK9r2ruNJ1ag=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-29-how-the-public-clouds-are-innovating-on-ai.md",
+      "title": "How the public clouds are innovating on AI",
+      "excerpt": "Companies without the resources to develop in-house machine learning models are turning to the big cloud providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html",
+      "publishedDateTime": "2021-11-29T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-south-america-artificial-intelligence-in-marketing-market.md",
       "title": "South America Artificial Intelligence in Marketing Market",
       "excerpt": "The artificial intelligence in marketing market in SAM is expected to reach US 11 291 23 million by 2028 from US 1 728 64 million in 2021 The market is estimated to grow at a CAGR of 30 7 from",
@@ -554,7 +607,7 @@
       "originalUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -658,7 +711,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1192,58 +1245,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-vibrating-sleeve-gives-wearers-a-feel-for-languages.md",
-      "title": "Vibrating sleeve gives wearers a feel for languages",
-      "excerpt": "For the past year or so, a student team from the Eindhoven University of Technology has been working on a wearable that could allow folks to understand what's being said in another language through vibrations on the arm.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
-      "originalUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0af92a6/2147483647/strip/true/crop/5000x3333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2F86%2F1b496d894a838893aaf9744a2057%2F1115-66cb700208516f8a063418572da51f8c.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
-      "publishedDateTime": "2021-11-25T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

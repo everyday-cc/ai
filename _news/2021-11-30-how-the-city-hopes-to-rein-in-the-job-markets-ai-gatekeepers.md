@@ -69,6 +69,20 @@ related:
         width: 1199
         height: 799
         isCached: true
+  - title: "The Role of Artificial Intelligence in Pioneering the Retail Industry"
+    excerpt: "The retail industry's digital transition has been ongoing for a long time. Data and predictive analytics tools are helping organizations make data-driven decisions in every aspect of retail business,"
+    publishedDateTime: 2021-11-30T04:43:00Z
+    webUrl: "https://www.cioreview.com/news/the-role-of-artificial-intelligence-in-pioneering-the-retail-industry-nid-34682-cid-38.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 52
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/oh5vt.retail.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Our award-winning AI is no threat to lawyers"
     excerpt: "Monaco Solicitors won the 2021 Law Society Award for Excellence in Technology and Innovation for our Virtual Lawyer AI employment law advice project. We are proud to say that our Virtual Lawyer tool is helping increase access to justice by making legal advice in employment law available for free for tens of thousands of users."
     publishedDateTime: 2021-11-29T00:01:00Z
@@ -98,6 +112,6 @@ related:
         height: 800
         isCached: true
 
-secured: "egtCdbK5O6xWRd6rx9TsvelIG3j33QBSCrAwgjicIxKBbuiUUou+5NEI/yHkeM1Oe+p+vP5mQH0wy1txOaOwNoCUYAo1U93YvfMlro2aAzsu4/SVL2XEKJQQ48bC9HlziaaBS33N81Ccc2dmS76bvWDz4eZTF9AM+B151rD3Lr/TF0f78IvZGgr4OCI9K05gYTsKyza36VU2GHjkaS5KDGt0Py5OlOmlRmE9bIO/AqYkqbbD+joUE2rLTl2k1h7lqEsItBC8a6nqqh5GlFbtlvNmunELduo6aKt3Nx98fveZc+nKYrnK9v2gO03jiZkaLWvwHgKBKTrw1qXf3PUzv+FgHHFzoQEgzfxpmgwR088=;4T6RH7wAjUKmW7tBxpZE+g=="
+secured: "LeQXXZONIKFNQCwzSkXV4sR03Fn73eLe5CbGJMrsacWGm8i02IahAdXAXlzvyPZxitHzijbZCQvBQPfMTDxrcvTJ52CNVPCJh1j6TQwCMznT3DPAhcLPHRWfhMaHO7+Tx28Std6ixgCq8PdGZ2qUk9iOc6wp/4KIJSkffgXNLb1I8TltCKNizbomi0EqCHvq5PUCkM48BuJW0Bsx290Tc+anAtmcMsOAvWlo9jQWdnXyohiD2YL3s6SRAX2Uq5Y8ZSODx7hAzioPyog3TAPuDnb1nFrh2CwaFqVdeFjD1GRsRL8OISSKOTiP5HkL8ElQMyy1ToRhM9GURAq3ynITgn16CAHYxAw6VRLbwtB/S33I/3EjM+2xvt8RfTCRzqJmNIAK2yfmIO9kDS+o2ozNhqlfqpyQCFYfURnwTvz7blQDR6Ejh5ADPLYdECVA8d7lEnG5DMAjrUDuAZ+jIrk3kVZ7rT2MI9pksBotYE7J4RGjdNQlN/5nHsvx6GcCYuItL+/5t/c4U8Kqow+vfBfmnw==;wV7qJBQGEJ5kLBSaynP0aA=="
 ---
 

@@ -2,6 +2,48 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2021-09-15-truic-releases-more-ai-powered-startup-tools.md",
+      "title": "TRUiC Releases More AI-powered Startup Tools",
+      "excerpt": "Over 30 million small businesses operated in the U.S in 2020. The U.S. has more unicorn startups than any other country TRUiC released a suite of free",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/09/truic-releases-more-ai-powered-startup-tools.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/09/truic-releases-more-ai-powered-startup-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/09/Business-startup-image-9489494.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/09/truic-releases-more-ai-powered-startup-tools.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/09/truic-releases-more-ai-powered-startup-tools.html/amp",
+      "publishedDateTime": "2021-09-14T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone.md",
       "title": "This invisible AI-powered keyboard used an NVIDIA GTX 1080 Ti to help you type faster on a smartphone",
       "excerpt": "A group of South Korean researchers have developed the Invisible Mobile Keyboard, letting you type into your smartphone without needing an on-screen keyboard.",
@@ -1025,49 +1067,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-a-project-to-translate-engineering-books-into-hindi-vernacular-languages.md",
-      "title": "A project to translate engineering books into Hindi, vernacular languages",
-      "excerpt": "Using this AI-based translation engine developed by some ... a \"commendable initiative to translate technical books in Indian languages, which has the potential to unlock the intelligence and ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/articleshow/86199294.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/articleshow/86199294.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-86199506,width-1070,height-580,imgsize-1165802,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/amp_articleshow/86199294.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/a-project-to-translate-engineering-books-into-hindi-vernacular-languages/amp_articleshow/86199294.cms",
-      "publishedDateTime": "2021-09-14T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

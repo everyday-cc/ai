@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "A bunch of robot vacuums and smart home gadgets are on sale for Black Friday"
+    excerpt: "Here are the best smart home and kitchen deals for Black Friday, including discounts on Instant Pots, robot vacuums, smart lights and more.."
+    publishedDateTime: 2021-11-26T18:07:00Z
+    webUrl: "https://www.engadget.com/best-robot-vacuum-smart-home-kitchen-deals-black-friday-2021-174554281.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 66
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2020-10/6f4230f0-0be4-11eb-b3f6-db9714009fa4"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "The best Black Friday deals on robot vacuums: Roomba, Shark, Samsung and more"
     excerpt: "A robot vacuum, or robot vacuum with a mopping feature, can be a game changer for your chores list, especially around the holidays. Luckily, Black Friday is here, and there are plenty of deals on household gadgets to take advantage of."
     publishedDateTime: 2021-11-26T19:38:00Z
