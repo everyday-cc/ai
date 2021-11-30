@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 1277
         isCached: true
+  - title: "FinTech Trends to Watch Out for in 2022"
+    excerpt: "The Fintech industry is completely focused on leveraging cutting-edge technology to make financial transactions more engaging for customers/users across"
+    publishedDateTime: 2021-11-30T06:53:00Z
+    webUrl: "https://techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/"
+    ampWebUrl: "https://techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/amp/"
+    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/amp/"
+    type: article
+    provider:
+      name: techspective.net
+      domain: techspective.net
+    quality: 44
+    images:
+      - url: "https://techspective.net/wp-content/uploads/2021/11/pexels-anna-nekrashevich-6801874-scaled.jpg"
+        width: 2560
+        height: 1843
+        isCached: true
   - title: "4 FinTech firms providing collateral free loans to women entrepreneurs"
     excerpt: "FinTech companies have bridged this gap by specifically offering financial assistance to women, in the form of loans. Several"
     publishedDateTime: 2021-11-29T08:11:00Z

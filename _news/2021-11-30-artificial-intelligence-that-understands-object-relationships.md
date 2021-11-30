@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-relation
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-relationships.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -42,6 +42,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-model-3.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence That Understands Object Relationships – Enabling Machines To Learn More Like Humans Do"
+    excerpt: "A new machine-learning model could enable robots to understand interactions in the world in the way humans do. When humans look at a scene, they see objects and the relationships between them. On top of your desk,"
+    publishedDateTime: 2021-11-29T10:30:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-that-understands-object-relationships-enabling-machines-to-learn-more-like-humans-do/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-that-understands-object-relationships-enabling-machines-to-learn-more-like-humans-do/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-that-understands-object-relationships-enabling-machines-to-learn-more-like-humans-do/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Machine-Learning-Model-That-Understands-Object-Relationships-777x518.jpg"
+        width: 777
+        height: 518
         isCached: true
 
 secured: "DsGtrCZO2LDaFwil5PNRTWII2UF7Qdqg1ma7GWj6RFsucmwsJYS5afb4s3POL8C3goF5JKYRrJRobx8s+teBwi37Ybadwl/Tta1I7lkhFMi1fTAWiCwHrBD5ndrMoWXB22MIDic8O7yudprLuPQGwar3c7obADjMk3qlKYHFOaK7sf2DbYmVBYaCrRMWOfppbcONj39s4Y2HGJaart9ocsl+NS3MFhNUAjUMpu5FnSjcMqCb5tolJ9X60M4i14tv9Sx7Qq2oYpt/06N43cDUvtQJ26moNiErKAmq00jBezjhLvUhEi3w7PAmjg7EMFfZJVy6fGCCkf70CEHj4ZEdLWl+dfjhTYOCn1JGzsDHR5BmQak1cUDFl6SBFT/6oLbN3YSCELFrNcyJXV4q3LfIt2Mq7KsuhuInaeUUSgUvCj/n4DyyIUiBD4RCJcqG0WUaLwaGCpp1zB/Bx3FhVzKP/wMVjRHQpcOM/X7U8IYaHwkUjz5qPkgf8+wL/Lbb/3N6u8aU7Z0PEuZ5hLutSK4NtA==;qs6mvIlp4WW7QihEE4wmGg=="

@@ -47,6 +47,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Clearview AI, a facial recognition company, is fined for breach of Britain’s privacy laws."
+    excerpt: "The Information Commissioner’s Office said it fined Clearview AI for failing to inform British residents that it was collecting billions of photos from sites including Facebook, Instagram and LinkedIn to build its facial recognition software."
+    publishedDateTime: 2021-11-29T23:57:00Z
+    webUrl: "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.html"
+    ampWebUrl: "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 94
+    images:
+      - url: "https://static01.nyt.com/images/2021/11/29/business/29clearview-1/29clearview-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "U.K. privacy commissioner fines Clearview AI $22.6 million."
     excerpt: "The Information Commissioner’s Office said it fined Clearview AI for failing to inform British residents that it was collecting billions of photos from sites including Facebook, Instagram and LinkedIn to build its facial recognition software."
     publishedDateTime: 2021-11-29T16:09:00Z

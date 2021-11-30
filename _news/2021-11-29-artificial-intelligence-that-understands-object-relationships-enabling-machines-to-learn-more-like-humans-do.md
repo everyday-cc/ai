@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Talking sense: using machine learning to understand quotes"
-    excerpt: "The Guardian’s data scientists have been working with other newsrooms on a global project to think about AI and journalism. Here they explain how they have been teaching a machine to understand what a"
-    publishedDateTime: 2021-11-25T14:01:00Z
-    webUrl: "https://www.theguardian.com/info/2021/nov/25/talking-sense-using-machine-learning-to-understand-quotes"
-    ampWebUrl: "https://amp.theguardian.com/info/2021/nov/25/talking-sense-using-machine-learning-to-understand-quotes"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2021/nov/25/talking-sense-using-machine-learning-to-understand-quotes"
+  - title: "Artificial intelligence that understands object relationships"
+    excerpt: "When humans look at a scene, they see objects and the relationships between them. On top of your desk, there might be a laptop that is sitting to the left of a phone, which is in front of a computer monitor."
+    publishedDateTime: 2021-11-29T20:49:00Z
+    webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-relationships.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: techxplore.com
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://i.guim.co.uk/img/media/67f98e4dedc0ff5866a826a2894bf5f5e4aabef3/0_166_5886_3531/master/5886.jpg?width=620&quality=85&auto=format&fit=max&s=c4e6727e3373a99666d9a708a2a85638"
-        width: 620
-        height: 372
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-51.jpg"
+        width: 900
+        height: 370
+        isCached: true
+  - title: "Machine-learning model could enable robots to understand interactions in the way humans do"
+    excerpt: "When humans look at a scene, they see objects and the relationships between them. On top of your desk, there might be a laptop that is sitting to the left of a phone, which is in front of a computer monitor."
+    publishedDateTime: 2021-11-29T15:18:00Z
+    webUrl: "https://techxplore.com/news/2021-11-machine-learning-enable-robots-interactions-humans.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-machine-learning-enable-robots-interactions-humans.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-machine-learning-enable-robots-interactions-humans.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-model-3.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "wMNmARSGTwx9di6fPYbwp5gwvm6sFlQbAtST72IhKi5imTFFafz1v1kgI1aRIcvk4ZnxlnwZLKGocLRHnMYrFsOymjguiYf9mU0cbm7rpgn2LryIFmUnbFEVuP8c5vIGZZA9Idx8eTgBjrpLRP+dz/gHoxm5/9ANBeKXbYluJeUVdofPLZ9wIvV6HPM84Ey3NNiNnTQrNLI++/9zxUHeZpUCKnS/XeUGwXuK9U5KVfITDgAYzA/GC2vF6klws8ML9gIHkfoceCT8PebVxLnrBn8loQBqcCMhXpxD350RpD2QtR1Hy39yjRNf/VAIBGUbKYs0HKD4A1z+Yn85kFA8x6KlOilYEUUsI4zejn/Tdyg=;Cy7tk72TDr9rwa+I1KXCKQ=="

@@ -12,9 +12,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - Computer Vision
-  - AI
   - AWS AI
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -22,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "HyrCAab/ftSI3LiXWG/5nNe2dMXcaiyTHa/9iT09qodOf9aEsetc5eFjreCgUpfIH+J4/30WNgZRYF5TvofwAwUc2yCex3lwneemmlBZLesh5jqCnXs6fTz4lrSWiO8EICe6QX623NKiccRdUeykrhlj15Fnha8EjzZr9E6IP/HgaHF31bhd2MvW1LuNaBMS8zkeX7eX9iU7C/i/EtC2qui+c8RqlUwfEXVzfsVVmQ0PTF/ngq99R6Hd74RR8F7fFs49b4g+WhAI8RgCPkKQYiTDOz9WrQrlMzJzn6P6UzFxGHRpPR2u6CK2TT7MvuFx47Q5cRLJlWYw1+OU27XtPLRX68cfXtNZGvpFfCpBcJQ=;rzIBZ9u9YvcSs7Ky2ckmHg=="
+secured: "BHiusgUkBPsvpkyCyDjmS2MdpOXsUPAsaY7HCD2TDKpwttoNlVvauV06n9gVp1fclJr/fOiXYwhMsS5lxgtaJ/A7rnD7sQ4qadND3LoZOY9t8XLkxbslZZAaGH5EeaDZAazixt3hmspYKQ7DoXAJ4/uhvkQDA/sI0XRNSNwFtctTICwVvy4pQwNlUa3S8QdMgeUqb4KZe66JNqr4bTxjNHUIXJXF/wwaHhyAVvH8BaLi0jHy2mYffm7pY78Zmfi+DMXIBZ4IZ207uDFq03SWXJenTeCb8+F1cRqsEvpu2ETB4lUxj/MzuXfeqVzYy8TUB7ExWsSl2SBDaqB3+KXr28fnMlqGaO0UIvE96IpjmeA=;CWcvGOz2F6GYcwRYHNg8pg=="
 ---
 

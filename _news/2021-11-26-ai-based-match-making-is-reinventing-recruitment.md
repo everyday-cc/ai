@@ -28,33 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Top Five Ways Artificial Intelligence Is Improving Investment"
-    excerpt: "This saying could not be truer, especially in modern times, as Artificial Intelligence governs everything we do from search to virtual assistance."
-    publishedDateTime: 2021-11-25T14:49:00Z
-    webUrl: "https://www.insidermonkey.com/blog/top-five-ways-artificial-intelligence-is-improving-investment-1006088/"
+  - title: "AI is making applying for jobs even more miserable"
+    excerpt: "The platforms say the process is fairer and less biased than human recruiters, leading to better and more diverse candidates making the cut. Of course, there is fierce debate about whether algorithms could in fact reinforce human biases rather than eliminate them."
+    publishedDateTime: 2021-11-30T05:00:00Z
+    webUrl: "https://www.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
+    ampWebUrl: "https://amp.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 37
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/30060223/adam-nowakowski-MFms-wkv3Ow-unsplash.jpg"
-        width: 1920
-        height: 2880
-        isCached: true
-  - title: "VA AI strategy outlines data, workforce investments needed to improve veteran care"
-    excerpt: "To accelerate the agency’s AI capabilities while ensuring safety and trust, the VA adopted an enterprisewide AI strategy in late September. The strategy outlines steps VA is taking to upskill its workforce and partner with other agencies."
-    publishedDateTime: 2021-11-29T21:37:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2021/11/va-ai-strategy-outlines-data-workforce-investments-needed-to-improve-veteran-care/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 33
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/04/AI-featured-gif.png"
-        width: 435
-        height: 290
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14cf9789-78fa-445f-900a-c626ed5f5af7.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "7Dvbpvy86tIbIQJc5Z7UJt8hYP+1WTHzcl5XRtYbon8IFRO0rFLaz/hUw28Ty0N0cj9kk4QP7d8Hx8lDpJ6aA4Vl0Ef4y2RzdjbHYWg7tjNDkm91l/nAX10Rgk/qnbJ7Fm49PMUZ8i3mlZtqlApvKazazHlEVIiUILy+kp6rH6dJ6psb8PMQpTZW1XU/fx9HRZfpV+vWRBpnunonAAii3tHYJ//LbD/keDMukv057YT+O6ccnhtPCOzuO+kb1pKEX5vmIxZJ8fwZH9CSGwyOqSGVU/3eiOWB1FuEUjmvxv2M2yPDKhJ2jSWZF8A8LdWsR31WC+32SO9PBVSIO/1k/9+24GtCg5O6hNgVH7cN+X9Vqoe0VlN0w698o8mhZIGXOs9sYNMCM+vLEP3gzovIEKgNwFS8l1CA+28Hycc9pVeajeCvQXU8QR3wSVX2DZX0iMN8dDqexkjhoI29q0j8S+9eKKRk7ax6uzNXPAww9HKrbyyWv0CDzPDCF7j1MfkWskTU0gzw5gPwO1Jjcb42kw==;Iyb9IbjVKRycUPSWxb5gTQ=="

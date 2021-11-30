@@ -97,7 +97,7 @@
       "originalUrl": "https://www.buzzfeednews.com/article/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -318,9 +318,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Computer Vision"
       ]
     },
     {

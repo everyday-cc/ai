@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-f
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2.jpeg"
         width: 1280
         height: 1277
+        isCached: true
+  - title: "FinTech Trends to Watch Out for in 2022"
+    excerpt: "The Fintech industry is completely focused on leveraging cutting-edge technology to make financial transactions more engaging for customers/users across"
+    publishedDateTime: 2021-11-30T06:53:00Z
+    webUrl: "https://techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/"
+    ampWebUrl: "https://techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/amp/"
+    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/amp/"
+    type: article
+    provider:
+      name: techspective.net
+      domain: techspective.net
+    quality: 44
+    images:
+      - url: "https://techspective.net/wp-content/uploads/2021/11/pexels-anna-nekrashevich-6801874-scaled.jpg"
+        width: 2560
+        height: 1843
         isCached: true
   - title: "10 Reasons Why Fintech's Great for the Future of Franchising"
     excerpt: "Exploring ways fintech can improve franchising, from offering better security using biometrics to improving user experience through contactless payments"

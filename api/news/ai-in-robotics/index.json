@@ -141,6 +141,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-30-artificial-intelligence-that-understands-object-relationships.md",
+      "title": "Artificial intelligence that understands object relationships",
+      "excerpt": "When humans look at a scene, they see objects and the relationships between them. On top of your desk, there might be a laptop that is sitting to the left of a phone, which is in front of a computer monitor.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-51.jpg",
+          "width": 900,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-relationships.amp",
+      "publishedDateTime": "2021-11-29T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-worlds-first-living-robots-can-now-reproduce-scientists-say.md",
       "title": "World's first living robots can now reproduce, scientists say",
       "excerpt": "The US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals.",
@@ -496,7 +539,7 @@
       "originalUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1399,40 +1442,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots.md",
-      "title": "ABB partners with start-up Sevensense to drive next generation autonomous mobile robots",
-      "excerpt": "ABB invests in Swiss start-up and ETH Zurich spin-off Sevensense Robotics (Sevensense), a leading provider of artificial intelligence (AI) and 3D visual technology • Integrating Sevensense AI and navigation technology will enable future autonomous mobile robots (AMR) to work in more dynamic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-15-supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of-servers-storage-ai-solutions-and-liquid-cooling.md",
+      "title": "Supermicro Accelerates Delivery of HPC Clusters for Total IT Solutions with a Broad Portfolio of Servers, Storage, AI Solutions, and Liquid Cooling",
+      "excerpt": "SAN JOSE, Calif., Nov. 15, 2021 /PRNewswire/ -- (SMCI), a global leader in high-performance computing, storage, networking solutions, and green computing technology, is expanding its HPC",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of/article_865cc186-9aa1-5a5b-b872-4ee8f9d03101.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of/article_865cc186-9aa1-5a5b-b872-4ee8f9d03101.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/3a/53a81a4e-073d-5103-880b-c68e54128eb4/6050c59ad4951.image.jpg?resize=1200%2C617",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-astera-labs-announces-memory-acceleration-to-clear-datacenter-aiml-bottlenecks.md",
       "title": "Astera Labs announces memory acceleration to clear datacenter AI/ML bottlenecks",
       "excerpt": "Astera Labs announced a memory accelerator platform based on the Compute Express Link (CXL) standard for datacenter devices.",
@@ -1407,58 +1450,6 @@
         "name": "WTEN",
         "domain": "news10.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-better-ai-stock-nvidia-or-palantir.md",
-      "title": "Better AI Stock: Nvidia or Palantir",
-      "excerpt": "Nvidia (NASDAQ:NVDA) and Palantir operate in different sectors, but both tech companies are profiting from the secular expansion of the artificial intelligence (AI) market. Nvidia",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "originalUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F649882%2Fgettyimages-664246660.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "publishedDateTime": "2021-11-04T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

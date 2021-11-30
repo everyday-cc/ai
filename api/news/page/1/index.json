@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-30-samsung-brings-three-automotive-chips-for-5g-infotainment-read-details.md",
+      "title": "Samsung brings three automotive chips for 5G, infotainment. Read details",
+      "excerpt": "Samsung has introduced three of its latest automotive chip solutions; the Exynos Auto T5123 for 5G connectivity, the Exynos Auto V7 for in-vehicle infotainment systems and the ASIL-B certified S2VPS01 power management IC (PMIC) for the Auto V series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html",
+      "originalUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/30/600x338/LSI-Automotive-Solutions_main1_1638251508275_1638251513779.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html",
+      "publishedDateTime": "2021-11-29T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-us-robot-manufacturer-to-pay-15-crore-to-claim-rights-for-kind-and-friendly-human-face.md",
       "title": "US Robot Manufacturer To Pay 1.5 Crore To Claim Rights For 'kind And Friendly' Human Face",
       "excerpt": "A tech company named Promobot is seeking a face for its next humanoid robot. The face of the person will be used for appearance of robots in places like malls.",
@@ -434,7 +477,7 @@
       "originalUrl": "https://www.buzzfeednews.com/article/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -578,6 +621,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-artificial-intelligence-that-understands-object-relationships.md",
+      "title": "Artificial intelligence that understands object relationships",
+      "excerpt": "When humans look at a scene, they see objects and the relationships between them. On top of your desk, there might be a laptop that is sitting to the left of a phone, which is in front of a computer monitor.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-51.jpg",
+          "width": 900,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-relationships.amp",
+      "publishedDateTime": "2021-11-29T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1095,92 +1181,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots.md",
-      "title": "Tech firm will pay you £150,000 to sell your identity to its robots",
-      "excerpt": "Promobot is on the lookout for a face for its humanoid robot assistant which will work in hotels and shopping malls.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/",
-      "originalUrl": "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2021/11/PRI_212088133.jpg?quality=90&strip=all&zoom=1&resize=600%2C401",
-          "width": 600,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/",
-      "publishedDateTime": "2021-11-29T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots.md",
-      "title": "How CVS Is Using IBM Watson's AI to Encourage People to Get Their Flu Shots",
-      "excerpt": "The company has teamed up with IBM Watson Advertising to create a campaign that attempts to identify and target at-risk areas before the flu hits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/",
-      "originalUrl": "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2021/09/billboard-vital-health-2021-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/amp/",
-      "publishedDateTime": "2021-11-29T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }
