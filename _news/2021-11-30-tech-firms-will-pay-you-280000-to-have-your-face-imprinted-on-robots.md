@@ -41,6 +41,20 @@ related:
         width: 600
         height: 401
         isCached: true
+  - title: "Russian Robotics Firm Will Pay You $280K To Use Your Face & Voice On Its Next Robot"
+    excerpt: "Take your robot dancing 'next level' by becoming an actual robot with this highly profitable, albeit ridiculous stunt."
+    publishedDateTime: 2021-11-30T21:00:00Z
+    webUrl: "https://www.bandt.com.au/russian-robotics-firm-will-pay-you-280k-for-letting-one-of-its-robots-use-your-face-voice/"
+    type: article
+    provider:
+      name: B and T
+      domain: bandt.com.au
+    quality: 50
+    images:
+      - url: "https://www.bandt.com.au/information/uploads/2021/11/Screen-Shot-2021-11-30-at-3.46.35-pm-707x500.png"
+        width: 707
+        height: 500
+        isCached: true
   - title: "Would YOU apply? Tech firm will pay a brave volunteer £150,000 to use their face on its ROBOTS which will work in hotels, shopping malls and airports by 2023"
     excerpt: "In its latest campaign, New York-based Promobot is seeking someone with a 'kind and friendly' face, to be used on a humanoid robot-assistant."
     publishedDateTime: 2021-11-26T08:53:00Z

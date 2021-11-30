@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Our global agreement on AI could reduce bias and surveillance"
-    excerpt: "Nearly 200 countries have signed up to UNESCO's agreement on the ethics of artificial intelligence. This could help make the technology fairer for all, says Gabriela Ramos"
-    publishedDateTime: 2021-11-26T06:00:00Z
-    webUrl: "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/"
-    ampWebUrl: "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/11/24163708/PRI_211829081.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "193 countries adopt 1st global agreement on Ethics of AI"
     excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
     publishedDateTime: 2021-11-26T11:59:00Z
@@ -70,20 +54,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-    publishedDateTime: 2021-11-26T05:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271808320/193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence"
+  - title: "Ethics of Artificial Intelligence: 193 countries adopt the first global agreement"
+    excerpt: "UNESCO addresses the ethics of Artificial Intelligence, adopts text defining common values and principles needed to ensure healthy development."
+    publishedDateTime: 2021-11-26T09:21:00Z
+    webUrl: "https://www.itp.net/news/ethics-of-artificial-intelligence-193-countries-adopt-the-first-global-agreement"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 48
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: GDPR fines
+      domain: itp.net
+    quality: 33
   - title: "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
     publishedDateTime: 2021-11-27T06:16:00Z

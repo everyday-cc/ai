@@ -41,7 +41,21 @@ related:
         width: 960
         height: 564
         isCached: true
+  - title: "Macau expands facial recognition on surveillance system used in one-third of investigations"
+    excerpt: "The ‘Eyes in the Sky’ facial recognition and license plate reading system has been used in more than a third of recent criminal investigations."
+    publishedDateTime: 2021-11-30T20:52:00Z
+    webUrl: "https://www.biometricupdate.com/202111/macau-expands-facial-recognition-on-surveillance-system-used-in-one-third-of-investigations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
+        width: 1200
+        height: 914
+        isCached: true
 
-secured: "cGlDX5SSZpzZ0oTt41ly1s0rDdz4sgEfK30nVVqGcrkzRTUACLNV0xeS0G/YHzHVlQ38luG11CRhqS1IZKn0YPgwH0u+R+kjSnIQQfO+uRTDXyf6mr8Z3a+r35j7Bax3lgj3iVQn+aTV+JtGln5U1j0pdQzlmw0PbTC63UfPe7gYyUuyTDyK7ryEACj2WvvTYT531O1WrRaU4+bxyd1mq4IYsIz18AEy/T2GjsQ7SLVETgg1GxgM4rZCa2Tpb8VHBmLI5Xm6GIgXGNrF0v8ptKbKXlIdsnkIIaoCe956/ju0XOz1OUAumc7CIE0BRxzv7DK4C95WuIAbDTg9VlIpyofkbC8cjRXItO3ykTjQBjE=;McEJcajeV6yMkDIZqjM2fA=="
+secured: "ZiOtC1wu7M47Sn/+Dm3qajJ8DrtbKjn8rzcPDtAoCjgFYLdBjK70a1KHdRbMBgw5qqX7Po+dit6oep6/isJ3D8N1TS4s5loc8ibvvVdjtht6qZSPehzjSl9+cHMnKEAP4MpYyxb6WoqdjPBDwLimPqKcecWZRiK/mburw5wN1Ctn91qXB3YNb3r8K0b+rXVOlzLj3jMChbOzzu58wySWPHRL8mjyZOiMUBCEQYbClXNcPn76/UgNTOfTJD5vP97LmGlT8d1Zx/Vniq2tCwjp+Laejtbq0iNfPR/JHgkbmQ1YG/9hDu0ZuGIKdgFaEonzQTrpw2M8I3iW0sU59dwABWkQx3axs5KnwiOe4OQzRq/dNfjjpoER5YE2FlnVQlPwboHxhSnJq883ikTBhawCiesG2g9tehlNxbFAQJD6w1hREbE6vp1OVNMvTw1nGWLB4uBPVt8EEG94djZlmq5Ms/WNU7MtVJdsROn/SJMQGtnAZRE6IdTw2YmsaTnD8KEtSkhADi/ypP3cfj4J6QNlUQ==;VHmixohGnN8HhFubDpRbfw=="
 ---
 

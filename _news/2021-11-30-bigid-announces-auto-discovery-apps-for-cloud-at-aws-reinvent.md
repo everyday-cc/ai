@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AWS kicks off re:Invent with compute, networking, and data launches"
+    excerpt: "New AWS CEO Adam Selipsky fired off a barrage of new product announcements in his first AWS re:Invent keynote."
+    publishedDateTime: 2021-11-30T21:00:00Z
+    webUrl: "https://www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.html"
+    ampWebUrl: "https://www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.techhive.com/images/idgnsImport/2015/08/id-2958856-reinvent_2015_03_keynote_1-100601984-large.jpg?auto=webp&quality=85,70"
+        width: 700
+        height: 466
+        isCached: true
   - title: "In-Person AWS re:Invent 2021 is Back!"
     excerpt: "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly."
     publishedDateTime: 2021-11-29T13:23:00Z
@@ -86,6 +102,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
         width: 594
         height: 315
+        isCached: true
+  - title: "AWS Rocks with New Analytics, AI Services at re:Invent"
+    excerpt: "With classic rock tunes playing, Adam Selipsky took the stage for his first re:Invent keynote as the new CEO of AWS, the $60-billion cloud juggernaut that"
+    publishedDateTime: 2021-11-30T21:11:00Z
+    webUrl: "https://www.datanami.com/2021/11/30/aws-rocks-with-new-analytics-ai-services-at-reinvent/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/selipsky_aws.png"
+        width: 1475
+        height: 1051
         isCached: true
   - title: "What To Expect From AWS re:Invent 2021 Event?"
     excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."

@@ -1,23 +1,47 @@
 ---
 category: news
 title: "Behavox Finds Financial Services Fraud 10 Times More Likely on Voice Platforms Than in Text-Based Communications"
-excerpt: "\"Rogue traders are wising up and moving their conversations to video platforms and the telephone from written text communications,\" said Erkin Adylov, founder and CEO of Behavox. \"Voice platforms are the new dark alley of financial fraud."
-publishedDateTime: 2021-11-30T13:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-behavox-finds-financial-services-fraud-10-times-more-/2021/11/30/9501273.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-behavox-finds-financial-services-fraud-10-times-more-/2021/11/30/9501273.htm"
+excerpt: "Behavox, which provides insights to protect enterprises and their employees from illegal, immoral, and malicious behavior, today released proprietary workplace data that found rogue trading in the financial services industry has soared over"
+publishedDateTime: 2021-11-30T14:02:00Z
+originalUrl: "https://www.lelezard.com/en/news-20131505.html"
+webUrl: "https://www.lelezard.com/en/news-20131505.html"
 type: article
-quality: 0
-heat: 0
+quality: 3
+heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "M4idVDNtirJdt6Hhv1wyNEBo3RPXnQqySYa1mu3DBZRHDpkcmQP0I2NuAj9oCX01KGqgBykb3DKdzquk2j895T9CpWi0Cf0pbxfUGyZ3J2r87Jc4Yv7FebR5iR10m/41RkuLtH/lnb3QJp1nSWexa1zSd9QmvAcAKDynqKRVuIbALgZnwBwlA+xTuSDjP9XNUIVDueEZcXCx55In5pHgs5LQKtZ4G15983boPuK49UaGElvZRdyFbccm+eazR6bqAlp0cRShabrYqlgvFVNhS96apN4zUSmeYR0RvtwPGC2Yk04jsl9tUzqUYIsLkDOf0zhNPdAOXxzxPpcqOVqBavMkmmAuEnhvEnxK9o3gKe0=;lzQMFzhqAScD40WgvRxjqg=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+related:
+  - title: "Three Critical Facets For Financial Services To Succeed In The Digital Future"
+    excerpt: "We are at an apex of digital transformation, and precision analytics is driving the most successful innovation initiatives across many industries. The unequivocal rise of the connected ecosystem has forced consumers to engage across digital channels,"
+    publishedDateTime: 2021-11-29T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197a677f53d14e9ec8aedae%2F0x0.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+
+secured: "GAem2dB4+Fmdwq8OyiquOu8S++dbk+FdHl8KgnyvkXIBOrjVP6C8ycDTFc0a7Ks9jQG5TUwzWE2xCQu/ozciztJcmvPlGPZ0Ez/zgmR0LCU15Qriei8a2xKcdWmThacr4BgXiDJ/rmcc3L0TpC9UE2C3XlAk9zXYkhrWy3IpTmPIbz7dYB4YzgvwHBdNzUu/IxDNIGkAnDIqmW3suF2DdqPDtR+bR2vHw48rj3118g7+50FOkAVzTsd4aomcAbn+oVXtwVyAkBSuSWNSmRxgO9VVr2/2QCExRPfttubIGo0NGg/UBQxT+M5zeIuzElapMdvZavHw2XpkdSN35fHqOIM3q8YoPFHg8s7ckIFXKiQ=;ne46OI1cxbKVayvhDdbdiQ=="
 ---
 

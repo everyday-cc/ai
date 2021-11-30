@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/creepy-humanoid-robo-artist-gives-public-perform
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/creepy-humanoid-robo-artist-gives-public-performance-of-1848127661/amp"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot artist to perform AI generated poetry in response to Dante"
-    excerpt: "Ai-Da used data bank of words and speech pattern analysis to produce and perform a work that is ‘reactive’ to the Divine Comedy"
-    publishedDateTime: 2021-11-26T06:00:00Z
-    webUrl: "https://www.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
-    ampWebUrl: "https://amp.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/nov/26/robot-artist-to-perform-ai-generated-poetry-in-response-to-dante"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 76
-    images:
-      - url: "https://i.guim.co.uk/img/media/0f0b6b4c0cadfc53c456086efad2e3638298d7b8/0_159_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7a8bd6acf965032c4fc0d1182f266d7"
-        width: 600
-        height: 360
-        isCached: true
   - title: "The Ultra-Realistic Humanoid Robot Ai-Da Breaks Boundaries Once Again"
     excerpt: "Ai-Da, the world’s first humanoid robot artist, and one of the most famous robots ever, continues to push the boundaries of “normality,” and make headlines with its daring achievements. After becoming the first humanoid robot to create artistic paintings,"
     publishedDateTime: 2021-11-29T09:37:00Z

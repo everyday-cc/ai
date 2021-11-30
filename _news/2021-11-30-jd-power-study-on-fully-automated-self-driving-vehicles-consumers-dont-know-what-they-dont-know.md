@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-jd-power-study-fully-automated-sel
 webUrl: "https://www.tmcnet.com/usubmit/-jd-power-study-fully-automated-self-driving-vehicles-/2021/11/30/9501254.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -20,19 +20,14 @@ topics:
 
 related:
   - title: "Government of Canada backs emerging leader in silicon chip photonics that produces navigation sensors for self-driving vehicles"
-    excerpt: "Canada's cleantech entrepreneurs are proving their power to take on today's environmental challenges. Working in partnership with innovative companies, the Government of Canada is supporting the growth of a greener economy."
-    publishedDateTime: 2021-11-30T20:57:00Z
-    webUrl: "https://www.lelezard.com/en/news-20133052.html"
+    excerpt: "Investment supports OSCP, a growing Canadian cleantech company, and will help advance the safety and accuracy of autonomous vehicles and drones. MONTRÉAL, Nov. 30, 2021 /CNW/ - C"
+    publishedDateTime: 2021-11-30T20:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-government-canada-backs-emerging-leader-silicon-chip-photonics-/2021/11/30/9501955.htm"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 13
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/environment.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "xYYWhS7AcChjS4rnjoKfkwFYXP/OqjiUdmS/vdF3OHjp/xIAsc30rLrZcivurkjCpbsVPLWrBrpthGoGrZqsDFoH+G957j+6NnBSHz2wn/d7QDgLIpv3KgNHI/d5PtqwpHQWtIxFBwp83hkqws/MML1LoS7mGKAQziOQibp23YQbwnb8xdfO6YZVYkycfS1gYP5weyEoVxoa5zIEjcLXIGrKJuf/o9PIvlGj1c3GAUd6DORh4+k8uKsYzP6FF1nD9LCbjAj/38bjKf4PUn0KnMD+y7GbQd6zVnlnDNzf5+/n3V78V2XS05zEAjeTppcolzn1WqD3rvqH1RVdetcfuHZcXYhN+qxx3v5JuFSdr2E=;h3uxxK2d72x8JftukJ1XWA=="
 ---

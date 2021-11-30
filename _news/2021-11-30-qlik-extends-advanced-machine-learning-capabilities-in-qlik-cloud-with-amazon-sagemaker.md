@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS launches SageMaker Canvas to enable no-code AI development"
+    excerpt: "Amazon Web Services Inc. expanded its artificial intelligence portfolio at AWS re:Invent today by launching SageMaker Canvas, a tool that enables business users to create machine learning models ..."
+    publishedDateTime: 2021-11-30T21:31:00Z
+    webUrl: "https://siliconangle.com/2021/11/30/aws-launches-sagemaker-canvas-enable-no-code-ai-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/SageMaker.png"
+        width: 930
+        height: 520
+        isCached: true
 
 secured: "cPHV6iB42NpbbjYS6lLmqjCFZN55mrNQDPSiGT4aLaFsa0pHgQ4UVMUvJ/l0JUoegMt3sLn0RCaesriCrTU2O9yYUszF199JW74mgQyGIU7b8/y+IBjca2UqL18m/JNfiGQ45SXb9theBv3XlobcT4YStJ9xUP7tIX85TZp8oPQ9XO2qQA2k/3DveZGjuEoo7wXG6An64BngHoiFR5CNoGSey7n7nJTfqrkuTiQd+0mtqXDfARV/zAAF+Klnxhxd8SDhyAL9aVRlzKDXfbbeBaksl9njMJscHfYtLBu+PQhoQ45MNcHR8/oib5v0QSjNFFsMGoEYss9owabpok+H5Q/agmdl6jLLz0X0sTL4wUjYpxj4YRYVmML7XThZK7zQRUFUV7BhU9xP6O5geNKH/rUn/rlx24iq00T1xCp93laVFzq3+SyzNtX7jpnSlWl2vgdHDfogdNzjhmZlUwihemfTFNsQ+YIoteOxSO2ddrKz8ptPmvSfn7AVbbKZZyhp6Ka2CVt2DKm2b3Lz+/FdlQ==;Tm2cUziutlIjZB23JMDWnQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS launches SageMaker Canvas to enable no-code AI development"
+    excerpt: "Amazon Web Services Inc. expanded its artificial intelligence portfolio at AWS re:Invent today by launching SageMaker Canvas, a tool that enables business users to create machine learning models ..."
+    publishedDateTime: 2021-11-30T21:31:00Z
+    webUrl: "https://siliconangle.com/2021/11/30/aws-launches-sagemaker-canvas-enable-no-code-ai-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/SageMaker.png"
+        width: 930
+        height: 520
+        isCached: true
   - title: "Qlik extends advanced machine learning capabilities in Qlik Cloud with Amazon SageMaker"
     excerpt: "Qlik deepened its work with Amazon Web Services (AWS) today with the release of an advanced analytics connector for Amazon SageMaker and integration with Amazon"
     publishedDateTime: 2021-11-30T10:46:00Z

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Government of Canada backs emerging leader in silicon chip photonics that produces navigation sensors for self-driving vehicles"
-excerpt: "Canada's cleantech entrepreneurs are proving their power to take on today's environmental challenges. Working in partnership with innovative companies, the Government of Canada is supporting the growth of a greener economy."
-publishedDateTime: 2021-11-30T20:57:00Z
-originalUrl: "https://www.lelezard.com/en/news-20133052.html"
-webUrl: "https://www.lelezard.com/en/news-20133052.html"
+excerpt: "Investment supports OSCP, a growing Canadian cleantech company, and will help advance the safety and accuracy of autonomous vehicles and drones. MONTRÉAL, Nov. 30, 2021 /CNW/ - C"
+publishedDateTime: 2021-11-30T20:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-government-canada-backs-emerging-leader-silicon-chip-photonics-/2021/11/30/9501955.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-government-canada-backs-emerging-leader-silicon-chip-photonics-/2021/11/30/9501955.htm"
 type: article
-quality: 13
-heat: 13
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
   - AI Hardware
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/environment.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "J.D. Power Study on Fully Automated Self-Driving Vehicles: Consumers Don't Know What They Don't Know"
@@ -36,6 +30,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "zKiRM88twypDfLSfErWHTSW7uCFfbYP5wwG4ewnQPxZ1SmrnP101NrXMooy3dQkHksd+B8BidRcVHr2582g7/de07BTiW9BjCN47lT1vKVbtkRQa/iLZ2kJM0dQ4zW2bkhU17UgjG8PFZDyEZz/kCyR3a7tQWK7PmyRaG4Cp4z3wEmv8EUPvKQGdiPDH2p5iWDcEPGLWq4YuCQrVMk9rT8V2OT0BRkqjmSA6DKipSUB5DVvb4dkTsM2GmmPHu6oyn7X1tybsnD28+miZP1AiIq8xF7mn8meM+FdevRpo5rOzYo25RqLwWiKpBU6CZIy1MhfS1tpAeH0RVn6d+ohNzy1ZwLvUmKs/pQfmXHMH+34=;4ISMYyzueIwSDigZu56UcQ=="
+secured: "94KdJAZ25HYF7SQr0GcwOO+0Fq6jSV7gb1QvVEmK40q6N1iojYZx2fYm8a0tgd6IZYfXmSHjwvsdDoZTK9lanS3YCZccuNCD1asxpRer5vQokw0yNozlPFsyqvYsY2UekWfx08B8wJvF0ya0sa1WsNwxCx4yQHSP3AoZ0GYnJU8uE1BQwSVk0Hg+dbL3DISbOBd2Im9NKs3iIlvB/kk5Vfw9TlQCXMz+9PzQ8TGHDUOAbvxdG0V3Tgi1csX0el5LMVhEL3MkIhYVrQrXbMIApak+lAmTh1FYuzm6Xraj/Mg/TOARB/yl0UIfVQ+aP7QtTW+ddu09GyKrXzhthgri9hdTZKcfvIkifhuSRLdsIMw=;wjz841pdjsMVuHHEPMLO2A=="
 ---
 

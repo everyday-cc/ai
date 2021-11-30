@@ -30,24 +30,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "Australia news live update: Dutton ‘a dangerous personality’, Keating says as China responds to speech; flood warnings for NSW"
-    excerpt: "Follow all the day’s news"
-    publishedDateTime: 2021-11-26T06:19:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2021/nov/26/australia-news-live-update-flood-warnings-as-more-heavy-rain-hits-nsw-australian-police-and-defence-personnel-fly-to-solomon-islands-religious-freedom-gay-students-teachers-scott-morrison-covid-south-africa-variant"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2021/nov/26/australia-news-live-update-flood-warnings-as-more-heavy-rain-hits-nsw-australian-police-and-defence-personnel-fly-to-solomon-islands-religious-freedom-gay-students-teachers-scott-morrison-covid-south-africa-variant"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2021/nov/26/australia-news-live-update-flood-warnings-as-more-heavy-rain-hits-nsw-australian-police-and-defence-personnel-fly-to-solomon-islands-religious-freedom-gay-students-teachers-scott-morrison-covid-south-africa-variant"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 16
-    images:
-      - url: "https://i.guim.co.uk/img/media/7a12c2c11fe1c1b55c547c18c63f1ba9c8d3d7d2/0_305_3304_1983/master/3304.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aa8728c80c545382faf742c7f37be653"
-        width: 600
-        height: 360
-        isCached: true
-
 secured: "Ats6qXADeEXgAcAVu1VHZEy3ODMdbonMLTNv121ZxdO22KvAjtWUeVtJHDWvNpWM3D9CmuHYYsxNyo1tEIsNhNdKDO3Lg+w9vvIafHsNJ+OTvYD/kDw/Aq7rWd8qNeKa8Dsyc6SVzcBi/xXjI+uYJUDKpIjTzevyMU0YXiLalRQ85xei+HDB24u0bLzYb/odb6l//p22G3rQNcFxBBiih2XkvCnCNIAPg0+GFJrjMH8skm/6Nk+ximkoyWuCwpTx5eVsWkGdJtG1wOeU+CiMt5LZmsHbHeuIRfl19dpywuPFDIZfiMeNl/cj9k+l4BmlycH6i+uu/lT1kswMISizCNPAOT6J1o3295EPmGWuaO4=;mvQqrPSWxondzBj4NEzrzA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/chinese-province-plans-face-recog
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Inshorts
@@ -40,6 +40,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
         width: 1600
         height: 1109
+        isCached: true
+  - title: "Macau expands facial recognition on surveillance system used in one-third of investigations"
+    excerpt: "The ‘Eyes in the Sky’ facial recognition and license plate reading system has been used in more than a third of recent criminal investigations."
+    publishedDateTime: 2021-11-30T20:52:00Z
+    webUrl: "https://www.biometricupdate.com/202111/macau-expands-facial-recognition-on-surveillance-system-used-in-one-third-of-investigations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
+        width: 1200
+        height: 914
         isCached: true
 
 secured: "9rNOXiavm/7W+yYI7jlVI8VLuT9giQB3n58TS7IdELA4tqn4FC/ROugakJCmzcZTXbK3alyrQNucgSlvYHoD6DugJsSlrHDk6deXwZGp1weFpG66wwfvjvwEyfS/y7BxEU7+X1ETF9+yUOEEFVQslzp1qScdQbJPRWQdHW2NT3h6TeiKOtvMk8XVM2ZIaT7FXTaMw9oAI25b7//sOyFYX0AuIRi8V9F/GpgOQbo4Qdl7uKtdNQRhOFP+F4D13TFpDVAoIQ+wlngSANF6BFXEfOa2FP4vZJrbR0gGMVZipVmUjXzbW8BVLDi1LdcOD4LmCihSQ4NeWU4WgPA6bPqMdAzXpk9PsdFVCkV/w/v9+fk=;aJseZpnH75hAUmDPw/R7RA=="

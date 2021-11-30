@@ -2,6 +2,257 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-19-new-book-discusses-essential-digital-skills-in-the-ai-age-iq-eq-dq.md",
+      "title": "New Book Discusses Essential Digital Skills In The AI Age: IQ, EQ & DQ",
+      "excerpt": "The DQ Institute, NUS and Penguin Random House SEA, announces the launch of Dr Yuhyun Park’s book entitled “IQ, EQ, DQ: New Intelligence in the AI Age” for readers interested in mastering digital skills and online safety.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-online-safety-df4cfe926f0e0057f48837063b90bef2",
+      "originalUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-online-safety-df4cfe926f0e0057f48837063b90bef2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-advancing-ai-with-data-and-machine-learning-what-else-is-needed.md",
+      "title": "Advancing AI With Data And Machine Learning: What Else Is Needed?",
+      "excerpt": "The U.S. and almost all countries today identify AI as a critical strategic area in the future of computing. Companies are more invested than ever in discovering how AI can provide advantages in their competitive markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg",
+          "width": 1200,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/amp/",
+      "publishedDateTime": "2021-11-19T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-self-driving-robots-key-to-future-of-food.md",
+      "title": "Self-driving robots key to future of food",
+      "excerpt": "The acquisition is a sign of rapid maturation in smart farming, which uses IoT sensors and AI to manage farm operations with unprecedented precision and is helping reshape food manufacturing in wealthy markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/self-driving-robots-key-to-future-of-food/",
+      "originalUrl": "https://www.zdnet.com/article/self-driving-robots-key-to-future-of-food/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8bd3f5ef1c28fdf85a3689f525d2b04b8cf1279d/2021/11/18/e7a61c0c-776f-47ae-a4da-65f3f96a2951/fieldin-tractor-1.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-robots-key-to-future-of-food/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-robots-key-to-future-of-food/",
+      "publishedDateTime": "2021-11-19T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-jensen-huang-gets-chip-industrys-highest-honor-28-years-after-founding-nvidia.md",
+      "title": "Jensen Huang gets chip industry’s highest honor 28 years after founding Nvidia",
+      "excerpt": "About 38 years after he started Nvidia, CEO Jensen Huang received the chip industry's highest honor, the Robert N. Noyce Award.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/",
+      "originalUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/omni-6-Making-of-NVIDIA-GTC-NVIDIA-Omniverse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/amp/",
+      "publishedDateTime": "2021-11-19T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving.md",
+      "title": "Overcoming The Technological Speed Bumps On The Road To Autonomous Driving",
+      "excerpt": "Three years ago, fully autonomous vehicles (AVs) that could take passengers 'anywhere' were supposed to have arrived on the market — at least according (paywall) to a 2015 prediction from Elon Musk. Musk was hardly alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df26da339f52ef6e9735e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/11/19/overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving/amp/",
+      "publishedDateTime": "2021-11-19T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-google-releases-tf-gnn-for-creating-graph-neural-networks-in-tensorflow.md",
       "title": "Google releases TF-GNN for creating graph neural networks in TensorFlow",
       "excerpt": "Google today released TensorFlow Graph Neural Networks (TF-GNN) in alpha, a library designed to make it easier to work with graph-structured data.",
@@ -933,239 +1184,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-apple-accelerates-work-on-car-project-aiming-for-fully-autonomous-vehicle.md",
-      "title": "Apple accelerates work on car project, aiming for fully autonomous vehicle",
-      "excerpt": "Apple Inc. is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2021/11/18/apple-accelerates-work-car-project-aiming-fully-autonomous-vehicle/8668157002/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/11/18/apple-accelerates-work-car-project-aiming-fully-autonomous-vehicle/8668157002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-commerceai-launches-in-aws-marketplace.md",
-      "title": "Commerce.AI Launches In AWS Marketplace",
-      "excerpt": "Commerce.AI, a leading CX AI platform, announced today that it is available in AWS Marketplace, a digital catalog with listings from independent software vendors that make it easy to find, test, buy and deploy software.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-ai-powered-marketing-copy-generator-anyword-secures-21m.md",
-      "title": "AI-powered marketing copy generator Anyword secures $21M",
-      "excerpt": "Anyword, a company developing an AI-powered platform that generates marketing copy, has raised $21 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/",
-      "originalUrl": "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1221479433.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/ai-powered-marketing-copy-generator-anyword-secures-21m/amp/",
-      "publishedDateTime": "2021-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-radical-transparency-what-healthcare-can-learn-from-fintech.md",
-      "title": "Radical Transparency: What Healthcare Can Learn From Fintech",
-      "excerpt": "With the line between healthtech and fintech increasingly blurring, it’s high time for the healthcare industry to find ways to deliver a better consumer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61950aa37300a4ab02b17a66%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/amp/",
-      "publishedDateTime": "2021-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-swishai-raises-13m-to-automate-it-service-desk-tasks.md",
-      "title": "Swish.ai raises $13M to automate IT service desk tasks",
-      "excerpt": "Swish, a startup developing a platform to automate IT service tasks using AI, has raised $13 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/",
-      "originalUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/",
-      "publishedDateTime": "2021-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

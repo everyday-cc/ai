@@ -1,18 +1,18 @@
 ---
 category: news
 title: "The Different Ways Artificial Intelligence Solves Real-World Digital Identity Challenges"
-excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges. Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
-publishedDateTime: 2021-11-30T19:27:00Z
-originalUrl: "https://www.timesunion.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
-webUrl: "https://www.timesunion.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
+excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges.  Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
+publishedDateTime: 2021-11-30T22:41:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "BjC/HFlWzQfGLxuKcA2gaeon1NcVUnUveskhqIiC8uUfVK2yjRUY5VlYEgYGDFt+mfgfupDF73bfgi6DkZvktbQhZQQZntHsu5FocQSEX2INuF+L/g12FJxLFmzrz9e9M4zdwVrixxPO+kN9AAsPkH4LYQwZWACtW6n/UQrPUojh5TbzlTt3+tg/13iwrYou7HebxxZErzYrDOAltzDgCOVJCImJ9cZKRbq6Nb6hCHQMuZCtk0+FHME9XIPTDsh0XcR3EIc7IUASVxrTnvPJsRAVsdko/8abjWHuKVseyNdNxVst5xsDzNl5CUMwv1rCNI7KVenQeUkLVt6Cavn2Syi2xe8CiFSpxjZohlJpIqk=;Ps8kYO/v9MCfPT39qYIX8A=="
+secured: "UHIJyI7SpmXHuK08AJn4p9k0Cvx7w6JXQ70dDWbkbaa26w5BADQIL3sFSxLi24A+8H0YWPQnMrCcE81SH8B+Nc0sINnv4n4U5VdU+wrNMa7jil6q/9OzaqbLTva9kZvDOsJKn3rbNVxtDamYaxqmKVDOHypZh7UKAdD/cu6sUMGy8r8Ke+Bq3Gyr/v3Uui4EO+SmJBOZ+gC+LAtVAnAJKxwzn4goWyrVacaEy+zXkBnz9s9C47UjPo4l9ojx8flRMryoAUXRmi5AvSBjCxkA0oUSmXiAJ6ly0CSgXkUXWdyAjbYVbnkngVk+aUMzPl0gow8ncOnCOZ1EDifQp0ujexE6YPOw0wgbRY+H2g7c88E=;LmYMbvrpsKeA0mOdV7OQZQ=="
 ---
 

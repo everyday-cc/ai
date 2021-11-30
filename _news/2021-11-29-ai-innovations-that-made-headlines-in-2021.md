@@ -39,20 +39,6 @@ related:
         width: 1678
         height: 943
         isCached: true
-  - title: "Major AI Controversies Of 2021"
-    excerpt: "While 2021 was an exciting year for AI regarding innovations and new inventions, it was immune to controversies and scandals. In this article, we take a look at some of the most prominent ones that grabbed headlines."
-    publishedDateTime: 2021-11-26T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/major-ai-controversies-of-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Controversies_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI, not the solution for fake news"
     excerpt: "Technology companies and social media enterprises are working on the automatic detection of fake news through natural language processing, machine learning and network analysis. The idea is that an algorithm will identify information as “fake news,"
     publishedDateTime: 2021-11-29T08:09:00Z

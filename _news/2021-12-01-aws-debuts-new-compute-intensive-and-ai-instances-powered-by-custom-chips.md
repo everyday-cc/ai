@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-30T19:51:00Z
 originalUrl: "https://siliconangle.com/2021/11/30/aws-debuts-new-compute-intensive-ai-instances-powered-custom-chips/"
 webUrl: "https://siliconangle.com/2021/11/30/aws-debuts-new-compute-intensive-ai-instances-powered-custom-chips/"
 type: article
-quality: 53
+quality: 70
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/aws.png"
