@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Can We Trust A Superintelligent AI For The Future?"
-    excerpt: "With the thrills and excitement that comes with the Artificial Intelligence technology, there is a growing fear that its sporadic"
-    publishedDateTime: 2021-11-25T15:35:00Z
-    webUrl: "https://techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/"
-    ampWebUrl: "https://techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/can-we-trust-a-superintelligent-ai-for-the-future/?amp=1"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/techbooky.com/wp-content/uploads/2021/11/tech-predictions-for-2021.jpg?fit=1500%2C1000&ssl=1"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Announcing the Intelligent Applications Top 40; a New Industry Ranking of the Top Private Companies Building Applications with AI and Machine Learning"
     excerpt: "Today the Intelligent Applications Top 40 (#IA40) was unveiled by Madrona Venture Group. The list of the top private companies building applications that truly incorporate intelligence into how they process data and predict outcomes was voted on"
     publishedDateTime: 2021-11-30T03:04:00Z

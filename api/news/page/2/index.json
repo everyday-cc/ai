@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-29-government-launches-unique-face-recognition-tech-for-pensioners.md",
+      "title": "Government launches 'unique' face recognition tech for pensioners",
+      "excerpt": "\"The central government has been sensitive to the needs of pensioners and to ensure ease of living for them. Soon after coming to power in 2014, the government decided to introduce and implement digital life certificate for the pensioners.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-59696,msid-87985779/government-launches-unique-face-recognition-tech-for-pensioners.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms",
+      "publishedDateTime": "2021-11-29T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-in-person-aws-reinvent-2021-is-back.md",
+      "title": "In-Person AWS re:Invent 2021 is Back!",
+      "excerpt": "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back",
+      "originalUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png",
+          "width": 781,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp",
+      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp",
+      "publishedDateTime": "2021-11-29T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StorageReview",
+        "domain": "storagereview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots.md",
       "title": "Tech firm will pay you £150,000 to sell your identity to its robots",
       "excerpt": "Promobot is on the lookout for a face for its humanoid robot assistant which will work in hotels and shopping malls.",
@@ -53,7 +139,7 @@
       "originalUrl": "https://www.adweek.com/commerce/how-cvs-is-using-ibm-watsons-ai-to-encourage-people-to-get-their-flu-shots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -149,7 +235,7 @@
       "originalUrl": "https://www.openpr.com/news/2477805/south-america-artificial-intelligence-in-marketing-market-will",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -995,6 +1081,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-26-rescon-praises-throne-speech-recognition-of-housing-immigration.md",
+      "title": "RESCON praises Throne Speech recognition of housing, immigration",
+      "excerpt": "VAUGHAN, ONT. - The Residential Construction Council of Ontario (RESCON) has released a statement saying it is pleased that housing, immigration and stability of the supply chain would be federal government priorities as indicated in the Nov.",
+      "sourceUrl": null,
+      "webUrl": "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration",
+      "originalUrl": "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2018/07/Parliament-Buildings-WEB.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-26T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "canada.constructconnect",
+        "domain": "constructconnect.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-flowrite-is-an-ai-writing-productivity-tool-that-wants-to-help-you-hit-inbox-zero.md",
       "title": "Flowrite is an AI writing productivity tool that wants to help you hit inbox zero",
       "excerpt": "When TechCrunch asks Flowrite if it’s ‘Grammarly on steroids’, CEO and co-founder Aaro Isosaari laughs, saying that’s the comment they always get for the AI writing productivity tool they’ve been building since late summer 2020 — drawing on early access to",
@@ -1099,145 +1228,6 @@
         "AI Ethics",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-12-robot-vacuums-that-clean-so-you-dont-have-to.md",
-      "title": "12 Robot Vacuums That Clean So You Don’t Have To",
-      "excerpt": "Robot vacuums were once awkward, bumbling machines that bounced around your home sporadically. Today, the best robot vacuums are so advanced that they might actually rival your full-size vacuum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619e8063bd05787299f3a0f8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D114%26cropY2%3D781",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/11/26/best-robot-vacuums/amp/",
-      "publishedDateTime": "2021-11-26T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-driverless-robotaxis-approved-to-run-in-this-chinese-city-baidu-ponyai-will-run-operations.md",
-      "title": "Driverless Robotaxis Approved To Run In This Chinese City! Baidu, Pony.ai Will Run Operations",
-      "excerpt": "Driverless Robotaxis Approved To Run In This Chinese City! Baidu, Pony.ai Will Run Operations100 new driverless robotaxis will soon be running the roads of China’s capital Beijing! Yes, you read that",
-      "sourceUrl": null,
-      "webUrl": "https://trak.in/tags/business/2021/11/26/driverless-robotaxis-approved-to-run-in-this-chinese-city-baidu-pony-ai-will-run-operations/",
-      "originalUrl": "https://trak.in/tags/business/2021/11/26/driverless-robotaxis-approved-to-run-in-this-chinese-city-baidu-pony-ai-will-run-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://trak.in/wp-content/uploads/2021/11/maxresdefault-1024x576-1-1.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://trak.in/tags/business/2021/11/26/driverless-robotaxis-approved-to-run-in-this-chinese-city-baidu-pony-ai-will-run-operations/amp/",
-      "cdnAmpWebUrl": "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2021/11/26/driverless-robotaxis-approved-to-run-in-this-chinese-city-baidu-pony-ai-will-run-operations/amp/",
-      "publishedDateTime": "2021-11-26T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trak.in - India Business Blog",
-        "domain": "trak.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022.md",
-      "title": "AI and Machine Learning, Cloud Computing, and 5G Will Dominate in 2022",
-      "excerpt": "Artificial Intelligence (AI) and machine learning, cloud computing, and 5G will be the most important technologies in 2022, according to a survey to global technology leaders from the U.S., U.K., China,",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/",
-      "originalUrl": "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iblnews.org/wp-content/uploads/2021/11/impactoftech.jpg",
-          "width": 860,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/amp/",
-      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/amp/",
-      "publishedDateTime": "2021-11-26T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

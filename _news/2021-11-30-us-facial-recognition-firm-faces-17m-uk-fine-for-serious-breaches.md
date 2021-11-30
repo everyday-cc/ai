@@ -141,22 +141,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "German coalition backs ban on facial recognition in public places"
-    excerpt: "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),"
-    publishedDateTime: 2021-11-25T15:54:00Z
-    webUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/"
-    ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
     excerpt: "Disinformation has been used in warfare and military strategy over time. But it is undeniably being intensified by the use of smart technologies and social media. This is because these communication technologies provide a relatively low-cost,"
     publishedDateTime: 2021-11-29T13:50:00Z

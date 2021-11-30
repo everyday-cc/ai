@@ -105,6 +105,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Good news for pensioners! Government rolls out Unique Face Recognition Technology for life certificate"
+    excerpt: "In order to make the process of life certificate easier for elderly pensioners, the government has rolled out Unique Face Recognition Technology on Monday."
+    publishedDateTime: 2021-11-30T08:20:00Z
+    webUrl: "https://www.zeebiz.com/personal-finance/news-good-news-for-pensioners-government-rolls-out-unique-face-recognition-technology-for-life-certificate-172008"
+    ampWebUrl: "https://www.zeebiz.com/personal-finance/news-good-news-for-pensioners-government-rolls-out-unique-face-recognition-technology-for-life-certificate-172008/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-good-news-for-pensioners-government-rolls-out-unique-face-recognition-technology-for-life-certificate-172008/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 43
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Centre introduces unique face recognition technology for pensioners"
     excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and the elderly"
     publishedDateTime: 2021-11-29T13:56:00Z
@@ -118,6 +134,22 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1638192227.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Jitendra Singh launches unique face recognition technology for pensioners, says it will bring ease of living for retired, elderly citizens"
+    excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for the retired and the elderly citizens."
+    publishedDateTime: 2021-11-30T02:54:00Z
+    webUrl: "https://www.catchnews.com/national-news/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens-226739.html"
+    ampWebUrl: "https://www.catchnews.com/amp/national-news/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens-226739.html"
+    cdnAmpWebUrl: "https://www-catchnews-com.cdn.ampproject.org/c/s/www.catchnews.com/amp/national-news/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens-226739.html"
+    type: article
+    provider:
+      name: Catch News
+      domain: catchnews.com
+    quality: 25
+    images:
+      - url: "http://images.catchnews.com/upload/2021/11/30/jitendrasinghbjp.jpg"
+        width: 730
+        height: 419
         isCached: true
   - title: "Dr Jitendra launches unique ‘Face Recognition Technology’ for Pensioners"
     excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today launched unique “Face Recognition Technology” for Pensioners and said,"
@@ -137,20 +169,6 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 18
-  - title: "Jitendra Singh launches unique face recognition technology for pensioners, says it will bring ease of living for retired, elderly citizens"
-    excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for"
-    publishedDateTime: 2021-11-30T02:05:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271833428/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 5
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1638237791.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "SVKu1z2vBq/N7qO/afDMMpHkStU+Pt+lbuWZI9i3zDKvGIGKpsXtPYEuEmvQEWejVR1I8rccQdlySY8PkAOP65NMBbIKtFaepq/Z1o4shBZQgnrvR43ISsfAfgYp3ji2ooxXEJ2Q+cm2MCbry9WGBRGvcR7ZVX9BmNxzPeFyVVupy5iUNIqrn7eo8G1inQ8yLfaPP2jRez41logtzujbcxySkJrYd/bFAyNRhfnVpsgKrDIEKK6J2dleqvIQF0Df7I1C3M6Go9VPuwzkJSnQB+DmSx4NsiVJa1qcsc0yMgikyNT1tR0MPqQx6Ox2qLhRSLmaS7fOh509YPaXuh6pIcc47oOcuZZ1QAhnuUe6MWDPARHuG7+O7KtZO3uxEk2uvKcSjH1D3gDDw2LYVthXqvVI+E2fDnx+FY1JMWrMs0t8/fHsytWn9H/+VO/FypoRdG/4J72dy2v55/zctDj/uW3I/3uRf+vr9hZUWk/x8Vd+ZewCglzedih8iiIOR9w+/C5Ar5NAokXNG3kzd4Ke/g==;vwdaZxT5vqtZGPVujwF74A=="
 ---

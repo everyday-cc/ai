@@ -2,6 +2,176 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-24-amazons-amzn-aws-clientele-expands-with-adidas-selection.md",
+      "title": "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection",
+      "excerpt": "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection",
+      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp",
+      "publishedDateTime": "2021-11-23T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-microsofts-tutel-optimizes-mixture-of-experts-model-training.md",
+      "title": "Microsoft’s Tutel optimizes mixture of experts model training",
+      "excerpt": "Microsoft's Tutel library, now available in open source, optimizes the training of mixture of experts machine learning systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/",
+      "originalUrl": "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/",
+      "publishedDateTime": "2021-11-23T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-the-limitations-of-ai-generated-text.md",
+      "title": "The limitations of AI-generated text",
+      "excerpt": "Artificial intelligence has reached a point where it can compose text that sounds so human that it dupes most people into thinking it was written by another person. These AI programs—based on what are called autoregressive models—are being successfully used to create and deliberately spread everything from fake political news to AI-written blog posts that seem authentic to the average person and are published under human-sounding byline.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-limitations-ai-generated-text.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-limitations-ai-generated-text.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/text-messaging.jpg",
+          "width": 1920,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-limitations-ai-generated-text.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-limitations-ai-generated-text.amp",
+      "publishedDateTime": "2021-11-23T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-transcription-firm-verbit-raises-250m-doubling-valuation-to-2b.md",
+      "title": "Transcription firm Verbit raises $250m, doubling valuation to $2b",
+      "excerpt": "Israeli firm Verbit, a hybrid AI-based and human transcription and captioning software company, said on Tuesday that it secured $250 million in Series E funding, just some six months after raising $150 million at a valuation of $1 billion and marking its entry into the “unicorn” club.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/",
+      "originalUrl": "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/06/Verbit-Compnay-Photo-by-Eric-Sultan-3-e1623147226939-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/amp/",
+      "publishedDateTime": "2021-11-23T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-globally-awarded-ai-startup-receives-usd-14-million-in-seed-funding.md",
       "title": "Globally Awarded AI Startup Receives USD 1.4 Million In Seed Funding",
       "excerpt": "Globally awarded Croatian AI startup Mindsmiths received USD 1.4 million in seed funding from Feelsgood investment fund which supports companies with proven positive social impact. Mindsmiths will use this investment to further develop and expand its autonomous support system (ASS) platform with a proven social impact record.",
@@ -55,33 +225,24 @@
     {
       "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
       "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
-      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,",
+      "excerpt": "CVG is using computer vision, AI, and advanced technologies to manage capacity constraints while maintaining its commitment to customer service and brand reputation TaskWatch enhances CVG with ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T06:02:00-08:00",
+      "publishedDateTime": "2021-11-23T06:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -91,9 +252,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Computer Vision",
         "AI",
-        "Computer Vision"
+        "AWS AI"
       ]
     },
     {
@@ -997,204 +1158,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-bring-your-amazon-sagemaker-model-into-amazon-redshift-for-remote-inference.md",
-      "title": "Bring Your Amazon SageMaker model into Amazon Redshift for remote inference",
-      "excerpt": "Amazon Redshift, a fast, fully managed, widely used cloud data warehouse, natively integrates with Amazon SageMaker for machine learning (ML). Tens of thousands of customers use Amazon Redshift to process exabytes of data every day to power their analytics workloads. Data analysts and database developers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-amazon-sagemaker-model-into-amazon-redshift-for-remote-inference/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-amazon-sagemaker-model-into-amazon-redshift-for-remote-inference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/22/1-5967-Model.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T15:30:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-fda-joins-other-regulators-in-focus-on-ai-and-machine-learning.md",
-      "title": "FDA Joins Other Regulators in Focus on AI and Machine Learning",
-      "excerpt": "The Food and Drug Administration recently sought comments on the role of transparency for artificial intelligence and machine learning-enabled medical devices. The FDA invited comments in follow up to",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning",
-      "originalUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/fda-joins-other-regulators-focus-ai-and-machine-learning?amp",
-      "publishedDateTime": "2021-11-22T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-amazon-web-services-aws-a-cheat-sheet.md",
-      "title": "Amazon Web Services (AWS): A cheat sheet",
-      "excerpt": "with the announcement of Amazon Rekognition, a deep-learning based image recognition system; Amazon Polly, a text-to-speech system that supports 25 languages, and differentiates for different ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazon-web-services-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/article/amazon-web-services-the-smart-persons-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2018/08/06/dc16c8f2-3889-48c1-93c4-e1ea2023bc8d/resize/1200x/944114825f9c21e785c2d84a23acbf9b/awscloud.jpg",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-web-services-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-web-services-the-smart-persons-guide/",
-      "publishedDateTime": "2021-11-22T14:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-why-enterprises-should-build-ai-infrastructure-first.md",
-      "title": "Why enterprises should build AI infrastructure first",
-      "excerpt": "Looking forward, it’s clear that AI infrastructure will be more than just a competitive advantage, but an operational necessity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/",
-      "originalUrl": "https://venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2013/11/infrastructure.jpg?w=1200&strip=all",
-          "width": 558,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/amp/",
-      "publishedDateTime": "2021-11-22T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

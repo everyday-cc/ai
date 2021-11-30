@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Jitendra Singh launches unique face recognition technology for pensioners, says it will bring ease of living for retired, elderly citizens"
-excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for"
-publishedDateTime: 2021-11-30T02:05:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271833428/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens"
-webUrl: "https://www.bignewsnetwork.com/news/271833428/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens"
+excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for the retired and the elderly citizens."
+publishedDateTime: 2021-11-30T02:54:00Z
+originalUrl: "https://www.catchnews.com/national-news/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens-226739.html"
+webUrl: "https://www.catchnews.com/national-news/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens-226739.html"
+ampWebUrl: "https://www.catchnews.com/amp/national-news/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens-226739.html"
+cdnAmpWebUrl: "https://www-catchnews-com.cdn.ampproject.org/c/s/www.catchnews.com/amp/national-news/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens-226739.html"
 type: article
-quality: 5
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Catch News
+  domain: catchnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1638237791.jpg"
-    width: 630
-    height: 420
+  - url: "http://images.catchnews.com/upload/2021/11/30/jitendrasinghbjp.jpg"
+    width: 730
+    height: 419
     isCached: true
 
 related:
@@ -105,6 +107,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Good news for pensioners! Government rolls out Unique Face Recognition Technology for life certificate"
+    excerpt: "In order to make the process of life certificate easier for elderly pensioners, the government has rolled out Unique Face Recognition Technology on Monday."
+    publishedDateTime: 2021-11-30T08:20:00Z
+    webUrl: "https://www.zeebiz.com/personal-finance/news-good-news-for-pensioners-government-rolls-out-unique-face-recognition-technology-for-life-certificate-172008"
+    ampWebUrl: "https://www.zeebiz.com/personal-finance/news-good-news-for-pensioners-government-rolls-out-unique-face-recognition-technology-for-life-certificate-172008/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-good-news-for-pensioners-government-rolls-out-unique-face-recognition-technology-for-life-certificate-172008/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 43
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Centre introduces unique face recognition technology for pensioners"
     excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and the elderly"
     publishedDateTime: 2021-11-29T13:56:00Z
@@ -152,6 +170,6 @@ related:
       domain: dailyexcelsior.com
     quality: 18
 
-secured: "cssYSLXjwxqK9S3wgbzNktWWI9BwcVVL5UDCvYWK7p2C41t6QQTk6vLKhchV2pe6IBDTAW5cs64BHh5dI5Qppc1X2Rf2zwnb11XFxvzNEvWD+Xa3MRO2JlIrE8NW30Exzq3dHrJKFzf+vFwUIDwT9jp6+nkb8wHJh7AnEKsIG00xxcC8Jp5hIRQP0QPqXi16I224B8UXfxvF1+WCAcfy75r6+NC/l1KGEpBNKexTdR4nYMFqFrYYRJc7yPkp/cplLwrf16bLQ5uUTeZpMUGlWFhnVvYVtWouDQOv5dKrMLSqYIfeUhXLTTZoWmrE5wHKlgj0sbLAHT8Sfkn3T0FlW7J1hma8W2nCnUPKh458FsHXVCk6dSgItMU1+bPdqGZmM9YI5xJwTF7ccKU+t4sgWNlpTCG/pBNviu82knWKEspyS6e/SIdQ9dP4IbjyMTwk2PCRixHfSqz6JyNRMk+VA43tcxEQlkLBs1xlf+o99hTLTq74V4iBUg+9bR7RmzjjmKB9uFFD7a4j2pJ6OVKA2w==;JPl8r3O3TmblmmU/PwlTlw=="
+secured: "M0znCxLBhhDD9W2M+uZBqqzw/3fdGXQVEzzAxrN8oyEouc9v+NUy+R3TnM0m0z+MBogRX3nvPgoaTJ3wMA5Zkx/w5OEgbec9GFGmG41PMLAg6Ip8JNbUDlbZmcxRK/+L0KdKUQBKCLfZwJSJCI6YWy5XLPlWWJixzQj4m+qjCyzlUuyNRiZV0Hkkg9NyPirYGlhh6vWFQmbnKbAdB+S8yJUOcGCYNQEEW7O11hJWP+D5H8Etkn+cN6c4HeBtaF1u4/RJTfIjdJgfYpBwTpXwR/qS917VXTwtOyseacIoMha+PjvUZ1OTLpIgTe6xF464jrHgxrVHCHaMqpWV4CI7dcYmS887d9MzF0fqC3pCieU=;BJBQpRQSz2mhCQD0th2Pqw=="
 ---
 

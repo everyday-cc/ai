@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/cybertech/face-off-robots-come-equipped-with-fac
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Facial recognition is getting smarter but the risks demand we proceed with caution"
+    excerpt: "Many smartphones click open each time we glance at the screen and some airports automate passport checks with face scans: it’s tempting to think we’re on the cusp of unlocking the full potential of facial recognition technology."
+    publishedDateTime: 2021-11-30T08:27:00Z
+    webUrl: "https://www.theweek.in/wire-updates/international/2021/11/30/tga1-tech-facial-recognition-embargoed.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/international/2021/11/30/tga1-tech-facial-recognition-embargoed.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/international/2021/11/30/tga1-tech-facial-recognition-embargoed.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 33
   - title: "The future of Constitutional Recognition"
     excerpt: "It looks increasingly unlikely the Federal Government will present legislation for an Indigenous Voice to Parliament before the next election. The final report from the advisory groups tasked with putting forward models for local regional and national voices has been given to the Minister for Indigenous Australians,"
     publishedDateTime: 2021-11-29T00:23:00Z

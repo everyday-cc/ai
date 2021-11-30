@@ -125,22 +125,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "German coalition backs ban on facial recognition in public places"
-    excerpt: "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),"
-    publishedDateTime: 2021-11-25T15:54:00Z
-    webUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/"
-    ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "US facial recognition firm faces £17m UK fine for ‘serious breaches’"
     excerpt: "Clearview AI may have gathered data without people’s knowledge, says Information Commissioner’s Office"
     publishedDateTime: 2021-11-29T19:36:00Z
@@ -188,6 +172,6 @@ related:
         height: 312
         isCached: true
 
-secured: "a/I9ljgZU1X6VZjbk95VSyCDKarQZWA6sZ7zjc5XxOHq5QrFnXMaFKBRVYDqojrDTN0rbnEob4wjkR4cFrH8mQZtFQbhZMM/FmvNJwd39hm8mGit2TQgiMd9P9rCrLPHNMn5O9W/EsRLN8bcJpd+wpkimpFNEBzjF20Qjvlv096w9MCByY8kIES/lNbtUApLBBbaWbmrT6QHJF6mzO/EibUMRh4ZqN3eHMv+Dhhcqt1/SVH4nPWcTp3YHdn/GV1+h0NM+h7T8iP59PcK/S1X544I5pk3OGIrWLGvw13Gqt+VbJy0z93iK9rfgbsb8+vuBSetGYd2fUVPUVB6AMhZd1xmPOY2ujfr2ZeMJ7s47ko=;g8dktVEmGhCDdUnu+DbSFg=="
+secured: "sGvxKJPzwAWIzvLK6jxjLfApzA2Un89efysNlWHb7gk/cDO304HHuAyrx56jTqlxea/DaNzcmFrGvVRRi+aCYvGCaosN48144VbFqHQzeVQheovKMXFfxdscJdX0pqNnlO+TaFrTf7ryWdleO0g0yBraNy5rfWeLAwoHZ/kBlNgvpyu2KEG9WaxiRbMZ4R1JNTdd9oQU0jjWBD59TeL9bX4BJMjsyDMAQEq3hFXaeVdOInKNaZH6NXGr7LNbT7/syGyd3WPUp2xdCsrOpVBUvHe+gQovOOu9LOh5cZTyaHl49HRyPu+Ck+VKBsX2ret4Z7VTA6GZ/IFtnM/zy/GvqqZH7JDV82UQZK63cCVN+PhjPu5glqPjwSKyILQQm+HIliE1lLKUM13D2u2aSwsaO6UCoujosOMZnmIcQ+IJe+lUHSAtXH2mlAbg8aQ2sDrWIeBG42qRpvR56gNGyBh/Ps17nBrm6qG1BeBbdbQI5j7mjL7JY3BSb6lvKFgd2ie9s70aIAq1hiYWKFkAwRRCPQ==;6Z8r7nvY6mItP8Q+vmPdGA=="
 ---
 

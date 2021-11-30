@@ -39,6 +39,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 39
+  - title: "Nuance launches ‘Precision Imaging Network’ providing AI first reads to relieve overburdened docs"
+    excerpt: "Nuance announced the launch of a new “Precision Imaging Network” on Monday, which will help relieve overburdened physicians by providing artificial intelligence-powered first reads of exams. The Burlington,"
+    publishedDateTime: 2021-11-30T08:13:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/nuance-precision-imaging-network-ai-first-reads"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 26
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2018-07/istock-851956216_super.jpg?itok=BHpMPG6E"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Wuhlg8fqI6vQqSFbKytHShmhUDOdlGa6uEEbwCbN6B/sMXyR0jN3FdEpi8P6pOQ7dk05TNpkOg1oflTF4/5G4Bdxg3eKoZzlA97yImvzQQjUX8EJM1N6juY2/dspD7xm0byHzOwpJCyUjyYRWoSo23KlyCkAG5JTVmAfmz0MwZPHByfrf+Sun5SfmXWtVcOEQzmX0VsIR2AMYGhmZ/KBigAIk0Psl0JBQFImFtVwshj8Z97J2RtjcJmwDmqSvEaxBzWXCwps/TxU0igDRkwRHe4GXiLJtVt+kC8LCYYgWBJWHAtdb2ErDos9Re3XUwNRuNr6xQ9mTvPBG0/GnISyzEDKeex610r7/X6T9M2UfAgoAGE0BP8fI3V6dxf4xaqxOVygbmTuo8hj8wiC1ARm1LgGgHyhQu8p7TUEYA/G1bYYwrHhSuXPWwcurUvClpHrzehNI52waNB0qa8iQManGLZe1NCcQpe/QI/n/49vVPMjJ5ZWckGc0NzKzTxzry/oUtppBluyO9hRYzoW7CM4hA==;I7+eTzXWYWZhKPFs7GS2Fg=="
 ---

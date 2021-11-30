@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial"
 type: article
 quality: 102
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -124,22 +124,6 @@ related:
       - url: "https://www.computerweekly.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
         width: 1200
         height: 400
-        isCached: true
-  - title: "German coalition backs ban on facial recognition in public places"
-    excerpt: "Germany's incoming government is throwing its weight behind a ban on the use of biometric identification technologies such as facial recognition in public places. According to their coalition deal, the Social Democrats (SPD),"
-    publishedDateTime: 2021-11-25T15:54:00Z
-    webUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/"
-    ampWebUrl: "https://www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/german-coalition-backs-ban-on-facial-recognition-in-public-places/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/11/25/GettyImages-826374638-1200x628.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "US facial recognition firm faces £17m UK fine for ‘serious breaches’"
     excerpt: "Clearview AI may have gathered data without people’s knowledge, says Information Commissioner’s Office"

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UN agency pushes global AI ethics norm that bans use of the technology for social scoring, mass surveillance purposes"
-    excerpt: "The UN agency’s recommendations come more than a month after China introduced its own set of ethical guidelines governing artificial intelligence."
-    publishedDateTime: 2021-11-25T15:44:00Z
-    webUrl: "https://www.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social"
-    ampWebUrl: "https://amp.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3157378/un-agency-pushes-global-ai-ethics-norm-bans-use-technology-social"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 81
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/fe601c41-01af-4be7-b8bf-7eb08ef44d95_54c6345e.jpg?itok=Dj8aHAAM&v=1637855057"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Unesco member states adopt global artificial intelligence ethics"
     excerpt: "The global agreement, adopted by Unesco’s 193 member states, which includes SA, addresses the increased gender and ethnic bias posed by AI."
     publishedDateTime: 2021-11-26T10:30:00Z
@@ -162,20 +146,6 @@ related:
       - url: "https://static.euronews.com/articles/stories/06/26/46/00/1000x563_cmsv2_db3bb7f9-b558-5c44-a486-42f628f64a51-6264600.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "UNESCO's ‘Cookie Factory’ Raises Awareness of the Potential Risks and Ethical Challenges of AI"
-    excerpt: "Little Black Book, DDB Paris teams up with makemepulse to create extension allowing you to assume a new identity as you browse the internet"
-    publishedDateTime: 2021-11-25T15:06:00Z
-    webUrl: "https://www.lbbonline.com/news/unescos-cookie-factory-raises-awareness-of-the-potential-risks-and-ethical-challenges-of-ai"
-    type: article
-    provider:
-      name: lbbonline.com
-      domain: lbbonline.com
-    quality: 42
-    images:
-      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/ai.png"
-        width: 925
-        height: 521
         isCached: true
   - title: "UNESCO member states adopt AI standards"
     excerpt: "Audrey Azoulay, director-general of UNESCO presented this past week the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference."

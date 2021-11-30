@@ -22,6 +22,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Face Verification 12 from Neurotechnology Extends Facial Authentication Capabilities to Web-Based Applications"
+    excerpt: "Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced the release of the new Face Verification system. Face Verification 12 is designed for the integration of facial authentication and liveness detection into PC,"
+    publishedDateTime: 2021-11-30T08:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/face-verification-12-from-neurotechnology-extends-facial-authentication-capabilities-to-web-based-applications-1031010797"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 14
+
 secured: "jhgmbL5CEQMnpkhBVWhfzEAnNGgegbbd3LjQcyavr65jq7yFzUyxMLHAKEgAYDpogXdUI12tHlNQ0cEsoHMmO1lgmJCLeiijETmZO0Igv9aBPgKLk0SjZIRSpST2Azi0LHdZRQStapsXGcMznffLXtjweD9WPHPF0oUIIewCFR/PUVfBYcDRzKUHJin5bq+GByNDRkEn0ddSzK0P8b1gLJazd6xlIXTdYmZYHuNrQ53ZGyaqQ0D3X5I+mS5AERUi5GXafmckWGr9xU2ImLAxtwdaE8TkXKGNhHLC2dWg6+1mIYJgAeSQC3Z6CeDgIHcJ4HwF8RcL9oQUdBMcSDQWmIX8KqPxOyOYgoKJ8Ap3VlE=;r92apxxp2RkD5QywTc7rwQ=="
 ---
 

@@ -2,6 +2,189 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-18-driverless-car-start-up-weride-partners-with-major-chinese-automaker-gac-on-robotaxis-as-competition-rises.md",
+      "title": "Driverless car start-up WeRide partners with major Chinese automaker GAC on robotaxis as competition rises",
+      "excerpt": "WeRide and Guangzhou Automobile Group (GAC Group) plan to make the robotaxis available via ride-hailing app Ontime to the public by 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106977211-1637212648567-WeRide_GAC_Group_and_ONTIME_jointly_launched_Robotaxi_service.png?v=1637212972",
+          "width": 2500,
+          "height": 1432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
+      "publishedDateTime": "2021-11-18T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-nvidia-crypto-mining-chip-sales-drop-60-overall-revenue-growth-strong.md",
+      "title": "Nvidia Crypto Mining Chip Sales Drop 60%, Overall Revenue Growth Strong",
+      "excerpt": "Nvidia has released its financial results for the third quarter of the 2022 fiscal year. While overall revenue has grown considerably, the sales of its 'Cryptocurrency Mining Processors' have experienced a sharp decline.",
+      "sourceUrl": null,
+      "webUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "originalUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32659.pcdn.co/wp-content/uploads/2021/08/BIC_nvidia_blockchain_AI.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "cdnAmpWebUrl": "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
+      "publishedDateTime": "2021-11-18T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https//beincrypto.com",
+        "domain": "beincrypto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-artificial-intelligence-ai-in-retail-market-2021-2028.md",
+      "title": "Artificial Intelligence (AI) in Retail Market 2021-2028",
+      "excerpt": "New study report \" Artificial Intelligence (AI) in Retail Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub18124618_g.jpg",
+          "width": 800,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
+      "publishedDateTime": "2021-11-18T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-optima-recruit-ai-pioneer-to-boost-customer-service-in-banking-sector.md",
+      "title": "Optima recruit AI pioneer to boost customer service in banking sector",
+      "excerpt": "Optima Partners have recruited an AI pioneer at their Edinburgh HQ to work on improved customer service in the banking industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
+      "originalUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deadlinenews.co.uk/wp-content/uploads/2021/11/Danilo-Blagojevich-e1637227266740.jpeg",
+          "width": 803,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
+      "cdnAmpWebUrl": "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
+      "publishedDateTime": "2021-11-18T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline News",
+        "domain": "deadlinenews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-surecore-designs-multi-port-memory-for-semidynamics-ai-chip.md",
       "title": "sureCore designs multi-port memory for Semidynamics AI chip",
       "excerpt": "Core, the embedded memory specialist, has designed a power and area efficient, high performance, multi-port, embedded memory solution for Semidynamics’ new RISC-V-based, tensor processing chip. Semidynamics is developing a high bandwidth,",
@@ -992,196 +1175,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-fortanix-reveals-confidential-ai-for-seamless-app-development.md",
-      "title": "Fortanix reveals confidential AI for seamless app development",
-      "excerpt": "The development of AI applications is usually hindered by the inability to use highly sensitive private data for AI modeling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813-e1637172595387.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/fortanix-reveals-confidential-ai-for-seamless-app-development/amp/",
-      "publishedDateTime": "2021-11-17T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-tesla-tsla-secures-new-197-mwh-megapack-order-to-go-on-its-autobidder-ai-platform.md",
-      "title": "Tesla (TSLA) secures new 197 MWh Megapack order to go on its Autobidder AI platform",
-      "excerpt": "Tesla (TSLA) has secured a new Megapack order for 197 MWh of capacity to deploy in the UK and use its Autobidder AI platform. Megapack has quickly emerged as the leading battery system for large utility-scale energy storage systems.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
-      "originalUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-new-megapack-project-uk-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
-      "publishedDateTime": "2021-11-17T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it.md",
-      "title": "Cathie Wood calls AI the 'next big frontier' -- here are 3 ways to profit from it",
-      "excerpt": "“We were assuming that in the next 10 years, artificial intelligence would deliver ... also owns autonomous driving technology company Waymo. Last year, Waymo launched its fully automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://torontosun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "originalUrl": "https://torontosun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/11/cathie-wood-ai-stocks_financial_hero_1_564x423_v202111121130.jpg",
-          "width": 564,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://torontosun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "cdnAmpWebUrl": "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/moneywise/cathie-wood-calls-ai-the-next-big-frontier-here-are-3-ways-to-profit-from-it/wcm/ee520a07-7767-45aa-ad09-ab2b02f5d5b7/amp/",
-      "publishedDateTime": "2021-11-17T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Sun",
-        "domain": "torontosun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment.md",
-      "title": "Coros raises $6.1M to bring computer vision to e-commerce parcel fulfillment",
-      "excerpt": "Coros, a real-time visibility provider for e-commerce and parcel fulfillment, announced Wednesday that it has raised a $6.1 million seed round of venture capital funding led by Dynamo Ventures. Susa Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment",
-      "originalUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/11/Leadership-Team-1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment/amp",
-      "publishedDateTime": "2021-11-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

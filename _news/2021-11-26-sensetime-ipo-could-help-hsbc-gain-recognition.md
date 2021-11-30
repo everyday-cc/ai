@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc
 webUrl: "https://www.reuters.com/markets/asia/sensetime-ipo-could-help-hsbc-gain-recognition-2021-11-26/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Reuters
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Sensetime could become most valuable AI unicorn in China"
+    excerpt: "Sensetime, a Chinese AI startup specializing in computer vision and deep learning, has been approved to list on the Hong Kong Stock Exchange and could become the most valuable AI unicorn in China."
+    publishedDateTime: 2021-11-30T06:47:00Z
+    webUrl: "https://www.digitimes.com/news/a20211126PD219.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://www.digitimes.com/newsshow/20211126PD219_files/2_2b.jpg"
+        width: 1280
+        height: 854
+        isCached: true
 
 secured: "UNgtC28MQx8M6rSfRRJV+FHOqLVxugOQ6HxkolCq599FAuhVrs9eDhQB5GAICQ0v21slc3m2sQ16asg9g+l1l5DyQ9em7qj1n3Fc5Dd42a4b3C4ILfxT7EOImXnDiMpDzIvjQmR0vQaxXPFESao8vvIglN3CiNe4dhUJJzUcrO8J2cGL30myIAytt3enhGk5Q2e3Yzm0oJs6n0UZ7VI/gLQ2lfLc/lHuIgUehy8zRuZXbyyUR/oOOStrwV8OFO+N3+cIkhxiMbWMZ3JlGV/LTVhvO/j0TK45oxeQVLLEzlS1LiNillp9DZWZ/0eMNF7gB5c4f/Z5X9HKP6yIEdXcB7kmO8hOUNW4iPVzh7zBfzf7QzOg10nsijp3AHAR3d1/TNy5SsLmyJ19R3VdcAmAp/hJl2AMLbbArChpd/9Du7W6GKvxksss8q9nU+UDyJHOIkLKWZQwRQJBvd3bSqe34W0nzqwKJkk6v60iI3jecsvlINe3Oyh/4Ta5OLMx97ABaM521YryO2yo1dZ/YaeCEQ==;8EHtyaSbSKSYlFV5pvCddQ=="
 ---

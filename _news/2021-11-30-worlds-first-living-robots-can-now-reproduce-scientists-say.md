@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/11/29/americas/xenobots-self-replicatin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/11/29/americas/xenobots-self-replicating-robots-scn/index.html"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Xenobots: Scientists Build the First-Ever Living Robots That Can Reproduce"
+    excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication—promising for regenerative medicine. To persist, life must reproduce. Over billions of years, organisms have evolved many ways of replicating,"
+    publishedDateTime: 2021-11-30T08:40:00Z
+    webUrl: "https://scitechdaily.com/xenobots-scientists-build-the-first-ever-living-robots-that-can-reproduce/"
+    ampWebUrl: "https://scitechdaily.com/xenobots-scientists-build-the-first-ever-living-robots-that-can-reproduce/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/xenobots-scientists-build-the-first-ever-living-robots-that-can-reproduce/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
+    images:
+      - url: "https://scitechdaily.com/images/AI-Designed-Xenobot-777x486.jpg"
+        width: 777
+        height: 486
+        isCached: true
   - title: "Team builds first living robots that can reproduce"
     excerpt: "Scientists have discovered a new form of biological reproduction -- and created self-replicating living robots. Made from frog cells, these computer-designed organisms gather single cells inside a Pac-Man-shaped 'mouth' -- and release Xenobot 'babies' that look and move like themselves."
     publishedDateTime: 2021-11-30T00:43:00Z
@@ -40,6 +56,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Team builds first living robots that can reproduce (w/video)"
+    excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication - promising for regenerative medicine."
+    publishedDateTime: 2021-11-30T07:04:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59257.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
 
 secured: "LsOFXaevgZscXBC4YKebHzBw1VwHaOH5Sr5/cmbWs+ieUTtFfBSQ+zqGNMXihp68KyMewpiDRj3bGaPuyvlopHduztsF3unoQX1t1m6yfDyxXSiBjO2YhcssRkIQITxJIYz9uPxxfxUc4ksREgEFTxn0C208RtsU6m/GHyfCBHBEAU3MI+P+/zKpMzOTdC+XdqvzCGDzsId8x+hwflJ2xYJBV0VvmrK5gYbBBru0qslBOKZK6Nz1RUCw61WCiZH7Po8F3+q08/AR2/3JiMe18QwRtjYmcYc8oprt6pfNnPb4v/uHVYsVF6iIVmuq5m8c4ozzgry5Mfr2f60uAzlHIZsYejY8Ga+Zm0zOVHQqRKA=;lXmjLlmbnSjHnhbOcmiGLQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nasas-deep-learning-ai-discovers-30
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets"
 type: article
 quality: 66
-heat: 77
+heat: 76
 published: true
 
 provider:
