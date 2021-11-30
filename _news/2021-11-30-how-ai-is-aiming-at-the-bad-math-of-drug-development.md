@@ -36,7 +36,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 93
+    quality: 95
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe21626fcd21bd2b717a302%2F0x0.jpg"
         width: 1200
@@ -115,6 +115,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQHI8e9APN_vVQ/article-cover_image-shrink_720_1280/0/1638121054340?e=1643846400&v=beta&t=gXjkcGh886U9qPbehUpzAlECJnj4-QFU_v065kKheHE"
         width: 1279
         height: 720
+        isCached: true
+  - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2021-11-29T20:00:00Z
+    webUrl: "https://www.computerworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 54
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Deep Learning Market Technological Advancements, Evolving Industry Trends and Insights"
     excerpt: "Deep learning algorithms are being increasingly used in contact centers as the adoption of these algorithms help them in improving the first call resolution process reducing call durations curtailing total call volume and enhancing customer satisfaction thereby increasing their business"

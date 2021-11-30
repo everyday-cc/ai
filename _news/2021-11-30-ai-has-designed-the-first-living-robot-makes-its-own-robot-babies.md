@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Robots built from frog cells have unlocked the ability to self-replicate"
+    excerpt: "Robots such as these, capable of making offshoots of themselves, could be a future tool for science and medicine."
+    publishedDateTime: 2021-11-30T17:39:00Z
+    webUrl: "https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/"
+    ampWebUrl: "https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/xenobots-synthetic-life-form-reproduce/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 58
+    images:
+      - url: "https://www.popsci.com/uploads/2021/11/29/opener.jpg?auto=webp&width=720&crop=16:9,offset-x50"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "bxwwE8aCSd0kZERKgQlw3NH89VQcKU86KT2PZ2jdecbrz6vHj/h+41Hy0fortjoY5NWVXnORUG/dRNxaa7qKtgD/UiXSUxGmEmF6jIIakT3eQa8IO+BSz+m8ecOcYdQn76J/Io2NiBefvPtf5VRJNLd4Cy5VH6+6ABXJoCbxFzscmq5T8HuyxHproTdhl38i0hinmg5mta9oVb2cThteHxfg9BpaLbG15MLGdLpjcJ2jg4wLGbmWkiDzwzWUoK8z4xiHY5T+/3K0LyAb4J2+OExJHxZiMcQIa+ElMhPKLMrW76X7FPQDROJwq3eMAfGI3yblozo2M53fObTO6mXOKG0hFceGFHDodN67GchdKxk=;xVyyIhCtcsvxnONZetgm5A=="
 ---

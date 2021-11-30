@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscientist.com/article/2299252-living-robots-made-from
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2299252-living-robots-made-from-frog-cells-can-replicate-themselves-in-a-dish/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: New Scientist
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots built from frog cells have unlocked the ability to self-replicate"
+    excerpt: "Robots such as these, capable of making offshoots of themselves, could be a future tool for science and medicine."
+    publishedDateTime: 2021-11-30T17:39:00Z
+    webUrl: "https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/"
+    ampWebUrl: "https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/xenobots-synthetic-life-form-reproduce/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 58
+    images:
+      - url: "https://www.popsci.com/uploads/2021/11/29/opener.jpg?auto=webp&width=720&crop=16:9,offset-x50"
+        width: 720
+        height: 405
+        isCached: true
   - title: "AI has designed the first living robot, makes its own robot babies"
     excerpt: "These swarms of super-small 'xenobots' can self-replicate, the first time reproduction has been seen in multicellular organisms."
     publishedDateTime: 2021-11-30T03:11:00Z

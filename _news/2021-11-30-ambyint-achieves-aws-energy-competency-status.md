@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Ambyint Achieves AWS Energy Competency Status"
-excerpt: "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and"
-publishedDateTime: 2021-11-30T14:43:00Z
-originalUrl: "https://www.lelezard.com/en/news-20132271.html"
-webUrl: "https://www.lelezard.com/en/news-20132271.html"
+excerpt: "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services ( News - Alert) (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence."
+publishedDateTime: 2021-11-30T14:40:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ambyint-achieves-aws-energy-competency-status-/2021/11/30/9501649.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ambyint-achieves-aws-energy-competency-status-/2021/11/30/9501649.htm"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "AWS Launches the AWS Energy Competency Program to Target the Energy Industry"
@@ -49,6 +43,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "Kj38Yk0cdY74tBoRJqXhMYFzEi3PdJ6MMnGUAvPe8VqW2XojGJTV6p9y/RkQBxgEhjgpU/0kkiYJzf2BksaaIqP+tYjzGjcwB4NU28UrEtyf4UQrYB8b1BRQN9z3tXFtpvUHrx5XHtRWGuA4nrGUzVXw6/Atjd3x+Kyh707rfGVFiMXjAxMR7nvoH+oEfl5Hy3Ce4I7HEDi6fH7R6fAujHpX1UmbqZF9f3wCW9BOwZ3TtcScfp79A3/998vFVlLV6jvF4PkPTlfjDfDXZK5JzG3vrQDv2OcWDsU6kY4k3+ZII3QS692jG87sN+d6QnskbUu7OTv9bxzNWPiS7+t5zRLxB2I59iafpKyz9rhqhUU=;Dng+4J0OCc40CJJF9aHz0w=="
+secured: "AKXsfwr6dQ2HtDIVH3FXawZgosXzSMnwfzMiGxjrh/AlTfLtyPELktgVddhJPmyGaVh0nLEpJuyAlPJ44f1JKy7MldG59xOxpa3lhoVRaxDASN+Oe/1UhCtUrfNmW1JbDAp59xddEFznEXruqhZfzDt5zDVw8aZlfeQ7DwoJyOKUA/NACDTmeT5BCsg3CwDx3qh5m9PIQrcbLnb4/f9rM9KQDf8pUk3AERWSjt8Hwjlx3O/RnQzqYVdQMoh0YjiAJ6lMciqq9WAgQ8Ob83OMZKjKq391hh27743h9feO6z5KExhcb3bIEYd6TlXs75QOvFtFnK3PRizfhKuWD2gOSJx33w/FksWYN2Jjfm7T8dE=;6JkG8s3FsLNe7cjFd1nDhQ=="
 ---
 

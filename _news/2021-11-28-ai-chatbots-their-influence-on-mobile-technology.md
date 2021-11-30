@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-
 cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 520
     isCached: true
+
+related:
+  - title: "2022 is set to transform chatbots with the best five natural language processing trends"
+    excerpt: "Top five natural language processing trends to look out for in 2022 by business owners to implement in chatbots for customer service. NLP trends should be observed carefully to be advanced with the trends of NLP in 2022."
+    publishedDateTime: 2021-11-28T12:30:00Z
+    webUrl: "https://www.analyticsinsight.net/5-natural-language-processing-trends-to-look-forward-in-2022/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 31
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Five-NLP-trends-to-look-forward-in-2022.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "FP+iwDTC9IFYgbBEZrybNP/+kz9wqREuSl2uPtm0Z8tISt9OnA7WrI3dRnvrWxKxup+V7n7d2xSUfY15sYH6lswOLU0G6vJgVtb8MhfNMqhLQI6Tn+93Z91C+I0DJAiX1VAnnwls7zs7aQNvUZqzFvv4B3jLRpJrAp5H0mIpl7GkLQ9CWEBiGrBnwWxchEJxozNVr9giZIJbbvkngPzX154UIABuLmuQznYZqjSSXOApl8VMXBbNnkn8iaSTSx3Z/kG24ie62qoZxWKXlpak/UdsHt/uj8Vd+EPFw7td3x2WilccZLdvqaWvWTYtz6AsEbM/iA+TldTG94efd9++raglrZL/nmWVsEtUnem46ROtFEHKwaEu3HL7DzdJytaRpMvxHIKyFycwemO2Xy2ps+wikaiC3w4nw0MJBtfPPm8ynRyLrMedUE7LmwgiDmQfce/UjZjw6rZieYTUqLDPGDZK2pDu5WH0kuKPtdAzBxUg4XD6wE3ZtRlG8XOUZPAYeA4wlpf9sXIeHZAfKfUsfA==;MivIyIo59Fyo6ooDk1dj1A=="
 ---

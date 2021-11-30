@@ -34,6 +34,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial Intelligence System Software Market Offers Greater Future Potential By 2026"
+    excerpt: "Portland United States The Artificial Intelligence System Software Market study offers a comprehensive analysis of the business models key strategies and respective market shares of some of the most prominent players in this landscape Along with an in depth commentary"
+    publishedDateTime: 2021-11-30T16:39:00Z
+    webUrl: "https://www.openpr.com/news/2480274/artificial-intelligence-system-software-market-offers-greater"
+    ampWebUrl: "https://www.openpr.com/amp/2480274/artificial-intelligence-system-software-market-offers-greater"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2480274/artificial-intelligence-system-software-market-offers-greater"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub30290979_g.jpg"
+        width: 800
+        height: 453
+        isCached: true
   - title: "Artificial Intelligence in Energy Market Size Forecasted to Reach Valuation of USD 20.83 Billion by 2028"
     excerpt: "The global Artificial Intelligence in energy market is expected to reach a valuation of USD 20.83 Billion in 2028, and register a revenue CAGR of 23.6% over the forecast period. The market revenue growth is attributed to growing need for obtaining operational efficiency to meet energy requirements."
     publishedDateTime: 2021-11-29T20:08:00Z

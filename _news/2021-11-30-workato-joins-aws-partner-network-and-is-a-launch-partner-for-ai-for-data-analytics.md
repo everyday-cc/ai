@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-30T14:16:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501580.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501580.htm"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 related:
   - title: "S&P Global Market Intelligence launches Artificial Intelligence-enabled Document Analytics functionality on S&P Capital IQ Pro platform"

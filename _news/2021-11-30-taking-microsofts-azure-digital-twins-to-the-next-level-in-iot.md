@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches fully managed Azure Load Testing service"
+    excerpt: "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance."
+    publishedDateTime: 2021-11-26T23:31:00Z
+    webUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/"
+    ampWebUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Hisar School and Microsoft Turkey deliver artificial intelligence education"
     excerpt: "Turkish education provider Hisar School and Microsoft Turkey are providing students with education in artificial intelligence (AI). As part of this, students use Azure Stack Edge Pro to create an AI-based application that improves early diagnosis of Alzheimer's disease."
     publishedDateTime: 2021-11-29T12:12:00Z

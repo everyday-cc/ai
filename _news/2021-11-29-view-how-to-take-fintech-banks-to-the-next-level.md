@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-f
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Tenet Fintech Addresses Recent Trading Volatility"
+    excerpt: "November 30, 2021) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business Hub™, today confirmed that the Company is not aware of any undisclosed material event or events affecting its business operations that might be responsible for the recent trading volatility in its common shares."
+    publishedDateTime: 2021-11-30T18:36:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/11/30/tenet-fintech-addresses-recent-trading-volatility"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
 
 secured: "ReRpvNYkmydTHAsgyVWscKR9ddlo+3+vAQKB7XUUVje/U0CQOeuQLhnvMhT9ZrswVQo1p4ZKBG/JcrChBwdsB38AodCojvsO+qqznv/yFXudGBHgla4OLhOSgicWqUSb8ko6YKsqEk+sq6A8dKF3J+8X7rNMgnfjKH59rP2lXqMLn2XLkVkDyFjwYw4/Ip8ojDO0DrZOkNLUYq1rPi1KT63UgeTCGORZI1Zu1enZ98EMjgHHjCBnBK4Q4VVfjIDzBufun/jnyCDUPp5lMw4NADaaPffqsElT9DdhzTS9u7zKG32KuKUa2xvGaY9oo4aRS2x73QNvQwqIV/6O942+CUqtpKGElVekwXMh0nUdnGAjXHQmFuVL4H4Clatys3K2fdmSyfNn/eXJ4F/bgHAGU9gwUFaubJCyj9LtZRDjghBqRjWg2VHv0xek+uCvPxzCFr/q0gYWplxMR+qGWKOcVxBvRvonCcGoa0FpyL84QkDg+wNbVhk1NE6sj1DHsdHTG2TKoq5PjlvuhosmfLbuyA==;ED8uaZDlpPvGomXOeEEpkw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsof
 webUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: technologyrecord.com
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches fully managed Azure Load Testing service"
+    excerpt: "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance."
+    publishedDateTime: 2021-11-26T23:31:00Z
+    webUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/"
+    ampWebUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Taking Microsoft’s Azure Digital Twins to the next level in IoT"
     excerpt: "As countless IoT applications track live systems, real-time analytics plays an essential role in identifying problems or finding opportunities and then responding fast enough to make a difference. How can digital twins create leverage for implementing real-time analytics in IoT?"
     publishedDateTime: 2021-11-30T13:04:00Z

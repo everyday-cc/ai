@@ -43,6 +43,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Xenobots, 'living robots', are now able to reproduce"
+    excerpt: "American scientists who created the Xenobots, the first living robots, from frog embryo cells reported Monday that they can now reproduce. They explained the process they observed, the robots are able to find individual cells,"
+    publishedDateTime: 2021-11-30T18:26:00Z
+    webUrl: "https://www.entrepreneur.com/article/399918"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638295831-xeno3-090409.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "'Never been observed': In a first, scientists create self-replicating living robots | Details"
     excerpt: "The scientists created Xenobots by scraping living stem cells from frog embryos And with the help of artificial intelligence the researchers then tested billions of body shapes to make the Xenobots mo"
     publishedDateTime: 2021-11-30T10:38:00Z
@@ -74,6 +88,22 @@ related:
       - url: "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5jby51a1xcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMVxcXC8zMDE1MTkyMVxcXC9Sb2JvdHMucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP2lkPTBhODk3NjFkMGEzYzZmNTFmN2Q2XCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzY2NkMzdmMmFiOGU4OTFmMDNkZGQ5OGVhMjQyNTg3NmMyNGE0ODUifQ==/robots.png"
         width: 647
         height: 340
+        isCached: true
+  - title: "Scientists made tiny xenobots out of frog cells. Now they say those robots can reproduce."
+    excerpt: "Using artificial intelligence, the xenobots were able to replicate themselves using a process not seen in humans or any other animals."
+    publishedDateTime: 2021-11-30T15:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/11/30/living-robots-reproduce-artificial-intelligence/8801610002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8801610002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8801610002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 50
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/11/21/USATODAY/usatsports/247WallSt.com-247WS-996564-Xenobots.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Team builds first living robots that can reproduce"
     excerpt: "Scientists have discovered a new form of biological reproduction -- and created self-replicating living robots. Made from frog cells, these computer-designed organisms gather single cells inside a Pac-Man-shaped 'mouth' -- and release Xenobot 'babies' that look and move like themselves."

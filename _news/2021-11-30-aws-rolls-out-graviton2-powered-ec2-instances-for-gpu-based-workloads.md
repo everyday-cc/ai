@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-pow
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/"
 type: article
 quality: 86
-heat: 107
+heat: 126
 published: true
 
 provider:
@@ -26,6 +26,15 @@ topics:
   - AWS AI
 
 related:
+  - title: "Habana Labs and AWS Provide Alternative to GPU in Machine-Learning Training Workloads"
+    excerpt: "AWS announced the availability of Amazon EC2 DL1 instances or virtual server services powered by Gaudi accelerators from Habana Labs. Founded in 2016 and acquired by Intel in 2019 for US$2 billion, Israel-based Habana Labs designs programmable Machine-Learning (ML) accelerators for model inference and training in the data center and cloud."
+    publishedDateTime: 2021-11-30T18:48:00Z
+    webUrl: "https://www.abiresearch.com/market-research/product/7780014-habana-labs-and-aws-provide-alternative-to/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 46
   - title: "Amazon EC2 G5g NVIDIA GPU-Accelerated Graviton-Based instances"
     excerpt: "The AWS team have confirmed the general availability of the new Amazon EC2 G5g instances providing up to 30 percent lower cost"
     publishedDateTime: 2021-11-30T12:23:00Z
@@ -54,6 +63,15 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
+    excerpt: "(AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips that help customers significantly improve the performance,"
+    publishedDateTime: 2021-11-30T18:43:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/11/30/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 34
 
 secured: "9QeHvps0M7CLJqDbsGXDnnOVLXLRH0ytN7HDsrgU9IY2O8ne03pGy/sVmg6lPQF79JRmJ80cTWprZn69f0eEsjJZ+1ZcXh6pe99ZuXhaz209sVOI+QdEL80trJnQTNdwxPxJ2CJQNPiIYg4razGEHWs4LJH22aae0uBOiTA7Y7hCSRiEt/JJ+ZeHSJtJNzLlwz8UzXWdYh6WDwz2RKRjUm74NW1l9zn9EGfoio98NH7AmJTNHhjCJ1mHU38aj9GS+pSXp4JpMA+fgR49Vudpluxa4g9tBklsQQeMfQuFNvQQ8BwRZAxWbUKH2XgOifuIxnUaGq4OyKG3FKhPLFY9AySVpNvxJK4BTCVwrRXwDSATY092YmJYnXoCBDYGx4KjIfeJ6dtc7oH35eEpBJEHjYMKB9NL08fNyYek+3vxXJuL+gmzAXcL9LxcxRQ1e1on1W3/EIPQuaih9rkh55GgDHQKRrS4+emz2IrfI9IK7fVOhuOB3GQ/r1O8ZPtTNZ4fA2o3LI/UeGouCWVHQ2U0Eg==;H+UNiKUDeIZewLYnWBb2OQ=="
 ---

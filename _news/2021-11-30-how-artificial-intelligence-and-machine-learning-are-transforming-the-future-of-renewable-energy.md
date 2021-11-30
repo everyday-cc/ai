@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificia
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
 type: article
-quality: 93
-heat: 173
+quality: 95
+heat: 185
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Autos
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe21626fcd21bd2b717a302%2F0x0.jpg"
@@ -120,6 +121,20 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2021-11-29T20:00:00Z
+    webUrl: "https://www.computerworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 54
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Deep Learning Market Technological Advancements, Evolving Industry Trends and Insights"
     excerpt: "Deep learning algorithms are being increasingly used in contact centers as the adoption of these algorithms help them in improving the first call resolution process reducing call durations curtailing total call volume and enhancing customer satisfaction thereby increasing their business"
     publishedDateTime: 2021-11-30T13:23:00Z
@@ -151,6 +166,6 @@ related:
         height: 401
         isCached: true
 
-secured: "HIkuXV8/dkhq+P1KXyzF3TpcsUAdOH+eOENcC+3gAja5e/36TD1qYEKFslsEpPSQj826MSWzeoblZzszZ0xLVjVfdnWzWxQpcTwbHAPdhtlJwIwwY+rjNQ9vzW5lAuExegHFh57/aSsbBrGlf4dVMf2DSohsOTCzErsjCJffsWOH7uO3s9smd6aqupYyZekeAnCiLOR6mSAM22oNG8MjIHdWnT3KkiUvNts16YQ9KabcVuulUn1JHZ2PE5WgCHs6lShb8FPOVhUHJ9Vtl7dy/afQzseABOBUOf+2dYJiCOcTibhdEeFDAtRAgQY8JNt7F4DPFZEqr1gZAtVfcC4YNUBbDCy7LZCt9cdm59IXoWI=;8PUQI0fV9JJpnqMlarsctg=="
+secured: "aT0v5VtwLsywA9cX5B4xdg2LlSVT3X8Y0AQ9FzIbIg2Rd7LdA+OqzH8Kg5IRIoPtMkc6PMdYu8kPesSHZK+ylVn+FyTfyG59LoQCa5vNt5I2vtaPZ/eCn4FFlJ2XYbWk8hiT2ePHVx84hPv1cHAKhxcaVZZ6Hj05PVj+CeZFK2roRFupCgIdk7V2D3xTO05R6QxiA2vP/lKnkpaAGnlfRbq3X4FyHEhVj7A3gIP4bffTHAQCJLP+OB6OKiCfeiqC6B+8BUOLD7sBidPz2f5GJ1BOzdn630+Th75iQrlJvsZneVTEfq3hpZbw7vEY/PoEeJ18YQxdM+psrTQtD03LJThSxcHa9e5UO5ApTrHzlteaxS8JYIGdmruZLmc+fid5jtflnMMcqAkHgsHj1IKWCW/C9eFcejZ77bjCuIK4KzW38DbW8908lIjkXiq6hKEsqCfj2THpYIoZWVMDVODwGyGs1Ywghh9bmEwFkuc89koRvt+Ar2BRs1nMVsH54uvPALEtUsdI+DwwAJDRey1Omg==;RpkJV6TF/6m5rhOp7XqqAA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/aws-launches-the-aws-energy-competency-p
 webUrl: "https://bestgamingpro.com/aws-launches-the-aws-energy-competency-program-to-target-the-energy-industry/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Ambyint Achieves AWS Energy Competency Status"
-    excerpt: "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and"
-    publishedDateTime: 2021-11-30T14:43:00Z
-    webUrl: "https://www.lelezard.com/en/news-20132271.html"
+    excerpt: "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services ( News - Alert) (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence."
+    publishedDateTime: 2021-11-30T14:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ambyint-achieves-aws-energy-competency-status-/2021/11/30/9501649.htm"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Aspen Technology Achieves AWS Energy Competency Status"
     excerpt: "Aspen Technology, Inc. (NASDAQ: AZPN), a global leader in asset optimization software, today announced that it has achieved Amazon Web Services, Inc. (AWS) Energy Competency status. This designation recognizes that AspenTech has demonstrated deep expertise helping customers leverage AWS cloud technology to transform complex systems and accelerate the transition to a sustainable energy future."
     publishedDateTime: 2021-11-30T14:11:00Z
@@ -49,6 +44,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "yjSNFgOURJFv16VyZ28bsgut5fnrE7z/eHMrgON+fRehsgOMtGrweE1gIn5qhHgiNKur6FKrvkYaur7UD7lY93WceF3U67Dd3bncdpDyPBeGqnTAk9MPB/nDSOFog6kg1XAGkIkEPmfPLXMvVQg3mwhkc6CQsbaMQjpywZDMNccRBDrxDWcPLXW+EDyryCUc86K8V06xZwDHKD9h+0LmI6+Dzx5ZYJTNHtAaAwkwBJKUf01ooPQkQXs0b4J/iitxwNC32f41AxwNv6FhNk/BOHw8Xft8Zp8IBS4gW8a3z1CemCGbU41rkVJ6Gd0p5cch542KrURabU266P1SdpDEDwrOAsWs7Rv3/BK53Xk5JPQ=;DC5OlDDNn+hHsgBo3SkC9Q=="
+secured: "E56IC2QTDMr83n6e9ufxLRoJhTFF78BTceEOluuA49X1CcSmmxtsSor44jZhsr1l2sI/38WFUtz0wrPcDpyF4h8HeFHbYMHHmYuPpm9Lb5QkSOMU5irdhprt8EUxTv+GFiB3YZ6g3raW6a3w7QjbKNvfVwX8loJ5qWL/htdKLfBNvVu0St5gMSMbs0WK61U8PPC5chKKlmKGAWbW/rrpexmPg0dU68pt0CpVGxv/BqdXxwUmiJv03pLAQrFdhbZ7y9IizzvUJV1ecCfDaKrGjDMFJ489OUopIFaDcwPvdT5HIIl6QkRmnM3xpYdGiGmiRUukWEh3vkCXBuCKSE7cvcUDSdZROyZhPmxiG95PUzoVVk6k+ySmFZYAXsj2qVyLsPMSo26JR8JC+Z1gDD8oxUjzCtbpB1TfAp4JFBcPqNyjmdK59w8kGkwhAi8IzvPq0NPItbOAoaZ9/plJfXTgcHubKAjFdNaLAg7GozWOj+750+FpDO1Wz9S4U+ugHyqMZ6gp7aDyOUtQmV73jJWIug==;BEO6uigDi1wEyiKgBRySwg=="
 ---
 

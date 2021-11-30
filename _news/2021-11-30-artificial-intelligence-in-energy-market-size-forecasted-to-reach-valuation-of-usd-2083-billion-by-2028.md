@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial Intelligence System Software Market Offers Greater Future Potential By 2026"
+    excerpt: "Portland United States The Artificial Intelligence System Software Market study offers a comprehensive analysis of the business models key strategies and respective market shares of some of the most prominent players in this landscape Along with an in depth commentary"
+    publishedDateTime: 2021-11-30T16:39:00Z
+    webUrl: "https://www.openpr.com/news/2480274/artificial-intelligence-system-software-market-offers-greater"
+    ampWebUrl: "https://www.openpr.com/amp/2480274/artificial-intelligence-system-software-market-offers-greater"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2480274/artificial-intelligence-system-software-market-offers-greater"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub30290979_g.jpg"
+        width: 800
+        height: 453
+        isCached: true
   - title: "News: Global AI software market to touch $62 billion in 2022: Gartner"
     excerpt: "As per the report the top five use cases for AI software spending in 2022 will be knowledge management virtual assistants autonomous vehicles digital workplace and crowdsourced data"
     publishedDateTime: 2021-11-29T03:32:00Z

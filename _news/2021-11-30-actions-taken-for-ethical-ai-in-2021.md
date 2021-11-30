@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021
 webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
 type: article
 quality: 54
-heat: 84
+heat: 85
 published: true
 
 provider:

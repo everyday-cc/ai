@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62
 webUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence System Software Market Offers Greater Future Potential By 2026"
+    excerpt: "Portland United States The Artificial Intelligence System Software Market study offers a comprehensive analysis of the business models key strategies and respective market shares of some of the most prominent players in this landscape Along with an in depth commentary"
+    publishedDateTime: 2021-11-30T16:39:00Z
+    webUrl: "https://www.openpr.com/news/2480274/artificial-intelligence-system-software-market-offers-greater"
+    ampWebUrl: "https://www.openpr.com/amp/2480274/artificial-intelligence-system-software-market-offers-greater"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2480274/artificial-intelligence-system-software-market-offers-greater"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub30290979_g.jpg"
+        width: 800
+        height: 453
+        isCached: true
   - title: "Artificial Intelligence in Energy Market Size Forecasted to Reach Valuation of USD 20.83 Billion by 2028"
     excerpt: "The global Artificial Intelligence in energy market is expected to reach a valuation of USD 20.83 Billion in 2028, and register a revenue CAGR of 23.6% over the forecast period. The market revenue growth is attributed to growing need for obtaining operational efficiency to meet energy requirements."
     publishedDateTime: 2021-11-29T20:08:00Z
@@ -70,6 +86,6 @@ related:
       domain: openpr.com
     quality: 20
 
-secured: "8LQpx9xXym7mTNkMoHFdaODYEN0XeS2QBsd1EdE8ymL6bjnAT89syYysn0cyZUCQgL6CpfvV99dNfJCaNutufogZuNu3Q/hsZrXaXXBp7tcwUoTMyy4yOSuwgzRQaFrTj5Xa+J3TWasmMN1ECAk/LqrSHIzSMngxcspCd5QAyTF3Euc+mMzw2LI/a3ker51P4TmAYVVmpORi4R2ZryYzMBq/3BJqCO7NSszDMhuTYHNU8GiPXT+ud+mIsx1L2RNfIVZD3ZXZsrSreR3cHSKOG0eEpvSH9vvbVW5HShO8gA92rxfNhIQzwME9zX+T8wfDM9Em8iwdu2znunTdppxZW0E+GhNUPvkGUjz/G8W3DOc=;U5BNyhZOqS8sY3MTNlpUnA=="
+secured: "Q/6hsXuKE093GOdiB8Vx3D0skC09dGBXfwHnDHHpdxZ5FtVZW7EYD2UHNiQyUIO+L+Y5UZCt0ScUVfntUnbQ7Z5NzX4XGZDed2Ls0r7GV0J99l4qhg0uGMFd5wp8yevl5pUPLxot52qN142Og5izNQ7jmTa9z/ElrRj1wMlfoakpUAOMCbyjcY/UPmZCAE+9u4Ln0AN0l1+B3mC9a7kfdDEhtzdd47qYmdobuViUVaOqo1aFB5owZ4B5aCmm7xnlwF21oiJQQQVU186z1LAf4lMhWBmE7+wOlvQ2kuNZ/tMd3n9CzKqBDA2LJ0NnzqhpXYUV/nOsEwVTEV5FWhR/Ok3r2bDHrvO77Wn3bQuZeGQEVi8J5BrQGslHq579wUx4bGDjjj5mcsTWGe+Dllu9zCQpYN07kNCFM/b9VpMGXCaP3YrHttg5DZnnM37rqVGEMp2akNksz9VU6cL7T2LWahjGjeb05VGmAZlQaAaMWSpugVHNSl0dBXHpnMwpLcvBNq1CRXvHXb9aV2/Nvu4VeA==;06aLQCCqCvAP06XmNOkqSw=="
 ---
 

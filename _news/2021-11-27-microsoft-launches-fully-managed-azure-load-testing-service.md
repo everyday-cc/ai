@@ -1,0 +1,65 @@
+---
+category: news
+title: "Microsoft launches fully managed Azure Load Testing service"
+excerpt: "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance."
+publishedDateTime: 2021-11-26T23:31:00Z
+originalUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/"
+webUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/"
+ampWebUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
+type: article
+quality: 104
+heat: 124
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "Hisar School and Microsoft Turkey deliver artificial intelligence education"
+    excerpt: "Turkish education provider Hisar School and Microsoft Turkey are providing students with education in artificial intelligence (AI). As part of this, students use Azure Stack Edge Pro to create an AI-based application that improves early diagnosis of Alzheimer's disease."
+    publishedDateTime: 2021-11-29T12:12:00Z
+    webUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 69
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10619/img-Hisar-School_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
+  - title: "Taking Microsoft’s Azure Digital Twins to the next level in IoT"
+    excerpt: "As countless IoT applications track live systems, real-time analytics plays an essential role in identifying problems or finding opportunities and then responding fast enough to make a difference. How can digital twins create leverage for implementing real-time analytics in IoT?"
+    publishedDateTime: 2021-11-30T13:04:00Z
+    webUrl: "https://iottechnews.com/news/2021/nov/30/taking-microsoft-azure-digital-twins-to-next-level-in-iot/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 54
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/11/scaleout-software-azure-digital-twins-iot-internet-of-things.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
+
+secured: "hIZAyq+vxEwqZlyWwRxbosXKpHmt2Z/SDFEG78C3UpRw6r8zHEVCq7eAbF90HNn9cQLSihh6A2YJjbz64IMflJzgnXLnXDNE8ZCYgyil11bR00zalqC7lKLOCtgoH3CF0FEOOuxNrn6KCYavd4AISYLRpA840hqsLQv50wDAiqvHIX74aGoWQViGKvIeGKtTK/AiAI9RLr+dYYeG81K3QTlI981V8/NQTIbwrU1N66ke51BAs51n44rfnaUQex1xgl6xoqzNN5aSLAiIgrKYlAm+/3+jvpHI6YAMs1bQZL6XKmoEJwqmaT8q07J5EHZfzkF/o1erjrr11s+pt/3P3/1lozl2ujOtSr6FpgXHqvU=;JNH0c9hHnJycWfnYgpE4dg=="
+---
+

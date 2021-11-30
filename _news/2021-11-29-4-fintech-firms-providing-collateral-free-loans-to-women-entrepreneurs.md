@@ -101,6 +101,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Tenet Fintech Addresses Recent Trading Volatility"
+    excerpt: "November 30, 2021) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business Hub™, today confirmed that the Company is not aware of any undisclosed material event or events affecting its business operations that might be responsible for the recent trading volatility in its common shares."
+    publishedDateTime: 2021-11-30T18:36:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/11/30/tenet-fintech-addresses-recent-trading-volatility"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
 
 secured: "Zy8m0xjMwkO8MqDwxadVmJ6EdgvINzN66YDLdG1yflsz6r9QEN7T3CTxLiRhj1spD7zOKb87fBUcuIcZvuueVabTMCmSaCp3oy4KrsDHEl5ugpGKYIjlbPYPBYlDZxq7IUrZPVMuZYLdSr2+m12XjiAce6BUR9u97peXWypVxmGCZnOTpJXOTPPpIl2rRhzZ0AwAYUa99i6CLQFvMxQD9reWI4lQ+jxYdQFZE8lEXCNDkFA57dSKRSBCtos+w009XXnWam/4ianxn0S2qbktmwU/UXC00FBgw9rk0BuukfsUcHs1kxnC3RM/sBjTJnx3vPIWmzTE6T9qQ1jTJCW3kWuY88PH79BL3r8VEV3tNX7sYETOFnsCnjO2TQlK7ZxkcwEXmTUVqxzIZir0Sd/A3nw9gEtiaCAXFCfF/UKiCJelGKahyuUpcc0h0B19nJhENsSBntF6q7kPHeOPKEmTbaPD9OQtfpxhHvZFIUH3HOEwFONra3S7rDQ1seBkN0Jn0LleNsD9QKcy2X8kUvJ5SQ==;ftNI1urekcX7kXXSL4rqDA=="
 ---

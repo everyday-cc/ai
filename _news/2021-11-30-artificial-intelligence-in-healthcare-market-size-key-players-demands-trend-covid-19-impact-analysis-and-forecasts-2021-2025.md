@@ -38,6 +38,22 @@ related:
         width: 777
         height: 583
         isCached: true
+  - title: "COVID-19 Impact on Artificial Intelligence System Market| Insights, Trends and Growth 2021 To 2026"
+    excerpt: "Portland United States The Artificial Intelligence System Market study offers a comprehensive analysis of the business models key strategies and respective market shares of some of the most prominent players in this landscape Along with an in depth commentary on"
+    publishedDateTime: 2021-11-30T16:35:00Z
+    webUrl: "https://www.openpr.com/news/2480268/covid-19-impact-on-artificial-intelligence-system-market"
+    ampWebUrl: "https://www.openpr.com/amp/2480268/covid-19-impact-on-artificial-intelligence-system-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2480268/covid-19-impact-on-artificial-intelligence-system-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub30852857_g.jpg"
+        width: 800
+        height: 371
+        isCached: true
 
 secured: "tnd46IvHBPyHe8Moo9bzFWuSgXBFVAiFa/IxZWLfnvGU5Exot8ypqQSVijoLA1+krhv7PBIo+677fq5u2vVDZxf6EnH5NLL2gj4aS9ihaKslTHKD+/swJ0Sc0QfGcMN9SYdqu0kRyyAbSoJ1E4BfR8rxtF4TCrXSkt5+7HkAuFWPB+hbVARGztKsa/z8vu+372Ny7bBEYkkacaaNHa1+ESYtvbSMicLOOZ5yxwlk7wgj4Erv11gVHPnB54IfyPxKyF5jdENOHI9Vbq1INejV5T/QWYNrkMOq/Aq0d3dc064/YWrv0YWcTThKlcH3rDXbm9NPRsMk0OVOt6EpyROkHW+CpVxujf1rtIsii4ztsBw=;grMlGeDDcxPBQYjhKjOKLg=="
 ---

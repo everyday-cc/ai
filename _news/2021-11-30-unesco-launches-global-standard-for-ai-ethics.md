@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-sta
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "UNESCO member states adopt first global agreement on ethics of AI"
-    excerpt: "The first ever global standard on the ethics of artificial intelligence (AI) was presented by Audrey Azoulay, director-general of the United Nations Educational, Scientific and Cultural Organization (UNESCO),"
-    publishedDateTime: 2021-11-26T02:07:00Z
-    webUrl: "https://www.business-standard.com/article/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-ani/unesco-member-states-adopt-first-global-agreement-on-ai-ethics-121112600135_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-10/12/full/1507818130-0123.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Unesco member states adopt global artificial intelligence ethics"
     excerpt: "The global agreement, adopted by Unesco’s 193 member states, which includes SA, addresses the increased gender and ethnic bias posed by AI."
     publishedDateTime: 2021-11-26T10:30:00Z
@@ -79,6 +63,22 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "KATE THOMPSON DAVY: Unesco’s global standard on AI ethics provides smart blueprint for laws"
+    excerpt: "Rather, the good governance of AI was given a huge boost in the form of the first global standard on AI ethics. A Unesco project presented to the world by director-general Audrey Azoulay on November 25,"
+    publishedDateTime: 2021-11-30T17:08:00Z
+    webUrl: "https://www.businesslive.co.za/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 64
+    images:
+      - url: "https://lh3.googleusercontent.com/CE9YAGTU_fFacfQpbYn6FXWVmXjCv8OpSl-fgc1nAI0sEsK2UX_BMKTO2kQRyB9pFh2K4-KcTuijJMXukJZQOJOyY5CE2Y1qNsqTaQM_q4rltA=s750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
     publishedDateTime: 2021-11-26T22:18:00Z
@@ -94,20 +94,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/11/unesco.jpg"
         width: 680
         height: 680
-        isCached: true
-  - title: "UNESCO member states adopt first global agreement on AI ethics"
-    excerpt: "The first ever global standard on the ethics of artificial intelligence AI was presented by Audrey Azoulay director-general of the United Nations Educational"
-    publishedDateTime: 2021-11-26T02:00:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271808196/unesco-member-states-adopt-first-global-agreement-on-ai-ethics"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1637892175.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "UNESCO Members Adopt First Global AI Ethics Agreement 'To Benefit Humanity'"
     excerpt: "\"We're at a critical juncture in history,\" said Ethics in Tech founder Vahid Razavi. \"We need as humans to come together and decide what is the best course of action to take with these technologies before they surpass us in their abilities."
